@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>English Quiz</title>
+    <style>
+        .correct {
+            color: green;
+        }
+        .incorrect {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>English Quiz</h1>
+    <div id="quiz"></div>
+    <button id="submit">Submit</button>
+    <div id="results"></div>
+
+    <script>
+        const questions = [
+            // Vocabulary questions
+            { question: "What is the meaning of 'ion'?", answer: "An atom or molecule with a positive or negative electrical charge" },
+            { question: "What is the meaning of 'compound'?", answer: "A substance formed by combining two or more elements chemically" },
+            { question: "What is the meaning of 'erode'?", answer: "To gradually wear away or be displaced by wind, water, or other forces" },
+            { question: "What is the meaning of 'fertilizer'?", answer: "Material added to soil to increase its fertility and promote plant growth" },
+            { question: "What is the meaning of 'detergent'?", answer: "A cleansing agent, especially one used for household or industrial cleaning" },
+            { question: "What is the meaning of 'runoff'?", answer: "The draining away of water from the surface of an area" },
+            { question: "What is the meaning of 'cycle'?", answer: "A series of events that are regularly repeated in the same order" },
+            { question: "What is the meaning of 'neutral'?", answer: "Having neither a positive nor negative charge" },
+            { question: "What is the meaning of 'dissolve'?", answer: "To become incorporated into a liquid so as to form a solution" },
+            { question: "What is the meaning of 'atmosphere'?", answer: "The gases surrounding the Earth or another planet" },
+            { question: "What is the meaning of 'deicing'?", answer: "The removal of ice, as from aircraft, roads, and sidewalks" },
+            { question: "What is the meaning of 'zooplankton'?", answer: "The small floating or weakly swimming animal life of a body of water" },
+            { question: "What is the meaning of 'algal bloom'?", answer: "A rapid increase in the population of algae in an aquatic system" },
+            { question: "What is the meaning of 'aquifer'?", answer: "An underground layer of permeable rock that yields groundwater" },
+            { question: "What is the meaning of 'leach'?", answer: "To remove soluble or dispersible substances by percolation" },
+
+            // Comprehension questions
+            { question: "What are the main salt ions mentioned in the video?", answer: "sodium, potassium, calcium, magnesium, chloride, bicarbonate, and sulfate" },
+            { question: "How do humans impact the salt cycle?", answer: "By moving salts around the cycle faster and at higher quantities than natural processes" },
+            { question: "What are some examples of human activities that contribute to disrupting the salt cycle?", answer: "Mining, fertilizer use, detergent use, road salt" },
+            { question: "Why is the disrupted salt cycle a concern for soil and water?", answer: "Salts blown by wind can wreck soil fertility, and increased chloride levels in freshwater can lead to algal blooms" },
+            { question: "What are some potential health impacts of the disrupted salt cycle?", answer: "Increased salt in drinking water can lead to high blood pressure, saltier groundwater can cause radioactive elements to leach into aquifers" },
+            { question: "What is one of the major sources of salt runoff mentioned in the video?", answer: "Road deicing (road salt)" },
+            { question: "What is an example of a negative consequence of the disrupted salt cycle mentioned in the video?", answer: "The drying up of the Aral Sea in Kazakhstan, leading to salt being carried by wind and impacting neighboring countries" },
+            { question: "What does the video suggest is needed to address the disrupted salt cycle?", answer: "A clearer understanding of human effects on salt transport, effective limits on salt use, and more information from the global south" },
+            { question: "According to the video, how much salt runoff from road deicing alone enters the freshwater system in the United States?", answer: "37.8 megatonnes" },
+            { question: "What is one potential solution mentioned in the video for addressing the disrupted salt cycle?", answer: "Understanding the impacts and setting effective limits on salt use" }
+        ];
+
+        const numQuestions = 10;
+        const quizContainer = document.getElementById("quiz");
+        const resultsContainer = document.getElementById("results");
+        const submitButton = document.getElementById("submit");
+
+        function buildQuiz() {
+            const quizQuestions = getRandomQuestions(questions, numQuestions);
+            const output = [];
+
+            quizQuestions.forEach((question, index) => {
+                const questionElement = document.createElement("div");
+                questionElement.innerHTML = `<strong>${index + 1}. ${question.question}</strong>`;
+
+                const answerInput = document.createElement("input");
+                answerInput.type = "text";
+                answerInput.id = `question-${index}`;
+
+                questionElement.appendChild(answerInput);
+                output.push(questionElement);
+            });
+
+            quizContainer.innerHTML = "";
+            output.forEach(element => quizContainer.appendChild(element));
+        }
+
+        function getRandomQuestions(questions, numQuestions) {
+            const shuffledQuestions = questions.sort(() => 0.5 - Math.random());
+            return shuffledQuestions.slice(0, numQuestions);
+        }
+
+        function checkAnswers() {
+            const inputs = document.querySelectorAll("#quiz input");
+            const results = [];
+
+            inputs.forEach((input, index) => {
+                const answer = input.value.trim().toLowerCase();
+                const correctAnswer = questions[index].answer.toLowerCase();
+                const isCorrect = answer === correctAnswer;
+
+                const resultElement = document.createElement("div");
+                resultElement.innerHTML = `<strong>${index + 1}. ${questions[index].question}</strong>`;
+
+                const answerElement = document.createElement("p");
+                answerElement.textContent = `Your answer: ${answer}`;
+                answerElement.classList.add(isCorrect ? "correct" : "incorrect");
+
+                const correctAnswerElement = document.createElement("p");
+                correctAnswerElement.textContent = `Correct answer: ${correctAnswer}`;
+
+                if (!isCorrect) {
+                    const tipElement = document.createElement("p");
+                    tipElement.textContent = `Tip: ${questions[index].tip || "Please review the material and try again."}`;
+                    resultElement.appendChild(tipElement);
+                }
+
+                resultElement.appendChild(answerElement);
+                resultElement.appendChild(correctAnswerElement);
+                results.push(resultElement);
+            });
+
+            resultsContainer.innerHTML = "";
+            results.forEach(result => resultsContainer.appendChild(result));
+        }
+
+        buildQuiz();
+
+        submitButton.addEventListener("click", checkAnswers);
+    </script>
+</body>
+</html>
