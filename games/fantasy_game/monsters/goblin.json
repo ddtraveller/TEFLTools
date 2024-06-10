@@ -1,0 +1,41 @@
+{
+  "name": "Goblin",
+  "level": 1,
+  "health": 50,
+  "max_health": 50,
+  "attack": 10,
+  "defense": 5,
+  "speed": 2,
+  "experience_points": 25,
+  "abilities": [
+    {
+      "name": "Slash",
+      "damage": 15,
+      "accuracy": 80,
+      "cooldown": 1
+    },
+    {
+      "name": "Poison Dart",
+      "damage": 10,
+      "accuracy": 70,
+      "cooldown": 2
+    }
+  ],
+  "loot": [
+    {
+      "item": "Gold",
+      "quantity": 10,
+      "drop_chance": 100
+    },
+    {
+      "item": "Health Potion",
+      "quantity": 1,
+      "drop_chance": 50
+    }
+  ],
+  "dialogue": [
+    "Grr... Human, you dare cross my path?",
+    "I'll make quick work of you!",
+    "Your gold will be mine!"
+  ]
+}
