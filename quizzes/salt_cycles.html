@@ -20,33 +20,33 @@
     <script>
         const questions = [
             // Vocabulary questions
-            { question: "What is the meaning of 'ion'?", answer: "An atom or molecule with a positive or negative electrical charge" },
-            { question: "What is the meaning of 'compound'?", answer: "A substance formed by combining two or more elements chemically" },
-            { question: "What is the meaning of 'erode'?", answer: "To gradually wear away or be displaced by wind, water, or other forces" },
-            { question: "What is the meaning of 'fertilizer'?", answer: "Material added to soil to increase its fertility and promote plant growth" },
-            { question: "What is the meaning of 'detergent'?", answer: "A cleansing agent, especially one used for household or industrial cleaning" },
-            { question: "What is the meaning of 'runoff'?", answer: "The draining away of water from the surface of an area" },
-            { question: "What is the meaning of 'cycle'?", answer: "A series of events that are regularly repeated in the same order" },
-            { question: "What is the meaning of 'neutral'?", answer: "Having neither a positive nor negative charge" },
-            { question: "What is the meaning of 'dissolve'?", answer: "To become incorporated into a liquid so as to form a solution" },
-            { question: "What is the meaning of 'atmosphere'?", answer: "The gases surrounding the Earth or another planet" },
-            { question: "What is the meaning of 'deicing'?", answer: "The removal of ice, as from aircraft, roads, and sidewalks" },
-            { question: "What is the meaning of 'zooplankton'?", answer: "The small floating or weakly swimming animal life of a body of water" },
-            { question: "What is the meaning of 'algal bloom'?", answer: "A rapid increase in the population of algae in an aquatic system" },
-            { question: "What is the meaning of 'aquifer'?", answer: "An underground layer of permeable rock that yields groundwater" },
-            { question: "What is the meaning of 'leach'?", answer: "To remove soluble or dispersible substances by percolation" },
-
+            { question: "What is the meaning of 'ion'?", answer: "An atom or molecule with a positive or negative electrical charge", tip: "An ion is an atom or molecule that has gained or lost one or more electrons, giving it a positive or negative electrical charge." },
+            { question: "What is the meaning of 'compound'?", answer: "A substance formed by combining two or more elements chemically", tip: "A compound is a substance made up of two or more different elements that are chemically bonded together." },
+            { question: "What is the meaning of 'erode'?", answer: "To gradually wear away or be displaced by wind, water, or other forces", tip: "Erode means the gradual wearing away or displacement of materials like rocks or soil by natural forces like wind, water, or ice." },
+            { question: "What is the meaning of 'fertilizer'?", answer: "Material added to soil to increase its fertility and promote plant growth", tip: "Fertilizers are substances added to soil to provide essential nutrients that help plants grow and increase crop yields." },
+            { question: "What is the meaning of 'detergent'?", answer: "A cleansing agent, especially one used for household or industrial cleaning", tip: "Detergents are compounds used for cleaning that help remove dirt, grease, and other unwanted materials." },
+            { question: "What is the meaning of 'runoff'?", answer: "The draining away of water from the surface of an area", tip: "Runoff refers to the water that flows off of surfaces like land or roads and enters bodies of water like rivers or lakes." },
+            { question: "What is the meaning of 'cycle'?", answer: "A series of events that are regularly repeated in the same order", tip: "A cycle is a sequence of events or processes that repeats over and over again in the same order." },
+            { question: "What is the meaning of 'neutral'?", answer: "Having neither a positive nor negative charge", tip: "Something that is neutral has no electrical charge, meaning it doesn't have an excess of positively or negatively charged particles." },
+            { question: "What is the meaning of 'dissolve'?", answer: "To become incorporated into a liquid so as to form a solution", tip: "Dissolve means for a solid substance to become incorporated into a liquid, forming a homogeneous solution." },
+            { question: "What is the meaning of 'atmosphere'?", answer: "The gases surrounding the Earth or another planet", tip: "The atmosphere is the layer of gases surrounding a planet like Earth that is retained by the planet's gravitational force." },
+            { question: "What is the meaning of 'deicing'?", answer: "The removal of ice, as from aircraft, roads, and sidewalks", tip: "Deicing refers to the process of removing ice buildup from surfaces like aircraft, roads, or sidewalks, often using chemical compounds like salt." },
+            { question: "What is the meaning of 'zooplankton'?", answer: "The small floating or weakly swimming animal life of a body of water", tip: "Zooplankton are tiny aquatic animals that drift or weakly swim in bodies of water like oceans, lakes, or rivers." },
+            { question: "What is the meaning of 'algal bloom'?", answer: "A rapid increase in the population of algae in an aquatic system", tip: "An algal bloom is a rapid and excessive growth of algae in a body of water, often caused by an excess of nutrients like fertilizers." },
+            { question: "What is the meaning of 'aquifer'?", answer: "An underground layer of permeable rock that yields groundwater", tip: "An aquifer is a underground layer of porous rock or sediment that can hold and transmit groundwater." },
+            { question: "What is the meaning of 'leach'?", answer: "To remove soluble or dispersible substances by percolation", tip: "Leach means to extract or remove a soluble or dispersible substance from a solid material by allowing a liquid to slowly pass through it." },
+        
             // Comprehension questions
-            { question: "What are the main salt ions mentioned in the video?", answer: "sodium, potassium, calcium, magnesium, chloride, bicarbonate, and sulfate" },
-            { question: "How do humans impact the salt cycle?", answer: "By moving salts around the cycle faster and at higher quantities than natural processes" },
-            { question: "What are some examples of human activities that contribute to disrupting the salt cycle?", answer: "Mining, fertilizer use, detergent use, road salt" },
-            { question: "Why is the disrupted salt cycle a concern for soil and water?", answer: "Salts blown by wind can wreck soil fertility, and increased chloride levels in freshwater can lead to algal blooms" },
-            { question: "What are some potential health impacts of the disrupted salt cycle?", answer: "Increased salt in drinking water can lead to high blood pressure, saltier groundwater can cause radioactive elements to leach into aquifers" },
-            { question: "What is one of the major sources of salt runoff mentioned in the video?", answer: "Road deicing (road salt)" },
-            { question: "What is an example of a negative consequence of the disrupted salt cycle mentioned in the video?", answer: "The drying up of the Aral Sea in Kazakhstan, leading to salt being carried by wind and impacting neighboring countries" },
-            { question: "What does the video suggest is needed to address the disrupted salt cycle?", answer: "A clearer understanding of human effects on salt transport, effective limits on salt use, and more information from the global south" },
-            { question: "According to the video, how much salt runoff from road deicing alone enters the freshwater system in the United States?", answer: "37.8 megatonnes" },
-            { question: "What is one potential solution mentioned in the video for addressing the disrupted salt cycle?", answer: "Understanding the impacts and setting effective limits on salt use" }
+            { question: "What are the main salt ions mentioned in the video?", answer: "sodium, potassium, calcium, magnesium, chloride, bicarbonate, and sulfate", tip: "The video specifically mentions these ions as the main players in the salt cycle." },
+            { question: "How do humans impact the salt cycle?", answer: "By moving salts around the cycle faster and at higher quantities than natural processes", tip: "According to the video, human activities are causing salts to move through the cycle at an accelerated rate and in larger quantities than natural processes alone." },
+            { question: "What are some examples of human activities that contribute to disrupting the salt cycle?", answer: "Mining, fertilizer use, detergent use, road salt", tip: "The video mentions these specific human activities as contributors to the disruption of the natural salt cycle." },
+            { question: "Why is the disrupted salt cycle a concern for soil and water?", answer: "Salts blown by wind can wreck soil fertility, and increased chloride levels in freshwater can lead to algal blooms", tip: "The video explains that wind-blown salts can negatively impact soil fertility, and high chloride levels in freshwater can cause algal blooms." },
+            { question: "What are some potential health impacts of the disrupted salt cycle?", answer: "Increased salt in drinking water can lead to high blood pressure, saltier groundwater can cause radioactive elements to leach into aquifers", tip: "According to the video, increased salt in drinking water can raise blood pressure, and saltier groundwater can cause radioactive elements to leach into aquifers used for drinking water." },
+            { question: "What is one of the major sources of salt runoff mentioned in the video?", answer: "Road deicing (road salt)", tip: "The video specifically calls out the use of road salt for deicing as a major contributor to salt runoff." },
+            { question: "What is an example of a negative consequence of the disrupted salt cycle mentioned in the video?", answer: "The drying up of the Aral Sea in Kazakhstan, leading to salt being carried by wind and impacting neighboring countries", tip: "The video uses the example of the drying up of the Aral Sea in Kazakhstan, which has led to wind-blown salt impacting neighboring countries." },
+            { question: "What does the video suggest is needed to address the disrupted salt cycle?", answer: "A clearer understanding of human effects on salt transport, effective limits on salt use, and more information from the global south", tip: "The video states that we need a better understanding of how human activities impact salt transport, effective limits on salt use, and more input from the global south." },
+            { question: "According to the video, how much salt runoff from road deicing alone enters the freshwater system in the United States?", answer: "37.8 megatonnes", tip: "The video provides the specific figure of 37.8 megatonnes of salt runoff from road deicing alone in the United States." },
+            { question: "What is one potential solution mentioned in the video for addressing the disrupted salt cycle?", answer: "Understanding the impacts and setting effective limits on salt use", tip: "The video suggests that understanding the impacts of human salt use and setting effective limits could help address the disruption of the salt cycle." }
         ];
 
         const numQuestions = 10;
