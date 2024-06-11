@@ -14,37 +14,26 @@ window_height = 600
 window = pygame.display.set_mode((window_width, window_height))
 pygame.display.set_caption("Ultima-like Game")
 
-# List of available icons in S3
-icon_files = [
-    "shaman.png", "goblin.png", "001-book.png", "001-knight.png", "001-wizard.png", "002-crown.png", "002-dragon.png",
-    "002-wizard.png", "003-dwarf.png", "003-elf.png", "003-sword.png", "004-elf.png",
-    "004-frog.png", "004-ufo.png", "005-potion.png", "005-robot.png", "005-witch.png",
-    "006-mermaid.png", "006-ogre.png", "006-wizard.png", "007-giant.png", "007-magic wand.png",
-    "007-superhero.png", "008-gnome.png", "008-magic mirror.png", "008-ninja.png", "009-chest.png",
-    "009-knight.png", "009-little red riding hood.png", "010-unicorn.png", "010-wolf.png",
-    "011-crystal ball.png", "011-gnome.png", "011-queen.png", "012-cauldron.png", "012-cowboy.png",
-    "012-king.png", "013-dragon.png", "013-genie.png", "013-princess.png", "014-fairy.png",
-    "014-prince.png", "014-shoe.png", "015-bigfoot.png", "015-frog prince.png", "016-fairy.png",
-    "016-king.png", "017-goblin.png", "017-robin hood.png", "018-oni.png", "018-pirate.png",
-    "019-faun.png", "019-goblin.png", "020-elf.png", "020-princess.png", "021-medusa.png",
-    "021-pig.png", "022-pirate.png", "022-tin man.png", "023-scarecrow.png", "023-vampire.png",
-    "024-cowardly lion.png", "024-krampus.png", "025-geisha.png", "025-pinocchio.png",
-    "026-godzilla.png", "026-puss in boots.png", "027-mad hatter.png", "027-werewolf.png",
-    "028-cyclops.png", "028-red-riding-hood.png", "029-haunted.png", "029-white rabbit.png",
-    "030-cyclops.png", "030-mermaid.png", "031-frog.png", "031-genie.png", "032-ogre.png",
-    "032-vampire.png", "033-minotaur.png", "033-unicorn.png", "034-dragon.png", "034-jackalope.png",
-    "035-loch-ness-monster.png", "035-phoenix.png", "036-poison.png", "036-spartan.png",
-    "037-witch.png", "038-pegasus.png", "039-princess-1.png", "040-grim-reaper.png",
-    "041-kraken.png", "042-frankenstein.png", "043-cerberus.png", "044-griffin.png",
-    "045-zombie.png", "046-samurai.png", "047-sphynx.png", "048-centaur.png", "049-leprechaun.png",
-    "050-angel.png"
-]
+# Load the list of available icons from the JSON file
+with open("icons/icon_files.json", "r") as f:
+    icon_files = json.load(f)
 
+# Load the list of available terrain icons from the JSON file
+with open("icons/terrain/terrain.json", "r") as f:
+    terrain_files = json.load(f)
+
+# Grid settings
+grid_size = 50  # Size of each grid cell
+grid_rows = window_height // grid_size
+grid_cols = window_width // grid_size
 
 # Function to load a random PNG from a public S3 bucket
-def load_png_from_s3(name):
-    base_url = "https://tl-web.s3.us-west-2.amazonaws.com/icons/"
-    filtered_icons = [icon for icon in icon_files if icon.startswith(name)]
+def load_png_from_s3(name, folder="icons"):
+    base_url = f"https://tl-web.s3.us-west-2.amazonaws.com/{folder}/"
+    if folder == "icons/terrain":
+        filtered_icons = [icon for icon in terrain_files if name in icon.split("-", 1)[1].lower()]
+    else:
+        filtered_icons = [icon for icon in icon_files if icon == f"{name}.png"]
     if filtered_icons:
         random_icon = random.choice(filtered_icons)
         png_url = base_url + random_icon
@@ -59,6 +48,7 @@ def load_png_from_s3(name):
     else:
         print(f"No icons found with name: {name}")
     return None
+
 # Function to load JSON files from a directory
 def load_json_files(directory):
     json_files = [file for file in os.listdir(directory) if file.endswith(".json")]
@@ -71,22 +61,22 @@ def load_json_files(directory):
     return data
 
 # Game loop
-# Game loop
 def game_loop():
     # Load character JSON files
     characters_data = load_json_files("characters")
     print(f"Loaded {len(characters_data)} character(s)")
     characters = []
     for character_data in characters_data:
-        character_icon = load_png_from_s3(character_data["class"].lower())
+        character_icon = load_png_from_s3(character_data["class"].lower(), folder="icons")
         if character_icon:
-            character_icon = pygame.transform.scale(character_icon, (50, 50))  # Adjust the size to about 1 inch
+            character_icon = pygame.transform.scale(character_icon, (grid_size, grid_size))
         character = {
             "class": character_data["class"],
             "element": character_data["element"],
             "archetype": character_data["archetype"],
             "icon": character_icon,
-            "stats": character_data["attributes"]
+            "stats": character_data["attributes"],
+            "position": (grid_cols // 2, grid_rows - 1)  # Start position for the character
         }
         characters.append(character)
         print(f"Loaded character: {character}")
@@ -96,9 +86,9 @@ def game_loop():
     print(f"Loaded {len(monsters_data)} monster(s)")
     monsters = []
     for monster_data in monsters_data:
-        monster_icon = load_png_from_s3(monster_data["name"].lower())
+        monster_icon = load_png_from_s3(monster_data["name"].lower(), folder="icons")
         if monster_icon:
-            monster_icon = pygame.transform.scale(monster_icon, (50, 50))  # Adjust the size to about 1 inch
+            monster_icon = pygame.transform.scale(monster_icon, (grid_size, grid_size))
         monster = {
             "name": monster_data["name"],
             "icon": monster_icon,
@@ -113,10 +103,23 @@ def game_loop():
             },
             "abilities": monster_data["abilities"],
             "loot": monster_data["loot"],
-            "dialogue": monster_data["dialogue"]
+            "dialogue": monster_data["dialogue"],
+            "position": (random.randint(0, grid_cols - 1), 0)  # Start position for the monster
         }
         monsters.append(monster)
         print(f"Loaded monster: {monster}")
+
+    # Load a handful of terrain icons from S3
+    terrain_icons = []
+    terrain_positions = []
+    for i in range(5):  # Load 5 random terrain icons
+        terrain_icon = load_png_from_s3(random.choice(["tree", "rain", "vines", "volcano", "bridge"]), folder="icons/terrain")
+        if terrain_icon:
+            terrain_icon = pygame.transform.scale(terrain_icon, (grid_size, grid_size))
+            terrain_icons.append(terrain_icon)
+            terrain_x = random.randint(0, grid_cols - 1)
+            terrain_y = random.randint(1, grid_rows - 2)  # Avoid the first and last row
+            terrain_positions.append((terrain_x, terrain_y))
 
     # Game loop
     running = True
@@ -125,29 +128,60 @@ def game_loop():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
+            elif event.type == pygame.KEYDOWN:
+                # Handle character movement
+                if event.key == pygame.K_UP:
+                    new_position = (characters[0]["position"][0], characters[0]["position"][1] - 1)
+                    if new_position[1] >= 0 and not is_position_occupied(new_position, terrain_positions):
+                        characters[0]["position"] = new_position
+                elif event.key == pygame.K_DOWN:
+                    new_position = (characters[0]["position"][0], characters[0]["position"][1] + 1)
+                    if new_position[1] < grid_rows - 1 and not is_position_occupied(new_position, terrain_positions):
+                        characters[0]["position"] = new_position
+                elif event.key == pygame.K_LEFT:
+                    new_position = (characters[0]["position"][0] - 1, characters[0]["position"][1])
+                    if new_position[0] >= 0 and not is_position_occupied(new_position, terrain_positions):
+                        characters[0]["position"] = new_position
+                elif event.key == pygame.K_RIGHT:
+                    new_position = (characters[0]["position"][0] + 1, characters[0]["position"][1])
+                    if new_position[0] < grid_cols and not is_position_occupied(new_position, terrain_positions):
+                        characters[0]["position"] = new_position
 
         # Clear the window
         window.fill((255, 255, 255))
 
+        # Draw the grid
+        for row in range(grid_rows):
+            for col in range(grid_cols):
+                rect = (col * grid_size, row * grid_size, grid_size, grid_size)
+                pygame.draw.rect(window, (200, 200, 200), rect, 1)
+
         # Draw characters on the game screen
         for character in characters:
             if character["icon"]:
-                character_x = window_width // 2 - character["icon"].get_width() // 2
-                character_y = window_height - character["icon"].get_height() - 20
-                window.blit(character["icon"], (character_x, character_y))
+                character_pos = (character["position"][0] * grid_size, character["position"][1] * grid_size)
+                window.blit(character["icon"], character_pos)
 
         # Draw monsters on the game screen
         for monster in monsters:
             if monster["icon"]:
-                monster_x = random.randint(0, window_width - monster["icon"].get_width())
-                monster_y = random.randint(0, window_height - monster["icon"].get_height() - 100)  # Adjust the vertical range
-                window.blit(monster["icon"], (monster_x, monster_y))
+                monster_pos = (monster["position"][0] * grid_size, monster["position"][1] * grid_size)
+                window.blit(monster["icon"], monster_pos)
+
+        # Draw terrain icons on the game screen
+        for i, terrain_icon in enumerate(terrain_icons):
+            terrain_pos = (terrain_positions[i][0] * grid_size, terrain_positions[i][1] * grid_size)
+            window.blit(terrain_icon, terrain_pos)
 
         # Update the display
         pygame.display.update()
 
-    # Quit the game
-    pygame.quit()
+# Helper function to check if a position is occupied by a terrain icon
+def is_position_occupied(position, terrain_positions):
+    for terrain_pos in terrain_positions:
+        if position == terrain_pos:
+            return True
+    return False
 
 # Run the game
 game_loop()
