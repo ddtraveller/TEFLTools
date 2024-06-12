@@ -1,0 +1,146 @@
+[
+  {
+    "story": "You come across a group of bandits attacking a helpless merchant and his family on a lonely road. The merchant begs for your help. What do you do?",
+    "options": [
+      "Rush in to confront the bandits and save the merchant",
+      "Sneak around to create a distraction and help the merchant escape",
+      "Ignore the situation and continue on your way"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "While exploring an ancient ruins, you find a mysterious artifact emanating an eerie glow. You sense it holds great power, but also potential danger. What do you do?",
+    "options": [
+      "Turn the artifact over to the local authorities for safekeeping",
+      "Keep the artifact to study its power and potential uses",
+      "Destroy the artifact to prevent it from falling into the wrong hands"
+    ],
+    "scores": [1, -1, 0]
+  },
+  {
+    "story": "A powerful wizard offers to teach you forbidden magic, claiming it will make you invincible. However, you suspect the magic may come at a great cost. What do you do?",
+    "options": [
+      "Refuse the offer, believing the cost is too high",
+      "Accept the offer, but vow to use the magic only for good",
+      "Accept the offer eagerly, craving the power it promises"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "While walking through a crowded marketplace, you witness a skilled pickpocket stealing from an elderly woman. The thief notices you and starts to run. What do you do?",
+    "options": [
+      "Call for the city guard to report the crime",
+      "Chase after the thief to confront them and return the stolen goods",
+      "Pretend you didn't see anything and blend into the crowd"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "A noble approaches you with a lucrative offer to help in a political scheme against a rival house. The plan involves spreading rumors and sabotaging the rival's reputation. What do you do?",
+    "options": [
+      "Refuse to get involved in the political intrigue",
+      "Agree to help, but try to minimize the damage to the rival house",
+      "Agree to help and follow the noble's orders without question"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "During your travels, you uncover a secret that could expose a corrupt government official. The official has been exploiting the poor for personal gain. What do you do?",
+    "options": [
+      "Gather evidence and expose the truth to the public",
+      "Use the information to blackmail the official for your own benefit",
+      "Keep the secret to yourself, fearing the consequences of getting involved"
+    ],
+    "scores": [1, -1, 0]
+  },
+  {
+    "story": "You discover an ancient temple hidden deep in the jungle. Inside, you find a trapped spirit begging for release. What do you do?",
+    "options": [
+      "Attempt to free the spirit, believing it deserves a chance at peace",
+      "Leave the temple, not wanting to meddle with unknown forces",
+      "Destroy the temple to prevent others from finding the trapped spirit"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "A wealthy merchant offers you a substantial sum of money to retrieve a rare artifact from a dangerous dungeon. What do you do?",
+    "options": [
+      "Accept the job, seeing it as a chance to test your skills and earn a reward",
+      "Refuse the job, believing the risk is not worth the reward",
+      "Accept the job, but plan to keep the artifact for yourself"
+    ],
+    "scores": [0, 1, -1]
+  },
+  {
+    "story": "You come across a wounded animal in the forest. It appears to have been attacked by a hunter's trap. What do you do?",
+    "options": [
+      "Tend to the animal's wounds and set it free",
+      "Put the animal out of its misery",
+      "Leave the animal, believing nature should take its course" 
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "A powerful sorcerer offers to grant you one wish, but warns that the wish may have unintended consequences. What do you do?",
+    "options": [
+      "Make a wish for the greater good, accepting the risk of unintended consequences",
+      "Make a wish for personal gain, believing you can handle any consequences",
+      "Refuse the wish, not wanting to tamper with fate"
+    ],
+    "scores": [1, -1, 0]
+  },
+  {
+    "story": "You witness a group of children bullying a classmate who appears different from them. What do you do?",
+    "options": [
+      "Intervene and stand up for the bullied child",
+      "Report the incident to a teacher or authority figure",
+      "Ignore the situation, not wanting to get involved"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "A traveling merchant offers to sell you a mysterious potion that promises to grant incredible strength and speed. What do you do?",
+    "options": [
+      "Refuse the potion, suspecting it may have dangerous side effects",
+      "Buy the potion, but save it for a crucial moment",
+      "Buy the potion and drink it immediately, eager to gain its benefits"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "You discover a hidden passage in an old castle that leads to a room filled with ancient tomes of forbidden knowledge. What do you do?",
+    "options": [
+      "Seal the passage, believing the knowledge is too dangerous",
+      "Study the tomes, but keep the knowledge to yourself",
+      "Share the knowledge with the world, believing it should not be hidden"
+    ],
+    "scores": [-1, 0, 1]
+  },
+  {
+    "story": "A beggar approaches you on the street, asking for food and water. What do you do?",
+    "options": [
+      "Give the beggar some of your supplies and money",
+      "Direct the beggar to the nearest shelter or soup kitchen",
+      "Ignore the beggar and continue on your way"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "You are offered a chance to join a secret society that promises wealth, power, and influence. However, you suspect their methods may be unethical. What do you do?",
+    "options": [
+      "Refuse to join, not wanting to compromise your morals",
+      "Join the society, but work to reform their unethical practices from within",
+      "Join the society, embracing their methods for personal gain"
+    ],
+    "scores": [1, 0, -1]
+  },
+  {
+    "story": "During a battle, you see a fellow soldier who is badly wounded and crying out for help. What do you do?",
+    "options": [
+      "Rush to their aid, risking your own safety to help them",
+      "Call for a medic and continue fighting",
+      "Focus on your own survival and leave the wounded soldier behind"
+    ],
+    "scores": [1, 0, -1]
+  }
+]

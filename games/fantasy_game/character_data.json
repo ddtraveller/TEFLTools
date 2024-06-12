@@ -1,0 +1,19 @@
+{
+    "class": "Rogue",
+    "element": "Water",
+    "archetype": "Wolf",
+    "main_weapon": "Dagger",
+    "equipment": "Leather Armor, Thieves' Tools",
+    "spells": [
+        "Calming Influence"
+    ],
+    "attributes": {
+        "Strength": 14,
+        "Intelligence": 11,
+        "Wisdom": 14,
+        "Dexterity": 13,
+        "Constitution": 14,
+        "Charisma": 12
+    },
+    "background_story": "You are a Water Rogue with the spirit of the Wolf. From a young age, you showed an aptitude for adventure and a strong connection to the elemental forces. Your choices throughout your life have shaped you into the person you are today. Now, armed with your Dagger and Leather Armor, Thieves' Tools, you set out to make your mark on the world."
+}

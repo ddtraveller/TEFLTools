@@ -1,0 +1,148 @@
+{
+  "weapons": {
+    "Greatsword": {
+      "damage": 10,
+      "speed": 3,
+      "strength": 15,
+      "dexterity": 10
+    },
+    "Longsword": {
+      "damage": 8,
+      "speed": 5,
+      "strength": 13,
+      "dexterity": 12
+    },
+    "Battleaxe": {
+      "damage": 9,
+      "speed": 4,
+      "strength": 14,
+      "dexterity": 11
+    },
+    "Warhammer": {
+      "damage": 9,
+      "speed": 4,
+      "strength": 14,
+      "dexterity": 11
+    },
+    "Rapier": {
+      "damage": 7,
+      "speed": 7,
+      "strength": 11,
+      "dexterity": 14
+    },
+    "Shortsword": {
+      "damage": 6,
+      "speed": 6,
+      "strength": 12,
+      "dexterity": 13
+    },
+    "Dagger": {
+      "damage": 4,
+      "speed": 8,
+      "strength": 10,
+      "dexterity": 13
+    },
+    "Hand Crossbow": {
+      "damage": 6,
+      "speed": 6,
+      "strength": 12,
+      "dexterity": 13
+    },
+    "Staff": {
+      "damage": 5,
+      "speed": 5,
+      "strength": 12,
+      "dexterity": 12
+    },
+    "Wand": {
+      "damage": 4,
+      "speed": 6,
+      "strength": 10,
+      "dexterity": 13
+    },
+    "Sling": {
+      "damage": 4,
+      "speed": 6,
+      "strength": 10,
+      "dexterity": 13
+    },
+    "Mace": {
+      "damage": 7,
+      "speed": 5,
+      "strength": 13,
+      "dexterity": 12
+    },
+    "Flail": {
+      "damage": 8,
+      "speed": 4,
+      "strength": 14,
+      "dexterity": 11
+    },
+    "Crossbow": {
+      "damage": 8,
+      "speed": 4,
+      "strength": 14,
+      "dexterity": 11
+    },
+    "Longbow": {
+      "damage": 8,
+      "speed": 5,
+      "strength": 13,
+      "dexterity": 14
+    },
+    "Maul": {
+      "damage": 10,
+      "speed": 3,
+      "strength": 15,
+      "dexterity": 10
+    },
+    "Scimitar": {
+      "damage": 7,
+      "speed": 6,
+      "strength": 12,
+      "dexterity": 13
+    },
+    "Quarterstaff": {
+      "damage": 6,
+      "speed": 5,
+      "strength": 12,
+      "dexterity": 12
+    },
+    "Club": {
+      "damage": 5,
+      "speed": 5,
+      "strength": 12,
+      "dexterity": 12
+    },
+    "Unarmed Strike": {
+      "damage": 3,
+      "speed": 5,
+      "strength": 3,
+      "dexterity": 3
+    },
+    "Nunchaku": {
+      "damage": 5,
+      "speed": 9,
+      "strength": 11,
+      "dexterity": 15
+    },
+    "Greataxe": {
+      "damage": 10,
+      "speed": 3,
+      "strength": 15,
+      "dexterity": 10
+    }
+  },
+  "equipment": {
+    "Fighter": "Heavy Armor, Shield",
+    "Rogue": "Leather Armor, Thieves' Tools",
+    "Wizard": "Spellbook, Component Pouch",
+    "Cleric": "Holy Symbol, Chain Mail",
+    "Ranger": "Studded Leather Armor, Quiver",
+    "Paladin": "Plate Armor, Holy Symbol",
+    "Martial Artist": "Leather Armor, Herbalism Kit",
+    "Shaman": "Lute, Entertainer's Pack",
+    "Monk": "Robes, Holy Symbol",
+    "Barbarian": "Hide Armor, Handaxe"
+  }
+}
