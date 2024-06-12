@@ -1,6 +1,6 @@
 
 #!/bin/bash
-
+# This resizes the disk for a cloud9 instance in aws.
 # Specify the desired volume size in GiB as a command line argument. If not specified, default to 20 GiB.
 SIZE=${1:-20}
 
