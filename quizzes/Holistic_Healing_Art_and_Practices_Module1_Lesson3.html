@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Polyvagal Theory and Trauma Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Polyvagal Theory and Trauma Quiz</h1>
+  <form id="quiz-form">
+    <ol>
+      <li>
+        <p>What is polyvagal theory?</p>
+        <label><input type="radio" name="q1" value="a"> A theory about the role of the vagus nerve in regulating the nervous system's response to stress and trauma</label><br>
+        <label><input type="radio" name="q1" value="b"> A theory about how the brain processes visual information</label><br>
+        <label><input type="radio" name="q1" value="c"> A theory about the causes of post-traumatic stress disorder (PTSD)</label><br>
+      </li>
+      <li>
+        <p>Which part of the autonomic nervous system is activated during life-threatening situations, according to polyvagal theory?</p>
+        <label><input type="radio" name="q2" value="a"> Ventral vagal</label><br>
+        <label><input type="radio" name="q2" value="b"> Sympathetic nervous system</label><br>
+        <label><input type="radio" name="q2" value="c"> Dorsal vagal</label><br>
+      </li>
+      <li>
+        <p>What is the primary function of the ventral vagal branch of the vagus nerve?</p>
+        <label><input type="radio" name="q3" value="a"> Promoting feelings of safety and social engagement</label><br>
+        <label><input type="radio" name="q3" value="b"> Preparing the body for fight or flight</label><br>
+        <label><input type="radio" name="q3" value="c"> Causing the body to freeze or collapse</label><br>
+      </li>
+      <li>
+        <p>How does the nervous system typically respond to a perceived threat?</p>
+        <label><input type="radio" name="q4" value="a"> It immediately activates the dorsal vagal branch</label><br>
+        <label><input type="radio" name="q4" value="b"> It first activates the sympathetic branch, preparing for fight or flight</label><br>
+        <label><input type="radio" name="q4" value="c"> It first activates the ventral vagal branch, promoting social engagement</label><br>
+      </li>
+      <li>
+        <p>Why is it important to understand the different nervous system states described in polyvagal theory?</p>
+        <label><input type="radio" name="q5" value="a"> To develop strategies for regulating responses to stress and trauma</label><br>
+        <label><input type="radio" name="q5" value="b"> To diagnose mental health disorders</label><br>
+        <label><input type="radio" name="q5" value="c"> To predict who will experience trauma in the future</label><br>
+      </li>
+    </ol>
+    <button type="submit">Submit</button>
+  </form>
+  <div id="results"></div>
+
+  <script>
+    const quizForm = document.getElementById('quiz-form');
+    const resultsDiv = document.getElementById('results');
+    const correctAnswers = ['a', 'c', 'a', 'b', 'a'];
+
+    quizForm.addEventListener('submit', function(event) {
+      event.preventDefault();
+      let score = 0;
+      const userAnswers = [
+        quizForm.q1.value,
+        quizForm.q2.value,
+        quizForm.q3.value,
+        quizForm.q4.value,
+        quizForm.q5.value
+      ];
+      userAnswers.forEach((answer, index) => {
+        if (answer === correctAnswers[index]) {
+          score += 1;
+        }
+      });
+      resultsDiv.innerHTML = `You scored ${score} out of ${correctAnswers.length}`;
+    });
+  </script>
+</body>
+</html>

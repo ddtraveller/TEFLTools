@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Subtle Anatomy and Energy Systems Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Subtle Anatomy and Energy Systems Quiz</h1>
+  <form id="quiz-form">
+    <ol>
+      <li>
+        <p>What are meridians in Traditional Chinese Medicine?</p>
+        <label><input type="radio" name="q1" value="a"> Energy centers located along the spine</label><br>
+        <label><input type="radio" name="q1" value="b"> Pathways through which life energy, or qi, flows</label><br>
+        <label><input type="radio" name="q1" value="c"> A luminous energy field surrounding the body</label><br>
+      </li>
+      <li>
+        <p>How are chakras understood in Indian yogic traditions?</p>
+        <label><input type="radio" name="q2" value="a"> As pathways through which prana flows</label><br>
+        <label><input type="radio" name="q2" value="b"> As a luminous energy field surrounding the body</label><br>
+        <label><input type="radio" name="q2" value="c"> As energy centers located along the spine, each associated with specific qualities</label><br>
+      </li>
+      <li>
+        <p>What is the aura thought to reflect?</p>
+        <label><input type="radio" name="q3" value="a"> An individual's overall state of health</label><br>
+        <label><input type="radio" name="q3" value="b"> The flow of qi through the meridians</label><br>
+        <label><input type="radio" name="q3" value="c"> The balance of the chakras</label><br>
+      </li>
+      <li>
+        <p>Which of the following practices aims to balance and harmonize subtle energy systems?</p>
+        <label><input type="radio" name="q4" value="a"> Acupuncture</label><br>
+        <label><input type="radio" name="q4" value="b"> Reiki</label><br>
+        <label><input type="radio" name="q4" value="c"> Both a and b</label><br>
+      </li>
+      <li>
+        <p>Why are subtle energy systems considered important in holistic healing traditions?</p>
+        <label><input type="radio" name="q5" value="a"> They are believed to play a vital role in overall health and well-being</label><br>
+        <label><input type="radio" name="q5" value="b"> They are easy to measure and quantify</label><br>
+        <label><input type="radio" name="q5" value="c"> They are recognized by conventional Western medicine</label><br>
+      </li>
+    </ol>
+    <button type="submit">Submit</button>
+  </form>
+  <div id="results"></div>
+
+  <script>
+    const quizForm = document.getElementById('quiz-form');
+    const resultsDiv = document.getElementById('results');
+    const correctAnswers = ['b', 'c', 'a', 'c', 'a'];
+
+    quizForm.addEventListener('submit', function(event) {
+      event.preventDefault();
+      let score = 0;
+      const userAnswers = [
+        quizForm.q1.value,
+        quizForm.q2.value,
+        quizForm.q3.value,
+        quizForm.q4.value,
+        quizForm.q5.value
+      ];
+      userAnswers.forEach((answer, index) => {
+        if (answer === correctAnswers[index]) {
+          score += 1;
+        }
+      });
+      resultsDiv.innerHTML = `You scored ${score} out of ${correctAnswers.length}`;
+    });
+  </script>
+</body>
+</html>
