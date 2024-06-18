@@ -5,6 +5,18 @@ from Spells import Spells
 classes = ["Fighter", "Rogue", "Wizard", "Cleric", "Ranger", "Paladin", "Martial Artist", "Shaman", "Monk", "Barbarian"]
 elements = ["Fire", "Air", "Earth", "Water"]
 archetypes = ["Lion", "Eagle", "Bear", "Wolf", "Owl", "Snake", "Dolphin", "Elephant", "Butterfly", "Turtle", "Deer", "Fox"]
+starting_income = {
+    "Fighter": 1-30,
+    "Rogue": 1-25,
+    "Wizard": 1-75,
+    "Cleric": 20-100,
+    "Ranger": 1-35,
+    "Paladin": 20-75,
+    "Martial Artist": 1-20,
+    "Shaman": 1-20,
+    "Monk": 0-2,
+    "Barbarian": 0-2
+  }
 
 def get_user_choice(options):
     for i, option in enumerate(options, 1):

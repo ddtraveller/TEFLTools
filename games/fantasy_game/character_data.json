@@ -1,20 +1,19 @@
 {
-    "class": "Cleric",
-    "element": "Air",
-    "archetype": "Snake",
-    "main_weapon": "Dagger",
-    "equipment": "Holy Symbol, Chain Mail",
+    "class": "Rogue",
+    "element": "Earth",
+    "archetype": "Dolphin",
+    "main_weapon": "Battleaxe",
+    "equipment": "Leather Armor, Thieves' Tools",
     "spells": [
-        "Herbal Remedy",
-        "Lifeforce Infusion"
+        "Predictive Calculation"
     ],
     "attributes": {
-        "Strength": 11,
+        "Strength": 15,
         "Intelligence": 9,
-        "Wisdom": 12,
-        "Dexterity": 15,
-        "Constitution": 18,
-        "Charisma": 18
+        "Wisdom": 14,
+        "Dexterity": 11,
+        "Constitution": 14,
+        "Charisma": 17
     },
-    "background_story": "In the mist-shrouded peaks of the northern mountains, you were born into a clan of serpent shamans who traced their lineage back to the great world serpent. Guided by the wisdom of your ancestors and the power of the wind, you learned to bridge the gap between the material and spiritual realms, offering prayers and sacrifices to the ancestral spirits in exchange for their blessings and guidance. As a mysterious illness began to spread through the villages, you embarked on a quest to find the sacred serpent staff, an ancient relic imbued with the power to heal and restore balance to the land."
+    "background_story": "In the crystal-clear waters of the eastern lagoon, you were born into a pod of dolphin healers who had long ago formed a bond with the playful dolphin spirit. Guided by the joyful wisdom of the dolphin and the nurturing power of the earth, you learned to use the healing properties of the lagoon's sacred mud and plants, to communicate with the spirits of the land through the echoes of the underwater caves, and to use your empathetic nature to bring comfort and healing to those in need. When a strange blight began to spread through the lagoon, turning the water murky and the plants withered, you embarked on a quest to find the legendary pearl of the dolphin, an artifact said to hold the power to restore life and vitality to the earth."
 }
