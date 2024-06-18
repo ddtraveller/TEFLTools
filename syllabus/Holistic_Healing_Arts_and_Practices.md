@@ -9,13 +9,12 @@ This comprehensive program provides an immersive exploration of holistic healing
 
 ### **Learning Objectives:**
 
-By the end of this program, students will be able to:
-- Demonstrate an understanding of key principles of holistic healing, including the myofascial system, trauma and the nervous system, and subtle energy
-- Skillfully apply techniques in areas such as lymphatic drainage, craniosacral therapy, myofascial release, and reiki 
-- Conduct thorough client intakes and assessments, identifying indications and contraindications 
-- Provide culturally attuned care that honors local healing traditions and belief systems
-- Educate clients in relevant self-care practices to support their ongoing wellness
-- Uphold high ethical standards and maintain appropriate boundaries in their healing practice
+By the end of this program, students will have the basic vocabulary and the ability to have conversations about the following topics:
+- Key principles of holistic healing, including the myofascial system, trauma and the nervous system, and subtle energy
+- Healing modalities in areas such as lymphatic drainage, craniosacral therapy, myofascial release, and reiki 
+- Client intakes and assessments, identifying indications and contraindications 
+- Culturally attuned care that honors local healing traditions and belief systems
+- Relevant self-care practices to support their ongoing wellness
 
 ### **Course Outline:**
 
@@ -61,11 +60,9 @@ By the end of this program, students will be able to:
 - Self Esteem and Positive Thinking
 - History of and Honoring the Divine Feminine
 
-#### **Module 7: Healing Service Practicum**
-- Supervised clinical practice 
+#### **Module 7: Healing Career Considerations**
+- Clinical practice vs. working in the community 
 - Implementing culturally-resonant healing protocols
 - Developing referral networks with local healthcare providers
 - Self-care practices for the practitioner
 - Business essentials for the healing arts professional
-
-Through this dynamic and comprehensive course of study, aspiring healers will be thoroughly prepared to offer compassionate, culturally-relevant care as respected practitioners and educators in their communities. The program aims to revitalize time-honored healing wisdom while integrating evidence-based methods, empowering a new generation of holistic healers.

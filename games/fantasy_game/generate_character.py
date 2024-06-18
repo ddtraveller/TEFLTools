@@ -1,47 +1,6 @@
 import random
 import json
-
-class Spells:
-    def __init__(self):
-        self.movement_spells = [
-            "Swift Wind's Blessing", "Bounding Stride", "Soaring Flight", "Nimble Retreat",
-            "Dimensional Passage", "Galloping Speed", "Ascending Motion", "Brisk Pace"
-        ]
-        self.sorcery_spells = [
-            "Mighty Bolt", "Furious Blast", "Wrathful Curse", "Scorching Ray",
-            "Devouring Plague", "Heavenly Fireball", "Forceful Arrows", "Hexing Chant"
-        ]
-        self.elemental_spells = [
-            "Burning Touch", "Tempestuous Gust", "Thunderous Clap", "Stony Grasp",
-            "Elemental Attunement", "Freezing Breath", "Tremoring Earth", "Entangling Vines"
-        ]
-        self.healing_spells = [
-            "Purifying Light", "Blessed Regeneration", "Divine Guidance", "Lifeforce Infusion",
-            "Cleansing Ritual", "Circle of Protection", "Calming Influence", "Sacred Darshan",
-            "Heightened Senses", "Protect the Fallen"
-        ]
-        self.nature_spells = [
-            "Bountiful Growth", "Primal Summoning", "Verdant Barrier", "Graceful Camouflage",
-            "Herbal Remedy", "Thorny Entanglement", "Swarming Insects", "Awakening Touch"
-        ]
-        self.internal_spells = [
-            "Unbreakable Armor", "Radiant Aura", "Insightful Vision", "Unyielding Fortitude",
-            "Inner Cultivation", "Resolute Stance", "Prescient Foresight", "Invulnerable Mind"
-        ]
-        self.mystic_spells = [
-            "Third Eye Revelation", "Oracular Divination", "Nature's Wisdom", "Scholarly Insight",
-            "Predictive Calculation", "Spiritual Sight", "Ancestral Knowledge", "Intuitive Perception"
-        ]
-
-spell_types = {
-    "Movement": ["Rogue", "Wizard"],
-    "Sorcery": ["Wizard"],
-    "Elemental": ["Wizard"],
-    "Healing": ["Cleric", "Paladin", "Shaman", "Monk"],
-    "Nature": ["Ranger", "Shaman", "Barbarian"],
-    "Internal": ["Monk", "Martial Artist"],
-    "Mystic": ["Shaman", "Monk"]
-}
+from Spells import Spells
 
 classes = ["Fighter", "Rogue", "Wizard", "Cleric", "Ranger", "Paladin", "Martial Artist", "Shaman", "Monk", "Barbarian"]
 elements = ["Fire", "Air", "Earth", "Water"]
@@ -161,14 +120,14 @@ def generate_character():
 
     if character_class == "Wizard":
         for _ in range(3):
-            spell_category = random.choice(list(spell_types.keys())).lower() + "_spells"
+            spell_category = random.choice(list(spells.spell_types.keys())).lower() + "_spells"
             character_spells.append(random.choice(getattr(spells, spell_category)))
     elif character_class in ["Cleric", "Shaman", "Monk"]:
         for _ in range(2):
-            spell_category = random.choice(list(spell_types.keys())).lower() + "_spells"
+            spell_category = random.choice(list(spells.spell_types.keys())).lower() + "_spells"
             character_spells.append(random.choice(getattr(spells, spell_category)))
     elif character_class in ["Rogue", "Ranger", "Paladin", "Martial Artist"]:
-        spell_category = random.choice(list(spell_types.keys())).lower() + "_spells"
+        spell_category = random.choice(list(spells.spell_types.keys())).lower() + "_spells"
         character_spells.append(random.choice(getattr(spells, spell_category)))
 
     if character_spells:

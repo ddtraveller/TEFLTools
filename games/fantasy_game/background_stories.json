@@ -1,64 +1,690 @@
 {
-  "backgrounds": [
-    {
-      "element": "Air",
-      "archetype": "Eagle",
-      "story": "Born in the Zephyr Mountains, you always dreamed of the vast sky. With a quick wit, sharp mind, and adventurous spirit like the majestic eagle, you explored mountain trails seeking challenges and mysteries. As you grew older, you felt restless and constrained by village life. Yearning to discover the wonders beyond the horizon, you left your village behind, embarking on a journey of self-discovery and adventure, ready to embrace the freedom and opportunities that awaited you."
-    },
-    {
-      "element": "Air",
+ "backgrounds": [
+   {
+     "element": "Air",
+     "archetype": "Eagle",
+     "story": "Born in the Zephyr Mountains, you always dreamed of the vast sky. With a quick wit, sharp mind, and adventurous spirit like the majestic eagle, you explored mountain trails seeking challenges and mysteries. As you grew older, you felt restless and constrained by village life. Yearning to discover the wonders beyond the horizon, you left your village behind, embarking on a journey of self-discovery and adventure, ready to embrace the freedom and opportunities that awaited you.",
+     "spells": [
+       "Swift Wind's Blessing",
+       "Soaring Flight",
+       "Dimensional Passage",
+       "Ascending Motion"
+     ]
+   },
+   {
+     "element": "Air",
+     "archetype": "Owl",
+     "story": "In the mystical realm of Zephyria, you were born into a family of scholars and sages, renowned for their wisdom and insight. Displaying an insatiable curiosity and keen intellect like the wise owl, you spent countless nights in grand libraries, unraveling the secrets of the arcane. As you delved deeper into the mysteries of the world, you sensed a looming threat. With a mind as sharp as the wind and a heart filled with purpose, you ventured beyond your studies to become an adventurer, vowing to uncover the truth and safeguard the balance of the realms.",
+     "spells": [
+       "Nimble Retreat",
+       "Dimensional Passage",
+       "Insightful Vision",
+       "Prescient Foresight",
+       "Scholarly Insight"
+     ]
+   },
+   {
+     "element": "Air",
+     "archetype": "Butterfly",
+     "story": "In the enchanted gardens of the Whispering Winds, you were born into a family of artists and dreamers, blessed by the ever-changing beauty of the butterfly. With a vivid imagination, love for color and light, and an ability to navigate the currents of change, you flitted between vibrant flowers, weaving stories and capturing ephemeral wonders. As you grew older, a restless stirring in your soul emerged. The winds whispered of distant lands, untold adventures, and the transformative power of self-discovery. With a heart as light as a butterfly's wing, you left the comfort of your gardens to embark on a journey of metamorphosis, exploring the vast tapestry of life and inspiring others with your art.",
+     "spells": [
+       "Swift Wind's Blessing",
+       "Nimble Retreat",
+       "Graceful Camouflage",
+       "Intuitive Perception"
+     ]
+   },
+   {
+     "element": "Fire",
+     "archetype": "Lion",
+     "story": "In the scorching desert of Emberveld, you grew up in a clan known for their fiery passions and unwavering determination. Exhibiting the qualities of a natural leader like the lion, you possessed fierce loyalty and a burning desire to prove yourself. As you came of age, you saw injustice and suffering in the world, knowing you could not stand idly by. With a heart ablaze with purpose and a spirit as fierce as the desert sun, you left your clan to become an adventurer, determined to fight for what is right and protect the innocent from harm.",
+     "spells": [
+       "Burning Touch",
+       "Scorching Ray",
+       "Heavenly Fireball",
+       "Radiant Aura",
+       "Unbreakable Armor"
+     ]
+   },
+   {
+     "element": "Fire",
+     "archetype": "Snake",
+     "story": "In the volcanic wastelands of Emberfell, you were born into a clan of survivors, forged in the fires of adversity. Like the cunning snake, you learned to adapt, strike swiftly, and navigate the treacherous landscape. Questioning the harsh traditions and hierarchy of your clan, you yearned for purpose, freedom, and the opportunity to forge your own path. With a heart smoldering with determination and a spirit as resilient as the flames, you broke free from the chains of your past to become an adventurer, exploring the world beyond the wastelands and carving your own destiny.",
+     "spells": [
+       "Burning Touch",
+       "Scorching Ray",
+       "Wrathful Curse",
+       "Insightful Vision",
+       "Intuitive Perception"
+     ]
+   },
+   {
+     "element": "Fire",
+     "archetype": "Fox",
+     "story": "In the scorched plains of the Crimson Steppes, you were born into a family of tricksters and survivors, guided by the cunning wit of the clever fox. With a quick mind, silver tongue, and ability to adapt to any situation, you learned the art of misdirection and the power of persuasion. Navigating treacherous politics and shifting alliances, you yearned for a higher purpose, a chance to use your skills for the greater good. With a heart as passionate as a flickering flame and a spirit as resourceful as a fox, you left behind the games of deceit to become an adventurer, unraveling mysteries, exposing corruption, and fighting for the truth.",
+     "spells": [
+       "Burning Touch",
+       "Scorching Ray",
+       "Nimble Retreat",
+       "Insightful Vision",
+       "Intuitive Perception"
+     ]
+   },
+   {
+     "element": "Fire",
+     "archetype": "Eagle",
+     "story": "In the searing canyons of the Blaze Peaks, you were raised by a tribe of fearless warriors, embodying the fierce spirit and keen vision of the mighty eagle. With an unyielding determination, a sharp mind for strategy, and a burning passion for justice, you trained relentlessly in the art of combat and leadership. As whispers of an ancient evil stirring in the depths of the fiery mountains reached your ears, you knew that your destiny lay beyond the confines of your tribe. With a heart ablaze with courage and a spirit as soaring as an eagle's flight, you set out on a perilous journey as an adventurer, vowing to vanquish the rising darkness and protect the innocent from the consuming flames.",
+     "spells": [
+       "Burning Touch",
+       "Scorching Ray",
+       "Heavenly Fireball",
+       "Soaring Flight",
+       "Prescient Foresight"
+     ]
+   },
+   {
+     "element": "Fire",
+     "archetype": "Owl",
+     "story": "In the smoldering ruins of the Cinderwood, you were born into a secretive order of mystics and scholars, guided by the enigmatic wisdom of the nocturnal owl. With an insatiable thirst for knowledge, a keen intellect, and an affinity for the flickering shadows cast by candlelight, you delved deep into ancient tomes and mastered the art of pyromancy. As portents of impending doom began to manifest in the dancing flames, you realized that your studies alone could not safeguard the world from the encroaching darkness. With a heart ignited by purpose and a spirit as mysterious as the owl's gaze, you emerged from the ashes of your order to become an adventurer, wielding the power of fire to illuminate the truth and scorch the evil that threatened to engulf the land.",
+     "spells": [
+       "Burning Touch",
+       "Scorching Ray",
+       "Heavenly Fireball",
+       "Insightful Vision",
+       "Scholarly Insight"
+     ]
+   },
+   {
+     "element": "Water",
+     "archetype": "Dolphin",
+     "story": "Growing up in a coastal village, you had a deep connection to the sea and its playful, adaptable creatures, particularly the dolphin. Your fluid personality and emotional intelligence made you a natural mediator and problem-solver. As you matured, you noticed growing threats to the ocean and its inhabitants. Realizing you could no longer remain a bystander, you felt a powerful call to action. With a spirit as fluid and determined as the tides, you became an adventurer, setting out to raise awareness, unite others, and protect the ocean realm you held dear.",
+     "spells": [
+       "Tempestuous Gust",
+       "Freezing Breath",
+       "Blessed Regeneration",
+       "Calming Influence",
+       "Intuitive Perception"
+     ]
+   },
+   {
+     "element": "Water",
+     "archetype": "Turtle",
+     "story": "In the serene lagoons of the Sapphire Isles, you were born into a family of healers and protectors, guided by the wisdom of the ancient turtles. With a deep empathy for all living beings and a natural affinity for the nurturing powers of water, you tended to the sick and injured, learning the secrets of medicinal herbs and restorative tides. Witnessing growing strife and suffering in the world beyond your shores, you felt a powerful call to action. With a heart as deep as the ocean and a resolve as unyielding as a turtle's shell, you embarked on a journey of healing and redemption, using your skills and compassion to bring hope to the downtrodden and protect the innocent.",
+     "spells": [
+       "Freezing Breath",
+       "Blessed Regeneration",
+       "Divine Guidance",
+       "Lifeforce Infusion",
+       "Circle of Protection",
+       "Unbreakable Armor"
+     ]
+   },
+   {
+     "element": "Water",
+     "archetype": "Elephant",
+     "story": "In the misty rainforests of the Emerald Isles, you were born into a family of sages and guardians, blessed by the wisdom and strength of the majestic elephant. With a deep connection to the life-giving waters, a patient and compassionate nature, and an unwavering sense of justice, you learned the ancient traditions of your people and the delicate balance that sustains all living things. Witnessing growing threats to your homeland, you knew you could not stand idly by. With a heart as vast as the ocean and a spirit as unshakable as an elephant's resolve, you took up the mantle of an adventurer, setting out to defend the weak, purify the tainted waters, and preserve the ancient wisdom of your ancestors.",
+     "spells": [
+       "Tempestuous Gust",
+       "Freezing Breath",
+       "Blessed Regeneration",
+       "Lifeforce Infusion",
+       "Calming Influence",
+       "Nature's Wisdom"
+     ]
+   },
+   {
+     "element": "Water",
+     "archetype": "Lion",
+     "story": "Born amidst the crashing waves of the Cerulean Coast, you were raised by a pride of noble warriors who embodied the strength and leadership of the mighty lion. With a courageous heart, a commanding presence, and an innate connection to the ebb and flow of the tides, you trained in the art of aquatic combat and tactical warfare. As whispers of an ancient leviathan stirring in the depths of the ocean reached your ears, you knew that your destiny lay beyond the shores of your homeland. With a spirit as unyielding as the crashing waves and a heart as fierce as a lion's roar, you set out on a perilous voyage as an adventurer, vowing to confront the rising threat and protect the innocent from the fury of the deep.",
+     "spells": [
+       "Tempestuous Gust",
+       "Freezing Breath",
+       "Divine Guidance",
+       "Unbreakable Armor",
+       "Radiant Aura"
+     ]
+   },
+   {
+     "element": "Earth",
+     "archetype": "Bear",
+     "story": "Deep within the Emerald Vale, you were raised in a family known for their strong connection to the earth and its nurturing, protective qualities, much like the steadfast bear. Displaying a deep understanding of the natural world, unwavering loyalty, and a patient, enduring spirit, you witnessed increasing threats to the forest and its inhabitants. With a heart rooted in the earth and a spirit as unyielding as the mountains, you became an adventurer, vowing to use your strength, knowledge, and connection to nature to defend the Emerald Vale, protect its creatures, and preserve the delicate balance that sustained all life.",
+     "spells": [
+       "Stony Grasp",
+       "Tremoring Earth",
+       "Entangling Vines",
+       "Bountiful Growth",
+       "Verdant Barrier",
+       "Herbal Remedy",
+       "Unbreakable Armor"
+     ]
+   },
+   {
+     "element": "Earth",
+     "archetype": "Wolf",
+     "story": "In the dense forests of the Emerald Kingdom, you were born into a pack of fierce warriors and loyal companions, guided by the spirit of the noble wolf. With a natural aptitude for tracking, hunting, and working alongside others, you learned the ways of the wild, the importance of family, and the unbreakable bonds of loyalty. As you came of age, you sensed a growing darkness encroaching upon your homeland. Ancient spirits whispered of impending doom. With a heart as steadfast as the earth and a spirit as fierce as a wolf's howl, you left your pack to become an adventurer, confronting the gathering shadows and fighting for the survival of all you held dear.",
+     "spells": [
+       "Stony Grasp",
+       "Tremoring Earth",
+       "Entangling Vines",
+       "Primal Summoning",
+       "Graceful Camouflage",
+       "Swarming Insects",
+       "Awakening Touch"
+     ]
+   },
+   {
+     "element": "Earth",
+     "archetype": "Deer",
+     "story": "In the tranquil glades of the Whispering Woods, you were born into a family of healers and seers, guided by the gentle grace of the ethereal deer. With a deep attunement to the cycles of nature, a compassionate heart, and a gift for mending both physical and emotional wounds, you wandered the dappled paths of the forest, learning the secrets of herbs and offering solace to those in need. Sensing the growing imbalance in the world, you knew your skills were needed beyond the borders of your woodland home. With a heart as pure as the morning dew and a spirit as resilient as the oak, you embarked on a journey as an adventurer, setting out to restore harmony to the land, protect the vulnerable, and spread the message of hope and healing.",
+     "spells": [
+       "Entangling Vines",
+       "Bountiful Growth",
+       "Graceful Camouflage",
+       "Herbal Remedy",
+       "Blessed Regeneration",
+       "Divine Guidance",
+       "Calming Influence",
+       "Nature's Wisdom"
+     ]
+   },
+   {
+     "element": "Earth",
+     "archetype": "Eagle",
+     "story": "Atop the towering peaks of the Verdant Spires, you were raised by a clan of eagle-eyed scouts and messengers, embodying the keen sight and swiftness of the majestic bird. With an unparalleled ability to navigate treacherous terrain, a sharp mind for strategy, and a connection to the whispers carried on the mountain winds, you served as the eyes and ears of your people. As rumors of an ancient evil stirring deep within the earth reached your perch, you knew that your skills were needed beyond the confines of your mountain home. With a heart as steadfast as the bedrock and a spirit as swift as an eagle's dive, you took flight as an adventurer, vowing to uncover the truth and protect the innocent from the gathering storm.",
+     "spells": [
+       "Stony Grasp",
+       "Tremoring Earth",
+       "Soaring Flight",
+       "Insightful Vision",
+       "Prescient Foresight"
+     ]
+   },
+   {
+      "element": "Earth",
       "archetype": "Owl",
-      "story": "In the mystical realm of Zephyria, you were born into a family of scholars and sages, renowned for their wisdom and insight. Displaying an insatiable curiosity and keen intellect like the wise owl, you spent countless nights in grand libraries, unraveling the secrets of the arcane. As you delved deeper into the mysteries of the world, you sensed a looming threat. With a mind as sharp as the wind and a heart filled with purpose, you ventured beyond your studies to become an adventurer, vowing to uncover the truth and safeguard the balance of the realms."
+      "story": "In the ancient groves of the Verdant Realm, you were born into a lineage of wise healers and seers, guided by the enigmatic wisdom of the owl. With a deep understanding of the interconnectedness of all living things, a keen intellect, and an innate ability to commune with the spirits of nature, you spent countless moons studying the sacred arts of healing. As whispers of a mysterious blight spreading across the land reached your ears, you knew that your knowledge and connection to the earth would be crucial in restoring balance. With a heart as vast as the ancient forests and a spirit as wise as the owl's gaze, you embarked on a journey as an adventurer, seeking to unravel the secrets of the blight and bring healing to the afflicted.",
+      "spells": [
+        "Stony Grasp",
+        "Tremoring Earth",
+        "Entangling Vines",
+        "Bountiful Growth",
+        "Herbal Remedy",
+        "Blessed Regeneration",
+        "Divine Guidance",
+        "Nature's Wisdom",
+        "Scholarly Insight"
+      ]
+    },
+    {
+      "element": "Earth",
+      "archetype": "Snake",
+      "story": "In the lush jungles of the Emerald Basin, you were raised by a clan of shapeshifting healers, embodying the adaptability and mysterious powers of the serpent. With a deep understanding of the cycle of life, death, and rebirth, an affinity for medicinal plants, and the ability to shed your skin and transform, you learned the ancient arts of shamanic healing. As rumors of a great imbalance in the spirit world began to spread, you knew that your unique abilities would be needed to restore harmony. With a heart as resilient as the serpent's scales and a spirit as transformative as the snake's venom, you set out on a journey as an adventurer, vowing to bridge the gap between the physical and spiritual realms and bring healing to those in need.",
+      "spells": [
+        "Stony Grasp",
+        "Entangling Vines",
+        "Bountiful Growth",
+        "Graceful Camouflage",
+        "Herbal Remedy",
+        "Insightful Vision",
+        "Intuitive Perception"
+      ]
+    },
+    {
+      "element": "Water",
+      "archetype": "Snake",
+      "story": "In the shimmering oasis of the Cerulean Sands, you were born into a tribe of nomadic healers, guided by the enigmatic wisdom of the serpent. With a deep understanding of the life-giving properties of water, a keen sense of the flow of energy, and the ability to adapt to any situation, you learned the secret arts of hydromancy and healing. As whispers of a great drought threatening the land reached your ears, you knew that your connection to the element of water would be crucial in finding a solution. With a heart as fluid as the shifting sands and a spirit as wise as the ancient serpent, you embarked on a journey as an adventurer, seeking to uncover the source of the drought and bring healing to the parched earth.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Blessed Regeneration",
+        "Calming Influence",
+        "Insightful Vision",
+        "Intuitive Perception"
+      ]
+    },
+    {
+      "element": "Water",
+      "archetype": "Butterfly",
+      "story": "In the enchanted gardens of the Sapphire Isles, you were born into a family of gentle healers and nurturers, blessed by the transformative beauty of the butterfly. With a deep empathy for all living creatures, an understanding of the cycles of change, and an affinity for the soothing powers of water, you learned the art of emotional healing and renewal. As news of a great sorrow afflicting the people of the isles reached your garden, you felt called to use your gifts to bring comfort and hope. With a heart as compassionate as the butterfly's grace and a spirit as renewing as the ocean's tides, you set out on a journey as an adventurer, seeking to spread the message of healing and transformation to those in need.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Blessed Regeneration",
+        "Calming Influence",
+        "Graceful Camouflage",
+        "Intuitive Perception"
+      ]
     },
     {
       "element": "Air",
-      "archetype": "Butterfly",
-      "story": "In the enchanted gardens of the Whispering Winds, you were born into a family of artists and dreamers, blessed by the ever-changing beauty of the butterfly. With a vivid imagination, love for color and light, and an ability to navigate the currents of change, you flitted between vibrant flowers, weaving stories and capturing ephemeral wonders. As you grew older, a restless stirring in your soul emerged. The winds whispered of distant lands, untold adventures, and the transformative power of self-discovery. With a heart as light as a butterfly's wing, you left the comfort of your gardens to embark on a journey of metamorphosis, exploring the vast tapestry of life and inspiring others with your art."
-    },
-    {
-      "element": "Fire",
-      "archetype": "Lion",
-      "story": "In the scorching desert of Emberveld, you grew up in a clan known for their fiery passions and unwavering determination. Exhibiting the qualities of a natural leader like the lion, you possessed fierce loyalty and a burning desire to prove yourself. As you came of age, you saw injustice and suffering in the world, knowing you could not stand idly by. With a heart ablaze with purpose and a spirit as fierce as the desert sun, you left your clan to become an adventurer, determined to fight for what is right and protect the innocent from harm."
-    },
-    {
-      "element": "Fire",
-      "archetype": "Snake",
-      "story": "In the volcanic wastelands of Emberfell, you were born into a clan of survivors, forged in the fires of adversity. Like the cunning snake, you learned to adapt, strike swiftly, and navigate the treacherous landscape. Questioning the harsh traditions and hierarchy of your clan, you yearned for purpose, freedom, and the opportunity to forge your own path. With a heart smoldering with determination and a spirit as resilient as the flames, you broke free from the chains of your past to become an adventurer, exploring the world beyond the wastelands and carving your own destiny."
-    },
-    {
-      "element": "Fire",
       "archetype": "Fox",
-      "story": "In the scorched plains of the Crimson Steppes, you were born into a family of tricksters and survivors, guided by the cunning wit of the clever fox. With a quick mind, silver tongue, and ability to adapt to any situation, you learned the art of misdirection and the power of persuasion. Navigating treacherous politics and shifting alliances, you yearned for a higher purpose, a chance to use your skills for the greater good. With a heart as passionate as a flickering flame and a spirit as resourceful as a fox, you left behind the games of deceit to become an adventurer, unraveling mysteries, exposing corruption, and fighting for the truth."
+      "story": "In the misty valleys of the Zephyr Highlands, you were raised by a clan of cunning healers, embodying the cleverness and adaptability of the fox. With a quick wit, a deep understanding of the power of the mind, and an affinity for the healing properties of air and breath, you mastered the arts of herbalism and mental healing. As whispers of a strange malady affecting the minds of the highland people reached your ears, you knew that your skills would be essential in finding a cure. With a heart as clever as the fox's grin and a spirit as swift as the mountain winds, you embarked on a journey as an adventurer, vowing to uncover the truth behind the malady and restore clarity to the afflicted minds.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Nimble Retreat",
+        "Dimensional Passage",
+        "Insightful Vision",
+        "Prescient Foresight",
+        "Intuitive Perception"
+      ]
+    },
+    {
+      "element": "Air",
+      "archetype": "Deer",
+      "story": "In the tranquil glades of the Whispering Winds, you were born into a family of gentle healers and seers, guided by the grace and wisdom of the deer. With a deep attunement to the subtle energies of the world, a compassionate heart, and an ability to communicate with the spirits of the air, you learned the art of energy healing and soul retrieval. As news of a growing discord among the people of the glades reached your ears, you felt called to use your gifts to restore harmony and understanding. With a heart as pure as the deer's innocence and a spirit as gentle as the whispering winds, you set out on a journey as an adventurer, seeking to bring healing to the divided and reconnect them with the wisdom of the ancestors.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Nimble Retreat",
+        "Dimensional Passage",
+        "Blessed Regeneration",
+        "Calming Influence",
+        "Graceful Camouflage",
+        "Nature's Wisdom",
+        "Intuitive Perception"
+      ]
+    },
+    {
+      "element": "Fire",
+      "archetype": "Elephant",
+      "story": "In the sun-scorched savannas of the Amber Plains, you were raised by a herd of wise healers, embodying the strength, memory, and compassion of the majestic elephant. With a deep understanding of the transformative power of fire, a long memory of ancient healing practices, and a gentle touch that could soothe even the most troubled souls, you learned the art of shamanic fire healing. As whispers of a great conflict threatening to engulf the plains reached your ears, you knew that your wisdom and compassion would be needed to bring peace. With a heart as strong as the elephant's resolve and a spirit as warm as the savanna sun, you embarked on a journey as an adventurer, vowing to use the power of fire to purge the land of hatred and bring healing to the wounds of war.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Heavenly Fireball",
+        "Blessed Regeneration",
+        "Lifeforce Infusion",
+        "Calming Influence",
+        "Unbreakable Armor",
+        "Nature's Wisdom"
+      ]
+    },
+    {
+      "element": "Fire",
+      "archetype": "Turtle",
+      "story": "In the smoldering caldera of the Obsidian Isle, you were born into a clan of patient healers and protectors, guided by the wisdom and resilience of the ancient turtle. With a deep understanding of the cycle of destruction and renewal, an affinity for the cleansing properties of fire, and an unyielding dedication to the well-being of your people, you mastered the art of volcanic medicine and healing. As rumors of a great sickness sweeping across the isle reached your ears, you knew that your steadfast nature and knowledge of the earth's healing fires would be crucial in finding a cure. With a heart as resilient as the turtle's shell and a spirit as enduring as the smoldering caldera, you set out on a journey as an adventurer, determined to find the source of the sickness and bring healing to your beloved homeland.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Heavenly Fireball",
+        "Blessed Regeneration",
+        "Lifeforce Infusion",
+        "Circle of Protection",
+        "Unbreakable Armor",
+        "Resolute Stance"
+      ]
+    },
+    {
+      "element": "Earth",
+      "archetype": "Fox",
+      "story": "Amidst the towering trees of the Whispering Wood, you were taken under the wing of a mysterious fox-like being known as a Nagual, who taught you the ways of shapeshifting and navigating the realms between worlds. As you grew in your abilities, you discovered an ancient wardrobe hidden deep within the forest, which served as a portal to a land trapped in eternal winter. With your cunning wit and connection to the earth, you ventured forth to break the curse and restore the balance of the seasons.",
+      "spells": [
+        "Stony Grasp",
+        "Entangling Vines",
+        "Graceful Camouflage",
+        "Awakening Touch",
+        "Nimble Retreat",
+        "Insightful Vision",
+        "Intuitive Perception"
+      ]
     },
     {
       "element": "Water",
       "archetype": "Dolphin",
-      "story": "Growing up in a coastal village, you had a deep connection to the sea and its playful, adaptable creatures, particularly the dolphin. Your fluid personality and emotional intelligence made you a natural mediator and problem-solver. As you matured, you noticed growing threats to the ocean and its inhabitants. Realizing you could no longer remain a bystander, you felt a powerful call to action. With a spirit as fluid and determined as the tides, you became an adventurer, setting out to raise awareness, unite others, and protect the ocean realm you held dear."
+      "story": "Born beneath the waves of the Luminescent Lagoon, you were chosen by the Dolphin Dreaming, an ancient lineage of healers and visionaries who could commune with the spirits of the water. Under their guidance, you learned to enter altered states of consciousness and access the wisdom of the depths. When a great darkness began to poison the waters of a distant realm, you were called upon to journey through an enchanted pool and confront the malevolent force, armed with the power of the Dolphin Dreaming and your own courage.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Blessed Regeneration",
+        "Divine Guidance",
+        "Lifeforce Infusion",
+        "Calming Influence",
+        "Intuitive Perception"
+      ]
     },
     {
-      "element": "Water",
-      "archetype": "Turtle",
-      "story": "In the serene lagoons of the Sapphire Isles, you were born into a family of healers and protectors, guided by the wisdom of the ancient turtles. With a deep empathy for all living beings and a natural affinity for the nurturing powers of water, you tended to the sick and injured, learning the secrets of medicinal herbs and restorative tides. Witnessing growing strife and suffering in the world beyond your shores, you felt a powerful call to action. With a heart as deep as the ocean and a resolve as unyielding as a turtle's shell, you embarked on a journey of healing and redemption, using your skills and compassion to bring hope to the downtrodden and protect the innocent."
+      "element": "Air",
+      "archetype": "Owl",
+      "story": "High in the mist-shrouded peaks of the Zephyr Mountains, you were taken as an apprentice by an enigmatic owl-like figure known as a Brujo, who revealed to you the secrets of dreaming and the art of traversing the boundaries between realities. As you honed your skills, you stumbled upon a hidden gateway that led to a celestial realm where the stars themselves whispered of an impending calamity. With your newfound wisdom and the guidance of the wind, you set out to unravel the celestial prophecy and prevent the catastrophe from unfolding.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Nimble Retreat",
+        "Dimensional Passage",
+        "Insightful Vision",
+        "Prescient Foresight",
+        "Scholarly Insight",
+        "Ancestral Knowledge",
+        "Intuitive Perception"
+      ]
     },
     {
-      "element": "Water",
-      "archetype": "Elephant",
-      "story": "In the misty rainforests of the Emerald Isles, you were born into a family of sages and guardians, blessed by the wisdom and strength of the majestic elephant. With a deep connection to the life-giving waters, a patient and compassionate nature, and an unwavering sense of justice, you learned the ancient traditions of your people and the delicate balance that sustains all living things. Witnessing growing threats to your homeland, you knew you could not stand idly by. With a heart as vast as the ocean and a spirit as unshakable as an elephant's resolve, you took up the mantle of an adventurer, setting out to defend the weak, purify the tainted waters, and preserve the ancient wisdom of your ancestors."
+      "element": "Fire",
+      "archetype": "Lion",
+      "story": "In the scorched heart of the Crimson Desert, you were born into a pride of fierce warriors who followed the Way of the Lion, a path of courage, leadership, and self-mastery handed down by a legendary Toltec seer. As you underwent the trials of the Way, you discovered an ancient lamp hidden among the dunes, which, when lit, transported you to a world engulfed in shadow and flame. With the strength of the lion and the wisdom of the Toltec teachings, you embarked on a quest to reignite the light of hope and banish the darkness that threatened to consume all.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Heavenly Fireball",
+        "Radiant Aura",
+        "Unbreakable Armor",
+        "Resolute Stance",
+        "Inner Cultivation",
+        "Insightful Vision"
+      ]
     },
     {
       "element": "Earth",
       "archetype": "Bear",
-      "story": "Deep within the Emerald Vale, you were raised in a family known for their strong connection to the earth and its nurturing, protective qualities, much like the steadfast bear. Displaying a deep understanding of the natural world, unwavering loyalty, and a patient, enduring spirit, you witnessed increasing threats to the forest and its inhabitants. With a heart rooted in the earth and a spirit as unyielding as the mountains, you became an adventurer, vowing to use your strength, knowledge, and connection to nature to defend the Emerald Vale, protect its creatures, and preserve the delicate balance that sustained all life."
+      "story": "Deep within the Great Greenwood, you were taken under the tutelage of a wise and ancient Bear spirit, who taught you the ways of plant medicine, earth magic, and the art of dream healing. As your connection to the land deepened, you discovered a hidden grove that pulsed with an otherworldly energy, and within it, a portal to a realm where the very earth itself was dying. With the strength of the bear and your knowledge of healing, you stepped through the portal to restore life to the blighted land and confront the dark forces that sought to destroy it.",
+      "spells": [
+        "Stony Grasp",
+        "Tremoring Earth",
+        "Entangling Vines",
+        "Bountiful Growth",
+        "Verdant Barrier",
+        "Herbal Remedy",
+        "Blessed Regeneration",
+        "Lifeforce Infusion",
+        "Awakening Touch"
+      ]
+    },
+    {
+      "element": "Water",
+      "archetype": "Turtle",
+      "story": "On a remote island in the Cerulean Sea, you were chosen by the Turtle Sages, an ancient order of healers and seers who guarded the secrets of the tides and the mysteries of the deep. Under their guidance, you learned to navigate the currents of time and space, and to access the vast reservoir of knowledge held within the ocean's memory. When a strange and malevolent force began to twist the very fabric of reality, you were called upon to embark on a journey through an enchanted sea-gate, armed with the wisdom of the Turtle Sages and your own indomitable spirit.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Blessed Regeneration",
+        "Divine Guidance",
+        "Lifeforce Infusion",
+        "Circle of Protection",
+        "Unbreakable Armor",
+        "Resolute Stance",
+        "Prescient Foresight",
+        "Ancestral Knowledge"
+      ]
+    },
+    {
+      "element": "Air",
+      "archetype": "Butterfly",
+      "story": "In the shimmering fields of the Gossamer Meadows, you were born into a clan of Butterfly Dreamers, ethereal beings who could shape reality through the power of their dreams. As you learned to weave the gossamer threads of your own dreams, you discovered a hidden portal within a field of shimmering flowers, which led to a world trapped in a never-ending cycle of metamorphosis. With your ability to navigate the realms of dream and your understanding of transformation, you ventured forth to break the cycle and guide the inhabitants towards a new era of growth and change.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Nimble Retreat",
+        "Dimensional Passage",
+        "Graceful Camouflage",
+        "Calming Influence",
+        "Intuitive Perception",
+        "Third Eye Revelation",
+        "Oracular Divination"
+      ]
+    },
+    {
+      "element": "Fire",
+      "archetype": "Snake",
+      "story": "Amidst the smoldering ruins of an ancient city, you were taken as an apprentice by a mysterious Snake Sage, one of the last remaining masters of the Art of Controlled Folly. Under their tutelage, you learned to shed your old skin, embrace the power of transformation, and dance between the realms of sanity and madness. As you explored the ruins, you unearthed a portal hidden within a serpentine glyph, which transported you to a world engulfed in the flames of chaos. With your mastery of the Art and your connection to the primal fire within, you set out to restore order to the realm and confront the architect of its destruction.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Wrathful Curse",
+        "Insightful Vision",
+        "Intuitive Perception",
+        "Unbreakable Armor",
+        "Radiant Aura",
+        "Inner Cultivation"
+      ]
+    },
+    {
+      "element": "Air",
+      "archetype": "Snake",
+      "story": "In the mist-shrouded peaks of the northern mountains, you were born into a clan of serpent shamans who traced their lineage back to the great world serpent. Guided by the wisdom of your ancestors and the power of the wind, you learned to bridge the gap between the material and spiritual realms, offering prayers and sacrifices to the ancestral spirits in exchange for their blessings and guidance. As a mysterious illness began to spread through the villages, you embarked on a quest to find the sacred serpent staff, an ancient relic imbued with the power to heal and restore balance to the land.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Nimble Retreat",
+        "Dimensional Passage",
+        "Insightful Vision",
+        "Intuitive Perception",
+        "Prescient Foresight",
+        "Third Eye Revelation",
+        "Ancestral Knowledge"
+      ]
+    },
+    {
+      "element": "Fire",
+      "archetype": "Eagle",
+      "story": "Amidst the scorched plains of the southern savanna, you were chosen by the elders to become a fire seer, a traditional healer blessed with the keen sight and swift wings of the eagle spirit. Under the tutelage of the elder fire seers, you learned to harness the power of fire to purify the body and spirit, and to use sacred herbs and rituals to treat the ailments of your people. When a great drought threatened to destroy the savanna, you undertook a perilous journey to the heart of the sun, a legendary shrine said to hold the power to summon the life-giving rains.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Heavenly Fireball",
+        "Soaring Flight",
+        "Insightful Vision",
+        "Prescient Foresight",
+        "Radiant Aura",
+        "Inner Cultivation"
+      ]
+    },
+    {
+      "element": "Water",
+      "archetype": "Dolphin",
+      "story": "Born in the crystal-clear waters of the western lagoon, you were taken in by a pod of dolphin healers who had long ago made a pact with the dolphin spirit. Guided by the playful wisdom of the dolphin and the soothing power of water, you learned to use sacred chants and underwater meditation to tap into the healing energy of the tides. When a strange and malevolent force began to poison the waters of the lagoon, you set out to find the legendary pearl of the deep, an artifact said to hold the power to purify the waters and restore harmony to the sea.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Blessed Regeneration",
+        "Divine Guidance",
+        "Calming Influence",
+        "Intuitive Perception",
+        "Third Eye Revelation",
+        "Nature's Wisdom"
+      ]
     },
     {
       "element": "Earth",
-      "archetype": "Wolf",
-      "story": "In the dense forests of the Emerald Kingdom, you were born into a pack of fierce warriors and loyal companions, guided by the spirit of the noble wolf. With a natural aptitude for tracking, hunting, and working alongside others, you learned the ways of the wild, the importance of family, and the unbreakable bonds of loyalty. As you came of age, you sensed a growing darkness encroaching upon your homeland. Ancient spirits whispered of impending doom. With a heart as steadfast as the earth and a spirit as fierce as a wolf's howl, you left your pack to become an adventurer, confronting the gathering shadows and fighting for the survival of all you held dear."
+      "archetype": "Elephant",
+      "story": "Deep in the lush jungles of the eastern basin, you were raised by a herd of elephant sages who revered the great elephant spirit as a symbol of wisdom, strength, and unity. Under their guidance, you learned to commune with the spirits of the earth, to harness the power of ancient tree roots for healing, and to use your deep connection to nature to bring balance and prosperity to your people. When a powerful earthquake shattered the sacred grove, you embarked on a quest to find the mythical emerald of the elephant, a gem said to hold the power to heal the land and restore the balance of nature.",
+      "spells": [
+        "Stony Grasp",
+        "Tremoring Earth",
+        "Entangling Vines",
+        "Bountiful Growth",
+        "Verdant Barrier",
+        "Herbal Remedy",
+        "Blessed Regeneration",
+        "Lifeforce Infusion",
+        "Nature's Wisdom",
+        "Intuitive Perception"
+      ]
     },
     {
-      "element": "Earth",
+      "element": "Air",
+      "archetype": "Turtle",
+      "story": "On the windswept shores of the northern coast, you were born into a clan of turtle seers who had long ago formed a bond with the wise turtle spirit. Guided by the patient wisdom of the turtle and the ever-changing winds, you learned to navigate the boundaries between the realms of the living and the dead, to seek guidance from the ancestral spirits, and to use your knowledge of the wind and waves to protect your people. When a powerful typhoon threatened to destroy the coastal villages, you set out to find the legendary shell of the turtle, an artifact said to hold the power to calm the storms and guide your people to safety.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Tempestuous Gust",
+        "Dimensional Passage",
+        "Insightful Vision",
+        "Prescient Foresight",
+        "Ancestral Knowledge",
+        "Unbreakable Armor",
+        "Resolute Stance"
+      ]
+    },
+    {
+      "element": "Fire",
       "archetype": "Deer",
-      "story": "In the tranquil glades of the Whispering Woods, you were born into a family of healers and seers, guided by the gentle grace of the ethereal deer. With a deep attunement to the cycles of nature, a compassionate heart, and a gift for mending both physical and emotional wounds, you wandered the dappled paths of the forest, learning the secrets of herbs and offering solace to those in need. Sensing the growing imbalance in the world, you knew your skills were needed beyond the borders of your woodland home. With a heart as pure as the morning dew and a spirit as resilient as the oak, you embarked on a journey as an adventurer, setting out to restore harmony to the land, protect the vulnerable, and spread the message of hope and healing."
-    }
-  ]
-}
+      "story": "Amidst the smoldering ruins of an ancient temple, you were chosen by the elders to become a guardian of the sacred flame, blessed with the grace and swiftness of the deer spirit. Under the guidance of the temple sages, you learned to use the purifying power of fire in your healing rituals, to commune with the spirits of the ancestors through the dance of the flames, and to use your quick wit and agility to protect the temple and its secrets. When a dark and ancient evil began to stir within the depths of the ruins, you embarked on a quest to find the mythical antlers of the deer, a relic said to hold the power to banish the darkness and restore the light of hope to the land.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Nimble Retreat",
+        "Graceful Camouflage",
+        "Blessed Regeneration",
+        "Calming Influence",
+        "Radiant Aura",
+        "Inner Cultivation",
+        "Intuitive Perception"
+      ]
+    },
+    {
+      "element": "Water",
+      "archetype": "Fox",
+      "story": "Born on the misty banks of the western river, you were taken in by a family of fox healers who had long ago earned the favor of the cunning fox spirit. Guided by the mischievous wisdom of the fox and the adaptable power of water, you learned to use your quick wit and shapeshifting abilities to navigate the challenges of the healing arts, to use the power of the river to cleanse both body and spirit, and to use your charm and cleverness to gain the trust and cooperation of your patients. When a mysterious figure began to steal the life-giving waters of the river, you set out to find the legendary brush of the fox, an artifact said to hold the power to expose hidden truths and restore the balance of nature.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Nimble Retreat",
+        "Graceful Camouflage",
+        "Blessed Regeneration",
+        "Calming Influence",
+        "Insightful Vision",
+        "Intuitive Perception"
+      ]
+    },
+    {
+      "element": "Earth",
+      "archetype": "Dolphin",
+      "story": "In the crystal-clear waters of the eastern lagoon, you were born into a pod of dolphin healers who had long ago formed a bond with the playful dolphin spirit. Guided by the joyful wisdom of the dolphin and the nurturing power of the earth, you learned to use the healing properties of the lagoon's sacred mud and plants, to communicate with the spirits of the land through the echoes of the underwater caves, and to use your empathetic nature to bring comfort and healing to those in need. When a strange blight began to spread through the lagoon, turning the water murky and the plants withered, you embarked on a quest to find the legendary pearl of the dolphin, an artifact said to hold the power to restore life and vitality to the earth.",
+      "spells": [
+        "Entangling Vines",
+        "Bountiful Growth",
+        "Herbal Remedy",
+        "Blessed Regeneration",
+        "Divine Guidance",
+        "Lifeforce Infusion",
+        "Calming Influence",
+        "Nature's Wisdom",
+        "Intuitive Perception"
+      ]
+    },
+    {
+      "element": "Fire",
+      "archetype": "Bear",
+      "story": "In the savage lands of the northern steppes, you were born into a tribe of bear warriors, renowned for their ferocity and indomitable strength. Under the tutelage of the shamans, you learned to harness the primal power of fire, to enter a berserker rage in battle, and to commune with the spirits of your ancestors. When a horde of demonic invaders threatened to lay waste to your homeland, you took up the legendary axe of the bear, a weapon said to hold the power to cleave through the strongest armor and the darkest sorcery, and set out to defend your people and crush the forces of evil.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Heavenly Fireball",
+        "Wrathful Curse",
+        "Unbreakable Armor",
+        "Radiant Aura",
+        "Unyielding Fortitude",
+        "Inner Cultivation",
+        "Ancestral Knowledge"
+      ]
+    },
+    {
+      "element": "Earth",
+      "archetype": "Lion",
+      "story": "Amidst the sprawling savannas of the southern plains, you were raised by a pride of lion riders, a fierce and noble people who had tamed the great cats of the grasslands. Under the guidance of the pride's elders, you learned to wield the power of the earth, to command the respect of the lions, and to lead your people with courage and wisdom. When a powerful sorcerer began to raise an army of undead to conquer the savannas, you embarked on a quest to find the fabled spear of the lion, an enchanted weapon said to hold the power to pierce the veil between life and death, and put an end to the necromancer's dark ambitions.",
+      "spells": [
+        "Stony Grasp",
+        "Tremoring Earth",
+        "Entangling Vines",
+        "Radiant Aura",
+        "Unbreakable Armor",
+        "Resolute Stance",
+        "Inner Cultivation",
+        "Insightful Vision",
+        "Prescient Foresight"
+      ]
+    },
+    {
+      "element": "Water",
+      "archetype": "Serpent",
+      "story": "In the depths of the western swamps, you were born into a clan of serpent priests, a secretive order who guarded the mysteries of the ancient water magic. Guided by the whispering spirits of the marsh, you learned to command the powers of water, to summon venomous serpents to do your bidding, and to unravel the secrets of the forgotten gods. When a cult of dark sorcerers began to sacrifice innocent souls to fuel their forbidden rituals, you set out to find the legendary chalice of the serpent, a powerful artifact said to hold the power to purify the tainted waters and banish the evil that threatened to engulf the land.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Wrathful Curse",
+        "Insightful Vision",
+        "Intuitive Perception",
+        "Unbreakable Armor",
+        "Resolute Stance",
+        "Third Eye Revelation",
+        "Ancestral Knowledge"
+      ]
+    },
+    {
+      "element": "Air",
+      "archetype": "Falcon",
+      "story": "High in the windswept peaks of the eastern mountains, you were taken in by a order of falcon knights, an elite group of warriors who had mastered the art of aerial combat. Under the tutelage of the order's grand master, you learned to harness the power of the wind, to soar through the skies on the back of a giant falcon, and to strike with the speed and precision of a bird of prey. When a cabal of corrupt lords began to oppress the people of the lowlands, you took up the legendary bow of the falcon, a weapon said to fire arrows imbued with the power of the storm, and set out to bring justice to the downtrodden and restore balance to the realm.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Soaring Flight",
+        "Tempestuous Gust",
+        "Mighty Bolt",
+        "Forceful Arrows",
+        "Insightful Vision",
+        "Prescient Foresight",
+        "Radiant Aura",
+        "Resolute Stance"
+      ]
+    }, 
+    {
+      "element": "Fire",
+      "archetype": "Scorpion",
+      "story": "In the scorched deserts of the southern wastes, you were raised by a clan of scorpion assassins, a feared and respected group of warriors who had perfected the art of stealth and poison. Under the guidance of the clan's master, you learned to wield the power of fire, to brew deadly toxins from the scorpion's venom, and to strike from the shadows with lethal precision. When a powerful warlord began to unite the desert tribes under his tyrannical rule, you embarked on a quest to find the mythical dagger of the scorpion, a blade said to hold the power to cut through the strongest armor and the darkest magic, and put an end to the warlord's reign of terror.",
+      "spells": [
+        "Burning Touch",
+        "Scorching Ray",
+        "Wrathful Curse",
+        "Devouring Plague",
+        "Nimble Retreat",
+        "Insightful Vision",
+        "Intuitive Perception",
+        "Unbreakable Armor",
+        "Inner Cultivation"
+      ]
+    },
+    {
+      "element": "Earth",
+      "archetype": "Rhino",
+      "story": "Amidst the dense jungles of the western rainforest, you were born into a tribe of rhino riders, a proud and resilient people who had learned to harness the strength and power of the great horned beasts. Under the tutelage of the tribe's shamans, you learned to channel the power of the earth, to charge into battle atop a mighty rhino, and to defend your people with unwavering courage and determination. When a horde of savage beasts began to pour forth from a magical portal deep within the jungle, you took up the legendary horn of the rhino, a powerful artifact said to hold the power to summon the spirits of the forest and the strength of the earth itself, and set out to drive back the invading monsters and seal the portal forever.",
+      "spells": [
+        "Stony Grasp",
+        "Tremoring Earth",
+        "Entangling Vines",
+        "Bountiful Growth",
+        "Verdant Barrier",
+        "Unbreakable Armor",
+        "Unyielding Fortitude",
+        "Resolute Stance",
+        "Awakening Touch"
+      ]
+    },
+    {
+      "element": "Water",
+      "archetype": "Crocodile",
+      "story": "In the murky swamps of the eastern wetlands, you were raised by a clan of crocodile warriors, a fierce and cunning people who had learned to thrive in the treacherous marshes. Under the guidance of the clan's elders, you learned to harness the power of water, to ambush your enemies from beneath the surface, and to crush them with the powerful jaws of the crocodile. When a sect of dark druids began to corrupt the swamps with their twisted magic, you embarked on a quest to find the fabled teeth of the crocodile, a set of enchanted talismans said to hold the power to purify the tainted waters and restore the balance of nature.",
+      "spells": [
+        "Tempestuous Gust",
+        "Freezing Breath",
+        "Wrathful Curse",
+        "Nimble Retreat",
+        "Insightful Vision",
+        "Intuitive Perception",
+        "Unbreakable Armor",
+        "Unyielding Fortitude",
+        "Resolute Stance"
+      ]
+    },
+    {
+      "element": "Air",
+      "archetype": "Owl",
+      "story": "High in the misty peaks of the northern mountains, you were born into a clan of owl sages, a wise and mysterious people who had learned to harness the power of the wind and the secrets of the night. Under the tutelage of the clan's oracles, you learned to commune with the spirits of the air, to see through the darkness with the eyes of an owl, and to unravel the mysteries of the ancient prophecies. When a powerful sorcerer began to threaten the balance of the elements with his dark magic, you took up the legendary cloak of the owl, an enchanted garment said to hold the power to grant its wearer the wisdom of the ages and the ability to manipulate the winds themselves, and set out to confront the sorcerer and restore harmony to the world.",
+      "spells": [
+        "Swift Wind's Blessing",
+        "Tempestuous Gust",
+        "Dimensional Passage",
+        "Insightful Vision",
+        "Prescient Foresight",
+        "Scholarly Insight",
+        "Ancestral Knowledge",
+        "Third Eye Revelation",
+        "Oracular Divination"
+        ]
+        }
+        ]
+        }        
