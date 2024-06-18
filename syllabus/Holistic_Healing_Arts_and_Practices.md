@@ -48,7 +48,7 @@ By the end of this program, students will have the basic vocabulary and the abil
 
 #### **Module 5: Other Healing Methods**
 - Introduction to medical herbalism 
-- Balneotherapy, DMSO and Methylene Blue Overview
+- Balneotherapy, Activated charcoal, DMSO and Methylene Blue Overview
 - Vibrational healing with sound and music
 - Color and light therapies 
 - Prayer, ritual, and spiritual practices in healing
