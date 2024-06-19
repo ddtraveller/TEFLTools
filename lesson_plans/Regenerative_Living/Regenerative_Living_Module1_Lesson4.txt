@@ -4,32 +4,24 @@ Explain the importance of mapping and site assessment in permaculture design
 Discuss the key elements to consider when assessing a site (e.g., topography, water sources, soil types, existing vegetation)
 
 
-Mapping Techniques (20 minutes)
+Mapping Techniques (10 minutes)
 
 Introduce different mapping techniques (e.g., hand-drawn maps, GPS mapping, aerial photography)
 Demonstrate how to create a base map using Folium library in Python
 Show examples of maps with heat maps, colored areas, and points of interest
 
 
-Site Assessment (30 minutes)
+Site Assessment (10 minutes)
 
 Explain the process of conducting a site assessment
 Discuss the factors to consider when assessing a site (e.g., sun exposure, wind patterns, microclimates, water flow)
-Divide the class into groups and assign each group a different site assessment factor to analyze
-
 
 Group Activity (30 minutes)
 
 Provide each group with a base map of a hypothetical site
 Ask the groups to conduct a site assessment based on their assigned factor and add relevant information to the map using colored areas, heat maps, or points of interest
 Encourage the groups to use the Folium library to create their maps
-
-
-Presentation and Discussion (20 minutes)
-
-Have each group present their site assessment findings and maps to the class
-Facilitate a discussion on the importance of considering multiple factors in site assessment and how they interact with each other
-
+Give them the source code for the sample map in the scripts folder, mapping.py.
 
 Conclusion (10 minutes)
 
