@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_010d02cca44308d7766525b8a1515c22 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 50px; left: 50px; width: 150px; height: 105px; border:2px solid grey; z-index:9999; font-size:12px; background-color: white; overflow: auto;">
+    &nbsp;<b>Soil Types</b><br>
+    &nbsp;<span style="color:orange; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;Sandy Loam<br>
+    &nbsp;<span style="color:darkred; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;Clay Loam<br>
+    &nbsp;<span style="color:darkblue; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;Silt Loam<br>
+</div>
+    
+<div style="position: fixed; bottom: 50px; left: 200px; width: 150px; height: 75px; border:2px solid grey; z-index:9999; font-size:12px; background-color: white; overflow: auto;">
+    &nbsp;<b>Water Sources</b><br>
+    &nbsp;<span style="color:blue; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;Spring<br>
+    &nbsp;<span style="color:darkblue; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;Stream<br>
+</div>
+    
+<div style="position: fixed; bottom: 50px; left: 350px; width: 150px; height: 75px; border:2px solid grey; z-index:9999; font-size:12px; background-color: white; overflow: auto;">
+    &nbsp;<b>Heat Map</b><br>
+    &nbsp;<span style="color:Red; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;40c<br>
+    &nbsp;<span style="color:Orange; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;37c<br>
+    &nbsp;<span style="color:Yellow; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;34c<br>
+    &nbsp;<span style="color:Green; font-weight:bold; font-size:14px;">&nbsp;&bull;</span>&nbsp;31c<br>
+</div>
+    
+<div style="position: fixed; top: 10px; left: 50px; width: 500px; height: 75px; border:2px solid grey; z-index:9999; font-size:14px; background-color: white; overflow: auto;">
+    &nbsp;<h3>Permaculture Site Assessment Map - Timor-Leste</h3>
+    &nbsp;<p>This map illustrates the various factors considered for permaculture design, including soil types, water sources, and sun exposure.</p>
+</div>
+    
+            <div class="folium-map" id="map_010d02cca44308d7766525b8a1515c22" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_010d02cca44308d7766525b8a1515c22 = L.map(
+                "map_010d02cca44308d7766525b8a1515c22",
+                {
+                    center: [-8.5557, 125.5135],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 8,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f698f46b036b2ae7bf0f048d8e906be4 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_f698f46b036b2ae7bf0f048d8e906be4.addTo(map_010d02cca44308d7766525b8a1515c22);
+        
+    
+            var marker_05b174897bf6c7b5f7638eb48187ff50 = L.marker(
+                [-8.5557, 125.5135],
+                {}
+            ).addTo(map_010d02cca44308d7766525b8a1515c22);
+        
+    
+            var icon_e71d1eb3e753e827053bd54b77cefe87 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_05b174897bf6c7b5f7638eb48187ff50.setIcon(icon_e71d1eb3e753e827053bd54b77cefe87);
+        
+    
+        var popup_4c13a8a5122d41c59f57034b65467d0e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d8b04995c33a498f2711aee99aa3785d = $(`<div id="html_d8b04995c33a498f2711aee99aa3785d" style="width: 100.0%; height: 100.0%;">Permaculture Site</div>`)[0];
+                popup_4c13a8a5122d41c59f57034b65467d0e.setContent(html_d8b04995c33a498f2711aee99aa3785d);
+            
+        
+
+        marker_05b174897bf6c7b5f7638eb48187ff50.bindPopup(popup_4c13a8a5122d41c59f57034b65467d0e)
+        ;
+
+        
+    
+    
+            var feature_group_55fbff34d9f5867a7fdf24c47f06eb17 = L.featureGroup(
+                {}
+            );
+        
+    
+            var polygon_7e808e283d9a01075ce94b18485b4f7c = L.polygon(
+                [[-8.506851774505208, 125.32465278188032], [-8.6342321958898, 125.66398318166488], [-8.461229996444077, 125.61208651906293], [-8.32520180650323, 125.41541131106769]],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_55fbff34d9f5867a7fdf24c47f06eb17);
+        
+    
+        var popup_a2544a67249df05dda3fbe1846ebcb9b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_224120b1c1f090f07e737995511ce71a = $(`<div id="html_224120b1c1f090f07e737995511ce71a" style="width: 100.0%; height: 100.0%;">Sandy Loam</div>`)[0];
+                popup_a2544a67249df05dda3fbe1846ebcb9b.setContent(html_224120b1c1f090f07e737995511ce71a);
+            
+        
+
+        polygon_7e808e283d9a01075ce94b18485b4f7c.bindPopup(popup_a2544a67249df05dda3fbe1846ebcb9b)
+        ;
+
+        
+    
+    
+            var polygon_6a8067f4f4614f60488305ef5d0dfa2e = L.polygon(
+                [[-8.602848218737698, 125.33685957279967], [-8.515166677789292, 125.55914216184892], [-8.306922555267969, 125.5867816052031], [-8.424523141018687, 125.49375584856713]],
+                {"bubblingMouseEvents": true, "color": "darkred", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "darkred", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_55fbff34d9f5867a7fdf24c47f06eb17);
+        
+    
+        var popup_afe44b2b5a136f1f44a5389c8f9e4a21 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7ed13e4483df82ac8de8122315700565 = $(`<div id="html_7ed13e4483df82ac8de8122315700565" style="width: 100.0%; height: 100.0%;">Clay Loam</div>`)[0];
+                popup_afe44b2b5a136f1f44a5389c8f9e4a21.setContent(html_7ed13e4483df82ac8de8122315700565);
+            
+        
+
+        polygon_6a8067f4f4614f60488305ef5d0dfa2e.bindPopup(popup_afe44b2b5a136f1f44a5389c8f9e4a21)
+        ;
+
+        
+    
+    
+            var polygon_05f575ff7ec6fe2c8dd726d5c52e64d9 = L.polygon(
+                [[-8.527593681228009, 125.31524105590877], [-8.623309361065848, 125.57385974041718], [-8.354564408563668, 125.64170445620924], [-8.46618641469698, 125.42307859909292]],
+                {"bubblingMouseEvents": true, "color": "darkblue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "darkblue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1.0, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(feature_group_55fbff34d9f5867a7fdf24c47f06eb17);
+        
+    
+        var popup_daaaa0a8b139b23e82da678b81af353b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f14d4460b8ec71e4bfdeb06b440ced93 = $(`<div id="html_f14d4460b8ec71e4bfdeb06b440ced93" style="width: 100.0%; height: 100.0%;">Silt Loam</div>`)[0];
+                popup_daaaa0a8b139b23e82da678b81af353b.setContent(html_f14d4460b8ec71e4bfdeb06b440ced93);
+            
+        
+
+        polygon_05f575ff7ec6fe2c8dd726d5c52e64d9.bindPopup(popup_daaaa0a8b139b23e82da678b81af353b)
+        ;
+
+        
+    
+    
+            feature_group_55fbff34d9f5867a7fdf24c47f06eb17.addTo(map_010d02cca44308d7766525b8a1515c22);
+        
+    
+            var feature_group_3fc5f2b41eb72b7ec1e6208557fc283e = L.featureGroup(
+                {}
+            );
+        
+    
+            var marker_bb93db915e96f9c8b06b39e6367233cf = L.marker(
+                [-8.55, 125.52],
+                {}
+            ).addTo(feature_group_3fc5f2b41eb72b7ec1e6208557fc283e);
+        
+    
+            var icon_a1ec59df3ffc1394528c8535afd10c97 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tint", "iconColor": "white", "markerColor": "blue", "prefix": "fa"}
+            );
+            marker_bb93db915e96f9c8b06b39e6367233cf.setIcon(icon_a1ec59df3ffc1394528c8535afd10c97);
+        
+    
+        var popup_a48430ba2505e8cecd96dc10bbb3d2b0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_241dc6e70951eb05856a19450584ac16 = $(`<div id="html_241dc6e70951eb05856a19450584ac16" style="width: 100.0%; height: 100.0%;">Spring</div>`)[0];
+                popup_a48430ba2505e8cecd96dc10bbb3d2b0.setContent(html_241dc6e70951eb05856a19450584ac16);
+            
+        
+
+        marker_bb93db915e96f9c8b06b39e6367233cf.bindPopup(popup_a48430ba2505e8cecd96dc10bbb3d2b0)
+        ;
+
+        
+    
+    
+            var marker_45f99b71370f9f7080f203891323b018 = L.marker(
+                [-8.58, 125.55],
+                {}
+            ).addTo(feature_group_3fc5f2b41eb72b7ec1e6208557fc283e);
+        
+    
+            var icon_2941df2e7ad21a13f92f68af61fe95cf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tint", "iconColor": "white", "markerColor": "darkblue", "prefix": "fa"}
+            );
+            marker_45f99b71370f9f7080f203891323b018.setIcon(icon_2941df2e7ad21a13f92f68af61fe95cf);
+        
+    
+        var popup_bcaf7878c5d9726aacb5333320792fd0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8e990ece5654ebf20fad0f08d671e20d = $(`<div id="html_8e990ece5654ebf20fad0f08d671e20d" style="width: 100.0%; height: 100.0%;">Stream</div>`)[0];
+                popup_bcaf7878c5d9726aacb5333320792fd0.setContent(html_8e990ece5654ebf20fad0f08d671e20d);
+            
+        
+
+        marker_45f99b71370f9f7080f203891323b018.bindPopup(popup_bcaf7878c5d9726aacb5333320792fd0)
+        ;
+
+        
+    
+    
+            feature_group_3fc5f2b41eb72b7ec1e6208557fc283e.addTo(map_010d02cca44308d7766525b8a1515c22);
+        
+    
+            var feature_group_14843705924380861aa0abcaf22c0237 = L.featureGroup(
+                {}
+            );
+        
+    
+            var heat_map_6645dc27b92d2864c94f03ba47704242 = L.heatLayer(
+                [[-8.538510236828177, 125.47274557984177, 847], [-8.581578322688541, 125.47171818839986, 446], [-8.504001990755503, 125.48494200420984, 937], [-8.593677996518094, 125.56539728114208, 747], [-8.546569531106345, 125.4919176530689, 324], [-8.554958762659918, 125.54205837296738, 361], [-8.584763730789891, 125.56532612428042, 119], [-8.514518631096948, 125.47621137436126, 944], [-8.551006079406724, 125.55712028749278, 189], [-8.594344964862099, 125.50517456834824, 856], [-8.577370249443394, 125.49589481809208, 889], [-8.578149255359765, 125.52474700728337, 972], [-8.528239993147688, 125.52450337271914, 967], [-8.5619080844049, 125.5202628610223, 991], [-8.515967174342608, 125.49068858721195, 685], [-8.540455793735738, 125.56313975039126, 608], [-8.599896402843914, 125.48253317082288, 327], [-8.516408871181815, 125.48120114592373, 353], [-8.513717843394568, 125.51985798524753, 712], [-8.592568952553831, 125.55458329266905, 982], [-8.545613917380328, 125.52388621849289, 56], [-8.562922412528646, 125.51002953223782, 637], [-8.55510185588987, 125.49248207528186, 103], [-8.572857152259763, 125.56077588795779, 314], [-8.5138880124551, 125.56146386854812, 983], [-8.58201750534733, 125.54383419516287, 162], [-8.545585671334798, 125.5337774201195, 272], [-8.519430769198225, 125.55875658381396, 713], [-8.5753154571384, 125.50415801004216, 934], [-8.512512374952081, 125.4806129451426, 584], [-8.540418822702417, 125.52161069928508, 457], [-8.545216647852842, 125.5597428138419, 867], [-8.551846501829953, 125.5510206993686, 213], [-8.553695335371351, 125.54868411515606, 187], [-8.541687959871695, 125.54483321928633, 236], [-8.519914999784916, 125.4725164992361, 589], [-8.565269951364987, 125.51697334254428, 518], [-8.532017414095666, 125.54274640833941, 394], [-8.532546793890258, 125.51364030703223, 330], [-8.589184873756007, 125.47427777963608, 180], [-8.586444111059768, 125.554905458534, 900], [-8.576568262077146, 125.4999573399082, 836], [-8.586553831006551, 125.48832710596572, 204], [-8.522947985067141, 125.5132584211292, 331], [-8.548730551706255, 125.47949574578179, 848], [-8.557535744283781, 125.47229319112206, 25], [-8.526307357309928, 125.53167465929145, 436], [-8.558371972956696, 125.52387930731466, 126], [-8.542535056449594, 125.4970558123706, 193], [-8.577117348472388, 125.4878400430276, 942], [-8.540189035523278, 125.51968741603297, 649], [-8.534430312877737, 125.49338337743067, 79], [-8.546840230789485, 125.55030870772384, 565], [-8.518545398531327, 125.55846707610237, 490], [-8.521978208646535, 125.49463897084858, 73], [-8.510198565217518, 125.53520361855082, 218], [-8.529069181880411, 125.51941481662641, 435], [-8.511731796385462, 125.53784387310968, 913], [-8.547619182851715, 125.53758412262928, 446], [-8.579960213510596, 125.5054857844098, 310], [-8.53362178300354, 125.50401365588665, 212], [-8.512259951313691, 125.50199113606504, 950], [-8.504037406074087, 125.52627109709897, 276], [-8.55284246553288, 125.48605088884014, 851], [-8.530591201831465, 125.56120485071365, 892], [-8.56250706051931, 125.55375234823231, 758], [-8.5818145945202, 125.47713105178325, 222], [-8.541951050574232, 125.50916767195645, 328], [-8.537990316134675, 125.53335408662241, 207], [-8.569806949544553, 125.52413672953199, 914], [-8.547705316237886, 125.50616359620481, 500], [-8.51473129886058, 125.5582811212483, 867], [-8.520114440979357, 125.47307108959575, 303], [-8.51030072477725, 125.48971428787807, 281], [-8.540875722781532, 125.49423713877835, 321], [-8.503294385132367, 125.52822472187901, 221], [-8.58241095514169, 125.5153054577161, 998], [-8.518113825750731, 125.49151083184107, 318], [-8.543179517730055, 125.5181945137037, 392], [-8.556787072026701, 125.52529412378715, 166], [-8.57378584075806, 125.56447424926351, 868], [-8.595992144549756, 125.55073813937294, 477], [-8.509642585863622, 125.47250351875265, 555], [-8.547027957743099, 125.51673513833803, 535], [-8.509852657239083, 125.47466086646162, 534], [-8.52891089769894, 125.5131054313491, 868], [-8.545432815681341, 125.53300379738273, 138], [-8.502329142477796, 125.53907260621891, 731], [-8.591500740348812, 125.48846878845906, 712], [-8.53428936327054, 125.53357529442289, 722], [-8.509766060839645, 125.56841783290105, 686], [-8.589298866223585, 125.5330250714104, 833], [-8.563692450922437, 125.52338167475986, 291], [-8.584991277039423, 125.48713264210261, 276], [-8.537670940681659, 125.54510254433328, 624], [-8.500173409520926, 125.49423210284712, 981], [-8.562067196575846, 125.49495105408423, 708], [-8.592693941053115, 125.47540591935355, 626], [-8.521853876817485, 125.47987250375513, 102], [-8.520746874464963, 125.51554979348643, 882]],
+                {"blur": 15, "maxZoom": 18, "minOpacity": 0.5, "radius": 25}
+            );
+        
+    
+            heat_map_6645dc27b92d2864c94f03ba47704242.addTo(feature_group_14843705924380861aa0abcaf22c0237);
+        
+    
+            feature_group_14843705924380861aa0abcaf22c0237.addTo(map_010d02cca44308d7766525b8a1515c22);
+        
+    
+            var layer_control_e02d67da98528659a58ecef7534594fc_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_f698f46b036b2ae7bf0f048d8e906be4,
+                },
+                overlays :  {
+                    "Soil Types" : feature_group_55fbff34d9f5867a7fdf24c47f06eb17,
+                    "Water Sources" : feature_group_3fc5f2b41eb72b7ec1e6208557fc283e,
+                    "Sun Exposure" : feature_group_14843705924380861aa0abcaf22c0237,
+                },
+            };
+            let layer_control_e02d67da98528659a58ecef7534594fc = L.control.layers(
+                layer_control_e02d67da98528659a58ecef7534594fc_layers.base_layers,
+                layer_control_e02d67da98528659a58ecef7534594fc_layers.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_010d02cca44308d7766525b8a1515c22);
+
+        
+</script>
+</html>
