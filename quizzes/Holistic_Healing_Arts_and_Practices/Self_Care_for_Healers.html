@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Self-Care for Healers Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Self-Care for Healers Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "Why is self-care crucial for holistic healing practitioners?",
+        choices: [
+          "To enhance personal health and bring the best self to healing work",
+          "To show off their self-care practices to clients",
+          "To avoid having to work with challenging clients",
+          "To fill up free time when not seeing clients"
+        ],
+        answer: "To enhance personal health and bring the best self to healing work"
+      },
+      {
+        question: "Which of the following is NOT mentioned as a category of self-care?",
+        choices: [
+          "Financial self-care",
+          "Mindfulness practices",
+          "Physical self-care",
+          "Emotional self-care"
+        ],
+        answer: "Financial self-care"
+      },
+      {
+        question: "What can mindfulness practices help with?",
+        choices: [
+          "Reducing stress, improving focus, and promoting inner peace",
+          "Increasing workload and client hours",
+          "Avoiding emotional processing and self-reflection",
+          "Replacing the need for physical exercise and nutrition"
+        ],
+        answer: "Reducing stress, improving focus, and promoting inner peace"
+      },
+      {
+        question: "What is the purpose of professional self-care?",
+        choices: [
+          "To maintain a healthy work-life balance and prevent burnout",
+          "To avoid having to engage in continuing education",
+          "To isolate oneself from colleagues and peers",
+          "To prioritize work over personal well-being"
+        ],
+        answer: "To maintain a healthy work-life balance and prevent burnout"
+      },
+      {
+        question: "What does the Loving-Kindness Meditation involve?",
+        choices: [
+          "Extending love and kindness to oneself and others",
+          "Analyzing one's mistakes and shortcomings",
+          "Focusing solely on physical sensations in the body",
+          "Visualizing a successful and wealthy future"
+        ],
+        answer: "Extending love and kindness to oneself and others"
+      },
+      {
+        question: "What is the purpose of the Body Scan Meditation?",
+        choices: [
+          "To bring attention to physical sensations without judgment",
+          "To identify areas of the body that need cosmetic improvement",
+          "To compare one's body to idealized images in the media",
+          "To distract oneself from emotional or mental discomfort"
+        ],
+        answer: "To bring attention to physical sensations without judgment"
+      },
+      {
+        question: "What is the focus of Mindfulness of Breath Meditation?",
+        choices: [
+          "The sensation of breathing and the movement of air",
+          "Planning future activities and goals",
+          "Analyzing past conversations and interactions",
+          "Imagining oneself in a different location or situation"
+        ],
+        answer: "The sensation of breathing and the movement of air"
+      },
+      {
+        question: "What is the purpose of Earthing/Grounding?",
+        choices: [
+          "To connect with the earth and release stress or tension",
+          "To improve one's landscaping and gardening skills",
+          "To collect soil samples for scientific analysis",
+          "To practice outdoor survival techniques"
+        ],
+        answer: "To connect with the earth and release stress or tension"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

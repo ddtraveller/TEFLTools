@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Balneotherapy Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Balneotherapy Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What is balneotherapy?",
+       choices: [
+         "The practice of using mineral-rich waters for therapeutic purposes",
+         "A type of massage therapy",
+         "A form of meditation",
+         "A dietary regimen"
+       ],
+       answer: "The practice of using mineral-rich waters for therapeutic purposes"
+     },
+     {
+       question: "Which of the following minerals may be found in mineral-rich waters used for balneotherapy?",
+       choices: [
+         "Sulfur",
+         "Magnesium",
+         "Calcium",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "What is one of the most well-known forms of balneotherapy?",
+       choices: [
+         "Soaking in hot springs",
+         "Drinking mineral water",
+         "Underwater massage",
+         "Jet spray treatments"
+       ],
+       answer: "Soaking in hot springs"
+     },
+     {
+       question: "Which of the following is a potential benefit of balneotherapy?",
+       choices: [
+         "Stress reduction and relaxation",
+         "Improved joint mobility",
+         "Skin hydration",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "Before starting balneotherapy, it is important to do what?",
+       choices: [
+         "Consult with a healthcare professional",
+         "Fast for 24 hours",
+         "Discontinue all medications",
+         "Undergo a detoxification regimen"
+       ],
+       answer: "Consult with a healthcare professional"
+     },
+     {
+       question: "Which of the following factors can affect the therapeutic effects of balneotherapy?",
+       choices: [
+         "The specific composition of the mineral water",
+         "The duration and frequency of the treatment",
+         "Individual responses and conditions",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "Balneotherapy is generally considered safe for most people, but caution is advised for individuals with what conditions?",
+       choices: [
+         "Open wounds or infections",
+         "Severe cardiovascular issues",
+         "Both a and b",
+         "None of the above"
+       ],
+       answer: "Both a and b"
+     },
+     {
+       question: "Which of the following is NOT a potential benefit of balneotherapy?",
+       choices: [
+         "Improved muscle strength",
+         "Enhanced immune function",
+         "Better digestion and bowel function",
+         "Detoxification and removal of impurities"
+       ],
+       answer: "Improved muscle strength"
+     },
+     {
+       question: "Where are some of the famous locations for balneotherapy?",
+       choices: [
+         "Hot springs in Japan and Iceland",
+         "Spa towns in Europe",
+         "Both a and b",
+         "None of the above"
+       ],
+       answer: "Both a and b"
+     },
+     {
+       question: "What is the recommended approach when considering balneotherapy or any health treatment?",
+       choices: [
+         "Blindly follow the recommendations of others",
+         "Approach it with an open but critical mind",
+         "Completely dismiss it without any research",
+         "Rely solely on anecdotal evidence"
+       ],
+       answer: "Approach it with an open but critical mind"
+     },
+     {
+       question: "Which of the following is NOT a potential form of balneotherapy?",
+       choices: [
+         "Cold water immersion",
+         "Mineral water ingestion",
+         "Underwater acupuncture",
+         "Jet spray treatments"
+       ],
+       answer: "Underwater acupuncture"
+     },
+     {
+       question: "Balneotherapy is often used in conjunction with which other complementary therapies?",
+       choices: [
+         "Physical therapy",
+         "Massage",
+         "Relaxation techniques",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "What is one of the core principles behind balneotherapy?",
+       choices: [
+         "Immersing the body in mineral-rich water can provide various health benefits",
+         "Mineral water must be ingested daily for maximum effects",
+         "Balneotherapy should only be practiced in hot springs",
+         "Balneotherapy is only effective for skin conditions"
+       ],
+       answer: "Immersing the body in mineral-rich water can provide various health benefits"
+     },
+     {
+       question: "Which of the following is NOT a potential use of balneotherapy?",
+       choices: [
+         "Treating digestive issues",
+         "Alleviating stress-related ailments",
+         "Curing cancer",
+         "Reducing inflammation"
+       ],
+       answer: "Curing cancer"
+     },
+     {
+       question: "Which of the following trace elements may be found in mineral-rich waters used for balneotherapy?",
+       choices: [
+         "Selenium",
+         "Zinc",
+         "Both a and b",
+         "None of the above"
+       ],
+       answer: "Both a and b"
+     },
+     {
+       question: "Balneotherapy has been practiced for how long?",
+       choices: [
+         "A few decades",
+         "A century",
+         "Centuries",
+         "It is a modern practice"
+       ],
+       answer: "Centuries"
+     },
+     {
+       question: "Which of the following is a potential limitation of balneotherapy?",
+       choices: [
+         "Individual responses may vary",
+         "More research is needed to understand its mechanisms and long-term benefits",
+         "The therapeutic effects can depend on the specific water composition",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "Which of the following is NOT a potential benefit of balneotherapy?",
+       choices: [
+         "Weight loss",
+         "Improved sleep quality",
+         "Stress reduction and relaxation",
+         "Detoxification and removal of impurities"
+       ],
+       answer: "Weight loss"
+     },
+     {
+       question: "What is one of the potential skin conditions that balneotherapy may help alleviate?",
+       choices: [
+         "Psoriasis",
+         "Atopic dermatitis",
+         "Both a and b",
+         "None of the above"
+       ],
+       answer: "Both a and b"
+     },
+     {
+       question: "Which of the following is a potential benefit of balneotherapy for musculoskeletal conditions?",
+       choices: [
+         "Pain relief",
+         "Improved joint mobility",
+         "Both a and b",
+         "None of the above"
+       ],
+       answer: "Both a and b"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

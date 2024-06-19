@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Sound Money and Personal Budget Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Sound Money and Personal Budget Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What does the Keynesian approach endorse during an emergency expense or recession in personal finances?",
+       choices: [
+         "Short-term income injections or easy borrowing",
+         "Cutting expenses and saving more",
+         "Investing in precious metals",
+         "Selling assets to raise funds"
+       ],
+       answer: "Short-term income injections or easy borrowing"
+     },
+     {
+       question: "According to the Austrian economic principles, what is key for responsible financial planning?",
+       choices: [
+         "A stable currency or 'store of value'",
+         "Easy access to credit and borrowing",
+         "Frequent income injections",
+         "Continuous spending to stimulate the economy"
+       ],
+       answer: "A stable currency or 'store of value'"
+     },
+     {
+       question: "What historically prevented inflation due to their limited supply?",
+       choices: [
+         "Commodities like gold",
+         "Paper currency",
+         "Government bonds",
+         "Stocks and shares"
+       ],
+       answer: "Commodities like gold"
+     },
+     {
+       question: "What is the effect of governments printing more money, according to the passage?",
+       choices: [
+         "Inflation, where all currency loses some value",
+         "Deflation, where currency gains value",
+         "No impact on currency value",
+         "Increased economic growth"
+       ],
+       answer: "Inflation, where all currency loses some value"
+     },
+     {
+       question: "What was the significance of the Bretton Woods economic meeting?",
+       choices: [
+         "It decided to change the system and not have the dollar backed by gold anymore",
+         "It established the gold standard for the US dollar",
+         "It introduced a new global reserve currency",
+         "It abolished the use of paper currency"
+       ],
+       answer: "It decided to change the system and not have the dollar backed by gold anymore"
+     },
+     {
+       question: "Why do ships that transport oil need to be insured in dollars?",
+       choices: [
+         "This is in part because the insurers only take dollars",
+         "It is a legal requirement in the oil industry",
+         "The ships are owned by US companies",
+         "It is a tradition in the shipping industry"
+       ],
+       answer: "This is in part because the insurers only take dollars"
+     },
+     {
+       question: "What factor helps maintain the value of the US dollar, according to the passage?",
+       choices: [
+         "China owns a huge amount of American debt",
+         "The US government has a balanced budget",
+         "The dollar is backed by gold reserves",
+         "The dollar is used as a reserve currency by most countries"
+       ],
+       answer: "China owns a huge amount of American debt"
+     },
+     {
+       question: "According to Austrian economics, what are better stores of value than fiat currency?",
+       choices: [
+         "Cryptocurrencies like bitcoin and items like gold",
+         "Government bonds and debt instruments",
+         "Stocks and shares",
+         "Fiat currencies issued by central banks"
+       ],
+       answer: "Cryptocurrencies like bitcoin and items like gold"
+     },
+     {
+       question: "Which of the following is NOT considered a store of value in the passage?",
+       choices: [
+         "Cash or fiat currency",
+         "A washer and dryer",
+         "Stocks and bonds",
+         "A car or a bag of apples"
+       ],
+       answer: "Cash or fiat currency"
+     },
+     {
+       question: "What is one advantage of cryptocurrencies and gold as stores of value, according to Austrian economics?",
+       choices: [
+         "Their limited supply counters inflation",
+         "They are easily divisible for transactions",
+         "They are backed by government guarantees",
+         "They offer high returns on investment"
+       ],
+       answer: "Their limited supply counters inflation"
+     },
+     {
+       question: "Which economic philosophy focuses on saving more than spending and having a safe store of value?",
+       choices: [
+         "Austrian economics",
+         "Keynesian economics",
+         "Marxist economics",
+         "Monetarist economics"
+       ],
+       answer: "Austrian economics"
+     },
+     {
+       question: "According to the Keynesian view, why is it better to use money rather than let it decay in value?",
+       choices: [
+         "Money decays in value naturally like an apple",
+         "Money gains value over time",
+         "Money has no intrinsic value",
+         "Money should be hoarded for future use"
+       ],
+       answer: "Money decays in value naturally like an apple"
+     },
+     {
+       question: "What is the term used in economics for the decay in value of money over time?",
+       choices: [
+         "Inflation",
+         "Deflation",
+         "Devaluation",
+         "Depreciation"
+       ],
+       answer: "Inflation"
+     },
+     {
+       question: "Which economic model do many governments today follow, according to the passage?",
+       choices: [
+         "Keynesian model",
+         "Austrian model",
+         "Marxist model",
+         "Monetarist model"
+       ],
+       answer: "Keynesian model"
+     },
+     {
+       question: "What is one disadvantage of the Keynesian approach of printing more money when governments run out of funds?",
+       choices: [
+         "It contributes to inflation",
+         "It leads to deflation",
+         "It has no economic impact",
+         "It reduces government debt"
+       ],
+       answer: "It contributes to inflation"
+     },
+     {
+       question: "What is the purpose of comparing different items like washers, dryers, stocks, bonds, cars, and apples in the context of stores of value?",
+       choices: [
+         "To illustrate that different assets can be viewed as stores of value",
+         "To recommend investing in these specific items",
+         "To compare their liquidity and ease of transaction",
+         "To highlight their differences in terms of risk and return"
+       ],
+       answer: "To illustrate that different assets can be viewed as stores of value"
+     },
+     {
+       question: "According to the passage, what is the key difference between the Keynesian and Austrian economic philosophies?",
+       choices: [
+         "Their approach to maintaining the value of money and personal finances",
+         "Their stance on international trade and globalization",
+         "Their views on government intervention in the economy",
+         "Their emphasis on environmental sustainability"
+       ],
+       answer: "Their approach to maintaining the value of money and personal finances"
+     },
+     {
+       question: "What is the significance of the US dollar being used to purchase oil and gas globally?",
+       choices: [
+         "It helps maintain the value of the dollar despite government debt",
+         "It promotes the use of alternative currencies",
+         "It has no impact on the dollar's value",
+         "It leads to increased inflation in the US"
+       ],
+       answer: "It helps maintain the value of the dollar despite government debt"
+     },
+     {
+       question: "Which economic philosophy advocates for responsible financial planning and saving for the future?",
+       choices: [
+         "Austrian economics",
+         "Keynesian economics",
+         "Marxist economics",
+         "Monetarist economics"
+       ],
+       answer: "Austrian economics"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

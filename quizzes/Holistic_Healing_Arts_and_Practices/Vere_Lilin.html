@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>The Legend of Vere-Lilin Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>The Legend of Vere-Lilin Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "Where did the maiden Vere live?",
+       choices: [
+         "In the primordial forests of Timor island",
+         "In a grand palace in the city",
+         "In a remote mountain village",
+         "In a seaside town"
+       ],
+       answer: "In the primordial forests of Timor island"
+     },
+     {
+       question: "What was unique about Vere?",
+       choices: [
+         "She could speak the languages of plants, animals, and elemental beings",
+         "She possessed magical powers to control the elements",
+         "She was a fierce warrior and skilled hunter",
+         "She was a master of the healing arts"
+       ],
+       answer: "She could speak the languages of plants, animals, and elemental beings"
+     },
+     {
+       question: "What encounter did Vere have while bathing in a spring?",
+       choices: [
+         "She encountered a massive python",
+         "She encountered a group of forest spirits",
+         "She encountered a wounded animal",
+         "She encountered a lost traveler"
+       ],
+       answer: "She encountered a massive python"
+     },
+     {
+       question: "What happened when Vere addressed the python in its own language?",
+       choices: [
+         "The python shed its skin and revealed itself as a human prince",
+         "The python attacked Vere in self-defense",
+         "The python slithered away uninterested",
+         "The python became docile and allowed Vere to ride on its back"
+       ],
+       answer: "The python shed its skin and revealed itself as a human prince"
+     },
+     {
+       question: "What did the union between Vere and the prince represent?",
+       choices: [
+         "The spiritual connection and marriage between Vere and the natural realm",
+         "The defeat of a powerful evil force by Vere's purity",
+         "The beginning of a new era of human domination over nature",
+         "The clash between traditional and modern ways of life"
+       ],
+       answer: "The spiritual connection and marriage between Vere and the natural realm"
+     },
+     {
+       question: "What title did Vere take on after her union with the prince?",
+       choices: [
+         "Vere-Lilin, the sacred queen of Timor's wilderness",
+         "The Empress of the Primordial Forests",
+         "The Mother of All Living Beings",
+         "The Guardian of the Sacred Spring"
+       ],
+       answer: "Vere-Lilin, the sacred queen of Timor's wilderness"
+     },
+     {
+       question: "What did Vere-Lilin ensure during her reign?",
+       choices: [
+         "Plentiful harvests, abundant flora and fauna, and peaceful coexistence",
+         "Constant warfare and conquest of neighboring lands",
+         "The construction of grand monuments and cities",
+         "The spread of a new religion throughout the region"
+       ],
+       answer: "Plentiful harvests, abundant flora and fauna, and peaceful coexistence"
+     },
+     {
+       question: "How did the people revere Vere-Lilin?",
+       choices: [
+         "Through rituals, shrines, and a covenant to protect the land's bounties",
+         "By offering human sacrifices in her honor",
+         "By building grand temples and monuments dedicated to her",
+         "By waging wars in her name against neighboring tribes"
+       ],
+       answer: "Through rituals, shrines, and a covenant to protect the land's bounties"
+     },
+     {
+       question: "What would happen to those who neglected the forests and fields?",
+       choices: [
+         "They would face Vere-Lilin's judging spirit until balance was restored",
+         "They would be banished from the land",
+         "They would be cursed with eternal suffering",
+         "They would be turned into animals"
+       ],
+       answer: "They would face Vere-Lilin's judging spirit until balance was restored"
+     },
+     {
+       question: "What does the legend of Vere-Lilin represent?",
+       choices: [
+         "The importance of living in harmony with nature and the natural realm",
+         "The inevitability of human dominance over the natural world",
+         "The glorification of warfare and conquest",
+         "The superiority of one particular culture or belief system"
+       ],
+       answer: "The importance of living in harmony with nature and the natural realm"
+     },
+     {
+       question: "What qualities did Vere possess that endeared her to the creatures of the natural realm?",
+       choices: [
+         "Purity, gentleness, and a calm spirit",
+         "Strength, ferocity, and hunting prowess",
+         "Cunning, deceitfulness, and manipulation",
+         "Ambition, greed, and a thirst for power"
+       ],
+       answer: "Purity, gentleness, and a calm spirit"
+     },
+     {
+       question: "What was the significance of the python shedding its skin?",
+       choices: [
+         "It symbolized the shedding of the prince's former self and his transformation",
+         "It was a sign of the python's anger and aggression",
+         "It was a natural process that had no symbolic meaning",
+         "It was a ritual performed by the python to honor Vere"
+       ],
+       answer: "It symbolized the shedding of the prince's former self and his transformation"
+     },
+     {
+       question: "What message does the legend convey about the relationship between humans and nature?",
+       choices: [
+         "Humans must live in harmony and spiritual connection with the natural realm",
+         "Humans are superior to nature and have the right to dominate it",
+         "Nature exists solely for human exploitation and consumption",
+         "The relationship between humans and nature is irrelevant"
+       ],
+       answer: "Humans must live in harmony and spiritual connection with the natural realm"
+     },
+     {
+       question: "What role did Vere-Lilin play in ensuring plentiful harvests and abundant flora and fauna?",
+       choices: [
+         "She used her spiritual connection to the natural realm to maintain balance",
+         "She used magical powers to control the elements",
+         "She employed advanced agricultural and cultivation techniques",
+         "She negotiated trade agreements with neighboring regions"
+       ],
+       answer: "She used her spiritual connection to the natural realm to maintain balance"
+     },
+     {
+       question: "What does the legend suggest about the consequences of disrespecting nature?",
+       choices: [
+         "It would lead to imbalance and face Vere-Lilin's judging spirit",
+         "It would lead to prosperity and abundance",
+         "It would have no significant consequences",
+         "It would lead to the extinction of all life on the island"
+       ],
+       answer: "It would lead to imbalance and face Vere-Lilin's judging spirit"
+     },
+     {
+       question: "What message does the legend convey about the role of rituals and shrines?",
+       choices: [
+         "They were a way for the people to revere Vere-Lilin and honor their covenant",
+         "They were solely for entertainment and storytelling purposes",
+         "They were a means of exerting control over the population",
+         "They had no particular significance in the legend"
+       ],
+       answer: "They were a way for the people to revere Vere-Lilin and honor their covenant"
+     },
+     {
+       question: "What does the legend suggest about the importance of protecting the land's bounties?",
+       choices: [
+         "It was crucial for maintaining balance and peaceful coexistence",
+         "It was a secondary concern to human needs and desires",
+         "It was seen as an obstacle to progress and development",
+         "It had no particular significance in the legend"
+       ],
+       answer: "It was crucial for maintaining balance and peaceful coexistence"
+     },
+     {
+       question: "What aspect of the natural world did Vere-Lilin represent?",
+       choices: [
+         "The spiritual essence and generative power of nature",
+         "The destructive and chaotic forces of nature",
+         "The utilitarian value of nature for human consumption",
+         "The indifference of nature to human affairs"
+       ],
+       answer: "The spiritual essence and generative power of nature"
+     },
+     {
+       question: "What message does the legend convey about the role of humans in the natural world?",
+       choices: [
+         "Humans should strive to live in harmony and spiritual connection with nature",
+         "Humans should seek to dominate and control nature for their benefit",
+         "Humans are separate and distinct from the natural world",
+         "Humans play no significant role in the natural world"
+       ],
+       answer: "Humans should strive to live in harmony and spiritual connection with nature"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

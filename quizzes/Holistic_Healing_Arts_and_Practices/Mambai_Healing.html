@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mambai Healing Practices Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mambai Healing Practices Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the concept of 'lulik' in Mambai healing?",
+        choices: [
+          "The sacred or divine power that permeates all aspects of life",
+          "A specific type of medicinal plant",
+          "A ritual dance performed by healers",
+          "A term for modern medical practices"
+        ],
+        answer: "The sacred or divine power that permeates all aspects of life"
+      },
+      {
+        question: "What is the role of 'matan-lulik' in Mambai healing?",
+        choices: [
+          "They are intermediaries between the human and spirit worlds",
+          "They are modern medical doctors",
+          "They are political leaders in the community",
+          "They are farmers who grow medicinal plants"
+        ],
+        answer: "They are intermediaries between the human and spirit worlds"
+      },
+      {
+        question: "What is the purpose of the 'sau-lulik' ceremony?",
+        choices: [
+          "To restore balance and well-being to individuals and the community",
+          "To celebrate the harvest season",
+          "To welcome foreign visitors to the village",
+          "To initiate young men into adulthood"
+        ],
+        answer: "To restore balance and well-being to individuals and the community"
+      },
+      {
+        question: "Which of the following is NOT mentioned as a common medicinal plant used by Mambai healers?",
+        choices: [
+          "Ai-samer (ginger)",
+          "Ai-lia (garlic)",
+          "Ai-nun (noni fruit)",
+          "Ai-kafé (coffee)"
+        ],
+        answer: "Ai-kafé (coffee)"
+      },
+      {
+        question: "According to Mambai beliefs, what can cause illness and misfortune?",
+        choices: [
+          "Social or spiritual imbalances, such as conflicts or violation of taboos",
+          "Exposure to cold weather",
+          "Eating too much spicy food",
+          "Bad luck or random chance"
+        ],
+        answer: "Social or spiritual imbalances, such as conflicts or violation of taboos"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

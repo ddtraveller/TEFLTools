@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Goddess History Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Goddess History Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the approximate time period of the Venus of Willendorf?",
+        choices: [
+          "c. 28,000 BCE",
+          "c. 21,000 BCE",
+          "c. 17,000 BCE",
+          "c. 10,000 BCE"
+        ],
+        answer: "c. 28,000 BCE"
+      },
+      {
+        question: "Which ancient settlement is associated with the Anatolian Goddess Cults?",
+        choices: [
+          "Çatalhöyük",
+          "Ubaid",
+          "Indus Valley",
+          "Minoan"
+        ],
+        answer: "Çatalhöyük"
+      },
+      {
+        question: "Aphrodite is a goddess from which tradition?",
+        choices: [
+          "Greek/Roman",
+          "Celtic",
+          "Persian",
+          "Mesopotamian"
+        ],
+        answer: "Greek/Roman"
+      },
+      {
+        question: "Which goddess is associated with the underworld in Mesopotamian mythology?",
+        choices: [
+          "Ishtar",
+          "Ninhursag",
+          "Ereshkigal",
+          "Tiamat"
+        ],
+        answer: "Ereshkigal"
+      },
+      {
+        question: "Xiwangmu is a goddess from which tradition?",
+        choices: [
+          "Indian/Hindu",
+          "Chinese/East Asian",
+          "African",
+          "American"
+        ],
+        answer: "Chinese/East Asian"
+      },
+      {
+        question: "Which African goddess is associated with love and sexuality?",
+        choices: [
+          "Yemoja",
+          "Oshun",
+          "Mawu",
+          "Aje"
+        ],
+        answer: "Oshun"
+      },
+      {
+        question: "Pachamama is a goddess from which tradition?",
+        choices: [
+          "African",
+          "American",
+          "Ancient Mesopotamian",
+          "Minoan"
+        ],
+        answer: "American"
+      },
+      {
+        question: "The Abrahamic traditions incorporate serpent symbolism through the story of:",
+        choices: [
+          "Eve/Eden",
+          "Inanna/Ishtar",
+          "Rainbow Serpent",
+          "Quetzalcoatl"
+        ],
+        answer: "Eve/Eden"
+      },
+      {
+        question: "Manasa is a serpent goddess from which tradition?",
+        choices: [
+          "Aboriginal Australian",
+          "Hindu",
+          "Vodou",
+          "Aztec"
+        ],
+        answer: "Hindu"
+      },
+      {
+        question: "Vere-Lilin is a serpent/goddess tradition from which region?",
+        choices: [
+          "Greece",
+          "Mesopotamia",
+          "Cyclades",
+          "Timor"
+        ],
+        answer: "Timor"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 10) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

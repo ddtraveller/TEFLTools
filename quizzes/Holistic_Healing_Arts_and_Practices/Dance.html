@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Timorese Dance and Culture Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Timorese Dance and Culture Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What is the significance of dance in Timorese culture?",
+       choices: [
+         "It is a form of entertainment and leisure",
+         "It is a fundamental aspect of cultural heritage",
+         "It is a recent introduction to Timorese society",
+         "It has no significant cultural value"
+       ],
+       answer: "It is a fundamental aspect of cultural heritage"
+     },
+     {
+       question: "What is one of the roles of dance in Timorese communal life?",
+       choices: [
+         "Marking important events and milestones",
+         "Promoting individual expression",
+         "Showcasing athletic prowess",
+         "Entertaining tourists"
+       ],
+       answer: "Marking important events and milestones"
+     },
+     {
+       question: "What does the Likurai warrior dance traditionally embody?",
+       choices: [
+         "The strength and bravery of Timorese ancestors",
+         "The joy of celebrating a bountiful harvest",
+         "The process of courtship and marriage",
+         "The hierarchy of social status"
+       ],
+       answer: "The strength and bravery of Timorese ancestors"
+     },
+     {
+       question: "What is the purpose of the Tebe-tebe dance?",
+       choices: [
+         "To reinforce social harmony and unity",
+         "To reenact historical battles",
+         "To celebrate successful headhunting expeditions",
+         "To honor spiritual deities"
+       ],
+       answer: "To reinforce social harmony and unity"
+     },
+     {
+       question: "How do Timorese dances serve as a means of cultural education?",
+       choices: [
+         "Through accompanying songs and chants that recount legends and myths",
+         "By teaching formal dance techniques and choreography",
+         "By promoting individualism and self-expression",
+         "By showcasing the influence of foreign cultures"
+       ],
+       answer: "Through accompanying songs and chants that recount legends and myths"
+     },
+     {
+       question: "What does the rich variety of Timorese dance forms reflect?",
+       choices: [
+         "The country's cultural and linguistic diversity",
+         "The influence of colonial powers",
+         "The preference for uniformity and homogeneity",
+         "The adoption of modern dance styles"
+       ],
+       answer: "The country's cultural and linguistic diversity"
+     },
+     {
+       question: "What efforts have been made in recent years regarding Timorese dance heritage?",
+       choices: [
+         "Documenting, preserving, and promoting traditional dances",
+         "Discouraging the practice of traditional dances",
+         "Introducing new dance forms from other cultures",
+         "Restricting dance to specific occasions and events"
+       ],
+       answer: "Documenting, preserving, and promoting traditional dances"
+     },
+     {
+       question: "What role does dance play in Timor Leste's assertion of national identity?",
+       choices: [
+         "It serves as a vital link to the past and a force for cultural continuity",
+         "It is seen as a relic of the past with little contemporary relevance",
+         "It is used primarily for entertainment and tourist attractions",
+         "It is discouraged as a potential threat to national unity"
+       ],
+       answer: "It serves as a vital link to the past and a force for cultural continuity"
+     },
+     {
+       question: "What is the significance of Timorese feet \"stomping, jumping, and swaying to the rhythms of their ancestors\"?",
+       choices: [
+         "It represents the enduring vitality of Timorese dance heritage",
+         "It is a form of physical exercise and fitness",
+         "It is a means of attracting tourists and visitors",
+         "It has no particular cultural significance"
+       ],
+       answer: "It represents the enduring vitality of Timorese dance heritage"
+     },
+     {
+       question: "According to the passage, what does Timorese dance serve as an inspiring testament to?",
+       choices: [
+         "The power of cultural expression",
+         "The superiority of traditional practices over modern influences",
+         "The need for strict preservation of cultural traditions",
+         "The inevitability of cultural homogenization"
+       ],
+       answer: "The power of cultural expression"
+     },
+     {
+       question: "What is one of the purposes of cultural organizations and community groups in Timor Leste?",
+       choices: [
+         "Ensuring opportunities for young Timorese to learn traditional dances",
+         "Discouraging the practice of traditional dances",
+         "Promoting foreign dance forms over traditional ones",
+         "Restricting dance education to specific ethnic groups"
+       ],
+       answer: "Ensuring opportunities for young Timorese to learn traditional dances"
+     },
+     {
+       question: "How does the passage describe the Bidu dance of the Fataluku people?",
+       choices: [
+         "It is believed to have originated as a celebration of successful headhunting expeditions",
+         "It is a recent innovation in Timorese dance",
+         "It is a form of courtship dance",
+         "It is exclusively performed by men"
+       ],
+       answer: "It is believed to have originated as a celebration of successful headhunting expeditions"
+     },
+     {
+       question: "What is the significance of the Tebe-tebe dance in Timorese culture?",
+       choices: [
+         "It involves all members of the community, regardless of age or status",
+         "It is performed exclusively by women",
+         "It is a solo dance showcasing individual prowess",
+         "It is reserved for members of the highest social classes"
+       ],
+       answer: "It involves all members of the community, regardless of age or status"
+     },
+     {
+       question: "According to the passage, what contributes to the \"vibrant cultural tapestry\" of Timor Leste?",
+       choices: [
+         "The unique dance traditions, costumes, and musical styles of each ethnic group",
+         "The adoption of foreign dance forms and styles",
+         "The emphasis on uniformity and homogeneity in dance traditions",
+         "The rejection of traditional dance forms in favor of modern ones"
+       ],
+       answer: "The unique dance traditions, costumes, and musical styles of each ethnic group"
+     },
+     {
+       question: "What is one of the challenges facing Timorese dance heritage?",
+       choices: [
+         "The threat of globalization and rapid social change",
+         "The lack of interest among younger generations",
+         "The absence of cultural diversity within Timor Leste",
+         "The active suppression of traditional dance forms by authorities"
+       ],
+       answer: "The threat of globalization and rapid social change"
+     },
+     {
+       question: "What does the passage suggest about the future of Timorese dance?",
+       choices: [
+         "It will continue to be a dynamic force for cultural resilience and expression",
+         "It will be gradually replaced by modern dance forms and styles",
+         "It will be strictly preserved in its current forms without innovation",
+         "It will be discouraged as a relic of the past"
+       ],
+       answer: "It will continue to be a dynamic force for cultural resilience and expression"
+     },
+     {
+       question: "How does the passage characterize the relationship between dance and Timorese identity?",
+       choices: [
+         "It describes dance as a powerful expression of the nation's history, values, and aspirations",
+         "It suggests that dance has little relevance to Timorese identity",
+         "It portrays dance as a purely aesthetic form without deeper cultural significance",
+         "It implies that dance is a threat to national unity and cohesion"
+       ],
+       answer: "It describes dance as a powerful expression of the nation's history, values, and aspirations"
+     },
+     {
+       question: "What is one of the purposes of dance in Timorese society?",
+       choices: [
+         "Strengthening social bonds and reaffirming shared cultural identity",
+         "Promoting individualism and self-expression",
+         "Showcasing athletic and physical prowess",
+         "Entertaining foreign visitors and tourists"
+       ],
+       answer: "Strengthening social bonds and reaffirming shared cultural identity"
+     },
+     {
+       question: "According to the passage, what does the participation in dances like the Tebe-tebe create?",
+       choices: [
+         "A powerful visual and kinesthetic symbol of togetherness and shared purpose",
+         "A celebration of individual achievement and personal expression",
+         "A hierarchy of social status and class distinctions",
+         "A sense of competition and rivalry among participants"
+       ],
+       answer: "A powerful visual and kinesthetic symbol of togetherness and shared purpose"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

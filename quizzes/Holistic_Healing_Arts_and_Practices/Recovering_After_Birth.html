@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Recovering After Birth Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Recovering After Birth Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the 'fourth trimester' in the context of postpartum recovery?",
+        choices: [
+          "The several weeks after delivering a baby",
+          "The last three months of pregnancy",
+          "The first three months of the baby's life",
+          "The period before conception"
+        ],
+        answer: "The several weeks after delivering a baby"
+      },
+      {
+        question: "Which of the following is NOT mentioned as a common physical challenge after birth?",
+        choices: [
+          "Hair loss",
+          "Vaginal soreness/bleeding",
+          "Abdominal cramping",
+          "Breast engorgement"
+        ],
+        answer: "Hair loss"
+      },
+      {
+        question: "What can cause mood swings or 'baby blues' after birth?",
+        choices: [
+          "Hormone shifts",
+          "Lack of sleep",
+          "Poor nutrition",
+          "All of the above"
+        ],
+        answer: "Hormone shifts"
+      },
+      {
+        question: "What is a vital aspect of self-care during the postpartum recovery period?",
+        choices: [
+          "Getting adequate rest and nutrition",
+          "Exercising vigorously to lose baby weight",
+          "Avoiding asking for help from others",
+          "Focusing solely on the baby's needs"
+        ],
+        answer: "Getting adequate rest and nutrition"
+      },
+      {
+        question: "What is a safe sleep practice for newborns?",
+        choices: [
+          "Having the baby sleep alone, on their back, on an approved surface",
+          "Letting the baby sleep on their stomach",
+          "Sharing a bed with the baby",
+          "Surrounding the baby with soft blankets and pillows"
+        ],
+        answer: "Having the baby sleep alone, on their back, on an approved surface"
+      },
+      {
+        question: "What can joining new mom groups provide for postpartum mothers?",
+        choices: [
+          "Community and wise counsel",
+          "Free babysitting services",
+          "Guaranteed protection against postpartum depression",
+          "Medical advice that replaces the need for a doctor"
+        ],
+        answer: "Community and wise counsel"
+      },
+      {
+        question: "What might cultural traditions offer for postpartum recovery?",
+        choices: [
+          "All of the above",
+          "Ritualized rest periods for mothers",
+          "Functional foods or herbs to help recovery",
+          "Roles for the partner, families, and community in supporting new mothers"
+        ],
+        answer: "All of the above"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

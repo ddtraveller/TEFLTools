@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Acupressure and Trigger Point Therapy Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Acupressure and Trigger Point Therapy Quiz</h1>
+  <form id="quiz-form">
+    <ol>
+      <li>
+        <p>What is the first step in preparing for an acupressure or trigger point therapy session?</p>
+        <label><input type="radio" name="q1" value="a"> Create a quiet, comfortable space</label><br>
+        <label><input type="radio" name="q1" value="b"> Obtain informed consent from the client</label><br>
+        <label><input type="radio" name="q1" value="c"> Locate the relevant acupressure points</label><br>
+      </li>
+      <li>
+        <p>How do you locate trigger points?</p>
+        <label><input type="radio" name="q2" value="a"> Use an acupressure chart</label><br>
+        <label><input type="radio" name="q2" value="b"> Press into the muscle until you find a tender, taut band or nodule</label><br>
+        <label><input type="radio" name="q2" value="c"> Ask the client for feedback on tenderness</label><br>
+      </li>
+      <li>
+        <p>What is the recommended way to apply pressure to acupressure points or trigger points?</p>
+        <label><input type="radio" name="q3" value="a"> Apply steady, direct pressure and gradually increase to a tolerable level</label><br>
+        <label><input type="radio" name="q3" value="b"> Apply quick, sharp pressure for a few seconds</label><br>
+        <label><input type="radio" name="q3" value="c"> Use a rocking or circular motion</label><br>
+      </li>
+      <li>
+        <p>What should you do after releasing a trigger point or acupressure point?</p>
+        <label><input type="radio" name="q4" value="a"> Have the client rest and integrate</label><br>
+        <label><input type="radio" name="q4" value="b"> Gently stretch the affected muscle or joint</label><br>
+        <label><input type="radio" name="q4" value="c"> Both a and b</label><br>
+      </li>
+      <li>
+        <p>What is an important aspect of closing the acupressure or trigger point therapy session?</p>
+        <label><input type="radio" name="q5" value="a"> Provide self-care recommendations to the client</label><br>
+        <label><input type="radio" name="q5" value="b"> Schedule the next session immediately</label><br>
+        <label><input type="radio" name="q5" value="c"> Perform a full-body massage</label><br>
+      </li>
+    </ol>
+    <button type="submit">Submit</button>
+  </form>
+  <div id="results"></div>
+  <script>
+    const quizForm = document.getElementById('quiz-form');
+    const resultsDiv = document.getElementById('results');
+    const correctAnswers = ['a', 'b', 'a', 'c', 'a'];
+    quizForm.addEventListener('submit', function(event) {
+      event.preventDefault();
+      let score = 0;
+      const userAnswers = [
+        quizForm.q1.value,
+        quizForm.q2.value,
+        quizForm.q3.value,
+        quizForm.q4.value,
+        quizForm.q5.value
+      ];
+      userAnswers.forEach((answer, index) => {
+        if (answer === correctAnswers[index]) {
+          score += 1;
+        }
+      });
+      resultsDiv.innerHTML = `You scored ${score} out of ${correctAnswers.length}`;
+    });
+  </script>
+</body>
+</html>

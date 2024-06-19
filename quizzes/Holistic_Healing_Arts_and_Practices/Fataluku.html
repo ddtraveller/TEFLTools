@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fataluku Spiritual Healing Practices Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Fataluku Spiritual Healing Practices Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the central concept in Fataluku spirituality?",
+        choices: [
+          "The concept of 'tei,' referring to the sacred life force",
+          "The worship of a supreme deity",
+          "The belief in reincarnation",
+          "The practice of ancestor veneration"
+        ],
+        answer: "The concept of 'tei,' referring to the sacred life force"
+      },
+      {
+        question: "What are Fataluku healers known as?",
+        choices: [
+          "Navarana",
+          "Shamans",
+          "Herbalists",
+          "Medicine men"
+        ],
+        answer: "Navarana"
+      },
+      {
+        question: "What is the 'aca-navarana' ritual in Fataluku culture?",
+        choices: [
+          "A healing ritual involving invoking spirits and ancestors",
+          "A coming-of-age ceremony",
+          "A harvest festival",
+          "A marriage ritual"
+        ],
+        answer: "A healing ritual involving invoking spirits and ancestors"
+      },
+      {
+        question: "What offerings may be presented to the spirits during the aca-navarana ritual?",
+        choices: [
+          "Food, betel nut, and other sacred items",
+          "Precious metals and jewels",
+          "Animal sacrifices only",
+          "No offerings are made"
+        ],
+        answer: "Food, betel nut, and other sacred items"
+      },
+      {
+        question: "Which of the following is NOT a sacred object used by Fataluku healers?",
+        choices: [
+          "Stone carvings",
+          "Wooden staffs",
+          "Metal wands",
+          "All of the above are used"
+        ],
+        answer: "Metal wands"
+      },
+      {
+        question: "What natural spaces are considered sacred and used for healing rituals by the Fataluku?",
+        choices: [
+          "Caves, springs, and old-growth forests",
+          "Beaches and coastal areas",
+          "Mountain peaks",
+          "Rivers and lakes"
+        ],
+        answer: "Caves, springs, and old-growth forests"
+      },
+      {
+        question: "Which of the following is NOT a medicinal plant used in Fataluku healing?",
+        choices: [
+          "Ai-solda (Sida acuta)",
+          "Ai-lele (Alstonia scholaris)",
+          "Ai-kafu (Eucalyptus alba)",
+          "Ai-kafe (Coffea arabica)"
+        ],
+        answer: "Ai-kafe (Coffea arabica)"
+      },
+      {
+        question: "What is the purpose of the 'Lakeru' (Piper betle) plant in Fataluku medicine?",
+        choices: [
+          "Treating digestive issues, oral health, and as a mild stimulant",
+          "Relieving muscle pain and inflammation",
+          "Promoting wound healing",
+          "Inducing sleep and relaxation"
+        ],
+        answer: "Treating digestive issues, oral health, and as a mild stimulant"
+      },
+      {
+        question: "According to Fataluku beliefs, what can cause illness or misfortune?",
+        choices: [
+          "Spiritual imbalances or transgressions against sacred taboos",
+          "Punishment from a deity",
+          "Curses or spells cast by others",
+          "Purely physical causes"
+        ],
+        answer: "Spiritual imbalances or transgressions against sacred taboos"
+      },
+      {
+        question: "How has Fataluku spirituality evolved in recent years?",
+        choices: [
+          "Incorporating elements of Catholicism and Christian symbolism",
+          "Abandoning traditional practices in favor of modern medicine",
+          "Remaining completely unchanged",
+          "Adopting new age spiritual practices"
+        ],
+        answer: "Incorporating elements of Catholicism and Christian symbolism"
+      },
+      {
+        question: "What is the significance of the Fataluku spiritual healing traditions?",
+        choices: [
+          "They are an important part of Fataluku cultural identity and well-being",
+          "They are primarily practiced for entertainment purposes",
+          "They have no relevance in modern Fataluku society",
+          "They are strictly forbidden and discouraged"
+        ],
+        answer: "They are an important part of Fataluku cultural identity and well-being"
+      },
+      {
+        question: "Which of the following is NOT a characteristic of Fataluku healing practices?",
+        choices: [
+          "Focused solely on treating physical symptoms",
+          "Aimed at restoring harmony between people, spirits, and nature",
+          "Involving various rituals, offerings, and sacred spaces",
+          "Incorporating herbal remedies and natural treatments"
+        ],
+        answer: "Focused solely on treating physical symptoms"
+      },
+      {
+        question: "What is the role of the 'navarana' healers in Fataluku culture?",
+        choices: [
+          "They have a special connection to the 'tei' and can communicate with spirits",
+          "They are solely herbalists and plant experts",
+          "They perform exorcisms and banishing rituals",
+          "They are political leaders and decision-makers"
+        ],
+        answer: "They have a special connection to the 'tei' and can communicate with spirits"
+      },
+      {
+        question: "What is the significance of 'aca-navarana' rituals in Fataluku culture?",
+        choices: [
+          "They may be performed for various purposes like healing, resolving conflicts, or ensuring success",
+          "They are solely for celebrating births and marriages",
+          "They are performed only during specific seasonal festivals",
+          "They are a form of entertainment and storytelling"
+        ],
+        answer: "They may be performed for various purposes like healing, resolving conflicts, or ensuring success"
+      },
+      {
+        question: "Which of the following is NOT a physical treatment used in Fataluku healing?",
+        choices: [
+          "Acupuncture",
+          "Massage",
+          "Heat therapy",
+          "All of the above are used"
+        ],
+        answer: "Acupuncture"
+      },
+      {
+        question: "What is the purpose of the 'betel nut' in Fataluku rituals?",
+        choices: [
+          "It is a sacred offering to the spirits",
+          "It is used as a natural dye for body painting",
+          "It is consumed as a mild stimulant during ceremonies",
+          "It is used as a cleansing agent in purification rituals"
+        ],
+        answer: "It is a sacred offering to the spirits"
+      },
+      {
+        question: "How does the article describe the author's perspective on Fataluku healing practices?",
+        choices: [
+          "With respect and appreciation for their cultural significance",
+          "With skepticism and a focus on scientific rationality",
+          "With a dismissive or condescending attitude",
+          "With a sense of superiority over traditional beliefs"
+        ],
+        answer: "With respect and appreciation for their cultural significance"
+      },
+      {
+        question: "What is the author's view on the challenges facing Fataluku spiritual traditions?",
+        choices: [
+          "They remain an important part of cultural identity despite modernization",
+          "They are becoming obsolete and should be abandoned",
+          "They pose a threat to progress and development",
+          "They should be strictly prohibited by law"
+        ],
+        answer: "They remain an important part of cultural identity despite modernization"
+      },
+      {
+        question: "How does the author describe the role of Fataluku healing practices?",
+        choices: [
+          "Promoting health and well-being in Fataluku communities",
+          "Solely for entertainment and tourism purposes",
+          "Promoting harmful superstitions and pseudoscience",
+          "Exploiting traditional beliefs for personal gain"
+        ],
+        answer: "Promoting health and well-being in Fataluku communities"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 10) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

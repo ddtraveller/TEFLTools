@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vibrational Healing Through Sound and Music Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Vibrational Healing Through Sound and Music Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "According to Hazrat Inayat Khan, what is the state of everything in the universe?",
+        choices: [
+          "Constant rhythmic motion",
+          "Complete stillness",
+          "Random chaos",
+          "Unpredictable change"
+        ],
+        answer: "Constant rhythmic motion"
+      },
+      {
+        question: "When are we considered healthy, according to Inayat Khan?",
+        choices: [
+          "When all vibrations in our body, mind, and emotions are in harmony",
+          "When we experience stress and illness",
+          "When our natural energy flow is blocked",
+          "When we have negative emotions"
+        ],
+        answer: "When all vibrations in our body, mind, and emotions are in harmony"
+      },
+      {
+        question: "How can sound and music be used for healing?",
+        choices: [
+          "By restoring healthy resonance in our bodies and minds",
+          "By creating discordant vibrations",
+          "By disrupting our natural rhythms",
+          "By inducing negative emotions"
+        ],
+        answer: "By restoring healthy resonance in our bodies and minds"
+      },
+      {
+        question: "Why is the human voice considered especially therapeutic?",
+        choices: [
+          "Singing or chanting creates vibrations that resonate deep within us",
+          "It can create discordant sounds",
+          "It disrupts our natural biorhythms",
+          "It induces stress hormones"
+        ],
+        answer: "Singing or chanting creates vibrations that resonate deep within us"
+      },
+      {
+        question: "What effect can slow, soothing music have on the body?",
+        choices: [
+          "Lower stress hormones and induce deep relaxation",
+          "Boost stress hormones and increase tension",
+          "Disrupt sleep patterns and cause insomnia",
+          "Induce feelings of sadness and melancholy"
+        ],
+        answer: "Lower stress hormones and induce deep relaxation"
+      },
+      {
+        question: "What do Tibetan singing bowls or crystal bowls emit?",
+        choices: [
+          "Healing frequencies felt in every cell",
+          "Discordant vibrations",
+          "Stressful sound waves",
+          "Negative energy"
+        ],
+        answer: "Healing frequencies felt in every cell"
+      },
+      {
+        question: "What can drumming promote?",
+        choices: [
+          "Grounding of energy and mental clarity",
+          "Disconnection from the body",
+          "Emotional upheaval",
+          "Physical tension"
+        ],
+        answer: "Grounding of energy and mental clarity"
+      },
+      {
+        question: "According to Inayat Khan, what can music alone do?",
+        choices: [
+          "Lift us out of depression into spiritual joy",
+          "Induce feelings of misery",
+          "Disrupt our natural rhythms",
+          "Create physical pain"
+        ],
+        answer: "Lift us out of depression into spiritual joy"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

@@ -1,23 +1,23 @@
 import random
 import json
+import time
 from Spells import Spells
 
 classes = ["Fighter", "Rogue", "Wizard", "Cleric", "Ranger", "Paladin", "Martial Artist", "Shaman", "Monk", "Barbarian"]
 elements = ["Fire", "Air", "Earth", "Water"]
 archetypes = ["Lion", "Eagle", "Bear", "Wolf", "Owl", "Snake", "Dolphin", "Elephant", "Butterfly", "Turtle", "Deer", "Fox"]
 starting_income = {
-    "Fighter": 1-30,
-    "Rogue": 1-25,
-    "Wizard": 1-75,
-    "Cleric": 20-100,
-    "Ranger": 1-35,
-    "Paladin": 20-75,
-    "Martial Artist": 1-20,
-    "Shaman": 1-20,
-    "Monk": 0-2,
-    "Barbarian": 0-2
-  }
-
+    "Fighter": (10, 300),
+    "Rogue": (10, 250),
+    "Wizard": (10, 750),
+    "Cleric": (200, 1000),
+    "Ranger": (10, 350),
+    "Paladin": (200, 750),
+    "Martial Artist": (10, 200),
+    "Shaman": (10, 200),
+    "Monk": (0, 20),
+    "Barbarian": (0, 20)
+}
 def get_user_choice(options):
     for i, option in enumerate(options, 1):
         print(f"{i}. {option}")
@@ -179,17 +179,100 @@ def generate_character():
         "element": character_element,
         "archetype": character_archetype,
         "main_weapon": character_main_weapon,
-        "equipment": character_equipment,
+        "equipment": [character_equipment],  # Convert to a list
         "spells": character_spells,
         "attributes": attributes,
         "background_story": background_story if background_story else default_story
     }
 
+    # Generate starting income based on the character's class
+    min_income, max_income = starting_income[character_class]
+    character_money = random.randint(min_income, max_income)
+
+    # Load equipment from equipment.json file
+    with open("equipment.json", "r") as file:
+        equipment_data = json.load(file)
+        
     # Save the character data to a JSON file
     with open("character_data.json", "w") as file:
         json.dump(character_data, file, indent=4)
 
     print("\nCharacter data saved to 'character_data.json'.")
+
+    input("\nHit enter to continue...")
+
+    # Merchant encounter
+    print("\nAs you set out on your journey, you come across a merchant on the road.")
+    print("The merchant greets you and offers an assortment of items for sale:")
+
+    # Randomly select a dozen items from equipment_data
+    merchant_items = random.sample(equipment_data, 12)
+
+    for i, item in enumerate(merchant_items, 1):
+        print(f"{i}. {item['name']} - {item['cost']}")
+        print(f"   {item['description']}")
+
+    print(f"\nYou have {character_money} gold pieces to spend.")
+
+    print(f"\nYou have {character_money // 100} gp, {(character_money % 100) // 10} sp, and {character_money % 10} cp to spend.")
+
+    purchased_items = []
+
+    while True:
+        choice = input("Enter the number of the item you want to buy (or 'q' to quit): ")
+        if choice == 'q':
+            break
+        if choice.isdigit() and 1 <= int(choice) <= len(merchant_items):
+            item_index = int(choice) - 1
+            item = merchant_items[item_index]
+            cost_parts = item['cost'].split()
+            cost = int(cost_parts[0])
+            currency = cost_parts[1]
+
+            if currency == 'cp':
+                cost_in_cp = cost
+            elif currency == 'sp':
+                cost_in_cp = cost * 10
+            elif currency == 'gp':
+                cost_in_cp = cost * 100
+            else:
+                print("Unknown currency. Skipping item.")
+                continue
+
+            if character_money >= cost_in_cp:
+                character_money -= cost_in_cp
+                purchased_items.append(item)
+                print(f"You bought {item['name']} for {item['cost']}. You have {character_money // 100} gp, {(character_money % 100) // 10} sp, and {character_money % 10} cp left.")
+            else:
+                print("You don't have enough money to buy that item.")
+        else:
+            print("Invalid choice. Please try again.")
+
+    print(f"\nYou have {character_money // 100} gp, {(character_money % 100) // 10} sp, and {character_money % 10} cp left.")
+    print("\nYou continue your journey with your newly acquired items.")
+
+    # Add purchased items to the character data
+    character_data["purchased_items"] = [item["name"] for item in purchased_items]
+    character_data["remaining_money"] = character_money
+
+    # Add purchased items to the character data
+    character_data["purchased_items"] = [item["name"] for item in purchased_items]
+    character_data["remaining_money"] = character_money
+    
+    # Add purchased items to the equipment list
+    character_data["equipment"].extend(character_data["purchased_items"])
+
+    # Save the updated character data to the JSON file
+    with open("character_data.json", "w") as file:
+        json.dump(character_data, file, indent=4)
+
+    print("\nUpdated character data saved to 'character_data.json'.")
+    print("\nYour Fantasy Character Avatar:")
+    print("Class:", character_class)
+    print("Element:", character_element)
+    print("Archetype:", character_archetype)
+    print("Main Weapon:", character_main_weapon)
+    print("Equipment:", character_data["equipment"])
 
 # Run the character generator
 generate_character()

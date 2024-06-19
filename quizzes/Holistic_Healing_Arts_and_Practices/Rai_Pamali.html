@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>The Story of Rai Pamali Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>The Story of Rai Pamali Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What was the state of the world before Rai Pamali emerged?",
+       choices: [
+         "Barren, dry, and devoid of life",
+         "Lush and fertile",
+         "Covered in dense forests",
+         "Inhabited by countless beings"
+       ],
+       answer: "Barren, dry, and devoid of life"
+     },
+     {
+       question: "Who is Rai Pamali in the story?",
+       choices: [
+         "The Earth Mother",
+         "A powerful goddess of war",
+         "A divine messenger",
+         "A mortal woman"
+       ],
+       answer: "The Earth Mother"
+     },
+     {
+       question: "How did Rai Pamali bring life to the barren lands?",
+       choices: [
+         "Her footsteps caused lush greenery to sprout",
+         "She used her magical staff to create life",
+         "She summoned other gods to help her",
+         "She performed a sacred dance"
+       ],
+       answer: "Her footsteps caused lush greenery to sprout"
+     },
+     {
+       question: "What did Rai Pamali do to create the first humans?",
+       choices: [
+         "She molded them from mud and breathed life into them",
+         "She used her divine powers to create them from nothing",
+         "She transformed animals into human beings",
+         "She called upon other gods to create them"
+       ],
+       answer: "She molded them from mud and breathed life into them"
+     },
+     {
+       question: "What did Rai Pamali teach the humans?",
+       choices: [
+         "How to cultivate crops, respect nature, and honor her through rituals",
+         "The secrets of warfare and conquest",
+         "The art of building grand structures",
+         "The ways of magic and sorcery"
+       ],
+       answer: "How to cultivate crops, respect nature, and honor her through rituals"
+     },
+     {
+       question: "What would happen if the humans honored Rai Pamali and lived in harmony with nature?",
+       choices: [
+         "Their communities would thrive and prosper",
+         "They would be punished by the goddess",
+         "They would be granted eternal life",
+         "They would be granted magical powers"
+       ],
+       answer: "Their communities would thrive and prosper"
+     },
+     {
+       question: "What did Rai Pamali's fertile powers flow through?",
+       choices: [
+         "The women, ensuring healthy families and prosperous futures",
+         "The men, granting them strength and courage",
+         "The elders, bestowing them with wisdom and knowledge",
+         "The animals, allowing them to flourish and multiply"
+       ],
+       answer: "The women, ensuring healthy families and prosperous futures"
+     },
+     {
+       question: "What would happen if the humans disrespected Rai Pamali and the sacred land?",
+       choices: [
+         "She would unleash her wrathful side and withhold rains and crops",
+         "She would banish them from the lands",
+         "She would curse them with eternal suffering",
+         "She would turn them into animals"
+       ],
+       answer: "She would unleash her wrathful side and withhold rains and crops"
+     },
+     {
+       question: "What did the legend of Rai Pamali serve as?",
+       choices: [
+         "A warning to never take the life-giving divine feminine force for granted",
+         "A guide to building a powerful empire",
+         "A story of conquest and domination",
+         "A tale of the origins of the universe"
+       ],
+       answer: "A warning to never take the life-giving divine feminine force for granted"
+     },
+     {
+       question: "What does Rai Pamali represent for the indigenous people of Timor?",
+       choices: [
+         "The sacred intertwining of feminine spirituality, nature's generative powers, and reverence for the Earth",
+         "The ultimate source of all knowledge and wisdom",
+         "The embodiment of strength and warrior spirit",
+         "The divine protector of the rulers and nobility"
+       ],
+       answer: "The sacred intertwining of feminine spirituality, nature's generative powers, and reverence for the Earth"
+     },
+     {
+       question: "What is the significance of Rai Pamali emerging from the core of the island?",
+       choices: [
+         "It represents her deep connection to the land and the Earth",
+         "It symbolizes her role as a guardian of the underworld",
+         "It signifies her celestial origins",
+         "It has no particular significance in the story"
+       ],
+       answer: "It represents her deep connection to the land and the Earth"
+     },
+     {
+       question: "How did Rai Pamali bring rain to the dry lands?",
+       choices: [
+         "By raising her arms skyward and forming rain clouds",
+         "By performing a rain dance",
+         "By summoning the gods of rain and storms",
+         "By using her magical staff to control the weather"
+       ],
+       answer: "By raising her arms skyward and forming rain clouds"
+     },
+     {
+       question: "What did Rai Pamali exhale to create vegetation and crops?",
+       choices: [
+         "Seeds that scattered across the wet soil",
+         "Magical spores that grew instantly into plants",
+         "A powerful gust of wind that carried seeds from afar",
+         "She did not create vegetation, only the humans"
+       ],
+       answer: "Seeds that scattered across the wet soil"
+     },
+     {
+       question: "What did Rai Pamali provide the humans with for sustenance?",
+       choices: [
+         "The gardens she created",
+         "Supernatural food that never spoiled",
+         "Hunting grounds for animals",
+         "They had to fend for themselves initially"
+       ],
+       answer: "The gardens she created"
+     },
+     {
+       question: "What did the rituals and ceremonies honor?",
+       choices: [
+         "Rai Pamali's feminine life-giving powers",
+         "The gods of war and conquest",
+         "The spirits of the ancestors",
+         "The cycles of the moon and stars"
+       ],
+       answer: "Rai Pamali's feminine life-giving powers"
+     },
+     {
+       question: "What is the significance of Rai Pamali's radiant face and fertile body?",
+       choices: [
+         "It symbolizes her divine beauty and generative powers",
+         "It represents her role as a goddess of love and passion",
+         "It signifies her status as a warrior goddess",
+         "It has no particular symbolic meaning in the story"
+       ],
+       answer: "It symbolizes her divine beauty and generative powers"
+     },
+     {
+       question: "What message does the story of Rai Pamali convey?",
+       choices: [
+         "The importance of respecting and living in harmony with nature",
+         "The superiority of human beings over the natural world",
+         "The inevitability of constant warfare and conquest",
+         "The need for strict adherence to social hierarchies"
+       ],
+       answer: "The importance of respecting and living in harmony with nature"
+     },
+     {
+       question: "What is the purpose of including seasonal rituals and ceremonies in the story?",
+       choices: [
+         "To emphasize the cyclical nature of life and the Earth's rhythms",
+         "To showcase the power and grandeur of the ruling class",
+         "To promote a specific religious ideology",
+         "To glorify the act of warfare and conquest"
+       ],
+       answer: "To emphasize the cyclical nature of life and the Earth's rhythms"
+     },
+     {
+       question: "What does the story suggest about the relationship between humans and the Earth?",
+       choices: [
+         "Humans must live in harmony with nature and respect the Earth",
+         "Humans are superior to the natural world and can exploit it as they wish",
+         "The Earth exists solely for human consumption and use",
+         "The relationship between humans and the Earth is irrelevant"
+       ],
+       answer: "Humans must live in harmony with nature and respect the Earth"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

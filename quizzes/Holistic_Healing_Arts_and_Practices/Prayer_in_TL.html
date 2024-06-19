@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prayer and Healing in Timor Leste Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Prayer and Healing in Timor Leste Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the predominant religion in Timor Leste?",
+        choices: [
+          "Catholicism",
+          "Islam",
+          "Buddhism",
+          "Hinduism"
+        ],
+        answer: "Catholicism"
+      },
+      {
+        question: "What role does prayer play in the healing process for many Timorese people?",
+        choices: [
+          "Prayer is considered an essential part of the healing process",
+          "Prayer is discouraged and seen as a hindrance to medical treatment",
+          "Prayer is only used as a last resort when medical treatment fails",
+          "Prayer is not commonly practiced in relation to healing"
+        ],
+        answer: "Prayer is considered an essential part of the healing process"
+      },
+      {
+        question: "Which of the following is NOT mentioned as a healing ministry offered by the Timorese Catholic Church?",
+        choices: [
+          "Exorcism",
+          "Anointing of the Sick",
+          "Healing Masses",
+          "Faith-based counseling"
+        ],
+        answer: "Exorcism"
+      },
+      {
+        question: "What is the purpose of the Anointing of the Sick sacrament?",
+        choices: [
+          "To pray over and anoint a seriously ill person, seeking God's grace and healing",
+          "To celebrate a person's recovery from illness",
+          "To bless a newborn child and welcome them into the church community",
+          "To consecrate a new church building or altar"
+        ],
+        answer: "To pray over and anoint a seriously ill person, seeking God's grace and healing"
+      },
+      {
+        question: "Which of the following is mentioned as a personal devotional practice used by Timorese Catholics to seek healing?",
+        choices: [
+          "Praying the Rosary or other prayers to Mary and the saints",
+          "Participating in traditional animistic rituals",
+          "Consulting with fortune tellers or spiritual mediums",
+          "Engaging in self-flagellation or other forms of penance"
+        ],
+        answer: "Praying the Rosary or other prayers to Mary and the saints"
+      },
+      {
+        question: "According to the Catholic understanding of healing, what does God desire for all people?",
+        choices: [
+          "Wholeness and well-being",
+          "Financial prosperity and success",
+          "Political power and influence",
+          "A life free from any challenges or difficulties"
+        ],
+        answer: "Wholeness and well-being"
+      },
+      {
+        question: "How do Timorese Catholics seek to find peace and comfort in the face of illness and suffering?",
+        choices: [
+          "By uniting their sufferings with Christ's healing power and God's love",
+          "By denying the reality of their illness and focusing only on positive thoughts",
+          "By blaming others or questioning God's goodness and justice",
+          "By isolating themselves from the support of their faith community"
+        ],
+        answer: "By uniting their sufferings with Christ's healing power and God's love"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

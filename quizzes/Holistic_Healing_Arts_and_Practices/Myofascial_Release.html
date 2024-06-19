@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Myofascial Release Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Myofascial Release Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What should be included in the preparation for an MFR session?",
+        choices: [
+          "Creating a comfortable, warm space with necessary tools and supports",
+          "Playing loud music to energize the client",
+          "Preparing a strict treatment plan without client input",
+          "Skipping the client interview to save time"
+        ],
+        answer: "Creating a comfortable, warm space with necessary tools and supports"
+      },
+      {
+        question: "What is the purpose of the client interview before an MFR session?",
+        choices: [
+          "To discuss health history, symptoms, goals, and obtain informed consent",
+          "To sell additional services or products to the client",
+          "To gossip about other clients and practitioners",
+          "To diagnose the client's condition without physical assessment"
+        ],
+        answer: "To discuss health history, symptoms, goals, and obtain informed consent"
+      },
+      {
+        question: "How should the practitioner apply myofascial release techniques?",
+        choices: [
+          "With gentle, sustained pressure, waiting for the tissue to respond",
+          "With fast, aggressive strokes to force the tissue to release",
+          "With minimal contact to avoid causing any discomfort",
+          "With a rigid treatment protocol, ignoring the client's responses"
+        ],
+        answer: "With gentle, sustained pressure, waiting for the tissue to respond"
+      },
+      {
+        question: "What is unwinding in the context of myofascial release?",
+        choices: [
+          "Spontaneous movements or sensations in the client's body during release",
+          "The practitioner's technique for applying pressure to the tissue",
+          "The client's verbal feedback about their pain levels",
+          "The process of rebooking the client for future sessions"
+        ],
+        answer: "Spontaneous movements or sensations in the client's body during release"
+      },
+      {
+        question: "How should the practitioner respond to tissue rebounding after a release?",
+        choices: [
+          "Adapt pressure and technique to meet the new state of the tissue",
+          "Ignore the changes and continue with the same approach",
+          "End the session immediately and refer the client to another practitioner",
+          "Criticize the client for not fully releasing their tension"
+        ],
+        answer: "Adapt pressure and technique to meet the new state of the tissue"
+      },
+      {
+        question: "What should be included in the closing of an MFR session?",
+        choices: [
+          "Allowing the client to rest, debriefing, and offering self-care recommendations",
+          "Rushing the client off the table to make room for the next appointment",
+          "Discussing sensitive personal information about other clients",
+          "Selling expensive products or supplements without the client's consent"
+        ],
+        answer: "Allowing the client to rest, debriefing, and offering self-care recommendations"
+      },
+      {
+        question: "What is the importance of documentation and reflection after an MFR session?",
+        choices: [
+          "To record findings, learn from experience, and engage in self-care",
+          "To gossip about the client with other practitioners",
+          "To exaggerate the results of the session for marketing purposes",
+          "To judge and criticize the client's progress or lack thereof"
+        ],
+        answer: "To record findings, learn from experience, and engage in self-care"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

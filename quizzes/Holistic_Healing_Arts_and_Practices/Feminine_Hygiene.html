@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Feminine Hygiene Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Feminine Hygiene Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What type of soap is recommended for washing the external vulva area?",
+       choices: [
+         "Mild, fragrance-free soap",
+         "Heavily scented soap",
+         "Antibacterial soap",
+         "No soap is necessary"
+       ],
+       answer: "Mild, fragrance-free soap"
+     },
+     {
+       question: "What type of underwear is advisable during menstruation?",
+       choices: [
+         "Breathable cotton varieties",
+         "Synthetic fabrics",
+         "Tight-fitting underwear",
+         "The type of underwear doesn't matter"
+       ],
+       answer: "Breathable cotton varieties"
+     },
+     {
+       question: "What kind of odor may indicate an infection?",
+       choices: [
+         "Strong, fishy, or foul smell",
+         "Light or mild odor",
+         "No odor at all",
+         "A floral scent"
+       ],
+       answer: "Strong, fishy, or foul smell"
+     },
+     {
+       question: "How often should feminine hygiene products be changed during menstruation?",
+       choices: [
+         "Regularly, based on flow and product guidelines",
+         "Only once a day",
+         "There is no need to change them",
+         "Every few hours, regardless of flow"
+       ],
+       answer: "Regularly, based on flow and product guidelines"
+     },
+     {
+       question: "What is the purpose of disposable pads or sanitary napkins?",
+       choices: [
+         "To catch menstrual flow externally",
+         "To be inserted into the vagina",
+         "To clean the vaginal area",
+         "To prevent menstruation"
+       ],
+       answer: "To catch menstrual flow externally"
+     },
+     {
+       question: "How often should tampons be changed?",
+       choices: [
+         "Every 4-8 hours",
+         "Only once a day",
+         "They can be left in indefinitely",
+         "Every 12 hours"
+       ],
+       answer: "Every 4-8 hours"
+     },
+     {
+       question: "What is a potential advantage of using a menstrual cup?",
+       choices: [
+         "It can be reused for up to 10 years",
+         "It provides a more natural menstrual experience",
+         "It prevents menstrual cramps",
+         "It is more absorbent than other products"
+       ],
+       answer: "It can be reused for up to 10 years"
+     },
+     {
+       question: "What is the purpose of period underwear?",
+       choices: [
+         "To be worn as backup or alone on light days",
+         "To be worn exclusively during menstruation",
+         "To prevent menstrual cramps",
+         "To be worn as outerwear during menstruation"
+       ],
+       answer: "To be worn as backup or alone on light days"
+     },
+     {
+       question: "What is a potential benefit of using cloth pads?",
+       choices: [
+         "More eco-friendly than disposables",
+         "More absorbent than disposables",
+         "More comfortable than disposables",
+         "More convenient than disposables"
+       ],
+       answer: "More eco-friendly than disposables"
+     },
+     {
+       question: "What is a general guideline for changing menstrual cups?",
+       choices: [
+         "Every 12 hours",
+         "Every 4-8 hours",
+         "Only once a day",
+         "There is no need to change them"
+       ],
+       answer: "Every 12 hours"
+     },
+     {
+       question: "What should be done before reinserting a menstrual cup?",
+       choices: [
+         "Rinse it with hot water",
+         "Boil it for sterilization",
+         "Rinse it with cold water",
+         "No rinsing is necessary"
+       ],
+       answer: "Rinse it with hot water"
+     },
+     {
+       question: "What is the purpose of gentle cleansing during menstruation?",
+       choices: [
+         "To prevent buildup and maintain cleanliness",
+         "To disrupt the natural vaginal balance",
+         "To increase menstrual flow",
+         "To alleviate menstrual cramps"
+       ],
+       answer: "To prevent buildup and maintain cleanliness"
+     },
+     {
+       question: "What is NOT recommended for internal cleansing of the vagina?",
+       choices: [
+         "Douching or using internal cleansers",
+         "Gentle washing of external areas",
+         "Rinsing with warm water",
+         "Using mild, fragrance-free soap"
+       ],
+       answer: "Douching or using internal cleansers"
+     },
+     {
+       question: "What is important when choosing feminine hygiene products?",
+       choices: [
+         "Considering personal preferences, flow levels, and access to cleaning facilities",
+         "Choosing the most expensive products",
+         "Following strict brand loyalty",
+         "Using the same products as friends or family members"
+       ],
+       answer: "Considering personal preferences, flow levels, and access to cleaning facilities"
+     },
+     {
+       question: "What is a potential advantage of using reusable products like menstrual cups or cloth pads?",
+       choices: [
+         "More eco-friendly than disposable products",
+         "More expensive in the long run",
+         "Less comfortable than disposable products",
+         "More difficult to maintain cleanliness"
+       ],
+       answer: "More eco-friendly than disposable products"
+     },
+     {
+       question: "What is the importance of being attuned to one's normal cycle and discharge patterns?",
+       choices: [
+         "To identify any unusual changes that may require medical attention",
+         "To plan social activities around menstruation",
+         "To predict the exact start date of each menstrual cycle",
+         "To compare with friends or family members"
+       ],
+       answer: "To identify any unusual changes that may require medical attention"
+     },
+     {
+       question: "What is a potential consequence of not changing feminine hygiene products regularly?",
+       choices: [
+         "Infection or odor",
+         "Increased menstrual flow",
+         "Alleviated menstrual cramps",
+         "Improved vaginal health"
+       ],
+       answer: "Infection or odor"
+     },
+     {
+       question: "What is NOT recommended for washing the external vulva area?",
+       choices: [
+         "Harsh products",
+         "Aggressive scrubbing",
+         "Mild, fragrance-free soap",
+         "Warm water"
+       ],
+       answer: "Aggressive scrubbing"
+     },
+     {
+       question: "What is a potential benefit of wearing loose clothing during menstruation?",
+       choices: [
+         "Providing extra comfort and airflow",
+         "Preventing menstrual cramps",
+         "Increasing menstrual flow",
+         "Improving vaginal health"
+       ],
+       answer: "Providing extra comfort and airflow"
+     },
+     {
+       question: "What is the key to maintaining proper feminine hygiene during menstruation?",
+       choices: [
+         "Regular changing of materials and gentle external cleansing",
+         "Using harsh internal cleansers",
+         "Douching regularly",
+         "Wearing tight-fitting clothing"
+       ],
+       answer: "Regular changing of materials and gentle external cleansing"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

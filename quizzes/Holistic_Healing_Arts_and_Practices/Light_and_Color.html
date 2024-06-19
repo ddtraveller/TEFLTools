@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Light and Color Healing Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Light and Color Healing Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What is the primary benefit of red light therapy (RLT) for skin health?",
+       choices: [
+         "Boosting collagen production to improve complexion and reduce wrinkles",
+         "Providing a bronzed, tanned appearance",
+         "Treating acne and blemishes",
+         "Exfoliating the skin"
+       ],
+       answer: "Boosting collagen production to improve complexion and reduce wrinkles"
+     },
+     {
+       question: "How does red light therapy help with muscle recovery and joint pain?",
+       choices: [
+         "By increasing blood flow and tissue oxygenation",
+         "By reducing muscle tension and spasms",
+         "By enhancing muscle strength and endurance",
+         "By numbing the pain receptors"
+       ],
+       answer: "By increasing blood flow and tissue oxygenation"
+     },
+     {
+       question: "What is a common method of administering red light therapy?",
+       choices: [
+         "Through special LED light panels or wands",
+         "By ingesting red-colored supplements",
+         "By wearing red-tinted glasses",
+         "By applying red-colored creams or ointments"
+       ],
+       answer: "Through special LED light panels or wands"
+     },
+     {
+       question: "What is the primary benefit of blue light therapy for mood and sleep disorders?",
+       choices: [
+         "Regulating the body's circadian rhythm (sleep-wake cycle)",
+         "Improving vision and eye health",
+         "Boosting energy levels and alertness",
+         "Reducing inflammation and pain"
+       ],
+       answer: "Regulating the body's circadian rhythm (sleep-wake cycle)"
+     },
+     {
+       question: "How can too much artificial blue light exposure at night be harmful?",
+       choices: [
+         "It can disrupt sleep patterns and contribute to insomnia and depression",
+         "It can cause headaches and eye strain",
+         "It can lower immunity and increase susceptibility to illness",
+         "It can lead to dehydration and fatigue"
+       ],
+       answer: "It can disrupt sleep patterns and contribute to insomnia and depression"
+     },
+     {
+       question: "What type of light therapy is used to treat Seasonal Affective Disorder (SAD)?",
+       choices: [
+         "Blue light therapy boxes that mimic sunlight",
+         "Red light therapy",
+         "Green light therapy",
+         "Ultraviolet light therapy"
+       ],
+       answer: "Blue light therapy boxes that mimic sunlight"
+     },
+     {
+       question: "What is a potential benefit of spending time in green spaces like parks and forests?",
+       choices: [
+         "Reducing stress and improving mood and cognitive function",
+         "Increasing muscle strength and endurance",
+         "Promoting a tanned complexion",
+         "Boosting energy levels and alertness"
+       ],
+       answer: "Reducing stress and improving mood and cognitive function"
+     },
+     {
+       question: "What is the practice of "forest bathing" associated with?",
+       choices: [
+         "Boosting immune function and increasing anti-cancer proteins",
+         "Improving sleep patterns and regulating the circadian rhythm",
+         "Enhancing muscle recovery and reducing joint pain",
+         "Boosting collagen production and reducing wrinkles"
+       ],
+       answer: "Boosting immune function and increasing anti-cancer proteins"
+     },
+     {
+       question: "What is the purpose of color therapy or "chromotherapy"?",
+       choices: [
+         "To restore physical and emotional balance",
+         "To improve sleep patterns and regulate the circadian rhythm",
+         "To enhance muscle recovery and reduce joint pain",
+         "To boost collagen production and reduce wrinkles"
+       ],
+       answer: "To restore physical and emotional balance"
+     },
+     {
+       question: "How can personalizing spaces with meaningful colors and artwork contribute to wellbeing?",
+       choices: [
+         "By enhancing a sense of comfort, self-expression, and connectedness",
+         "By improving sleep patterns and regulating the circadian rhythm",
+         "By increasing blood flow and tissue oxygenation",
+         "By boosting immune function and increasing anti-cancer proteins"
+       ],
+       answer: "By enhancing a sense of comfort, self-expression, and connectedness"
+     },
+     {
+       question: "Which color is associated with growth, harmony, and balance, and has a soothing effect on the nervous system?",
+       choices: [
+         "Green",
+         "Red",
+         "Blue",
+         "Yellow"
+       ],
+       answer: "Green"
+     },
+     {
+       question: "What is a potential benefit of exposing oneself to bright, saturated colors?",
+       choices: [
+         "They can be energizing and uplifting",
+         "They can improve sleep patterns",
+         "They can reduce inflammation and pain",
+         "They can boost collagen production"
+       ],
+       answer: "They can be energizing and uplifting"
+     },
+     {
+       question: "Which color is often associated with tranquility and calmness?",
+       choices: [
+         "Blue",
+         "Red",
+         "Yellow",
+         "Green"
+       ],
+       answer: "Blue"
+     },
+     {
+       question: "What is a potential benefit of exposing oneself to softer, muted colors?",
+       choices: [
+         "They can have a calming and relaxing effect",
+         "They can increase blood flow and tissue oxygenation",
+         "They can boost energy levels and alertness",
+         "They can improve sleep patterns and regulate the circadian rhythm"
+       ],
+       answer: "They can have a calming and relaxing effect"
+     },
+     {
+       question: "What is a potential benefit of incorporating office plants or nature images in the workplace?",
+       choices: [
+         "It can enhance wellbeing and productivity",
+         "It can boost collagen production and reduce wrinkles",
+         "It can improve sleep patterns and regulate the circadian rhythm",
+         "It can increase blood flow and tissue oxygenation"
+       ],
+       answer: "It can enhance wellbeing and productivity"
+     },
+     {
+       question: "Which color is often associated with passion and intensity?",
+       choices: [
+         "Red",
+         "Blue",
+         "Green",
+         "Yellow"
+       ],
+       answer: "Red"
+     },
+     {
+       question: "What is a potential benefit of regular red light therapy treatments?",
+       choices: [
+         "Speeding up wound healing",
+         "Improving sleep patterns and regulating the circadian rhythm",
+         "Boosting immune function and increasing anti-cancer proteins",
+         "Enhancing a sense of comfort, self-expression, and connectedness"
+       ],
+       answer: "Speeding up wound healing"
+     },
+     {
+       question: "What is a potential side effect of excessive blue light exposure from screens at night?",
+       choices: [
+         "Disrupted sleep patterns and insomnia",
+         "Reduced collagen production and increased wrinkles",
+         "Decreased blood flow and tissue oxygenation",
+         "Lowered immune function and increased susceptibility to illness"
+       ],
+       answer: "Disrupted sleep patterns and insomnia"
+     },
+     {
+       question: "What is a potential benefit of spending time in green spaces for physical health?",
+       choices: [
+         "Lowering heart rate and blood pressure",
+         "Boosting energy levels and alertness",
+         "Improving sleep patterns and regulating the circadian rhythm",
+         "Speeding up wound healing"
+       ],
+       answer: "Lowering heart rate and blood pressure"
+     },
+     {
+       question: "What is a potential application of color therapy or "chromotherapy"?",
+       choices: [
+         "Using color-infused light, fabrics, or visualizations",
+         "Administering red light therapy through LED panels",
+         "Exposing individuals to blue light therapy boxes",
+         "Spending time in green spaces like parks and forests"
+       ],
+       answer: "Using color-infused light, fabrics, or visualizations"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Craniosacral Therapy Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Craniosacral Therapy Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What is the first step in preparing for a craniosacral therapy session?",
+       choices: [
+         "Create a quiet, comfortable space",
+         "Obtain informed consent from the client",
+         "Assess the client's craniosacral rhythm",
+         "Release cranial restrictions"
+       ],
+       answer: "Create a quiet, comfortable space"
+     },
+     {
+       question: "What should be available for client positioning during a craniosacral session?",
+       choices: [
+         "Pillows and blankets",
+         "Massage table or mat",
+         "Supports for comfort",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "When should the practitioner explain the principles and techniques of craniosacral therapy?",
+       choices: [
+         "During the client consultation",
+         "After the session is complete",
+         "While the client is lying on the table",
+         "Only if the client asks about it"
+       ],
+       answer: "During the client consultation"
+     },
+     {
+       question: "What is the purpose of assessing the craniosacral rhythm?",
+       choices: [
+         "To identify areas of restriction or asymmetry",
+         "To release cranial restrictions",
+         "To balance the sacrum",
+         "To integrate the session"
+       ],
+       answer: "To identify areas of restriction or asymmetry"
+     },
+     {
+       question: "How should the practitioner approach the assessment of the craniosacral rhythm?",
+       choices: [
+         "With a judgmental attitude",
+         "With a neutral, curious attitude",
+         "With a forceful technique",
+         "With preconceived interpretations"
+       ],
+       answer: "With a neutral, curious attitude"
+     },
+     {
+       question: "What is the purpose of releasing cranial restrictions?",
+       choices: [
+         "To apply gentle, sustained pressure or traction",
+         "To balance the sacrum",
+         "To integrate the session",
+         "To assess the craniosacral rhythm"
+       ],
+       answer: "To apply gentle, sustained pressure or traction"
+     },
+     {
+       question: "What techniques may be used to balance the sacrum?",
+       choices: [
+         "Traction",
+         "Compression",
+         "Stillpoint holds",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "What should the practitioner do during the integration phase of the session?",
+       choices: [
+         "Discuss the client's experience and any insights",
+         "Apply more pressure to release restrictions",
+         "Assess the craniosacral rhythm again",
+         "Begin the balancing of the sacrum"
+       ],
+       answer: "Discuss the client's experience and any insights"
+     },
+     {
+       question: "What should the practitioner do at the end of the craniosacral session?",
+       choices: [
+         "Provide self-care recommendations for the client",
+         "Immediately schedule the next session",
+         "Ignore any remaining questions from the client",
+         "Rush the client out of the room"
+       ],
+       answer: "Provide self-care recommendations for the client"
+     },
+     {
+       question: "What is an important aspect of craniosacral therapy?",
+       choices: [
+         "Trusting intuition and staying present with the client's experience",
+         "Using forceful techniques to release restrictions",
+         "Interpreting the craniosacral rhythm based on preconceptions",
+         "Rushing through the session to save time"
+       ],
+       answer: "Trusting intuition and staying present with the client's experience"
+     },
+     {
+       question: "What is the purpose of maintaining a grounded, supportive presence during the sacrum balancing?",
+       choices: [
+         "To facilitate relaxation and release",
+         "To apply more pressure for release",
+         "To assess the craniosacral rhythm",
+         "To integrate the session"
+       ],
+       answer: "To facilitate relaxation and release"
+     },
+     {
+       question: "What should the practitioner observe during the integration phase?",
+       choices: [
+         "Any shifts or changes in the client's breathing, posture, or energy",
+         "Areas of remaining restriction to work on",
+         "The craniosacral rhythm again",
+         "The need for additional pressure or traction"
+       ],
+       answer: "Any shifts or changes in the client's breathing, posture, or energy"
+     },
+     {
+       question: "What should the practitioner do to document the craniosacral session?",
+       choices: [
+         "Record any relevant findings for their records",
+         "Ignore documenting the session",
+         "Ask the client to document their experience",
+         "Wait until the next session to document"
+       ],
+       answer: "Record any relevant findings for their records"
+     },
+     {
+       question: "What is an important aspect when assessing the craniosacral rhythm?",
+       choices: [
+         "Maintain a judgmental attitude",
+         "Interpret the rhythm based on preconceptions",
+         "Use forceful techniques",
+         "Avoid judgment or interpretation"
+       ],
+       answer: "Avoid judgment or interpretation"
+     },
+     {
+       question: "What should the practitioner do during the settling-in phase of the session?",
+       choices: [
+         "Guide the client to relax and take deep breaths",
+         "Begin assessing the craniosacral rhythm",
+         "Release cranial restrictions",
+         "Balance the sacrum"
+       ],
+       answer: "Guide the client to relax and take deep breaths"
+     },
+     {
+       question: "What is the purpose of using pillows and bolsters when positioning the client?",
+       choices: [
+         "To ensure the client is comfortable and supported",
+         "To apply pressure for releasing restrictions",
+         "To assess the craniosacral rhythm",
+         "To balance the sacrum"
+       ],
+       answer: "To ensure the client is comfortable and supported"
+     },
+     {
+       question: "What should the practitioner do when releasing cranial restrictions?",
+       choices: [
+         "Follow any subtle movements or unwinding sensations in the tissues",
+         "Apply forceful pressure to release restrictions quickly",
+         "Ignore any movements or sensations in the tissues",
+         "Interpret the movements based on preconceptions"
+       ],
+       answer: "Follow any subtle movements or unwinding sensations in the tissues"
+     },
+     {
+       question: "What should the practitioner do to establish contact for assessing the craniosacral rhythm?",
+       choices: [
+         "Gently place their hands on the client's feet or sacrum",
+         "Apply pressure to the client's head",
+         "Balance the sacrum",
+         "Begin releasing cranial restrictions"
+       ],
+       answer: "Gently place their hands on the client's feet or sacrum"
+     },
+     {
+       question: "What should the practitioner do if the client has remaining questions at the end of the session?",
+       choices: [
+         "Answer the questions and address any concerns",
+         "Ignore the questions and rush the client out",
+         "Reschedule for another time to address the questions",
+         "Provide self-care recommendations instead of answering questions"
+       ],
+       answer: "Answer the questions and address any concerns"
+     },
+     {
+       question: "What is an important aspect of the craniosacral session?",
+       choices: [
+         "Allowing time for the client's system to respond",
+         "Rushing through the session to save time",
+         "Using forceful techniques for faster results",
+         "Ignoring the client's experience and sensations"
+       ],
+       answer: "Allowing time for the client's system to respond"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

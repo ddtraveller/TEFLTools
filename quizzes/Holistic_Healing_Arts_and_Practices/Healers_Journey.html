@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>The Healer's Journey Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>The Healer's Journey Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "Who is the skilled healer mentioned in the story?",
+       choices: [
+         "Fatima",
+         "Amalia",
+         "Sofia",
+         "Isabela"
+       ],
+       answer: "Fatima"
+     },
+     {
+       question: "What prompted Fatima to consider establishing a dedicated healing center?",
+       choices: [
+         "The increasing demand for her services from neighboring villages",
+         "A desire to expand her business opportunities",
+         "Pressure from local authorities",
+         "A need to relocate due to personal reasons"
+       ],
+       answer: "The increasing demand for her services from neighboring villages"
+     },
+     {
+       question: "What did Fatima consider when choosing the location for her healing center?",
+       choices: [
+         "Accessibility, cultural appropriateness, and alignment with local zoning laws",
+         "Proximity to the town center",
+         "Availability of modern amenities",
+         "Potential for future expansion"
+       ],
+       answer: "Accessibility, cultural appropriateness, and alignment with local zoning laws"
+     },
+     {
+       question: "Who did Fatima consult with when selecting the location for her healing center?",
+       choices: [
+         "Village elders and community leaders",
+         "Local government officials",
+         "Real estate agents",
+         "Other healers in the region"
+       ],
+       answer: "Village elders and community leaders"
+     },
+     {
+       question: "What was the chosen location for Fatima's healing center?",
+       choices: [
+         "A plot of land on the outskirts of the village, nestled between verdant hills and a flowing stream",
+         "An abandoned building in the town center",
+         "A remote location deep in the forest",
+         "A modern facility in the city"
+       ],
+       answer: "A plot of land on the outskirts of the village, nestled between verdant hills and a flowing stream"
+     },
+     {
+       question: "What was Fatima's goal in offering a range of payment options?",
+       choices: [
+         "To make her services accessible to all, regardless of financial circumstances",
+         "To maximize her profit margins",
+         "To attract wealthier clients",
+         "To discourage individuals from seeking her services"
+       ],
+       answer: "To make her services accessible to all, regardless of financial circumstances"
+     },
+     {
+       question: "What alternative payment option did Fatima offer for those who could not afford her services?",
+       choices: [
+         "Barter or community service",
+         "Loans from local lenders",
+         "Payment plans with interest",
+         "Discounted rates for referrals"
+       ],
+       answer: "Barter or community service"
+     },
+     {
+       question: "What was Fatima's belief about healing and one's ability to pay?",
+       choices: [
+         "Healing should never be limited by one's ability to pay",
+         "Only those who can afford her services deserve to be healed",
+         "Healing is a privilege reserved for the wealthy",
+         "Healing should be provided based on social status"
+       ],
+       answer: "Healing should never be limited by one's ability to pay"
+     },
+     {
+       question: "What did Fatima incorporate into the construction of her healing center?",
+       choices: [
+         "Traditional architectural elements that honored the region's cultural heritage",
+         "Modern, minimalist design elements",
+         "Imported materials from other regions",
+         "Purely functional and utilitarian structures"
+       ],
+       answer: "Traditional architectural elements that honored the region's cultural heritage"
+     },
+     {
+       question: "What was included in Fatima's healing center?",
+       choices: [
+         "A spacious consultation area, treatment rooms, and a tranquil garden",
+         "State-of-the-art medical equipment",
+         "Accommodation facilities for visitors",
+         "A research laboratory"
+       ],
+       answer: "A spacious consultation area, treatment rooms, and a tranquil garden"
+     },
+     {
+       question: "What drew people from far and wide to Fatima's healing center?",
+       choices: [
+         "Her dedication to holistic healing and respect for traditions and beliefs",
+         "The promise of cutting-edge medical treatments",
+         "Aggressive marketing campaigns",
+         "The opportunity to receive treatment from a celebrity healer"
+       ],
+       answer: "Her dedication to holistic healing and respect for traditions and beliefs"
+     },
+     {
+       question: "How was the opening of Fatima's healing center celebrated?",
+       choices: [
+         "With great joy and reverence",
+         "With a grand gala event",
+         "With a traditional festival",
+         "With a formal ribbon-cutting ceremony"
+       ],
+       answer: "With great joy and reverence"
+     },
+     {
+       question: "What did Fatima's healing center represent for her?",
+       choices: [
+         "A new chapter in her journey as a healer",
+         "A business opportunity to increase her wealth",
+         "A means to gain social status and recognition",
+         "A way to attract tourists to the region"
+       ],
+       answer: "A new chapter in her journey as a healer"
+     },
+     {
+       question: "What did Fatima's healing center provide?",
+       choices: [
+         "A sanctuary where body, mind, and spirit could find harmony and healing",
+         "A place solely focused on physical ailments",
+         "A retreat for spiritual enlightenment",
+         "A hub for medical research and experimentation"
+       ],
+       answer: "A sanctuary where body, mind, and spirit could find harmony and healing"
+     },
+     {
+       question: "What was the significance of Fatima's connection to the cultural roots of her community?",
+       choices: [
+         "It allowed her to create a healing space that resonated with local traditions",
+         "It was a marketing ploy to attract more clients",
+         "It was a requirement imposed by local authorities",
+         "It had no particular significance in the story"
+       ],
+       answer: "It allowed her to create a healing space that resonated with local traditions"
+     },
+     {
+       question: "What message does the story convey about accessibility and inclusivity in healing practices?",
+       choices: [
+         "Healing should be accessible to all, regardless of financial means",
+         "Healing should be reserved for those who can afford it",
+         "Accessibility is not a priority in healing practices",
+         "Inclusivity is not relevant in the context of healing"
+       ],
+       answer: "Healing should be accessible to all, regardless of financial means"
+     },
+     {
+       question: "What does the story suggest about the importance of respecting cultural traditions and beliefs?",
+       choices: [
+         "It is crucial for establishing trust and resonance with the community",
+         "It is an outdated concept that should be abandoned",
+         "It is irrelevant in the context of healing practices",
+         "It is a hindrance to providing effective medical treatment"
+       ],
+       answer: "It is crucial for establishing trust and resonance with the community"
+     },
+     {
+       question: "What does the story imply about the role of community involvement in Fatima's healing journey?",
+       choices: [
+         "The support and involvement of the local community were essential",
+         "Community involvement was discouraged to maintain privacy",
+         "The story does not mention any community involvement",
+         "Community involvement was seen as a hindrance to progress"
+       ],
+       answer: "The support and involvement of the local community were essential"
+     },
+     {
+       question: "What message does the story convey about the purpose of Fatima's healing practice?",
+       choices: [
+         "To provide holistic healing that addresses the harmony of body, mind, and spirit",
+         "To accumulate wealth and financial success",
+         "To gain social status and recognition",
+         "To compete with other healers in the region"
+       ],
+       answer: "To provide holistic healing that addresses the harmony of body, mind, and spirit"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

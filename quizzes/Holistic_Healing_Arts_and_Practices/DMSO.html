@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>DMSO Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>DMSO Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What is DMSO?",
+       choices: [
+         "A natural compound derived from wood pulp",
+         "A synthetic pharmaceutical drug",
+         "A type of essential oil",
+         "A dietary supplement"
+       ],
+       answer: "A natural compound derived from wood pulp"
+     },
+     {
+       question: "What is one of the notable properties of DMSO?",
+       choices: [
+         "Its ability to penetrate the skin and other membranes",
+         "Its ability to induce sleep",
+         "Its ability to enhance muscle growth",
+         "Its ability to stimulate appetite"
+       ],
+       answer: "Its ability to penetrate the skin and other membranes"
+     },
+     {
+       question: "What is DMSO approved by the FDA for in the United States?",
+       choices: [
+         "The treatment of interstitial cystitis",
+         "The treatment of arthritis",
+         "As a topical pain reliever",
+         "As an antioxidant supplement"
+       ],
+       answer: "The treatment of interstitial cystitis"
+     },
+     {
+       question: "How is DMSO thought to provide pain relief when applied topically?",
+       choices: [
+         "By reducing inflammation and blocking pain signals",
+         "By inducing numbness",
+         "By causing muscle relaxation",
+         "By increasing adrenaline production"
+       ],
+       answer: "By reducing inflammation and blocking pain signals"
+     },
+     {
+       question: "What is one of the potential benefits of DMSO's anti-inflammatory properties?",
+       choices: [
+         "Managing conditions characterized by chronic inflammation",
+         "Boosting the immune system",
+         "Improving digestion",
+         "Enhancing cognitive function"
+       ],
+       answer: "Managing conditions characterized by chronic inflammation"
+     },
+     {
+       question: "How may DMSO's antioxidant properties support overall health?",
+       choices: [
+         "By neutralizing free radicals and reducing oxidative stress",
+         "By increasing energy levels",
+         "By promoting weight loss",
+         "By enhancing muscle strength"
+       ],
+       answer: "By neutralizing free radicals and reducing oxidative stress"
+     },
+     {
+       question: "Which of the following is NOT a potential benefit of DMSO mentioned in the reading?",
+       choices: [
+         "Improved joint mobility and flexibility",
+         "Reduced scar tissue formation",
+         "Enhanced muscle growth",
+         "Improved skin health and appearance"
+       ],
+       answer: "Enhanced muscle growth"
+     },
+     {
+       question: "What is a potential concern regarding DMSO products?",
+       choices: [
+         "Lack of regulation and quality control standards for some products",
+         "High risk of addiction",
+         "Potential to cause organ damage",
+         "Interference with prescription medications"
+       ],
+       answer: "Lack of regulation and quality control standards for some products"
+     },
+     {
+       question: "What is a potential side effect of topical DMSO use?",
+       choices: [
+         "Skin irritation or rash",
+         "Rapid weight gain",
+         "Insomnia",
+         "Nausea and vomiting"
+       ],
+       answer: "Skin irritation or rash"
+     },
+     {
+       question: "According to the reading, what is important when using DMSO?",
+       choices: [
+         "Using it only under the guidance of a qualified healthcare provider",
+         "Taking it daily without any medical supervision",
+         "Combining it with other supplements without professional advice",
+         "Increasing the dosage without consulting a professional"
+       ],
+       answer: "Using it only under the guidance of a qualified healthcare provider"
+     },
+     {
+       question: "What is one of the potential neuroprotective effects of DMSO?",
+       choices: [
+         "Protecting the brain and nervous system",
+         "Enhancing memory and cognition",
+         "Improving vision",
+         "Increasing muscle coordination"
+       ],
+       answer: "Protecting the brain and nervous system"
+     },
+     {
+       question: "What is the recommended approach to DMSO, according to the reading?",
+       choices: [
+         "Approach it with caution and make informed decisions based on evidence and professional guidance",
+         "Use it liberally without any precautions",
+         "Trust anecdotal evidence and personal experiences over scientific research",
+         "Self-medicate with DMSO without consulting a healthcare provider"
+       ],
+       answer: "Approach it with caution and make informed decisions based on evidence and professional guidance"
+     },
+     {
+       question: "What is one of the potential benefits of DMSO for wound healing?",
+       choices: [
+         "Reduced scar tissue formation",
+         "Increased bleeding",
+         "Delayed healing",
+         "Increased risk of infection"
+       ],
+       answer: "Reduced scar tissue formation"
+     },
+     {
+       question: "When was DMSO first synthesized?",
+       choices: [
+         "In the mid-19th century",
+         "In the early 20th century",
+         "In the 1960s",
+         "In the 1980s"
+       ],
+       answer: "In the mid-19th century"
+     },
+     {
+       question: "How may DMSO improve joint mobility and flexibility?",
+       choices: [
+         "By reducing inflammation and increasing blood flow",
+         "By numbing the affected area",
+         "By causing muscle spasms",
+         "By increasing joint stiffness"
+       ],
+       answer: "By reducing inflammation and increasing blood flow"
+     },
+     {
+       question: "What is one of the potential uses of DMSO mentioned in the reading?",
+       choices: [
+         "As an industrial solvent",
+         "As a food preservative",
+         "As a fuel additive",
+         "As a cleaning agent"
+       ],
+       answer: "As an industrial solvent"
+     },
+     {
+       question: "What property of DMSO allows it to be absorbed quickly and deeply into the body?",
+       choices: [
+         "Its ability to penetrate membranes",
+         "Its high water solubility",
+         "Its fat-soluble nature",
+         "Its acidic properties"
+       ],
+       answer: "Its ability to penetrate membranes"
+     },
+     {
+       question: "What is one of the potential risks of taking DMSO orally or by injection?",
+       choices: [
+         "Headache, nausea, or allergic reactions",
+         "Weight gain",
+         "Insomnia",
+         "Muscle cramps"
+       ],
+       answer: "Headache, nausea, or allergic reactions"
+     },
+     {
+       question: "How may DMSO support skin health and appearance?",
+       choices: [
+         "By reducing inflammation and improving wound healing",
+         "By causing excessive dryness",
+         "By promoting acne formation",
+         "By accelerating skin aging"
+       ],
+       answer: "By reducing inflammation and improving wound healing"
+     },
+     {
+       question: "What is one of the challenges mentioned in the reading regarding DMSO research?",
+       choices: [
+         "Gaining a clearer understanding of its benefits, risks, and optimal uses",
+         "Finding a way to synthesize DMSO in a laboratory",
+         "Overcoming the lack of interest from the scientific community",
+         "Obtaining funding for research due to its widespread availability"
+       ],
+       answer: "Gaining a clearer understanding of its benefits, risks, and optimal uses"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

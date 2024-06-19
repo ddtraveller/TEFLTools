@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Methylene Blue Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Methylene Blue Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is methylene blue?",
+        choices: [
+          "A synthetic compound with antioxidant and neuroprotective effects",
+          "A natural herb used in traditional medicine",
+          "A type of brain imaging technique",
+          "A neurotransmitter found in the brain"
+        ],
+        answer: "A synthetic compound with antioxidant and neuroprotective effects"
+      },
+      {
+        question: "When was methylene blue originally synthesized?",
+        choices: [
+          "1876",
+          "1920",
+          "1960",
+          "2000"
+        ],
+        answer: "1876"
+      },
+      {
+        question: "What is one of the key mechanisms of action for methylene blue?",
+        choices: [
+          "Enhancing mitochondrial function",
+          "Blocking neurotransmitter receptors",
+          "Stimulating the release of hormones",
+          "Increasing blood pressure"
+        ],
+        answer: "Enhancing mitochondrial function"
+      },
+      {
+        question: "Which of the following is NOT mentioned as a potential benefit of methylene blue?",
+        choices: [
+          "Improved digestive health",
+          "Enhanced mood and reduced symptoms of depression and anxiety",
+          "Increased brain energy metabolism and cerebral blood flow",
+          "Potential anti-aging and longevity benefits"
+        ],
+        answer: "Improved digestive health"
+      },
+      {
+        question: "Why is it important to use methylene blue under the guidance of a qualified healthcare provider?",
+        choices: [
+          "High doses or impure formulations can cause serious side effects",
+          "It is illegal to use methylene blue without a prescription",
+          "Methylene blue is highly addictive and can lead to dependence",
+          "It can only be administered through intravenous injections"
+        ],
+        answer: "High doses or impure formulations can cause serious side effects"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

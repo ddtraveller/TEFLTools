@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Activated Charcoal Reading Quiz</title>
+    <style>
+        .question {
+            font-weight: bold;
+        }
+        .answer {
+            margin-left: 20px;
+        }
+        .correct {
+            color: green;
+        }
+        .incorrect {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Activated Charcoal Reading Quiz</h1>
+    <div id="quiz"></div>
+    <button onclick="showAnswers()">Submit</button>
+    <div id="answers" style="display: none;"></div>
+
+    <script>
+        const questions = [
+    {
+        question: "What is the main function of activated charcoal?",
+        answer: "To remove toxins and unwanted substances from the body.",
+        isCorrect: true
+    },
+    {
+        question: "What is the process that creates the porous structure of activated charcoal?",
+        answer: "Burning organic materials like wood or coconut shells at high temperatures, followed by a special activation treatment.",
+        isCorrect: true
+    },
+    {
+        question: "When was the process of 'activating' charcoal discovered?",
+        answer: "In the 20th century.",
+        isCorrect: true
+    },
+    {
+        question: "What is one of the primary uses of activated charcoal in healthcare?",
+        answer: "Treating accidental poisonings and drug overdoses.",
+        isCorrect: true
+    },
+    {
+        question: "How does activated charcoal help in cases of poisoning?",
+        answer: "It binds to the toxins in the digestive tract, preventing their absorption into the body.",
+        isCorrect: true
+    },
+    {
+        question: "Can activated charcoal be used for long-term detoxification?",
+        answer: "No, it should only be used for acute poisoning under medical supervision.",
+        isCorrect: true
+    },
+    {
+        question: "What is one of the potential benefits of activated charcoal for digestive health?",
+        answer: "It may help reduce bloating, flatulence, and abdominal discomfort.",
+        isCorrect: true
+    },
+    {
+        question: "Can activated charcoal be used to treat diarrhea caused by bacterial infections?",
+        answer: "Yes, some studies have suggested it may be effective in these cases.",
+        isCorrect: true
+    },
+    {
+        question: "How does activated charcoal help lower cholesterol levels?",
+        answer: "By binding to bile acids in the gut.",
+        isCorrect: true
+    },
+    {
+        question: "Can activated charcoal be used in skincare products?",
+        answer: "Yes, it can help draw out impurities and excess oils from the skin.",
+        isCorrect: true
+    },
+    {
+        question: "Is it safe to take activated charcoal with other medications or supplements?",
+        answer: "No, it can interfere with the absorption of essential nutrients and medications.",
+        isCorrect: true
+    },
+    {
+        question: "What is a potential side effect of taking large doses of activated charcoal?",
+        answer: "Constipation, nausea, or vomiting.",
+        isCorrect: true
+    },
+    {
+        question: "How should activated charcoal be taken in relation to other supplements or medications?",
+        answer: "It should be taken separately, not at the same time.",
+        isCorrect: true
+    },
+    {
+        question: "What type of activated charcoal product is recommended for use?",
+        answer: "High-quality, pharmaceutical-grade formulations from reputable sources.",
+        isCorrect: true
+    },
+    {
+        question: "Can activated charcoal be used as a long-term solution for detoxification?",
+        answer: "No, it should be used responsibly and under professional guidance, as part of a holistic approach to health and well-being.",
+        isCorrect: true
+    },
+    {
+        question: "What is one potential benefit of activated charcoal for kidney function?",
+        answer: "Removing toxins and waste products from the blood.",
+        isCorrect: true
+    },
+    {
+        question: "Can activated charcoal help reduce the severity of hangover symptoms?",
+        answer: "Yes, it may help by adsorbing alcohol and its metabolites.",
+        isCorrect: true
+    },
+    {
+        question: "Is activated charcoal safe for everyone to use?",
+        answer: "No, it should be used with caution and under the guidance of a healthcare professional.",
+        isCorrect: true
+    },
+    {
+        question: "What is one potential benefit of activated charcoal for cardiovascular health?",
+        answer: "Improving circulation and optimizing lung function.",
+        isCorrect: true
+    },
+    {
+        question: "Can activated charcoal be used to treat chronic conditions?",
+        answer: "No, it is primarily used for acute poisoning or digestive issues, not chronic conditions.",
+        isCorrect: true
+    }
+];
+
+        const selectedQuestions = [];
+        for (let i = 0; i < 10; i++) {
+            const randomIndex = Math.floor(Math.random() * questions.length);
+            selectedQuestions.push(questions[randomIndex]);
+            questions.splice(randomIndex, 1);
+        }
+
+        const quizDiv = document.getElementById('quiz');
+        selectedQuestions.forEach((question, index) => {
+            const questionDiv = document.createElement('div');
+            questionDiv.innerHTML = `<div class="question">${index + 1}. ${question.question}</div>`;
+            quizDiv.appendChild(questionDiv);
+        });
+
+        function showAnswers() {
+            const answersDiv = document.getElementById('answers');
+            answersDiv.innerHTML = '';
+            selectedQuestions.forEach((question, index) => {
+                const answerDiv = document.createElement('div');
+                answerDiv.innerHTML = `<div class="question">${index + 1}. ${question.question}</div>`;
+                answerDiv.innerHTML += `<div class="answer ${question.isCorrect ? 'correct' : 'incorrect'}">${question.answer}</div>`;
+                answersDiv.appendChild(answerDiv);
+            });
+            answersDiv.style.display = 'block';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tebe-tebe: A Joyful Celebration of Unity and Community Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Tebe-tebe: A Joyful Celebration of Unity and Community Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What does Tebe-tebe symbolize in Timorese culture?",
+        choices: [
+          "Unity, harmony, and shared happiness",
+          "Individualism and competition",
+          "Sadness and mourning",
+          "Conflict and division"
+        ],
+        answer: "Unity, harmony, and shared happiness"
+      },
+      {
+        question: "What is the significance of the circular formation in Tebe-tebe?",
+        choices: [
+          "It symbolizes the interconnectedness and equality of all community members",
+          "It represents a hierarchy and social status",
+          "It excludes certain members of the community",
+          "It has no particular meaning or significance"
+        ],
+        answer: "It symbolizes the interconnectedness and equality of all community members"
+      },
+      {
+        question: "What accompanies the Tebe-tebe dance?",
+        choices: [
+          "Joyful, exuberant singing of traditional songs or chants",
+          "Complete silence and solemnity",
+          "Individualized, pre-recorded music for each dancer",
+          "Discordant, chaotic sounds"
+        ],
+        answer: "Joyful, exuberant singing of traditional songs or chants"
+      },
+      {
+        question: "Who is encouraged to participate in Tebe-tebe?",
+        choices: [
+          "All members of the community, young and old, male and female",
+          "Only the most skilled and experienced dancers",
+          "Only young, unmarried individuals",
+          "Only the elderly and community leaders"
+        ],
+        answer: "All members of the community, young and old, male and female"
+      },
+      {
+        question: "What role does Tebe-tebe play in Timorese weddings?",
+        choices: [
+          "It symbolizes the union between the couple, their families, and wider communities",
+          "It is performed only by the bride and groom",
+          "It is a solemn, formal dance without much participation",
+          "It is not typically performed at weddings"
+        ],
+        answer: "It symbolizes the union between the couple, their families, and wider communities"
+      },
+      {
+        question: "During the Indonesian occupation, how did Timorese people maintain the tradition of Tebe-tebe?",
+        choices: [
+          "They gathered in private homes or remote villages to perform the dance",
+          "They completely stopped practicing Tebe-tebe",
+          "They only performed Tebe-tebe in government-sanctioned events",
+          "They modified Tebe-tebe to align with Indonesian cultural norms"
+        ],
+        answer: "They gathered in private homes or remote villages to perform the dance"
+      },
+      {
+        question: "What does Tebe-tebe represent for Timor Leste as the nation builds its future?",
+        choices: [
+          "A cherished part of the nation's cultural heritage and a symbol of resilience",
+          "A outdated tradition that has no relevance in modern times",
+          "A source of division and conflict among different ethnic groups",
+          "A dance performed only for tourists and external audiences"
+        ],
+        answer: "A cherished part of the nation's cultural heritage and a symbol of resilience"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

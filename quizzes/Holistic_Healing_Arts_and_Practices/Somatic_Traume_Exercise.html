@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Somatic Trauma Releasing Exercises Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Somatic Trauma Releasing Exercises Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the purpose of somatic trauma releasing exercises?",
+        choices: [
+          "To help the body process and release stored stress and trauma",
+          "To increase physical strength and endurance",
+          "To improve cognitive function and memory",
+          "To enhance social skills and communication"
+        ],
+        answer: "To help the body process and release stored stress and trauma"
+      },
+      {
+        question: "What can happen when we experience overwhelming stress or trauma?",
+        choices: [
+          "Our natural self-regulation processes can become disrupted",
+          "Our physical strength and flexibility increase",
+          "Our cognitive abilities and memory improve",
+          "Our social skills and communication enhance"
+        ],
+        answer: "Our natural self-regulation processes can become disrupted"
+      },
+      {
+        question: "How do somatic exercises work?",
+        choices: [
+          "By inviting the body to complete its natural stress response cycle",
+          "By suppressing physical sensations and emotions",
+          "By focusing solely on mental processes and thoughts",
+          "By engaging in high-intensity cardiovascular exercise"
+        ],
+        answer: "By inviting the body to complete its natural stress response cycle"
+      },
+      {
+        question: "Which of the following is NOT a potential benefit of somatic trauma releasing exercises?",
+        choices: [
+          "Improving sleep quality",
+          "Regulating the nervous system",
+          "Releasing chronic tension",
+          "Building body awareness"
+        ],
+        answer: "Improving sleep quality"
+      },
+      {
+        question: "What is Trauma Releasing Exercises (TRE)?",
+        choices: [
+          "A series of exercises that stimulate the body's natural tremor mechanism",
+          "A type of talk therapy for processing traumatic experiences",
+          "A meditation technique for calming the mind",
+          "A nutrition plan for supporting physical health"
+        ],
+        answer: "A series of exercises that stimulate the body's natural tremor mechanism"
+      },
+      {
+        question: "What is the focus of Somatic Experiencing?",
+        choices: [
+          "Using guided attention to physical sensations to resolve trauma",
+          "Analyzing past experiences and relationships",
+          "Developing a structured exercise routine",
+          "Practicing deep breathing techniques"
+        ],
+        answer: "Using guided attention to physical sensations to resolve trauma"
+      },
+      {
+        question: "How can free-form shaking, dancing, or expressive movements help?",
+        choices: [
+          "By discharging excess energy and promoting a sense of liberation",
+          "By improving coordination and balance",
+          "By enhancing memory and cognitive function",
+          "By increasing muscle strength and endurance"
+        ],
+        answer: "By discharging excess energy and promoting a sense of liberation"
+      },
+      {
+        question: "What is the purpose of grounding and orienting exercises?",
+        choices: [
+          "To promote a sense of safety and present-moment awareness",
+          "To increase flexibility and range of motion",
+          "To improve cardiovascular health and endurance",
+          "To enhance social connections and communication skills"
+        ],
+        answer: "To promote a sense of safety and present-moment awareness"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

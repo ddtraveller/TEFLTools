@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Legal Requirements for Business in Timor Leste Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Legal Requirements for Business in Timor Leste Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What is the first step in registering a business in Timor Leste?",
+       choices: [
+         "Obtain a Business Registration Certificate (CRICOM)",
+         "Register for a Tax Identification Number (NIF)",
+         "Register with Social Security (INSS)",
+         "Obtain an Environmental License"
+       ],
+       answer: "Obtain a Business Registration Certificate (CRICOM)"
+     },
+     {
+       question: "Which government office issues the Business Registration Certificate (CRICOM)?",
+       choices: [
+         "Commercial Registry Office (Conservatória do Registo Comercial e Cadastro)",
+         "Ministry of Finance",
+         "Ministry of Commerce and Industry",
+         "National Directorate of Pollution Control and Environmental Impact"
+       ],
+       answer: "Commercial Registry Office (Conservatória do Registo Comercial e Cadastro)"
+     },
+     {
+       question: "Where do businesses need to register to obtain a Tax Identification Number (NIF)?",
+       choices: [
+         "Tax Authority (Autoridade Tributária)",
+         "Commercial Registry Office",
+         "National Social Security Institute",
+         "Ministry of Labor and Employment"
+       ],
+       answer: "Tax Authority (Autoridade Tributária)"
+     },
+     {
+       question: "Which businesses are required to register with the National Social Security Institute (INSS)?",
+       choices: [
+         "Businesses with employees",
+         "All businesses, regardless of having employees or not",
+         "Only businesses in the manufacturing sector",
+         "Only businesses in the service sector"
+       ],
+       answer: "Businesses with employees"
+     },
+     {
+       question: "What type of businesses may require an Environmental License?",
+       choices: [
+         "Businesses in the manufacturing or construction sectors that may have an environmental impact",
+         "All businesses, regardless of their sector",
+         "Only businesses located in urban areas",
+         "Only businesses located in rural areas"
+       ],
+       answer: "Businesses in the manufacturing or construction sectors that may have an environmental impact"
+     },
+     {
+       question: "Which government authority issues Environmental Licenses?",
+       choices: [
+         "National Directorate of Pollution Control and Environmental Impact",
+         "Commercial Registry Office",
+         "Tax Authority",
+         "National Social Security Institute"
+       ],
+       answer: "National Directorate of Pollution Control and Environmental Impact"
+     },
+     {
+       question: "Which types of businesses may require Health and Safety Permits?",
+       choices: [
+         "Food and hospitality industry, healthcare, or businesses involving hazardous materials",
+         "All businesses, regardless of their sector",
+         "Only businesses located in urban areas",
+         "Only businesses located in rural areas"
+       ],
+       answer: "Food and hospitality industry, healthcare, or businesses involving hazardous materials"
+     },
+     {
+       question: "What type of professionals require Professional Licenses or certifications in Timor Leste?",
+       choices: [
+         "Medical practitioners, lawyers, and accountants",
+         "All business owners",
+         "Only employees",
+         "No professional licenses are required"
+       ],
+       answer: "Medical practitioners, lawyers, and accountants"
+     },
+     {
+       question: "What tax do businesses need to pay on their profits in Timor Leste?",
+       choices: [
+         "Income Tax",
+         "Value-Added Tax (VAT)",
+         "Withholding Tax",
+         "Import and Export Duties"
+       ],
+       answer: "Income Tax"
+     },
+     {
+       question: "What is the rate of Value-Added Tax (VAT) levied on most goods and services in Timor Leste?",
+       choices: [
+         "10%",
+         "5%",
+         "15%",
+         "20%"
+       ],
+       answer: "10%"
+     },
+     {
+       question: "What type of tax may businesses need to withhold and remit to the tax authority?",
+       choices: [
+         "Withholding Tax on certain payments like salaries, rent, and services",
+         "Income Tax",
+         "Value-Added Tax (VAT)",
+         "Import and Export Duties"
+       ],
+       answer: "Withholding Tax on certain payments like salaries, rent, and services"
+     },
+     {
+       question: "Which businesses need to comply with customs regulations and pay Import and Export Duties?",
+       choices: [
+         "Businesses engaged in importing or exporting goods",
+         "All businesses, regardless of their sector",
+         "Only businesses located in urban areas",
+         "Only businesses located in rural areas"
+       ],
+       answer: "Businesses engaged in importing or exporting goods"
+     },
+     {
+       question: "What is recommended to ensure compliance with legal requirements and tax regulations in Timor Leste?",
+       choices: [
+         "Consult with local legal and accounting professionals",
+         "Rely solely on online resources",
+         "Ignore legal requirements and regulations",
+         "Follow advice from non-professionals"
+       ],
+       answer: "Consult with local legal and accounting professionals"
+     },
+     {
+       question: "What is the significance of obtaining the Business Registration Certificate (CRICOM)?",
+       choices: [
+         "It is required for all businesses operating in Timor Leste",
+         "It is only required for businesses in certain sectors",
+         "It is optional and not mandatory",
+         "It is only required for businesses with employees"
+       ],
+       answer: "It is required for all businesses operating in Timor Leste"
+     },
+     {
+       question: "What is the purpose of registering for a Tax Identification Number (NIF)?",
+       choices: [
+         "It is necessary for tax purposes",
+         "It is necessary for obtaining business licenses",
+         "It is necessary for registering with social security",
+         "It is necessary for importing and exporting goods"
+       ],
+       answer: "It is necessary for tax purposes"
+     },
+     {
+       question: "Why is it important for businesses to be aware of legal requirements and tax regulations in Timor Leste?",
+       choices: [
+         "To avoid potential penalties or fines for non-compliance",
+         "To attract more customers",
+         "To increase profits",
+         "To comply with international regulations"
+       ],
+       answer: "To avoid potential penalties or fines for non-compliance"
+     },
+     {
+       question: "What should businesses keep in mind regarding legal requirements and tax regulations in Timor Leste?",
+       choices: [
+         "They can change over time, so it's advisable to stay updated",
+         "They are set in stone and never change",
+         "They only apply to businesses in certain sectors",
+         "They only apply to businesses located in urban areas"
+       ],
+       answer: "They can change over time, so it's advisable to stay updated"
+     },
+     {
+       question: "What is the significance of registering with the National Social Security Institute (INSS) for businesses with employees?",
+       choices: [
+         "To ensure compliance with social security regulations",
+         "To obtain a business license",
+         "To register for Value-Added Tax (VAT)",
+         "To pay import and export duties"
+       ],
+       answer: "To ensure compliance with social security regulations"
+     },
+     {
+       question: "What is the purpose of obtaining Professional Licenses or certifications for certain professions?",
+       choices: [
+         "To meet regulatory requirements for practicing those professions",
+         "To obtain a business registration certificate",
+         "To register for Value-Added Tax (VAT)",
+         "To pay income tax"
+       ],
+       answer: "To meet regulatory requirements for practicing those professions"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

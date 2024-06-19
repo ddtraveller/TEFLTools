@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tibetan Meditation Practice Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Tibetan Meditation Practice Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the true nature of your mind according to the text?",
+        choices: [
+          "The vast, unbounded consciousness that underlies all experience",
+          "A complex entity that requires elaborate practices to understand",
+          "A blank slate that needs to be filled with knowledge",
+          "A source of suffering and confusion that must be transcended"
+        ],
+        answer: "The vast, unbounded consciousness that underlies all experience"
+      },
+      {
+        question: "What is the recommended posture for meditation according to the text?",
+        choices: [
+          "A comfortable posture that allows you to be both relaxed and alert",
+          "A rigid, perfectly upright posture that requires great effort to maintain",
+          "A posture that induces drowsiness and encourages falling asleep",
+          "Any posture that feels comfortable, even if it promotes slouching or laziness"
+        ],
+        answer: "A comfortable posture that allows you to be both relaxed and alert"
+      },
+      {
+        question: "What should you do when thoughts and perceptions arise during meditation?",
+        choices: [
+          "Recognize the space in which they appear and rest as the open, aware presence that witnesses them",
+          "Engage with the thoughts and get caught up in their content",
+          "Try to forcefully suppress or eliminate all thoughts and perceptions",
+          "Follow the thoughts and see where they lead, even if it means getting lost in daydreams"
+        ],
+        answer: "Recognize the space in which they appear and rest as the open, aware presence that witnesses them"
+      },
+      {
+        question: "What should you do if you find yourself getting distracted or lost in thought during meditation?",
+        choices: [
+          "Notice it with kindness and patience, then gently return your attention to the present moment",
+          "Criticize yourself harshly and feel guilty for not being able to maintain perfect focus",
+          "Give up on the meditation practice altogether, concluding that you are not capable of it",
+          "Continue to indulge in the distractions and let your mind wander freely"
+        ],
+        answer: "Notice it with kindness and patience, then gently return your attention to the present moment"
+      },
+      {
+        question: "What is the true path of liberation according to the text?",
+        choices: [
+          "A matter of simple recognition, directly experiencing the awakened nature of your mind",
+          "A long and arduous journey that requires great effort and discipline",
+          "A path of accumulating spiritual knowledge and mastering complex philosophical concepts",
+          "A process of transcending the physical world and attaining a disembodied state of pure consciousness"
+        ],
+        answer: "A matter of simple recognition, directly experiencing the awakened nature of your mind"
+      },
+      {
+        question: "What happens as you continue to familiarize yourself with this meditation practice?",
+        choices: [
+          "The boundary between meditation and daily life begins to dissolve, bringing greater ease and clarity",
+          "You become increasingly detached from the world and lose interest in ordinary activities",
+          "You develop supernatural powers and abilities that set you apart from others",
+          "You achieve a state of permanent bliss and never experience challenges or difficulties again"
+        ],
+        answer: "The boundary between meditation and daily life begins to dissolve, bringing greater ease and clarity"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Childbirth Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Childbirth Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "How many stages is labor divided into?",
+       choices: [
+         "Two stages",
+         "Three stages",
+         "Four stages",
+         "Five stages"
+       ],
+       answer: "Three stages"
+     },
+     {
+       question: "What is one of the early signs of the onset of labor?",
+       choices: [
+         "Contractions starting",
+         "Rupture of the amniotic sac (water breaking)",
+         "Both a and b",
+         "None of the above"
+       ],
+       answer: "Both a and b"
+     },
+     {
+       question: "What is dilation measured in?",
+       choices: [
+         "Inches",
+         "Centimeters",
+         "Millimeters",
+         "Meters"
+       ],
+       answer: "Centimeters"
+     },
+     {
+       question: "At what stage of labor does the cervix dilate from 6-10 cm?",
+       choices: [
+         "Early labor",
+         "Active labor",
+         "Transition",
+         "Pushing"
+       ],
+       answer: "Active labor"
+     },
+     {
+       question: "What does effacement refer to in the childbirth process?",
+       choices: [
+         "The thinning and shortening of the cervix",
+         "The rupture of the amniotic sac",
+         "The intensity of contractions",
+         "The urge to push"
+       ],
+       answer: "The thinning and shortening of the cervix"
+     },
+     {
+       question: "Which of the following is a non-medication option for pain management during labor?",
+       choices: [
+         "Breathing techniques like Lamaze",
+         "Movement and massage",
+         "Unmedicated/natural childbirth",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "What is the purpose of pushing during the childbirth process?",
+       choices: [
+         "To help move the baby down the birth canal",
+         "To fully dilate the cervix",
+         "To deliver the placenta",
+         "To rupture the amniotic sac"
+       ],
+       answer: "To help move the baby down the birth canal"
+     },
+     {
+       question: "Which of the following interventions may be used during childbirth if needed?",
+       choices: [
+         "Forceps",
+         "Vacuum",
+         "Cesarean section",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "In some cultures, who may be the only people allowed in the birthing room for support?",
+       choices: [
+         "Men",
+         "Women",
+         "Doctors and nurses",
+         "No one, it is a private event"
+       ],
+       answer: "Women"
+     },
+     {
+       question: "What is a doula?",
+       choices: [
+         "A type of pain medication",
+         "A birthing position",
+         "A birth attendant or helper",
+         "A cultural ritual"
+       ],
+       answer: "A birth attendant or helper"
+     },
+     {
+       question: "Which of the following is NOT a potential cultural tradition around childbirth?",
+       choices: [
+         "Certain birthing positions",
+         "Rituals or ceremonies",
+         "Traditions around cutting the umbilical cord",
+         "Administering medication during labor"
+       ],
+       answer: "Administering medication during labor"
+     },
+     {
+       question: "What is one of the potential physical interventions during childbirth?",
+       choices: [
+         "Epidural",
+         "Spinal anesthesia",
+         "Forceps",
+         "All of the above"
+       ],
+       answer: "All of the above"
+     },
+     {
+       question: "What is the most intense part of labor called?",
+       choices: [
+         "Early labor",
+         "Active labor",
+         "Transition",
+         "Pushing"
+       ],
+       answer: "Transition"
+     },
+     {
+       question: "What is the significance of the childbirth process across cultures?",
+       choices: [
+         "It is a purely medical event",
+         "It carries rich cultural significance",
+         "It is a mundane experience",
+         "It has no cultural or societal impact"
+       ],
+       answer: "It carries rich cultural significance"
+     },
+     {
+       question: "What is the role of contractions during labor?",
+       choices: [
+         "To help dilate (open) the cervix",
+         "To rupture the amniotic sac",
+         "To deliver the placenta",
+         "To induce labor"
+       ],
+       answer: "To help dilate (open) the cervix"
+     },
+     {
+       question: "What is the purpose of coached breathing or small pushes during early labor?",
+       choices: [
+         "To fully dilate the cervix",
+         "To help move the baby down the birth canal",
+         "To provide pain relief",
+         "To rupture the amniotic sac"
+       ],
+       answer: "To help move the baby down the birth canal"
+     },
+     {
+       question: "What is the final stage of labor when the cervix is fully dilated to 10 cm?",
+       choices: [
+         "Early labor",
+         "Active labor",
+         "Transition",
+         "Pushing"
+       ],
+       answer: "Pushing"
+     },
+     {
+       question: "What is the role of the placenta during childbirth?",
+       choices: [
+         "It provides oxygen and nutrients to the baby",
+         "It helps dilate the cervix",
+         "It helps move the baby down the birth canal",
+         "It ruptures the amniotic sac"
+       ],
+       answer: "It provides oxygen and nutrients to the baby"
+     },
+     {
+       question: "Which of the following is a potential benefit of having knowledge of medical practices and personal preferences during childbirth?",
+       choices: [
+         "It can help prepare for the transformative experience",
+         "It has no impact on the childbirth experience",
+         "It can lead to increased complications",
+         "It is discouraged by healthcare professionals"
+       ],
+       answer: "It can help prepare for the transformative experience"
+     },
+     {
+       question: "What is one of the potential roles of a doula or other birth attendants?",
+       choices: [
+         "Providing emotional and physical support",
+         "Administering pain medication",
+         "Performing medical interventions",
+         "All of the above"
+       ],
+       answer: "Providing emotional and physical support"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>

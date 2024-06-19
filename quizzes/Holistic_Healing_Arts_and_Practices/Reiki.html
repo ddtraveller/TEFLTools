@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reiki Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Reiki Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What should be included in the preparation for a Reiki session?",
+        choices: [
+          "Creating a peaceful, comfortable environment with necessary supports",
+          "Ensuring the room is cold and brightly lit",
+          "Having a variety of distractions available for the client",
+          "Skipping the cleansing of hands and setting an intention"
+        ],
+        answer: "Creating a peaceful, comfortable environment with necessary supports"
+      },
+      {
+        question: "What should be discussed during the client consultation?",
+        choices: [
+          "Health history, concerns, goals, and obtaining informed consent",
+          "Gossip about other clients and their sessions",
+          "The practitioner's personal life and problems",
+          "Detailed explanations of the Reiki hand positions and techniques"
+        ],
+        answer: "Health history, concerns, goals, and obtaining informed consent"
+      },
+      {
+        question: "How should the practitioner conduct the Reiki session?",
+        choices: [
+          "Using a light, static touch or hovering hands above the body",
+          "Applying deep pressure and massage techniques",
+          "Constantly moving their hands in circular motions",
+          "Talking to the client throughout the entire session"
+        ],
+        answer: "Using a light, static touch or hovering hands above the body"
+      },
+      {
+        question: "What should the practitioner do when closing the session?",
+        choices: [
+          "Place hands in a prayer position, offer gratitude, and gently touch the client's shoulders",
+          "Abruptly end the session without any closure or gratitude",
+          "Engage the client in a lengthy discussion about their experience",
+          "Immediately leave the room without allowing the client to ground and integrate"
+        ],
+        answer: "Place hands in a prayer position, offer gratitude, and gently touch the client's shoulders"
+      },
+      {
+        question: "What should the practitioner do during the debriefing and integration phase?",
+        choices: [
+          "Offer water, ask open-ended questions, and provide relevant feedback or suggestions",
+          "Criticize the client for any perceived lack of progress or healing",
+          "Impose their own interpretations of the client's experience",
+          "Rush the client out of the room to prepare for the next appointment"
+        ],
+        answer: "Offer water, ask open-ended questions, and provide relevant feedback or suggestions"
+      },
+      {
+        question: "What is important for the practitioner to do after the session?",
+        choices: [
+          "Cleanse their own energy field, engage in self-care, and document observations",
+          "Gossip about the client's session with others",
+          "Neglect their own self-care and well-being",
+          "Ignore any notable observations or outcomes from the session"
+        ],
+        answer: "Cleanse their own energy field, engage in self-care, and document observations"
+      },
+      {
+        question: "What is the nature of Reiki as a healing practice?",
+        choices: [
+          "A subtle, intuitive art that requires patience, presence, and trust",
+          "A forceful, aggressive technique that guarantees immediate results",
+          "A purely physical intervention that does not involve energy or intuition",
+          "A one-size-fits-all approach that works the same for every client"
+        ],
+        answer: "A subtle, intuitive art that requires patience, presence, and trust"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

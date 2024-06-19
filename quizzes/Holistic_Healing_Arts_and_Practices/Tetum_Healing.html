@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Traditional Healing Practices of the Tetum People Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Traditional Healing Practices of the Tetum People Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is the Tetum term for traditional healers?",
+        choices: [
+          "Matan-dook",
+          "Sera",
+          "Lulik",
+          "Kesi"
+        ],
+        answer: "Matan-dook"
+      },
+      {
+        question: "Which herb is used by Tetum healers for skin conditions, digestive issues, and inflammation?",
+        choices: [
+          "Ai-hanak (turmeric)",
+          "Ai-kanell (cinnamon)",
+          "Ai-dila (papaya)",
+          "Bua (betel nut)"
+        ],
+        answer: "Ai-hanak (turmeric)"
+      },
+      {
+        question: "What is 'kesi' in Tetum healing practices?",
+        choices: [
+          "A form of massage that involves pressing and kneading specific points on the body",
+          "A spiritual healing ritual that involves sacrificing animals",
+          "A type of medicinal plant used for respiratory problems",
+          "A sacred object believed to have special healing properties"
+        ],
+        answer: "A form of massage that involves pressing and kneading specific points on the body"
+      },
+      {
+        question: "What is the purpose of the 'sera' healing ritual?",
+        choices: [
+          "To appease the spirits and ask for their help in restoring health and balance",
+          "To diagnose illnesses and determine the best course of treatment",
+          "To promote relaxation and alleviate pain through physical manipulation",
+          "To prepare herbal remedies and medicinal plants for treatment"
+        ],
+        answer: "To appease the spirits and ask for their help in restoring health and balance"
+      },
+      {
+        question: "What are 'lulik' objects in Tetum healing practices?",
+        choices: [
+          "Sacred or powerful objects believed to have special properties for healing and protection",
+          "Divination techniques used to diagnose illnesses and determine treatment",
+          "Physical symptoms of illness that are treated with herbal remedies",
+          "Emotional and spiritual aspects of well-being that are not addressed in Tetum healing"
+        ],
+        answer: "Sacred or powerful objects believed to have special properties for healing and protection"
+      },
+      {
+        question: "How do Tetum healers use divination techniques?",
+        choices: [
+          "To diagnose illnesses and determine the best course of treatment",
+          "To prepare herbal remedies and medicinal plants for treatment",
+          "To perform spiritual healing rituals and ceremonies",
+          "To manipulate physical points on the body for pain relief and relaxation"
+        ],
+        answer: "To diagnose illnesses and determine the best course of treatment"
+      },
+      {
+        question: "How are traditional Tetum healing practices used in relation to modern medical care?",
+        choices: [
+          "They are used alongside or as a complement to Western medicine",
+          "They have been completely replaced by modern medical care",
+          "They are used exclusively, without any reliance on Western medicine",
+          "They are considered ineffective and have been abandoned by the Tetum people"
+        ],
+        answer: "They are used alongside or as a complement to Western medicine"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 5) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Likurai Dance Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Likurai Dance Quiz</h1>
+  <form id="quizForm">
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const questionPool = [
+      {
+        question: "What is Likurai?",
+        choices: [
+          "A traditional warrior dance performed by women in Timor Leste",
+          "A type of traditional music from Timor Leste",
+          "A style of Timorese textile weaving",
+          "A form of martial arts originating from Timor Leste"
+        ],
+        answer: "A traditional warrior dance performed by women in Timor Leste"
+      },
+      {
+        question: "What does the Likurai dance serve as a tribute to?",
+        choices: [
+          "The strength, courage, and resilience of Timorese women throughout history",
+          "The natural beauty and landscapes of Timor Leste",
+          "The ancient mythological figures of Timorese culture",
+          "The agricultural traditions and practices of Timorese communities"
+        ],
+        answer: "The strength, courage, and resilience of Timorese women throughout history"
+      },
+      {
+        question: "According to local legends, what was the purpose of performing the Likurai dance before battles?",
+        choices: [
+          "To invoke the spirits of ancestors and boost the morale of warriors",
+          "To celebrate the victories of previous battles",
+          "To ward off evil spirits and protect the warriors",
+          "To honor the gods and seek their blessings for the battle"
+        ],
+        answer: "To invoke the spirits of ancestors and boost the morale of warriors"
+      },
+      {
+        question: "What is a characteristic feature of the Likurai dance?",
+        choices: [
+          "Dynamic, aggressive movements and fierce facial expressions",
+          "Slow, graceful movements and serene expressions",
+          "Intricate footwork and complex hand gestures",
+          "Acrobatic elements and aerial movements"
+        ],
+        answer: "Dynamic, aggressive movements and fierce facial expressions"
+      },
+      {
+        question: "What traditional attire do the dancers wear during the Likurai performance?",
+        choices: [
+          "A head scarf (salendang), a woven cloth around the waist (tais), and distinctive jewelry",
+          "Elaborate headdresses and full-body regalia",
+          "Simple white dresses and bare feet",
+          "Ornate masks and costumes depicting animals or spirits"
+        ],
+        answer: "A head scarf (salendang), a woven cloth around the waist (tais), and distinctive jewelry"
+      },
+      {
+        question: "What instrument provides the driving rhythm and energy for the Likurai dance?",
+        choices: [
+          "The kakalo, a type of drum made from bamboo or wood",
+          "Traditional flutes and reed instruments",
+          "Stringed instruments like the guitar or lute",
+          "Percussion instruments like cymbals and gongs"
+        ],
+        answer: "The kakalo, a type of drum made from bamboo or wood"
+      },
+      {
+        question: "What does the Likurai dance represent for Timorese cultural identity and pride?",
+        choices: [
+          "An important symbol that honors the past and inspires new generations",
+          "A relic of the past with little contemporary relevance",
+          "A form of entertainment and tourist attraction",
+          "A divisive element that causes conflicts among different communities"
+        ],
+        answer: "An important symbol that honors the past and inspires new generations"
+      },
+      {
+        question: "What efforts have been made to preserve and promote the Likurai dance?",
+        choices: [
+          "Encouraging young girls and women to learn the dance from elder practitioners",
+          "Banning the performance of the dance in public settings",
+          "Adapting the dance to incorporate modern elements and styles",
+          "Promoting other forms of artistic expression instead of the Likurai dance"
+        ],
+        answer: "Encouraging young girls and women to learn the dance from elder practitioners"
+      },
+      {
+        question: "What does the Likurai dance represent for Timorese women, according to the reading?",
+        choices: [
+          "A vivid embodiment of their indomitable spirit",
+          "A reminder of their oppression and subjugation",
+          "A form of entertainment and leisure",
+          "A means of attracting potential mates"
+        ],
+        answer: "A vivid embodiment of their indomitable spirit"
+      },
+      {
+        question: "How is the Likurai dance described in relation to Timor Leste's cultural heritage?",
+        choices: [
+          "A cherished link to the past and a powerful expression of the country's vibrant cultural heritage",
+          "An outdated tradition that has no place in modern Timorese society",
+          "A recent invention aimed at attracting tourists and visitors",
+          "A source of conflict and division among different ethnic groups in the country"
+        ],
+        answer: "A cherished link to the past and a powerful expression of the country's vibrant cultural heritage"
+      }
+    ];
+
+    function generateQuiz() {
+      const quizQuestions = [];
+      const usedIndices = [];
+
+      while (quizQuestions.length < 10) {
+        const randomIndex = Math.floor(Math.random() * questionPool.length);
+        if (!usedIndices.includes(randomIndex)) {
+          quizQuestions.push(questionPool[randomIndex]);
+          usedIndices.push(randomIndex);
+        }
+      }
+
+      const quizContainer = document.getElementById("questions");
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    function showAnswers(quizQuestions) {
+      const quizContainer = document.getElementById("questions");
+      quizContainer.innerHTML = "";
+
+      quizQuestions.forEach((question, index) => {
+        const questionElement = document.createElement("div");
+        questionElement.className = "question";
+        questionElement.innerHTML = `
+          <p>${index + 1}. ${question.question}</p>
+          <p><strong>Correct Answer:</strong> ${question.answer}</p>
+        `;
+        quizContainer.appendChild(questionElement);
+      });
+    }
+
+    const quizForm = document.getElementById("quizForm");
+    quizForm.addEventListener("submit", function(event) {
+      event.preventDefault();
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+        question: question.querySelector("p").textContent,
+        answer: question.querySelector(`input[name^="question"]:checked`).value
+      }));
+      showAnswers(quizQuestions);
+    });
+
+    generateQuiz();
+  </script>
+</body>
+</html>

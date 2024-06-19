@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Divine Feminine Quiz</title>
+ <style>
+   body {
+     font-family: Arial, sans-serif;
+     margin: 20px;
+   }
+   h1 {
+     text-align: center;
+   }
+   .question {
+     margin-bottom: 10px;
+   }
+   button {
+     margin-top: 20px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Divine Feminine Quiz</h1>
+ <form id="quizForm">
+   <div id="questions"></div>
+   <button type="submit">Submit</button>
+ </form>
+
+ <script>
+   const questionPool = [
+     {
+       question: "What concept has been venerated and deified in countless forms across ancient civilizations?",
+       choices: [
+         "The sacred feminine force",
+         "The concept of a supreme male deity",
+         "The worship of celestial bodies",
+         "The veneration of natural elements"
+       ],
+       answer: "The sacred feminine force"
+     },
+     {
+       question: "Which goddess represents the lineage of the divine feminine from Sumerian mythology?",
+       choices: [
+         "Inanna",
+         "Athena",
+         "Aphrodite",
+         "Kali"
+       ],
+       answer: "Inanna"
+     },
+     {
+       question: "What did Inanna symbolize in Sumerian culture?",
+       choices: [
+         "The independent female life-force and feminine abilities to nurture and destroy",
+         "The worship of the sun and celestial bodies",
+         "The power of nature and the elements",
+         "The glorification of war and conquest"
+       ],
+       answer: "The independent female life-force and feminine abilities to nurture and destroy"
+     },
+     {
+       question: "Which goddess did the worship of Inanna evolve into in ancient Egypt?",
+       choices: [
+         "Isis",
+         "Hathor",
+         "Bastet",
+         "Nephthys"
+       ],
+       answer: "Isis"
+     },
+     {
+       question: "What did Isis represent in Egyptian mythology?",
+       choices: [
+         "The powerful yet nurturing feminine energy and the cycles of nature",
+         "The worship of the sun and celestial bodies",
+         "The glorification of war and conquest",
+         "The power of the underworld and the afterlife"
+       ],
+       answer: "The powerful yet nurturing feminine energy and the cycles of nature"
+     },
+     {
+       question: "Who was the legendary Celtic queen celebrated as an embodiment of female strength and leadership?",
+       choices: [
+         "Boudica",
+         "Guinevere",
+         "Morgana",
+         "Cerridwen"
+       ],
+       answer: "Boudica"
+     },
+     {
+       question: "What does the concept of Quan Yin represent in Buddhist and Chinese folk traditions?",
+       choices: [
+         "The embodiment of compassionate, nurturing femininity",
+         "The power of nature and the elements",
+         "The worship of celestial bodies",
+         "The glorification of war and conquest"
+       ],
+       answer: "The embodiment of compassionate, nurturing femininity"
+     },
+     {
+       question: "What does the concept of Shakti represent in Hindu cosmology?",
+       choices: [
+         "The dynamic feminine energy permeating all of existence",
+         "The worship of a supreme male deity",
+         "The power of the underworld and the afterlife",
+         "The glorification of war and conquest"
+       ],
+       answer: "The dynamic feminine energy permeating all of existence"
+     },
+     {
+       question: "In the islands of Southeast Asia like Timor Leste, what were indigenous beliefs centered around?",
+       choices: [
+         "Earth goddesses and spirits embodying nature's fertility and life-giving forces",
+         "The worship of celestial bodies",
+         "The glorification of war and conquest",
+         "The veneration of a supreme male deity"
+       ],
+       answer: "Earth goddesses and spirits embodying nature's fertility and life-giving forces"
+     },
+     {
+       question: "What figure was honored through ancestral rituals and creation myths in Timor Leste?",
+       choices: [
+         "Rai Pamali and Vere-Lilin",
+         "Inanna and Isis",
+         "Quan Yin and Shakti",
+         "Boudica and Cerridwen"
+       ],
+       answer: "Rai Pamali and Vere-Lilin"
+     },
+     {
+       question: "What attributes of the divine feminine have been vital emblems across civilizations?",
+       choices: [
+         "Creation, intuition, nurturance, and strength",
+         "War, conquest, and domination",
+         "Worship of celestial bodies and natural elements",
+         "Veneration of a supreme male deity"
+       ],
+       answer: "Creation, intuition, nurturance, and strength"
+     },
+     {
+       question: "What role has the divine feminine played in the spiritual and social fabric of civilizations?",
+       choices: [
+         "A constant thread woven throughout",
+         "A minor and insignificant role",
+         "A role limited to certain regions or cultures",
+         "A role solely focused on religious worship"
+       ],
+       answer: "A constant thread woven throughout"
+     },
+     {
+       question: "What does the revering of the divine feminine across cultures represent?",
+       choices: [
+         "Reverence for the miracle of life itself",
+         "The worship of celestial bodies",
+         "The glorification of war and conquest",
+         "The veneration of a supreme male deity"
+       ],
+       answer: "Reverence for the miracle of life itself"
+     },
+     {
+       question: "Which of the following is NOT a representation of the divine feminine mentioned in the passage?",
+       choices: [
+         "Artemis",
+         "Boudica",
+         "Isis",
+         "Quan Yin"
+       ],
+       answer: "Artemis"
+     },
+     {
+       question: "What did the Sumerians see Inanna as the embodiment of?",
+       choices: [
+         "Wheat, roses, lions, and storms",
+         "The sun and celestial bodies",
+         "War and conquest",
+         "The underworld and the afterlife"
+       ],
+       answer: "Wheat, roses, lions, and storms"
+     },
+     {
+       question: "What did Isis use her magical skills for, according to Egyptian mythology?",
+       choices: [
+         "To resurrect her husband Osiris and protect their son Horus",
+         "To conquer neighboring regions",
+         "To control the sun and celestial bodies",
+         "To rule over the underworld and the afterlife"
+       ],
+       answer: "To resurrect her husband Osiris and protect their son Horus"
+     },
+     {
+       question: "What did Boudica's rebellion against Roman occupation represent?",
+       choices: [
+         "The divine feminine force personified as a warrior protector and leader",
+         "The worship of celestial bodies",
+         "The power of nature and the elements",
+         "The veneration of a supreme male deity"
+       ],
+       answer: "The divine feminine force personified as a warrior protector and leader"
+     },
+     {
+       question: "What aspect of the divine feminine did Boudica embody?",
+       choices: [
+         "Female strength, political rule, and leadership",
+         "Compassionate nurturance and maternal instincts",
+         "The power of nature and the elements",
+         "The worship of celestial bodies"
+       ],
+       answer: "Female strength, political rule, and leadership"
+     },
+     {
+       question: "What did the worship of the divine feminine across cultures enshrine?",
+       choices: [
+         "Feminine attributes of creation, intuition, nurturance, and strength",
+         "The glorification of war and conquest",
+         "The veneration of a supreme male deity",
+         "The worship of celestial bodies and natural elements"
+       ],
+       answer: "Feminine attributes of creation, intuition, nurturance, and strength"
+     },
+     {
+       question: "What does the passage suggest about the role of the divine feminine in societal order?",
+       choices: [
+         "It has been a vital emblem of societal order",
+         "It has played a minor and insignificant role",
+         "It has been limited to religious worship",
+         "It has been a threat to societal order"
+       ],
+       answer: "It has been a vital emblem of societal order"
+     }
+   ];
+
+   function generateQuiz() {
+     const quizQuestions = [];
+     const usedIndices = [];
+
+     while (quizQuestions.length < 10) {
+       const randomIndex = Math.floor(Math.random() * questionPool.length);
+       if (!usedIndices.includes(randomIndex)) {
+         quizQuestions.push(questionPool[randomIndex]);
+         usedIndices.push(randomIndex);
+       }
+     }
+
+     const quizContainer = document.getElementById("questions");
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
+         <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   function showAnswers(quizQuestions) {
+     const quizContainer = document.getElementById("questions");
+     quizContainer.innerHTML = "";
+
+     quizQuestions.forEach((question, index) => {
+       const questionElement = document.createElement("div");
+       questionElement.className = "question";
+       questionElement.innerHTML = `
+         <p>${index + 1}. ${question.question}</p>
+         <p><strong>Correct Answer:</strong> ${question.answer}</p>
+       `;
+       quizContainer.appendChild(questionElement);
+     });
+   }
+
+   const quizForm = document.getElementById("quizForm");
+   quizForm.addEventListener("submit", function(event) {
+     event.preventDefault();
+     const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
+       question: question.querySelector("p").textContent,
+       answer: question.querySelector(`input[name^="question"]:checked`).value
+     }));
+     showAnswers(quizQuestions);
+   });
+
+   generateQuiz();
+ </script>
+</body>
+</html>
