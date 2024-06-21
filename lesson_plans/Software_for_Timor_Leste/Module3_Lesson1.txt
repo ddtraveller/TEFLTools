@@ -1,0 +1,110 @@
+# Lesson Plan: Advanced Spreadsheet Techniques
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Advanced Functions and Formulas
+
+#### Objectives:
+- Master complex spreadsheet functions
+- Understand nested functions and array formulas
+
+#### Materials:
+- Computers with advanced spreadsheet software (e.g., Microsoft Excel, Google Sheets)
+- Complex dataset related to Timor-Leste (e.g., multi-year economic data)
+
+#### Activities:
+1. (20 min) Review of basic functions and introduction to advanced techniques
+2. (30 min) Advanced functions: INDEX, MATCH, SUMIFS, COUNTIFS
+3. (30 min) Nested functions and formula auditing
+4. (35 min) Hands-on practice: Applying advanced functions to Timor-Leste dataset
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create a dynamic dashboard using advanced functions to analyze Timor-Leste's economic trends
+
+### Session 2: Data Cleaning and Validation
+
+#### Objectives:
+- Learn advanced data cleaning techniques
+- Implement robust data validation methods
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Advanced data cleaning: removing duplicates, text-to-columns, flash fill
+3. (30 min) Data validation techniques: custom rules, error alerts, input messages
+4. (35 min) Hands-on practice: Cleaning and validating a messy Timor-Leste dataset
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Clean and validate a complex dataset on Timor-Leste's agricultural production
+
+### Session 3: Advanced Pivot Tables and Power Pivot
+
+#### Objectives:
+- Master advanced pivot table features
+- Introduction to Power Pivot for data modeling
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Advanced pivot table features: calculated fields, slicers, timelines
+3. (40 min) Introduction to Power Pivot: data modeling and DAX basics
+4. (25 min) Hands-on practice: Creating a data model for Timor-Leste's economic sectors
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Develop a multi-dimensional analysis of Timor-Leste's GDP using Power Pivot
+
+### Session 4: Macros and VBA Basics
+
+#### Objectives:
+- Understand the basics of macros and VBA
+- Create simple automation scripts
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Introduction to macros: recording and running macros
+3. (40 min) VBA basics: syntax, variables, and simple procedures
+4. (25 min) Hands-on practice: Creating a macro to format and summarize Timor-Leste data
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Develop a VBA script to automate a repetitive data processing task for Timor-Leste statistics
+
+### Session 5: Advanced Charts and Data Visualization
+
+#### Objectives:
+- Create advanced and custom charts
+- Learn about interactive dashboards
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Advanced chart types: waterfall, bullet, sparklines
+3. (30 min) Custom charts and formatting tricks
+4. (35 min) Creating interactive dashboards with form controls
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Design an interactive dashboard presenting key performance indicators for Timor-Leste's development goals
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Comprehensive data analysis and visualization project
+
+### Final Project Guidelines:
+1. Choose a complex, multi-dimensional dataset related to Timor-Leste (e.g., national budget, health and education statistics, economic indicators)
+2. Perform an in-depth analysis using advanced spreadsheet techniques, including:
+   - Data cleaning and validation
+   - Advanced functions and formulas
+   - Power Pivot data modeling
+   - Macros for automation
+   - Advanced charts and interactive dashboards
+3. Create a professional-grade dashboard with interactive elements
+4. Write a detailed report explaining your methodology, key findings, and recommendations
+5. Present your project to the class, demonstrating the interactive features and insights gained
+
+### Additional Resources:
+- Advanced Excel tutorials and forums
+- VBA documentation and examples
+- Data visualization best practices guides
+- Timor-Leste government and international organization databases

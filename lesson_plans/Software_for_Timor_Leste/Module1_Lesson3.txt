@@ -1,0 +1,109 @@
+# Lesson Plan: Introduction to Test-Driven Development (TDD)
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to Software Testing and TDD
+
+#### Objectives:
+- Understand the importance of software testing
+- Learn the concept and principles of TDD
+- Familiarize with the Red-Green-Refactor cycle
+
+#### Materials:
+- Computers with Python and pytest installed
+- Handout on TDD principles
+
+#### Activities:
+1. (20 min) Introduction to software testing: importance and types
+2. (30 min) TDD concept: definition, benefits, and principles
+3. (40 min) Explanation of Red-Green-Refactor cycle with examples
+4. (25 min) Introduction to pytest framework
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Write a brief essay on how TDD could benefit software development in Timor-Leste
+
+### Session 2: Writing Your First Test
+
+#### Objectives:
+- Learn to write basic unit tests using pytest
+- Understand the structure of a test function
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Writing a simple test function with pytest
+3. (40 min) Hands-on practice: Students write tests for a simple calculator function
+4. (25 min) Running tests and interpreting results
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Write test cases for a function that validates Timor-Leste phone numbers
+
+### Session 3: Test-Driven Development in Practice
+
+#### Objectives:
+- Apply the Red-Green-Refactor cycle
+- Practice writing tests before implementation
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Demonstration: TDD process for a simple function
+3. (60 min) Hands-on practice: Students use TDD to develop a function (e.g., currency converter for Timor-Leste)
+4. (5 min) Q&A and wrap-up
+
+#### Homework:
+Use TDD to develop a function that calculates tax based on Timor-Leste's tax brackets
+
+### Session 4: Testing Edge Cases and Exceptions
+
+#### Objectives:
+- Understand the importance of testing edge cases
+- Learn to test for exceptions
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Identifying and testing edge cases
+3. (30 min) Testing for exceptions with pytest
+4. (35 min) Hands-on practice: Adding edge case and exception tests to previous exercises
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Enhance previous test suites with edge cases and exception tests
+
+### Session 5: TDD and Refactoring
+
+#### Objectives:
+- Understand the role of refactoring in TDD
+- Practice refactoring code while maintaining test coverage
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Introduction to code refactoring: principles and techniques
+3. (40 min) Demonstration: Refactoring a function using TDD
+4. (25 min) Hands-on practice: Students refactor their code from previous sessions
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Refactor the tax calculation function using TDD principles
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Develop a small Python program using TDD
+
+### Final Project Guidelines:
+1. Choose a problem relevant to Timor-Leste (e.g., voter registration system, crop yield calculator)
+2. Use TDD to develop a Python program that solves this problem:
+   - Write tests first for each feature
+   - Implement the minimum code to pass the tests
+   - Refactor the code as needed
+3. Ensure your final program has:
+   - A comprehensive test suite
+   - Well-structured, readable code
+   - Documentation explaining your TDD process
+4. Present your project, highlighting how TDD improved your development process
+
+### Additional Resources:
+- pytest documentation
+- Online TDD tutorials and exercises
+- Books on Test-Driven Development

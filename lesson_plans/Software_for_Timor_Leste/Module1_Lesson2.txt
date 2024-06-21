@@ -1,0 +1,117 @@
+# Lesson Plan: Git Fundamentals and Homework Submission via Git
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to Version Control and Git
+
+#### Objectives:
+- Understand the concept of version control
+- Learn what Git is and why it's important
+- Set up Git on local machines
+
+#### Materials:
+- Computers with internet access
+- Git installation files
+- Handout on version control concepts
+
+#### Activities:
+1. (20 min) Introduction to version control: concept and importance
+2. (25 min) Introduction to Git: history, purpose, and basic concepts
+3. (45 min) Guided installation of Git on student computers
+4. (20 min) Configuring Git with user information
+5. (10 min) Q&A and wrap-up
+
+#### Homework:
+Complete Git configuration and write a short reflection on the importance of version control
+
+### Session 2: Basic Git Commands
+
+#### Objectives:
+- Learn and practice basic Git commands
+- Understand the Git workflow
+
+#### Materials:
+- Computers with Git installed
+- Cheat sheet of basic Git commands
+
+#### Activities:
+1. (20 min) Review of Git concepts and introduction to the command line
+2. (30 min) Demonstration: Creating a repository, adding files, committing changes
+3. (50 min) Hands-on practice: Students create their own repository and make commits
+4. (15 min) Introduction to Git status and log commands
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create a new Git repository for your HTML project from the previous week
+
+### Session 3: Branching and Merging
+
+#### Objectives:
+- Understand Git branching concept
+- Learn how to create, switch, and merge branches
+
+#### Materials:
+- Computers with Git and student repositories
+- Visual aids explaining Git branching
+
+#### Activities:
+1. (20 min) Introduction to Git branching: concept and uses
+2. (25 min) Demonstration: Creating, switching, and merging branches
+3. (60 min) Hands-on practice: Students work with branches in their repositories
+4. (10 min) Discussion on branching strategies
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Add a new feature to your HTML project using a separate branch, then merge it
+
+### Session 4: Remote Repositories and GitHub
+
+#### Objectives:
+- Understand the concept of remote repositories
+- Learn to use GitHub for remote Git hosting
+- Practice pushing to and pulling from remote repositories
+
+#### Materials:
+- Computers with Git and internet access
+- GitHub account setup instructions
+
+#### Activities:
+1. (15 min) Introduction to remote repositories and GitHub
+2. (20 min) Guided GitHub account creation and setup
+3. (25 min) Demonstration: Pushing local repository to GitHub
+4. (45 min) Hands-on practice: Students push their projects to GitHub
+5. (10 min) Introduction to pulling changes and collaboration concepts
+6. (5 min) Q&A and wrap-up
+
+#### Homework:
+Push your updated HTML project to GitHub
+
+### Session 5: Git for Homework Submission and Collaboration
+
+#### Objectives:
+- Learn how to use Git and GitHub for homework submission
+- Understand basic collaboration workflows
+
+#### Materials:
+- Computers with Git and internet access
+- Access to a sample classroom repository
+
+#### Activities:
+1. (20 min) Introduction to using Git for homework submission
+2. (30 min) Demonstration: Forking a repository, making changes, creating pull requests
+3. (50 min) Hands-on practice: Students fork a sample homework repository and submit a pull request
+4. (15 min) Discussion on Git best practices and etiquette
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Submit your final HTML project as a pull request to the class repository
+
+### Assessment:
+- Daily homework assignments using Git
+- In-class participation and hands-on exercises
+- Final project: Successful submission of HTML project via GitHub pull request
+
+### Additional Resources:
+- Online Git tutorials and interactive learning platforms
+- Git documentation and cheat sheets
+- Video tutorials on advanced Git concepts

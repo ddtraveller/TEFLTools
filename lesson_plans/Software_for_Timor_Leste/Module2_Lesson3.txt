@@ -1,0 +1,163 @@
+# Lesson Plan: Python Basics and Data Manipulation with Pandas
+
+## Duration: 2 weeks (10 sessions, 2 hours each)
+
+### Week 1: Python Basics
+
+#### Session 1: Introduction to Python
+
+Objectives:
+- Understand what Python is and its applications
+- Set up Python environment
+- Write and run first Python program
+
+Activities:
+1. (20 min) Introduction to Python and its importance in data science
+2. (30 min) Guided installation of Python and IDE (e.g., PyCharm Community Edition)
+3. (40 min) "Hello, World!" program and basic syntax
+4. (25 min) Variables, data types, and simple operations
+5. (5 min) Q&A and wrap-up
+
+Homework: Write a program that calculates the area of a rectangle
+
+#### Session 2: Control Structures
+
+Objectives:
+- Understand and use if-else statements
+- Implement loops (for and while)
+
+Activities:
+1. (25 min) Review of previous session and homework
+2. (30 min) If-else statements with examples
+3. (30 min) For loops and their applications
+4. (30 min) While loops and when to use them
+5. (5 min) Q&A and wrap-up
+
+Homework: Write a program that prints prime numbers up to 50
+
+#### Session 3: Functions and Modules
+
+Objectives:
+- Define and use functions
+- Understand module concept and import statements
+
+Activities:
+1. (20 min) Review of previous session and homework
+2. (40 min) Defining and calling functions
+3. (30 min) Function parameters and return values
+4. (25 min) Introduction to modules and import statements
+5. (5 min) Q&A and wrap-up
+
+Homework: Create a module with functions for basic arithmetic operations
+
+#### Session 4: Lists and Dictionaries
+
+Objectives:
+- Work with lists and list comprehensions
+- Understand and use dictionaries
+
+Activities:
+1. (20 min) Review of previous session and homework
+2. (35 min) Lists: creation, accessing, modifying
+3. (25 min) List comprehensions
+4. (35 min) Dictionaries: creation, accessing, modifying
+5. (5 min) Q&A and wrap-up
+
+Homework: Create a program that manages a simple inventory using dictionaries
+
+#### Session 5: File Handling and Exception Handling
+
+Objectives:
+- Read from and write to files
+- Understand and implement exception handling
+
+Activities:
+1. (20 min) Review of previous session and homework
+2. (40 min) File handling: reading and writing text files
+3. (30 min) CSV file handling
+4. (25 min) Exception handling: try, except, finally
+5. (5 min) Q&A and wrap-up
+
+Homework: Create a program that reads a CSV file, performs some calculations, and writes results to a new file
+
+### Week 2: Data Manipulation with Pandas
+
+#### Session 6: Introduction to Pandas
+
+Objectives:
+- Understand what Pandas is and its importance in data manipulation
+- Create and manipulate Pandas Series and DataFrames
+
+Activities:
+1. (25 min) Introduction to Pandas and its role in data science
+2. (30 min) Installation and importing Pandas
+3. (30 min) Pandas Series: creation and basic operations
+4. (30 min) Pandas DataFrames: creation and basic operations
+5. (5 min) Q&A and wrap-up
+
+Homework: Create a DataFrame from a dictionary and perform basic operations
+
+#### Session 7: Data Loading and Inspection
+
+Objectives:
+- Load data from various sources (CSV, Excel, etc.)
+- Inspect and describe data using Pandas functions
+
+Activities:
+1. (20 min) Review of previous session and homework
+2. (40 min) Loading data from CSV and Excel files
+3. (30 min) Basic data inspection: head(), tail(), info(), describe()
+4. (25 min) Handling missing data
+5. (5 min) Q&A and wrap-up
+
+Homework: Load a dataset about Timor-Leste (e.g., population data) and perform basic inspection
+
+#### Session 8: Data Selection and Filtering
+
+Objectives:
+- Select specific data from DataFrames
+- Filter data based on conditions
+
+Activities:
+1. (20 min) Review of previous session and homework
+2. (35 min) Selecting columns and rows in DataFrames
+3. (35 min) Filtering data with boolean indexing
+4. (25 min) Using loc[] and iloc[] for data selection
+5. (5 min) Q&A and wrap-up
+
+Homework: Perform various selection and filtering operations on the Timor-Leste dataset
+
+#### Session 9: Data Transformation and Aggregation
+
+Objectives:
+- Apply functions to transform data
+- Perform grouping and aggregation operations
+
+Activities:
+1. (20 min) Review of previous session and homework
+2. (35 min) Applying functions to Series and DataFrames
+3. (35 min) Grouping data with groupby()
+4. (25 min) Aggregation functions: sum(), mean(), count(), etc.
+5. (5 min) Q&A and wrap-up
+
+Homework: Perform grouping and aggregation on the Timor-Leste dataset to derive insights
+
+#### Session 10: Data Visualization with Pandas
+
+Objectives:
+- Create basic plots using Pandas
+- Export processed data
+
+Activities:
+1. (20 min) Review of previous session and homework
+2. (40 min) Basic plotting with Pandas: line plots, bar plots, histograms
+3. (30 min) Customizing plots
+4. (25 min) Exporting processed data to CSV and Excel
+5. (5 min) Final Q&A and module wrap-up
+
+Homework: Create visualizations from the Timor-Leste dataset and export the processed data
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Data analysis report on Timor-Leste dataset using Python and Pandas

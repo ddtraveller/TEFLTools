@@ -1,0 +1,109 @@
+# Lesson Plan: Problem-Solving Techniques in Python
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to Problem-Solving and Python Basics Review
+
+#### Objectives:
+- Understand the problem-solving process
+- Review Python basics essential for problem-solving
+
+#### Materials:
+- Computers with Python installed
+- Handout on problem-solving steps
+
+#### Activities:
+1. (20 min) Introduction to problem-solving: steps and strategies
+2. (30 min) Review of Python basics: variables, data types, control structures
+3. (40 min) Simple problem-solving exercise: converting Celsius to Fahrenheit for Timor-Leste weather data
+4. (25 min) Discussion on approaching problems systematically
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Solve a set of simple Python problems related to Timor-Leste (e.g., calculating area of coffee plantations)
+
+### Session 2: Decomposition and Functions
+
+#### Objectives:
+- Learn to break down complex problems into smaller parts
+- Practice creating and using functions in Python
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Problem decomposition techniques
+3. (30 min) Functions in Python: defining, parameters, return values
+4. (35 min) Hands-on practice: Breaking down a complex problem (e.g., analyzing Timor-Leste's budget) into functions
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Decompose and implement a solution for calculating tax brackets in Timor-Leste
+
+### Session 3: Data Structures for Problem-Solving
+
+#### Objectives:
+- Understand how to choose appropriate data structures
+- Practice using lists, dictionaries, and sets in problem-solving
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Overview of Python data structures: lists, dictionaries, sets
+3. (40 min) Choosing the right data structure for different problems
+4. (25 min) Hands-on practice: Implementing a contact book for a Timorese organization using dictionaries
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Use appropriate data structures to model and analyze Timor-Leste's agricultural production data
+
+### Session 4: Algorithmic Thinking and Iteration
+
+#### Objectives:
+- Develop algorithmic thinking skills
+- Practice using loops and iteration in problem-solving
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Algorithmic thinking: step-by-step problem-solving
+3. (30 min) Iteration techniques: for loops, while loops, list comprehensions
+4. (35 min) Hands-on practice: Developing an algorithm to find prime numbers and implement it using loops
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Develop and implement an algorithm to analyze voting patterns in Timor-Leste elections
+
+### Session 5: Error Handling and Debugging
+
+#### Objectives:
+- Learn techniques for error handling in Python
+- Understand debugging strategies
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Error handling in Python: try-except blocks, raising exceptions
+3. (30 min) Debugging techniques: print statements, debugger tools
+4. (35 min) Hands-on practice: Debugging a faulty program that calculates Timor-Leste's GDP growth
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Improve a given Python program by adding error handling and fixing bugs
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Comprehensive problem-solving challenge
+
+### Final Project Guidelines:
+1. Choose a complex problem relevant to Timor-Leste (e.g., optimizing water distribution in rural areas)
+2. Apply the problem-solving techniques learned in class:
+   - Break down the problem into smaller parts
+   - Choose appropriate data structures
+   - Develop algorithms for each part
+   - Implement the solution in Python
+   - Include error handling and debugging
+3. Write a report explaining your problem-solving approach and implementation
+4. Present your project to the class, demonstrating your solution and explaining your thought process
+
+### Additional Resources:
+- Book: "Think Python" by Allen B. Downey
+- Online platforms: Codecademy, HackerRank for Python practice
+- Python documentation
+- Real-world datasets from Timor-Leste government websites or international organizations

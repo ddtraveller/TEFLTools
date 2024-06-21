@@ -1,0 +1,107 @@
+# Lesson Plan: Data Visualization Principles and Practices
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to Data Visualization
+
+#### Objectives:
+- Understand the importance of data visualization
+- Learn basic principles of effective data visualization
+
+#### Materials:
+- Computers with visualization software (e.g., R, Tableau, or Excel)
+- Examples of good and bad data visualizations
+
+#### Activities:
+1. (20 min) Introduction to data visualization: purpose and importance
+2. (30 min) Core principles: clarity, accuracy, efficiency
+3. (40 min) Analysis of good and bad visualization examples
+4. (25 min) Hands-on practice: Improving a poorly designed chart
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Find and analyze three data visualizations related to Timor-Leste, explaining their strengths and weaknesses
+
+### Session 2: Choosing the Right Chart Type
+
+#### Objectives:
+- Understand different types of charts and their uses
+- Learn to select appropriate chart types for different data and goals
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (40 min) Overview of chart types: bar, line, scatter, pie, heatmap, etc.
+3. (30 min) Matching chart types to data types and analysis goals
+4. (25 min) Hands-on practice: Selecting and creating appropriate charts for given datasets
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create three different chart types using a dataset about Timor-Leste's economic indicators
+
+### Session 3: Color Theory and Use in Data Visualization
+
+#### Objectives:
+- Understand color theory basics
+- Learn effective use of color in data visualization
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Color theory basics: color wheel, harmony, contrast
+3. (30 min) Color in data visualization: encoding data, accessibility considerations
+4. (35 min) Hands-on practice: Applying color effectively to visualizations
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Recreate a black and white chart about Timor-Leste using an effective color scheme
+
+### Session 4: Designing for Different Audiences and Purposes
+
+#### Objectives:
+- Understand how audience and purpose affect visualization design
+- Learn to tailor visualizations for different contexts
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Audience considerations: technical vs. non-technical, cultural factors
+3. (30 min) Purpose-driven design: exploratory vs. explanatory visualizations
+4. (35 min) Hands-on practice: Adapting a visualization for different audiences
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create two versions of the same data visualization about Timor-Leste's education system: one for policymakers and one for the general public
+
+### Session 5: Interactive and Dynamic Visualizations
+
+#### Objectives:
+- Understand the benefits and challenges of interactive visualizations
+- Learn basic techniques for creating interactive charts
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Introduction to interactive visualizations: benefits and best practices
+3. (40 min) Demonstration of interactive visualization techniques
+4. (25 min) Hands-on practice: Adding interactivity to a static chart
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Create an interactive dashboard visualizing key development indicators for Timor-Leste
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Comprehensive data visualization project
+
+### Final Project Guidelines:
+1. Choose a complex dataset related to Timor-Leste (e.g., multi-year development indicators)
+2. Create a set of visualizations that tell a cohesive story about the data, including:
+   - At least three different chart types
+   - Appropriate use of color and design principles
+   - At least one interactive element
+3. Write a report explaining your visualization choices and the insights gained
+4. Create versions for two different audiences (e.g., government officials and local community leaders)
+5. Present your project to the class, explaining your design decisions and key findings
+
+### Additional Resources:
+- Books: "The Visual Display of Quantitative Information" by Edward Tufte, "Storytelling with Data" by Cole Nussbaumer Knaflic
+- Online resources: Data Visualization Catalogue, Flowing Data blog
+- Tools: R (ggplot2), Tableau Public, D3.js

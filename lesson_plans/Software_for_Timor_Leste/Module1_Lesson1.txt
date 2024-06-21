@@ -1,0 +1,109 @@
+# Lesson Plan: Introduction to Text Files and HTML Basics
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to Text Files
+
+#### Objectives:
+- Understand what text files are and their importance in programming
+- Learn to create and edit text files using a simple text editor
+
+#### Materials:
+- Computers with a basic text editor (e.g., Notepad, TextEdit)
+- Handouts on text file formats and encoding
+
+#### Activities:
+1. (15 min) Introduction to text files: definition, uses, and formats
+2. (30 min) Demonstration: Creating and editing text files
+3. (45 min) Hands-on practice: Students create and edit their own text files
+4. (20 min) Discussion: Different text file formats and their uses
+5. (10 min) Q&A and wrap-up
+
+#### Homework:
+Create a simple personal bio in a text file, including name, age, and interests
+
+### Session 2: Introduction to HTML
+
+#### Objectives:
+- Understand what HTML is and its role in web development
+- Learn basic HTML structure and common tags
+
+#### Materials:
+- Computers with a text editor and web browser
+- HTML cheat sheet handouts
+
+#### Activities:
+1. (20 min) Introduction to HTML: What it is, how it works
+2. (30 min) Demonstration: Basic HTML structure and common tags
+3. (50 min) Hands-on practice: Students create a simple HTML page
+4. (15 min) Viewing HTML in a web browser
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Convert the personal bio from previous homework into an HTML format
+
+### Session 3: HTML Elements and Attributes
+
+#### Objectives:
+- Learn about different HTML elements and their purposes
+- Understand and use HTML attributes
+
+#### Materials:
+- Computers with a text editor and web browser
+- Handout on common HTML elements and attributes
+
+#### Activities:
+1. (20 min) Review of basic HTML and introduction to new elements
+2. (25 min) Demonstration: Using various HTML elements and attributes
+3. (60 min) Hands-on practice: Students create an HTML page with multiple elements
+4. (10 min) Pair review: Students review each other's HTML pages
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create an HTML page about Timor-Leste, including headings, paragraphs, and a list
+
+### Session 4: HTML Links and Images
+
+#### Objectives:
+- Learn how to create hyperlinks in HTML
+- Understand how to embed images in HTML pages
+
+#### Materials:
+- Computers with a text editor and web browser
+- Sample images for embedding
+
+#### Activities:
+1. (15 min) Introduction to hyperlinks and their importance
+2. (20 min) Demonstration: Creating internal and external links
+3. (25 min) Hands-on practice: Students add links to their Timor-Leste page
+4. (20 min) Introduction to embedding images in HTML
+5. (30 min) Hands-on practice: Students add images to their Timor-Leste page
+6. (10 min) Q&A and wrap-up
+
+#### Homework:
+Enhance the Timor-Leste page with more links and images
+
+### Session 5: HTML Tables and Forms
+
+#### Objectives:
+- Learn how to create tables in HTML
+- Understand the basics of HTML forms
+
+#### Materials:
+- Computers with a text editor and web browser
+- Handout on HTML table and form syntax
+
+#### Activities:
+1. (20 min) Introduction to HTML tables
+2. (30 min) Hands-on practice: Students create a table in their Timor-Leste page
+3. (20 min) Introduction to HTML forms
+4. (40 min) Hands-on practice: Students add a simple form to their page
+5. (10 min) Final Q&A and module wrap-up
+
+#### Homework:
+Create a new HTML page with a table of Timor-Leste facts and a feedback form
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: A multi-page HTML website about Timor-Leste

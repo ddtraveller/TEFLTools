@@ -1,0 +1,112 @@
+# Lesson Plan: Advanced HTML
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: HTML5 Semantic Elements and Structure
+
+#### Objectives:
+- Understand the importance of semantic HTML
+- Learn and use HTML5 semantic elements
+
+#### Materials:
+- Computers with text editors and modern web browsers
+- HTML5 cheat sheet
+
+#### Activities:
+1. (20 min) Introduction to HTML5 and semantic markup
+2. (30 min) Overview of semantic elements: header, nav, main, article, section, aside, footer
+3. (40 min) Hands-on practice: Restructuring a non-semantic HTML page using semantic elements
+4. (25 min) Discussion on the benefits of semantic HTML for accessibility and SEO
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create a semantic HTML5 structure for a Timor-Leste tourism website
+
+### Session 2: HTML Forms and Input Types
+
+#### Objectives:
+- Create complex forms using various input types
+- Understand form validation attributes
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Advanced input types: date, time, color, range, etc.
+3. (30 min) Form validation attributes: required, pattern, min, max, etc.
+4. (35 min) Hands-on practice: Creating a comprehensive form (e.g., job application form for a Timorese company)
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create a form for a Timor-Leste government service (e.g., passport application) using advanced input types and validation
+
+### Session 3: Multimedia and Embedding
+
+#### Objectives:
+- Embed various types of multimedia content in HTML
+- Understand responsive embedding techniques
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (25 min) Audio and video elements and their attributes
+3. (25 min) Embedding maps and other external content
+4. (25 min) Responsive embedding techniques
+5. (20 min) Hands-on practice: Adding multimedia to the Timor-Leste tourism website
+6. (5 min) Q&A and wrap-up
+
+#### Homework:
+Enhance the Timor-Leste tourism website with embedded videos, audio clips, and a map
+
+### Session 4: Tables and Lists
+
+#### Objectives:
+- Create complex tables with advanced features
+- Use different types of lists effectively
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Advanced table features: colspan, rowspan, caption, thead, tbody, tfoot
+3. (20 min) Styling tables for better readability
+4. (20 min) Ordered, unordered, and description lists
+5. (25 min) Hands-on practice: Creating a table of Timor-Leste's economic data and a list of cultural events
+6. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create a webpage with a complex table showing Timor-Leste's demographic data and a nested list of tourist attractions
+
+### Session 5: HTML5 APIs and Microdata
+
+#### Objectives:
+- Understand basic HTML5 APIs
+- Learn about microdata for improved SEO
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Introduction to HTML5 APIs: Geolocation, Local Storage, Drag and Drop
+3. (30 min) Microdata: concept and implementation
+4. (35 min) Hands-on practice: Implementing geolocation and microdata in the Timor-Leste tourism website
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Enhance the Timor-Leste tourism website with geolocation features and add microdata to improve SEO
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Develop a comprehensive, accessible, and SEO-friendly website for a Timorese organization
+
+### Final Project Guidelines:
+1. Choose a Timorese organization (real or fictional) that needs a website
+2. Develop a multi-page website that includes:
+   - Semantic HTML5 structure
+   - Complex forms with validation
+   - Embedded multimedia content
+   - Tables and lists
+   - At least one HTML5 API implementation
+   - Microdata for improved SEO
+3. Ensure the website is accessible and mobile-responsive
+4. Write a brief report explaining your HTML choices and how they benefit the organization
+
+### Additional Resources:
+- MDN Web Docs for HTML
+- W3C HTML5 Specification
+- Online accessibility checkers
+- SEO analysis tools

@@ -1,0 +1,62 @@
+# Lesson Plan: Building a Bitcoin Price Checker
+
+## Duration: 1 day (3 hours)
+
+### Objectives:
+- Understand how to interact with cryptocurrency APIs
+- Learn to parse JSON data in Python
+- Build a simple program to check and display Bitcoin prices
+- Implement basic error handling in API requests
+
+### Materials:
+- Computers with Python installed
+- Internet access
+- Access to a cryptocurrency price API (e.g., CoinGecko)
+
+### Session Outline:
+
+1. Introduction to APIs and JSON (30 minutes)
+   a. What are APIs?
+   b. Introduction to JSON format
+   c. Overview of cryptocurrency price APIs
+
+2. Setting Up the Development Environment (30 minutes)
+   a. Installing necessary Python libraries (requests)
+   b. Obtaining API access (if required)
+
+3. Making API Requests in Python (45 minutes)
+   a. Using the requests library
+   b. Sending GET requests to the API
+   c. Handling API responses
+
+4. Break (15 minutes)
+
+5. Parsing JSON Data (30 minutes)
+   a. Converting JSON to Python objects
+   b. Extracting relevant price information
+
+6. Building the Bitcoin Price Checker (45 minutes)
+   a. Writing the main function to fetch and display prices
+   b. Implementing basic error handling
+   c. Adding user input for currency selection
+
+7. Testing and Refinement (15 minutes)
+   a. Testing the program with different inputs
+   b. Discussing potential improvements
+
+8. Wrap-up and Q&A (15 minutes)
+   - Discussing real-world applications of the price checker
+   - Exploring ideas for extending the program
+
+### Homework:
+Extend the Bitcoin price checker to include additional cryptocurrencies and display price changes over 24 hours.
+
+### Assessment:
+- Completion of the Bitcoin price checker program
+- Quality of code and error handling
+- Homework assignment
+
+### Additional Resources:
+- Python requests library documentation
+- CoinGecko API documentation
+- "Python for Finance" by Yves Hilpisch (for more advanced financial applications)

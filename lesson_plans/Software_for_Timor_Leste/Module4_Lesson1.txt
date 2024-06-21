@@ -1,0 +1,111 @@
+# Lesson Plan: Fundamental Algorithms and Data Structures
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to Algorithms and Complexity
+
+#### Objectives:
+- Understand what algorithms are and their importance
+- Learn about time and space complexity
+- Introduce Big O notation
+
+#### Materials:
+- Computers with Python installed
+- Handouts on Big O notation
+
+#### Activities:
+1. (20 min) Introduction to algorithms: definition, importance, and examples
+2. (30 min) Time and space complexity: concept and importance
+3. (40 min) Introduction to Big O notation with examples
+4. (25 min) Hands-on practice: Analyzing simple algorithms for complexity
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Analyze the time complexity of three different algorithms solving the same problem (e.g., searching an array)
+
+### Session 2: Arrays and Linked Lists
+
+#### Objectives:
+- Understand array and linked list data structures
+- Learn basic operations and their time complexities
+- Implement simple algorithms using arrays and linked lists
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Arrays: structure, operations, and time complexities
+3. (30 min) Linked Lists: structure, operations, and time complexities
+4. (35 min) Hands-on practice: Implementing and comparing array and linked list operations
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Implement a simple inventory management system for a local Timorese store using both arrays and linked lists
+
+### Session 3: Stacks and Queues
+
+#### Objectives:
+- Understand stack and queue data structures
+- Learn their applications and implementations
+- Practice solving problems using stacks and queues
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Stacks: concept, operations, and applications
+3. (30 min) Queues: concept, operations, and applications
+4. (35 min) Hands-on practice: Implementing a stack-based calculator and a queue-based simulation
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Use a queue to simulate a customer service system for a Timorese government office
+
+### Session 4: Searching and Sorting Algorithms
+
+#### Objectives:
+- Learn fundamental searching algorithms: linear and binary search
+- Understand basic sorting algorithms: bubble sort, insertion sort, selection sort
+- Analyze the time complexity of these algorithms
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Searching algorithms: linear search and binary search
+3. (40 min) Sorting algorithms: bubble sort, insertion sort, selection sort
+4. (25 min) Hands-on practice: Implementing and comparing searching and sorting algorithms
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Implement a program that sorts and searches through a list of Timorese cities based on population
+
+### Session 5: Introduction to Recursion and Trees
+
+#### Objectives:
+- Understand the concept of recursion
+- Learn about tree data structures and their applications
+- Implement simple recursive algorithms and tree traversals
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Introduction to recursion: concept and simple examples
+3. (30 min) Tree data structures: concepts, types, and applications
+4. (35 min) Hands-on practice: Implementing a recursive function and a simple binary tree
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Use a tree structure to represent and traverse the organizational hierarchy of a Timorese government department
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Algorithmic problem-solving challenge
+
+### Final Project Guidelines:
+1. Choose a real-world problem relevant to Timor-Leste (e.g., optimizing distribution routes for agricultural products)
+2. Develop an algorithm to solve the problem, incorporating at least two data structures learned in class
+3. Implement the algorithm in Python
+4. Analyze the time and space complexity of your solution
+5. Write a report explaining your algorithm, its implementation, and its efficiency
+6. Present your project to the class, explaining your approach and demonstrating your solution
+
+### Additional Resources:
+- Book: "Grokking Algorithms" by Aditya Bhargava
+- Online platforms: LeetCode, HackerRank for algorithm practice
+- Visualizations: AlgoViz for algorithm visualization
+- Python documentation for built-in data structures

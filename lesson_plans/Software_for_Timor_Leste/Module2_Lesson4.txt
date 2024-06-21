@@ -1,0 +1,108 @@
+# Lesson Plan: Regular Expressions in Python
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to Regular Expressions
+
+#### Objectives:
+- Understand what regular expressions are and their importance
+- Learn basic regex syntax and metacharacters
+
+#### Materials:
+- Computers with Python installed
+- Handout with basic regex syntax
+
+#### Activities:
+1. (20 min) Introduction to regular expressions: definition, uses, and importance
+2. (30 min) Basic regex syntax: literal characters, metacharacters (., *, +, ?)
+3. (40 min) Hands-on practice: matching simple patterns
+4. (25 min) Introduction to Python's re module
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Write regex patterns to match email addresses and phone numbers in Timor-Leste format
+
+### Session 2: Character Classes and Quantifiers
+
+#### Objectives:
+- Understand and use character classes
+- Learn about quantifiers and their applications
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Character classes: [abc], [^abc], \d, \w, \s and their negations
+3. (30 min) Quantifiers: *, +, ?, {n}, {n,}, {n,m}
+4. (35 min) Hands-on practice: using character classes and quantifiers
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create regex patterns to validate Timor-Leste postal codes and vehicle registration numbers
+
+### Session 3: Anchors, Groups, and Backreferences
+
+#### Objectives:
+- Learn about regex anchors
+- Understand grouping and backreferences
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (25 min) Anchors: ^, $, \b
+3. (35 min) Grouping with parentheses () and backreferences
+4. (35 min) Hands-on practice: using anchors, groups, and backreferences
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Write a regex to extract dates from a text, considering various date formats used in Timor-Leste
+
+### Session 4: Regex in Python: Search and Match
+
+#### Objectives:
+- Use re.search() and re.match() functions
+- Understand the difference between search and match
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) re.search() function: syntax and usage
+3. (30 min) re.match() function: syntax and usage
+4. (35 min) Hands-on practice: searching and matching patterns in Python strings
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Write a Python script that searches for and extracts all mentions of Timorese cities from a given text
+
+### Session 5: Regex in Python: Findall, Sub, and Compile
+
+#### Objectives:
+- Learn to use re.findall() and re.sub() functions
+- Understand the benefits of re.compile()
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (25 min) re.findall() function: finding all occurrences of a pattern
+3. (25 min) re.sub() function: search and replace using regex
+4. (20 min) re.compile(): precompiling regex patterns
+5. (25 min) Hands-on practice: using findall, sub, and compile in Python scripts
+6. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Create a Python script that processes a text about Timor-Leste, replacing all mentions of dates with a standardized format
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Develop a Python program that uses regex to extract and analyze data from a Timor-Leste census report or similar document
+
+### Additional Resources:
+- Online regex testers and visualizers
+- Python's re module documentation
+- Cheat sheets for regex syntax
+
+### Final Project Guidelines:
+1. Choose a text document relevant to Timor-Leste (e.g., census report, news articles, government documents)
+2. Develop regex patterns to extract specific information (e.g., dates, names, statistics)
+3. Create a Python script that:
+   - Reads the document
+   - Applies the regex patterns to extract information
+   - Processes and analyzes the extracted data
+   - Outputs the results in a structured format (e.g., CSV, JSON)
+4. Write a brief report explaining your regex patterns and the insights gained from the data analysis

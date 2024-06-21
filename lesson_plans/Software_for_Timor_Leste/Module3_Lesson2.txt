@@ -1,0 +1,110 @@
+# Lesson Plan: Introduction to R and R Studio
+
+## Duration: 1 week (5 sessions, 2 hours each)
+
+### Session 1: Introduction to R and R Studio
+
+#### Objectives:
+- Understand what R is and its applications in data analysis
+- Familiarize with R Studio interface
+- Learn basic R syntax and data types
+
+#### Materials:
+- Computers with R and R Studio installed
+- R cheat sheet for beginners
+
+#### Activities:
+1. (20 min) Introduction to R: history, purpose, and applications
+2. (30 min) R Studio interface tour: console, script editor, environment, plots
+3. (30 min) Basic R syntax: arithmetic operations, variable assignment
+4. (35 min) Hands-on practice: Simple calculations and variable manipulations
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Complete a set of basic R exercises using Timor-Leste related data (e.g., population figures)
+
+### Session 2: Data Structures in R
+
+#### Objectives:
+- Understand different data structures in R
+- Learn to create and manipulate vectors, matrices, and data frames
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Vectors: creation, indexing, and operations
+3. (30 min) Matrices and arrays
+4. (35 min) Data frames: creation, accessing elements, basic operations
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create a data frame of Timor-Leste's districts with various attributes (population, area, etc.)
+
+### Session 3: Data Import and Basic Manipulation
+
+#### Objectives:
+- Learn to import data from various sources
+- Understand basic data manipulation techniques
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Importing data: read.csv(), read.table(), readxl package
+3. (30 min) Basic data manipulation: subset(), merge(), aggregate()
+4. (35 min) Hands-on practice: Import and manipulate a dataset about Timor-Leste
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Import a complex dataset about Timor-Leste's economy and perform basic manipulations
+
+### Session 4: Basic Data Visualization with R
+
+#### Objectives:
+- Create basic plots using R's built-in functions
+- Understand the principles of data visualization in R
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Basic plotting functions: plot(), hist(), boxplot()
+3. (30 min) Customizing plots: titles, axes, colors, legends
+4. (35 min) Hands-on practice: Create various plots using Timor-Leste data
+5. (5 min) Q&A and wrap-up
+
+#### Homework:
+Create a set of informative plots visualizing trends in Timor-Leste's development indicators
+
+### Session 5: Introduction to Data Analysis with R
+
+#### Objectives:
+- Perform basic statistical analyses in R
+- Understand how to interpret R output
+
+#### Activities:
+1. (20 min) Review of previous session and homework
+2. (30 min) Descriptive statistics: mean(), median(), sd(), summary()
+3. (30 min) Basic inferential statistics: t.test(), cor.test()
+4. (35 min) Hands-on practice: Analyze a dataset related to Timor-Leste's health outcomes
+5. (5 min) Final Q&A and module wrap-up
+
+#### Homework:
+Conduct a small data analysis project using R, focusing on a specific aspect of Timor-Leste's development
+
+### Assessment:
+- Daily homework assignments
+- In-class participation and hands-on exercises
+- Final project: Data analysis and visualization using R
+
+### Final Project Guidelines:
+1. Choose a dataset related to Timor-Leste (e.g., education statistics, health indicators, economic data)
+2. Perform a comprehensive analysis using R, including:
+   - Data import and cleaning
+   - Exploratory data analysis
+   - Statistical analysis (as appropriate for the dataset)
+   - Data visualization
+3. Create an R Markdown document presenting your analysis, including code and results
+4. Write a brief report interpreting your findings and their implications for Timor-Leste
+5. Present your project to the class, explaining your methodology and conclusions
+
+### Additional Resources:
+- R documentation (https://www.r-project.org/)
+- R Studio resources and cheat sheets
+- Online R tutorials and courses
+- R for Data Science book (available online)
