@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timor-Leste Cuisine</title>
+</head>
+<body>
+    <h1>Cuisine of Timor-Leste</h1>
+    <p>The cuisine of Timor-Leste reflects the country's diverse cultural influences, including Portuguese, Indonesian, and indigenous Timorese traditions. Rice, cassava, and corn are staple foods, often served with fish, pork, or chicken.</p>
+    <h2>Popular Dishes</h2>
+    <table border="1">
+        <tr>
+            <th>Dish</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Batar Da'an</td>
+            <td>A traditional Timorese dish made with corn, pumpkin, and beans.</td>
+        </tr>
+        <tr>
+            <td>Ikan Pepes</td>
+            <td>Fish cooked in banana leaves with spices and coconut milk.</td>
+        </tr>
+        <tr>
+            <td>Tapai</td>
+            <td>A fermented cassava or rice dish, often served as a dessert.</td>
+        </tr>
+    </table>
+    <h2>Feedback Form</h2>
+    <form onsubmit="displayMessage(event)">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br>
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="5" cols="30" required></textarea><br>
+        <input type="submit" value="Submit">
+    </form>
+    <div id="output"></div>
+    <h2>Traditional Timorese Coffee</h2>
+    <img src="coffee.jpg" alt="Traditional Timorese Coffee" width="400">
+    <p>Timor-Leste is known for its high-quality organic coffee. Learn more about <a href="https://www.timorleste.tl/what-to-do/coffee/">Timorese coffee</a>.</p>
+
+    <script>
+        function displayMessage(event) {
+            event.preventDefault();
+            const message = document.getElementById('message').value;
+            document.getElementById('output').innerText = message;
+        }
+    </script>
+</body>
+</html>
