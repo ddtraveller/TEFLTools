@@ -1,0 +1,149 @@
+[
+  {
+    "id": "slide1",
+    "title": "Climate Change in Timor-Leste: An Overview",
+    "content": "<p>Timor-Leste, a small island nation in Southeast Asia, faces significant climate change challenges:</p><ul><li>Rising temperatures</li><li>Changing precipitation patterns</li><li>Sea-level rise</li><li>Increased frequency of extreme weather events</li></ul>",
+    "visualization": {
+      "type": "map",
+      "description": "Interactive map of Timor-Leste showing key geographical features and climate zones"
+    },
+    "vocabulary": [
+      {
+        "term": "Climate change",
+        "definition": "Long-term alteration in global weather patterns"
+      },
+      {
+        "term": "Precipitation",
+        "definition": "Rain, snow, sleet, or hail that falls to the ground"
+      }
+    ]
+  },
+  {
+    "id": "slide2",
+    "title": "Temperature Projections",
+    "content": "<p>By the 2090s:</p><ul><li>RCP8.5 scenario: Increase of approximately 2.9°C</li><li>RCP2.6 scenario: Increase of 0.9°C</li></ul>",
+    "visualization": {
+      "type": "graph",
+      "description": "Line graph showing projected temperature increases under different RCP scenarios"
+    },
+    "vocabulary": [
+      {
+        "term": "RCP",
+        "definition": "Representative Concentration Pathway, a greenhouse gas concentration trajectory adopted by the IPCC"
+      }
+    ]
+  },
+  {
+    "id": "slide3",
+    "title": "Precipitation Changes",
+    "content": "<p>While overall precipitation changes are uncertain, Timor-Leste is likely to experience:</p><ul><li>Increased frequency of extreme rainfall events</li><li>Potential for longer dry periods</li></ul>",
+    "visualization": {
+      "type": "chart",
+      "description": "Bar chart comparing historical and projected extreme rainfall events"
+    },
+    "vocabulary": [
+      {
+        "term": "Extreme rainfall events",
+        "definition": "Precipitation that is significantly higher than average"
+      }
+    ]
+  },
+  {
+    "id": "slide4",
+    "title": "Sea-Level Rise",
+    "content": "<p>Projections for Timor-Leste:</p><ul><li>By 2030: 80-180 mm rise</li><li>By 2090 (RCP8.5): 430-880 mm rise</li></ul><p>Impacts include increased coastal flooding and erosion.</p>",
+    "visualization": {
+      "type": "interactive",
+      "description": "Interactive coastal map showing potential inundation under different sea-level rise scenarios"
+    },
+    "vocabulary": [
+      {
+        "term": "Sea-level rise",
+        "definition": "Increase in the level of the world's oceans due to climate change"
+      }
+    ]
+  },
+  {
+    "id": "slide5",
+    "title": "Impacts on Agriculture",
+    "content": "<p>Climate change threats to agriculture:</p><ul><li>Decreased crop yields</li><li>Shifts in suitable growing areas</li><li>Increased pest and disease pressure</li></ul><p>66% of families rely on farming for livelihoods.</p>",
+    "visualization": {
+      "type": "chart",
+      "description": "Pie chart showing agricultural dependence in Timor-Leste's economy"
+    },
+    "vocabulary": [
+      {
+        "term": "Crop yield",
+        "definition": "The amount of crop produced per unit of land area"
+      }
+    ]
+  },
+  {
+    "id": "slide6",
+    "title": "Water Resources",
+    "content": "<p>Climate change impacts on water resources:</p><ul><li>Increased variability in rainfall</li><li>Pressure on groundwater resources</li><li>Higher risk of both floods and droughts</li></ul>",
+    "visualization": {
+      "type": "diagram",
+      "description": "Schematic diagram of Timor-Leste's water cycle and potential climate change impacts"
+    },
+    "vocabulary": [
+      {
+        "term": "Groundwater",
+        "definition": "Water held underground in soil or in pores and crevices in rock"
+      }
+    ]
+  },
+  {
+    "id": "slide7",
+    "title": "Biodiversity Risks",
+    "content": "<p>Threats to Timor-Leste's biodiversity:</p><ul><li>Habitat shifts and potential species loss</li><li>Coral reef degradation due to ocean acidification</li><li>Mangrove risks from sea-level rise</li></ul>",
+    "visualization": {
+      "type": "interactive",
+      "description": "Interactive ecosystem map showing vulnerable species and habitats"
+    },
+    "vocabulary": [
+      {
+        "term": "Biodiversity",
+        "definition": "Variety of plant and animal life in a particular habitat"
+      },
+      {
+        "term": "Ocean acidification",
+        "definition": "Reduction in the pH of the ocean over an extended period, primarily due to uptake of CO2 from the atmosphere"
+      }
+    ]
+  },
+  {
+    "id": "slide8",
+    "title": "Human Health Impacts",
+    "content": "<p>Climate change health risks:</p><ul><li>Increased heat-related illnesses</li><li>Spread of vector-borne diseases like malaria and dengue</li><li>Potential for increased malnutrition</li></ul>",
+    "visualization": {
+      "type": "chart",
+      "description": "Stacked bar chart showing projected increases in various health risks"
+    },
+    "vocabulary": [
+      {
+        "term": "Vector-borne diseases",
+        "definition": "Illnesses caused by parasites, viruses, and bacteria transmitted by mosquitoes, ticks, and other vectors"
+      }
+    ]
+  },
+  {
+    "id": "slide9",
+    "title": "Adaptation Strategies",
+    "content": "<p>Key adaptation priorities for Timor-Leste:</p><ul><li>Strengthening climate-resilient agriculture</li><li>Improving water management</li><li>Protecting coastal areas</li><li>Enhancing disaster preparedness</li><li>Building adaptive capacity</li></ul>",
+    "visualization": {
+      "type": "interactive",
+      "description": "Interactive flowchart of adaptation strategies and their interconnections"
+    },
+    "vocabulary": [
+      {
+        "term": "Adaptation",
+        "definition": "Adjustment in natural or human systems in response to actual or expected climatic stimuli or their effects"
+      },
+      {
+        "term": "Resilience",
+        "definition": "Capacity of a system to absorb disturbance and reorganize while undergoing change"
+      }
+    ]
+  }
+]

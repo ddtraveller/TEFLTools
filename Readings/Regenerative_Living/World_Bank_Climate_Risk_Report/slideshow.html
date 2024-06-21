@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Megalithic Adventure</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 20px;
+    }
+    .slide {
+      background-color: white;
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .slide img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 10px;
+    }
+    .navigation {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .navigation button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .vocabulary {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-radius: 5px;
+    }
+    .vocabulary h3 {
+      margin-top: 0;
+    }
+    .vocabulary p {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div id="slideContainer"></div>
+
+  <div class="navigation">
+    <button onclick="previousSlide()">Previous</button>
+    <button onclick="nextSlide()">Next</button>
+    <button onclick="goToFirstSlide()">Back to Start</button>
+  </div>
+
+  <script>
+    var slides = [];
+    var currentSlide = 0;
+
+    function loadSlides() {
+      fetch('slides.json')
+        .then(response => response.json())
+        .then(data => {
+          slides = data;
+          showSlide(currentSlide);
+        })
+        .catch(error => {
+          console.log('Error loading slide data:', error);
+        });
+    }
+
+    function showSlide(slideIndex) {
+      var slideContainer = document.getElementById('slideContainer');
+      slideContainer.innerHTML = '';
+
+      var slide = slides[slideIndex];
+      if (slide) {
+        var slideElement = document.createElement('div');
+        slideElement.className = 'slide';
+        slideElement.id = slide.id;
+
+        if (slide.image) {
+          var imageElement = document.createElement('img');
+          imageElement.src = slide.image;
+          imageElement.onerror = function() {
+            this.style.display = 'none';
+          };
+          slideElement.appendChild(imageElement);
+        }
+
+        slideElement.innerHTML += slide.content;
+        slideContainer.appendChild(slideElement);
+      }
+    }
+
+    function nextSlide() {
+      if (currentSlide < slides.length - 1) {
+        currentSlide++;
+        showSlide(currentSlide);
+      }
+    }
+
+    function previousSlide() {
+      if (currentSlide > 0) {
+        currentSlide--;
+        showSlide(currentSlide);
+      }
+    }
+
+    function goToFirstSlide() {
+      currentSlide = 0;
+      showSlide(currentSlide);
+    }
+
+    loadSlides();
+  </script>
+</body>
+</html>
