@@ -37,12 +37,12 @@ By the end of this program, students will be able to conceptually understand how
 - Cover cropping and green manures
 - Integrating animals for fertility
 - Bioremediation and soil restoration
-- Activated charcoal and its uses
+- Activated charcoal and its uses and production
 
 ### Module 4: Perennial Food Systems
 - Food forests and forest gardening
 - Agroforestry and silvopasture
-- Perennial vegetables, fruits, nuts, and staples
+- Perennial vegetables, fruits, nuts, and staples in Timor Leste
 - Plant guilds and companion planting
 - Integrating aquaculture and hydroponics
 
