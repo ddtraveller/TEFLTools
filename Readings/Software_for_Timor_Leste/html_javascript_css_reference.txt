@@ -1,0 +1,139 @@
+HTML Reference Guide
+
+1. Basic Structure
+   - `<!DOCTYPE html>`: Declares the document type as HTML
+   - `<html>`: Root element of an HTML page
+   - `<head>`: Contains metadata and links to external resources
+   - `<body>`: Contains the visible content of the web page
+
+2. Text Elements
+   - `<h1>` to `<h6>`: Headings, from most important (h1) to least important (h6)
+   - `<p>`: Paragraph
+   - `<br>`: Line break
+   - `<strong>` or `<b>`: Bold text
+   - `<em>` or `<i>`: Italicized text
+
+3. Lists
+   - `<ul>`: Unordered list
+   - `<ol>`: Ordered list
+   - `<li>`: List item
+
+4. Links and Images
+   - `<a href="">`: Hyperlink
+   - `<img src="" alt="">`: Image
+
+5. Tables
+   - `<table>`: Table
+   - `<tr>`: Table row
+   - `<th>`: Table header cell
+   - `<td>`: Table data cell
+
+6. Forms
+   - `<form>`: Form
+   - `<input type="">`: Input field (text, radio, checkbox, etc.)
+   - `<textarea>`: Multi-line text input
+   - `<select>` and `<option>`: Drop-down list
+   - `<button>`: Clickable button
+
+Example HTML Page:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a sample paragraph with <strong>bold</strong> and <em>italicized</em> text.</p>
+    <ul>
+        <li>List item 1</li>
+        <li>List item 2</li>
+    </ul>
+    <a href="https://www.example.com">Click here</a> to visit another page.
+    <img src="image.jpg" alt="Sample Image">
+</body>
+</html>
+```
+
+Getting Started with JavaScript
+
+1. Including JavaScript in HTML
+   - Inline: `<script>console.log("Hello, World!");</script>`
+   - External file: `<script src="script.js"></script>`
+
+2. Variables and Data Types
+   - `let`: Declares a mutable variable
+   - `const`: Declares a constant (immutable) variable
+   - Data types: Number, String, Boolean, Array, Object
+
+3. Functions
+   - Declaring a function: `function greet(name) { console.log("Hello, " + name); }`
+   - Arrow functions: `const greet = (name) => { console.log("Hello, " + name); }`
+
+4. DOM Manipulation
+   - Accessing elements: `document.getElementById("id")`, `document.querySelector(".class")`
+   - Modifying content: `element.innerHTML = "New content"`, `element.textContent = "New text"`
+   - Adding event listeners: `element.addEventListener("click", function() { ... })`
+
+Example JavaScript:
+```javascript
+// Function to change the text of a paragraph
+function changeText() {
+    const paragraph = document.getElementById("my-paragraph");
+    paragraph.textContent = "Text changed by JavaScript!";
+}
+
+// Add event listener to a button
+const button = document.querySelector("button");
+button.addEventListener("click", changeText);
+```
+
+Getting Started with CSS
+
+1. Including CSS in HTML
+   - Inline: `<p style="color: red;">Red paragraph</p>`
+   - Internal: `<style>p { color: blue; }</style>`
+   - External file: `<link rel="stylesheet" href="styles.css">`
+
+2. Selectors
+   - Element selector: `p { ... }`
+   - Class selector: `.class-name { ... }`
+   - ID selector: `#id-name { ... }`
+
+3. Properties
+   - Color: `color: red;`
+   - Background color: `background-color: blue;`
+   - Font size: `font-size: 16px;`
+   - Margin: `margin: 10px;`
+   - Padding: `padding: 5px;`
+
+4. Box Model
+   - Content: The actual content of the element
+   - Padding: The space between the content and the border
+   - Border: The line surrounding the padding and content
+   - Margin: The space outside the border
+
+Example CSS:
+```css
+/* Styles for paragraphs */
+p {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Styles for a specific class */
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/* Styles for a specific ID */
+#main-title {
+    font-size: 24px;
+    text-align: center;
+}
+```
+
+These are just a few examples and a starting point for learning HTML, JavaScript, and CSS. There are many more elements, attributes, properties, and concepts to explore in each of these technologies.
