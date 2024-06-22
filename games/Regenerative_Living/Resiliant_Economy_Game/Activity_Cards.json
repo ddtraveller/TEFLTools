@@ -1,0 +1,119 @@
+{
+  "resource_cards": [
+    {"type": "Farmers", "resource": "Rice", "quantity": 5},
+    {"type": "Farmers", "resource": "Corn", "quantity": 5},
+    {"type": "Farmers", "resource": "Coffee", "quantity": 3},
+    {"type": "Farmers", "resource": "Cassava", "quantity": 4},
+    {"type": "Farmers", "resource": "Chickens", "quantity": 3},
+    {"type": "Farmers", "resource": "Pigs", "quantity": 2},
+    {"type": "Farmers", "resource": "Fruit", "quantity": 4},
+    {"type": "Farmers", "resource": "Vegetables", "quantity": 4},
+    {"type": "Fisherfolk", "resource": "Tuna", "quantity": 4},
+    {"type": "Fisherfolk", "resource": "Sardines", "quantity": 5},
+    {"type": "Fisherfolk", "resource": "Shrimp", "quantity": 3},
+    {"type": "Fisherfolk", "resource": "Squid", "quantity": 3},
+    {"type": "Fisherfolk", "resource": "Seaweed", "quantity": 2},
+    {"type": "Fisherfolk", "resource": "Crabs", "quantity": 3},
+    {"type": "Artisans", "resource": "Tais (Traditional Cloth)", "quantity": 2},
+    {"type": "Artisans", "resource": "Pottery", "quantity": 3},
+    {"type": "Artisans", "resource": "Wooden Carvings", "quantity": 3},
+    {"type": "Artisans", "resource": "Baskets", "quantity": 4},
+    {"type": "Artisans", "resource": "Jewelry", "quantity": 2},
+    {"type": "Traders", "resource": "Imported Cloth", "quantity": 3},
+    {"type": "Traders", "resource": "Fuel", "quantity": 3},
+    {"type": "Traders", "resource": "Construction Materials", "quantity": 3},
+    {"type": "Traders", "resource": "Electronics", "quantity": 2},
+    {"type": "Traders", "resource": "Processed Foods", "quantity": 4},
+    {"type": "Service Providers", "resource": "Healthcare", "quantity": 3},
+    {"type": "Service Providers", "resource": "Education", "quantity": 3},
+    {"type": "Service Providers", "resource": "Transportation", "quantity": 3},
+    {"type": "Service Providers", "resource": "Repairs", "quantity": 4},
+    {"type": "Service Providers", "resource": "Communication", "quantity": 2},
+    {"type": "Government Officials", "resource": "Infrastructure Project", "quantity": 1},
+    {"type": "Government Officials", "resource": "Public Services", "quantity": 2},
+    {"type": "Government Officials", "resource": "Regulations", "quantity": 2}
+  ],
+  "need_cards": [
+    {"type": "Farmers", "need": "Fishing Equipment", "quantity": 2},
+    {"type": "Farmers", "need": "Crafted Goods", "quantity": 3},
+    {"type": "Farmers", "need": "Healthcare", "quantity": 2},
+    {"type": "Farmers", "need": "Education", "quantity": 2},
+    {"type": "Farmers", "need": "Transportation", "quantity": 1},
+    {"type": "Fisherfolk", "need": "Agricultural Products", "quantity": 3},
+    {"type": "Fisherfolk", "need": "Boat Repairs", "quantity": 2},
+    {"type": "Fisherfolk", "need": "Education", "quantity": 2},
+    {"type": "Fisherfolk", "need": "Fuel", "quantity": 2},
+    {"type": "Fisherfolk", "need": "Healthcare", "quantity": 1},
+    {"type": "Artisans", "need": "Raw Materials", "quantity": 3},
+    {"type": "Artisans", "need": "Tools", "quantity": 2},
+    {"type": "Artisans", "need": "Food", "quantity": 3},
+    {"type": "Artisans", "need": "Healthcare", "quantity": 1},
+    {"type": "Artisans", "need": "Education", "quantity": 2},
+    {"type": "Traders", "need": "Local Products", "quantity": 4},
+    {"type": "Traders", "need": "Transportation Services", "quantity": 2},
+    {"type": "Traders", "need": "Communication Services", "quantity": 1},
+    {"type": "Traders", "need": "Storage Facilities", "quantity": 2},
+    {"type": "Traders", "need": "Financial Services", "quantity": 1},
+    {"type": "Service Providers", "need": "Food", "quantity": 3},
+    {"type": "Service Providers", "need": "Crafted Goods", "quantity": 2},
+    {"type": "Service Providers", "need": "Building Materials", "quantity": 2},
+    {"type": "Service Providers", "need": "Electronics", "quantity": 1},
+    {"type": "Service Providers", "need": "Transportation", "quantity": 2},
+    {"type": "Government Officials", "need": "Taxes", "quantity": 3},
+    {"type": "Government Officials", "need": "Community Support", "quantity": 2},
+    {"type": "Government Officials", "need": "Local Products", "quantity": 2},
+    {"type": "Government Officials", "need": "Services", "quantity": 2}
+  ],
+  "event_cards": [
+    {
+      "event": "Drought",
+      "description": "Farmers' crop yields are halved this round.",
+      "effect": "Farmers resources -50%"
+    },
+    {
+      "event": "Fishing Boom",
+      "description": "Fisherfolk resources are doubled this round.",
+      "effect": "Fisherfolk resources +100%"
+    },
+    {
+      "event": "Tourist Influx",
+      "description": "Demand for crafted goods increases; artisans can sell at higher prices.",
+      "effect": "Artisans selling prices +50%"
+    },
+    {
+      "event": "Economic Downturn",
+      "description": "All money values are worth 25% less this round.",
+      "effect": "All money -25%"
+    },
+    {
+      "event": "Community Festival",
+      "description": "All groups must contribute resources, but community bonds are strengthened.",
+      "effect": "All groups -1 resource, +2 resilience points"
+    },
+    {
+      "event": "Natural Disaster",
+      "description": "One randomly selected group loses half their resources.",
+      "effect": "Random group resources -50%"
+    },
+    {
+      "event": "Government Investment",
+      "description": "Infrastructure improved, all groups gain 1 resilience point.",
+      "effect": "All groups +1 resilience point"
+    },
+    {
+      "event": "Market Crash",
+      "description": "Traders' goods lose value, selling prices decreased by 30%.",
+      "effect": "Traders selling prices -30%"
+    },
+    {
+      "event": "Health Crisis",
+      "description": "Increased demand for healthcare, Service Providers resources strained.",
+      "effect": "Service Providers -1 Healthcare resource, +2 selling price"
+    },
+    {
+      "event": "Bumper Harvest",
+      "description": "Farmers have an exceptionally good harvest, resources increased.",
+      "effect": "Farmers resources +50%"
+    }
+  ]
+}
