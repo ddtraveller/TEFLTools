@@ -1,49 +1,98 @@
-# TEFLTools
-Tests, Quizzes, Assignments, Games and Code for TEFL teachers
-This repository contains a variety of resources to assist TEFL teachers in delivering engaging English lessons while incorporating practical knowledge in areas like holistic healing, permaculture, and software development. The repo is structured as follows:
+Here's a revised README.md that better reflects the structure and content of the repository:
 
-## Readings
+# Regenerative Living and Holistic Practices in Timor-Leste
 
-This directory houses a wealth of reading materials that TEFL teachers can draw upon to enrich their lessons and integrate relevant topics:
+This repository contains a comprehensive collection of educational materials focused on regenerative living, holistic healing practices, and permaculture approaches tailored for Timor-Leste. It also includes resources for software development and beekeeping.
 
-- `Holistic_Healing_Arts_and_Practices/`: A collection of texts exploring various holistic healing modalities, cultural practices, and women's health.
-- `Regenerative_Living/`: Readings on permaculture principles, natural patterns, food forests, and design methodologies.
-- `megalithic_adventure_story/`: An interactive adventure story to engage students in English comprehension.
+## Repository Structure
 
-## lesson_plans
+### Readings
+This directory contains in-depth reading materials on various subjects:
+- `Bee_Keeping/`: Information on natural beekeeping practices in Timor-Leste.
+- `Holistic_Healing_Arts_and_Practices/`: Extensive readings on traditional and modern healing practices, including Timorese cultural practices.
+- `Medical_Herbalism/`: Detailed information on herbal medicine, plant taxonomy, and medicinal applications.
+- `Regenerative_Living/`: Comprehensive materials on permaculture, sustainable living, and traditional Timorese practices.
+- `Software_for_Timor_Leste/`: Resources for software development relevant to Timor-Leste.
 
-Here, you'll find pre-written lesson plans organized by subject area:
+### lesson_plans
+Structured lesson plans for various courses:
+- `Bee_Keeping/`: Lessons on beekeeping practices.
+- `Holistic_Healing_Arts_and_Practices/`: Detailed module-based lessons on holistic healing.
+- `Regenerative_Living/`: Comprehensive lessons on permaculture and sustainable living.
+- `Software_for_Timor_Leste/`: Lessons on software development tailored for Timor-Leste.
 
-- `Holistic_Healing_Arts_and_Practices/`: Lesson plans covering holistic healing concepts, organized by module and lesson.
-- `Regenerative_Living/`: Lesson plans on permaculture and regenerative living practices.
-- `salt_cycles.txt`: A lesson plan on the natural cycle of salt.
+### activities
+Hands-on activities to complement the lessons:
+- `Bee_Keeping/`: Practical beekeeping activities.
+- `Regenerative_Living/`: Activities on canning, fermentation, hydroponics, and more.
 
-## quizzes
+### quizzes
+Interactive quizzes to assess understanding of various topics, primarily focused on holistic healing arts and practices.
 
-This directory contains interactive quizzes in HTML format, aligned with the lesson plans. Students can complete these quizzes to reinforce their understanding, and teachers can use them as assessment tools.
+### games
+- `Regenerative_Living/Resiliant_Economy_Game/`: A game designed to teach economic resilience.
+- `fantasy_game/`: An interactive game that could be adapted for educational purposes.
 
-## games
+### scripts
+Utility scripts for various purposes:
+- `Medical_Herbalism_LLM_Templates/`: Templates for generating content on medical herbalism.
+- `Regenerative_Living/`: Scripts for creating visual aids and maps for permaculture projects.
+- `Software_for_Tmor_Leste/`: Scripts related to software development in Timor-Leste.
 
-The `fantasy_game/` subdirectory houses an interactive fantasy game, complete with character generation, equipment, and storylines. This game can be used to engage students in English comprehension and creative writing exercises.
+### syllabus
+Detailed course syllabi for:
+- Beekeeping
+- Holistic Healing Arts and Practices
+- Medical Herbalism
+- Regenerative Living (Permaculture Approach)
+- Software Development for Timor-Leste
 
-## activities
+### recipes
+Traditional and medicinal recipes relevant to Timor-Leste.
 
-Here, you'll find supplementary activities and resources, such as `Book_Keeping_for Healers.txt`, which outlines bookkeeping practices relevant to holistic healing practitioners.
+### timorLesteMap
+Resources for creating an interactive map of Timor-Leste.
 
-## scripts
+## Key Courses and Associated Files
 
-This directory contains Python scripts that can aid in various tasks:
+1. **Regenerative Living: A Permaculture Approach**
+   - Syllabus: `syllabus/Regenerative_Living_a_Permaculture_Approach.md`
+   - Readings: `Readings/Regenerative_Living/`
+   - Lesson Plans: `lesson_plans/Regenerative_Living/`
+   - Activities: `activities/Regenerative_Living/`
 
-- `Regenerative_Living/`: Scripts for generating visual aids and maps for permaculture projects.
-- `facial_recognition.py`: A script that demonstrates facial recognition capabilities, which could be used to introduce computer vision concepts.
-- Other utility scripts for tasks like PDF conversion, YouTube video downloading, and more.
+2. **Holistic Healing Arts and Practices**
+   - Syllabus: `syllabus/Holistic_Healing_Arts_and_Practices.md`
+   - Readings: `Readings/Holistic_Healing_Arts_and_Practices/`
+   - Lesson Plans: `lesson_plans/Holistic_Healing_Arts_and_Practices/`
+   - Quizzes: `quizzes/Holistic_Healing_Arts_and_Practices/`
 
-## syllabus
+3. **Medical Herbalism**
+   - Syllabus: `syllabus/Medical_Herbalism.md`
+   - Readings: `Readings/Medical_Herbalism/`
 
-The `syllabus/` directory contains detailed course syllabi for the "Holistic Healing Arts and Practices" and "Regenerative Living: A Permaculture Approach" programs.
+4. **Beekeeping: A Permaculture Approach**
+   - Syllabus: `syllabus/Beekeeping_a_Permaculture_Approach.md`
+   - Readings: `Readings/Bee_Keeping/`
+   - Lesson Plans: `lesson_plans/Bee_Keeping/`
+   - Activities: `activities/Bee_Keeping/`
 
-## timorLesteMap
+5. **Software Development for Timor-Leste**
+   - Syllabus: `syllabus/Software_Development_for_Timor_Leste.md`
+   - Readings: `Readings/Software_for_Timor_Leste/`
+   - Lesson Plans: `lesson_plans/Software_for_Timor_Leste/`
 
-This directory contains scripts and resources for creating and deploying an interactive map of Timor Leste, which could be used in geography lessons or community projects.
+## Navigation
 
-By leveraging the resources in this repository, TEFL teachers can craft engaging, multi-disciplinary lessons that not only improve English proficiency but also impart practical knowledge in areas like holistic healing, permaculture, and software development. The combination of readings, lesson plans, quizzes, games, and hands-on activities provides a rich learning experience for students.
+To explore a specific course:
+1. Start with the syllabus in the `syllabus/` directory.
+2. Refer to the corresponding readings in the `Readings/` directory.
+3. Follow the lesson plans in the `lesson_plans/` directory.
+4. Complement learning with activities from the `activities/` directory and quizzes from the `quizzes/` directory where available.
+
+For practical applications:
+- Explore the `scripts/` directory for useful tools and demonstrations.
+- Check out the `games/` directory for interactive learning experiences.
+- Refer to the `recipes/` directory for traditional and medicinal preparations.
+
+This repository serves as a comprehensive resource for educators, students, and practitioners interested in regenerative living, holistic practices, and sustainable development in the context of Timor-Leste.
