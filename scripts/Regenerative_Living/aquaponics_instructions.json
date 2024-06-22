@@ -1,0 +1,256 @@
+{
+  "pond_construction": {
+    "small": {
+      "instructions": [
+        "Choose a level area for your small pond (approximately 3m x 2m x 1m deep), considering Timor-Leste's tropical climate",
+        "Ensure the site has some natural shade from trees like coconut palms or bamboo to help regulate water temperature",
+        "Mark out the pond dimensions using stakes and string",
+        "Excavate the area to the required depth, ensuring sides slope slightly inward at a 20-30 degree angle",
+        "If possible, use local clay to line the bottom of the pond for natural sealing",
+        "Remove any sharp objects or roots that could puncture the liner",
+        "Add a layer of sand or old jute sacks (common in Timor-Leste) at the bottom for additional protection",
+        "Lay the pond liner, ensuring it's smooth and free of wrinkles. If commercial liners are unavailable, consider using locally available materials like reinforced concrete",
+        "Secure the edges of the liner with heavy rocks or by burying them",
+        "Fill the pond partially with water to help shape the liner",
+        "Install a simple bamboo skimmer and bottom drain if desired",
+        "Complete filling the pond with water, ideally using rainwater collected during Timor-Leste's wet season (November to May)",
+        "Allow the water to settle for at least 24 hours before adding fish",
+        "Consider planting native aquatic plants like water lilies around the edges for natural filtration and shade"
+      ]
+    },
+    "medium": {
+      "instructions": [
+        "Choose a level area for your medium pond (approximately 5m x 3m x 1.5m deep), considering Timor-Leste's tropical climate and potential for heavy rainfall",
+        "Ensure the site has some natural shade from trees like teak or mahogany, which are common in Timor-Leste",
+        "Mark out the pond dimensions using stakes and string",
+        "Excavate the area to the required depth, ensuring sides slope slightly inward at a 20-30 degree angle",
+        "If possible, use local clay to line the bottom of the pond for natural sealing",
+        "Remove any sharp objects or roots that could puncture the liner",
+        "Add a layer of sand or old jute sacks (common in Timor-Leste) at the bottom for additional protection",
+        "Lay the pond liner, ensuring it's smooth and free of wrinkles. If commercial liners are unavailable, consider using locally available materials like reinforced concrete or compacted clay",
+        "Secure the edges of the liner with heavy rocks or by burying them",
+        "Fill the pond partially with water to help shape the liner",
+        "Install a skimmer and bottom drain. Consider using locally available materials like bamboo or PVC pipes",
+        "Complete filling the pond with water, ideally using rainwater collected during Timor-Leste's wet season (November to May)",
+        "Allow the water to settle for at least 24 hours before adding fish",
+        "Plant native aquatic plants like Hydrilla or water hyacinth around the edges for natural filtration and shade",
+        "Consider adding a simple overflow system to manage excess water during heavy rains, common in Timor-Leste's wet season"
+      ]
+    },
+    "large": {
+      "instructions": [
+        "Choose a level area for your large pond (approximately 8m x 4m x 2m deep), considering Timor-Leste's tropical climate and potential for heavy rainfall",
+        "Ensure the site has some natural shade from trees like sandalwood or eucalyptus, which are native to Timor-Leste",
+        "Mark out the pond dimensions using stakes and string",
+        "Excavate the area to the required depth, ensuring sides slope slightly inward at a 20-30 degree angle",
+        "If possible, use local clay to line the bottom of the pond for natural sealing",
+        "Remove any sharp objects or roots that could puncture the liner",
+        "Add a layer of sand or old jute sacks (common in Timor-Leste) at the bottom for additional protection",
+        "Lay the pond liner, ensuring it's smooth and free of wrinkles. For large ponds in Timor-Leste, consider using reinforced concrete or a clay-based liner due to potential material shortages",
+        "Secure the edges of the liner with heavy rocks or by burying them",
+        "Fill the pond partially with water to help shape the liner",
+        "Install a robust skimmer and bottom drain system. Consider using locally available materials like bamboo or PVC pipes",
+        "Complete filling the pond with water, ideally using rainwater collected during Timor-Leste's wet season (November to May)",
+        "Allow the water to settle for at least 24 hours before adding fish",
+        "Plant a variety of native aquatic plants like Azolla and duckweed for natural filtration and shade",
+        "Implement a comprehensive overflow and drainage system to manage excess water during Timor-Leste's heavy rain seasons",
+        "Consider adding a small island or floating platform in the pond to provide additional habitat and shelter for fish"
+      ]
+    }
+  },
+  "filtration_system": {
+    "tilapia": [
+      "Choose a filtration system rated for at least 1.5 times your pond volume, considering Timor-Leste's warm climate which can accelerate biological processes",
+      "Install a mechanical filter to remove solid waste. In Timor-Leste, consider using locally available materials like graded sand and gravel for a simple yet effective filter",
+      "Set up a biological filter using bio-balls or other media. Coconut husks, abundant in Timor-Leste, can be an excellent alternative bio-media",
+      "If budget allows, install a UV sterilizer to control algae and pathogens, which can proliferate quickly in Timor-Leste's warm climate",
+      "Ensure proper aeration with air stones or diffusers. Consider using solar-powered air pumps to overcome potential electricity shortages",
+      "Set up a water pump to circulate water through the entire system. Look for energy-efficient models suitable for Timor-Leste's climate",
+      "Implement a simple swirl filter using a large barrel to remove suspended solids before the main filtration system",
+      "Consider adding a small constructed wetland with local plants like Canna or Heliconia for additional natural filtration"
+    ],
+    "catfish": [
+      "Choose a robust filtration system rated for 2 times your pond volume to handle the high waste production of catfish",
+      "Install a high-capacity mechanical filter. In Timor-Leste, consider using a series of gravel beds with locally sourced river rocks",
+      "Set up an oversized biological filter. Use a combination of bio-balls and locally available materials like coconut fiber or rice husks",
+      "Install multiple air stones or diffusers for high oxygenation. Solar-powered air pumps can be particularly useful in rural areas of Timor-Leste",
+      "Set up a powerful water pump for good circulation. Consider a backup hand-powered or bicycle-powered pump for areas with unreliable electricity",
+      "Implement a settling tank or baffle system to manage the high solid waste produced by catfish",
+      "Consider adding a denitrification chamber using local hardwoods like teak or mahogany as a carbon source",
+      "Incorporate water hyacinth or water lettuce as natural filters, which grow well in Timor-Leste's climate"
+    ],
+    "carp": [
+      "Choose a filtration system rated for 1.5 to 2 times your pond volume, suitable for carp's high waste production",
+      "Install a mechanical filter to handle high solid waste. Use a combination of fine mesh screens and locally sourced sand for effective filtration",
+      "Set up a large biological filter. Consider using a trickling filter design with locally available materials like coconut shells or bamboo rings as media",
+      "If budget allows, install a UV sterilizer to control algae and pathogens, which can be particularly problematic with carp in Timor-Leste's warm waters",
+      "Ensure strong aeration with multiple air stones or diffusers. Consider windmill-powered aeration for off-grid locations in Timor-Leste",
+      "Set up a variable speed pump for adjustable water flow. Look for models that can handle Timor-Leste's fluctuating power supply",
+      "Implement a simple drum filter using locally available materials for initial solid waste removal",
+      "Consider adding floating plants like Azolla, common in Timor-Leste, to help with nutrient uptake and provide shade"
+    ]
+  },
+  "grow_beds": {
+    "leafy": [
+      "Construct shallow beds 15-20 cm deep, suitable for leafy greens like water spinach (kangkung) which is popular in Timor-Leste",
+      "Use food-grade plastic containers or build with marine plywood. If these are scarce, consider using locally available bamboo or treated timber",
+      "Line wooden beds with pond liner to prevent leaks. Alternatively, use a clay-based liner if commercial liners are unavailable",
+      "Ensure beds are level and sturdy. In Timor-Leste's hilly terrain, pay extra attention to proper leveling",
+      "Install standpipes or bell siphons for flood and drain cycles. PVC pipes can be found in most hardware stores in Dili",
+      "Add support for shade cloth to protect delicate greens from Timor-Leste's intense sun. Consider using woven palm leaves as a natural alternative",
+      "Implement a simple rainwater harvesting system to supplement water during dry seasons",
+      "Consider vertical growing systems to maximize space, using locally available bamboo for support structures"
+    ],
+    "herbs": [
+      "Build medium-depth beds 20-30 cm deep, ideal for herbs like basil, mint, and cilantro which grow well in Timor-Leste's climate",
+      "Use sturdy containers or construct with treated lumber. Locally sourced teak or mahogany can be excellent choices",
+      "Line wooden beds with pond liner. If unavailable, use several layers of thick plastic sheeting",
+      "Ensure proper drainage with multiple standpipes. Use locally available bamboo as an eco-friendly alternative to PVC",
+      "Install adjustable overflow pipes for water level control. This is particularly important during Timor-Leste's heavy rain seasons",
+      "Add vertical supports for climbing herbs like basil. Bamboo trellises work well and are readily available",
+      "Incorporate natural pest control methods using local plants like marigolds or lemongrass",
+      "Consider creating micro-climates within the beds to suit different herbs, using rocks or small shade structures"
+    ],
+    "fruiting": [
+      "Construct deep beds 30-40 cm for extensive root systems, suitable for fruiting plants like tomatoes and peppers which are popular in Timorese cuisine",
+      "Use large, sturdy containers or build raised beds. In Timor-Leste, consider using reclaimed wood or locally quarried stone",
+      "Reinforce beds to handle the weight of mature plants. This is crucial in areas prone to earthquakes",
+      "Install robust plumbing for high water flow. Ensure systems can handle potential sediment from Timor-Leste's water sources",
+      "Add strong trellises or support structures for heavy fruits. Bamboo is an excellent, locally available material for this purpose",
+      "Ensure ample space between plants for growth, considering the rapid growth rates in Timor-Leste's tropical climate",
+      "Implement a crop rotation system to maintain soil health and manage pests common in the region",
+      "Consider incorporating traditional Timorese companion planting techniques to improve yields and naturally manage pests"
+    ]
+  },
+  "growing_medium": {
+    "gravel": [
+      "Choose pH-neutral river gravel or lava rock, size 10-20mm. Timor-Leste has abundant river gravel that can be locally sourced",
+      "Wash gravel thoroughly to remove dust and debris. Use rainwater if possible to conserve treated water",
+      "Fill beds to within 2-3 cm of the top. Be mindful of the bed's weight, especially in multi-level systems",
+      "Create a slight slope towards the drain for better water flow, crucial during heavy rains common in Timor-Leste",
+      "Add a layer of finer gravel on top for seed starting. Local crushed coral can also work well for this purpose",
+      "Consider mixing in some locally available volcanic rock to enhance mineral content",
+      "Implement a simple filtration system to clean and reuse water used for washing gravel"
+    ],
+    "coconut_coir": [
+      "Source coconut coir locally - Timor-Leste has an abundance of coconut palms",
+      "Rinse coir thoroughly to remove excess salts. This is crucial as Timorese coconut coir can be high in salts",
+      "Soak coir in pH-balanced water before use. Rainwater collected during wet seasons is ideal for this",
+      "Mix coir with a small amount of gravel or rice hulls (locally available) for improved drainage",
+      "Fill beds, leaving 2-3 cm at the top for water flow. This space is important during Timor-Leste's heavy rain seasons",
+      "Add a thin layer of gravel on top to prevent coir from floating. Local river pebbles work well",
+      "Consider adding some locally sourced worm castings to enrich the coir",
+      "Implement a system to repurpose used coir as mulch for other garden areas"
+    ],
+    "clay_pebbles": [
+      "If clay pebbles are not readily available in Timor-Leste, consider making your own using local clay",
+      "To make clay pebbles: form local clay into small balls and fire them in a kiln or traditional earth oven",
+      "Rinse clay pebbles to remove dust",
+      "Soak pebbles in pH-balanced water for 24 hours before use. Use collected rainwater if possible",
+      "Fill beds to within 2-3 cm of the top",
+      "Consider mixing with a small amount of locally sourced volcanic rock for added minerals",
+      "Add a thin layer of finer media on top for seed starting. Crushed rice hulls can work well",
+      "Implement a rotation system to periodically clean and sterilize clay pebbles using solar heating methods"
+    ]
+  },
+  "plumbing": [
+    "Design a plumbing system with minimal bends and joints to suit Timor-Leste's sometimes limited plumbing supplies",
+    "Use PVC pipes rated for continuous water exposure and UV resistance, important in Timor-Leste's strong sunlight",
+    "Install valves at key points for flow control and maintenance. Consider using locally crafted bamboo valves as an eco-friendly alternative",
+    "Ensure proper slope for drainage pipes (1cm drop per 1m length) to prevent issues during heavy rains",
+    "Use uniseals or bulkhead fittings for watertight connections. If unavailable, local rubber from tire inner tubes can be fashioned into gaskets",
+    "Install cleanouts at pipe ends for easy maintenance, crucial for managing debris during Timor-Leste's windy seasons",
+    "Consider using bamboo pipes for some sections of the system as a sustainable, locally-sourced alternative",
+    "Implement a simple filtration system at water intakes to manage sediment common in Timor-Leste's water sources",
+    "Design the system with future expansion in mind, considering the growing interest in aquaponics in Timor-Leste"
+  ],
+  "power_system": {
+    "grid": [
+      "Install a dedicated circuit for the aquaponics system, considering Timor-Leste's sometimes unstable grid",
+      "Use weatherproof GFCI outlets for all connections to handle high humidity and occasional flooding",
+      "Set up a control panel with timers and switches. Ensure it's in a waterproof enclosure to protect from heavy rains",
+      "Install a backup battery system for critical components to manage frequent power outages",
+      "Use energy-efficient pumps and lighting to reduce strain on the limited electrical infrastructure",
+      "Implement a surge protector to safeguard equipment from voltage fluctuations common in Timor-Leste",
+      "Consider a small generator as an additional backup, particularly during the wet season when outages are more frequent",
+      "Train local community members in basic electrical safety and maintenance to ensure system longevity"
+    ],
+    "solar": [
+      "Calculate total system power requirements, factoring in Timor-Leste's ample sunlight hours",
+      "Size solar panels to meet 120% of daily energy needs, allowing for less efficient days during the rainy season",
+      "Install panels at optimal angle and orientation, considering Timor-Leste's latitude (around 9°S)",
+      "Set up a charge controller to manage battery charging, crucial for protecting batteries in Timor-Leste's hot climate",
+      "Use deep-cycle batteries sized for 3 days of autonomy to account for consecutive cloudy days during the wet season",
+      "Install an inverter to convert DC to AC power, ensuring it's rated for the high temperatures common in Timor-Leste",
+      "Implement a rainwater cleaning system for solar panels to maintain efficiency during dusty dry seasons",
+      "Consider adding a small wind turbine to complement solar power, especially useful in coastal areas of Timor-Leste",
+      "Train local technicians in solar system maintenance to ensure long-term sustainability of the project"
+    ],
+    "offgrid": [
+      "Design a comprehensive off-grid power system suitable for remote areas of Timor-Leste",
+      "Combine solar panels with a backup generator, preferably running on locally available biofuels",
+      "Install a large battery bank for energy storage, protected from Timor-Leste's high humidity and heat",
+      "Use a hybrid inverter/charger for system management, capable of handling variable inputs",
+      "Implement energy-efficient pumps and equipment to minimize power requirements",
+      "Set up a monitoring system to track power usage and generation, useful for system optimization",
+      "Consider incorporating micro-hydro power if near suitable water sources, common in Timor-Leste's mountainous regions",
+      "Implement a community training program for system operation and basic maintenance",
+      "Design the system with potential for future expansion as the community's needs grow"
+    ],
+    "manual": [
+      "Design system for minimal power requirements, suitable for remote areas of Timor-Leste",
+      "Install hand pumps for water circulation, using locally available materials where possible",
+      "Set up bicycle-powered generators for occasional power needs, engaging community participation",
+      "Use gravity-fed systems where possible, taking advantage of Timor-Leste's hilly terrain",
+      "Implement manual aeration techniques like paddlewheels or see-saw pumps, which can be community-operated",
+      "Design grow beds for easy manual flooding and draining, considering ergonomics for long-term use",
+      "Incorporate traditional Timorese water management techniques into the system design",
+      "Set up a rainwater harvesting system to reduce manual water transport needs",
+      "Create a community schedule for system operation to share labor and ensure consistent care"
+    ],
+    "wind": [
+      "Assess average wind speeds in your area, particularly in coastal regions of Timor-Leste",
+      "Choose an appropriate wind turbine size, considering both wind resource and community needs",
+      "Install the wind turbine on a tall, sturdy tower, ensuring it's built to withstand occasional tropical storms",
+      "Set up a charge controller specifically designed for wind power to manage variable inputs",
+      "Use deep-cycle batteries for energy storage, housed in a well-ventilated, dry location",
+      "Install an inverter to convert DC to AC power, sized appropriately for the system",
+      "Implement a hybrid system with solar for consistent power, ideal for Timor-Leste's climate",
+      "Ensure proper grounding and lightning protection, crucial in storm-prone areas",
+      "Develop a maintenance plan that includes corrosion prevention for salty coastal environments"
+    ]
+  },
+  "fish_introduction": [
+    "Cycle the system for 4-6 weeks before adding fish, using locally sourced beneficial bacteria if available",
+    "Start with a small number of fish (1 per 20 liters for small fingerlings), sourcing from local Timorese hatcheries if possible",
+    "Consider hardy local species like Nile tilapia or Java carp, well-suited to Timor-Leste's climate",
+    "Acclimatize fish slowly by floating bags in the pond, crucial in Timor-Leste's warm waters to prevent temperature shock",
+    "Introduce fish during the cooler part of the day, typically early morning in Timor-Leste",
+    "Monitor water quality closely for the first few weeks, paying special attention to ammonia levels",
+    "Gradually increase feeding as the biofilter establishes, using locally sourced fish feed if available",
+    "Implement a quarantine system for new fish to prevent introduction of diseases to the main system",
+    "Consider integrating traditional Timorese fish-keeping knowledge into your management practices"
+  ],
+  "planting": [
+    "Start seeds in seedling trays with a sterile growing medium, using local coconut coir if available",
+    "Choose vegetable varieties well-suited to Timor-Leste's climate, such as water spinach, cucumber, and tomatoes",
+    "Transplant seedlings when they have 2-3 true leaves, typically earlier than in temperate climates due to rapid growth",
+    "Plant densely for leafy greens, spaced for herbs and fruiting plants, adjusting for Timor-Leste's intense sunlight",
+    "Use net pots or rafts for smaller plants in deep water culture, which can be made from locally available materials",
+    "Support larger plants with trellises or stakes, potentially using bamboo which is abundant in Timor-Leste",
+    "Implement crop rotation to maintain nutrient balance and manage pests common in tropical climates",
+    "Incorporate traditional Timorese companion planting techniques to improve yields and naturally manage pests",
+    "Consider adding floating plants like Azolla or duckweed to help shade the water and uptake excess nutrients"
+  ],
+  "water_quality_management": [
+    "Test water parameters (pH, ammonia, nitrite, nitrate) at least weekly, accounting for rapid nutrient cycling in Timor-Leste's warm climate",
+    "Maintain pH between 6.8-7.2 for most systems, using crushed coral (abundant in Timor-Leste) to buffer if needed",
+    "Keep ammonia and nitrite levels below 1 ppm, crucial in warm waters where toxicity can increase",
+    "Manage nitrate levels through plant uptake and partial water changes, using harvested rainwater when possible",
+    "Monitor dissolved oxygen levels, keeping above 5 ppm, especially important in Timor-Leste's warm waters",
+    "Adjust system based on test results (e.g., add buffer for pH), using locally available materials when possible",
+    "Implement shade solutions to keep water temperature stable, particularly during Timor-Leste's hot dry season",
+    "Consider using local plants known for their water-purifying properties as part of the filtration system",
+    "Develop a water conservation strategy to manage the system during Timor-Leste's dry seasons"
+  ]
+}
