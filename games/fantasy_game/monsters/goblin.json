@@ -5,8 +5,17 @@
   "max_health": 50,
   "attack": 10,
   "defense": 5,
-  "speed": 2,
+  "speed": 25,
   "experience_points": 25,
+  "movement_speed": 25,
+  "attributes": {
+    "Strength": 8,
+    "Dexterity": 14,
+    "Constitution": 10,
+    "Intelligence": 6,
+    "Wisdom": 8,
+    "Charisma": 6
+  },
   "abilities": [
     {
       "name": "Slash",
