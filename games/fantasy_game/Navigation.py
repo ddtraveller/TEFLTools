@@ -33,17 +33,18 @@ def load_locations(file_path):
 
 def get_nearby_locations(locations, current_location, movement_speed):
     """
-    Get nearby locations within the movement speed range
+    Get nearby locations within the movement speed range, excluding the current location
     """
     nearby_locations = []
     
     for _, location in locations.iterrows():
-        distance = haversine(current_location['latitude'], current_location['longitude'],
-                             location['latitude'], location['longitude'],
-                             current_location['elevation'], location['elevation'])
-        
-        if distance <= movement_speed:
-            nearby_locations.append(location)
+        if location['name'] != current_location['name']:  # This condition should work now
+            distance = haversine(current_location['latitude'], current_location['longitude'],
+                                 location['latitude'], location['longitude'],
+                                 current_location['elevation'], location['elevation'])
+            
+            if distance <= movement_speed:
+                nearby_locations.append(location)
     
     return nearby_locations
 

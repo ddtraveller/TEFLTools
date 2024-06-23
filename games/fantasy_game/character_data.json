@@ -1,27 +1,27 @@
 {
-    "class": "Ranger",
+    "class": "Paladin",
     "element": "Water",
-    "archetype": "Hunter",
+    "archetype": "Oath of Vengeance",
     "attributes": {
-        "Strength": 16,
-        "Dexterity": 13,
-        "Constitution": 9,
-        "Intelligence": 16,
-        "Wisdom": 15,
+        "Strength": 14,
+        "Dexterity": 14,
+        "Constitution": 17,
+        "Intelligence": 11,
+        "Wisdom": 17,
         "Charisma": 13
     },
-    "main_weapon": "Longbow",
+    "main_weapon": "Warhammer",
     "equipment": [
-        "Longbow",
-        "Torches (10)",
-        "Backpack",
-        "Rations (1 week)"
+        "Warhammer",
+        "Rope (50 feet)",
+        "Rations (1 week)",
+        "Tinderbox"
     ],
     "spells": [],
-    "background_story": "A Water attuned Hunter Ranger with a mysterious past...",
-    "movement_speed": 30,
-    "hit_points": 9,
-    "max_hit_points": 9,
+    "background_story": "A Water attuned Oath of Vengeance Paladin with a mysterious past...",
+    "movement_speed": 31,
+    "hit_points": 13,
+    "max_hit_points": 13,
     "purchased_items": [],
-    "remaining_money": 73
+    "remaining_money": 345
 }

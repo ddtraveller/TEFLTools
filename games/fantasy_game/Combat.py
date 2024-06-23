@@ -51,7 +51,7 @@ def player_turn(character_data, monster_data):
     action = get_user_choice(["Attack", "Defend", "Spell", "Run"])
     if action == 0:
         # Character attacks
-        damage = 5  # Default damage
+        damage = character_data['attributes'].get('damage', 5)  # Default damage to 5 if not present
         monster_data['health'] -= damage
         print(f"You attack the {monster_data['name']} and deal {damage} damage!")
     elif action == 1:

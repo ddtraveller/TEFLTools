@@ -1,0 +1,29 @@
+{
+  "locations": [
+    {"name": "Celestial Peaks of Ramelau", "latitude": -8.8607, "longitude": 125.5286, "elevation": 2986},
+    {"name": "Enchanted Forests of Lautém", "latitude": -8.3639, "longitude": 126.9714, "elevation": 497},
+    {"name": "Whispering Caves of Baucau", "latitude": -8.4714, "longitude": 126.4589, "elevation": 375},
+    {"name": "Shimmering Shores of Jaco Island", "latitude": -8.4385, "longitude": 127.3384, "elevation": 0},
+    {"name": "Emerald Terraces of Bobonaro", "latitude": -8.9667, "longitude": 125.2667, "elevation": 882},
+    {"name": "Ethereal Springs of Marobo", "latitude": -8.9253, "longitude": 125.3214, "elevation": 412},
+    {"name": "Misty Marshes of Covalima", "latitude": -9.0244, "longitude": 125.2811, "elevation": 276},
+    {"name": "Whispering Woodlands of Viqueque", "latitude": -8.8583, "longitude": 126.3639, "elevation": 68},
+    {"name": "Radiant Ruins of Maubisse", "latitude": -8.8681, "longitude": 125.5989, "elevation": 1432},
+    {"name": "Thundering Falls of Bandeira", "latitude": -8.7306, "longitude": 125.5639, "elevation": 1292},
+    {"name": "Whispering Winds of Venilale", "latitude": -8.6433, "longitude": 126.3733, "elevation": 746},
+    {"name": "Shimmering Sands of Com", "latitude": -8.3600, "longitude": 126.6567, "elevation": 0},
+    {"name": "Misty Peaks of Matebian", "latitude": -8.7365, "longitude": 126.3706, "elevation": 2316},
+    {"name": "Echoing Caverns of Lautém", "latitude": -8.4114, "longitude": 126.9144, "elevation": 612},
+    {"name": "Enchanted Groves of Ermera", "latitude": -8.7514, "longitude": 125.3889, "elevation": 1192},
+    {"name": "Whispering Canyons of Manatuto", "latitude": -8.5267, "longitude": 126.0067, "elevation": 38},
+    {"name": "Radiant Pools of Liquiçá", "latitude": -8.5972, "longitude": 125.3325, "elevation": 142},
+    {"name": "Whispering Willows of Ainaro", "latitude": -9.0006, "longitude": 125.5175, "elevation": 1027},
+    {"name": "Shimmering Springs of Baucau", "latitude": -8.4486, "longitude": 126.5867, "elevation": 336},
+    {"name": "Misty Moors of Manufahi", "latitude": -8.9897, "longitude": 125.8286, "elevation": 451},
+    {"name": "Ethereal Falls of Ataúro", "latitude": -8.2629, "longitude": 125.5761, "elevation": 0},
+    {"name": "Whispering Wetlands of Lospalos", "latitude": -8.5317, "longitude": 126.9939, "elevation": 27},
+    {"name": "Radiant Reefs of Bikeli", "latitude": -8.1479, "longitude": 126.3817, "elevation": 0},
+    {"name": "Misty Mangroves of Metinaro", "latitude": -8.5433, "longitude": 125.7733, "elevation": 5},
+    {"name": "Whispering Winds of Baguia", "latitude": -8.7996, "longitude": 126.6591, "elevation": 517}
+  ]
+}

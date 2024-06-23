@@ -1,0 +1,2269 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5e38bc56c2086e70c48c8cdcb25983cd {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_5e38bc56c2086e70c48c8cdcb25983cd" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_5e38bc56c2086e70c48c8cdcb25983cd = L.map(
+                "map_5e38bc56c2086e70c48c8cdcb25983cd",
+                {
+                    center: [-8.8742, 125.7275],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 9,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_930294e350650bb6cd9977f8d8d1e739 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 20, "maxZoom": 20, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abcd", "tms": false}
+            );
+        
+    
+            tile_layer_930294e350650bb6cd9977f8d8d1e739.addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+
+        function geo_json_14bee42e3b56225d8d13c7137f68d109_onEachFeature(feature, layer) {
+            layer.on({
+            });
+        };
+        var geo_json_14bee42e3b56225d8d13c7137f68d109 = L.geoJson(null, {
+                onEachFeature: geo_json_14bee42e3b56225d8d13c7137f68d109_onEachFeature,
+            
+        });
+
+        function geo_json_14bee42e3b56225d8d13c7137f68d109_add (data) {
+            geo_json_14bee42e3b56225d8d13c7137f68d109
+                .addData(data);
+        }
+            geo_json_14bee42e3b56225d8d13c7137f68d109_add({"bbox": [124.96868248911623, -9.393173109579294, 127.33592817597463, -8.273344821814398], "features": [{"bbox": [124.96868248911623, -9.393173109579294, 127.33592817597463, -8.273344821814398], "geometry": {"coordinates": [[[124.96868248911623, -8.892790215697083], [125.08624637258026, -8.65688730228468], [125.94707238169826, -8.432094821815035], [126.64470421763855, -8.398246758663852], [126.95724328013983, -8.273344821814398], [127.33592817597463, -8.397316582882603], [126.96799197805655, -8.668256117388893], [125.9258850444586, -9.106007175333353], [125.08852013560109, -9.393173109579294], [125.07001997284061, -9.089987481322872], [124.96868248911623, -8.892790215697083]]], "type": "Polygon"}, "id": "24", "properties": {}, "type": "Feature"}], "type": "FeatureCollection"});
+        geo_json_14bee42e3b56225d8d13c7137f68d109.setStyle(function(feature) {return feature.properties.style;});
+
+        
+    
+            geo_json_14bee42e3b56225d8d13c7137f68d109.addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+            var circle_marker_3350b623e53636f09c11885b818bbdb3 = L.circleMarker(
+                [-8.8607, 125.5286],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_2b7f938a109bcef0caa8599c48680fb5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6506718080828b5f6a6e33480a0f6b8c = $(`<div id="html_6506718080828b5f6a6e33480a0f6b8c" style="width: 100.0%; height: 100.0%;">Celestial Peaks of Ramelau<br>Elevation: 2986m</div>`)[0];
+                popup_2b7f938a109bcef0caa8599c48680fb5.setContent(html_6506718080828b5f6a6e33480a0f6b8c);
+            
+        
+
+        circle_marker_3350b623e53636f09c11885b818bbdb3.bindPopup(popup_2b7f938a109bcef0caa8599c48680fb5)
+        ;
+
+        
+    
+    
+            circle_marker_3350b623e53636f09c11885b818bbdb3.bindTooltip(
+                `<div>
+                     Celestial Peaks of Ramelau
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e153c75c9ef3b049661be11e860f7653 = L.circleMarker(
+                [-8.3639, 126.9714],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_f22cb762ee011a36e81dc509f8e8585e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3db40f2b40a1be8e9edcb9c288c36917 = $(`<div id="html_3db40f2b40a1be8e9edcb9c288c36917" style="width: 100.0%; height: 100.0%;">Enchanted Forests of Lautém<br>Elevation: 497m</div>`)[0];
+                popup_f22cb762ee011a36e81dc509f8e8585e.setContent(html_3db40f2b40a1be8e9edcb9c288c36917);
+            
+        
+
+        circle_marker_e153c75c9ef3b049661be11e860f7653.bindPopup(popup_f22cb762ee011a36e81dc509f8e8585e)
+        ;
+
+        
+    
+    
+            circle_marker_e153c75c9ef3b049661be11e860f7653.bindTooltip(
+                `<div>
+                     Enchanted Forests of Lautém
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b095a49eb8393e5fbfa19a07a7be1f03 = L.circleMarker(
+                [-8.4714, 126.4589],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_8549f8a4a29a68827950dd30c08db99f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3aa1d2b5fa1cc1168f058118fa6eb112 = $(`<div id="html_3aa1d2b5fa1cc1168f058118fa6eb112" style="width: 100.0%; height: 100.0%;">Whispering Caves of Baucau<br>Elevation: 375m</div>`)[0];
+                popup_8549f8a4a29a68827950dd30c08db99f.setContent(html_3aa1d2b5fa1cc1168f058118fa6eb112);
+            
+        
+
+        circle_marker_b095a49eb8393e5fbfa19a07a7be1f03.bindPopup(popup_8549f8a4a29a68827950dd30c08db99f)
+        ;
+
+        
+    
+    
+            circle_marker_b095a49eb8393e5fbfa19a07a7be1f03.bindTooltip(
+                `<div>
+                     Whispering Caves of Baucau
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_208a8b9403c783ae1967817c8dc62c47 = L.circleMarker(
+                [-8.4385, 127.3384],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_0c7a77ae76402c74548d862a8fd47079 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_782d5451c658dace42ff7fdfca4fddc6 = $(`<div id="html_782d5451c658dace42ff7fdfca4fddc6" style="width: 100.0%; height: 100.0%;">Shimmering Shores of Jaco Island<br>Elevation: 0m</div>`)[0];
+                popup_0c7a77ae76402c74548d862a8fd47079.setContent(html_782d5451c658dace42ff7fdfca4fddc6);
+            
+        
+
+        circle_marker_208a8b9403c783ae1967817c8dc62c47.bindPopup(popup_0c7a77ae76402c74548d862a8fd47079)
+        ;
+
+        
+    
+    
+            circle_marker_208a8b9403c783ae1967817c8dc62c47.bindTooltip(
+                `<div>
+                     Shimmering Shores of Jaco Island
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9015453e9f041389777e3a0530919096 = L.circleMarker(
+                [-8.9667, 125.2667],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_932b2ad021fb8b0bba05547b981afb69 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c6b61de9e4eb8b9a6bb72b2f5e26ba96 = $(`<div id="html_c6b61de9e4eb8b9a6bb72b2f5e26ba96" style="width: 100.0%; height: 100.0%;">Emerald Terraces of Bobonaro<br>Elevation: 882m</div>`)[0];
+                popup_932b2ad021fb8b0bba05547b981afb69.setContent(html_c6b61de9e4eb8b9a6bb72b2f5e26ba96);
+            
+        
+
+        circle_marker_9015453e9f041389777e3a0530919096.bindPopup(popup_932b2ad021fb8b0bba05547b981afb69)
+        ;
+
+        
+    
+    
+            circle_marker_9015453e9f041389777e3a0530919096.bindTooltip(
+                `<div>
+                     Emerald Terraces of Bobonaro
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4a2f7b65ae1c4f418ea5f41024a308a4 = L.circleMarker(
+                [-8.9253, 125.3214],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_8d81c1f3d46d8249e5b67f9e400b78c5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ccfd44802728d7fa7f7b302e9dde5732 = $(`<div id="html_ccfd44802728d7fa7f7b302e9dde5732" style="width: 100.0%; height: 100.0%;">Ethereal Springs of Marobo<br>Elevation: 412m</div>`)[0];
+                popup_8d81c1f3d46d8249e5b67f9e400b78c5.setContent(html_ccfd44802728d7fa7f7b302e9dde5732);
+            
+        
+
+        circle_marker_4a2f7b65ae1c4f418ea5f41024a308a4.bindPopup(popup_8d81c1f3d46d8249e5b67f9e400b78c5)
+        ;
+
+        
+    
+    
+            circle_marker_4a2f7b65ae1c4f418ea5f41024a308a4.bindTooltip(
+                `<div>
+                     Ethereal Springs of Marobo
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_73ce9ded49f8ce403cafd5dcddddde74 = L.circleMarker(
+                [-9.0244, 125.2811],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_8d885307b4cbfd7bb333024736d4d798 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_086c9edc636d56efedc5d6670d5e14ea = $(`<div id="html_086c9edc636d56efedc5d6670d5e14ea" style="width: 100.0%; height: 100.0%;">Misty Marshes of Covalima<br>Elevation: 276m</div>`)[0];
+                popup_8d885307b4cbfd7bb333024736d4d798.setContent(html_086c9edc636d56efedc5d6670d5e14ea);
+            
+        
+
+        circle_marker_73ce9ded49f8ce403cafd5dcddddde74.bindPopup(popup_8d885307b4cbfd7bb333024736d4d798)
+        ;
+
+        
+    
+    
+            circle_marker_73ce9ded49f8ce403cafd5dcddddde74.bindTooltip(
+                `<div>
+                     Misty Marshes of Covalima
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_59e768c6c0f9997f620e4fa8da52a62b = L.circleMarker(
+                [-8.8583, 126.3639],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_63fcc2417bf7cd0c69080cb3972089e9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ea9a3dbced86b8a54bc64c90e5bb7004 = $(`<div id="html_ea9a3dbced86b8a54bc64c90e5bb7004" style="width: 100.0%; height: 100.0%;">Whispering Woodlands of Viqueque<br>Elevation: 68m</div>`)[0];
+                popup_63fcc2417bf7cd0c69080cb3972089e9.setContent(html_ea9a3dbced86b8a54bc64c90e5bb7004);
+            
+        
+
+        circle_marker_59e768c6c0f9997f620e4fa8da52a62b.bindPopup(popup_63fcc2417bf7cd0c69080cb3972089e9)
+        ;
+
+        
+    
+    
+            circle_marker_59e768c6c0f9997f620e4fa8da52a62b.bindTooltip(
+                `<div>
+                     Whispering Woodlands of Viqueque
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_328535d08f88b58875b9d26ff95cb698 = L.circleMarker(
+                [-8.8681, 125.5989],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_0a3425eb09141be166ccfb4a0fca9350 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f451c0207a0f86d456cd7eb1ff453877 = $(`<div id="html_f451c0207a0f86d456cd7eb1ff453877" style="width: 100.0%; height: 100.0%;">Radiant Ruins of Maubisse<br>Elevation: 1432m</div>`)[0];
+                popup_0a3425eb09141be166ccfb4a0fca9350.setContent(html_f451c0207a0f86d456cd7eb1ff453877);
+            
+        
+
+        circle_marker_328535d08f88b58875b9d26ff95cb698.bindPopup(popup_0a3425eb09141be166ccfb4a0fca9350)
+        ;
+
+        
+    
+    
+            circle_marker_328535d08f88b58875b9d26ff95cb698.bindTooltip(
+                `<div>
+                     Radiant Ruins of Maubisse
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_dd973df9a8de5421247904cc5ec6bb3a = L.circleMarker(
+                [-8.7306, 125.5639],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_dfef8b6f68d229b23f221bc37240f1bd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0c2f94c93e51b9f7242df4efd956204f = $(`<div id="html_0c2f94c93e51b9f7242df4efd956204f" style="width: 100.0%; height: 100.0%;">Thundering Falls of Bandeira<br>Elevation: 1292m</div>`)[0];
+                popup_dfef8b6f68d229b23f221bc37240f1bd.setContent(html_0c2f94c93e51b9f7242df4efd956204f);
+            
+        
+
+        circle_marker_dd973df9a8de5421247904cc5ec6bb3a.bindPopup(popup_dfef8b6f68d229b23f221bc37240f1bd)
+        ;
+
+        
+    
+    
+            circle_marker_dd973df9a8de5421247904cc5ec6bb3a.bindTooltip(
+                `<div>
+                     Thundering Falls of Bandeira
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_95ea859a96a755776769be29797f37b7 = L.circleMarker(
+                [-8.6433, 126.3733],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_f5eefe00497041b7c7c9e33895abee65 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d57bf36dabaa04162a318815fd537b7e = $(`<div id="html_d57bf36dabaa04162a318815fd537b7e" style="width: 100.0%; height: 100.0%;">Whispering Winds of Venilale<br>Elevation: 746m</div>`)[0];
+                popup_f5eefe00497041b7c7c9e33895abee65.setContent(html_d57bf36dabaa04162a318815fd537b7e);
+            
+        
+
+        circle_marker_95ea859a96a755776769be29797f37b7.bindPopup(popup_f5eefe00497041b7c7c9e33895abee65)
+        ;
+
+        
+    
+    
+            circle_marker_95ea859a96a755776769be29797f37b7.bindTooltip(
+                `<div>
+                     Whispering Winds of Venilale
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_8da66fbd337fe6bf5c23d6f46242ba97 = L.circleMarker(
+                [-8.36, 126.6567],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_7d431de394172658a64ff639b386e18d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2ce8c08ebcab4df6b32ca4dbc4b746c7 = $(`<div id="html_2ce8c08ebcab4df6b32ca4dbc4b746c7" style="width: 100.0%; height: 100.0%;">Shimmering Sands of Com<br>Elevation: 0m</div>`)[0];
+                popup_7d431de394172658a64ff639b386e18d.setContent(html_2ce8c08ebcab4df6b32ca4dbc4b746c7);
+            
+        
+
+        circle_marker_8da66fbd337fe6bf5c23d6f46242ba97.bindPopup(popup_7d431de394172658a64ff639b386e18d)
+        ;
+
+        
+    
+    
+            circle_marker_8da66fbd337fe6bf5c23d6f46242ba97.bindTooltip(
+                `<div>
+                     Shimmering Sands of Com
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_fe86b64e5319e806bbc9b798e2fc242a = L.circleMarker(
+                [-8.7365, 126.3706],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_f78174e4e69384cbe2fd91c286296feb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_af26ddc4721d913de3a5977236739873 = $(`<div id="html_af26ddc4721d913de3a5977236739873" style="width: 100.0%; height: 100.0%;">Misty Peaks of Matebian<br>Elevation: 2316m</div>`)[0];
+                popup_f78174e4e69384cbe2fd91c286296feb.setContent(html_af26ddc4721d913de3a5977236739873);
+            
+        
+
+        circle_marker_fe86b64e5319e806bbc9b798e2fc242a.bindPopup(popup_f78174e4e69384cbe2fd91c286296feb)
+        ;
+
+        
+    
+    
+            circle_marker_fe86b64e5319e806bbc9b798e2fc242a.bindTooltip(
+                `<div>
+                     Misty Peaks of Matebian
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3b310547804b33f79db57f055e45015c = L.circleMarker(
+                [-8.4114, 126.9144],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_b088c74d9f6a8fa6c0fef8472f793961 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ea69fc0a8187f261d5590ebe12f2e3e1 = $(`<div id="html_ea69fc0a8187f261d5590ebe12f2e3e1" style="width: 100.0%; height: 100.0%;">Echoing Caverns of Lautém<br>Elevation: 612m</div>`)[0];
+                popup_b088c74d9f6a8fa6c0fef8472f793961.setContent(html_ea69fc0a8187f261d5590ebe12f2e3e1);
+            
+        
+
+        circle_marker_3b310547804b33f79db57f055e45015c.bindPopup(popup_b088c74d9f6a8fa6c0fef8472f793961)
+        ;
+
+        
+    
+    
+            circle_marker_3b310547804b33f79db57f055e45015c.bindTooltip(
+                `<div>
+                     Echoing Caverns of Lautém
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4057368439621c00894643152d721e4c = L.circleMarker(
+                [-8.7514, 125.3889],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_1cbe91bfeef95b34a532c5b563106a37 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_411361da994575304ca4a08361367e23 = $(`<div id="html_411361da994575304ca4a08361367e23" style="width: 100.0%; height: 100.0%;">Enchanted Groves of Ermera<br>Elevation: 1192m</div>`)[0];
+                popup_1cbe91bfeef95b34a532c5b563106a37.setContent(html_411361da994575304ca4a08361367e23);
+            
+        
+
+        circle_marker_4057368439621c00894643152d721e4c.bindPopup(popup_1cbe91bfeef95b34a532c5b563106a37)
+        ;
+
+        
+    
+    
+            circle_marker_4057368439621c00894643152d721e4c.bindTooltip(
+                `<div>
+                     Enchanted Groves of Ermera
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_bcc08b5d1eda92ded2b2f603a1d36218 = L.circleMarker(
+                [-8.5267, 126.0067],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_adbbff34a0db922b4d5c709a28700c6d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_827abc6ea7baa79aae16a2288a084c02 = $(`<div id="html_827abc6ea7baa79aae16a2288a084c02" style="width: 100.0%; height: 100.0%;">Whispering Canyons of Manatuto<br>Elevation: 38m</div>`)[0];
+                popup_adbbff34a0db922b4d5c709a28700c6d.setContent(html_827abc6ea7baa79aae16a2288a084c02);
+            
+        
+
+        circle_marker_bcc08b5d1eda92ded2b2f603a1d36218.bindPopup(popup_adbbff34a0db922b4d5c709a28700c6d)
+        ;
+
+        
+    
+    
+            circle_marker_bcc08b5d1eda92ded2b2f603a1d36218.bindTooltip(
+                `<div>
+                     Whispering Canyons of Manatuto
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ec28f5e12d81f0f81e35b70c1d9ea7f2 = L.circleMarker(
+                [-8.5972, 125.3325],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_a18c061883d993761b39675940350d1e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_53d89af8630cfd6b32c796442958b11b = $(`<div id="html_53d89af8630cfd6b32c796442958b11b" style="width: 100.0%; height: 100.0%;">Radiant Pools of Liquiçá<br>Elevation: 142m</div>`)[0];
+                popup_a18c061883d993761b39675940350d1e.setContent(html_53d89af8630cfd6b32c796442958b11b);
+            
+        
+
+        circle_marker_ec28f5e12d81f0f81e35b70c1d9ea7f2.bindPopup(popup_a18c061883d993761b39675940350d1e)
+        ;
+
+        
+    
+    
+            circle_marker_ec28f5e12d81f0f81e35b70c1d9ea7f2.bindTooltip(
+                `<div>
+                     Radiant Pools of Liquiçá
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f771ee01d7d5d8d60769b0b3ee57c94a = L.circleMarker(
+                [-9.0006, 125.5175],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_4d06c750b67422cba2a351df0d33a7fc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5d81e6e9e989e5adafad9f893be59412 = $(`<div id="html_5d81e6e9e989e5adafad9f893be59412" style="width: 100.0%; height: 100.0%;">Whispering Willows of Ainaro<br>Elevation: 1027m</div>`)[0];
+                popup_4d06c750b67422cba2a351df0d33a7fc.setContent(html_5d81e6e9e989e5adafad9f893be59412);
+            
+        
+
+        circle_marker_f771ee01d7d5d8d60769b0b3ee57c94a.bindPopup(popup_4d06c750b67422cba2a351df0d33a7fc)
+        ;
+
+        
+    
+    
+            circle_marker_f771ee01d7d5d8d60769b0b3ee57c94a.bindTooltip(
+                `<div>
+                     Whispering Willows of Ainaro
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_192427406cadabe593acbb3374b7f5dc = L.circleMarker(
+                [-8.4486, 126.5867],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_09e00b461950d2514affe61b5f4fca24 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fdefaea0ebc11f5f2c25629cfe087c19 = $(`<div id="html_fdefaea0ebc11f5f2c25629cfe087c19" style="width: 100.0%; height: 100.0%;">Shimmering Springs of Baucau<br>Elevation: 336m</div>`)[0];
+                popup_09e00b461950d2514affe61b5f4fca24.setContent(html_fdefaea0ebc11f5f2c25629cfe087c19);
+            
+        
+
+        circle_marker_192427406cadabe593acbb3374b7f5dc.bindPopup(popup_09e00b461950d2514affe61b5f4fca24)
+        ;
+
+        
+    
+    
+            circle_marker_192427406cadabe593acbb3374b7f5dc.bindTooltip(
+                `<div>
+                     Shimmering Springs of Baucau
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_eece3e57b5e24c7e04caa03a4f5319d7 = L.circleMarker(
+                [-8.9897, 125.8286],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_273110fc0bcf566a95900d613b622823 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0e9ff9e62bf46b5ef6c79bcfde791b86 = $(`<div id="html_0e9ff9e62bf46b5ef6c79bcfde791b86" style="width: 100.0%; height: 100.0%;">Misty Moors of Manufahi<br>Elevation: 451m</div>`)[0];
+                popup_273110fc0bcf566a95900d613b622823.setContent(html_0e9ff9e62bf46b5ef6c79bcfde791b86);
+            
+        
+
+        circle_marker_eece3e57b5e24c7e04caa03a4f5319d7.bindPopup(popup_273110fc0bcf566a95900d613b622823)
+        ;
+
+        
+    
+    
+            circle_marker_eece3e57b5e24c7e04caa03a4f5319d7.bindTooltip(
+                `<div>
+                     Misty Moors of Manufahi
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_082692a0d63df9f24afd2cb42c309200 = L.circleMarker(
+                [-8.2629, 125.5761],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_828dc7bd9fb020dfa6e1eb63256638e1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f74c72ec1cd94f43952c5d65a366d61d = $(`<div id="html_f74c72ec1cd94f43952c5d65a366d61d" style="width: 100.0%; height: 100.0%;">Ethereal Falls of Ataúro<br>Elevation: 0m</div>`)[0];
+                popup_828dc7bd9fb020dfa6e1eb63256638e1.setContent(html_f74c72ec1cd94f43952c5d65a366d61d);
+            
+        
+
+        circle_marker_082692a0d63df9f24afd2cb42c309200.bindPopup(popup_828dc7bd9fb020dfa6e1eb63256638e1)
+        ;
+
+        
+    
+    
+            circle_marker_082692a0d63df9f24afd2cb42c309200.bindTooltip(
+                `<div>
+                     Ethereal Falls of Ataúro
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3050d2dd1105930387420b6b813e44c3 = L.circleMarker(
+                [-8.5317, 126.9939],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_e30a4cea7ca3869627c480b1e4c355f9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6eaa0c16b7c187310574b865c9eb9dbd = $(`<div id="html_6eaa0c16b7c187310574b865c9eb9dbd" style="width: 100.0%; height: 100.0%;">Whispering Wetlands of Lospalos<br>Elevation: 27m</div>`)[0];
+                popup_e30a4cea7ca3869627c480b1e4c355f9.setContent(html_6eaa0c16b7c187310574b865c9eb9dbd);
+            
+        
+
+        circle_marker_3050d2dd1105930387420b6b813e44c3.bindPopup(popup_e30a4cea7ca3869627c480b1e4c355f9)
+        ;
+
+        
+    
+    
+            circle_marker_3050d2dd1105930387420b6b813e44c3.bindTooltip(
+                `<div>
+                     Whispering Wetlands of Lospalos
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3cf5d6333320de97fbba04a7e8b99247 = L.circleMarker(
+                [-8.1479, 126.3817],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_311e7c0d4966f5940c6eb8e849078d1f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_080c0fcb490c600c2cf5c3325bc598f5 = $(`<div id="html_080c0fcb490c600c2cf5c3325bc598f5" style="width: 100.0%; height: 100.0%;">Radiant Reefs of Bikeli<br>Elevation: 0m</div>`)[0];
+                popup_311e7c0d4966f5940c6eb8e849078d1f.setContent(html_080c0fcb490c600c2cf5c3325bc598f5);
+            
+        
+
+        circle_marker_3cf5d6333320de97fbba04a7e8b99247.bindPopup(popup_311e7c0d4966f5940c6eb8e849078d1f)
+        ;
+
+        
+    
+    
+            circle_marker_3cf5d6333320de97fbba04a7e8b99247.bindTooltip(
+                `<div>
+                     Radiant Reefs of Bikeli
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_bb83678862c17f9025ce8b48f7f58093 = L.circleMarker(
+                [-8.5433, 125.7733],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_bdc03b8938ee93b536177f0d0b1f8294 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dc754f490df8314e8dc987c76a7f4cde = $(`<div id="html_dc754f490df8314e8dc987c76a7f4cde" style="width: 100.0%; height: 100.0%;">Misty Mangroves of Metinaro<br>Elevation: 5m</div>`)[0];
+                popup_bdc03b8938ee93b536177f0d0b1f8294.setContent(html_dc754f490df8314e8dc987c76a7f4cde);
+            
+        
+
+        circle_marker_bb83678862c17f9025ce8b48f7f58093.bindPopup(popup_bdc03b8938ee93b536177f0d0b1f8294)
+        ;
+
+        
+    
+    
+            circle_marker_bb83678862c17f9025ce8b48f7f58093.bindTooltip(
+                `<div>
+                     Misty Mangroves of Metinaro
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2b4919f8b6b40119309058c3b195d993 = L.circleMarker(
+                [-8.7996, 126.6591],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_fc8a4d58b0c79394d3cc17638f0ee909 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c31920a18e0a32295c71f067e12d0f95 = $(`<div id="html_c31920a18e0a32295c71f067e12d0f95" style="width: 100.0%; height: 100.0%;">Whispering Winds of Baguia<br>Elevation: 517m</div>`)[0];
+                popup_fc8a4d58b0c79394d3cc17638f0ee909.setContent(html_c31920a18e0a32295c71f067e12d0f95);
+            
+        
+
+        circle_marker_2b4919f8b6b40119309058c3b195d993.bindPopup(popup_fc8a4d58b0c79394d3cc17638f0ee909)
+        ;
+
+        
+    
+    
+            circle_marker_2b4919f8b6b40119309058c3b195d993.bindTooltip(
+                `<div>
+                     Whispering Winds of Baguia
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ac3ca829b2c562f2e3f005a0546502f6 = L.circleMarker(
+                [-8.808182005428534, 125.76260941190559],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_f8c3da486110330b17f91c805c9bdcd6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2e03d57398036deab5cea97f3a461a08 = $(`<div id="html_2e03d57398036deab5cea97f3a461a08" style="width: 100.0%; height: 100.0%;">Mystical Ruins of Timor-Leste<br>Elevation: 529m</div>`)[0];
+                popup_f8c3da486110330b17f91c805c9bdcd6.setContent(html_2e03d57398036deab5cea97f3a461a08);
+            
+        
+
+        circle_marker_ac3ca829b2c562f2e3f005a0546502f6.bindPopup(popup_f8c3da486110330b17f91c805c9bdcd6)
+        ;
+
+        
+    
+    
+            circle_marker_ac3ca829b2c562f2e3f005a0546502f6.bindTooltip(
+                `<div>
+                     Mystical Ruins of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_612ef1212d3ace49dc7975771eb11a8e = L.circleMarker(
+                [-8.508920592833281, 125.75386725463834],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_f25d3cc739d924558bd7e16bec161a7f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9e47f34040831d6cb3d2ba5ea5437fe3 = $(`<div id="html_9e47f34040831d6cb3d2ba5ea5437fe3" style="width: 100.0%; height: 100.0%;">Ethereal Valley of Timor-Leste<br>Elevation: 489m</div>`)[0];
+                popup_f25d3cc739d924558bd7e16bec161a7f.setContent(html_9e47f34040831d6cb3d2ba5ea5437fe3);
+            
+        
+
+        circle_marker_612ef1212d3ace49dc7975771eb11a8e.bindPopup(popup_f25d3cc739d924558bd7e16bec161a7f)
+        ;
+
+        
+    
+    
+            circle_marker_612ef1212d3ace49dc7975771eb11a8e.bindTooltip(
+                `<div>
+                     Ethereal Valley of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c9c28cad7329621784c9b290407e6a25 = L.circleMarker(
+                [-8.580356009754109, 126.1256155150543],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_1dfb30300c28a14802a88ad0b81d2d6e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3a59f7a5aa5f6e18feed0971f004d8f7 = $(`<div id="html_3a59f7a5aa5f6e18feed0971f004d8f7" style="width: 100.0%; height: 100.0%;">Radiant Valley of Timor-Leste<br>Elevation: 606m</div>`)[0];
+                popup_1dfb30300c28a14802a88ad0b81d2d6e.setContent(html_3a59f7a5aa5f6e18feed0971f004d8f7);
+            
+        
+
+        circle_marker_c9c28cad7329621784c9b290407e6a25.bindPopup(popup_1dfb30300c28a14802a88ad0b81d2d6e)
+        ;
+
+        
+    
+    
+            circle_marker_c9c28cad7329621784c9b290407e6a25.bindTooltip(
+                `<div>
+                     Radiant Valley of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4dd3441b8d0cf944b08db98e5b7b2e43 = L.circleMarker(
+                [-8.371656716956362, 127.22043102303333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_21fed9c9b580eaa6b28920029f8575f6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_11941d152bead0aa155bc504e6188256 = $(`<div id="html_11941d152bead0aa155bc504e6188256" style="width: 100.0%; height: 100.0%;">Thundering Sanctuary of Timor-Leste<br>Elevation: 2715m</div>`)[0];
+                popup_21fed9c9b580eaa6b28920029f8575f6.setContent(html_11941d152bead0aa155bc504e6188256);
+            
+        
+
+        circle_marker_4dd3441b8d0cf944b08db98e5b7b2e43.bindPopup(popup_21fed9c9b580eaa6b28920029f8575f6)
+        ;
+
+        
+    
+    
+            circle_marker_4dd3441b8d0cf944b08db98e5b7b2e43.bindTooltip(
+                `<div>
+                     Thundering Sanctuary of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9b6b5ccd69e2dd2cb3f340a5573b7456 = L.circleMarker(
+                [-8.577721443611514, 126.08016801506051],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_ce75c27b4cb1c9f4f8ad0394ffd7da12 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1dafca1abfe64ad8c8e65b22abc3b26c = $(`<div id="html_1dafca1abfe64ad8c8e65b22abc3b26c" style="width: 100.0%; height: 100.0%;">Eldritch Lake of Timor-Leste<br>Elevation: 644m</div>`)[0];
+                popup_ce75c27b4cb1c9f4f8ad0394ffd7da12.setContent(html_1dafca1abfe64ad8c8e65b22abc3b26c);
+            
+        
+
+        circle_marker_9b6b5ccd69e2dd2cb3f340a5573b7456.bindPopup(popup_ce75c27b4cb1c9f4f8ad0394ffd7da12)
+        ;
+
+        
+    
+    
+            circle_marker_9b6b5ccd69e2dd2cb3f340a5573b7456.bindTooltip(
+                `<div>
+                     Eldritch Lake of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_37087363c8b5201a104779456dd8b6ae = L.circleMarker(
+                [-8.553026497267737, 126.96264160428368],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_6ad7ad02288af06613d6b1361ffe80e1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c0f37f6c73d99f2cbfc1ef429ea6462a = $(`<div id="html_c0f37f6c73d99f2cbfc1ef429ea6462a" style="width: 100.0%; height: 100.0%;">Eldritch River of Timor-Leste<br>Elevation: 859m</div>`)[0];
+                popup_6ad7ad02288af06613d6b1361ffe80e1.setContent(html_c0f37f6c73d99f2cbfc1ef429ea6462a);
+            
+        
+
+        circle_marker_37087363c8b5201a104779456dd8b6ae.bindPopup(popup_6ad7ad02288af06613d6b1361ffe80e1)
+        ;
+
+        
+    
+    
+            circle_marker_37087363c8b5201a104779456dd8b6ae.bindTooltip(
+                `<div>
+                     Eldritch River of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5770ced5d4c23d960da6a087123a9f75 = L.circleMarker(
+                [-8.910715836419206, 125.91624000927638],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_b7338644f8c745a008d12ff4cb2af51e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_37b56d6d5f9380c57cd0f4e7da28430e = $(`<div id="html_37b56d6d5f9380c57cd0f4e7da28430e" style="width: 100.0%; height: 100.0%;">Shadowy Peak of Timor-Leste<br>Elevation: 280m</div>`)[0];
+                popup_b7338644f8c745a008d12ff4cb2af51e.setContent(html_37b56d6d5f9380c57cd0f4e7da28430e);
+            
+        
+
+        circle_marker_5770ced5d4c23d960da6a087123a9f75.bindPopup(popup_b7338644f8c745a008d12ff4cb2af51e)
+        ;
+
+        
+    
+    
+            circle_marker_5770ced5d4c23d960da6a087123a9f75.bindTooltip(
+                `<div>
+                     Shadowy Peak of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_42ff8108c024f676be86002916e50517 = L.circleMarker(
+                [-9.07511322640787, 125.21972743447371],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_f457b7dff0dc9419f90e88b688cbf310 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4caf1c2d2637da1d85df656a84c3a698 = $(`<div id="html_4caf1c2d2637da1d85df656a84c3a698" style="width: 100.0%; height: 100.0%;">Eldritch Sanctuary of Timor-Leste<br>Elevation: 2057m</div>`)[0];
+                popup_f457b7dff0dc9419f90e88b688cbf310.setContent(html_4caf1c2d2637da1d85df656a84c3a698);
+            
+        
+
+        circle_marker_42ff8108c024f676be86002916e50517.bindPopup(popup_f457b7dff0dc9419f90e88b688cbf310)
+        ;
+
+        
+    
+    
+            circle_marker_42ff8108c024f676be86002916e50517.bindTooltip(
+                `<div>
+                     Eldritch Sanctuary of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9634dcdd775800afe860f09172a12d9f = L.circleMarker(
+                [-8.322647337453793, 127.00408189523178],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_a98bf2c95b58b368c0dfbf58bf92a552 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c3b765bf861c9c4b57b578b41ce901a9 = $(`<div id="html_c3b765bf861c9c4b57b578b41ce901a9" style="width: 100.0%; height: 100.0%;">Mystical Sanctuary of Timor-Leste<br>Elevation: 623m</div>`)[0];
+                popup_a98bf2c95b58b368c0dfbf58bf92a552.setContent(html_c3b765bf861c9c4b57b578b41ce901a9);
+            
+        
+
+        circle_marker_9634dcdd775800afe860f09172a12d9f.bindPopup(popup_a98bf2c95b58b368c0dfbf58bf92a552)
+        ;
+
+        
+    
+    
+            circle_marker_9634dcdd775800afe860f09172a12d9f.bindTooltip(
+                `<div>
+                     Mystical Sanctuary of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d3e015db08c267e0d21bb8cc4bca0836 = L.circleMarker(
+                [-9.053161804761027, 125.28685864143834],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_9d21cfd498cc697c8d591be97e0549a7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ea98114ab7f827d27492dfdab2eda9c8 = $(`<div id="html_ea98114ab7f827d27492dfdab2eda9c8" style="width: 100.0%; height: 100.0%;">Mystical Mountain of Timor-Leste<br>Elevation: 1359m</div>`)[0];
+                popup_9d21cfd498cc697c8d591be97e0549a7.setContent(html_ea98114ab7f827d27492dfdab2eda9c8);
+            
+        
+
+        circle_marker_d3e015db08c267e0d21bb8cc4bca0836.bindPopup(popup_9d21cfd498cc697c8d591be97e0549a7)
+        ;
+
+        
+    
+    
+            circle_marker_d3e015db08c267e0d21bb8cc4bca0836.bindTooltip(
+                `<div>
+                     Mystical Mountain of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_fd854db6fe204d645d44989a333d958f = L.circleMarker(
+                [-8.704767781915328, 126.035410512421],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_19e11c05cce45eb405711e0928768cff = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ffa536209dd69b289ee6c83761a4853e = $(`<div id="html_ffa536209dd69b289ee6c83761a4853e" style="width: 100.0%; height: 100.0%;">Radiant Sanctuary of Timor-Leste<br>Elevation: 1483m</div>`)[0];
+                popup_19e11c05cce45eb405711e0928768cff.setContent(html_ffa536209dd69b289ee6c83761a4853e);
+            
+        
+
+        circle_marker_fd854db6fe204d645d44989a333d958f.bindPopup(popup_19e11c05cce45eb405711e0928768cff)
+        ;
+
+        
+    
+    
+            circle_marker_fd854db6fe204d645d44989a333d958f.bindTooltip(
+                `<div>
+                     Radiant Sanctuary of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5912745113f454091f4f8de34ea08c18 = L.circleMarker(
+                [-8.860970864029008, 125.41487128351802],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_51aea2724311f47c970e37628f35646b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6a3692477859b589a4c7c7c8463f7536 = $(`<div id="html_6a3692477859b589a4c7c7c8463f7536" style="width: 100.0%; height: 100.0%;">Arcane Grove of Timor-Leste<br>Elevation: 2273m</div>`)[0];
+                popup_51aea2724311f47c970e37628f35646b.setContent(html_6a3692477859b589a4c7c7c8463f7536);
+            
+        
+
+        circle_marker_5912745113f454091f4f8de34ea08c18.bindPopup(popup_51aea2724311f47c970e37628f35646b)
+        ;
+
+        
+    
+    
+            circle_marker_5912745113f454091f4f8de34ea08c18.bindTooltip(
+                `<div>
+                     Arcane Grove of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9ab30ccb28c814f1ae3d18aa4aadada6 = L.circleMarker(
+                [-8.561397701311156, 126.97485841692227],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_d05490a99d54e573c98b4e86505322f3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f2cf038534edda9a5ea9ea5c7b45579 = $(`<div id="html_4f2cf038534edda9a5ea9ea5c7b45579" style="width: 100.0%; height: 100.0%;">Celestial River of Timor-Leste<br>Elevation: 941m</div>`)[0];
+                popup_d05490a99d54e573c98b4e86505322f3.setContent(html_4f2cf038534edda9a5ea9ea5c7b45579);
+            
+        
+
+        circle_marker_9ab30ccb28c814f1ae3d18aa4aadada6.bindPopup(popup_d05490a99d54e573c98b4e86505322f3)
+        ;
+
+        
+    
+    
+            circle_marker_9ab30ccb28c814f1ae3d18aa4aadada6.bindTooltip(
+                `<div>
+                     Celestial River of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c3b85232952196b8ca290baaf74950f7 = L.circleMarker(
+                [-8.568877575888878, 125.59295114735019],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_2e1f7323bf00c1b77ab9ff1a17d96154 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c8b44cb2615d1034bdf339db15f27ee5 = $(`<div id="html_c8b44cb2615d1034bdf339db15f27ee5" style="width: 100.0%; height: 100.0%;">Celestial Citadel of Timor-Leste<br>Elevation: 2180m</div>`)[0];
+                popup_2e1f7323bf00c1b77ab9ff1a17d96154.setContent(html_c8b44cb2615d1034bdf339db15f27ee5);
+            
+        
+
+        circle_marker_c3b85232952196b8ca290baaf74950f7.bindPopup(popup_2e1f7323bf00c1b77ab9ff1a17d96154)
+        ;
+
+        
+    
+    
+            circle_marker_c3b85232952196b8ca290baaf74950f7.bindTooltip(
+                `<div>
+                     Celestial Citadel of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_87bebb577afacf89ed570e9a44b19f14 = L.circleMarker(
+                [-8.731166072317796, 126.0899148004054],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_9afe97e2ecef63f663daf6b5f4f3ce40 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dab35a1887d7fcacce9b5da66bb8c7b0 = $(`<div id="html_dab35a1887d7fcacce9b5da66bb8c7b0" style="width: 100.0%; height: 100.0%;">Mystic Ruins of Timor-Leste<br>Elevation: 2185m</div>`)[0];
+                popup_9afe97e2ecef63f663daf6b5f4f3ce40.setContent(html_dab35a1887d7fcacce9b5da66bb8c7b0);
+            
+        
+
+        circle_marker_87bebb577afacf89ed570e9a44b19f14.bindPopup(popup_9afe97e2ecef63f663daf6b5f4f3ce40)
+        ;
+
+        
+    
+    
+            circle_marker_87bebb577afacf89ed570e9a44b19f14.bindTooltip(
+                `<div>
+                     Mystic Ruins of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0195b2d68b33dc6a41438ca90a12d6fa = L.circleMarker(
+                [-8.94788772644964, 125.44597281530213],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_a474c64e55eb5aa17ecd9440d7e29b0f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30d7ba25a0656d57d0ca248288bbd225 = $(`<div id="html_30d7ba25a0656d57d0ca248288bbd225" style="width: 100.0%; height: 100.0%;">Shimmering Ruins of Timor-Leste<br>Elevation: 1504m</div>`)[0];
+                popup_a474c64e55eb5aa17ecd9440d7e29b0f.setContent(html_30d7ba25a0656d57d0ca248288bbd225);
+            
+        
+
+        circle_marker_0195b2d68b33dc6a41438ca90a12d6fa.bindPopup(popup_a474c64e55eb5aa17ecd9440d7e29b0f)
+        ;
+
+        
+    
+    
+            circle_marker_0195b2d68b33dc6a41438ca90a12d6fa.bindTooltip(
+                `<div>
+                     Shimmering Ruins of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_1f2cbbf0d06912800cd1de2c6b4f14cb = L.circleMarker(
+                [-8.730266854910163, 125.735938982255],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_c18dfe0d90202dded4865c6e5b0787fc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_690a45592dbfe549e7d368b145214c9f = $(`<div id="html_690a45592dbfe549e7d368b145214c9f" style="width: 100.0%; height: 100.0%;">Ethereal Forest of Timor-Leste<br>Elevation: 2628m</div>`)[0];
+                popup_c18dfe0d90202dded4865c6e5b0787fc.setContent(html_690a45592dbfe549e7d368b145214c9f);
+            
+        
+
+        circle_marker_1f2cbbf0d06912800cd1de2c6b4f14cb.bindPopup(popup_c18dfe0d90202dded4865c6e5b0787fc)
+        ;
+
+        
+    
+    
+            circle_marker_1f2cbbf0d06912800cd1de2c6b4f14cb.bindTooltip(
+                `<div>
+                     Ethereal Forest of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_899597c903578a7338ada90fe5c8f276 = L.circleMarker(
+                [-8.695757674066503, 125.29700161015191],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_85dcf21d2e646ed83d66424d95dd4e2c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_87aba218de246ef576fff683ca303903 = $(`<div id="html_87aba218de246ef576fff683ca303903" style="width: 100.0%; height: 100.0%;">Radiant Cavern of Timor-Leste<br>Elevation: 2130m</div>`)[0];
+                popup_85dcf21d2e646ed83d66424d95dd4e2c.setContent(html_87aba218de246ef576fff683ca303903);
+            
+        
+
+        circle_marker_899597c903578a7338ada90fe5c8f276.bindPopup(popup_85dcf21d2e646ed83d66424d95dd4e2c)
+        ;
+
+        
+    
+    
+            circle_marker_899597c903578a7338ada90fe5c8f276.bindTooltip(
+                `<div>
+                     Radiant Cavern of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2801e807498ccaecc134937fb1b295a1 = L.circleMarker(
+                [-9.179285926583427, 125.56141866465664],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_cfd460adc500bd5353b43b8695b708e6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c7140d788ae90c1fe55ddf52836e2229 = $(`<div id="html_c7140d788ae90c1fe55ddf52836e2229" style="width: 100.0%; height: 100.0%;">Eldritch Valley of Timor-Leste<br>Elevation: 997m</div>`)[0];
+                popup_cfd460adc500bd5353b43b8695b708e6.setContent(html_c7140d788ae90c1fe55ddf52836e2229);
+            
+        
+
+        circle_marker_2801e807498ccaecc134937fb1b295a1.bindPopup(popup_cfd460adc500bd5353b43b8695b708e6)
+        ;
+
+        
+    
+    
+            circle_marker_2801e807498ccaecc134937fb1b295a1.bindTooltip(
+                `<div>
+                     Eldritch Valley of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_719b587f25f5dd18b67370a228b43761 = L.circleMarker(
+                [-8.727754058989014, 125.4469064189848],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_5650f7e997fa4cfdb54d99e9ebb42fe5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1b7ae6850c050a44e56e186134effe0c = $(`<div id="html_1b7ae6850c050a44e56e186134effe0c" style="width: 100.0%; height: 100.0%;">Mystical Forest of Timor-Leste<br>Elevation: 2674m</div>`)[0];
+                popup_5650f7e997fa4cfdb54d99e9ebb42fe5.setContent(html_1b7ae6850c050a44e56e186134effe0c);
+            
+        
+
+        circle_marker_719b587f25f5dd18b67370a228b43761.bindPopup(popup_5650f7e997fa4cfdb54d99e9ebb42fe5)
+        ;
+
+        
+    
+    
+            circle_marker_719b587f25f5dd18b67370a228b43761.bindTooltip(
+                `<div>
+                     Mystical Forest of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_919ce3a0b0ed8c39341e5c56a15882ad = L.circleMarker(
+                [-8.543673928482846, 126.27299746980789],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_bbbd7fe480bd960d0c89e8ec1e58e637 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_de4d055fd3cf6ed6307af453bdb13b90 = $(`<div id="html_de4d055fd3cf6ed6307af453bdb13b90" style="width: 100.0%; height: 100.0%;">Fabled Citadel of Timor-Leste<br>Elevation: 50m</div>`)[0];
+                popup_bbbd7fe480bd960d0c89e8ec1e58e637.setContent(html_de4d055fd3cf6ed6307af453bdb13b90);
+            
+        
+
+        circle_marker_919ce3a0b0ed8c39341e5c56a15882ad.bindPopup(popup_bbbd7fe480bd960d0c89e8ec1e58e637)
+        ;
+
+        
+    
+    
+            circle_marker_919ce3a0b0ed8c39341e5c56a15882ad.bindTooltip(
+                `<div>
+                     Fabled Citadel of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0cd3c6fcbc90115f75eb9b23bf1c128c = L.circleMarker(
+                [-8.963620605389998, 125.42201422128588],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_1b5372dcdc0e9edc39e0626c87b92ad6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2cef09c80612ced60049dd08dc3b46f6 = $(`<div id="html_2cef09c80612ced60049dd08dc3b46f6" style="width: 100.0%; height: 100.0%;">Arcane Citadel of Timor-Leste<br>Elevation: 200m</div>`)[0];
+                popup_1b5372dcdc0e9edc39e0626c87b92ad6.setContent(html_2cef09c80612ced60049dd08dc3b46f6);
+            
+        
+
+        circle_marker_0cd3c6fcbc90115f75eb9b23bf1c128c.bindPopup(popup_1b5372dcdc0e9edc39e0626c87b92ad6)
+        ;
+
+        
+    
+    
+            circle_marker_0cd3c6fcbc90115f75eb9b23bf1c128c.bindTooltip(
+                `<div>
+                     Arcane Citadel of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4fbb0de21847b68e02323990b53b02e4 = L.circleMarker(
+                [-8.59033263091091, 126.73621866186369],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_56034289cbe7c67cc2a51715df093525 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f008699d04c5452ca271c0fc14410b6d = $(`<div id="html_f008699d04c5452ca271c0fc14410b6d" style="width: 100.0%; height: 100.0%;">Shimmering Cavern of Timor-Leste<br>Elevation: 1006m</div>`)[0];
+                popup_56034289cbe7c67cc2a51715df093525.setContent(html_f008699d04c5452ca271c0fc14410b6d);
+            
+        
+
+        circle_marker_4fbb0de21847b68e02323990b53b02e4.bindPopup(popup_56034289cbe7c67cc2a51715df093525)
+        ;
+
+        
+    
+    
+            circle_marker_4fbb0de21847b68e02323990b53b02e4.bindTooltip(
+                `<div>
+                     Shimmering Cavern of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d02ea7baa6bc7392a4d0622ccb1aa1ad = L.circleMarker(
+                [-8.746802611388013, 125.62287186494267],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_44e97a961781de497feaa8418ba7acdf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_36d318ab3748ae41cae2fcddb9478a89 = $(`<div id="html_36d318ab3748ae41cae2fcddb9478a89" style="width: 100.0%; height: 100.0%;">Ancient Citadel of Timor-Leste<br>Elevation: 1886m</div>`)[0];
+                popup_44e97a961781de497feaa8418ba7acdf.setContent(html_36d318ab3748ae41cae2fcddb9478a89);
+            
+        
+
+        circle_marker_d02ea7baa6bc7392a4d0622ccb1aa1ad.bindPopup(popup_44e97a961781de497feaa8418ba7acdf)
+        ;
+
+        
+    
+    
+            circle_marker_d02ea7baa6bc7392a4d0622ccb1aa1ad.bindTooltip(
+                `<div>
+                     Ancient Citadel of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_23feee2f726670315d01da827bc77551 = L.circleMarker(
+                [-8.341806810181945, 127.14213807734072],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_46cc0d3e218f475cb9be495e3598c4ba = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3cbab85fd7fa9ccf9e31feb1d85d1738 = $(`<div id="html_3cbab85fd7fa9ccf9e31feb1d85d1738" style="width: 100.0%; height: 100.0%;">Forgotten Citadel of Timor-Leste<br>Elevation: 2887m</div>`)[0];
+                popup_46cc0d3e218f475cb9be495e3598c4ba.setContent(html_3cbab85fd7fa9ccf9e31feb1d85d1738);
+            
+        
+
+        circle_marker_23feee2f726670315d01da827bc77551.bindPopup(popup_46cc0d3e218f475cb9be495e3598c4ba)
+        ;
+
+        
+    
+    
+            circle_marker_23feee2f726670315d01da827bc77551.bindTooltip(
+                `<div>
+                     Forgotten Citadel of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ad0174f7bcfb5413425e360f881344fa = L.circleMarker(
+                [-9.336426763522567, 125.10046092622025],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_56aa670d038f47f7c8066831604cb067 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b6957293f51d7c348c730c3e0566482 = $(`<div id="html_5b6957293f51d7c348c730c3e0566482" style="width: 100.0%; height: 100.0%;">Eldritch Peak of Timor-Leste<br>Elevation: 1175m</div>`)[0];
+                popup_56aa670d038f47f7c8066831604cb067.setContent(html_5b6957293f51d7c348c730c3e0566482);
+            
+        
+
+        circle_marker_ad0174f7bcfb5413425e360f881344fa.bindPopup(popup_56aa670d038f47f7c8066831604cb067)
+        ;
+
+        
+    
+    
+            circle_marker_ad0174f7bcfb5413425e360f881344fa.bindTooltip(
+                `<div>
+                     Eldritch Peak of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6efcb7b78836df77dc33522c8a1b9b49 = L.circleMarker(
+                [-8.809752364841405, 125.72405891125166],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_da692834b01be2ef40844301daff9ea4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e0fc149105f4bcb07e932ca48130d9c3 = $(`<div id="html_e0fc149105f4bcb07e932ca48130d9c3" style="width: 100.0%; height: 100.0%;">Eldritch Haven of Timor-Leste<br>Elevation: 2879m</div>`)[0];
+                popup_da692834b01be2ef40844301daff9ea4.setContent(html_e0fc149105f4bcb07e932ca48130d9c3);
+            
+        
+
+        circle_marker_6efcb7b78836df77dc33522c8a1b9b49.bindPopup(popup_da692834b01be2ef40844301daff9ea4)
+        ;
+
+        
+    
+    
+            circle_marker_6efcb7b78836df77dc33522c8a1b9b49.bindTooltip(
+                `<div>
+                     Eldritch Haven of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f7b49406e5029d843dce5dff9b0852a6 = L.circleMarker(
+                [-8.607845639078509, 126.47562826974722],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_3d2aa34d6f237bd3863a6b48c42e9786 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4120044e73ac9ffede66d35fc09613ef = $(`<div id="html_4120044e73ac9ffede66d35fc09613ef" style="width: 100.0%; height: 100.0%;">Whispering Oasis of Timor-Leste<br>Elevation: 2716m</div>`)[0];
+                popup_3d2aa34d6f237bd3863a6b48c42e9786.setContent(html_4120044e73ac9ffede66d35fc09613ef);
+            
+        
+
+        circle_marker_f7b49406e5029d843dce5dff9b0852a6.bindPopup(popup_3d2aa34d6f237bd3863a6b48c42e9786)
+        ;
+
+        
+    
+    
+            circle_marker_f7b49406e5029d843dce5dff9b0852a6.bindTooltip(
+                `<div>
+                     Whispering Oasis of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9dc4dbae5cd8f03147d3fc2d1a481410 = L.circleMarker(
+                [-8.512385222481095, 126.04026991669286],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_4d36d62c9bbc788158f5f791d87cccbb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1e759f61ff9eea66b8e3f8195120c238 = $(`<div id="html_1e759f61ff9eea66b8e3f8195120c238" style="width: 100.0%; height: 100.0%;">Ethereal Citadel of Timor-Leste<br>Elevation: 2824m</div>`)[0];
+                popup_4d36d62c9bbc788158f5f791d87cccbb.setContent(html_1e759f61ff9eea66b8e3f8195120c238);
+            
+        
+
+        circle_marker_9dc4dbae5cd8f03147d3fc2d1a481410.bindPopup(popup_4d36d62c9bbc788158f5f791d87cccbb)
+        ;
+
+        
+    
+    
+            circle_marker_9dc4dbae5cd8f03147d3fc2d1a481410.bindTooltip(
+                `<div>
+                     Ethereal Citadel of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_65a8a1c4dd7c5e29ffca088c633a3c03 = L.circleMarker(
+                [-8.81155375923707, 125.60801261077879],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_b5162c1ac7cf74db95f30d66833ae6d0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4d0bbd48ae9a69c34e2f7b667c1ffb66 = $(`<div id="html_4d0bbd48ae9a69c34e2f7b667c1ffb66" style="width: 100.0%; height: 100.0%;">Ethereal Valley of Timor-Leste<br>Elevation: 1690m</div>`)[0];
+                popup_b5162c1ac7cf74db95f30d66833ae6d0.setContent(html_4d0bbd48ae9a69c34e2f7b667c1ffb66);
+            
+        
+
+        circle_marker_65a8a1c4dd7c5e29ffca088c633a3c03.bindPopup(popup_b5162c1ac7cf74db95f30d66833ae6d0)
+        ;
+
+        
+    
+    
+            circle_marker_65a8a1c4dd7c5e29ffca088c633a3c03.bindTooltip(
+                `<div>
+                     Ethereal Valley of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_780f91d361c57fb8cee9d1bef46d4e8a = L.circleMarker(
+                [-8.523654003740285, 126.00445112549554],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_7396f902b7dc929fd7c1c76667c5a026 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_088f88c8cdaccd4bb3a3cf695e647079 = $(`<div id="html_088f88c8cdaccd4bb3a3cf695e647079" style="width: 100.0%; height: 100.0%;">Forgotten Mountain of Timor-Leste<br>Elevation: 657m</div>`)[0];
+                popup_7396f902b7dc929fd7c1c76667c5a026.setContent(html_088f88c8cdaccd4bb3a3cf695e647079);
+            
+        
+
+        circle_marker_780f91d361c57fb8cee9d1bef46d4e8a.bindPopup(popup_7396f902b7dc929fd7c1c76667c5a026)
+        ;
+
+        
+    
+    
+            circle_marker_780f91d361c57fb8cee9d1bef46d4e8a.bindTooltip(
+                `<div>
+                     Forgotten Mountain of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ea729862e04db6994c826990f0c8a8ec = L.circleMarker(
+                [-9.06458150143931, 125.10904946411662],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_d85b4e7806dfe700d4d6d1dc854e9c77 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bbadf8ea850e604e2b6031a47546b6e6 = $(`<div id="html_bbadf8ea850e604e2b6031a47546b6e6" style="width: 100.0%; height: 100.0%;">Radiant Valley of Timor-Leste<br>Elevation: 1242m</div>`)[0];
+                popup_d85b4e7806dfe700d4d6d1dc854e9c77.setContent(html_bbadf8ea850e604e2b6031a47546b6e6);
+            
+        
+
+        circle_marker_ea729862e04db6994c826990f0c8a8ec.bindPopup(popup_d85b4e7806dfe700d4d6d1dc854e9c77)
+        ;
+
+        
+    
+    
+            circle_marker_ea729862e04db6994c826990f0c8a8ec.bindTooltip(
+                `<div>
+                     Radiant Valley of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a86d657e052fba1bf8ca1e302b66c7a8 = L.circleMarker(
+                [-8.687901681431638, 126.75509503706819],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_c3973b139b69743aecd0d17263708971 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_76098f7918b9b2874a806bbef6e32e99 = $(`<div id="html_76098f7918b9b2874a806bbef6e32e99" style="width: 100.0%; height: 100.0%;">Eldritch Cavern of Timor-Leste<br>Elevation: 1100m</div>`)[0];
+                popup_c3973b139b69743aecd0d17263708971.setContent(html_76098f7918b9b2874a806bbef6e32e99);
+            
+        
+
+        circle_marker_a86d657e052fba1bf8ca1e302b66c7a8.bindPopup(popup_c3973b139b69743aecd0d17263708971)
+        ;
+
+        
+    
+    
+            circle_marker_a86d657e052fba1bf8ca1e302b66c7a8.bindTooltip(
+                `<div>
+                     Eldritch Cavern of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_becb2dd01e8727d63db13989c337f127 = L.circleMarker(
+                [-8.80845019344136, 125.09261427731086],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_de0e0d36dfafc53a71feeb5c337801aa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3d68737f45d69ff1c92baea1eca72b2b = $(`<div id="html_3d68737f45d69ff1c92baea1eca72b2b" style="width: 100.0%; height: 100.0%;">Celestial Grove of Timor-Leste<br>Elevation: 592m</div>`)[0];
+                popup_de0e0d36dfafc53a71feeb5c337801aa.setContent(html_3d68737f45d69ff1c92baea1eca72b2b);
+            
+        
+
+        circle_marker_becb2dd01e8727d63db13989c337f127.bindPopup(popup_de0e0d36dfafc53a71feeb5c337801aa)
+        ;
+
+        
+    
+    
+            circle_marker_becb2dd01e8727d63db13989c337f127.bindTooltip(
+                `<div>
+                     Celestial Grove of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_be38a9d3a4b6393bae8ccf5202655353 = L.circleMarker(
+                [-8.898876717158466, 125.11678158615749],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_52ba772ddc23e20a5d246ccdfdd06df1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c8ff620dc0d76abe8a47c4ef407b817b = $(`<div id="html_c8ff620dc0d76abe8a47c4ef407b817b" style="width: 100.0%; height: 100.0%;">Fabled Forest of Timor-Leste<br>Elevation: 2337m</div>`)[0];
+                popup_52ba772ddc23e20a5d246ccdfdd06df1.setContent(html_c8ff620dc0d76abe8a47c4ef407b817b);
+            
+        
+
+        circle_marker_be38a9d3a4b6393bae8ccf5202655353.bindPopup(popup_52ba772ddc23e20a5d246ccdfdd06df1)
+        ;
+
+        
+    
+    
+            circle_marker_be38a9d3a4b6393bae8ccf5202655353.bindTooltip(
+                `<div>
+                     Fabled Forest of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0dacbb1962cd0e8952f296f57ab7e49f = L.circleMarker(
+                [-8.939378042563385, 125.362053386454],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_a46f0a12b2713ad9f90cddb0d78bb172 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c7f480924a7aaf3601bbb9acf59b6abb = $(`<div id="html_c7f480924a7aaf3601bbb9acf59b6abb" style="width: 100.0%; height: 100.0%;">Enchanted Temple of Timor-Leste<br>Elevation: 280m</div>`)[0];
+                popup_a46f0a12b2713ad9f90cddb0d78bb172.setContent(html_c7f480924a7aaf3601bbb9acf59b6abb);
+            
+        
+
+        circle_marker_0dacbb1962cd0e8952f296f57ab7e49f.bindPopup(popup_a46f0a12b2713ad9f90cddb0d78bb172)
+        ;
+
+        
+    
+    
+            circle_marker_0dacbb1962cd0e8952f296f57ab7e49f.bindTooltip(
+                `<div>
+                     Enchanted Temple of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_1c81715cab9fc0f7138b451e8463e942 = L.circleMarker(
+                [-9.052835254033434, 125.20861425758989],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_a58882ca88a22af9b514d1e0841984a3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_db3158cd8d56546b35dbe94570ef36bc = $(`<div id="html_db3158cd8d56546b35dbe94570ef36bc" style="width: 100.0%; height: 100.0%;">Forgotten Temple of Timor-Leste<br>Elevation: 442m</div>`)[0];
+                popup_a58882ca88a22af9b514d1e0841984a3.setContent(html_db3158cd8d56546b35dbe94570ef36bc);
+            
+        
+
+        circle_marker_1c81715cab9fc0f7138b451e8463e942.bindPopup(popup_a58882ca88a22af9b514d1e0841984a3)
+        ;
+
+        
+    
+    
+            circle_marker_1c81715cab9fc0f7138b451e8463e942.bindTooltip(
+                `<div>
+                     Forgotten Temple of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_bab2b6823a8b0162e5f959951cc157da = L.circleMarker(
+                [-8.45650921516842, 125.90516222384498],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_b82e8314a2cff4868e4cbe76162d4ccf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa2958e1081fbf528038e4a3bc29e1ea = $(`<div id="html_fa2958e1081fbf528038e4a3bc29e1ea" style="width: 100.0%; height: 100.0%;">Mystical Sanctuary of Timor-Leste<br>Elevation: 2755m</div>`)[0];
+                popup_b82e8314a2cff4868e4cbe76162d4ccf.setContent(html_fa2958e1081fbf528038e4a3bc29e1ea);
+            
+        
+
+        circle_marker_bab2b6823a8b0162e5f959951cc157da.bindPopup(popup_b82e8314a2cff4868e4cbe76162d4ccf)
+        ;
+
+        
+    
+    
+            circle_marker_bab2b6823a8b0162e5f959951cc157da.bindTooltip(
+                `<div>
+                     Mystical Sanctuary of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f8039827ab9ebbd106dd61122a4ce26a = L.circleMarker(
+                [-8.469506855546827, 126.81462349796122],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_a3bc303176e71d60e995ae23254f5566 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f38450319073f4407c62003fbefc3ce3 = $(`<div id="html_f38450319073f4407c62003fbefc3ce3" style="width: 100.0%; height: 100.0%;">Thundering Cavern of Timor-Leste<br>Elevation: 2207m</div>`)[0];
+                popup_a3bc303176e71d60e995ae23254f5566.setContent(html_f38450319073f4407c62003fbefc3ce3);
+            
+        
+
+        circle_marker_f8039827ab9ebbd106dd61122a4ce26a.bindPopup(popup_a3bc303176e71d60e995ae23254f5566)
+        ;
+
+        
+    
+    
+            circle_marker_f8039827ab9ebbd106dd61122a4ce26a.bindTooltip(
+                `<div>
+                     Thundering Cavern of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a1de97669a643636f1d729e7dab2aee1 = L.circleMarker(
+                [-9.123139550754008, 125.1883254569005],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_ff0bdfe8d404cd188b3773f8c7e5fb50 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eb09619d6fcaee1ae85ed36ed1ca13c7 = $(`<div id="html_eb09619d6fcaee1ae85ed36ed1ca13c7" style="width: 100.0%; height: 100.0%;">Whispering Peak of Timor-Leste<br>Elevation: 1440m</div>`)[0];
+                popup_ff0bdfe8d404cd188b3773f8c7e5fb50.setContent(html_eb09619d6fcaee1ae85ed36ed1ca13c7);
+            
+        
+
+        circle_marker_a1de97669a643636f1d729e7dab2aee1.bindPopup(popup_ff0bdfe8d404cd188b3773f8c7e5fb50)
+        ;
+
+        
+    
+    
+            circle_marker_a1de97669a643636f1d729e7dab2aee1.bindTooltip(
+                `<div>
+                     Whispering Peak of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4272562195dfcbf303e9376ea138498f = L.circleMarker(
+                [-8.773827634982178, 126.03088352777375],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_be4d46939f1119bfbeeb8391d3f43be6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_026d40ee6a7776f1d90ba4414cbb739f = $(`<div id="html_026d40ee6a7776f1d90ba4414cbb739f" style="width: 100.0%; height: 100.0%;">Ethereal Peak of Timor-Leste<br>Elevation: 2378m</div>`)[0];
+                popup_be4d46939f1119bfbeeb8391d3f43be6.setContent(html_026d40ee6a7776f1d90ba4414cbb739f);
+            
+        
+
+        circle_marker_4272562195dfcbf303e9376ea138498f.bindPopup(popup_be4d46939f1119bfbeeb8391d3f43be6)
+        ;
+
+        
+    
+    
+            circle_marker_4272562195dfcbf303e9376ea138498f.bindTooltip(
+                `<div>
+                     Ethereal Peak of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_735fb6a41ec5ca744c82bd330a1e80eb = L.circleMarker(
+                [-8.466326200453782, 127.0777712791101],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_dc2a81494af0e7bf571c20fe91ba3bae = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ced130d82b1ed2e67fc485e67282b749 = $(`<div id="html_ced130d82b1ed2e67fc485e67282b749" style="width: 100.0%; height: 100.0%;">Shadowy Temple of Timor-Leste<br>Elevation: 1296m</div>`)[0];
+                popup_dc2a81494af0e7bf571c20fe91ba3bae.setContent(html_ced130d82b1ed2e67fc485e67282b749);
+            
+        
+
+        circle_marker_735fb6a41ec5ca744c82bd330a1e80eb.bindPopup(popup_dc2a81494af0e7bf571c20fe91ba3bae)
+        ;
+
+        
+    
+    
+            circle_marker_735fb6a41ec5ca744c82bd330a1e80eb.bindTooltip(
+                `<div>
+                     Shadowy Temple of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_546ea1e55bb6638134aeaf0656d18bef = L.circleMarker(
+                [-8.897315531610523, 125.73084018991518],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_68ee512a81ff980eb6d44aec640f8f88 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2b651312e735890d2daadd8fe380b0b1 = $(`<div id="html_2b651312e735890d2daadd8fe380b0b1" style="width: 100.0%; height: 100.0%;">Enchanted Cavern of Timor-Leste<br>Elevation: 2377m</div>`)[0];
+                popup_68ee512a81ff980eb6d44aec640f8f88.setContent(html_2b651312e735890d2daadd8fe380b0b1);
+            
+        
+
+        circle_marker_546ea1e55bb6638134aeaf0656d18bef.bindPopup(popup_68ee512a81ff980eb6d44aec640f8f88)
+        ;
+
+        
+    
+    
+            circle_marker_546ea1e55bb6638134aeaf0656d18bef.bindTooltip(
+                `<div>
+                     Enchanted Cavern of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ddc3cc7cdc15330cbe1febf0190e8d2d = L.circleMarker(
+                [-8.578558291169696, 126.00713498351975],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_978aa39014680ac1a8f6904a0f8efe65 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c5f2707636b918ea45a75db0bd1b6468 = $(`<div id="html_c5f2707636b918ea45a75db0bd1b6468" style="width: 100.0%; height: 100.0%;">Eldritch Peak of Timor-Leste<br>Elevation: 1307m</div>`)[0];
+                popup_978aa39014680ac1a8f6904a0f8efe65.setContent(html_c5f2707636b918ea45a75db0bd1b6468);
+            
+        
+
+        circle_marker_ddc3cc7cdc15330cbe1febf0190e8d2d.bindPopup(popup_978aa39014680ac1a8f6904a0f8efe65)
+        ;
+
+        
+    
+    
+            circle_marker_ddc3cc7cdc15330cbe1febf0190e8d2d.bindTooltip(
+                `<div>
+                     Eldritch Peak of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_bd02dd6b1fef24af9841ec73d7caf12d = L.circleMarker(
+                [-8.627052165931772, 126.79426297451124],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_ef0f68c8ebfd6316d4c6f429d2d76b97 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d5b269cfa8d0a1cd5b9ee6ec2bcf72c6 = $(`<div id="html_d5b269cfa8d0a1cd5b9ee6ec2bcf72c6" style="width: 100.0%; height: 100.0%;">Shadowy Haven of Timor-Leste<br>Elevation: 1058m</div>`)[0];
+                popup_ef0f68c8ebfd6316d4c6f429d2d76b97.setContent(html_d5b269cfa8d0a1cd5b9ee6ec2bcf72c6);
+            
+        
+
+        circle_marker_bd02dd6b1fef24af9841ec73d7caf12d.bindPopup(popup_ef0f68c8ebfd6316d4c6f429d2d76b97)
+        ;
+
+        
+    
+    
+            circle_marker_bd02dd6b1fef24af9841ec73d7caf12d.bindTooltip(
+                `<div>
+                     Shadowy Haven of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_4810e675fbda0a0f7594792869254c85 = L.circleMarker(
+                [-8.43792158754812, 126.12532290888798],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_e9262982776daf12d4606e824f071c49 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_34264048f414c93df826d003a74aed6c = $(`<div id="html_34264048f414c93df826d003a74aed6c" style="width: 100.0%; height: 100.0%;">Eldritch Mountain of Timor-Leste<br>Elevation: 246m</div>`)[0];
+                popup_e9262982776daf12d4606e824f071c49.setContent(html_34264048f414c93df826d003a74aed6c);
+            
+        
+
+        circle_marker_4810e675fbda0a0f7594792869254c85.bindPopup(popup_e9262982776daf12d4606e824f071c49)
+        ;
+
+        
+    
+    
+            circle_marker_4810e675fbda0a0f7594792869254c85.bindTooltip(
+                `<div>
+                     Eldritch Mountain of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ce33d6391c286c85db76e94ff07a3787 = L.circleMarker(
+                [-9.090015793454768, 125.32816813213144],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_600297580a55558429b27b16151781d3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_63bff2cdbe6cdf1c4738842ec5afa20c = $(`<div id="html_63bff2cdbe6cdf1c4738842ec5afa20c" style="width: 100.0%; height: 100.0%;">Forgotten Sanctuary of Timor-Leste<br>Elevation: 2327m</div>`)[0];
+                popup_600297580a55558429b27b16151781d3.setContent(html_63bff2cdbe6cdf1c4738842ec5afa20c);
+            
+        
+
+        circle_marker_ce33d6391c286c85db76e94ff07a3787.bindPopup(popup_600297580a55558429b27b16151781d3)
+        ;
+
+        
+    
+    
+            circle_marker_ce33d6391c286c85db76e94ff07a3787.bindTooltip(
+                `<div>
+                     Forgotten Sanctuary of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d6c8cad629cfa88c912e324c9d0c0b69 = L.circleMarker(
+                [-8.496465978661611, 127.09350518803893],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_c594c4b66cadd26dfb7d5786e7d7225d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6237b8ce0b05859b7f37537930aa880a = $(`<div id="html_6237b8ce0b05859b7f37537930aa880a" style="width: 100.0%; height: 100.0%;">Forgotten Glade of Timor-Leste<br>Elevation: 2293m</div>`)[0];
+                popup_c594c4b66cadd26dfb7d5786e7d7225d.setContent(html_6237b8ce0b05859b7f37537930aa880a);
+            
+        
+
+        circle_marker_d6c8cad629cfa88c912e324c9d0c0b69.bindPopup(popup_c594c4b66cadd26dfb7d5786e7d7225d)
+        ;
+
+        
+    
+    
+            circle_marker_d6c8cad629cfa88c912e324c9d0c0b69.bindTooltip(
+                `<div>
+                     Forgotten Glade of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5bbf924175b22a409ff1a219b9024037 = L.circleMarker(
+                [-8.873290686439466, 125.08350607827045],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_c59666951abf9f8cd298fa884dad5ec3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_38f136476a8aac5b69bda9b71e3a4265 = $(`<div id="html_38f136476a8aac5b69bda9b71e3a4265" style="width: 100.0%; height: 100.0%;">Thundering Valley of Timor-Leste<br>Elevation: 1036m</div>`)[0];
+                popup_c59666951abf9f8cd298fa884dad5ec3.setContent(html_38f136476a8aac5b69bda9b71e3a4265);
+            
+        
+
+        circle_marker_5bbf924175b22a409ff1a219b9024037.bindPopup(popup_c59666951abf9f8cd298fa884dad5ec3)
+        ;
+
+        
+    
+    
+            circle_marker_5bbf924175b22a409ff1a219b9024037.bindTooltip(
+                `<div>
+                     Thundering Valley of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9e10be4a9e72240808b02650070859ca = L.circleMarker(
+                [-8.881532881860734, 125.91351585182768],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_5e38bc56c2086e70c48c8cdcb25983cd);
+        
+    
+        var popup_cf2373600f97a0ec8c810c14c4410367 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_047589b5a1a5dc983fae03360a4876fc = $(`<div id="html_047589b5a1a5dc983fae03360a4876fc" style="width: 100.0%; height: 100.0%;">Forgotten Citadel of Timor-Leste<br>Elevation: 2113m</div>`)[0];
+                popup_cf2373600f97a0ec8c810c14c4410367.setContent(html_047589b5a1a5dc983fae03360a4876fc);
+            
+        
+
+        circle_marker_9e10be4a9e72240808b02650070859ca.bindPopup(popup_cf2373600f97a0ec8c810c14c4410367)
+        ;
+
+        
+    
+    
+            circle_marker_9e10be4a9e72240808b02650070859ca.bindTooltip(
+                `<div>
+                     Forgotten Citadel of Timor-Leste
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
