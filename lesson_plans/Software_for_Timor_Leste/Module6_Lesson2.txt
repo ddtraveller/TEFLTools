@@ -1,0 +1,69 @@
+Lesson Plan: Services, Daemons, and Scheduled Tasks in CentOS
+
+Duration: 90 minutes
+
+Lesson Objectives:
+By the end of this lesson, students will be able to:
+1. Explain the concepts of services and daemons in Linux
+2. Manage services using systemctl commands
+3. Configure and manage scheduled tasks using cron
+
+Materials:
+- CentOS Linux computers or virtual machines for each student
+- Projector/screen for demonstrations
+- Handout with key systemctl and cron commands
+
+Lesson Outline:
+
+I. Introduction (10 minutes)
+   - Define services and daemons
+   - Explain their role in a Linux system
+
+II. Managing Services with systemd (30 minutes)
+   - Introduction to systemd and systemctl
+   - Key systemctl commands:
+     - systemctl status <service>
+     - systemctl start/stop/restart <service>
+     - systemctl enable/disable <service>
+   - Demonstration and hands-on practice with common services (e.g., sshd, httpd)
+
+III. Viewing System Logs (15 minutes)
+   - Using journalctl to view system logs
+   - Filtering logs by service
+
+IV. Scheduled Tasks with cron (25 minutes)
+   - Introduction to cron and crontab
+   - Crontab syntax
+   - Editing crontab with crontab -e
+   - Creating and managing scheduled tasks
+   - Demonstration and hands-on practice
+
+V. Practice Exercise (15 minutes)
+   - Students complete a series of tasks involving service management and cron job creation
+
+VI. Conclusion and Q&A (5 minutes)
+   - Recap key points
+   - Address any questions
+
+Key Commands to Cover:
+(Based on the CentOS cheat sheet provided)
+
+1. systemctl start/stop/restart <service>
+2. systemctl enable/disable <service>
+3. systemctl status <service>
+4. service (for legacy SysV init scripts)
+5. chkconfig (for legacy SysV init service management)
+6. cron
+7. crontab -e (to edit user's crontab)
+8. systemctl list-unit-files (to list all available services)
+
+Assessment:
+- Observation of student practice during hands-on sections
+- Completion of practice exercise
+- Short quiz on key concepts and commands at the start of next lesson
+
+Homework:
+- Research and write a brief report on three essential Linux services and their functions
+- Create a cron job that runs a simple script (e.g., date logging) every hour
+
+This lesson provides practical experience with managing services and scheduling tasks in CentOS, building on the Linux basics from the previous lesson. It emphasizes hands-on practice with real-world administrative tasks.

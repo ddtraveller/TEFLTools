@@ -1,0 +1,79 @@
+# Module 6: Linux and Networking Essentials
+## Lesson 3: Introduction to Bash Scripting
+
+Duration: 120 minutes
+
+### Lesson Objectives:
+By the end of this lesson, students will be able to:
+1. Understand the basics of Bash scripting
+2. Create and execute simple Bash scripts
+3. Use variables, control structures, and loops in Bash scripts
+4. Implement basic error handling and debugging techniques
+
+### Materials:
+- CentOS Linux computers or virtual machines for each student
+- Projector/screen for demonstrations
+- Text editor (e.g., nano, vim)
+- Handout with Bash scripting syntax reference
+
+### Lesson Outline:
+
+I. Introduction to Bash Scripting (15 minutes)
+   - What is a Bash script?
+   - Why use Bash scripts?
+   - Basic structure of a Bash script
+
+II. Creating and Executing Bash Scripts (20 minutes)
+   - Creating a script file
+   - Making scripts executable (chmod +x)
+   - Shebang line (#!/bin/bash)
+   - Running scripts (./ and bash command)
+   - Demonstration and practice
+
+III. Variables and Input (25 minutes)
+   - Declaring and using variables
+   - Command substitution
+   - User input (read command)
+   - Special variables ($1, $2, $#, $@)
+   - Hands-on exercises
+
+IV. Control Structures (30 minutes)
+   - If-else statements
+   - Case statements
+   - For loops
+   - While loops
+   - Demonstration and practice exercises
+
+V. Functions and Error Handling (20 minutes)
+   - Defining and calling functions
+   - Return values
+   - Basic error handling (exit codes, ||, &&)
+   - Debugging techniques (set -x)
+
+VI. Practice Exercise (15 minutes)
+   - Students write a script that incorporates variables, control structures, and functions
+
+VII. Conclusion and Q&A (5 minutes)
+   - Recap key points
+   - Address any questions
+
+### Key Concepts and Commands to Cover:
+1. Script creation and execution
+2. Variables and command substitution
+3. Control structures (if, case, for, while)
+4. Functions
+5. Error handling and debugging
+
+### Assessment:
+- Observation of student practice during hands-on sections
+- Completion of the final practice exercise
+- Code review of student-written scripts
+
+### Homework:
+- Write a Bash script that performs a system maintenance task (e.g., log rotation, disk space check)
+- Modify an existing script to add error handling and user input validation
+
+### Additional Resources:
+- Bash manual (man bash)
+- Online Bash scripting tutorials
+- Sample scripts for common system administration tasks

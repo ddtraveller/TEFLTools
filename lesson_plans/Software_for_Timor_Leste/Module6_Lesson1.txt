@@ -1,0 +1,62 @@
+Lesson Plan: Introduction to Linux
+Duration: 90 minutes
+Lesson Objectives:
+By the end of this lesson, students will be able to:
+
+Explain what Linux is and its key features
+Understand the basic structure of a Linux system
+Navigate the Linux file system using basic commands
+Use basic file and directory management commands
+
+Materials:
+
+Linux computers or virtual machines for each student
+Projector/screen for demonstrations
+Handout with key Linux commands
+
+Lesson Outline:
+I. Introduction (10 minutes)
+
+Brief history of Linux
+Key features and benefits of Linux
+
+II. Linux System Structure (15 minutes)
+
+Kernel, shell, and utilities
+File system hierarchy
+Users and permissions
+
+III. Basic Navigation (20 minutes)
+
+pwd, cd, ls commands
+Absolute vs relative paths
+Demonstration and practice
+
+IV. File and Directory Management (30 minutes)
+
+Creating directories (mkdir)
+Creating and editing files (touch, nano)
+Copying, moving, and deleting (cp, mv, rm)
+Demonstration and guided practice
+
+V. Practice Exercise (10 minutes)
+
+Students complete a series of file/directory operations
+
+VI. Conclusion and Q&A (5 minutes)
+
+Recap key points
+Address any questions
+
+Assessment:
+
+Observation of student practice
+Completion of practice exercise
+Pop quiz on key commands at start of next lesson
+
+Homework:
+
+Read introductory chapter on Linux in textbook
+Practice basic commands in home directory
+
+This lesson provides a foundational overview of Linux and gets students hands-on with essential navigation and file management tasks. Subsequent lessons can build on these basics to cover more advanced topics.

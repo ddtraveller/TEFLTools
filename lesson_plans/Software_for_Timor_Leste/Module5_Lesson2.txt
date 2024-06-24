@@ -1,0 +1,101 @@
+# Module 5: Databases and SQL
+## Lesson 2: SQL Fundamentals
+
+**Duration:** 90 minutes
+
+### Lesson Objectives:
+By the end of this lesson, students will be able to:
+1. Understand the purpose and importance of SQL
+2. Write basic SQL queries to create tables and insert data
+3. Use SELECT statements to retrieve data from tables
+4. Apply basic filtering and sorting to SQL queries
+5. Perform simple joins between two tables
+
+### Materials:
+- Computers with a SQL database system installed (e.g., PostgreSQL)
+- Projector for demonstrations
+- Handouts with SQL syntax reference
+- Recommended textbook: "PostgresSQL 10 Administrator's Cookbook"
+
+### Lesson Plan:
+
+1. **Introduction (10 minutes)**
+   - Recap key concepts from the previous lesson on relational databases
+   - Introduce SQL: "Structured Query Language for managing and querying relational databases"
+   - Outline the objectives for this lesson
+
+2. **SQL Basics and Importance (15 minutes)**
+   - Explain the role of SQL in database management
+   - Discuss different SQL flavors (e.g., PostgreSQL, MySQL, SQLite)
+   - Demonstrate the basic structure of SQL statements
+
+3. **Creating Tables and Inserting Data (20 minutes)**
+   - Introduce the CREATE TABLE statement
+   - Demonstrate creating a simple table (e.g., Students table)
+   ```sql
+   CREATE TABLE Students (
+     sid CHAR(20) PRIMARY KEY,
+     name VARCHAR(50),
+     login VARCHAR(50),
+     age INTEGER,
+     gpa REAL
+   );
+   ```
+   - Explain the INSERT INTO statement
+   - Show how to insert data into the table
+   ```sql
+   INSERT INTO Students (sid, name, login, age, gpa)
+   VALUES ('53666', 'Jones', 'jones@cs', 18, 3.4);
+   ```
+   - Guided practice: Have students create a Courses table and insert sample data
+
+4. **Retrieving Data with SELECT (20 minutes)**
+   - Introduce the SELECT statement and its basic syntax
+   - Demonstrate querying all columns: `SELECT * FROM Students;`
+   - Show how to select specific columns: `SELECT name, gpa FROM Students;`
+   - Explain the WHERE clause for filtering data
+   ```sql
+   SELECT name, age FROM Students WHERE gpa > 3.0;
+   ```
+   - Introduce ORDER BY for sorting results
+   ```sql
+   SELECT * FROM Students ORDER BY gpa DESC;
+   ```
+   - Guided practice: Have students write queries to retrieve and filter data from their Courses table
+
+5. **Joining Tables (15 minutes)**
+   - Explain the concept of joining tables
+   - Demonstrate a simple INNER JOIN
+   ```sql
+   SELECT Students.name, Courses.cid
+   FROM Students
+   INNER JOIN Enrolled ON Students.sid = Enrolled.studid
+   INNER JOIN Courses ON Enrolled.cid = Courses.cid;
+   ```
+   - Discuss the importance of relationships between tables in joins
+
+6. **Hands-on Activity (10 minutes)**
+   - Provide a set of questions that require students to write SQL queries
+   - Examples:
+     - List all students with a GPA above 3.5
+     - Find the names of all students enrolled in a specific course
+     - Get the average GPA of students in each course
+
+7. **Conclusion and Preview (5 minutes)**
+   - Recap the main SQL concepts covered
+   - Preview the next lesson: "Advanced SQL Queries"
+   - Encourage students to practice writing queries
+
+### Assessment:
+- Participation in guided practice sessions
+- Quality and correctness of queries written during the hands-on activity
+- Short quiz at the beginning of the next lesson to review SQL fundamentals
+
+### Homework:
+1. Read assigned chapters on SQL basics from the textbook
+2. Complete a set of SQL exercises (provided as a handout) that cover creating tables, inserting data, and writing various SELECT queries
+3. Write a short reflection (1-2 paragraphs) on potential uses of SQL in real-world applications
+
+### Additional Resources:
+- Online SQL practice platforms (e.g., SQLZoo, W3Schools SQL Tutorial)
+- Official PostgreSQL documentation for further reading

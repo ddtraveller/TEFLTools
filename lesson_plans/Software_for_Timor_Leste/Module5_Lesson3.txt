@@ -1,0 +1,117 @@
+# Module 5: Databases and SQL
+## Lesson 3: PostgreSQL Basics
+
+**Duration:** 90 minutes
+
+### Lesson Objectives:
+By the end of this lesson, students will be able to:
+1. Navigate the PostgreSQL command-line interface (psql)
+2. Understand and use basic PostgreSQL data types
+3. Create and manage databases and tables in PostgreSQL
+4. Perform basic data manipulation operations (INSERT, UPDATE, DELETE)
+5. Execute simple queries using SELECT statements
+
+### Materials:
+- Computers with PostgreSQL installed
+- Projector for demonstrations
+- Handouts with PostgreSQL cheat sheet
+- Recommended textbook: "PostgreSQL 10 Administrator's Cookbook"
+
+### Lesson Plan:
+
+1. **Introduction (10 minutes)**
+   - Recap key concepts from previous lessons
+   - Introduce PostgreSQL-specific features and syntax
+   - Outline the objectives for this lesson
+
+2. **Navigating psql (15 minutes)**
+   - Demonstrate how to connect to PostgreSQL using psql
+   - Explain common psql commands:
+     - `\l` (list databases)
+     - `\c` (connect to a database)
+     - `\dt` (list tables)
+     - `\d table_name` (describe table)
+     - `\q` (quit psql)
+   - Guided practice: Have students connect to PostgreSQL and explore these commands
+
+3. **PostgreSQL Data Types (15 minutes)**
+   - Introduce common PostgreSQL data types:
+     - Numeric types (INT, SERIAL, NUMERIC)
+     - Character types (VARCHAR, TEXT)
+     - Date/Time types (DATE, TIME, TIMESTAMP)
+     - Boolean type
+   - Discuss when to use each data type
+   - Demonstrate how to check available data types using `\dT+`
+
+4. **Creating and Managing Databases and Tables (20 minutes)**
+   - Demonstrate creating a new database:
+     ```sql
+     CREATE DATABASE school;
+     ```
+   - Show how to create a table with various data types:
+     ```sql
+     CREATE TABLE students (
+       id SERIAL PRIMARY KEY,
+       name VARCHAR(100) NOT NULL,
+       email VARCHAR(100) UNIQUE,
+       birth_date DATE,
+       gpa NUMERIC(3,2)
+     );
+     ```
+   - Explain the concept of constraints (PRIMARY KEY, NOT NULL, UNIQUE)
+   - Guided practice: Have students create their own database and table
+
+5. **Data Manipulation: INSERT, UPDATE, DELETE (15 minutes)**
+   - Demonstrate basic data manipulation operations:
+     ```sql
+     -- Insert data
+     INSERT INTO students (name, email, birth_date, gpa)
+     VALUES ('John Doe', 'john@example.com', '2000-01-15', 3.75);
+
+     -- Update data
+     UPDATE students SET gpa = 3.80 WHERE name = 'John Doe';
+
+     -- Delete data
+     DELETE FROM students WHERE name = 'John Doe';
+     ```
+   - Explain the importance of the WHERE clause in UPDATE and DELETE operations
+   - Guided practice: Have students perform these operations on their own tables
+
+6. **Basic Queries with SELECT (15 minutes)**
+   - Introduce the SELECT statement and its basic syntax
+   - Demonstrate various query examples:
+     ```sql
+     -- Select all columns
+     SELECT * FROM students;
+
+     -- Select specific columns
+     SELECT name, gpa FROM students;
+
+     -- Use WHERE clause for filtering
+     SELECT name, gpa FROM students WHERE gpa > 3.5;
+
+     -- Order results
+     SELECT name, gpa FROM students ORDER BY gpa DESC;
+     ```
+   - Explain the use of wildcards and the LIKE operator for pattern matching
+   - Guided practice: Have students write their own queries
+
+7. **Conclusion and Preview (5 minutes)**
+   - Recap the main PostgreSQL concepts covered
+   - Preview the next lesson: "Advanced PostgreSQL Features"
+   - Encourage students to practice using psql and writing queries
+
+### Assessment:
+- Participation in guided practice sessions
+- Quality and correctness of database, table creation, and queries written during the hands-on activities
+- Short quiz at the beginning of the next lesson to review PostgreSQL basics
+
+### Homework:
+1. Read assigned chapters on PostgreSQL basics from the textbook
+2. Complete a set of PostgreSQL exercises that cover creating databases, tables, inserting data, and writing various SELECT queries
+3. Create a small database schema for a domain of their choice (e.g., a library system, a music collection) with at least three related tables, and write 5 meaningful queries for this schema
+
+### Additional Resources:
+- Official PostgreSQL documentation (https://www.postgresql.org/docs/)
+- PostgreSQL Exercises website (https://pgexercises.com/)
+- "PostgreSQL: Up and Running" by Regina O. Obe and Leo S. Hsu (for further reading)

@@ -1,0 +1,80 @@
+# Module 6: Linux and Networking Essentials
+## Lesson 4: Networking Fundamentals
+
+Duration: 120 minutes
+
+### Lesson Objectives:
+By the end of this lesson, students will be able to:
+1. Understand the OSI model and its layers
+2. Explain the difference between Layer 2 and Layer 3 networking
+3. Describe basic networking concepts like IP addressing, subnetting, and VLANs
+4. Use common Linux networking tools for troubleshooting
+
+### Materials:
+- Linux computers or virtual machines for each student
+- Projector/screen for demonstrations
+- Handout with networking terminology and commands
+
+### Lesson Outline:
+
+I. Introduction to Networking Models (20 minutes)
+   - The OSI Model: 7 layers and their functions
+   - TCP/IP Model: How it relates to OSI
+   - Focus on Layer 2 (Data Link) and Layer 3 (Network)
+
+II. Layer 2 Networking Concepts (25 minutes)
+   - MAC addresses
+   - Ethernet frames
+   - Switches and bridging
+   - VLANs: Purpose and basic configuration
+   - Demonstration: Using 'ip link' to view and configure interfaces
+
+III. Layer 3 Networking Concepts (30 minutes)
+   - IP addressing (IPv4 and brief intro to IPv6)
+   - Subnetting basics
+   - Routing concepts
+   - NAT and PAT
+   - Demonstration: Using 'ip addr' and 'ip route' commands
+
+IV. Common Networking Protocols (15 minutes)
+   - ARP
+   - DHCP
+   - DNS
+   - Brief overview of TCP vs UDP
+
+V. Linux Networking Tools (25 minutes)
+   - ping: Testing connectivity
+   - traceroute: Tracing the path of packets
+   - netstat: Viewing network connections
+   - ss: Another tool for investigating sockets
+   - tcpdump: Capturing and analyzing network traffic
+   - Hands-on practice with these tools
+
+VI. Practice Exercise (10 minutes)
+   - Students use various networking tools to diagnose a simulated network issue
+
+VII. Conclusion and Q&A (5 minutes)
+   - Recap key points
+   - Address any questions
+
+### Key Concepts and Commands to Cover:
+1. OSI and TCP/IP models
+2. MAC addresses vs IP addresses
+3. Subnetting
+4. VLANs
+5. ARP, DHCP, DNS
+6. ip link, ip addr, ip route commands
+7. ping, traceroute, netstat, ss, tcpdump
+
+### Assessment:
+- Observation of student practice during hands-on sections
+- Completion of the network diagnosis exercise
+- Short quiz on key networking concepts at the start of next lesson
+
+### Homework:
+- Research and write a brief report on how NAT works and its importance in IPv4 networking
+- Practice subnetting: provide a set of IP addressing problems for students to solve
+
+### Additional Resources:
+- Online subnet calculator
+- Wireshark for deeper packet analysis (if time permits in future lessons)

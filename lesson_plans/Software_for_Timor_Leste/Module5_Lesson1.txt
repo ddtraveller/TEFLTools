@@ -1,0 +1,75 @@
+# Module 5: Databases and SQL
+## Lesson 1: Introduction to Relational Databases
+
+**Duration:** 90 minutes
+
+### Lesson Objectives:
+By the end of this lesson, students will be able to:
+1. Define what a database and a Database Management System (DBMS) are
+2. Explain the concept of a relational database
+3. Identify the components of a relational database (tables, rows, columns)
+4. Understand the concept of keys (primary and foreign)
+5. Create a simple Entity-Relationship (ER) diagram
+
+### Materials:
+- Whiteboard and markers
+- Computer with projector
+- Handouts with example database tables
+- Recommended textbook: "PostgresSQL 10 Administrator's Cookbook"
+
+### Lesson Plan:
+
+1. **Introduction (10 minutes)**
+   - Welcome students to the Databases and SQL module
+   - Briefly outline the importance of databases in software development
+   - Introduce the objectives for this lesson
+
+2. **What is a Database? (15 minutes)**
+   - Define a database: "A collection of persistent data"
+   - Explain DBMS: "Software system that supports creation, population, and querying of a database"
+   - Discuss real-world examples of databases (e.g., library catalog, online store inventory)
+   - Class discussion: Ask students to share examples of databases they encounter in daily life
+
+3. **Introduction to Relational Databases (20 minutes)**
+   - Define a relational database: "A database that organizes data into tables with relationships between them"
+   - Explain key components:
+     - Tables (relations)
+     - Rows (tuples)
+     - Columns (attributes)
+   - Show an example table on the whiteboard (e.g., Students table from the provided content)
+   - Discuss the concept of schema: "The structure that defines the organization of data in a database"
+
+4. **Keys in Relational Databases (20 minutes)**
+   - Introduce the concept of keys
+   - Explain Primary Key: "A minimal subset of fields that uniquely identifies a row in a table"
+   - Discuss Foreign Key: "A field (or set of fields) in one table that refers to the primary key in another table"
+   - Provide examples of primary and foreign keys using the Students and Courses tables from the document
+
+5. **Entity-Relationship (ER) Diagrams (15 minutes)**
+   - Introduce ER diagrams as a way to visualize database structure
+   - Demonstrate how to create a simple ER diagram using the Students and Courses tables
+   - Show how to represent relationships (e.g., many-to-many relationship between Students and Courses)
+
+6. **Hands-on Activity (10 minutes)**
+   - Divide students into small groups
+   - Provide a scenario (e.g., a small library system) and ask them to:
+     - Identify entities (tables)
+     - Define attributes for each entity
+     - Determine primary keys
+     - Identify relationships between entities
+   - Ask groups to sketch a simple ER diagram for their system
+
+7. **Conclusion and Preview (5 minutes)**
+   - Recap the main points of the lesson
+   - Preview the next lesson: "Working with SQL"
+   - Assign reading from "PostgresSQL 10 Administrator's Cookbook" (relevant chapters on database basics)
+
+### Assessment:
+- Participation in class discussions
+- Quality of ER diagrams created during the hands-on activity
+- Short quiz at the beginning of the next lesson to review key concepts
+
+### Homework:
+1. Read assigned chapters from the textbook
+2. Create an ER diagram for a simple system of their choice (e.g., a music streaming service, a social media platform)
+3. Write a short paragraph explaining the entities, attributes, and relationships in their diagram
