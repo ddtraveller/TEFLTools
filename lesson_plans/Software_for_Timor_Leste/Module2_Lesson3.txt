@@ -119,8 +119,7 @@ Objectives:
 Activities:
 1. (20 min) Review of previous session and homework
 2. (35 min) Selecting columns and rows in DataFrames
-3. (35 min) Filtering data with boolean indexing
-4. (25 min) Using loc[] and iloc[] for data selection
+
 5. (5 min) Q&A and wrap-up
 
 Homework: Perform various selection and filtering operations on the Timor-Leste dataset
@@ -132,7 +131,8 @@ Objectives:
 - Perform grouping and aggregation operations
 
 Activities:
-1. (20 min) Review of previous session and homework
+3. (35 min) Filtering data with boolean indexing
+4. (25 min) Using loc[] and iloc[] for data selection
 2. (35 min) Applying functions to Series and DataFrames
 3. (35 min) Grouping data with groupby()
 4. (25 min) Aggregation functions: sum(), mean(), count(), etc.
