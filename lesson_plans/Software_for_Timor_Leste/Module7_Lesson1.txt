@@ -1,0 +1,70 @@
+# Module 7: Containerization and Deployment - Docker Basics (2 weeks)
+
+## Week 1: Introduction to Docker and Basic Concepts
+
+### Day 1: Introduction to Containerization and Docker
+- Lesson 1: What is containerization?
+- Lesson 2: Introduction to Docker and its architecture
+- Activity: Install Docker on local machines
+
+### Day 2: Docker Images and Containers
+- Lesson 3: Understanding Docker images
+- Lesson 4: Working with Docker containers
+- Lab: Pull an image from Docker Hub and run a container
+
+### Day 3: Dockerfile Basics
+- Lesson 5: Creating a Dockerfile
+- Lesson 6: Building custom Docker images
+- Workshop: Write a simple Dockerfile and build an image
+
+### Day 4: Docker Commands and Container Lifecycle
+- Lesson 7: Essential Docker commands
+- Lesson 8: Container lifecycle management
+- Lab: Practice Docker commands and manage container lifecycle
+
+### Day 5: Docker Networking Basics
+- Lesson 9: Docker network types
+- Lesson 10: Connecting containers
+- Activity: Create a network and connect containers
+
+## Week 2: Advanced Docker Concepts and Deployment
+
+### Day 6: Docker Volumes and Persistence
+- Lesson 11: Understanding Docker volumes
+- Lesson 12: Data persistence in Docker
+- Lab: Implement data persistence using Docker volumes
+
+### Day 7: Docker Compose
+- Lesson 13: Introduction to Docker Compose
+- Lesson 14: Writing docker-compose.yml files
+- Workshop: Create a multi-container application using Docker Compose
+
+### Day 8: Docker Security Best Practices
+- Lesson 15: Security considerations in Docker
+- Lesson 16: Implementing Docker security best practices
+- Activity: Secure a Docker environment
+
+### Day 9: Docker in CI/CD
+- Lesson 17: Integrating Docker in CI/CD pipelines
+- Lesson 18: Automated testing and deployment with Docker
+- Lab: Set up a simple CI/CD pipeline using Docker
+
+### Day 10: Docker Orchestration Preview and Course Wrap-up
+- Lesson 19: Introduction to container orchestration (Kubernetes preview)
+- Lesson 20: Best practices and real-world Docker usage
+- Final Project: Deploy a containerized application
+
+## Assessment:
+- Daily quizzes on key concepts
+- Hands-on labs and workshops
+- Final project: Containerize and deploy a web application using Docker
+
+## Resources:
+- "Docker Deep Dive" by Nigel Poulton
+- Docker official documentation
+- Docker Hub for image exploration
+
+## Homework:
+- Daily reading assignments from "Docker Deep Dive"
+- Practice exercises using Docker Playground
+- Prepare incremental parts of the final project throughout the course

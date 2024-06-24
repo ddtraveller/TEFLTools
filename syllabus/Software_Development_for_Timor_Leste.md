@@ -44,7 +44,7 @@ This intensive program is designed to equip students in Timor-Leste with a broad
 **Readings:** "PostgresSQL 10 Administrator's Cookbook"
 
 ## Module 6: Linux and Networking Essentials (3 weeks)
-- CentOS basics: filesystem, package management (Yum)
+- Linux basics
 - Services, daemons, and scheduled tasks
 - Bash scripting
 - Networking fundamentals
@@ -62,7 +62,6 @@ This intensive program is designed to equip students in Timor-Leste with a broad
 - Introduction to generative AI
 - Using AI for code assistance and problem-solving
 - Geospatial development in Python
-- Advanced metrics and analytics
 
 **Readings:** "Building LLMs for Production", "Python Geospatial Development"
 

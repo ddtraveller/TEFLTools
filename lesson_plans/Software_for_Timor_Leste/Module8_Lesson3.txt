@@ -1,0 +1,97 @@
+# Module 8: Generative AI and Advanced Topics
+## Lesson 3: Geospatial Development in Python
+
+### Lesson Objectives
+By the end of this lesson, students will be able to:
+1. Understand the basics of geospatial data and GIS concepts
+2. Set up a Python environment for geospatial development
+3. Work with common geospatial data formats using Python libraries
+4. Perform basic geospatial operations and analyses
+5. Visualize geospatial data using Python
+
+### Duration
+3 hours
+
+### Prerequisites
+- Basic Python programming skills
+- Familiarity with data analysis concepts
+- Understanding of basic geographic concepts
+
+### Materials
+- Computers with Python 3.x installed
+- Jupyter Notebook or preferred Python IDE
+- Sample geospatial datasets (e.g., shapefiles, GeoJSON)
+- Slide deck on geospatial concepts and Python libraries
+
+### Lesson Outline
+
+#### 1. Introduction to Geospatial Development (30 minutes)
+- Overview of Geographic Information Systems (GIS)
+- Types of geospatial data: vector and raster
+- Common geospatial file formats
+- Introduction to Python's geospatial ecosystem
+
+#### 2. Setting Up the Python Environment (30 minutes)
+- Installing key geospatial libraries: GeoPandas, Shapely, Fiona
+- Introduction to GeoPandas and its capabilities
+- Importing and exploring sample datasets
+
+#### 3. Working with Vector Data (45 minutes)
+- Reading and writing shapefiles and GeoJSON
+- Basic geometric operations with Shapely
+- Spatial joins and overlays using GeoPandas
+- Hands-on exercise: Analyzing point data within polygons
+
+#### 4. Raster Data Processing (30 minutes)
+- Introduction to raster data concepts
+- Using Rasterio for raster operations
+- Basic raster analysis and manipulation
+- Demo: Extracting elevation data from a DEM
+
+#### 5. Geospatial Analysis (45 minutes)
+- Calculating distances and areas
+- Creating buffers around features
+- Spatial queries and filtering
+- Hands-on exercise: Identifying features within a specific distance
+
+#### 6. Visualizing Geospatial Data (30 minutes)
+- Creating maps using GeoPandas and Matplotlib
+- Adding basemaps with Contextily
+- Customizing map appearances
+- Demo: Creating an interactive map with Folium
+
+#### 7. Q&A and Wrap-up (30 minutes)
+- Review of key concepts
+- Discussion on real-world applications of geospatial development
+- Resources for further learning
+- Preview of potential integration with AI and machine learning
+
+### Activities
+
+#### Activity 1: Geospatial Analysis Challenge (25 minutes)
+- Divide students into small groups
+- Provide each group with a real-world geospatial problem (e.g., optimal location for a new store)
+- Have groups use Python to analyze the data and present their findings
+
+#### Activity 2: Custom Map Creation (20 minutes)
+- Individual exercise
+- Students create a custom map of their choice using provided datasets
+- Encourage creativity in map design and data representation
+
+### Assessment
+- Quiz on geospatial concepts and Python libraries (15 minutes)
+- Practical assignment: Solve a geospatial problem using Python, documenting the process and results (homework)
+
+### Additional Resources
+- "Python Geospatial Development" by Erik Westra
+- GeoPandas documentation: https://geopandas.org/
+- "Geospatial Analysis" by Michael de Smith, Michael Goodchild, and Paul Longley (online book)
+- QGIS Tutorials for supplementary learning: https://www.qgistutorials.com/
+
+### Homework
+1. Complete the practical assignment of solving a geospatial problem with Python
+2. Explore one advanced geospatial library not covered in class (e.g., PySAL, scikit-learn) and prepare a brief presentation on its capabilities
+3. Find and share an interesting geospatial dataset, explaining its potential applications
+
+### Next Lesson Preview
+In the next lesson, we will explore advanced metrics and analytics, focusing on how to measure and optimize the performance of software systems, including geospatial applications.

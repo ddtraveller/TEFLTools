@@ -1,0 +1,90 @@
+# Module 7, Lesson 3: CI/CD Principles and Metric Capture
+
+## Lesson Objectives
+By the end of this lesson, students will be able to:
+1. Understand the principles of Continuous Integration (CI) and Continuous Delivery/Deployment (CD)
+2. Explain the benefits of implementing CI/CD in software development
+3. Identify key metrics for measuring CI/CD effectiveness
+4. Set up a basic CI/CD pipeline using a popular tool
+5. Implement metric capture in a CI/CD pipeline
+
+## Duration
+3 hours
+
+## Prerequisites
+- Basic understanding of version control (Git)
+- Familiarity with containerization and Kubernetes
+- Basic programming knowledge
+
+## Materials
+- Git repository with a sample application
+- Access to a CI/CD tool (e.g., Jenkins, GitLab CI, or GitHub Actions)
+- Kubernetes cluster for deployment
+
+## Lesson Outline
+
+### 1. Introduction to CI/CD (30 minutes)
+- Definitions of Continuous Integration, Continuous Delivery, and Continuous Deployment
+- Benefits of CI/CD in software development
+- CI/CD workflow overview
+
+### 2. CI/CD Principles (45 minutes)
+- Automate everything
+- Version control everything
+- Build once, deploy many times
+- Deploy the same way to every environment
+- Smoke test your deployments
+- Stop the line when the build breaks
+- Make the build status highly visible
+- Embrace trunk-based development
+
+### 3. Key Metrics for CI/CD (45 minutes)
+- Deployment frequency
+- Lead time for changes
+- Mean time to recovery (MTTR)
+- Change failure rate
+- Cycle time
+- Code coverage
+- Build duration
+- Deployment duration
+
+### 4. Setting Up a Basic CI/CD Pipeline (60 minutes)
+- Choosing a CI/CD tool
+- Configuring the build process
+- Setting up automated tests
+- Implementing automated deployment to Kubernetes
+- Adding quality gates and approvals
+
+### 5. Implementing Metric Capture (30 minutes)
+- Tools for metric capture (e.g., Prometheus, Grafana)
+- Integrating metric capture into the CI/CD pipeline
+- Creating dashboards for CI/CD metrics
+
+## Activities
+
+### Activity 1: CI/CD Principle Discussion (15 minutes)
+- Divide students into small groups
+- Assign each group a CI/CD principle to discuss
+- Have groups present their understanding and potential challenges of implementing the principle
+
+### Activity 2: Setting Up a CI/CD Pipeline (45 minutes)
+- Provide students with a sample application in a Git repository
+- Guide them through setting up a basic CI/CD pipeline using a chosen tool
+- Implement automated testing and deployment to a Kubernetes cluster
+
+## Assessment
+- Quiz on CI/CD principles and metrics (15 minutes)
+- Practical exercise: Enhance the CI/CD pipeline with additional stages and metric capture (homework)
+
+## Additional Resources
+- Continuous Delivery by Jez Humble and David Farley
+- The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, and John Willis
+- Google's DevOps Research and Assessment (DORA) metrics: https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance
+
+## Homework
+1. Enhance the CI/CD pipeline created in class with additional stages (e.g., security scanning, performance testing)
+2. Implement metric capture for at least three CI/CD metrics
+3. Create a simple dashboard to visualize the captured metrics
+
+## Next Lesson Preview
+In the next lesson, we will explore advanced topics in CI/CD, including blue-green deployments, canary releases, and feature flags.

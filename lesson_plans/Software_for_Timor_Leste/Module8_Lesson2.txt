@@ -1,0 +1,92 @@
+# Module 8: Generative AI and Advanced Topics
+## Lesson 2: Using AI for Code Assistance and Problem-Solving
+
+### Lesson Objectives
+By the end of this lesson, students will be able to:
+1. Understand the capabilities and limitations of AI-powered code assistants
+2. Effectively use AI tools for code completion, generation, and refactoring
+3. Leverage AI assistance for debugging and problem-solving
+4. Critically evaluate AI-generated code and suggestions
+5. Discuss ethical considerations and best practices when using AI for coding
+
+### Duration
+3 hours
+
+### Prerequisites
+- Basic understanding of generative AI concepts
+- Familiarity with at least one programming language
+- Access to an AI-powered code assistant (e.g., GitHub Copilot, JetBrains AI Assistant)
+
+### Materials
+- Computers with internet access and necessary software installed
+- Access to a shared code repository for collaborative exercises
+- Slide deck on AI code assistance tools and best practices
+- Handout with example coding problems and scenarios
+
+### Lesson Outline
+
+#### 1. Introduction to AI-Powered Code Assistants (30 minutes)
+- Overview of popular AI code assistance tools
+- Capabilities and limitations of current AI assistants
+- How AI assistants fit into the software development workflow
+
+#### 2. Effective Use of AI for Code Completion and Generation (45 minutes)
+- Techniques for writing effective prompts
+- Demonstration of code completion and generation
+- Hands-on exercise: Using AI to complete and generate code snippets
+
+#### 3. AI-Assisted Refactoring and Code Improvement (30 minutes)
+- Using AI to identify areas for refactoring
+- Demonstration of AI-suggested code improvements
+- Discussion on balancing AI suggestions with human expertise
+
+#### 4. Leveraging AI for Debugging and Problem-Solving (45 minutes)
+- Strategies for describing coding problems to AI assistants
+- Using AI to generate test cases and identify edge cases
+- Hands-on exercise: Debugging a provided code sample using AI assistance
+
+#### 5. Critical Evaluation of AI-Generated Code (30 minutes)
+- Importance of reviewing and understanding AI-generated code
+- Common pitfalls and potential security risks
+- Strategies for verifying and testing AI-suggested solutions
+
+#### 6. Ethical Considerations and Best Practices (30 minutes)
+- Discussion on the ethical implications of using AI for coding
+- Best practices for integrating AI assistants into development workflows
+- Balancing productivity gains with skill development
+
+#### 7. Q&A and Wrap-up (30 minutes)
+- Open discussion on students' experiences with AI code assistants
+- Addressing remaining questions and concerns
+- Preview of upcoming lessons on advanced AI topics in software development
+
+### Activities
+
+#### Activity 1: AI-Assisted Code Generation Challenge (20 minutes)
+- Divide students into pairs
+- Provide each pair with a set of coding tasks (e.g., implement a sorting algorithm, create a REST API endpoint)
+- Challenge students to use AI assistants to generate initial code and then collaborate to refine and improve it
+- Compare and discuss different approaches and results
+
+#### Activity 2: AI Debugging Relay (25 minutes)
+- Create groups of 3-4 students
+- Provide each group with a complex bug in a code sample
+- Students take turns using AI assistance to identify and fix parts of the bug
+- Groups present their debugging process and final solution to the class
+
+### Assessment
+- Quiz on AI code assistance concepts and best practices (15 minutes)
+- Practical assignment: Solve a coding problem using AI assistance, documenting the process and critically evaluating the AI's contributions (homework)
+
+### Additional Resources
+- "The Pragmatic Programmer" by Andrew Hunt and David Thomas (chapter on code generation)
+- GitHub Copilot documentation and best practices
+- "AI-Assisted Software Engineering: Survey and Future Directions" research paper
+
+### Homework
+1. Complete the practical assignment of solving a coding problem with AI assistance
+2. Write a short reflection (500 words) on the benefits and challenges of using AI for coding, based on personal experience
+3. Explore an AI code assistant not covered in class and prepare a brief presentation on its unique features
+
+### Next Lesson Preview
+In the next lesson, we will explore advanced applications of AI in software development, including automated testing, code review, and predictive maintenance.

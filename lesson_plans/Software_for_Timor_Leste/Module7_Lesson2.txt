@@ -1,0 +1,80 @@
+# Module 7, Lesson 2: Container Orchestration with Kubernetes
+
+## Lesson Objectives
+By the end of this lesson, students will be able to:
+1. Understand the concept of container orchestration
+2. Explain the basic architecture of Kubernetes
+3. Describe key Kubernetes objects and their functions
+4. Deploy a simple application using Kubernetes
+
+## Duration
+3 hours
+
+## Prerequisites
+- Basic understanding of containerization and Docker
+- Familiarity with YAML
+
+## Materials
+- Kubernetes cluster (local or cloud-based)
+- kubectl CLI tool
+- Sample application containerized with Docker
+
+## Lesson Outline
+
+### 1. Introduction to Container Orchestration (30 minutes)
+- Definition and need for container orchestration
+- Benefits of using container orchestration
+- Overview of popular orchestration tools
+- Introduction to Kubernetes
+
+### 2. Kubernetes Architecture (45 minutes)
+- Control plane components (API server, etcd, scheduler, controller manager)
+- Node components (kubelet, kube-proxy, container runtime)
+- Kubernetes cluster structure (master and worker nodes)
+- High-level overview of how Kubernetes works
+
+### 3. Key Kubernetes Objects (60 minutes)
+- Pods
+- ReplicaSets
+- Deployments
+- Services
+- ConfigMaps and Secrets
+- Volumes and Persistent Volumes
+- Namespaces
+
+### 4. Hands-on: Deploying an Application with Kubernetes (45 minutes)
+- Writing Kubernetes YAML manifests
+- Using kubectl to create and manage resources
+- Deploying a sample application
+- Scaling the application
+- Exposing the application using a Service
+
+## Activities
+
+### Activity 1: Kubernetes Object Matching Game (15 minutes)
+- Provide students with a list of Kubernetes objects and their descriptions
+- Ask them to match the objects with their correct descriptions
+- Discuss the answers as a group
+
+### Activity 2: Deploying a Sample Application (30 minutes)
+- Provide students with a pre-containerized application
+- Guide them through creating necessary Kubernetes YAML manifests
+- Have students deploy the application to a Kubernetes cluster
+- Demonstrate how to scale the application and expose it using a Service
+
+## Assessment
+- Quiz on Kubernetes concepts and architecture (15 minutes)
+- Practical exercise: Deploy and scale a given application using Kubernetes (homework)
+
+## Additional Resources
+- Kubernetes official documentation: https://kubernetes.io/docs/home/
+- "Kubernetes: Up and Running" book by Kelsey Hightower
+- Kubernetes the Hard Way: https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+## Homework
+1. Complete the practical exercise of deploying and scaling an application
+2. Read the Kubernetes networking and service discovery concepts
+3. Prepare questions for the next lesson on advanced Kubernetes topics
+
+## Next Lesson Preview
+In the next lesson, we will dive deeper into Kubernetes networking, service discovery, and explore more advanced concepts like Ingress and StatefulSets.
