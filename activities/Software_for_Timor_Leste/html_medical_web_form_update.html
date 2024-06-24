@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Generic Medical Intake Form</title>
+</head>
+<body>
+    <h1>Generic Medical Intake Form</h1>
+    <form id="intake-form">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="dob">Date of Birth:</label>
+            <input type="date" id="dob" name="dob" required><br>
+
+            <!-- Step 1: Change the radio buttons to a dropdown list -->
+            <label for="gender">Gender:</label><br>
+            <input type="radio" id="male" name="gender" value="male" required>
+            <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="female" required>
+            <label for="female">Female</label><br>
+            <!-- <label for="gender">Gender:</label>
+            <select id="gender" name="gender" required>
+                <option value="">Select Gender</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+            </select><br> -->
+
+            <label for="phone">Phone:</label>
+            <input type="tel" id="phone" name="phone" required><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Medical History</legend>
+            <!-- Step 2: Add checkboxes for common medical conditions by uncommenting the input and label tags below. -->
+            <input type="checkbox" id="diabetes" name="medical_history" value="diabetes">
+            <label for="diabetes">Diabetes</label><br>
+            <input type="checkbox" id="hypertension" name="medical_history" value="hypertension">
+            <label for="hypertension">Hypertension</label><br>
+
+            <label for="medications">Current Medications:</label><br>
+            <textarea id="medications" name="medications" rows="4" cols="50"></textarea><br>
+
+            <label for="allergies">Allergies:</label><br>
+            <textarea id="allergies" name="allergies" rows="4" cols="50"></textarea><br>
+        </fieldset>
+
+        <!-- Step 3: Add a section for emergency contact information -->
+        <!-- <fieldset>
+            <legend>Emergency Contact</legend>
+            <label for="emergency_name">Name:</label>
+            <input type="text" id="emergency_name" name="emergency_name" required><br>
+
+            <label for="emergency_phone">Phone:</label>
+            <input type="tel" id="emergency_phone" name="emergency_phone" required><br>
+
+            <label for="emergency_relationship">Relationship:</label>
+            <input type="text" id="emergency_relationship" name="emergency_relationship" required><br>
+        </fieldset> -->
+
+        <!-- Step 4: Add a submit button by uncommenting the input tag below. -->
+        <!--<input type="submit" value="Submit">-->
+    </form>
+
+    <!-- Step 5: Add a section to display the submitted form data by uncommenting the h2 and div tags below. -->
+    <!--<h2>Submitted Form Data</h2>
+    <div id="form-data"></div>-->
+
+    <script>
+        // Step 6: Add JavaScript to handle form submission and display form data
+        // Replace 'INSERT_ELEMENT' with 'intake-form' in the line below
+        const form = document.getElementById('intake-form');
+        const formDataDiv = document.getElementById('form-data');
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(form);
+            let formDataString = '';
+            for (const [key, value] of formData.entries()) {
+                formDataString += `${key}: ${value}<br>`;
+            }
+            formDataDiv.innerHTML = formDataString;
+        });
+    </script>
+
+    <!-- Step 7: Add a date picker for the appointment date -->
+    <!-- <label for="appointment_date">Appointment Date:</label>
+    <input type="date" id="appointment_date" name="appointment_date" required><br> -->
+
+    <!-- Step 8: Add a time picker for the appointment time -->
+    <!-- <label for="appointment_time">Appointment Time:</label>
+    <input type="time" id="appointment_time" name="appointment_time" required><br> -->
+
+    <!-- Step 9: Add a color picker for the patient's favorite color -->
+    <!-- <label for="favorite_color">Favorite Color:</label>
+    <input type="color" id="favorite_color" name="favorite_color"><br> -->
+
+    <!-- Step 10: Add a range slider for pain level -->
+    <!-- <label for="pain_level">Pain Level:</label>
+    <input type="range" id="pain_level" name="pain_level" min="0" max="10" step="1"><br> -->
+
+    <!-- Step 11: Make the name field required -->
+    <!-- <input type="text" id="name" name="name" required><br> -->
+
+    <!-- Step 12: Set a minimum and maximum length for the phone number -->
+    <!-- <input type="tel" id="phone" name="phone" minlength="10" maxlength="15" required><br> -->
+
+    <!-- Step 13: Add a minimum and maximum value for the pain level -->
+    <!-- <input type="range" id="pain_level" name="pain_level" min="0" max="10" step="1"><br> -->
+
+    <!-- Step 14: Set a minimum and maximum date for the appointment date -->
+    <!-- <input type="date" id="appointment_date" name="appointment_date" min="2023-01-01" max="2023-12-31" required><br> -->
+
+</body>
+</html>

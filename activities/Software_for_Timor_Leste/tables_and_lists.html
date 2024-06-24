@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Timor-Leste Economic Data and Cultural Events</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Timor-Leste Economic Data and Cultural Events</h1>
+
+    <table>
+        <tr>
+            <th>Year</th>
+            <th>GDP (USD Billions)</th>
+            <th>GDP Growth (%)</th>
+        </tr>
+        <tr>
+            <td>2020</td>
+            <td>1.64</td>
+            <td>-7.6</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>2.02</td>
+            <td>1.8</td>
+        </tr>
+    </table>
+
+    <h2>Cultural Events in Timor-Leste</h2>
+    <ul>
+        <li>Carnaval</li>
+        <li>Festa Junina</li>
+        <li>Proclamation of Independence Day</li>
+    </ul>
+
+    <h2>Steps to Improve the Page</h2>
+    <ol>
+        <li>
+            <strong>Add a caption to the table:</strong><br>
+            Use the <code>&lt;caption&gt;</code> element to provide a brief description of the table data.<br>
+            Example: <code>&lt;caption&gt;Timor-Leste Economic Data&lt;/caption&gt;</code>
+        </li>
+        <li>
+            <strong>Use thead, tbody, and tfoot elements:</strong><br>
+            Structure the table content semantically using <code>&lt;thead&gt;</code>, <code>&lt;tbody&gt;</code>, and <code>&lt;tfoot&gt;</code> elements.<br>
+            Example: Wrap the table header row in <code>&lt;thead&gt;</code>, data rows in <code>&lt;tbody&gt;</code>, and summary row (if any) in <code>&lt;tfoot&gt;</code>.
+        </li>
+        <li>
+            <strong>Apply colspan and rowspan attributes:</strong><br>
+            Use <code>colspan</code> and <code>rowspan</code> attributes to merge cells where appropriate.<br>
+            Example: <code>&lt;td colspan="2"&gt;Merged Cell&lt;/td&gt;</code> to merge two columns into one cell.
+        </li>
+        <li>
+            <strong>Style the table with CSS:</strong><br>
+            Use CSS to improve the table's readability, such as alternating row colors or hover effects.<br>
+            Example: <code>tr:nth-child(even) { background-color: #f2f2f2; }</code> to apply a background color to even rows.
+        </li>
+        <li>
+            <strong>Convert the unordered list to an ordered list:</strong><br>
+            Change the <code>&lt;ul&gt;</code> element to <code>&lt;ol&gt;</code> to create a numbered list of cultural events.
+        </li>
+        <li>
+            <strong>Add descriptions using a description list:</strong><br>
+            Use <code>&lt;dl&gt;</code>, <code>&lt;dt&gt;</code>, and <code>&lt;dd&gt;</code> elements to provide descriptions for each cultural event.<br>
+            Example:<br>
+            <code>
+                &lt;dl&gt;<br>
+                    &lt;dt&gt;Carnaval&lt;/dt&gt;<br>
+                    &lt;dd&gt;A vibrant festival with colorful costumes and lively music.&lt;/dd&gt;<br>
+                &lt;/dl&gt;
+            </code>
+        </li>
+        <li>
+            <strong>Include images or icons:</strong><br>
+            Add relevant images or icons to enhance the visual representation of the cultural events.<br>
+            Example: <code>&lt;img src="carnaval.jpg" alt="Carnaval celebration"&gt;</code>
+        </li>
+        <li>
+            <strong>Add more rows to the economic data table:</strong><br>
+            Include data from previous years to provide a more comprehensive view of Timor-Leste's economic performance.
+        </li>
+        <li>
+            <strong>Create a nested table:</strong><br>
+            Embed a table within a cell to display detailed information about a specific year.<br>
+            Example:<br>
+            <code>
+                &lt;td&gt;<br>
+                    &lt;table&gt;<br>
+                        &lt;tr&gt;&lt;th&gt;Quarter&lt;/th&gt;&lt;th&gt;GDP&lt;/th&gt;&lt;/tr&gt;<br>
+                        &lt;tr&gt;&lt;td&gt;Q1&lt;/td&gt;&lt;td&gt;0.5&lt;/td&gt;&lt;/tr&gt;<br>
+                        &lt;tr&gt;&lt;td&gt;Q2&lt;/td&gt;&lt;td&gt;0.8&lt;/td&gt;&lt;/tr&gt;<br>
+                    &lt;/table&gt;<br>
+                &lt;/td&gt;
+            </code>
+        </li>
+        <li>
+            <strong>Implement a responsive design:</strong><br>
+            Use CSS media queries to ensure the table displays well on different devices.<br>
+            Example:<br>
+            <code>
+                @media screen and (max-width: 600px) {<br>
+                    table {<br>
+                        font-size: 12px;<br>
+                    }<br>
+                }
+            </code>
+        </li>
+        <li>
+            <strong>Style the list markers:</strong><br>
+            Use CSS to customize the appearance of list markers (e.g., bullet points, numbers).<br>
+            Example: <code>ul { list-style-type: square; }</code> to use square bullet points.
+        </li>
+        <li>
+            <strong>Add links to external resources:</strong><br>
+            Include links to web pages that provide more information about the cultural events.<br>
+            Example: <code>&lt;a href="https://example.com/carnaval"&gt;Learn more about Carnaval&lt;/a&gt;</code>
+        </li>
+    </ol>
+
+</body>
+</html>

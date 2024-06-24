@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 APIs and Microdata</title>
+    <style>
+        .product {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML5 APIs and Microdata</h1>
+
+    <h2>Geolocation API</h2>
+    <p>Click the button to get your current location:</p>
+    <button onclick="getLocation()">Get Location</button>
+    <p id="location"></p>
+
+    <h2>Local Storage API</h2>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name">
+    <button onclick="saveName()">Save Name</button>
+    <p id="savedName"></p>
+
+    <h2>Drag and Drop API</h2>
+    <div id="dragSource" draggable="true" ondragstart="drag(event)">
+        <p>Drag me!</p>
+    </div>
+    <div id="dropTarget" ondrop="drop(event)" ondragover="allowDrop(event)">
+        <p>Drop here!</p>
+    </div>
+
+    <h2>Microdata Example</h2>
+    <div itemscope itemtype="http://schema.org/Product">
+        <h3 itemprop="name">Product Name</h3>
+        <img itemprop="image" src="product.jpg" alt="Product Image">
+        <p itemprop="description">Product description goes here.</p>
+        <p>Price: <span itemprop="price">$19.99</span></p>
+    </div>
+
+    <h2>Steps to Enhance the Page</h2>
+    <ol>
+        <li>
+            <strong>Implement Geolocation API:</strong><br>
+            Add JavaScript code to retrieve the user's current location using the Geolocation API.<br>
+            Example:
+            <pre>
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        document.getElementById("location").innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+    document.getElementById("location").innerHTML = "Latitude: " + position.coords.latitude +
+    "&lt;br&gt;Longitude: " + position.coords.longitude;
+}
+            </pre>
+        </li>
+        <li>
+            <strong>Implement Local Storage API:</strong><br>
+            Add JavaScript code to save and retrieve data using the Local Storage API.<br>
+            Example:
+            <pre>
+function saveName() {
+    var name = document.getElementById("name").value;
+    localStorage.setItem("name", name);
+    document.getElementById("savedName").innerHTML = "Saved name: " + name;
+}
+
+// Retrieve saved name on page load
+window.onload = function() {
+    var name = localStorage.getItem("name");
+    if (name) {
+        document.getElementById("savedName").innerHTML = "Saved name: " + name;
+    }
+};
+            </pre>
+        </li>
+        <li>
+            <strong>Implement Drag and Drop API:</strong><br>
+            Add JavaScript code to enable drag and drop functionality.<br>
+            Example:
+            <pre>
+function allowDrop(ev) {
+    ev.preventDefault();
+}
+
+function drag(ev) {
+    ev.dataTransfer.setData("text", ev.target.id);
+}
+
+function drop(ev) {
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData("text");
+    ev.target.appendChild(document.getElementById(data));
+}
+            </pre>
+        </li>
+        <li>
+            <strong>Add more HTML5 APIs:</strong><br>
+            Explore and implement other HTML5 APIs like Web Workers, Web Sockets, or Canvas.
+        </li>
+        <li>
+            <strong>Enhance Microdata markup:</strong><br>
+            Add more semantic markup using Microdata to the product example.<br>
+            Example:
+            <pre>
+&lt;div itemscope itemtype="http://schema.org/Product"&gt;
+    &lt;h3 itemprop="name"&gt;Product Name&lt;/h3&gt;
+    &lt;img itemprop="image" src="product.jpg" alt="Product Image"&gt;
+    &lt;p itemprop="description"&gt;Product description goes here.&lt;/p&gt;
+    &lt;p&gt;Price: &lt;span itemprop="price"&gt;$19.99&lt;/span&gt;&lt;/p&gt;
+    &lt;p&gt;In stock: &lt;span itemprop="availability" href="http://schema.org/InStock"&gt;Yes&lt;/span&gt;&lt;/p&gt;
+    &lt;p&gt;Rating: &lt;span itemprop="ratingValue"&gt;4.5&lt;/span&gt; out of &lt;span itemprop="bestRating"&gt;5&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+            </pre>
+        </li>
+        <li>
+            <strong>Style the Microdata example:</strong><br>
+            Use CSS to style the product information for better presentation.<br>
+            Example:
+            <pre>
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.product img {
+    max-width: 200px;
+    height: auto;
+}
+
+.product p {
+    margin: 5px 0;
+}
+            </pre>
+        </li>
+        <li>
+            <strong>Create a Microdata-enabled product list:</strong><br>
+            Extend the Microdata example to display a list of products using Microdata markup.
+        </li>
+        <li>
+            <strong>Validate Microdata markup:</strong><br>
+            Use tools like Google's Structured Data Testing Tool to validate the Microdata markup and ensure it follows the correct schema.
+        </li>
+        <li>
+            <strong>Explore other Microdata schemas:</strong><br>
+            Research and implement Microdata using different schemas like Person, Event, or Organization.
+        </li>
+        <li>
+            <strong>Combine HTML5 APIs and Microdata:</strong><br>
+            Find creative ways to integrate HTML5 APIs with Microdata-enabled content for enhanced functionality and semantics.
+        </li>
+    </ol>
+
+</body>
+</html>
