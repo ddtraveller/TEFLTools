@@ -1,0 +1,24 @@
+# Overview of Version Control 
+
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows you to:
+
+- Revert selected files back to a previous state
+- Revert the entire project back to a previous state
+- Compare changes over time
+- See who last modified something that might be causing a problem
+- Recover lost files or project states
+
+Version control systems (VCS) can be:
+
+1. Local: Versions are stored on your local computer (e.g., RCS)
+2. Centralized: Versions are stored on a central server (e.g., SVN)
+3. Distributed: Each user has a complete copy of the repository (e.g., Git)
+
+Benefits of using version control:
+
+- Collaboration: Multiple people can work on the same project files simultaneously
+- History: Complete long-term change history of every file is maintained
+- Branching and merging: Create separate branches for experimentation, then merge approved changes
+- Revert: Undo mistakes by reverting to earlier versions
+
+Git is a popular distributed version control system known for its speed, flexibility, and robust branching and merging capabilities.

@@ -1,117 +1,78 @@
-# Lesson Plan: Git Fundamentals and Homework Submission via Git
+# Lesson Plan: Introduction to Test-Driven Development (TDD)
 
 ## Duration: 1 week (5 sessions, 2 hours each)
+## Setup 
+Students will need access to a git repo with an html file called index.html at the root. 
+It should say Hello World! or something like that.
+There needs to be test_index.py in the same folder.
+pytest.ini and .git/hooks/pre-commit need to be in place as well.
+Setup instructions are in git_repo_tdd_metrics_guide.txt but here are notes;
+```
+# Configure pytest to run tests on check-in
+echo "[pytest]
+testpaths = .
+python_files = test_*.py
+python_classes = 
+python_functions = test_*
+addopts = -v
+" > pytest.ini
 
-### Session 1: Introduction to Version Control and Git
+# Configure Git hooks to run tests and gather metrics on check-in
+mkdir -p .git/hooks
+cat > .git/hooks/pre-commit <<EOL
+#!/bin/sh
+pytest
+
+
+chmod +x .git/hooks/pre-commit
+```
+
+### Session 1: Introduction to Software Testing and TDD
+# Software is Backwards
+
+1. Software is backwards. The industry does everything the opposite way normal humans would do things.<br>
+So, I have some good news and some bad news.<br>
+The bad news is, since things are opposite, and now that we know a little HTML it's time for the test.<br>
+The good news is, we get to write the test first and so we all get to see the answers.<br>
+Also, its important to work together and so its ok to talk about the answers and how to do things with each other.
+For this class, cheating is called collaboration.
+<br>
+Let's take a look at the test. 
+```
+# open the index file
+with open('index.html', 'r') as file:
+    # read what is in the file
+    content = file.read()
+    # claim Hello Timor Leste! is in what was read
+    assert 'Hello Timor Leste!' in content
+```
+That test is a python program.
+It is going to open the HTML file like we made last week and read it. 
+It's going to look inside for the words, "Hello Timor Leste!".
+
+To pass the test, you have to have a file called index.html 
+Also, it has to say, Hello Timor Leste!
+
+Now, you are prepared to take the test.
 
 #### Objectives:
-- Understand the concept of version control
-- Learn what Git is and why it's important
-- Set up Git on local machines
+- Understand the importance of software testing
+- Learn the concept and principles of TDD
+- Intro to Metrics/Data Analysis
 
 #### Materials:
-- Computers with internet access
-- Git installation files
-- Handout on version control concepts
 
-#### Activities:
-1. (20 min) Introduction to version control: concept and importance
-2. (25 min) Introduction to Git: history, purpose, and basic concepts
-3. (45 min) Guided installation of Git on student computers
-4. (20 min) Configuring Git with user information
-5. (10 min) Q&A and wrap-up
-
-#### Homework:
-Complete Git configuration and write a short reflection on the importance of version control
-
-### Session 2: Basic Git Commands
+- git_repo_tdd_metrics_guide.txt !!!
+- Computers with Python and pytest installed
+- Handout on TDD principles
 
 #### Objectives:
-- Learn and practice basic Git commands
-- Understand the Git workflow
-
-#### Materials:
-- Computers with Git installed
-- Cheat sheet of basic Git commands
+- Learn to understand basic unit tests using pytest
+- Understand how to check in to git against a test
 
 #### Activities:
-1. (20 min) Review of Git concepts and introduction to the command line
-2. (30 min) Demonstration: Creating a repository, adding files, committing changes
-3. (50 min) Hands-on practice: Students create their own repository and make commits
-4. (15 min) Introduction to Git status and log commands
+1. (20 min) Review of previous session and homework
+2. (30 min) Writing a simple test function with pytest
+3. (40 min) Hands-on practice: Students write HTML to pass the test
+4. (25 min) Running tests and interpreting results
 5. (5 min) Q&A and wrap-up
-
-#### Homework:
-Create a new Git repository for your HTML project from the previous week
-
-### Session 3: Branching and Merging
-
-#### Objectives:
-- Understand Git branching concept
-- Learn how to create, switch, and merge branches
-
-#### Materials:
-- Computers with Git and student repositories
-- Visual aids explaining Git branching
-
-#### Activities:
-1. (20 min) Introduction to Git branching: concept and uses
-2. (25 min) Demonstration: Creating, switching, and merging branches
-3. (60 min) Hands-on practice: Students work with branches in their repositories
-4. (10 min) Discussion on branching strategies
-5. (5 min) Q&A and wrap-up
-
-#### Homework:
-Add a new feature to your HTML project using a separate branch, then merge it
-
-### Session 4: Remote Repositories and GitHub
-
-#### Objectives:
-- Understand the concept of remote repositories
-- Learn to use GitHub for remote Git hosting
-- Practice pushing to and pulling from remote repositories
-
-#### Materials:
-- Computers with Git and internet access
-- GitHub account setup instructions
-
-#### Activities:
-1. (15 min) Introduction to remote repositories and GitHub
-2. (20 min) Guided GitHub account creation and setup
-3. (25 min) Demonstration: Pushing local repository to GitHub
-4. (45 min) Hands-on practice: Students push their projects to GitHub
-5. (10 min) Introduction to pulling changes and collaboration concepts
-6. (5 min) Q&A and wrap-up
-
-#### Homework:
-Push your updated HTML project to GitHub
-
-### Session 5: Git for Homework Submission and Collaboration
-
-#### Objectives:
-- Learn how to use Git and GitHub for homework submission
-- Understand basic collaboration workflows
-
-#### Materials:
-- Computers with Git and internet access
-- Access to a sample classroom repository
-
-#### Activities:
-1. (20 min) Introduction to using Git for homework submission
-2. (30 min) Demonstration: Forking a repository, making changes, creating pull requests
-3. (50 min) Hands-on practice: Students fork a sample homework repository and submit a pull request
-4. (15 min) Discussion on Git best practices and etiquette
-5. (5 min) Final Q&A and module wrap-up
-
-#### Homework:
-Submit your final HTML project as a pull request to the class repository
-
-### Assessment:
-- Daily homework assignments using Git
-- In-class participation and hands-on exercises
-- Final project: Successful submission of HTML project via GitHub pull request
-
-### Additional Resources:
-- Online Git tutorials and interactive learning platforms
-- Git documentation and cheat sheets
-- Video tutorials on advanced Git concepts

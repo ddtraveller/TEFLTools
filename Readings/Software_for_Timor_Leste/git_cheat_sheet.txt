@@ -1,0 +1,28 @@
+# Git Command Cheat Sheet
+
+## Basic Commands
+- `git init`: Create a new local Git repository
+- `git clone <url>`: Clone a repository from a remote source
+- `git add <file>`: Stage a file for commit
+- `git commit -m "message"`: Commit staged files with a message
+- `git status`: Check the status of your repository
+- `git log`: View commit history
+
+## Branching
+- `git branch`: List all local branches
+- `git branch <branch-name>`: Create a new branch
+- `git checkout <branch-name>`: Switch to a branch
+- `git merge <branch-name>`: Merge a branch into the current branch
+
+## Remote Repositories
+- `git remote add <name> <url>`: Add a remote repository
+- `git push <remote> <branch>`: Push commits to a remote branch
+- `git pull <remote> <branch>`: Pull updates from a remote branch
+- `git fetch <remote>`: Fetch updates from a remote repository
+
+## Undoing Changes
+- `git revert <commit>`: Revert a commit by creating a new commit
+- `git reset <file>`: Unstage a file
+- `git checkout -- <file>`: Discard changes in a file
+
+Remember, this is just a starting point. Many more commands and options are available for more advanced use cases.

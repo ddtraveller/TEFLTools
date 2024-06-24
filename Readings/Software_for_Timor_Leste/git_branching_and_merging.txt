@@ -1,0 +1,21 @@
+# Git Branching and Merging Workflow
+
+In Git, branching is a way to work on different versions of the repository at the same time. This is commonly used to develop features, fix bugs, or experiment with new ideas without affecting the main version of the project. Here's a typical workflow:
+
+1. **Create a branch**: From the main branch (often called 'master' or 'main'), create a new branch for your feature or fix using `git branch <new-branch>`.
+
+2. **Switch to the new branch**: Use `git checkout <new-branch>` to switch your working directory to the new branch.
+
+3. **Make changes and commit**: Edit files, stage changes, and make commits on your new branch as described in the Git workflow guide.
+
+4. **Push the branch**: When your work on the branch is ready to share, push the branch to the remote repository using `git push -u origin <new-branch>`.
+
+5. **Testing and review**: In a collaborative environment, the new branch may go through testing, QA, and peer review processes using pre-production environments.
+
+6. **Create a pull request**: When the branch is fully vetted and ready to be merged into the main branch, create a pull request (PR) on GitHub (or equivalent in other systems). This notifies other team members and allows for final review.
+
+7. **Merge the branch**: After the PR is approved, the branch can be merged into the main branch. This is often done through the GitHub interface, which performs the equivalent of a `git merge <new-branch>`.
+
+8. **Delete the branch**: Once the branch has been merged and is no longer needed, it can be deleted both locally (`git branch -d <new-branch>`) and on the remote (`git push origin --delete <new-branch>`).
+
+This branching model allows for parallel development, experimentation, and iterative refinement, while maintaining a stable main branch that always contains production-ready code.

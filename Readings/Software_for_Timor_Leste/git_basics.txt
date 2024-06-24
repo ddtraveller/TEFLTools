@@ -1,0 +1,28 @@
+# Understanding the Git Workflow
+
+Git is a distributed version control system, which means that each user has a complete copy of the repository on their local machine. Here's how the typical Git workflow works:
+
+1. **Initialize a repository**: You can either create a new repository on your local machine using `git init`, or clone an existing repository from a remote source (like GitHub) using `git clone`.
+
+2. **Make changes**: Create, modify, or delete files in your working directory as needed for your project.
+
+3. **Stage changes**: When you're ready to save your changes, use `git add` to stage the modified files for commit.
+
+4. **Commit changes**: Use `git commit` to permanently save the staged changes to your local repository. Each commit has a unique ID and a message describing the changes.
+
+5. **Push changes**: To share your commits with others, use `git push` to send your local commits to a remote repository (like one hosted on GitHub).
+
+6. **Pull changes**: Use `git pull` to fetch and merge updates from the remote repository into your local repository, keeping it in sync with other users' changes.
+
+While GitHub is a popular platform for hosting Git repositories, it's not the only option. You can share repositories through other hosting services, or even directly between computers using protocols like HTTP, SSH, or Git's own protocol.
+
+The key advantage of Git's distributed model is that each user has a full backup of the repository, allowing for offline work and flexibility in the collaboration workflow.
+# Update a file
+echo "<html><head></head><body>Hello Timor Leste!</body></html>" > index.html
+
+# Commit the changes
+git add index.html
+git commit -m "Update HTML content to pass the test"
+
+# copy the files to github
+git push

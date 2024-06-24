@@ -1,0 +1,94 @@
+# Common Git Issues and Solutions
+
+1. **Restoring a deleted file that hasn't been committed**:
+   - If you've deleted a file in your local working directory but haven't committed that change, you can restore the file from the HEAD of your current branch using `git checkout -- <file>`. This will restore the file to its state at the last commit.
+
+2. **Fetching a deleted file from the remote repository**:
+   - If the file has been deleted and that deletion has been committed and pushed to the remote repository, you can restore the file by checking out the specific commit where the file last existed using `git checkout <commit-hash> -- <file>`.
+
+3. **Resolving merge conflicts**:
+   Merge conflicts occur when Git is unable to automatically merge changes from different branches. This usually happens when the same lines of a file have been modified in both branches being merged. To resolve merge conflicts:
+
+   1. **Identify conflicting files**: When a merge conflict occurs, Git will mark the conflicting files and pause the merge. Use `git status` to see which files have conflicts.
+
+      ```
+      $ git status
+      On branch feature
+      You have unmerged paths.
+        (fix conflicts and run "git commit")
+        (use "git merge --abort" to abort the merge)
+
+      Unmerged paths:
+        (use "git add <file>..." to mark resolution)
+          both modified:   file.txt
+      ```
+
+   2. **Open conflicting files**: Open the files marked as conflicting in your text editor.
+
+   3. **Locate conflict markers**: Git inserts conflict markers in the conflicting files to show the conflicting changes. Look for sections enclosed by `<<<<<<<`, `=======`, and `>>>>>>>`.
+
+      ```
+      <<<<<<< HEAD
+      This is the content from the current branch.
+      =======
+      This is the content from the branch being merged.
+      >>>>>>> feature
+      ```
+
+   4. **Resolve conflicts**: Modify the files to resolve the conflicts. This may involve keeping changes from one branch, the other branch, or a combination of both. Remove the conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`).
+
+   5. **Stage resolved files**: After resolving the conflicts, stage the modified files using `git add <file>`.
+
+      ```
+      $ git add file.txt
+      ```
+
+   6. **Commit the resolution**: Commit the changes that resolve the merge conflict using `git commit`. Git will provide a default commit message indicating that the commit is a merge resolution.
+
+      ```
+      $ git commit -m "Resolve merge conflict in file.txt"
+      ```
+
+   7. **Push the merged changes**: If the merge was with a remote branch, push the merged changes to the remote repository using `git push`.
+
+   To help analyze merge conflicts:
+
+   - Use `git log --merge` to see a list of commits that are causing the conflict.
+   - Use `git diff` to see the differences between the conflicting branches.
+
+     ```
+     $ git diff <source-branch> <target-branch>
+     ```
+
+   - Use `git mergetool` to launch a graphical merge conflict resolution tool.
+
+   To visualize branches and their relationships, you can use:
+
+   - `git log --graph --oneline --decorate` to see a graphical representation of the branch structure in the command line.
+   - `gitk` to launch a graphical repository browser.
+
+4. **Undoing a commit**:
+   - If you've made a commit that you want to undo, you can use `git revert <commit-hash>`. This creates a new commit that undoes the changes made in the specified commit.
+
+5. **Modifying the last commit**:
+   - If you've made a commit but realize you forgot to include a file or need to modify the commit message, you can use `git commit --amend`. This allows you to stage additional changes or edit the commit message without creating a new commit.
+
+6. **Comparing differences**:
+   - To see the differences between your working directory and the staging area, use `git diff`.
+   - To see the differences between your staging area and the latest commit, use `git diff --staged`.
+   - To see the differences between two commits, use `git diff <commit1-hash> <commit2-hash>`.
+
+7. **Creating a pull request**:
+   - Push your branch to the remote repository using `git push -u origin <branch-name>`.
+   - On GitHub, navigate to your repository, and you should see a prompt to create a pull request for your recently pushed branch. Click on "Compare & pull request".
+   - Fill out the title and description for your pull request, then click "Create pull request".
+
+8. **Stashing changes**:
+   - If you have uncommitted changes in your working directory but need to switch to another branch, you can use `git stash` to temporarily save your changes without committing them.
+   - To apply the stashed changes later, use `git stash apply`.
+
+9. **Resetting to a previous commit**:
+   - If you want to reset your branch to a previous commit, discarding all changes made after that commit, use `git reset --hard <commit-hash>`.
+   - Be careful with this command, as it permanently discards changes and cannot be undone.
+
+Remember, these are just some of the many situations you may encounter when working with Git. It's a good idea to familiarize yourself with Git's documentation and seek help from the community when you run into new challenges.

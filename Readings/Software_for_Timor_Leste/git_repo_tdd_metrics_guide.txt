@@ -1,0 +1,59 @@
+# Create a new directory and initialize a Git repository
+mkdir tdd-example
+cd tdd-example
+git init
+
+# Create an HTML file with "Hello World!" content
+echo "Hello World!" > index.html
+
+# Create a Python test file
+cat > test_index.py <<EOL
+def test_hello_timor_leste():
+    with open('index.html', 'r') as file:
+        content = file.read()
+        assert 'Hello Timor Leste!' in content
+EOL
+
+# Create a Python script to gather metrics
+cat > gather_metrics.py <<EOL
+from datetime import datetime
+import subprocess
+
+def get_commit_count():
+    output = subprocess.check_output(["git", "rev-list", "--count", "HEAD"])
+    return int(output.decode('utf-8').strip())
+
+def get_first_commit_date():
+    output = subprocess.check_output(["git", "log", "--reverse", "--format=%cd", "--date=iso", "-1"])
+    return datetime.strptime(output.decode('utf-8').strip(), "%Y-%m-%d %H:%M:%S %z")
+
+commit_count = get_commit_count()
+first_commit_date = get_first_commit_date()
+
+print(f"Number of commits: {commit_count}")
+print(f"Date of first commit: {first_commit_date}")
+EOL
+
+# Configure pytest to run tests on check-in
+echo "[pytest]
+testpaths = .
+python_files = test_*.py
+python_classes = 
+python_functions = test_*
+addopts = -v
+" > pytest.ini
+
+# Configure Git hooks to run tests and gather metrics on check-in
+mkdir -p .git/hooks
+cat > .git/hooks/pre-commit <<EOL
+#!/bin/sh
+
+pytest
+python gather_metrics.py
+EOL
+
+chmod +x .git/hooks/pre-commit
+
+# Commit the initial files
+git add index.html test_index.py gather_metrics.py pytest.ini
+git commit -m "Initial commit"

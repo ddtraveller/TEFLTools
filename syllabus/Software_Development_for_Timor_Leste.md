@@ -7,13 +7,13 @@ This intensive program is designed to equip students in Timor-Leste with a broad
 
 ## Module 1: Fundamentals of Data Creation and Version Control (2 weeks)
 - Introduction to text files and HTML basics
-- Git fundamentals and homework submission via Git
 - Introduction to test-driven development (TDD)
+- Git fundamentals and homework submission via Git
 
 **Readings:** "HTML5 Cookbook", "Git Pocket Guide"
 
 ## Module 2: Data Editing and Analysis (4 weeks)
-- Advanced HTML
+- Basic HTML II - HTML5
 - Introduction to spreadsheets for data analysis
 - Python basics and data manipulation with Pandas
 - Regular expressions in Python

@@ -1,0 +1,26 @@
+# Git Installation Guide
+
+This guide will walk you through installing Git on your Windows, macOS, or Linux computer.
+
+## Windows
+1. Visit the official Git website: https://git-scm.com/download/win
+2. Download the latest Git for Windows setup file.
+3. Run the installer and follow the setup wizard. 
+4. Choose the default options unless you have specific preferences.
+5. When the installation finishes, open Git Bash to start using Git.
+
+## macOS
+1. Visit the official Git website: https://git-scm.com/download/mac
+2. Download the latest Git for macOS installer.
+3. Open the .dmg file and run the installer inside. 
+4. Follow the installer's prompts, keeping the default options unless you have specific preferences.
+5. Once installed, you can access Git through the Terminal application.
+
+## Linux
+1. Open a terminal window.
+2. Use your distribution's package manager to install Git. For example:
+   - Ubuntu or Debian: `sudo apt install git-all`
+   - Fedora: `sudo dnf install git-all` 
+3. Verify the installation by running: `git --version`
+
+After installation, proceed to configure Git with your name and email address for proper attribution of your work.

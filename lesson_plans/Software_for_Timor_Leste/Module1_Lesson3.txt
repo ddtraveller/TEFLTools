@@ -1,109 +1,112 @@
-# Lesson Plan: Introduction to Test-Driven Development (TDD)
+# Lesson Plan: Git Fundamentals and Homework Submission via Git
 
 ## Duration: 1 week (5 sessions, 2 hours each)
 
-### Session 1: Introduction to Software Testing and TDD
+### Session 1: Introduction to Version Control and Git
 
 #### Objectives:
-- Understand the importance of software testing
-- Learn the concept and principles of TDD
-- Familiarize with the Red-Green-Refactor cycle
+- Understand the concept of version control
+- Learn what Git is and why it's important
+- Set up Git on local machines
 
 #### Materials:
-- Computers with Python and pytest installed
-- Handout on TDD principles
+- Computers with internet access
+- Git installation files
+- Handout on version control concepts
 
 #### Activities:
-1. (20 min) Introduction to software testing: importance and types
-2. (30 min) TDD concept: definition, benefits, and principles
-3. (40 min) Explanation of Red-Green-Refactor cycle with examples
-4. (25 min) Introduction to pytest framework
+1. (20 min) Introduction to version control: concept and importance
+2. (25 min) Introduction to Git: history, purpose, and basic concepts
+3. (45 min) Guided installation of Git on student computers
+4. (20 min) Configuring Git with user information
+5. (10 min) Q&A and wrap-up
+
+#### Homework:
+Complete Git configuration and write a short reflection on the importance of version control
+
+### Session 2: Basic Git Commands
+
+#### Objectives:
+- Learn and practice basic Git commands
+- Understand the Git workflow
+
+#### Materials:
+- Computers with Git installed
+- Cheat sheet of basic Git commands
+
+#### Activities:
+1. (20 min) Review of Git concepts and introduction to the command line
+2. (30 min) Demonstration: Creating a repository, adding files, committing changes
+3. (50 min) Hands-on practice: Students create their own repository and make commits
+4. (15 min) Introduction to Git status and log commands
 5. (5 min) Q&A and wrap-up
 
 #### Homework:
-Write a brief essay on how TDD could benefit software development in Timor-Leste
+Create a new Git repository for your HTML project from the previous week
 
-### Session 2: Writing Your First Test
+### Session 3: Branching and Merging
 
 #### Objectives:
-- Learn to write basic unit tests using pytest
-- Understand the structure of a test function
+- Understand Git branching concept
+- Learn how to create, switch, and merge branches
+
+#### Materials:
+- Computers with Git and student repositories
+- Visual aids explaining Git branching
 
 #### Activities:
-1. (20 min) Review of previous session and homework
-2. (30 min) Writing a simple test function with pytest
-3. (40 min) Hands-on practice: Students write tests for a simple calculator function
-4. (25 min) Running tests and interpreting results
+1. (20 min) Introduction to Git branching: concept and uses
+2. (25 min) Demonstration: Creating, switching, and merging branches
+3. (60 min) Hands-on practice: Students work with branches in their repositories
+4. (10 min) Discussion on branching strategies
 5. (5 min) Q&A and wrap-up
 
 #### Homework:
-Write test cases for a function that validates Timor-Leste phone numbers
+Add a new feature to your HTML project using a separate branch, then merge it
 
-### Session 3: Test-Driven Development in Practice
-
-#### Objectives:
-- Apply the Red-Green-Refactor cycle
-- Practice writing tests before implementation
-
-#### Activities:
-1. (20 min) Review of previous session and homework
-2. (30 min) Demonstration: TDD process for a simple function
-3. (60 min) Hands-on practice: Students use TDD to develop a function (e.g., currency converter for Timor-Leste)
-4. (5 min) Q&A and wrap-up
-
-#### Homework:
-Use TDD to develop a function that calculates tax based on Timor-Leste's tax brackets
-
-### Session 4: Testing Edge Cases and Exceptions
+### Session 4: Remote Repositories and GitHub
 
 #### Objectives:
-- Understand the importance of testing edge cases
-- Learn to test for exceptions
+- Understand the concept of remote repositories
+- Learn to use GitHub for remote Git hosting
+- Practice pushing to and pulling from remote repositories
+
+#### Materials:
+- Computers with Git and internet access
+- GitHub account setup instructions
 
 #### Activities:
-1. (20 min) Review of previous session and homework
-2. (30 min) Identifying and testing edge cases
-3. (30 min) Testing for exceptions with pytest
-4. (35 min) Hands-on practice: Adding edge case and exception tests to previous exercises
-5. (5 min) Q&A and wrap-up
-
-#### Homework:
-Enhance previous test suites with edge cases and exception tests
-
-### Session 5: TDD and Refactoring
+1. (15 min) Introduction to remote repositories and GitHub
+2. (20 min) Guided GitHub account creation and setup
+3. (25 min) Demonstration: Pushing local repository to GitHub
+4. (45 min) Hands-on practice: Students push their projects to GitHub
+5. (10 min) Introduction to pulling changes and collaboration concepts
+6. (5 min) Q&A and wrap-up
 
 #### Objectives:
-- Understand the role of refactoring in TDD
-- Practice refactoring code while maintaining test coverage
+- Learn how to use Git and GitHub for homework submission
+- Understand basic collaboration workflows
+
+#### Materials:
+- Computers with Git and internet access
+- Access to a sample classroom repository
 
 #### Activities:
-1. (20 min) Review of previous session and homework
-2. (30 min) Introduction to code refactoring: principles and techniques
-3. (40 min) Demonstration: Refactoring a function using TDD
-4. (25 min) Hands-on practice: Students refactor their code from previous sessions
+1. (20 min) Introduction to using Git for homework submission
+2. (30 min) Demonstration: Forking a repository, making changes, creating pull requests
+3. (50 min) Hands-on practice: Students fork a sample homework repository and submit a pull request
+4. (15 min) Discussion on Git best practices and etiquette
 5. (5 min) Final Q&A and module wrap-up
 
 #### Homework:
-Refactor the tax calculation function using TDD principles
+Submit your final HTML project as a pull request to the class repository
 
 ### Assessment:
-- Daily homework assignments
+- Daily homework assignments using Git
 - In-class participation and hands-on exercises
-- Final project: Develop a small Python program using TDD
-
-### Final Project Guidelines:
-1. Choose a problem relevant to Timor-Leste (e.g., voter registration system, crop yield calculator)
-2. Use TDD to develop a Python program that solves this problem:
-   - Write tests first for each feature
-   - Implement the minimum code to pass the tests
-   - Refactor the code as needed
-3. Ensure your final program has:
-   - A comprehensive test suite
-   - Well-structured, readable code
-   - Documentation explaining your TDD process
-4. Present your project, highlighting how TDD improved your development process
+- Final project: Successful submission of HTML project via GitHub pull request
 
 ### Additional Resources:
-- pytest documentation
-- Online TDD tutorials and exercises
-- Books on Test-Driven Development
+- Online Git tutorials and interactive learning platforms
+- Git documentation and cheat sheets
+- Video tutorials on advanced Git concepts

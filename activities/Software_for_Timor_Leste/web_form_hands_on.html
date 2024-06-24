@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Form Example</title>
+</head>
+<body>
+    <h1>User Registration Form</h1>
+    <!-- Change the form's action attribute to see how it affects form submission -->
+    <form action="/register" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+        
+        <!-- Experiment with different input types (e.g., password, date, number) -->
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" minlength="8" required>
+        <br>
+        
+        <label for="gender">Gender:</label>
+        <!-- Try changing the radio button names and see how it affects selection -->
+        <input type="radio" id="male" name="gender" value="male" checked>
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+        <br>
+        
+        <label for="country">Country:</label>
+        <select id="country" name="country">
+            <option value="usa">USA</option>
+            <option value="canada">Canada</option>
+            <option value="uk">UK</option>
+            <!-- Add more country options and observe the dropdown list -->
+        </select>
+        <br>
+        
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="4" cols="50"></textarea>
+        <br>
+        
+        <input type="submit" value="Register">
+    </form>
+</body>
+</html>
