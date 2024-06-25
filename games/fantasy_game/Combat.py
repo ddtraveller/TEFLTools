@@ -1,4 +1,5 @@
 import random
+import sys
 
 def combat(character_data, monster_data):
     print("Combat begins!")
@@ -10,17 +11,6 @@ def combat(character_data, monster_data):
     # Get movement speeds, with default values if not present
     character_movement_speed = character_data.get('movement_speed', 30)  # Default to 30 if not present
     monster_speed = monster_data.get('speed', 25)  # Default to 25 if not present
-    
-    print(f"\nYou encounter a {monster_data['name']}!")
-    print(random.choice(monster_data['dialogue']))
-
-    options = [
-        "Greetings, noble creature. I mean you no harm and wish to pass peacefully.",
-        f"Out of my way, you filthy {monster_data['name'].lower()}!",
-        "Enough talk! Prepare to meet your doom!"
-    ]
-
-    choice = get_user_choice(options)
 
     character_dexterity = character_data['attributes']['Dexterity']
     character_initiative = character_dexterity + character_movement_speed
@@ -32,15 +22,15 @@ def combat(character_data, monster_data):
             if monster_data['health'] <= 0:
                 break
             monster_turn(character_data, monster_data)
+            if character_data['hit_points'] <= 0:
+                end_game("You have been defeated!")
         else:
             monster_turn(character_data, monster_data)
             if character_data['hit_points'] <= 0:
-                break
+                end_game("You have been defeated!")
             player_turn(character_data, monster_data)
 
-    if character_data['hit_points'] <= 0:
-        print("You have been defeated!")
-    elif monster_data['health'] <= 0:
+    if monster_data['health'] <= 0:
         print(f"You have defeated the {monster_data['name']}!")
         # Gain experience points and loot
     else:
@@ -86,6 +76,8 @@ def monster_turn(character_data, monster_data):
             character_data['hit_points'] -= damage
             print(f"The {monster_data['name']} uses {ability['name']} and deals {damage} damage!")
             print(f"You now have {character_data['hit_points']} hit points left.")
+            if character_data['hit_points'] <= 0:
+                end_game("You have been defeated!")
         else:
             print(f"The {monster_data['name']} misses!")
     elif monster_action == "Defend":
@@ -110,3 +102,8 @@ def get_user_choice(options):
             return int(choice) - 1
         else:
             print("Invalid choice. Please try again.")
+
+def end_game(message):
+    print(message)
+    print("Game Over")
+    sys.exit()

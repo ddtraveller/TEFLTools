@@ -1,27 +1,48 @@
 {
-    "class": "Paladin",
+    "class": "Druid",
     "element": "Water",
-    "archetype": "Oath of Vengeance",
+    "archetype": "Circle of the Moon",
     "attributes": {
         "Strength": 14,
-        "Dexterity": 14,
-        "Constitution": 17,
-        "Intelligence": 11,
-        "Wisdom": 17,
-        "Charisma": 13
+        "Dexterity": 13,
+        "Constitution": 13,
+        "Intelligence": 14,
+        "Wisdom": 12,
+        "Charisma": 11
     },
-    "main_weapon": "Warhammer",
+    "main_weapon": "Sickle",
     "equipment": [
-        "Warhammer",
-        "Rope (50 feet)",
-        "Rations (1 week)",
+        "Sickle",
+        "Waterskin",
+        "Backpack",
         "Tinderbox"
     ],
-    "spells": [],
-    "background_story": "A Water attuned Oath of Vengeance Paladin with a mysterious past...",
-    "movement_speed": 31,
-    "hit_points": 13,
-    "max_hit_points": 13,
+    "spells": [
+        {
+            "name": "Shield",
+            "description": "An invisible barrier of magical force appears and protects you."
+        },
+        {
+            "name": "Fireball",
+            "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
+        },
+        {
+            "name": "Detect Magic",
+            "description": "For the duration, you sense the presence of magic within 30 feet of you."
+        },
+        {
+            "name": "Healing Word",
+            "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier."
+        },
+        {
+            "name": "Magic Missile",
+            "description": "You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range."
+        }
+    ],
+    "background_story": "In the misty depths of the Whispering Marshes, where the boundary between the mortal realm and the spirit world blurs, a young girl named Lyra was born to a small tribe of swamp dwellers. From an early age, Lyra displayed an uncanny connection to the water that surrounded her home, often disappearing for hours only to be found communing with the local wildlife in secluded pools.\n\nAs Lyra grew, her affinity for water and nature became impossible to ignore. The tribe's elder, a wizened druid named Morath, took her under his wing, recognizing her potential to become a guardian of the natural world. Under his tutelage, Lyra learned the ancient ways of druidic magic, focusing particularly on the art of shapeshifting \u2013 a skill that would prove crucial in the dangerous world beyond the marshes.\n\nOn her sixteenth birthday, as per the tribe's tradition, Lyra embarked on a vision quest deep into the heart of the swamp. Armed only with a sickle \u2013 a tool used both for harvesting herbs and for protection \u2013 she ventured into the mist-shrouded wilderness. For days, she wandered through the treacherous terrain, facing poisonous creatures and avoiding the lure of will-o'-wisps that sought to lead her astray.\n\nOn the seventh day of her journey, Lyra stumbled upon an ancient, gnarled tree standing alone in a moonlit clearing. As she approached, the tree's bark began to shift and writhe, revealing the face of an ancient spirit. The spirit spoke of a growing darkness that threatened to consume not just the marshes, but the entire realm. It warned of shapeshifting demons and vengeful spirits that were gaining power, feeding off the fear and despair of mortals.\n\nThe spirit bestowed upon Lyra a grave responsibility: to venture out into the world, learn the ways of the Circle of the Moon, and use her powers to combat the encroaching darkness. As a symbol of this charge, the spirit blessed Lyra's sickle, imbuing it with the ability to channel her druidic magic more effectively.\n\nReturning to her tribe, Lyra found that seven years had passed in the mortal world, though she had aged only days",
+    "movement_speed": 34,
+    "hit_points": 11,
+    "max_hit_points": 11,
     "purchased_items": [],
-    "remaining_money": 345
+    "remaining_money": 143
 }

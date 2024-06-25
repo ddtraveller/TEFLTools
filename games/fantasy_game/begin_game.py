@@ -4,6 +4,9 @@ import time
 from Character import create_character
 from Combat import combat
 from Navigation import start_navigation
+import anthropic
+
+client = anthropic.Anthropic()
 
 starting_income = {
     "Fighter": (10, 300),
@@ -16,7 +19,8 @@ starting_income = {
     "Shaman": (10, 200),
     "Monk": (0, 20),
     "Barbarian": (0, 20),
-    "Warlock": (10, 500)     
+    "Warlock": (10, 500),
+    "Druid": (10, 300)
 }
 
 def get_user_choice(options):
@@ -86,8 +90,47 @@ def generate_character():
     for attribute, score in character_data["attributes"].items():
         print(f"{attribute}: {score}")
 
+    # Generate fantasy world description
+    with open("monsters.json", "r") as file:
+        monsters_data = json.load(file)
+    
+    world_description = "In a realm where dark creatures lurk in the shadows, brave adventurers must face terrifying monsters born from ancient myths and legends. This land is home to vengeful spirits, shapeshifting demons, and nightmarish beings that prey on the unwary. From the misty forests to the treacherous swamps, danger lurks around every corner, challenging even the most valiant heroes."
+
+    # Generate background story using Anthropic API
+    prompt = f"""As a Dungeon Master, create a compelling background origin story for a character with the following attributes:
+
+Character Class: {character_class}
+Element: {character_element}
+Archetype: {character_archetype}
+Main Weapon: {character_main_weapon}
+Equipment: {', '.join(character_equipment)}
+Attributes:
+{' '.join([f'{attr}: {score}' for attr, score in character_data['attributes'].items()])}
+
+Fantasy World Description:
+{world_description}
+
+Please provide a rich and detailed background story that incorporates these elements and fits within the described fantasy world."""
+
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=500,
+        temperature=0.7,
+        system="You are a creative Dungeon Master tasked with generating compelling character backstories.",
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+
+    background_story = message.content[0].text.strip()
+
     print("\nBackground Story:")
-    print(character_data["background_story"])
+    print(background_story)
+
+    character_data["background_story"] = background_story
 
     input("\nHit enter to continue...")
 
@@ -105,10 +148,6 @@ def generate_character():
     for i, item in enumerate(merchant_items, 1):
         print(f"{i}. {item['name']} - {item['cost']}")
         print(f"   {item['description']}")
-
-    # Generate starting income based on the character's class
-    min_income, max_income = starting_income[character_class]
-    character_money = random.randint(min_income, max_income)
 
     print(f"\nYou have {character_money} gold pieces to spend.")
 
@@ -162,9 +201,10 @@ def generate_character():
 
     print("\nUpdated character data saved to 'character_data.json'.")
 
-    # Load goblin data from monsters/goblin.json
-    with open("monsters/goblin.json", "r") as file:
-        goblin_data = json.load(file)
+    # Load goblin data from monsters.json
+    with open("monsters.json", "r") as file:
+        monsters_data = json.load(file)
+        goblin_data = next(monster for monster in monsters_data if monster["name"] == "Goblin")
 
     # Add movement_speed and armor_class to goblin data
     goblin_data['movement_speed'] = goblin_data['speed']
@@ -172,6 +212,40 @@ def generate_character():
 
     # Encounter with the goblin
     print("\nAs you travel further, you encounter a goblin!")
+    print("\nGoblin Description:")
+    print(goblin_data['long_description'])
+
+    # Prompt user for input
+    user_input = input("\nWhat do you want to say to the goblin? ")
+
+    # Generate goblin's response using Anthropic LLM
+    prompt = f"""You are a: {goblin_data['name']}
+You have come in contact with a human.
+You feel: {random.choice(goblin_data['dialogue'])}
+The human says: {user_input}
+Your description: {goblin_data['long_description']}
+How do you respond?"""
+
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=300,
+        temperature=0.7,
+        system="You are a goblin responding to a human adventurer. Respond in character based on the provided description.",
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+
+    print("\nGoblin's response:")
+    response = message.content[0].text.replace("\\n\\n", "\n")
+    print(response)
+
+    print("\nThe Goblin suddenly quits talking and charges you!")
+
+    # Continue with combat
     combat(character_data, goblin_data)
 
     print("\nAfter the goblin encounter, you continue your journey.")
@@ -188,3 +262,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    

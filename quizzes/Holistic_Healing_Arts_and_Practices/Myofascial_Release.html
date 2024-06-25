@@ -134,7 +134,8 @@
         const questionElement = document.createElement("div");
         questionElement.className = "question";
         questionElement.innerHTML = `
-          <p>${index + 1}. ${question.question}</p>
+          <p>${question.question}</p>
+          <p><strong>Your Answer:</strong> ${question.selectedAnswer}</p>
           <p><strong>Correct Answer:</strong> ${question.answer}</p>
         `;
         quizContainer.appendChild(questionElement);
@@ -144,10 +145,14 @@
     const quizForm = document.getElementById("quizForm");
     quizForm.addEventListener("submit", function(event) {
       event.preventDefault();
-      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => ({
-        question: question.querySelector("p").textContent,
-        answer: question.querySelector(`input[name^="question"]:checked`).value
-      }));
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => {
+        const selectedAnswer = question.querySelector(`input[name^="question"]:checked`);
+        return {
+          question: question.querySelector("p").textContent.slice(3),
+          selectedAnswer: selectedAnswer ? selectedAnswer.value : "Not answered",
+          answer: questionPool.find(q => q.question === question.querySelector("p").textContent.slice(3)).answer
+        };
+      });
       showAnswers(quizQuestions);
     });
 
