@@ -1,28 +1,109 @@
 # Git Command Cheat Sheet
 
 ## Basic Commands
-- `git init`: Create a new local Git repository
-- `git clone <url>`: Clone a repository from a remote source
-- `git add <file>`: Stage a file for commit
-- `git commit -m "message"`: Commit staged files with a message
-- `git status`: Check the status of your repository
-- `git log`: View commit history
+- `git init`: Initialize a new local Git repository in the current directory.
+  ```bash
+  # Create a new directory and initialize a Git repository
+  mkdir my-project
+  cd my-project
+  git init
+  ```
+- `git clone <url>`: Clone a repository from a remote source, such as GitHub or GitLab.
+  ```bash
+  # Clone a repository from a remote URL
+  git clone https://github.com/username/repository.git
+  ```
+- `git add <file>`: Stage a file for commit, preparing it to be included in the next commit.
+  ```bash
+  # Stage a single file
+  git add README.md
+  
+  # Stage multiple files
+  git add file1.txt file2.txt
+  
+  # Stage all modified and new files
+  git add .
+  ```
+- `git commit -m "message"`: Commit staged files with a descriptive message.
+  ```bash
+  # Commit staged files with a message
+  git commit -m "Add README file"
+  ```
+- `git status`: Check the current status of your repository, showing modified, staged, and untracked files.
+  ```bash
+  # Check repository status
+  git status
+  ```
+- `git log`: View the commit history of the repository, displaying commit hashes, authors, dates, and messages.
+  ```bash
+  # View commit history
+  git log
+  
+  # View commit history with condensed output
+  git log --oneline
+  ```
 
 ## Branching
-- `git branch`: List all local branches
-- `git branch <branch-name>`: Create a new branch
-- `git checkout <branch-name>`: Switch to a branch
-- `git merge <branch-name>`: Merge a branch into the current branch
+- `git branch`: List all local branches in the repository.
+  ```bash
+  # List local branches
+  git branch
+  ```
+- `git branch <branch-name>`: Create a new branch with the specified name.
+  ```bash
+  # Create a new branch
+  git branch feature-x
+  ```
+- `git checkout <branch-name>`: Switch to the specified branch.
+  ```bash
+  # Switch to a branch
+  git checkout feature-x
+  ```
+- `git merge <branch-name>`: Merge the specified branch into the current branch.
+  ```bash
+  # Merge a branch into the current branch
+  git merge feature-x
+  ```
 
 ## Remote Repositories
-- `git remote add <name> <url>`: Add a remote repository
-- `git push <remote> <branch>`: Push commits to a remote branch
-- `git pull <remote> <branch>`: Pull updates from a remote branch
-- `git fetch <remote>`: Fetch updates from a remote repository
+- `git remote add <name> <url>`: Add a remote repository with the specified name and URL.
+  ```bash
+  # Add a remote repository
+  git remote add origin https://github.com/username/repository.git
+  ```
+- `git push <remote> <branch>`: Push the specified branch to the remote repository.
+  ```bash
+  # Push the current branch to the remote repository
+  git push origin main
+  ```
+- `git pull <remote> <branch>`: Pull updates from the specified branch of the remote repository.
+  ```bash
+  # Pull updates from the remote repository
+  git pull origin main
+  ```
+- `git fetch <remote>`: Fetch updates from the remote repository without merging them into the current branch.
+  ```bash
+  # Fetch updates from the remote repository
+  git fetch origin
+  ```
 
 ## Undoing Changes
-- `git revert <commit>`: Revert a commit by creating a new commit
-- `git reset <file>`: Unstage a file
-- `git checkout -- <file>`: Discard changes in a file
+- `git revert <commit>`: Revert a specific commit by creating a new commit that undoes the changes.
+  ```bash
+  # Revert a commit
+  git revert abc123
+  ```
+- `git reset <file>`: Unstage a file, removing it from the staging area.
+  ```bash
+  # Unstage a file
+  git reset README.md
+  ```
+- `git checkout -- <file>`: Discard changes in a file, reverting it to the last committed state.
+  ```bash
+  # Discard changes in a file
+  git checkout -- README.md
+  ```
 
-Remember, this is just a starting point. Many more commands and options are available for more advanced use cases.
+Remember, this cheat sheet covers the most commonly used Git commands. Git provides many more commands and options for advanced use cases, such as rebasing, stashing, and submodules. Refer to the official Git documentation for a comprehensive guide to Git's features and capabilities.
+
+When working with Git, it's essential to follow best practices, such as writing meaningful commit messages, creating focused and descriptive branches, and regularly pushing your changes to remote repositories. Effective use of Git enables collaboration, version control, and the ability to revert changes when needed.

@@ -1,48 +1,30 @@
 {
-    "class": "Druid",
+    "class": "Ranger",
     "element": "Water",
-    "archetype": "Circle of the Moon",
+    "archetype": "Beast Master",
     "attributes": {
-        "Strength": 14,
-        "Dexterity": 13,
-        "Constitution": 13,
-        "Intelligence": 14,
-        "Wisdom": 12,
-        "Charisma": 11
+        "Strength": 11,
+        "Dexterity": 17,
+        "Constitution": 9,
+        "Intelligence": 10,
+        "Wisdom": 17,
+        "Charisma": 8
     },
-    "main_weapon": "Sickle",
+    "main_weapon": "Longbow",
     "equipment": [
-        "Sickle",
-        "Waterskin",
-        "Backpack",
-        "Tinderbox"
+        "Longbow",
+        "Rations (1 week)",
+        "Healing Potion",
+        "Bedroll"
     ],
-    "spells": [
-        {
-            "name": "Shield",
-            "description": "An invisible barrier of magical force appears and protects you."
-        },
-        {
-            "name": "Fireball",
-            "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
-        },
-        {
-            "name": "Detect Magic",
-            "description": "For the duration, you sense the presence of magic within 30 feet of you."
-        },
-        {
-            "name": "Healing Word",
-            "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier."
-        },
-        {
-            "name": "Magic Missile",
-            "description": "You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range."
-        }
-    ],
-    "background_story": "In the misty depths of the Whispering Marshes, where the boundary between the mortal realm and the spirit world blurs, a young girl named Lyra was born to a small tribe of swamp dwellers. From an early age, Lyra displayed an uncanny connection to the water that surrounded her home, often disappearing for hours only to be found communing with the local wildlife in secluded pools.\n\nAs Lyra grew, her affinity for water and nature became impossible to ignore. The tribe's elder, a wizened druid named Morath, took her under his wing, recognizing her potential to become a guardian of the natural world. Under his tutelage, Lyra learned the ancient ways of druidic magic, focusing particularly on the art of shapeshifting \u2013 a skill that would prove crucial in the dangerous world beyond the marshes.\n\nOn her sixteenth birthday, as per the tribe's tradition, Lyra embarked on a vision quest deep into the heart of the swamp. Armed only with a sickle \u2013 a tool used both for harvesting herbs and for protection \u2013 she ventured into the mist-shrouded wilderness. For days, she wandered through the treacherous terrain, facing poisonous creatures and avoiding the lure of will-o'-wisps that sought to lead her astray.\n\nOn the seventh day of her journey, Lyra stumbled upon an ancient, gnarled tree standing alone in a moonlit clearing. As she approached, the tree's bark began to shift and writhe, revealing the face of an ancient spirit. The spirit spoke of a growing darkness that threatened to consume not just the marshes, but the entire realm. It warned of shapeshifting demons and vengeful spirits that were gaining power, feeding off the fear and despair of mortals.\n\nThe spirit bestowed upon Lyra a grave responsibility: to venture out into the world, learn the ways of the Circle of the Moon, and use her powers to combat the encroaching darkness. As a symbol of this charge, the spirit blessed Lyra's sickle, imbuing it with the ability to channel her druidic magic more effectively.\n\nReturning to her tribe, Lyra found that seven years had passed in the mortal world, though she had aged only days",
-    "movement_speed": 34,
-    "hit_points": 11,
-    "max_hit_points": 11,
+    "spells": [],
+    "background_story": "In the mist-shrouded realm of Shadowmere, where ancient horrors stalk the land, there lived a peculiar boy named Asdasd. Born in a small fishing village on the edge of the Whispering Swamp, Asdasd was an outcast from the start. His name, a result of his father's dying breath as he was killed by a shapeshifting demon during Asdasd's birth, was seen as an ill omen by the superstitious villagers.\n\nGrowing up, Asdasd found solace in the company of the swamp's creatures rather than his fellow humans. His affinity for water and uncanny ability to communicate with beasts made him a natural survivor in the treacherous wetlands. While others saw the swamp as a place of danger, Asdasd saw it as a sanctuary.\n\nAs a young teen, Asdasd's life changed forever when he encountered a wise, old ranger named Thorne. Recognizing the boy's potential, Thorne took Asdasd under his wing, teaching him the ways of the ranger and honing his natural talents. Under Thorne's tutelage, Asdasd learned to wield the longbow with deadly precision, using his keen eye and steady hand to strike from afar.\n\nThorne also helped Asdasd develop his innate connection with beasts, teaching him to form deep bonds with the creatures of the wild. Together, they explored the darkest corners of Shadowmere, facing vengeful spirits and nightmarish beings that would make even the bravest warriors quake in fear.\n\nHowever, tragedy struck when Thorne fell victim to a particularly vicious pack of shapeshifting demons. With his dying breath, the old ranger entrusted Asdasd with a sacred mission: to protect the delicate balance between the natural world and the encroaching darkness.\n\nNow, Asdasd roams the misty forests and treacherous swamps of Shadowmere, a solitary figure more at home with beasts than people. His longbow, a parting gift from Thorne, is his constant companion, along with the various creatures he befriends on his journeys. Though not particularly strong or hardy, Asdasd's agility and",
+    "movement_speed": 32,
+    "name": "asdasd",
+    "gender": "Male",
+    "hit_points": 9,
+    "max_hit_points": 9,
+    "level": 1,
     "purchased_items": [],
-    "remaining_money": 143
+    "remaining_money": 234
 }

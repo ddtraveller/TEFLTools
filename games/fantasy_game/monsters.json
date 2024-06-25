@@ -1,14 +1,13 @@
 [
     {
-        "name": "Goblin",
+        "name": "Mossy Rockbeast",
         "level": 1,
         "health": 4,
         "max_health": 5,
         "attack": 10,
-        "defense": 5,
-        "speed": 25,
-        "experience_points": 25,
+        "armor_class": 5,
         "movement_speed": 25,
+        "experience_points": 25,
         "attributes": {
             "Strength": 8,
             "Dexterity": 14,
@@ -19,48 +18,47 @@
         },
         "abilities": [
             {
-                "name": "Slash",
+                "name": "Boulder Toss",
                 "damage": 15,
                 "accuracy": 80,
                 "cooldown": 1
             },
             {
-                "name": "Poison Dart",
-                "damage": 10,
+                "name": "Camouflage",
+                "damage": 0,
                 "accuracy": 70,
                 "cooldown": 2
             }
         ],
         "loot": [
             {
-                "item": "Gold",
+                "item": "Shiny Pebbles",
                 "quantity": 10,
                 "drop_chance": 100
             },
             {
-                "item": "Health Potion",
+                "item": "Moss Clump",
                 "quantity": 1,
                 "drop_chance": 50
             }
         ],
         "dialogue": [
-            "Grr... Human, you dare cross my path?",
-            "I'll make quick work of you!",
-            "Your gold will be mine!"
+            "Who disturbs my slumber?",
+            "This forest is my home!",
+            "You look like an interesting new rock formation..."
         ],
-        "short_description": "A mischievous, greedy goblin that attacks travelers for their gold.",
-        "long_description": "Goblins are small, wicked creatures that inhabit the forests and caves of Timor-Leste. They are known for their cunning and greed, often setting traps to ambush unsuspecting travelers and steal their valuables. While not particularly strong, goblins make up for it with their agility and knowledge of poisons. This particular goblin wields a rusty sword and a blowgun loaded with poisoned darts, ready to make quick work of any human foolish enough to cross its path."
+        "short_description": "A living mass of rocks and moss that roams the forest.",
+        "long_description": "The Mossy Rockbeast is a curious creature that appears to be a mobile pile of boulders covered in thick, verdant moss. It roams the forests, often mistaken for a simple rock formation until it suddenly springs to life. While not inherently aggressive, it fiercely defends its territory from those it perceives as threats. The Rockbeast can hurl small boulders with surprising accuracy and use its mossy covering to blend in with its surroundings."
     },
     {
-        "name": "Pontianak",
+        "name": "Luminous Drifter",
         "level": 5,
         "health": 120,
         "max_health": 120,
         "attack": 25,
-        "defense": 10,
-        "speed": 40,
-        "experience_points": 150,
+        "armor_class": 10,
         "movement_speed": 40,
+        "experience_points": 150,
         "attributes": {
             "Strength": 12,
             "Dexterity": 18,
@@ -71,13 +69,13 @@
         },
         "abilities": [
             {
-                "name": "Seductive Lure",
+                "name": "Dazzling Flash",
                 "damage": 0,
                 "accuracy": 90,
                 "cooldown": 3
             },
             {
-                "name": "Draining Kiss",
+                "name": "Light Beam",
                 "damage": 40,
                 "accuracy": 80,
                 "cooldown": 2
@@ -85,34 +83,33 @@
         ],
         "loot": [
             {
-                "item": "Silk Scarf",
+                "item": "Glowing Crystal",
                 "quantity": 1,
                 "drop_chance": 75
             },
             {
-                "item": "Ruby Necklace",
+                "item": "Prismatic Shard",
                 "quantity": 1,
                 "drop_chance": 25
             }
         ],
         "dialogue": [
-            "Come closer, my love...",
-            "I've been waiting for you.",
-            "Your life essence will be mine!"
+            "Behold the radiance!",
+            "Are you friend or foe of the light?",
+            "Your presence dims my glow..."
         ],
-        "short_description": "A beautiful but deadly female vampire that seduces men before draining their life force.",
-        "long_description": "The Pontianak is a fearsome female vampire from Southeast Asian folklore. Taking the form of a beautiful woman, she lures unsuspecting men with her enchanting looks and seductive voice. Once her victim is under her spell, she reveals her true form - a terrifying monster with sharp claws and fangs. The Pontianak feeds on the life essence of her victims, draining them with a fatal kiss. Beware her allure, for it may be the last thing you ever experience."
+        "short_description": "A floating, luminescent being that illuminates the darkness.",
+        "long_description": "The Luminous Drifter is a mesmerizing entity composed of pure light. It floats gracefully through dark caves and shadowy forests, illuminating its surroundings with a soft, ethereal glow. While not malevolent, it can be territorial and may perceive darkness as a threat to its existence. The Drifter can emit blinding flashes of light to disorient intruders and focus its radiance into concentrated beams for defense."
     },
     {
-        "name": "Toyol",
+        "name": "Whispering Windsprite",
         "level": 2,
         "health": 40,
         "max_health": 40,
         "attack": 15,
-        "defense": 5,
-        "speed": 30,
-        "experience_points": 30,
+        "armor_class": 5,
         "movement_speed": 30,
+        "experience_points": 30,
         "attributes": {
             "Strength": 8,
             "Dexterity": 16,
@@ -123,13 +120,13 @@
         },
         "abilities": [
             {
-                "name": "Steal Item",
+                "name": "Gust Push",
                 "damage": 0,
                 "accuracy": 90,
                 "cooldown": 1
             },
             {
-                "name": "Vanish",
+                "name": "Whirlwind Dodge",
                 "damage": 0,
                 "accuracy": 100,
                 "cooldown": 2
@@ -137,34 +134,33 @@
         ],
         "loot": [
             {
-                "item": "Stolen Goods",
+                "item": "Feather",
                 "quantity": 1,
                 "drop_chance": 80
             },
             {
-                "item": "Lockpick",
+                "item": "Wind Chime",
                 "quantity": 1,
                 "drop_chance": 20
             }
         ],
         "dialogue": [
-            "Hehe, what have you got there?",
-            "Don't mind if I do!",
-            "Catch me if you can!"
+            "Can you hear the song of the breeze?",
+            "Swift as the wind, silent as a whisper!",
+            "Let's dance on the currents of air!"
         ],
-        "short_description": "A mischievous child spirit that steals items from the living.",
-        "long_description": "Toyols are the spirits of stillborn or aborted infants, often summoned by thieves and assassins to do their bidding. These tiny creatures have an insatiable appetite for mischief and thievery. With their small size and nimble fingers, Toyols can easily sneak into homes to steal valuables, food, and sometimes even kidnap sleeping infants. While they pose little physical threat, their ability to vanish into thin air makes them incredibly difficult to catch. Keep a close eye on your belongings when a Toyol is near!"
+        "short_description": "An playful air spirit that rides the winds.",
+        "long_description": "Whispering Windsprites are capricious air elementals that manifest as swirling vortexes of leaves and mist. They delight in riding the winds, often playing harmless pranks on travelers by snatching hats or ruffling clothes. While not inherently dangerous, they can become mischievous if annoyed, using gusts of wind to push intruders away or spinning into small whirlwinds to dodge attacks. Their laughter sounds like the gentle tinkling of wind chimes."
     },
     {
-        "name": "Orang Minyak",
+        "name": "Ironhide Defender",
         "level": 8,
         "health": 250,
         "max_health": 250,
         "attack": 40,
-        "defense": 20,
-        "speed": 25,
-        "experience_points": 400,
+        "armor_class": 20,
         "movement_speed": 25,
+        "experience_points": 400,
         "attributes": {
             "Strength": 20,
             "Dexterity": 12,
@@ -175,13 +171,13 @@
         },
         "abilities": [
             {
-                "name": "Oily Grapple",
+                "name": "Iron Slam",
                 "damage": 20,
                 "accuracy": 85,
                 "cooldown": 1
             },
             {
-                "name": "Greasy Escape",
+                "name": "Metallic Shell",
                 "damage": 0,
                 "accuracy": 100,
                 "cooldown": 3
@@ -189,34 +185,33 @@
         ],
         "loot": [
             {
-                "item": "Slippery Oil",
+                "item": "Iron Ingot",
                 "quantity": 1,
                 "drop_chance": 90
             },
             {
-                "item": "Black Sapphire",
+                "item": "Magnetic Stone",
                 "quantity": 1,
                 "drop_chance": 10
             }
         ],
         "dialogue": [
-            "You can't hold me!",
-            "Struggle all you want, I'll slip away!",
-            "My curse will be your undoing!"
+            "You shall not pass!",
+            "My resolve is as strong as steel!",
+            "Test your mettle against true iron!"
         ],
-        "short_description": "A man covered in dark oil, impossible to grip, who abducts young women.",
-        "long_description": "The Orang Minyak, or Oily Man, is a terrifying humanoid monster covered from head to toe in slick, black oil. This cursed being is said to be a man who made a deal with dark entities for power and wealth, at the cost of his humanity. The Orang Minyak prowls the night, abducting young women to fulfill his end of the dark bargain. His oily coating makes him almost impossible to grab or hold, allowing him to easily slip away from those who try to stop him. Beware the slick shadows, for the Orang Minyak may be lurking within."
+        "short_description": "A living statue of iron, guardian of ancient forges.",
+        "long_description": "The Ironhide Defender is a massive, humanoid creature forged entirely of living iron. Created long ago to guard the legendary forges of master craftsmen, these sentient statues continue their vigil long after their creators have perished. Their bodies are incredibly resilient, shrugging off most physical attacks. They can shape their limbs into crude weapons or enfold themselves in an impenetrable metallic shell for defense. Despite their fearsome appearance, Ironhide Defenders are bound by ancient codes of honor and can be reasoned with by those who show proper respect and knowledge of metallurgy."
     },
     {
-        "name": "Penanggalan",
+        "name": "Echoing Voidwalker",
         "level": 10,
         "health": 300,
         "max_health": 300,
         "attack": 50,
-        "defense": 15,
-        "speed": 50,
-        "experience_points": 500,
+        "armor_class": 15,
         "movement_speed": 50,
+        "experience_points": 500,
         "attributes": {
             "Strength": 18,
             "Dexterity": 20,
@@ -227,13 +222,13 @@
         },
         "abilities": [
             {
-                "name": "Entrails Whip",
+                "name": "Void Tendril",
                 "damage": 40,
                 "accuracy": 80,
                 "cooldown": 2
             },
             {
-                "name": "Blood Drain",
+                "name": "Reality Warp",
                 "damage": 30,
                 "accuracy": 90,
                 "cooldown": 1
@@ -241,747 +236,22 @@
         ],
         "loot": [
             {
-                "item": "Vial of Blood",
+                "item": "Void Shard",
                 "quantity": 1,
                 "drop_chance": 100
             },
             {
-                "item": "Penanggalan Head",
+                "item": "Dimensional Key",
                 "quantity": 1,
                 "drop_chance": 5
             }
         ],
         "dialogue": [
-            "I hunger for your blood!",
-            "Your entrails will make a fine necklace.",
-            "Scream for me, mortal!"
+            "Reality is but a thin veil...",
+            "Can you comprehend the vastness of the void?",
+            "Your existence is a mere echo in the cosmos."
         ],
-        "short_description": "A floating female head with dangling entrails that thirsts for human blood.",
-        "long_description": "The Penanggalan is a horrifying undead monster that takes the form of a beautiful woman's head, with her entrails dangling beneath like grotesque tentacles. By day, she appears as a normal human, but at night, she detaches her head and flies through the air in search of sleeping victims, especially pregnant women. Using her entrails, she punctures the victim's neck and drains their blood for sustenance. The Penanggalan's presence is often heralded by a sickening stench and an unnatural chill in the air. Pray that you never encounter this nightmarish being."
-    },
-    {
-        "name": "Batibat",
-        "level": 4,
-        "health": 100,
-        "max_health": 100,
-        "attack": 20,
-        "defense": 12,
-        "speed": 15,
-        "experience_points": 120,
-        "movement_speed": 15,
-        "attributes": {
-            "Strength": 16,
-            "Dexterity": 8,
-            "Constitution": 18,
-            "Intelligence": 6,
-            "Wisdom": 12,
-            "Charisma": 4
-        },
-        "abilities": [
-            {
-                "name": "Crushing Embrace",
-                "damage": 30,
-                "accuracy": 80,
-                "cooldown": 2
-            },
-            {
-                "name": "Nightmare Curse",
-                "damage": 0,
-                "accuracy": 70,
-                "cooldown": 3
-            }
-        ],
-        "loot": [
-            {
-                "item": "Dreamcatcher",
-                "quantity": 1,
-                "drop_chance": 60
-            },
-            {
-                "item": "Sleeping Powder",
-                "quantity": 1,
-                "drop_chance": 40
-            }
-        ],
-        "dialogue": [
-            "I'll squeeze the life out of you!",
-            "Your nightmares will consume you!",
-            "There is no escape from my grasp!"
-        ],
-        "short_description": "A demonic tree spirit that suffocates its sleeping victims.",
-        "long_description": "The Batibat is a malevolent demon that resides within the twisted trunks of ancient trees. It lies in wait for weary travelers who foolishly rest beneath its branches. As the victim drifts off to sleep, the Batibat enters their dreams, turning them into horrific nightmares. The demon then manifests in the physical world, sitting upon the victim's chest and slowly suffocating them to death. Only the most resilient of minds can hope to break free from the Batibat's deadly embrace."
-    },
-    {
-        "name": "Krasue",
-        "level": 6,
-        "health": 180,
-        "max_health": 180,
-        "attack": 30,
-        "defense": 10,
-        "speed": 40,
-        "experience_points": 250,
-        "movement_speed": 40,
-        "attributes": {
-            "Strength": 12,
-            "Dexterity": 20,
-            "Constitution": 14,
-            "Intelligence": 16,
-            "Wisdom": 10,
-            "Charisma": 8
-        },
-        "abilities": [
-            {
-                "name": "Visceral Feast",
-                "damage": 40,
-                "accuracy": 75,
-                "cooldown": 2
-            },
-            {
-                "name": "Entrancing Gaze",
-                "damage": 0,
-                "accuracy": 80,
-                "cooldown": 3
-            }
-        ],
-        "loot": [
-            {
-                "item": "Krasue Fangs",
-                "quantity": 2,
-                "drop_chance": 50
-            },
-            {
-                "item": "Glowing Viscera",
-                "quantity": 1,
-                "drop_chance": 30
-            }
-        ],
-        "dialogue": [
-            "Your entrails will make a delicious meal!",
-            "Gaze into my eyes and despair!",
-            "I am the beautiful horror of the night!"
-        ],
-        "short_description": "A floating female head with glowing viscera that feasts on human organs.",
-        "long_description": "The Krasue is a terrifying nocturnal creature that appears as the severed head of a beautiful woman, with her internal organs hanging beneath, glowing with an eerie luminescence. The Krasue flies through the night, hunting for sleeping victims. She uses her beauty and glowing viscera to mesmerize her prey before descending upon them and feasting on their organs, especially the liver and heart. The Krasue's hunger is insatiable, and she will continue her grisly feast until sunrise forces her to return to her body."
-    },
-    {
-        "name": "Aswang",
-        "level": 9,
-        "health": 350,
-        "max_health": 350,
-        "attack": 45,
-        "defense": 25,
-        "speed": 35,
-        "experience_points": 450,
-        "movement_speed": 35,
-        "attributes": {
-            "Strength": 18,
-            "Dexterity": 16,
-            "Constitution": 20,
-            "Intelligence": 14,
-            "Wisdom": 12,
-            "Charisma": 10
-        },
-        "abilities": [
-            {
-                "name": "Shapeshifting",
-                "damage": 0,
-                "accuracy": 100,
-                "cooldown": 5
-            },
-            {
-                "name": "Fetus Drain",
-                "damage": 60,
-                "accuracy": 80,
-                "cooldown": 3
-            }
-        ],
-        "loot": [
-            {
-                "item": "Aswang Claw",
-                "quantity": 1,
-                "drop_chance": 75
-            },
-            {
-                "item": "Shapeshifter Amulet",
-                "quantity": 1,
-                "drop_chance": 25
-            }
-        ],
-        "dialogue": [
-            "I smell the sweet scent of unborn life!",
-            "No form can hide you from me!",
-            "I am the bane of pregnant women!"
-        ],
-        "short_description": "A shapeshifting monster that preys on unborn fetuses.",
-        "long_description": "Aswangs are terrifying monsters that can shapeshift into various forms, often taking the guise of a beautiful woman or a harmless animal. However, their true nature is revealed in their hunger for human flesh, particularly that of unborn fetuses. Aswangs use their shapeshifting ability to get close to pregnant women, then use their long, hollow tongues to pierce the womb and drain the fetus of its blood and organs. They are cunning, stealthy, and incredibly difficult to detect, making them one of the most feared monsters in Timorese folklore."
-    },
-    {
-        "name": "Buru",
-        "level": 7,
-        "health": 250,
-        "max_health": 250,
-        "attack": 35,
-        "defense": 20,
-        "speed": 30,
-        "experience_points": 300,
-        "movement_speed": 30,
-        "attributes": {
-            "Strength": 20,
-            "Dexterity": 14,
-            "Constitution": 18,
-            "Intelligence": 6,
-            "Wisdom": 10,
-            "Charisma": 4
-        },
-        "abilities": [
-            {
-                "name": "Thundering Charge",
-                "damage": 50,
-                "accuracy": 70,
-                "cooldown": 3
-            },
-            {
-                "name": "Paralyzing Slime",
-                "damage": 10,
-                "accuracy": 80,
-                "cooldown": 2
-            }
-        ],
-        "loot": [
-            {
-                "item": "Buru Horn",
-                "quantity": 1,
-                "drop_chance": 80
-            },
-            {
-                "item": "Slime-coated Hide",
-                "quantity": 1,
-                "drop_chance": 40
-            }
-        ],
-        "dialogue": [
-            "I will trample you into the mud!",
-            "My slime will leave you helpless!",
-            "There is no escape from the Buru!"
-        ],
-        "short_description": "A giant, slime-covered water buffalo that crushes and drowns its victims.",
-        "long_description": "The Buru is a monstrous, semi-aquatic creature that resembles a massive water buffalo coated in thick, pale slime. It lurks in the muddy rivers and swamps of Timor-Leste, waiting for unsuspecting prey to come near the water's edge. When it spots its victim, the Buru charges out of the water with surprising speed, trampling them underfoot and coating them in its paralyzing slime. It then drags its helpless victim back into the murky depths, drowning and devouring them at its leisure. The Buru is a terror to all who live near the water."
-    },
-    {
-        "name": "Hantu Raya",
-        "level": 11,
-        "health": 400,
-        "max_health": 400,
-        "attack": 55,
-        "defense": 30,
-        "speed": 25,
-        "experience_points": 600,
-        "movement_speed": 25,
-        "attributes": {
-            "Strength": 22,
-            "Dexterity": 10,
-            "Constitution": 20,
-            "Intelligence": 16,
-            "Wisdom": 18,
-            "Charisma": 8
-        },
-        "abilities": [
-            {
-                "name": "Demon Scream",
-                "damage": 40,
-                "accuracy": 85,
-                "cooldown": 2
-            },
-            {
-                "name": "Soul Drain",
-                "damage": 30,
-                "accuracy": 90,
-                "cooldown": 3
-            }
-        ],
-        "loot": [
-            {
-                "item": "Soul Essence",
-                "quantity": 1,
-                "drop_chance": 90
-            },
-            {
-                "item": "Demon Fang",
-                "quantity": 1,
-                "drop_chance": 20
-            }
-        ],
-        "dialogue": [
-            "Your soul will feed my power!",
-            "I will feast on your essence!",
-            "All will cower before the Great Demon!"
-        ],
-        "short_description": "A powerful demon that devours souls and sows chaos.",
-        "long_description": "The Hantu Raya, or Great Demon, is an immensely powerful malevolent spirit that thrives on the souls of the living. It appears as a towering, horned humanoid with jet-black skin and glowing red eyes. The Hantu Raya's voice is said to echo with the screams of a thousand tortured souls. It can rip the soul from a living being with just a touch, devouring it to increase its own dark power. The Hantu Raya delights in spreading chaos and destruction, often manipulating lesser demons and evil humans to do its bidding. Few can stand against the might of this terrible demon."
-    },
-    {
-        "name": "Jenglot",
-        "level": 3,
-        "health": 75,
-        "max_health": 75,
-        "attack": 12,
-        "defense": 8,
-        "speed": 45,
-        "experience_points": 80,
-        "movement_speed": 45,
-        "attributes": {
-            "Strength": 6,
-            "Dexterity": 18,
-            "Constitution": 10,
-            "Intelligence": 12,
-            "Wisdom": 14,
-            "Charisma": 4
-        },
-        "abilities": [
-            {
-                "name": "Blood Siphon",
-                "damage": 20,
-                "accuracy": 80,
-                "cooldown": 1
-            },
-            {
-                "name": "Pounce",
-                "damage": 15,
-                "accuracy": 90,
-                "cooldown": 2
-            }
-        ],
-        "loot": [
-            {
-                "item": "Jenglot Fang",
-                "quantity": 1,
-                "drop_chance": 70
-            },
-            {
-                "item": "Shrunken Head",
-                "quantity": 1,
-                "drop_chance": 10
-            }
-        ],
-        "dialogue": [
-            "Fresh blood, my favorite!",
-            "I'll drain you dry!",
-            "You'll make a tasty snack!"
-        ],
-        "short_description": "A small, bloodthirsty vampire that preys on sleeping victims.",
-        "long_description": "The Jenglot is a small, goblin-like creature that is said to be an undead vampire. Despite its diminutive size, the Jenglot is a fearsome predator. It sneaks into homes at night and uses its sharp fangs to pierce the skin of sleeping victims, draining their blood without waking them. The Jenglot must constantly feed to sustain its unnatural existence. Because of its small size and agility, it can be very difficult to catch or kill a Jenglot once it has entered a home. Many Timorese use protective charms and amulets to ward off these pint-sized vampires."
-    },
-    {
-        "name": "Rakshasa",
-        "level": 13,
-        "health": 500,
-        "max_health": 500,
-        "attack": 60,
-        "defense": 35,
-        "speed": 40,
-        "experience_points": 800,
-        "movement_speed": 40,
-        "attributes": {
-            "Strength": 24,
-            "Dexterity": 18,
-            "Constitution": 22,
-            "Intelligence": 20,
-            "Wisdom": 16,
-            "Charisma": 12
-        },
-        "abilities": [
-            {
-                "name": "Illusory Facade",
-                "damage": 0,
-                "accuracy": 100,
-                "cooldown": 4
-            },
-            {
-                "name": "Rending Claws",
-                "damage": 80,
-                "accuracy": 75,
-                "cooldown": 2
-            }
-        ],
-        "loot": [
-            {
-                "item": "Rakshasa Claw",
-                "quantity": 1,
-                "drop_chance": 60
-            },
-            {
-                "item": "Enchanted Bracers",
-                "quantity": 1,
-                "drop_chance": 30
-            }
-        ],
-        "dialogue": [
-            "You are just another pawn in my games!",
-            "My true form will be your undoing!",
-            "I will tear you apart, piece by piece!"
-        ],
-        "short_description": "A powerful, shapeshifting demon that delights in trickery and violence.",
-        "long_description": "Rakshasas are malevolent, shapeshifting demons that take great pleasure in causing suffering and despair. They often appear in the guise of a beautiful human to lure in their victims, only to reveal their true, horrific form when it's too late. Rakshasas are incredibly strong and agile, able to tear a human apart with their razor-sharp claws. They are also master illusionists, capable of creating intricate deceptions to fool and trap their prey. Rakshasas are sadistic and cruel, often playing psychological games with their victims before killing them in the most gruesome ways imaginable."
-    },
-    {
-        "name": "Leyak",
-        "level": 8,
-        "health": 200,
-        "max_health": 200,
-        "attack": 40,
-        "defense": 15,
-        "speed": 60,
-        "experience_points": 400,
-        "movement_speed": 60,
-        "attributes": {
-            "Strength": 12,
-            "Dexterity": 24,
-            "Constitution": 14,
-            "Intelligence": 12,
-            "Wisdom": 18,
-            "Charisma": 6
-        },
-        "abilities": [
-            {
-                "name": "Necromantic Blast",
-                "damage": 50,
-                "accuracy": 3,
-                "cooldown": 3
-            },
-            {
-                "name": "Unholy Resurrection",
-                "damage": 0,
-                "accuracy": 80,
-                "cooldown": 5
-            }
-        ],
-        "loot": [
-            {
-                "item": "Leyak Skull",
-                "quantity": 1,
-                "drop_chance": 40
-            },
-            {
-                "item": "Pearl necklace",
-                "quantity": 1,
-                "drop_chance": 20
-            }
-        ],
-        "dialogue": [
-            "The dead are mine to command!",
-            "I will add your corpse to my army!",
-            "Embrace the power of necromancy!"
-        ],
-        "short_description": "An undead sorcerer that raises the dead to fight for it.",
-        "long_description": "The Leyak is a fearsome undead creature that was once a powerful necromancer. Even in death, it retains its dark magical abilities, able to raise the corpses of the fallen to serve as its undead minions. The Leyak appears as a floating, rotting corpse with glowing red eyes, surrounded by an aura of deathly energy. It attacks with blasts of necromantic power that can drain the life from the living. The Leyak takes great pleasure in desecrating the dead and will often dig up graves to bolster its army of the undead."
-    },
-    {
-        "name": "Bagat",
-        "level": 5,
-        "health": 150,
-        "max_health": 150,
-        "attack": 25,
-        "defense": 15,
-        "speed": 20,
-        "experience_points": 200,
-        "movement_speed": 20,
-        "attributes": {
-            "Strength": 18,
-            "Dexterity": 10,
-            "Constitution": 20,
-            "Intelligence": 8,
-            "Charisma": 6
-        },
-        "abilities": [
-            {
-                "name": "Boulder Throw",
-                "damage": 40,
-                "accuracy": 75
-            },
-            {
-                "name": "Ground Slam",
-                "damage": 30,
-                "accuracy": 80,
-                "cooldown": 1
-            }
-        ],
-        "loot": [
-            {
-                "item": "Bagat Tooth",
-                "quantity": 1,
-                "drop_chance": 50
-            },
-            {
-                "item": "Heavy Stone",
-                "quantity": 1,
-                "drop_chance": 90
-            }
-        ],
-        "dialogue": [
-            "Puny human, you're no match for my strength!",
-            "I'll grind your bones to dust!",
-            "The earth itself rises against you!"
-        ],
-        "short_description": "A massive, brutish ogre that can hurl boulders and cause earthquakes.",
-        "long_description": "The Bagat is a hulking, ogre-like creature that inhabits the rocky hills and mountains of Timor-Leste. Standing at over three meters tall, with a thick, stony hide and muscular frame, the Bagat is a formidable opponent. It has the strength to uproot trees and hurl massive boulders at its enemies. The Bagat can also slam its fists into the ground with such force that it causes localized earthquakes, knocking creatures off their feet. While not particularly intelligent, the Bagat's raw strength and toughness"
-    },
-    {
-        "name": "Buata",
-        "level": 10,
-        "health": 300,
-        "max_health": 300,
-        "attack": 50,
-        "defense": 25,
-        "speed": 30,
-        "experience_points": 500,
-        "movement_speed": 30,
-        "attributes": {
-            "Strength": 20,
-            "Dexterity": 18,
-            "Constitution": 22,
-            "Intelligence": 14,
-            "Wisdom": 16,
-            "Charisma": 12
-        },
-        "abilities": {
-            "name": "Venom Fang",
-            "damage": 40,
-            "accuracy": 80,
-            "cooldown": 2
-        }
-    },
-    {
-        "name": "Serpentine Coils",
-        "damage": 30,
-        "accuracy": 90
-    },
-    {
-        "loot": [
-            {
-                "item": "Buata Scales",
-                "quantity": 1,
-                "drop_chance": 75
-            },
-            {
-                "item": "Serpent Venom",
-                "quantity": 1,
-                "drop_chance": 50
-            }
-        ],
-        "dialogue": [
-            "Come closssser, let me embrace you...",
-            "My poisssson will courssssse through your veinssss!",
-            "I am the sssserpent queen of this forsssst!"
-        ],
-        "short_description": "A giant, venomous snake-woman hybrid.",
-        "long_description": "The Buata is a terrifying creature with the upper body of a beautiful woman and the lower body of a giant, venomous serpent. Buatas make their lairs deep in the jungle, often near ancient ruins or hidden temples. They are highly intelligent and can speak, often luring humans in with their enchanting voices and alluring appearance. However, this is merely a trap, as the Buata's true desire is to feed on human flesh. The Buata's venom is highly potent, able to kill a grown man within minutes. Their serpentine lower half is also incredibly strong, capable of crushing the life out of their victims."
-    },
-    {
-        "name": "Manananggal",
-        "level": 12,
-        "health": 400,
-        "max_health": 400,
-        "attack": 55,
-        "defense": 30,
-        "speed": 50,
-        "experience_points": 700,
-        "movement_speed": 50,
-        "attributes": {
-            "Strength": 18,
-            "Dexterity": 22,
-            "Constitution": 20,
-            "Intelligence": 16,
-            "Wisdom": 14,
-            "Charisma": 10
-        },
-        "abilities": [
-            {
-                "name": "Wing Slash",
-                "damage": 60,
-                "accuracy": 75,
-                "cooldown": 2
-            },
-            {
-                "name": "Blood Drain",
-                "damage": 40,
-                "accuracy": 85,
-                "cooldown": 3
-            }
-        ],
-        "loot": [
-            {
-                "item": "Manananggal Wing",
-                "quantity": 1,
-                "drop_chance": 60
-            },
-            {
-                "item": "Bottle of Blood",
-                "quantity": 1,
-                "drop_chance": 30
-            }
-        ],
-        "dialogue": [
-            "Your blood smells sweet, my dear...",
-            "I'll suck you dry!",
-            "No one can escape the Manananggal!"
-        ],
-        "short_description": "A vampiric creature that separates its upper body to fly and hunt.",
-        "long_description": "The Manananggal is a horrifying creature from Philippine mythology that has made its way to Timor-Leste. By day, it appears as a beautiful woman, but at night, it splits its body in half. The upper half grows large, bat-like wings and flies off into the night to hunt for prey, while the lower half remains rooted to the spot. The Manananggal preys primarily on pregnant women, using its long, hollow tongue to suck the hearts out of unborn fetuses. It is also known to drain the blood of sleeping victims. The Manananggal is vulnerable during the day when it must rejoin its two halves. If one half is destroyed, the creature dies."
-    },
-    {
-        "name": "Wewe Gombel",
-        "level": 6,
-        "health": 150,
-        "max_health": 150,
-        "attack": 30,
-        "defense": 15,
-        "speed": 40,
-        "experience_points": 250,
-        "movement_speed": 40,
-        "attributes": {
-            "Strength": 12,
-            "Dexterity": 20,
-            "Constitution": 14,
-            "Intelligence": 16,
-            "Wisdom": 18,
-            "Charisma": 10
-        },
-        "abilities": [
-            {
-                "name": "Phantom Scream",
-                "damage": 40,
-                "accuracy": 80,
-                "cooldown": 2
-            },
-            {
-                "name": "Haunting Touch",
-                "damage": 25,
-                "accuracy": 90,
-                "cooldown": 1
-            }
-        ],
-        "loot": [
-            {
-                "item": "Ghostly Veil",
-                "quantity": 1,
-                "drop_chance": 50
-            },
-            {
-                "item": "Banshee's Tear",
-                "quantity": 1,
-                "drop_chance": 20
-            }
-        ],
-        "dialogue": [
-            "I can sense your fear...",
-            "Join me in eternal sorrow!",
-            "Your cries are music to my ears!"
-        ],
-        "short_description": "The vengeful spirit of a woman who died in childbirth.",
-        "long_description": "The Wewe Gombel is the restless spirit of a woman who died during childbirth. Consumed by grief and rage, she haunts the world of the living, her ghostly form adorned in a long, white burial shroud. The Wewe Gombel's wailing cries can be heard echoing through the night, causing terror in all who hear her. She is known to attack pregnant women out of jealousy, trying to possess them and cause miscarriages. The Wewe Gombel can also curse individuals with her haunting touch, filling their minds with unending sorrow and driving them to madness. Only through proper burial rites and offerings can the Wewe Gombel's spirit be put to rest."
-    },
-    {
-        "name": "Kuntilanak",
-        "level": 7,
-        "health": 200,
-        "max_health": 200,
-        "attack": 35,
-        "defense": 20,
-        "speed": 45,
-        "experience_points": 300,
-        "movement_speed": 45,
-        "attributes": {
-            "Strength": 14,
-            "Dexterity": 22,
-            "Constitution": 16,
-            "Intelligence": 18,
-            "Wisdom": 20,
-            "Charisma": 8
-        },
-        "abilities": [
-            {
-                "name": "Vengeful Claw",
-                "damage": 45,
-                "accuracy": 75,
-                "cooldown": 2
-            },
-            {
-                "name": "Death Shriek",
-                "damage": 30,
-                "accuracy": 85,
-                "cooldown": 3
-            }
-        ],
-        "loot": [
-            {
-                "item": "Kuntilanak Hair",
-                "quantity": 1,
-                "drop_chance": 70
-            },
-            {
-                "item": "Cursed Comb",
-                "quantity": 1,
-                "drop_chance": 40
-            }
-        ],
-        "dialogue": [
-            "You will pay for your sins!",
-            "I will have my revenge!",
-            "Death is too good for you!"
-        ],
-        "short_description": "The vengeful spirit of a woman who died a violent death.",
-        "long_description": "The Kuntilanak is the malevolent spirit of a woman who suffered a violent and unjust death. Often depicted as having long, unkempt hair and wearing a white dress, the Kuntilanak is said to reside in trees, waiting to ambush unsuspecting victims. Her chilling shrieks can be heard in the night, foretelling doom for those who cross her path. The Kuntilanak attacks with her long, sharp nails, seeking to rend the flesh from her victims' bones. She delights in causing suffering, believing that inflicting pain will ease her own anguish. The Kuntilanak is a being of pure vengeance, and will not rest until she has exacted her revenge upon the living."
-    },
-    {
-        "name": "Pocong",
-        "level": 9,
-        "health": 250,
-        "max_health": 250,
-        "attack": 45,
-        "defense": 25,
-        "speed": 10,
-        "experience_points": 450,
-        "movement_speed": 10,
-        "attributes": {
-            "Strength": 20,
-            "Dexterity": 8,
-            "Constitution": 22,
-            "Intelligence": 12,
-            "Wisdom": 18,
-            "Charisma": 6
-        },
-        "abilities": [
-            {
-                "name": "Grave Bite",
-                "damage": 60,
-                "accuracy": 70,
-                "cooldown": 3
-            },
-            {
-                "name": "Deathly Embrace",
-                "damage": 40,
-                "accuracy": 80,
-                "cooldown": 2
-            }
-        ],
-        "loot": [
-            {
-                "item": "Burial Shroud",
-                "quantity": 1,
-                "drop_chance": 80
-            },
-            {
-                "item": "Pocong Tooth",
-                "quantity": 1,
-                "drop_chance": 30
-            }
-        ],
-        "dialogue": [
-            "Join me in death's sweet embrace...",
-            "Your flesh will be my sustenance!",
-            "The grave awaits you!"
-        ],
-        "short_description": "A reanimated corpse wrapped in burial shrouds.",
-        "long_description": "The Pocong is an undead creature from Indonesian mythology, a corpse that has risen from the grave, still wrapped in its burial shrouds. Bound tightly from head to toe in white cloth, the Pocong moves by hopping, as it cannot walk with its legs bound together. Despite its awkward movement, the Pocong is surprisingly quick and agile. It attacks by biting with its exposed teeth, the only part of its body not covered by the shroud. The Pocong's bite is said to be venomous, causing the flesh around the wound to rot. Pocongs are often said to be the result of improper burial rites, or the corpses of those who died with unfinished business in the mortal world."
+        "short_description": "A being from beyond reality, walking between dimensions.",
+        "long_description": "The Echoing Voidwalker is an enigmatic entity that exists partially outside of normal reality. Its form shifts and wavers, as if not entirely present in any one dimension. Voidwalkers are believed to be explorers or scientists from a realm beyond our understanding, studying the fabric of reality itself. They can manipulate space around them, creating temporary rifts or warping short distances. While not inherently hostile, their alien nature and disregard for the laws of physics can make encounters with Voidwalkers dangerous and unpredictable."
     }
 ]

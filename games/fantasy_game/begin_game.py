@@ -39,7 +39,9 @@ def generate_character():
     print("Based on your choices, we will generate a unique Fantasy character avatar for you.")
     print("Let's begin!\n")
 
-    # Load stories from stories.json file
+    character_name = input("Enter your character's name: ")
+    character_gender = input("Enter your character's gender: ")
+
     with open("stories.json", "r") as file:
         stories = json.load(file)
 
@@ -54,19 +56,19 @@ def generate_character():
         element_score += story["scores"][choice]
 
     character_data = create_character(element_score)
-    # Calculate hit points based on Constitution
-    base_hit_points = 10  # Base HP for a level 1 character
+    character_data['name'] = character_name
+    character_data['gender'] = character_gender
+    base_hit_points = 10
     constitution_modifier = (character_data['attributes']['Constitution'] - 10) // 2
     hit_points = base_hit_points + constitution_modifier
 
-    # Add hit points to character data
     character_data['hit_points'] = hit_points
     character_data['max_hit_points'] = hit_points
+    character_data['level'] = 1
     
     character_class = character_data["class"]
     
-    # Generate starting income based on the character's class
-    min_income, max_income = starting_income.get(character_class, (10, 300))  # Default to (10, 300) if class not found
+    min_income, max_income = starting_income.get(character_class, (10, 300))
     character_money = random.randint(min_income, max_income)    
     
     character_element = character_data["element"]
@@ -75,6 +77,8 @@ def generate_character():
     character_equipment = character_data["equipment"]
 
     print("\nYour Fantasy Character Avatar:")
+    print("Name:", character_name)
+    print("Gender:", character_gender)
     print("Class:", character_class)
     print("Element:", character_element)
     print("Archetype:", character_archetype)
@@ -90,15 +94,15 @@ def generate_character():
     for attribute, score in character_data["attributes"].items():
         print(f"{attribute}: {score}")
 
-    # Generate fantasy world description
     with open("monsters.json", "r") as file:
         monsters_data = json.load(file)
     
     world_description = "In a realm where dark creatures lurk in the shadows, brave adventurers must face terrifying monsters born from ancient myths and legends. This land is home to vengeful spirits, shapeshifting demons, and nightmarish beings that prey on the unwary. From the misty forests to the treacherous swamps, danger lurks around every corner, challenging even the most valiant heroes."
 
-    # Generate background story using Anthropic API
     prompt = f"""As a Dungeon Master, create a compelling background origin story for a character with the following attributes:
 
+Character Name: {character_name}
+Character Gender: {character_gender}
 Character Class: {character_class}
 Element: {character_element}
 Archetype: {character_archetype}
@@ -134,15 +138,12 @@ Please provide a rich and detailed background story that incorporates these elem
 
     input("\nHit enter to continue...")
 
-    # Merchant encounter
     print("\nAs you set out on your journey, you come across a merchant on the road.")
     print("The merchant greets you and offers an assortment of items for sale:")
 
-    # Load equipment from equipment.json file
     with open("equipment.json", "r") as file:
         equipment_data = json.load(file)
 
-    # Randomly select a dozen items from equipment_data
     merchant_items = random.sample(equipment_data, 12)
 
     for i, item in enumerate(merchant_items, 1):
@@ -188,49 +189,55 @@ Please provide a rich and detailed background story that incorporates these elem
     print(f"\nYou have {character_money // 100} gp, {(character_money % 100) // 10} sp, and {character_money % 10} cp left.")
     print("\nYou continue your journey with your newly acquired items.")
 
-    # Add purchased items to the character data
     character_data["purchased_items"] = [item["name"] for item in purchased_items]
     character_data["remaining_money"] = character_money
 
-    # Add purchased items to the equipment list
     character_data["equipment"].extend(character_data["purchased_items"])
 
-    # Save the updated character data to the JSON file
     with open("character_data.json", "w") as file:
         json.dump(character_data, file, indent=4)
 
     print("\nUpdated character data saved to 'character_data.json'.")
 
-    # Load goblin data from monsters.json
+    # Load monster data and select a monster of level 3 or lower for the first encounter
     with open("monsters.json", "r") as file:
         monsters_data = json.load(file)
-        goblin_data = next(monster for monster in monsters_data if monster["name"] == "Goblin")
+        eligible_monsters = [monster for monster in monsters_data if monster['level'] <= 3]
+        if not eligible_monsters:
+            print("No suitable monsters found for the first encounter. Please check the monsters.json file.")
+            return character_data
+        selected_monster_data = random.choice(eligible_monsters)
 
-    # Add movement_speed and armor_class to goblin data
-    goblin_data['movement_speed'] = goblin_data['speed']
-    goblin_data['armor_class'] = goblin_data['defense']
+    print(f"\nAs you travel further, you encounter a {selected_monster_data['name']}!")
+    print(f"\nThe {selected_monster_data['name']} Description:")
+    print(selected_monster_data['long_description'])
 
-    # Encounter with the goblin
-    print("\nAs you travel further, you encounter a goblin!")
-    print("\nGoblin Description:")
-    print(goblin_data['long_description'])
+    user_input = input(f"\nWhat do you want to say to the {selected_monster_data['name']}? ")
 
-    # Prompt user for input
-    user_input = input("\nWhat do you want to say to the goblin? ")
+    level_difference = selected_monster_data['level'] - character_data['level']
+    if level_difference > 2:
+        relative_power = "much less powerful"
+    elif level_difference > 0:
+        relative_power = "less powerful"
+    elif level_difference < -2:
+        relative_power = "much more powerful"
+    elif level_difference < 0:
+        relative_power = "more powerful"
+    else:
+        relative_power = "about the same in power"
 
-    # Generate goblin's response using Anthropic LLM
-    prompt = f"""You are a: {goblin_data['name']}
-You have come in contact with a human.
-You feel: {random.choice(goblin_data['dialogue'])}
-The human says: {user_input}
-Your description: {goblin_data['long_description']}
-How do you respond?"""
+    prompt = f"""In this fantasy role-playing game scenario, you are a {selected_monster_data['name']}.
+Your description: {selected_monster_data['long_description']}
+You have encountered {character_data['name']}, a level {character_data['level']} {character_data['class']}.
+You feel: {random.choice(selected_monster_data['dialogue'])}
+{character_data['name']} says: "{user_input}"
+How do you respond? Stay in character and remember this is a fictional game interaction."""
 
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",
         max_tokens=300,
         temperature=0.7,
-        system="You are a goblin responding to a human adventurer. Respond in character based on the provided description.",
+        system=f"You are role-playing as a {selected_monster_data['name']} in a fantasy game. You are interacting with {character_data['name']}, a {character_data['gender']} {character_data['class']}. They are {relative_power} compared to you. Respond in character based on your description. This is a fictional game scenario.",
         messages=[
             {
                 "role": "user",
@@ -239,27 +246,24 @@ How do you respond?"""
         ]
     )
 
-    print("\nGoblin's response:")
+    print(f"\nThe {selected_monster_data['name']}'s response:")
     response = message.content[0].text.replace("\\n\\n", "\n")
     print(response)
 
-    print("\nThe Goblin suddenly quits talking and charges you!")
+    print(f"\nThe {selected_monster_data['name']} suddenly quits talking and charges you!")
 
-    # Continue with combat
-    combat(character_data, goblin_data)
+    combat(character_data, selected_monster_data)
 
-    print("\nAfter the goblin encounter, you continue your journey.")
+    print(f"\nAfter the {selected_monster_data['name']} encounter, you continue your journey.")
 
     return character_data
 
 def main():
     character_data = generate_character()
     
-    # Start navigation after character creation
     file_path = 'Locations.csv'
-    movement_speed = 50  # Adjust this value based on the character's movement speed
+    movement_speed = 50
     start_navigation(file_path, movement_speed)
 
 if __name__ == "__main__":
     main()
-    
