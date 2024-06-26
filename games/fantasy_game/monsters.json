@@ -1,6 +1,6 @@
 [
     {
-        "name": "Mossy Rockbeast",
+        "name": "Moss beast",
         "level": 1,
         "health": 4,
         "max_health": 5,
@@ -17,12 +17,6 @@
             "Charisma": 6
         },
         "abilities": [
-            {
-                "name": "Boulder Toss",
-                "damage": 15,
-                "accuracy": 80,
-                "cooldown": 1
-            },
             {
                 "name": "Camouflage",
                 "damage": 0,
@@ -45,10 +39,14 @@
         "dialogue": [
             "Who disturbs my slumber?",
             "This forest is my home!",
-            "You look like an interesting new rock formation..."
+            "You look like an interesting new moss formation..."
         ],
-        "short_description": "A living mass of rocks and moss that roams the forest.",
-        "long_description": "The Mossy Rockbeast is a curious creature that appears to be a mobile pile of boulders covered in thick, verdant moss. It roams the forests, often mistaken for a simple rock formation until it suddenly springs to life. While not inherently aggressive, it fiercely defends its territory from those it perceives as threats. The Rockbeast can hurl small boulders with surprising accuracy and use its mossy covering to blend in with its surroundings."
+        "short_description": "A living mass of moss that roams the forest.",
+        "long_description": "The Mossbeast is a curious creature that appears to be a mobile pile of verdant moss. It roams the forests, often mistaken for a simple patch of moss until it suddenly springs to life. While not inherently aggressive, it fiercely defends its territory from those it perceives as threats. It uses its mossy covering to blend in with its surroundings.",
+        "friends_and_family": ["Whispering Windsprite", "Luminous Drifter"],
+        "enemies": ["Ironhide Defender"],
+        "groups": ["Forest Creatures", "Guardians of the Enchanted Forests"],
+        "locations": ["Enchanted Forests of Lautém", "Whispering Woodlands of Viqueque"]
     },
     {
         "name": "Luminous Drifter",
@@ -99,159 +97,527 @@
             "Your presence dims my glow..."
         ],
         "short_description": "A floating, luminescent being that illuminates the darkness.",
-        "long_description": "The Luminous Drifter is a mesmerizing entity composed of pure light. It floats gracefully through dark caves and shadowy forests, illuminating its surroundings with a soft, ethereal glow. While not malevolent, it can be territorial and may perceive darkness as a threat to its existence. The Drifter can emit blinding flashes of light to disorient intruders and focus its radiance into concentrated beams for defense."
+        "long_description": "The Luminous Drifter is a mesmerizing entity composed of pure light. It floats gracefully through dark caves and shadowy forests, illuminating its surroundings with a soft, ethereal glow. While not malevolent, it can be territorial and may perceive darkness as a threat to its existence. The Drifter can emit blinding flashes of light to disorient intruders and focus its radiance into concentrated beams for defense.",
+        "friends_and_family": ["Moss beast", "Echoing Voidwalker"],
+        "enemies": ["Shadow Lurker"],
+        "groups": ["Ethereal Entities", "Luminous Guardians"],
+        "locations": ["Whispering Caves of Baucau", "Radiant Ridges of Lolotoe", "Shimmering Shores of Jaco Island"]
     },
     {
-        "name": "Whispering Windsprite",
-        "level": 2,
-        "health": 40,
-        "max_health": 40,
-        "attack": 15,
-        "armor_class": 5,
-        "movement_speed": 30,
-        "experience_points": 30,
+        "name": "Celestial Stag",
+        "level": 7,
+        "health": 180,
+        "max_health": 180,
+        "attack": 35,
+        "armor_class": 14,
+        "movement_speed": 50,
+        "experience_points": 300,
         "attributes": {
-            "Strength": 8,
-            "Dexterity": 16,
-            "Constitution": 6,
-            "Intelligence": 10,
-            "Wisdom": 12,
-            "Charisma": 14
+            "Strength": 16,
+            "Dexterity": 20,
+            "Constitution": 15,
+            "Intelligence": 12,
+            "Wisdom": 18,
+            "Charisma": 16
         },
         "abilities": [
             {
-                "name": "Gust Push",
-                "damage": 0,
-                "accuracy": 90,
-                "cooldown": 1
+                "name": "Astral Charge",
+                "damage": 45,
+                "accuracy": 85,
+                "cooldown": 3
             },
             {
-                "name": "Whirlwind Dodge",
-                "damage": 0,
-                "accuracy": 100,
-                "cooldown": 2
+                "name": "Starfall",
+                "damage": 30,
+                "accuracy": 95,
+                "cooldown": 4
             }
         ],
         "loot": [
             {
-                "item": "Feather",
+                "item": "Stardust Antler",
                 "quantity": 1,
-                "drop_chance": 80
+                "drop_chance": 60
             },
             {
-                "item": "Wind Chime",
+                "item": "Celestial Hoof",
                 "quantity": 1,
-                "drop_chance": 20
+                "drop_chance": 30
             }
         ],
         "dialogue": [
-            "Can you hear the song of the breeze?",
-            "Swift as the wind, silent as a whisper!",
-            "Let's dance on the currents of air!"
+            "The stars have foretold your arrival.",
+            "Tread lightly, for you walk on sacred ground.",
+            "What seeks you in the realm of the celestials?"
         ],
-        "short_description": "An playful air spirit that rides the winds.",
-        "long_description": "Whispering Windsprites are capricious air elementals that manifest as swirling vortexes of leaves and mist. They delight in riding the winds, often playing harmless pranks on travelers by snatching hats or ruffling clothes. While not inherently dangerous, they can become mischievous if annoyed, using gusts of wind to push intruders away or spinning into small whirlwinds to dodge attacks. Their laughter sounds like the gentle tinkling of wind chimes."
+        "short_description": "A majestic stag with a coat that shimmers like the night sky.",
+        "long_description": "The Celestial Stag is a magnificent creature with fur that gleams like a starry night. Its antlers glow with an ethereal light, leaving trails of stardust as it moves. These beings are guardians of sacred places and keepers of ancient wisdom. They are peaceful by nature but will fiercely defend their territories against those they deem unworthy. The Celestial Stag can call upon the power of the stars, raining down celestial energy on its foes.",
+        "friends_and_family": ["Luminous Drifter", "Whispering Windsprite"],
+        "enemies": ["Shadow Lurker", "Emberscale Drake"],
+        "groups": ["Celestial Guardians", "Keepers of the Sacred Peaks"],
+        "locations": ["Celestial Peaks of Ramelau", "Radiant Ridges of Mundo Perdido", "Misty Peaks of Matebian"]
     },
     {
-        "name": "Ironhide Defender",
-        "level": 8,
-        "health": 250,
-        "max_health": 250,
-        "attack": 40,
-        "armor_class": 20,
-        "movement_speed": 25,
-        "experience_points": 400,
+        "name": "Whisperweave Spider",
+        "level": 4,
+        "health": 80,
+        "max_health": 80,
+        "attack": 20,
+        "armor_class": 12,
+        "movement_speed": 35,
+        "experience_points": 100,
         "attributes": {
-            "Strength": 20,
-            "Dexterity": 12,
-            "Constitution": 18,
-            "Intelligence": 8,
-            "Wisdom": 10,
-            "Charisma": 6
+            "Strength": 10,
+            "Dexterity": 18,
+            "Constitution": 12,
+            "Intelligence": 14,
+            "Wisdom": 16,
+            "Charisma": 8
         },
         "abilities": [
             {
-                "name": "Iron Slam",
-                "damage": 20,
-                "accuracy": 85,
-                "cooldown": 1
+                "name": "Silk Snare",
+                "damage": 0,
+                "accuracy": 90,
+                "cooldown": 2
             },
             {
-                "name": "Metallic Shell",
-                "damage": 0,
-                "accuracy": 100,
+                "name": "Venomous Bite",
+                "damage": 25,
+                "accuracy": 80,
                 "cooldown": 3
             }
         ],
         "loot": [
             {
-                "item": "Iron Ingot",
+                "item": "Whispersilk Thread",
                 "quantity": 1,
-                "drop_chance": 90
+                "drop_chance": 80
             },
             {
-                "item": "Magnetic Stone",
+                "item": "Enchanted Spinnerets",
                 "quantity": 1,
-                "drop_chance": 10
+                "drop_chance": 20
             }
         ],
         "dialogue": [
-            "You shall not pass!",
-            "My resolve is as strong as steel!",
-            "Test your mettle against true iron!"
+            "Listen closely to the whispers of fate.",
+            "My webs catch more than just prey, little one.",
+            "Secrets and lies, all tangled in my silken threads."
         ],
-        "short_description": "A living statue of iron, guardian of ancient forges.",
-        "long_description": "The Ironhide Defender is a massive, humanoid creature forged entirely of living iron. Created long ago to guard the legendary forges of master craftsmen, these sentient statues continue their vigil long after their creators have perished. Their bodies are incredibly resilient, shrugging off most physical attacks. They can shape their limbs into crude weapons or enfold themselves in an impenetrable metallic shell for defense. Despite their fearsome appearance, Ironhide Defenders are bound by ancient codes of honor and can be reasoned with by those who show proper respect and knowledge of metallurgy."
+        "short_description": "A mysterious spider that weaves webs of secrets and prophecies.",
+        "long_description": "The Whisperweave Spider is a creature of mystery and intrigue. Its body shimmers with an iridescent sheen, and its webs glisten with an otherworldly light. These spiders are known for their ability to capture secrets and whispers in their webs, making them sought after by those in search of hidden knowledge. While not overtly aggressive, they are protective of their lairs and the secrets they hold. Their venom can induce vivid hallucinations, often revealing hidden truths or possible futures to their victims.",
+        "friends_and_family": ["Moss beast", "Whispering Windsprite"],
+        "enemies": ["Ironhide Defender", "Emberscale Drake"],
+        "groups": ["Weavers of Secrets", "Guardians of the Hidden Truths"],
+        "locations": ["Whispering Caves of Baucau", "Misty Marshes of Covalima", "Enchanted Forests of Lautém"]
     },
     {
-        "name": "Echoing Voidwalker",
-        "level": 10,
-        "health": 300,
-        "max_health": 300,
-        "attack": 50,
-        "armor_class": 15,
-        "movement_speed": 50,
-        "experience_points": 500,
+        "name": "Emberscale Drake",
+        "level": 9,
+        "health": 280,
+        "max_health": 280,
+        "attack": 45,
+        "armor_class": 18,
+        "movement_speed": 45,
+        "experience_points": 450,
         "attributes": {
-            "Strength": 18,
-            "Dexterity": 20,
-            "Constitution": 16,
+            "Strength": 20,
+            "Dexterity": 16,
+            "Constitution": 18,
             "Intelligence": 14,
             "Wisdom": 12,
-            "Charisma": 8
+            "Charisma": 10
         },
         "abilities": [
             {
-                "name": "Void Tendril",
-                "damage": 40,
-                "accuracy": 80,
-                "cooldown": 2
+                "name": "Flame Breath",
+                "damage": 60,
+                "accuracy": 85,
+                "cooldown": 4
             },
             {
-                "name": "Reality Warp",
-                "damage": 30,
+                "name": "Tail Swipe",
+                "damage": 35,
                 "accuracy": 90,
-                "cooldown": 1
+                "cooldown": 2
             }
         ],
         "loot": [
             {
-                "item": "Void Shard",
-                "quantity": 1,
+                "item": "Emberscale",
+                "quantity": 3,
                 "drop_chance": 100
             },
             {
-                "item": "Dimensional Key",
+                "item": "Drake Fang",
                 "quantity": 1,
-                "drop_chance": 5
+                "drop_chance": 50
             }
         ],
         "dialogue": [
-            "Reality is but a thin veil...",
-            "Can you comprehend the vastness of the void?",
-            "Your existence is a mere echo in the cosmos."
+            "You dare challenge the might of the Emberscale?",
+            "My flames will reduce you to ash!",
+            "Prove your worth, or flee while you still can."
         ],
-        "short_description": "A being from beyond reality, walking between dimensions.",
-        "long_description": "The Echoing Voidwalker is an enigmatic entity that exists partially outside of normal reality. Its form shifts and wavers, as if not entirely present in any one dimension. Voidwalkers are believed to be explorers or scientists from a realm beyond our understanding, studying the fabric of reality itself. They can manipulate space around them, creating temporary rifts or warping short distances. While not inherently hostile, their alien nature and disregard for the laws of physics can make encounters with Voidwalkers dangerous and unpredictable."
+        "short_description": "A fearsome drake with scales that smolder like dying embers.",
+        "long_description": "The Emberscale Drake is a formidable creature, its body covered in scales that glow and shift like smoldering coals. These drakes are distant relatives of true dragons, possessing great strength and the ability to breathe gouts of searing flame. They make their lairs in volcanic regions or deep, warm caves. Emberscale Drakes are territorial and proud, often challenging intruders to prove their worth through trials of strength or wit. While fearsome in battle, they are not mindlessly aggressive and can be reasoned with by those who show proper respect and bravery.",
+        "friends_and_family": ["Ironhide Defender"],
+        "enemies": ["Celestial Stag", "Whisperweave Spider"],
+        "groups": ["Flame Guardians", "Children of the Molten Earth"],
+        "locations": ["Radiant Ridges of Lolotoe", "Thundering Falls of Bandeira", "Misty Peaks of Matebian"]
+    },
+    {
+        "name": "Glowshroom Sprite",
+        "level": 1,
+        "health": 15,
+        "max_health": 15,
+        "attack": 5,
+        "armor_class": 12,
+        "movement_speed": 20,
+        "experience_points": 20,
+        "attributes": {
+            "Strength": 6,
+            "Dexterity": 14,
+            "Constitution": 8,
+            "Intelligence": 10,
+            "Wisdom": 12,
+            "Charisma": 13
+        },
+        "abilities": [
+            {
+                "name": "Spore Cloud",
+                "damage": 3,
+                "accuracy": 80,
+                "cooldown": 3
+            }
+        ],
+        "loot": [
+            {
+                "item": "Glowing Spores",
+                "quantity": 1,
+                "drop_chance": 75
+            }
+        ],
+        "dialogue": [
+            "Oh, a visitor! Care to dance in our glow?",
+            "Careful where you step, big one!",
+            "Want to hear a secret of the forest?"
+        ],
+        "short_description": "A tiny, bioluminescent mushroom fairy.",
+        "long_description": "Glowshroom Sprites are diminutive, fairy-like beings that inhabit mushroom circles in dense forests. Their bodies emit a soft, blue-green light, and they often wear caps that resemble tiny mushrooms. Playful and curious, they enjoy leading travelers on merry chases through the woods, though they mean no real harm.",
+        "friends_and_family": ["Moss Beast", "Whispering Windsprite"],
+        "enemies": ["Shadowmoth"],
+        "groups": ["Forest Fae", "Guardians of the Mycelium"],
+        "locations": ["Enchanted Forests of Lautém", "Whispering Woodlands of Viqueque"]
+    },
+    {
+        "name": "Pebble Prowler",
+        "level": 1,
+        "health": 20,
+        "max_health": 20,
+        "attack": 6,
+        "armor_class": 14,
+        "movement_speed": 15,
+        "experience_points": 25,
+        "attributes": {
+            "Strength": 12,
+            "Dexterity": 10,
+            "Constitution": 14,
+            "Intelligence": 6,
+            "Wisdom": 8,
+            "Charisma": 5
+        },
+        "abilities": [
+            {
+                "name": "Rock Toss",
+                "damage": 4,
+                "accuracy": 75,
+                "cooldown": 2
+            }
+        ],
+        "loot": [
+            {
+                "item": "Smooth Stone",
+                "quantity": 1,
+                "drop_chance": 90
+            }
+        ],
+        "dialogue": [
+            "Who disturbs my slumber?",
+            "This mountain is not for climbing!",
+            "Leave now, or face my stony wrath!"
+        ],
+        "short_description": "A small, animate pile of rocks with glowing eyes.",
+        "long_description": "Pebble Prowlers are living accumulations of small stones and pebbles, held together by an unknown force. They have glowing, crystal-like eyes and can reshape their bodies at will. These creatures are guardians of rocky areas and mountains, often mistaken for ordinary rock piles until they suddenly spring to life.",
+        "friends_and_family": ["Ironhide Defender", "Echoing Voidwalker"],
+        "enemies": ["Moss Beast"],
+        "groups": ["Stone Sentinels", "Mountain Guardians"],
+        "locations": ["Celestial Peaks of Ramelau", "Misty Peaks of Matebian"]
+    },
+    {
+        "name": "Mistwhisper Owl",
+        "level": 1,
+        "health": 18,
+        "max_health": 18,
+        "attack": 7,
+        "armor_class": 13,
+        "movement_speed": 30,
+        "experience_points": 22,
+        "attributes": {
+            "Strength": 8,
+            "Dexterity": 15,
+            "Constitution": 9,
+            "Intelligence": 12,
+            "Wisdom": 14,
+            "Charisma": 10
+        },
+        "abilities": [
+            {
+                "name": "Silent Swoop",
+                "damage": 5,
+                "accuracy": 85,
+                "cooldown": 2
+            }
+        ],
+        "loot": [
+            {
+                "item": "Misty Feather",
+                "quantity": 1,
+                "drop_chance": 70
+            }
+        ],
+        "dialogue": [
+            "Who... who dares enter the misty realm?",
+            "Secrets whispered on foggy wings...",
+            "In the mist, all paths lead to wisdom... or folly."
+        ],
+        "short_description": "An ethereal owl that seems to fade in and out of the mist.",
+        "long_description": "Mistwhisper Owls are mysterious creatures that inhabit foggy forests and misty mountains. Their feathers seem to blend seamlessly with the mist, allowing them to appear and disappear at will. These wise birds are said to know many secrets of the land and sometimes share cryptic messages with travelers they deem worthy.",
+        "friends_and_family": ["Whispering Windsprite", "Luminous Drifter"],
+        "enemies": ["Shadowmoth"],
+        "groups": ["Mist Sages", "Guardians of Secrets"],
+        "locations": ["Misty Marshes of Covalima", "Whispering Winds of Venilale"]
+    },
+    {
+        "name": "Dewdrop Dancer",
+        "level": 1,
+        "health": 12,
+        "max_health": 12,
+        "attack": 4,
+        "armor_class": 11,
+        "movement_speed": 25,
+        "experience_points": 18,
+        "attributes": {
+            "Strength": 5,
+            "Dexterity": 16,
+            "Constitution": 7,
+            "Intelligence": 10,
+            "Wisdom": 12,
+            "Charisma": 15
+        },
+        "abilities": [
+            {
+                "name": "Refreshing Mist",
+                "damage": 0,
+                "accuracy": 90,
+                "cooldown": 3
+            }
+        ],
+        "loot": [
+            {
+                "item": "Essence of Dew",
+                "quantity": 1,
+                "drop_chance": 60
+            }
+        ],
+        "dialogue": [
+            "Care to join the morning's dance?",
+            "Each droplet holds a world of wonder!",
+            "Quick, before the sun chases us away!"
+        ],
+        "short_description": "A tiny, translucent sprite that dances on leaves and petals.",
+        "long_description": "Dewdrop Dancers are delicate, fairy-like beings made of pure, enchanted water. They appear in the early morning, dancing on leaves and flowers, leaving trails of sparkling dew. These playful creatures can manipulate water in small amounts, creating beautiful displays or refreshing weary travelers. They dissipate when the sun grows too strong, reforming the next morning.",
+        "friends_and_family": ["Glowshroom Sprite", "Whispering Windsprite"],
+        "enemies": ["Emberscale Drake"],
+        "groups": ["Dawn Fae", "Water Weavers"],
+        "locations": ["Ethereal Springs of Marobo", "Shimmering Shores of Com"]
+    },
+    {
+        "name": "Breezerunner Hare",
+        "level": 1,
+        "health": 16,
+        "max_health": 16,
+        "attack": 5,
+        "armor_class": 13,
+        "movement_speed": 35,
+        "experience_points": 20,
+        "attributes": {
+            "Strength": 7,
+            "Dexterity": 18,
+            "Constitution": 8,
+            "Intelligence": 9,
+            "Wisdom": 12,
+            "Charisma": 11
+        },
+        "abilities": [
+            {
+                "name": "Wind Dash",
+                "damage": 0,
+                "accuracy": 95,
+                "cooldown": 2
+            }
+        ],
+        "loot": [
+            {
+                "item": "Lucky Rabbit's Foot",
+                "quantity": 1,
+                "drop_chance": 30
+            }
+        ],
+        "dialogue": [
+            "Catch me if you can, slowpoke!",
+            "The wind whispers secrets to those quick enough to hear.",
+            "In a rush? I know all the shortcuts!"
+        ],
+        "short_description": "A swift hare with fur that ripples like wind-blown grass.",
+        "long_description": "Breezerunner Hares are magical creatures that embody the speed and freedom of the wind. Their fur shifts color and texture to match their surroundings, and they leave trails of swirling leaves in their wake. These hares are incredibly fast and agile, capable of short bursts of supernatural speed. They often challenge travelers to races, leading them on merry chases across the countryside.",
+        "friends_and_family": ["Whispering Windsprite", "Dewdrop Dancer"],
+        "enemies": ["Shadowmoth", "Pebble Prowler"],
+        "groups": ["Wind Runners", "Meadow Tricksters"],
+        "locations": ["Whispering Winds of Venilale", "Misty Meadows of Laclubar"]
+    },
+    {
+        "name": "Ember Beetle",
+        "level": 1,
+        "health": 22,
+        "max_health": 22,
+        "attack": 8,
+        "armor_class": 15,
+        "movement_speed": 20,
+        "experience_points": 25,
+        "attributes": {
+            "Strength": 10,
+            "Dexterity": 12,
+            "Constitution": 14,
+            "Intelligence": 6,
+            "Wisdom": 8,
+            "Charisma": 7
+        },
+        "abilities": [
+            {
+                "name": "Spark Burst",
+                "damage": 6,
+                "accuracy": 80,
+                "cooldown": 3
+            }
+        ],
+        "loot": [
+            {
+                "item": "Smoldering Carapace",
+                "quantity": 1,
+                "drop_chance": 80
+            }
+        ],
+        "dialogue": [
+            "Careful, I bite... and burn!",
+            "Got any firewood? I'm feeling peckish.",
+            "Don't mistake my glow for weakness, traveler."
+        ],
+        "short_description": "A large beetle with a carapace that glows like hot coals.",
+        "long_description": "Ember Beetles are fascinating creatures whose bodies seem to smolder with an inner fire. Their thick carapaces glow orange and red, mimicking the appearance of burning embers. These beetles feed on charcoal and ash, often found in areas recently touched by fire. While not agressive, they can release bursts of sparks when threatened, potentially starting small fires.",
+        "friends_and_family": ["Emberscale Drake"],
+        "enemies": ["Dewdrop Dancer", "Moss Beast"],
+        "groups": ["Flame Crawlers", "Ash Seekers"],
+        "locations": ["Radiant Ridges of Lolotoe", "Thundering Falls of Bandeira"]
+    },
+    {
+        "name": "Echoling Bat",
+        "level": 1,
+        "health": 14,
+        "max_health": 14,
+        "attack": 6,
+        "armor_class": 12,
+        "movement_speed": 40,
+        "experience_points": 20,
+        "attributes": {
+            "Strength": 6,
+            "Dexterity": 16,
+            "Constitution": 8,
+            "Intelligence": 10,
+            "Wisdom": 14,
+            "Charisma": 9
+        },
+        "abilities": [
+            {
+                "name": "Sonic Pulse",
+                "damage": 4,
+                "accuracy": 85,
+                "cooldown": 2
+            }
+        ],
+        "loot": [
+            {
+                "item": "Echo Crystal",
+                "quantity": 1,
+                "drop_chance": 50
+            }
+        ],
+        "dialogue": [
+            "Listen closely, the caves speak through us!",
+            "Your words echo strangely here, stranger.",
+            "Shh... can you hear the whispers of the earth?"
+        ],
+        "short_description": "A bat with translucent wings that amplify and manipulate sound.",
+        "long_description": "Echoling Bats are mysterious creatures that dwell in deep caves and caverns. Their wings are translucent and seem to shimmer with captured sounds. These bats have an uncanny ability to manipulate echoes, sometimes creating illusions or disorienting effects with their cries. They are curious about intruders in their domain and often playfully mislead them with false echoes.",
+        "friends_and_family": ["Whisperweave Spider", "Mistwhisper Owl"],
+        "enemies": ["Pebble Prowler"],
+        "groups": ["Cave Whisperers", "Echo Weavers"],
+        "locations": ["Whispering Caves of Baucau", "Echoing Caverns of Lautém"]
+    },
+    {
+        "name": "Driftwood Elemental",
+        "level": 1,
+        "health": 25,
+        "max_health": 25,
+        "attack": 7,
+        "armor_class": 14,
+        "movement_speed": 20,
+        "experience_points": 25,
+        "attributes": {
+            "Strength": 14,
+            "Dexterity": 10,
+            "Constitution": 16,
+            "Intelligence": 8,
+            "Wisdom": 12,
+            "Charisma": 7
+        },
+        "abilities": [
+            {
+                "name": "Tidal Surge",
+                "damage": 6,
+                "accuracy": 75,
+                "cooldown": 3
+            }
+        ],
+        "loot": [
+            {
+                "item": "Enchanted Driftwood",
+                "quantity": 1,
+                "drop_chance": 70
+            }
+        ],
+        "dialogue": [
+            "The tides brought me here, what brought you?",
+            "I've drifted across countless shores, each with its own tale.",
+            "Beware the sea's wrath, for I am but a gentle taste of it."
+        ],
+        "short_description": "A humanoid figure composed of weathered driftwood and seaweed.",
+        "long_description": "Driftwood Elementals are mysterious beings born from the magic of the sea and the memories of lost ships. They appear as vaguely humanoid figures made of weathered driftwood, tangled seaweed, and shimmering sea glass. These creatures embody the ever-changing nature of the coast, peaceful at times but capable of great fury when the shores they protect are threatened.",
+        "friends_and_family": ["Dewdrop Dancer"],
+        "enemies": ["Ember Beetle"],
+        "groups": ["Tidal Guardians", "Spirits of the Shore"],
+        "locations": ["Shimmering Shores of Jaco Island", "Radiant Reefs of Com"]
     }
 ]
