@@ -20,6 +20,13 @@ This intensive program is designed to equip students in Timor-Leste with a broad
 
 **Readings:** "Python 3.6 Tutorial", "Powerful Python", "Regular Expression Pocket Reference"
 
+## Module 8: Generative AI and Advanced Topics (3 weeks)
+- Introduction to generative AI
+- Using AI for code assistance and problem-solving
+- Geospatial development in Python
+
+**Readings:** "Building LLMs for Production", "Python Geospatial Development"
+
 ## Module 3: Data Visualization and Analytics (3 weeks)
 - Advanced spreadsheet techniques
 - Introduction to R and R Studio
@@ -51,19 +58,12 @@ This intensive program is designed to equip students in Timor-Leste with a broad
 
 **Readings:** "How Linux Works", "Linux Pocket Guide", "Bash Pocket Reference", "Linux for Networking Professionals"
 
-## Module 7: Containerization and Deployment (2 weeks)
+## Module 7: Containerization and Deployment (2 weeks) 
 - Docker basics
 - Container orchestration with Kubernetes
-- CI/CD principles and metric capture
+- CI/CD principles and metric capture - OPTIONAL
 
 **Readings:** "The Ultimate Docker Container Book", "Kubernetes Up and Running"
-
-## Module 8: Generative AI and Advanced Topics (3 weeks)
-- Introduction to generative AI
-- Using AI for code assistance and problem-solving
-- Geospatial development in Python
-
-**Readings:** "Building LLMs for Production", "Python Geospatial Development"
 
 ## Module 9: Team Projects and Role Rotation (2 weeks)
 - Forming development teams
