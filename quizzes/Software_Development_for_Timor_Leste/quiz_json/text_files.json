@@ -1,0 +1,305 @@
+{
+    "title": "Introduction to Text Files Quiz",
+    "questions": [
+        {
+            "question": "What is a text file?",
+            "choices": [
+                "A file that contains only text and no formatting",
+                "A file that contains images and text",
+                "A file that can only be opened with Microsoft Word",
+                "A file that contains executable code"
+            ],
+            "answer": "A file that contains only text and no formatting"
+        },
+        {
+            "question": "Which of the following is a common text file extension?",
+            "choices": [
+                ".txt",
+                ".doc",
+                ".jpg",
+                ".exe"
+            ],
+            "answer": ".txt"
+        },
+        {
+            "question": "What is the primary advantage of using text files in programming?",
+            "choices": [
+                "They are easily readable and editable by humans and computers",
+                "They can store large amounts of data",
+                "They can contain executable code",
+                "They are more secure than other file types"
+            ],
+            "answer": "They are easily readable and editable by humans and computers"
+        },
+        {
+            "question": "Which of the following is NOT a common use for text files?",
+            "choices": [
+                "Storing configuration settings",
+                "Writing source code",
+                "Saving high-resolution images",
+                "Keeping logs of program activities"
+            ],
+            "answer": "Saving high-resolution images"
+        },
+        {
+            "question": "What is encoding in the context of text files?",
+            "choices": [
+                "The way characters are represented in the file",
+                "The process of compressing the file",
+                "The method of encrypting the file contents",
+                "The way the file is organized on the hard drive"
+            ],
+            "answer": "The way characters are represented in the file"
+        },
+        {
+            "question": "Which encoding is widely used for English text files?",
+            "choices": [
+                "ASCII",
+                "JPEG",
+                "MP3",
+                "PNG"
+            ],
+            "answer": "ASCII"
+        },
+        {
+            "question": "What does UTF-8 stand for?",
+            "choices": [
+                "Unicode Transformation Format - 8-bit",
+                "Universal Text Format - 8-bit",
+                "Unified Type Format - 8-bit",
+                "Universal Transformation Format - 8-bit"
+            ],
+            "answer": "Unicode Transformation Format - 8-bit"
+        },
+        {
+            "question": "Which of the following is a benefit of using UTF-8 encoding?",
+            "choices": [
+                "It can represent characters from most of the world's writing systems",
+                "It compresses the file to save space",
+                "It encrypts the file contents",
+                "It makes the file load faster in web browsers"
+            ],
+            "answer": "It can represent characters from most of the world's writing systems"
+        },
+        {
+            "question": "What is a newline character used for in text files?",
+            "choices": [
+                "To indicate the end of a line of text",
+                "To create a new file",
+                "To insert a tab space",
+                "To delete the previous character"
+            ],
+            "answer": "To indicate the end of a line of text"
+        },
+        {
+            "question": "Which of the following is NOT a common text editor?",
+            "choices": [
+                "Photoshop",
+                "Notepad",
+                "Sublime Text",
+                "VS Code"
+            ],
+            "answer": "Photoshop"
+        },
+        {
+            "question": "What is the difference between a text editor and a word processor?",
+            "choices": [
+                "Text editors work with plain text, while word processors include formatting options",
+                "Text editors are only for programming, while word processors are for writing documents",
+                "Text editors are free, while word processors are paid software",
+                "There is no difference between them"
+            ],
+            "answer": "Text editors work with plain text, while word processors include formatting options"
+        },
+        {
+            "question": "Which of the following file types is NOT typically a text file?",
+            "choices": [
+                ".mp3",
+                ".csv",
+                ".xml",
+                ".json"
+            ],
+            "answer": ".mp3"
+        },
+        {
+            "question": "What does CSV stand for in the context of text files?",
+            "choices": [
+                "Comma-Separated Values",
+                "Computer System Variables",
+                "Compiled Source Version",
+                "Character Set Variation"
+            ],
+            "answer": "Comma-Separated Values"
+        },
+        {
+            "question": "Which of the following is a benefit of using text files for configuration settings?",
+            "choices": [
+                "They are easily editable without special software",
+                "They provide better security than other file types",
+                "They can store executable code",
+                "They compress data automatically"
+            ],
+            "answer": "They are easily editable without special software"
+        },
+        {
+            "question": "What is the purpose of a BOM (Byte Order Mark) in text files?",
+            "choices": [
+                "To indicate the encoding of the file",
+                "To mark the beginning of the file",
+                "To compress the file contents",
+                "To encrypt the file"
+            ],
+            "answer": "To indicate the encoding of the file"
+        },
+        {
+            "question": "Which of the following is NOT a common issue when working with text files?",
+            "choices": [
+                "File corruption due to cosmic rays",
+                "Inconsistent line endings (CRLF vs LF)",
+                "Encoding mismatches",
+                "Large file sizes for long documents"
+            ],
+            "answer": "File corruption due to cosmic rays"
+        },
+        {
+            "question": "What is the primary difference between .txt and .rtf files?",
+            "choices": [
+                ".rtf files can include basic formatting, while .txt files cannot",
+                ".txt files are larger than .rtf files",
+                ".rtf files are more secure than .txt files",
+                "There is no difference between them"
+            ],
+            "answer": ".rtf files can include basic formatting, while .txt files cannot"
+        },
+        {
+            "question": "Which of the following is a benefit of using text files for logging?",
+            "choices": [
+                "They are easily searchable and can be processed by other programs",
+                "They automatically delete old entries",
+                "They can store binary data efficiently",
+                "They are more secure than other logging methods"
+            ],
+            "answer": "They are easily searchable and can be processed by other programs"
+        },
+        {
+            "question": "What is the purpose of the 'carriage return' character in text files?",
+            "choices": [
+                "To move the cursor to the beginning of the line",
+                "To create a new paragraph",
+                "To insert a tab space",
+                "To delete the previous word"
+            ],
+            "answer": "To move the cursor to the beginning of the line"
+        },
+        {
+            "question": "Which of the following is NOT a valid way to represent a newline in text files?",
+            "choices": [
+                "\\p",
+                "\\n",
+                "\\r\\n",
+                "\\r"
+            ],
+            "answer": "\\p"
+        },
+        {
+            "question": "What is the primary purpose of using escape characters in text files?",
+            "choices": [
+                "To represent special characters or formatting",
+                "To encrypt sensitive information",
+                "To compress the file contents",
+                "To create hyperlinks within the text"
+            ],
+            "answer": "To represent special characters or formatting"
+        },
+        {
+            "question": "Which of the following is an advantage of using plain text files for source code?",
+            "choices": [
+                "They can be easily version controlled",
+                "They automatically compile the code",
+                "They provide syntax highlighting",
+                "They prevent coding errors"
+            ],
+            "answer": "They can be easily version controlled"
+        },
+        {
+            "question": "What is the main difference between ANSI and Unicode encoding?",
+            "choices": [
+                "Unicode supports a much larger character set",
+                "ANSI is newer and more efficient",
+                "Unicode is only for programming languages",
+                "ANSI supports more languages than Unicode"
+            ],
+            "answer": "Unicode supports a much larger character set"
+        },
+        {
+            "question": "Which of the following is NOT a common use case for JSON files?",
+            "choices": [
+                "Storing executable code",
+                "Configuring application settings",
+                "Transferring data between web services",
+                "Storing structured data"
+            ],
+            "answer": "Storing executable code"
+        },
+        {
+            "question": "What is the primary purpose of an .ini file?",
+            "choices": [
+                "To store configuration settings",
+                "To initialize a new programming project",
+                "To create a new text document",
+                "To compress multiple text files"
+            ],
+            "answer": "To store configuration settings"
+        },
+        {
+            "question": "Which of the following best describes the difference between binary files and text files?",
+            "choices": [
+                "Text files contain human-readable characters, while binary files contain raw data",
+                "Binary files are smaller than text files",
+                "Text files can only be opened on Windows, while binary files work on all operating systems",
+                "Binary files are more secure than text files"
+            ],
+            "answer": "Text files contain human-readable characters, while binary files contain raw data"
+        },
+        {
+            "question": "What is the primary advantage of using XML files over plain text files?",
+            "choices": [
+                "XML provides a structured format for data",
+                "XML files are smaller in size",
+                "XML files can contain executable code",
+                "XML files are more secure"
+            ],
+            "answer": "XML provides a structured format for data"
+        },
+        {
+            "question": "Which of the following is NOT a valid text file operation?",
+            "choices": [
+                "Defragmenting",
+                "Appending",
+                "Truncating",
+                "Searching"
+            ],
+            "answer": "Defragmenting"
+        },
+        {
+            "question": "What is the main purpose of using a .gitignore file in a project?",
+            "choices": [
+                "To specify files that should not be tracked by Git",
+                "To store Git configuration settings",
+                "To list all files in the Git repository",
+                "To initialize a new Git repository"
+            ],
+            "answer": "To specify files that should not be tracked by Git"
+        },
+        {
+            "question": "Which of the following best describes the purpose of a README file?",
+            "choices": [
+                "To provide information about a project or software",
+                "To store user credentials",
+                "To list all files in a directory",
+                "To compress project files"
+            ],
+            "answer": "To provide information about a project or software"
+        }
+    ]
+}

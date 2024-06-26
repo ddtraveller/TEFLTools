@@ -1,0 +1,105 @@
+{
+  "title": "Basic HTML II - HTML5 Test",
+  "questions": [
+    {
+      "question": "Which of the following is NOT an HTML5 semantic element?",
+      "choices": [
+        "<article>",
+        "<section>",
+        "<div>",
+        "<aside>"
+      ],
+      "answer": "<div>"
+    },
+    {
+      "question": "What is the purpose of using semantic HTML elements?",
+      "choices": [
+        "To improve accessibility and SEO",
+        "To make the code look more complex",
+        "To replace CSS styling",
+        "To make the website load faster"
+      ],
+      "answer": "To improve accessibility and SEO"
+    },
+    {
+      "question": "Which HTML5 input type allows users to select a color?",
+      "choices": [
+        "<input type=\"color\">",
+        "<input type=\"rgb\">",
+        "<input type=\"colorpicker\">",
+        "<input type=\"hex\">"
+      ],
+      "answer": "<input type=\"color\">"
+    },
+    {
+      "question": "What does the 'required' attribute do in an HTML form?",
+      "choices": [
+        "Ensures that a form field is filled out before submitting",
+        "Hides the form field from the user",
+        "Automatically fills in the form field",
+        "Styles the form field with a red border"
+      ],
+      "answer": "Ensures that a form field is filled out before submitting"
+    },
+    {
+      "question": "Which HTML element is used to embed video content?",
+      "choices": [
+        "<video>",
+        "<media>",
+        "<movie>",
+        "<embed>"
+      ],
+      "answer": "<video>"
+    },
+    {
+      "question": "What does the 'colspan' attribute do in an HTML table?",
+      "choices": [
+        "Merges cells horizontally",
+        "Merges cells vertically",
+        "Styles the table with colors",
+        "Adds a caption to the table"
+      ],
+      "answer": "Merges cells horizontally"
+    },
+    {
+      "question": "Which type of list is best suited for defining terms and their descriptions?",
+      "choices": [
+        "Description list (<dl>)",
+        "Ordered list (<ol>)",
+        "Unordered list (<ul>)",
+        "Navigation list (<nl>)"
+      ],
+      "answer": "Description list (<dl>)"
+    },
+    {
+      "question": "What is the purpose of the HTML5 Geolocation API?",
+      "choices": [
+        "To access the user's geographical location",
+        "To store data locally in the browser",
+        "To enable drag and drop functionality",
+        "To create interactive animations"
+      ],
+      "answer": "To access the user's geographical location"
+    },
+    {
+      "question": "What is microdata used for in HTML5?",
+      "choices": [
+        "To provide structured data for search engines",
+        "To create small-scale animations",
+        "To store user preferences",
+        "To validate form input"
+      ],
+      "answer": "To provide structured data for search engines"
+    },
+    {
+      "question": "Which of the following is a requirement for the final project?",
+      "choices": [
+        "Implementing at least one HTML5 API",
+        "Using only unordered lists",
+        "Avoiding the use of semantic elements",
+        "Creating a single-page website"
+      ],
+      "answer": "Implementing at least one HTML5 API"
+    }
+  ]
+}

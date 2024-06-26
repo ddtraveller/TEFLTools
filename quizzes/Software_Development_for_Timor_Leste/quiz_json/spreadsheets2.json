@@ -1,0 +1,155 @@
+{
+  "title": "Advanced Spreadsheet Techniques",
+  "questions": [
+    {
+      "question": "What is the purpose of the INDEX and MATCH functions when used together?",
+      "choices": [
+        "To look up and retrieve data from a specific row and column in a table",
+        "To sum values based on multiple criteria",
+        "To count cells that meet specific criteria",
+        "To validate data entry based on predefined rules"
+      ],
+      "answer": "To look up and retrieve data from a specific row and column in a table"
+    },
+    {
+      "question": "Which function is used to sum values based on multiple criteria?",
+      "choices": [
+        "SUMIFS",
+        "SUMIF",
+        "SUM",
+        "SUBTOTAL"
+      ],
+      "answer": "SUMIFS"
+    },
+    {
+      "question": "What is the purpose of data validation in spreadsheets?",
+      "choices": [
+        "To ensure that data entered by users meets specific criteria",
+        "To remove duplicate values from a dataset",
+        "To split text into separate columns",
+        "To automatically fill in data based on patterns"
+      ],
+      "answer": "To ensure that data entered by users meets specific criteria"
+    },
+    {
+      "question": "What is the main advantage of using Power Pivot in spreadsheets?",
+      "choices": [
+        "It allows you to create complex data models and relationships between tables",
+        "It automatically cleans and validates your data",
+        "It creates advanced charts and visualizations",
+        "It records and runs macros for automation"
+      ],
+      "answer": "It allows you to create complex data models and relationships between tables"
+    },
+    {
+      "question": "What is a slicer in the context of pivot tables?",
+      "choices": [
+        "An interactive filter that allows users to quickly segment data",
+        "A calculated field that performs custom calculations",
+        "A chart type specifically designed for pivot tables",
+        "A feature that automatically formats pivot table data"
+      ],
+      "answer": "An interactive filter that allows users to quickly segment data"
+    },
+    {
+      "question": "What is the purpose of a macro in spreadsheets?",
+      "choices": [
+        "To automate repetitive tasks and operations",
+        "To validate data entry",
+        "To create complex data models",
+        "To design custom charts and visualizations"
+      ],
+      "answer": "To automate repetitive tasks and operations"
+    },
+    {
+      "question": "Which language is used to write macros in Microsoft Excel?",
+      "choices": [
+        "Visual Basic for Applications (VBA)",
+        "Python",
+        "JavaScript",
+        "C++"
+      ],
+      "answer": "Visual Basic for Applications (VBA)"
+    },
+    {
+      "question": "What is a sparkline in spreadsheets?",
+      "choices": [
+        "A small, high-density chart that fits within a single cell",
+        "A type of data validation rule",
+        "A feature that automatically fills in data based on patterns",
+        "A function used to sum values based on multiple criteria"
+      ],
+      "answer": "A small, high-density chart that fits within a single cell"
+    },
+    {
+      "question": "What are form controls in the context of interactive dashboards?",
+      "choices": [
+        "Buttons, drop-down lists, and other elements that allow users to interact with the dashboard",
+        "Advanced chart types used in dashboards",
+        "Techniques for cleaning and validating dashboard data",
+        "Functions used to create calculated fields in dashboards"
+      ],
+      "answer": "Buttons, drop-down lists, and other elements that allow users to interact with the dashboard"
+    },
+    {
+      "question": "What is the purpose of the flash fill feature in spreadsheets?",
+      "choices": [
+        "To automatically fill in data based on patterns recognized in existing data",
+        "To create a custom chart type",
+        "To record and run macros",
+        "To validate data entry based on specific criteria"
+      ],
+      "answer": "To automatically fill in data based on patterns recognized in existing data"
+    },
+    {
+      "question": "Which of the following is an example of an advanced chart type in spreadsheets?",
+      "choices": [
+        "Waterfall chart",
+        "Column chart",
+        "Line chart",
+        "Pie chart"
+      ],
+      "answer": "Waterfall chart"
+    },
+    {
+      "question": "What is the purpose of the COUNTIFS function in spreadsheets?",
+      "choices": [
+        "To count the number of cells that meet multiple criteria",
+        "To sum values based on multiple criteria",
+        "To look up and retrieve data from a specific row and column",
+        "To validate data entry based on specific conditions"
+      ],
+      "answer": "To count the number of cells that meet multiple criteria"
+    },
+    {
+      "question": "What is the main benefit of using nested functions in spreadsheets?",
+      "choices": [
+        "To perform complex calculations by combining multiple functions",
+        "To create interactive dashboards",
+        "To automate repetitive tasks",
+        "To validate data entry"
+      ],
+      "answer": "To perform complex calculations by combining multiple functions"
+    },
+    {
+      "question": "What is the purpose of the text-to-columns feature in spreadsheets?",
+      "choices": [
+        "To split text from one cell into separate columns based on a delimiter",
+        "To merge text from multiple cells into one cell",
+        "To format text as a specific data type",
+        "To remove duplicate text entries from a dataset"
+      ],
+      "answer": "To split text from one cell into separate columns based on a delimiter"
+    },
+    {
+      "question": "Which of the following is NOT a requirement for the final project?",
+      "choices": [
+        "Creating a website to present the findings",
+        "Choosing a complex, multi-dimensional dataset related to Timor-Leste",
+        "Performing an in-depth analysis using advanced spreadsheet techniques",
+        "Writing a detailed report explaining the methodology, key findings, and recommendations"
+      ],
+      "answer": "Creating a website to present the findings"
+    }
+  ]
+}

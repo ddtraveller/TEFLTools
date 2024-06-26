@@ -1,0 +1,155 @@
+{
+  "title": "Regular Expressions in Python",
+  "questions": [
+    {
+      "question": "What does the asterisk (*) quantifier mean in a regular expression?",
+      "choices": [
+        "Match zero or more occurrences of the preceding character or group",
+        "Match one or more occurrences of the preceding character or group",
+        "Match exactly one occurrence of the preceding character or group",
+        "Match the preceding character or group optionally"
+      ],
+      "answer": "Match zero or more occurrences of the preceding character or group"
+    },
+    {
+      "question": "Which of the following is the correct syntax to match any digit character in a regular expression?",
+      "choices": [
+        "\\d",
+        "\\w",
+        "\\s",
+        "\\D"
+      ],
+      "answer": "\\d"
+    },
+    {
+      "question": "What does the ^ symbol indicate in a regular expression?",
+      "choices": [
+        "Match the start of a string",
+        "Match the end of a string",
+        "Match any character except newline",
+        "Match a literal ^"
+      ],
+      "answer": "Match the start of a string"
+    },
+    {
+      "question": "Which of the following regular expressions would match the string 'color' or 'colour'?",
+      "choices": [
+        "colou?r",
+        "colo[u]r",
+        "colo(u|)r",
+        "colo{u}r"
+      ],
+      "answer": "colou?r"
+    },
+    {
+      "question": "What is the purpose of grouping with parentheses in regular expressions?",
+      "choices": [
+        "To create a capturing group for extracting a substring or backreferencing",
+        "To match a literal ( or )",
+        "To define a character class",
+        "To specify a quantifier"
+      ],
+      "answer": "To create a capturing group for extracting a substring or backreferencing"
+    },
+    {
+      "question": "Which Python function is used to check if a string starts with a specific pattern?",
+      "choices": [
+        "re.match()",
+        "re.search()",
+        "re.findall()",
+        "re.sub()"
+      ],
+      "answer": "re.match()"
+    },
+    {
+      "question": "What does the re.findall() function return in Python?",
+      "choices": [
+        "A list of all non-overlapping matches of the pattern in the string",
+        "The first match of the pattern in the string",
+        "The string with all occurrences of the pattern replaced",
+        "A boolean indicating whether the pattern was found in the string"
+      ],
+      "answer": "A list of all non-overlapping matches of the pattern in the string"
+    },
+    {
+      "question": "Which of the following is the correct syntax to match any whitespace character in a regular expression?",
+      "choices": [
+        "\\s",
+        "\\w",
+        "\\d",
+        "\\S"
+      ],
+      "answer": "\\s"
+    },
+    {
+      "question": "What does the $ symbol indicate in a regular expression?",
+      "choices": [
+        "Match the end of a string",
+        "Match the start of a string",
+        "Match any character except newline",
+        "Match a literal $"
+      ],
+      "answer": "Match the end of a string"
+    },
+    {
+      "question": "What is the purpose of the re.compile() function in Python?",
+      "choices": [
+        "To precompile a regular expression pattern for improved performance",
+        "To search for a pattern in a string",
+        "To replace occurrences of a pattern in a string",
+        "To split a string based on a pattern"
+      ],
+      "answer": "To precompile a regular expression pattern for improved performance"
+    },
+    {
+      "question": "Which of the following regular expressions would match the string 'color' but not 'colour'?",
+      "choices": [
+        "colou?r",
+        "colo[^u]r",
+        "color$",
+        "colou*r"
+      ],
+      "answer": "color$"
+    },
+    {
+      "question": "What does the + quantifier mean in a regular expression?",
+      "choices": [
+        "Match one or more occurrences of the preceding character or group",
+        "Match zero or more occurrences of the preceding character or group",
+        "Match exactly one occurrence of the preceding character or group",
+        "Match the preceding character or group optionally"
+      ],
+      "answer": "Match one or more occurrences of the preceding character or group"
+    },
+    {
+      "question": "Which of the following is the correct syntax to match any word character (letters, digits, or underscores) in a regular expression?",
+      "choices": [
+        "\\w",
+        "\\d",
+        "\\s",
+        "\\W"
+      ],
+      "answer": "\\w"
+    },
+    {
+      "question": "What does the \\b metacharacter indicate in a regular expression?",
+      "choices": [
+        "Match a word boundary",
+        "Match a backspace character",
+        "Match a literal b",
+        "Match the beginning of a string"
+      ],
+      "answer": "Match a word boundary"
+    },
+    {
+      "question": "Which Python function is used to replace occurrences of a pattern in a string with a replacement string?",
+      "choices": [
+        "re.sub()",
+        "re.search()",
+        "re.findall()",
+        "re.match()"
+      ],
+      "answer": "re.sub()"
+    }
+  ]
+}

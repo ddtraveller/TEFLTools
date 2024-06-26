@@ -1,0 +1,305 @@
+{
+    "title": "HTML Tables and Forms Quiz",
+    "questions": [
+        {
+            "question": "Which tag is used to define a table in HTML?",
+            "choices": [
+                "<table>",
+                "<tr>",
+                "<td>",
+                "<grid>"
+            ],
+            "answer": "<table>"
+        },
+        {
+            "question": "What does the <tr> tag represent in a table?",
+            "choices": [
+                "Table Row",
+                "Table Record",
+                "Table Reference",
+                "Table Regulation"
+            ],
+            "answer": "Table Row"
+        },
+        {
+            "question": "Which tag is used to define a cell in a table?",
+            "choices": [
+                "<td>",
+                "<cell>",
+                "<tc>",
+                "<data>"
+            ],
+            "answer": "<td>"
+        },
+        {
+            "question": "What attribute is used to merge two or more columns in a table?",
+            "choices": [
+                "colspan",
+                "rowspan",
+                "mergecolumn",
+                "colmerge"
+            ],
+            "answer": "colspan"
+        },
+        {
+            "question": "Which tag is used to create a form in HTML?",
+            "choices": [
+                "<form>",
+                "<input>",
+                "<formdata>",
+                "<userform>"
+            ],
+            "answer": "<form>"
+        },
+        {
+            "question": "What attribute specifies where to send the form-data when a form is submitted?",
+            "choices": [
+                "action",
+                "method",
+                "destination",
+                "submit-to"
+            ],
+            "answer": "action"
+        },
+        {
+            "question": "Which input type is used for a single-line text input?",
+            "choices": [
+                "text",
+                "input",
+                "singleline",
+                "textfield"
+            ],
+            "answer": "text"
+        },
+        {
+            "question": "What attribute is used to specify that an input field must be filled out?",
+            "choices": [
+                "required",
+                "mandatory",
+                "important",
+                "needed"
+            ],
+            "answer": "required"
+        },
+        {
+            "question": "Which tag is used to define a dropdown list?",
+            "choices": [
+                "<select>",
+                "<option>",
+                "<dropdown>",
+                "<list>"
+            ],
+            "answer": "<select>"
+        },
+        {
+            "question": "What attribute is used to group related form elements?",
+            "choices": [
+                "name",
+                "group",
+                "related",
+                "form-group"
+            ],
+            "answer": "name"
+        },
+        {
+            "question": "Which tag is used to define a table header?",
+            "choices": [
+                "<th>",
+                "<thead>",
+                "<header>",
+                "<thtop>"
+            ],
+            "answer": "<th>"
+        },
+        {
+            "question": "What does the <caption> tag do in a table?",
+            "choices": [
+                "Defines a table caption",
+                "Creates a caption for an image",
+                "Adds a heading to the table",
+                "Specifies a title for the webpage"
+            ],
+            "answer": "Defines a table caption"
+        },
+        {
+            "question": "Which attribute is used to specify an alternative text for an image in a form?",
+            "choices": [
+                "alt",
+                "title",
+                "description",
+                "alternate"
+            ],
+            "answer": "alt"
+        },
+        {
+            "question": "What is the purpose of the <fieldset> tag in a form?",
+            "choices": [
+                "To group related form elements",
+                "To create a text input field",
+                "To define a set of radio buttons",
+                "To specify the form's action"
+            ],
+            "answer": "To group related form elements"
+        },
+        {
+            "question": "Which input type is used for a password field?",
+            "choices": [
+                "password",
+                "secret",
+                "hidden",
+                "secure"
+            ],
+            "answer": "password"
+        },
+        {
+            "question": "What attribute is used to specify the maximum number of characters allowed in an input field?",
+            "choices": [
+                "maxlength",
+                "max",
+                "length",
+                "char-limit"
+            ],
+            "answer": "maxlength"
+        },
+        {
+            "question": "Which tag is used to define a label for an input element?",
+            "choices": [
+                "<label>",
+                "<caption>",
+                "<title>",
+                "<inputlabel>"
+            ],
+            "answer": "<label>"
+        },
+        {
+            "question": "What attribute links a label to a specific form control?",
+            "choices": [
+                "for",
+                "id",
+                "name",
+                "control"
+            ],
+            "answer": "for"
+        },
+        {
+            "question": "Which input type is used for a checkbox?",
+            "choices": [
+                "checkbox",
+                "check",
+                "toggle",
+                "select"
+            ],
+            "answer": "checkbox"
+        },
+        {
+            "question": "What attribute is used to specify the number of visible options in a drop-down list?",
+            "choices": [
+                "size",
+                "visible",
+                "display",
+                "options"
+            ],
+            "answer": "size"
+        },
+        {
+            "question": "Which tag is used to group table rows?",
+            "choices": [
+                "<tbody>",
+                "<tgroup>",
+                "<rowgroup>",
+                "<section>"
+            ],
+            "answer": "<tbody>"
+        },
+        {
+            "question": "What does the 'method' attribute in a form specify?",
+            "choices": [
+                "The HTTP method to use when sending form-data",
+                "The JavaScript method to handle form submission",
+                "The encryption method for form data",
+                "The validation method for form inputs"
+            ],
+            "answer": "The HTTP method to use when sending form-data"
+        },
+        {
+            "question": "Which input type is used for a date picker?",
+            "choices": [
+                "date",
+                "calendar",
+                "datepicker",
+                "datetime"
+            ],
+            "answer": "date"
+        },
+        {
+            "question": "What attribute is used to specify a default value for an input field?",
+            "choices": [
+                "value",
+                "default",
+                "initial",
+                "placeholder"
+            ],
+            "answer": "value"
+        },
+        {
+            "question": "Which tag is used to define a table footer?",
+            "choices": [
+                "<tfoot>",
+                "<tfooter>",
+                "<footer>",
+                "<tablefooter>"
+            ],
+            "answer": "<tfoot>"
+        },
+        {
+            "question": "What does the 'autocomplete' attribute do in a form?",
+            "choices": [
+                "Specifies whether an input field should have autocomplete enabled",
+                "Automatically completes the form for the user",
+                "Checks the spelling of user input",
+                "Suggests possible form values based on previous entries"
+            ],
+            "answer": "Specifies whether an input field should have autocomplete enabled"
+        },
+        {
+            "question": "Which input type is used for a color picker?",
+            "choices": [
+                "color",
+                "palette",
+                "colorpicker",
+                "rgb"
+            ],
+            "answer": "color"
+        },
+        {
+            "question": "What attribute is used to specify the minimum value for a numeric input field?",
+            "choices": [
+                "min",
+                "minimum",
+                "low",
+                "start"
+            ],
+            "answer": "min"
+        },
+        {
+            "question": "Which tag is used to create a multi-line text input?",
+            "choices": [
+                "<textarea>",
+                "<multiline>",
+                "<text>",
+                "<input type='multiline'>"
+            ],
+            "answer": "<textarea>"
+        },
+        {
+            "question": "What attribute is used to make a form element read-only?",
+            "choices": [
+                "readonly",
+                "disabled",
+                "locked",
+                "noedit"
+            ],
+            "answer": "readonly"
+        }
+    ]
+}

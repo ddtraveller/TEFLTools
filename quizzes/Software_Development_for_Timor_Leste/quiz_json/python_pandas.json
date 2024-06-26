@@ -1,0 +1,205 @@
+{
+  "title": "Python Basics and Data Manipulation with Pandas",
+  "questions": [
+    {
+      "question": "What is the output of the following Python code?\nprint(type(5 / 2))",
+      "choices": [
+        "<class 'int'>",
+        "<class 'float'>",
+        "<class 'str'>",
+        "<class 'bool'>"
+      ],
+      "answer": "<class 'float'>"
+    },
+    {
+      "question": "Which of the following is the correct way to define a function in Python?",
+      "choices": [
+        "def my_function():",
+        "function my_function():",
+        "define my_function():",
+        "my_function():"
+      ],
+      "answer": "def my_function():"
+    },
+    {
+      "question": "What does the following list comprehension create?\n[x**2 for x in range(5)]",
+      "choices": [
+        "[0, 1, 4, 9, 16]",
+        "[1, 2, 3, 4, 5]",
+        "[0, 2, 4, 6, 8]",
+        "[1, 4, 9, 16, 25]"
+      ],
+      "answer": "[0, 1, 4, 9, 16]"
+    },
+    {
+      "question": "Which of the following is the correct way to open a file named 'data.txt' in write mode?",
+      "choices": [
+        "open('data.txt', 'w')",
+        "open('data.txt', 'r')",
+        "open('data.txt', 'a')",
+        "open('data.txt', 'x')"
+      ],
+      "answer": "open('data.txt', 'w')"
+    },
+    {
+      "question": "What is the purpose of the pandas library?",
+      "choices": [
+        "Data manipulation and analysis",
+        "Web development",
+        "Machine learning",
+        "Data visualization"
+      ],
+      "answer": "Data manipulation and analysis"
+    },
+    {
+      "question": "Which function is used to read a CSV file into a DataFrame?",
+      "choices": [
+        "pd.read_csv()",
+        "pd.read_excel()",
+        "pd.load_csv()",
+        "pd.import_csv()"
+      ],
+      "answer": "pd.read_csv()"
+    },
+    {
+      "question": "What does the head() function do in pandas?",
+      "choices": [
+        "Returns the first n rows of a DataFrame",
+        "Returns the last n rows of a DataFrame",
+        "Returns the column names of a DataFrame",
+        "Returns the data types of each column in a DataFrame"
+      ],
+      "answer": "Returns the first n rows of a DataFrame"
+    },
+    {
+      "question": "Which of the following is the correct way to select a column named 'age' from a DataFrame df?",
+      "choices": [
+        "df['age']",
+        "df.age",
+        "df{'age'}",
+        "df('age')"
+      ],
+      "answer": "df['age']"
+    },
+    {
+      "question": "What does the dropna() function do in pandas?",
+      "choices": [
+        "Removes rows with missing values",
+        "Fills missing values with a specified value",
+        "Replaces missing values with the mean of the column",
+        "Interpolates missing values"
+      ],
+      "answer": "Removes rows with missing values"
+    },
+    {
+      "question": "Which function is used to group data in a DataFrame?",
+      "choices": [
+        "groupby()",
+        "aggregate()",
+        "merge()",
+        "join()"
+      ],
+      "answer": "groupby()"
+    },
+    {
+      "question": "What does the iloc[] function do in pandas?",
+      "choices": [
+        "Selects rows and columns by integer index",
+        "Selects rows and columns by label",
+        "Selects rows and columns by boolean mask",
+        "Selects random rows and columns"
+      ],
+      "answer": "Selects rows and columns by integer index"
+    },
+    {
+      "question": "Which of the following functions is used to create a bar plot in pandas?",
+      "choices": [
+        "df.plot.bar()",
+        "df.plot.line()",
+        "df.plot.scatter()",
+        "df.plot.hist()"
+      ],
+      "answer": "df.plot.bar()"
+    },
+    {
+      "question": "What is the purpose of the import keyword in Python?",
+      "choices": [
+        "To include functions from external modules",
+        "To define new functions",
+        "To create variables",
+        "To start a conditional block"
+      ],
+      "answer": "To include functions from external modules"  
+    },
+    {
+      "question": "Which of the following is a valid data type in Python?",
+      "choices": [
+        "dictionary",
+        "array",
+        "char",
+        "long"
+      ],
+      "answer": "dictionary"
+    },
+    {
+      "question": "What is the result of the following expression?\n3 * (2 + 5) ** 2",
+      "choices": [
+        "147",
+        "49",
+        "441",
+        "21"
+      ],  
+      "answer": "147"
+    },
+    {
+      "question": "Which of the following is the correct syntax for a for loop in Python?",
+      "choices": [
+        "for i in range(5):",
+        "for (i = 0; i < 5; i++)",
+        "for i = 1 to 5",
+        "for i from 1 to 5:"
+      ],
+      "answer": "for i in range(5):"  
+    },
+    {
+      "question": "What is the output of the following code?\na = [1, 2, 3]\nb = a\nb[1] = 4\nprint(a[1])",
+      "choices": [
+        "4",
+        "2",
+        "3", 
+        "Error"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Which of the following is the correct way to create an empty DataFrame?",
+      "choices": [
+        "pd.DataFrame()",
+        "pd.EmptyDataFrame()",
+        "pd.DataFrame.Empty()",
+        "pd.DataFrame(None)"  
+      ],
+      "answer": "pd.DataFrame()"
+    },
+    {
+      "question": "What does the info() function do in pandas?",
+      "choices": [
+        "Prints a concise summary of a DataFrame",
+        "Returns the number of rows and columns in a DataFrame",
+        "Returns the data type of each column in a DataFrame",
+        "Returns the first and last n rows of a DataFrame"
+      ],
+      "answer": "Prints a concise summary of a DataFrame"
+    },
+    {
+      "question": "Which function is used to write a DataFrame to a CSV file?",
+      "choices": [
+        "df.to_csv()",
+        "df.write_csv()",
+        "df.save_csv()", 
+        "df.export_csv()"
+      ],
+      "answer": "df.to_csv()"
+    }
+  ]
+}

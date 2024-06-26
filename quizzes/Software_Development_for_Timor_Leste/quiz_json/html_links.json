@@ -1,0 +1,305 @@
+{
+    "title": "HTML Links and Images Quiz",
+    "questions": [
+        {
+            "question": "Which HTML tag is used to create a hyperlink?",
+            "choices": [
+                "<a>",
+                "<link>",
+                "<href>",
+                "<url>"
+            ],
+            "answer": "<a>"
+        },
+        {
+            "question": "What attribute is used to specify the URL of the page the link goes to?",
+            "choices": [
+                "href",
+                "src",
+                "link",
+                "url"
+            ],
+            "answer": "href"
+        },
+        {
+            "question": "How do you create a link that opens in a new tab/window?",
+            "choices": [
+                "Add target='_blank' to the <a> tag",
+                "Use the <new> tag",
+                "Add open='new' to the <a> tag",
+                "Use the window.open() JavaScript function"
+            ],
+            "answer": "Add target='_blank' to the <a> tag"
+        },
+        {
+            "question": "Which HTML tag is used to insert an image?",
+            "choices": [
+                "<img>",
+                "<image>",
+                "<picture>",
+                "<src>"
+            ],
+            "answer": "<img>"
+        },
+        {
+            "question": "What attribute specifies the path to the image file?",
+            "choices": [
+                "src",
+                "href",
+                "link",
+                "path"
+            ],
+            "answer": "src"
+        },
+        {
+            "question": "Which attribute is used to provide alternative text for an image?",
+            "choices": [
+                "alt",
+                "title",
+                "description",
+                "caption"
+            ],
+            "answer": "alt"
+        },
+        {
+            "question": "How do you create an email link?",
+            "choices": [
+                "<a href='mailto:example@example.com'>",
+                "<mail>example@example.com</mail>",
+                "<email href='example@example.com'>",
+                "<a src='mailto:example@example.com'>"
+            ],
+            "answer": "<a href='mailto:example@example.com'>"
+        },
+        {
+            "question": "What is the correct HTML for creating a bookmark within a page?",
+            "choices": [
+                "<a name='bookmark'>",
+                "<bookmark>",
+                "<anchor>",
+                "<link to='bookmark'>"
+            ],
+            "answer": "<a name='bookmark'>"
+        },
+        {
+            "question": "How do you link to a specific part of the same page?",
+            "choices": [
+                "Use a '#' followed by the id of the element",
+                "Use a '/' followed by the element name",
+                "Use a '?' followed by the element id",
+                "Use a '@' followed by the element name"
+            ],
+            "answer": "Use a '#' followed by the id of the element"
+        },
+        {
+            "question": "Which attribute is used to specify the width of an image?",
+            "choices": [
+                "width",
+                "size",
+                "dimension",
+                "pixels"
+            ],
+            "answer": "width"
+        },
+        {
+            "question": "How can you make an image into a link?",
+            "choices": [
+                "Wrap the <img> tag with an <a> tag",
+                "Add a link attribute to the <img> tag",
+                "Use the <linkimg> tag",
+                "Add a hyperlink property to the image file"
+            ],
+            "answer": "Wrap the <img> tag with an <a> tag"
+        },
+        {
+            "question": "What does the 'title' attribute do when used with a link?",
+            "choices": [
+                "Provides additional information about the link",
+                "Sets the title of the linked page",
+                "Defines the text of the link",
+                "Specifies the file type of the linked document"
+            ],
+            "answer": "Provides additional information about the link"
+        },
+        {
+            "question": "Which attribute is used to specify the height of an image?",
+            "choices": [
+                "height",
+                "size",
+                "length",
+                "pixels"
+            ],
+            "answer": "height"
+        },
+        {
+            "question": "How do you create a link to download a file?",
+            "choices": [
+                "Add the 'download' attribute to the <a> tag",
+                "Use the <download> tag",
+                "Add 'type=\"download\"' to the <a> tag",
+                "Use a special URL prefix like 'download://'"
+            ],
+            "answer": "Add the 'download' attribute to the <a> tag"
+        },
+        {
+            "question": "What is the purpose of the 'rel' attribute in a link?",
+            "choices": [
+                "Specifies the relationship between the current document and the linked document",
+                "Defines the reliability of the link",
+                "Sets the reload time for the linked page",
+                "Specifies the release date of the linked content"
+            ],
+            "answer": "Specifies the relationship between the current document and the linked document"
+        },
+        {
+            "question": "Which HTML5 element is used to specify multiple source files for image elements?",
+            "choices": [
+                "<picture>",
+                "<source>",
+                "<multi>",
+                "<imagery>"
+            ],
+            "answer": "<picture>"
+        },
+        {
+            "question": "How do you create a link that dials a phone number?",
+            "choices": [
+                "<a href='tel:+1234567890'>",
+                "<phone>+1234567890</phone>",
+                "<call to='+1234567890'>",
+                "<a dial='+1234567890'>"
+            ],
+            "answer": "<a href='tel:+1234567890'>"
+        },
+        {
+            "question": "What attribute is used to specify a different image to be shown when the mouse hovers over the original image?",
+            "choices": [
+                "onmouseover",
+                "hover",
+                "alt",
+                "switch"
+            ],
+            "answer": "onmouseover"
+        },
+        {
+            "question": "Which HTML5 attribute is used to specify that a link should be followed without giving credit to the page containing the link?",
+            "choices": [
+                "rel='nofollow'",
+                "credit='none'",
+                "follow='false'",
+                "link='anonymous'"
+            ],
+            "answer": "rel='nofollow'"
+        },
+        {
+            "question": "What is the purpose of the 'loading' attribute in the <img> tag?",
+            "choices": [
+                "To specify how the browser should load the image",
+                "To set the loading speed of the image",
+                "To define a loading animation",
+                "To prioritize image loading order"
+            ],
+            "answer": "To specify how the browser should load the image"
+        },
+        {
+            "question": "How do you create a link to send an SMS?",
+            "choices": [
+                "<a href='sms:+1234567890'>",
+                "<sms to='+1234567890'>",
+                "<message>+1234567890</message>",
+                "<a text='+1234567890'>"
+            ],
+            "answer": "<a href='sms:+1234567890'>"
+        },
+        {
+            "question": "What is the purpose of the 'srcset' attribute in the <img> tag?",
+            "choices": [
+                "To specify multiple image sources for different screen sizes/resolutions",
+                "To set multiple background images",
+                "To define a set of source code files",
+                "To link multiple external style sheets"
+            ],
+            "answer": "To specify multiple image sources for different screen sizes/resolutions"
+        },
+        {
+            "question": "Which attribute is used to specify the relationship between the current document and the linked document in a reverse direction?",
+            "choices": [
+                "rev",
+                "rel",
+                "relationship",
+                "reverse"
+            ],
+            "answer": "rev"
+        },
+        {
+            "question": "What does the 'ismap' attribute do when used with an image inside a link?",
+            "choices": [
+                "Specifies that the image is a server-side image map",
+                "Creates a client-side image map",
+                "Enables zooming on the image",
+                "Allows the image to be resized"
+            ],
+            "answer": "Specifies that the image is a server-side image map"
+        },
+        {
+            "question": "How can you create a link that opens the user's default email client to compose a new email?",
+            "choices": [
+                "<a href='mailto:'>",
+                "<email>",
+                "<compose>",
+                "<a newmail>"
+            ],
+            "answer": "<a href='mailto:'>"
+        },
+        {
+            "question": "What is the purpose of the 'sizes' attribute in the <img> tag when used with 'srcset'?",
+            "choices": [
+                "To specify the size of each image in the srcset",
+                "To set the dimensions of the image",
+                "To limit the maximum size of the image",
+                "To define the font sizes for image captions"
+            ],
+            "answer": "To specify the size of each image in the srcset"
+        },
+        {
+            "question": "Which attribute can be used to specify the MIME type of the linked document?",
+            "choices": [
+                "type",
+                "mime",
+                "format",
+                "doctype"
+            ],
+            "answer": "type"
+        },
+        {
+            "question": "How do you create a link that opens in the parent frame?",
+            "choices": [
+                "target='_parent'",
+                "frame='parent'",
+                "open='parent'",
+                "location='parent'"
+            ],
+            "answer": "target='_parent'"
+        },
+        {
+            "question": "What attribute is used to provide a text description of an image that appears when the image is hovered over?",
+            "choices": [
+                "title",
+                "description",
+                "hover-text",
+                "caption"
+            ],
+            "answer": "title"
+        },
+        {
+            "question": "Which HTML5 element is used to embed an image in a scalable vector graphic?",
+            "choices": [
+                "<svg>",
+                "<vector>",
+                "<scalable>",
+                "<embed-img>"
+            ],
+            "answer": "<svg>"
+        }
+    ]
+}

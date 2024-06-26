@@ -1,0 +1,85 @@
+{
+    "title": "Git and HTML Modification Quiz",
+    "questions": [
+        {
+            "question": "What is the command to initialize a new Git repository?",
+            "choices": [
+                "git init",
+                "git new",
+                "git create",
+                "git start"
+            ],
+            "answer": "git init"
+        },
+        {
+            "question": "Which command is used to add changes to the staging area in Git?",
+            "choices": [
+                "git add",
+                "git stage",
+                "git commit",
+                "git save"
+            ],
+            "answer": "git add"
+        },
+        {
+            "question": "What does the 'git commit' command do?",
+            "choices": [
+                "Records changes to the repository",
+                "Adds files to the staging area",
+                "Pushes changes to a remote repository",
+                "Creates a new branch"
+            ],
+            "answer": "Records changes to the repository"
+        },
+        {
+            "question": "Which HTML element is used to define the main content of a webpage?",
+            "choices": [
+                "<body>",
+                "<main>",
+                "<content>",
+                "<section>"
+            ],
+            "answer": "<body>"
+        },
+        {
+            "question": "What is the correct way to modify the text 'Hello World!' to 'Hello Timor Leste!' in the HTML file?",
+            "choices": [
+                "Replace 'Hello World!' with 'Hello Timor Leste!'",
+                "Add 'Hello Timor Leste!' after 'Hello World!'",
+                "Remove 'Hello World!' and add 'Hello Timor Leste!' in a new line",
+                "Wrap 'Hello World!' with 'Hello Timor Leste!'"
+            ],
+            "answer": "Replace 'Hello World!' with 'Hello Timor Leste!'"
+        },
+        {
+            "question": "After modifying the HTML file, which command should be used to check the status of the repository?",
+            "choices": [
+                "git status",
+                "git check",
+                "git diff",
+                "git log"
+            ],
+            "answer": "git status"
+        },
+        {
+            "question": "What happens if the test fails when trying to commit changes to the repository?",
+            "choices": [
+                "The commit is rejected",
+                "The commit is accepted, but a warning is displayed",
+                "The test is ignored, and the commit is accepted",
+                "The repository is automatically reverted to the previous state"
+            ],
+            "answer": "The commit is rejected"
+        },
+        {
+            "question": "Which command is used to push local commits to a remote repository?",
+            "choices": [
+                "git push",
+                "git upload",
+                "git send",
+                "git remote"
+            ],
+            "answer": "git push"
+        }
+    ]
+}

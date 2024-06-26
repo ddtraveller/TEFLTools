@@ -1,0 +1,315 @@
+{
+  "title": "Introduction to Spreadsheets for Data Analysis - Test",
+  "questions": [
+    {
+      "question": "What is the primary purpose of using spreadsheets?",
+      "choices": [
+        "To analyze and manipulate data",
+        "To create professional presentations",
+        "To write formatted text documents",
+        "To design websites"
+      ],
+      "answer": "To analyze and manipulate data"
+    },
+    {
+      "question": "Which function calculates the arithmetic mean of a set of numbers?",
+      "choices": [
+        "AVERAGE",
+        "SUM",
+        "COUNT",
+        "MEAN"
+      ],
+      "answer": "AVERAGE"
+    },
+    {
+      "question": "What does the COUNT function do?",
+      "choices": [
+        "Counts the number of cells that contain numbers",
+        "Counts the total number of cells in a range",
+        "Counts the number of cells that contain text",
+        "Counts the number of unique values in a range"
+      ],
+      "answer": "Counts the number of cells that contain numbers"
+    },
+    {
+      "question": "Which data entry technique automatically fills cells with a series or pattern?",
+      "choices": [
+        "Autofill",
+        "Paste special",
+        "Data validation",
+        "Flash fill"
+      ],
+      "answer": "Autofill"
+    },
+    {
+      "question": "What is the purpose of conditional formatting?",
+      "choices": [
+        "To highlight cells based on specific conditions",
+        "To prevent users from entering invalid data",
+        "To automatically populate cells with formulas",
+        "To protect cells from being edited"
+      ],
+      "answer": "To highlight cells based on specific conditions"
+    },
+    {
+      "question": "Which feature allows you to rearrange data in ascending or descending order?",
+      "choices": [
+        "Sorting",
+        "Filtering",
+        "Grouping",
+        "Transposing"
+      ],
+      "answer": "Sorting"
+    },
+    {
+      "question": "What is the primary purpose of an auto-filter?",
+      "choices": [
+        "To display only rows that meet specific criteria",
+        "To automatically format data based on conditions",
+        "To remove duplicate values from a dataset",
+        "To validate data entered by users"
+      ],
+      "answer": "To display only rows that meet specific criteria"
+    },
+    {
+      "question": "Which tool summarizes and aggregates data based on selected criteria?",
+      "choices": [
+        "Pivot table",
+        "Chart",
+        "Sparkline",
+        "Slicer"
+      ],
+      "answer": "Pivot table"
+    },
+    {
+      "question": "What type of chart is best suited for showing trends over time?",
+      "choices": [
+        "Line chart",
+        "Bar chart",
+        "Pie chart",
+        "Scatter chart"
+      ],
+      "answer": "Line chart"
+    },
+    {
+      "question": "Which function returns one value if a condition is true and another if it's false?",
+      "choices": [
+        "IF",
+        "VLOOKUP",
+        "CONCATENATE",
+        "SUMIF"
+      ],
+      "answer": "IF"
+    },
+    {
+      "question": "What does the VLOOKUP function do?",
+      "choices": [
+        "Searches for a value in a table and returns a corresponding value from another column",
+        "Combines text from multiple cells into one cell",
+        "Calculates the sum of cells that meet a specific condition",
+        "Finds the minimum value in a range of cells"
+      ],
+      "answer": "Searches for a value in a table and returns a corresponding value from another column"
+    },
+    {
+      "question": "Which data analysis tool helps find an input value needed to achieve a desired result?",
+      "choices": [
+        "Goal Seek",
+        "Solver",
+        "Scenario Manager",
+        "Forecast Sheet"
+      ],
+      "answer": "Goal Seek" 
+    },
+    {
+      "question": "What is the purpose of the Scenario Manager?",
+      "choices": [
+        "To create and compare different sets of input values and their results",
+        "To automatically format cells based on specific conditions",
+        "To validate data entered by users",
+        "To find and remove duplicate values in a dataset"
+      ],
+      "answer": "To create and compare different sets of input values and their results"
+    },
+    {
+      "question": "Which of the following is NOT a requirement for the final project?",
+      "choices": [
+        "Creating a presentation slide deck",
+        "Choosing a dataset related to Timor-Leste",
+        "Performing data cleaning and formatting",
+        "Using charts and graphs to visualize data"
+      ],
+      "answer": "Creating a presentation slide deck"
+    },
+    {
+      "question": "What is the purpose of data validation in spreadsheets?",
+      "choices": [
+        "To restrict the type of data that users can enter into a cell",
+        "To automatically fill cells with a series or pattern",
+        "To combine text from multiple cells into one cell",
+        "To find and highlight the maximum value in a range of cells"
+      ],
+      "answer": "To restrict the type of data that users can enter into a cell"
+    },
+    {
+      "question": "Which chart type is best suited for comparing parts of a whole?",
+      "choices": [
+        "Pie chart",
+        "Line chart",
+        "Scatter chart",
+        "Column chart"  
+      ],
+      "answer": "Pie chart"
+    },
+    {
+      "question": "What is the purpose of the CONCATENATE function?",
+      "choices": [
+        "To join text from multiple cells into one cell",
+        "To calculate the average of a set of numbers",
+        "To count the number of cells that contain text",
+        "To search for a value in a table and return a corresponding value"
+      ],
+      "answer": "To join text from multiple cells into one cell"
+    },
+    {
+      "question": "Which function finds the highest value in a range of cells?",
+      "choices": [
+        "MAX",
+        "LARGE",
+        "TOP",
+        "UPPER"
+      ],
+      "answer": "MAX"
+    },
+    {
+      "question": "What is the purpose of a multi-level sort?",
+      "choices": [
+        "To sort data by more than one column or criteria",
+        "To filter data based on multiple conditions",
+        "To create subtotals and grand totals for a dataset",
+        "To merge cells across multiple rows or columns"
+      ],
+      "answer": "To sort data by more than one column or criteria"
+    },
+    {
+      "question": "Which of the following is an example of a spreadsheet application?",
+      "choices": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Access"
+      ],
+      "answer": "Microsoft Excel"
+    },
+    {
+      "question": "What is the purpose of the Paste Special feature?",
+      "choices": [
+        "To paste data with specific formatting options",
+        "To automatically fill cells with a series or pattern",
+        "To validate data entered by users",
+        "To combine text from multiple cells into one cell"
+      ],
+      "answer": "To paste data with specific formatting options"
+    },
+    {
+      "question": "Which function returns the minimum value in a range of cells?",
+      "choices": [
+        "MIN",
+        "SMALL",
+        "BOTTOM",
+        "LOWER"
+      ],
+      "answer": "MIN"
+    },
+    {
+      "question": "What is the purpose of an advanced filter in spreadsheets?",
+      "choices": [
+        "To filter data based on complex criteria using formulas",
+        "To sort data by multiple columns or criteria",
+        "To create subtotals and grand totals for a dataset",
+        "To merge cells across multiple rows or columns"
+      ],
+      "answer": "To filter data based on complex criteria using formulas"
+    },
+    {
+      "question": "Which chart type is best suited for showing the relationship between two variables?",
+      "choices": [
+        "Scatter chart",
+        "Bar chart",
+        "Pie chart",
+        "Line chart"
+      ],
+      "answer": "Scatter chart"
+    },
+    {
+      "question": "What does the SUM function do?",
+      "choices": [
+        "Adds up the values in a range of cells",
+        "Calculates the average of a set of numbers",
+        "Counts the number of cells that contain numbers",
+        "Finds the highest value in a range of cells"
+      ],
+      "answer": "Adds up the values in a range of cells"
+    },
+    {
+      "question": "Which of the following is an example of a number format in spreadsheets?",
+      "choices": [
+        "Currency",
+        "Italics",
+        "Underline",
+        "Strikethrough"
+      ],  
+      "answer": "Currency"
+    },
+    {
+      "question": "What is the purpose of a pivot table?",
+      "choices": [
+        "To summarize and analyze large datasets by dynamically rearranging data",
+        "To create a dashboard of interactive charts and graphs",
+        "To perform complex statistical analysis on data",
+        "To merge data from multiple spreadsheets into one"
+      ],
+      "answer": "To summarize and analyze large datasets by dynamically rearranging data"
+    },
+    {
+      "question": "Which function searches for a specific value within a range and returns the relative position of that value?",
+      "choices": [
+        "MATCH",
+        "FIND",
+        "SEARCH",
+        "LOOKUP"
+      ],
+      "answer": "MATCH"
+    },
+    {
+      "question": "What is the purpose of the Solver add-in in spreadsheets?",
+      "choices": [
+        "To find an optimal value for a target cell by changing other cells",
+        "To create a dashboard of interactive charts and graphs",
+        "To perform complex statistical analysis on data",
+        "To merge data from multiple spreadsheets into one"
+      ],  
+      "answer": "To find an optimal value for a target cell by changing other cells"
+    },
+    {
+      "question": "Which function checks whether a value exists in a range and returns a related value?",
+      "choices": [
+        "LOOKUP",
+        "FIND",
+        "SEARCH",
+        "MATCH"  
+      ],
+      "answer": "LOOKUP"
+    },
+    {
+      "question": "What is the purpose of cell styles in spreadsheets?",
+      "choices": [
+        "To quickly apply a consistent format to multiple cells",
+        "To restrict the type of data that users can enter into a cell",  
+        "To automatically fill cells with a series or pattern",
+        "To validate data entered by users"
+      ],
+      "answer": "To quickly apply a consistent format to multiple cells"
+    }
+  ]
+}

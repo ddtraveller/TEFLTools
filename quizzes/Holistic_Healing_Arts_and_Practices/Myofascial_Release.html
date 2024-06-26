@@ -11,10 +11,16 @@
       text-align: center;
     }
     .question {
-      margin-bottom: 10px;
+      margin-bottom: 20px;
     }
     button {
       margin-top: 20px;
+    }
+    .correct {
+      color: green;
+    }
+    .incorrect {
+      color: red;
     }
   </style>
 </head>
@@ -117,10 +123,12 @@
         questionElement.className = "question";
         questionElement.innerHTML = `
           <p>${index + 1}. ${question.question}</p>
-          <label><input type="radio" name="question${index}" value="${question.choices[0]}">${question.choices[0]}</label><br>
-          <label><input type="radio" name="question${index}" value="${question.choices[1]}">${question.choices[1]}</label><br>
-          <label><input type="radio" name="question${index}" value="${question.choices[2]}">${question.choices[2]}</label><br>
-          <label><input type="radio" name="question${index}" value="${question.choices[3]}">${question.choices[3]}</label><br>
+          ${question.choices.map((choice, i) => `
+            <label>
+              <input type="radio" name="question${index}" value="${choice}">
+              ${choice}
+            </label><br>
+          `).join('')}
         `;
         quizContainer.appendChild(questionElement);
       });
@@ -128,25 +136,28 @@
 
     function showAnswers(quizQuestions) {
       const quizContainer = document.getElementById("questions");
-      quizContainer.innerHTML = "";
-
       quizQuestions.forEach((question, index) => {
-        const questionElement = document.createElement("div");
-        questionElement.className = "question";
-        questionElement.innerHTML = `
-          <p>${question.question}</p>
-          <p><strong>Your Answer:</strong> ${question.selectedAnswer}</p>
+        const questionElement = quizContainer.children[index];
+        const answerElement = document.createElement("div");
+        const isCorrect = question.selectedAnswer === question.answer;
+        answerElement.innerHTML = `
+          <p><strong>Your Answer:</strong> <span class="${isCorrect ? 'correct' : 'incorrect'}">${question.selectedAnswer || "Not answered"}</span></p>
           <p><strong>Correct Answer:</strong> ${question.answer}</p>
         `;
-        quizContainer.appendChild(questionElement);
+        questionElement.appendChild(answerElement);
+
+        // Disable radio buttons
+        questionElement.querySelectorAll('input[type="radio"]').forEach(input => {
+          input.disabled = true;
+        });
       });
     }
 
     const quizForm = document.getElementById("quizForm");
     quizForm.addEventListener("submit", function(event) {
       event.preventDefault();
-      const quizQuestions = Array.from(document.getElementsByClassName("question")).map(question => {
-        const selectedAnswer = question.querySelector(`input[name^="question"]:checked`);
+      const quizQuestions = Array.from(document.getElementsByClassName("question")).map((question, index) => {
+        const selectedAnswer = question.querySelector(`input[name="question${index}"]:checked`);
         return {
           question: question.querySelector("p").textContent.slice(3),
           selectedAnswer: selectedAnswer ? selectedAnswer.value : "Not answered",
@@ -154,6 +165,7 @@
         };
       });
       showAnswers(quizQuestions);
+      quizForm.querySelector('button').disabled = true;
     });
 
     generateQuiz();

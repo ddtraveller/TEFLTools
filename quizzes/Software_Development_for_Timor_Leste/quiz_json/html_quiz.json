@@ -1,0 +1,305 @@
+{
+    "title": "HTML Elements and Attributes Quiz",
+    "questions": [
+        {
+            "question": "What is the purpose of the 'class' attribute in HTML?",
+            "choices": [
+                "To specify one or more class names for an element",
+                "To define a unique id for an element",
+                "To specify the type of element",
+                "To create a hyperlink"
+            ],
+            "answer": "To specify one or more class names for an element"
+        },
+        {
+            "question": "Which attribute is used to specify a unique id for an HTML element?",
+            "choices": [
+                "id",
+                "class",
+                "name",
+                "unique"
+            ],
+            "answer": "id"
+        },
+        {
+            "question": "What does the 'src' attribute specify?",
+            "choices": [
+                "The URL of the file to embed",
+                "The source code of the element",
+                "The script to run",
+                "The style of the element"
+            ],
+            "answer": "The URL of the file to embed"
+        },
+        {
+            "question": "Which HTML element is used to define the structure of an HTML document?",
+            "choices": [
+                "<body>",
+                "<head>",
+                "<html>",
+                "<structure>"
+            ],
+            "answer": "<html>"
+        },
+        {
+            "question": "What is the purpose of the 'alt' attribute in the <img> tag?",
+            "choices": [
+                "To provide alternative text for the image",
+                "To specify the alignment of the image",
+                "To define the size of the image",
+                "To create an image link"
+            ],
+            "answer": "To provide alternative text for the image"
+        },
+        {
+            "question": "Which attribute is used to specify inline styles?",
+            "choices": [
+                "style",
+                "css",
+                "class",
+                "design"
+            ],
+            "answer": "style"
+        },
+        {
+            "question": "What does the 'href' attribute specify?",
+            "choices": [
+                "The URL of the page the link goes to",
+                "The header reference",
+                "The height reference",
+                "The hypertext reference"
+            ],
+            "answer": "The URL of the page the link goes to"
+        },
+        {
+            "question": "Which HTML element is used to define a paragraph?",
+            "choices": [
+                "<p>",
+                "<paragraph>",
+                "<text>",
+                "<content>"
+            ],
+            "answer": "<p>"
+        },
+        {
+            "question": "What is the purpose of the 'target' attribute in the <a> tag?",
+            "choices": [
+                "To specify where to open the linked document",
+                "To define the text of the link",
+                "To set a target date for the link",
+                "To specify the type of link"
+            ],
+            "answer": "To specify where to open the linked document"
+        },
+        {
+            "question": "Which attribute is used to specify an input field should be disabled?",
+            "choices": [
+                "disabled",
+                "inactive",
+                "off",
+                "readonly"
+            ],
+            "answer": "disabled"
+        },
+        {
+            "question": "What does the 'colspan' attribute do in table cells?",
+            "choices": [
+                "Specifies how many columns a cell should span",
+                "Defines the color of the column",
+                "Sets the spacing between columns",
+                "Aligns the content of the column"
+            ],
+            "answer": "Specifies how many columns a cell should span"
+        },
+        {
+            "question": "Which HTML element is used to define a header for a document or a section?",
+            "choices": [
+                "<header>",
+                "<head>",
+                "<h1>",
+                "<top>"
+            ],
+            "answer": "<header>"
+        },
+        {
+            "question": "What is the purpose of the 'type' attribute in the <input> tag?",
+            "choices": [
+                "To specify the type of input element to display",
+                "To define the data type of the input",
+                "To set the text type for the input",
+                "To specify the input method"
+            ],
+            "answer": "To specify the type of input element to display"
+        },
+        {
+            "question": "Which attribute is used to specify that an input field must be filled out?",
+            "choices": [
+                "required",
+                "mandatory",
+                "needed",
+                "important"
+            ],
+            "answer": "required"
+        },
+        {
+            "question": "What does the 'action' attribute specify in a form?",
+            "choices": [
+                "Where to send the form-data when a form is submitted",
+                "The type of action to be performed",
+                "The animation to play on submission",
+                "The validation rules for the form"
+            ],
+            "answer": "Where to send the form-data when a form is submitted"
+        },
+        {
+            "question": "Which HTML element is used to define a list item?",
+            "choices": [
+                "<li>",
+                "<ul>",
+                "<ol>",
+                "<item>"
+            ],
+            "answer": "<li>"
+        },
+        {
+            "question": "What is the purpose of the 'placeholder' attribute?",
+            "choices": [
+                "To specify a short hint that describes the expected value of an input field",
+                "To define the default value of an input field",
+                "To set the maximum length of input",
+                "To specify where to place the input field"
+            ],
+            "answer": "To specify a short hint that describes the expected value of an input field"
+        },
+        {
+            "question": "Which attribute is used to specify the character encoding for an HTML document?",
+            "choices": [
+                "charset",
+                "encoding",
+                "lang",
+                "type"
+            ],
+            "answer": "charset"
+        },
+        {
+            "question": "What does the 'method' attribute specify in a form?",
+            "choices": [
+                "The HTTP method to use when sending form-data",
+                "The validation method for the form",
+                "The method to display form results",
+                "The encryption method for form data"
+            ],
+            "answer": "The HTTP method to use when sending form-data"
+        },
+        {
+            "question": "Which HTML element is used to define emphasized text?",
+            "choices": [
+                "<em>",
+                "<i>",
+                "<strong>",
+                "<emphasis>"
+            ],
+            "answer": "<em>"
+        },
+        {
+            "question": "What is the purpose of the 'name' attribute in form elements?",
+            "choices": [
+                "To specify a name for the element",
+                "To define the type of the element",
+                "To set the display name of the element",
+                "To create a label for the element"
+            ],
+            "answer": "To specify a name for the element"
+        },
+        {
+            "question": "Which attribute is used to specify extra information about an element?",
+            "choices": [
+                "title",
+                "info",
+                "data",
+                "extra"
+            ],
+            "answer": "title"
+        },
+        {
+            "question": "What does the 'rel' attribute specify?",
+            "choices": [
+                "The relationship between the current document and the linked document",
+                "The relevance of the linked document",
+                "The reliability of the link",
+                "The reload time for the link"
+            ],
+            "answer": "The relationship between the current document and the linked document"
+        },
+        {
+            "question": "Which HTML element is used to define a section in a document?",
+            "choices": [
+                "<section>",
+                "<div>",
+                "<article>",
+                "<part>"
+            ],
+            "answer": "<section>"
+        },
+        {
+            "question": "What is the purpose of the 'value' attribute in input elements?",
+            "choices": [
+                "To specify the initial value of an input element",
+                "To set the maximum value allowed",
+                "To define the type of value accepted",
+                "To validate the input value"
+            ],
+            "answer": "To specify the initial value of an input element"
+        },
+        {
+            "question": "Which attribute is used to specify that an element is not yet, or is no longer, relevant?",
+            "choices": [
+                "hidden",
+                "irrelevant",
+                "disabled",
+                "obsolete"
+            ],
+            "answer": "hidden"
+        },
+        {
+            "question": "What does the 'max' attribute do?",
+            "choices": [
+                "Specifies the maximum value for an input field",
+                "Sets the maximum width of an element",
+                "Defines the maximum number of characters allowed",
+                "Limits the maximum number of items in a list"
+            ],
+            "answer": "Specifies the maximum value for an input field"
+        },
+        {
+            "question": "Which HTML element is used to define a table?",
+            "choices": [
+                "<table>",
+                "<tr>",
+                "<td>",
+                "<grid>"
+            ],
+            "answer": "<table>"
+        },
+        {
+            "question": "What is the purpose of the 'for' attribute in a <label> element?",
+            "choices": [
+                "To specify which form element a label is bound to",
+                "To define what the label is for",
+                "To set the target of the label",
+                "To specify the format of the label"
+            ],
+            "answer": "To specify which form element a label is bound to"
+        },
+        {
+            "question": "Which attribute is used to specify the width of an element?",
+            "choices": [
+                "width",
+                "size",
+                "dimension",
+                "scale"
+            ],
+            "answer": "width"
+        }
+    ]
+}

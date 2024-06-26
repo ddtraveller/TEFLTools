@@ -1,0 +1,155 @@
+{
+  "title": "Introduction to R and R Studio",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a common application of R?",
+      "choices": [
+        "Web development",
+        "Statistical analysis",
+        "Data visualization",
+        "Machine learning"
+      ],
+      "answer": "Web development"
+    },
+    {
+      "question": "What is the purpose of the R Studio script editor?",
+      "choices": [
+        "To write and edit R code",
+        "To display the output of R commands",
+        "To view and manage R objects",
+        "To install and update R packages"
+      ],
+      "answer": "To write and edit R code"
+    },
+    {
+      "question": "What is the correct way to assign a value to a variable in R?",
+      "choices": [
+        "x <- 10",
+        "10 -> x",
+        "x = 10",
+        "x := 10"
+      ],
+      "answer": "x <- 10"
+    },
+    {
+      "question": "Which data structure in R is unidimensional and can hold elements of different types?",
+      "choices": [
+        "Vector",
+        "Matrix",
+        "Array",
+        "Data frame"
+      ],
+      "answer": "Vector"
+    },
+    {
+      "question": "What is the primary difference between a matrix and a data frame in R?",
+      "choices": [
+        "A matrix can only hold elements of the same type, while a data frame can hold elements of different types",
+        "A matrix is unidimensional, while a data frame is two-dimensional",
+        "A matrix is used for statistical analysis, while a data frame is used for data visualization",
+        "A matrix can hold missing values, while a data frame cannot"
+      ],
+      "answer": "A matrix can only hold elements of the same type, while a data frame can hold elements of different types"
+    },
+    {
+      "question": "Which function is used to read a CSV file into R?",
+      "choices": [
+        "read.csv()",
+        "load.csv()",
+        "import.csv()",
+        "get.csv()"
+      ],
+      "answer": "read.csv()"
+    },
+    {
+      "question": "What does the subset() function do in R?",
+      "choices": [
+        "Extracts a subset of a data object based on specified conditions",
+        "Combines two data objects based on common columns or rows",
+        "Computes summary statistics for subsets of a data object",
+        "Removes missing values from a data object"
+      ],
+      "answer": "Extracts a subset of a data object based on specified conditions"
+    },
+    {
+      "question": "Which of the following is NOT a basic plotting function in R?",
+      "choices": [
+        "scatter()",
+        "plot()",
+        "hist()",
+        "boxplot()"
+      ],
+      "answer": "scatter()"
+    },
+    {
+      "question": "What does the argument 'col' specify in most R plotting functions?",
+      "choices": [
+        "The color of plot elements",
+        "The size of plot elements",
+        "The shape of plot elements",
+        "The transparency of plot elements"
+      ],
+      "answer": "The color of plot elements"
+    },
+    {
+      "question": "Which function calculates the arithmetic mean of a vector in R?",
+      "choices": [
+        "mean()",
+        "avg()",
+        "median()",
+        "mode()"
+      ],
+      "answer": "mean()"
+    },
+    {
+      "question": "What does the sd() function compute in R?",
+      "choices": [
+        "Standard deviation",
+        "Standard error",
+        "Sample variance",
+        "Sum of squares"
+      ],
+      "answer": "Standard deviation"
+    },
+    {
+      "question": "Which function is used to perform a t-test in R?",
+      "choices": [
+        "t.test()",
+        "ttest()",
+        "t_test()",
+        "test_t()"
+      ],
+      "answer": "t.test()"
+    },
+    {
+      "question": "What is the purpose of the cor.test() function in R?",
+      "choices": [
+        "To test for a significant correlation between two variables",
+        "To perform a chi-square test of independence",
+        "To conduct an analysis of variance (ANOVA)",
+        "To fit a linear regression model"
+      ],
+      "answer": "To test for a significant correlation between two variables"
+    },
+    {
+      "question": "What is the primary purpose of using R Markdown?",
+      "choices": [
+        "To create dynamic reports that combine code, results, and explanatory text",
+        "To write and execute R code interactively",
+        "To manage and manipulate large datasets in R",
+        "To develop interactive web applications using R"
+      ],
+      "answer": "To create dynamic reports that combine code, results, and explanatory text"
+    },
+    {
+      "question": "Which of the following is NOT a requirement for the final project?",
+      "choices": [
+        "Developing a fully-featured R package",
+        "Choosing a dataset related to Timor-Leste",
+        "Performing a comprehensive analysis using R",
+        "Writing a brief report interpreting the findings"
+      ],
+      "answer": "Developing a fully-featured R package"
+    }
+  ]
+}
