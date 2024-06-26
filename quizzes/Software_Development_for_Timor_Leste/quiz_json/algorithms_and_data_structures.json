@@ -1,0 +1,155 @@
+{
+  "title": "Fundamental Algorithms and Data Structures",
+  "questions": [
+    {
+      "question": "What does Big O notation represent?",
+      "choices": [
+        "The upper bound of the growth rate of an algorithm",
+        "The lower bound of the growth rate of an algorithm",
+        "The exact run-time of an algorithm",
+        "The space complexity of an algorithm"
+      ],
+      "answer": "The upper bound of the growth rate of an algorithm"
+    },
+    {
+      "question": "Which of the following is an advantage of linked lists over arrays?",
+      "choices": [
+        "Dynamic size",
+        "Constant time random access",
+        "Cache-friendly memory layout",
+        "Less memory usage"
+      ],
+      "answer": "Dynamic size"
+    },
+    {
+      "question": "What is the time complexity of accessing an element in an array by its index?",
+      "choices": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "answer": "O(1)"
+    },
+    {
+      "question": "Which data structure follows the LIFO (Last-In-First-Out) principle?",
+      "choices": [
+        "Stack",
+        "Queue",
+        "Array",
+        "Linked List"
+      ],
+      "answer": "Stack"
+    },
+    {
+      "question": "Which of the following is a common application of queues?",
+      "choices": [
+        "Task scheduling",
+        "Expression evaluation",
+        "Recursion",
+        "Binary search"
+      ],
+      "answer": "Task scheduling"
+    },
+    {
+      "question": "What is the main difference between linear search and binary search?",
+      "choices": [
+        "Binary search requires the input array to be sorted",
+        "Linear search has a better worst-case time complexity",
+        "Binary search can only be used on linked lists",
+        "Linear search is more space-efficient than binary search"
+      ],
+      "answer": "Binary search requires the input array to be sorted"
+    },
+    {
+      "question": "Which sorting algorithm has the best worst-case time complexity among bubble sort, insertion sort, and selection sort?",
+      "choices": [
+        "They all have the same worst-case time complexity",
+        "Bubble sort",
+        "Insertion sort",
+        "Selection sort"
+      ],
+      "answer": "They all have the same worst-case time complexity"
+    },
+    {
+      "question": "What is the key characteristic of a recursive function?",
+      "choices": [
+        "It calls itself",
+        "It uses loops",
+        "It always returns the same value",
+        "It takes no parameters"
+      ],
+      "answer": "It calls itself"
+    },
+    {
+      "question": "In a binary tree, what is the maximum number of children a node can have?",
+      "choices": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "What is the primary purpose of using a stack in expression evaluation?",
+      "choices": [
+        "To keep track of operator precedence",
+        "To store the final result",
+        "To convert the expression to prefix notation",
+        "To count the number of operands"
+      ],
+      "answer": "To keep track of operator precedence"
+    },
+    {
+      "question": "Which of the following is a requirement for binary search to work correctly?",
+      "choices": [
+        "The input array must be sorted",
+        "The input array must contain unique elements",
+        "The input array must have an odd number of elements",
+        "The input array must be implemented as a linked list"
+      ],
+      "answer": "The input array must be sorted"
+    },
+    {
+      "question": "What is the space complexity of a standard implementation of a queue using an array?",
+      "choices": [
+        "O(n)",
+        "O(1)",
+        "O(log n)",
+        "O(n^2)"
+      ],
+      "answer": "O(n)"
+    },
+    {
+      "question": "Which of the following is a common use case for a tree data structure?",
+      "choices": [
+        "Representing hierarchical relationships",
+        "Implementing a priority queue",
+        "Storing key-value pairs for fast retrieval",
+        "Ensuring first-in-first-out (FIFO) ordering"
+      ],
+      "answer": "Representing hierarchical relationships"
+    },
+    {
+      "question": "What is the best-case time complexity of bubble sort?",
+      "choices": [
+        "O(n)",
+        "O(1)",
+        "O(log n)", 
+        "O(n^2)"
+      ],
+      "answer": "O(n)"
+    },
+    {
+      "question": "Which of the following is NOT a requirement for the final project?",
+      "choices": [
+        "Using a graph data structure",
+        "Choosing a real-world problem relevant to Timor-Leste",
+        "Developing an algorithm that uses at least two data structures",
+        "Analyzing the time and space complexity of the solution"
+      ],
+      "answer": "Using a graph data structure"
+    }
+  ]
+}

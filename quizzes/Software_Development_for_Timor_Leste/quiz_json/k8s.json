@@ -1,0 +1,105 @@
+{
+  "title": "Container Orchestration with Kubernetes",
+  "questions": [
+    {
+      "question": "What is the purpose of container orchestration?",
+      "choices": [
+        "To automate the deployment, scaling, and management of containerized applications",
+        "To create Docker images",
+        "To replace virtual machines",
+        "To manage source code repositories"
+      ],
+      "answer": "To automate the deployment, scaling, and management of containerized applications"
+    },
+    {
+      "question": "Which component of the Kubernetes control plane is responsible for storing cluster state?",
+      "choices": [
+        "etcd",
+        "API server",
+        "Scheduler",
+        "Controller manager"
+      ],
+      "answer": "etcd"
+    },
+    {
+      "question": "What is the role of the kubelet in a Kubernetes node?",
+      "choices": [
+        "Communicating with the API server and managing containers on the node",
+        "Load balancing traffic between pods",
+        "Scheduling pods on nodes",
+        "Managing network communication between nodes"
+      ],
+      "answer": "Communicating with the API server and managing containers on the node"
+    },
+    {
+      "question": "What is the smallest deployable unit in Kubernetes?",
+      "choices": [
+        "Pod",
+        "Container",
+        "Node",
+        "Deployment"
+      ],
+      "answer": "Pod"
+    },
+    {
+      "question": "Which Kubernetes object is used to ensure a specific number of replica pods are running?",
+      "choices": [
+        "ReplicaSet",
+        "Deployment",
+        "Service",
+        "ConfigMap"
+      ],
+      "answer": "ReplicaSet"
+    },
+    {
+      "question": "What is the purpose of a Kubernetes Service?",
+      "choices": [
+        "To provide a stable endpoint for accessing pods",
+        "To store sensitive information like passwords",
+        "To define environment variables for containers",
+        "To manage persistent storage for pods"
+      ],
+      "answer": "To provide a stable endpoint for accessing pods"
+    },
+    {
+      "question": "Which Kubernetes object is used to store non-confidential data in key-value pairs?",
+      "choices": [
+        "ConfigMap",
+        "Secret",
+        "Volume",
+        "Namespace"
+      ],
+      "answer": "ConfigMap"
+    },
+    {
+      "question": "What is the purpose of a Kubernetes Namespace?",
+      "choices": [
+        "To provide a scope for names and resources in a cluster",
+        "To store sensitive data",
+        "To define network policies",
+        "To manage node resources"
+      ],
+      "answer": "To provide a scope for names and resources in a cluster"
+    },
+    {
+      "question": "Which command-line tool is used to interact with a Kubernetes cluster?",
+      "choices": [
+        "kubectl",
+        "docker",
+        "kubeadm",
+        "minikube"
+      ],
+      "answer": "kubectl"
+    },
+    {
+      "question": "What is the purpose of a Kubernetes YAML manifest?",
+      "choices": [
+        "To declaratively define the desired state of Kubernetes objects",
+        "To package application code and dependencies",
+        "To manage cluster authentication and authorization",
+        "To monitor cluster health and performance"
+      ],
+      "answer": "To declaratively define the desired state of Kubernetes objects"
+    }
+  ]
+}

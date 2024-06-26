@@ -1,0 +1,105 @@
+{
+  "title": "Services, Daemons, and Scheduled Tasks in CentOS",
+  "questions": [
+    {
+      "question": "What is a daemon in the context of Linux?",
+      "choices": [
+        "A background process that provides a service",
+        "A type of file system",
+        "A command-line text editor",
+        "A network protocol"
+      ],
+      "answer": "A background process that provides a service"
+    },
+    {
+      "question": "Which command is used to manage services in a systemd-based Linux system?",
+      "choices": [
+        "systemctl",
+        "service",
+        "chkconfig",
+        "sysctl"
+      ],
+      "answer": "systemctl"
+    },
+    {
+      "question": "What does the command 'systemctl start httpd' do?",
+      "choices": [
+        "Starts the Apache web server service",
+        "Stops the Apache web server service",
+        "Restarts the Apache web server service",
+        "Checks the status of the Apache web server service"
+      ],
+      "answer": "Starts the Apache web server service"
+    },
+    {
+      "question": "Which command is used to enable a service to start automatically at boot?",
+      "choices": [
+        "systemctl enable",
+        "systemctl start",
+        "systemctl boot",
+        "systemctl autostart"
+      ],
+      "answer": "systemctl enable"
+    },
+    {
+      "question": "What is the purpose of the 'journalctl' command?",
+      "choices": [
+        "To view system logs",
+        "To manage user accounts",
+        "To configure network interfaces",
+        "To monitor system performance"
+      ],
+      "answer": "To view system logs"
+    },
+    {
+      "question": "What is cron used for in Linux?",
+      "choices": [
+        "Scheduling tasks to run at specific times",
+        "Managing user permissions",
+        "Configuring firewall rules",
+        "Monitoring network traffic"
+      ],
+      "answer": "Scheduling tasks to run at specific times"
+    },
+    {
+      "question": "Which file contains a user's scheduled tasks in the cron system?",
+      "choices": [
+        "crontab",
+        "crontask",
+        "cronjob",
+        "cronfile"
+      ],
+      "answer": "crontab"
+    },
+    {
+      "question": "What command is used to edit a user's crontab file?",
+      "choices": [
+        "crontab -e",
+        "crontab -edit",
+        "cron -e",
+        "cron -edit"
+      ],
+      "answer": "crontab -e"
+    },
+    {
+      "question": "Which of the following is a valid cron schedule for running a task every day at 2:30 AM?",
+      "choices": [
+        "30 2 * * *",
+        "2:30 * * *",
+        "* * * 2:30",
+        "2 30 * *"
+      ],
+      "answer": "30 2 * * *"
+    },
+    {
+      "question": "How can student understanding be assessed in this lesson?",
+      "choices": [
+        "Observation of student practice during hands-on sections",
+        "Assigning a research paper",
+        "Giving a midterm exam",
+        "Conducting a survey"
+      ],
+      "answer": "Observation of student practice during hands-on sections"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Building a Bitcoin Price Checker",
+  "questions": [
+    {
+      "question": "What does API stand for?",
+      "choices": [
+        "Application Programming Interface",
+        "Automated Program Installation",
+        "Advanced Python Integration",
+        "Asynchronous Protocol Interaction"
+      ],
+      "answer": "Application Programming Interface"
+    },
+    {
+      "question": "Which data format is commonly used in cryptocurrency APIs?",
+      "choices": [
+        "JSON",
+        "XML",
+        "CSV",
+        "HTML"
+      ],
+      "answer": "JSON"
+    },
+    {
+      "question": "Which Python library is used to send HTTP requests to APIs?",
+      "choices": [
+        "requests",
+        "json",
+        "http",
+        "api"
+      ],
+      "answer": "requests"
+    },
+    {
+      "question": "What is the purpose of the GET request method?",
+      "choices": [
+        "To retrieve data from an API",
+        "To send data to an API",
+        "To update data on an API",
+        "To delete data from an API"
+      ],
+      "answer": "To retrieve data from an API"
+    },
+    {
+      "question": "What is the HTTP status code for a successful request?",
+      "choices": [
+        "200",
+        "404",
+        "500",
+        "401"
+      ],
+      "answer": "200"
+    },
+    {
+      "question": "How do you convert a JSON response to a Python object?",
+      "choices": [
+        "Using the json.loads() function",
+        "Using the json.dumps() function",
+        "Using the requests.json() function",
+        "Using the parse_json() function"
+      ],
+      "answer": "Using the json.loads() function"
+    },
+    {
+      "question": "What is the purpose of error handling in API requests?",
+      "choices": [
+        "To gracefully handle network issues and API errors",
+        "To speed up the API request process",
+        "To bypass API rate limits",
+        "To modify the API response data"
+      ],
+      "answer": "To gracefully handle network issues and API errors"
+    },
+    {
+      "question": "Which of the following is NOT a common error that may occur when making API requests?",
+      "choices": [
+        "Invalid API key",
+        "Rate limit exceeded",
+        "Network connection issues",
+        "Insufficient memory on the server"
+      ],
+      "answer": "Insufficient memory on the server"
+    },
+    {
+      "question": "What is the purpose of user input in the Bitcoin price checker program?",
+      "choices": [
+        "To allow users to select the currency for displaying prices",
+        "To let users input their own Bitcoin price data",
+        "To specify the API endpoint for fetching prices",
+        "To determine the frequency of price updates"
+      ],
+      "answer": "To allow users to select the currency for displaying prices"
+    },
+    {
+      "question": "What is the main objective of the homework assignment?",
+      "choices": [
+        "To extend the functionality of the Bitcoin price checker",
+        "To optimize the performance of the API requests",
+        "To refactor the code using object-oriented programming",
+        "To create a graphical user interface for the price checker"
+      ],
+      "answer": "To extend the functionality of the Bitcoin price checker"
+    }
+  ]
+}

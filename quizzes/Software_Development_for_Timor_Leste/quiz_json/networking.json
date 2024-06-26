@@ -1,0 +1,105 @@
+{
+  "title": "Networking Fundamentals",
+  "questions": [
+    {
+      "question": "Which layer of the OSI model is responsible for end-to-end communication?",
+      "choices": [
+        "Transport",
+        "Network",
+        "Data Link",
+        "Physical"
+      ],
+      "answer": "Transport"
+    },
+    {
+      "question": "What is the main difference between Layer 2 and Layer 3 networking?",
+      "choices": [
+        "Layer 2 uses MAC addresses, while Layer 3 uses IP addresses",
+        "Layer 2 is for wired networks, while Layer 3 is for wireless networks",
+        "Layer 2 is for LAN communication, while Layer 3 is for WAN communication",
+        "Layer 2 is for switching, while Layer 3 is for routing"
+      ],
+      "answer": "Layer 2 uses MAC addresses, while Layer 3 uses IP addresses"
+    },
+    {
+      "question": "What is the purpose of a VLAN?",
+      "choices": [
+        "To logically separate devices on a switch",
+        "To encrypt network traffic",
+        "To convert IP addresses to MAC addresses",
+        "To connect multiple switches together"
+      ],
+      "answer": "To logically separate devices on a switch"
+    },
+    {
+      "question": "Which command is used to view and configure network interfaces in Linux?",
+      "choices": [
+        "ip link",
+        "ip addr",
+        "ip route",
+        "ifconfig"
+      ],
+      "answer": "ip link"
+    },
+    {
+      "question": "What is the purpose of subnetting?",
+      "choices": [
+        "To divide a network into smaller subnetworks",
+        "To encrypt network traffic",
+        "To convert MAC addresses to IP addresses",
+        "To connect multiple routers together"
+      ],
+      "answer": "To divide a network into smaller subnetworks"
+    },
+    {
+      "question": "Which protocol is used to map IP addresses to MAC addresses?",
+      "choices": [
+        "ARP",
+        "DHCP",
+        "DNS",
+        "TCP"
+      ],
+      "answer": "ARP"
+    },
+    {
+      "question": "What is the purpose of the DHCP protocol?",
+      "choices": [
+        "To dynamically assign IP addresses to devices",
+        "To encrypt network traffic",
+        "To convert domain names to IP addresses",
+        "To route packets between networks"
+      ],
+      "answer": "To dynamically assign IP addresses to devices"
+    },
+    {
+      "question": "Which Linux command is used to test connectivity to a remote host?",
+      "choices": [
+        "ping",
+        "traceroute",
+        "netstat",
+        "ss"
+      ],
+      "answer": "ping"
+    },
+    {
+      "question": "What does the 'traceroute' command do?",
+      "choices": [
+        "Traces the path of packets from source to destination",
+        "Shows network interface statistics",
+        "Displays the routing table",
+        "Captures and analyzes network traffic"
+      ],
+      "answer": "Traces the path of packets from source to destination"
+    },
+    {
+      "question": "Which Linux tool is used for capturing and analyzing network traffic?",
+      "choices": [
+        "tcpdump",
+        "netstat",
+        "ss",
+        "ip route"
+      ],
+      "answer": "tcpdump"
+    }
+  ]
+}

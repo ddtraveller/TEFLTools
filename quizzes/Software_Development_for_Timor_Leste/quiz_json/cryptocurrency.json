@@ -1,0 +1,105 @@
+{
+  "title": "Introduction to Cryptocurrency Concepts",
+  "questions": [
+    {
+      "question": "What is the primary characteristic that distinguishes cryptocurrencies from traditional currencies?",
+      "choices": [
+        "Decentralization",
+        "Inflationary supply",
+        "Government backing",
+        "Physical form"
+      ],
+      "answer": "Decentralization"
+    },
+    {
+      "question": "Which cryptocurrency is considered the first and most widely recognized?",
+      "choices": [
+        "Bitcoin",
+        "Ethereum",
+        "Litecoin",
+        "Ripple"
+      ],
+      "answer": "Bitcoin"
+    },
+    {
+      "question": "What is the underlying technology that enables cryptocurrencies?",
+      "choices": [
+        "Blockchain",
+        "Cloud computing",
+        "Artificial intelligence",
+        "Internet of Things"
+      ],
+      "answer": "Blockchain"
+    },
+    {
+      "question": "What is the main benefit of decentralization in cryptocurrencies?",
+      "choices": [
+        "Increased security and transparency",
+        "Faster transaction processing",
+        "Lower transaction fees",
+        "Government control"
+      ],
+      "answer": "Increased security and transparency"
+    },
+    {
+      "question": "Which of the following is a consensus mechanism used in cryptocurrencies?",
+      "choices": [
+        "Proof of Work",
+        "Proof of Identity",
+        "Proof of Ownership",
+        "Proof of Authority"
+      ],
+      "answer": "Proof of Work"
+    },
+    {
+      "question": "What is the purpose of public and private keys in cryptocurrencies?",
+      "choices": [
+        "To secure and authorize transactions",
+        "To create new cryptocurrencies",
+        "To regulate the cryptocurrency market",
+        "To convert cryptocurrencies to fiat money"
+      ],
+      "answer": "To secure and authorize transactions"
+    },
+    {
+      "question": "What is a digital signature in the context of cryptocurrencies?",
+      "choices": [
+        "A cryptographic proof of authenticity and integrity",
+        "A physical signature on a paper wallet",
+        "A digital image of a handwritten signature",
+        "A password used to access a cryptocurrency wallet"
+      ],
+      "answer": "A cryptographic proof of authenticity and integrity"
+    },
+    {
+      "question": "What is the purpose of a cryptocurrency wallet?",
+      "choices": [
+        "To store, send, and receive cryptocurrencies",
+        "To create new cryptocurrencies",
+        "To regulate the cryptocurrency market",
+        "To convert cryptocurrencies to fiat money"
+      ],
+      "answer": "To store, send, and receive cryptocurrencies"
+    },
+    {
+      "question": "What is the process of confirming transactions and adding new blocks to the blockchain called?",
+      "choices": [
+        "Mining",
+        "Trading",
+        "Staking",
+        "Hashing"
+      ],
+      "answer": "Mining"
+    },
+    {
+      "question": "What is the potential impact of cryptocurrency adoption on remittances to Timor-Leste?",
+      "choices": [
+        "Reduced transaction costs and faster processing times",
+        "Increased government control over remittances",
+        "Elimination of the need for remittances altogether",
+        "Higher risk of fraud and money laundering"
+      ],
+      "answer": "Reduced transaction costs and faster processing times"
+    }
+  ]
+}

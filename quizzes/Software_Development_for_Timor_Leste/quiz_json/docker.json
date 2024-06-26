@@ -1,0 +1,105 @@
+{
+  "title": "Introduction to Docker and Basic Concepts",
+  "questions": [
+    {
+      "question": "What is containerization?",
+      "choices": [
+        "A lightweight alternative to virtual machines that packages an application with its dependencies",
+        "A type of cloud computing service",
+        "A method for encrypting data in transit",
+        "A tool for managing virtual machine clusters"
+      ],
+      "answer": "A lightweight alternative to virtual machines that packages an application with its dependencies"
+    },
+    {
+      "question": "Which of the following is NOT a key component of the Docker architecture?",
+      "choices": [
+        "Docker Swarm",
+        "Docker daemon",
+        "Docker client",
+        "Docker registries"
+      ],
+      "answer": "Docker Swarm"
+    },
+    {
+      "question": "What is a Docker image?",
+      "choices": [
+        "A read-only template containing instructions for creating a Docker container",
+        "A running instance of a Docker image",
+        "A tool for building Docker images",
+        "A network for connecting Docker containers"
+      ],
+      "answer": "A read-only template containing instructions for creating a Docker container"
+    },
+    {
+      "question": "What is the purpose of a Dockerfile?",
+      "choices": [
+        "To define the steps needed to create a Docker image",
+        "To manage Docker networks",
+        "To store data used by Docker containers",
+        "To orchestrate multi-container applications"
+      ],
+      "answer": "To define the steps needed to create a Docker image"
+    },
+    {
+      "question": "Which instruction in a Dockerfile sets the base image?",
+      "choices": [
+        "FROM",
+        "RUN",
+        "CMD",
+        "EXPOSE"
+      ],
+      "answer": "FROM"
+    },
+    {
+      "question": "What is the purpose of the 'docker run' command?",
+      "choices": [
+        "To create and start a new container from an image",
+        "To build a Docker image from a Dockerfile",
+        "To pull an image from a Docker registry",
+        "To create a new Docker network"
+      ],
+      "answer": "To create and start a new container from an image"
+    },
+    {
+      "question": "Which command is used to list all running Docker containers?",
+      "choices": [
+        "docker ps",
+        "docker ls",
+        "docker images",
+        "docker containers"
+      ],
+      "answer": "docker ps"
+    },
+    {
+      "question": "What happens when you run a container with the '-d' flag?",
+      "choices": [
+        "The container runs in detached mode (background)",
+        "The container runs in debug mode",
+        "The container automatically restarts on failure",
+        "The container connects to the default network"
+      ],
+      "answer": "The container runs in detached mode (background)"
+    },
+    {
+      "question": "Which Docker network type is used when you want to connect a container to an existing network?",
+      "choices": [
+        "bridge",
+        "host",
+        "none",
+        "overlay"
+      ],
+      "answer": "bridge"
+    },
+    {
+      "question": "What is the purpose of the '--link' flag when running a Docker container?",
+      "choices": [
+        "To create a link between two containers",
+        "To specify the image to use for the container",
+        "To set environment variables in the container",
+        "To mount a volume in the container"
+      ],
+      "answer": "To create a link between two containers"
+    }
+  ]
+}

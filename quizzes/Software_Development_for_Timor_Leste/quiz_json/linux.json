@@ -1,0 +1,105 @@
+{
+  "title": "Introduction to Linux",
+  "questions": [
+    {
+      "question": "What is Linux?",
+      "choices": [
+        "An open-source operating system",
+        "A proprietary operating system",
+        "A programming language",
+        "A type of computer hardware"
+      ],
+      "answer": "An open-source operating system"
+    },
+    {
+      "question": "Which of the following is NOT a key feature of Linux?",
+      "choices": [
+        "Closed-source code",
+        "Multitasking",
+        "Multiuser support",
+        "Security and stability"
+      ],
+      "answer": "Closed-source code"
+    },
+    {
+      "question": "What is the central component of a Linux system that manages hardware resources?",
+      "choices": [
+        "Kernel",
+        "Shell",
+        "Utility",
+        "File System"
+      ],
+      "answer": "Kernel"
+    },
+    {
+      "question": "Which command is used to display the current working directory?",
+      "choices": [
+        "pwd",
+        "cd",
+        "ls",
+        "dir"
+      ],
+      "answer": "pwd"
+    },
+    {
+      "question": "What is the difference between an absolute and relative path?",
+      "choices": [
+        "An absolute path starts from the root directory, while a relative path starts from the current directory",
+        "An absolute path starts from the current directory, while a relative path starts from the root directory",
+        "An absolute path uses forward slashes, while a relative path uses backslashes",
+        "An absolute path is used in Linux, while a relative path is used in Windows"
+      ],
+      "answer": "An absolute path starts from the root directory, while a relative path starts from the current directory"
+    },
+    {
+      "question": "Which command is used to create a new directory?",
+      "choices": [
+        "mkdir",
+        "newdir",
+        "touch",
+        "cp"
+      ],
+      "answer": "mkdir"
+    },
+    {
+      "question": "What is the purpose of the 'nano' command?",
+      "choices": [
+        "To create and edit files",
+        "To list files and directories",
+        "To change the current directory",
+        "To remove files and directories"
+      ],
+      "answer": "To create and edit files"
+    },
+    {
+      "question": "Which command is used to remove a file?",
+      "choices": [
+        "rm",
+        "del",
+        "erase",
+        "remove"
+      ],
+      "answer": "rm"
+    },
+    {
+      "question": "What does the 'cp' command do?",
+      "choices": [
+        "Copies files and directories",
+        "Changes file permissions",
+        "Compresses files",
+        "Concatenates files"
+      ],
+      "answer": "Copies files and directories"
+    },
+    {
+      "question": "Which of the following is a way to assess student understanding in this lesson?",
+      "choices": [
+        "Observation of student practice",
+        "Giving a final exam",
+        "Assigning a research paper",
+        "Conducting a survey"
+      ],
+      "answer": "Observation of student practice"
+    }
+  ]
+}

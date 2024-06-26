@@ -1,0 +1,105 @@
+{
+  "title": "Basics of Data Analytics and Metrics for Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the four main types of data analytics mentioned in the course?",
+      "choices": [
+        "Descriptive, diagnostic, predictive, and prescriptive analytics",
+        "Qualitative, quantitative, exploratory, and confirmatory analytics",
+        "Primary, secondary, tertiary, and quaternary analytics",
+        "Nominal, ordinal, interval, and ratio analytics"
+      ],
+      "answer": "Descriptive, diagnostic, predictive, and prescriptive analytics"
+    },
+    {
+      "question": "What does the SMART criteria stand for in the context of defining effective metrics?",
+      "choices": [
+        "Specific, Measurable, Achievable, Relevant, Time-bound",
+        "Simple, Meaningful, Actionable, Reliable, Timely",
+        "Strategic, Manageable, Attainable, Realistic, Trackable",
+        "Significant, Motivating, Adaptable, Responsive, Targeted"
+      ],
+      "answer": "Specific, Measurable, Achievable, Relevant, Time-bound"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a source of data in the course?",
+      "choices": [
+        "Focus groups",
+        "Surveys",
+        "Observations",
+        "Existing databases"
+      ],
+      "answer": "Focus groups"
+    },
+    {
+      "question": "What are the four critical dimensions of data quality discussed in the course?",
+      "choices": [
+        "Accuracy, completeness, consistency, and timeliness",
+        "Relevance, reliability, replicability, and robustness",
+        "Precision, validity, variability, and volume",
+        "Clarity, conciseness, coherence, and credibility"
+      ],
+      "answer": "Accuracy, completeness, consistency, and timeliness"
+    },
+    {
+      "question": "Which of the following is an example of descriptive statistics?",
+      "choices": [
+        "Mean",
+        "Hypothesis testing",
+        "P-value",
+        "Regression analysis"
+      ],
+      "answer": "Mean"
+    },
+    {
+      "question": "What is the primary focus of the final session in the course?",
+      "choices": [
+        "Interpreting analytical results and effectively communicating findings",
+        "Data collection methods and data quality",
+        "Key performance indicators and metrics",
+        "Advanced statistical analysis techniques"
+      ],
+      "answer": "Interpreting analytical results and effectively communicating findings"
+    },
+    {
+      "question": "What is the main assessment component of the course?",
+      "choices": [
+        "A comprehensive final project",
+        "A series of quizzes and exams",
+        "A research paper on data analytics in Timor-Leste",
+        "A group presentation on a chosen topic"
+      ],
+      "answer": "A comprehensive final project"
+    },
+    {
+      "question": "How does the course ensure contextual relevance to Timor-Leste?",
+      "choices": [
+        "By using examples, datasets, and practical exercises tailored to the Timorese context",
+        "By inviting guest speakers from Timorese organizations",
+        "By conducting field trips to local businesses and government agencies",
+        "By providing course materials in Tetum language"
+      ],
+      "answer": "By using examples, datasets, and practical exercises tailored to the Timorese context"
+    },
+    {
+      "question": "Which of the following is an example of a Timor-Leste-specific element in the course?",
+      "choices": [
+        "Analyzing economic indicators of Timor-Leste",
+        "Comparing data analytics practices in Timor-Leste with other Southeast Asian countries",
+        "Discussing the history of data analytics in Timor-Leste",
+        "Examining the role of international organizations in promoting data analytics in Timor-Leste"
+      ],
+      "answer": "Analyzing economic indicators of Timor-Leste"
+    },
+    {
+      "question": "What is the primary aim of the project-based learning approach in the course?",
+      "choices": [
+        "To ensure that students can immediately apply their skills to real-world scenarios in Timor-Leste",
+        "To encourage students to pursue further studies in data analytics",
+        "To prepare students for international data analytics competitions",
+        "To help students secure job opportunities in multinational corporations"
+      ],
+      "answer": "To ensure that students can immediately apply their skills to real-world scenarios in Timor-Leste"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Introduction to Bash Scripting",
+  "questions": [
+    {
+      "question": "What is a Bash script?",
+      "choices": [
+        "A series of commands written in a file to automate tasks",
+        "A type of network protocol",
+        "A graphical user interface for Linux",
+        "A command to compile C programs"
+      ],
+      "answer": "A series of commands written in a file to automate tasks"
+    },
+    {
+      "question": "What is the purpose of the shebang line (#!/bin/bash) in a Bash script?",
+      "choices": [
+        "To specify the interpreter for executing the script",
+        "To define a variable in the script",
+        "To add comments to the script",
+        "To import libraries into the script"
+      ],
+      "answer": "To specify the interpreter for executing the script"
+    },
+    {
+      "question": "Which command is used to make a Bash script executable?",
+      "choices": [
+        "chmod +x script.sh",
+        "run script.sh",
+        "execute script.sh",
+        "bash script.sh"
+      ],
+      "answer": "chmod +x script.sh"
+    },
+    {
+      "question": "How do you assign a value to a variable in a Bash script?",
+      "choices": [
+        "variable=value",
+        "var variable = value",
+        "set variable to value",
+        "define variable as value"
+      ],
+      "answer": "variable=value"
+    },
+    {
+      "question": "What is the purpose of the 'read' command in a Bash script?",
+      "choices": [
+        "To accept user input",
+        "To display output to the console",
+        "To define a function",
+        "To import a library"
+      ],
+      "answer": "To accept user input"
+    },
+    {
+      "question": "Which special variable represents all the arguments passed to a Bash script?",
+      "choices": [
+        "$@",
+        "$#",
+        "$1",
+        "$*"
+      ],
+      "answer": "$@"
+    },
+    {
+      "question": "What is the syntax for an if statement in Bash scripting?",
+      "choices": [
+        "if [[ condition ]]; then",
+        "if (condition) {",
+        "if condition then",
+        "if condition:"
+      ],
+      "answer": "if [[ condition ]]; then"
+    },
+    {
+      "question": "Which keyword is used to start a for loop in Bash scripting?",
+      "choices": [
+        "for",
+        "loop",
+        "while",
+        "do"
+      ],
+      "answer": "for"
+    },
+    {
+      "question": "How do you define a function in a Bash script?",
+      "choices": [
+        "function_name() {",
+        "def function_name():",
+        "function function_name {",
+        "create function_name()"
+      ],
+      "answer": "function_name() {"
+    },
+    {
+      "question": "What does the '&&' operator do in Bash scripting?",
+      "choices": [
+        "Executes the second command only if the first command succeeds",
+        "Executes the second command only if the first command fails",
+        "Executes both commands regardless of the success of the first command",
+        "Defines a comment in the script"
+      ],
+      "answer": "Executes the second command only if the first command succeeds"
+    }
+  ]
+}

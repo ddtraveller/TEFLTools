@@ -1,0 +1,155 @@
+{
+  "title": "Problem-Solving Techniques in Python",
+  "questions": [
+    {
+      "question": "What is the first step in the problem-solving process?",
+      "choices": [
+        "Understanding the problem",
+        "Choosing a programming language",
+        "Writing code",
+        "Debugging"
+      ],
+      "answer": "Understanding the problem"
+    },
+    {
+      "question": "What is the main benefit of breaking down a complex problem into smaller parts?",
+      "choices": [
+        "It makes the problem easier to understand and solve",
+        "It makes the code run faster",
+        "It reduces the number of lines of code needed",
+        "It eliminates the need for error handling"
+      ],
+      "answer": "It makes the problem easier to understand and solve"
+    },
+    {
+      "question": "What is the primary purpose of using functions in problem-solving?",
+      "choices": [
+        "To organize code into reusable and modular parts",
+        "To make the code more difficult to read",
+        "To increase the overall code length",
+        "To slow down the program execution"
+      ],
+      "answer": "To organize code into reusable and modular parts"
+    },
+    {
+      "question": "Which Python data structure is most suitable for storing key-value pairs?",
+      "choices": [
+        "Dictionary",
+        "List",
+        "Set",
+        "Tuple"
+      ],
+      "answer": "Dictionary"
+    },
+    {
+      "question": "What is algorithmic thinking?",
+      "choices": [
+        "The process of developing step-by-step solutions to problems",
+        "The art of writing complex and unreadable code",
+        "The practice of copying and pasting code from the internet",
+        "The technique of avoiding error handling in programs"
+      ],
+      "answer": "The process of developing step-by-step solutions to problems"
+    },
+    {
+      "question": "Which Python keyword is used to start a loop that iterates over a sequence?",
+      "choices": [
+        "for",
+        "while",
+        "iterate",
+        "loop"
+      ],
+      "answer": "for"
+    },
+    {
+      "question": "What is the purpose of a try-except block in Python?",
+      "choices": [
+        "To handle exceptions and prevent the program from crashing",
+        "To improve the performance of the program",
+        "To make the code more difficult to understand",
+        "To create infinite loops intentionally"
+      ],
+      "answer": "To handle exceptions and prevent the program from crashing"
+    },
+    {
+      "question": "What is the main advantage of using a debugger tool?",
+      "choices": [
+        "It allows you to step through the code and inspect variables",
+        "It automatically fixes all the bugs in your code",
+        "It makes your code run faster",
+        "It eliminates the need for error handling"
+      ],
+      "answer": "It allows you to step through the code and inspect variables"
+    },
+    {
+      "question": "Which of the following is an example of a problem-solving technique?",
+      "choices": [
+        "Decomposition",
+        "Procrastination",
+        "Obfuscation",
+        "Randomization"
+      ],
+      "answer": "Decomposition"
+    },
+    {
+      "question": "What is the purpose of list comprehensions in Python?",
+      "choices": [
+        "To create new lists based on existing lists in a concise way",
+        "To make the code more difficult to read",
+        "To slow down the program execution",
+        "To handle exceptions and errors"
+      ],
+      "answer": "To create new lists based on existing lists in a concise way"
+    },
+    {
+      "question": "Which of the following is NOT a requirement for the final project?",
+      "choices": [
+        "Using a graphical user interface (GUI)",
+        "Choosing a complex problem relevant to Timor-Leste",
+        "Applying problem-solving techniques learned in class",
+        "Writing a report explaining the problem-solving approach"
+      ],
+      "answer": "Using a graphical user interface (GUI)"
+    },
+    {
+      "question": "What is the purpose of the 'raise' keyword in Python?",
+      "choices": [
+        "To explicitly raise an exception",
+        "To catch and handle exceptions",
+        "To define a new function",
+        "To import a module"
+      ],
+      "answer": "To explicitly raise an exception"
+    },
+    {
+      "question": "Which of the following is a common debugging technique?",
+      "choices": [
+        "Using print statements to output variable values",
+        "Randomly changing parts of the code",
+        "Ignoring error messages and exceptions",
+        "Deleting the entire codebase and starting from scratch"
+      ],
+      "answer": "Using print statements to output variable values"
+    },
+    {
+      "question": "What is the main benefit of using a set data structure in Python?",
+      "choices": [
+        "It stores unique elements and provides fast membership testing",
+        "It maintains the order of elements as they were inserted",
+        "It allows duplicate elements",
+        "It is a mutable data structure"
+      ],
+      "answer": "It stores unique elements and provides fast membership testing"
+    },
+    {
+      "question": "Which of the following is an example of a real-world dataset that could be used for problem-solving in the context of Timor-Leste?",
+      "choices": [
+        "Agricultural production data",
+        "Movie ratings from Hollywood",
+        "Social media trends in the United States",
+        "Stock market data from Wall Street"
+      ],
+      "answer": "Agricultural production data"
+    }
+  ]
+}

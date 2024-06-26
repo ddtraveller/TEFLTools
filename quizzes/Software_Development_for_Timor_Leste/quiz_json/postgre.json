@@ -1,0 +1,105 @@
+{
+  "title": "PostgreSQL Basics",
+  "questions": [
+    {
+      "question": "What is the command to list all databases in PostgreSQL?",
+      "choices": [
+        "\\l",
+        "\\db",
+        "\\d",
+        "\\dt"
+      ],
+      "answer": "\\l"
+    },
+    {
+      "question": "Which command is used to connect to a specific database in psql?",
+      "choices": [
+        "\\c database_name",
+        "\\connect database_name",
+        "\\use database_name",
+        "\\db database_name"
+      ],
+      "answer": "\\c database_name"
+    },
+    {
+      "question": "What is the PostgreSQL data type for storing variable-length character strings?",
+      "choices": [
+        "VARCHAR",
+        "STRING",
+        "TEXT",
+        "CHAR"
+      ],
+      "answer": "VARCHAR"
+    },
+    {
+      "question": "Which data type is used for storing date and time values in PostgreSQL?",
+      "choices": [
+        "TIMESTAMP",
+        "DATETIME",
+        "DATE",
+        "TIME"
+      ],
+      "answer": "TIMESTAMP"
+    },
+    {
+      "question": "What is the purpose of the SERIAL data type in PostgreSQL?",
+      "choices": [
+        "To generate auto-incrementing integer values",
+        "To store fixed-length character strings",
+        "To represent monetary values",
+        "To handle large binary data"
+      ],
+      "answer": "To generate auto-incrementing integer values"
+    },
+    {
+      "question": "Which SQL statement is used to create a new database in PostgreSQL?",
+      "choices": [
+        "CREATE DATABASE database_name;",
+        "NEW DATABASE database_name;",
+        "MAKE DATABASE database_name;",
+        "CREATE DB database_name;"
+      ],
+      "answer": "CREATE DATABASE database_name;"
+    },
+    {
+      "question": "What is the purpose of the UNIQUE constraint in a PostgreSQL table?",
+      "choices": [
+        "To ensure that each value in a column is unique",
+        "To define a primary key for the table",
+        "To establish a foreign key relationship",
+        "To specify that a column cannot contain null values"
+      ],
+      "answer": "To ensure that each value in a column is unique"
+    },
+    {
+      "question": "Which SQL statement is used to modify existing data in a PostgreSQL table?",
+      "choices": [
+        "UPDATE",
+        "MODIFY",
+        "CHANGE",
+        "ALTER"
+      ],
+      "answer": "UPDATE"
+    },
+    {
+      "question": "What is the purpose of the WHERE clause in an SQL statement?",
+      "choices": [
+        "To filter records based on a specified condition",
+        "To sort the result set in a specific order",
+        "To join multiple tables together",
+        "To calculate aggregate values"
+      ],
+      "answer": "To filter records based on a specified condition"
+    },
+    {
+      "question": "Which operator is used in PostgreSQL for pattern matching in a WHERE clause?",
+      "choices": [
+        "LIKE",
+        "MATCH",
+        "CONTAINS",
+        "SIMILAR"
+      ],
+      "answer": "LIKE"
+    }
+  ]
+}

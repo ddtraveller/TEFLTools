@@ -1,0 +1,105 @@
+{
+  "title": "SQL Fundamentals",
+  "questions": [
+    {
+      "question": "What does SQL stand for?",
+      "choices": [
+        "Structured Query Language",
+        "System Query Logic",
+        "Simple Question Logic",
+        "Structured Question Language"
+      ],
+      "answer": "Structured Query Language"
+    },
+    {
+      "question": "What is the purpose of SQL?",
+      "choices": [
+        "To manage and query relational databases",
+        "To design user interfaces for web applications",
+        "To create machine learning models",
+        "To develop mobile applications"
+      ],
+      "answer": "To manage and query relational databases"
+    },
+    {
+      "question": "Which SQL statement is used to create a new table?",
+      "choices": [
+        "CREATE TABLE",
+        "MAKE TABLE",
+        "NEW TABLE",
+        "GENERATE TABLE"
+      ],
+      "answer": "CREATE TABLE"
+    },
+    {
+      "question": "What is the purpose of the PRIMARY KEY constraint?",
+      "choices": [
+        "To uniquely identify each record in a table",
+        "To establish a relationship between two tables",
+        "To sort the records in a specific order",
+        "To limit the size of the table"
+      ],
+      "answer": "To uniquely identify each record in a table"
+    },
+    {
+      "question": "Which SQL statement is used to insert new records into a table?",
+      "choices": [
+        "INSERT INTO",
+        "ADD RECORD",
+        "INSERT NEW",
+        "CREATE RECORD"
+      ],
+      "answer": "INSERT INTO"
+    },
+    {
+      "question": "What is the purpose of the SELECT statement?",
+      "choices": [
+        "To retrieve data from one or more tables",
+        "To modify existing records in a table",
+        "To delete records from a table",
+        "To create a new index on a table"
+      ],
+      "answer": "To retrieve data from one or more tables"
+    },
+    {
+      "question": "Which SQL clause is used to filter records based on a specific condition?",
+      "choices": [
+        "WHERE",
+        "FILTER",
+        "HAVING",
+        "SEARCH"
+      ],
+      "answer": "WHERE"
+    },
+    {
+      "question": "What is the purpose of the ORDER BY clause?",
+      "choices": [
+        "To sort the result set in ascending or descending order",
+        "To limit the number of records returned",
+        "To group records based on a specific column",
+        "To calculate aggregate values"
+      ],
+      "answer": "To sort the result set in ascending or descending order"
+    },
+    {
+      "question": "Which SQL keyword is used to join two or more tables based on a related column?",
+      "choices": [
+        "JOIN",
+        "CONNECT",
+        "LINK",
+        "MERGE"
+      ],
+      "answer": "JOIN"
+    },
+    {
+      "question": "What is the main focus of the hands-on activity in this lesson?",
+      "choices": [
+        "Writing SQL queries to retrieve and filter data",
+        "Designing complex database schemas",
+        "Optimizing database performance",
+        "Creating user interfaces for database applications"
+      ],
+      "answer": "Writing SQL queries to retrieve and filter data"
+    }
+  ]
+}

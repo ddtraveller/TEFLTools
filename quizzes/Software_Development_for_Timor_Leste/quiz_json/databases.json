@@ -1,0 +1,105 @@
+{
+  "title": "Introduction to Relational Databases",
+  "questions": [
+    {
+      "question": "What is a database?",
+      "choices": [
+        "A collection of persistent data",
+        "A programming language for web development",
+        "An operating system for mobile devices",
+        "A type of computer hardware"
+      ],
+      "answer": "A collection of persistent data"
+    },
+    {
+      "question": "What does DBMS stand for?",
+      "choices": [
+        "Database Management System",
+        "Data Backup and Migration Service",
+        "Dynamic Business Modeling Software",
+        "Digital Broadcast Media System"
+      ],
+      "answer": "Database Management System"
+    },
+    {
+      "question": "What is a relational database?",
+      "choices": [
+        "A database that organizes data into tables with relationships between them",
+        "A database that stores data in a hierarchical structure",
+        "A database that uses graph theory to represent data",
+        "A database that stores data in a single large file"
+      ],
+      "answer": "A database that organizes data into tables with relationships between them"
+    },
+    {
+      "question": "What is a row in a database table also known as?",
+      "choices": [
+        "Tuple",
+        "Attribute",
+        "Relation",
+        "Schema"
+      ],
+      "answer": "Tuple"
+    },
+    {
+      "question": "What is a column in a database table also known as?",
+      "choices": [
+        "Attribute",
+        "Tuple",
+        "Relation",
+        "Schema"
+      ],
+      "answer": "Attribute"
+    },
+    {
+      "question": "What is the purpose of a primary key in a database table?",
+      "choices": [
+        "To uniquely identify each row in the table",
+        "To establish a relationship with another table",
+        "To define the data type of a column",
+        "To sort the rows in a specific order"
+      ],
+      "answer": "To uniquely identify each row in the table"
+    },
+    {
+      "question": "What is a foreign key in a database table?",
+      "choices": [
+        "A field that refers to the primary key in another table",
+        "A field that stores encrypted data",
+        "A field that contains only unique values",
+        "A field that represents a calculated value"
+      ],
+      "answer": "A field that refers to the primary key in another table"
+    },
+    {
+      "question": "What does an Entity-Relationship (ER) diagram represent?",
+      "choices": [
+        "The structure and relationships of a database",
+        "The flow of data between different systems",
+        "The user interface of a database application",
+        "The performance metrics of a database"
+      ],
+      "answer": "The structure and relationships of a database"
+    },
+    {
+      "question": "What is the recommended textbook for this course?",
+      "choices": [
+        "PostgresSQL 10 Administrator's Cookbook",
+        "Java Programming for Beginners",
+        "Data Structures and Algorithms in Python",
+        "Web Development with Ruby on Rails"
+      ],
+      "answer": "PostgresSQL 10 Administrator's Cookbook"
+    },
+    {
+      "question": "What is the purpose of the hands-on activity in this lesson?",
+      "choices": [
+        "To practice designing a simple database structure",
+        "To learn how to write SQL queries",
+        "To install and configure a DBMS",
+        "To optimize database performance"
+      ],
+      "answer": "To practice designing a simple database structure"
+    }
+  ]
+}
