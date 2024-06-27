@@ -1,0 +1,43 @@
+{
+    "class": "Warlock",
+    "element": "Water",
+    "archetype": "Fiend Pact",
+    "attributes": {
+        "Strength": 18,
+        "Dexterity": 11,
+        "Constitution": 18,
+        "Intelligence": 14,
+        "Wisdom": 9,
+        "Charisma": 19
+    },
+    "main_weapon": "Dagger",
+    "equipment": [
+        "Dagger",
+        "Waterskin",
+        "Backpack",
+        "Bedroll"
+    ],
+    "spells": [
+        {
+            "name": "Healing Word",
+            "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier."
+        },
+        {
+            "name": "Fireball",
+            "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
+        },
+        {
+            "name": "Detect Magic",
+            "description": "For the duration, you sense the presence of magic within 30 feet of you."
+        }
+    ],
+    "background_story": "Yax was born in a small fishing village nestled along the misty shores of the Whispering Coast. From a young age, he was drawn to the water, spending countless hours exploring tide pools and listening to the haunting melodies of the sea. His parents, simple fisherfolk, worried about their son's obsession with the ocean's depths, for they knew all too well the dangers that lurked beneath the waves.\n\nAs Yax grew older, his fascination with water only intensified. He would often sneak out at night to swim in the moonlit sea, feeling a strange connection to the ebb and flow of the tides. Little did he know that his nightly excursions had caught the attention of something ancient and terrible.\n\nOn his eighteenth birthday, Yax ventured further into the ocean than ever before. As he swam, he felt a sudden pull dragging him down into the inky blackness. Panic set in as he realized he couldn't breathe, couldn't fight against the force drawing him deeper. Just as his consciousness began to fade, he found himself in an otherworldly cavern, face to face with a monstrous being \u2013 a fiend of the deep, an ancient horror that had slumbered beneath the waves for millennia.\n\nThe creature, calling itself Abyssal Maw, offered Yax a choice: drown and become another lost soul in its collection, or pledge his service in exchange for power and the ability to breathe underwater. Desperate and terrified, Yax agreed to the pact, sealing his fate with a blood oath.\n\nFrom that day forward, Yax's life changed dramatically. He discovered he could manipulate water with a mere thought, and strange, eldritch energies coursed through his veins. His village, once a haven, now felt suffocating. The whispers of his neighbors, who sensed something had changed in the young man, drove him to isolation.\n\nGuided by visions sent by his patron, Yax left his home behind, armed only with a dagger gifted to him by his father. He set out into the world, seeking to fulfill the dark desires of Abyssal Maw while struggling to maintain his own humanity. His journey led him through treacherous swamps and mist-",
+    "movement_speed": 25,
+    "name": "Yax",
+    "gender": "male",
+    "hit_points": 14,
+    "max_hit_points": 14,
+    "level": 1,
+    "purchased_items": [],
+    "remaining_money": 230
+}

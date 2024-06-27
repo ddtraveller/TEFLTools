@@ -38,7 +38,7 @@ def get_nearby_locations(locations, current_location, movement_speed):
     nearby_locations = []
     
     for _, location in locations.iterrows():
-        if location['name'] != current_location['name']:  # This condition should work now
+        if location['name'] != current_location['name']:
             distance = haversine(current_location['latitude'], current_location['longitude'],
                                  location['latitude'], location['longitude'],
                                  current_location['elevation'], location['elevation'])
@@ -85,7 +85,7 @@ def navigate(locations, current_location, movement_speed):
     print("Invalid choice. Please try again.")
     return current_location
 
-def start_navigation(file_path, movement_speed):
+def start_navigation(file_path, movement_speed, character_data):
     """
     Start the navigation system
     """
@@ -97,9 +97,13 @@ def start_navigation(file_path, movement_speed):
         
         if current_location is None:
             break
-
-# This block will not run when the module is imported
-if __name__ == "__main__":
-    file_path = 'Locations.csv'
-    movement_speed = 50  # Adjust this value based on the character's movement speed
-    start_navigation(file_path, movement_speed)
+        
+        # Here you might want to add a chance for an encounter
+        if random.random() < 0.5:  # 50% chance for an encounter
+            from begin_game import encounter, select_initial_encounter  # Import here to avoid circular import
+            monster_data, _ = select_initial_encounter()
+            victory = encounter(character_data, monster_data, current_location['name'], file_path, movement_speed)
+            if victory:
+                print("You were victorious! You continue your exploration.")
+            else:
+                print("You retreat from the encounter and rest for a while.")

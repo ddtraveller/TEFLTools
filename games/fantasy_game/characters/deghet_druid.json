@@ -1,0 +1,51 @@
+{
+    "class": "Druid",
+    "element": "Water",
+    "archetype": "Circle of the Land",
+    "attributes": {
+        "Strength": 14,
+        "Dexterity": 15,
+        "Constitution": 12,
+        "Intelligence": 10,
+        "Wisdom": 15,
+        "Charisma": 11
+    },
+    "main_weapon": "Sickle",
+    "equipment": [
+        "Sickle",
+        "Waterskin",
+        "Bedroll",
+        "Torches (10)"
+    ],
+    "spells": [
+        {
+            "name": "Fireball",
+            "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
+        },
+        {
+            "name": "Shield",
+            "description": "An invisible barrier of magical force appears and protects you."
+        },
+        {
+            "name": "Healing Word",
+            "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier."
+        },
+        {
+            "name": "Magic Missile",
+            "description": "You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range."
+        },
+        {
+            "name": "Detect Magic",
+            "description": "For the duration, you sense the presence of magic within 30 feet of you."
+        }
+    ],
+    "background_story": "Deghet's story begins in the remote coastal village of Mistwater, a place where the boundary between land and sea blurs amidst perpetual fog. Born to a family of fishermen, Deghet's early years were spent learning the ways of the water, but he always felt a deeper connection to the element than his peers.\n\nAs a child, Deghet often wandered to the edge of the nearby Whispering Marsh, fascinated by the interplay of fresh and saltwater. It was here, on his tenth birthday, that his life changed forever. Lost in the mist, he stumbled upon an ancient stone circle half-submerged in the swamp. As he touched the weathered stones, he felt a surge of primal energy course through him, awakening latent druidic powers.\n\nThis awakening, however, came at a terrible price. That night, as Deghet slept, a nightmarish creature born of local legends emerged from the depths of the marsh. The Mistweaver, a shapeshifting demon that fed on the dreams of the innocent, sensed Deghet's newfound connection to the natural world and sought to corrupt it.\n\nThe creature invaded Deghet's home, slaughtering his family while he watched, paralyzed by dark magic. Just as the Mistweaver reached for Deghet, a group of druids from the Circle of the Land arrived, drawn by the disturbance in the natural order. They managed to drive the creature back into the marsh, but not before it left a lasting mark on Deghet's psyche.\n\nOrphaned and traumatized, Deghet was taken in by the druids. They recognized his potential and began training him in their ways, teaching him to harness the power of water and to defend against the dark forces that threatened the land. Deghet threw himself into his studies, driven by a desire to protect others from suffering the same fate as his family.\n\nAs he grew, Deghet became known for his skill with the sickle, an implement he used both for harvesting sacred herbs and as a weapon against the monsters that plagued the realm. He learned to bend water to his will, using it to heal, to travel, and to combat the forces of darkness.\n\nNow, as a full-fledged",
+    "movement_speed": 34,
+    "name": "Deghet",
+    "gender": "male",
+    "hit_points": 11,
+    "max_hit_points": 11,
+    "level": 1,
+    "purchased_items": [],
+    "remaining_money": 35
+}

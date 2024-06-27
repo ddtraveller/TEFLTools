@@ -1,0 +1,30 @@
+{
+    "class": "Barbarian",
+    "element": "Water",
+    "archetype": "Storm Herald",
+    "attributes": {
+        "Strength": 10,
+        "Dexterity": 18,
+        "Constitution": 13,
+        "Intelligence": 9,
+        "Wisdom": 16,
+        "Charisma": 13
+    },
+    "main_weapon": "Maul",
+    "equipment": [
+        "Maul",
+        "Rope (50 feet)",
+        "Backpack",
+        "Rations (1 week)"
+    ],
+    "spells": [],
+    "background_story": "Giles, the Storm Herald Barbarian, was born in a small coastal village nestled between the misty forests and the treacherous swamps of the realm. From a young age, he was different from the other children \u2013 quieter, more observant, and with an uncanny connection to the water and storms that frequently battered their shores.\n\nAs a child, Giles often wandered to the edge of the swamps, drawn by an inexplicable force. It was there, on his tenth birthday, that he encountered a vengeful water spirit. Instead of harming him, the spirit recognized something in Giles \u2013 a latent power that resonated with the elemental forces of water and storm. The spirit bestowed upon him a fraction of its power, marking Giles as a conduit for the raw energy of nature.\n\nThis encounter changed Giles forever. He became more withdrawn, spending hours staring at the sea or standing in the rain, feeling the power surge through him. His parents, worried about his strange behavior, sought help from the village elders. But none could explain the boy's newfound abilities or the faint, shimmering tattoos that appeared on his skin during storms.\n\nAs Giles grew older, he struggled to control his powers. During moments of anger or fear, he would inadvertently summon small squalls or cause water to behave erratically. The villagers, once friendly, began to fear him. Whispers of \"cursed\" and \"demon-touched\" followed him wherever he went.\n\nOn his eighteenth birthday, a massive storm hit the village. As the waves threatened to destroy their homes, Giles stood on the shore, arms outstretched. To everyone's amazement, he seemed to be holding back the tide, his body crackling with electric energy. But the effort was too much for his untrained abilities. As he collapsed, a massive wave crashed over the village, destroying much in its path.\n\nBlamed for the destruction and fearing for his life, Giles fled into the misty forests. There, he encountered a group of barbarians known as the Storm Walkers. Recognizing his potential, they took him in, teaching him to harness his rage and channel it into his elemental powers.\n\nFor years, Giles trained with the Storm",
+    "movement_speed": 32,
+    "name": "Giles",
+    "gender": "Male",
+    "hit_points": 11,
+    "max_hit_points": 11,
+    "level": 1,
+    "purchased_items": [],
+    "remaining_money": 10
+}

@@ -1,0 +1,43 @@
+{
+    "class": "Warlock",
+    "element": "Water",
+    "archetype": "Archfey Pact",
+    "attributes": {
+        "Strength": 14,
+        "Dexterity": 11,
+        "Constitution": 18,
+        "Intelligence": 11,
+        "Wisdom": 9,
+        "Charisma": 18
+    },
+    "main_weapon": "Rod",
+    "equipment": [
+        "Rod",
+        "Bedroll",
+        "Tinderbox",
+        "Torches (10)"
+    ],
+    "spells": [
+        {
+            "name": "Healing Word",
+            "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier."
+        },
+        {
+            "name": "Fireball",
+            "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
+        },
+        {
+            "name": "Shield",
+            "description": "An invisible barrier of magical force appears and protects you."
+        }
+    ],
+    "background_story": "Selvin's tale begins in the mist-shrouded coastal village of Saltmarsh, where the boundary between land and sea blurs like a watercolor painting. Born to a family of fishermen, Selvin's early years were filled with the rhythm of crashing waves and the eerie calls of seabirds. However, unlike his kin who found solace in the predictable tides, Selvin was drawn to the mysteries that lurked beneath the surface.\n\nAs a young man, Selvin's charismatic nature and robust constitution made him popular among the villagers, but his lack of wisdom often led him into trouble. One fateful night, ignoring the warnings of the village elders, Selvin ventured out to a notorious cove said to be haunted by malevolent spirits. Armed with nothing but his bedroll, tinderbox, and a handful of torches, he set out to prove his bravery.\n\nLittle did he know that this act of youthful defiance would change his life forever. As he reached the cove, the mist thickened, and the air grew heavy with an otherworldly presence. From the depths of the water emerged a being of breathtaking beauty and terrifying power - an Archfey of the sea, known as the Lady of Tides.\n\nEnthralled by her ethereal beauty and drawn by her siren-like voice, Selvin found himself wading into the water. The Lady of Tides, amused by his audacity and attracted to his charismatic aura, offered him a pact. In exchange for power beyond his wildest dreams, Selvin would become her emissary in the mortal realm, tasked with protecting the delicate balance between the material world and the Feywild.\n\nOverwhelmed by the Archfey's presence and seduced by the promise of arcane might, Selvin agreed. The pact was sealed with a kiss that burned like ice, infusing Selvin with eldritch energy that coursed through his veins like liquid starlight.\n\nWhen he awoke on the shore the next morning, Selvin found a rod of driftwood in his hand, humming with arcane energy. He knew instinctively that this was no ordinary piece",
+    "movement_speed": 34,
+    "name": "Selvin",
+    "gender": "male",
+    "hit_points": 14,
+    "max_hit_points": 14,
+    "level": 1,
+    "purchased_items": [],
+    "remaining_money": 154
+}

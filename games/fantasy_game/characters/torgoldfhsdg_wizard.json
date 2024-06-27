@@ -1,0 +1,43 @@
+{
+    "class": "Wizard",
+    "element": "Water",
+    "archetype": "Evoker",
+    "attributes": {
+        "Strength": 9,
+        "Dexterity": 11,
+        "Constitution": 8,
+        "Intelligence": 14,
+        "Wisdom": 12,
+        "Charisma": 12
+    },
+    "main_weapon": "Quarterstaff",
+    "equipment": [
+        "Quarterstaff",
+        "Rations (1 week)",
+        "Rope (50 feet)",
+        "Torches (10)"
+    ],
+    "spells": [
+        {
+            "name": "Magic Missile",
+            "description": "You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range."
+        },
+        {
+            "name": "Detect Magic",
+            "description": "For the duration, you sense the presence of magic within 30 feet of you."
+        },
+        {
+            "name": "Healing Word",
+            "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier."
+        }
+    ],
+    "background_story": "Torgoldfhsdg, a male wizard specializing in water evocation, was born in a small coastal village nestled between the misty forests and treacherous swamps of the realm. From a young age, he was fascinated by the ebb and flow of the tides and the raw power of the ocean. His parents, simple fisherfolk, noticed his unusual affinity for water and sought guidance from the village elder.\n\nThe elder recognized Torgoldfhsdg's potential and revealed a long-held secret: their village was founded by refugees fleeing the wrath of an ancient water spirit known as the Maelstrom. This entity, once worshipped as a deity, had been angered by the people's neglect and now threatened to destroy coastal settlements with its fury.\n\nDetermined to protect his home and unravel the mysteries of water magic, Torgoldfhsdg left his village at the age of 12 to study under a reclusive wizard who lived in a tower at the edge of the swamps. The journey was perilous, filled with encounters with shapeshifting demons that lurked in the mists and vengeful spirits that haunted the marshes.\n\nFor years, Torgoldfhsdg dedicated himself to his studies, focusing on evocation magic tied to water. His physical attributes were never impressive, but his intelligence and determination drove him forward. He learned to channel the raw power of water through his quarterstaff, using it as both a weapon and a focus for his spells.\n\nAs he grew in power, Torgoldfhsdg began to hear whispers of the Maelstrom's impending return. Nightmares plagued his sleep, filled with visions of his village being swallowed by monstrous waves. Realizing that his training had prepared him for this moment, he set out on a quest to confront the ancient water spirit and protect his homeland.\n\nTorgoldfhsdg now travels the dangerous lands, seeking allies and knowledge to aid him in his mission. He carries with him the essentials for survival: rations for a week, rope for traversing treacherous terrain, and torches to light his way through dark and misty places. His quarterstaff, carved with intricate water runes",
+    "movement_speed": 27,
+    "name": "Torgoldfhsdg",
+    "gender": "male",
+    "hit_points": 9,
+    "max_hit_points": 9,
+    "level": 1,
+    "purchased_items": [],
+    "remaining_money": 716
+}

@@ -1,0 +1,30 @@
+{
+    "class": "Rogue",
+    "element": "Water",
+    "archetype": "Assassin",
+    "attributes": {
+        "Strength": 13,
+        "Dexterity": 17,
+        "Constitution": 15,
+        "Intelligence": 15,
+        "Wisdom": 9,
+        "Charisma": 11
+    },
+    "main_weapon": "Shortsword",
+    "equipment": [
+        "Shortsword",
+        "Torches (10)",
+        "Rope (50 feet)",
+        "Backpack"
+    ],
+    "spells": [],
+    "background_story": "Elvin's tale begins in the mist-shrouded coastal village of Shadowmere, a place where the veil between the mortal realm and the spirit world is thin. Born to a family of fishermen, Elvin's early years were spent learning the ways of the sea and the secrets of the tides. His natural affinity for water was evident from a young age, as he seemed to move through the waves with an almost supernatural grace.\n\nHowever, Shadowmere harbored dark secrets beneath its quaint facade. The village elders had long maintained a pact with a powerful water demon that dwelled in the depths offshore, offering sacrifices in exchange for bountiful catches and protection from storms. When Elvin was just twelve, he discovered the truth behind his village's prosperity when he witnessed the elders preparing his best friend as the next sacrifice.\n\nHorrified and desperate to save his friend, Elvin attempted to intervene but was caught. The elders, fearing he would expose their secret, decided to offer both children to the demon. On the night of the ritual, as they were being led to the shore, a violent storm erupted. In the chaos, Elvin managed to free himself and his friend, but in their escape attempt, his friend was swept away by the raging waves.\n\nGuilt-ridden and alone, Elvin fled Shadowmere, stowing away on a merchant ship bound for the mainland. For years, he drifted from port to port, surviving by his wits and developing a talent for stealth and subterfuge. He learned to blend into crowds, pick locks, and wield a blade with deadly precision. His natural connection to water proved invaluable, allowing him to move silently through rain-soaked alleys and navigate treacherous swamps with ease.\n\nAs he grew older, Elvin's skills caught the attention of the Nightwave Brotherhood, a secretive guild of assassins who specialized in eliminating threats to coastal communities. Recognizing his potential, they took him in and honed his abilities, teaching him the art of silent killing and the use of water-based poisons.\n\nFor a time, Elvin found purpose with the Brotherhood, convincing himself that his actions served a greater good. He became known as the \"Tide's Whisper",
+    "movement_speed": 30,
+    "name": "Elvin",
+    "gender": "male",
+    "hit_points": 12,
+    "max_hit_points": 12,
+    "level": 1,
+    "purchased_items": [],
+    "remaining_money": 128
+}
