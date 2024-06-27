@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Generative AI Quiz",
+  "questions": [
+    {
+      "question": "What is generative AI?",
+      "choices": [
+        "AI systems that can create new content or data",
+        "AI systems that only classify existing data",
+        "AI systems that operate robots",
+        "AI systems that predict stock prices"
+      ],
+      "answer": "AI systems that can create new content or data"
+    },
+    {
+      "question": "How does generative AI differ from discriminative AI?",
+      "choices": [
+        "Generative AI creates new data, while discriminative AI classifies existing data",
+        "Generative AI is faster than discriminative AI",
+        "Generative AI requires less training data",
+        "Generative AI is always more accurate"
+      ],
+      "answer": "Generative AI creates new data, while discriminative AI classifies existing data"
+    },
+    {
+      "question": "Which of the following is NOT a common architecture used in generative AI?",
+      "choices": [
+        "Decision Trees",
+        "Generative Adversarial Networks (GANs)",
+        "Variational Autoencoders (VAEs)",
+        "Transformers"
+      ],
+      "answer": "Decision Trees"
+    },
+    {
+      "question": "What is a large language model (LLM)?",
+      "choices": [
+        "A type of AI model trained on vast amounts of text data to generate human-like text",
+        "A physical model of a large language dictionary",
+        "A database of all known languages",
+        "A tool for translating between multiple languages"
+      ],
+      "answer": "A type of AI model trained on vast amounts of text data to generate human-like text"
+    },
+    {
+      "question": "Which of the following is NOT a typical application of generative AI?",
+      "choices": [
+        "Traffic light control",
+        "Text generation",
+        "Image synthesis",
+        "Music composition"
+      ],
+      "answer": "Traffic light control"
+    },
+    {
+      "question": "What is 'latent space' in the context of generative AI?",
+      "choices": [
+        "A compressed representation of input data in a lower-dimensional space",
+        "The physical space where AI models are stored",
+        "The time delay between input and output in AI systems",
+        "The space of all possible outputs of a generative model"
+      ],
+      "answer": "A compressed representation of input data in a lower-dimensional space"
+    },
+    {
+      "question": "What is a 'deepfake'?",
+      "choices": [
+        "Synthetic media where a person's likeness is replaced with someone else's",
+        "A very deep neural network",
+        "A type of encryption used in AI",
+        "A method for detecting fake news"
+      ],
+      "answer": "Synthetic media where a person's likeness is replaced with someone else's"
+    },
+    {
+      "question": "Which ethical concern is NOT typically associated with generative AI?",
+      "choices": [
+        "Increased energy consumption",
+        "Creation of misleading or false information",
+        "Copyright infringement",
+        "Bias in generated content"
+      ],
+      "answer": "Increased energy consumption"
+    },
+    {
+      "question": "What is 'prompt engineering' in the context of generative AI?",
+      "choices": [
+        "The practice of crafting effective input prompts to guide AI output",
+        "A method for engineering more powerful AI hardware",
+        "The process of training AI models",
+        "A technique for compressing AI models"
+      ],
+      "answer": "The practice of crafting effective input prompts to guide AI output"
+    },
+    {
+      "question": "Which of the following is a potential positive impact of generative AI?",
+      "choices": [
+        "Enhancing human creativity and productivity",
+        "Eliminating the need for human artists",
+        "Reducing the diversity of content on the internet",
+        "Increasing the cost of content creation"
+      ],
+      "answer": "Enhancing human creativity and productivity"
+    },
+    {
+      "question": "What is a GAN in the context of generative AI?",
+      "choices": [
+        "Generative Adversarial Network",
+        "Global AI Network",
+        "Guided Attention Node",
+        "Graphical Analysis Network"
+      ],
+      "answer": "Generative Adversarial Network"
+    },
+    {
+      "question": "Which of the following is NOT a common type of output for generative AI models?",
+      "choices": [
+        "Weather forecasts",
+        "Text",
+        "Images",
+        "Music"
+      ],
+      "answer": "Weather forecasts"
+    },
+    {
+      "question": "What is the primary purpose of the 'transformer' architecture in AI?",
+      "choices": [
+        "To process sequential data efficiently, especially in natural language tasks",
+        "To transform images from one style to another",
+        "To convert text to speech",
+        "To optimize power consumption in AI hardware"
+      ],
+      "answer": "To process sequential data efficiently, especially in natural language tasks"
+    },
+    {
+      "question": "Which of the following is a key challenge in training generative AI models?",
+      "choices": [
+        "Requiring large amounts of training data",
+        "Needing only a small dataset",
+        "Always producing perfect outputs",
+        "Being too slow to use in real-time applications"
+      ],
+      "answer": "Requiring large amounts of training data"
+    },
+    {
+      "question": "What is 'transfer learning' in the context of generative AI?",
+      "choices": [
+        "Using a pre-trained model as a starting point for a new task",
+        "Transferring AI models between different hardware platforms",
+        "The process of an AI transferring its knowledge to humans",
+        "Moving AI training to cloud platforms"
+      ],
+      "answer": "Using a pre-trained model as a starting point for a new task"
+    },
+    {
+      "question": "Which of the following is NOT a common application of generative AI in healthcare?",
+      "choices": [
+        "Performing surgeries autonomously",
+        "Generating synthetic medical images for training",
+        "Designing new drug molecules",
+        "Predicting protein structures"
+      ],
+      "answer": "Performing surgeries autonomously"
+    },
+    {
+      "question": "What is the main difference between supervised and unsupervised learning in generative AI?",
+      "choices": [
+        "Supervised learning requires labeled data, while unsupervised learning does not",
+        "Supervised learning is faster than unsupervised learning",
+        "Unsupervised learning always produces better results",
+        "Supervised learning is only used for image generation"
+      ],
+      "answer": "Supervised learning requires labeled data, while unsupervised learning does not"
+    },
+    {
+      "question": "Which of the following is a potential application of generative AI in software development?",
+      "choices": [
+        "Automated code generation and completion",
+        "Physical assembly of computer hardware",
+        "Manual testing of software",
+        "Designing office layouts for development teams"
+      ],
+      "answer": "Automated code generation and completion"
+    },
+    {
+      "question": "What is 'mode collapse' in the context of generative AI?",
+      "choices": [
+        "When a generative model produces only a limited variety of outputs",
+        "When an AI system completely shuts down",
+        "When the training process takes too long",
+        "When the AI model becomes too large to run on available hardware"
+      ],
+      "answer": "When a generative model produces only a limited variety of outputs"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'explainable AI' in relation to generative models?",
+      "choices": [
+        "The ability to understand and interpret how the AI makes decisions",
+        "The AI's capability to explain complex topics to humans",
+        "The process of training AI models using plain language",
+        "A method for simplifying AI architectures"
+      ],
+      "answer": "The ability to understand and interpret how the AI makes decisions"
+    },
+    {
+      "question": "What is 'few-shot learning' in the context of generative AI?",
+      "choices": [
+        "The ability to learn from a small number of examples",
+        "A technique for reducing the energy consumption of AI models",
+        "A method for generating multiple outputs simultaneously",
+        "The process of training AI models in short time intervals"
+      ],
+      "answer": "The ability to learn from a small number of examples"
+    },
+    {
+      "question": "Which of the following is NOT a common concern regarding the societal impact of generative AI?",
+      "choices": [
+        "Improvement in educational opportunities",
+        "Job displacement in creative industries",
+        "Spread of misinformation",
+        "Privacy concerns due to synthetic data generation"
+      ],
+      "answer": "Improvement in educational opportunities"
+    },
+    {
+      "question": "What is the primary goal of 'style transfer' in generative AI?",
+      "choices": [
+        "To apply the artistic style of one image to the content of another",
+        "To transfer AI models between different programming languages",
+        "To convert text from one writing style to another",
+        "To transfer learning from one AI model to another"
+      ],
+      "answer": "To apply the artistic style of one image to the content of another"
+    },
+    {
+      "question": "Which of the following best describes the 'attention mechanism' in transformer models?",
+      "choices": [
+        "A method for focusing on relevant parts of the input when generating output",
+        "A technique for keeping AI models alert during long training sessions",
+        "A system for monitoring the attention span of AI researchers",
+        "A way to attract media attention to AI breakthroughs"
+      ],
+      "answer": "A method for focusing on relevant parts of the input when generating output"
+    },
+    {
+      "question": "What is 'hallucination' in the context of generative AI?",
+      "choices": [
+        "When an AI model generates false or nonsensical information",
+        "When AI becomes self-aware",
+        "A technique for visualizing the internal states of AI models",
+        "The process of AI models dreaming while not in use"
+      ],
+      "answer": "When an AI model generates false or nonsensical information"
+    },
+    {
+      "question": "Which of the following is a key difference between GPT (Generative Pre-trained Transformer) models and traditional rule-based systems?",
+      "choices": [
+        "GPT models learn patterns from data, while rule-based systems follow predefined rules",
+        "GPT models are always more accurate than rule-based systems",
+        "Rule-based systems can generate text, while GPT models cannot",
+        "GPT models require less computational power than rule-based systems"
+      ],
+      "answer": "GPT models learn patterns from data, while rule-based systems follow predefined rules"
+    },
+    {
+      "question": "What is the main purpose of the 'discriminator' in a Generative Adversarial Network (GAN)?",
+      "choices": [
+        "To distinguish between real and generated data",
+        "To generate new data samples",
+        "To compress the input data",
+        "To translate between different languages"
+      ],
+      "answer": "To distinguish between real and generated data"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'fine-tuning' in generative AI?",
+      "choices": [
+        "Adapting a pre-trained model to a specific task or domain",
+        "Adjusting the physical components of AI hardware",
+        "The final stage of the initial training process",
+        "Manually correcting errors in AI-generated content"
+      ],
+      "answer": "Adapting a pre-trained model to a specific task or domain"
+    },
+    {
+      "question": "What is the primary challenge addressed by 'federated learning' in AI?",
+      "choices": [
+        "Training models on distributed data while preserving privacy",
+        "Combining multiple AI models into a single, more powerful model",
+        "Managing the political aspects of AI development",
+        "Coordinating AI research across different countries"
+      ],
+      "answer": "Training models on distributed data while preserving privacy"
+    },
+    {
+      "question": "Which of the following is NOT a common method for evaluating the quality of generative AI outputs?",
+      "choices": [
+        "Measuring the model's energy consumption",
+        "Human evaluation and scoring",
+        "Automated metrics (e.g., BLEU score for text)",
+        "Comparison with real data distributions"
+      ],
+      "answer": "Measuring the model's energy consumption"
+    }
+  ]
+}

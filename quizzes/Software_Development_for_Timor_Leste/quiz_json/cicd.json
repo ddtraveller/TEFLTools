@@ -1,0 +1,305 @@
+{
+  "title": "CI/CD Principles and Metrics Quiz",
+  "questions": [
+    {
+      "question": "What does CI stand for in the context of software development?",
+      "choices": [
+        "Continuous Integration",
+        "Compiled Interface",
+        "Computer Instruction",
+        "Code Implementation"
+      ],
+      "answer": "Continuous Integration"
+    },
+    {
+      "question": "What does CD commonly stand for in software development practices?",
+      "choices": [
+        "Continuous Delivery and Continuous Deployment",
+        "Code Development",
+        "Compiled Distribution",
+        "Computer Debugging"
+      ],
+      "answer": "Continuous Delivery and Continuous Deployment"
+    },
+    {
+      "question": "Which of the following is NOT a primary benefit of implementing CI/CD?",
+      "choices": [
+        "Increased development costs",
+        "Faster time to market",
+        "Improved code quality",
+        "Reduced risk in software releases"
+      ],
+      "answer": "Increased development costs"
+    },
+    {
+      "question": "What is the main goal of Continuous Integration?",
+      "choices": [
+        "To integrate code changes frequently and automatically detect issues",
+        "To deploy code to production as quickly as possible",
+        "To completely eliminate manual testing",
+        "To replace human developers with automated systems"
+      ],
+      "answer": "To integrate code changes frequently and automatically detect issues"
+    },
+    {
+      "question": "Which CI/CD principle emphasizes storing all project-related files in a version control system?",
+      "choices": [
+        "Version control everything",
+        "Automate everything",
+        "Build once, deploy many times",
+        "Make the build status highly visible"
+      ],
+      "answer": "Version control everything"
+    },
+    {
+      "question": "What does the principle 'Build once, deploy many times' mean?",
+      "choices": [
+        "Create a single build artifact and use it across different environments",
+        "Rebuild the application for each deployment",
+        "Deploy the same code multiple times to the same environment",
+        "Build the application on multiple machines simultaneously"
+      ],
+      "answer": "Create a single build artifact and use it across different environments"
+    },
+    {
+      "question": "What is a 'smoke test' in the context of CI/CD?",
+      "choices": [
+        "A quick test to check if the basic functionality of the application works after deployment",
+        "A test to check if the servers are overheating",
+        "A security scan for potential vulnerabilities",
+        "A performance test under heavy load"
+      ],
+      "answer": "A quick test to check if the basic functionality of the application works after deployment"
+    },
+    {
+      "question": "What does 'Stop the line when the build breaks' mean in CI/CD?",
+      "choices": [
+        "Halt further development and fix the issue immediately when a build fails",
+        "Shut down the production servers when a critical bug is found",
+        "Stop the deployment pipeline permanently if any test fails",
+        "Pause the development team's work until the next sprint"
+      ],
+      "answer": "Halt further development and fix the issue immediately when a build fails"
+    },
+    {
+      "question": "Which development practice is often embraced in CI/CD to simplify integration?",
+      "choices": [
+        "Trunk-based development",
+        "Long-lived feature branches",
+        "Waterfall methodology",
+        "Big bang integration"
+      ],
+      "answer": "Trunk-based development"
+    },
+    {
+      "question": "What is 'deployment frequency' a measure of in CI/CD metrics?",
+      "choices": [
+        "How often an organization successfully releases to production",
+        "How many times a day developers commit code",
+        "The number of failed deployments in a given time period",
+        "The time it takes to deploy a single change"
+      ],
+      "answer": "How often an organization successfully releases to production"
+    },
+    {
+      "question": "What does 'lead time for changes' measure?",
+      "choices": [
+        "The time it takes for a commit to get into production",
+        "The time it takes to write a new feature",
+        "The time between deployments",
+        "The time it takes to run all automated tests"
+      ],
+      "answer": "The time it takes for a commit to get into production"
+    },
+    {
+      "question": "What does MTTR stand for in the context of CI/CD metrics?",
+      "choices": [
+        "Mean Time To Recovery",
+        "Maximum Time To Release",
+        "Minimum Threshold To Run",
+        "Mean Time To Respond"
+      ],
+      "answer": "Mean Time To Recovery"
+    },
+    {
+      "question": "What does the 'change failure rate' metric measure?",
+      "choices": [
+        "The percentage of deployments causing a failure in production",
+        "The number of changes made to the codebase daily",
+        "The rate at which new features are added to the product",
+        "The percentage of failed builds in the CI pipeline"
+      ],
+      "answer": "The percentage of deployments causing a failure in production"
+    },
+    {
+      "question": "What does 'cycle time' typically measure in software development?",
+      "choices": [
+        "The time from starting work on a change to its delivery",
+        "The time it takes for a server to reboot",
+        "The duration of a sprint in Agile methodologies",
+        "The time between major version releases"
+      ],
+      "answer": "The time from starting work on a change to its delivery"
+    },
+    {
+      "question": "What is 'code coverage' a measure of?",
+      "choices": [
+        "The percentage of code executed by automated tests",
+        "The number of lines of code in a project",
+        "The percentage of commented code in a project",
+        "The number of different programming languages used in a project"
+      ],
+      "answer": "The percentage of code executed by automated tests"
+    },
+    {
+      "question": "Which of the following is NOT typically a stage in a basic CI/CD pipeline?",
+      "choices": [
+        "Market research",
+        "Build",
+        "Test",
+        "Deploy"
+      ],
+      "answer": "Market research"
+    },
+    {
+      "question": "What is the purpose of a 'quality gate' in a CI/CD pipeline?",
+      "choices": [
+        "To enforce a set of quality criteria that must be met before proceeding",
+        "To physically secure the server room",
+        "To limit the number of developers who can commit code",
+        "To slow down the deployment process intentionally"
+      ],
+      "answer": "To enforce a set of quality criteria that must be met before proceeding"
+    },
+    {
+      "question": "Which tool is commonly used for metric visualization in CI/CD pipelines?",
+      "choices": [
+        "Grafana",
+        "Microsoft Word",
+        "Photoshop",
+        "VLC Media Player"
+      ],
+      "answer": "Grafana"
+    },
+    {
+      "question": "What is the primary purpose of implementing automated tests in a CI/CD pipeline?",
+      "choices": [
+        "To catch bugs and ensure code quality early in the development process",
+        "To replace manual testing entirely",
+        "To slow down the deployment process",
+        "To generate more work for the QA team"
+      ],
+      "answer": "To catch bugs and ensure code quality early in the development process"
+    },
+    {
+      "question": "Which of the following is NOT a common type of automated test in a CI/CD pipeline?",
+      "choices": [
+        "Customer satisfaction surveys",
+        "Unit tests",
+        "Integration tests",
+        "End-to-end tests"
+      ],
+      "answer": "Customer satisfaction surveys"
+    },
+    {
+      "question": "What is the main advantage of using containerization (e.g., Docker) in a CI/CD pipeline?",
+      "choices": [
+        "It ensures consistency across different environments",
+        "It eliminates the need for any kind of testing",
+        "It makes the application run faster",
+        "It reduces the need for documentation"
+      ],
+      "answer": "It ensures consistency across different environments"
+    },
+    {
+      "question": "What is the purpose of a 'build artifact' in CI/CD?",
+      "choices": [
+        "A packaged version of the application ready for deployment",
+        "A historical document detailing the build process",
+        "A physical representation of the software",
+        "A reward given to developers for successful builds"
+      ],
+      "answer": "A packaged version of the application ready for deployment"
+    },
+    {
+      "question": "Which of the following is a key principle of DevOps that aligns closely with CI/CD practices?",
+      "choices": [
+        "Continuous Improvement",
+        "Siloed Operations",
+        "Manual Processes",
+        "Infrequent, Large Releases"
+      ],
+      "answer": "Continuous Improvement"
+    },
+    {
+      "question": "What is the primary goal of Continuous Deployment?",
+      "choices": [
+        "To automatically deploy every change that passes all stages of the production pipeline",
+        "To deploy only on weekends when traffic is low",
+        "To deploy manually after extensive manual testing",
+        "To deploy only major versions of the software"
+      ],
+      "answer": "To automatically deploy every change that passes all stages of the production pipeline"
+    },
+    {
+      "question": "Which of the following is NOT typically a responsibility of a CI/CD tool?",
+      "choices": [
+        "Writing the application code",
+        "Running automated tests",
+        "Building the application",
+        "Deploying to different environments"
+      ],
+      "answer": "Writing the application code"
+    },
+    {
+      "question": "What is a 'pipeline' in the context of CI/CD?",
+      "choices": [
+        "A series of automated steps that code changes go through",
+        "A physical tube that connects different servers",
+        "A type of database used for storing build logs",
+        "A specialized network cable for fast data transfer"
+      ],
+      "answer": "A series of automated steps that code changes go through"
+    },
+    {
+      "question": "Which of the following best describes the 'shift left' principle in CI/CD?",
+      "choices": [
+        "Moving testing and quality assurance earlier in the development process",
+        "Prioritizing UI development over backend development",
+        "Deploying to production environments before staging",
+        "Writing documentation before writing code"
+      ],
+      "answer": "Moving testing and quality assurance earlier in the development process"
+    },
+    {
+      "question": "What is the main purpose of implementing CI/CD in an organization?",
+      "choices": [
+        "To deliver high-quality software updates more frequently and reliably",
+        "To reduce the number of developers needed in a team",
+        "To eliminate the need for project managers",
+        "To make the development process more complex and challenging"
+      ],
+      "answer": "To deliver high-quality software updates more frequently and reliably"
+    },
+    {
+      "question": "Which of the following is a popular open-source CI/CD tool?",
+      "choices": [
+        "Jenkins",
+        "Microsoft Excel",
+        "Adobe Photoshop",
+        "VLC Media Player"
+      ],
+      "answer": "Jenkins"
+    },
+    {
+      "question": "What is the purpose of a 'rollback' in CI/CD?",
+      "choices": [
+        "To revert to a previous version if a deployment causes issues",
+        "To roll a ball back to team members during standup meetings",
+        "To reduce the number of features in an application",
+        "To delete old code from the repository"
+      ],
+      "answer": "To revert to a previous version if a deployment causes issues"
+    }
+  ]
+}

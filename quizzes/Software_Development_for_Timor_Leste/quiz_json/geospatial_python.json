@@ -1,0 +1,305 @@
+{
+  "title": "Geospatial Development in Python Quiz",
+  "questions": [
+    {
+      "question": "What does GIS stand for in the context of geospatial development?",
+      "choices": [
+        "Geographic Information Systems",
+        "Global Imaging Software",
+        "Geospatial Integration Service",
+        "General Information System"
+      ],
+      "answer": "Geographic Information Systems"
+    },
+    {
+      "question": "Which of the following is NOT a type of geospatial data?",
+      "choices": [
+        "Temporal",
+        "Vector",
+        "Raster",
+        "Point Cloud"
+      ],
+      "answer": "Temporal"
+    },
+    {
+      "question": "What is a common file format for vector geospatial data?",
+      "choices": [
+        "Shapefile",
+        "JPEG",
+        "CSV",
+        "MP3"
+      ],
+      "answer": "Shapefile"
+    },
+    {
+      "question": "Which Python library is primarily used for working with geospatial data in data frames?",
+      "choices": [
+        "GeoPandas",
+        "NumPy",
+        "SciPy",
+        "Matplotlib"
+      ],
+      "answer": "GeoPandas"
+    },
+    {
+      "question": "What is the purpose of the Shapely library in geospatial development?",
+      "choices": [
+        "To perform geometric operations on shapes",
+        "To create interactive maps",
+        "To process satellite imagery",
+        "To connect to GPS devices"
+      ],
+      "answer": "To perform geometric operations on shapes"
+    },
+    {
+      "question": "Which file format is commonly used for exchanging geospatial data on the web?",
+      "choices": [
+        "GeoJSON",
+        "XML",
+        "HTML",
+        "PDF"
+      ],
+      "answer": "GeoJSON"
+    },
+    {
+      "question": "What type of geospatial data represents the world as a continuous surface?",
+      "choices": [
+        "Raster",
+        "Vector",
+        "Point",
+        "Polygon"
+      ],
+      "answer": "Raster"
+    },
+    {
+      "question": "Which Python library is used for reading and writing raster geospatial data?",
+      "choices": [
+        "Rasterio",
+        "GDAL",
+        "PyProj",
+        "Folium"
+      ],
+      "answer": "Rasterio"
+    },
+    {
+      "question": "What is a spatial join in geospatial analysis?",
+      "choices": [
+        "Merging datasets based on spatial relationships",
+        "Connecting to a spatial database",
+        "Joining two maps visually",
+        "Creating a new coordinate system"
+      ],
+      "answer": "Merging datasets based on spatial relationships"
+    },
+    {
+      "question": "Which of the following is an example of vector data?",
+      "choices": [
+        "Roads on a map",
+        "Satellite imagery",
+        "Digital elevation model",
+        "Temperature heat map"
+      ],
+      "answer": "Roads on a map"
+    },
+    {
+      "question": "What does DEM stand for in geospatial context?",
+      "choices": [
+        "Digital Elevation Model",
+        "Data Extraction Method",
+        "Dynamic Earth Mapping",
+        "Distributed Environment Management"
+      ],
+      "answer": "Digital Elevation Model"
+    },
+    {
+      "question": "Which library is commonly used for adding interactive maps to web applications in Python?",
+      "choices": [
+        "Folium",
+        "Matplotlib",
+        "Seaborn",
+        "Bokeh"
+      ],
+      "answer": "Folium"
+    },
+    {
+      "question": "What is the primary purpose of creating a buffer in geospatial analysis?",
+      "choices": [
+        "To create a zone around a feature for proximity analysis",
+        "To smooth out jagged edges in vector data",
+        "To increase the resolution of raster data",
+        "To compress geospatial files for storage"
+      ],
+      "answer": "To create a zone around a feature for proximity analysis"
+    },
+    {
+      "question": "Which Python library is used for adding basemaps to static maps?",
+      "choices": [
+        "Contextily",
+        "Basemap",
+        "OpenStreetMap",
+        "GoogleMaps"
+      ],
+      "answer": "Contextily"
+    },
+    {
+      "question": "What is a common use of spatial queries in geospatial analysis?",
+      "choices": [
+        "To find features that meet specific spatial criteria",
+        "To create new coordinate systems",
+        "To convert vector data to raster data",
+        "To compress large geospatial datasets"
+      ],
+      "answer": "To find features that meet specific spatial criteria"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a coordinate reference system?",
+      "choices": [
+        "Time zone",
+        "Datum",
+        "Projection",
+        "Ellipsoid"
+      ],
+      "answer": "Time zone"
+    },
+    {
+      "question": "What is the purpose of the GeoPandas 'sjoin' function?",
+      "choices": [
+        "To perform spatial joins between geodataframes",
+        "To split a geodataframe into multiple parts",
+        "To join non-spatial data to a geodataframe",
+        "To create a new spatial index"
+      ],
+      "answer": "To perform spatial joins between geodataframes"
+    },
+    {
+      "question": "Which type of map distortion is minimized in an equal-area projection?",
+      "choices": [
+        "Area",
+        "Shape",
+        "Distance",
+        "Direction"
+      ],
+      "answer": "Area"
+    },
+    {
+      "question": "What is the primary purpose of the Fiona library in Python's geospatial ecosystem?",
+      "choices": [
+        "To read and write geospatial data files",
+        "To perform spatial analysis",
+        "To create interactive maps",
+        "To process satellite imagery"
+      ],
+      "answer": "To read and write geospatial data files"
+    },
+    {
+      "question": "Which of the following is an advantage of vector data over raster data?",
+      "choices": [
+        "Better representation of discrete features",
+        "Easier storage of continuous surfaces",
+        "Simpler data structure",
+        "Faster processing for large areas"
+      ],
+      "answer": "Better representation of discrete features"
+    },
+    {
+      "question": "What does the term 'topology' refer to in geospatial data?",
+      "choices": [
+        "The spatial relationships between features",
+        "The elevation of land surfaces",
+        "The color scheme used in maps",
+        "The size of geospatial datasets"
+      ],
+      "answer": "The spatial relationships between features"
+    },
+    {
+      "question": "Which Python library is commonly used for complex spatial analysis and modeling?",
+      "choices": [
+        "PySAL",
+        "NumPy",
+        "SciPy",
+        "Pandas"
+      ],
+      "answer": "PySAL"
+    },
+    {
+      "question": "What is the purpose of geocoding in geospatial analysis?",
+      "choices": [
+        "Converting addresses to geographic coordinates",
+        "Encoding geospatial data for secure transmission",
+        "Creating unique identifiers for geospatial features",
+        "Compressing geospatial data for storage"
+      ],
+      "answer": "Converting addresses to geographic coordinates"
+    },
+    {
+      "question": "Which of the following is a characteristic of the Web Mercator projection?",
+      "choices": [
+        "Significant distortion at high latitudes",
+        "Equal area representation",
+        "Accurate representation of directions",
+        "Preservation of distances"
+      ],
+      "answer": "Significant distortion at high latitudes"
+    },
+    {
+      "question": "What is the primary purpose of a spatial index in geospatial databases?",
+      "choices": [
+        "To improve the performance of spatial queries",
+        "To compress geospatial data",
+        "To convert between different coordinate systems",
+        "To visualize geospatial data"
+      ],
+      "answer": "To improve the performance of spatial queries"
+    },
+    {
+      "question": "Which of the following is NOT a common type of spatial analysis operation?",
+      "choices": [
+        "Sentiment analysis",
+        "Overlay analysis",
+        "Proximity analysis",
+        "Network analysis"
+      ],
+      "answer": "Sentiment analysis"
+    },
+    {
+      "question": "What is the main advantage of using GeoPandas over standard Pandas for geospatial data?",
+      "choices": [
+        "Native support for geometric operations and spatial indexing",
+        "Faster processing of non-spatial data",
+        "Built-in machine learning capabilities",
+        "Superior data visualization tools"
+      ],
+      "answer": "Native support for geometric operations and spatial indexing"
+    },
+    {
+      "question": "Which projection is most suitable for mapping areas near the poles?",
+      "choices": [
+        "Azimuthal",
+        "Mercator",
+        "Cylindrical",
+        "Conical"
+      ],
+      "answer": "Azimuthal"
+    },
+    {
+      "question": "What is the primary purpose of the PyProj library in geospatial development?",
+      "choices": [
+        "To perform coordinate system transformations",
+        "To create interactive maps",
+        "To analyze raster data",
+        "To connect to GPS devices"
+      ],
+      "answer": "To perform coordinate system transformations"
+    },
+    {
+      "question": "Which of the following is a key consideration when choosing a map projection?",
+      "choices": [
+        "The purpose of the map and the area being mapped",
+        "The color scheme of the map",
+        "The size of the dataset",
+        "The programming language being used"
+      ],
+      "answer": "The purpose of the map and the area being mapped"
+    }
+  ]
+}
