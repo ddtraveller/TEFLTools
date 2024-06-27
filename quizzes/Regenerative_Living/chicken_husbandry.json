@@ -1,0 +1,287 @@
+{
+  "title": "Chicken Husbandry in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is the native chicken breed of Timor-Leste?",
+      "choices": [
+        "Manu Timor",
+        "Rhode Island Red",
+        "Australorp",
+        "Leghorn"
+      ],
+      "answer": "Manu Timor"
+    },
+    {
+      "question": "Chickens play an important role in Timorese agriculture and diet.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when designing chicken coops for Timor-Leste's climate?",
+      "choices": [
+        "Insulation for cold weather",
+        "Ventilation",
+        "Predator protection", 
+        "Nesting boxes and roosting areas"
+      ],
+      "answer": "Insulation for cold weather"
+    },
+    {
+      "question": "What is a common local material used for building chicken coops in Timor-Leste?",
+      "choices": [
+        "Bamboo",
+        "Concrete",
+        "Steel",
+        "Glass"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "Which of the following is a local feed resource for chickens in Timor-Leste?",
+      "choices": [
+        "Kitchen scraps",
+        "Imported commercial feed",
+        "Processed soybean meal",
+        "Fishmeal"
+      ],
+      "answer": "Kitchen scraps"
+    },
+    {
+      "question": "What is 'batar' in relation to chicken feed?",
+      "choices": [
+        "A local grain",
+        "A type of insect",
+        "A commercial feed brand",
+        "A mineral supplement"
+      ],
+      "answer": "A local grain"
+    },
+    {
+      "question": "Proper water supply is crucial for chickens, especially in Timor-Leste's climate.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the most common method of incubation for small-scale chicken keepers in Timor-Leste?",
+      "choices": [
+        "Natural incubation with broody hens",
+        "Artificial incubation with electric incubators",
+        "Shipping in day-old chicks from hatcheries",
+        "Purchasing adult birds from other farmers"
+      ],
+      "answer": "Natural incubation with broody hens"
+    },
+    {
+      "question": "Which of the following is a common chicken disease in Timor-Leste?",
+      "choices": [
+        "Newcastle disease",
+        "Avian influenza",
+        "Marek's disease",
+        "Infectious bronchitis"
+      ],
+      "answer": "Newcastle disease"
+    },
+    {
+      "question": "Vaccination is an important preventive measure for maintaining chicken health.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the purpose of biosecurity practices in chicken keeping?",
+      "choices": [
+        "To prevent the introduction and spread of diseases",
+        "To increase egg production",
+        "To improve meat quality",
+        "To reduce feed costs"
+      ],
+      "answer": "To prevent the introduction and spread of diseases"
+    },
+    {
+      "question": "Traditional Timorese remedies can be used for all chicken health issues.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "How can chickens be integrated into permaculture systems?",
+      "choices": [
+        "All of the above",
+        "Pest control in gardens",
+        "Providing manure for fertilizer", 
+        "Chicken tractors for soil improvement"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is a chicken tractor?",
+      "choices": [
+        "A mobile coop used for targeted grazing and soil improvement",
+        "A machine used to process chicken feed",
+        "A tool used for catching chickens",
+        "A device used for transporting chickens to market"
+      ],
+      "answer": "A mobile coop used for targeted grazing and soil improvement"
+    },
+    {
+      "question": "Which of the following is an introduced chicken breed in Timor-Leste?",
+      "choices": [
+        "Rhode Island Red",
+        "Manu Timor",
+        "Batar",
+        "Ai-farina"
+      ],
+      "answer": "Rhode Island Red"
+    },
+    {
+      "question": "What is the main advantage of keeping native Manu Timor chickens?",
+      "choices": [
+        "Adaptability to local conditions",
+        "High egg production",
+        "Fast growth rate",
+        "Large body size"
+      ],
+      "answer": "Adaptability to local conditions"
+    },
+    {
+      "question": "Predator protection is an important consideration when designing chicken housing in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the purpose of nesting boxes in a chicken coop?",
+      "choices": [
+        "To provide a safe and comfortable place for hens to lay eggs",
+        "To keep chickens warm at night",
+        "To store chicken feed",
+        "To collect chicken manure"
+      ],
+      "answer": "To provide a safe and comfortable place for hens to lay eggs"
+    },
+    {
+      "question": "Which of the following is NOT a common local material used for building chicken coops in Timor-Leste?",
+      "choices": [
+        "Corrugated metal",
+        "Bamboo",
+        "Palm leaves",
+        "Wood"
+      ],
+      "answer": "Corrugated metal"
+    },
+    {
+      "question": "Chickens require a balanced diet to maintain health and productivity.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the main purpose of supplementing local feed with commercial feed?",
+      "choices": [
+        "To ensure a balanced diet",
+        "To reduce costs",
+        "To improve meat flavor",
+        "To increase egg size"
+      ],
+      "answer": "To ensure a balanced diet"
+    },
+    {
+      "question": "Which of the following is an example of a kitchen scrap that can be fed to chickens?",
+      "choices": [
+        "Modo (vegetables)",
+        "Plastic bags",
+        "Styrofoam",
+        "Tin cans"
+      ],
+      "answer": "Modo (vegetables)"
+    },
+    {
+      "question": "What is the main advantage of natural incubation with broody hens?",
+      "choices": [
+        "It requires minimal equipment and intervention",
+        "It produces healthier chicks",
+        "It results in higher egg production",
+        "It allows for year-round breeding"
+      ],
+      "answer": "It requires minimal equipment and intervention"
+    },
+    {
+      "question": "Which of the following is a sign that a chicken may need veterinary attention?",
+      "choices": [
+        "Lethargy and decreased appetite",
+        "Bright, alert eyes",
+        "Smooth, glossy feathers",
+        "Active foraging behavior"
+      ],
+      "answer": "Lethargy and decreased appetite"
+    },
+    {
+      "question": "Newcastle disease can be prevented through vaccination.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the main benefit of using chicken manure as fertilizer?",
+      "choices": [
+        "It provides nutrients for plants",
+        "It reduces the need for watering",
+        "It suppresses weed growth",
+        "It attracts beneficial insects"
+      ],
+      "answer": "It provides nutrients for plants"
+    },
+    {
+      "question": "How can chickens help with pest control in gardens?",
+      "choices": [
+        "By eating insects and other small pests",
+        "By scratching and disturbing pest habitats",
+        "By alerting gardeners to the presence of pests",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Improving chicken production can contribute to food security and livelihoods in Timor-Leste.",
+      "choices": [
+        "True", 
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the purpose of the student assignment in this lesson?",
+      "choices": [
+        "To learn about real-world chicken keeping practices in their community",
+        "To practice building chicken coops",
+        "To experiment with different chicken breeds",
+        "To sell eggs and meat for profit"
+      ],
+      "answer": "To learn about real-world chicken keeping practices in their community"
+    },
+    {
+      "question": "Traditional knowledge and practices can play a valuable role in chicken husbandry in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
+}

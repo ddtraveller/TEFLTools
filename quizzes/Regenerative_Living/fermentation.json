@@ -1,0 +1,263 @@
+{
+  "title": "Fermentation Techniques in Timor-Leste - Kombucha, Kimchi, and Cider Quiz",
+  "questions": [
+    {
+      "question": "What is fermentation?",
+      "choices": [
+        "A process in which microorganisms convert sugars into other compounds",
+        "A method of cooking food at high temperatures",
+        "A technique for preserving food through dehydration",
+        "A way to package food for long-term storage"
+      ],
+      "answer": "A process in which microorganisms convert sugars into other compounds"
+    },
+    {
+      "question": "Fermentation plays a role in food preservation.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Fermentation has a long history in Timor-Leste and Southeast Asia.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Fermented foods can contribute to food security and nutrition.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is NOT a key factor in fermentation?",
+      "choices": [
+        "Light exposure",
+        "Salt",
+        "Sugar",
+        "Acidity"
+      ],
+      "answer": "Light exposure"
+    },
+    {
+      "question": "Anaerobic fermentation occurs in the presence of oxygen.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Safety considerations are important in home fermentation.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is a local vegetable suitable for fermentation in Timor-Leste?",
+      "choices": [
+        "Cabbage",
+        "Potato",
+        "Eggplant",
+        "Spinach"
+      ],
+      "answer": "Cabbage"
+    },
+    {
+      "question": "Coconut sugar and palm sugar are potential local sweeteners for fermentation in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Kombucha is a fermented beverage made from:",
+      "choices": [
+        "Sweetened tea",
+        "Milk",
+        "Fruit juice",
+        "Vegetable brine"
+      ],
+      "answer": "Sweetened tea"
+    },
+    {
+      "question": "The microbial culture used to ferment kombucha is called a symbiotic culture of bacteria and yeast (SCOBY).",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Local fruits can be used to flavor kombucha.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Kimchi is traditionally made with:",
+      "choices": [
+        "Napa cabbage",
+        "Potato",
+        "Eggplant",
+        "Spinach"
+      ],
+      "answer": "Napa cabbage"
+    },
+    {
+      "question": "Timorese adaptations of kimchi can use local vegetables like:",
+      "choices": [
+        "All of the above",
+        "Green papaya",
+        "Carrots",
+        "Chili peppers"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Salt is a crucial ingredient in the kimchi fermentation process.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Cider is traditionally made from:",
+      "choices": [
+        "Apples",
+        "Grapes",
+        "Oranges",
+        "Pineapples"
+      ],
+      "answer": "Apples"
+    },
+    {
+      "question": "Cider fermentation techniques can be adapted for local fruits like papaya or pineapple in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Safety considerations are important when fermenting fruits into alcoholic beverages.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Fermented foods can provide nutritional benefits.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Fermented foods may have a positive impact on gut health.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Incorporating fermented foods into Timorese cuisine can add new flavors and health benefits.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Small-scale fermentation businesses have economic potential in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The hands-on activity in this lesson involves:",
+      "choices": [
+        "Starting small batches of fermented products",
+        "Cooking a traditional Timorese dish",
+        "Designing labels for fermented products",
+        "Conducting market research for fermented foods"
+      ],
+      "answer": "Starting small batches of fermented products"
+    },
+    {
+      "question": "The student assignment involves experimenting with fermenting a local ingredient not covered in class.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The assignment report should include the chosen ingredient and reasoning behind the choice.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Students should document their observations during the fermentation process in the assignment report.",
+      "choices": [
+        "True", 
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The final product description should include details about the appearance, taste, and smell of the fermented food.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The assignment report should include ideas for incorporating the fermented product into local cuisine.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The main goal of this lesson is to:",
+      "choices": [
+        "Introduce students to fermentation principles and techniques using local ingredients",
+        "Discourage the use of traditional fermentation methods",
+        "Promote the use of imported fermented products",
+        "Emphasize the importance of pasteurization in food preservation"
+      ],
+      "answer": "Introduce students to fermentation principles and techniques using local ingredients"
+    },
+    {
+      "question": "Expanding fermentation practices in Timor-Leste has the potential to improve food security, nutrition, and economic opportunities.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
+}

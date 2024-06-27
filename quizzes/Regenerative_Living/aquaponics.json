@@ -1,0 +1,293 @@
+{
+  "title": "Aquaponics in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is aquaponics?",
+      "choices": [
+        "A combination of aquaculture and hydroponics",
+        "A type of traditional Timorese farming",
+        "A method of raising fish in tanks",
+        "A system for growing plants in soil"
+      ],
+      "answer": "A combination of aquaculture and hydroponics"
+    },
+    {
+      "question": "Which of the following is NOT a component of an aquaponic system?",
+      "choices": [
+        "Fish tank",
+        "Filtration system", 
+        "Plant growing area",
+        "Soil bed"
+      ],
+      "answer": "Soil bed"
+    },
+    {
+      "question": "What is the symbiotic relationship in aquaponic systems?",
+      "choices": [
+        "Fish waste provides nutrients for plants, and plants clean water for fish",
+        "Fish eat the plants, and plants filter the water",
+        "Fish and plants compete for nutrients in the water",
+        "There is no symbiotic relationship in aquaponics"
+      ],
+      "answer": "Fish waste provides nutrients for plants, and plants clean water for fish"
+    },
+    {
+      "question": "Which of the following fish species is suitable for aquaponics in Timor-Leste?",
+      "choices": [
+        "Tilapia (Ikan mujair)",
+        "Salmon",
+        "Tuna",
+        "Goldfish" 
+      ],
+      "answer": "Tilapia (Ikan mujair)"
+    },
+    {
+      "question": "Which of these plant types is NOT mentioned as suitable for aquaponics in Timor-Leste?",
+      "choices": [
+        "Root vegetables",
+        "Leafy greens",
+        "Herbs",
+        "Fruiting plants"
+      ],
+      "answer": "Root vegetables"
+    },
+    {
+      "question": "How can aquaponics help with water conservation in Timor-Leste?",
+      "choices": [
+        "By recycling water in a closed-loop system",
+        "By using more water than traditional farming",
+        "By relying on frequent rainfall",
+        "By not requiring any water at all"
+      ],
+      "answer": "By recycling water in a closed-loop system"
+    },
+    {
+      "question": "Aquaponics can allow for year-round food production in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is one benefit of aquaponics for urban and peri-urban agriculture in Timor-Leste?",
+      "choices": [
+        "Efficient use of limited space",
+        "Reliance on high-quality soil",
+        "Reduced need for water conservation",
+        "Elimination of the need for fish feed"
+      ],
+      "answer": "Efficient use of limited space" 
+    },
+    {
+      "question": "In aquaponic system design, what does 'system sizing and ratios' refer to?",
+      "choices": [
+        "The ratio of fish to plants in the system",
+        "The size of the fish compared to the plants",
+        "The ratio of water to fish in the tanks",
+        "The size of the grow beds compared to the fish tanks"
+      ],
+      "answer": "The ratio of fish to plants in the system"
+    },
+    {
+      "question": "What is the purpose of aeration and circulation in an aquaponic system?",
+      "choices": [
+        "To provide oxygen for fish and distribute nutrients to plants",
+        "To keep the water cool in Timor-Leste's climate",
+        "To prevent algae growth in the system",
+        "To make the system look more visually appealing"
+      ],
+      "answer": "To provide oxygen for fish and distribute nutrients to plants"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge for implementing aquaponics in Timor-Leste?",
+      "choices": [
+        "Lack of suitable fish species",
+        "Initial setup costs and technical knowledge required",
+        "Consistent electricity supply for pumps",
+        "Balancing pH and nutrients in the system"
+      ],
+      "answer": "Lack of suitable fish species"
+    },
+    {
+      "question": "Sourcing fish feed is a potential challenge for aquaponics in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"  
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following could be a local alternative for fish feed in Timor-Leste?",
+      "choices": [
+        "Food scraps and agricultural by-products",
+        "Imported commercial fish feed",
+        "Synthetic chemical nutrients",
+        "Gravel and rocks"
+      ],
+      "answer": "Food scraps and agricultural by-products"
+    },
+    {
+      "question": "What is one potential benefit of integrating aquaponics with traditional Timorese farming practices?",
+      "choices": [
+        "Combining modern technology with local knowledge and resources",
+        "Completely replacing traditional farming methods",
+        "Eliminating the need for water conservation",
+        "Reducing the diversity of crops and fish species"
+      ],
+      "answer": "Combining modern technology with local knowledge and resources"
+    },
+    {
+      "question": "Which of the following is an example of a leafy green suitable for aquaponics in Timor-Leste?",
+      "choices": [
+        "Water spinach (Kanko)",
+        "Basil (Xampu)",
+        "Tomatoes (Tomate)",
+        "Carp (Ikan karpa)"
+      ],
+      "answer": "Water spinach (Kanko)"
+    },
+    {
+      "question": "Tilapia, catfish, and carp are all suitable fish species for aquaponics in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is one way aquaponics can contribute to food security in Timor-Leste?",
+      "choices": [
+        "By diversifying diet and income sources",
+        "By reducing the amount of food produced",
+        "By increasing reliance on imported fish feed",
+        "By limiting the types of crops that can be grown"
+      ],
+      "answer": "By diversifying diet and income sources"
+    },
+    {
+      "question": "Which of the following is a key principle of aquaponic system design?",
+      "choices": [
+        "Balancing the ratio of fish to plants",
+        "Using as much water as possible",
+        "Keeping fish and plants separate",
+        "Avoiding the use of local materials"
+      ],
+      "answer": "Balancing the ratio of fish to plants" 
+    },
+    {
+      "question": "What is the role of the filtration system in an aquaponic setup?",
+      "choices": [
+        "To remove solid waste and convert ammonia to nitrates",
+        "To add nutrients to the water for the plants",
+        "To provide oxygen for the fish",
+        "To control the water temperature"
+      ],
+      "answer": "To remove solid waste and convert ammonia to nitrates"
+    },
+    {
+      "question": "Which of the following is a potential challenge for marketing aquaponic produce in Timor-Leste?",
+      "choices": [
+        "Acceptance of produce grown using a new method",
+        "Lack of demand for fresh fish and vegetables",
+        "Oversupply of aquaponic produce in the market",
+        "Inability to grow a variety of crops in aquaponics"
+      ],
+      "answer": "Acceptance of produce grown using a new method"
+    },
+    {
+      "question": "What is one way to control water temperature in aquaponic systems in Timor-Leste's climate?",
+      "choices": [
+        "Shading and insulating the fish tanks and grow beds",
+        "Adding hot water to the system",
+        "Increasing the stocking density of fish",
+        "Using artificial lighting to heat the water" 
+      ],
+      "answer": "Shading and insulating the fish tanks and grow beds"
+    },
+    {
+      "question": "Consistent electricity supply for water and air pumps can be a challenge in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"  
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is one potential solution for areas with inconsistent electricity in Timor-Leste?",
+      "choices": [
+        "Using solar-powered pumps and backup batteries",
+        "Relying on manual water circulation",
+        "Increasing the size of the fish tanks",
+        "Growing only plants that don't require much water"
+      ],
+      "answer": "Using solar-powered pumps and backup batteries"
+    },
+    {
+      "question": "Proper pH and nutrient balance are crucial for the health of both fish and plants in aquaponics.",
+      "choices": [
+        "True", 
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is one way to maintain proper pH in an aquaponic system?",
+      "choices": [
+        "Regularly testing and adjusting pH levels",
+        "Adding more fish to the tanks",
+        "Increasing the water temperature",
+        "Reducing the number of plants in the grow beds" 
+      ],
+      "answer": "Regularly testing and adjusting pH levels"
+    },
+    {
+      "question": "Which of the following is an example of a fruiting plant suitable for aquaponics in Timor-Leste?",
+      "choices": [
+        "Tomatoes (Tomate)",
+        "Mint (Hortelã)", 
+        "Catfish (Ikan lele)",
+        "Water spinach (Kanko)"
+      ],
+      "answer": "Tomatoes (Tomate)"
+    },
+    {
+      "question": "What is one benefit of using locally available materials in aquaponic system construction in Timor-Leste?",
+      "choices": [
+        "Reducing costs and increasing sustainability",
+        "Improving the efficiency of the system",
+        "Increasing the variety of fish and crops that can be grown",
+        "Eliminating the need for water quality management"
+      ],
+      "answer": "Reducing costs and increasing sustainability"    
+    },
+    {
+      "question": "Aquaponics can help reduce reliance on soil quality in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is one way aquaponics can contribute to resilience in Timor-Leste's food system?",
+      "choices": [
+        "By providing a locally controlled source of fresh fish and vegetables",
+        "By increasing dependence on imported inputs",
+        "By reducing the diversity of crops and fish species grown",
+        "By requiring large amounts of land and water resources"
+      ],  
+      "answer": "By providing a locally controlled source of fresh fish and vegetables"
+    },
+    {
+      "question": "Which of the following is a key factor in the success of an aquaponic system?",
+      "choices": [
+        "Proper management and maintenance of the system",
+        "Using the most expensive equipment and inputs",
+        "Having a large-scale commercial operation",
+        "Focusing on only one type of fish or crop"
+      ],
+      "answer": "Proper management and maintenance of the system"
+    }
+  ]
+}

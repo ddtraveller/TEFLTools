@@ -1,0 +1,287 @@
+{
+  "title": "Waste Management and Closed Loop Systems in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is the main goal of waste management?",
+      "choices": [
+        "To reduce, reuse, and recycle waste materials",
+        "To increase the amount of waste produced",
+        "To dispose of all waste in landfills",
+        "To export waste to other countries"
+      ],
+      "answer": "To reduce, reuse, and recycle waste materials"
+    },
+    {
+      "question": "A closed loop system aims to:",
+      "choices": [
+        "Turn waste into resources",
+        "Generate more waste",
+        "Encourage single-use products",
+        "Promote landfill disposal"
+      ],
+      "answer": "Turn waste into resources"
+    },
+    {
+      "question": "Which of the following is NOT a common waste stream in Timor-Leste?",
+      "choices": [
+        "Nuclear waste",
+        "Organic waste",
+        "Plastic waste",
+        "Paper and cardboard"
+      ],
+      "answer": "Nuclear waste"
+    },
+    {
+      "question": "What is the Tetum term for kitchen scraps?",
+      "choices": [
+        "Ai-han restu",
+        "Hare kulit",
+        "Batar kain",
+        "Foer"
+      ],
+      "answer": "Ai-han restu"
+    },
+    {
+      "question": "Which of the following is an example of agricultural waste in Timor-Leste?",
+      "choices": [
+        "Hare kulit (rice husks)",
+        "Plastic bottles",
+        "Glass jars",
+        "Metal cans"
+      ],
+      "answer": "Hare kulit (rice husks)"
+    },
+    {
+      "question": "The '4 Rs' of waste management are:",
+      "choices": [
+        "Reduce, Reuse, Recycle, Recover",
+        "Reduce, Reuse, Recycle, Remove",
+        "Reduce, Reuse, Recycle, Reject",
+        "Reduce, Reuse, Recycle, Respect"
+      ],
+      "answer": "Reduce, Reuse, Recycle, Recover"
+    },
+    {
+      "question": "Closed loop systems can help with water conservation and reuse.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is composting?",
+      "choices": [
+        "The process of converting organic waste into nutrient-rich soil",
+        "The process of burning waste for energy",
+        "The process of burying waste in landfills",
+        "The process of dumping waste in the ocean"
+      ],
+      "answer": "The process of converting organic waste into nutrient-rich soil"
+    },
+    {
+      "question": "Vermicomposting involves the use of:",
+      "choices": [
+        "Worms",
+        "Bacteria",
+        "Fungi",
+        "Algae"
+      ],
+      "answer": "Worms"
+    },
+    {
+      "question": "Biogas can be produced from:",
+      "choices": [
+        "Organic waste",
+        "Plastic waste",
+        "Glass waste",
+        "Metal waste"
+      ],
+      "answer": "Organic waste"
+    },
+    {
+      "question": "Upcycling refers to:",
+      "choices": [
+        "Creating new products from waste materials",
+        "Burning waste for energy",
+        "Burying waste in landfills",
+        "Dumping waste in rivers"
+      ],
+      "answer": "Creating new products from waste materials"
+    },
+    {
+      "question": "Greywater systems are designed to:",
+      "choices": [
+        "Reuse wastewater from sinks, showers, and washing machines",
+        "Treat industrial chemical waste",
+        "Desalinate seawater for drinking",
+        "Collect rainwater for irrigation"
+      ],
+      "answer": "Reuse wastewater from sinks, showers, and washing machines"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese practice that aligns with closed loop principles?",
+      "choices": [
+        "Use of banana leaves for packaging",
+        "Disposable plastic bags",
+        "Styrofoam containers",
+        "Single-use plastic bottles"
+      ],
+      "answer": "Use of banana leaves for packaging"
+    },
+    {
+      "question": "Traditional composting methods are used in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Improved waste management can lead to reduced pollution of land and water in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Sustainable waste management practices can help to:",
+      "choices": [
+        "Decrease greenhouse gas emissions",
+        "Increase greenhouse gas emissions",
+        "Have no effect on greenhouse gas emissions",
+        "Double greenhouse gas emissions"
+      ],
+      "answer": "Decrease greenhouse gas emissions"
+    },
+    {
+      "question": "Implementing closed loop systems can create jobs in which sectors?",
+      "choices": [
+        "Recycling and upcycling industries",
+        "Fossil fuel industry",
+        "Single-use plastics manufacturing",
+        "Fast fashion industry"
+      ],
+      "answer": "Recycling and upcycling industries"
+    },
+    {
+      "question": "Composting can help farmers save money by:",
+      "choices": [
+        "Reducing the need for synthetic fertilizers",
+        "Increasing the use of pesticides",
+        "Encouraging the use of single-use plastics",
+        "Promoting the import of foreign products"
+      ],
+      "answer": "Reducing the need for synthetic fertilizers"
+    },
+    {
+      "question": "Improved waste management can benefit public health by:",
+      "choices": [
+        "Reducing the spread of diseases from unsanitary conditions",
+        "Increasing air pollution",
+        "Contaminating drinking water sources",
+        "Attracting more pests and rodents"
+      ],
+      "answer": "Reducing the spread of diseases from unsanitary conditions"
+    },
+    {
+      "question": "A cleaner environment can boost tourism potential in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is a challenge for waste management in Timor-Leste?",
+      "choices": [
+        "Limited infrastructure for waste collection and processing",
+        "Lack of waste generation",
+        "Excess of recycling facilities",
+        "Abundance of financial resources for waste management"
+      ],
+      "answer": "Limited infrastructure for waste collection and processing"
+    },
+    {
+      "question": "Public awareness and behavior change are important for successful waste management.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Financing is a common challenge for waste management projects in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The student assignment involves conducting a waste audit of:",
+      "choices": [
+        "Their household or school",
+        "Their neighbor's house",
+        "The local government office",
+        "The nearest shopping mall"
+      ],
+      "answer": "Their household or school"
+    },
+    {
+      "question": "The waste audit report should include:",
+      "choices": [
+        "Types and quantities of waste generated",
+        "A list of all items purchased in the last month",
+        "A menu of meals eaten during the week",
+        "A record of phone calls made during the audit period"
+      ],
+      "answer": "Types and quantities of waste generated"
+    },
+    {
+      "question": "Students should propose ideas for reducing waste and implementing closed loop practices in their waste audit report.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The waste audit report should include ideas for:",
+      "choices": [
+        "Community-level waste management initiatives",
+        "Increasing waste production",
+        "Encouraging littering",
+        "Promoting single-use plastics"
+      ],
+      "answer": "Community-level waste management initiatives"
+    },
+    {
+      "question": "Implementing closed loop systems can help Timor-Leste move towards a more sustainable future.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Effective waste management requires a combination of:",
+      "choices": [
+        "Infrastructure, education, and community participation",
+        "Increased waste generation",
+        "More landfills",
+        "Encouraging littering"
+      ],
+      "answer": "Infrastructure, education, and community participation"
+    },
+    {
+      "question": "Traditional Timorese knowledge can contribute to the development of sustainable waste management practices.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "title": "Aquaponics and Fish Production in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is aquaponics?",
+      "choices": [
+        "A combination of aquaculture and hydroponics",
+        "A traditional Timorese fishing method",
+        "A type of fish feed",
+        "A method of irrigating crops"
+      ],
+      "answer": "A combination of aquaculture and hydroponics"
+    },
+    {
+      "question": "Which of the following is NOT a main component of an aquaponic system?",
+      "choices": [
+        "Soil bed",
+        "Fish tank",
+        "Filtration system",
+        "Plant growing beds"
+      ],
+      "answer": "Soil bed"
+    },
+    {
+      "question": "What role does the filtration system play in an aquaponic setup?",
+      "choices": [
+        "Removing solid waste and converting ammonia to nitrates",
+        "Providing oxygen to the plants",
+        "Regulating the water temperature",
+        "Feeding the fish automatically"
+      ],
+      "answer": "Removing solid waste and converting ammonia to nitrates"
+    },
+    {
+      "question": "Which of the following fish species is commonly used in aquaponics in Timor-Leste?",
+      "choices": [
+        "Tilapia (Ikan mujair)",
+        "Salmon",
+        "Tuna",
+        "Goldfish"
+      ],
+      "answer": "Tilapia (Ikan mujair)"
+    },
+    {
+      "question": "What is the local Tetum name for water spinach, a plant suitable for aquaponics?",
+      "choices": [
+        "Kanko",
+        "Alface",
+        "Xampu",
+        "Tomate"
+      ],
+      "answer": "Kanko"
+    },
+    {
+      "question": "Which of the following is a benefit of aquaponics in drought-prone areas of Timor-Leste?",
+      "choices": [
+        "Water conservation",
+        "Increased water usage",
+        "Faster fish growth rates",
+        "Elimination of the need for filtration"
+      ],
+      "answer": "Water conservation"
+    },
+    {
+      "question": "Aquaponics can allow for year-round food production in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the main advantage of using solar power for aquaponic systems in Timor-Leste?",
+      "choices": [
+        "Addressing inconsistent electricity supply",
+        "Speeding up fish growth",
+        "Reducing the need for water changes",
+        "Eliminating the need for a filtration system"
+      ],
+      "answer": "Addressing inconsistent electricity supply"
+    },
+    {
+      "question": "Which of the following is a local material that can be integrated into aquaponic systems in Timor-Leste?",
+      "choices": [
+        "Bamboo",
+        "Plastic",
+        "Steel",
+        "Glass"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "What is the primary benefit of integrating aquaponics with traditional Timorese crop rotation practices?",
+      "choices": [
+        "Enhancing soil fertility",
+        "Reducing the need for fish feed",
+        "Eliminating the need for water changes",
+        "Speeding up plant growth"
+      ],
+      "answer": "Enhancing soil fertility"
+    },
+    {
+      "question": "Fish waste from aquaponic systems can be used as fertilizer for conventional crops.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is a challenge for implementing aquaponics in Timor-Leste?",
+      "choices": [
+        "Initial setup costs",
+        "Lack of suitable fish species",
+        "Absence of potential plant varieties",
+        "Overabundance of water resources"
+      ],
+      "answer": "Initial setup costs"
+    },
+    {
+      "question": "A consistent electricity supply is crucial for operating water and air pumps in aquaponic systems.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the main objective of the student assignment in this lesson?",
+      "choices": [
+        "To research and present on integrating aquaponics with traditional Timorese practices",
+        "To design a large-scale commercial aquaponic system",
+        "To conduct a market survey for aquaponic products",
+        "To write a report on the history of aquaponics"
+      ],
+      "answer": "To research and present on integrating aquaponics with traditional Timorese practices"
+    },
+    {
+      "question": "What is the purpose of the hands-on activity in this lesson?",
+      "choices": [
+        "To design a small-scale aquaponic system suitable for a Timorese family",
+        "To construct a large commercial aquaponic facility",
+        "To develop a marketing plan for aquaponic products",
+        "To create a budget for a national aquaponic program"
+      ],
+      "answer": "To design a small-scale aquaponic system suitable for a Timorese family"
+    },
+    {
+      "question": "Which of the following is an example of a fruiting plant suitable for aquaponics in Timor-Leste?",
+      "choices": [
+        "Peppers (Ai-manas)",
+        "Lettuce (Alface)",
+        "Water spinach (Kanko)",
+        "Mint (Hortelã)"
+      ],
+      "answer": "Peppers (Ai-manas)"
+    },
+    {
+      "question": "Carp (Ikan karpa) is a potential fish species for aquaponics in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the local Tetum name for basil, an herb suitable for aquaponics?",
+      "choices": [
+        "Xampu",
+        "Kutchae",
+        "Ai-manas",
+        "Kanko"
+      ],
+      "answer": "Xampu"
+    },
+    {
+      "question": "Snakehead (Ikan gabus) is a native fish species with potential for aquaponics in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is a key consideration when selecting plants for aquaponics in Timor-Leste?",
+      "choices": [
+        "Market value",
+        "Plant height",
+        "Flower color",
+        "Seed size"
+      ],
+      "answer": "Market value"
+    },
+    {
+      "question": "What is the primary goal of sizing an aquaponic system based on fish-to-plant ratios?",
+      "choices": [
+        "To ensure a balance between nutrient production and uptake",
+        "To maximize fish growth rates",
+        "To minimize water usage",
+        "To eliminate the need for a filtration system"
+      ],
+      "answer": "To ensure a balance between nutrient production and uptake"
+    },
+    {
+      "question": "Effective water quality management is essential for the success of aquaponics in Timor-Leste's climate.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is a potential benefit of integrating aquaponics with traditional Timorese fishing ponds?",
+      "choices": [
+        "Enhancing fish production and diversity",
+        "Reducing the need for fish feed",
+        "Eliminating the need for water filtration",
+        "Speeding up plant growth rates"
+      ],
+      "answer": "Enhancing fish production and diversity"
+    },
+    {
+      "question": "Sourcing fish feed is a potential challenge for aquaponics in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is an advantage of aquaponics for urban and peri-urban agriculture in Timor-Leste?",
+      "choices": [
+        "Intensive production in limited space",
+        "Reduced need for water conservation",
+        "Elimination of the need for filtration",
+        "Faster fish growth rates in urban environments"
+      ],
+      "answer": "Intensive production in limited space"
+    },
+    {
+      "question": "What is the main benefit of using fish waste from aquaponics as fertilizer for conventional crops?",
+      "choices": [
+        "Reducing reliance on synthetic fertilizers",
+        "Speeding up fish growth rates",
+        "Eliminating the need for water changes",
+        "Reducing the size of plant growing beds"
+      ],
+      "answer": "Reducing reliance on synthetic fertilizers"
+    },
+    {
+      "question": "Which of the following is a key factor in the success of integrating aquaponics with traditional Timorese farming practices?",
+      "choices": [
+        "Adapting the system to local conditions and resources",
+        "Importing all components from abroad",
+        "Focusing solely on maximizing fish production",
+        "Eliminating all traditional farming methods"
+      ],
+      "answer": "Adapting the system to local conditions and resources"
+    },
+    {
+      "question": "What is the primary benefit of using local materials like bamboo in aquaponic system construction in Timor-Leste?",
+      "choices": [
+        "Reducing costs and increasing sustainability",
+        "Speeding up fish growth rates",
+        "Eliminating the need for water filtration",
+        "Automatically regulating water temperature"
+      ],
+      "answer": "Reducing costs and increasing sustainability"
+    },
+    {
+      "question": "Proper system design and management are crucial for the success of aquaponics in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the main objective of this lesson on aquaponics and fish production in Timor-Leste?",
+      "choices": [
+        "To introduce students to aquaponics and its potential in the local context",
+        "To train students to become commercial aquaponic farmers",
+        "To compare aquaponics with other forms of agriculture",
+        "To assess the export potential of aquaponic products from Timor-Leste"
+      ],
+      "answer": "To introduce students to aquaponics and its potential in the local context"
+    },
+    {
+      "question": "Successful implementation of aquaponics in Timor-Leste requires consideration of local climate, resources, and cultural practices.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
+}
