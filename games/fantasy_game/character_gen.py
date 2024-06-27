@@ -217,3 +217,7 @@ def generate_character(character_name):
     print(f"\nCharacter data saved to '{character_filename}'.")
 
     return character_data
+
+if __name__ == "__main__":
+    character_name = input("Enter your character's name: ")
+    generate_character(character_name)

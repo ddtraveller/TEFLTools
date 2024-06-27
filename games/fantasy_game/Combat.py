@@ -2,15 +2,27 @@ import random
 import sys
 import csv
 import os
+import pygame
 from anthropic import Anthropic
+from gpt4all import GPT4All
 
 # Check if ANTHROPIC_API_KEY is set
 ANTHROPIC_API_KEY = os.getenv('ANTHROPIC_API_KEY')
 if ANTHROPIC_API_KEY:
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
+    print("Using Anthropic API for responses.")
 else:
-    print("Warning: ANTHROPIC_API_KEY not set. Using fallback method for responses.")
+    print("ANTHROPIC_API_KEY not set. Using GPT4All as fallback method.")
     client = None
+    # Path to the GPT4All model file
+    model_path = "orca-mini-3b-gguf2-q4_0.gguf"
+    try:
+        # Create a GPT4All model instance
+        model = GPT4All(model_path)
+    except Exception as e:
+        print(f"Error loading GPT4All model: {e}")
+        print("Falling back to simple text responses.")
+        model = None
 
 def get_location_description(location_name):
     with open("Locations.csv", "r") as file:
@@ -32,41 +44,42 @@ def get_llm_response(messages):
             return response.content[0].text
         except Exception as e:
             print(f"Error using Anthropic API: {e}")
-            print("Using fallback method for response.")
+            print("Falling back to GPT4All.")
     
-    # Fallback method
-    return "The creature responds in a mysterious way, leaving you to interpret its intentions."
+    if model:
+        # Fallback to GPT4All
+        prompt = messages[-1]['content']  # Get the last message content as prompt
+        with model.chat_session():
+            response = model.generate(prompt=prompt, temp=0.7, max_tokens=300)
+        return response
+    else:
+        # Simple fallback if neither Anthropic nor GPT4All is available
+        return "The creature responds in a mysterious way, leaving you to interpret its intentions."
 
 def get_llm_decision(character_data, monster_data, conversation_history):
-    if client:
-        prompt = f"""As a Dungeon Master, you are overseeing an encounter between {character_data['name']}, 
-    a level {character_data['level']} {character_data['class']}, and a {monster_data['name']}.
+    prompt = f"""As a Dungeon Master, you are overseeing an encounter between {character_data['name']}, 
+a level {character_data['level']} {character_data['class']}, and a {monster_data['name']}.
 
-    The conversation so far:
-    {''.join(conversation_history)}
+The conversation so far:
+{''.join(conversation_history)}
 
-    Based on this interaction, decide whether to:
-    1. Enter combat mode if the player has been hostile, aggressive, or antagonistic.
-    2. Generate a [scary, funny, deep, interesting, spiritual, or competitive] end scenario and move to exploration mode only if the player has been neutral or friendly.
+Based on this interaction, decide whether to:
+1. Enter combat mode if the player has been hostile, aggressive, or antagonistic.
+2. Generate a [scary, funny, deep, interesting, spiritual, or competitive] end scenario and move to exploration mode only if the player has been neutral or friendly.
 
-    Your decision should be heavily influenced by the player's language and attitude. If the player has used any aggressive, threatening, or insulting language, combat should be the most likely outcome.
+Your decision should be heavily influenced by the player's language and attitude. If the player has used any aggressive, threatening, or insulting language, combat should be the most likely outcome.
 
-    Respond with your decision and a brief explanation in the following format:
-    Decision: [Combat/End Scenario]
-    Scenario Type (if applicable): [scary/funny/deep/interesting/spiritual/competitive]
-    Explanation: [Your reasoning, with specific reference to player's words or attitude]
-    Next Action: [A sentence describing what happens next]"""
+Respond with your decision and a brief explanation in the following format:
+Decision: [Combat/End Scenario]
+Scenario Type (if applicable): [scary/funny/deep/interesting/spiritual/competitive]
+Explanation: [Your reasoning, with specific reference to player's words or attitude]
+Next Action: [A sentence describing what happens next]"""
 
-        messages = [
-            {"role": "user", "content": prompt}
-        ]
+    messages = [
+        {"role": "user", "content": prompt}
+    ]
 
-        response = get_llm_response(messages)
-    else:
-        # Fallback method
-        response = """Decision: Combat
-Explanation: The player's words seemed confrontational.
-Next Action: The creature prepares for combat."""
+    response = get_llm_response(messages)
 
     # Additional logic to force combat for extremely hostile language
     force_combat_triggers = ["die", "kill", "attack", "fight", "destroy"]
@@ -79,8 +92,6 @@ Explanation: The player used explicitly hostile language, immediately triggering
 Next Action: The creature, provoked by the aggressive words, launches into an attack!"""
     
     return response
-
-# The rest of the functions (encounter, combat, player_turn, monster_turn, get_user_choice, end_game) remain the same
 
 def encounter(character_data, monster_data, location, file_path, movement_speed):
     print(f"\nYou find yourself in {location}.")
