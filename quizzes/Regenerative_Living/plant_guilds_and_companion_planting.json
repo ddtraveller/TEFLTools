@@ -1,0 +1,305 @@
+{
+  "title": "Plant Guilds and Companion Planting in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is a plant guild?",
+      "choices": [
+        "A group of plants that work together and support each other",
+        "A group of plants that compete with each other for resources",
+        "A type of plant that only grows in Timor-Leste",
+        "A method of planting crops in straight rows"
+      ],
+      "answer": "A group of plants that work together and support each other"
+    },
+    {
+      "question": "What is companion planting?",
+      "choices": [
+        "The practice of planting different crops together for mutual benefits",
+        "The practice of planting only one type of crop in a field",
+        "The practice of planting crops in a greenhouse",
+        "The practice of planting crops without any planning or design"
+      ],
+      "answer": "The practice of planting different crops together for mutual benefits"
+    },
+    {
+      "question": "Why are plant guilds and companion planting important in sustainable agriculture?",
+      "choices": [
+        "They promote biodiversity, pest control, and efficient use of resources",
+        "They require more chemical inputs and labor than monocultures",
+        "They are only suitable for large-scale industrial farms",
+        "They have no significant benefits over traditional monoculture practices"
+      ],
+      "answer": "They promote biodiversity, pest control, and efficient use of resources"
+    },
+    {
+      "question": "Which of the following is an example of complementary nutrient needs in a plant guild?",
+      "choices": [
+        "Legumes fixing nitrogen for other plants",
+        "All plants competing for the same nutrients",
+        "Plants releasing toxins to inhibit the growth of other plants",
+        "Plants with shallow roots blocking the growth of deep-rooted plants"
+      ],
+      "answer": "Legumes fixing nitrogen for other plants"
+    },
+    {
+      "question": "What is the benefit of having plants with different heights (vertical layering) in a guild?",
+      "choices": [
+        "It maximizes the use of space and resources",
+        "It makes the garden look more aesthetically pleasing",
+        "It prevents the plants from interacting with each other",
+        "It makes the plants more susceptible to pests and diseases"
+      ],
+      "answer": "It maximizes the use of space and resources"
+    },
+    {
+      "question": "How can plant guilds help with pest and disease management?",
+      "choices": [
+        "By creating habitats for beneficial insects that prey on pests",
+        "By attracting more pests to the garden",
+        "By making the plants more susceptible to diseases",
+        "By requiring the use of more chemical pesticides"
+      ],
+      "answer": "By creating habitats for beneficial insects that prey on pests"
+    },
+    {
+      "question": "What is the role of some plants in improving soil health within a guild?",
+      "choices": [
+        "They add organic matter and nutrients to the soil",
+        "They deplete the soil of all nutrients",
+        "They make the soil more compacted and hard to work with",
+        "They have no effect on soil health"
+      ],
+      "answer": "They add organic matter and nutrients to the soil"
+    },
+    {
+      "question": "How can plant guilds create beneficial microclimates?",
+      "choices": [
+        "By providing shade, windbreaks, or humidity regulation",
+        "By creating extreme temperature fluctuations",
+        "By promoting soil erosion and water runoff",
+        "By inhibiting the growth of all other plants around them"
+      ],
+      "answer": "By providing shade, windbreaks, or humidity regulation"
+    },
+    {
+      "question": "What is the traditional 'Three Sisters' companion planting combination?",
+      "choices": [
+        "Corn, beans, and squash",
+        "Tomatoes, peppers, and eggplants",
+        "Carrots, onions, and lettuce",
+        "Potatoes, wheat, and barley"
+      ],
+      "answer": "Corn, beans, and squash"
+    },
+    {
+      "question": "In a fruit tree guild, what is the role of lemongrass (Duut-morin)?",
+      "choices": [
+        "To repel pests and provide a pleasant scent",
+        "To fix nitrogen in the soil for the fruit trees",
+        "To climb up the fruit trees for support",
+        "To compete with the fruit trees for sunlight"
+      ],
+      "answer": "To repel pests and provide a pleasant scent"
+    },
+    {
+      "question": "What is the benefit of planting marigolds (Klaor) with tomatoes?",
+      "choices": [
+        "Marigolds repel pests like nematodes that attack tomato roots",
+        "Marigolds attract more tomato pests to the garden",
+        "Marigolds compete with tomatoes for nutrients in the soil",
+        "Marigolds have no effect on tomato growth or health"
+      ],
+      "answer": "Marigolds repel pests like nematodes that attack tomato roots"
+    },
+    {
+      "question": "How can pigeon peas (Tunis) help eggplants (Brinjela) in a companion planting system?",
+      "choices": [
+        "Pigeon peas fix nitrogen in the soil, benefiting the eggplants",
+        "Pigeon peas shade the eggplants from too much sun",
+        "Pigeon peas attract eggplant pests away from the crop",
+        "Pigeon peas have no beneficial effect on eggplant growth"
+      ],
+      "answer": "Pigeon peas fix nitrogen in the soil, benefiting the eggplants"
+    },
+    {
+      "question": "How do plant guilds help with water retention in Timor-Leste's dry season?",
+      "choices": [
+        "The diverse plant cover helps shade the soil and reduce evaporation",
+        "The plants compete with each other for the limited water, making them more drought-resistant",
+        "The plants channel water away from the soil, preventing waterlogging",
+        "Plant guilds have no significant impact on water retention in the soil"
+      ],
+      "answer": "The diverse plant cover helps shade the soil and reduce evaporation"
+    },
+    {
+      "question": "How can plant guilds enhance soil fertility in Timor-Leste's poor soils?",
+      "choices": [
+        "By including nitrogen-fixing legumes and nutrient-accumulating plants",
+        "By promoting soil erosion and nutrient leaching",
+        "By requiring the use of more chemical fertilizers",
+        "By making the soil more acidic and less fertile"
+      ],
+      "answer": "By including nitrogen-fixing legumes and nutrient-accumulating plants"
+    },
+    {
+      "question": "Why are plant guilds and companion planting particularly useful for natural pest control in Timor-Leste?",
+      "choices": [
+        "Many farmers have limited access to commercial pesticides",
+        "Pests are not a significant problem in Timor-Leste's agriculture",
+        "Chemical pesticides are more effective than natural pest control methods",
+        "Farmers in Timor-Leste prefer to use chemical pesticides over natural methods"
+      ],
+      "answer": "Many farmers have limited access to commercial pesticides"
+    },
+    {
+      "question": "How can plant guilds increase overall productivity in small land areas?",
+      "choices": [
+        "By maximizing the use of vertical space and resources",
+        "By reducing the number of plants that can be grown in a given area",
+        "By requiring more land to be dedicated to each crop",
+        "By promoting the growth of weeds and undesired plants"
+      ],
+      "answer": "By maximizing the use of vertical space and resources"
+    },
+    {
+      "question": "How do plant guilds and companion planting help preserve biodiversity in Timor-Leste?",
+      "choices": [
+        "By promoting the use of diverse, traditional crop varieties",
+        "By encouraging the planting of only a few high-yielding varieties",
+        "By replacing native plants with introduced, exotic species",
+        "By promoting the use of genetically modified crops"
+      ],
+      "answer": "By promoting the use of diverse, traditional crop varieties"
+    },
+    {
+      "question": "What is the purpose of discussing traditional Timorese polyculture systems in this lesson?",
+      "choices": [
+        "To learn from local ecological knowledge and practices",
+        "To discourage the use of traditional farming methods",
+        "To promote the adoption of modern, industrial agriculture",
+        "To criticize the inefficiency of traditional polyculture systems"
+      ],
+      "answer": "To learn from local ecological knowledge and practices"
+    },
+    {
+      "question": "What is the goal of the hands-on activity in this lesson?",
+      "choices": [
+        "To apply the principles of plant guilds to design a Timorese garden",
+        "To practice planting crops in monoculture rows",
+        "To learn how to use chemical pesticides and fertilizers",
+        "To compete with other groups for the best garden design"
+      ],
+      "answer": "To apply the principles of plant guilds to design a Timorese garden"
+    },
+    {
+      "question": "What is one challenge in implementing plant guilds and companion planting in Timor-Leste?",
+      "choices": [
+        "Balancing traditional practices with new techniques",
+        "Lack of available land for planting diverse crops",
+        "Absence of beneficial insects in the local ecosystem",
+        "Inability of local farmers to understand complex plant interactions"
+      ],
+      "answer": "Balancing traditional practices with new techniques"
+    },
+    {
+      "question": "How might climate change impact the use of plant guilds in Timor-Leste?",
+      "choices": [
+        "Changing weather patterns may require adaptation of plant selections and combinations",
+        "Climate change will have no effect on plant guilds and companion planting",
+        "Warmer temperatures will make plant guilds easier to manage",
+        "Climate change will eliminate the need for companion planting"
+      ],
+      "answer": "Changing weather patterns may require adaptation of plant selections and combinations"
+    },
+    {
+      "question": "What is a potential challenge in marketing crops from plant guilds?",
+      "choices": [
+        "Some buyers may prefer single-crop products over diverse harvests",
+        "Plant guilds always produce higher yields than monocultures",
+        "Companion planting is not compatible with commercial agriculture",
+        "Diverse crops are easier to harvest and process than monocultures"
+      ],
+      "answer": "Some buyers may prefer single-crop products over diverse harvests"
+    },
+    {
+      "question": "Why might managing plant guilds require more labor than monocultures?",
+      "choices": [
+        "Diverse plantings may need more individualized attention and care",
+        "Plant guilds require less weeding and pest control than monocultures",
+        "Harvesting multiple crops is always less time-consuming than harvesting a single crop",
+        "Companion planting eliminates the need for any crop maintenance"
+      ],
+      "answer": "Diverse plantings may need more individualized attention and care"
+    },
+    {
+      "question": "What is the main objective of the student assignment?",
+      "choices": [
+        "To learn about traditional companion planting practices from local experts",
+        "To convince farmers to abandon traditional practices in favor of modern methods",
+        "To gather data on the ineffectiveness of polyculture systems",
+        "To discourage the use of plant guilds and companion planting"
+      ],
+      "answer": "To learn about traditional companion planting practices from local experts"
+    },
+    {
+      "question": "How can traditional ecological knowledge be integrated with modern agricultural science?",
+      "choices": [
+        "By combining the best practices from both to create sustainable and resilient systems",
+        "By completely replacing traditional practices with modern techniques",
+        "By rejecting all modern scientific knowledge in favor of traditional methods",
+        "By keeping traditional and modern practices entirely separate"
+      ],
+      "answer": "By combining the best practices from both to create sustainable and resilient systems"
+    },
+    {
+      "question": "What is a potential benefit of scaling up plant guilds and companion planting in Timor-Leste?",
+      "choices": [
+        "Increased food security and agricultural resilience",
+        "Reduced crop diversity and ecosystem health",
+        "Higher dependence on external inputs and resources",
+        "Loss of traditional knowledge and cultural practices"
+      ],
+      "answer": "Increased food security and agricultural resilience"
+    },
+    {
+      "question": "What is a key principle of designing plant guilds for a specific location?",
+      "choices": [
+        "Selecting plants that are well-adapted to the local climate and soil conditions",
+        "Choosing plants based solely on their aesthetic value",
+        "Including as many exotic and introduced species as possible",
+        "Prioritizing the needs of the plants over the needs of the local community"
+      ],
+      "answer": "Selecting plants that are well-adapted to the local climate and soil conditions"
+    },
+    {
+      "question": "How can plant guilds support the conservation of Timor-Leste's cultural heritage?",
+      "choices": [
+        "By preserving traditional crop varieties and farming practices",
+        "By replacing traditional crops with modern, high-yielding varieties",
+        "By encouraging the use of chemical inputs and mechanization",
+        "By promoting the adoption of foreign agricultural practices"
+      ],
+      "answer": "By preserving traditional crop varieties and farming practices"
+    },
+    {
+      "question": "What is the role of plant diversity in the resilience of Timorese agroecosystems?",
+      "choices": [
+        "Diversity enhances the system's ability to withstand pests, diseases, and climate stress",
+        "Diversity makes the system more vulnerable to environmental challenges",
+        "Diversity has no impact on the resilience of the agroecosystem",
+        "Diversity is detrimental to the productivity and stability of the system"
+      ],
+      "answer": "Diversity enhances the system's ability to withstand pests, diseases, and climate stress"
+    },
+    {
+      "question": "What is the significance of plant guilds and companion planting for Timor-Leste's food sovereignty?",
+      "choices": [
+        "They promote locally adapted, diverse, and culturally appropriate food production",
+        "They increase dependence on imported seeds, inputs, and technologies",
+        "They undermine the ability of communities to make decisions about their food systems",
+        "They have no impact on food sovereignty and self-determination"
+      ],
+      "answer": "They promote locally adapted, diverse, and culturally appropriate food production"
+    }
+  ]
+}

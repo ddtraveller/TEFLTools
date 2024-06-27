@@ -1,0 +1,305 @@
+{
+  "title": "Agroforestry and Silvopasture in Perennial Food Systems Quiz",
+  "questions": [
+    {
+      "question": "What is agroforestry?",
+      "choices": [
+        "The integration of trees with agricultural crops or livestock",
+        "The practice of growing only trees for timber production",
+        "The science of studying forest ecosystems",
+        "The art of creating ornamental tree sculptures"
+      ],
+      "answer": "The integration of trees with agricultural crops or livestock"
+    },
+    {
+      "question": "What is silvopasture?",
+      "choices": [
+        "The integration of trees with livestock grazing",
+        "The practice of growing trees for silvery leaves",
+        "The art of creating tree-themed sculptures",
+        "The science of studying forest soils"
+      ],
+      "answer": "The integration of trees with livestock grazing"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of agroforestry and silvopasture?",
+      "choices": [
+        "Monoculture plantations",
+        "Multifunctionality",
+        "Sustainability and ecosystem services",
+        "Economic diversification"
+      ],
+      "answer": "Monoculture plantations"
+    },
+    {
+      "question": "What is alley cropping?",
+      "choices": [
+        "Planting crops between rows of trees",
+        "Creating windbreaks with trees",
+        "Planting trees along waterways",
+        "Cultivating crops under a forest canopy"
+      ],
+      "answer": "Planting crops between rows of trees"
+    },
+    {
+      "question": "What is the main purpose of windbreaks and shelterbelts?",
+      "choices": [
+        "To protect crops and livestock from wind damage",
+        "To create alleys for crop planting",
+        "To provide habitat for aquatic species",
+        "To cultivate shade-loving understory crops"
+      ],
+      "answer": "To protect crops and livestock from wind damage"
+    },
+    {
+      "question": "What are riparian buffer strips?",
+      "choices": [
+        "Strips of trees planted along waterways to prevent erosion and filter pollutants",
+        "Strips of land used for grazing livestock",
+        "Strips of land planted with wind-resistant tree species",
+        "Strips of land used for cultivating medicinal forest plants"
+      ],
+      "answer": "Strips of trees planted along waterways to prevent erosion and filter pollutants"
+    },
+    {
+      "question": "What is forest farming?",
+      "choices": [
+        "Cultivating high-value specialty crops under a forest canopy",
+        "Raising livestock in a forest setting",
+        "Planting crops between rows of trees",
+        "Creating shelterbelts to protect farmland"
+      ],
+      "answer": "Cultivating high-value specialty crops under a forest canopy"
+    },
+    {
+      "question": "Which of the following is an ecological benefit of agroforestry and silvopasture?",
+      "choices": [
+        "Soil conservation and improvement",
+        "Decreased biodiversity",
+        "Increased carbon emissions",
+        "Reduced water infiltration"
+      ],
+      "answer": "Soil conservation and improvement"
+    },
+    {
+      "question": "How can agroforestry and silvopasture enhance biodiversity?",
+      "choices": [
+        "By providing diverse habitats and resources for wildlife",
+        "By promoting monoculture plantations",
+        "By simplifying ecosystem structure and function",
+        "By reducing the number of native species"
+      ],
+      "answer": "By providing diverse habitats and resources for wildlife"
+    },
+    {
+      "question": "What is a key economic benefit of agroforestry and silvopasture?",
+      "choices": [
+        "Diversified income streams",
+        "Decreased overall productivity",
+        "Increased reliance on a single crop",
+        "Higher risk of crop failure"
+      ],
+      "answer": "Diversified income streams"
+    },
+    {
+      "question": "How can agroforestry and silvopasture contribute to risk mitigation?",
+      "choices": [
+        "By spreading risk across multiple crops and products",
+        "By relying on a single high-value crop",
+        "By increasing vulnerability to pests and diseases",
+        "By reducing the adaptability to climate change"
+      ],
+      "answer": "By spreading risk across multiple crops and products"
+    },
+    {
+      "question": "What is a social benefit of agroforestry and silvopasture?",
+      "choices": [
+        "Preservation of traditional knowledge",
+        "Decreased landscape aesthetics",
+        "Displacement of local communities",
+        "Loss of cultural heritage"
+      ],
+      "answer": "Preservation of traditional knowledge"
+    },
+    {
+      "question": "What is the purpose of analyzing case studies in this lesson?",
+      "choices": [
+        "To learn from real-world examples of successful agroforestry and silvopasture projects",
+        "To critique the design and management of these systems",
+        "To emphasize the challenges and limitations of these practices",
+        "To discourage students from implementing these systems"
+      ],
+      "answer": "To learn from real-world examples of successful agroforestry and silvopasture projects"
+    },
+    {
+      "question": "What is a key consideration in designing an agroforestry or silvopasture system?",
+      "choices": [
+        "Selecting species that are well-suited to the climate and site conditions",
+        "Choosing the most profitable species regardless of ecological compatibility",
+        "Planting as many trees as possible to maximize carbon sequestration",
+        "Designing the system based on aesthetic preferences rather than functional goals"
+      ],
+      "answer": "Selecting species that are well-suited to the climate and site conditions"
+    },
+    {
+      "question": "What is the purpose of the small group design exercise in this lesson?",
+      "choices": [
+        "To apply the principles and concepts learned in a hands-on activity",
+        "To compete with other groups for the best design",
+        "To critique the designs of other groups",
+        "To demonstrate the superiority of monoculture systems"
+      ],
+      "answer": "To apply the principles and concepts learned in a hands-on activity"
+    },
+    {
+      "question": "What is a potential challenge in implementing agroforestry and silvopasture systems?",
+      "choices": [
+        "Higher initial establishment costs and longer time to profitability",
+        "Reduced management requirements compared to monoculture systems",
+        "Lack of available information and resources on these practices",
+        "Limited potential for scaling up and expanding these systems"
+      ],
+      "answer": "Higher initial establishment costs and longer time to profitability"
+    },
+    {
+      "question": "Why do agroforestry and silvopasture systems require more knowledge and management intensity?",
+      "choices": [
+        "Because of the complexity of managing multiple species and their interactions",
+        "Because these systems are less productive than monocultures",
+        "Because there is a lack of research and information on these practices",
+        "Because these systems are not economically viable in the long run"
+      ],
+      "answer": "Because of the complexity of managing multiple species and their interactions"
+    },
+    {
+      "question": "What is an example of a potential competition between components in an agroforestry system?",
+      "choices": [
+        "Trees competing with crops for light, water, and nutrients",
+        "Livestock providing manure to fertilize the trees",
+        "Crops acting as a living mulch to suppress weeds around the trees",
+        "Trees creating a windbreak to protect the crops from wind damage"
+      ],
+      "answer": "Trees competing with crops for light, water, and nutrients"
+    },
+    {
+      "question": "What is a key goal of researching and presenting traditional agroforestry systems in the assignment?",
+      "choices": [
+        "To learn from the ecological and cultural wisdom embedded in these systems",
+        "To critique these systems as primitive and inefficient",
+        "To emphasize the superiority of modern industrial agriculture",
+        "To discourage the adaptation of these systems to contemporary contexts"
+      ],
+      "answer": "To learn from the ecological and cultural wisdom embedded in these systems"
+    },
+    {
+      "question": "How can agroforestry and silvopasture contribute to soil conservation and improvement?",
+      "choices": [
+        "By reducing erosion, increasing organic matter, and improving soil structure",
+        "By compacting the soil and reducing water infiltration",
+        "By increasing the use of chemical fertilizers and pesticides",
+        "By promoting monoculture plantations that deplete soil nutrients"
+      ],
+      "answer": "By reducing erosion, increasing organic matter, and improving soil structure"
+    },
+    {
+      "question": "What is the role of trees in carbon sequestration?",
+      "choices": [
+        "Trees absorb and store carbon dioxide from the atmosphere in their biomass and soils",
+        "Trees release carbon dioxide into the atmosphere through respiration",
+        "Trees have no significant impact on carbon cycles and climate change",
+        "Trees contribute to carbon emissions by producing methane"
+      ],
+      "answer": "Trees absorb and store carbon dioxide from the atmosphere in their biomass and soils"
+    },
+    {
+      "question": "How can agroforestry and silvopasture improve water management?",
+      "choices": [
+        "By increasing water infiltration, reducing runoff, and regulating water flow",
+        "By increasing water evaporation and reducing soil moisture",
+        "By channeling water away from crops and pastures",
+        "By promoting the use of irrigation and groundwater pumping"
+      ],
+      "answer": "By increasing water infiltration, reducing runoff, and regulating water flow"
+    },
+    {
+      "question": "What is a potential economic benefit of increased overall productivity in agroforestry and silvopasture systems?",
+      "choices": [
+        "Higher total yields and income per unit area",
+        "Lower production costs and labor requirements",
+        "Greater reliance on a single high-value product",
+        "Increased vulnerability to market fluctuations"
+      ],
+      "answer": "Higher total yields and income per unit area"
+    },
+    {
+      "question": "How can agroforestry and silvopasture preserve traditional knowledge?",
+      "choices": [
+        "By building upon centuries of indigenous land management practices",
+        "By promoting the use of modern industrial technologies",
+        "By displacing local communities and their cultural heritage",
+        "By encouraging the adoption of exotic species and practices"
+      ],
+      "answer": "By building upon centuries of indigenous land management practices"
+    },
+    {
+      "question": "What is the importance of species selection in designing an agroforestry or silvopasture system?",
+      "choices": [
+        "Choosing species that are ecologically compatible and provide multiple benefits",
+        "Selecting the most profitable species regardless of their environmental impact",
+        "Planting only fast-growing exotic species to maximize productivity",
+        "Designing the system based on aesthetic preferences rather than functional goals"
+      ],
+      "answer": "Choosing species that are ecologically compatible and provide multiple benefits"
+    },
+    {
+      "question": "What is a key consideration in the spatial and temporal arrangement of an agroforestry system?",
+      "choices": [
+        "Optimizing the interactions and complementarity between the components",
+        "Maximizing competition and redundancy among the species",
+        "Simplifying the system by planting in monoculture blocks",
+        "Ignoring the ecological needs and growth habits of the species"
+      ],
+      "answer": "Optimizing the interactions and complementarity between the components"
+    },
+    {
+      "question": "What is a potential policy challenge for agroforestry and silvopasture adoption?",
+      "choices": [
+        "Lack of recognition and support in agricultural programs and subsidies",
+        "Excessive regulation and bureaucratic obstacles",
+        "Strong incentives and rewards for adopting these practices",
+        "Widespread public awareness and demand for agroforestry products"
+      ],
+      "answer": "Lack of recognition and support in agricultural programs and subsidies"
+    },
+    {
+      "question": "What is a key trend driving the future expansion of agroforestry and silvopasture?",
+      "choices": [
+        "Growing recognition of the ecological and social benefits of these systems",
+        "Increasing public demand for monoculture products and industrial farming",
+        "Declining interest in sustainable land management and conservation",
+        "Shrinking markets and economic opportunities for diversified farming systems"
+      ],
+      "answer": "Growing recognition of the ecological and social benefits of these systems"
+    },
+    {
+      "question": "What is a key lesson that modern agroforestry can learn from traditional systems?",
+      "choices": [
+        "The importance of adapting practices to local ecological and cultural contexts",
+        "The superiority of introduced exotic species over native ones",
+        "The efficiency and simplicity of monoculture production systems",
+        "The irrelevance of indigenous knowledge and land management practices"
+      ],
+      "answer": "The importance of adapting practices to local ecological and cultural contexts"
+    },
+    {
+      "question": "What is the main goal of agroforestry and silvopasture in the context of perennial food systems?",
+      "choices": [
+        "To create diverse, resilient, and sustainable land use systems",
+        "To maximize short-term profits and yields through intensive monocultures",
+        "To simplify and standardize agricultural production methods",
+        "To replace natural ecosystems with artificial landscapes"
+      ],
+      "answer": "To create diverse, resilient, and sustainable land use systems"
+    }
+  ]
+}

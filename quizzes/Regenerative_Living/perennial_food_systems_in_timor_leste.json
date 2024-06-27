@@ -1,0 +1,315 @@
+{
+  "title": "Perennial Food Systems in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What are perennial food systems?",
+      "choices": [
+        "Agricultural systems based on crops that live for multiple years",
+        "Systems that only grow annual crops",
+        "Food systems that rely on imported products",
+        "Systems that only produce food for export"
+      ],
+      "answer": "Agricultural systems based on crops that live for multiple years"
+    },
+    {
+      "question": "Why are perennial food systems important for sustainable agriculture?",
+      "choices": [
+        "They enhance soil health, biodiversity, and resilience",
+        "They require more chemical inputs than annual crops",
+        "They are less adaptable to climate change",
+        "They have lower yields than annual monocultures"
+      ],
+      "answer": "They enhance soil health, biodiversity, and resilience"
+    },
+    {
+      "question": "What is a major agricultural challenge in Timor-Leste?",
+      "choices": [
+        "Frequent droughts and irregular rainfall",
+        "Extremely cold temperatures",
+        "Lack of available land for cultivation",
+        "Overuse of chemical fertilizers"
+      ],
+      "answer": "Frequent droughts and irregular rainfall"
+    },
+    {
+      "question": "Which of the following is NOT a perennial fruit crop mentioned in the lesson?",
+      "choices": [
+        "Avocado",
+        "Banana",
+        "Papaya",
+        "Breadfruit"
+      ],
+      "answer": "Avocado"
+    },
+    {
+      "question": "What is the local Tetum name for papaya?",
+      "choices": [
+        "Aidila",
+        "Hudi",
+        "Has",
+        "Nu"
+      ],
+      "answer": "Aidila"
+    },
+    {
+      "question": "Which perennial nut crop is known as 'Kami' in Tetum?",
+      "choices": [
+        "Candlenut",
+        "Cashew",
+        "Macadamia",
+        "Almond"
+      ],
+      "answer": "Candlenut"
+    },
+    {
+      "question": "What are the leaves of cassava called in Tetum?",
+      "choices": [
+        "Ai-farina",
+        "Fehuk midar",
+        "Marungi",
+        "Kulu"
+      ],
+      "answer": "Ai-farina"
+    },
+    {
+      "question": "Which perennial vegetable is known for its high nutritional value?",
+      "choices": [
+        "Moringa",
+        "Sweet potato leaves",
+        "Cassava leaves",
+        "Taro leaves"
+      ],
+      "answer": "Moringa"
+    },
+    {
+      "question": "What is the local Tetum name for taro?",
+      "choices": [
+        "Talas",
+        "Akar",
+        "Ai-farina",
+        "Aidila"
+      ],
+      "answer": "Talas"
+    },
+    {
+      "question": "Which perennial staple crop is derived from a palm tree?",
+      "choices": [
+        "Sago",
+        "Cassava",
+        "Taro",
+        "Sweet potato"
+      ],
+      "answer": "Sago"
+    },
+    {
+      "question": "How do perennial crops contribute to climate resilience in Timor-Leste?",
+      "choices": [
+        "They are more tolerant to droughts and help control erosion",
+        "They require more water than annual crops",
+        "They are more susceptible to pests and diseases",
+        "They do not provide ground cover during the dry season"
+      ],
+      "answer": "They are more tolerant to droughts and help control erosion"
+    },
+    {
+      "question": "What is an advantage of perennial crops in terms of labor and inputs?",
+      "choices": [
+        "They require less labor and inputs compared to annual crops",
+        "They need to be replanted every year",
+        "They rely heavily on chemical fertilizers and pesticides",
+        "They are more labor-intensive to harvest"
+      ],
+      "answer": "They require less labor and inputs compared to annual crops"
+    },
+    {
+      "question": "How do perennial food systems contribute to soil health?",
+      "choices": [
+        "They improve soil structure and increase carbon sequestration",
+        "They deplete soil nutrients more quickly than annual crops",
+        "They promote soil erosion and degradation",
+        "They have no significant impact on soil health"
+      ],
+      "answer": "They improve soil structure and increase carbon sequestration"
+    },
+    {
+      "question": "What is a key benefit of perennial food systems for food security in Timor-Leste?",
+      "choices": [
+        "They provide a diverse range of food sources throughout the year",
+        "They only produce food during the wet season",
+        "They rely on a single staple crop for the majority of calories",
+        "They require food imports to supplement local production"
+      ],
+      "answer": "They provide a diverse range of food sources throughout the year"
+    },
+    {
+      "question": "How do perennial food systems help preserve traditional knowledge in Timor-Leste?",
+      "choices": [
+        "They often incorporate crops and practices used by ancestors",
+        "They rely solely on modern agricultural technologies",
+        "They discourage the use of local varieties and techniques",
+        "They have no connection to traditional knowledge or practices"
+      ],
+      "answer": "They often incorporate crops and practices used by ancestors"
+    },
+    {
+      "question": "What is an important consideration for site selection when establishing perennial crops?",
+      "choices": [
+        "Choosing locations with appropriate soil type and water access",
+        "Planting on steep slopes to maximize land use",
+        "Clearing all existing vegetation before planting",
+        "Selecting sites far from human settlements"
+      ],
+      "answer": "Choosing locations with appropriate soil type and water access"
+    },
+    {
+      "question": "What is a key water management strategy for perennial crops in Timor-Leste's climate?",
+      "choices": [
+        "Implementing water-saving techniques like mulching and drip irrigation",
+        "Relying solely on rainfall without any supplemental irrigation",
+        "Flooding the fields regularly to maximize water availability",
+        "Using large amounts of water to compensate for dry periods"
+      ],
+      "answer": "Implementing water-saving techniques like mulching and drip irrigation"
+    },
+    {
+      "question": "What is an advantage of using local pest control methods in perennial food systems?",
+      "choices": [
+        "They are often more environmentally friendly and cost-effective",
+        "They are less effective than chemical pesticides",
+        "They can harm beneficial insects and ecosystem balance",
+        "They are not available in Timor-Leste"
+      ],
+      "answer": "They are often more environmentally friendly and cost-effective"
+    },
+    {
+      "question": "What is the purpose of the hands-on activity in this lesson?",
+      "choices": [
+        "To apply the concepts learned by designing a perennial food system",
+        "To memorize the names of perennial crops in Tetum",
+        "To practice planting and harvesting techniques",
+        "To conduct a market analysis for perennial crop products"
+      ],
+      "answer": "To apply the concepts learned by designing a perennial food system"
+    },
+    {
+      "question": "What is a potential challenge for perennial food systems in Timor-Leste?",
+      "choices": [
+        "Land tenure issues and fragmented ownership",
+        "Lack of available land for cultivation",
+        "Overuse of chemical fertilizers and pesticides",
+        "Cold temperatures limiting crop growth"
+      ],
+      "answer": "Land tenure issues and fragmented ownership"
+    },
+    {
+      "question": "Why is it important to consider market access for perennial crops in Timor-Leste?",
+      "choices": [
+        "To ensure that farmers can sell their products and generate income",
+        "To limit the variety of crops grown in the country",
+        "To encourage the use of imported food products",
+        "To promote the export of all perennial crop harvests"
+      ],
+      "answer": "To ensure that farmers can sell their products and generate income"
+    },
+    {
+      "question": "What is a key consideration when integrating perennial crops with annual crops?",
+      "choices": [
+        "Ensuring a balance between long-term and short-term food needs",
+        "Planting perennial crops in monocultures for easier management",
+        "Avoiding the use of annual crops altogether",
+        "Harvesting all crops at the same time for efficiency"
+      ],
+      "answer": "Ensuring a balance between long-term and short-term food needs"
+    },
+    {
+      "question": "How might climate change impact perennial food systems in Timor-Leste?",
+      "choices": [
+        "Changing rainfall patterns and temperatures may affect crop suitability",
+        "Climate change will have no significant impact on perennial crops",
+        "Perennial crops will become less resilient to climate stresses",
+        "Climate change will make perennial crops easier to grow"
+      ],
+      "answer": "Changing rainfall patterns and temperatures may affect crop suitability"
+    },
+    {
+      "question": "What is the main goal of the student assignment in this lesson?",
+      "choices": [
+        "To deepen understanding of traditional Timorese perennial crop systems",
+        "To compare Timorese crops with those of other countries",
+        "To argue against the use of traditional practices in modern agriculture",
+        "To propose replacing all perennial crops with annual monocultures"
+      ],
+      "answer": "To deepen understanding of traditional Timorese perennial crop systems"
+    },
+    {
+      "question": "What is a key benefit of integrating traditional knowledge with modern sustainable practices?",
+      "choices": [
+        "Combining the best of both approaches for more resilient food systems",
+        "Disregarding traditional knowledge entirely",
+        "Rejecting all modern scientific insights and technologies",
+        "Maintaining strict separation between traditional and modern practices"
+      ],
+      "answer": "Combining the best of both approaches for more resilient food systems"
+    },
+    {
+      "question": "What is a potential benefit of scaling up perennial food systems in Timor-Leste?",
+      "choices": [
+        "Enhancing national food security and agricultural sustainability",
+        "Increasing the country's dependence on imported food",
+        "Accelerating the loss of traditional crops and knowledge",
+        "Promoting the use of chemical-intensive farming methods"
+      ],
+      "answer": "Enhancing national food security and agricultural sustainability"
+    },
+    {
+      "question": "Why are perennial food systems well-suited to Timor-Leste's ecological context?",
+      "choices": [
+        "Many perennial crops are native or adapted to the local climate",
+        "Perennial crops are not found in Timor-Leste's natural ecosystems",
+        "Timor-Leste's environment is unsuitable for perennial agriculture",
+        "Perennial crops require large amounts of external inputs to grow in Timor-Leste"
+      ],
+      "answer": "Many perennial crops are native or adapted to the local climate"
+    },
+    {
+      "question": "What is a key principle of designing a perennial food system for a Timorese community?",
+      "choices": [
+        "Tailoring the design to the specific needs, preferences, and resources of the community",
+        "Copying a generic design from a different location without modification",
+        "Prioritizing export crops over local food needs",
+        "Ignoring the input and participation of community members in the design process"
+      ],
+      "answer": "Tailoring the design to the specific needs, preferences, and resources of the community"
+    },
+    {
+      "question": "How can perennial food systems support cultural heritage in Timor-Leste?",
+      "choices": [
+        "By preserving and celebrating traditional crops, recipes, and farming practices",
+        "By replacing all traditional crops with imported varieties",
+        "By discouraging the use of local languages and customs related to food",
+        "By promoting a Western diet and way of life"
+      ],
+      "answer": "By preserving and celebrating traditional crops, recipes, and farming practices"
+    },
+    {
+      "question": "What is a key strategy for managing perennial crops during Timor-Leste's dry season?",
+      "choices": [
+        "Selecting drought-tolerant species and using water-saving techniques",
+        "Irrigating heavily to compensate for lack of rainfall",
+        "Harvesting all crops before the dry season begins",
+        "Relying solely on annual crops during the dry months"
+      ],
+      "answer": "Selecting drought-tolerant species and using water-saving techniques"
+    },
+    {
+      "question": "What is the significance of perennial food systems for Timor-Leste's development?",
+      "choices": [
+        "They can contribute to sustainable livelihoods, ecosystem health, and cultural resilience",
+        "They are a barrier to economic growth and modernization",
+        "They are irrelevant to the country's food security and agricultural needs",
+        "They are only suitable for subsistence farming, not commercial production"
+      ],
+      "answer": "They can contribute to sustainable livelihoods, ecosystem health, and cultural resilience"
+    }
+  ]
+}
