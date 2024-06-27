@@ -1,0 +1,305 @@
+{
+  "title": "Activated Charcoal - Uses and Production Quiz",
+  "questions": [
+    {
+      "question": "What is activated charcoal?",
+      "choices": [
+        "A highly porous form of carbon with a large surface area",
+        "A type of coal used for fuel",
+        "A naturally occurring mineral",
+        "A synthetic polymer"
+      ],
+      "answer": "A highly porous form of carbon with a large surface area"
+    },
+    {
+      "question": "What is the main characteristic of activated charcoal that makes it useful?",
+      "choices": [
+        "Its ability to adsorb various substances",
+        "Its ability to conduct electricity",
+        "Its resistance to high temperatures",
+        "Its magnetic properties"
+      ],
+      "answer": "Its ability to adsorb various substances"
+    },
+    {
+      "question": "Which of the following is NOT a common raw material for producing activated charcoal?",
+      "choices": [
+        "Plastic waste",
+        "Coconut shells",
+        "Wood",
+        "Coal"
+      ],
+      "answer": "Plastic waste"
+    },
+    {
+      "question": "What is the first step in the production of activated charcoal?",
+      "choices": [
+        "Carbonization",
+        "Activation",
+        "Grinding",
+        "Washing"
+      ],
+      "answer": "Carbonization"
+    },
+    {
+      "question": "Which of the following is a physical activation method for producing activated charcoal?",
+      "choices": [
+        "Steam activation",
+        "Zinc chloride activation",
+        "Phosphoric acid activation",
+        "Potassium hydroxide activation"
+      ],
+      "answer": "Steam activation"
+    },
+    {
+      "question": "What is the purpose of the activation step in activated charcoal production?",
+      "choices": [
+        "To increase the porosity and surface area of the charcoal",
+        "To remove impurities from the charcoal",
+        "To change the chemical composition of the charcoal",
+        "To reduce the size of the charcoal particles"
+      ],
+      "answer": "To increase the porosity and surface area of the charcoal"
+    },
+    {
+      "question": "Which of the following is NOT a common use of activated charcoal?",
+      "choices": [
+        "As a food coloring agent",
+        "In water purification",
+        "In air filtration",
+        "In medical treatments"
+      ],
+      "answer": "As a food coloring agent"
+    },
+    {
+      "question": "How does activated charcoal help in water purification?",
+      "choices": [
+        "By adsorbing impurities and contaminants",
+        "By killing bacteria and viruses",
+        "By changing the pH of the water",
+        "By adding nutrients to the water"
+      ],
+      "answer": "By adsorbing impurities and contaminants"
+    },
+    {
+      "question": "What is the medical use of activated charcoal in emergency situations?",
+      "choices": [
+        "To treat certain types of poisoning or drug overdose",
+        "To cure bacterial infections",
+        "To relieve pain and inflammation",
+        "To promote wound healing"
+      ],
+      "answer": "To treat certain types of poisoning or drug overdose"
+    },
+    {
+      "question": "Which of the following is an industrial application of activated charcoal?",
+      "choices": [
+        "Gas purification",
+        "Electricity generation",
+        "Plastic production",
+        "Cement manufacturing"
+      ],
+      "answer": "Gas purification"
+    },
+    {
+      "question": "What is biochar?",
+      "choices": [
+        "A form of activated charcoal used as a soil amendment",
+        "A type of biofuel produced from organic waste",
+        "A biodegradable plastic alternative",
+        "A biological pesticide"
+      ],
+      "answer": "A form of activated charcoal used as a soil amendment"
+    },
+    {
+      "question": "How does biochar improve soil quality?",
+      "choices": [
+        "By increasing water retention and nutrient availability",
+        "By reducing soil pH",
+        "By increasing soil compaction",
+        "By promoting weed growth"
+      ],
+      "answer": "By increasing water retention and nutrient availability"
+    },
+    {
+      "question": "What is one potential long-term effect of biochar application in soil?",
+      "choices": [
+        "Enhanced soil microbial activity",
+        "Increased soil erosion",
+        "Reduced plant growth",
+        "Decreased soil fertility"
+      ],
+      "answer": "Enhanced soil microbial activity"
+    },
+    {
+      "question": "What is a potential environmental benefit of using biochar?",
+      "choices": [
+        "Carbon sequestration",
+        "Increased greenhouse gas emissions",
+        "Depletion of natural resources",
+        "Soil acidification"
+      ],
+      "answer": "Carbon sequestration"
+    },
+    {
+      "question": "Which of the following is a concern regarding the sustainability of activated charcoal production?",
+      "choices": [
+        "The depletion of raw material sources",
+        "The low energy consumption in production",
+        "The lack of industrial applications",
+        "The short shelf life of the product"
+      ],
+      "answer": "The depletion of raw material sources"
+    },
+    {
+      "question": "What safety precaution should be taken when producing biochar on a small scale?",
+      "choices": [
+        "Ensuring proper ventilation to avoid smoke inhalation",
+        "Wearing sunscreen to protect from UV radiation",
+        "Using plastic containers to prevent contamination",
+        "Adding water to the biomass to prevent drying out"
+      ],
+      "answer": "Ensuring proper ventilation to avoid smoke inhalation"
+    },
+    {
+      "question": "What is the purpose of using a metal can in the biochar production demonstration?",
+      "choices": [
+        "To contain the biomass during the charring process",
+        "To collect the ash after the charring process",
+        "To measure the temperature of the fire",
+        "To stir the biomass during the charring process"
+      ],
+      "answer": "To contain the biomass during the charring process"
+    },
+    {
+      "question": "What is one potential future research area for activated charcoal?",
+      "choices": [
+        "Its use in advanced battery technologies",
+        "Its application as a food preservative",
+        "Its potential as a construction material",
+        "Its use in space exploration"
+      ],
+      "answer": "Its use in advanced battery technologies"
+    },
+    {
+      "question": "What is the purpose of comparing regular charcoal and activated charcoal in the demonstration?",
+      "choices": [
+        "To highlight the unique properties of activated charcoal",
+        "To show that they are interchangeable",
+        "To compare their prices",
+        "To test their flammability"
+      ],
+      "answer": "To highlight the unique properties of activated charcoal"
+    },
+    {
+      "question": "Which of the following best describes the pore structure of activated charcoal?",
+      "choices": [
+        "A complex network of microscopic pores",
+        "A smooth, non-porous surface",
+        "A regular arrangement of macroscopic holes",
+        "A crystalline lattice structure"
+      ],
+      "answer": "A complex network of microscopic pores"
+    },
+    {
+      "question": "What is the main difference between physical and chemical activation methods?",
+      "choices": [
+        "The use of gases versus chemicals to create the porous structure",
+        "The temperature range used in the activation process",
+        "The type of raw material used for production",
+        "The final color of the activated charcoal produced"
+      ],
+      "answer": "The use of gases versus chemicals to create the porous structure"
+    },
+    {
+      "question": "Which of the following is an advantage of using activated charcoal in animal feed?",
+      "choices": [
+        "It can adsorb toxins and improve digestive health",
+        "It increases the caloric content of the feed",
+        "It enhances the flavor and aroma of the feed",
+        "It promotes rapid weight gain in animals"
+      ],
+      "answer": "It can adsorb toxins and improve digestive health"
+    },
+    {
+      "question": "What is the role of activated charcoal in cosmetic and personal care products?",
+      "choices": [
+        "To remove impurities and toxins from the skin",
+        "To provide color and pigmentation",
+        "To act as a preservative",
+        "To enhance the fragrance of the product"
+      ],
+      "answer": "To remove impurities and toxins from the skin"
+    },
+    {
+      "question": "How does activated charcoal's adsorption capacity compare to that of regular charcoal?",
+      "choices": [
+        "Activated charcoal has a much higher adsorption capacity",
+        "Regular charcoal has a higher adsorption capacity",
+        "They have similar adsorption capacities",
+        "Adsorption capacity is not a relevant property for charcoal"
+      ],
+      "answer": "Activated charcoal has a much higher adsorption capacity"
+    },
+    {
+      "question": "What is the typical application rate of biochar in agricultural soils?",
+      "choices": [
+        "Between 1 and 10 tons per hectare",
+        "Less than 1 kilogram per hectare",
+        "Between 50 and 100 tons per hectare",
+        "Application rate is not important for biochar"
+      ],
+      "answer": "Between 1 and 10 tons per hectare"
+    },
+    {
+      "question": "What is one potential drawback of using activated charcoal in water filtration?",
+      "choices": [
+        "It may require frequent replacement due to saturation",
+        "It can introduce harmful chemicals into the water",
+        "It is not effective in removing dissolved contaminants",
+        "It significantly reduces the pH of the water"
+      ],
+      "answer": "It may require frequent replacement due to saturation"
+    },
+    {
+      "question": "Which of the following is a factor that influences the effectiveness of activated charcoal in a specific application?",
+      "choices": [
+        "The pore size distribution and surface chemistry of the charcoal",
+        "The color and texture of the charcoal",
+        "The geographic origin of the raw material used for production",
+        "The brand name of the activated charcoal product"
+      ],
+      "answer": "The pore size distribution and surface chemistry of the charcoal"
+    },
+    {
+      "question": "What is a potential benefit of using activated charcoal in gold recovery?",
+      "choices": [
+        "It can adsorb gold from leach solutions, improving recovery rates",
+        "It can replace cyanide in the gold extraction process",
+        "It can physically separate gold from ore by density",
+        "It can chemically dissolve gold, making it easier to extract"
+      ],
+      "answer": "It can adsorb gold from leach solutions, improving recovery rates"
+    },
+    {
+      "question": "What is the environmental significance of activated charcoal's chemical inertness?",
+      "choices": [
+        "It does not leach harmful chemicals into the environment",
+        "It readily reacts with and neutralizes environmental pollutants",
+        "It catalyzes the breakdown of organic contaminants",
+        "It enhances the mobility of heavy metals in soil"
+      ],
+      "answer": "It does not leach harmful chemicals into the environment"
+    },
+    {
+      "question": "What is the primary goal of the student assignment in this lesson?",
+      "choices": [
+        "To encourage in-depth exploration of a specific activated charcoal application",
+        "To test students' ability to produce activated charcoal",
+        "To compare the effectiveness of different activated charcoal brands",
+        "To assess the economic feasibility of activated charcoal production"
+      ],
+      "answer": "To encourage in-depth exploration of a specific activated charcoal application"
+    }
+  ]
+}

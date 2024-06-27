@@ -1,0 +1,315 @@
+{
+  "title": "Drought-proofing Strategies for Timor Leste Quiz",
+  "questions": [
+    {
+      "question": "What is the main challenge that Timor Leste faces in terms of water resources?",
+      "choices": [
+        "Drought and water scarcity",
+        "Flooding and water excess",
+        "Water pollution and contamination",
+        "Lack of access to water treatment facilities"
+      ],
+      "answer": "Drought and water scarcity"
+    },
+    {
+      "question": "Why is drought-proofing important in the context of climate change?",
+      "choices": [
+        "To increase resilience against more frequent and severe droughts",
+        "To promote the use of fossil fuels and industrial agriculture",
+        "To encourage the privatization of water resources",
+        "To reduce the need for water conservation measures"
+      ],
+      "answer": "To increase resilience against more frequent and severe droughts"
+    },
+    {
+      "question": "What is the water cycle?",
+      "choices": [
+        "The continuous movement of water on, above, and below the surface of the Earth",
+        "The process of treating and distributing water for human consumption",
+        "The seasonal fluctuation of water availability in a specific region",
+        "The use of water for industrial and agricultural purposes"
+      ],
+      "answer": "The continuous movement of water on, above, and below the surface of the Earth"
+    },
+    {
+      "question": "What is a watershed?",
+      "choices": [
+        "An area of land that drains water to a common outlet",
+        "A type of water treatment facility",
+        "A method of water conservation in agriculture",
+        "A term for the seasonal variation in water availability"
+      ],
+      "answer": "An area of land that drains water to a common outlet"
+    },
+    {
+      "question": "How does topography impact water distribution in Timor Leste?",
+      "choices": [
+        "Steep slopes and rugged terrain lead to rapid runoff and uneven water distribution",
+        "Flat plains and lowlands promote even water distribution and infiltration",
+        "Topography has no significant impact on water distribution in Timor Leste",
+        "The presence of mountains and valleys ensures a stable and consistent water supply"
+      ],
+      "answer": "Steep slopes and rugged terrain lead to rapid runoff and uneven water distribution"
+    },
+    {
+      "question": "What is a traditional water harvesting method used in Timor Leste?",
+      "choices": [
+        "Tara bandu (community-based water management)",
+        "Desalination of seawater",
+        "Large-scale irrigation systems",
+        "Bottled water distribution"
+      ],
+      "answer": "Tara bandu (community-based water management)"
+    },
+    {
+      "question": "What is the purpose of swales in water harvesting?",
+      "choices": [
+        "To slow down and capture runoff water",
+        "To speed up water flow and drainage",
+        "To filter and purify water for drinking",
+        "To distribute water evenly across a large area"
+      ],
+      "answer": "To slow down and capture runoff water"
+    },
+    {
+      "question": "What is the main benefit of using ponds for water storage?",
+      "choices": [
+        "They provide a reliable source of water during dry periods",
+        "They are easy to construct and maintain",
+        "They automatically purify and filter the stored water",
+        "They promote rapid evaporation and water loss"
+      ],
+      "answer": "They provide a reliable source of water during dry periods"
+    },
+    {
+      "question": "What is the purpose of tanks and cisterns in water harvesting?",
+      "choices": [
+        "To collect and store rainwater for later use",
+        "To treat and distribute water for irrigation",
+        "To promote groundwater recharge and infiltration",
+        "To measure and monitor water quality"
+      ],
+      "answer": "To collect and store rainwater for later use"
+    },
+    {
+      "question": "What was the main focus of the drought-proofing case study in southern India?",
+      "choices": [
+        "Identifying effective strategies for managing water supply and demand",
+        "Promoting the use of genetically modified crops",
+        "Encouraging the export of virtual water through cash crops",
+        "Developing large-scale desalination projects"
+      ],
+      "answer": "Identifying effective strategies for managing water supply and demand"
+    },
+    {
+      "question": "What is an example of a supply management strategy for drought-proofing?",
+      "choices": [
+        "Constructing farm ponds and percolation ponds",
+        "Implementing drip irrigation systems",
+        "Purchasing water from external sources",
+        "Using plastic mulches to reduce evaporation"
+      ],
+      "answer": "Constructing farm ponds and percolation ponds"
+    },
+    {
+      "question": "What is an example of a demand management strategy for drought-proofing?",
+      "choices": [
+        "Using drip irrigation to reduce water consumption",
+        "Building new borewells to access groundwater",
+        "Recharging existing borewells with rainwater",
+        "Creating farm trenches to capture runoff"
+      ],
+      "answer": "Using drip irrigation to reduce water consumption"
+    },
+    {
+      "question": "Which drought-proofing measure showed the highest rate of return in the southern India case study?",
+      "choices": [
+        "Drip irrigation",
+        "Farm trenches",
+        "Percolation ponds",
+        "Borewell recharge"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "Why is it important to consider local resources and constraints when adapting drought-proofing strategies?",
+      "choices": [
+        "To ensure that the strategies are feasible and sustainable in the local context",
+        "To maximize the use of imported technologies and materials",
+        "To prioritize the needs of industrial and commercial water users",
+        "To maintain the status quo of water management practices"
+      ],
+      "answer": "To ensure that the strategies are feasible and sustainable in the local context"
+    },
+    {
+      "question": "What are the key components of a community-based drought-proofing plan?",
+      "choices": [
+        "Water supply enhancement, demand management, and community participation",
+        "Large-scale infrastructure projects and top-down decision-making",
+        "Privatization of water resources and market-based allocation",
+        "Reliance on external aid and technical expertise"
+      ],
+      "answer": "Water supply enhancement, demand management, and community participation"
+    },
+    {
+      "question": "What is the purpose of dividing participants into groups for the practical exercise?",
+      "choices": [
+        "To encourage collaboration and exchange of ideas",
+        "To promote competition and individual achievement",
+        "To assess individual knowledge and skills",
+        "To simulate real-world water scarcity conditions"
+      ],
+      "answer": "To encourage collaboration and exchange of ideas"
+    },
+    {
+      "question": "What is the main objective of the group presentations in the practical exercise?",
+      "choices": [
+        "To share and receive feedback on drought-proofing plans",
+        "To compete for the best plan and win a prize",
+        "To demonstrate individual expertise and knowledge",
+        "To critique and challenge other groups' ideas"
+      ],
+      "answer": "To share and receive feedback on drought-proofing plans"
+    },
+    {
+      "question": "What is the significance of locally adapted solutions in drought-proofing?",
+      "choices": [
+        "They are more likely to be effective, sustainable, and accepted by the community",
+        "They are more expensive and time-consuming to implement",
+        "They are less reliable than standardized, one-size-fits-all approaches",
+        "They are not supported by scientific research and expert knowledge"
+      ],
+      "answer": "They are more likely to be effective, sustainable, and accepted by the community"
+    },
+    {
+      "question": "What is the role of community participation in drought-proofing?",
+      "choices": [
+        "To ensure that the strategies meet the needs and priorities of the local people",
+        "To transfer all responsibility and costs to the community",
+        "To exclude traditional knowledge and practices from the planning process",
+        "To minimize the need for external support and resources"
+      ],
+      "answer": "To ensure that the strategies meet the needs and priorities of the local people"
+    },
+    {
+      "question": "What is the main goal of water supply enhancement in drought-proofing?",
+      "choices": [
+        "To increase the availability and reliability of water resources",
+        "To promote the use of water-intensive crops and practices",
+        "To encourage the depletion of groundwater reserves",
+        "To prioritize the needs of industrial and commercial water users"
+      ],
+      "answer": "To increase the availability and reliability of water resources"
+    },
+    {
+      "question": "What is the purpose of demand management in drought-proofing?",
+      "choices": [
+        "To reduce water consumption and promote efficient use",
+        "To increase water extraction and distribution capacity",
+        "To subsidize water-intensive industries and activities",
+        "To disregard the water needs of ecosystems and future generations"
+      ],
+      "answer": "To reduce water consumption and promote efficient use"
+    },
+    {
+      "question": "What is the role of education in community-based drought-proofing?",
+      "choices": [
+        "To raise awareness and build capacity for sustainable water management",
+        "To promote the adoption of water-intensive lifestyles and practices",
+        "To discourage community involvement in decision-making processes",
+        "To perpetuate myths and misconceptions about water scarcity and climate change"
+      ],
+      "answer": "To raise awareness and build capacity for sustainable water management"
+    },
+    {
+      "question": "What is the purpose of using Timor Leste meteorological data in drought-proofing planning?",
+      "choices": [
+        "To inform the design and implementation of locally relevant strategies",
+        "To ignore the specific climatic conditions and variability of the region",
+        "To promote the use of generic, one-size-fits-all solutions",
+        "To discourage the use of traditional knowledge and practices"
+      ],
+      "answer": "To inform the design and implementation of locally relevant strategies"
+    },
+    {
+      "question": "What is the role of local NGOs in water management in Timor Leste?",
+      "choices": [
+        "To provide expertise, resources, and support for community-based initiatives",
+        "To compete with government agencies and undermine public policies",
+        "To promote the privatization and commercialization of water resources",
+        "To discourage community participation and empowerment"
+      ],
+      "answer": "To provide expertise, resources, and support for community-based initiatives"
+    },
+    {
+      "question": "What is the significance of government policies on water resources in Timor Leste?",
+      "choices": [
+        "They provide a framework for sustainable and equitable water management",
+        "They prioritize the needs of industrial and commercial water users over communities",
+        "They discourage the use of traditional knowledge and practices in water management",
+        "They promote the depletion and pollution of water resources for short-term gains"
+      ],
+      "answer": "They provide a framework for sustainable and equitable water management"
+    },
+    {
+      "question": "What is the purpose of individual reflection in the assessment of the drought-proofing lesson?",
+      "choices": [
+        "To encourage participants to think about how to apply the learnings in their own communities",
+        "To test participants' memory and comprehension of the presented information",
+        "To compare and rank participants' knowledge and skills in drought-proofing",
+        "To discourage participants from sharing their insights and experiences with others"
+      ],
+      "answer": "To encourage participants to think about how to apply the learnings in their own communities"
+    },
+    {
+      "question": "What is the main benefit of using a case study approach in teaching about drought-proofing?",
+      "choices": [
+        "It provides real-world examples and lessons that can be adapted to other contexts",
+        "It promotes the uncritical imitation of strategies without considering local conditions",
+        "It discourages the use of creativity and innovation in drought-proofing planning",
+        "It overemphasizes the importance of technical solutions over social and cultural factors"
+      ],
+      "answer": "It provides real-world examples and lessons that can be adapted to other contexts"
+    },
+    {
+      "question": "What is the role of traditional knowledge in drought-proofing in Timor Leste?",
+      "choices": [
+        "It offers valuable insights and practices that can complement modern techniques",
+        "It is irrelevant and outdated in the face of current water challenges",
+        "It should be disregarded in favor of externally imposed solutions",
+        "It is a barrier to the adoption of new technologies and practices"
+      ],
+      "answer": "It offers valuable insights and practices that can complement modern techniques"
+    },
+    {
+      "question": "What is the importance of considering the water needs of ecosystems in drought-proofing?",
+      "choices": [
+        "To ensure the long-term sustainability and resilience of water resources",
+        "To prioritize human water consumption over environmental conservation",
+        "To treat water as a commodity that can be exploited for economic gains",
+        "To disregard the intrinsic value and rights of non-human species and habitats"
+      ],
+      "answer": "To ensure the long-term sustainability and resilience of water resources"
+    },
+    {
+      "question": "What is the main challenge in implementing community-based drought-proofing plans?",
+      "choices": [
+        "Ensuring the active and equitable participation of all community members",
+        "Maximizing the use of external funding and resources",
+        "Promoting the adoption of water-intensive crops and practices",
+        "Discouraging the use of local knowledge and materials in water management"
+      ],
+      "answer": "Ensuring the active and equitable participation of all community members"
+    },
+    {
+      "question": "What is the ultimate goal of drought-proofing in Timor Leste?",
+      "choices": [
+        "To build resilience and adaptability in the face of climate change and water scarcity",
+        "To maximize short-term economic gains from water-intensive industries and activities",
+        "To promote dependence on external aid and expertise in water management",
+        "To maintain the status quo of water inequality and vulnerability in the country"
+      ],
+      "answer": "To build resilience and adaptability in the face of climate change and water scarcity"
+    }
+  ]
+}

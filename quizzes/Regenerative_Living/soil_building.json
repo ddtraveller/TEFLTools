@@ -1,0 +1,315 @@
+{
+  "title": "Introduction to Soil Science Basics Quiz",
+  "questions": [
+    {
+      "question": "What is soil?",
+      "choices": [
+        "A dynamic ecosystem with inputs, outputs, storages, and flows",
+        "A non-living layer of Earth's crust",
+        "A homogeneous mixture of minerals and organic matter",
+        "A static, unchanging foundation for plant growth"
+      ],
+      "answer": "A dynamic ecosystem with inputs, outputs, storages, and flows"
+    },
+    {
+      "question": "What is the importance of soil in ecosystems?",
+      "choices": [
+        "It supports life and ecosystem functions",
+        "It is a non-renewable resource",
+        "It has no significant ecological value",
+        "It is a barrier to plant root growth"
+      ],
+      "answer": "It supports life and ecosystem functions"
+    },
+    {
+      "question": "What are soil horizons?",
+      "choices": [
+        "Distinct layers of soil with different characteristics",
+        "The mineral content of soil",
+        "The water-holding capacity of soil",
+        "The organic matter content of soil"
+      ],
+      "answer": "Distinct layers of soil with different characteristics"
+    },
+    {
+      "question": "Which of the following is NOT a soil horizon?",
+      "choices": [
+        "X horizon",
+        "O horizon",
+        "A horizon",
+        "C horizon"
+      ],
+      "answer": "X horizon"
+    },
+    {
+      "question": "What is the O horizon in a soil profile?",
+      "choices": [
+        "The uppermost layer dominated by organic material",
+        "The layer of weathered parent material",
+        "The layer of accumulation of leached minerals",
+        "The layer of partially broken down bedrock"
+      ],
+      "answer": "The uppermost layer dominated by organic material"
+    },
+    {
+      "question": "What is soil texture?",
+      "choices": [
+        "The relative proportion of sand, silt, and clay particles in soil",
+        "The color of soil",
+        "The amount of organic matter in soil",
+        "The acidity or alkalinity of soil"
+      ],
+      "answer": "The relative proportion of sand, silt, and clay particles in soil"
+    },
+    {
+      "question": "Which soil texture has the largest particle size?",
+      "choices": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Loam"
+      ],
+      "answer": "Sand"
+    },
+    {
+      "question": "Which soil texture has the highest water-holding capacity?",
+      "choices": [
+        "Clay",
+        "Sand",
+        "Silt",
+        "Loam"
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question": "What is organic matter in soil?",
+      "choices": [
+        "The living and dead organisms and their decomposed remains",
+        "The mineral particles derived from rock",
+        "The air and water held in soil pores",
+        "The inorganic nutrients available for plant uptake"
+      ],
+      "answer": "The living and dead organisms and their decomposed remains"
+    },
+    {
+      "question": "Which of the following is NOT a primary nutrient for plant growth?",
+      "choices": [
+        "Calcium",
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": "Calcium"
+    },
+    {
+      "question": "What is the process of rock breakdown and mineral transformation in soil?",
+      "choices": [
+        "Weathering",
+        "Nutrient cycling",
+        "Leaching",
+        "Erosion"
+      ],
+      "answer": "Weathering"
+    },
+    {
+      "question": "What is the importance of pH in soil chemistry?",
+      "choices": [
+        "It affects nutrient availability and soil organism activity",
+        "It determines the color of soil",
+        "It controls the amount of air and water in soil",
+        "It regulates the speed of rock weathering"
+      ],
+      "answer": "It affects nutrient availability and soil organism activity"
+    },
+    {
+      "question": "What is the role of bacteria in soil ecology?",
+      "choices": [
+        "Decomposing organic matter and cycling nutrients",
+        "Burrowing and mixing soil layers",
+        "Feeding on plant roots and causing disease",
+        "Forming symbiotic relationships with insects"
+      ],
+      "answer": "Decomposing organic matter and cycling nutrients"
+    },
+    {
+      "question": "What is the function of earthworms in soil systems?",
+      "choices": [
+        "Improving soil structure and fertility through burrowing and casting",
+        "Fixing atmospheric nitrogen for plant uptake",
+        "Breaking down rocks into mineral particles",
+        "Regulating soil pH and nutrient availability"
+      ],
+      "answer": "Improving soil structure and fertility through burrowing and casting"
+    },
+    {
+      "question": "What does the soil food web represent?",
+      "choices": [
+        "The feeding relationships and energy flow among soil organisms",
+        "The diversity of plant species growing in soil",
+        "The amount of organic matter and humus in soil",
+        "The water and nutrient holding capacity of soil"
+      ],
+      "answer": "The feeding relationships and energy flow among soil organisms"
+    },
+    {
+      "question": "What is the main energy source for the soil food web?",
+      "choices": [
+        "Organic matter from dead plants and organisms",
+        "Sunlight captured by soil surface",
+        "Mineral nutrients from rock weathering",
+        "Atmospheric gases absorbed by soil"
+      ],
+      "answer": "Organic matter from dead plants and organisms"
+    },
+    {
+      "question": "What is the purpose of the 'soil texture by feel' method?",
+      "choices": [
+        "To estimate soil texture based on physical properties",
+        "To measure soil pH using color indicators",
+        "To determine soil organic matter content by burning",
+        "To assess soil nutrient levels using chemical tests"
+      ],
+      "answer": "To estimate soil texture based on physical properties"
+    },
+    {
+      "question": "What is the importance of soil conservation?",
+      "choices": [
+        "Maintaining soil health and productivity for long-term sustainability",
+        "Maximizing short-term crop yields and profits",
+        "Reducing the diversity of soil organisms and plant species",
+        "Increasing the use of synthetic fertilizers and pesticides"
+      ],
+      "answer": "Maintaining soil health and productivity for long-term sustainability"
+    },
+    {
+      "question": "Which of the following is an input in the soil system?",
+      "choices": [
+        "Precipitation",
+        "Plant uptake",
+        "Leaching",
+        "Erosion"
+      ],
+      "answer": "Precipitation"
+    },
+    {
+      "question": "Which of the following is an output in the soil system?",
+      "choices": [
+        "Leaching",
+        "Organic matter",
+        "Minerals",
+        "Organisms"
+      ],
+      "answer": "Leaching"
+    },
+    {
+      "question": "What is a storage component in the soil system?",
+      "choices": [
+        "Nutrients",
+        "Plant uptake",
+        "Erosion",
+        "Precipitation"
+      ],
+      "answer": "Nutrients"
+    },
+    {
+      "question": "What is an example of a transfer or transformation within the soil system?",
+      "choices": [
+        "Decomposition of organic matter",
+        "Addition of inorganic fertilizers",
+        "Removal of crops and biomass",
+        "Loss of soil by wind or water erosion"
+      ],
+      "answer": "Decomposition of organic matter"
+    },
+    {
+      "question": "Which of the following is NOT a component of soil structure?",
+      "choices": [
+        "Soil color",
+        "Soil texture",
+        "Soil horizons",
+        "Soil pores"
+      ],
+      "answer": "Soil color"
+    },
+    {
+      "question": "What is the process of nutrient loss from soil by water movement?",
+      "choices": [
+        "Leaching",
+        "Weathering",
+        "Erosion",
+        "Infiltration"
+      ],
+      "answer": "Leaching"
+    },
+    {
+      "question": "Which of the following is a biotic component of soil?",
+      "choices": [
+        "Fungi",
+        "Sand particles",
+        "Water molecules",
+        "Air spaces"
+      ],
+      "answer": "Fungi"
+    },
+    {
+      "question": "What is the role of soil in the carbon cycle?",
+      "choices": [
+        "Storing and releasing carbon through organic matter decomposition",
+        "Producing carbon dioxide for plant photosynthesis",
+        "Absorbing methane gas from the atmosphere",
+        "Converting nitrogen gas into ammonia for plant uptake"
+      ],
+      "answer": "Storing and releasing carbon through organic matter decomposition"
+    },
+    {
+      "question": "Which of the following is an abiotic factor influencing soil formation?",
+      "choices": [
+        "Parent material",
+        "Soil bacteria",
+        "Plant roots",
+        "Earthworms"
+      ],
+      "answer": "Parent material"
+    },
+    {
+      "question": "What is the process of soil formation called?",
+      "choices": [
+        "Pedogenesis",
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation"
+      ],
+      "answer": "Pedogenesis"
+    },
+    {
+      "question": "Which of the following is a way to improve soil structure?",
+      "choices": [
+        "Adding organic matter",
+        "Tilling intensively",
+        "Applying synthetic pesticides",
+        "Removing plant residues"
+      ],
+      "answer": "Adding organic matter"
+    },
+    {
+      "question": "What is the relationship between soil and plant health?",
+      "choices": [
+        "Healthy soil supports healthy plants",
+        "Healthy plants have no effect on soil health",
+        "Healthy soil is not necessary for healthy plants",
+        "Healthy plants always indicate healthy soil"
+      ],
+      "answer": "Healthy soil supports healthy plants"
+    },
+    {
+      "question": "What is the role of soil microbes in nutrient cycling?",
+      "choices": [
+        "Breaking down organic matter and releasing nutrients",
+        "Producing organic matter from inorganic compounds",
+        "Fixing atmospheric carbon dioxide into soil",
+        "Converting soil nutrients into gaseous forms"
+      ],
+      "answer": "Breaking down organic matter and releasing nutrients"
+    }
+  ]
+}

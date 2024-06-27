@@ -1,0 +1,305 @@
+{
+  "title": "Permaculture Foundations Quiz",
+  "questions": [
+    {
+      "question": "What is the primary climate type in Timor Leste?",
+      "choices": [
+        "Tropical with distinct rainy and dry seasons",
+        "Temperate with cold winters and hot summers",
+        "Arid with little rainfall throughout the year",
+        "Polar with permanently cold temperatures"
+      ],
+      "answer": "Tropical with distinct rainy and dry seasons"
+    },
+    {
+      "question": "Which of the following best describes Timor Leste's topography?",
+      "choices": [
+        "Mountainous with coastal plains",
+        "Flat and low-lying throughout",
+        "Dominated by extensive river deltas",
+        "Mostly high plateaus and mesas"
+      ],
+      "answer": "Mountainous with coastal plains"
+    },
+    {
+      "question": "Which of these is NOT one of Timor Leste's major ecosystem types?",
+      "choices": [
+        "Mangrove swamps",
+        "Tropical forests",
+        "Savannas",
+        "Coral reefs"
+      ],  
+      "answer": "Mangrove swamps"
+    },
+    {
+      "question": "Which of the following environmental challenges could permaculture help address in Timor Leste?",
+      "choices": [
+        "Deforestation",
+        "Soil erosion",
+        "Irregular rainfall",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What role could native plants play in Timorese permaculture systems?",
+      "choices": [
+        "Providing habitat for beneficial insects and wildlife",
+        "Enriching soil health through natural nutrient cycling",
+        "Preventing erosion with deep root systems",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Agriculture and land stewardship are considered to have what level of importance in Timorese culture?",
+      "choices": [
+        "Central importance",
+        "Moderate importance",  
+        "Little importance",
+        "No importance"
+      ],
+      "answer": "Central importance"
+    },
+    {
+      "question": "Which of the following crops have deep cultural ties in Timor Leste?",
+      "choices": [
+        "Corn",
+        "Rice", 
+        "Cassava",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which Timorese cultural value aligns with the permaculture ethic of 'earth care'?",
+      "choices": [
+        "Living in harmony with nature",
+        "Accumulation of individual wealth",
+        "Rapid modernization of agriculture",
+        "Strict gender roles in farming"
+      ],
+      "answer": "Living in harmony with nature"
+    },
+    {
+      "question": "What traditional Timorese practice involves community land management agreements?",
+      "choices": [
+        "Tara bandu",
+        "Ai-parapa",
+        "Fini ba moris",
+        "Toos no'o kultiva"  
+      ],
+      "answer": "Tara bandu"
+    },
+    {
+      "question": "What is ai-parapa?",
+      "choices": [
+        "Mixed perennial food forests",
+        "Intensive annual monocultures",
+        "Slash-and-burn agriculture",
+        "Irrigated rice paddies"
+      ],
+      "answer": "Mixed perennial food forests"
+    },
+    {
+      "question": "Saving diverse heirloom seed varieties aligns with which permaculture principle?",
+      "choices": [
+        "Use and value diversity",
+        "Catch and store energy",
+        "Obtain a yield",
+        "Apply self-regulation and accept feedback"
+      ],
+      "answer": "Use and value diversity"
+    },
+    {
+      "question": "Which of the following could be a locally available renewable material for building in Timor Leste?",
+      "choices": [
+        "Bamboo",
+        "Aluminum",
+        "PVC plastic",
+        "Fiberglass"
+      ],
+      "answer": "Bamboo"  
+    },
+    {
+      "question": "Rice hulls could be a valuable local resource for what purpose in permaculture?",
+      "choices": [
+        "Composting to build soil",
+        "Feeding livestock",
+        "Extracting cooking oil", 
+        "Weaving durable textiles"
+      ],
+      "answer": "Composting to build soil"
+    },
+    {
+      "question": "Village elders are an important source of what kind of knowledge?",
+      "choices": [
+        "Traditional farming practices",
+        "Modern chemical fertilizers",
+        "Mechanized agriculture techniques",
+        "Genetically modified crops"
+      ],
+      "answer": "Traditional farming practices"
+    },
+    {
+      "question": "What is the first step in designing a permaculture site for a specific local area?",
+      "choices": [
+        "Considering the specific environmental conditions and challenges",
+        "Imposing a pre-determined design from another context",
+        "Clearing away all existing vegetation",
+        "Installing irrigation infrastructure"
+      ], 
+      "answer": "Considering the specific environmental conditions and challenges"
+    },
+    {
+      "question": "Why is it important to incorporate cultural practices and values into permaculture design?",
+      "choices": [
+        "To create systems that are socially sustainable and locally appropriate",
+        "To adhere to strict permaculture rules and dogma",
+        "To maximize short-term profits",
+        "To appease international aid organizations"
+      ],
+      "answer": "To create systems that are socially sustainable and locally appropriate"
+    },
+    {
+      "question": "What is the purpose of utilizing local resources in permaculture design?",
+      "choices": [
+        "To enhance self-reliance and reduce external inputs",
+        "To create a visually appealing landscape",
+        "To follow current design trends and fashions",
+        "To maximize export potential of cash crops"
+    ],
+      "answer": "To enhance self-reliance and reduce external inputs"
+    },
+    {
+      "question": "What is a key environmental challenge in Timor Leste that permaculture could help address through tree planting?",
+      "choices": [
+        "Deforestation",
+        "Overfishing",
+        "Air pollution",
+        "Light pollution" 
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question": "How could water harvesting strategies support Timorese agriculture?",
+      "choices": [
+        "By helping to manage irregular rainfall",
+        "By increasing soil erosion",
+        "By introducing chemical pollutants",
+        "By promoting water-intensive crops"
+      ],
+      "answer": "By helping to manage irregular rainfall"
+    },
+    {
+      "question": "What Timorese cultural value aligns with the permaculture ethic of 'people care'?",
+      "choices": [
+        "Community cooperation and sharing",
+        "Individual competition and hoarding",
+        "Strict social hierarchy and segregation",
+        "Disregard for human needs and rights"
+      ], 
+      "answer": "Community cooperation and sharing"
+    },
+    {
+      "question": "Which Timorese cultural value parallels the permaculture ethic of 'fair share'?",
+      "choices": [
+        "Equitable distribution of resources",
+        "Concentration of wealth and power",
+        "Unlimited growth and consumption",
+        "Exploitation of people and nature"
+      ],
+      "answer": "Equitable distribution of resources"
+    },
+    {
+      "question": "Which permaculture principle is exemplified by the traditional Timorese practice of saving heirloom seeds?",
+      "choices": [
+        "Obtain a yield",
+        "Catch and store energy",  
+        "Design from patterns to details",
+        "Use and value renewable resources"
+      ],
+      "answer": "Obtain a yield"
+    },
+    {
+      "question": "Chicken manure is an example of what kind of local resource?",
+      "choices": [
+        "Biomass for composting",
+        "Renewable building material",
+        "Perennial edible crop",
+        "Medicinal herb"
+      ],
+      "answer": "Biomass for composting"
+    },
+    {
+      "question": "What is a benefit of utilizing locally adapted, multi-purpose plants in permaculture design?",
+      "choices": [
+        "They are resilient and provide diverse yields",
+        "They require heavy irrigation and fertilization",
+        "They are exotic and ornamental",
+        "They produce high volumes of a single cash crop"  
+      ],
+      "answer": "They are resilient and provide diverse yields"
+    },
+    {
+      "question": "What valuable design inspiration can we draw from Timorese mixed food forests?",
+      "choices": [
+        "Mimicking natural ecosystem structures",
+        "Relying on chemical pesticides",
+        "Planting annual monocultures",
+        "Eliminating all ground cover plants"
+      ],
+      "answer": "Mimicking natural ecosystem structures"
+    },
+    {
+      "question": "How can understanding Timorese cultural ties to land and crops inform permaculture design?",
+      "choices": [
+        "By highlighting the importance of social and spiritual functions of landscapes",
+        "By emphasizing maximizing yield at any cost",
+        "By promoting the replacement of traditional crops with imported varieties", 
+        "By discouraging community involvement in land management"
+      ],
+      "answer": "By highlighting the importance of social and spiritual functions of landscapes"
+    },
+    {
+      "question": "What is one way that permaculture ethics and Timorese values differ?",
+      "choices": [
+        "Permaculture has a greater emphasis on long-term sustainability",
+        "Timorese culture values living in harmony with nature more than permaculture does",
+        "Permaculture puts more importance on community cooperation than Timorese culture",
+        "Timorese tradition sees resources as unlimited, while permaculture recognizes limits"
+      ],  
+      "answer": "Permaculture has a greater emphasis on long-term sustainability"
+    },
+    {
+      "question": "What is a key similarity between permaculture principles and Timorese land stewardship practices?",
+      "choices": [
+        "Caring for earth, people, and sharing resources fairly",
+        "Maximizing profits through resource extraction",
+        "Encouraging individualistic competition for land",
+        "Ignoring the needs of future generations"
+      ],
+      "answer": "Caring for earth, people, and sharing resources fairly"
+    },
+    {
+      "question": "What is the importance of learning from knowledgeable elders in the community?",
+      "choices": [
+        "To gain wisdom from their long experience with the land",
+        "To have them do all the hard work of farming",
+        "To critique and dismiss their old-fashioned ways",
+        "To sell them modern chemical inputs and tools"
+      ],
+      "answer": "To gain wisdom from their long experience with the land"
+    },
+    {
+      "question": "What is a key goal of permaculture designers working in Timor Leste?",
+      "choices": [
+        "To create culturally appropriate and ecologically sound systems",
+        "To impose foreign designs without local input or adaptation",
+        "To extract maximum profits for external investors",
+        "To eliminate all traditional practices and replace with industrial methods"
+      ],
+      "answer": "To create culturally appropriate and ecologically sound systems"  
+    }
+  ]
+}

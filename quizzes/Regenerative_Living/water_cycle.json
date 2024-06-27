@@ -1,0 +1,305 @@
+{
+  "title": "Water Cycle and Watershed Hydrology Quiz",
+  "questions": [
+    {
+      "question": "What is the process by which water changes from a liquid to a gas?",
+      "choices": [
+        "Evaporation",
+        "Condensation",
+        "Precipitation",
+        "Infiltration"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question": "What is the process by which water vapor changes into liquid water?",
+      "choices": [
+        "Condensation",
+        "Evaporation",
+        "Transpiration", 
+        "Runoff"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "question": "What is the process by which water falls from the sky in the form of rain, snow, sleet, or hail?",
+      "choices": [
+        "Precipitation",
+        "Infiltration",
+        "Runoff",
+        "Transpiration"
+      ],
+      "answer": "Precipitation"
+    },
+    {
+      "question": "What is the process by which water enters the soil?",
+      "choices": [
+        "Infiltration",
+        "Evaporation",
+        "Precipitation",
+        "Condensation"
+      ],
+      "answer": "Infiltration"
+    },
+    {
+      "question": "What is the process by which water moves across the land surface?",
+      "choices": [
+        "Runoff",
+        "Transpiration",
+        "Infiltration",
+        "Condensation"
+      ],
+      "answer": "Runoff"
+    },
+    {
+      "question": "What is transpiration?",
+      "choices": [
+        "The process by which plants release water vapor into the atmosphere",
+        "The process by which water changes from a gas to a liquid",
+        "The process by which water enters the soil",
+        "The process by which water moves across the land surface"
+      ],
+      "answer": "The process by which plants release water vapor into the atmosphere"
+    },
+    {
+      "question": "What is a watershed?",
+      "choices": [
+        "An area of land that drains water to a common outlet",
+        "The process by which water changes from a liquid to a gas",
+        "The process by which water enters the soil",
+        "The process by which plants release water vapor into the atmosphere"
+      ],
+      "answer": "An area of land that drains water to a common outlet"
+    },
+    {
+      "question": "What is the term for the boundary between two watersheds?",
+      "choices": [
+        "Drainage divide",
+        "Tributary",
+        "Confluence",
+        "Headwaters"
+      ],
+      "answer": "Drainage divide"
+    },
+    {
+      "question": "Which of the following is NOT a factor that influences water movement through a watershed?",
+      "choices": [
+        "Air pressure",
+        "Topography", 
+        "Soil type",
+        "Vegetation"
+      ],
+      "answer": "Air pressure"
+    },
+    {
+      "question": "Which type of soil is most permeable?",
+      "choices": [
+        "Sandy soil",
+        "Clay soil",
+        "Loamy soil",
+        "Silty soil"
+      ],
+      "answer": "Sandy soil"
+    },
+    {
+      "question": "Which type of vegetation is most effective at reducing runoff?",
+      "choices": [
+        "Dense forest",
+        "Grassland",
+        "Shrubland",
+        "Cropland"
+      ],
+      "answer": "Dense forest"
+    },
+    {
+      "question": "What is the term for the volume of water that passes a given point in a stream over a specific period of time?",
+      "choices": [
+        "Discharge",
+        "Recharge",
+        "Baseflow",
+        "Interflow"  
+      ],
+      "answer": "Discharge"
+    },
+    {
+      "question": "What is the term for the water that flows in a stream during dry periods, fed by groundwater?",
+      "choices": [
+        "Baseflow",
+        "Stormflow",
+        "Interflow",
+        "Overland flow"
+      ],
+      "answer": "Baseflow"
+    },
+    {
+      "question": "What is the term for the water that flows through the soil and enters a stream?",
+      "choices": [
+        "Interflow",
+        "Baseflow",
+        "Stormflow",
+        "Overland flow"
+      ],
+      "answer": "Interflow"  
+    },
+    {
+      "question": "What is the term for the water that flows over the land surface and enters a stream?",
+      "choices": [
+        "Overland flow",
+        "Baseflow",
+        "Interflow",
+        "Throughflow"
+      ],
+      "answer": "Overland flow"
+    },
+    {
+      "question": "What happens to the rate of infiltration as a soil becomes saturated?",
+      "choices": [
+        "It decreases",
+        "It increases",
+        "It stays the same",
+        "It fluctuates randomly"
+      ],
+      "answer": "It decreases"
+    },
+    {
+      "question": "What is the term for the maximum rate at which a soil can absorb water?",
+      "choices": [
+        "Infiltration capacity",
+        "Permeability",
+        "Porosity",
+        "Hydraulic conductivity"
+      ],
+      "answer": "Infiltration capacity"
+    },
+    {
+      "question": "What is the term for the measure of the ease with which water can move through a soil?",
+      "choices": [
+        "Hydraulic conductivity",
+        "Infiltration capacity",
+        "Permeability",
+        "Porosity"
+      ],
+      "answer": "Hydraulic conductivity"
+    },
+    {
+      "question": "What is the term for the percentage of the soil volume that is made up of pore spaces?",
+      "choices": [
+        "Porosity",
+        "Permeability",
+        "Infiltration capacity",
+        "Hydraulic conductivity"
+      ],  
+      "answer": "Porosity"
+    },
+    {
+      "question": "What is the term for the point at which two streams join together?",
+      "choices": [
+        "Confluence",
+        "Drainage divide",
+        "Headwaters",
+        "Mouth"
+      ],
+      "answer": "Confluence"
+    },
+    {
+      "question": "What is the term for the source of a stream?",
+      "choices": [
+        "Headwaters",
+        "Confluence",
+        "Drainage divide",
+        "Mouth"
+      ],
+      "answer": "Headwaters"
+    },
+    {
+      "question": "What is the term for the place where a stream enters a larger body of water?",
+      "choices": [
+        "Mouth",
+        "Headwaters",
+        "Confluence",
+        "Drainage divide"
+      ],
+      "answer": "Mouth"
+    },
+    {
+      "question": "What is the term for the smaller streams that feed into a larger stream?",
+      "choices": [
+        "Tributary",
+        "Confluence",
+        "Mouth",
+        "Headwaters"  
+      ],
+      "answer": "Tributary"
+    },
+    {
+      "question": "What is the term for the measure of the total amount of water vapor in the air?",
+      "choices": [
+        "Humidity",
+        "Transpiration",
+        "Evaporation",
+        "Precipitation"
+      ],
+      "answer": "Humidity"
+    },
+    {
+      "question": "Which part of the water cycle is driven by energy from the sun?",
+      "choices": [
+        "Evaporation",
+        "Precipitation",
+        "Infiltration",
+        "Runoff"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question": "What is the term for the area of land that contributes water to a specific stream or river?",
+      "choices": [
+        "Catchment",
+        "Confluence",
+        "Drainage divide",
+        "Floodplain"
+      ],
+      "answer": "Catchment"
+    },
+    {
+      "question": "What is the term for the area of low-lying land adjacent to a river that experiences flooding?",
+      "choices": [
+        "Floodplain",
+        "Catchment",
+        "Drainage divide",
+        "Confluence"
+      ],
+      "answer": "Floodplain"  
+    },
+    {
+      "question": "What is the term for water that is found underground in the cracks and spaces in soil, sand, and rock?",
+      "choices": [
+        "Groundwater",
+        "Surface water",
+        "Stormwater",
+        "Wastewater"
+      ],
+      "answer": "Groundwater"
+    },
+    {
+      "question": "What is the term for water that is found on the surface of the Earth, such as in lakes, rivers, and streams?",
+      "choices": [
+        "Surface water",
+        "Groundwater",  
+        "Stormwater",
+        "Wastewater"
+      ],
+      "answer": "Surface water"
+    },
+    {
+      "question": "What is the term for water that runs off surfaces in urban areas during rainfall events?",
+      "choices": [
+        "Stormwater",
+        "Groundwater", 
+        "Surface water",
+        "Wastewater"
+      ],
+      "answer": "Stormwater"
+    }
+  ]
+}

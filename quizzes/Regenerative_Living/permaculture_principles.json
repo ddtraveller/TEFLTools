@@ -1,0 +1,305 @@
+{
+  "title": "Foundations of Permaculture: Ethics and Principles Quiz",
+  "questions": [
+    {
+      "question": "What is permaculture?",
+      "choices": [
+        "A design system for sustainable and regenerative living",
+        "A type of organic farming",
+        "A method of landscape architecture",
+        "A government policy for environmental protection"
+      ],
+      "answer": "A design system for sustainable and regenerative living"
+    },
+    {
+      "question": "How many core ethics are there in permaculture?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "12"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Which of the following is NOT one of the core ethics of permaculture?",
+      "choices": [
+        "Economic Growth",
+        "Earth Care",
+        "People Care",
+        "Fair Share"
+      ],
+      "answer": "Economic Growth"
+    },
+    {
+      "question": "What does the 'Earth Care' ethic in permaculture primarily focus on?",
+      "choices": [
+        "Rebuilding natural capital and preserving biodiversity",
+        "Maximizing crop yields",
+        "Expanding urban development",
+        "Increasing fossil fuel extraction"
+      ],
+      "answer": "Rebuilding natural capital and preserving biodiversity"
+    },
+    {
+      "question": "The 'People Care' ethic in permaculture emphasizes:",
+      "choices": [
+        "Meeting basic needs and fostering well-being for all",
+        "Prioritizing individual success over community needs",
+        "Promoting competition among community members",
+        "Focusing solely on environmental conservation"
+      ],
+      "answer": "Meeting basic needs and fostering well-being for all"
+    },
+    {
+      "question": "What is another term often used for the 'Fair Share' ethic in permaculture?",
+      "choices": [
+        "Return of surplus",
+        "Equal distribution",
+        "Profit maximization",
+        "Resource hoarding"
+      ],
+      "answer": "Return of surplus"
+    },
+    {
+      "question": "How many principles of permaculture design are there?",
+      "choices": [
+        "12",
+        "7",
+        "10",
+        "15"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "Which permaculture principle emphasizes the importance of working with nature rather than against it?",
+      "choices": [
+        "Observe and interact",
+        "Produce no waste",
+        "Use and value diversity",
+        "Apply self-regulation and accept feedback"
+      ],
+      "answer": "Observe and interact"
+    },
+    {
+      "question": "The principle 'Catch and store energy' in permaculture refers to:",
+      "choices": [
+        "Harvesting and storing resources when they are abundant",
+        "Using only solar and wind energy",
+        "Maximizing energy consumption",
+        "Avoiding the use of any non-renewable energy"
+      ],
+      "answer": "Harvesting and storing resources when they are abundant"
+    },
+    {
+      "question": "Which permaculture principle encourages the creation of systems that are self-maintaining?",
+      "choices": [
+        "Obtain a yield",
+        "Apply self-regulation and accept feedback",
+        "Use small and slow solutions",
+        "Integrate rather than segregate"
+      ],
+      "answer": "Apply self-regulation and accept feedback"
+    },
+    {
+      "question": "The principle 'Use and value renewable resources and services' promotes:",
+      "choices": [
+        "Reducing dependence on non-renewable resources",
+        "Exploiting natural resources for maximum profit",
+        "Using only high-tech solutions",
+        "Ignoring traditional knowledge and practices"
+      ],
+      "answer": "Reducing dependence on non-renewable resources"
+    },
+    {
+      "question": "Which principle emphasizes the importance of minimizing waste and finding uses for all outputs?",
+      "choices": [
+        "Produce no waste",
+        "Use edges and value the marginal",
+        "Creatively use and respond to change",
+        "Design from patterns to details"
+      ],
+      "answer": "Produce no waste"
+    },
+    {
+      "question": "The principle 'Design from patterns to details' suggests:",
+      "choices": [
+        "Observing and replicating natural patterns in design",
+        "Focusing only on small-scale details",
+        "Ignoring broader patterns in favor of specifics",
+        "Applying the same design to all situations"
+      ],
+      "answer": "Observing and replicating natural patterns in design"
+    },
+    {
+      "question": "Which principle emphasizes the value of diversity in creating resilient systems?",
+      "choices": [
+        "Use and value diversity",
+        "Integrate rather than segregate",
+        "Use edges and value the marginal",
+        "Apply self-regulation and accept feedback"
+      ],
+      "answer": "Use and value diversity"
+    },
+    {
+      "question": "The principle 'Use edges and value the marginal' refers to:",
+      "choices": [
+        "Recognizing the importance of transition zones and overlooked resources",
+        "Focusing only on the center of a system",
+        "Avoiding boundaries and edges in design",
+        "Marginalizing certain elements of a system"
+      ],
+      "answer": "Recognizing the importance of transition zones and overlooked resources"
+    },
+    {
+      "question": "Which principle encourages adaptability and resilience in the face of change?",
+      "choices": [
+        "Creatively use and respond to change",
+        "Use small and slow solutions",
+        "Observe and interact",
+        "Obtain a yield"
+      ],
+      "answer": "Creatively use and respond to change"
+    },
+    {
+      "question": "The principle 'Integrate rather than segregate' promotes:",
+      "choices": [
+        "Creating connections and relationships between elements",
+        "Keeping different elements of a system separate",
+        "Focusing on monoculture in agriculture",
+        "Isolating problems from solutions"
+      ],
+      "answer": "Creating connections and relationships between elements"
+    },
+    {
+      "question": "Which permaculture principle emphasizes the importance of energy-efficient planning?",
+      "choices": [
+        "Use small and slow solutions",
+        "Produce no waste",
+        "Catch and store energy",
+        "Design from patterns to details"
+      ],
+      "answer": "Use small and slow solutions"
+    },
+    {
+      "question": "The principle 'Obtain a yield' in permaculture means:",
+      "choices": [
+        "Ensuring systems are productive and self-sustaining",
+        "Maximizing short-term profits at any cost",
+        "Focusing solely on crop yields in agriculture",
+        "Extracting resources without consideration for regeneration"
+      ],
+      "answer": "Ensuring systems are productive and self-sustaining"
+    },
+    {
+      "question": "Which of the following is a key aspect of the 'Observe and interact' principle?",
+      "choices": [
+        "Taking time to understand the local environment before acting",
+        "Implementing changes without prior observation",
+        "Relying solely on external expert advice",
+        "Ignoring local conditions and applying universal solutions"
+      ],
+      "answer": "Taking time to understand the local environment before acting"
+    },
+    {
+      "question": "In permaculture, what does 'stacking functions' refer to?",
+      "choices": [
+        "Designing elements to serve multiple purposes",
+        "Building vertical structures",
+        "Arranging plants in layers",
+        "Creating separate zones for different functions"
+      ],
+      "answer": "Designing elements to serve multiple purposes"
+    },
+    {
+      "question": "Which permaculture principle is most closely related to the concept of 'closing the loop' in systems?",
+      "choices": [
+        "Produce no waste",
+        "Obtain a yield",
+        "Use edges and value the marginal",
+        "Creatively use and respond to change"
+      ],
+      "answer": "Produce no waste"
+    },
+    {
+      "question": "The permaculture approach to pest management primarily focuses on:",
+      "choices": [
+        "Creating balanced ecosystems to naturally control pests",
+        "Using chemical pesticides for immediate results",
+        "Eliminating all insects from the garden",
+        "Introducing non-native predators to control pests"
+      ],
+      "answer": "Creating balanced ecosystems to naturally control pests"
+    },
+    {
+      "question": "Which permaculture principle is most relevant when considering the placement of elements in a design?",
+      "choices": [
+        "Integrate rather than segregate",
+        "Use small and slow solutions",
+        "Produce no waste",
+        "Catch and store energy"
+      ],
+      "answer": "Integrate rather than segregate"
+    },
+    {
+      "question": "In permaculture, the concept of 'zones' is used to:",
+      "choices": [
+        "Organize elements based on frequency of use and energy needs",
+        "Separate different types of plants",
+        "Create distinct areas for wildlife and humans",
+        "Divide land equally among community members"
+      ],
+      "answer": "Organize elements based on frequency of use and energy needs"
+    },
+    {
+      "question": "Which permaculture principle is most relevant when considering long-term sustainability and resilience?",
+      "choices": [
+        "Use and value renewable resources and services",
+        "Obtain a yield",
+        "Use edges and value the marginal",
+        "Design from patterns to details"
+      ],
+      "answer": "Use and value renewable resources and services"
+    },
+    {
+      "question": "The permaculture approach to water management primarily focuses on:",
+      "choices": [
+        "Slowing, spreading, and sinking water into the landscape",
+        "Quickly draining water away from the site",
+        "Relying solely on irrigation systems",
+        "Storing all water in large reservoirs"
+      ],
+      "answer": "Slowing, spreading, and sinking water into the landscape"
+    },
+    {
+      "question": "Which permaculture principle is most closely aligned with the practice of companion planting?",
+      "choices": [
+        "Use and value diversity",
+        "Produce no waste",
+        "Catch and store energy",
+        "Apply self-regulation and accept feedback"
+      ],
+      "answer": "Use and value diversity"
+    },
+    {
+      "question": "In permaculture, the edge effect refers to:",
+      "choices": [
+        "The increased diversity and productivity at the boundary between two ecosystems",
+        "The negative impact of human activity on natural borders",
+        "The practice of planting at the edges of a property",
+        "The tendency for systems to break down at their edges"
+      ],
+      "answer": "The increased diversity and productivity at the boundary between two ecosystems"
+    },
+    {
+      "question": "Which permaculture principle is most relevant when considering how to adapt to climate change?",
+      "choices": [
+        "Creatively use and respond to change",
+        "Use small and slow solutions",
+        "Produce no waste",
+        "Observe and interact"
+      ],
+      "answer": "Creatively use and respond to change"
+    }
+  ]
+}

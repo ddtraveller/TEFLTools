@@ -1,0 +1,315 @@
+{
+  "title": "Water Harvesting for Aquaculture in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is the main purpose of water harvesting in the context of aquaculture?",
+      "choices": [
+        "To collect and store water for fish ponds",
+        "To irrigate crops",
+        "To provide drinking water for livestock",
+        "To generate hydroelectric power"
+      ],
+      "answer": "To collect and store water for fish ponds"
+    },
+    {
+      "question": "Which of the following is NOT a water harvesting technique mentioned in the lesson?",
+      "choices": [
+        "Desalination",
+        "Swales",
+        "Ponds",
+        "Tanks and cisterns"
+      ],
+      "answer": "Desalination"
+    },
+    {
+      "question": "What is a swale?",
+      "choices": [
+        "A shallow trench that follows the contour of the land",
+        "A deep well for extracting groundwater",
+        "A large tank for storing rainwater",
+        "A type of fish commonly raised in aquaculture"
+      ],
+      "answer": "A shallow trench that follows the contour of the land"
+    },
+    {
+      "question": "What is the purpose of building swales?",
+      "choices": [
+        "To slow down and capture runoff water",
+        "To direct water away from the land",
+        "To provide habitat for aquatic plants",
+        "To serve as breeding grounds for fish"
+      ],
+      "answer": "To slow down and capture runoff water"
+    },
+    {
+      "question": "What is the main benefit of storing water in ponds?",
+      "choices": [
+        "It provides a reliable water source for fish ponds",
+        "It increases the speed of water flow",
+        "It helps to drain excess water from the land",
+        "It eliminates the need for water filtration"
+      ],
+      "answer": "It provides a reliable water source for fish ponds"
+    },
+    {
+      "question": "What is the purpose of installing rainwater tanks or cisterns?",
+      "choices": [
+        "To collect and store rainwater for later use",
+        "To purify contaminated groundwater",
+        "To breed fish in a controlled environment",
+        "To measure the amount of rainfall in an area"
+      ],
+      "answer": "To collect and store rainwater for later use"
+    },
+    {
+      "question": "What is the first step in building a fish pond?",
+      "choices": [
+        "Choosing a suitable location",
+        "Filling the pond with water",
+        "Stocking the pond with fish",
+        "Installing a filtration system"
+      ],
+      "answer": "Choosing a suitable location"
+    },
+    {
+      "question": "What should be considered when choosing a location for a fish pond?",
+      "choices": [
+        "Proximity to a water source",
+        "Exposure to direct sunlight",
+        "Accessibility for harvesting fish",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the recommended shape for a fish pond?",
+      "choices": [
+        "Rectangular or square",
+        "Circular",
+        "Triangular",
+        "Irregular"
+      ],
+      "answer": "Rectangular or square"
+    },
+    {
+      "question": "What is the purpose of lining a fish pond with clay or a synthetic liner?",
+      "choices": [
+        "To prevent water from seeping out",
+        "To make the pond look more attractive",
+        "To provide a surface for algae growth",
+        "To keep predators out of the pond"
+      ],
+      "answer": "To prevent water from seeping out"
+    },
+    {
+      "question": "What is the recommended depth for a fish pond?",
+      "choices": [
+        "At least 1.5 meters deep",
+        "Less than 0.5 meters deep",
+        "Between 0.5 and 1 meter deep",
+        "The depth doesn't matter"
+      ],
+      "answer": "At least 1.5 meters deep"
+    },
+    {
+      "question": "Why is it important to maintain good water quality in a fish pond?",
+      "choices": [
+        "To ensure the health and growth of the fish",
+        "To make the water look clearer",
+        "To attract wild birds to the pond",
+        "To increase evaporation rates"
+      ],
+      "answer": "To ensure the health and growth of the fish"
+    },
+    {
+      "question": "What is the purpose of installing a water inlet and outlet in a fish pond?",
+      "choices": [
+        "To allow for water exchange and circulation",
+        "To make it easier to catch the fish",
+        "To prevent algae growth",
+        "To keep the water cold"
+      ],
+      "answer": "To allow for water exchange and circulation"
+    },
+    {
+      "question": "What does the term 'contour' mean in the context of building swales?",
+      "choices": [
+        "The shape of the land surface",
+        "The depth of the swale",
+        "The type of soil in the area",
+        "The height of the berm"
+      ],
+      "answer": "The shape of the land surface"
+    },
+    {
+      "question": "What is the purpose of allowing water to slowly infiltrate into the ground from a swale?",
+      "choices": [
+        "To recharge groundwater",
+        "To increase surface runoff",
+        "To cause erosion",
+        "To drain the soil"
+      ],
+      "answer": "To recharge groundwater"
+    },
+    {
+      "question": "What is a reservoir?",
+      "choices": [
+        "A large natural or artificial lake used as a source of water supply",
+        "A type of fish feed",
+        "A device for measuring water flow",
+        "A chemical used to treat pond water"
+      ],
+      "answer": "A large natural or artificial lake used as a source of water supply"
+    },
+    {
+      "question": "What is a cistern?",
+      "choices": [
+        "A waterproof container for storing water",
+        "A type of aquatic plant",
+        "A unit of measurement for pond size",
+        "A tool for digging swales"
+      ],
+      "answer": "A waterproof container for storing water"
+    },
+    {
+      "question": "What is erosion?",
+      "choices": [
+        "The gradual destruction or washing away of soil by water or wind",
+        "The accumulation of sediment in a pond",
+        "The growth of beneficial bacteria in pond water",
+        "The process of harvesting fish from a pond"
+      ],
+      "answer": "The gradual destruction or washing away of soil by water or wind"
+    },
+    {
+      "question": "What is an ecosystem?",
+      "choices": [
+        "A community of living organisms interacting with their environment",
+        "A type of fish feed",
+        "A method of water filtration",
+        "A material used for pond lining"
+      ],
+      "answer": "A community of living organisms interacting with their environment"
+    },
+    {
+      "question": "How can swales help to reduce erosion?",
+      "choices": [
+        "By slowing down water flow and allowing it to infiltrate the soil",
+        "By directing water away from the land",
+        "By increasing the speed of water runoff",
+        "By removing vegetation from the land surface"
+      ],
+      "answer": "By slowing down water flow and allowing it to infiltrate the soil"
+    },
+    {
+      "question": "What is the benefit of integrating water harvesting techniques with a fish pond?",
+      "choices": [
+        "It ensures a consistent supply of water for the pond",
+        "It eliminates the need for water filtration",
+        "It automatically harvests the fish",
+        "It prevents algae growth in the pond"
+      ],
+      "answer": "It ensures a consistent supply of water for the pond"
+    },
+    {
+      "question": "What is the purpose of adding compost or manure to a fish pond?",
+      "choices": [
+        "To provide nutrients for the growth of natural fish food",
+        "To make the water clearer",
+        "To increase the pH level of the water",
+        "To attract predators to the pond"
+      ],
+      "answer": "To provide nutrients for the growth of natural fish food"
+    },
+    {
+      "question": "What is the recommended frequency for partially draining and refilling a fish pond?",
+      "choices": [
+        "Every 1-2 weeks",
+        "Once a month",
+        "Once a year",
+        "Never"
+      ],
+      "answer": "Every 1-2 weeks"
+    },
+    {
+      "question": "Why is it important to prevent excessive algae growth in a fish pond?",
+      "choices": [
+        "Algae can deplete oxygen levels in the water",
+        "Algae make the water look clearer",
+        "Algae provide a natural food source for the fish",
+        "Algae help to regulate the water temperature"
+      ],
+      "answer": "Algae can deplete oxygen levels in the water"
+    },
+    {
+      "question": "What is the purpose of stocking a fish pond with a variety of species?",
+      "choices": [
+        "To create a balanced ecosystem",
+        "To make the pond look more colorful",
+        "To increase competition among the fish",
+        "To make it easier to harvest the fish"
+      ],
+      "answer": "To create a balanced ecosystem"
+    },
+    {
+      "question": "What is the benefit of raising fish that feed at different levels of the pond?",
+      "choices": [
+        "It maximizes the use of available food resources",
+        "It makes the fish easier to catch",
+        "It prevents the fish from reproducing",
+        "It eliminates the need for water filtration"
+      ],
+      "answer": "It maximizes the use of available food resources"
+    },
+    {
+      "question": "What is the purpose of monitoring the pH level of pond water?",
+      "choices": [
+        "To ensure the water is suitable for the fish",
+        "To make the water taste better",
+        "To prevent algae growth",
+        "To attract wild birds to the pond"
+      ],
+      "answer": "To ensure the water is suitable for the fish"
+    },
+    {
+      "question": "What is the ideal pH range for most fish ponds?",
+      "choices": [
+        "Between 6.5 and 9.0",
+        "Between 4.0 and 5.0",
+        "Between 10.0 and 11.0",
+        "The pH level doesn't matter"
+      ],
+      "answer": "Between 6.5 and 9.0"
+    },
+    {
+      "question": "What is the purpose of providing supplementary feed to fish in a pond?",
+      "choices": [
+        "To ensure they have enough food to grow quickly",
+        "To make the water clearer",
+        "To prevent algae growth",
+        "To attract predators to the pond"
+      ],
+      "answer": "To ensure they have enough food to grow quickly"
+    },
+    {
+      "question": "What is the recommended time of day for feeding fish in a pond?",
+      "choices": [
+        "Early morning and late afternoon",
+        "Mid-day when the sun is strongest",
+        "Late at night",
+        "The time of day doesn't matter"
+      ],
+      "answer": "Early morning and late afternoon"
+    },
+    {
+      "question": "What is the purpose of harvesting fish selectively and gradually from a pond?",
+      "choices": [
+        "To maintain a balanced population and allow for continuous harvests",
+        "To remove all the fish at once",
+        "To make room for new species of fish",
+        "To drain the pond completely"
+      ],
+      "answer": "To maintain a balanced population and allow for continuous harvests"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "title": "Permaculture Mapping and Site Assessment Quiz",
+  "questions": [
+    {
+      "question": "What is the importance of mapping in permaculture design?",
+      "choices": [
+        "It helps in understanding the site and its characteristics",
+        "It is a legal requirement for permaculture projects",
+        "It is used to create aesthetic designs",
+        "It is not important in permaculture design"
+      ],
+      "answer": "It helps in understanding the site and its characteristics"
+    },
+    {
+      "question": "Which of the following is NOT a key element to consider when assessing a site?",
+      "choices": [
+        "Topography",
+        "Water sources", 
+        "Soil types",
+        "Neighboring properties"
+      ],
+      "answer": "Neighboring properties"
+    },
+    {
+      "question": "Which mapping technique uses satellite imagery?",
+      "choices": [
+        "Hand-drawn maps",
+        "GPS mapping",
+        "Aerial photography",
+        "Topographic maps"
+      ],
+      "answer": "Aerial photography"
+    },
+    {
+      "question": "What is a base map in the context of site mapping?",
+      "choices": [
+        "A map showing the basic features of a site",
+        "A map with detailed soil analysis",
+        "A map highlighting the water sources",
+        "A map depicting the microclimate zones"
+      ],
+      "answer": "A map showing the basic features of a site"
+    },
+    {
+      "question": "Which Python library was used to create the sample map?",
+      "choices": [
+        "Matplotlib",
+        "Folium",
+        "Seaborn",
+        "Bokeh"  
+      ],
+      "answer": "Folium"
+    },
+    {
+      "question": "What can be added to maps to represent site characteristics?",
+      "choices": [
+        "Heat maps",
+        "Colored areas", 
+        "Points of interest",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the first step in conducting a site assessment?",
+      "choices": [
+        "Identifying the site boundaries",
+        "Analyzing the soil",
+        "Determining the water sources",
+        "Observing the wind patterns"
+      ],
+      "answer": "Identifying the site boundaries"
+    },
+    {
+      "question": "Which factor is NOT typically considered in a site assessment?",
+      "choices": [
+        "Sun exposure",
+        "Wind patterns",
+        "Microclimates",
+        "Property value"
+      ],
+      "answer": "Property value"
+    },
+    {
+      "question": "What is the purpose of the group activity in the lesson plan?",
+      "choices": [
+        "To practice site assessment and mapping techniques",
+        "To compete with other groups",
+        "To critique each other's maps",
+        "To learn Python programming"
+      ],
+      "answer": "To practice site assessment and mapping techniques" 
+    },
+    {
+      "question": "What is the recommended time allocation for the group activity?",
+      "choices": [
+        "10 minutes",
+        "20 minutes", 
+        "30 minutes",
+        "40 minutes"
+      ],
+      "answer": "30 minutes"
+    },
+    {
+      "question": "What type of map is provided to each group for the activity?",
+      "choices": [
+        "A hand-drawn map",
+        "An aerial photograph",
+        "A topographic map", 
+        "A base map of a hypothetical site"
+      ],
+      "answer": "A base map of a hypothetical site"
+    },
+    {
+      "question": "What should the groups add to their maps based on their assigned factors?",
+      "choices": [
+        "Colored areas",
+        "Heat maps",
+        "Points of interest", 
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which library are the groups encouraged to use for creating their maps?",
+      "choices": [
+        "Folium",
+        "Matplotlib",
+        "Seaborn",
+        "Bokeh"
+      ],
+      "answer": "Folium"
+    },
+    {
+      "question": "Where can the groups find sample code for creating maps?",
+      "choices": [
+        "In the slides folder",
+        "In the images folder",
+        "In the scripts folder",
+        "In the styles folder"  
+      ],
+      "answer": "In the scripts folder"
+    },
+    {
+      "question": "What is the name of the sample mapping script?",
+      "choices": [
+        "mapping.py",
+        "assessment.py",
+        "permaculture.py",
+        "site_map.py"
+      ],
+      "answer": "mapping.py"
+    },
+    {
+      "question": "What is emphasized in the conclusion of the lesson?",
+      "choices": [
+        "The importance of mapping and site assessment in permaculture design",
+        "The need for more permaculture projects",
+        "The complexity of Python programming",
+        "The superiority of hand-drawn maps"
+      ],
+      "answer": "The importance of mapping and site assessment in permaculture design"
+    },
+    {
+      "question": "What are students encouraged to do with the techniques learned in the lesson?",
+      "choices": [
+        "Apply them in their own permaculture projects",
+        "Teach them to others",
+        "Critique professional permaculture designs",
+        "Abandon traditional mapping methods"
+      ],
+      "answer": "Apply them in their own permaculture projects"
+    },
+    {
+      "question": "What is the total recommended time for the lesson?",
+      "choices": [
+        "60 minutes",
+        "70 minutes",
+        "80 minutes",
+        "90 minutes"
+      ],  
+      "answer": "70 minutes"
+    },
+    {
+      "question": "Which of the following is a benefit of using GPS mapping?",
+      "choices": [
+        "It provides accurate location data",
+        "It is less expensive than other methods",
+        "It can be done without visiting the site",
+        "It captures subjective impressions of the site"
+      ],
+      "answer": "It provides accurate location data"
+    },
+    {
+      "question": "What does a heat map typically represent on a site map?",
+      "choices": [
+        "Temperature variations across the site",
+        "Intensity of a particular characteristic, like sun exposure or soil moisture",
+        "Popularity of different areas of the site",
+        "Speed of water flow through the site"
+      ],
+      "answer": "Intensity of a particular characteristic, like sun exposure or soil moisture"
+    },
+    {
+      "question": "Why is it important to consider microclimates when assessing a site?",
+      "choices": [
+        "Microclimates can significantly impact plant growth and survival",
+        "Microclimates are legally protected areas",
+        "Microclimates are always beneficial for permaculture",
+        "Microclimates are easy to change through design"
+      ],
+      "answer": "Microclimates can significantly impact plant growth and survival"
+    },
+    {
+      "question": "What is the relationship between water flow and topography?",
+      "choices": [
+        "Water flows from areas of lower elevation to higher elevation",
+        "Water flows from areas of higher elevation to lower elevation",
+        "Topography does not affect water flow",
+        "Water flow creates the topography over time"
+      ],
+      "answer": "Water flows from areas of higher elevation to lower elevation"
+    },
+    {
+      "question": "Why is it important to understand wind patterns when designing a permaculture site?",
+      "choices": [
+        "Wind can damage or destroy plantings",
+        "Wind can help distribute seeds",
+        "Wind can be harnessed for energy",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is an advantage of hand-drawn maps over digital maps?",
+      "choices": [
+        "They can be created without specialised tools or software",
+        "They are more accurate than digital maps",
+        "They are easier to share and distribute",
+        "They can be updated in real-time"
+      ],
+      "answer": "They can be created without specialised tools or software"
+    },
+    {
+      "question": "What does 'aspect' refer to in site assessment?",
+      "choices": [
+        "The direction a slope faces",
+        "The steepness of a slope",
+        "The soil type on a slope", 
+        "The vegetation on a slope"
+      ],
+      "answer": "The direction a slope faces"
+    },
+    {
+      "question": "Why is it important to consider the legal boundaries of a site?",
+      "choices": [
+        "To avoid encroaching on neighboring properties",
+        "To ensure the site gets enough sunlight",
+        "To create aesthetic borders",
+        "To encourage wildlife to enter the site"
+      ],
+      "answer": "To avoid encroaching on neighboring properties"  
+    },
+    {
+      "question": "What is the role of observation in site assessment?",
+      "choices": [
+        "To gather data about the site's characteristics and patterns over time",
+        "To create a visually appealing map",
+        "To identify the most profitable areas of the site",
+        "To determine the site's property value"
+      ],
+      "answer": "To gather data about the site's characteristics and patterns over time"
+    },
+    {
+      "question": "What is the significance of identifying existing vegetation during site assessment?",
+      "choices": [
+        "To understand the site's current ecosystem and identify useful plants",
+        "To determine which plants need to be removed immediately",
+        "To calculate the potential income from harvesting the plants",
+        "To assess the aesthetic value of the site"
+      ],
+      "answer": "To understand the site's current ecosystem and identify useful plants"
+    },
+    {
+      "question": "What is the purpose of creating multiple maps of the same site?",
+      "choices": [
+        "To represent different characteristics or themes",
+        "To have backups in case a map is lost",
+        "To compare the accuracy of different mapping techniques",
+        "To create a visually appealing collage"
+      ],
+      "answer": "To represent different characteristics or themes"
+    },
+    {
+      "question": "What is the role of technology in permaculture site assessment?",
+      "choices": [
+        "To complement and enhance traditional assessment techniques",
+        "To replace traditional assessment techniques entirely",
+        "To make site assessment more difficult and time-consuming",
+        "To eliminate the need for on-site observations"
+      ],
+      "answer": "To complement and enhance traditional assessment techniques" 
+    },
+    {
+      "question": "What is the ultimate goal of site assessment and mapping in permaculture design?",
+      "choices": [
+        "To create a design that works in harmony with the site's natural characteristics",
+        "To impose a predetermined design onto the site",
+        "To identify the most profitable areas of the site",
+        "To create the most visually appealing design possible"
+      ],
+      "answer": "To create a design that works in harmony with the site's natural characteristics"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Patterns in Nature and Application to Design Quiz",
+  "questions": [
+    {
+      "question": "What is the significance of patterns in permaculture design?",
+      "choices": [
+        "They provide efficient and resilient design solutions based on nature's wisdom",
+        "They are purely decorative elements",
+        "They are used to confuse pests",
+        "They have no practical application in design"
+      ],
+      "answer": "They provide efficient and resilient design solutions based on nature's wisdom"
+    },
+    {
+      "question": "Which of the following is NOT a common pattern found in nature?",
+      "choices": [
+        "Perfect squares",
+        "Spirals",
+        "Branches",
+        "Waves"
+      ],
+      "answer": "Perfect squares"
+    },
+    {
+      "question": "The spiral pattern in nature is often associated with:",
+      "choices": [
+        "Efficient packing and growth",
+        "Rapid water runoff",
+        "Straight line movement",
+        "Uniform distribution of resources"
+      ],
+      "answer": "Efficient packing and growth"
+    },
+    {
+      "question": "Which natural pattern is commonly seen in river systems and blood vessels?",
+      "choices": [
+        "Branching",
+        "Spirals",
+        "Tessellations",
+        "Waves"
+      ],
+      "answer": "Branching"
+    },
+    {
+      "question": "The wave pattern in nature is often associated with:",
+      "choices": [
+        "Energy transfer and cyclical processes",
+        "Static stability",
+        "Linear growth",
+        "Rigid structures"
+      ],
+      "answer": "Energy transfer and cyclical processes"
+    },
+    {
+      "question": "Tessellations in nature are examples of:",
+      "choices": [
+        "Efficient space-filling patterns",
+        "Random distribution",
+        "Chaotic systems",
+        "Isolated elements"
+      ],
+      "answer": "Efficient space-filling patterns"
+    },
+    {
+      "question": "Which pattern is often seen in the arrangement of leaves on a stem to maximize sunlight exposure?",
+      "choices": [
+        "Spiral phyllotaxis",
+        "Perfect circles",
+        "Straight lines",
+        "Random scattering"
+      ],
+      "answer": "Spiral phyllotaxis"
+    },
+    {
+      "question": "The Fibonacci sequence is closely related to which natural pattern?",
+      "choices": [
+        "Spirals",
+        "Waves",
+        "Tessellations",
+        "Straight lines"
+      ],
+      "answer": "Spirals"
+    },
+    {
+      "question": "Which pattern is often observed in the formation of coastlines and mountain ranges?",
+      "choices": [
+        "Fractals",
+        "Perfect circles",
+        "Straight lines",
+        "Squares"
+      ],
+      "answer": "Fractals"
+    },
+    {
+      "question": "In permaculture design, the edge effect is related to which pattern?",
+      "choices": [
+        "Boundaries and interfaces",
+        "Spirals",
+        "Straight lines",
+        "Circles"
+      ],
+      "answer": "Boundaries and interfaces"
+    },
+    {
+      "question": "Which natural pattern is often used in permaculture to design efficient herb spirals?",
+      "choices": [
+        "Spiral",
+        "Grid",
+        "Triangle",
+        "Straight line"
+      ],
+      "answer": "Spiral"
+    },
+    {
+      "question": "The branching pattern in nature is often used in permaculture to design:",
+      "choices": [
+        "Efficient water distribution systems",
+        "Straight pathways",
+        "Uniform planting beds",
+        "Circular ponds"
+      ],
+      "answer": "Efficient water distribution systems"
+    },
+    {
+      "question": "Which pattern in nature demonstrates the principle of 'form follows function'?",
+      "choices": [
+        "Honeycomb structure",
+        "Random scattering of seeds",
+        "Uniformly spaced trees in an orchard",
+        "Straight rivers"
+      ],
+      "answer": "Honeycomb structure"
+    },
+    {
+      "question": "The lobed pattern often seen in leaves is primarily useful for:",
+      "choices": [
+        "Increasing surface area for light absorption and gas exchange",
+        "Decoration",
+        "Confusing herbivores",
+        "Storing water"
+      ],
+      "answer": "Increasing surface area for light absorption and gas exchange"
+    },
+    {
+      "question": "Which natural pattern is often used in permaculture to design keyhole gardens?",
+      "choices": [
+        "Lobes",
+        "Spirals",
+        "Grids",
+        "Straight lines"
+      ],
+      "answer": "Lobes"
+    },
+    {
+      "question": "The pattern of concentric rings seen in tree trunks is useful for:",
+      "choices": [
+        "Understanding cyclical growth and climate history",
+        "Decorating wooden furniture",
+        "Determining the tree's height",
+        "Measuring the tree's width"
+      ],
+      "answer": "Understanding cyclical growth and climate history"
+    },
+    {
+      "question": "Which pattern is often used in permaculture to design multi-layered forest gardens?",
+      "choices": [
+        "Stratification",
+        "Grids",
+        "Spirals",
+        "Tessellations"
+      ],
+      "answer": "Stratification"
+    },
+    {
+      "question": "The dendritic pattern seen in river systems is useful in permaculture for designing:",
+      "choices": [
+        "Water harvesting systems",
+        "Straight irrigation channels",
+        "Circular ponds",
+        "Uniform crop rows"
+      ],
+      "answer": "Water harvesting systems"
+    },
+    {
+      "question": "Which natural pattern is often used to inform the design of wind breaks in permaculture?",
+      "choices": [
+        "Wave",
+        "Spiral",
+        "Grid",
+        "Straight line"
+      ],
+      "answer": "Wave"
+    },
+    {
+      "question": "The pattern of hexagonal cells in a beehive demonstrates:",
+      "choices": [
+        "Efficient use of space and materials",
+        "Random organization",
+        "Inefficient space use",
+        "Decorative design"
+      ],
+      "answer": "Efficient use of space and materials"
+    },
+    {
+      "question": "Which pattern is often observed in the arrangement of branches to maximize sunlight capture?",
+      "choices": [
+        "Fractal",
+        "Grid",
+        "Spiral",
+        "Straight line"
+      ],
+      "answer": "Fractal"
+    },
+    {
+      "question": "The pattern of veins in a leaf is similar to which permaculture design element?",
+      "choices": [
+        "Water distribution systems",
+        "Crop rows",
+        "Circular gardens",
+        "Compost piles"
+      ],
+      "answer": "Water distribution systems"
+    },
+    {
+      "question": "Which natural pattern informs the design of swales in permaculture?",
+      "choices": [
+        "Contour lines",
+        "Spirals",
+        "Grids",
+        "Straight lines"
+      ],
+      "answer": "Contour lines"
+    },
+    {
+      "question": "The pattern of animal trails in nature often informs the design of:",
+      "choices": [
+        "Efficient pathway systems",
+        "Straight roads",
+        "Uniform garden beds",
+        "Circular ponds"
+      ],
+      "answer": "Efficient pathway systems"
+    },
+    {
+      "question": "Which pattern is often used in permaculture to design diverse polycultures?",
+      "choices": [
+        "Patches and mosaics",
+        "Uniform grids",
+        "Straight lines",
+        "Perfect circles"
+      ],
+      "answer": "Patches and mosaics"
+    },
+    {
+      "question": "The pattern of nutrient cycling in natural ecosystems informs which permaculture practice?",
+      "choices": [
+        "Composting and nutrient recycling",
+        "Monoculture farming",
+        "Chemical fertilizer use",
+        "Water extraction"
+      ],
+      "answer": "Composting and nutrient recycling"
+    },
+    {
+      "question": "Which natural pattern is often used to inform the design of food forests in permaculture?",
+      "choices": [
+        "Forest stratification",
+        "Uniform rows",
+        "Circular plantings",
+        "Grid systems"
+      ],
+      "answer": "Forest stratification"
+    },
+    {
+      "question": "The pattern of mutual relationships in nature (such as between fungi and trees) informs which permaculture concept?",
+      "choices": [
+        "Companion planting",
+        "Monoculture",
+        "Isolating plants",
+        "Chemical pest control"
+      ],
+      "answer": "Companion planting"
+    },
+    {
+      "question": "Which pattern in nature demonstrates efficient energy flow and is often used in permaculture design?",
+      "choices": [
+        "Spirals",
+        "Straight lines",
+        "Perfect squares",
+        "Uniform grids"
+      ],
+      "answer": "Spirals"
+    },
+    {
+      "question": "The pattern of seasonal changes in nature informs which aspect of permaculture design?",
+      "choices": [
+        "Cyclical planning and crop rotation",
+        "Static, unchanging designs",
+        "Year-round monoculture",
+        "Ignoring seasonal variations"
+      ],
+      "answer": "Cyclical planning and crop rotation"
+    }
+  ]
+}

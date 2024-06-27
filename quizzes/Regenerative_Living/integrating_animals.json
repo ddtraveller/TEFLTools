@@ -1,0 +1,305 @@
+{
+  "title": "Integrating Animals for Fertility Quiz",
+  "questions": [
+    {
+      "question": "What is the main concept behind integrating animals for fertility?",
+      "choices": [
+        "Using animals to enhance soil fertility in agricultural systems",
+        "Raising animals solely for their meat or dairy products",
+        "Keeping animals as pets on the farm",
+        "Using animal manure to generate electricity"
+      ],
+      "answer": "Using animals to enhance soil fertility in agricultural systems"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of animal integration in agricultural systems?",
+      "choices": [
+        "Increased reliance on external inputs",
+        "Soil fertility enhancement",
+        "Pest and weed management",
+        "Diversification of farm income"
+      ],
+      "answer": "Increased reliance on external inputs"
+    },
+    {
+      "question": "How does animal manure improve soil fertility?",
+      "choices": [
+        "By providing nutrients and improving soil structure",
+        "By compacting the soil and reducing water infiltration",
+        "By increasing soil erosion and nutrient runoff",
+        "By promoting the growth of harmful bacteria in the soil"
+      ],
+      "answer": "By providing nutrients and improving soil structure"
+    },
+    {
+      "question": "Which animal is known for producing high-nitrogen manure?",
+      "choices": [
+        "Poultry",
+        "Cattle",
+        "Sheep",
+        "Rabbits"
+      ],
+      "answer": "Poultry"
+    },
+    {
+      "question": "How can integrating poultry benefit pest management in crop systems?",
+      "choices": [
+        "Poultry can feed on insect pests and reduce their populations",
+        "Poultry manure attracts beneficial insects that control pests",
+        "Poultry feathers repel insect pests when applied to crops",
+        "Poultry droppings create a physical barrier that prevents pest movement"
+      ],
+      "answer": "Poultry can feed on insect pests and reduce their populations"
+    },
+    {
+      "question": "What is the primary benefit of integrating sheep or goats in crop systems?",
+      "choices": [
+        "Weed management through grazing",
+        "Nitrogen fixation in the soil",
+        "Improved water retention in the soil",
+        "Increased crop yields through pollination"
+      ],
+      "answer": "Weed management through grazing"
+    },
+    {
+      "question": "How can pig rooting behavior contribute to soil fertility?",
+      "choices": [
+        "By naturally tilling the soil and improving its structure",
+        "By compacting the soil and reducing water infiltration",
+        "By increasing soil erosion and nutrient runoff",
+        "By promoting the growth of harmful fungi in the soil"
+      ],
+      "answer": "By naturally tilling the soil and improving its structure"
+    },
+    {
+      "question": "What is the main goal of rotational grazing systems?",
+      "choices": [
+        "To optimize forage use and maintain pasture health",
+        "To maximize animal stocking rates and production",
+        "To eliminate the need for supplemental feeding",
+        "To reduce the diversity of plant species in the pasture"
+      ],
+      "answer": "To optimize forage use and maintain pasture health"
+    },
+    {
+      "question": "Why is composting animal manure beneficial for soil fertility?",
+      "choices": [
+        "It stabilizes nutrients and reduces odors",
+        "It increases the risk of pathogen spread",
+        "It reduces the organic matter content of the manure",
+        "It makes the manure more difficult to apply to crops"
+      ],
+      "answer": "It stabilizes nutrients and reduces odors"
+    },
+    {
+      "question": "What is the importance of timing when integrating animals into crop rotations?",
+      "choices": [
+        "To ensure that animal manure is available when crops need nutrients",
+        "To minimize the time animals spend on the farm",
+        "To prevent animals from interacting with crops",
+        "To maximize the use of synthetic fertilizers"
+      ],
+      "answer": "To ensure that animal manure is available when crops need nutrients"
+    },
+    {
+      "question": "What factors influence the stocking rate and carrying capacity of an integrated animal-crop system?",
+      "choices": [
+        "Forage availability, animal nutritional needs, and soil health",
+        "Market demand for animal products",
+        "Farmer's personal preferences",
+        "Government subsidies for animal production"
+      ],
+      "answer": "Forage availability, animal nutritional needs, and soil health"
+    },
+    {
+      "question": "Why is animal welfare an important consideration in integrated systems?",
+      "choices": [
+        "To ensure ethical treatment and maintain animal productivity",
+        "To maximize profits by minimizing animal care expenses",
+        "To eliminate the need for veterinary services",
+        "To promote the use of growth hormones and antibiotics"
+      ],
+      "answer": "To ensure ethical treatment and maintain animal productivity"
+    },
+    {
+      "question": "What is a potential positive environmental impact of integrating animals for fertility?",
+      "choices": [
+        "Reduced reliance on synthetic fertilizers and pesticides",
+        "Increased greenhouse gas emissions from animal manure",
+        "Decreased biodiversity in the agricultural landscape",
+        "Increased risk of water pollution from nutrient runoff"
+      ],
+      "answer": "Reduced reliance on synthetic fertilizers and pesticides"
+    },
+    {
+      "question": "What is a potential economic benefit of integrating animals in crop systems?",
+      "choices": [
+        "Diversification of income streams and increased farm resilience",
+        "Guaranteed high profits from animal products",
+        "Elimination of the need for crop insurance",
+        "Access to government subsidies for animal production"
+      ],
+      "answer": "Diversification of income streams and increased farm resilience"
+    },
+    {
+      "question": "What is the purpose of analyzing a case study of a successful integrated animal-crop system?",
+      "choices": [
+        "To learn from real-world examples and identify best practices",
+        "To copy the exact system design without adaptation",
+        "To criticize the farmer's management decisions",
+        "To promote the use of a single animal species in all integrated systems"
+      ],
+      "answer": "To learn from real-world examples and identify best practices"
+    },
+    {
+      "question": "What is the main objective of designing an integrated animal-crop system for a hypothetical farm?",
+      "choices": [
+        "To apply the concepts learned in the lesson to a practical scenario",
+        "To create a one-size-fits-all solution for all farms",
+        "To maximize animal production at the expense of crop yields",
+        "To eliminate the need for soil testing and nutrient management"
+      ],
+      "answer": "To apply the concepts learned in the lesson to a practical scenario"
+    },
+    {
+      "question": "What is the role of closed-loop nutrient cycling in integrated animal-crop systems?",
+      "choices": [
+        "To minimize waste and optimize resource use",
+        "To increase the farm's reliance on external inputs",
+        "To simplify the management of animal manure",
+        "To promote the use of synthetic fertilizers"
+      ],
+      "answer": "To minimize waste and optimize resource use"
+    },
+    {
+      "question": "How can integrating cattle in crop systems improve soil health?",
+      "choices": [
+        "Through well-managed grazing that stimulates plant growth and nutrient cycling",
+        "By allowing cattle to overgraze and compact the soil",
+        "By using cattle manure as the sole source of crop nutrition",
+        "By promoting the use of synthetic herbicides to control weeds"
+      ],
+      "answer": "Through well-managed grazing that stimulates plant growth and nutrient cycling"
+    },
+    {
+      "question": "What is the primary benefit of using animal manure as a nutrient source for crops?",
+      "choices": [
+        "It is a renewable and on-farm resource",
+        "It is cheaper than synthetic fertilizers",
+        "It has a higher nutrient content than compost",
+        "It eliminates the need for crop rotation"
+      ],
+      "answer": "It is a renewable and on-farm resource"
+    },
+    {
+      "question": "How can integrating ducks in crop systems contribute to pest management?",
+      "choices": [
+        "Ducks can feed on snails and other agricultural pests",
+        "Duck feathers repel insect pests when applied to crops",
+        "Duck droppings create a physical barrier that prevents pest movement",
+        "Duck quacking scares away pest birds and mammals"
+      ],
+      "answer": "Ducks can feed on snails and other agricultural pests"
+    },
+    {
+      "question": "What is the main advantage of using rabbit manure as a fertilizer?",
+      "choices": [
+        "It is high in nitrogen and phosphorus",
+        "It has a low odor compared to other manures",
+        "It is easier to collect and apply than other manures",
+        "It eliminates the need for composting"
+      ],
+      "answer": "It is high in nitrogen and phosphorus"
+    },
+    {
+      "question": "What is the importance of animal diversity in integrated systems?",
+      "choices": [
+        "Different animals provide complementary benefits and reduce risks",
+        "It increases the complexity and cost of animal management",
+        "It reduces the overall productivity of the system",
+        "It eliminates the need for crop diversity"
+      ],
+      "answer": "Different animals provide complementary benefits and reduce risks"
+    },
+    {
+      "question": "How can integrating animals in crop systems reduce the risk of nutrient leaching?",
+      "choices": [
+        "By recycling nutrients within the farm and reducing excess application",
+        "By increasing the use of synthetic fertilizers",
+        "By promoting the use of monocultures",
+        "By eliminating the need for cover crops"
+      ],
+      "answer": "By recycling nutrients within the farm and reducing excess application"
+    },
+    {
+      "question": "What is the role of soil testing in integrated animal-crop systems?",
+      "choices": [
+        "To monitor soil health and adjust management practices accordingly",
+        "To eliminate the need for animal manure as a nutrient source",
+        "To promote the use of synthetic pesticides",
+        "To justify the overgrazing of pastures"
+      ],
+      "answer": "To monitor soil health and adjust management practices accordingly"
+    },
+    {
+      "question": "What is a potential challenge of integrating animals in crop systems?",
+      "choices": [
+        "Increased management complexity and labor requirements",
+        "Guaranteed high profits from animal products",
+        "Elimination of the need for crop rotation",
+        "Reduced risk of soil erosion and nutrient runoff"
+      ],
+      "answer": "Increased management complexity and labor requirements"
+    },
+    {
+      "question": "How can integrating animals in crop systems contribute to the economic resilience of a farm?",
+      "choices": [
+        "By providing multiple income streams and reducing dependence on a single product",
+        "By maximizing short-term profits at the expense of long-term sustainability",
+        "By eliminating the need for financial planning and budgeting",
+        "By relying solely on government subsidies for animal production"
+      ],
+      "answer": "By providing multiple income streams and reducing dependence on a single product"
+    },
+    {
+      "question": "What is the main goal of integrating animals for fertility in the context of sustainable agriculture?",
+      "choices": [
+        "To create a more self-sufficient and eco-friendly farming system",
+        "To maximize animal production at the expense of environmental health",
+        "To eliminate the need for soil conservation practices",
+        "To promote the use of synthetic inputs and industrial farming methods"
+      ],
+      "answer": "To create a more self-sufficient and eco-friendly farming system"
+    },
+    {
+      "question": "What is the importance of considering the carrying capacity when integrating animals in crop systems?",
+      "choices": [
+        "To ensure that the land can support the animals without degradation",
+        "To maximize the number of animals per unit area",
+        "To eliminate the need for supplemental feeding",
+        "To promote the use of synthetic growth hormones"
+      ],
+      "answer": "To ensure that the land can support the animals without degradation"
+    },
+    {
+      "question": "How can integrating animals in crop systems contribute to the social sustainability of a farm?",
+      "choices": [
+        "By providing opportunities for community engagement and education",
+        "By maximizing profits at the expense of animal welfare",
+        "By eliminating the need for fair labor practices",
+        "By promoting the use of industrial farming methods"
+      ],
+      "answer": "By providing opportunities for community engagement and education"
+    },
+    {
+      "question": "What is the ultimate goal of integrating animals for fertility in agricultural systems?",
+      "choices": [
+        "To create a more sustainable, resilient, and regenerative farming system",
+        "To maximize short-term profits and productivity",
+        "To simplify farm management and decision-making",
+        "To eliminate the need for ecological knowledge and understanding"
+      ],
+      "answer": "To create a more sustainable, resilient, and regenerative farming system"
+    }
+  ]
+}

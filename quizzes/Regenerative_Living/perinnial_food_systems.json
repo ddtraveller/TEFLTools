@@ -1,0 +1,305 @@
+{
+  "title": "Food Forests and Forest Gardening Quiz",
+  "questions": [
+    {
+      "question": "What is a food forest?",
+      "choices": [
+        "A diverse planting of edible perennials that mimics a natural forest ecosystem",
+        "A monoculture orchard of fruit trees",
+        "A conventional vegetable garden with annual crops",
+        "A wild forest with no edible plants"
+      ],
+      "answer": "A diverse planting of edible perennials that mimics a natural forest ecosystem"
+    },
+    {
+      "question": "What is the main difference between a food forest and a conventional orchard?",
+      "choices": [
+        "A food forest has multiple layers and a diversity of plants",
+        "A food forest only has fruit trees",
+        "A food forest requires more maintenance and inputs",
+        "A food forest only provides food, not other ecosystem services"
+      ],
+      "answer": "A food forest has multiple layers and a diversity of plants"
+    },
+    {
+      "question": "What is the principle of layering in a food forest?",
+      "choices": [
+        "Planting crops of different heights to maximize vertical space",
+        "Planting crops in rows for easier harvesting",
+        "Planting the same crop in multiple locations for redundancy",
+        "Planting crops in a single layer for simplicity"
+      ],
+      "answer": "Planting crops of different heights to maximize vertical space"
+    },
+    {
+      "question": "What is a guild in a food forest?",
+      "choices": [
+        "A group of plants that work together and support each other",
+        "A group of plants that compete with each other for resources",
+        "A group of plants that are all harvested at the same time",
+        "A group of plants that are all from the same family"
+      ],
+      "answer": "A group of plants that work together and support each other"
+    },
+    {
+      "question": "What is one of the main benefits of a food forest compared to annual agriculture?",
+      "choices": [
+        "Resilience to pests, diseases, and climate fluctuations",
+        "Higher yields in the short term",
+        "Easier to manage with mechanized equipment",
+        "Faster return on investment"
+      ],
+      "answer": "Resilience to pests, diseases, and climate fluctuations"
+    },
+    {
+      "question": "What is the role of perennial plants in a food forest?",
+      "choices": [
+        "To provide long-term yields with less maintenance",
+        "To be replaced by annual crops each season",
+        "To serve as placeholders until the desired plants are established",
+        "To be removed once the food forest is mature"
+      ],
+      "answer": "To provide long-term yields with less maintenance"
+    },
+    {
+      "question": "What is the first step in designing a food forest?",
+      "choices": [
+        "Observing and analyzing the site conditions",
+        "Choosing the desired fruit trees",
+        "Tilling the soil and adding fertilizers",
+        "Installing an irrigation system"
+      ],
+      "answer": "Observing and analyzing the site conditions"
+    },
+    {
+      "question": "What factors should be considered when selecting plants for a food forest?",
+      "choices": [
+        "Climate, soil type, and the plant's ecological function",
+        "Aesthetic appeal and novelty",
+        "Market demand and profitability",
+        "Ease of harvesting and processing"
+      ],
+      "answer": "Climate, soil type, and the plant's ecological function"
+    },
+    {
+      "question": "What is a common technique for establishing a food forest on a grassy site?",
+      "choices": [
+        "Sheet mulching to suppress grass and build soil",
+        "Tilling the grass into the soil",
+        "Applying herbicides to kill the grass",
+        "Planting the trees directly into the grass"
+      ],
+      "answer": "Sheet mulching to suppress grass and build soil"
+    },
+    {
+      "question": "What is the role of nitrogen-fixing plants in a food forest?",
+      "choices": [
+        "To provide nitrogen for other plants and improve soil fertility",
+        "To provide a cash crop for income",
+        "To create a dense shade canopy",
+        "To attract pollinators with showy flowers"
+      ],
+      "answer": "To provide nitrogen for other plants and improve soil fertility"
+    },
+    {
+      "question": "What is the purpose of pruning in a food forest?",
+      "choices": [
+        "To manage tree size, stimulate fruiting, and allow light penetration",
+        "To create a uniform appearance",
+        "To eliminate all lower branches for ease of movement",
+        "To encourage tall, straight growth for timber production"
+      ],
+      "answer": "To manage tree size, stimulate fruiting, and allow light penetration"
+    },
+    {
+      "question": "What is a key principle of permaculture that is applied in food forests?",
+      "choices": [
+        "Working with nature rather than against it",
+        "Maximizing short-term yields and profits",
+        "Simplifying ecosystems for efficiency",
+        "Relying on external inputs and technology"
+      ],
+      "answer": "Working with nature rather than against it"
+    },
+    {
+      "question": "What is a common challenge in managing a food forest?",
+      "choices": [
+        "Balancing the needs of different plants and functions",
+        "Keeping up with the high maintenance requirements",
+        "Dealing with the limited variety of yields",
+        "Competing with wildlife for the harvests"
+      ],
+      "answer": "Balancing the needs of different plants and functions"
+    },
+    {
+      "question": "What is the role of groundcover plants in a food forest?",
+      "choices": [
+        "To protect and build soil, retain moisture, and suppress weeds",
+        "To provide the main crop for harvesting",
+        "To create a barrier to prevent animal intrusion",
+        "To serve as a sacrificial crop to attract pests away from trees"
+      ],
+      "answer": "To protect and build soil, retain moisture, and suppress weeds"
+    },
+    {
+      "question": "What is a food forest's primary source of fertility?",
+      "choices": [
+        "The cycling of nutrients from plant matter and animal waste",
+        "Regular applications of synthetic fertilizers",
+        "Importing compost from off-site sources",
+        "Relying on the existing soil fertility without replenishment"
+      ],
+      "answer": "The cycling of nutrients from plant matter and animal waste"
+    },
+    {
+      "question": "What is a key benefit of having a diverse range of plants in a food forest?",
+      "choices": [
+        "Increased resilience to pests and diseases",
+        "Simplified management and harvesting",
+        "Faster growth and higher yields",
+        "More predictable and uniform outputs"
+      ],
+      "answer": "Increased resilience to pests and diseases"
+    },
+    {
+      "question": "What is the role of animals in a food forest system?",
+      "choices": [
+        "To contribute to nutrient cycling and pest control",
+        "To compete with the plants for resources",
+        "To simplify the ecosystem and reduce diversity",
+        "To be the primary source of income from the food forest"
+      ],
+      "answer": "To contribute to nutrient cycling and pest control"
+    },
+    {
+      "question": "What is a key factor in the long-term success of a food forest?",
+      "choices": [
+        "Careful observation and adaptive management over time",
+        "Intensive interventions and artificial inputs",
+        "Strict adherence to the initial design without modifications",
+        "Rapid expansion and scaling up of the system"
+      ],
+      "answer": "Careful observation and adaptive management over time"
+    },
+    {
+      "question": "What is a common way to integrate water management into a food forest?",
+      "choices": [
+        "Creating swales and ponds to capture and store water",
+        "Installing a high-pressure irrigation system",
+        "Relying solely on rainfall without additional water sources",
+        "Diverting water away from the site to prevent waterlogging"
+      ],
+      "answer": "Creating swales and ponds to capture and store water"
+    },
+    {
+      "question": "What is the concept of dynamic accumulators in a food forest?",
+      "choices": [
+        "Plants that draw up nutrients from deep in the soil and make them available to other plants",
+        "Plants that produce large amounts of biomass quickly",
+        "Plants that store carbon in their woody tissues",
+        "Plants that attract and accumulate beneficial insects"
+      ],
+      "answer": "Plants that draw up nutrients from deep in the soil and make them available to other plants"
+    },
+    {
+      "question": "What is the role of fungi in a food forest ecosystem?",
+      "choices": [
+        "To form symbiotic relationships with plant roots and facilitate nutrient exchange",
+        "To parasitize the plants and cause disease outbreaks",
+        "To compete with the plants for water and nutrients",
+        "To serve as the primary food source for the animals in the system"
+      ],
+      "answer": "To form symbiotic relationships with plant roots and facilitate nutrient exchange"
+    },
+    {
+      "question": "What is a key strategy for pest control in a food forest?",
+      "choices": [
+        "Fostering a balanced ecosystem that includes predators and parasites of pests",
+        "Regularly spraying broad-spectrum pesticides",
+        "Planting only pest-resistant varieties and species",
+        "Physically removing all insects and other small animals from the site"
+      ],
+      "answer": "Fostering a balanced ecosystem that includes predators and parasites of pests"
+    },
+    {
+      "question": "What is a common challenge in harvesting from a food forest?",
+      "choices": [
+        "The dispersed and irregular distribution of yields",
+        "The low quality and small size of the harvests",
+        "The short harvesting window for each crop",
+        "The need for specialized harvesting equipment"
+      ],
+      "answer": "The dispersed and irregular distribution of yields"
+    },
+    {
+      "question": "What is a key social benefit of community food forests?",
+      "choices": [
+        "Providing a space for education, recreation, and social interaction",
+        "Maximizing economic profits for the community",
+        "Eliminating the need for individual gardens and farms",
+        "Reducing the diversity of local food sources"
+      ],
+      "answer": "Providing a space for education, recreation, and social interaction"
+    },
+    {
+      "question": "What is a main advantage of forest gardens in urban areas?",
+      "choices": [
+        "Increasing access to fresh, healthy food in underserved communities",
+        "Simplifying the urban landscape and reducing biodiversity",
+        "Eliminating the need for green spaces and parks",
+        "Providing a high-profit commodity crop for export"
+      ],
+      "answer": "Increasing access to fresh, healthy food in underserved communities"
+    },
+    {
+      "question": "What is a key principle of designing a food forest for a specific site?",
+      "choices": [
+        "Adapting the design to the unique conditions and context of the site",
+        "Replicating a standardized design from another successful food forest",
+        "Prioritizing aesthetic considerations over ecological function",
+        "Aiming to maximize short-term yields rather than long-term sustainability"
+      ],
+      "answer": "Adapting the design to the unique conditions and context of the site"
+    },
+    {
+      "question": "What is a common way to propagate plants for a food forest?",
+      "choices": [
+        "Growing from seed, cuttings, or grafting",
+        "Purchasing all plants from a commercial nursery",
+        "Transplanting mature trees from a natural forest",
+        "Genetically engineering new varieties in a lab"
+      ],
+      "answer": "Growing from seed, cuttings, or grafting"
+    },
+    {
+      "question": "What is a key economic benefit of food forests?",
+      "choices": [
+        "Providing a diverse range of products for home use or sale",
+        "Generating high profits from a single cash crop",
+        "Eliminating the need for financial planning and budgeting",
+        "Providing a guaranteed income stream from the first year"
+      ],
+      "answer": "Providing a diverse range of products for home use or sale"
+    },
+    {
+      "question": "What is the importance of patience in establishing a food forest?",
+      "choices": [
+        "It takes time for the system to mature and reach its full potential",
+        "Planting should be done as quickly as possible to get fast results",
+        "The system will be productive immediately after planting",
+        "Patience is not important in food forest management"
+      ],
+      "answer": "It takes time for the system to mature and reach its full potential"
+    },
+    {
+      "question": "What is the long-term vision of a food forest?",
+      "choices": [
+        "A self-sustaining, diverse, and resilient ecosystem that provides for human needs",
+        "A highly controlled and simplified production system for maximum efficiency",
+        "A low-maintenance landscape for aesthetic enjoyment without productive functions",
+        "A short-term project for quick profits and immediate gratification"
+      ],
+      "answer": "A self-sustaining, diverse, and resilient ecosystem that provides for human needs"
+    }
+  ]
+}

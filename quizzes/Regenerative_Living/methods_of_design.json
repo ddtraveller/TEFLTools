@@ -1,0 +1,305 @@
+{
+  "title": "Permaculture Design Methods Quiz for TEFL Learners",
+  "questions": [
+    {
+      "question": "What are the four key methods of permaculture design mentioned in the lesson?",
+      "choices": [
+        "Observation, analysis, design, and implementation",
+        "Planning, execution, evaluation, and revision",
+        "Research, development, testing, and deployment",
+        "Ideation, creation, assessment, and modification"
+      ],
+      "answer": "Observation, analysis, design, and implementation"
+    },
+    {
+      "question": "In the context of permaculture, what does 'observation' primarily involve?",
+      "choices": [
+        "Carefully studying the environment and existing patterns",
+        "Watching television programs about gardening",
+        "Observing other people's gardens",
+        "Taking photographs of plants"
+      ],
+      "answer": "Carefully studying the environment and existing patterns"
+    },
+    {
+      "question": "What is the purpose of the 'analysis' step in permaculture design?",
+      "choices": [
+        "To interpret observations and identify patterns and relationships",
+        "To criticize existing garden designs",
+        "To analyze soil samples in a laboratory",
+        "To calculate the cost of plants"
+      ],
+      "answer": "To interpret observations and identify patterns and relationships"
+    },
+    {
+      "question": "In the 'design' phase of permaculture, what is the main goal?",
+      "choices": [
+        "To create a plan that integrates observations and analysis into a cohesive system",
+        "To draw pretty pictures of gardens",
+        "To copy designs from gardening magazines",
+        "To design a logo for the garden"
+      ],
+      "answer": "To create a plan that integrates observations and analysis into a cohesive system"
+    },
+    {
+      "question": "What does the 'implementation' stage involve in permaculture design?",
+      "choices": [
+        "Putting the design into action and making adjustments as needed",
+        "Implementing new government policies",
+        "Importing plants from other countries",
+        "Inviting friends to view the garden"
+      ],
+      "answer": "Putting the design into action and making adjustments as needed"
+    },
+    {
+      "question": "In the Three Sisters Garden project, what is the first step in the observation phase?",
+      "choices": [
+        "Observing sunlight and shade patterns in the garden area",
+        "Counting the number of sisters in the family",
+        "Measuring the height of corn plants",
+        "Tasting different types of squash"
+      ],
+      "answer": "Observing sunlight and shade patterns in the garden area"
+    },
+    {
+      "question": "What is an important factor to consider when analyzing soil for a Three Sisters Garden?",
+      "choices": [
+        "Soil type and fertility",
+        "The color of the soil",
+        "The age of the soil",
+        "The name of the soil"
+      ],
+      "answer": "Soil type and fertility"
+    },
+    {
+      "question": "In the design phase of a Three Sisters Garden, what is an essential task?",
+      "choices": [
+        "Planning the layout of corn, squash, and bean plants",
+        "Designing a logo for the garden",
+        "Creating a marketing plan for the vegetables",
+        "Writing a song about the three sisters"
+      ],
+      "answer": "Planning the layout of corn, squash, and bean plants"
+    },
+    {
+      "question": "What is the first step in implementing a Three Sisters Garden?",
+      "choices": [
+        "Preparing the soil by removing weeds and adding compost",
+        "Hosting a party to celebrate the new garden",
+        "Painting the garden tools",
+        "Writing a poem about corn, beans, and squash"
+      ],
+      "answer": "Preparing the soil by removing weeds and adding compost"
+    },
+    {
+      "question": "In the Herb Spiral project, what is a key factor to observe and analyze?",
+      "choices": [
+        "Microclimates in the garden area",
+        "The spiral shape of snail shells",
+        "The color of herb leaves",
+        "The taste of different herbs"
+      ],
+      "answer": "Microclimates in the garden area"
+    },
+    {
+      "question": "What is an important consideration in the design phase of an Herb Spiral?",
+      "choices": [
+        "Selecting herbs based on their growing requirements and culinary uses",
+        "Arranging herbs in alphabetical order",
+        "Choosing herbs with the most attractive flowers",
+        "Placing all herbs that start with the letter 'A' at the top of the spiral"
+      ],
+      "answer": "Selecting herbs based on their growing requirements and culinary uses"
+    },
+    {
+      "question": "In the implementation of an Herb Spiral, why is the order of planting important?",
+      "choices": [
+        "To ensure herbs are placed according to their water and sunlight needs",
+        "To create a rainbow effect with the herb colors",
+        "To make the spiral look symmetrical",
+        "To plant the tallest herbs first"
+      ],
+      "answer": "To ensure herbs are placed according to their water and sunlight needs"
+    },
+    {
+      "question": "What is a key observation to make when planning a Companion Planting Bed?",
+      "choices": [
+        "Existing plants in the garden and their growth habits",
+        "The favorite colors of the gardener",
+        "The names of plants in alphabetical order",
+        "The current fashion trends in gardening"
+      ],
+      "answer": "Existing plants in the garden and their growth habits"
+    },
+    {
+      "question": "In the analysis phase of a Companion Planting Bed, what relationships should be considered?",
+      "choices": [
+        "Beneficial and antagonistic plant relationships",
+        "The zodiac signs of different plants",
+        "The popularity of plants on social media",
+        "The economic value of each plant"
+      ],
+      "answer": "Beneficial and antagonistic plant relationships"
+    },
+    {
+      "question": "What is a crucial aspect of designing a Companion Planting Bed?",
+      "choices": [
+        "Choosing plants that support each other's growth",
+        "Selecting plants with similar names",
+        "Arranging plants by height, tallest to shortest",
+        "Grouping plants by their country of origin"
+      ],
+      "answer": "Choosing plants that support each other's growth"
+    },
+    {
+      "question": "In the Vermiculture Bin project, what is an important factor to observe?",
+      "choices": [
+        "Available space for the bin and its environmental conditions",
+        "The color preferences of worms",
+        "The musical tastes of worms",
+        "The fashion trends in worm bins"
+      ],
+      "answer": "Available space for the bin and its environmental conditions"
+    },
+    {
+      "question": "What is a key consideration in the design phase of a Vermiculture Bin?",
+      "choices": [
+        "Determining the size of the bin based on the amount of food waste generated",
+        "Choosing the most aesthetically pleasing bin color",
+        "Deciding on a name for each worm",
+        "Planning a welcome party for the worms"
+      ],
+      "answer": "Determining the size of the bin based on the amount of food waste generated"
+    },
+    {
+      "question": "In the implementation of a Vermiculture Bin, why is it important to add a handful of soil or finished compost?",
+      "choices": [
+        "To introduce beneficial microorganisms",
+        "To make the bin heavier",
+        "To give the worms something to play with",
+        "To make the bin look fuller"
+      ],
+      "answer": "To introduce beneficial microorganisms"
+    },
+    {
+      "question": "What is a crucial observation to make when planning a Hydroponic Lettuce System?",
+      "choices": [
+        "Available space and light conditions for the system",
+        "The favorite types of lettuce in the local market",
+        "The current price of lettuce",
+        "The color of the hydroponics equipment"
+      ],
+      "answer": "Available space and light conditions for the system"
+    },
+    {
+      "question": "In the design phase of a Hydroponic Lettuce System, what is an important decision to make?",
+      "choices": [
+        "Choosing a simple hydroponic method using available materials",
+        "Selecting the most expensive hydroponic equipment",
+        "Deciding on a name for each lettuce plant",
+        "Planning a lettuce-themed party"
+      ],
+      "answer": "Choosing a simple hydroponic method using available materials"
+    },
+    {
+      "question": "What is a key step in implementing a Hydroponic Lettuce System?",
+      "choices": [
+        "Preparing the growing medium and nutrient solution",
+        "Teaching the lettuce plants to swim",
+        "Writing a song about hydroponics",
+        "Painting the lettuce leaves different colors"
+      ],
+      "answer": "Preparing the growing medium and nutrient solution"
+    },
+    {
+      "question": "When observing the site for a Compost Heap, what is an important factor to consider?",
+      "choices": [
+        "The balance of sun and shade in the chosen location",
+        "The color of the soil",
+        "The number of worms visible on the surface",
+        "The height of nearby buildings"
+      ],
+      "answer": "The balance of sun and shade in the chosen location"
+    },
+    {
+      "question": "In the analysis phase of a Compost Heap project, what should be evaluated?",
+      "choices": [
+        "The types and quantities of available composting materials",
+        "The current market price of compost",
+        "The neighbors' opinions on composting",
+        "The history of composting in the region"
+      ],
+      "answer": "The types and quantities of available composting materials"
+    },
+    {
+      "question": "What is a crucial aspect of designing a Compost Heap?",
+      "choices": [
+        "Balancing green (nitrogen-rich) and brown (carbon-rich) materials",
+        "Making the heap as tall as possible",
+        "Using only one type of material",
+        "Arranging materials by color"
+      ],
+      "answer": "Balancing green (nitrogen-rich) and brown (carbon-rich) materials"
+    },
+    {
+      "question": "Why is it important to turn a Compost Heap regularly during the implementation phase?",
+      "choices": [
+        "To aerate the heap and distribute moisture evenly",
+        "To give the compost materials exercise",
+        "To make the heap look neater",
+        "To impress the neighbors with your work ethic"
+      ],
+      "answer": "To aerate the heap and distribute moisture evenly"
+    },
+    {
+      "question": "What is the purpose of the worksheet questions provided in the lesson plan?",
+      "choices": [
+        "To encourage reflection on the design process and lessons learned",
+        "To test students' spelling abilities",
+        "To gather personal information about the students",
+        "To create a survey about gardening preferences"
+      ],
+      "answer": "To encourage reflection on the design process and lessons learned"
+    },
+    {
+      "question": "How does the lesson plan integrate language learning with permaculture concepts?",
+      "choices": [
+        "By providing opportunities for discussion, writing, and vocabulary development related to permaculture",
+        "By teaching permaculture terms in multiple languages",
+        "By requiring students to name all plants in a foreign language",
+        "By translating all permaculture books into the local language"
+      ],
+      "answer": "By providing opportunities for discussion, writing, and vocabulary development related to permaculture"
+    },
+    {
+      "question": "What is the main goal of the hands-on projects in this permaculture lesson?",
+      "choices": [
+        "To provide practical experience in applying permaculture design methods",
+        "To produce the largest amount of vegetables possible",
+        "To win a gardening competition",
+        "To create the most visually appealing garden"
+      ],
+      "answer": "To provide practical experience in applying permaculture design methods"
+    },
+    {
+      "question": "How does the lesson plan encourage creativity and adaptation?",
+      "choices": [
+        "By allowing students to choose their own projects or adapt the sample projects",
+        "By requiring all students to follow the same design exactly",
+        "By providing a strict set of rules for each project",
+        "By grading projects based on their similarity to the examples"
+      ],
+      "answer": "By allowing students to choose their own projects or adapt the sample projects"
+    },
+    {
+      "question": "What is the significance of including multiple sample projects in the lesson plan?",
+      "choices": [
+        "To demonstrate how permaculture principles can be applied to various contexts",
+        "To confuse students with too many options",
+        "To ensure that every student does a different project",
+        "To show that permaculture is only useful for certain types of projects"
+      ],
+      "answer": "To demonstrate how permaculture principles can be applied to various contexts"
+    }
+  ]
+}
