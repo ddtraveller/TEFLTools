@@ -1,16 +1,11 @@
-import pandas as pd
+import json
 from math import radians, cos, sin, asin, sqrt
 import random
-import csv
+from Combat import encounter
+from game_utils import select_initial_encounter, get_location_description
 
-def get_location_description(location_name):
-    with open("Locations.csv", "r") as file:
-        csv_reader = csv.reader(file)
-        next(csv_reader)  # Skip the header row
-        for row in csv_reader:
-            if row and row[0] == location_name:
-                return row[1] if len(row) > 1 else "A mysterious location in the realm."
-    return "A mysterious location in the realm."
+# Define the path to the JSON folder
+JSON_FOLDER = 'json'
 
 def haversine(lat1, lon1, lat2, lon2, elevation1, elevation2):
     """
@@ -36,10 +31,31 @@ def haversine(lat1, lon1, lat2, lon2, elevation1, elevation2):
 
 def load_locations(file_path):
     """
-    Load locations from a CSV file
+    Load locations from a JSON file
     """
-    locations = pd.read_csv(file_path)
-    return locations
+    try:
+        with open(file_path, 'r') as file:
+            data = json.load(file)
+        
+        # Check if the loaded data is a list
+        if isinstance(data, list):
+            return data
+        # Check if the loaded data is a dictionary with a 'locations' key
+        elif isinstance(data, dict) and 'locations' in data:
+            return data['locations']
+        else:
+            print(f"Error: Unexpected data structure in {file_path}")
+            print("Expected a list of locations or a dictionary with a 'locations' key.")
+            return []
+    except json.JSONDecodeError:
+        print(f"Error: Invalid JSON format in {file_path}")
+        return []
+    except FileNotFoundError:
+        print(f"Error: File not found: {file_path}")
+        return []
+    except Exception as e:
+        print(f"An unexpected error occurred while loading locations: {str(e)}")
+        return []
 
 def get_nearby_locations(locations, current_location, movement_speed):
     """
@@ -47,7 +63,7 @@ def get_nearby_locations(locations, current_location, movement_speed):
     """
     nearby_locations = []
     
-    for _, location in locations.iterrows():
+    for location in locations:
         if location['name'] != current_location['name']:
             distance = haversine(current_location['latitude'], current_location['longitude'],
                                  location['latitude'], location['longitude'],
@@ -60,13 +76,22 @@ def get_nearby_locations(locations, current_location, movement_speed):
 
 def find_starting_location(locations, movement_speed):
     """
-    Find a starting location with at least 3 nearby locations
+    Find a starting location with at least 1 nearby location
     """
-    while True:
-        current_location = locations.sample().iloc[0]
-        nearby_locations = get_nearby_locations(locations, current_location, movement_speed)
-        if len(nearby_locations) >= 3:
-            return current_location
+    all_connected = False
+    while not all_connected:
+        for location in locations:
+            nearby = get_nearby_locations(locations, location, movement_speed)
+            if not nearby:
+                print(f"Warning: {location['name']} is not connected to any other location.")
+                print(f"Increasing movement speed to connect all locations.")
+                movement_speed += 10  # Increase movement speed by 10 km
+                break
+        else:
+            all_connected = True
+    
+    print(f"All locations are now connected with a movement speed of {movement_speed} km.")
+    return random.choice(locations), movement_speed
 
 def navigate(locations, current_location, movement_speed):
     """
@@ -100,19 +125,22 @@ def start_navigation(file_path, movement_speed, character_data):
     Start the navigation system
     """
     locations = load_locations(file_path)
-    current_location = find_starting_location(locations, movement_speed)
+    if not locations:
+        print("Error: No locations loaded. Exiting navigation.")
+        return
+    
+    current_location, adjusted_movement_speed = find_starting_location(locations, movement_speed)
     
     while True:
-        current_location = navigate(locations, current_location, movement_speed)
+        current_location = navigate(locations, current_location, adjusted_movement_speed)
         
         if current_location is None:
             break
         
         # Here you might want to add a chance for an encounter
         if random.random() < 0.5:  # 50% chance for an encounter
-            from begin_game import encounter, select_initial_encounter  # Import here to avoid circular import
             monster_data, _ = select_initial_encounter()
-            victory = encounter(character_data, monster_data, current_location['name'], file_path, movement_speed)
+            victory = encounter(character_data, monster_data, current_location['name'], file_path, adjusted_movement_speed)
             if victory:
                 print("You were victorious! You continue your exploration.")
             else:

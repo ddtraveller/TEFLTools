@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Celestial Peaks of Ramelau",
+    "description": "Towering mountains shrouded in mist, where the air is thin and the stars feel close enough to touch.",
+    "latitude": -8.8607,
+    "longitude": 125.5286,
+    "elevation": 2986
+  },
+  {
+    "name": "Enchanted Forests of Lautém",
+    "description": "Ancient woodlands filled with bioluminescent plants and the whispers of unseen creatures.",
+    "latitude": -8.3639,
+    "longitude": 126.9714,
+    "elevation": 497
+  },
+  {
+    "name": "Whispering Caves of Baucau",
+    "description": "A network of caverns where echoes of the past reverberate through winding passages.",
+    "latitude": -8.4714,
+    "longitude": 126.4589,
+    "elevation": 375
+  },
+  {
+    "name": "Shimmering Shores of Jaco Island",
+    "description": "Pristine beaches with sand that glitters like stardust under the tropical sun.",
+    "latitude": -8.4385,
+    "longitude": 127.3384,
+    "elevation": 0
+  },
+  {
+    "name": "Emerald Terraces of Bobonaro",
+    "description": "Lush, stepped rice fields that cascade down hillsides in a mesmerizing display of green.",
+    "latitude": -8.9667,
+    "longitude": 125.2667,
+    "elevation": 882
+  },
+  {
+    "name": "Ethereal Springs of Marobo",
+    "description": "Steaming hot springs surrounded by mystical fog, said to have healing properties.",
+    "latitude": -8.9253,
+    "longitude": 125.3214,
+    "elevation": 412
+  },
+  {
+    "name": "Misty Marshes of Covalima",
+    "description": "Eerie wetlands where will-o'-wisps dance above the water and strange creatures lurk below.",
+    "latitude": -9.0244,
+    "longitude": 125.2811,
+    "elevation": 276
+  },
+  {
+    "name": "Whispering Woodlands of Viqueque",
+    "description": "A dense forest where the trees seem to murmur ancient secrets to those who listen closely.",
+    "latitude": -8.8583,
+    "longitude": 126.3639,
+    "elevation": 68
+  },
+  {
+    "name": "Radiant Ruins of Maubisse",
+    "description": "The remnants of an ancient civilization that glow with an otherworldly light at dusk.",
+    "latitude": -8.8681,
+    "longitude": 125.5989,
+    "elevation": 1432
+  },
+  {
+    "name": "Thundering Falls of Bandeira",
+    "description": "A majestic waterfall whose roar can be heard for miles, creating rainbows in its mist.",
+    "latitude": -8.7306,
+    "longitude": 125.5639,
+    "elevation": 1292
+  },
+  {
+    "name": "Whispering Winds of Venilale",
+    "description": "Rolling hills where the constant breeze carries whispers of forgotten tales.",
+    "latitude": -8.6433,
+    "longitude": 126.3733,
+    "elevation": 746
+  },
+  {
+    "name": "Shimmering Sands of Com",
+    "description": "A stretch of coastline where the sand sparkles with an unearthly glow under moonlight.",
+    "latitude": -8.3600,
+    "longitude": 126.6567,
+    "elevation": 0
+  },
+  {
+    "name": "Misty Peaks of Matebian",
+    "description": "Cloud-wreathed mountain summits where reality seems to blur at the edges.",
+    "latitude": -8.7365,
+    "longitude": 126.3706,
+    "elevation": 2316
+  },
+  {
+    "name": "Echoing Caverns of Lautém",
+    "description": "A vast underground system where sounds reverberate in mysterious ways, sometimes answering back.",
+    "latitude": -8.4114,
+    "longitude": 126.9144,
+    "elevation": 612
+  },
+  {
+    "name": "Enchanted Groves of Ermera",
+    "description": "Secluded woodlands where the trees seem to shift positions when no one is looking.",
+    "latitude": -8.7514,
+    "longitude": 125.3889,
+    "elevation": 1192
+  },
+  {
+    "name": "Whispering Canyons of Manatuto",
+    "description": "Deep ravines where the wind creates eerie melodies as it rushes through the rocks.",
+    "latitude": -8.5267,
+    "longitude": 126.0067,
+    "elevation": 38
+  },
+  {
+    "name": "Radiant Pools of Liquiçá",
+    "description": "A series of natural pools that glow with an inner light, especially under the full moon.",
+    "latitude": -8.5972,
+    "longitude": 125.3325,
+    "elevation": 142
+  },
+  {
+    "name": "Whispering Willows of Ainaro",
+    "description": "A grove of ancient willows whose leaves rustle with words from another time.",
+    "latitude": -9.0006,
+    "longitude": 125.5175,
+    "elevation": 1027
+  },
+  {
+    "name": "Shimmering Springs of Baucau",
+    "description": "Crystal-clear water sources that seem to ripple with colors not found in nature.",
+    "latitude": -8.4486,
+    "longitude": 126.5867,
+    "elevation": 336
+  },
+  {
+    "name": "Misty Moors of Manufahi",
+    "description": "Expansive grasslands often covered in a thick, mysterious fog that never seems to lift.",
+    "latitude": -8.9897,
+    "longitude": 125.8286,
+    "elevation": 451
+  },
+  {
+    "name": "Ethereal Falls of Ataúro",
+    "description": "A cascading waterfall on a remote island that seems to defy gravity, flowing upwards at times.",
+    "latitude": -8.2629,
+    "longitude": 125.5761,
+    "elevation": 0
+  },
+  {
+    "name": "Whispering Wetlands of Lospalos",
+    "description": "Swampy areas where the reeds and grasses whisper warnings and guidance to travelers.",
+    "latitude": -8.5317,
+    "longitude": 126.9939,
+    "elevation": 27
+  },
+  {
+    "name": "Radiant Reefs of Bikeli",
+    "description": "Underwater coral formations that emit a soft, multicolored glow visible from the shore.",
+    "latitude": -8.1479,
+    "longitude": 126.3817,
+    "elevation": 0
+  },
+  {
+    "name": "Misty Mangroves of Metinaro",
+    "description": "A labyrinthine coastal forest perpetually shrouded in a ghostly mist.",
+    "latitude": -8.5433,
+    "longitude": 125.7733,
+    "elevation": 5
+  },
+  {
+    "name": "Whispering Winds of Baguia",
+    "description": "Windswept highlands where the constant breeze seems to carry messages from distant lands.",
+    "latitude": -8.7996,
+    "longitude": 126.6591,
+    "elevation": 517
+  }
+]

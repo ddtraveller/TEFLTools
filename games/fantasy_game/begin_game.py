@@ -1,12 +1,15 @@
 import random
 import json
-import csv
 import os
 import sys
 from character_gen import generate_character
-from Combat import encounter  # Remove 'combat' from this import
+from Combat import combat, encounter
 from Navigation import start_navigation
+from game_utils import select_initial_encounter, get_location_description
 from anthropic import Anthropic
+
+# Define the path to the JSON folder
+JSON_FOLDER = 'json'
 
 # Assume ANTHROPIC_API_KEY is set in your environment variables
 client = Anthropic(api_key=os.getenv('ANTHROPIC_API_KEY'))
@@ -16,30 +19,6 @@ encounter_weights = {
     'movement': 0.2,
     'dialogue': 0.4
 }
-
-def get_location_description(location_name):
-    with open("Locations.csv", "r") as file:
-        csv_reader = csv.reader(file)
-        next(csv_reader)  # Skip the header row
-        for row in csv_reader:
-            if row and row[0] == location_name:
-                return row[1] if len(row) > 1 else "A mysterious location in the realm."
-    return "A mysterious location in the realm."
-
-def select_initial_encounter():
-    with open("monsters.json", "r") as file:
-        monsters_data = json.load(file)
-    
-    level_1_monsters = [monster for monster in monsters_data if monster['level'] == 1]
-    selected_monster = random.choice(level_1_monsters)
-    
-    # Ensure the monster has an 'armor_class' key
-    if 'armor_class' not in selected_monster:
-        selected_monster['armor_class'] = random.randint(10, 15)  # Default range, adjust as needed
-    
-    location = random.choice(selected_monster['locations'])
-    
-    return selected_monster, location
 
 def weighted_choice(weights):
     choices = list(weights.keys())
@@ -69,12 +48,12 @@ def main():
         print(f"No existing character found with the name {character_name}. Creating a new character...")
         character_data = generate_character(character_name)
     
-    file_path = 'Locations.csv'
-    movement_speed = 20  # Adjust this value based on the character's movement speed
+    locations_file = os.path.join(JSON_FOLDER, 'timor_leste_locations.json')
+    initial_movement_speed = 10  # Start with a lower value, it will be adjusted if needed
     
     # Start with the movement phase
     print("You find yourself ready to explore the vast lands of Timor Leste Fantasia.")
-    start_navigation(file_path, movement_speed, character_data)
+    start_navigation(locations_file, initial_movement_speed, character_data)
 
 if __name__ == "__main__":
     main()

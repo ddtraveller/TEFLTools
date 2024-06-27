@@ -1,37 +1,20 @@
 import random
 import sys
-import csv
+import json
 import os
-import pygame
 from anthropic import Anthropic
-from gpt4all import GPT4All
+from game_utils import get_location_description
 
-# Check if ANTHROPIC_API_KEY is set
+# Define the path to the JSON folder
+JSON_FOLDER = 'json'
+
+# Assume ANTHROPIC_API_KEY is set in your environment variables
 ANTHROPIC_API_KEY = os.getenv('ANTHROPIC_API_KEY')
 if ANTHROPIC_API_KEY:
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
-    print("Using Anthropic API for responses.")
 else:
-    print("ANTHROPIC_API_KEY not set. Using GPT4All as fallback method.")
+    print("Warning: ANTHROPIC_API_KEY not set. Using fallback method for responses.")
     client = None
-    # Path to the GPT4All model file
-    model_path = "orca-mini-3b-gguf2-q4_0.gguf"
-    try:
-        # Create a GPT4All model instance
-        model = GPT4All(model_path)
-    except Exception as e:
-        print(f"Error loading GPT4All model: {e}")
-        print("Falling back to simple text responses.")
-        model = None
-
-def get_location_description(location_name):
-    with open("Locations.csv", "r") as file:
-        csv_reader = csv.reader(file)
-        next(csv_reader)  # Skip the header row
-        for row in csv_reader:
-            if row and row[0] == location_name:
-                return row[1] if len(row) > 1 else "A mysterious location in the realm."
-    return "A mysterious location in the realm."
 
 def get_llm_response(messages):
     if client:
@@ -44,17 +27,10 @@ def get_llm_response(messages):
             return response.content[0].text
         except Exception as e:
             print(f"Error using Anthropic API: {e}")
-            print("Falling back to GPT4All.")
+            print("Falling back to simple response method.")
     
-    if model:
-        # Fallback to GPT4All
-        prompt = messages[-1]['content']  # Get the last message content as prompt
-        with model.chat_session():
-            response = model.generate(prompt=prompt, temp=0.7, max_tokens=300)
-        return response
-    else:
-        # Simple fallback if neither Anthropic nor GPT4All is available
-        return "The creature responds in a mysterious way, leaving you to interpret its intentions."
+    # Fallback method
+    return "The creature responds in a mysterious way, leaving you to interpret its intentions."
 
 def get_llm_decision(character_data, monster_data, conversation_history):
     prompt = f"""As a Dungeon Master, you are overseeing an encounter between {character_data['name']}, 
@@ -153,7 +129,19 @@ def encounter(character_data, monster_data, location, file_path, movement_speed)
 
                 if decision == 'Combat':
                     print(f"The encounter with the {monster_data['name']} turns hostile!")
-                    return combat(character_data, monster_data)
+                    combat_result = combat(character_data, monster_data)
+                    if combat_result == "victory":
+                        print("You were victorious in combat!")
+                        return True
+                    elif combat_result == "escaped":
+                        print("You managed to escape from combat.")
+                        return False
+                    elif combat_result == "monster_escaped":
+                        print(f"The {monster_data['name']} fled from combat.")
+                        return False
+                    else:
+                        print("The combat ended in a draw.")
+                        return False
                 elif decision == 'End Scenario':
                     print("The encounter comes to a peaceful end.")
                     return True
@@ -168,10 +156,24 @@ def encounter(character_data, monster_data, location, file_path, movement_speed)
 
         elif choice == '3':
             print(f"You prepare yourself for combat with the {monster_data['name']}.")
-            return combat(character_data, monster_data)
+            combat_result = combat(character_data, monster_data)
+            if combat_result == "victory":
+                print("You were victorious in combat!")
+                return True
+            elif combat_result == "escaped":
+                print("You managed to escape from combat.")
+                return False
+            elif combat_result == "monster_escaped":
+                print(f"The {monster_data['name']} fled from combat.")
+                return False
+            else:
+                print("The combat ended in a draw.")
+                return False
 
         else:
             print("Invalid choice. Please try again.")
+
+    return False
 
 def combat(character_data, monster_data):
     print("Combat begins!")
@@ -223,9 +225,12 @@ def combat(character_data, monster_data):
 
     if monster_data['health'] <= 0:
         print(f"You have defeated the {monster_data['name']}!")
-        # Gain experience points and loot
+        return "victory"
+    elif character_data['hit_points'] <= 0:
+        end_game("You have been defeated!")
     else:
-        print("Combat ended.")
+        print("Combat ended in a draw.")
+        return "draw"
 
 def player_turn(character_data, monster_data, defense):
     print("\nIt's your turn!")

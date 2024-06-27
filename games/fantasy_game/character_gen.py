@@ -1,8 +1,12 @@
 import random
 import json
 import os
+from typing import List, Dict, Any
 import anthropic
 from Character import create_character
+
+# Define the path to the JSON folder
+JSON_FOLDER = 'json'
 
 ANTHROPIC_API_KEY = os.getenv('ANTHROPIC_API_KEY')
 if ANTHROPIC_API_KEY:
@@ -11,7 +15,7 @@ else:
     print("Warning: ANTHROPIC_API_KEY not set. Will use fallback method for background story generation.")
     client = None
 
-starting_income = {
+STARTING_INCOME = {
     "Fighter": (10, 300),
     "Rogue": (10, 250),
     "Wizard": (10, 750),
@@ -26,17 +30,16 @@ starting_income = {
     "Druid": (10, 300)
 }
 
-def get_user_choice(options):
+def get_user_choice(options: List[str]) -> int:
     for i, option in enumerate(options, 1):
         print(f"{i}. {option}")
     while True:
-        choice = input("Enter your choice (1-" + str(len(options)) + "): ")
+        choice = input(f"Enter your choice (1-{len(options)}): ")
         if choice.isdigit() and 1 <= int(choice) <= len(options):
             return int(choice) - 1
-        else:
-            print("Invalid choice. Please try again.")
+        print("Invalid choice. Please try again.")
 
-def generate_background_story(character_data, world_description):
+def generate_background_story(character_data: Dict[str, Any], world_description: str) -> str:
     if client:
         try:
             prompt = f"""As a Dungeon Master, create a compelling background origin story for a character with the following attributes:
@@ -78,7 +81,19 @@ Please provide a rich and detailed background story that incorporates these elem
            f"Skilled in the ways of {character_data['element']}, {character_data['name']} follows the path of the {character_data['archetype']}. " \
            f"Armed with {', '.join(character_data['equipment'])}, {character_data['name']} sets out to face the dangers of this mysterious world."
 
-def generate_character(character_name):
+def load_json_file(filename: str) -> Any:
+    with open(os.path.join(JSON_FOLDER, filename), "r") as file:
+        return json.load(file)
+
+def save_character_data(character_data: Dict[str, Any]) -> None:
+    if not os.path.exists('characters'):
+        os.makedirs('characters')
+    character_filename = f"characters/{character_data['name'].lower()}_{character_data['class'].lower()}.json"
+    with open(character_filename, "w") as file:
+        json.dump(character_data, file, indent=4)
+    print(f"\nCharacter data saved to '{character_filename}'.")
+
+def generate_character(character_name: str) -> Dict[str, Any]:
     print("Welcome to the Fantasy Character Avatar Generator!")
     print("In this interactive game, you will make choices that shape your character's personality and background.")
     print("Based on your choices, we will generate a unique Fantasy character avatar for you.")
@@ -86,75 +101,48 @@ def generate_character(character_name):
 
     character_gender = input("Enter your character's gender: ")
 
-    with open("stories.json", "r") as file:
-        stories = json.load(file)
-
+    stories = load_json_file('stories.json')
     random.shuffle(stories)
     selected_stories = stories[:6]
 
-    element_score = 0
-
-    for story in selected_stories:
-        print(story["story"])
-        choice = get_user_choice(story["options"])
-        element_score += story["scores"][choice]
+    element_score = sum(story["scores"][get_user_choice(story["options"])] for story in selected_stories)
 
     character_data = create_character(element_score)
     character_data['name'] = character_name
     character_data['gender'] = character_gender
+    
     base_hit_points = 10
     constitution_modifier = (character_data['attributes']['Constitution'] - 10) // 2
-    hit_points = base_hit_points + constitution_modifier
-
-    character_data['hit_points'] = hit_points
-    character_data['max_hit_points'] = hit_points
+    character_data['hit_points'] = base_hit_points + constitution_modifier
+    character_data['max_hit_points'] = character_data['hit_points']
     character_data['level'] = 1
     
     character_class = character_data["class"]
-    
-    min_income, max_income = starting_income.get(character_class, (10, 300))
-    character_money = random.randint(min_income, max_income)    
-    
-    character_element = character_data["element"]
-    character_archetype = character_data["archetype"]
-    character_main_weapon = character_data["main_weapon"]
-    character_equipment = character_data["equipment"]
+    min_income, max_income = STARTING_INCOME.get(character_class, (10, 300))
+    character_money = random.randint(min_income, max_income)
 
     print("\nYour Fantasy Character Avatar:")
-    print("Name:", character_name)
-    print("Gender:", character_gender)
-    print("Class:", character_class)
-    print("Element:", character_element)
-    print("Archetype:", character_archetype)
-    print("Main Weapon:", character_main_weapon)
-    print("Equipment:", character_equipment)
-
-    if "spells" in character_data:
-        print("Spells:")
-        for spell in character_data["spells"]:
-            print("- " + spell["name"])
+    for key, value in character_data.items():
+        if key != 'attributes':
+            print(f"{key.capitalize()}: {value}")
 
     print("\nAttributes:")
-    for attribute, score in character_data["attributes"].items():
+    for attribute, score in character_data['attributes'].items():
         print(f"{attribute}: {score}")
 
     world_description = "In a realm where dark creatures lurk in the shadows, brave adventurers must face terrifying monsters born from ancient myths and legends. This land is home to vengeful spirits, shapeshifting demons, and nightmarish beings that prey on the unwary. From the misty forests to the treacherous swamps, danger lurks around every corner, challenging even the most valiant heroes."
 
-    background_story = generate_background_story(character_data, world_description)
+    character_data["background_story"] = generate_background_story(character_data, world_description)
 
     print("\nBackground Story:")
-    print(background_story)
-
-    character_data["background_story"] = background_story
+    print(character_data["background_story"])
 
     input("\nHit enter to continue...")
 
     print("\nAs you set out on your journey, you come across a merchant on the road.")
     print("The merchant greets you and offers an assortment of items for sale:")
 
-    with open("equipment.json", "r") as file:
-        equipment_data = json.load(file)
-
+    equipment_data = load_json_file('equipment.json')
     merchant_items = random.sample(equipment_data, 12)
 
     for i, item in enumerate(merchant_items, 1):
@@ -162,7 +150,6 @@ def generate_character(character_name):
         print(f"   {item['description']}")
 
     print(f"\nYou have {character_money} gold pieces to spend.")
-
     print(f"\nYou have {character_money // 100} gp, {(character_money % 100) // 10} sp, and {character_money % 10} cp to spend.")
 
     purchased_items = []
@@ -172,19 +159,13 @@ def generate_character(character_name):
         if choice == 'q':
             break
         if choice.isdigit() and 1 <= int(choice) <= len(merchant_items):
-            item_index = int(choice) - 1
-            item = merchant_items[item_index]
+            item = merchant_items[int(choice) - 1]
             cost_parts = item['cost'].split()
             cost = int(cost_parts[0])
             currency = cost_parts[1]
 
-            if currency == 'cp':
-                cost_in_cp = cost
-            elif currency == 'sp':
-                cost_in_cp = cost * 10
-            elif currency == 'gp':
-                cost_in_cp = cost * 100
-            else:
+            cost_in_cp = {'cp': cost, 'sp': cost * 10, 'gp': cost * 100}.get(currency)
+            if cost_in_cp is None:
                 print("Unknown currency. Skipping item.")
                 continue
 
@@ -202,19 +183,9 @@ def generate_character(character_name):
 
     character_data["purchased_items"] = [item["name"] for item in purchased_items]
     character_data["remaining_money"] = character_money
-
     character_data["equipment"].extend(character_data["purchased_items"])
 
-    # Create a 'characters' folder if it doesn't exist
-    if not os.path.exists('characters'):
-        os.makedirs('characters')
-
-    # Create the character's JSON file
-    character_filename = f"characters/{character_name.lower()}_{character_class.lower()}.json"
-    with open(character_filename, "w") as file:
-        json.dump(character_data, file, indent=4)
-
-    print(f"\nCharacter data saved to '{character_filename}'.")
+    save_character_data(character_data)
 
     return character_data
 
