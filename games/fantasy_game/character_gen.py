@@ -78,13 +78,12 @@ Please provide a rich and detailed background story that incorporates these elem
            f"Skilled in the ways of {character_data['element']}, {character_data['name']} follows the path of the {character_data['archetype']}. " \
            f"Armed with {', '.join(character_data['equipment'])}, {character_data['name']} sets out to face the dangers of this mysterious world."
 
-def generate_character():
+def generate_character(character_name):
     print("Welcome to the Fantasy Character Avatar Generator!")
     print("In this interactive game, you will make choices that shape your character's personality and background.")
     print("Based on your choices, we will generate a unique Fantasy character avatar for you.")
     print("Let's begin!\n")
 
-    character_name = input("Enter your character's name: ")
     character_gender = input("Enter your character's gender: ")
 
     with open("stories.json", "r") as file:

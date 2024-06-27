@@ -1,6 +1,16 @@
 import pandas as pd
 from math import radians, cos, sin, asin, sqrt
 import random
+import csv
+
+def get_location_description(location_name):
+    with open("Locations.csv", "r") as file:
+        csv_reader = csv.reader(file)
+        next(csv_reader)  # Skip the header row
+        for row in csv_reader:
+            if row and row[0] == location_name:
+                return row[1] if len(row) > 1 else "A mysterious location in the realm."
+    return "A mysterious location in the realm."
 
 def haversine(lat1, lon1, lat2, lon2, elevation1, elevation2):
     """
