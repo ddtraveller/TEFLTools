@@ -2,6 +2,8 @@
 
 This repository is a comprehensive collection of educational materials focused on regenerative living, holistic healing practices, and permaculture approaches tailored for Timor-Leste. It also includes resources for software development, beekeeping, and TEFL (Teaching English as a Foreign Language) content.
 
+The repo materials are meant as support materials for the books below.
+
 ## Table of Contents
 
 - [Repository Structure](#repository-structure)
