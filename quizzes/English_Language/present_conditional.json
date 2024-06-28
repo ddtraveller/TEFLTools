@@ -1,0 +1,210 @@
+{
+  "title": "First Conditional",
+  "questions": [
+    {
+      "question": "What is the structure of the First Conditional?",
+      "choices": [
+        "If + Present Simple, Will + Infinitive",
+        "If + Past Simple, Would + Infinitive",
+        "If + Present Perfect, Will + Infinitive",
+        "If + Past Perfect, Would + Infinitive"
+      ],
+      "answer": "If + Present Simple, Will + Infinitive"
+    },
+    {
+      "question": "Which sentence is an example of the First Conditional?",
+      "choices": [
+        "If it rains, I will stay at home.",
+        "If it rained, I would stay at home.",
+        "If it had rained, I would have stayed at home.",
+        "If it rains, I would stay at home."
+      ],
+      "answer": "If it rains, I will stay at home."
+    },
+    {
+      "question": "What type of situation does the First Conditional describe?",
+      "choices": [
+        "Impossible situations in the present",
+        "Real possibilities in the future",
+        "Regrets about the past",
+        "General truths"
+      ],
+      "answer": "Real possibilities in the future"
+    },
+    {
+      "question": "Which modal verb can replace 'will' in the First Conditional?",
+      "choices": [
+        "Would",
+        "Could",
+        "Might",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What tense is used in the 'if clause' of the First Conditional?",
+      "choices": [
+        "Present Simple",
+        "Past Simple",
+        "Present Perfect",
+        "Past Perfect"
+      ],
+      "answer": "Present Simple"
+    },
+    {
+      "question": "Which sentence is NOT in the First Conditional?",
+      "choices": [
+        "If you study hard, you will pass the exam.",
+        "If it snows, we'll go skiing.",
+        "If I had money, I would buy a car.",
+        "If she arrives early, we can start the meeting."
+      ],
+      "answer": "If I had money, I would buy a car."
+    },
+    {
+      "question": "What is the function of 'if' in the First Conditional?",
+      "choices": [
+        "To introduce the condition",
+        "To introduce the result",
+        "To express time",
+        "To show contrast"
+      ],
+      "answer": "To introduce the condition"
+    },
+    {
+      "question": "Which word can be used instead of 'if' in the First Conditional?",
+      "choices": [
+        "When",
+        "Unless",
+        "While",
+        "Both A and B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "How do you form the negative in the 'if clause' of the First Conditional?",
+      "choices": [
+        "If + subject + don't/doesn't + verb",
+        "If + subject + won't + verb",
+        "If + subject + didn't + verb",
+        "If + subject + haven't/hasn't + verb"
+      ],
+      "answer": "If + subject + don't/doesn't + verb"
+    },
+    {
+      "question": "Which sentence shows the correct use of```json
+{
+  "title": "First Conditional",
+  "questions": [
+    {
+      "question": "Which sentence shows the correct use of 'unless' in the First Conditional?",
+      "choices": [
+        "Unless it rains, we'll go to the beach.",
+        "Unless it rains, we go to the beach.",
+        "Unless it will rain, we'll go to the beach.",
+        "Unless it would rain, we'll go to the beach."
+      ],
+      "answer": "Unless it rains, we'll go to the beach."
+    },
+    {
+      "question": "What is the meaning of 'unless' in the First Conditional?",
+      "choices": [
+        "If not",
+        "When",
+        "While",
+        "Because"
+      ],
+      "answer": "If not"
+    },
+    {
+      "question": "Which sentence shows the correct word order in the First Conditional?",
+      "choices": [
+        "If will rain, I stay at home.",
+        "If it rain, I'll stay at home.",
+        "If it rains, I'll stay at home.",
+        "If it rains, I stay at home will."
+      ],
+      "answer": "If it rains, I'll stay at home."
+    },
+    {
+      "question": "What is the function of 'will' in the First Conditional?",
+      "choices": [
+        "To express the condition",
+        "To express the result",
+        "To show past time",
+        "To indicate a general truth"
+      ],
+      "answer": "To express the result"
+    },
+    {
+      "question": "Which modal verb expresses the highest degree of certainty in the First Conditional?",
+      "choices": [
+        "Will",
+        "May",
+        "Might",
+        "Could"
+      ],
+      "answer": "Will"
+    },
+    {
+      "question": "How can you express a command or instruction using the First Conditional?",
+      "choices": [
+        "Use the imperative in the result clause",
+        "Use 'must' in the result clause",
+        "Use 'should' in the result clause",
+        "Use 'have to' in the result clause"
+      ],
+      "answer": "Use the imperative in the result clause"
+    },
+    {
+      "question": "Which sentence is an example of a First Conditional with an imperative in the result clause?",
+      "choices": [
+        "If it rains, we'll stay inside.",
+        "If it rains, stay inside.",
+        "If it rains, we would stay inside.",
+        "If it rained, stay inside."
+      ],
+      "answer": "If it rains, stay inside."
+    },
+    {
+      "question": "What type of verb form is used after 'will' in the First Conditional?",
+      "choices": [
+        "Base form (infinitive without 'to')",
+        "Past participle",
+        "Present participle (-ing form)",
+        "Past simple"
+      ],
+      "answer": "Base form (infinitive without 'to')"
+    },
+    {
+      "question": "Which sentence shows the correct use of 'may' in the First Conditional?",
+      "choices": [
+        "If it rains, I may stay at home.",
+        "If it rains, I may stayed at home.",
+        "If it may rain, I will stay at home.",
+        "If it rained, I may stay at home."
+      ],
+      "answer": "If it rains, I may stay at home."
+    },
+    {
+      "question": "What is the difference between 'when' and 'if' in conditional sentences?",
+      "choices": [
+        "'When' is used for certainties, 'if' for possibilities",
+        "'If' is used for certainties, 'when' for possibilities",
+        "There is no difference; they are interchangeable",
+        "'When' is only used in the past, 'if' in the future"
+      ],
+      "answer": "'When' is used for certainties, 'if' for possibilities"
+    },
+    {
+      "question": "Which sentence is NOT a correct use of the First Conditional?",
+      "choices": [
+        "If you need help, call me.",
+        "When the sun sets, it will get cooler.",
+        "If I won the lottery, I will buy a house.",
+        "Unless you hurry, you'll miss the train."
+      ],
+      "answer": "If I won the lottery, I will buy a house."
+    }
+  ]
+}

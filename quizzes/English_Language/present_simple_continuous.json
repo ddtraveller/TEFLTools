@@ -1,0 +1,205 @@
+{
+  "title": "Present Simple and Present Continuous",
+  "questions": [
+    {
+      "question": "Which tense is used for habits and routines?",
+      "choices": [
+        "Present Simple",
+        "Present Continuous",
+        "Past Simple",
+        "Future Simple"
+      ],
+      "answer": "Present Simple"
+    },
+    {
+      "question": "What is the correct form of the verb in Present Continuous?",
+      "choices": [
+        "be + verb-ing",
+        "have + verb-ed",
+        "will + verb",
+        "verb + s/es"
+      ],
+      "answer": "be + verb-ing"
+    },
+    {
+      "question": "Which sentence uses the Present Simple correctly?",
+      "choices": [
+        "I am going to school every day.",
+        "She drinks coffee every morning.",
+        "They are playing football now.",
+        "We studying English at the moment."
+      ],
+      "answer": "She drinks coffee every morning."
+    },
+    {
+      "question": "What type of verb cannot usually be used in the continuous form?",
+      "choices": [
+        "Action verbs",
+        "State verbs",
+        "Regular verbs",
+        "Irregular verbs"
+      ],
+      "answer": "State verbs"
+    },
+    {
+      "question": "Which sentence uses the Present Continuous correctly?",
+      "choices": [
+        "I am thinking about changing my job.",
+        "The sun rises in the east.",
+        "Water boils at 100 degrees Celsius.",
+        "She has three sisters."
+      ],
+      "answer": "I am thinking about changing my job."
+    },
+    {
+      "question": "When do we use the Present Simple?",
+      "choices": [
+        "To talk about temporary situations",
+        "To describe actions happening right now",
+        "To express general truths and facts",
+        "To talk about future plans"
+      ],
+      "answer": "To express general truths and facts"
+    },
+    {
+      "question": "Which sentence is in the Present Continuous?",
+      "choices": [
+        "He works in a bank.",
+        "They are visiting their grandparents this weekend.",
+        "I usually wake up at 7 AM.",
+        "She speaks three languages."
+      ],
+      "answer": "They are visiting their grandparents this weekend."
+    },
+    {
+      "question": "What is the correct negative form of 'She speaks English' in Present Simple?",
+      "choices": [
+        "She don't speaks English.",
+        "She doesn't speaks English.",
+        "She doesn't speak English.",
+        "She not speak English."
+      ],
+      "answer": "She doesn't speak English."
+    },
+    {
+      "question": "Which sentence shows the correct use of a stative verb?",
+      "choices": [
+        "I am knowing the answer.",
+        "He is believing in ghosts.",
+        "They are having a car.",
+        "She understands the problem."
+      ],
+      "answer": "She understands the problem."
+    },
+    {
+      "question": "What is the function of the Present Continuous?",
+      "choices": [
+        "To express habits",
+        "To talk about general truths",
+        "To describe actions in progress",
+        "To discuss completed actions"
+      ],
+      "answer": "To describe actions in progress"
+    },
+    {
+      "question": "Which time expression is typically used with the Present Simple?",
+      "choices": [
+        "Now",
+        "At the moment",
+        "Every day",
+        "Currently"
+      ],
+      "answer": "Every day"
+    },
+    {
+      "question": "How do you form a question in the Present Simple with the verb 'play'?",
+      "choices": [
+        "Do you play tennis?",
+        "Are you play tennis?",
+        "Does you play tennis?",
+        "Is you play tennis?"
+      ],
+      "answer": "Do you play tennis?"
+    },
+    {
+      "question": "Which sentence is incorrect?",
+      "choices": [
+        "The Earth revolves around the Sun.",
+        "I am loving this movie.",
+        "They are always complaining about something.",
+        "He doesn't agree with your opinion."
+      ],
+      "answer": "I am loving this movie."
+    },
+    {
+      "question": "What is the correct Present Continuous form of 'They / study'?",
+      "choices": [
+        "They studying",
+        "They are study",
+        "They are studying",
+        "They is studying"
+      ],
+      "answer": "They are studying"
+    },
+    {
+      "question": "Which verb form is correct in Present Simple for 'he/she/it'?",
+      "choices": [
+        "Work",
+        "Works",
+        "Working",
+        "To work"
+      ],
+      "answer": "Works"
+    },
+    {
+      "question": "What does the Present Continuous often indicate about the future?",
+      "choices": [
+        "General facts",
+        "Habitual actions",
+        "Planned arrangements",
+        "Completed actions"
+      ],
+      "answer": "Planned arrangements"
+    },
+    {
+      "question": "Which sentence shows the correct use of Present Simple for a scientific fact?",
+      "choices": [
+        "Water is boiling at 100 degrees Celsius.",
+        "Water boils at 100 degrees Celsius.",
+        "Water has boiled at 100 degrees Celsius.",
+        "Water boiled at 100 degrees Celsius."
+      ],
+      "answer": "Water boils at 100 degrees Celsius."
+    },
+    {
+      "question": "What is the correct negative form of 'I am working' in Present Continuous?",
+      "choices": [
+        "I am not working",
+        "I not working",
+        "I don't working",
+        "I aren't working"
+      ],
+      "answer": "I am not working"
+    },
+    {
+      "question": "Which sentence uses both Present Simple and Present Continuous correctly?",
+      "choices": [
+        "I am usually going to the gym, but today I work late.",
+        "I usually go to the gym, but today I am working late.",
+        "I usually going to the gym, but today I am work late.",
+        "I am usually go to the gym, but today I working late."
+      ],
+      "answer": "I usually go to the gym, but today I am working late."
+    },
+    {
+      "question": "What is the function of 'do/does' in Present Simple questions?",
+      "choices": [
+        "It emphasizes the action",
+        "It indicates the tense",
+        "It is the main verb",
+        "It is unnecessary"
+      ],
+      "answer": "It indicates the tense"
+    }
+  ]
+}

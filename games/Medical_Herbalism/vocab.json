@@ -1,0 +1,137 @@
+{
+  "vocabulary": [
+    {
+      "word": "phytotherapy",
+      "definition": "The use of plants or plant extracts for medicinal purposes.",
+      "etymology": "From Greek 'phyto-' meaning 'plant' and 'therapeia' meaning 'healing'",
+      "grammarInfo": "noun",
+      "usage": "In her phytotherapy practice, Sarah often prescribes herbal tinctures for various ailments."
+    },
+    {
+      "word": "adaptogen",
+      "definition": "A natural substance considered to help the body adapt to stress and to exert a normalizing effect upon bodily processes.",
+      "etymology": "Coined in 1947 by Russian scientist N.V. Lazarev",
+      "grammarInfo": "noun",
+      "usage": "Ashwagandha is a popular adaptogen used to help the body manage stress."
+    },
+    {
+      "word": "tincture",
+      "definition": "A medicine made by dissolving a drug in alcohol.",
+      "etymology": "From Latin 'tinctura' meaning 'a dyeing'",
+      "grammarInfo": "noun",
+      "usage": "The herbalist prepared a tincture of echinacea to boost the patient's immune system."
+    },
+    {
+      "word": "decoction",
+      "definition": "A concentrated liquor resulting from heating or boiling a substance, especially a medicinal herb.",
+      "etymology": "From Latin 'decoctio' meaning 'to boil down'",
+      "grammarInfo": "noun",
+      "usage": "A decoction of marshmallow root can be used to soothe a sore throat."
+    },
+    {
+      "word": "infusion",
+      "definition": "The process of extracting chemical compounds or flavors from plant material in a solvent such as water, oil or alcohol, by allowing the material to remain suspended in the solvent over time.",
+      "etymology": "From Latin 'infusio' meaning 'to pour in'",
+      "grammarInfo": "noun",
+      "usage": "Chamomile tea is a common herbal infusion used to promote relaxation."
+    },
+    {
+      "word": "bioactive",
+      "definition": "Having an effect on a living organism.",
+      "etymology": "From 'bio-' meaning 'life' and 'active'",
+      "grammarInfo": "adjective",
+      "usage": "Many herbs contain bioactive compounds that can influence human health."
+    },
+    {
+      "word": "phytochemical",
+      "definition": "Any of various biologically active compounds found in plants.",
+      "etymology": "From Greek 'phyto-' meaning 'plant' and 'chemical'",
+      "grammarInfo": "noun",
+      "usage": "Curcumin is a phytochemical found in turmeric with anti-inflammatory properties."
+    },
+    {
+      "word": "pharmacognosy",
+      "definition": "The study of medicinal drugs derived from plants or other natural sources.",
+      "etymology": "From Greek 'pharmakon' meaning 'drug' and 'gnosis' meaning 'knowledge'",
+      "grammarInfo": "noun",
+      "usage": "Students of herbalism often study pharmacognosy to understand the medicinal properties of plants."
+    },
+    {
+      "word": "ethnobotany",
+      "definition": "The scientific study of the traditional knowledge and customs of a people concerning plants and their medical, religious, and other uses.",
+      "etymology": "From 'ethno-' meaning 'culture' and 'botany'",
+      "grammarInfo": "noun",
+      "usage": "Through ethnobotany, we learn how different cultures have used medicinal plants throughout history."
+    },
+    {
+      "word": "contraindication",
+      "definition": "A condition or factor that serves as a reason to withhold a certain medical treatment due to the harm that it would cause the patient.",
+      "etymology": "From Latin 'contra' meaning 'against' and 'indicare' meaning 'to indicate'",
+      "grammarInfo": "noun",
+      "usage": "Pregnancy is a contraindication for the use of certain herbs due to potential risks to the fetus."
+    },
+    {
+      "word": "synergy",
+      "definition": "The interaction or cooperation of two or more substances to produce a combined effect greater than the sum of their separate effects.",
+      "etymology": "From Greek 'synergos' meaning 'working together'",
+      "grammarInfo": "noun",
+      "usage": "The synergy between different compounds in a whole plant extract often provides greater benefits than isolated constituents."
+    },
+    {
+      "word": "standardization",
+      "definition": "The process of making something conform to a standard, particularly in herbal medicine, ensuring consistent potency and quality of herbal preparations.",
+      "etymology": "From 'standard' + '-ization'",
+      "grammarInfo": "noun",
+      "usage": "Standardization of herbal extracts helps ensure consistent dosage and efficacy in clinical practice."
+    },
+    {
+      "word": "polypharmacy",
+      "definition": "The simultaneous use of multiple drugs to treat a single ailment or condition.",
+      "etymology": "From Greek 'poly-' meaning 'many' and 'pharmakeia' meaning 'use of drugs'",
+      "grammarInfo": "noun",
+      "usage": "Herbalists must be aware of potential interactions when practicing polypharmacy with herbal and conventional medicines."
+    },
+    {
+      "word": "antioxidant",
+      "definition": "A substance that inhibits oxidation, especially one used to counteract the deterioration of stored food products or remove potentially damaging oxidizing agents in a living organism.",
+      "etymology": "From 'anti-' meaning 'against' and 'oxidant'",
+      "grammarInfo": "noun",
+      "usage": "Many herbs are rich in antioxidants, which help protect cells from damage caused by free radicals."
+    },
+    {
+      "word": "anxiolytic",
+      "definition": "A drug used to reduce anxiety.",
+      "etymology": "From Greek 'anxios' meaning 'distressed' and 'lysis' meaning 'loosening'",
+      "grammarInfo": "noun",
+      "usage": "Passionflower is known for its anxiolytic properties and is often used to promote relaxation."
+    },
+    {
+      "word": "expectorant",
+      "definition": "A drug or other agent that promotes the discharge of mucus from the respiratory tract.",
+      "etymology": "From Latin 'expectorare' meaning 'to drive from the chest'",
+      "grammarInfo": "noun",
+      "usage": "Thyme acts as an expectorant, helping to clear congestion in respiratory conditions."
+    },
+    {
+      "word": "diuretic",
+      "definition": "A substance that promotes increased production of urine.",
+      "etymology": "From Greek 'diouretikos' meaning 'promoting urine'",
+      "grammarInfo": "noun",
+      "usage": "Dandelion leaf is often used as a natural diuretic in herbal medicine."
+    },
+    {
+      "word": "hepatoprotective",
+      "definition": "Having the ability to prevent damage to the liver.",
+      "etymology": "From Greek 'hepato-' meaning 'liver' and 'protective'",
+      "grammarInfo": "adjective",
+      "usage": "Milk thistle is known for its hepatoprotective properties and is often used in liver support formulas."
+    },
+    {
+      "word": "adaptogenic",
+      "definition": "Relating to or denoting herbal substances that increase the body's ability to resist the damaging effects of stress and promote normal physiological functioning.",
+      "etymology": "From 'adaptogen' + '-ic'",
+      "grammarInfo": "adjective",
+      "usage": "Ginseng is valued for its adaptogenic effects, helping the body to cope with various stressors."
+    }
+  ]
+}

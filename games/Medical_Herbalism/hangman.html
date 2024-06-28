@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Herbalist Hangman</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f8ff;
+        }
+        #game-container {
+            text-align: center;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        #word-display {
+            font-size: 24px;
+            margin-bottom: 20px;
+            letter-spacing: 5px;
+        }
+        #hangman-drawing {
+            font-family: monospace;
+            white-space: pre;
+            margin-bottom: 20px;
+        }
+        #hint {
+            margin-bottom: 20px;
+            font-style: italic;
+        }
+        #guess-input {
+            margin-right: 10px;
+            padding: 5px;
+        }
+        button {
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <h1>Herbalist Hangman</h1>
+        <div id="hangman-drawing"></div>
+        <div id="word-display"></div>
+        <div id="hint"></div>
+        <input type="text" id="guess-input" maxlength="1">
+        <button onclick="makeGuess()">Guess</button>
+        <p id="guessed-letters"></p>
+        <p id="message"></p>
+    </div>
+
+    <script>
+        let vocabulary;
+        let currentWord;
+        let currentWordObj;
+        let guessedLetters = [];
+        let remainingGuesses = 6;
+        const hangmanStages = [
+            "  +---+\n  |   |\n      |\n      |\n      |\n      |\n=========",
+            "  +---+\n  |   |\n  O   |\n      |\n      |\n      |\n=========",
+            "  +---+\n  |   |\n  O   |\n  |   |\n      |\n      |\n=========",
+            "  +---+\n  |   |\n  O   |\n /|   |\n      |\n      |\n=========",
+            "  +---+\n  |   |\n  O   |\n /|\\  |\n      |\n      |\n=========",
+            "  +---+\n  |   |\n  O   |\n /|\\  |\n /    |\n      |\n=========",
+            "  +---+\n  |   |\n  O   |\n /|\\  |\n / \\  |\n      |\n========="
+        ];
+
+        function loadVocabulary() {
+            return fetch('vocab.json')
+                .then(response => response.json())
+                .then(data => {
+                    vocabulary = data.vocabulary;
+                    startNewGame();
+                })
+                .catch(error => console.error('Error loading vocabulary:', error));
+        }
+
+        function startNewGame() {
+            currentWordObj = vocabulary[Math.floor(Math.random() * vocabulary.length)];
+            currentWord = currentWordObj.word.toLowerCase();
+            guessedLetters = [];
+            remainingGuesses = 6;
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            const wordDisplay = document.getElementById('word-display');
+            wordDisplay.textContent = currentWord
+                .split('')
+                .map(letter => guessedLetters.includes(letter) ? letter : '_')
+                .join(' ');
+
+            document.getElementById('hangman-drawing').textContent = hangmanStages[6 - remainingGuesses];
+            document.getElementById('guessed-letters').textContent = `Guessed letters: ${guessedLetters.join(', ')}`;
+            document.getElementById('message').textContent = `Remaining guesses: ${remainingGuesses}`;
+
+            updateHint();
+        }
+
+        function updateHint() {
+            const hintElement = document.getElementById('hint');
+            if (remainingGuesses === 6) {
+                hintElement.textContent = `Hint: This word is a ${currentWordObj.grammarInfo}`;
+            } else if (remainingGuesses === 4) {
+                hintElement.textContent = `Hint: ${currentWordObj.etymology}`;
+            } else if (remainingGuesses === 2) {
+                hintElement.textContent = `Hint: ${currentWordObj.usage}`;
+            } else if (remainingGuesses === 1) {
+                hintElement.textContent = `Hint: ${currentWordObj.definition}`;
+            }
+        }
+
+        function makeGuess() {
+            const guessInput = document.getElementById('guess-input');
+            const guess = guessInput.value.toLowerCase();
+            guessInput.value = '';
+
+            if (guess.length !== 1 || !/[a-z]/.test(guess)) {
+                alert('Please enter a single letter.');
+                return;
+            }
+
+            if (guessedLetters.includes(guess)) {
+                alert('You already guessed that letter.');
+                return;
+            }
+
+            guessedLetters.push(guess);
+
+            if (!currentWord.includes(guess)) {
+                remainingGuesses--;
+            }
+
+            updateDisplay();
+
+            if (currentWord === currentWord.split('').map(letter => guessedLetters.includes(letter) ? letter : '_').join('')) {
+                alert('Congratulations! You guessed the word!');
+                startNewGame();
+            } else if (remainingGuesses === 0) {
+                alert(`Game over! The word was "${currentWord}".`);
+                startNewGame();
+            }
+        }
+
+        loadVocabulary();
+    </script>
+</body>
+</html>

@@ -1,0 +1,205 @@
+{
+  "title": "Passive Voice in Present and Past Tenses",
+  "questions": [
+    {
+      "question": "What is the structure of the passive voice?",
+      "choices": [
+        "Subject + be + past participle",
+        "Subject + have + past participle",
+        "Subject + will + past participle",
+        "Subject + be + present participle"
+      ],
+      "answer": "Subject + be + past participle"
+    },
+    {
+      "question": "Which sentence is in the passive voice (present simple)?",
+      "choices": [
+        "The chef cooks the meal.",
+        "The meal is cooked by the chef.",
+        "The chef is cooking the meal.",
+        "The meal was cooked by the chef."
+      ],
+      "answer": "The meal is cooked by the chef."
+    },
+    {
+      "question": "How do you form the passive voice in the past simple tense?",
+      "choices": [
+        "was/were + past participle",
+        "is/are + past participle",
+        "has/have been + past participle",
+        "will be + past participle"
+      ],
+      "answer": "was/were + past participle"
+    },
+    {
+      "question": "Which sentence is in the passive voice (past simple)?",
+      "choices": [
+        "The company will launch the product next month.",
+        "The product will be launched by the company next month.",
+        "The company launched the product last month.",
+        "The product was launched by the company last month."
+      ],
+      "answer": "The product was launched by the company last month."
+    },
+    {
+      "question": "When is the passive voice commonly used?",
+      "choices": [
+        "When the doer of the action is unknown or unimportant",
+        "When we want to emphasize the doer of the action",
+        "When describing ongoing actions",
+        "When talking about the future"
+      ],
+      "answer": "When the doer of the action is unknown or unimportant"
+    },
+    {
+      "question": "How do you change an active sentence to passive when there are two objects?",
+      "choices": [
+        "Either object can be the subject of the passive sentence",
+        "Only the direct object can be the subject of the passive sentence",
+        "Only the indirect object can be the subject of the passive sentence",
+        "You cannot change sentences with two objects into passive voice"
+      ],
+      "answer": "Either object can be the subject of the passive sentence"
+    },
+    {
+      "question": "Which sentence is the correct passive form of 'Someone has stolen my bike'?",
+      "choices": [
+        "My bike has been stolen.",
+        "My bike was stolen.",
+        "My bike is stolen.",
+        "My bike had been stolen."
+      ],
+      "answer": "My bike has been stolen."
+    },
+    {
+      "question": "In passive sentences, where do you put the agent (doer of the action)?",
+      "choices": [
+        "At the end of the sentence, introduced by 'by'",
+        "At the beginning of the sentence",
+        "After the verb",
+        "Before the verb"
+      ],
+      "answer": "At the end of the sentence, introduced by 'by'"
+    },
+    {
+      "question": "Which verb cannot be used in the passive voice?",
+      "choices": [
+        "Happen",
+        "Make",
+        "Build",
+        "Write"
+      ],
+      "answer": "Happen"
+    },
+    {
+      "question": "What is the correct passive form of 'They are repairing the road'?",
+      "choices": [
+        "The road is being repaired.",
+        "The road is repaired.",
+        "The road was being repaired.",
+        "The road has been repaired."
+      ],
+      "answer": "The road is being repaired."
+    },
+    {
+      "question": "Which tense is used in this passive sentence: 'The letter was being written when the pen ran out of ink'?",
+      "choices": [
+        "Past continuous",
+        "Past simple",
+        "Present perfect",
+        "Past perfect"
+      ],
+      "answer": "Past continuous"
+    },
+    {
+      "question": "How do you form a question in the passive voice?",
+      "choices": [
+        "Invert the subject and the first auxiliary verb",
+        "Add 'do' or 'does' before the subject",
+        "Change the verb to past participle",
+        "Add 'by' at the end of the sentence"
+      ],
+      "answer": "Invert the subject and the first auxiliary verb"
+    },
+    {
+      "question": "Which sentence is the correct passive question form?",
+      "choices": [
+        "Was the letter written by John?",
+        "Did the letter write by John?",
+        "The letter was written by John?",
+        "By John was the letter written?"
+      ],
+      "answer": "Was the letter written by John?"
+    },
+    {
+      "question": "What is the correct passive form of 'People speak English all over the world'?",
+      "choices": [
+        "English is spoken all over the world.",
+        "English speaks all over the world.",
+        "English was spoken all over the world.",
+        "English has spoken all over the world."
+      ],
+      "answer": "English is spoken all over the world."
+    },
+    {
+      "question": "In which situation would you use the active voice instead of passive?",
+      "choices": [
+        "When the doer of the action is important or needs to be emphasized",
+        "When the doer of the action is unknown",
+        "When describing a process",
+        "In scientific writing"
+      ],
+      "answer": "When the doer of the action is important or needs to be emphasized"
+    },
+    {
+      "question": "What is the correct passive form of 'I will send the email tomorrow'?",
+      "choices": [
+        "The email will be sent tomorrow.",
+        "The email will sent tomorrow.",
+        "The email is going to be sent tomorrow.",
+        "The email was sent tomorrow."
+      ],
+      "answer": "The email will be sent tomorrow."
+    },
+    {
+      "question": "Which sentence is in the active voice?",
+      "choices": [
+        "The cake was baked by my mother.",
+        "The house is being painted.",
+        "My mother baked the cake.",
+        "The car has been repaired."
+      ],
+      "answer": "My mother baked the cake."
+    },
+    {
+      "question": "What's the function of 'by' in passive sentences?",
+      "choices": [
+        "To introduce the agent or doer of the action",
+        "To indicate time",
+        "To show location",
+        "To express manner"
+      ],
+      "answer": "To introduce the agent or doer of the action"
+    },
+    {
+      "question": "Which of these verbs is most commonly used in the passive voice?",
+      "choices": [
+        "Born",
+        "Happen",
+        "Seem",
+        "Become"
+      ],
+      "answer": "Born"
+    },
+    {
+      "question": "What's the correct passive form of 'They had already eaten dinner when I arrived'?",
+      "choices": [
+        "Dinner had already been eaten when I arrived.",
+        "Dinner was already eaten when I arrived.",
+        "Dinner has already been eaten when I arrived.",
+        "Dinner had already eat when I arrived."
+      ],
+      "answer": "Dinner had already been eaten when I arrived."
+    }
+  ]
+}

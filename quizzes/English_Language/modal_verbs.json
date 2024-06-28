@@ -1,0 +1,195 @@
+{
+  "title": "Modal Verbs - Can, Could, Be able to",
+  "questions": [
+    {
+      "question": "Which modal verb is used to express ability in the present?",
+      "choices": [
+        "Can",
+        "Could",
+        "May",
+        "Might"
+      ],
+      "answer": "Can"
+    },
+    {
+      "question": "What is the past form of 'can'?",
+      "choices": [
+        "Could",
+        "Was able to",
+        "Can't",
+        "Couldn't"
+      ],
+      "answer": "Could"
+    },
+    {
+      "question": "Which sentence expresses a past ability correctly?",
+      "choices": [
+        "I can swim when I was young.",
+        "I could to swim when I was young.",
+        "I was able to swim across the lake yesterday.",
+        "I am able to swim when I was young."
+      ],
+      "answer": "I was able to swim across the lake yesterday."
+    },
+    {
+      "question": "What is the main difference between 'can' and 'be able to'?",
+      "choices": [
+        "'Be able to' can be used in all tenses, while 'can' is limited to present and past",
+        "'Can' is more formal than 'be able to'",
+        "'Be able to' is only used for physical abilities",
+        "There is no difference; they are always interchangeable"
+      ],
+      "answer": "'Be able to' can be used in all tenses, while 'can' is limited to present and past"
+    },
+    {
+      "question": "Which sentence uses 'could' correctly to express a polite request?",
+      "choices": [
+        "Could you pass me the salt, please?",
+        "Can you to pass me the salt, please?",
+        "Are you able pass me the salt, please?",
+        "Would you can pass me the salt, please?"
+      ],
+      "answer": "Could you pass me the salt, please?"
+    },
+    {
+      "question": "What is the correct negative form of 'can' in the present?",
+      "choices": [
+        "Can't",
+        "Couldn't",
+        "Don't can",
+        "Am not able to"
+      ],
+      "answer": "Can't"
+    },
+    {
+      "question": "Which sentence shows the correct use of 'be able to' in the future?",
+      "choices": [
+        "I will can speak French fluently next year.",
+        "I will be able to speak French fluently next year.",
+        "I can speak French fluently next year.",
+        "I could speak French fluently next year."
+      ],
+      "answer": "I will be able to speak French fluently next year."
+    },
+    {
+      "question": "What does 'could' often express when used in the past?",
+      "choices": [
+        "A one-time ability or achievement",
+        "A general ability in the past",
+        "A future possibility",
+        "A strong obligation"
+      ],
+      "answer": "A general ability in the past"
+    },
+    {
+      "question": "Which sentence uses 'be able to' correctly to express a past achievement?",
+      "choices": [
+        "He could solve the problem yesterday.",
+        "He can solve the problem yesterday.",
+        "He was able to solve the problem yesterday.",
+        "He is able to solve the problem yesterday."
+      ],
+      "answer": "He was able to solve the problem yesterday."
+    },
+    {
+      "question": "What is the question form of 'She can speak three languages'?",
+      "choices": [
+        "Can she speak three languages?",
+        "Does she can speak three languages?",
+        "Is she can speak three languages?",
+        "Speaks she can three languages?"
+      ],
+      "answer": "Can she speak three languages?"
+    },
+    {
+      "question": "Which modal verb is used to express possibility in the present or future?",
+      "choices": [
+        "Can",
+        "Could",
+        "Was able to",
+        "Will be able to"
+      ],
+      "answer": "Could"
+    },
+    {
+      "question": "What is the correct form to express inability in the past?",
+      "choices": [
+        "I didn't can",
+        "I couldn't",
+        "I wasn't could",
+        "I didn't able to"
+      ],
+      "answer": "I couldn't"
+    },
+    {
+      "question": "Which sentence shows the correct use of 'could' for a suggestion?",
+      "choices": [
+        "We could to go to the cinema tonight.",
+        "We could going to the cinema tonight.",
+        "We could go to the cinema tonight.",
+        "We are could go to the cinema tonight."
+      ],
+      "answer": "We could go to the cinema tonight."
+    },
+    {
+      "question": "What form of the main verb follows 'can', 'could', and 'be able to'?",
+      "choices": [
+        "Base form",
+        "Past simple",
+        "Past participle",
+        "-ing form"
+      ],
+      "answer": "Base form"
+    },
+    {
+      "question": "Which sentence correctly uses 'be able to' in the present perfect?",
+      "choices": [
+        "I have can finish the project.",
+        "I have been able to finish the project.",
+        "I have could finish the project.",
+        "I have been can finish the project."
+      ],
+      "answer": "I have been able to finish the project."
+    },
+    {
+      "question": "What is the difference between 'I could swim' and 'I was able to swim' in the past?",
+      "choices": [
+        "'Could' expresses a general ability, 'was able to' often refers to a specific instance",
+        "There is no difference; they are always interchangeable",
+        "'Could' is more formal than 'was able to'",
+        "'Was able to' is used for impossible actions"
+      ],
+      "answer": "'Could' expresses a general ability, 'was able to' often refers to a specific instance"
+    },
+    {
+      "question": "Which sentence uses 'can' correctly to express permission?",
+      "choices": [
+        "You be able to use my car tomorrow.",
+        "You could use my car tomorrow.",
+        "You can use my car tomorrow.",
+        "You are can use my car tomorrow."
+      ],
+      "answer": "You can use my car tomorrow."
+    },
+    {
+      "question": "What is the correct way to express lack of necessity using a modal verb?",
+      "choices": [
+        "You don't must go.",
+        "You mustn't go.",
+        "You don't need to go.",
+        "You couldn't go."
+      ],
+      "answer": "You don't need to go."
+    },
+    {
+      "question": "Which sentence shows the correct use of 'could have' to express a past possibility?",
+      "choices": [
+        "We could have gone to the party, but we decided to stay home.",
+        "We can have gone to the party, but we decided to stay home.",
+        "We were able have gone to the party, but we decided to stay home.",
+        "We could went to the party, but we decided to stay home."
+      ],
+      "answer": "We could have gone to the party, but we decided to stay home."
+    }
+  ]
+}

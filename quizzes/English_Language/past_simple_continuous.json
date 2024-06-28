@@ -1,0 +1,205 @@
+{
+  "title": "Past Simple and Past Continuous",
+  "questions": [
+    {
+      "question": "Which tense is used for completed actions in the past?",
+      "choices": [
+        "Past Simple",
+        "Past Continuous",
+        "Present Perfect",
+        "Past Perfect"
+      ],
+      "answer": "Past Simple"
+    },
+    {
+      "question": "What is the correct form of the verb in Past Continuous?",
+      "choices": [
+        "was/were + verb-ing",
+        "had + verb-ed",
+        "did + verb",
+        "verb-ed"
+      ],
+      "answer": "was/were + verb-ing"
+    },
+    {
+      "question": "Which sentence uses the Past Simple correctly?",
+      "choices": [
+        "I was going to the store yesterday.",
+        "She were cooking dinner when I arrived.",
+        "They played football last weekend.",
+        "We were worked on the project all day."
+      ],
+      "answer": "They played football last weekend."
+    },
+    {
+      "question": "What is the main use of the Past Continuous?",
+      "choices": [
+        "To describe completed actions in the past",
+        "To talk about actions in progress at a specific time in the past",
+        "To discuss future plans",
+        "To express habits in the past"
+      ],
+      "answer": "To talk about actions in progress at a specific time in the past"
+    },
+    {
+      "question": "Which sentence combines Past Simple and Past Continuous correctly?",
+      "choices": [
+        "While I was cooking, the phone rang.",
+        "While I cooked, the phone was ringing.",
+        "While I was cook, the phone was ring.",
+        "While I cooking, the phone ringing."
+      ],
+      "answer": "While I was cooking, the phone rang."
+    },
+    {
+      "question": "How do you form the negative in Past Simple?",
+      "choices": [
+        "did not + verb",
+        "did not + verb-ed",
+        "was/were not + verb-ing",
+        "had not + verb-ed"
+      ],
+      "answer": "did not + verb"
+    },
+    {
+      "question": "Which is the correct Past Simple form of the irregular verb 'go'?",
+      "choices": [
+        "goed",
+        "went",
+        "gone",
+        "going"
+      ],
+      "answer": "went"
+    },
+    {
+      "question": "What does the Past Continuous often indicate in a sentence?",
+      "choices": [
+        "A sudden action",
+        "A completed action",
+        "An action in progress",
+        "A future plan"
+      ],
+      "answer": "An action in progress"
+    },
+    {
+      "question": "Which time expression is typically used with the Past Simple?",
+      "choices": [
+        "Since 2001",
+        "For two hours",
+        "Last week",
+        "Already"
+      ],
+      "answer": "Last week"
+    },
+    {
+      "question": "How do you form a question in the Past Simple?",
+      "choices": [
+        "Did + subject + verb",
+        "Was/Were + subject + verb-ing",
+        "Have + subject + verb-ed",
+        "Subject + verb-ed"
+      ],
+      "answer": "Did + subject + verb"
+    },
+    {
+      "question": "Which sentence uses the Past Continuous correctly?",
+      "choices": [
+        "I was sleep when the phone rang.",
+        "She cooking dinner when I arrived.",
+        "They were watching TV when the power went out.",
+        "We studied when he came home."
+      ],
+      "answer": "They were watching TV when the power went out."
+    },
+    {
+      "question": "What is the Past Simple form of the verb 'eat'?",
+      "choices": [
+        "eat",
+        "ate",
+        "eaten",
+        "eated"
+      ],
+      "answer": "ate"
+    },
+    {
+      "question": "Which sentence shows the correct use of Past Simple for a specific time in the past?",
+      "choices": [
+        "I have visited Paris in 2010.",
+        "I was visiting Paris in 2010.",
+        "I visited Paris in 2010.",
+        "I had visited Paris in 2010."
+      ],
+      "answer": "I visited Paris in 2010."
+    },
+    {
+      "question": "What is the correct negative form of 'She was sleeping' in Past Continuous?",
+      "choices": [
+        "She wasn't sleeping",
+        "She weren't sleeping",
+        "She didn't sleeping",
+        "She not was sleeping"
+      ],
+      "answer": "She wasn't sleeping"
+    },
+    {
+      "question": "Which sentence shows the correct use of Past Simple and Past Continuous together?",
+      "choices": [
+        "When I arrived, they were having dinner.",
+        "When I was arriving, they had dinner.",
+        "When I was arrive, they were having dinner.",
+        "When I arrived, they had having dinner."
+      ],
+      "answer": "When I arrived, they were having dinner."
+    },
+    {
+      "question": "What is the function of 'did' in Past Simple questions?",
+      "choices": [
+        "It is the main verb",
+        "It indicates the past tense",
+        "It emphasizes the action",
+        "It is unnecessary"
+      ],
+      "answer": "It indicates the past tense"
+    },
+    {
+      "question": "Which verb form is used after 'did' in a Past Simple question?",
+      "choices": [
+        "Base form",
+        "Past participle",
+        "Present participle",
+        "-ed form"
+      ],
+      "answer": "Base form"
+    },
+    {
+      "question": "What does the Past Simple often indicate about an action?",
+      "choices": [
+        "It is ongoing",
+        "It is completed",
+        "It is happening now",
+        "It will happen in the future"
+      ],
+      "answer": "It is completed"
+    },
+    {
+      "question": "Which sentence is in the Past Continuous?",
+      "choices": [
+        "He worked on the project yesterday.",
+        "They were working on the project all day.",
+        "She has worked on the project since morning.",
+        "We work on the project every day."
+      ],
+      "answer": "They were working on the project all day."
+    },
+    {
+      "question": "What is the correct Past Simple question form of 'They went to the park'?",
+      "choices": [
+        "Did they went to the park?",
+        "Did they go to the park?",
+        "Were they go to the park?",
+        "Was they going to the park?"
+      ],
+      "answer": "Did they go to the park?"
+    }
+  ]
+}
