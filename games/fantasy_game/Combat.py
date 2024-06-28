@@ -32,17 +32,29 @@ def get_llm_response(messages):
     # Fallback method
     return "The creature responds in a mysterious way, leaving you to interpret its intentions."
 
-def get_llm_decision(messages, character_data, monster_data, conversation_history):
-    prompt = f"""
-You are role-playing as a {monster_data['name']} in a fantasy world. 
-You are interacting with {character_data['name']}, a level {character_data['level']} {character_data['class']}.
-Your personality is: {monster_data.get('personality', 'mysterious and unpredictable')}.
-The current situation is: {messages[-1]['content']}
+def get_llm_decision(character_data, monster_data, conversation_history):
+    prompt = f"""As a Dungeon Master, you are overseeing an encounter between {character_data['name']}, 
+a level {character_data['level']} {character_data['class']}, and a {monster_data['name']}.
 
-Respond to the player's last statement or question in character, in a few sentences.
-Be creative, but stay true to your character's nature and the fantasy setting.
-"""
-    messages.append({"role": "user", "content": prompt})
+The conversation so far:
+{''.join(conversation_history)}
+
+Based on this interaction, decide whether to:
+1. Enter combat mode if the player has been hostile, aggressive, or antagonistic.
+2. Generate a [scary, funny, deep, interesting, spiritual, or competitive] end scenario and move to exploration mode only if the player has been neutral or friendly.
+
+Your decision should be heavily influenced by the player's language and attitude. If the player has used any aggressive, threatening, or insulting language, combat should be the most likely outcome.
+
+Respond with your decision and a brief explanation in the following format:
+Decision: [Combat/End Scenario]
+Scenario Type (if applicable): [scary/funny/deep/interesting/spiritual/competitive]
+Explanation: [Your reasoning, with specific reference to player's words or attitude]
+Next Action: [A sentence describing what happens next]"""
+
+    messages = [
+        {"role": "user", "content": prompt}
+    ]
+
     response = get_llm_response(messages)
 
     # Additional logic to force combat for extremely hostile language
@@ -117,19 +129,7 @@ def encounter(character_data, monster_data, location, file_path, movement_speed)
 
                 if decision == 'Combat':
                     print(f"The encounter with the {monster_data['name']} turns hostile!")
-                    combat_result = combat(character_data, monster_data)
-                    if combat_result == "victory":
-                        print("You were victorious in combat!")
-                        return True
-                    elif combat_result == "escaped":
-                        print("You managed to escape from combat.")
-                        return False
-                    elif combat_result == "monster_escaped":
-                        print(f"The {monster_data['name']} fled from combat.")
-                        return False
-                    else:
-                        print("The combat ended in a draw.")
-                        return False
+                    return combat(character_data, monster_data)
                 elif decision == 'End Scenario':
                     print("The encounter comes to a peaceful end.")
                     return True
@@ -144,19 +144,7 @@ def encounter(character_data, monster_data, location, file_path, movement_speed)
 
         elif choice == '3':
             print(f"You prepare yourself for combat with the {monster_data['name']}.")
-            combat_result = combat(character_data, monster_data)
-            if combat_result == "victory":
-                print("You were victorious in combat!")
-                return True
-            elif combat_result == "escaped":
-                print("You managed to escape from combat.")
-                return False
-            elif combat_result == "monster_escaped":
-                print(f"The {monster_data['name']} fled from combat.")
-                return False
-            else:
-                print("The combat ended in a draw.")
-                return False
+            return combat(character_data, monster_data)
 
         else:
             print("Invalid choice. Please try again.")
@@ -226,7 +214,7 @@ def player_turn(character_data, monster_data, defense):
     if action == 0:
         # Character attacks
         damage = character_data['attributes'].get('damage', 5)  # Default damage to 5 if not present
-        if random.randint(1, 100) > monster_data['armor_class'] :
+        if random.randint(1, 100) > monster_data['armor_class']:
             actual_damage = max(1, damage)
             monster_data['health'] -= actual_damage
             print(f"You attack the {monster_data['name']} and deal {actual_damage} damage!")
@@ -260,16 +248,29 @@ def player_turn(character_data, monster_data, defense):
             return 0
     elif action == 4:
         return analyze_enemy(monster_data)
-        
+
 def analyze_enemy(monster_data):
-    print(f"You carefully observe the {monster_data['name']}.")
+    print(f"\nYou carefully observe the {monster_data['name']}.")
     print(f"Health: {monster_data['health']}")
     print(f"Armor Class: {monster_data['armor_class']}")
     print("Abilities:")
     for ability in monster_data['abilities']:
         print(f"- {ability['name']}")
-    return 0  # Analyzing doesn't change defense
     
+    # Additional analysis
+    weakness = random.choice(["fire", "ice", "lightning", "physical", "magical"])
+    strength = random.choice(["fire", "ice", "lightning", "physical", "magical"])
+    print(f"\nYour analysis reveals that this creature seems weak against {weakness} attacks.")
+    print(f"However, it appears to be particularly resistant to {strength} damage.")
+    
+    # Behavior hint
+    behaviors = ["aggressive", "cautious", "unpredictable", "strategic"]
+    behavior = random.choice(behaviors)
+    print(f"\nThe {monster_data['name']}'s behavior seems to be {behavior}.")
+    
+    print("\nThis analysis action does not end your turn.")
+    return 0  # Analyzing doesn't change defense
+
 def monster_turn(character_data, monster_data, defense):
     print(f"\nThe {monster_data['name']}'s turn!")
     monster_action = random.choice(["Attack", "Defend", "Run"])
@@ -315,3 +316,6 @@ def end_game(message):
     print(message)
     print("Game Over")
     sys.exit()
+
+# Ensure these functions are accessible when imported
+__all__ = ['encounter', 'combat']

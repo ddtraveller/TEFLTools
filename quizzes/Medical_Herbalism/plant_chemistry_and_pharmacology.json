@@ -1,0 +1,315 @@
+{
+  "title": "Plant Chemistry and Pharmacology Quiz",
+  "questions": [
+    {
+      "question": "What are alkaloids?",
+      "choices": [
+        "Nitrogen-containing organic compounds",
+        "Compounds consisting of a sugar bound to a non-sugar molecule",
+        "Compounds with multiple phenol units",
+        "Compounds made up of isoprene units"
+      ],
+      "answer": "Nitrogen-containing organic compounds"
+    },
+    {
+      "question": "Which of the following medicinal plants contains alkaloids?",
+      "choices": [
+        "Poppy",
+        "Foxglove",
+        "Aloe vera",
+        "Lavender"
+      ],
+      "answer": "Poppy"
+    },
+    {
+      "question": "What is a common pharmacological action of alkaloids?",
+      "choices": [
+        "Pain relief",
+        "Laxative effects",
+        "Antioxidant effects",
+        "Prebiotic activity"
+      ],
+      "answer": "Pain relief"
+    },
+    {
+      "question": "Glycosides are compounds consisting of:",
+      "choices": [
+        "A sugar bound to a non-sugar molecule",
+        "Multiple phenol units",
+        "Isoprene units",
+        "Volatile aromatic compounds"
+      ],
+      "answer": "A sugar bound to a non-sugar molecule"
+    },
+    {
+      "question": "Which type of glycoside is found in foxglove?",
+      "choices": [
+        "Cardiac glycosides",
+        "Anthraquinone glycosides",
+        "Saponin glycosides",
+        "Flavonoid glycosides"
+      ],
+      "answer": "Cardiac glycosides"
+    },
+    {
+      "question": "Ginseng contains which type of glycosides?",
+      "choices": [
+        "Saponin glycosides", 
+        "Cardiac glycosides",
+        "Anthraquinone glycosides",
+        "Cyanogenic glycosides"
+      ],
+      "answer": "Saponin glycosides"
+    },
+    {
+      "question": "Polyphenols are compounds with:",
+      "choices": [
+        "Multiple phenol units",
+        "Nitrogen-containing organic compounds",
+        "Complex carbohydrates",
+        "Volatile aromatic compounds"
+      ],
+      "answer": "Multiple phenol units"
+    },
+    {
+      "question": "Which of the following is a subclass of polyphenols?",
+      "choices": [
+        "Tannins",
+        "Alkaloids",
+        "Terpenes",
+        "Polysaccharides"
+      ],
+      "answer": "Tannins"
+    },
+    {
+      "question": "Green tea is rich in which type of polyphenols?",
+      "choices": [
+        "Catechins",
+        "Proanthocyanidins",
+        "Ginkgolides",
+        "Cannabinoids"
+      ],
+      "answer": "Catechins"
+    },
+    {
+      "question": "What is a common pharmacological action of polyphenols?",
+      "choices": [
+        "Antioxidant effects",
+        "Laxative effects",
+        "Neuroprotective properties",
+        "Prebiotic activity"
+      ],
+      "answer": "Antioxidant effects"
+    },
+    {
+      "question": "Terpenes and terpenoids are compounds made up of:",
+      "choices": [
+        "Isoprene units",
+        "Phenol units",
+        "Sugar molecules",
+        "Nitrogen-containing organic compounds"
+      ],
+      "answer": "Isoprene units"
+    },
+    {
+      "question": "Which of the following is a terpene-containing plant?",
+      "choices": [
+        "Lavender",
+        "Aloe vera",
+        "Green tea",
+        "Poppy"
+      ],
+      "answer": "Lavender"
+    },
+    {
+      "question": "Ginkgo contains which type of terpenes?",
+      "choices": [
+        "Ginkgolides",
+        "Cannabinoids",
+        "Linalool",
+        "Eucalyptol"
+      ],
+      "answer": "Ginkgolides"
+    },
+    {
+      "question": "What is a common pharmacological action of terpenes?",
+      "choices": [
+        "Anti-inflammatory effects",
+        "Cardiac effects",
+        "Laxative effects",
+        "Immune-modulating effects"
+      ],
+      "answer": "Anti-inflammatory effects"
+    },
+    {
+      "question": "Polysaccharides are:",
+      "choices": [
+        "Complex carbohydrates made up of multiple sugar molecules",
+        "Nitrogen-containing organic compounds",
+        "Compounds with multiple phenol units",
+        "Volatile aromatic compounds"
+      ],
+      "answer": "Complex carbohydrates made up of multiple sugar molecules"
+    },
+    {
+      "question": "Which of the following is a polysaccharide-rich medicinal plant?",
+      "choices": [
+        "Aloe vera",
+        "Lavender",
+        "Poppy",
+        "Hawthorn"
+      ],
+      "answer": "Aloe vera"
+    },
+    {
+      "question": "What is a common pharmacological action of polysaccharides?",
+      "choices": [
+        "Immune-modulating effects",
+        "Anticholinergic effects",
+        "Mood-altering properties",
+        "Astringent properties"
+      ],
+      "answer": "Immune-modulating effects"
+    },
+    {
+      "question": "Essential oils are:",
+      "choices": [
+        "Volatile aromatic compounds extracted from plants",
+        "Complex carbohydrates made up of multiple sugar molecules",
+        "Compounds with multiple phenol units",
+        "Compounds consisting of a sugar bound to a non-sugar molecule"
+      ],
+      "answer": "Volatile aromatic compounds extracted from plants"
+    },
+    {
+      "question": "Which of the following is an essential oil-rich plant?",
+      "choices": [
+        "Peppermint",
+        "Astragalus",
+        "Ginseng",
+        "Grape seeds"
+      ],
+      "answer": "Peppermint"
+    },
+    {
+      "question": "What is a common pharmacological action of essential oils?",
+      "choices": [
+        "Antimicrobial effects",
+        "Cardiac effects",
+        "Laxative effects",
+        "Adaptogenic properties"
+      ],
+      "answer": "Antimicrobial effects"
+    },
+    {
+      "question": "Which of the following is an extraction method for essential oils?",
+      "choices": [
+        "Steam distillation",
+        "Maceration",
+        "Decoction",
+        "Percolation"
+      ],
+      "answer": "Steam distillation"
+    },
+    {
+      "question": "Which alkaloid is found in coffee?",
+      "choices": [
+        "Caffeine",
+        "Morphine",
+        "Atropine",
+        "Quinine"
+      ],
+      "answer": "Caffeine"
+    },
+    {
+      "question": "Senna contains which type of glycosides?",
+      "choices": [
+        "Anthraquinone glycosides",
+        "Cardiac glycosides",
+        "Saponin glycosides",
+        "Cyanogenic glycosides"
+      ],
+      "answer": "Anthraquinone glycosides"
+    },
+    {
+      "question": "Which polyphenol subclass is known for its astringent properties?",
+      "choices": [
+        "Tannins",
+        "Flavonoids",
+        "Alkaloids",
+        "Terpenes"
+      ],
+      "answer": "Tannins"
+    },
+    {
+      "question": "Cannabis contains which type of terpenes?",
+      "choices": [
+        "Cannabinoids",
+        "Ginkgolides",
+        "Linalool",
+        "Eucalyptol"
+      ],
+      "answer": "Cannabinoids"
+    },
+    {
+      "question": "Slippery elm is rich in which type of polysaccharide?",
+      "choices": [
+        "Mucilage",
+        "Starch",
+        "Cellulose",
+        "Pectin"
+      ],
+      "answer": "Mucilage"
+    },
+    {
+      "question": "Which essential oil component is found in tea tree?",
+      "choices": [
+        "Terpinen-4-ol",
+        "Menthol",
+        "Eucalyptol",
+        "Thymol"
+      ],
+      "answer": "Terpinen-4-ol"
+    },
+    {
+      "question": "What is the primary taste associated with alkaloids?",
+      "choices": [
+        "Bitter",
+        "Sweet",
+        "Sour",
+        "Salty"
+      ],
+      "answer": "Bitter"
+    },
+    {
+      "question": "Which type of glycoside is known for its adaptogenic properties?",
+      "choices": [
+        "Saponin glycosides",
+        "Cardiac glycosides",
+        "Anthraquinone glycosides",
+        "Cyanogenic glycosides"
+      ],
+      "answer": "Saponin glycosides"
+    },
+    {
+      "question": "Hawthorn is a rich source of which polyphenol subclass?",
+      "choices": [
+        "Flavonoids",
+        "Tannins",
+        "Lignans",
+        "Stilbenes"
+      ],
+      "answer": "Flavonoids"
+    },
+    {
+      "question": "Which terpene is responsible for the aroma of lavender?",
+      "choices": [
+        "Linalool",
+        "Menthol",
+        "Eucalyptol",
+        "Limonene"
+      ],
+      "answer": "Linalool"
+    }
+  ]
+}

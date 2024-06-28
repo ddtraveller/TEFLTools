@@ -3,7 +3,7 @@ import json
 import os
 import sys
 from character_gen import generate_character
-from Combat import combat, encounter
+from Combat import encounter, combat
 from Navigation import start_navigation
 from game_utils import select_initial_encounter, get_location_description
 from anthropic import Anthropic
@@ -49,11 +49,11 @@ def main():
         character_data = generate_character(character_name)
     
     locations_file = os.path.join(JSON_FOLDER, 'timor_leste_locations.json')
-    initial_movement_speed = 10  # Start with a lower value, it will be adjusted if needed
+    movement_speed = 20  # Adjust this value based on the character's movement speed
     
     # Start with the movement phase
     print("You find yourself ready to explore the vast lands of Timor Leste Fantasia.")
-    start_navigation(locations_file, initial_movement_speed, character_data)
+    start_navigation(locations_file, movement_speed, character_data)
 
 if __name__ == "__main__":
     main()

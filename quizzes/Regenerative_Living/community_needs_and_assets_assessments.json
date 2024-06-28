@@ -1,0 +1,265 @@
+{
+  "title": "Conducting Community Needs & Assets Assessments in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is the purpose of conducting community needs and assets assessments?",
+      "choices": [
+        "To identify community strengths and areas for improvement",
+        "To find faults in community members",
+        "To impose external solutions on the community",
+        "To assess the profitability of local businesses"
+      ],
+      "answer": "To identify community strengths and areas for improvement"
+    },
+    {
+      "question": "Community needs and assets assessments contribute to building resilient communities.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the main difference between needs-based and asset-based approaches?",
+      "choices": [
+        "Needs-based focuses on deficits, while asset-based focuses on strengths",
+        "Needs-based is more effective than asset-based",
+        "Asset-based ignores community problems",
+        "There is no difference between the two approaches"
+      ],
+      "answer": "Needs-based focuses on deficits, while asset-based focuses on strengths"
+    },
+    {
+      "question": "Which of the following is an example of a physical community asset in Timor-Leste?",
+      "choices": [
+        "Land",
+        "Traditional knowledge",
+        "Community groups",
+        "Education"
+      ],
+      "answer": "Land"
+    },
+    {
+      "question": "Local businesses and markets are examples of economic community assets.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Traditional leadership structures are considered social community assets.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Arts and languages are examples of cultural community assets.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Community participation is not important in conducting assessments.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Which of the following is NOT a common method for community assessments?",
+      "choices": [
+        "Gossip and rumors",
+        "Surveys and questionnaires",
+        "Focus group discussions",
+        "Direct observation"
+      ],
+      "answer": "Gossip and rumors"
+    },
+    {
+      "question": "Community mapping exercises can help identify local assets and needs.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Key informant interviews involve gathering information from:",
+      "choices": [
+        "Community members with specific knowledge or expertise",
+        "Random individuals on the street",
+        "External experts unfamiliar with the community",
+        "Government officials only"
+      ],
+      "answer": "Community members with specific knowledge or expertise"
+    },
+    {
+      "question": "PRA stands for:",
+      "choices": [
+        "Participatory Rural Appraisal",
+        "Private Research Association",
+        "Public Relations Agency",
+        "Professional Researchers' Alliance"
+      ],
+      "answer": "Participatory Rural Appraisal"
+    },
+    {
+      "question": "Setting clear objectives is an important step in planning a community assessment.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Ensuring inclusivity in the assessment process is not a priority.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Language and literacy considerations should be addressed when conducting assessments in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Informed consent is an important ethical consideration in community assessments.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is NOT a challenge for conducting assessments in Timor-Leste?",
+      "choices": [
+        "Abundance of funding",
+        "Geographical and infrastructure challenges",
+        "Cultural and linguistic diversity",
+        "Ensuring representation of marginalized groups"
+      ],
+      "answer": "Abundance of funding"
+    },
+    {
+      "question": "Balancing traditional and modern assessment methods is important in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The case study analysis in this lesson focuses on:",
+      "choices": [
+        "A community assessment conducted in Timor-Leste",
+        "A needs assessment in Australia",
+        "An assets mapping exercise in Brazil",
+        "A market research study in China"
+      ],
+      "answer": "A community assessment conducted in Timor-Leste"
+    },
+    {
+      "question": "In the hands-on activity, students design a mini needs and assets assessment plan for:",
+      "choices": [
+        "A hypothetical Timorese community scenario",
+        "Their own personal development",
+        "A fictional city in Europe",
+        "A multinational corporation"
+      ],
+      "answer": "A hypothetical Timorese community scenario"
+    },
+    {
+      "question": "Identifying key areas to assess is a step in designing a community assessment plan.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Ensuring community participation and inclusivity is not a consideration in the assessment planning process.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Analyzing and prioritizing assessment findings is important for turning assessment into action.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Assessment results should be kept confidential and not shared with the community.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Community assessment results can inform the development of community action plans.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The student assignment involves conducting a mini assets mapping exercise in their own community or neighborhood.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "In the assignment report, students should reflect on challenges faced during the assets mapping exercise.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The assignment asks students to provide ideas for leveraging identified assets for community development.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Providing suggestions for a more comprehensive community assessment is not part of the student assignment.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "The main objective of this lesson is to:",
+      "choices": [
+        "Introduce students to community needs and assets assessments in the Timor-Leste context",
+        "Teach students how to conduct assessments in developed countries",
+        "Discourage the use of participatory methods in community development",
+        "Promote top-down approaches to community assessment"
+      ],
+      "answer": "Introduce students to community needs and assets assessments in the Timor-Leste context"
+    }
+  ]
+}

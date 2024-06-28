@@ -2,16 +2,22 @@ import yt_dlp
 import os
 
 if __name__ == '__main__':
-    # Prompt the user to enter the video URL (Example: https://www.youtube.com/watch?v=rtAIPn3V23U&t=348s)
-    video_url = input("Enter the URL of the YouTube video you want to transcribe. Example: https://www.youtube.com/watch?v=rtAIPn3V23U&t=348s")
+    # Prompt the user to enter the video URL
+    video_url = input("Enter the URL of the YouTube video you want to download and transcribe: ")
 
     # Configure the YouTube downloader options
     ydl_opts = {
-        'writesubtitles': True,  # Write subtitles to file
-        'subtitleslangs': ['en'],  # Download English subtitles
-        'subtitlesformat': 'vtt',  # Subtitle format
-        'outtmpl': '%(title)s.%(ext)s',  # Output filename template
-        'noplaylist': True,  # Download only the video, not the playlist
+        'format': 'bestaudio/best',
+        'postprocessors': [{
+            'key': 'FFmpegVideoConvertor',
+            'preferedformat': 'mp4',
+        }],
+        'writesubtitles': True,
+        'subtitleslangs': ['en'],
+        'subtitlesformat': 'vtt',
+        'outtmpl': '%(title)s.%(ext)s',
+        'noplaylist': True,
+        'keepvideo': True,  # Keep the video file after conversion
     }
 
     try:
@@ -46,6 +52,8 @@ if __name__ == '__main__':
                 print(f"Transcript saved to: {transcript_file}")
             else:
                 print("No subtitles found for the video. Transcript not generated.")
+
+            print(f"Video saved as: {video_title}.mp4")
 
     except Exception as e:
         print(f"An error occurred: {str(e)}")

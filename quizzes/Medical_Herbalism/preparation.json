@@ -1,0 +1,305 @@
+{
+  "title": "Herbal Preparations and Administration Quiz",
+  "questions": [
+    {
+      "question": "What is the primary purpose of proper herbal preparation?",
+      "choices": [
+        "To enhance the therapeutic effect of herbs",
+        "To improve the taste of herbs",
+        "To increase the shelf life of herbs",
+        "To reduce the cost of herbal medicine"
+      ],
+      "answer": "To enhance the therapeutic effect of herbs"
+    },
+    {
+      "question": "Which factor is NOT typically considered when choosing an herbal preparation method?",
+      "choices": [
+        "The color of the final product",
+        "The solubility of the herb's active compounds",
+        "The desired therapeutic effect",
+        "Patient preferences and compliance"
+      ],
+      "answer": "The color of the final product"
+    },
+    {
+      "question": "What is the main difference between a tea and an infusion in herbal medicine?",
+      "choices": [
+        "Infusions are steeped for a longer time and use a higher herb-to-water ratio",
+        "Teas are always made with black tea leaves, while infusions use other herbs",
+        "Infusions are cold brewed, while teas are made with hot water",
+        "Teas are more concentrated than infusions"
+      ],
+      "answer": "Infusions are steeped for a longer time and use a higher herb-to-water ratio"
+    },
+    {
+      "question": "Which type of herbs are most suitable for decoctions?",
+      "choices": [
+        "Roots, barks, and seeds",
+        "Flowers and leaves",
+        "Berries and fruits",
+        "Essential oils"
+      ],
+      "answer": "Roots, barks, and seeds"
+    },
+    {
+      "question": "What is the primary advantage of using tinctures in herbal medicine?",
+      "choices": [
+        "Long shelf life and easy dosage",
+        "Better taste compared to teas",
+        "Lower cost of production",
+        "Faster absorption than capsules"
+      ],
+      "answer": "Long shelf life and easy dosage"
+    },
+    {
+      "question": "Which of the following is NOT a common menstruum used in making tinctures?",
+      "choices": [
+        "Water",
+        "Alcohol",
+        "Glycerin",
+        "Vinegar"
+      ],
+      "answer": "Water"
+    },
+    {
+      "question": "What is the main benefit of using glycerites instead of alcohol-based tinctures?",
+      "choices": [
+        "Suitable for those who avoid alcohol",
+        "More potent extraction of herbs",
+        "Longer shelf life",
+        "Better taste for all herbs"
+      ],
+      "answer": "Suitable for those who avoid alcohol"
+    },
+    {
+      "question": "Which herbal preparation method is most suitable for children or those with a sweet tooth?",
+      "choices": [
+        "Syrups",
+        "Capsules",
+        "Tinctures",
+        "Poultices"
+      ],
+      "answer": "Syrups"
+    },
+    {
+      "question": "What is an oxymel?",
+      "choices": [
+        "A combination of honey and vinegar used as a base for herbal preparations",
+        "A type of herbal capsule",
+        "An essential oil extraction method",
+        "A tool used in making herbal salves"
+      ],
+      "answer": "A combination of honey and vinegar used as a base for herbal preparations"
+    },
+    {
+      "question": "Which of the following is a benefit of encapsulating dried herbs?",
+      "choices": [
+        "Precise dosage and convenience",
+        "Better absorption than tinctures",
+        "Longer shelf life than dried herbs",
+        "Enhanced flavor profile"
+      ],
+      "answer": "Precise dosage and convenience"
+    },
+    {
+      "question": "What is the primary purpose of a carrier oil in making herbal oils?",
+      "choices": [
+        "To extract and hold the herb's medicinal properties",
+        "To improve the scent of the final product",
+        "To act as a preservative",
+        "To increase the potency of the herb"
+      ],
+      "answer": "To extract and hold the herb's medicinal properties"
+    },
+    {
+      "question": "Which method is commonly used for making herbal oils with heat-sensitive herbs?",
+      "choices": [
+        "Solar infusion method",
+        "Double boiler method",
+        "Percolation method",
+        "Distillation method"
+      ],
+      "answer": "Solar infusion method"
+    },
+    {
+      "question": "What is the main difference between an herbal oil and a salve?",
+      "choices": [
+        "Salves contain beeswax or another thickener to create a semi-solid consistency",
+        "Herbal oils are more potent than salves",
+        "Salves are for internal use, while oils are for external use only",
+        "Herbal oils have a longer shelf life than salves"
+      ],
+      "answer": "Salves contain beeswax or another thickener to create a semi-solid consistency"
+    },
+    {
+      "question": "What is a poultice?",
+      "choices": [
+        "A moist mass of herbs applied directly to the skin",
+        "A type of herbal tea",
+        "An alcohol-based herbal extract",
+        "A method of distilling essential oils"
+      ],
+      "answer": "A moist mass of herbs applied directly to the skin"
+    },
+    {
+      "question": "Which of the following is NOT a common way to prepare a poultice?",
+      "choices": [
+        "Fermentation",
+        "Crushing fresh herbs",
+        "Mixing dried herbs with hot water",
+        "Blending herbs into a paste"
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "question": "What is the difference between a poultice and a fomentation?",
+      "choices": [
+        "A fomentation uses a cloth soaked in herbal tea, while a poultice applies herbs directly",
+        "A poultice is for internal use, while a fomentation is for external use",
+        "A fomentation is always cold, while a poultice is always hot",
+        "A poultice uses only fresh herbs, while a fomentation uses only dried herbs"
+      ],
+      "answer": "A fomentation uses a cloth soaked in herbal tea, while a poultice applies herbs directly"
+    },
+    {
+      "question": "Which factor is most important when choosing between a tea, tincture, or capsule for administering an herb?",
+      "choices": [
+        "The desired onset and duration of action",
+        "The color of the herb",
+        "The astrological sign of the patient",
+        "The price of the herb"
+      ],
+      "answer": "The desired onset and duration of action"
+    },
+    {
+      "question": "What is the primary advantage of using fresh herbs over dried herbs in preparations?",
+      "choices": [
+        "Higher content of volatile compounds",
+        "Longer shelf life",
+        "More consistent potency",
+        "Easier to measure precise doses"
+      ],
+      "answer": "Higher content of volatile compounds"
+    },
+    {
+      "question": "Which herbal preparation method is most suitable for extracting resins and other alcohol-soluble compounds?",
+      "choices": [
+        "Tinctures",
+        "Teas",
+        "Glycerites",
+        "Poultices"
+      ],
+      "answer": "Tinctures"
+    },
+    {
+      "question": "What is the usual ratio of herb to menstruum in the folk method of making tinctures?",
+      "choices": [
+        "Fill the jar with herb and cover with menstruum",
+        "1 part herb to 4 parts menstruum",
+        "1 part herb to 10 parts menstruum",
+        "Equal parts herb and menstruum"
+      ],
+      "answer": "Fill the jar with herb and cover with menstruum"
+    },
+    {
+      "question": "Which of the following is a benefit of using standardized herbal extracts?",
+      "choices": [
+        "Consistent potency and dosage",
+        "Always more effective than whole herb preparations",
+        "Lower cost than other herbal preparations",
+        "Ability to extract all compounds from an herb"
+      ],
+      "answer": "Consistent potency and dosage"
+    },
+    {
+      "question": "What is the primary purpose of using a press in herbal preparation?",
+      "choices": [
+        "To extract as much liquid as possible from the herb material",
+        "To create herbal tablets",
+        "To dry herbs quickly",
+        "To grind herbs into a fine powder"
+      ],
+      "answer": "To extract as much liquid as possible from the herb material"
+    },
+    {
+      "question": "Which of the following is NOT a common base for making herbal syrups?",
+      "choices": [
+        "Vinegar",
+        "Simple sugar syrup",
+        "Honey",
+        "Glycerin"
+      ],
+      "answer": "Vinegar"
+    },
+    {
+      "question": "What is the main advantage of percolation over maceration in making herbal extracts?",
+      "choices": [
+        "It can produce a more potent extract in less time",
+        "It requires less herb material",
+        "It always results in a better-tasting product",
+        "It has a longer shelf life"
+      ],
+      "answer": "It can produce a more potent extract in less time"
+    },
+    {
+      "question": "Which of the following herbs is most likely to be prepared as a decoction rather than an infusion?",
+      "choices": [
+        "Marshmallow root",
+        "Peppermint leaf",
+        "Chamomile flower",
+        "Lemon balm"
+      ],
+      "answer": "Marshmallow root"
+    },
+    {
+      "question": "What is the primary reason for using alcohol in tinctures?",
+      "choices": [
+        "It acts as both a solvent and a preservative",
+        "It improves the taste of all herbs",
+        "It increases the potency of the herbs",
+        "It's cheaper than other menstruums"
+      ],
+      "answer": "It acts as both a solvent and a preservative"
+    },
+    {
+      "question": "Which of the following is a key consideration when preparing herbal oils using the hot method?",
+      "choices": [
+        "Maintaining a low temperature to prevent damage to the herbs",
+        "Using only fresh herbs",
+        "Adding vitamin E to preserve the oil",
+        "Shaking the mixture vigorously every hour"
+      ],
+      "answer": "Maintaining a low temperature to prevent damage to the herbs"
+    },
+    {
+      "question": "What is the primary difference between infused oils and essential oils?",
+      "choices": [
+        "Infused oils contain the herb's constituents in a carrier oil, while essential oils are concentrated volatile compounds",
+        "Essential oils are always safer to use than infused oils",
+        "Infused oils are more potent than essential oils",
+        "Essential oils are made only from flowers, while infused oils can be made from any plant part"
+      ],
+      "answer": "Infused oils contain the herb's constituents in a carrier oil, while essential oils are concentrated volatile compounds"
+    },
+    {
+      "question": "Which of the following is NOT a common method for drying herbs?",
+      "choices": [
+        "Freeze-drying",
+        "Hanging in bundles",
+        "Using a food dehydrator",
+        "Spreading on screens"
+      ],
+      "answer": "Freeze-drying"
+    },
+    {
+      "question": "What is the primary purpose of validating the identity and quality of herbs before preparation?",
+      "choices": [
+        "To ensure safety and efficacy of the final product",
+        "To determine the market value of the herbs",
+        "To decide which preparation method to use",
+        "To calculate the correct dosage"
+      ],
+      "answer": "To ensure safety and efficacy of the final product"
+    }
+  ]
+}

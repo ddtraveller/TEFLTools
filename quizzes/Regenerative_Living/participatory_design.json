@@ -1,0 +1,261 @@
+{
+  "title": "Participatory Design Processes for Resilient Communities in Timor-Leste Quiz",
+  "questions": [
+    {
+      "question": "What is participatory design?",
+      "choices": [
+        "A design approach that actively involves stakeholders in the design process",
+        "A design process that excludes community input",
+        "A design method used only by professional designers",
+        "A design strategy focused on creating high-tech solutions"
+      ],
+      "answer": "A design approach that actively involves stakeholders in the design process"
+    },
+    {
+      "question": "Participatory design plays a crucial role in community development.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of participatory design?",
+      "choices": [
+        "Exclusivity and homogeneity",
+        "Inclusivity and diversity",
+        "Local knowledge and expertise",
+        "Shared decision-making"
+      ],
+      "answer": "Exclusivity and homogeneity"
+    },
+    {
+      "question": "Participatory design processes should be iterative and flexible.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Transparency and accountability are important aspects of participatory design.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is a participatory design method?",
+      "choices": [
+        "Community mapping",
+        "Individual surveys",
+        "Expert lectures",
+        "Closed-door meetings"
+      ],
+      "answer": "Community mapping"
+    },
+    {
+      "question": "Focus group discussions are a common technique used in participatory design.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What does PRA stand for?",
+      "choices": [
+        "Participatory Rural Appraisal",
+        "Private Research Association",
+        "Public Relations Agency",
+        "Professional Designers' Alliance"
+      ],
+      "answer": "Participatory Rural Appraisal"
+    },
+    {
+      "question": "Photovoice is a participatory method that involves:",
+      "choices": [
+        "Participants using photography to document and discuss community issues",
+        "Designers creating photo realistic renderings of proposed solutions",
+        "Using photos to vote on design options",
+        "Analyzing satellite imagery of community landscapes"
+      ],
+      "answer": "Participants using photography to document and discuss community issues"
+    },
+    {
+      "question": "Design charrettes are intense, multi-day design workshops.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Participatory design can lead to the empowerment of local communities in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Participatory processes often result in more sustainable and locally appropriate solutions.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Participatory design can help build social capital and community cohesion.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Community buy-in is not important for the success of participatory design projects.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Participatory design can contribute to the preservation of traditional knowledge and practices.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is a challenge in participatory design processes?",
+      "choices": [
+        "Power dynamics and ensuring true representation",
+        "Lack of community interest",
+        "Too much funding",
+        "Insufficient technology"
+      ],
+      "answer": "Power dynamics and ensuring true representation"
+    },
+    {
+      "question": "Time and resource constraints can be a barrier to effective participatory design.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Managing expectations is an important consideration in participatory design processes.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Balancing traditional hierarchies with inclusive participation can be challenging in Timor-Leste.",
+      "choices": [
+        "True",
+        "False"
+      ],  
+      "answer": "True"
+    },
+    {
+      "question": "The case study analysis in this lesson focuses on:",
+      "choices": [
+        "A participatory design project in Timor-Leste",
+        "A top-down development project in Indonesia",
+        "A designer-led initiative in Australia",
+        "A government-mandated program in Singapore"
+      ],
+      "answer": "A participatory design project in Timor-Leste"
+    },
+    {
+      "question": "In the hands-on activity, students design a participatory process to address a hypothetical community issue.",
+      "choices": [
+        "True",
+        "False"
+      ],  
+      "answer": "True"
+    },
+    {
+      "question": "Identifying stakeholders to involve is a key step in designing a participatory process.",
+      "choices": [
+        "True",
+        "False"  
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Choosing appropriate participatory methods is important for the success of the process.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Ensuring inclusivity and managing potential conflicts are not important considerations in participatory design.",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Participatory processes can strengthen community capacity and resilience.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "There is a connection between participation and adaptive capacity.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Participatory design can play a role in disaster preparedness and climate change adaptation.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"  
+    },
+    {
+      "question": "The student assignment involves observing or participating in a local community meeting or decision-making process.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "The assignment report should include suggestions for improving community engagement.",
+      "choices": [
+        "True",
+        "False"
+      ],  
+      "answer": "True"
+    },
+    {
+      "question": "The main goal of this lesson is to:",
+      "choices": [
+        "Introduce students to participatory design processes and their potential impact in Timor-Leste",
+        "Teach students how to design solutions without community input",
+        "Discourage the use of participatory methods in development projects", 
+        "Promote top-down decision-making in community planning"
+      ],
+      "answer": "Introduce students to participatory design processes and their potential impact in Timor-Leste"
+    }
+  ]
+}

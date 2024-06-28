@@ -1,0 +1,315 @@
+{
+  "title": "Principles of Plant Taxonomy Quiz",
+  "questions": [
+    {
+      "question": "What is the main purpose of botanical classification?",
+      "choices": [
+        "To accurately identify and categorize plants",
+        "To create complex names for plants",
+        "To make plant identification more difficult",
+        "To separate plants based on their medicinal properties"
+      ],
+      "answer": "To accurately identify and categorize plants"
+    },
+    {
+      "question": "Plant taxonomy is important in herbal medicine because it:",
+      "choices": [
+        "All of the above",
+        "Ensures accurate plant identification",
+        "Standardizes plant names globally",
+        "Facilitates communication among herbalists and scientists"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Who is credited with introducing the binomial nomenclature system?",
+      "choices": [
+        "Linnaeus",
+        "Darwin",
+        "Mendel",
+        "Watson and Crick"
+      ],
+      "answer": "Linnaeus"
+    },
+    {
+      "question": "Modern plant taxonomy is based on which approach?",
+      "choices": [
+        "Phylogenetic",
+        "Morphological",
+        "Geographical",
+        "Alphabetical"
+      ],
+      "answer": "Phylogenetic"
+    },
+    {
+      "question": "What is the correct hierarchical order of taxonomic ranks from broadest to most specific?",
+      "choices": [
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Kingdom, Class, Phylum, Order, Family, Genus, Species",
+        "Phylum, Kingdom, Class, Order, Family, Genus, Species",
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom"
+      ],
+      "answer": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+    },
+    {
+      "question": "In the binomial name 'Echinacea purpurea,' which part is the genus name?",
+      "choices": [
+        "Echinacea",
+        "purpurea",
+        "Both",
+        "Neither"
+      ],
+      "answer": "Echinacea"
+    },
+    {
+      "question": "In binomial nomenclature, the species name should be written in:",
+      "choices": [
+        "Lowercase",
+        "Uppercase",
+        "Title case",
+        "Any case"
+      ],
+      "answer": "Lowercase"
+    },
+    {
+      "question": "Scientific names in binomial nomenclature should be:",
+      "choices": [
+        "Italicized or underlined",
+        "Bold",
+        "In quotes",
+        "In parentheses"
+      ],
+      "answer": "Italicized or underlined"
+    },
+    {
+      "question": "What is an author citation in botanical nomenclature?",
+      "choices": [
+        "The name of the person who first described the species",
+        "The name of the person who discovered the plant",
+        "The name of the person who first used the plant medicinally",
+        "The name of the person who illustrated the plant"
+      ],
+      "answer": "The name of the person who first described the species"
+    },
+    {
+      "question": "Why is understanding plant families important in herbal medicine?",
+      "choices": [
+        "Plants in the same family often have similar medicinal properties",
+        "Plant families determine the geographic distribution of plants",
+        "Plant families are used to create herbal formulas",
+        "Plant families have no relevance to herbal medicine"
+      ],
+      "answer": "Plants in the same family often have similar medicinal properties"
+    },
+    {
+      "question": "What does the term 'taxonomy' mean?",
+      "choices": [
+        "The science of naming, describing, and classifying organisms",
+        "The study of plant morphology",
+        "The art of botanical illustration",
+        "The practice of using plants for medicinal purposes"
+      ],
+      "answer": "The science of naming, describing, and classifying organisms"
+    },
+    {
+      "question": "The word 'taxonomy' comes from the Greek words 'taxis' and '-nomia,' meaning:",
+      "choices": [
+        "Arrangement and method",
+        "Plant and science",
+        "Name and classification",
+        "Biology and system"
+      ],
+      "answer": "Arrangement and method"
+    },
+    {
+      "question": "What is the basic unit of biological classification?",
+      "choices": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "answer": "Species"
+    },
+    {
+      "question": "The term 'species' comes from the Latin word meaning:",
+      "choices": [
+        "Kind or sort",
+        "Origin or type",
+        "Name or term",
+        "Variety or difference"
+      ],
+      "answer": "Kind or sort"
+    },
+    {
+      "question": "What does the term 'phylogenetic' refer to?",
+      "choices": [
+        "The evolutionary development and history of organisms",
+        "The physical form and structure of organisms",
+        "The geographical distribution of organisms",
+        "The medicinal properties of organisms"
+      ],
+      "answer": "The evolutionary development and history of organisms"
+    },
+    {
+      "question": "The word 'morphology' comes from the Greek words 'morphe' and '-logos,' meaning:",
+      "choices": [
+        "Form and study",
+        "Function and science",
+        "Structure and analysis",
+        "Shape and description"
+      ],
+      "answer": "Form and study"
+    },
+    {
+      "question": "In binomial nomenclature, what is the species epithet?",
+      "choices": [
+        "The second part of the name that identifies the species within a genus",
+        "The first part of the name that identifies the genus",
+        "The author citation for the species name",
+        "The common name of the species"
+      ],
+      "answer": "The second part of the name that identifies the species within a genus"
+    },
+    {
+      "question": "What is a cultivar?",
+      "choices": [
+        "A plant variety produced by selective breeding",
+        "A naturally occurring plant species",
+        "A plant fossil",
+        "A type of plant disease"
+      ],
+      "answer": "A plant variety produced by selective breeding"
+    },
+    {
+      "question": "The term 'cultivar' is a contraction of which words?",
+      "choices": [
+        "Cultivated variety",
+        "Cultural variation",
+        "Cultivated species",
+        "Cultivar taxonomy"
+      ],
+      "answer": "Cultivated variety"
+    },
+    {
+      "question": "What is the difference between a species and a variety?",
+      "choices": [
+        "A variety is a taxonomic rank below species",
+        "A species is a taxonomic rank below variety",
+        "Species and varieties are the same thing",
+        "Varieties are not used in modern taxonomy"
+      ],
+      "answer": "A variety is a taxonomic rank below species"
+    },
+    {
+      "question": "What does the term 'nomenclature' refer to?",
+      "choices": [
+        "The system of names used in a particular field",
+        "The study of plant classification",
+        "The rules for pronouncing scientific names",
+        "The history of botanical taxonomy"
+      ],
+      "answer": "The system of names used in a particular field"
+    },
+    {
+      "question": "The word 'nomenclature' comes from the Latin 'nomenclatura,' meaning:",
+      "choices": [
+        "Calling of names",
+        "List of terms",
+        "Scientific language",
+        "Botanical dictionary"
+      ],
+      "answer": "Calling of names"
+    },
+    {
+      "question": "Why is it important to use binomial nomenclature instead of common names?",
+      "choices": [
+        "Binomial names are universally recognized and less ambiguous",
+        "Binomial names are easier to remember than common names",
+        "Binomial names always describe the plant's appearance",
+        "Binomial names indicate the medicinal uses of the plant"
+      ],
+      "answer": "Binomial names are universally recognized and less ambiguous"
+    },
+    {
+      "question": "Which of the following is an example of a plant family?",
+      "choices": [
+        "Asteraceae",
+        "Echinacea",
+        "purpurea",
+        "Mentha"
+      ],
+      "answer": "Asteraceae"
+    },
+    {
+      "question": "The genus name in a binomial should be:",
+      "choices": [
+        "Capitalized",
+        "Lowercase",
+        "Italicized",
+        "Underlined"
+      ],
+      "answer": "Capitalized"
+    },
+    {
+      "question": "Which taxonomic rank comes immediately below family?",
+      "choices": [
+        "Genus",
+        "Order",
+        "Class",
+        "Species"
+      ],
+      "answer": "Genus"
+    },
+    {
+      "question": "The study of plant morphology involves examining:",
+      "choices": [
+        "The physical form and structure of plants",
+        "The genetic relationships between plants",
+        "The medicinal properties of plants",
+        "The geographical distribution of plants"
+      ],
+      "answer": "The physical form and structure of plants"
+    },
+    {
+      "question": "Which of the following is NOT one of the seven major ranks in plant taxonomy?",
+      "choices": [
+        "Tribe",
+        "Kingdom",
+        "Class",
+        "Family"
+      ],
+      "answer": "Tribe"
+    },
+    {
+      "question": "The species name in a binomial should be:",
+      "choices": [
+        "Italicized or underlined",
+        "Capitalized",
+        "In quotes",
+        "Bold"
+      ],
+      "answer": "Italicized or underlined"
+    },
+    {
+      "question": "Understanding plant relationships is important in herbal medicine because:",
+      "choices": [
+        "Related plants may have similar medicinal properties",
+        "It helps determine the geographical origin of the plant",
+        "It indicates the rarity of the plant",
+        "It determines the price of the herbal product"
+      ],
+      "answer": "Related plants may have similar medicinal properties"
+    },
+    {
+      "question": "The science of naming, describing, and classifying organisms is called:",
+      "choices": [
+        "Taxonomy",
+        "Nomenclature",
+        "Morphology",
+        "Phylogenetics"
+      ],
+      "answer": "Taxonomy"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "title": "Herbal Actions and Energetics Quiz",
+  "questions": [
+    {
+      "question": "What are herbal actions?",
+      "choices": [
+        "The specific effects of herbs on body systems",
+        "The cultivation techniques for growing medicinal plants",
+        "The chemical constituents found in herbs",
+        "The traditional uses of herbs in folklore"
+      ],
+      "answer": "The specific effects of herbs on body systems"
+    },
+    {
+      "question": "What does the term 'energetics' refer to in herbal medicine?",
+      "choices": [
+        "The warming, cooling, moistening, or drying properties of herbs",
+        "The caloric content of herbal preparations",
+        "The vitality or life force of medicinal plants",
+        "The electromagnetic frequency of herbal extracts"
+      ],
+      "answer": "The warming, cooling, moistening, or drying properties of herbs"
+    },
+    {
+      "question": "Why is it important to match herbal actions to clinical indications?",
+      "choices": [
+        "To ensure targeted and effective herbal therapy",
+        "To create visually appealing herbal formulas",
+        "To follow traditional herbal use patterns",
+        "To minimize the cost of herbal treatments"
+      ],
+      "answer": "To ensure targeted and effective herbal therapy"
+    },
+    {
+      "question": "What are adaptogens?",
+      "choices": [
+        "Herbs that help the body adapt to stress",
+        "Herbs that promote blood purification",
+        "Herbs that relieve muscle spasms",
+        "Herbs that stimulate digestion"
+      ],
+      "answer": "Herbs that help the body adapt to stress"
+    },
+    {
+      "question": "Which of the following is an example of an adaptogenic herb?",
+      "choices": [
+        "Ashwagandha",
+        "Turmeric",
+        "Peppermint",
+        "Marshmallow Root"
+      ],
+      "answer": "Ashwagandha"
+    },
+    {
+      "question": "What are alteratives?",
+      "choices": [
+        "Herbs that promote blood purification",
+        "Herbs that relieve inflammation",
+        "Herbs that soothe the digestive tract",
+        "Herbs that calm the nervous system"
+      ],
+      "answer": "Herbs that promote blood purification"
+    },
+    {
+      "question": "Which of the following is an example of an alterative herb?",
+      "choices": [
+        "Burdock",
+        "Chamomile",
+        "Ginger", 
+        "Juniper"
+      ],
+      "answer": "Burdock"
+    },
+    {
+      "question": "What is the main mechanism of action for herbal anti-inflammatories?",
+      "choices": [
+        "Modulating inflammatory pathways in the body",
+        "Directly killing pathogens",
+        "Stimulating the nervous system",
+        "Increasing urine production"
+      ],
+      "answer": "Modulating inflammatory pathways in the body"
+    },
+    {
+      "question": "Which of the following is an example of an anti-inflammatory herb?",
+      "choices": [
+        "Turmeric",
+        "Dandelion Leaf",
+        "Lemon Balm",
+        "Licorice"
+      ],
+      "answer": "Turmeric"
+    },
+    {
+      "question": "What are antimicrobial herbs?",
+      "choices": [
+        "Herbs that help fight against bacteria, viruses, and fungi",
+        "Herbs that promote relaxation and sleep",
+        "Herbs that stimulate the immune system",
+        "Herbs that improve circulation"
+      ],
+      "answer": "Herbs that help fight against bacteria, viruses, and fungi"
+    },
+    {
+      "question": "Which of the following is an example of an antimicrobial herb?",
+      "choices": [
+        "Oregano",
+        "Skullcap",
+        "Marshmallow Root",
+        "Nettle"
+      ],
+      "answer": "Oregano"
+    },
+    {
+      "question": "What are antispasmodic herbs?",
+      "choices": [
+        "Herbs that relieve muscle spasms and tension",
+        "Herbs that promote menstruation",
+        "Herbs that lower blood pressure",
+        "Herbs that support liver function"
+      ],
+      "answer": "Herbs that relieve muscle spasms and tension"
+    },
+    {
+      "question": "Which of the following is an example of an antispasmodic herb?",
+      "choices": [
+        "Wild Yam",
+        "Gentian",
+        "Echinacea",
+        "Yellow Dock"
+      ],
+      "answer": "Wild Yam"
+    },
+    {
+      "question": "What is the primary effect of bitter herbs on the digestive system?",
+      "choices": [
+        "Stimulating digestive secretions",
+        "Reducing inflammation",
+        "Soothing the gut lining",
+        "Relieving gas and bloating"
+      ],
+      "answer": "Stimulating digestive secretions"
+    },
+    {
+      "question": "Which of the following is an example of a bitter herb?",
+      "choices": [
+        "Dandelion Root",
+        "Fennel",
+        "Slippery Elm",
+        "Chamomile"
+      ],
+      "answer": "Dandelion Root"
+    },
+    {
+      "question": "What are carminative herbs?",
+      "choices": [
+        "Herbs that relieve gas and bloating",
+        "Herbs that stimulate the immune system",
+        "Herbs that promote urination",
+        "Herbs that support the nervous system"
+      ],
+      "answer": "Herbs that relieve gas and bloating"
+    },
+    {
+      "question": "Which of the following is an example of a carminative herb?",
+      "choices": [
+        "Peppermint",
+        "Burdock",
+        "Skullcap",
+        "Marshmallow Root"
+      ],
+      "answer": "Peppermint"
+    },
+    {
+      "question": "What are demulcent herbs?",
+      "choices": [
+        "Herbs that soothe and protect mucous membranes",
+        "Herbs that stimulate circulation",
+        "Herbs that relax the nervous system",
+        "Herbs that balance hormones"
+      ],
+      "answer": "Herbs that soothe and protect mucous membranes"
+    },
+    {
+      "question": "Which of the following is an example of a demulcent herb?",
+      "choices": [
+        "Marshmallow Root",
+        "Ginger",
+        "Dandelion Leaf",
+        "Lemon Balm"
+      ],
+      "answer": "Marshmallow Root"
+    },
+    {
+      "question": "What are diuretic herbs?",
+      "choices": [
+        "Herbs that promote urine production",
+        "Herbs that relieve pain and inflammation",
+        "Herbs that support digestion",
+        "Herbs that calm the mind"
+      ],
+      "answer": "Herbs that promote urine production"
+    },
+    {
+      "question": "Which of the following is an example of a diuretic herb?",
+      "choices": [
+        "Dandelion Leaf",
+        "Turmeric",
+        "Chamomile",
+        "Licorice"
+      ],
+      "answer": "Dandelion Leaf"
+    },
+    {
+      "question": "What are nervine herbs?",
+      "choices": [
+        "Herbs that support the nervous system",
+        "Herbs that promote detoxification",
+        "Herbs that relieve respiratory conditions",
+        "Herbs that stimulate the immune system"
+      ],
+      "answer": "Herbs that support the nervous system"
+    },
+    {
+      "question": "Which of the following is an example of a nervine herb?",
+      "choices": [
+        "Skullcap",
+        "Echinacea",
+        "Juniper",
+        "Marshmallow Root"
+      ],
+      "answer": "Skullcap"
+    },
+    {
+      "question": "What are the three main types of nervine herbs?",
+      "choices": [
+        "Relaxants, stimulants, and tonics",
+        "Adaptogens, alteratives, and aromatics",
+        "Demulcents, diuretics, and diaphoretics",
+        "Bitters, carminatives, and expectorants"
+      ],
+      "answer": "Relaxants, stimulants, and tonics"
+    },
+    {
+      "question": "What is the process of matching herbal actions to specific health conditions?",
+      "choices": [
+        "Assessing client needs and selecting appropriate herbs",
+        "Randomly choosing herbs based on traditional use",
+        "Selecting herbs based on their taste and appearance",
+        "Matching herbs to astrological signs"
+      ],
+      "answer": "Assessing client needs and selecting appropriate herbs"
+    },
+    {
+      "question": "Why is it important to consider herb combinations and potential interactions?",
+      "choices": [
+        "To ensure safe and effective herbal therapy",
+        "To create visually appealing herbal formulas",
+        "To follow traditional herbal use patterns",
+        "To minimize the cost of herbal treatments"
+      ],
+      "answer": "To ensure safe and effective herbal therapy"
+    },
+    {
+      "question": "How can energetic qualities be integrated into herbal protocols?",
+      "choices": [
+        "By selecting herbs that balance the overall energetics of the formula",
+        "By choosing herbs based on their color and shape",
+        "By using herbs that grow in specific geographical regions",
+        "By matching herbs to the client's favorite flavors"
+      ],
+      "answer": "By selecting herbs that balance the overall energetics of the formula"
+    },
+    {
+      "question": "What is the main difference between an adaptogen and a nervine?",
+      "choices": [
+        "Adaptogens help the body adapt to stress, while nervines specifically support the nervous system",
+        "Adaptogens are only used for physical stress, while nervines are used for mental stress",
+        "Adaptogens are always stimulating, while nervines are always calming",
+        "Adaptogens are only used in combination formulas, while nervines can be used alone"
+      ],
+      "answer": "Adaptogens help the body adapt to stress, while nervines specifically support the nervous system"
+    },
+    {
+      "question": "What is the primary difference between a carminative and a bitter herb?",
+      "choices": [
+        "Carminatives relieve gas and bloating, while bitters stimulate digestive secretions",
+        "Carminatives are always warming, while bitters are always cooling",
+        "Carminatives are only used for children, while bitters are only used for adults",
+        "Carminatives are only used in culinary applications, while bitters are only used medicinally"
+      ],
+      "answer": "Carminatives relieve gas and bloating, while bitters stimulate digestive secretions"
+    },
+    {
+      "question": "What is the main difference between an antimicrobial and an anti-inflammatory herb?",
+      "choices": [
+        "Antimicrobials fight pathogens, while anti-inflammatories modulate inflammatory pathways",
+        "Antimicrobials are only used for acute infections, while anti-inflammatories are used for chronic conditions",
+        "Antimicrobials are always taken internally, while anti-inflammatories are always used topically",
+        "Antimicrobials are only effective against bacteria, while anti-inflammatories work on all types of inflammation"
+      ],
+      "answer": "Antimicrobials fight pathogens, while anti-inflammatories modulate inflammatory pathways"
+    },
+    {
+      "question": "What is the primary difference between a demulcent and a diuretic herb?",
+      "choices": [
+        "Demulcents soothe mucous membranes, while diuretics promote urine production",
+        "Demulcents are always used for respiratory conditions, while diuretics are used for urinary tract issues",
+        "Demulcents are only effective when used topically, while diuretics must be taken internally",
+        "Demulcents are always cooling, while diuretics are always warming"
+      ],
+      "answer": "Demulcents soothe mucous membranes, while diuretics promote urine production"
+    }
+  ]
+}
