@@ -1,0 +1,305 @@
+{
+  "title": "Finding Your Creative Voice & The Art of Short Fiction Quiz",
+  "questions": [
+    {
+      "question": "What is a writer's voice?",
+      "choices": [
+        "The tone of voice used when reading aloud",
+        "The distinctive style or manner of expression of an author",
+        "The volume at which a writer speaks",
+        "The accent of the writer"
+      ],
+      "answer": "The distinctive style or manner of expression of an author"
+    },
+    {
+      "question": "What is flash fiction?",
+      "choices": [
+        "Fiction written in a flash of inspiration",
+        "Fiction about superhero The Flash",
+        "Extremely short fictional stories, typically under 1000 words",
+        "Fiction written using camera flashes"
+      ],
+      "answer": "Extremely short fictional stories, typically under 1000 words"
+    },
+    {
+      "question": "What is a narrative arc?",
+      "choices": [
+        "A rainbow in a story",
+        "The chronological construction of plot in a novel or story",
+        "An architectural structure in a novel",
+        "The curve of a character's smile"
+      ],
+      "answer": "The chronological construction of plot in a novel or story"
+    },
+    {
+      "question": "What does authenticity mean in writing?",
+      "choices": [
+        "Writing only autobiographical stories",
+        "Using big words to sound impressive",
+        "The quality of being genuine or true to one's own personality, spirit, or character",
+        "Always writing in formal language"
+      ],
+      "answer": "The quality of being genuine or true to one's own personality, spirit, or character"
+    },
+    {
+      "question": "What is the typical word count for flash fiction?",
+      "choices": [
+        "Under 1000 words",
+        "1000-2000 words",
+        "2000-5000 words",
+        "Over 5000 words"
+      ],
+      "answer": "Under 1000 words"
+    },
+    {
+      "question": "Which of the following is NOT a key element of short fiction?",
+      "choices": [
+        "Character development",
+        "Plot",
+        "Setting",
+        "Lengthy descriptions"
+      ],
+      "answer": "Lengthy descriptions"
+    },
+    {
+      "question": "What is the purpose of a writing voice?",
+      "choices": [
+        "To imitate other authors",
+        "To disguise the writer's identity",
+        "To create a unique and recognizable style",
+        "To confuse the reader"
+      ],
+      "answer": "To create a unique and recognizable style"
+    },
+    {
+      "question": "What is a common technique for developing one's writing voice?",
+      "choices": [
+        "Copying famous authors",
+        "Writing in multiple genres",
+        "Using a thesaurus for every word",
+        "Never revising first drafts"
+      ],
+      "answer": "Writing in multiple genres"
+    },
+    {
+      "question": "What is the importance of the first sentence in short fiction?",
+      "choices": [
+        "It should summarize the entire story",
+        "It should be the longest sentence",
+        "It should grab the reader's attention and set the tone",
+        "It should introduce all the characters"
+      ],
+      "answer": "It should grab the reader's attention and set the tone"
+    },
+    {
+      "question": "What is a 'twist ending' in short fiction?",
+      "choices": [
+        "When the characters do yoga at the end",
+        "An unexpected turn of events that surprises the reader",
+        "When the story ends mid-sentence",
+        "A happy ending"
+      ],
+      "answer": "An unexpected turn of events that surprises the reader"
+    },
+    {
+      "question": "What is the 'show, don't tell' principle in writing?",
+      "choices": [
+        "Using more dialogue than narration",
+        "Including pictures in your story",
+        "Presenting story elements through sensory details and action rather than exposition",
+        "Always writing in present tense"
+      ],
+      "answer": "Presenting story elements through sensory details and action rather than exposition"
+    },
+    {
+      "question": "What is a character arc?",
+      "choices": [
+        "A rainbow over a character's head",
+        "The trajectory of a character's growth or change throughout a story",
+        "The curve of a character's smile",
+        "A character's family tree"
+      ],
+      "answer": "The trajectory of a character's growth or change throughout a story"
+    },
+    {
+      "question": "What is the purpose of revision in writing?",
+      "choices": [
+        "To make the story longer",
+        "To change everything about the original draft",
+        "To improve and refine the writing",
+        "To check for spelling errors only"
+      ],
+      "answer": "To improve and refine the writing"
+    },
+    {
+      "question": "What is a metaphor?",
+      "choices": [
+        "A type of punctuation",
+        "A figure of speech that directly compares two unlike things",
+        "A long sentence",
+        "A character's nickname"
+      ],
+      "answer": "A figure of speech that directly compares two unlike things"
+    },
+    {
+      "question": "What is the difference between plot and story?",
+      "choices": [
+        "They are exactly the same thing",
+        "Plot is the sequence of events, while story includes the characters and setting",
+        "Story is always longer than plot",
+        "Plot is only used in novels, while story is used in short fiction"
+      ],
+      "answer": "Plot is the sequence of events, while story includes the characters and setting"
+    },
+    {
+      "question": "What is the purpose of dialogue in fiction?",
+      "choices": [
+        "To make the story longer",
+        "To show off the author's vocabulary",
+        "To reveal character, advance the plot, and create atmosphere",
+        "To confuse the reader"
+      ],
+      "answer": "To reveal character, advance the plot, and create atmosphere"
+    },
+    {
+      "question": "What is a story's theme?",
+      "choices": [
+        "The first sentence of the story",
+        "The central idea or underlying meaning of a story",
+        "The font used in the story",
+        "The color of the book cover"
+      ],
+      "answer": "The central idea or underlying meaning of a story"
+    },
+    {
+      "question": "What is foreshadowing in fiction?",
+      "choices": [
+        "When a character can predict the future",
+        "A hint or clue about events to come in the story",
+        "When the story is told backwards",
+        "The shadow of a tree mentioned in the story"
+      ],
+      "answer": "A hint or clue about events to come in the story"
+    },
+    {
+      "question": "What is the climax of a story?",
+      "choices": [
+        "The first sentence",
+        "The last word",
+        "The most intense or exciting point in the story",
+        "The longest paragraph"
+      ],
+      "answer": "The most intense or exciting point in the story"
+    },
+    {
+      "question": "What is a story's setting?",
+      "choices": [
+        "The moral of the story",
+        "The time and place in which the story occurs",
+        "The font size of the text",
+        "The author's hometown"
+      ],
+      "answer": "The time and place in which the story occurs"
+    },
+    {
+      "question": "What is an unreliable narrator?",
+      "choices": [
+        "A narrator who is always late",
+        "A narrator whose credibility is compromised",
+        "A narrator who speaks multiple languages",
+        "A narrator who is a child"
+      ],
+      "answer": "A narrator whose credibility is compromised"
+    },
+    {
+      "question": "What is the purpose of a story's conflict?",
+      "choices": [
+        "To make the reader angry",
+        "To introduce fight scenes",
+        "To create tension and drive the narrative forward",
+        "To showcase the author's knowledge of arguments"
+      ],
+      "answer": "To create tension and drive the narrative forward"
+    },
+    {
+      "question": "What is a red herring in fiction?",
+      "choices": [
+        "A type of fish mentioned in the story",
+        "A misleading clue or distraction",
+        "A character with red hair",
+        "A spelling mistake"
+      ],
+      "answer": "A misleading clue or distraction"
+    },
+    {
+      "question": "What is the exposition in a story?",
+      "choices": [
+        "The final paragraph",
+        "The background information provided to the reader",
+        "The climax of the story",
+        "The author's personal history"
+      ],
+      "answer": "The background information provided to the reader"
+    },
+    {
+      "question": "What is the resolution of a story?",
+      "choices": [
+        "The number of pixels in the story",
+        "The part of the story where the main conflict is resolved",
+        "The decision to write the story",
+        "The first draft of the story"
+      ],
+      "answer": "The part of the story where the main conflict is resolved"
+    },
+    {
+      "question": "What is a story's point of view?",
+      "choices": [
+        "The moral of the story",
+        "The perspective from which the story is told",
+        "The author's political stance",
+        "The direction the characters are facing"
+      ],
+      "answer": "The perspective from which the story is told"
+    },
+    {
+      "question": "What is a simile?",
+      "choices": [
+        "A long sentence",
+        "A figure of speech that makes a comparison using 'like' or 'as'",
+        "A type of punctuation",
+        "A character's profession"
+      ],
+      "answer": "A figure of speech that makes a comparison using 'like' or 'as'"
+    },
+    {
+      "question": "What is the purpose of a story's pacing?",
+      "choices": [
+        "To determine how fast the characters walk",
+        "To control the speed and rhythm at which the story unfolds",
+        "To set a jogging schedule for the author",
+        "To count the number of words per page"
+      ],
+      "answer": "To control the speed and rhythm at which the story unfolds"
+    },
+    {
+      "question": "What is a story's mood?",
+      "choices": [
+        "The emotional atmosphere created by the story",
+        "The author's temperament while writing",
+        "The weather described in the story",
+        "The reader's feelings before reading the story"
+      ],
+      "answer": "The emotional atmosphere created by the story"
+    },
+    {
+      "question": "What is the difference between static and dynamic characters?",
+      "choices": [
+        "Static characters are boring, dynamic characters are interesting",
+        "Static characters don't move, dynamic characters do",
+        "Static characters remain essentially unchanged, dynamic characters undergo significant change",
+        "Static characters are main characters, dynamic characters are secondary"
+      ],
+      "answer": "Static characters remain essentially unchanged, dynamic characters undergo significant change"
+    }
+  ]
+}

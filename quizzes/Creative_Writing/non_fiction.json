@@ -1,0 +1,185 @@
+{
+  "title": "Poetry: Painting with Words & Creative Non-Fiction Quiz",
+  "questions": [
+    {
+      "question": "What is enjambment in poetry?",
+      "choices": [
+        "A type of rhyme scheme",
+        "The continuation of a sentence or phrase from one line of poetry to the next",
+        "A poetic foot consisting of two unstressed syllables followed by a stressed syllable",
+        "The main theme of a poem"
+      ],
+      "answer": "The continuation of a sentence or phrase from one line of poetry to the next"
+    },
+    {
+      "question": "What is assonance?",
+      "choices": [
+        "The repetition of consonant sounds",
+        "The repetition of similar vowel sounds in nearby words",
+        "A type of poem with 14 lines",
+        "The use of exaggeration in poetry"
+      ],
+      "answer": "The repetition of similar vowel sounds in nearby words"
+    },
+    {
+      "question": "What is a cinquain?",
+      "choices": [
+        "A five-line poem with a specific syllable count for each line",
+        "A poem about the number five",
+        "A French poetic form",
+        "A type of creative non-fiction"
+      ],
+      "answer": "A five-line poem with a specific syllable count for each line"
+    },
+    {
+      "question": "What is the purpose of sensory details in creative non-fiction?",
+      "choices": [
+        "To confuse the reader",
+        "To make the writing longer",
+        "To create a vivid, immersive experience for the reader",
+        "To showcase the author's vocabulary"
+      ],
+      "answer": "To create a vivid, immersive experience for the reader"
+    },
+    {
+      "question": "What is a persona poem?",
+      "choices": [
+        "A poem about someone's personality",
+        "A poem written from the perspective of a specific character or voice",
+        "A poem that describes a person's appearance",
+        "A poem with multiple authors"
+      ],
+      "answer": "A poem written from the perspective of a specific character or voice"
+    },
+    {
+      "question": "What is the difference between a simile and a metaphor?",
+      "choices": [
+        "There is no difference",
+        "A simile uses 'like' or 'as' for comparison, while a metaphor makes a direct comparison",
+        "Similes are used in poetry, metaphors in prose",
+        "Metaphors are always longer than similes"
+      ],
+      "answer": "A simile uses 'like' or 'as' for comparison, while a metaphor makes a direct comparison"
+    },
+    {
+      "question": "What is an elegy?",
+      "choices": [
+        "A love poem",
+        "A poem of serious reflection, typically a lament for the dead",
+        "A humorous poem",
+        "A poem about nature"
+      ],
+      "answer": "A poem of serious reflection, typically a lament for the dead"
+    },
+    {
+      "question": "What is the purpose of rhythm in poetry?",
+      "choices": [
+        "To make the poem rhyme",
+        "To create a musical quality and emotional effect",
+        "To make the poem longer",
+        "To confuse the reader"
+      ],
+      "answer": "To create a musical quality and emotional effect"
+    },
+    {
+      "question": "What is a villanelle?",
+      "choices": [
+        "A 19-line poem with a specific rhyme scheme and two repeating lines",
+        "A poem about a villain",
+        "A type of free verse",
+        "A French prose form"
+      ],
+      "answer": "A 19-line poem with a specific rhyme scheme and two repeating lines"
+    },
+    {
+      "question": "What is the purpose of research in creative non-fiction?",
+      "choices": [
+        "To make the writing more fictional",
+        "To add unnecessary details",
+        "To ensure accuracy and provide context for personal experiences",
+        "To impress the reader with the author's knowledge"
+      ],
+      "answer": "To ensure accuracy and provide context for personal experiences"
+    },
+    {
+      "question": "What is ekphrastic poetry?",
+      "choices": [
+        "Poetry about dreams",
+        "Poetry inspired by or describing visual art",
+        "Poetry written in a foreign language",
+        "Poetry about nature"
+      ],
+      "answer": "Poetry inspired by or describing visual art"
+    },
+    {
+      "question": "What is the difference between poetry and prose?",
+      "choices": [
+        "Poetry always rhymes, prose never does",
+        "Poetry is written in verses and often has a more condensed, rhythmic quality, while prose is written in paragraphs",
+        "Poetry is always shorter than prose",
+        "There is no difference"
+      ],
+      "answer": "Poetry is written in verses and often has a more condensed, rhythmic quality, while prose is written in paragraphs"
+    },
+    {
+      "question": "What is a lyric essay?",
+      "choices": [
+        "An essay about song lyrics",
+        "A type of creative non-fiction that combines elements of poetry, essay, and memoir",
+        "A very long poem",
+        "An essay written by a musician"
+      ],
+      "answer": "A type of creative non-fiction that combines elements of poetry, essay, and memoir"
+    },
+    {
+      "question": "What is the purpose of line breaks in poetry?",
+      "choices": [
+        "To make the poem look neat on the page",
+        "To control the rhythm, emphasis, and meaning of the poem",
+        "To make the poem harder to read",
+        "To use up more paper"
+      ],
+      "answer": "To control the rhythm, emphasis, and meaning of the poem"
+    },
+    {
+      "question": "What is a prose poem?",
+      "choices": [
+        "A very long poem",
+        "A poem written in prose format without line breaks",
+        "A poem about prose",
+        "A type of creative non-fiction"
+      ],
+      "answer": "A poem written in prose format without line breaks"
+    },
+    {
+      "question": "What is the importance of voice in creative non-fiction?",
+      "choices": [
+        "It doesn't matter in creative non-fiction",
+        "It helps to establish the author's unique perspective and style",
+        "It's only important in dialogue",
+        "It's used to make the writing louder"
+      ],
+      "answer": "It helps to establish the author's unique perspective and style"
+    },
+    {
+      "question": "What is a found poem?",
+      "choices": [
+        "A poem discovered in an attic",
+        "A poem created from existing texts",
+        "A poem about lost and found items",
+        "The first poem an author writes"
+      ],
+      "answer": "A poem created from existing texts"
+    },
+    {
+      "question": "What is the purpose of reflection in creative non-fiction?",
+      "choices": [
+        "To make the writing more fictional",
+        "To add length to the piece",
+        "To provide insight and meaning to personal experiences",
+        "To confuse the reader"
+      ],
+      "answer": "To provide insight and meaning to personal experiences"
+    }
+  ]
+}

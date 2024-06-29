@@ -1,0 +1,77 @@
+{  "title": "Novel Writing & Character Development Quiz",
+  "questions": [
+    {
+      "question": "What is internal conflict?",
+      "choices": [
+        "A fight scene in a novel",
+        "A struggle within a character's mind",
+        "An argument between two characters",
+        "A disagreement between the author and editor"
+      ],
+      "answer": "A struggle within a character's mind"
+    },
+    {
+      "question": "What is external conflict?",
+      "choices": [
+        "A character's inner turmoil",
+        "A conflict between a character and an outside force (person, nature, society)",
+        "A disagreement between the author and the publisher",
+        "A fight scene that takes place outdoors"
+      ],
+      "answer": "A conflict between a character and an outside force (person, nature, society)"
+    },
+    {
+      "question": "What is a character's backstory?",
+      "choices": [
+        "The story printed on the back of a book",
+        "A character's history that occurred before the main plot of the novel",
+        "A supporting character's subplot",
+        "The author's personal history"
+      ],
+      "answer": "A character's histor    },
+    {
+      "question": "What is a story arc?",
+      "choices": [
+        "A rainbow that appears in the story",
+        "The overall shape of the story's plot from beginning to end",
+        "A secret code used by the characters",
+        "The curve of a character's smile"
+      ],
+      "answer": "The overall shape of the story's p    },
+    {
+      "question": "What is a plot twist?",
+      "choices": [
+        "A type of dance mentioned in the story",
+        "An unexpected change in the direction of the plot",
+        "A character's favorite ice cream flavor",
+      ],
+      "answer": "An unexpected change in the direction of the plot"
+    },
+    {
+      "question": "What is a cliffhanger?",
+      "choices": [
+        "A character who enjoys rock climbi        "An ending that leaves the main story unresolved, creating suspense",
+        "A type of punctuation",
+        "The final chapter of a book"
+      ],
+      "answer": "An ending that leaves the main story unresolved, creating suspe    },
+    {
+      "question": "What is the purpose of dialogue in character development?",
+      "choices": [
+        "To make the book longer",
+        "To reveal character traits, advance the plot, and provide information",
+        "To confuse the reader",
+        "To showcase      ],
+      "answer": "To reveal character traits, advance the plot, and provide information"
+    },
+    {
+      "question": "What is a character sketch?",
+      "choices": [
+        "A drawing of a character",
+        "A brief description of a character's physical and personality traits",
+        "A character's favorite art project",
+        "The outline of a character's body at a crime scene"
+      ],
+      "answer": "A brief description of a character's physical and personality tra    }
+  ]
+}
