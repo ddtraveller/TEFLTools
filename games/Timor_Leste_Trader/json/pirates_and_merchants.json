@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Cheng I Sao",
+    "description": "Powerful pirate queen of the South China Sea",
+    "reputation": -8
+  },
+  {
+    "name": "Lim Ah Hong",
+    "description": "Notorious Singaporean pirate",
+    "reputation": -7
+  },
+  {
+    "name": "Surcouf",
+    "description": "French privateer active in the Indian Ocean",
+    "reputation": -6
+  },
+  {
+    "name": "Lai Choi San",
+    "description": "Female pirate leader from Macau",
+    "reputation": -7
+  },
+  {
+    "name": "Limahong",
+    "description": "Chinese pirate who invaded the Philippines",
+    "reputation": -9
+  },
+  {
+    "name": "Sulaiman bin Ahmad",
+    "description": "Malaccan merchant prince",
+    "reputation": 8
+  },
+  {
+    "name": "Hang Tuah",
+    "description": "Legendary Malaccan warrior and diplomat",
+    "reputation": 9
+  },
+  {
+    "name": "Zheng He",
+    "description": "Chinese explorer and fleet admiral",
+    "reputation": 10
+  },
+  {
+    "name": "Sri Tri Buana",
+    "description": "Founder of ancient Singapore",
+    "reputation": 7
+  },
+  {
+    "name": "Parameswara",
+    "description": "Founder of the Malacca Sultanate",
+    "reputation": 6
+  },
+  {
+    "name": "Tun Perak",
+    "description": "Malaccan statesman and warrior",
+    "reputation": 8
+  },
+  {
+    "name": "Hang Jebat",
+    "description": "Malaccan warrior with a complex reputation",
+    "reputation": 0
+  },
+  {
+    "name": "Laksamana Cheng Ho",
+    "description": "Respected Chinese-Malaccan admiral",
+    "reputation": 9
+  },
+  {
+    "name": "Raja Sulaiman",
+    "description": "Merchant king of Johor",
+    "reputation": 7
+  },
+  {
+    "name": "Dato Maharajalela",
+    "description": "Perak chieftain and resistance leader",
+    "reputation": 5
+  },
+  {
+    "name": "Si Renjong",
+    "description": "Infamous Sumatran pirate",
+    "reputation": -8
+  },
+  {
+    "name": "Liang Daoming",
+    "description": "Chinese pirate leader in the Sulu Sea",
+    "reputation": -7
+  },
+  {
+    "name": "Magat Salamat",
+    "description": "Filipino chief turned pirate",
+    "reputation": -6
+  },
+  {
+    "name": "Datu Puti",
+    "description": "Legendary Visayan explorer and merchant",
+    "reputation": 6
+  },
+  {
+    "name": "Raja Bersiong",
+    "description": "Mythical vampire king of Kedah",
+    "reputation": -10
+  },
+  {
+    "name": "Badang",
+    "description": "Legendary strong man of ancient Singapore",
+    "reputation": 7
+  },
+  {
+    "name": "Hang Nadim",
+    "description": "Malaccan boy genius and advisor",
+    "reputation": 8
+  },
+  {
+    "name": "Tun Fatimah",
+    "description": "Malaccan noblewoman and warrior",
+    "reputation": 7
+  },
+  {
+    "name": "Puteri Gunung Ledang",
+    "description": "Mythical princess of Mount Ophir",
+    "reputation": 5
+  },
+  {
+    "name": "Tok Janggut",
+    "description": "Kelantanese rebel leader",
+    "reputation": -2
+  },
+  {
+    "name": "Mat Salleh",
+    "description": "North Borneo rebel leader",
+    "reputation": -3
+  },
+  {
+    "name": "Sharif Masahor",
+    "description": "Sarawakian pirate and rebel",
+    "reputation": -5
+  },
+  {
+    "name": "Datu Sikatuna",
+    "description": "Boholano chieftain and diplomat",
+    "reputation": 6
+  },
+  {
+    "name": "Sultan Bolkiah",
+    "description": "Wealthy Sultan of Brunei",
+    "reputation": 8
+  },
+  {
+    "name": "Lakan Dula",
+    "description": "King of Tondo and merchant",
+    "reputation": 7
+  },
+  {
+    "name": "Kapitan Chung Keng Quee",
+    "description": "Influential Perak businessman",
+    "reputation": 9
+  },
+  {
+    "name": "Datu Piang",
+    "description": "Powerful Maguindanao trader",
+    "reputation": 6
+  },
+  {
+    "name": "Hajah Fatimah",
+    "description": "Successful Singaporean businesswoman",
+    "reputation": 8
+  },
+  {
+    "name": "Panglima Awang",
+    "description": "Malaccan explorer who circumnavigated the globe",
+    "reputation": 7
+  },
+  {
+    "name": "Megat Panji Alam",
+    "description": "Johor-Riau warrior and statesman",
+    "reputation": 6
+  },
+  {
+    "name": "Temenggong Ibrahim",
+    "description": "Johor leader and modernizer",
+    "reputation": 7
+  },
+  {
+    "name": "Sang Nila Utama",
+    "description": "Legendary founder of Singapura",
+    "reputation": 8
+  },
+  {
+    "name": "Munshi Abdullah",
+    "description": "Malaccan scholar and translator",
+    "reputation": 7
+  },
+  {
+    "name": "Tun Kudu",
+    "description": "Malaccan noblewoman and peacemaker",
+    "reputation": 8
+  },
+  {
+    "name": "Hang Li Po",
+    "description": "Chinese princess who married the Sultan of Malacca",
+    "reputation": 7
+  },
+  {
+    "name": "Mahsuri",
+    "description": "Legendary Langkawi woman known for her curse",
+    "reputation": 5
+  },
+  {
+    "name": "Dayang Bunting",
+    "description": "Mythical princess of Langkawi",
+    "reputation": 6
+  },
+  {
+    "name": "Laksemana Hang Tuah",
+    "description": "Legendary Malaccan admiral",
+    "reputation": 9
+  },
+  {
+    "name": "Rentap",
+    "description": "Iban warrior who resisted British rule",
+    "reputation": -2
+  },
+  {
+    "name": "Datu Unsay",
+    "description": "Sulu pirate leader",
+    "reputation": -7
+  },
+  {
+    "name": "Panglima Salleh",
+    "description": "Notorious pirate of the Sulu Sea",
+    "reputation": -8
+  },
+  {
+    "name": "Raja Haji Fisabilillah",
+    "description": "Bugis warrior and Johor-Riau leader",
+    "reputation": 6
+  },
+  {
+    "name": "Tun Mutahir",
+    "description": "Malaccan Bendahara and statesman",
+    "reputation": 7
+  },
+  {
+    "name": "Megat Terawis",
+    "description": "Perak warrior and rebel",
+    "reputation": -3
+  },
+  {
+    "name": "Tun Ali of Malacca",
+    "description": "Influential Malaccan merchant",
+    "reputation": 8
+  }
+]

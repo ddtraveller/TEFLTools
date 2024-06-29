@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Whales leap and bound at play all around the ship. The beautiful sight cheers the crew and is taken as a sign of good luck.",
+    "effect": {"morale": 5}
+  },
+  {
+    "description": "A sudden storm batters the ship, causing some damage.",
+    "effect": {"ship_health": -10}
+  },
+  {
+    "description": "Your crew discovers a small cache of valuable goods hidden in a secret compartment.",
+    "effect": {"money": 500}
+  },
+  {
+    "description": "You spot a beautiful rainbow on the horizon. The crew takes it as a good omen.",
+    "effect": {"morale": 5}
+  },
+  {
+    "description": "You pass the wreckage of a vessel that looks to have been looted and burned. It was a large Galleon with a lot of guns. Sharks abound in the water. The crew takes it as an ominous sign for the voyage.",
+    "effect": {"morale": -3}
+  }
+]

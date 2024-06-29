@@ -1,7 +1,6 @@
-import sys
-import math
-import random
 import json
+import random
+from utils import generate_response, update_prices, pirate_attack, offer_ship_upgrade, trigger_random_event
 
 class TimorLesteFantasyTrader:
     def __init__(self):
@@ -16,12 +15,20 @@ class TimorLesteFantasyTrader:
         self.guns = 1
         self.speed = 6
         self.maneuverability = 8
-        self.cities = ['Dili Harbor', 'Baucau Cove', 'Suai Bay', 'Oecusse Port', 'Atauro Isle', 'Com Anchorage', 'Jaco Island']
+        self.cities = [
+            'Dili Harbor', 'Baucau Cove', 'Suai Bay', 'Oecusse Port', 'Atauro Isle', 
+            'Com Anchorage', 'Jaco Island', 'Liquica Port', 'Manatuto Bay', 'Viqueque Harbor', 'Lautem Cove'
+        ]
         self.current_city = 0
         self.turn = 1
         self.prices = {item['name']: item['cost'] for item in self.goods}
         self.debt = 0
         self.bank_balance = 0
+        self.morale = 100
+        self.reputation = 0
+        self.money = 0
+        self.luxury_food_items = ['Timorese coffee beans', 'Sugar', 'Palm wine']
+        self.basic_food_items = ['Rice', 'Corn', 'Salted fish', "Sailor's rations", "Low Quality sailor's rations"]
 
         print("Choose your starting condition:")
         print("1. Start with 5 guns and no money")
@@ -34,18 +41,44 @@ class TimorLesteFantasyTrader:
             self.money = 1000
             self.debt = 2000
 
-    def update_prices(self):
-        for item in self.goods:
-            self.prices[item['name']] = int(item['cost'] * random.uniform(0.5, 1.5))
+    def handle_hunger(self):
+        if self.turn % 3 == 0:
+            food_consumed = False
+            morale_change = 0
 
-        if random.random() < 0.2:
-            special_item = random.choice(self.goods)['name']
-            if random.random() < 0.5:
-                self.prices[special_item] = int(self.prices[special_item] * 0.5)
-                print(f"The price of {special_item} has dropped significantly!")
-            else:
-                self.prices[special_item] = int(self.prices[special_item] * 2)
-                print(f"The price of {special_item} has risen dramatically!")
+            # Check for luxury food items first
+            for item in self.luxury_food_items:
+                if self.inventory[item] > 0:
+                    self.inventory[item] -= 1
+                    food_consumed = True
+                    morale_change = 5
+                    print(f"Crew consumed 1 {item}. Morale increased!")
+                    break
+            
+            # If no luxury food, check for basic food items
+            if not food_consumed:
+                for item in self.basic_food_items:
+                    if self.inventory[item] > 0:
+                        self.inventory[item] -= 1
+                        food_consumed = True
+                        print(f"Crew consumed 1 {item}.")
+                        break
+            
+            # If no food at all, decrease morale
+            if not food_consumed:
+                morale_change = -10
+                print("No food available! Crew morale decreased significantly.")
+
+            self.update_morale(morale_change)
+
+    def update_morale(self, change=0):
+        self.morale = min(100, max(0, self.morale + change + (self.ship_health - 50) / 10 + (self.guns - 5) / 2 - self.debt / 1000))
+        if sum(self.inventory.values()) / self.ship_capacity > 0.8:
+            self.morale += 5
+        if self.money > 10000:
+            self.morale += 5
+        if self.debt > 5000:
+            self.morale -= 5
 
     def display_status(self):
         print(f"\nTurn: {self.turn}")
@@ -53,6 +86,14 @@ class TimorLesteFantasyTrader:
         print(f"Gold: {self.money}")
         print(f"Debt: {self.debt}")
         print(f"Bank Balance: {self.bank_balance}")
+        print(f"Crew Morale: {self.morale:.2f}%")
+        print(f"Reputation: {self.reputation}")
+
+        # Display food items and their quantities
+        print("\nFood Supplies:")
+        for item in self.luxury_food_items + self.basic_food_items:
+            if self.inventory[item] > 0:
+                print(f"{item}: {self.inventory[item]}")
 
         # Display top 3 items by price
         top_items = sorted(self.prices.items(), key=lambda x: x[1], reverse=True)[:3]
@@ -131,78 +172,13 @@ class TimorLesteFantasyTrader:
             return
         self.current_city = choice
         self.turn += 1
-        self.update_prices()
+        update_prices(self)
         print(f"Sailed to {self.cities[self.current_city]}")
 
         if random.random() < 0.2:
-            self.pirate_attack()
+            pirate_attack(self)
         elif random.random() < 0.1:
-            self.offer_ship_upgrade()
-
-    def pirate_attack(self):
-        enemy_ship = random.choice(self.ships)
-        print(f"You're under attack by a {enemy_ship['name']} with {enemy_ship['guns']} guns!")
-        action = input("Do you want to (f)ight or (r)un? ").lower()
-        if action == 'f':
-            if self.guns > enemy_ship['guns']:
-                damage_chance = self.maneuverability / (self.maneuverability + enemy_ship['maneuverability'])
-                if random.random() < damage_chance:
-                    damage = random.randint(1, self.guns)
-                    enemy_ship['guns'] -= damage
-                    print(f"You've damaged the enemy ship! They now have {enemy_ship['guns']} guns.")
-                else:
-                    print("You've missed!")
-                if enemy_ship['guns'] <= 0:
-                    print("You've defeated the pirates!")
-                    self.money += enemy_ship['cost'] // 2
-                    print(f"You've gained {enemy_ship['cost'] // 2} gold as booty!")
-                else:
-                    damage = random.randint(1, enemy_ship['guns'])
-                    self.ship_health -= damage
-                    print(f"The enemy ship has damaged your ship! Your ship health is now {self.ship_health}%.")
-                    if self.ship_health <= 0:
-                        print("Your ship has sunk. Game Over!")
-                        exit()
-            else:
-                print("You're outgunned! You have no choice but to flee.")
-                self.run_away(enemy_ship)
-        else:
-            self.run_away(enemy_ship)
-
-    def run_away(self, enemy_ship):
-        if self.speed > enemy_ship['speed']:
-            print("You've managed to escape!")
-        else:
-            print("The enemy ship is faster than you! You can't escape.")
-            damage = random.randint(1, enemy_ship['guns'])
-            self.ship_health -= damage
-            print(f"The enemy ship has damaged your ship! Your ship health is now {self.ship_health}%.")
-            if self.ship_health <= 0:
-                print("Your ship has sunk. Game Over!")
-                exit()
-            cargo_lost = random.randint(0, sum(self.inventory.values()) // 2)
-            print(f"You lost {cargo_lost} units of random cargo.")
-            while cargo_lost > 0:
-                item = random.choice(list(self.inventory.keys()))
-                if self.inventory[item] > 0:
-                    self.inventory[item] -= 1
-                    cargo_lost -= 1
-
-    def offer_ship_upgrade(self):
-        upgrade_cost = self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type)) + 1]['cost'] - self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type))]['cost']
-        print(f"You've been offered a ship upgrade to {self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type)) + 1]['name']} for {upgrade_cost} gold.")
-        if input("Do you want to upgrade? (y/n) ").lower() == 'y':
-            if self.money >= upgrade_cost:
-                self.money -= upgrade_cost
-                self.ship_type = self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type)) + 1]['name']
-                self.ship_capacity = self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type))]['capacity']
-                self.ship_health = 100
-                self.guns = self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type))]['guns']
-                self.speed = self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type))]['speed']
-                self.maneuverability = self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type))]['maneuverability']
-                print(f"Ship upgraded to {self.ship_type}!")
-            else:
-                print("Not enough gold for the upgrade.")
+            offer_ship_upgrade(self)
 
     def dili_harbor_options(self):
         while True:
@@ -323,28 +299,63 @@ class TimorLesteFantasyTrader:
                 self.bank_balance -= amount
             else:
                 print("You don't have that much in your account!")
-    
+
+    def parrot_speak(self):
+        inventory_fullness = sum(self.inventory.values()) / self.ship_capacity * 100
+        wealth = self.money + self.bank_balance - self.debt
+
+        prompt = f"""The ship's condition is as follows:
+        - Ship Health: {self.ship_health}%
+        - Guns: {self.guns}
+        - Inventory Fullness: {inventory_fullness:.2f}%
+        - Wealth: {wealth} gold
+        - Crew Morale: {self.morale:.2f}%
+
+        Based on this information, give a brief assessment of the situation."""
+
+        parrot_message = generate_response(prompt)
+        return f"The ship's parrot squawks: {parrot_message}"
+
     def play(self):
         print("Welcome to Timor-Leste Fantasy Trader!")
-        self.update_prices()
+        update_prices(self)
         while True:
             self.display_status()
             if self.current_city == 0:  # Dili Harbor
                 self.dili_harbor_options()
-            action = input("\nWhat would you like to do? (buy/sell/travel/quit): ").lower()
-            if action == 'quit':
-                break
-            elif action == 'buy':
+            
+            if self.turn % 10 == 0:
+                print(self.parrot_speak())
+            
+            self.handle_hunger()  # Call the hunger system every turn
+            
+            # Trigger random event with 20% probability
+            if random.random() < 0.2:
+                trigger_random_event(self)
+            
+            print("\nWhat would you like to do?")
+            print("1. Buy goods")
+            print("2. Sell goods")
+            print("3. Travel")
+            print("4. Quit")
+            
+            action = input("Enter your choice (1-4): ")
+            
+            if action == '1':
                 self.buy()
-            elif action == 'sell':
+            elif action == '2':
                 self.sell()
-            elif action == 'travel':
+            elif action == '3':
                 self.travel()
+            elif action == '4':
+                break
             else:
-                print("Invalid action!")
+                print("Invalid action! Please choose a number between 1-4.")
+            
+            self.turn += 1
     
         print(f"Game over! Final gold: {self.money}")
-    
+
 if __name__ == "__main__":
     game = TimorLesteFantasyTrader()
     game.play()

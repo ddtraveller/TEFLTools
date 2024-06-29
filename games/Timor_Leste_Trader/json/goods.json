@@ -10,6 +10,16 @@
     "cost": 150
   },
   {
+    "name": "Sailor's rations",
+    "description": "Cheap preserved fish, a staple for long sea voyages, sold by the kilogram.",
+    "cost": 100
+  },
+  {
+    "name": "Low Quality sailor's rations",
+    "description": "The oldest cheapest stale preserved fish, a staple for long sea voyages, sold by the kilogram.",
+    "cost": 100
+  },
+  {
     "name": "Timorese coffee beans",
     "description": "High-quality, organic coffee beans grown in the mountains of Timor-Leste, sold by the kilogram.",
     "cost": 500
@@ -28,7 +38,7 @@
     "name": "Crocodile leather",
     "description": "Tough, exotic leather from Timorese crocodiles, used for high-end goods, sold by the kilogram.",
     "cost": 5000
-  },  
+  },
   {
     "name": "Rice",
     "description": "Staple grain, sold by the kilogram.",

@@ -4,7 +4,7 @@
     "description": "The smallest ship type, a trading vessel with a small crew and a few cannons. Hardly a danger, unless piloted by a captain looking for a quick boarding and relying on skillful fencing to win battles. Will not survive more than a few broadsides by an enemy ship. Favored by enemy pirates in the Timor Sea.",
     "cost": 10000,
     "capacity": 100,
-    "guns": 1,
+    "guns": 2,
     "speed": 6,
     "maneuverability": 8
   },
@@ -17,6 +17,15 @@
     "speed": 8,
     "maneuverability": 9
   },
+  {
+    "name": "Heavy Sloop",
+    "description": "A small combat vessel, Slower and less maneuverable than a standard sloop, it carries an extra cannon. Suitable for hunting down small or medium vessels, but will be in trouble if hit by a large broadside. Favored by different factions in the Timor Sea in different eras.",
+    "cost": 25000,
+    "capacity": 150,
+    "guns": 5,
+    "speed": 7,
+    "maneuverability": 8
+  },  
   {
     "name": "Barque",
     "description": "A mid-sized combat vessel with a good cargo hold. Usually encountered as a Portuguese trading ship in the Timor Sea, it is nimble enough to protect itself from most ship types, and can survive a broadside or two from an enemy ship without too much trouble. Useful for players who want the largest ship that doesn't have too much trouble sailing eastwards or upwind.",
