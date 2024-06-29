@@ -17,7 +17,7 @@ class TimorLesteFantasyTrader:
         self.maneuverability = 8
         self.cities = [
             'Dili Harbor', 'Baucau Cove', 'Suai Bay', 'Oecusse Port', 'Atauro Isle', 
-            'Com Anchorage', 'Jaco Island', 'Liquica Port', 'Manatuto Bay', 'Viqueque Harbor', 'Lautem Cove'
+            'Jaco Island', 'Liquica Port', 'Manatuto Bay', 'Lautem Cove'
         ]
         self.current_city = 0
         self.turn = 1
@@ -27,7 +27,7 @@ class TimorLesteFantasyTrader:
         self.morale = 100
         self.reputation = 0
         self.money = 0
-        self.luxury_food_items = ['Timorese coffee beans', 'Sugar', 'Palm wine']
+        self.luxury_food_items = ['Timorese coffee beans', 'Sugar', 'Palm wine', 'Salt']
         self.basic_food_items = ['Rice', 'Corn', 'Salted fish', "Sailor's rations", "Low Quality sailor's rations"]
 
         print("Choose your starting condition:")

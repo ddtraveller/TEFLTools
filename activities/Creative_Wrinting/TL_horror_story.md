@@ -58,6 +58,7 @@ Now, there was a torch in my hand and we were gliding through the jungle. I was 
 
 <Students insert story here>
 
+
 When I opened my eyes, I was lying on the plateau, the first rays of dawn painting the sky in shades of pink and gold. The villagers were gone. My body ached, and my skin tingled where the ritual paint had been applied. But I felt different – renewed, connected to the land in a way I had never been before.
 
 As I made my way back down the mountain, I noticed changes. The incessant rains had stopped, and steam rose from the verdant forest as the sun's warmth penetrated the canopy. Birds sang in the trees, and in the distance, I heard the laughter of children.
