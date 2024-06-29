@@ -1,0 +1,571 @@
+{
+    "TEFL Vocabulary and Expressions Guide": [
+        {
+            "category": "Camping & Landscape",
+            "vocabulary": [
+                {
+                    "word": "Tent",
+                    "partOfSpeech": "n",
+                    "definition": "A portable shelter made of cloth, supported by poles and ropes, used outdoors"
+                },
+                {
+                    "word": "Campfire",
+                    "partOfSpeech": "n",
+                    "definition": "An outdoor fire at a campsite, used for warmth, cooking, or as a focal point for social gatherings"
+                },
+                {
+                    "word": "Backpack",
+                    "partOfSpeech": "n",
+                    "definition": "A bag carried on one's back, typically used for carrying supplies while hiking or camping"
+                },
+                {
+                    "word": "Trail",
+                    "partOfSpeech": "n",
+                    "definition": "A path or track made across a wild area or through a forest"
+                },
+                {
+                    "word": "Summit",
+                    "partOfSpeech": "n",
+                    "definition": "The highest point of a hill or mountain"
+                },
+                {
+                    "word": "Scenic",
+                    "partOfSpeech": "adj",
+                    "definition": "Providing or relating to views of impressive or beautiful natural scenery"
+                },
+                {
+                    "word": "Wilderness",
+                    "partOfSpeech": "n",
+                    "definition": "An uncultivated, uninhabited, and inhospitable region"
+                },
+                {
+                    "word": "Canopy",
+                    "partOfSpeech": "n",
+                    "definition": "The uppermost branches of the trees in a forest, forming a more or less continuous layer of foliage"
+                },
+                {
+                    "word": "Ravine",
+                    "partOfSpeech": "n",
+                    "definition": "A deep, narrow gorge with steep sides"
+                },
+                {
+                    "word": "Campsite",
+                    "partOfSpeech": "n",
+                    "definition": "An area used for camping, often equipped with basic facilities"
+                },
+                {
+                    "word": "Foliage",
+                    "partOfSpeech": "n",
+                    "definition": "The leaves of a plant or tree"
+                },
+                {
+                    "word": "Terrain",
+                    "partOfSpeech": "n",
+                    "definition": "The physical features of an area of land, especially the shape of its surface"
+                }
+            ],
+            "commonExpressions": [
+                {
+                    "expression": "Pitch a tent",
+                    "meaning": "To set up a tent",
+                    "example": "We arrived at the campsite and quickly pitched our tent before it got dark."
+                },
+                {
+                    "expression": "Hit the trail",
+                    "meaning": "To begin a hike or journey",
+                    "example": "We woke up early, packed our bags, and hit the trail by 7 AM."
+                },
+                {
+                    "expression": "Rough it",
+                    "meaning": "To live without modern comforts and conveniences",
+                    "example": "During our camping trip, we decided to rough it by not bringing any electronic devices."
+                },
+                {
+                    "expression": "Take in the view",
+                    "meaning": "To pause and enjoy a scenic landscape",
+                    "example": "When we reached the mountaintop, we stopped to take in the breathtaking view of the valley below."
+                },
+                {
+                    "expression": "Get back to nature",
+                    "meaning": "To spend time in a natural environment, away from civilization",
+                    "example": "After months of working in the city, Sarah decided to get back to nature by spending a week hiking in the mountains."
+                },
+                {
+                    "expression": "Leave no trace",
+                    "meaning": "A principle of minimizing one's impact on the environment while camping or hiking",
+                    "example": "Remember to leave no trace by packing out all your trash and not disturbing the wildlife."
+                }
+            ]
+        },
+        {
+            "category": "Animal",
+            "vocabulary": [
+                {
+                    "word": "Nocturnal",
+                    "partOfSpeech": "adj",
+                    "definition": "Active at night"
+                },
+                {
+                    "word": "Hibernate",
+                    "partOfSpeech": "v",
+                    "definition": "To spend the winter in a dormant state"
+                },
+                {
+                    "word": "Predator",
+                    "partOfSpeech": "n",
+                    "definition": "An animal that naturally preys on others"
+                },
+                {
+                    "word": "Herbivore",
+                    "partOfSpeech": "n",
+                    "definition": "An animal that feeds on plants"
+                },
+                {
+                    "word": "Migration",
+                    "partOfSpeech": "n",
+                    "definition": "Seasonal movement of animals from one region to another"
+                },
+                {
+                    "word": "Camouflage",
+                    "partOfSpeech": "n",
+                    "definition": "The way some animals hide themselves by blending in with their surroundings"
+                },
+                {
+                    "word": "Habitat",
+                    "partOfSpeech": "n",
+                    "definition": "The natural home or environment of an animal, plant, or other organism"
+                },
+                {
+                    "word": "Endangered",
+                    "partOfSpeech": "adj",
+                    "definition": "At risk of extinction"
+                },
+                {
+                    "word": "Domesticated",
+                    "partOfSpeech": "adj",
+                    "definition": "Tame and kept as a pet or on a farm"
+                },
+                {
+                    "word": "Instinct",
+                    "partOfSpeech": "n",
+                    "definition": "An innate, typically fixed pattern of behavior in animals in response to certain stimuli"
+                },
+                {
+                    "word": "Flock",
+                    "partOfSpeech": "n",
+                    "definition": "A group of birds or sheep"
+                },
+                {
+                    "word": "Herd",
+                    "partOfSpeech": "n",
+                    "definition": "A large group of animals, especially hoofed mammals, that live or are kept together"
+                }
+            ],
+            "commonExpressions": [
+                {
+                    "expression": "Dog eat dog world",
+                    "meaning": "A situation of fierce competition",
+                    "example": "The corporate world can be a dog eat dog world, where everyone is looking out for themselves."
+                },
+                {
+                    "expression": "Let the cat out of the bag",
+                    "meaning": "To reveal a secret",
+                    "example": "I didn't mean to let the cat out of the bag about your surprise party."
+                },
+                {
+                    "expression": "Bird's eye view",
+                    "meaning": "A view from a high elevation as if seen by a bird in flight",
+                    "example": "From the top of the skyscraper, we had a bird's eye view of the entire city."
+                },
+                {
+                    "expression": "Fish out of water",
+                    "meaning": "Someone in an uncomfortable or unfamiliar situation",
+                    "example": "As a country boy in the big city, John felt like a fish out of water."
+                },
+                {
+                    "expression": "Straight from the horse's mouth",
+                    "meaning": "Information from the most reliable source",
+                    "example": "I heard about the company's new policy straight from the horse's mouth - the CEO told me himself."
+                },
+                {
+                    "expression": "When pigs fly",
+                    "meaning": "Used to say that something will never happen",
+                    "example": "He'll apologize when pigs fly - he's too proud to admit he was wrong."
+                }
+            ]
+        },
+        {
+            "category": "Clothes",
+            "vocabulary": [
+                {
+                    "word": "Garment",
+                    "partOfSpeech": "n",
+                    "definition": "An item of clothing"
+                },
+                {
+                    "word": "Attire",
+                    "partOfSpeech": "n",
+                    "definition": "Clothes, especially of a particular or formal type"
+                },
+                {
+                    "word": "Accessory",
+                    "partOfSpeech": "n",
+                    "definition": "An item that completes one's outfit, such as jewelry or a scarf"
+                },
+                {
+                    "word": "Fabric",
+                    "partOfSpeech": "n",
+                    "definition": "Cloth or other material produced by weaving or knitting fibers"
+                },
+                {
+                    "word": "Tailor",
+                    "partOfSpeech": "n",
+                    "definition": "A person who makes, repairs, or alters clothing professionally"
+                },
+                {
+                    "word": "Hem",
+                    "partOfSpeech": "n",
+                    "definition": "The edge of a piece of cloth or clothing that has been turned under and sewn"
+                },
+                {
+                    "word": "Trendy",
+                    "partOfSpeech": "adj",
+                    "definition": "Very fashionable or up-to-date"
+                },
+                {
+                    "word": "Vintage",
+                    "partOfSpeech": "adj",
+                    "definition": "Of high quality and lasting value, or showing the best and most typical characteristics of a particular type of thing"
+                },
+                {
+                    "word": "Casual",
+                    "partOfSpeech": "adj",
+                    "definition": "Relaxed and informal in style or manner"
+                },
+                {
+                    "word": "Outfit",
+                    "partOfSpeech": "n",
+                    "definition": "A set of clothes worn together, typically for a particular occasion or purpose"
+                },
+                {
+                    "word": "Couture",
+                    "partOfSpeech": "n",
+                    "definition": "The design and manufacture of fashionable clothes to a client's specific requirements and measurements"
+                },
+                {
+                    "word": "Wardrobe",
+                    "partOfSpeech": "n",
+                    "definition": "A collection of clothes belonging to one person"
+                }
+            ],
+            "commonExpressions": [
+                {
+                    "expression": "Dress to impress",
+                    "meaning": "To wear your best clothes to make a good impression",
+                    "example": "For the job interview, John decided to dress to impress by wearing his finest suit."
+                },
+                {
+                    "expression": "Wear your heart on your sleeve",
+                    "meaning": "To openly express your emotions",
+                    "example": "Sarah always wears her heart on her sleeve, making it easy for everyone to know how she feels."
+                },
+                {
+                    "expression": "Fit like a glove",
+                    "meaning": "To fit perfectly",
+                    "example": "The tailor-made suit fit like a glove, accentuating all the right places."
+                },
+                {
+                    "expression": "Dressed to the nines",
+                    "meaning": "Wearing very formal or fancy clothes",
+                    "example": "For their anniversary dinner, the couple was dressed to the nines in their most elegant attire."
+                },
+                {
+                    "expression": "In someone's shoes",
+                    "meaning": "In someone else's situation or position",
+                    "example": "Before you criticize him, try to put yourself in his shoes and understand what he's going through."
+                },
+                {
+                    "expression": "Pull up your socks",
+                    "meaning": "To make an effort to improve",
+                    "example": "If you want to pass the exam, you'll need to pull up your socks and study harder."
+                }
+            ]
+        },
+        {
+            "category": "Colors",
+            "vocabulary": [
+                {
+                    "word": "Hue",
+                    "partOfSpeech": "n",
+                    "definition": "A color or shade"
+                },
+                {
+                    "word": "Vibrant",
+                    "partOfSpeech": "adj",
+                    "definition": "Bright and striking"
+                },
+                {
+                    "word": "Pastel",
+                    "partOfSpeech": "adj",
+                    "definition": "A soft and delicate shade of a color"
+                },
+                {
+                    "word": "Monochrome",
+                    "partOfSpeech": "adj",
+                    "definition": "Using only one color"
+                },
+                {
+                    "word": "Gradient",
+                    "partOfSpeech": "n",
+                    "definition": "A gradual change from one color to another"
+                },
+                {
+                    "word": "Complementary",
+                    "partOfSpeech": "adj",
+                    "definition": "Colors opposite each other on the color wheel that create a strong contrast"
+                },
+                {
+                    "word": "Primary",
+                    "partOfSpeech": "adj",
+                    "definition": "One of the three basic colors (red, blue, yellow) from which all other colors can be made"
+                },
+                {
+                    "word": "Secondary",
+                    "partOfSpeech": "adj",
+                    "definition": "A color made by mixing two primary colors"
+                },
+                {
+                    "word": "Saturated",
+                    "partOfSpeech": "adj",
+                    "definition": "Very bright, full, and intense (referring to a color)"
+                },
+                {
+                    "word": "Neutral",
+                    "partOfSpeech": "adj",
+                    "definition": "Colors such as black, white, grey, and sometimes brown and beige"
+                },
+                {
+                    "word": "Tint",
+                    "partOfSpeech": "n",
+                    "definition": "A color with white added to it"
+                },
+                {
+                    "word": "Shade",
+                    "partOfSpeech": "n",
+                    "definition": "A color with black added to it"
+                }
+            ],
+            "commonExpressions": [
+                {
+                    "expression": "Paint the town red",
+                    "meaning": "To go out and celebrate in a lively way",
+                    "example": "After graduating, we decided to paint the town red and celebrate all night long."
+                },
+                {
+                    "expression": "Green with envy",
+                    "meaning": "Very jealous",
+                    "example": "When Sarah saw her friend's new car, she was green with envy."
+                },
+                {
+                    "expression": "Out of the blue",
+                    "meaning": "Unexpectedly",
+                    "example": "Out of the blue, my old friend called me after years of no contact."
+                },
+                {
+                    "expression": "See red",
+                    "meaning": "To become very angry",
+                    "example": "When John found out someone had scratched his new car, he saw red."
+                },
+                {
+                    "expression": "Golden opportunity",
+                    "meaning": "An excellent chance for success",
+                    "example": "The internship at the prestigious company was a golden opportunity for the young graduate."
+                },
+                {
+                    "expression": "Black sheep",
+                    "meaning": "A person who is different from the rest of their family or group and is considered bad or embarrassing",
+                    "example": "Tom was always seen as the black sheep of the family because he dropped out of college to pursue his art career."
+                }
+            ]
+        },
+        {
+            "category": "Feelings",
+            "vocabulary": [
+                {
+                    "word": "Apathetic",
+                    "partOfSpeech": "adj",
+                    "definition": "Showing little interest or enthusiasm"
+                },
+                {
+                    "word": "Content",
+                    "partOfSpeech": "adj",
+                    "definition": "In a state of peaceful happiness and satisfaction"
+                },
+                {
+                    "word": "Overwhelmed",
+                    "partOfSpeech": "adj",
+                    "definition": "Feeling buried or drowning beneath a huge mass of something, especially work or stress"
+                },
+                {
+                    "word": "Nostalgic",
+                    "partOfSpeech": "adj",
+                    "definition": "Experiencing or characterized by a sentimental longing for the past"
+                },
+                {
+                    "word": "Euphoric",
+                    "partOfSpeech": "adj",
+                    "definition": "Characterized by or feeling intense excitement and happiness"
+                },
+                {
+                    "word": "Frustrated",
+                    "partOfSpeech": "adj",
+                    "definition": "Feeling or expressing distress and annoyance resulting from an inability to change or achieve something"
+                },
+                {
+                    "word": "Serene",
+                    "partOfSpeech": "adj",
+                    "definition": "Calm, peaceful, and untroubled"
+                },
+                {
+                    "word": "Ambivalent",
+                    "partOfSpeech": "adj",
+                    "definition": "Having mixed feelings or contradictory ideas about something or someone"
+                },
+                {
+                    "word": "Empathetic",
+                    "partOfSpeech": "adj",
+                    "definition": "Showing an ability to understand and share the feelings of another"
+                }
+            ],
+            "commonExpressions": [
+                {
+                    "expression": "On cloud nine",
+                    "meaning": "Extremely happy",
+                    "example": "After getting her dream job, Sarah was on cloud nine for weeks."
+                },
+                {
+                    "expression": "Down in the dumps",
+                    "meaning": "Sad or depressed",
+                    "example": "John has been down in the dumps ever since his dog ran away."
+                },
+                {
+                    "expression": "Butterflies in my stomach",
+                    "meaning": "Nervous or excited about something",
+                    "example": "Before her big presentation, Emily had butterflies in her stomach."
+                },
+                {
+                    "expression": "Wear your heart on your sleeve",
+                    "meaning": "To express your emotions openly",
+                    "example": "Tom always wears his heart on his sleeve, making it easy for everyone to know how he's feeling."
+                },
+                {
+                    "expression": "Mixed feelings",
+                    "meaning": "Having conflicting emotions about something",
+                    "example": "Lisa had mixed feelings about moving to a new city - excited for the opportunity but sad to leave her friends."
+                },
+                {
+                    "expression": "Get it off your chest",
+                    "meaning": "To talk about something that has been troubling you",
+                    "example": "After keeping his worries to himself for weeks, Mike finally decided to get it off his chest and talk to his friend."
+                }
+            ]
+        },
+        {
+            "category": "Household Items & Cooking",
+            "vocabulary": [
+                {
+                    "word": "Appliance",
+                    "partOfSpeech": "n",
+                    "definition": "A device or piece of equipment designed to perform a specific task, typically in the home"
+                },
+                {
+                    "word": "Utensil",
+                    "partOfSpeech": "n",
+                    "definition": "A tool or implement, especially one for household use"
+                },
+                {
+                    "word": "Cuisine",
+                    "partOfSpeech": "n",
+                    "definition": "A style or method of cooking, especially as characteristic of a particular country, region, or establishment"
+                },
+                {
+                    "word": "Recipe",
+                    "partOfSpeech": "n",
+                    "definition": "A set of instructions for preparing a particular dish, including a list of the ingredients required"
+                },
+                {
+                    "word": "Simmer",
+                    "partOfSpeech": "v",
+                    "definition": "Cook or heat food gently at or just below the boiling point"
+                },
+                {
+                    "word": "Marinate",
+                    "partOfSpeech": "v",
+                    "definition": "Soak (meat, fish, or other food) in a marinade"
+                },
+                {
+                    "word": "Garnish",
+                    "partOfSpeech": "n",
+                    "definition": "An ornamental addition to a dish"
+                },
+                {
+                    "word": "Whisk",
+                    "partOfSpeech": "n",
+                    "definition": "A cooking utensil used for beating eggs or cream"
+                },
+                {
+                    "word": "Pantry",
+                    "partOfSpeech": "n",
+                    "definition": "A small room or closet in which food, dishes, and utensils are kept"
+                },
+                {
+                    "word": "Seasoning",
+                    "partOfSpeech": "n",
+                    "definition": "Salt, herbs, or spices added to food to enhance the flavor"
+                },
+                {
+                    "word": "Baste",
+                    "partOfSpeech": "v",
+                    "definition": "Pour juices or melted fat over meat during cooking in order to keep it moist"
+                },
+                {
+                    "word": "Al dente",
+                    "partOfSpeech": "adj",
+                    "definition": "(Of food, typically pasta) cooked so as to be still firm when bitten"
+                }
+            ],
+            "commonExpressions": [
+                {
+                    "expression": "A watched pot never boils",
+                    "meaning": "Used to say that time seems to pass more slowly when you're waiting for something to happen",
+                    "example": "Stop checking the clock every minute. Remember, a watched pot never boils - your package will arrive when it arrives."
+                },
+                {
+                    "expression": "Too many cooks spoil the broth",
+                    "meaning": "Too many people involved in managing an activity can ruin it",
+                    "example": "The project failed because too many cooks spoiled the broth - everyone had different ideas and couldn't agree on anything."
+                },
+                {
+                    "expression": "That's the way the cookie crumbles",
+                    "meaning": "Used to say that bad things happen and you cannot do anything about them",
+                    "example": "I'm sorry you didn't get the job, but that's the way the cookie crumbles sometimes. Keep trying!"
+                },
+                {
+                    "expression": "Out of the frying pan and into the fire",
+                    "meaning": "Going from a bad situation to an even worse one",
+                    "example": "After quitting his stressful job, Tom thought he'd be happier, but his new job was even more demanding - he'd jumped out of the frying pan and into the fire."
+                },
+                {
+                    "expression": "Take it with a pinch of salt",
+                    "meaning": "To not completely believe something you are told",
+                    "example": "You should take John's fishing stories with a pinch of salt - he tends to exaggerate quite a bit."
+                },
+                {
+                    "expression": "Spill the beans",
+                    "meaning": "To reveal secret information",
+                    "example": "I trusted Sarah with my secret, but she spilled the beans to everyone at the party."
+                }
+            ]
+        }
+    ]
+}
