@@ -80,7 +80,7 @@
         ];
 
         function loadVocabulary() {
-            return fetch('vocab.json')
+            return fetch('json/vocab.json')
                 .then(response => response.json())
                 .then(data => {
                     vocabulary = data.vocabulary;

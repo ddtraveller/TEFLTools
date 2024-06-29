@@ -1,0 +1,1 @@
+Copy this folder up to the root of games and it will work with space invaders and hang man.

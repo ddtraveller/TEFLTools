@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Coconut fiber rope",
+    "description": "Sturdy rope made from coconut husks, sold by the kilogram.",
+    "cost": 100
+  },
+  {
+    "name": "Salted fish",
+    "description": "Preserved fish, a staple for long sea voyages, sold by the kilogram.",
+    "cost": 150
+  },
+  {
+    "name": "Timorese coffee beans",
+    "description": "High-quality, organic coffee beans grown in the mountains of Timor-Leste, sold by the kilogram.",
+    "cost": 500
+  },
+  {
+    "name": "Tais cloth",
+    "description": "Traditional hand-woven cloth with intricate patterns, highly valued in Timor-Leste, sold by the kilogram.",
+    "cost": 2000
+  },
+  {
+    "name": "Sandalwood",
+    "description": "Fragrant sandalwood, used for incense and carvings, sold by the kilogram.",
+    "cost": 3000
+  },
+  {
+    "name": "Crocodile leather",
+    "description": "Tough, exotic leather from Timorese crocodiles, used for high-end goods, sold by the kilogram.",
+    "cost": 5000
+  },  
+  {
+    "name": "Rice",
+    "description": "Staple grain, sold by the kilogram.",
+    "cost": 20
+  },
+  {
+    "name": "Corn",
+    "description": "Versatile grain, used for food and feed, sold by the kilogram.",
+    "cost": 25
+  },
+  {
+    "name": "Salt",
+    "description": "Essential mineral for seasoning and preservation, sold by the kilogram.",
+    "cost": 50
+  },
+  {
+    "name": "Sugar",
+    "description": "Sweet crystalline substance, sold by the kilogram.",
+    "cost": 100
+  },
+  {
+    "name": "Palm wine",
+    "description": "Fermented sap from palm trees, a popular alcoholic beverage, sold by the kilogram.",
+    "cost": 150
+  },
+  {
+    "name": "Candlenut oil",
+    "description": "Aromatic oil used for cooking and lighting, sold by the kilogram.",
+    "cost": 250
+  },
+  {
+    "name": "Beeswax",
+    "description": "Natural wax produced by bees, used for candles and crafts, sold by the kilogram.",
+    "cost": 400
+  },
+  {
+    "name": "Teak wood",
+    "description": "Durable, weather-resistant hardwood, sold by the kilogram.",
+    "cost": 500
+  },
+  {
+    "name": "Mahogany wood",
+    "description": "Valuable, reddish-brown hardwood, sold by the kilogram.",
+    "cost": 800
+  },
+  {
+    "name": "Pottery",
+    "description": "Handcrafted clay pottery, sold by the kilogram.",
+    "cost": 150
+  },
+  {
+    "name": "Carvings",
+    "description": "Intricate wood and stone carvings, sold by the kilogram.",
+    "cost": 300
+  },
+  {
+    "name": "Textiles",
+    "description": "Colorful, handwoven textiles, sold by the kilogram.",
+    "cost": 250
+  }
+]

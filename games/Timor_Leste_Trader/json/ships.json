@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Pinnace",
+    "description": "The smallest ship type, a trading vessel with a small crew and a few cannons. Hardly a danger, unless piloted by a captain looking for a quick boarding and relying on skillful fencing to win battles. Will not survive more than a few broadsides by an enemy ship. Favored by enemy pirates in the Timor Sea.",
+    "cost": 10000,
+    "capacity": 100,
+    "guns": 1,
+    "speed": 6,
+    "maneuverability": 8
+  },
+  {
+    "name": "Sloop",
+    "description": "A small combat vessel, relying on its keen maneuvering to confuse enemies while it pummels them with its small-but-potent cannon complement. Suitable for hunting down small or medium vessels, but will be in trouble if hit by a large broadside. Favored by different factions in the Timor Sea in different eras.",
+    "cost": 25000,
+    "capacity": 150,
+    "guns": 4,
+    "speed": 8,
+    "maneuverability": 9
+  },
+  {
+    "name": "Barque",
+    "description": "A mid-sized combat vessel with a good cargo hold. Usually encountered as a Portuguese trading ship in the Timor Sea, it is nimble enough to protect itself from most ship types, and can survive a broadside or two from an enemy ship without too much trouble. Useful for players who want the largest ship that doesn't have too much trouble sailing eastwards or upwind.",
+    "cost": 50000,
+    "capacity": 200,
+    "guns": 8,
+    "speed": 5,
+    "maneuverability": 6
+  },
+  {
+    "name": "Cargo Fluyt",
+    "description": "A mid-sized trader with poor maneuverability and speed for its size. While its cargo space is large, its cannon complement is lacking, and most Fluyts encountered in the Timor Sea are poorly crewed and equipped. This ship is largely unsuitable as a combat vessel, and is sailed only by Dutch traders in the later eras.",
+    "cost": 40000,
+    "capacity": 250,
+    "guns": 6,
+    "speed": 4,
+    "maneuverability": 3
+  },
+  {
+    "name": "Merchantman",
+    "description": "A mid-sized trader with a surprisingly large cannon array and crew capacity. Can carry a large supply of goods, and is not too slow even sailing close-hauled. It is the most maneuverable ship to use square rigging. All major nations use the Merchantman at one era or another in the Timor Sea. Pirates in Merchantmen are quite dangerous.",
+    "cost": 75000,
+    "capacity": 300,
+    "guns": 12,
+    "speed": 6,
+    "maneuverability": 5
+  },
+  {
+    "name": "Frigate",
+    "description": "A heavy but fast combat vessel, designed to take on both large and medium-sized ships. Carries formidable armament and a large crew, but has trouble sailing close-hauled or into the eye of the wind. Favored by non-Portuguese nations, it appears with more frequency during the later eras in the Timor Sea.",
+    "cost": 100000,
+    "capacity": 350,
+    "guns": 24,
+    "speed": 7,
+    "maneuverability": 4
+  },
+  {
+    "name": "Fast Galleon",
+    "description": "A powerful combat vessel comparable to the Frigate, its main strength is in dealing with other heavy ships, though slightly less efficient against small ships that are more likely to escape it. Develops a great speed running before the wind, which means it relies greatly on a good starting position during combat. Used by non-Portuguese nations in the Timor Sea during the earlier eras of the game.",
+    "cost": 120000,
+    "capacity": 400,
+    "guns": 28,
+    "speed": 9,
+    "maneuverability": 3
+  },
+  {
+    "name": "War Galleon",
+    "description": "The heaviest combat vessel in the Timor Sea, typically sporting both a large array of cannons and a large crew. Can cripple most other ships with a single successful broadside. Can't manage going close-hauled, but has amazing speed running before the wind and even at a broad reach. Used by the Portuguese in all eras, primarily for hunting pirates.",
+    "cost": 150000,
+    "capacity": 450,
+    "guns": 36,
+    "speed": 6,
+    "maneuverability": 2
+  },
+  {
+    "name": "Galleon",
+    "description": "The largest and heaviest ship type in the Timor Sea, a massive trader with a huge crew complement and room for the most cannons of all ship types, though it rarely carries a full complement. Incredibly difficult to control at most sailing angles, though it can run very quickly before the wind. When fully armed, a single broadside from a Galleon will sink or cripple most small or mid-sized ships, but it is still easy to outmaneuver the Galleon. Rarely, if ever, used by the Portuguese.",
+    "cost": 200000,
+    "capacity": 500,
+    "guns": 40,
+    "speed": 5,
+    "maneuverability": 1
+  }
+]
