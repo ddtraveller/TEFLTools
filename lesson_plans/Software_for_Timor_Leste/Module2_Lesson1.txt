@@ -90,3 +90,15 @@ Enhance the Timor-Leste tourism website with geolocation features and add microd
    - Embedded multimedia content
    - Tables and lists
    - At least one HTML5 API implementation
+
+## Grammar Points:
+
+- Imperative sentences for instructions: When explaining HTML tags and attributes, use clear, concise imperative sentences. For example, "Add the `<header>` tag to define the top section of your webpage."
+
+- Conditional sentences for explaining browser compatibility: Use if-clauses to discuss browser support for HTML5 features. For instance, "If a browser doesn't support the `<video>` element, it will display the fallback content instead."
+
+- Parallel structure in lists: When listing HTML elements or attributes, maintain parallel structure for clarity. For example, "The semantic elements include `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<aside>`, and `<footer>`."
+
+- Active voice for describing element functions: Use active voice to explain how HTML elements work. For instance, "The `<form>` element creates a container for various input fields."
+
+- Compound sentences for comparing concepts: Use compound sentences to contrast different HTML features. For example, "While `<div>` is a generic container, `<section>` represents a thematic grouping of content."

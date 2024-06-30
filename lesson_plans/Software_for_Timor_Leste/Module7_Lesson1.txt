@@ -68,3 +68,27 @@
 - Daily reading assignments from "Docker Deep Dive"
 - Practice exercises using Docker Playground
 - Prepare incremental parts of the final project throughout the course
+
+Here's a Grammar Points section tailored to the Docker Basics lesson plan:
+
+## Grammar Points:
+
+- Present Simple for describing Docker concepts and functionalities:
+  - "Docker containers *run* isolated applications."
+  - "A Dockerfile *specifies* how to build an image."
+
+- Imperative mood for Docker commands:
+  - "*Pull* the image from Docker Hub."
+  - "*Run* the container with the specified options."
+
+- Present Perfect for discussing Docker experience:
+  - "We *have created* several custom images this week."
+  - "Docker *has become* an essential tool in modern software development."
+
+- Future tense with "will" for describing Docker actions and outcomes:
+  - "This command *will start* a new container."
+  - "The volume *will persist* data even after the container is removed."
+
+- Passive voice for describing Docker processes:
+  - "Images *are built* using Dockerfiles."
+  - "Containers *can be connected* to multiple networks."

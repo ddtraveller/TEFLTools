@@ -215,3 +215,17 @@ This module introduces students to the specific actions of herbs on body systems
 - Textbook: "Medical Herbalism" by David Hoffmann
 - Herbal monographs for each herb discussed
 - Scientific journals on herbal pharmacology and clinical applications
+
+## Grammar Points:
+
+- Use of present tense for describing herbal actions and properties (e.g., "Adaptogens help the body resist stress" rather than "Adaptogens helped the body resist stress")
+
+- Proper use of scientific and botanical terminology, including correct capitalization of plant names (e.g., "Ashwagandha" not "ashwagandha")
+
+- Employing conditional sentences when discussing potential herbal applications (e.g., "If a patient presents with inflammation, turmeric might be considered")
+
+- Utilizing reported speech when discussing research findings or traditional uses of herbs. For example:
+  - Direct speech: The herbalist said, "Echinacea boosts the immune system."
+  - Reported speech: The herbalist stated that Echinacea boosts the immune system.
+
+- Use of comparative and superlative forms when discussing the relative strengths or properties of different herbs (e.g., "Ginger is more warming than peppermint" or "Gentian is one of the most bitter herbs")

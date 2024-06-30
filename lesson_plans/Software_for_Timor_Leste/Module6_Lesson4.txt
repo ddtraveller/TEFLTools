@@ -78,3 +78,27 @@ VII. Conclusion and Q&A (5 minutes)
 ### Additional Resources:
 - Online subnet calculator
 - Wireshark for deeper packet analysis (if time permits in future lessons)
+
+Here's a Grammar Points section for the given lesson plan, formatted as a Markdown list:
+
+## Grammar Points:
+
+1. **Reported Speech**: When discussing network diagnostics, use reported speech to convey information from tools. For example:
+   - Direct: The ping command says, "Request timed out."
+   - Reported: The ping command indicated that the request had timed out.
+
+2. **Conditional Sentences**: Use conditional sentences to explain network behaviors and troubleshooting steps. For example:
+   - "If the IP address is incorrect, the device won't be able to communicate on the network."
+   - "Should the DHCP server fail, clients would not receive IP addresses automatically."
+
+3. **Technical Vocabulary and Articles**: Pay attention to the correct use of articles (a, an, the) with technical terms. For example:
+   - "An IP address" (not "a IP address")
+   - "The OSI model" (using "the" for a specific, known model)
+
+4. **Passive Voice**: Use passive voice when describing network processes where the actor is less important than the action. For example:
+   - "Packets are routed through the network."
+   - "Data is encapsulated as it moves down the OSI layers."
+
+5. **Imperative Mood**: When giving instructions for using networking tools, use the imperative mood. For example:
+   - "Enter the 'ip addr' command to view network interfaces."
+   - "Run 'tcpdump' to capture network traffic."

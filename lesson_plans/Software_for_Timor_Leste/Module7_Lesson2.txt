@@ -304,3 +304,30 @@ Congratulations on completing the course, and best of luck in your future contai
 
 ## Next Lesson Preview
 In the next lesson, we will dive deeper into Kubernetes networking, service discovery, and explore more advanced concepts like Ingress and StatefulSets.
+
+## Grammar Points:
+
+- Use of present simple tense for describing Kubernetes components and their functions:
+  - "The API server acts as the front-end for the Kubernetes control plane."
+  - "The scheduler assigns work to nodes."
+  - Conditional: If a pod fails, the scheduler assigns it to another node.
+
+- Passive voice for explaining Kubernetes processes:
+  - "Containers are managed and orchestrated by Kubernetes."
+  - "Resources are created and managed using kubectl."
+  - Conditional: If a deployment is scaled up, new pods would be created automatically.
+
+- Imperative mood for giving instructions in hands-on activities:
+  - "Write the Kubernetes YAML manifest."
+  - "Deploy the application to the cluster."
+  - Conditional: Should an error occur, check the pod logs for more information.
+
+- Use of modal verbs to discuss Kubernetes capabilities:
+  - "Kubernetes can automatically scale applications."
+  - "Services can provide load balancing for pods."
+  - Conditional: If traffic increases, Kubernetes could automatically scale the deployment.
+
+- Technical vocabulary and acronyms specific to Kubernetes:
+  - "K8s is a common abbreviation for Kubernetes."
+  - "A pod is the smallest deployable unit in Kubernetes."
+  - Conditional: Were you to use a StatefulSet instead of a Deployment, you would have more control over pod naming and ordering.

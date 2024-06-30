@@ -218,3 +218,15 @@ This module focuses on the crucial aspects of safety in herbal medicine. While h
 - Herb-drug interaction checker software or database
 - Current scientific journals on herbal medicine and pharmacology
 - Professional herbalist association guidelines on safety and ethics
+
+## Grammar Points:
+
+- Use of conditional statements (if-then) to discuss potential herb-drug interactions and allergic reactions. For example: "If a client is taking blood thinners, then certain herbs should be avoided."
+
+- Employing the present perfect tense to discuss ongoing research and current knowledge in herbal safety. For instance: "Recent studies have shown that St. John's Wort can interact with several medications."
+
+- Utilizing modal verbs (should, must, may) to express degrees of certainty or obligation in herbal safety protocols. Example: "Herbalists must always check for potential allergies before recommending a new herb."
+
+- Using the passive voice to describe processes and guidelines in herbal medicine safety. For example: "Quality control measures are implemented to ensure the purity of herbal products."
+
+- Incorporating conditional perfect tenses to discuss hypothetical past situations related to herbal safety. For instance: "If the client had disclosed their medication history, the herb-drug interaction could have been avoided."

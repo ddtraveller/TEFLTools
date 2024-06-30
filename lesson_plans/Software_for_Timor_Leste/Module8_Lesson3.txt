@@ -95,3 +95,35 @@ By the end of this lesson, students will be able to:
 
 ### Next Lesson Preview
 In the next lesson, we will explore advanced metrics and analytics, focusing on how to measure and optimize the performance of software systems, including geospatial applications.
+
+## Grammar Points:
+
+- Using the present simple tense to describe geospatial concepts and processes:
+  - "GIS stands for Geographic Information Systems."
+  - "Raster data represents continuous data across a grid."
+  - Question: "What does GIS stand for?"
+  - Negative: "Vector data does not use a grid system."
+
+- Employing the present continuous tense to discuss ongoing geospatial operations:
+  - "The program is calculating the distance between two points."
+  - "We are creating a buffer around the selected features."
+  - Question: "Is the system currently processing the raster data?"
+  - Negative: "The algorithm is not considering elevation data in this analysis."
+
+- Utilizing modal verbs to express possibilities and capabilities in geospatial analysis:
+  - "We can use GeoPandas to perform spatial joins."
+  - "Rasterio may be used for advanced raster operations."
+  - Question: "How can we visualize this geospatial data effectively?"
+  - Negative: "We cannot perform this analysis without proper coordinate system information."
+
+- Applying the imperative mood for giving instructions in Python coding:
+  - "Import the necessary libraries for geospatial analysis."
+  - "Create a new GeoDataFrame from the shapefile."
+  - Question: "How do you read a GeoJSON file using GeoPandas?"
+  - Negative: "Don't forget to close the file after reading the data."
+
+- Using conditional sentences to discuss potential scenarios in geospatial development:
+  - "If we apply a buffer to these points, we can identify nearby features."
+  - "Should the raster data be misaligned, we would need to perform georeferencing."
+  - Question: "What would happen if we changed the coordinate reference system?"
+  - Negative: "If we don't properly handle projections, the analysis results won't be accurate."

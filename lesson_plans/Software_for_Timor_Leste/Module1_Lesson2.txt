@@ -76,3 +76,17 @@ Now, you are prepared to take the test.
 3. (40 min) Hands-on practice: Students write HTML to pass the test
 4. (25 min) Running tests and interpreting results
 5. (5 min) Q&A and wrap-up
+
+Here's a Grammar Points section for the lesson plan, emphasizing the use of Passive Voice and including relevant grammar points:
+
+## Grammar Points:
+
+- Passive Voice: Used frequently in technical documentation and test descriptions. For example, "The file is opened," "The content is read," and "The test is run."
+
+- Imperative Mood: Often used in instructions and commands, such as "Open the file," "Write the test," and "Run the program."
+
+- Conditional Statements: Important for describing test scenarios and expected outcomes. For instance, "If the file contains 'Hello Timor Leste!', the test will pass."
+
+- Present Simple Tense: Commonly used to describe regular actions or states in programming, like "The test checks for specific content" or "The program reads the file."
+
+- Technical Vocabulary: Familiarization with specific terms used in TDD and software testing, such as "assert," "pytest," and "unit test."

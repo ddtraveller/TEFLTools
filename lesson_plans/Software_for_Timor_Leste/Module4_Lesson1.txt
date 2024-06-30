@@ -109,3 +109,23 @@ Use a tree structure to represent and traverse the organizational hierarchy of a
 - Online platforms: LeetCode, HackerRank for algorithm practice
 - Visualizations: AlgoViz for algorithm visualization
 - Python documentation for built-in data structures
+
+Here's a Grammar Points section for the lesson plan, focusing on Modal Verbs and other relevant grammar points:
+
+## Grammar Points:
+
+- Modal Verbs for Expressing Possibility and Necessity:
+  - Use "can" and "could" to discuss the capabilities of algorithms and data structures (e.g., "This algorithm can sort the list in O(n log n) time.")
+  - Use "should" and "must" to emphasize best practices and requirements (e.g., "You should always consider the time complexity when choosing an algorithm.")
+
+- Conditional Sentences for Algorithmic Logic:
+  - Use "if-then" statements to explain algorithmic decision-making (e.g., "If the list is already sorted, then binary search will be more efficient.")
+
+- Comparative and Superlative Adjectives:
+  - Use these to compare different algorithms and data structures (e.g., "Quicksort is generally faster than bubble sort for large datasets.")
+
+- Passive Voice for Describing Processes:
+  - Use passive constructions to explain how algorithms work (e.g., "The array is traversed from left to right during a linear search.")
+
+- Sequencing Words and Phrases:
+  - Use words like "first," "then," "next," and "finally" to describe the steps in an algorithm or the order of operations in a data structure.

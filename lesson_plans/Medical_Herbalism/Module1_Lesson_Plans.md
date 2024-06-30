@@ -341,3 +341,21 @@ Vocabulary:
 8. Salve
 9. Poultice
 10. Contraindication
+
+## Grammar Points:
+
+- Imperative mood for giving instructions: Used when describing preparation methods (e.g., "Boil the water," "Strain the mixture," "Apply the salve").
+
+- Present simple tense for describing processes: Employed when explaining how different preparations work (e.g., "Infusions extract the active compounds," "Tinctures preserve the medicinal properties").
+
+- Passive voice for describing preparation methods: Useful when focusing on the process rather than the person performing it (e.g., "The herbs are soaked in alcohol," "The oil is infused with plant material").
+
+- Questions using "how" and "what" for inquiring about preparation methods:
+  - How is a tincture prepared?
+  - What is the difference between an infusion and a decoction?
+  - How long should the herbs be steeped?
+
+- Negatives for emphasizing safety precautions and contraindications:
+  - Do not use rusty or dirty equipment when preparing herbal remedies.
+  - Never consume a plant you haven't positively identified.
+  - Tinctures should not be prepared with rubbing alcohol.

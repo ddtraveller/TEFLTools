@@ -73,3 +73,29 @@ By the end of this lesson, students will be able to:
 1. Read assigned chapters from the textbook
 2. Create an ER diagram for a simple system of their choice (e.g., a music streaming service, a social media platform)
 3. Write a short paragraph explaining the entities, attributes, and relationships in their diagram
+
+## Grammar Points:
+
+- Passive Voice: Used frequently when describing database operations and structures. For example:
+  - "Data is organized into tables."
+  - "Relationships are established between tables."
+  - "Primary keys are used to uniquely identify rows."
+
+- Noun Phrases: Important for naming and describing database components. Examples:
+  - "Relational database"
+  - "Entity-Relationship diagram"
+  - "Database Management System"
+
+- Conditional Sentences: Useful when explaining database concepts and relationships. For instance:
+  - "If a field is a foreign key, it refers to a primary key in another table."
+  - "When a many-to-many relationship exists, a junction table is often created."
+
+- Technical Vocabulary: Emphasize the correct use of specific terms in context:
+  - "Tables" instead of "spreadsheets"
+  - "Rows" and "columns" instead of "cells"
+  - "Queries" instead of "questions"
+
+- Prepositional Phrases: Often used to describe relationships and locations within a database:
+  - "Data in tables"
+  - "Relationships between entities"
+  - "Keys within a table"

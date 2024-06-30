@@ -76,3 +76,25 @@ Vocabulary:
    Etymology: From Latin varietas "difference, variety"
 10. Nomenclature: The system of names or terms used in a particular field of study
     Etymology: From Latin nomenclatura "calling of names"
+
+## Grammar Points:
+
+1. Use of the present tense for describing scientific concepts:
+   - Example: "Taxonomy is the science of naming, describing, and classifying organisms."
+   - This structure emphasizes the timeless nature of scientific principles.
+
+2. Parallel structure in lists:
+   - Example: "Major ranks in plant taxonomy include Kingdom, Phylum, Class, Order, Family, Genus, and Species."
+   - Using parallel structure helps to clearly present hierarchical information.
+
+3. Compound sentences to connect related ideas:
+   - Example: "The genus name is capitalized, and the species name is lowercase."
+   - This structure allows for the presentation of multiple related rules in a single sentence.
+
+4. Use of passive voice in scientific writing:
+   - Example: "Plants are classified based on their morphological and genetic characteristics."
+   - Passive voice is often used in scientific contexts to emphasize the action or process rather than the actor.
+
+5. Conditional sentences to explain taxonomic rules:
+   - Example: "If a plant belongs to a different genus, it cannot be the same species."
+   - This structure is useful for explaining the logical relationships in taxonomic classification.

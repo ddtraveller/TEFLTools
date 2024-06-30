@@ -60,3 +60,25 @@ Read introductory chapter on Linux in textbook
 Practice basic commands in home directory
 
 This lesson provides a foundational overview of Linux and gets students hands-on with essential navigation and file management tasks. Subsequent lessons can build on these basics to cover more advanced topics.
+
+## Grammar Points:
+
+- Use of adjectives to describe Linux features:
+  - Example: "Linux is an open-source, versatile, and secure operating system."
+  - Emphasize descriptive words like "powerful," "flexible," and "customizable" when discussing Linux.
+
+- Adverbs to explain how commands function:
+  - Example: "The 'ls' command efficiently lists directory contents."
+  - Use adverbs like "quickly," "easily," and "effectively" to describe command operations.
+
+- Imperative mood for giving instructions:
+  - Example: "Type 'cd /home' to change to the home directory."
+  - Use clear, concise language when explaining command syntax and usage.
+
+- Technical terminology and proper nouns:
+  - Example: "The Linux kernel is the core component of the operating system."
+  - Emphasize correct capitalization and spelling of Linux-specific terms and commands.
+
+- Conditional sentences for explaining system behavior:
+  - Example: "If you use 'sudo' before a command, you can execute it with root privileges."
+  - Employ if-then structures to describe cause-and-effect relationships in Linux operations.

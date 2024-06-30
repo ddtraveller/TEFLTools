@@ -155,3 +155,15 @@ This module introduces students to the key phytochemical groups responsible for 
 - Textbook: "Medical Herbalism" by David Hoffmann
 - Online database: PubChem for chemical structures and properties
 - Journal articles on recent phytochemical research
+
+## Grammar Points:
+
+- Present Simple Tense: Used extensively to describe general facts and properties of phytochemicals (e.g., "Alkaloids contain nitrogen," "Terpenes are made up of isoprene units").
+
+- Present Perfect Tense: Useful when discussing research findings or historical uses of medicinal plants (e.g., "Scientists have discovered numerous alkaloids in the poppy plant," "Herbalists have used glycoside-containing plants for centuries").
+
+- Passive Voice: Often employed when describing chemical processes or extraction methods (e.g., "Essential oils are extracted through steam distillation," "Polysaccharides are found in many medicinal plants").
+
+- Conditional Sentences: Helpful when discussing potential effects or applications of phytochemicals (e.g., "If a plant contains high levels of flavonoids, it may have strong antioxidant properties").
+
+- Present Continuous Tense: Can be used to describe ongoing research or current trends in herbal medicine (e.g., "Researchers are currently investigating the effects of cannabinoids on neurological disorders").

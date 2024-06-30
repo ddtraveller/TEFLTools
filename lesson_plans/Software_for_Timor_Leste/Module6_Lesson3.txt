@@ -77,3 +77,27 @@ VII. Conclusion and Q&A (5 minutes)
 - Bash manual (man bash)
 - Online Bash scripting tutorials
 - Sample scripts for common system administration tasks
+
+Here's a Grammar Points section for the lesson plan, focusing on relevant grammar points and emphasizing the use of prepositions in the context of Bash scripting:
+
+## Grammar Points:
+
+1. Use of "in" for describing script contents:
+   - Variables are declared *in* a script.
+   - Control structures are used *in* Bash scripts.
+
+2. Use of "to" for describing script purposes:
+   - Scripts are written *to* automate tasks.
+   - Functions are defined *to* group related commands.
+
+3. Use of "with" for describing script interactions:
+   - Scripts can interact *with* the user through input commands.
+   - Error handling deals *with* unexpected situations.
+
+4. Use of "by" for describing script execution methods:
+   - Scripts are executed *by* the Bash interpreter.
+   - Variables can be set *by* command substitution.
+
+5. Use of "for" in the context of loops and purposes:
+   - For loops are used *for* iterating over lists.
+   - Scripts are created *for* various system administration tasks.

@@ -115,3 +115,27 @@ By the end of this lesson, students will be able to:
 - Official PostgreSQL documentation (https://www.postgresql.org/docs/)
 - PostgreSQL Exercises website (https://pgexercises.com/)
 - "PostgreSQL: Up and Running" by Regina O. Obe and Leo S. Hsu (for further reading)
+
+Here's a Grammar Points section for the PostgreSQL Basics lesson plan, emphasizing sentence structure in the context of the lesson:
+
+## Grammar Points:
+
+1. Imperative sentences for SQL commands:
+   - SQL commands are typically written as imperative sentences without a subject.
+   - Example: "CREATE DATABASE school;" instead of "You should create a database named school."
+
+2. Capitalization conventions in SQL:
+   - SQL keywords are conventionally written in ALL CAPS to distinguish them from table and column names.
+   - Example: "SELECT name FROM students WHERE gpa > 3.5;"
+
+3. Clause order in SQL statements:
+   - SQL statements follow a specific clause order, which is important for readability and correct execution.
+   - Example: In a SELECT statement, the order is typically SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY.
+
+4. Parallel structure in SQL lists:
+   - When listing multiple columns or conditions, maintain parallel structure for clarity.
+   - Example: "SELECT name, email, birth_date FROM students;"
+
+5. Use of semicolons in SQL:
+   - Each SQL statement typically ends with a semicolon to denote the end of the command.
+   - This is particularly important when writing multiple statements in a script or at the psql prompt.

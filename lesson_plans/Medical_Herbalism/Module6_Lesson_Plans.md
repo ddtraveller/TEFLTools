@@ -216,3 +216,15 @@ This module introduces students to various methods of preparing and administerin
 - Herbal preparation equipment and supplies
 - Safety guidelines for handling herbs and preparation materials
 - Reputable online resources for herbal preparation techniques
+
+## Grammar Points:
+
+- Use of colons (:) to introduce lists or explanations, particularly when describing preparation methods, equipment needed, or factors to consider. For example: "Factors influencing preparation choice: herb properties, desired therapeutic effect, patient preferences."
+
+- Proper use of hyphens (-) in compound adjectives related to herbal preparations, such as "weight-to-volume method" or "alcohol-based tincture." This helps clarify the relationship between words and prevents misinterpretation.
+
+- Correct placement of commas (,) in lists of herbs, ingredients, or preparation steps. For instance: "Suitable herbs for teas and infusions include chamomile, peppermint, and lemon balm."
+
+- Appropriate use of parentheses () to provide additional information or examples without disrupting the flow of the sentence. Example: "Suitable herbs for decoctions (e.g., roots, barks, seeds) require longer cooking times."
+
+- Proper capitalization of specific herbal preparation names when used as proper nouns, such as "Folk method" or "Hot process method," to distinguish them from general descriptions.

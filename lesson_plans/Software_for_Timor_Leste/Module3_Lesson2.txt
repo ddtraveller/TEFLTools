@@ -108,3 +108,22 @@ Conduct a small data analysis project using R, focusing on a specific aspect of 
 - R Studio resources and cheat sheets
 - Online R tutorials and courses
 - R for Data Science book (available online)
+
+Here's a Grammar Points section for the R and R Studio lesson plan, focusing on relevant tenses and language structures:
+
+## Grammar Points:
+
+- Present Simple tense for describing R and its features:
+  - Example: "R is a programming language used for statistical computing and graphics."
+
+- Imperative mood for giving instructions in R:
+  - Example: "Create a vector by using the c() function."
+
+- Present Continuous tense for describing ongoing processes in data analysis:
+  - Example: "The script is currently importing the dataset from the CSV file."
+
+- Present Perfect tense for discussing completed actions with current relevance:
+  - Example: "We have created a data frame containing information about Timor-Leste's districts."
+
+- Future Simple tense for describing upcoming tasks or expected results:
+  - Example: "In the next session, we will learn how to visualize data using R's plotting functions."

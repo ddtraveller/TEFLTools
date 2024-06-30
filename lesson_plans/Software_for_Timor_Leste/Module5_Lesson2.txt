@@ -99,3 +99,25 @@ By the end of this lesson, students will be able to:
 ### Additional Resources:
 - Online SQL practice platforms (e.g., SQLZoo, W3Schools SQL Tutorial)
 - Official PostgreSQL documentation for further reading
+
+## Grammar Points:
+
+- **Word Formation**: Understanding how SQL-related terms are formed can aid in comprehension and usage. For example:
+  - Noun to verb: "table" (noun) → "to tabulate" (verb)
+  - Adjective to noun: "relational" (adjective) → "relationship" (noun)
+  - Verb to noun: "query" (verb) → "query" (noun)
+
+- **Imperative Mood**: SQL commands are typically written in the imperative mood, giving direct instructions to the database. For example:
+  - "SELECT * FROM Students;"
+  - "CREATE TABLE Courses;"
+
+- **Capitalization Conventions**: While SQL keywords are case-insensitive, it's common practice to capitalize them for readability. For instance:
+  - "SELECT" instead of "select"
+  - "WHERE" instead of "where"
+
+- **Clause Order**: Understanding the correct order of clauses in SQL statements is crucial. The typical order is:
+  - SELECT → FROM → WHERE → GROUP BY → HAVING → ORDER BY
+
+- **Singular vs. Plural**: When discussing database concepts, be aware of when to use singular or plural forms:
+  - "Table" (singular) when referring to a specific table structure
+  - "Tables" (plural) when discussing multiple tables or joins

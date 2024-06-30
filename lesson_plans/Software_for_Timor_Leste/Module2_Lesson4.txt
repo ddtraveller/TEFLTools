@@ -106,3 +106,13 @@ Create a Python script that processes a text about Timor-Leste, replacing all me
    - Processes and analyzes the extracted data
    - Outputs the results in a structured format (e.g., CSV, JSON)
 4. Write a brief report explaining your regex patterns and the insights gained from the data analysis
+
+Here's a Grammar Points section for the lesson plan on Regular Expressions in Python, emphasizing the use of prepositions:
+
+## Grammar Points:
+
+- Use of "in" when referring to regex patterns: "Find the pattern *in* the text."
+- Use of "with" when describing regex functions: "Match the string *with* the regular expression."
+- Use of "for" when discussing search purposes: "Use regex *for* extracting email addresses."
+- Use of "by" when explaining regex operations: "Replace all occurrences *by* using the re.sub() function."
+- Use of "between" when discussing character ranges: "Match any character *between* a and z."

@@ -201,3 +201,15 @@ This module introduces students to the art of herbal formulation and dosage. Stu
 - Herbal formulary references
 - Dosage calculation tools and charts
 - Scientific journals on herbal pharmacology and clinical applications
+
+## Grammar Points:
+
+- Modal verbs for expressing possibility and necessity: Use of "may," "might," "could," "should," and "must" when discussing potential herb interactions, dosage adjustments, and treatment recommendations. For example: "This herb may interact with certain medications," or "The dosage should be adjusted for elderly patients."
+
+- Conditional sentences for hypothetical situations: Utilizing if-clauses to discuss potential outcomes and treatment scenarios. For instance: "If the patient experiences side effects, the dosage could be reduced," or "If the primary herb is not effective, we might consider an alternative."
+
+- Passive voice for describing processes and preparations: Employing passive constructions when explaining herbal preparation methods or formula creation. For example: "The herbs are combined in specific ratios," or "The tincture is prepared using a 1:5 herb-to-menstruum ratio."
+
+- Imperative mood for giving instructions: Using direct commands when describing steps in formula creation or dosage calculations. For instance: "Select the primary herb based on its affinity for the target system," or "Calculate the dosage according to the patient's weight."
+
+- Comparative and superlative forms: Utilizing these forms to discuss the relative efficacy or appropriateness of different herbs or formulations. For example: "This herb is more effective for acute conditions," or "The tincture form has the fastest onset of action."

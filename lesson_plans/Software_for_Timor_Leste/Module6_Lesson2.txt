@@ -67,3 +67,17 @@ Homework:
 - Create a cron job that runs a simple script (e.g., date logging) every hour
 
 This lesson provides practical experience with managing services and scheduling tasks in CentOS, building on the Linux basics from the previous lesson. It emphasizes hands-on practice with real-world administrative tasks.
+
+Here's a Grammar Points section for the lesson plan, formatted as a Markdown list:
+
+## Grammar Points:
+
+- Use of hyphens in compound adjectives: When describing technical terms, use hyphens to connect words that function as a single adjective before a noun. For example, "hands-on practice" and "real-world administrative tasks."
+
+- Capitalization of proper nouns: Capitalize specific names of operating systems, tools, and commands, such as "CentOS," "Linux," "systemd," and "systemctl." However, keep general terms like "services" and "daemons" in lowercase.
+
+- Punctuation in command syntax: When writing command examples, use angle brackets < > to indicate placeholders for variables. For instance, "systemctl start <service>" shows that "service" should be replaced with an actual service name.
+
+- Use of colons in lists: When introducing a list of items or steps, use a colon at the end of the introductory phrase. For example, "Key systemctl commands:"
+
+- Consistency in bullet point punctuation: When creating bulleted or numbered lists, maintain consistency in punctuation. If using complete sentences, end each point with a period. If using sentence fragments or single words, omit end punctuation.

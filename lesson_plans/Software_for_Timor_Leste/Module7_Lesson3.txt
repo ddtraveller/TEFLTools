@@ -88,3 +88,19 @@ By the end of this lesson, students will be able to:
 
 ## Next Lesson Preview
 In the next lesson, we will explore advanced topics in CI/CD, including blue-green deployments, canary releases, and feature flags.
+
+## Grammar Points:
+
+- Use of imperative mood for CI/CD principles: When discussing CI/CD principles, we often use the imperative mood to give instructions or state rules. For example, "Automate everything" or "Version control everything." This grammatical structure emphasizes the directive nature of these principles.
+
+- Gerunds for describing processes: Many CI/CD concepts are described using gerunds (verb + -ing). For instance, "Setting up automated tests" or "Implementing metric capture." This structure is useful for discussing ongoing processes or actions in the CI/CD pipeline.
+
+- Conditional sentences for discussing potential scenarios: When explaining CI/CD concepts, conditional sentences are often used to describe cause-and-effect relationships. For example, "If the build breaks, stop the line" or "When implementing CI/CD, you will see improved deployment frequency."
+
+- Use of pronouns in CI/CD discussions: Pronouns play a crucial role in maintaining clarity when discussing CI/CD concepts. For example:
+  - "It" can refer to the pipeline: "It automates the build and deployment process."
+  - "They" can refer to the development team: "They implement continuous integration to catch bugs early."
+  - "We" can be used to include the speaker and the audience: "We use CI/CD to improve our software delivery process."
+  - "You" can be used to directly address the learner: "You should configure the build process in your CI/CD tool."
+
+- Technical abbreviations and acronyms: In CI/CD discussions, it's important to introduce and consistently use abbreviations and acronyms. For example, "CI (Continuous Integration)" and "CD (Continuous Delivery/Deployment)" should be clearly defined before using them throughout the lesson.

@@ -246,3 +246,26 @@ This module focuses on developing the skills necessary for thorough patient asse
 - Clinical case studies database
 - Herbal materia medica and formulary references
 - Ethical guidelines for herbal practitioners
+
+## Grammar Points:
+
+- Use of prepositions in medical contexts:
+  - "in herbal medicine" vs. "for herbal medicine"
+  - "on physical examination" vs. "during physical examination"
+  - "with chronic conditions" vs. "for chronic conditions"
+
+- Proper use of medical terminology and adjectives:
+  - "comprehensive assessment" vs. "thorough assessment"
+  - "individualized treatment plan" vs. "personalized treatment plan"
+
+- Conditional sentences for discussing treatment options:
+  - "If the patient presents with X, then consider Y"
+  - "Should the symptoms persist, adjust the treatment plan accordingly"
+
+- Prepositions in describing bodily systems and processes:
+  - "imbalance in the digestive system" vs. "imbalance of the digestive system"
+  - "inflammation throughout the body" vs. "inflammation in the body"
+
+- Use of phrasal verbs in clinical contexts:
+  - "follow up with the patient" vs. "follow the patient up"
+  - "rule out serious conditions" vs. "rule serious conditions out"

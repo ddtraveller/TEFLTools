@@ -60,3 +60,23 @@ Extend the Bitcoin price checker to include additional cryptocurrencies and disp
 - Python requests library documentation
 - CoinGecko API documentation
 - "Python for Finance" by Yves Hilpisch (for more advanced financial applications)
+
+Here's a Grammar Points section for the Bitcoin Price Checker lesson plan, emphasizing the use of Nouns and Articles:
+
+## Grammar Points:
+
+- The use of definite articles ("the") with specific APIs or technologies:
+  - Example: "the CoinGecko API" or "the requests library"
+
+- The use of indefinite articles ("a" or "an") when introducing new concepts:
+  - Example: "a cryptocurrency price API" or "an API request"
+
+- Proper nouns in the context of programming and cryptocurrencies:
+  - Examples: "Python," "Bitcoin," "JSON," "GET request"
+
+- Collective nouns when referring to data or groups of information:
+  - Examples: "price information," "JSON data," "API responses"
+
+- Countable vs. uncountable nouns in programming contexts:
+  - Countable: "libraries," "functions," "requests"
+  - Uncountable: "code," "data," "information"
