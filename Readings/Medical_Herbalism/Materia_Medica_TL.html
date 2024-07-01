@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materia Medica of Timor-Leste Plants</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            margin-bottom: 5px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+        nav ul li a:hover {
+            color: #0066cc;
+        }
+        h1 {
+            color: #0066cc;
+        }
+        h2 {
+            color: #009933;
+            border-bottom: 1px solid #009933;
+            padding-bottom: 5px;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.3.2/markdown-it.min.js"></script>
+</head>
+<body>
+    <h1>Materia Medica of Timor-Leste Plants</h1>
+    
+    <nav>
+        <h2>Table of Contents</h2>
+        <ul id="toc"></ul>
+    </nav>
+    
+    <div id="content"></div>
+
+    <script>
+        const md = window.markdownit();
+
+        fetch('Materia_Medica_TL.md')
+            .then(response => response.text())
+            .then(markdown => {
+                const content = md.render(markdown);
+                document.getElementById('content').innerHTML = content;
+                createTOC();
+            })
+            .catch(error => {
+                console.error('Error loading Markdown file:', error);
+                document.getElementById('content').innerHTML = '<p>Error loading content. Please try again later.</p>';
+            });
+
+        function createTOC() {
+            const contentDiv = document.getElementById('content');
+            const tocList = document.getElementById('toc');
+            const headers = contentDiv.querySelectorAll('h2');
+
+            headers.forEach(header => {
+                const title = header.textContent;
+                const id = header.id || title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+                header.id = id;
+
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = `#${id}`;
+                link.textContent = title;
+                listItem.appendChild(link);
+                tocList.appendChild(listItem);
+            });
+        }
+    </script>
+</body>
+</html>
