@@ -1,0 +1,305 @@
+{
+  "title": "Nutrition and Diet in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the common micronutrient deficiencies in Timor-Leste?",
+      "choices": [
+        "Iron, vitamin A, and iodine",
+        "Calcium, vitamin D, and zinc",
+        "Vitamin C, magnesium, and potassium",
+        "Vitamin B12, folate, and selenium"
+      ],
+      "answer": "Iron, vitamin A, and iodine"
+    },
+    {
+      "question": "What is food fortification?",
+      "choices": [
+        "Adding essential nutrients to food products",
+        "Increasing food production",
+        "Improving food packaging",
+        "Enhancing food flavor"
+      ],
+      "answer": "Adding essential nutrients to food products"
+    },
+    {
+      "question": "What is a balanced diet?",
+      "choices": [
+        "A diet that contains only organic foods",
+        "A diet that excludes all carbohydrates",
+        "A diet that contains proper proportions of carbohydrates, fats, proteins, vitamins, minerals, and water",
+        "A diet that focuses solely on protein intake"
+      ],
+      "answer": "A diet that contains proper proportions of carbohydrates, fats, proteins, vitamins, minerals, and water"
+    },
+    {
+      "question": "What is food security?",
+      "choices": [
+        "The state of having reliable access to a sufficient quantity of affordable, nutritious food",
+        "The ability to grow all your own food",
+        "Having a large stockpile of non-perishable foods",
+        "Implementing strict food safety regulations"
+      ],
+      "answer": "The state of having reliable access to a sufficient quantity of affordable, nutritious food"
+    },
+    {
+      "question": "What is malnutrition?",
+      "choices": [
+        "Eating too much food",
+        "Poor nutrition caused by an insufficient or unbalanced diet or inability to absorb foods",
+        "A diet high in processed foods",
+        "Consuming only raw foods"
+      ],
+      "answer": "Poor nutrition caused by an insufficient or unbalanced diet or inability to absorb foods"
+    },
+    {
+      "question": "What are micronutrients?",
+      "choices": [
+        "Large food particles",
+        "Essential nutrients required in small quantities for normal growth and development",
+        "Artificial food additives",
+        "Bacteria found in fermented foods"
+      ],
+      "answer": "Essential nutrients required in small quantities for normal growth and development"
+    },
+    {
+      "question": "What is a key strategy for improving the nutritional value of traditional dishes?",
+      "choices": [
+        "Completely replacing all ingredients with modern alternatives",
+        "Adding more salt and sugar for flavor",
+        "Incorporating nutrient-dense ingredients while maintaining cultural significance",
+        "Eliminating all traditional cooking methods"
+      ],
+      "answer": "Incorporating nutrient-dense ingredients while maintaining cultural significance"
+    },
+    {
+      "question": "What is the importance of cultural food practices in nutrition education?",
+      "choices": [
+        "They should be completely disregarded in favor of modern nutrition science",
+        "They are crucial for maintaining cultural identity while improving nutrition",
+        "They have no relevance to nutrition",
+        "They should only be practiced on special occasions"
+      ],
+      "answer": "They are crucial for maintaining cultural identity while improving nutrition"
+    },
+    {
+      "question": "What is a potential innovative food product to address nutritional deficiencies in Timor-Leste?",
+      "choices": [
+        "Imported fast food",
+        "Fortified staple foods",
+        "Expensive supplements",
+        "Genetically modified organisms"
+      ],
+      "answer": "Fortified staple foods"
+    },
+    {
+      "question": "What is a key factor contributing to malnutrition in Timor-Leste?",
+      "choices": [
+        "Overabundance of food",
+        "Limited access to diverse, nutritious foods",
+        "Excessive consumption of vitamins",
+        "High protein diets"
+      ],
+      "answer": "Limited access to diverse, nutritious foods"
+    },
+    {
+      "question": "What is the role of nutrition education in addressing malnutrition?",
+      "choices": [
+        "It has no impact on malnutrition",
+        "It only benefits healthcare professionals",
+        "It empowers individuals to make informed food choices",
+        "It focuses solely on weight loss"
+      ],
+      "answer": "It empowers individuals to make informed food choices"
+    },
+    {
+      "question": "What is the significance of local food initiatives in improving nutrition?",
+      "choices": [
+        "They have no impact on nutrition",
+        "They only benefit large corporations",
+        "They can address specific community needs and utilize local resources",
+        "They focus solely on exporting food products"
+      ],
+      "answer": "They can address specific community needs and utilize local resources"
+    },
+    {
+      "question": "What is a key challenge in implementing nutrition interventions in Timor-Leste?",
+      "choices": [
+        "Excessive funding",
+        "Too many nutrition experts",
+        "Limited infrastructure and resources",
+        "Overabundance of food variety"
+      ],
+      "answer": "Limited infrastructure and resources"
+    },
+    {
+      "question": "What is the importance of considering seasonal availability in meal planning?",
+      "choices": [
+        "It has no impact on nutrition",
+        "It ensures access to fresh, nutrient-dense foods and supports local agriculture",
+        "It makes meal planning more difficult",
+        "It only matters for processed foods"
+      ],
+      "answer": "It ensures access to fresh, nutrient-dense foods and supports local agriculture"
+    },
+    {
+      "question": "What is the role of government policies in addressing nutrition issues?",
+      "choices": [
+        "They have no impact on nutrition",
+        "They only benefit politicians",
+        "They can create supportive environments for improved nutrition and food security",
+        "They focus solely on taxing unhealthy foods"
+      ],
+      "answer": "They can create supportive environments for improved nutrition and food security"
+    },
+    {
+      "question": "What is the importance of breastfeeding in early childhood nutrition?",
+      "choices": [
+        "It has no nutritional value",
+        "It only benefits the mother",
+        "It provides essential nutrients and antibodies for infant health",
+        "It is only important in developed countries"
+      ],
+      "answer": "It provides essential nutrients and antibodies for infant health"
+    },
+    {
+      "question": "What is the role of school feeding programs in addressing malnutrition?",
+      "choices": [
+        "They only provide recreation for students",
+        "They have no impact on nutrition",
+        "They can improve student nutrition, attendance, and academic performance",
+        "They focus solely on providing snacks"
+      ],
+      "answer": "They can improve student nutrition, attendance, and academic performance"
+    },
+    {
+      "question": "What is the importance of dietary diversity in nutrition?",
+      "choices": [
+        "It has no impact on nutrition",
+        "It only matters for vegetarians",
+        "It ensures a wide range of nutrients and promotes overall health",
+        "It makes meal planning more complicated"
+      ],
+      "answer": "It ensures a wide range of nutrients and promotes overall health"
+    },
+    {
+      "question": "What is the role of food preservation techniques in improving food security?",
+      "choices": [
+        "They only benefit food manufacturers",
+        "They have no impact on food security",
+        "They can extend food availability and reduce waste",
+        "They focus solely on improving food flavor"
+      ],
+      "answer": "They can extend food availability and reduce waste"
+    },
+    {
+      "question": "What is the importance of addressing water and sanitation issues in nutrition interventions?",
+      "choices": [
+        "They have no relation to nutrition",
+        "They only matter in urban areas",
+        "They are crucial for preventing waterborne diseases and ensuring food safety",
+        "They focus solely on providing bottled water"
+      ],
+      "answer": "They are crucial for preventing waterborne diseases and ensuring food safety"
+    },
+    {
+      "question": "What is the role of community gardens in improving nutrition?",
+      "choices": [
+        "They only provide recreational activities",
+        "They have no impact on nutrition",
+        "They can increase access to fresh produce and promote dietary diversity",
+        "They focus solely on ornamental plants"
+      ],
+      "answer": "They can increase access to fresh produce and promote dietary diversity"
+    },
+    {
+      "question": "What is the importance of nutrition-sensitive agriculture?",
+      "choices": [
+        "It only benefits large-scale farmers",
+        "It has no impact on nutrition",
+        "It aims to produce diverse, nutritious foods and improve dietary quality",
+        "It focuses solely on increasing crop yields"
+      ],
+      "answer": "It aims to produce diverse, nutritious foods and improve dietary quality"
+    },
+    {
+      "question": "What is the role of food labeling in promoting healthy food choices?",
+      "choices": [
+        "It only benefits food manufacturers",
+        "It has no impact on consumer choices",
+        "It provides information to help consumers make informed decisions",
+        "It focuses solely on advertising"
+      ],
+      "answer": "It provides information to help consumers make informed decisions"
+    },
+    {
+      "question": "What is the importance of addressing gender inequality in nutrition interventions?",
+      "choices": [
+        "It has no relation to nutrition",
+        "It only benefits women",
+        "It can improve household food security and child nutrition",
+        "It focuses solely on women's employment"
+      ],
+      "answer": "It can improve household food security and child nutrition"
+    },
+    {
+      "question": "What is the role of nutrition education in schools?",
+      "choices": [
+        "It only benefits nutrition students",
+        "It has no impact on student health",
+        "It can promote healthy eating habits and improve overall student well-being",
+        "It focuses solely on teaching cooking skills"
+      ],
+      "answer": "It can promote healthy eating habits and improve overall student well-being"
+    },
+    {
+      "question": "What is the importance of considering cultural food taboos in nutrition interventions?",
+      "choices": [
+        "They should be completely ignored",
+        "They only matter for religious groups",
+        "Understanding and addressing them can improve the effectiveness of interventions",
+        "They focus solely on restricting food choices"
+      ],
+      "answer": "Understanding and addressing them can improve the effectiveness of interventions"
+    },
+    {
+      "question": "What is the role of food price policies in nutrition?",
+      "choices": [
+        "They only benefit food retailers",
+        "They have no impact on nutrition",
+        "They can influence food choices and access to nutritious foods",
+        "They focus solely on luxury food items"
+      ],
+      "answer": "They can influence food choices and access to nutritious foods"
+    },
+    {
+      "question": "What is the importance of addressing micronutrient deficiencies in pregnancy?",
+      "choices": [
+        "They only matter for vegetarian mothers",
+        "They have no impact on fetal development",
+        "They are crucial for proper fetal growth and development",
+        "They focus solely on weight gain during pregnancy"
+      ],
+      "answer": "They are crucial for proper fetal growth and development"
+    },
+    {
+      "question": "What is the role of food-based dietary guidelines in nutrition education?",
+      "choices": [
+        "They only benefit nutritionists",
+        "They have no practical use",
+        "They provide population-specific recommendations for healthy eating",
+        "They focus solely on restricting food intake"
+      ],
+      "answer": "They provide population-specific recommendations for healthy eating"
+    },
+    {
+      "question": "What is the importance of monitoring and evaluation in nutrition programs?",
+      "choices": [
+        "They only benefit researchers",
+        "They have no impact on program effectiveness",
+        "They help assess program impact and guide improvements",
+        "They focus solely on financial audits"
+      ],
+      "answer": "They help assess program impact and guide improvements"
+    }
+  ]
+}

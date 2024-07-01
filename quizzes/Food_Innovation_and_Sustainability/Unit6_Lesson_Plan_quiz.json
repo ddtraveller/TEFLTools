@@ -1,0 +1,305 @@
+{
+  "title": "Food Entrepreneurship",
+  "questions": [
+    {
+      "question": "What is a business plan?",
+      "choices": [
+        "A list of business expenses",
+        "A formal document outlining a business's goals and how it plans to achieve them",
+        "A marketing strategy",
+        "A financial statement"
+      ],
+      "answer": "A formal document outlining a business's goals and how it plans to achieve them"
+    },
+    {
+      "question": "What does USP stand for in business terms?",
+      "choices": [
+        "Universal Sales Process",
+        "Unique Selling Proposition",
+        "Unified Service Platform",
+        "Ultimate Success Plan"
+      ],
+      "answer": "Unique Selling Proposition"
+    },
+    {
+      "question": "What is the break-even point?",
+      "choices": [
+        "The point at which total revenue equals total costs",
+        "The point at which a business starts making profit",
+        "The point at which a business declares bankruptcy",
+        "The point at which a business reaches its maximum sales"
+      ],
+      "answer": "The point at which total revenue equals total costs"
+    },
+    {
+      "question": "What is cash flow?",
+      "choices": [
+        "The total amount of money a business has in the bank",
+        "The movement of money in and out of a business",
+        "The profit a business makes in a year",
+        "The amount of cash kept on hand for daily operations"
+      ],
+      "answer": "The movement of money in and out of a business"
+    },
+    {
+      "question": "What is brand identity?",
+      "choices": [
+        "The legal name of a business",
+        "The visible elements of a brand that identify and distinguish it in consumers' minds",
+        "The personality of the business owner",
+        "The target market of a business"
+      ],
+      "answer": "The visible elements of a brand that identify and distinguish it in consumers' minds"
+    },
+    {
+      "question": "What is market analysis?",
+      "choices": [
+        "The process of selling products in a market",
+        "Research to understand the target market, competitors, and industry trends",
+        "The analysis of a company's financial statements",
+        "The process of pricing products"
+      ],
+      "answer": "Research to understand the target market, competitors, and industry trends"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a business plan?",
+      "choices": [
+        "Executive summary",
+        "Market analysis",
+        "Financial projections",
+        "Employee personal information"
+      ],
+      "answer": "Employee personal information"
+    },
+    {
+      "question": "What is the purpose of a unique selling proposition (USP)?",
+      "choices": [
+        "To increase the price of a product",
+        "To set a product apart from its competitors",
+        "To reduce production costs",
+        "To comply with legal requirements"
+      ],
+      "answer": "To set a product apart from its competitors"
+    },
+    {
+      "question": "Which financial statement shows a company's revenues and expenses over a period of time?",
+      "choices": [
+        "Balance sheet",
+        "Cash flow statement",
+        "Income statement",
+        "Statement of retained earnings"
+      ],
+      "answer": "Income statement"
+    },
+    {
+      "question": "What is the primary purpose of packaging in food products?",
+      "choices": [
+        "To increase the weight of the product",
+        "To protect the product and attract consumers",
+        "To make the product more expensive",
+        "To comply with shipping regulations"
+      ],
+      "answer": "To protect the product and attract consumers"
+    },
+    {
+      "question": "What is a pricing strategy that sets the price slightly below a round number?",
+      "choices": [
+        "Cost-plus pricing",
+        "Value-based pricing",
+        "Psychological pricing",
+        "Competitive pricing"
+      ],
+      "answer": "Psychological pricing"
+    },
+    {
+      "question": "What is the term for the group of consumers a business aims to serve?",
+      "choices": [
+        "Market segment",
+        "Consumer base",
+        "Target market",
+        "Customer pool"
+      ],
+      "answer": "Target market"
+    },
+    {
+      "question": "Which of the following is NOT a common component of a marketing strategy?",
+      "choices": [
+        "Product",
+        "Price",
+        "Promotion",
+        "Production"
+      ],
+      "answer": "Production"
+    },
+    {
+      "question": "What is the purpose of a SWOT analysis in business planning?",
+      "choices": [
+        "To determine product pricing",
+        "To identify strengths, weaknesses, opportunities, and threats",
+        "To calculate profit margins",
+        "To design marketing materials"
+      ],
+      "answer": "To identify strengths, weaknesses, opportunities, and threats"
+    },
+    {
+      "question": "What does ROI stand for in business terms?",
+      "choices": [
+        "Return on Investment",
+        "Rate of Inflation",
+        "Risk of Insolvency",
+        "Retail Operating Income"
+      ],
+      "answer": "Return on Investment"
+    },
+    {
+      "question": "What is the term for the total amount of money earned from sales before expenses are deducted?",
+      "choices": [
+        "Net income",
+        "Gross revenue",
+        "Profit margin",
+        "Operating income"
+      ],
+      "answer": "Gross revenue"
+    },
+    {
+      "question": "Which of the following is an example of a fixed cost for a food business?",
+      "choices": [
+        "Ingredients",
+        "Hourly wages",
+        "Rent for kitchen space",
+        "Packaging materials"
+      ],
+      "answer": "Rent for kitchen space"
+    },
+    {
+      "question": "What is the term for the process of creating and maintaining a consistent brand image across all marketing materials?",
+      "choices": [
+        "Brand positioning",
+        "Brand equity",
+        "Brand consistency",
+        "Brand loyalty"
+      ],
+      "answer": "Brand consistency"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a startup cost for a food business?",
+      "choices": [
+        "Kitchen equipment",
+        "Business licenses",
+        "Initial inventory",
+        "First year's profit"
+      ],
+      "answer": "First year's profit"
+    },
+    {
+      "question": "What is the term for the difference between a product's selling price and its cost of production?",
+      "choices": [
+        "Profit margin",
+        "Mark-up",
+        "Break-even point",
+        "Cost-benefit ratio"
+      ],
+      "answer": "Profit margin"
+    },
+    {
+      "question": "Which of the following is an example of intellectual property in the food industry?",
+      "choices": [
+        "A restaurant's location",
+        "A secret recipe",
+        "The price of a menu item",
+        "The number of employees"
+      ],
+      "answer": "A secret recipe"
+    },
+    {
+      "question": "What is the purpose of a mission statement for a food business?",
+      "choices": [
+        "To list all menu items",
+        "To describe the daily operations",
+        "To articulate the company's purpose and values",
+        "To outline the financial projections"
+      ],
+      "answer": "To articulate the company's purpose and values"
+    },
+    {
+      "question": "Which of the following is an example of a variable cost in food production?",
+      "choices": [
+        "Kitchen equipment depreciation",
+        "Rent for the production facility",
+        "Salaries of full-time staff",
+        "Cost of ingredients"
+      ],
+      "answer": "Cost of ingredients"
+    },
+    {
+      "question": "What is the term for the process of dividing a market into distinct groups of buyers with different needs, characteristics, or behaviors?",
+      "choices": [
+        "Market penetration",
+        "Market segmentation",
+        "Market saturation",
+        "Market orientation"
+      ],
+      "answer": "Market segmentation"
+    },
+    {
+      "question": "Which financial statement provides a snapshot of a company's assets, liabilities, and owner's equity at a specific point in time?",
+      "choices": [
+        "Income statement",
+        "Cash flow statement",
+        "Balance sheet",
+        "Statement of retained earnings"
+      ],
+      "answer": "Balance sheet"
+    },
+    {
+      "question": "What is the term for the strategy of setting a high initial price for a new product to maximize profits?",
+      "choices": [
+        "Penetration pricing",
+        "Skimming pricing",
+        "Cost-plus pricing",
+        "Value-based pricing"
+      ],
+      "answer": "Skimming pricing"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a food product's nutrition label?",
+      "choices": [
+        "Calories",
+        "Protein content",
+        "Vitamin percentages",
+        "Production date"
+      ],
+      "answer": "Production date"
+    },
+    {
+      "question": "What is the term for the total amount of money a business owes to suppliers, lenders, and other creditors?",
+      "choices": [
+        "Assets",
+        "Equity",
+        "Liabilities",
+        "Revenue"
+      ],
+      "answer": "Liabilities"
+    },
+    {
+      "question": "Which of the following is an example of a qualitative market research method?",
+      "choices": [
+        "Surveys with closed-ended questions",
+        "Focus groups",
+        "Sales data analysis",
+        "Website traffic statistics"
+      ],
+      "answer": "Focus groups"
+    },
+    {
+      "question": "What is the term for the process of estimating future financial performance based on past data and market trends?",
+      "choices": [
+        "Financial modeling",
+        "Budgeting",
+        "Bookkeeping",
+        "Auditing"
+      ],
+      "answer": "Financial modeling"
+    }
+  ]
+}

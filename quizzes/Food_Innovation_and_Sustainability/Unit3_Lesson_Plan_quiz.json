@@ -1,0 +1,305 @@
+{
+  "title": "Food Safety and Hygiene",
+  "questions": [
+    {
+      "question": "What are the four key principles of food safety?",
+      "choices": [
+        "Clean, Separate, Cook, and Chill",
+        "Wash, Dry, Store, and Serve",
+        "Prepare, Cook, Cool, and Reheat",
+        "Buy, Clean, Cook, and Eat"
+      ],
+      "answer": "Clean, Separate, Cook, and Chill"
+    },
+    {
+      "question": "What is cross-contamination?",
+      "choices": [
+        "The transfer of harmful bacteria from one food, surface, or person to another",
+        "The process of cooking food at high temperatures",
+        "The mixing of different food groups",
+        "The use of contaminated water in food preparation"
+      ],
+      "answer": "The transfer of harmful bacteria from one food, surface, or person to another"
+    },
+    {
+      "question": "What is a foodborne illness?",
+      "choices": [
+        "A disease caused by consuming contaminated food or drink",
+        "An allergy to certain types of food",
+        "A nutritional deficiency",
+        "A condition caused by overeating"
+      ],
+      "answer": "A disease caused by consuming contaminated food or drink"
+    },
+    {
+      "question": "What is a pathogen?",
+      "choices": [
+        "A microorganism that can cause disease",
+        "A type of food preservative",
+        "A cleaning agent used in kitchens",
+        "A cooking utensil"
+      ],
+      "answer": "A microorganism that can cause disease"
+    },
+    {
+      "question": "What does time-temperature control refer to?",
+      "choices": [
+        "Managing the time and temperature of food to inhibit bacterial growth",
+        "Cooking food for a specific amount of time",
+        "Storing food at room temperature",
+        "Rapidly cooling hot food"
+      ],
+      "answer": "Managing the time and temperature of food to inhibit bacterial growth"
+    },
+    {
+      "question": "What is personal hygiene in the context of food safety?",
+      "choices": [
+        "Practices that maintain cleanliness and health of an individual",
+        "Wearing expensive clothing while cooking",
+        "Using strong perfumes in the kitchen",
+        "Tasting food while cooking"
+      ],
+      "answer": "Practices that maintain cleanliness and health of an individual"
+    },
+    {
+      "question": "What is sanitization?",
+      "choices": [
+        "The process of reducing the number of microorganisms on a surface to safe levels",
+        "The process of cooking food thoroughly",
+        "The act of washing dishes with soap",
+        "The method of storing food in a refrigerator"
+      ],
+      "answer": "The process of reducing the number of microorganisms on a surface to safe levels"
+    },
+    {
+      "question": "What is the proper technique for handwashing?",
+      "choices": [
+        "Wash with soap and warm water for at least 20 seconds, scrubbing all surfaces",
+        "Rinse hands quickly under cold water",
+        "Use hand sanitizer only",
+        "Wipe hands on a clean towel"
+      ],
+      "answer": "Wash with soap and warm water for at least 20 seconds, scrubbing all surfaces"
+    },
+    {
+      "question": "Why is it important to wear clean uniforms in food preparation?",
+      "choices": [
+        "To prevent contamination from dirty clothing",
+        "To look professional",
+        "To stay warm in the kitchen",
+        "To avoid staining personal clothes"
+      ],
+      "answer": "To prevent contamination from dirty clothing"
+    },
+    {
+      "question": "What is the purpose of using hair restraints in food preparation?",
+      "choices": [
+        "To prevent hair from falling into food",
+        "To keep the chef cool",
+        "To make the chef look professional",
+        "To protect hair from heat damage"
+      ],
+      "answer": "To prevent hair from falling into food"
+    },
+    {
+      "question": "What is the importance of complying with local food safety regulations?",
+      "choices": [
+        "To ensure public health and safety",
+        "To avoid fines and penalties",
+        "To increase profits",
+        "To attract more customers"
+      ],
+      "answer": "To ensure public health and safety"
+    },
+    {
+      "question": "What should be done with perishable foods that have been left at room temperature for more than 2 hours?",
+      "choices": [
+        "Discard them",
+        "Refrigerate them immediately",
+        "Cook them thoroughly",
+        "Freeze them"
+      ],
+      "answer": "Discard them"
+    },
+    {
+      "question": "What is the 'danger zone' temperature range for food?",
+      "choices": [
+        "Between 40\u00b0F and 140\u00b0F (4\u00b0C and 60\u00b0C)",
+        "Between 0\u00b0F and 32\u00b0F (-18\u00b0C and 0\u00b0C)",
+        "Between 140\u00b0F and 165\u00b0F (60\u00b0C and 74\u00b0C)",
+        "Between 165\u00b0F and 212\u00b0F (74\u00b0C and 100\u00b0C)"
+      ],
+      "answer": "Between 40\u00b0F and 140\u00b0F (4\u00b0C and 60\u00b0C)"
+    },
+    {
+      "question": "What is the recommended method for thawing frozen food safely?",
+      "choices": [
+        "In the refrigerator",
+        "On the kitchen counter",
+        "In hot water",
+        "In direct sunlight"
+      ],
+      "answer": "In the refrigerator"
+    },
+    {
+      "question": "How often should cutting boards and other food preparation surfaces be sanitized?",
+      "choices": [
+        "After each use",
+        "Once a day",
+        "Once a week",
+        "Once a month"
+      ],
+      "answer": "After each use"
+    },
+    {
+      "question": "What is the purpose of using separate cutting boards for raw meat and vegetables?",
+      "choices": [
+        "To prevent cross-contamination",
+        "To save time",
+        "To use less dishwashing soap",
+        "To color-code the kitchen"
+      ],
+      "answer": "To prevent cross-contamination"
+    },
+    {
+      "question": "What is the recommended internal temperature for cooking chicken?",
+      "choices": [
+        "165\u00b0F (74\u00b0C)",
+        "145\u00b0F (63\u00b0C)",
+        "135\u00b0F (57\u00b0C)",
+        "180\u00b0F (82\u00b0C)"
+      ],
+      "answer": "165\u00b0F (74\u00b0C)"
+    },
+    {
+      "question": "How should leftovers be stored to ensure food safety?",
+      "choices": [
+        "In shallow containers in the refrigerator",
+        "In deep containers at room temperature",
+        "Covered with a cloth on the counter",
+        "In the oven overnight"
+      ],
+      "answer": "In shallow containers in the refrigerator"
+    },
+    {
+      "question": "What is the maximum time that perishable food should be left in the 'danger zone' temperature?",
+      "choices": [
+        "2 hours",
+        "4 hours",
+        "6 hours",
+        "8 hours"
+      ],
+      "answer": "2 hours"
+    },
+    {
+      "question": "What is the first step in cleaning and sanitizing kitchen equipment?",
+      "choices": [
+        "Scrape or rinse off visible food particles",
+        "Apply sanitizer",
+        "Dry with a clean towel",
+        "Soak in hot water"
+      ],
+      "answer": "Scrape or rinse off visible food particles"
+    },
+    {
+      "question": "Which of the following is NOT a common cause of foodborne illness?",
+      "choices": [
+        "Overcooking food",
+        "Poor personal hygiene",
+        "Cross-contamination",
+        "Inadequate cooking temperatures"
+      ],
+      "answer": "Overcooking food"
+    },
+    {
+      "question": "What is the purpose of using a food thermometer?",
+      "choices": [
+        "To ensure food has reached a safe internal temperature",
+        "To make food look more appealing",
+        "To speed up the cooking process",
+        "To add flavor to the food"
+      ],
+      "answer": "To ensure food has reached a safe internal temperature"
+    },
+    {
+      "question": "How should raw meat be stored in a refrigerator?",
+      "choices": [
+        "On the bottom shelf",
+        "On the top shelf",
+        "In the door",
+        "Next to ready-to-eat foods"
+      ],
+      "answer": "On the bottom shelf"
+    },
+    {
+      "question": "What is the correct order for washing dishes?",
+      "choices": [
+        "Rinse, wash, sanitize",
+        "Wash, rinse, sanitize",
+        "Sanitize, wash, rinse",
+        "Wash, sanitize, rinse"
+      ],
+      "answer": "Wash, rinse, sanitize"
+    },
+    {
+      "question": "Which of the following is NOT a safe method for cooling hot food quickly?",
+      "choices": [
+        "Leaving it on the counter at room temperature",
+        "Using an ice bath",
+        "Dividing into smaller portions",
+        "Using a blast chiller"
+      ],
+      "answer": "Leaving it on the counter at room temperature"
+    },
+    {
+      "question": "What is the recommended temperature for a refrigerator to keep food safe?",
+      "choices": [
+        "40\u00b0F (4\u00b0C) or below",
+        "50\u00b0F (10\u00b0C) or below",
+        "60\u00b0F (16\u00b0C) or below",
+        "70\u00b0F (21\u00b0C) or below"
+      ],
+      "answer": "40\u00b0F (4\u00b0C) or below"
+    },
+    {
+      "question": "Which of the following is an example of a high-risk food?",
+      "choices": [
+        "Raw chicken",
+        "Bread",
+        "Dry pasta",
+        "Canned vegetables"
+      ],
+      "answer": "Raw chicken"
+    },
+    {
+      "question": "What is the purpose of the 'first in, first out' (FIFO) method in food storage?",
+      "choices": [
+        "To ensure older products are used before newer ones",
+        "To organize food by color",
+        "To separate raw and cooked foods",
+        "To maximize storage space"
+      ],
+      "answer": "To ensure older products are used before newer ones"
+    },
+    {
+      "question": "What should you do if you have a cut or wound on your hand while preparing food?",
+      "choices": [
+        "Cover it with a waterproof bandage and wear a glove",
+        "Ignore it and continue working",
+        "Run it under cold water",
+        "Apply ointment and continue working"
+      ],
+      "answer": "Cover it with a waterproof bandage and wear a glove"
+    },
+    {
+      "question": "Which of the following is NOT a proper way to test if food is cooked thoroughly?",
+      "choices": [
+        "Tasting it",
+        "Using a food thermometer",
+        "Checking the color",
+        "Observing steam"
+      ],
+      "answer": "Tasting it"
+    }
+  ]
+}

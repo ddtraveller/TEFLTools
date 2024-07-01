@@ -22,7 +22,7 @@ def load_file_content(file_path):
 def generate_quiz(module_content, context_files, attempt=1):
     """Generate a quiz JSON using Claude."""
     context = "\n\n".join([f"File: {file}\n\nContent:\n{content}" for file, content in context_files.items()])
-    prompt = f"""Given the following module content and additional context files from a fiction writing course:
+    prompt = f"""Given the following module content and additional context files from a course:
 
 Module Content:
 {module_content}
@@ -38,10 +38,10 @@ Please generate a JSON file containing a multiple-choice quiz based on this modu
     {{
       "question": "Question text",
       "choices": [
-        "Choice A",
+        "Choice A", 
         "Choice B",
         "Choice C",
-        "Choice D"
+        "Choice D"  
       ],
       "answer": "Correct choice"
     }},
@@ -121,22 +121,17 @@ def validate_and_process_quiz(quiz_json, module_name, attempt=1):
     
     return None
 
-def process_module_folder(module_path):
-    """Process a single module folder."""
-    module_name = os.path.basename(module_path)
-    module_file = os.path.join(module_path, f"{module_name}.md")
-    
-    if not os.path.exists(module_file):
-        logging.error(f"Module file not found: {module_file}")
-        return
-    
-    module_content = load_file_content(module_file)
+def process_file(file_path):
+    """Process a single file."""
+    module_name = os.path.splitext(os.path.basename(file_path))[0]
+    module_content = load_file_content(file_path)
     
     context_files = {}
-    for file in os.listdir(module_path):
-        if file.endswith(('.md', '.txt')) and file != f"{module_name}.md":
-            file_path = os.path.join(module_path, file)
-            context_files[file] = load_file_content(file_path)
+    module_dir = os.path.dirname(file_path)
+    for file in os.listdir(module_dir):
+        if file.endswith(('.md', '.txt')) and file != os.path.basename(file_path):
+            context_file_path = os.path.join(module_dir, file)
+            context_files[file] = load_file_content(context_file_path)
     
     quiz_json = None
     attempts = 0
@@ -148,7 +143,7 @@ def process_module_folder(module_path):
         quiz_json = validate_and_process_quiz(raw_quiz_json, module_name, attempts)
 
     if quiz_json:
-        output_dir = os.path.abspath(os.path.join(os.getcwd(), '..', 'quizzes', 'Fiction_Writing'))
+        output_dir = os.path.abspath(os.path.join(os.getcwd(), '..', 'quizzes'))
         os.makedirs(output_dir, exist_ok=True)
         output_file = os.path.join(output_dir, f"{module_name}_quiz.json")
         
@@ -161,18 +156,24 @@ def process_module_folder(module_path):
     else:
         logging.error(f"Failed to generate a valid quiz with at least 30 questions for {module_name} after {max_attempts} attempts.")
 
+def process_directory(directory):
+    """Recursively process files in a directory."""
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.endswith(('.md', '.txt')) and any(keyword in file.lower() for keyword in ['unit', 'week', 'module']):
+                file_path = os.path.join(root, file)
+                logging.info(f"Processing {file_path}...")
+                process_file(file_path)
+
 def main():
-    fiction_writing_dir = os.path.abspath(os.path.join(os.getcwd(), 'Fiction_Writing'))
+    input_dir = input("Enter the directory to process: ")
+    input_dir = os.path.abspath(input_dir)
     
-    if not os.path.exists(fiction_writing_dir):
-        logging.error(f"Error: Fiction_Writing directory not found at {fiction_writing_dir}")
+    if not os.path.exists(input_dir):
+        logging.error(f"Error: Input directory not found at {input_dir}")
         return
     
-    for folder in os.listdir(fiction_writing_dir):
-        if folder.startswith('Module_') and folder[7:].isdigit():
-            module_path = os.path.join(fiction_writing_dir, folder)
-            logging.info(f"Processing {folder}...")
-            process_module_folder(module_path)
+    process_directory(input_dir)
     
     logging.info("Script execution completed.")
 

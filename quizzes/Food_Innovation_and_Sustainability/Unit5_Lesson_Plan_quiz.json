@@ -1,0 +1,295 @@
+{
+  "title": "Sustainable Food Systems and Timorese Cuisine",
+  "questions": [
+    {
+      "question": "What are the three pillars of sustainability in food production?",
+      "choices": [
+        "Environmental, economic, and social",
+        "Agricultural, industrial, and commercial",
+        "Local, national, and global",
+        "Production, distribution, and consumption"
+      ],
+      "answer": "Environmental, economic, and social"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge for food production in Timor-Leste?",
+      "choices": [
+        "Climate change impacts",
+        "Soil degradation",
+        "Water scarcity",
+        "Overproduction of crops"
+      ],
+      "answer": "Overproduction of crops"
+    },
+    {
+      "question": "What is agroecology?",
+      "choices": [
+        "The study of agricultural economics",
+        "An ecological approach to agriculture that promotes sustainable farming practices",
+        "The science of crop rotation",
+        "A method of intensive farming"
+      ],
+      "answer": "An ecological approach to agriculture that promotes sustainable farming practices"
+    },
+    {
+      "question": "Which of the following is a key principle of food safety?",
+      "choices": [
+        "Maximize production",
+        "Increase shelf life",
+        "Clean, Separate, Cook, and Chill",
+        "Prioritize appearance over quality"
+      ],
+      "answer": "Clean, Separate, Cook, and Chill"
+    },
+    {
+      "question": "What is cross-contamination in food safety?",
+      "choices": [
+        "Mixing different types of food",
+        "Cooking food at high temperatures",
+        "The transfer of harmful bacteria from one food, surface, or person to another",
+        "Using the same utensil for multiple dishes"
+      ],
+      "answer": "The transfer of harmful bacteria from one food, surface, or person to another"
+    },
+    {
+      "question": "Which of the following is a common micronutrient deficiency in Timor-Leste?",
+      "choices": [
+        "Vitamin C",
+        "Iron",
+        "Calcium",
+        "Vitamin B12"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is food fortification?",
+      "choices": [
+        "The process of making food last longer",
+        "Adding preservatives to food",
+        "The addition of essential nutrients to food products to improve their nutritional value",
+        "Increasing the calorie content of food"
+      ],
+      "answer": "The addition of essential nutrients to food products to improve their nutritional value"
+    },
+    {
+      "question": "Which of the following is a traditional ingredient in Timorese cuisine?",
+      "choices": [
+        "Quinoa",
+        "Moringa leaves",
+        "Kale",
+        "Chia seeds"
+      ],
+      "answer": "Moringa leaves"
+    },
+    {
+      "question": "What is sustainable harvesting?",
+      "choices": [
+        "Collecting as much as possible in one harvest",
+        "Using machinery for faster harvesting",
+        "Collecting plants or plant parts in a way that allows for continued growth and regeneration",
+        "Harvesting only during certain seasons"
+      ],
+      "answer": "Collecting plants or plant parts in a way that allows for continued growth and regeneration"
+    },
+    {
+      "question": "What is a unique selling proposition (USP) in food entrepreneurship?",
+      "choices": [
+        "The lowest price in the market",
+        "The most expensive product",
+        "A feature or benefit that sets a product apart from its competitors",
+        "The ability to produce large quantities"
+      ],
+      "answer": "A feature or benefit that sets a product apart from its competitors"
+    },
+    {
+      "question": "What is the break-even point in business?",
+      "choices": [
+        "The point at which a business starts making profit",
+        "The point at which total revenue equals total costs",
+        "The maximum production capacity",
+        "The point at which a business should close down"
+      ],
+      "answer": "The point at which total revenue equals total costs"
+    },
+    {
+      "question": "Which of the following is a staple food in Timorese cuisine?",
+      "choices": [
+        "Wheat",
+        "Quinoa",
+        "Cassava",
+        "Barley"
+      ],
+      "answer": "Cassava"
+    },
+    {
+      "question": "What is the primary colonial influence on Timorese cuisine?",
+      "choices": [
+        "British",
+        "Dutch",
+        "Portuguese",
+        "French"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "question": "What is food security?",
+      "choices": [
+        "Having armed guards at food storage facilities",
+        "The state of having reliable access to a sufficient quantity of affordable, nutritious food",
+        "Keeping food locked away from thieves",
+        "Only eating food you grow yourself"
+      ],
+      "answer": "The state of having reliable access to a sufficient quantity of affordable, nutritious food"
+    },
+    {
+      "question": "Which of the following is NOT a common spice used in Timorese cuisine?",
+      "choices": [
+        "Chili",
+        "Ginger",
+        "Turmeric",
+        "Saffron"
+      ],
+      "answer": "Saffron"
+    },
+    {
+      "question": "What is community outreach in the context of food systems?",
+      "choices": [
+        "Selling food to the community",
+        "Activities and strategies used to connect with and engage members of a community",
+        "Giving away free food",
+        "Advertising in local newspapers"
+      ],
+      "answer": "Activities and strategies used to connect with and engage members of a community"
+    },
+    {
+      "question": "What is intergenerational knowledge transfer in food culture?",
+      "choices": [
+        "Teaching cooking only to children",
+        "Keeping family recipes secret",
+        "The process of passing down culinary traditions and skills across generations",
+        "Learning new recipes from the internet"
+      ],
+      "answer": "The process of passing down culinary traditions and skills across generations"
+    },
+    {
+      "question": "Which of the following is a key challenge in nutrition for Timor-Leste?",
+      "choices": [
+        "Obesity epidemic",
+        "Overconsumption of protein",
+        "Malnutrition",
+        "Excessive vitamin intake"
+      ],
+      "answer": "Malnutrition"
+    },
+    {
+      "question": "What is agroforestry?",
+      "choices": [
+        "The practice of planting trees in cities",
+        "A land use management system that combines trees with crops or livestock",
+        "Clearing forests for agriculture",
+        "Using forest products in cooking"
+      ],
+      "answer": "A land use management system that combines trees with crops or livestock"
+    },
+    {
+      "question": "What is biodiversity in the context of food systems?",
+      "choices": [
+        "The variety of processed foods available",
+        "The number of restaurants in an area",
+        "The variety of plant and animal life in a particular habitat or ecosystem",
+        "The different cooking methods used in a cuisine"
+      ],
+      "answer": "The variety of plant and animal life in a particular habitat or ecosystem"
+    },
+    {
+      "question": "What is climate resilience in agriculture?",
+      "choices": [
+        "The ability to grow crops in any climate",
+        "Using only greenhouse farming methods",
+        "The ability to anticipate, prepare for, and respond to climate-related events and trends",
+        "Focusing only on drought-resistant crops"
+      ],
+      "answer": "The ability to anticipate, prepare for, and respond to climate-related events and trends"
+    },
+    {
+      "question": "Which of the following is NOT a common method for community engagement in food systems?",
+      "choices": [
+        "Cooking demonstrations",
+        "Community gardens",
+        "Food festivals",
+        "Banning all imported foods"
+      ],
+      "answer": "Banning all imported foods"
+    },
+    {
+      "question": "What is a food system?",
+      "choices": [
+        "A diet plan",
+        "A method of cooking",
+        "The interconnected activities involved in producing, processing, distributing, and consuming food",
+        "A type of restaurant"
+      ],
+      "answer": "The interconnected activities involved in producing, processing, distributing, and consuming food"
+    },
+    {
+      "question": "What is nutrient density?",
+      "choices": [
+        "The weight of food per serving",
+        "The amount of beneficial nutrients in a food relative to its energy content",
+        "The number of calories in a food",
+        "The water content of a food"
+      ],
+      "answer": "The amount of beneficial nutrients in a food relative to its energy content"
+    },
+    {
+      "question": "Which of the following is a key component of a business plan for a food enterprise?",
+      "choices": [
+        "A list of favorite recipes",
+        "Personal hobbies of the business owner",
+        "Market analysis",
+        "The owner's family tree"
+      ],
+      "answer": "Market analysis"
+    },
+    {
+      "question": "What is brand identity in food entrepreneurship?",
+      "choices": [
+        "The legal name of the business",
+        "The visible elements of a brand that identify and distinguish it in consumers' minds",
+        "The ingredients used in the food products",
+        "The business owner's personal identity"
+      ],
+      "answer": "The visible elements of a brand that identify and distinguish it in consumers' minds"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in sustainable food production in Timor-Leste?",
+      "choices": [
+        "Limited access to markets for small-scale farmers",
+        "Soil erosion",
+        "Overuse of chemical fertilizers",
+        "Water scarcity"
+      ],
+      "answer": "Overuse of chemical fertilizers"
+    },
+    {
+      "question": "What is the primary goal of food safety practices?",
+      "choices": [
+        "To make food taste better",
+        "To increase food production",
+        "To prevent foodborne illnesses",
+        "To reduce food costs"
+      ],
+      "answer": "To prevent foodborne illnesses"
+    },
+    {
+      "question": "Which of the following is an example of a sustainable farming practice?",
+      "choices": [
+        "Monoculture farming",
+        "Heavy use of pesticides",
+        "Crop rotation",
+        "Deep tilling of soil"
+      ],
+      "answer": "Crop rotation"
+    }
+  ]
+}
