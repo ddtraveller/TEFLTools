@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Fiction Writing and Literary Analysis",
+  "questions": [
+    {
+      "question": "Which of the following is NOT considered a major genre in fiction?",
+      "choices": [
+        "Novel",
+        "Novella",
+        "Short story",
+        "Memoir"
+      ],
+      "answer": "Memoir"
+    },
+    {
+      "question": "What literary style is characterized by the inclusion of fantastical elements in an otherwise realistic setting?",
+      "choices": [
+        "Realism",
+        "Modernism",
+        "Magical Realism",
+        "Gothic"
+      ],
+      "answer": "Magical Realism"
+    },
+    {
+      "question": "Which of the following is NOT an essential element of fiction?",
+      "choices": [
+        "Plot",
+        "Character",
+        "Setting",
+        "Footnotes"
+      ],
+      "answer": "Footnotes"
+    },
+    {
+      "question": "What is the term for the sequence of events in a story?",
+      "choices": [
+        "Narrative",
+        "Plot",
+        "Chronology",
+        "Timeline"
+      ],
+      "answer": "Plot"
+    },
+    {
+      "question": "Which point of view is used in the opening of George Orwell's '1984'?",
+      "choices": [
+        "First person",
+        "Second person",
+        "Third person limited",
+        "Third person omniscient"
+      ],
+      "answer": "Third person limited"
+    },
+    {
+      "question": "What is the central idea or underlying meaning of a story called?",
+      "choices": [
+        "Motif",
+        "Theme",
+        "Moral",
+        "Message"
+      ],
+      "answer": "Theme"
+    },
+    {
+      "question": "Which type of conflict is NOT mentioned in the module content?",
+      "choices": [
+        "Man vs. Man",
+        "Man vs. Nature",
+        "Man vs. Technology",
+        "Man vs. Self"
+      ],
+      "answer": "Man vs. Technology"
+    },
+    {
+      "question": "What technique involves analyzing text in detail, focusing on specific words, phrases, and sentences?",
+      "choices": [
+        "Skimming",
+        "Speed reading",
+        "Close reading",
+        "Contextual analysis"
+      ],
+      "answer": "Close reading"
+    },
+    {
+      "question": "Which literary device is defined as the repetition of initial consonant sounds in neighboring words?",
+      "choices": [
+        "Assonance",
+        "Consonance",
+        "Alliteration",
+        "Onomatopoeia"
+      ],
+      "answer": "Alliteration"
+    },
+    {
+      "question": "What is the term for a story, poem, or picture that can be interpreted to reveal a hidden meaning, typically a moral or political one?",
+      "choices": [
+        "Allegory",
+        "Metaphor",
+        "Symbolism",
+        "Allusion"
+      ],
+      "answer": "Allegory"
+    },
+    {
+      "question": "Which literary device involves the attribution of human characteristics to non-human things?",
+      "choices": [
+        "Personification",
+        "Anthropomorphism",
+        "Symbolism",
+        "Metonymy"
+      ],
+      "answer": "Anthropomorphism"
+    },
+    {
+      "question": "What is the term for the juxtaposition of contrasting ideas in balanced phrases?",
+      "choices": [
+        "Oxymoron",
+        "Paradox",
+        "Antithesis",
+        "Chiasmus"
+      ],
+      "answer": "Antithesis"
+    },
+    {
+      "question": "Which literary device involves beginning a story in the middle of the action?",
+      "choices": [
+        "Flashback",
+        "In medias res",
+        "Foreshadowing",
+        "Exposition"
+      ],
+      "answer": "In medias res"
+    },
+    {
+      "question": "What is the use of symbols to represent ideas or qualities called?",
+      "choices": [
+        "Allegory",
+        "Metaphor",
+        "Symbolism",
+        "Imagery"
+      ],
+      "answer": "Symbolism"
+    },
+    {
+      "question": "Which genre convention is typically associated with Romance fiction?",
+      "choices": [
+        "Central puzzle or crime to be solved",
+        "Happy ending or 'happily ever after'",
+        "Advanced technology or scientific concepts",
+        "Intended to frighten or disturb the reader"
+      ],
+      "answer": "Happy ending or 'happily ever after'"
+    },
+    {
+      "question": "What is the term for the protagonist's adversary in a story?",
+      "choices": [
+        "Antagonist",
+        "Deuteragonist",
+        "Foil",
+        "Sidekick"
+      ],
+      "answer": "Antagonist"
+    },
+    {
+      "question": "Which of the following is NOT a component of plot structure?",
+      "choices": [
+        "Exposition",
+        "Rising action",
+        "Climax",
+        "Epilogue"
+      ],
+      "answer": "Epilogue"
+    },
+    {
+      "question": "What literary device is used when saying 'The pen is mightier than the sword'?",
+      "choices": [
+        "Metaphor",
+        "Metonymy",
+        "Synecdoche",
+        "Personification"
+      ],
+      "answer": "Metonymy"
+    },
+    {
+      "question": "Which genre typically features a central puzzle or crime to be solved?",
+      "choices": [
+        "Romance",
+        "Mystery",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "answer": "Mystery"
+    },
+    {
+      "question": "What is the term for the historical, cultural, and biographical context considered in contextual analysis?",
+      "choices": [
+        "Subtext",
+        "Paratext",
+        "Metatext",
+        "Hypertext"
+      ],
+      "answer": "Paratext"
+    },
+    {
+      "question": "Which of the following is NOT a type of point of view mentioned in the module?",
+      "choices": [
+        "First person",
+        "Second person",
+        "Third person limited",
+        "Fourth person"
+      ],
+      "answer": "Fourth person"
+    },
+    {
+      "question": "What is the purpose of foreshadowing in a story?",
+      "choices": [
+        "To confuse the reader",
+        "To provide backstory",
+        "To hint at future events",
+        "To describe the setting"
+      ],
+      "answer": "To hint at future events"
+    },
+    {
+      "question": "Which genre convention is typically associated with Science Fiction?",
+      "choices": [
+        "Magical or supernatural elements",
+        "Advanced technology or scientific concepts",
+        "Focus on developing a romantic relationship",
+        "Set in a specific historical period"
+      ],
+      "answer": "Advanced technology or scientific concepts"
+    },
+    {
+      "question": "What is the term for a comparison between two unlike things using 'like' or 'as'?",
+      "choices": [
+        "Metaphor",
+        "Simile",
+        "Analogy",
+        "Allegory"
+      ],
+      "answer": "Simile"
+    },
+    {
+      "question": "Which of the following is NOT a subgenre of Fantasy mentioned in the genre conventions cheat sheet?",
+      "choices": [
+        "High Fantasy",
+        "Urban Fantasy",
+        "Dark Fantasy",
+        "Science Fantasy"
+      ],
+      "answer": "Science Fantasy"
+    },
+    {
+      "question": "What is the term for words that phonetically imitate the sound they describe?",
+      "choices": [
+        "Alliteration",
+        "Assonance",
+        "Consonance",
+        "Onomatopoeia"
+      ],
+      "answer": "Onomatopoeia"
+    },
+    {
+      "question": "Which genre typically focuses on character development and themes, often with experimental style or structure?",
+      "choices": [
+        "Genre Fiction",
+        "Popular Fiction",
+        "Literary Fiction",
+        "Pulp Fiction"
+      ],
+      "answer": "Literary Fiction"
+    },
+    {
+      "question": "What is the narrator's relationship to John in 'The Yellow Wallpaper'?",
+      "choices": [
+        "Sister",
+        "Patient",
+        "Wife",
+        "Daughter"
+      ],
+      "answer": "Wife"
+    },
+    {
+      "question": "Which literary device is used in the phrase 'It was the best of times, it was the worst of times'?",
+      "choices": [
+        "Alliteration",
+        "Oxymoron",
+        "Paradox",
+        "Antithesis"
+      ],
+      "answer": "Antithesis"
+    },
+    {
+      "question": "What is the term for the use of hints or clues to suggest future events in a story?",
+      "choices": [
+        "Flashback",
+        "Foreshadowing",
+        "Exposition",
+        "Rising action"
+      ],
+      "answer": "Foreshadowing"
+    }
+  ]
+}
