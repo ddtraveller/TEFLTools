@@ -1,0 +1,305 @@
+{
+  "title": "Future Trends and Timor-Leste's AI Strategy",
+  "questions": [
+    {
+      "question": "What is a key characteristic of multimodal AI models?",
+      "choices": [
+        "They can only process text data",
+        "They can process multiple types of data simultaneously",
+        "They are limited to image recognition",
+        "They can only be used for language translation"
+      ],
+      "answer": "They can process multiple types of data simultaneously"
+    },
+    {
+      "question": "Which of the following is an example of a multimodal AI model?",
+      "choices": [
+        "GPT-3",
+        "DALL-E 2",
+        "BERT",
+        "Word2Vec"
+      ],
+      "answer": "DALL-E 2"
+    },
+    {
+      "question": "What is a potential application of multimodal AI in language translation?",
+      "choices": [
+        "Generating random text",
+        "Enhancing translation with visual context",
+        "Improving speech recognition",
+        "Creating new languages"
+      ],
+      "answer": "Enhancing translation with visual context"
+    },
+    {
+      "question": "Which of the following is a recent advancement in Large Language Models (LLMs)?",
+      "choices": [
+        "Decreased model size",
+        "Reduced capabilities",
+        "Improved few-shot learning",
+        "Increased hallucinations"
+      ],
+      "answer": "Improved few-shot learning"
+    },
+    {
+      "question": "What is a potential benefit of implementing AI in Timor-Leste's governance?",
+      "choices": [
+        "Reduced transparency",
+        "Increased bureaucracy",
+        "Improved efficiency in public services",
+        "Decreased accountability"
+      ],
+      "answer": "Improved efficiency in public services"
+    },
+    {
+      "question": "Which country has implemented an AI-powered e-governance system?",
+      "choices": [
+        "Timor-Leste",
+        "Estonia",
+        "Singapore",
+        "Indonesia"
+      ],
+      "answer": "Estonia"
+    },
+    {
+      "question": "What is a key challenge in implementing AI technologies in Timor-Leste?",
+      "choices": [
+        "Excessive digital infrastructure",
+        "Too many AI experts",
+        "Limited digital infrastructure",
+        "Overabundance of data"
+      ],
+      "answer": "Limited digital infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT a key component of a national AI strategy?",
+      "choices": [
+        "Vision and objectives",
+        "Governance framework",
+        "Investment and funding",
+        "Mandatory AI implementation in all sectors"
+      ],
+      "answer": "Mandatory AI implementation in all sectors"
+    },
+    {
+      "question": "What is the name of Singapore's national AI program?",
+      "choices": [
+        "AI Singapore",
+        "Singapore AI Initiative",
+        "Smart Nation Singapore",
+        "AI for SG"
+      ],
+      "answer": "AI Singapore"
+    },
+    {
+      "question": "How can AI potentially contribute to preserving Timorese languages and culture?",
+      "choices": [
+        "By replacing traditional practices",
+        "By automating cultural rituals",
+        "By digitizing and analyzing cultural artifacts and languages",
+        "By creating new artificial languages"
+      ],
+      "answer": "By digitizing and analyzing cultural artifacts and languages"
+    },
+    {
+      "question": "What is a potential application of AI in Timor-Leste's agriculture sector?",
+      "choices": [
+        "Replacing farmers with robots",
+        "Providing personalized crop management recommendations",
+        "Eliminating the need for irrigation",
+        "Genetically modifying all crops"
+      ],
+      "answer": "Providing personalized crop management recommendations"
+    },
+    {
+      "question": "Which of the following is a key consideration for AI governance in Timor-Leste?",
+      "choices": [
+        "Maximizing profit from AI technologies",
+        "Ignoring data privacy concerns",
+        "Ensuring algorithmic transparency",
+        "Limiting AI use to government agencies only"
+      ],
+      "answer": "Ensuring algorithmic transparency"
+    },
+    {
+      "question": "What role can regional tech hubs play in Timor-Leste's AI development?",
+      "choices": [
+        "Hindering local AI initiatives",
+        "Providing expertise and resources through collaboration",
+        "Taking control of Timor-Leste's AI strategy",
+        "Implementing their own AI systems in Timor-Leste"
+      ],
+      "answer": "Providing expertise and resources through collaboration"
+    },
+    {
+      "question": "Which sector in Timor-Leste could benefit from AI-powered quality assessment?",
+      "choices": [
+        "Oil and gas",
+        "Coffee production",
+        "Tourism",
+        "Manufacturing"
+      ],
+      "answer": "Coffee production"
+    },
+    {
+      "question": "What is a potential challenge in implementing AI-powered coffee quality assessment in Timor-Leste?",
+      "choices": [
+        "Lack of coffee production",
+        "Overabundance of technology experts",
+        "Need for reliable internet connectivity",
+        "Resistance from international markets"
+      ],
+      "answer": "Need for reliable internet connectivity"
+    },
+    {
+      "question": "How can AI potentially improve healthcare in remote areas of Timor-Leste?",
+      "choices": [
+        "By replacing all human doctors",
+        "By assisting in disease diagnosis and treatment planning",
+        "By eliminating the need for medical facilities",
+        "By providing free medical education to all citizens"
+      ],
+      "answer": "By assisting in disease diagnosis and treatment planning"
+    },
+    {
+      "question": "What is an important consideration when developing AI education programs in Timor-Leste?",
+      "choices": [
+        "Focusing only on university-level education",
+        "Ignoring the existing workforce",
+        "Providing upskilling opportunities for the existing workforce",
+        "Importing all AI experts from other countries"
+      ],
+      "answer": "Providing upskilling opportunities for the existing workforce"
+    },
+    {
+      "question": "Which of the following is NOT a potential benefit of implementing AI in Timor-Leste's government decision-making?",
+      "choices": [
+        "Data-driven policy-making",
+        "Enhanced transparency",
+        "Improved efficiency",
+        "Elimination of human involvement in governance"
+      ],
+      "answer": "Elimination of human involvement in governance"
+    },
+    {
+      "question": "What is a key challenge in developing a national AI strategy for Timor-Leste?",
+      "choices": [
+        "Excessive funding for AI initiatives",
+        "Too many AI experts in the country",
+        "Balancing AI adoption with limited digital infrastructure",
+        "Lack of international interest in collaboration"
+      ],
+      "answer": "Balancing AI adoption with limited digital infrastructure"
+    },
+    {
+      "question": "How can Timor-Leste ensure ethical AI development and implementation?",
+      "choices": [
+        "By ignoring international AI ethics guidelines",
+        "By establishing a clear regulatory framework for AI",
+        "By allowing unrestricted AI development",
+        "By banning all AI technologies"
+      ],
+      "answer": "By establishing a clear regulatory framework for AI"
+    },
+    {
+      "question": "What is a potential application of AI in Timor-Leste's tourism sector?",
+      "choices": [
+        "Replacing all human tour guides",
+        "Eliminating the need for physical tourism infrastructure",
+        "Providing personalized travel recommendations and experiences",
+        "Artificially creating new tourist attractions"
+      ],
+      "answer": "Providing personalized travel recommendations and experiences"
+    },
+    {
+      "question": "Which of the following is an important aspect of AI infrastructure development in Timor-Leste?",
+      "choices": [
+        "Focusing only on urban areas",
+        "Ignoring cloud computing capabilities",
+        "Expanding internet connectivity in rural areas",
+        "Relying entirely on foreign-owned data centers"
+      ],
+      "answer": "Expanding internet connectivity in rural areas"
+    },
+    {
+      "question": "How can AI potentially contribute to Timor-Leste's education sector?",
+      "choices": [
+        "By replacing all human teachers",
+        "By providing personalized learning experiences",
+        "By eliminating the need for physical schools",
+        "By teaching only AI-related subjects"
+      ],
+      "answer": "By providing personalized learning experiences"
+    },
+    {
+      "question": "What is an important consideration when implementing AI in Timor-Leste's healthcare system?",
+      "choices": [
+        "Replacing all human healthcare workers with AI",
+        "Ignoring patient privacy concerns",
+        "Ensuring data security and patient confidentiality",
+        "Implementing AI only in urban hospitals"
+      ],
+      "answer": "Ensuring data security and patient confidentiality"
+    },
+    {
+      "question": "How can Timor-Leste leverage AI for environmental conservation?",
+      "choices": [
+        "By replacing all conservation efforts with AI",
+        "By using AI for wildlife monitoring and habitat analysis",
+        "By creating artificial ecosystems",
+        "By eliminating the need for environmental policies"
+      ],
+      "answer": "By using AI for wildlife monitoring and habitat analysis"
+    },
+    {
+      "question": "What role can AI play in preserving Timor-Leste's cultural heritage?",
+      "choices": [
+        "Replacing traditional cultural practices",
+        "Digitizing and analyzing cultural artifacts and traditions",
+        "Creating artificial cultural elements",
+        "Eliminating the need for cultural preservation efforts"
+      ],
+      "answer": "Digitizing and analyzing cultural artifacts and traditions"
+    },
+    {
+      "question": "How can Timor-Leste ensure inclusive AI development?",
+      "choices": [
+        "By focusing AI benefits only on urban areas",
+        "By ignoring rural communities in AI initiatives",
+        "By involving diverse stakeholders in AI strategy development",
+        "By implementing AI without public consultation"
+      ],
+      "answer": "By involving diverse stakeholders in AI strategy development"
+    },
+    {
+      "question": "What is a potential application of AI in Timor-Leste's energy sector?",
+      "choices": [
+        "Eliminating the need for renewable energy",
+        "Optimizing energy distribution and consumption",
+        "Replacing all human workers in power plants",
+        "Creating unlimited energy sources"
+      ],
+      "answer": "Optimizing energy distribution and consumption"
+    },
+    {
+      "question": "How can Timor-Leste address the potential job displacement caused by AI?",
+      "choices": [
+        "By banning all AI technologies",
+        "By ignoring the issue entirely",
+        "By focusing on AI education and reskilling programs",
+        "By replacing all jobs with AI systems"
+      ],
+      "answer": "By focusing on AI education and reskilling programs"
+    },
+    {
+      "question": "What is an important consideration for AI-driven decision-making in Timor-Leste's government?",
+      "choices": [
+        "Eliminating human oversight",
+        "Implementing AI decisions without question",
+        "Ensuring transparency and accountability in AI systems",
+        "Keeping AI decision-making processes secret"
+      ],
+      "answer": "Ensuring transparency and accountability in AI systems"
+    }
+  ]
+}

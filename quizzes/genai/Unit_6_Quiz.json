@@ -1,0 +1,305 @@
+{
+  "title": "Prompt Engineering and Effective Use of LLMs",
+  "questions": [
+    {
+      "question": "What is prompt engineering?",
+      "choices": [
+        "The process of building language models",
+        "The art and science of crafting effective inputs for large language models",
+        "A technique for compressing neural networks",
+        "The study of natural language syntax"
+      ],
+      "answer": "The art and science of crafting effective inputs for large language models"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of prompt engineering?",
+      "choices": [
+        "Clarity and specificity",
+        "Providing context",
+        "Using complex technical jargon",
+        "Specifying output format"
+      ],
+      "answer": "Using complex technical jargon"
+    },
+    {
+      "question": "What is in-context learning in the context of LLMs?",
+      "choices": [
+        "Training the model on a specific dataset",
+        "The model's ability to adapt based on examples in the prompt",
+        "Learning new languages through immersion",
+        "Memorizing the entire context of a conversation"
+      ],
+      "answer": "The model's ability to adapt based on examples in the prompt"
+    },
+    {
+      "question": "What is few-shot learning?",
+      "choices": [
+        "Training a model with very little data",
+        "Providing a few examples of the desired task within the prompt",
+        "Learning to complete tasks in a short amount of time",
+        "A technique for rapid model deployment"
+      ],
+      "answer": "Providing a few examples of the desired task within the prompt"
+    },
+    {
+      "question": "Which of the following is a best practice for interacting with LLMs?",
+      "choices": [
+        "Always use technical language",
+        "Avoid providing any context",
+        "Start with zero-shot prompts and refine as needed",
+        "Use only single-word prompts"
+      ],
+      "answer": "Start with zero-shot prompts and refine as needed"
+    },
+    {
+      "question": "What is the purpose of specifying the output format in a prompt?",
+      "choices": [
+        "To make the prompt longer",
+        "To confuse the model",
+        "To guide the model in presenting information as desired",
+        "To test the model's creativity"
+      ],
+      "answer": "To guide the model in presenting information as desired"
+    },
+    {
+      "question": "What is the benefit of breaking complex tasks into steps when prompting an LLM?",
+      "choices": [
+        "It makes the prompt look more professional",
+        "It guides the AI through each stage of the task",
+        "It increases the word count of the prompt",
+        "It confuses the AI to produce more creative responses"
+      ],
+      "answer": "It guides the AI through each stage of the task"
+    },
+    {
+      "question": "What is iterative refinement in prompt engineering?",
+      "choices": [
+        "Repeatedly training the model on the same data",
+        "Gradually increasing the complexity of the task",
+        "Starting with a basic prompt and improving it based on the output",
+        "Asking the same question multiple times"
+      ],
+      "answer": "Starting with a basic prompt and improving it based on the output"
+    },
+    {
+      "question": "Which technique is particularly useful for specialized tasks or domain-specific knowledge?",
+      "choices": [
+        "Zero-shot learning",
+        "One-shot learning",
+        "Few-shot learning",
+        "Unsupervised learning"
+      ],
+      "answer": "Few-shot learning"
+    },
+    {
+      "question": "What is the purpose of providing context in a prompt?",
+      "choices": [
+        "To increase the word count",
+        "To confuse the AI",
+        "To help the AI understand the background or perspective",
+        "To test the AI's general knowledge"
+      ],
+      "answer": "To help the AI understand the background or perspective"
+    },
+    {
+      "question": "Which of the following is an example of a clear instruction word in prompt engineering?",
+      "choices": [
+        "Maybe",
+        "Possibly",
+        "Explain",
+        "Somehow"
+      ],
+      "answer": "Explain"
+    },
+    {
+      "question": "What is the benefit of specifying the audience in a prompt?",
+      "choices": [
+        "It makes the prompt longer",
+        "It helps tailor the complexity and tone of the response",
+        "It confuses the AI",
+        "It's a requirement for all prompts"
+      ],
+      "answer": "It helps tailor the complexity and tone of the response"
+    },
+    {
+      "question": "What is the purpose of using role-playing in prompts?",
+      "choices": [
+        "To entertain the AI",
+        "To test the AI's acting skills",
+        "To generate specialized or creative content",
+        "To confuse the AI"
+      ],
+      "answer": "To generate specialized or creative content"
+    },
+    {
+      "question": "Why is it important to fact-check and verify AI-generated content?",
+      "choices": [
+        "To improve the AI's knowledge",
+        "Because AI is always wrong",
+        "To be aware of the AI's limitations and potential for errors",
+        "It's not important, AI is always accurate"
+      ],
+      "answer": "To be aware of the AI's limitations and potential for errors"
+    },
+    {
+      "question": "What is the benefit of requesting multiple perspectives in a prompt?",
+      "choices": [
+        "It makes the response longer",
+        "It confuses the AI",
+        "It encourages more balanced and comprehensive responses",
+        "It's a requirement for all prompts"
+      ],
+      "answer": "It encourages more balanced and comprehensive responses"
+    },
+    {
+      "question": "What is zero-shot learning in the context of LLMs?",
+      "choices": [
+        "Training a model without any data",
+        "The model's ability to perform a task without specific examples",
+        "Learning to complete tasks in zero seconds",
+        "A technique for instantaneous model deployment"
+      ],
+      "answer": "The model's ability to perform a task without specific examples"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a well-engineered prompt?",
+      "choices": [
+        "Clear instructions",
+        "Context",
+        "Input data",
+        "Model architecture details"
+      ],
+      "answer": "Model architecture details"
+    },
+    {
+      "question": "What is the purpose of using analogical reasoning in prompts?",
+      "choices": [
+        "To confuse the AI",
+        "To test the AI's mathematical skills",
+        "To help the AI understand relationships and apply knowledge to new contexts",
+        "To make the prompt sound more scientific"
+      ],
+      "answer": "To help the AI understand relationships and apply knowledge to new contexts"
+    },
+    {
+      "question": "What is the benefit of using format mimicking in prompts?",
+      "choices": [
+        "It makes the prompt look more professional",
+        "It helps the AI understand the expected output structure",
+        "It confuses the AI to produce more creative responses",
+        "It's a requirement for all prompts"
+      ],
+      "answer": "It helps the AI understand the expected output structure"
+    },
+    {
+      "question": "Why is it important to consider ethical implications when crafting prompts?",
+      "choices": [
+        "To make the prompt more interesting",
+        "To comply with AI regulations",
+        "To avoid potential misuse or unintended consequences",
+        "It's not important, AI has no ethical concerns"
+      ],
+      "answer": "To avoid potential misuse or unintended consequences"
+    },
+    {
+      "question": "What is the purpose of chain-of-thought prompting?",
+      "choices": [
+        "To create a chain of AI models",
+        "To guide the model through a step-by-step thought process",
+        "To link multiple prompts together",
+        "To test the AI's memory capabilities"
+      ],
+      "answer": "To guide the model through a step-by-step thought process"
+    },
+    {
+      "question": "Which of the following is a potential application of effective prompt engineering in education?",
+      "choices": [
+        "Replacing teachers entirely",
+        "Generating tailored learning materials",
+        "Eliminating the need for textbooks",
+        "Automating student grading without human oversight"
+      ],
+      "answer": "Generating tailored learning materials"
+    },
+    {
+      "question": "What is the main challenge when using prompt engineering for multilingual tasks?",
+      "choices": [
+        "LLMs can only understand English",
+        "Prompts must be exactly the same length in all languages",
+        "Ensuring cultural sensitivity and appropriate translations",
+        "Multilingual tasks are impossible for LLMs"
+      ],
+      "answer": "Ensuring cultural sensitivity and appropriate translations"
+    },
+    {
+      "question": "Why is it important to start broad and then narrow down when interacting with LLMs?",
+      "choices": [
+        "To confuse the AI",
+        "To test the AI's general knowledge",
+        "To explore the AI's knowledge before focusing on specifics",
+        "It's not important, always start with specific questions"
+      ],
+      "answer": "To explore the AI's knowledge before focusing on specifics"
+    },
+    {
+      "question": "What is the purpose of setting constraints in a prompt?",
+      "choices": [
+        "To limit the AI's creativity",
+        "To make the task more difficult for the AI",
+        "To control the scope and format of the output",
+        "To test the AI's ability to break rules"
+      ],
+      "answer": "To control the scope and format of the output"
+    },
+    {
+      "question": "Which of the following is NOT a recommended strategy for refining prompts?",
+      "choices": [
+        "Adjusting specificity",
+        "Adding constraints",
+        "Providing additional context",
+        "Using more complex and ambiguous language"
+      ],
+      "answer": "Using more complex and ambiguous language"
+    },
+    {
+      "question": "What is the primary goal of prompt engineering?",
+      "choices": [
+        "To create the longest possible prompts",
+        "To confuse the AI model",
+        "To elicit accurate, relevant, and useful responses from the AI",
+        "To test the limits of the AI's patience"
+      ],
+      "answer": "To elicit accurate, relevant, and useful responses from the AI"
+    },
+    {
+      "question": "How can prompt engineering be used to address potential biases in AI-generated content?",
+      "choices": [
+        "By using more technical language",
+        "By making prompts longer",
+        "By carefully crafting prompts to minimize unwanted biases",
+        "Biases in AI-generated content cannot be addressed"
+      ],
+      "answer": "By carefully crafting prompts to minimize unwanted biases"
+    },
+    {
+      "question": "What is the benefit of treating interactions with LLMs as a dialogue?",
+      "choices": [
+        "It makes the interaction more human-like",
+        "It allows for iterative refinement to achieve the best results",
+        "It tests the AI's conversational abilities",
+        "It's required for all LLM interactions"
+      ],
+      "answer": "It allows for iterative refinement to achieve the best results"
+    },
+    {
+      "question": "Which of the following is a potential risk of over-reliance on AI-generated content in a developing country context?",
+      "choices": [
+        "Increased technological literacy",
+        "Improved access to information",
+        "Potential reinforcement of existing biases or misinformation",
+        "Reduced need for human expertise"
+      ],
+      "answer": "Potential reinforcement of existing biases or misinformation"
+    }
+  ]
+}

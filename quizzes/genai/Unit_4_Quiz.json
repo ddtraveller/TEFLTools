@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Large Language Models",
+  "questions": [
+    {
+      "question": "What is the key innovation of the Transformer architecture?",
+      "choices": [
+        "Recurrent neural networks",
+        "Convolutional neural networks",
+        "Self-attention mechanism",
+        "Long short-term memory"
+      ],
+      "answer": "Self-attention mechanism"
+    },
+    {
+      "question": "Which of the following is NOT a key component of the Transformer architecture?",
+      "choices": [
+        "Self-attention layers",
+        "Multi-head attention",
+        "Feed-forward neural networks",
+        "Recurrent layers"
+      ],
+      "answer": "Recurrent layers"
+    },
+    {
+      "question": "What does GPT stand for in the context of language models?",
+      "choices": [
+        "General Purpose Transformer",
+        "Generative Pre-trained Transformer",
+        "Global Processing Technology",
+        "Gradient Propagation Technique"
+      ],
+      "answer": "Generative Pre-trained Transformer"
+    },
+    {
+      "question": "Which of the following is a limitation of large language models?",
+      "choices": [
+        "Inability to generate coherent text",
+        "Lack of multilingual capabilities",
+        "Potential to produce biased or factually incorrect information",
+        "Inability to perform few-shot learning"
+      ],
+      "answer": "Potential to produce biased or factually incorrect information"
+    },
+    {
+      "question": "What is few-shot learning in the context of LLMs?",
+      "choices": [
+        "Training the model on a small dataset",
+        "The model's ability to adapt to new tasks with just a few examples",
+        "Using the model for a limited number of predictions",
+        "Fine-tuning the model for specific applications"
+      ],
+      "answer": "The model's ability to adapt to new tasks with just a few examples"
+    },
+    {
+      "question": "Which early language model relied on statistical probabilities of word sequences?",
+      "choices": [
+        "Transformer",
+        "LSTM",
+        "GPT",
+        "N-gram"
+      ],
+      "answer": "N-gram"
+    },
+    {
+      "question": "What is the primary advantage of the Transformer architecture over previous models?",
+      "choices": [
+        "Smaller model size",
+        "Faster training time",
+        "Better capture of long-range dependencies",
+        "Lower computational requirements"
+      ],
+      "answer": "Better capture of long-range dependencies"
+    },
+    {
+      "question": "How many parameters does GPT-3 have?",
+      "choices": [
+        "1 million",
+        "1 billion",
+        "175 million",
+        "175 billion"
+      ],
+      "answer": "175 billion"
+    },
+    {
+      "question": "Which of the following is NOT a typical capability of GPT models?",
+      "choices": [
+        "Text generation",
+        "Summarization",
+        "Image recognition",
+        "Translation"
+      ],
+      "answer": "Image recognition"
+    },
+    {
+      "question": "What is the purpose of positional encoding in Transformer models?",
+      "choices": [
+        "To compress the input sequence",
+        "To provide information about word order",
+        "To increase the model's vocabulary",
+        "To optimize the training process"
+      ],
+      "answer": "To provide information about word order"
+    },
+    {
+      "question": "Which of the following best describes the training process of GPT models?",
+      "choices": [
+        "Supervised learning on labeled datasets",
+        "Reinforcement learning through trial and error",
+        "Unsupervised pre-training on large text corpora",
+        "Semi-supervised learning with partial labels"
+      ],
+      "answer": "Unsupervised pre-training on large text corpora"
+    },
+    {
+      "question": "What is a potential application of LLMs in preserving Timorese languages?",
+      "choices": [
+        "Generating new Timorese languages",
+        "Translating between Timorese languages and other languages",
+        "Replacing Timorese languages with English",
+        "Encrypting Timorese language texts"
+      ],
+      "answer": "Translating between Timorese languages and other languages"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing LLMs in Timor-Leste?",
+      "choices": [
+        "Excessive digital infrastructure",
+        "Lack of potential applications",
+        "Limited training data for local languages",
+        "Oversaturation of AI technologies"
+      ],
+      "answer": "Limited training data for local languages"
+    },
+    {
+      "question": "What is multi-head attention in Transformer models?",
+      "choices": [
+        "A technique to train multiple models simultaneously",
+        "A method to attend to different aspects of input simultaneously",
+        "A way to process multiple languages at once",
+        "A system for distributing computation across multiple GPUs"
+      ],
+      "answer": "A method to attend to different aspects of input simultaneously"
+    },
+    {
+      "question": "Which of the following is NOT a typical application of LLMs in education?",
+      "choices": [
+        "Personalized tutoring",
+        "Content generation",
+        "Language learning assistance",
+        "Physical education instruction"
+      ],
+      "answer": "Physical education instruction"
+    },
+    {
+      "question": "What is the main advantage of Transformers processing input sequences in parallel?",
+      "choices": [
+        "Reduced accuracy",
+        "Increased model size",
+        "Improved efficiency and scalability",
+        "Lower memory usage"
+      ],
+      "answer": "Improved efficiency and scalability"
+    },
+    {
+      "question": "Which of the following best describes the concept of attention in Transformer models?",
+      "choices": [
+        "The model's ability to focus on specific words",
+        "A mechanism for weighing the importance of different parts of the input",
+        "A technique for improving model memory",
+        "A method for reducing computational complexity"
+      ],
+      "answer": "A mechanism for weighing the importance of different parts of the input"
+    },
+    {
+      "question": "What is a potential application of LLMs in Timorese government services?",
+      "choices": [
+        "Replacing human officials",
+        "Generating fake news",
+        "Assisting in document analysis and policy drafting",
+        "Controlling citizens' behavior"
+      ],
+      "answer": "Assisting in document analysis and policy drafting"
+    },
+    {
+      "question": "Which of the following is a key ethical consideration when implementing LLMs?",
+      "choices": [
+        "Maximizing profit",
+        "Ensuring data privacy and preventing misuse",
+        "Replacing human workers as quickly as possible",
+        "Limiting access to AI technologies"
+      ],
+      "answer": "Ensuring data privacy and preventing misuse"
+    },
+    {
+      "question": "What is the primary source of training data for large language models like GPT-3?",
+      "choices": [
+        "Carefully curated academic texts",
+        "Government documents",
+        "A diverse corpus of internet text",
+        "Transcribed human conversations"
+      ],
+      "answer": "A diverse corpus of internet text"
+    },
+    {
+      "question": "Which of the following best describes the capability of LLMs in text generation?",
+      "choices": [
+        "Producing only factual and objective content",
+        "Generating coherent text across various styles and formats",
+        "Creating new languages",
+        "Writing only in programming languages"
+      ],
+      "answer": "Generating coherent text across various styles and formats"
+    },
+    {
+      "question": "What is a potential benefit of using LLMs for language preservation in Timor-Leste?",
+      "choices": [
+        "Replacing local languages with English",
+        "Generating new artificial languages",
+        "Supporting translation and documentation of local languages",
+        "Eliminating the need for human linguists"
+      ],
+      "answer": "Supporting translation and documentation of local languages"
+    },
+    {
+      "question": "Which of the following is NOT a typical task that LLMs can perform?",
+      "choices": [
+        "Text summarization",
+        "Question answering",
+        "Physical object manipulation",
+        "Language translation"
+      ],
+      "answer": "Physical object manipulation"
+    },
+    {
+      "question": "What is the significance of the massive scale of models like GPT-3?",
+      "choices": [
+        "It makes the models more energy-efficient",
+        "It allows for better performance on a wide range of tasks",
+        "It reduces the need for training data",
+        "It simplifies the model architecture"
+      ],
+      "answer": "It allows for better performance on a wide range of tasks"
+    },
+    {
+      "question": "Which of the following is a limitation of LLMs in terms of reasoning?",
+      "choices": [
+        "Inability to process long texts",
+        "Lack of common sense reasoning capabilities",
+        "Limited vocabulary",
+        "Slow processing speed"
+      ],
+      "answer": "Lack of common sense reasoning capabilities"
+    },
+    {
+      "question": "How can LLMs potentially support multilingual education in Timor-Leste?",
+      "choices": [
+        "By eliminating the need for multiple languages",
+        "By providing translation and language learning tools",
+        "By replacing human teachers entirely",
+        "By creating a new universal language"
+      ],
+      "answer": "By providing translation and language learning tools"
+    },
+    {
+      "question": "What is the primary challenge in adapting LLMs for use with Timorese languages?",
+      "choices": [
+        "Lack of interest from the local population",
+        "Limited computational resources",
+        "Scarcity of digital text data in Timorese languages",
+        "Legal restrictions on AI use"
+      ],
+      "answer": "Scarcity of digital text data in Timorese languages"
+    },
+    {
+      "question": "Which of the following best describes the concept of transfer learning in the context of LLMs?",
+      "choices": [
+        "Transferring the model to a different computer",
+        "Applying knowledge from one task to improve performance on another",
+        "Translating between languages",
+        "Transferring ownership of the model"
+      ],
+      "answer": "Applying knowledge from one task to improve performance on another"
+    },
+    {
+      "question": "What is a potential application of LLMs in Timorese tourism?",
+      "choices": [
+        "Replacing human tour guides",
+        "Generating fake reviews",
+        "Providing multilingual information and translation services",
+        "Automating hotel bookings"
+      ],
+      "answer": "Providing multilingual information and translation services"
+    },
+    {
+      "question": "Which of the following is NOT a typical method for evaluating the performance of LLMs?",
+      "choices": [
+        "Perplexity",
+        "BLEU score",
+        "Human evaluation",
+        "Physical endurance tests"
+      ],
+      "answer": "Physical endurance tests"
+    }
+  ]
+}

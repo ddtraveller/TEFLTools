@@ -1,0 +1,305 @@
+{
+  "title": "Deep Learning and Neural Networks",
+  "questions": [
+    {
+      "question": "What is the main inspiration for neural networks?",
+      "choices": [
+        "The human brain",
+        "Computer processors",
+        "Quantum mechanics",
+        "Biological ecosystems"
+      ],
+      "answer": "The human brain"
+    },
+    {
+      "question": "Which of the following is NOT a typical layer in a neural network?",
+      "choices": [
+        "Input layer",
+        "Hidden layer",
+        "Output layer",
+        "Quantum layer"
+      ],
+      "answer": "Quantum layer"
+    },
+    {
+      "question": "What is the process called where neural networks adjust the strengths of connections between neurons?",
+      "choices": [
+        "Training",
+        "Optimization",
+        "Calibration",
+        "Synchronization"
+      ],
+      "answer": "Training"
+    },
+    {
+      "question": "Which algorithm is commonly used to train neural networks by minimizing error?",
+      "choices": [
+        "Backpropagation",
+        "Forward propagation",
+        "Lateral propagation",
+        "Quantum propagation"
+      ],
+      "answer": "Backpropagation"
+    },
+    {
+      "question": "What distinguishes deep learning from traditional neural networks?",
+      "choices": [
+        "Multiple hidden layers",
+        "Faster processing speed",
+        "Smaller dataset requirements",
+        "Less complex algorithms"
+      ],
+      "answer": "Multiple hidden layers"
+    },
+    {
+      "question": "Which type of neural network is specialized for processing grid-like data such as images?",
+      "choices": [
+        "Convolutional Neural Networks (CNNs)",
+        "Recurrent Neural Networks (RNNs)",
+        "Feedforward Neural Networks",
+        "Boltzmann Machines"
+      ],
+      "answer": "Convolutional Neural Networks (CNNs)"
+    },
+    {
+      "question": "What type of neural network is designed for sequential data like time series or text?",
+      "choices": [
+        "Recurrent Neural Networks (RNNs)",
+        "Convolutional Neural Networks (CNNs)",
+        "Autoencoders",
+        "Generative Adversarial Networks (GANs)"
+      ],
+      "answer": "Recurrent Neural Networks (RNNs)"
+    },
+    {
+      "question": "Which hardware component has been crucial in accelerating deep learning computations?",
+      "choices": [
+        "GPUs (Graphics Processing Units)",
+        "CPUs (Central Processing Units)",
+        "RAM (Random Access Memory)",
+        "HDD (Hard Disk Drives)"
+      ],
+      "answer": "GPUs (Graphics Processing Units)"
+    },
+    {
+      "question": "What is the main advantage of using GPUs for deep learning?",
+      "choices": [
+        "Parallel processing capabilities",
+        "Larger memory capacity",
+        "Lower power consumption",
+        "Higher clock speeds"
+      ],
+      "answer": "Parallel processing capabilities"
+    },
+    {
+      "question": "Which of the following is a variant of RNNs designed to address long-term dependencies?",
+      "choices": [
+        "LSTM (Long Short-Term Memory)",
+        "CNN (Convolutional Neural Network)",
+        "GAN (Generative Adversarial Network)",
+        "SVM (Support Vector Machine)"
+      ],
+      "answer": "LSTM (Long Short-Term Memory)"
+    },
+    {
+      "question": "What is the purpose of an activation function in a neural network?",
+      "choices": [
+        "To introduce non-linearity into the network's output",
+        "To reduce the number of neurons in each layer",
+        "To increase the network's memory capacity",
+        "To optimize the learning rate"
+      ],
+      "answer": "To introduce non-linearity into the network's output"
+    },
+    {
+      "question": "Which of the following is NOT a common application of deep learning?",
+      "choices": [
+        "Image recognition",
+        "Natural language processing",
+        "Mechanical engineering",
+        "Speech recognition"
+      ],
+      "answer": "Mechanical engineering"
+    },
+    {
+      "question": "What is the primary function of pooling layers in CNNs?",
+      "choices": [
+        "To reduce spatial dimensions",
+        "To increase the number of features",
+        "To add more neurons to the network",
+        "To introduce randomness in training"
+      ],
+      "answer": "To reduce spatial dimensions"
+    },
+    {
+      "question": "Which deep learning architecture forms the basis for many modern language models?",
+      "choices": [
+        "Transformers",
+        "Autoencoders",
+        "Boltzmann Machines",
+        "Hopfield Networks"
+      ],
+      "answer": "Transformers"
+    },
+    {
+      "question": "What is the main challenge in implementing deep learning technologies in a developing country like Timor-Leste?",
+      "choices": [
+        "Limited computational resources and infrastructure",
+        "Lack of interest in AI technologies",
+        "Abundance of data scientists",
+        "Strict regulations on AI use"
+      ],
+      "answer": "Limited computational resources and infrastructure"
+    },
+    {
+      "question": "Which of the following is a potential application of deep learning in Timorese agriculture?",
+      "choices": [
+        "Crop disease detection using image recognition",
+        "Automated harvesting of all crops",
+        "Controlling weather patterns",
+        "Genetically modifying plants"
+      ],
+      "answer": "Crop disease detection using image recognition"
+    },
+    {
+      "question": "What is representation learning in the context of deep learning?",
+      "choices": [
+        "The ability of the network to learn hierarchical features from data",
+        "The process of manually engineering features for the network",
+        "A technique to visualize the network's internal structure",
+        "A method to compress the network for faster inference"
+      ],
+      "answer": "The ability of the network to learn hierarchical features from data"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in the training process of a neural network?",
+      "choices": [
+        "Forward propagation",
+        "Backward propagation",
+        "Gradient descent",
+        "Quantum tunneling"
+      ],
+      "answer": "Quantum tunneling"
+    },
+    {
+      "question": "What is the primary purpose of the output layer in a neural network?",
+      "choices": [
+        "To produce the final prediction or classification",
+        "To extract features from the input data",
+        "To normalize the input values",
+        "To store the network's memory"
+      ],
+      "answer": "To produce the final prediction or classification"
+    },
+    {
+      "question": "Which of the following best describes the relationship between AI, machine learning, and deep learning?",
+      "choices": [
+        "Deep learning is a subset of machine learning, which is a subset of AI",
+        "AI is a subset of machine learning, which is a subset of deep learning",
+        "Machine learning is a subset of deep learning, which is a subset of AI",
+        "AI, machine learning, and deep learning are completely separate fields"
+      ],
+      "answer": "Deep learning is a subset of machine learning, which is a subset of AI"
+    },
+    {
+      "question": "What is the main advantage of using deep learning over traditional machine learning techniques?",
+      "choices": [
+        "Ability to automatically learn hierarchical features from raw data",
+        "Requires less computational power",
+        "Always provides perfect accuracy",
+        "Eliminates the need for large datasets"
+      ],
+      "answer": "Ability to automatically learn hierarchical features from raw data"
+    },
+    {
+      "question": "In the context of neural networks, what does the term 'weight' refer to?",
+      "choices": [
+        "The strength of connection between neurons",
+        "The physical mass of the neural network",
+        "The number of layers in the network",
+        "The processing speed of each neuron"
+      ],
+      "answer": "The strength of connection between neurons"
+    },
+    {
+      "question": "Which of the following is a potential application of CNNs in Timorese fisheries?",
+      "choices": [
+        "Identifying and classifying fish species from images",
+        "Predicting ocean currents",
+        "Controlling fish population growth",
+        "Automatically steering fishing boats"
+      ],
+      "answer": "Identifying and classifying fish species from images"
+    },
+    {
+      "question": "What is the primary function of the hidden layers in a neural network?",
+      "choices": [
+        "To process and transform input data",
+        "To store the final output of the network",
+        "To directly interact with the external environment",
+        "To generate random noise for improved learning"
+      ],
+      "answer": "To process and transform input data"
+    },
+    {
+      "question": "Which of the following is NOT a common activation function used in neural networks?",
+      "choices": [
+        "Quantum function",
+        "ReLU (Rectified Linear Unit)",
+        "Sigmoid",
+        "Tanh (Hyperbolic Tangent)"
+      ],
+      "answer": "Quantum function"
+    },
+    {
+      "question": "What is the main purpose of using dropout in neural networks?",
+      "choices": [
+        "To prevent overfitting",
+        "To increase the network's depth",
+        "To speed up training time",
+        "To improve input data quality"
+      ],
+      "answer": "To prevent overfitting"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'epochs' in neural network training?",
+      "choices": [
+        "The number of times the entire dataset is passed through the network",
+        "The total number of neurons in the network",
+        "The maximum allowed training time",
+        "The number of hidden layers in the network"
+      ],
+      "answer": "The number of times the entire dataset is passed through the network"
+    },
+    {
+      "question": "What is transfer learning in the context of deep learning?",
+      "choices": [
+        "Using a pre-trained model as a starting point for a new task",
+        "Transferring data between different neural networks",
+        "Moving the neural network from one computer to another",
+        "Translating the network's output into different languages"
+      ],
+      "answer": "Using a pre-trained model as a starting point for a new task"
+    },
+    {
+      "question": "Which of the following is a potential ethical concern related to the use of deep learning in Timor-Leste?",
+      "choices": [
+        "Bias in AI systems leading to unfair decisions",
+        "AI systems becoming self-aware and rebelling",
+        "Deep learning eliminating all human jobs overnight",
+        "AI systems consuming all available electricity"
+      ],
+      "answer": "Bias in AI systems leading to unfair decisions"
+    },
+    {
+      "question": "What is the main advantage of using attention mechanisms in neural networks?",
+      "choices": [
+        "Allowing the model to focus on relevant parts of the input",
+        "Reducing the need for large datasets",
+        "Eliminating the need for GPUs",
+        "Automatically generating training data"
+      ],
+      "answer": "Allowing the model to focus on relevant parts of the input"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Natural Language Processing and Word Embeddings",
+  "questions": [
+    {
+      "question": "What is the main focus of Natural Language Processing (NLP)?",
+      "choices": [
+        "Image recognition",
+        "Interaction between computers and human language",
+        "Database management",
+        "Hardware optimization"
+      ],
+      "answer": "Interaction between computers and human language"
+    },
+    {
+      "question": "Which of the following is NOT a key component of NLP?",
+      "choices": [
+        "Tokenization",
+        "Part-of-speech tagging",
+        "Named Entity Recognition",
+        "Quantum computing"
+      ],
+      "answer": "Quantum computing"
+    },
+    {
+      "question": "What is tokenization in NLP?",
+      "choices": [
+        "Assigning grammatical categories to words",
+        "Breaking text into individual words or subwords",
+        "Identifying named entities in text",
+        "Analyzing the grammatical structure of sentences"
+      ],
+      "answer": "Breaking text into individual words or subwords"
+    },
+    {
+      "question": "What does Named Entity Recognition (NER) involve?",
+      "choices": [
+        "Identifying and classifying named entities in text",
+        "Creating new entity names",
+        "Translating entity names between languages",
+        "Generating random entity names"
+      ],
+      "answer": "Identifying and classifying named entities in text"
+    },
+    {
+      "question": "What are word embeddings in NLP?",
+      "choices": [
+        "Physical representations of words",
+        "Learned representations of text where words with similar meanings have similar representations",
+        "Random assignments of numbers to words",
+        "Alphabetical ordering of words"
+      ],
+      "answer": "Learned representations of text where words with similar meanings have similar representations"
+    },
+    {
+      "question": "What is an advantage of using word embeddings?",
+      "choices": [
+        "They require less storage space",
+        "They are easier to pronounce",
+        "They capture semantic relationships between words",
+        "They eliminate the need for dictionaries"
+      ],
+      "answer": "They capture semantic relationships between words"
+    },
+    {
+      "question": "What is Word2Vec?",
+      "choices": [
+        "A type of computer virus",
+        "A popular algorithm for generating word embeddings",
+        "A new programming language",
+        "A text-to-speech system"
+      ],
+      "answer": "A popular algorithm for generating word embeddings"
+    },
+    {
+      "question": "What are the two main architectures of Word2Vec?",
+      "choices": [
+        "Input and Output",
+        "Forward and Backward",
+        "Continuous Bag of Words (CBOW) and Skip-gram",
+        "Encoder and Decoder"
+      ],
+      "answer": "Continuous Bag of Words (CBOW) and Skip-gram"
+    },
+    {
+      "question": "What is a challenge in applying NLP to Tetum and Portuguese languages in Timor-Leste?",
+      "choices": [
+        "Too many digital resources",
+        "Overabundance of standardized orthography",
+        "Limited digital resources and datasets",
+        "Simplicity of the languages"
+      ],
+      "answer": "Limited digital resources and datasets"
+    },
+    {
+      "question": "Which of the following is NOT a potential application of NLP in Tetum and Portuguese languages?",
+      "choices": [
+        "Machine translation",
+        "Sentiment analysis",
+        "Weather prediction",
+        "Text-to-speech systems"
+      ],
+      "answer": "Weather prediction"
+    },
+    {
+      "question": "What is the distributional hypothesis in the context of word embeddings?",
+      "choices": [
+        "Words that appear in similar contexts tend to have similar meanings",
+        "Words are randomly distributed in a text",
+        "The distribution of words follows a normal curve",
+        "Words with similar spellings have similar meanings"
+      ],
+      "answer": "Words that appear in similar contexts tend to have similar meanings"
+    },
+    {
+      "question": "How do word embeddings typically represent words?",
+      "choices": [
+        "As discrete symbols",
+        "As continuous vectors of real numbers",
+        "As binary codes",
+        "As alphabetical strings"
+      ],
+      "answer": "As continuous vectors of real numbers"
+    },
+    {
+      "question": "What is a benefit of using pre-trained word embeddings?",
+      "choices": [
+        "They eliminate the need for further training",
+        "They work for all languages without modification",
+        "They improve performance on tasks with limited training data",
+        "They reduce the need for computational resources"
+      ],
+      "answer": "They improve performance on tasks with limited training data"
+    },
+    {
+      "question": "Which NLP task involves assigning grammatical categories to words?",
+      "choices": [
+        "Tokenization",
+        "Part-of-speech tagging",
+        "Named Entity Recognition",
+        "Semantic analysis"
+      ],
+      "answer": "Part-of-speech tagging"
+    },
+    {
+      "question": "What is the purpose of semantic analysis in NLP?",
+      "choices": [
+        "To break text into individual words",
+        "To assign grammatical categories to words",
+        "To determine the meaning of words and sentences",
+        "To identify named entities in text"
+      ],
+      "answer": "To determine the meaning of words and sentences"
+    },
+    {
+      "question": "Which of the following is a challenge in NLP?",
+      "choices": [
+        "Simplicity of human language",
+        "Lack of contextual meaning in text",
+        "Ambiguity in language",
+        "Universal grammar across all languages"
+      ],
+      "answer": "Ambiguity in language"
+    },
+    {
+      "question": "What is the typical dimensionality of word embedding vectors?",
+      "choices": [
+        "1-10 dimensions",
+        "50-300 dimensions",
+        "1000-5000 dimensions",
+        "Over 10,000 dimensions"
+      ],
+      "answer": "50-300 dimensions"
+    },
+    {
+      "question": "How does Word2Vec learn word embeddings?",
+      "choices": [
+        "By memorizing dictionary definitions",
+        "By analyzing the grammatical structure of sentences",
+        "By predicting words based on their context",
+        "By counting word frequencies in a corpus"
+      ],
+      "answer": "By predicting words based on their context"
+    },
+    {
+      "question": "What is a potential application of NLP in preserving Timorese languages?",
+      "choices": [
+        "Creating digital dictionaries and corpora",
+        "Replacing traditional language learning",
+        "Eliminating the need for human translators",
+        "Standardizing all Timorese dialects"
+      ],
+      "answer": "Creating digital dictionaries and corpora"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in the Word2Vec algorithm?",
+      "choices": [
+        "Initializing random vectors for each word",
+        "Sliding a window over the text corpus",
+        "Updating word vectors based on prediction errors",
+        "Manually adjusting vector values"
+      ],
+      "answer": "Manually adjusting vector values"
+    },
+    {
+      "question": "What is the main advantage of using dense vector representations for words?",
+      "choices": [
+        "They require less storage space",
+        "They capture semantic relationships between words",
+        "They are easier to visualize",
+        "They eliminate the need for context"
+      ],
+      "answer": "They capture semantic relationships between words"
+    },
+    {
+      "question": "Which of the following tasks can benefit from using word embeddings?",
+      "choices": [
+        "Image classification",
+        "Audio processing",
+        "Sentiment analysis",
+        "Network security"
+      ],
+      "answer": "Sentiment analysis"
+    },
+    {
+      "question": "What is a challenge in developing NLP applications for Tetum?",
+      "choices": [
+        "Overabundance of digital resources",
+        "Lack of standardized orthography",
+        "Too many native speakers",
+        "Simplicity of the language structure"
+      ],
+      "answer": "Lack of standardized orthography"
+    },
+    {
+      "question": "How can word embeddings assist in machine translation?",
+      "choices": [
+        "By eliminating the need for bilingual corpora",
+        "By automatically generating new words",
+        "By helping align words across languages",
+        "By replacing human translators entirely"
+      ],
+      "answer": "By helping align words across languages"
+    },
+    {
+      "question": "What is the primary goal of text summarization in NLP?",
+      "choices": [
+        "To translate text into multiple languages",
+        "To generate concise and meaningful summaries of longer texts",
+        "To identify grammatical errors in text",
+        "To convert text into speech"
+      ],
+      "answer": "To generate concise and meaningful summaries of longer texts"
+    },
+    {
+      "question": "Which of the following is a potential ethical concern in developing NLP applications for Timorese languages?",
+      "choices": [
+        "Preserving language diversity",
+        "Improving communication efficiency",
+        "Potential bias in language models",
+        "Increasing internet access"
+      ],
+      "answer": "Potential bias in language models"
+    },
+    {
+      "question": "What is the main difference between CBOW and Skip-gram architectures in Word2Vec?",
+      "choices": [
+        "CBOW uses larger datasets",
+        "Skip-gram is faster to train",
+        "CBOW predicts the target word from context, while Skip-gram predicts context from the target word",
+        "CBOW works only for English, while Skip-gram works for all languages"
+      ],
+      "answer": "CBOW predicts the target word from context, while Skip-gram predicts context from the target word"
+    },
+    {
+      "question": "How can NLP technologies potentially impact language preservation in Timor-Leste?",
+      "choices": [
+        "By replacing traditional language learning methods",
+        "By creating digital resources and tools for language documentation and learning",
+        "By standardizing all Timorese languages into one",
+        "By translating all Timorese content into English"
+      ],
+      "answer": "By creating digital resources and tools for language documentation and learning"
+    },
+    {
+      "question": "What is a key challenge in implementing machine translation systems between Tetum and other languages?",
+      "choices": [
+        "Lack of interest from the population",
+        "Limited parallel corpora and linguistic resources",
+        "Tetum's similarity to major world languages",
+        "Excessive government funding"
+      ],
+      "answer": "Limited parallel corpora and linguistic resources"
+    },
+    {
+      "question": "How might word embeddings be used to explore Timorese culture?",
+      "choices": [
+        "By replacing traditional cultural practices",
+        "By visualizing relationships between culturally significant concepts",
+        "By automatically generating Timorese art",
+        "By predicting future cultural trends"
+      ],
+      "answer": "By visualizing relationships between culturally significant concepts"
+    }
+  ]
+}
