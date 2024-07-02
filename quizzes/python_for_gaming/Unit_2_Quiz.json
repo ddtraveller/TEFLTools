@@ -1,0 +1,305 @@
+{
+  "title": "Variables and Data Types in Python",
+  "questions": [
+    {
+      "question": "What is a variable in Python?",
+      "choices": [
+        "A fixed value that cannot be changed",
+        "A named storage location that holds a value",
+        "A type of loop in Python",
+        "A built-in function"
+      ],
+      "answer": "A named storage location that holds a value"
+    },
+    {
+      "question": "Which operator is used to assign a value to a variable in Python?",
+      "choices": [
+        "==",
+        ":",
+        "=",
+        "->"
+      ],
+      "answer": "="
+    },
+    {
+      "question": "Which of the following is NOT a basic data type in Python?",
+      "choices": [
+        "Integer",
+        "Float",
+        "String",
+        "Array"
+      ],
+      "answer": "Array"
+    },
+    {
+      "question": "What is the correct way to declare a string variable in Python?",
+      "choices": [
+        "str name = 'Maria'",
+        "name = 'Maria'",
+        "string name = 'Maria'",
+        "name := 'Maria'"
+      ],
+      "answer": "name = 'Maria'"
+    },
+    {
+      "question": "Which of the following represents an integer in Python?",
+      "choices": [
+        "3.14",
+        "'25'",
+        "25",
+        "25.0"
+      ],
+      "answer": "25"
+    },
+    {
+      "question": "What is the result of 10 / 3 in Python?",
+      "choices": [
+        "3",
+        "3.0",
+        "3.33",
+        "3.3333333333333335"
+      ],
+      "answer": "3.3333333333333335"
+    },
+    {
+      "question": "Which operator is used for integer division in Python?",
+      "choices": [
+        "/",
+        "//",
+        "%",
+        "div"
+      ],
+      "answer": "//"
+    },
+    {
+      "question": "What does the % operator do in Python?",
+      "choices": [
+        "Calculates percentage",
+        "Divides two numbers",
+        "Returns the remainder of division",
+        "Converts a number to a percentage"
+      ],
+      "answer": "Returns the remainder of division"
+    },
+    {
+      "question": "How do you concatenate two strings in Python?",
+      "choices": [
+        "Using the & operator",
+        "Using the + operator",
+        "Using the . operator",
+        "Using the concat() function"
+      ],
+      "answer": "Using the + operator"
+    },
+    {
+      "question": "Which method is used to convert a string to uppercase in Python?",
+      "choices": [
+        "toUpper()",
+        "uppercase()",
+        "upper()",
+        "to_upper()"
+      ],
+      "answer": "upper()"
+    },
+    {
+      "question": "What is the output of print(5 ** 2)?",
+      "choices": [
+        "52",
+        "10",
+        "25",
+        "7"
+      ],
+      "answer": "25"
+    },
+    {
+      "question": "Which of the following is a valid variable name in Python?",
+      "choices": [
+        "2ndPlace",
+        "_score",
+        "class",
+        "my-variable"
+      ],
+      "answer": "_score"
+    },
+    {
+      "question": "What is the result of 'hello' + 'world' in Python?",
+      "choices": [
+        "'hello world'",
+        "'helloworld'",
+        "Error",
+        "None of the above"
+      ],
+      "answer": "'helloworld'"
+    },
+    {
+      "question": "Which method removes whitespace from both ends of a string?",
+      "choices": [
+        "trim()",
+        "strip()",
+        "clean()",
+        "remove_whitespace()"
+      ],
+      "answer": "strip()"
+    },
+    {
+      "question": "What is the data type of the result of 3 / 2 in Python?",
+      "choices": [
+        "Integer",
+        "Float",
+        "String",
+        "Boolean"
+      ],
+      "answer": "Float"
+    },
+    {
+      "question": "How do you check the data type of a variable in Python?",
+      "choices": [
+        "Using the datatype() function",
+        "Using the type() function",
+        "Using the typeof operator",
+        "Using the check_type() method"
+      ],
+      "answer": "Using the type() function"
+    },
+    {
+      "question": "What is the result of 10 % 3 in Python?",
+      "choices": [
+        "3",
+        "1",
+        "0.1",
+        "3.33"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Which of the following is NOT a valid way to create a string in Python?",
+      "choices": [
+        "'Hello'",
+        "\"Hello\"",
+        "'''Hello'''",
+        "<Hello>"
+      ],
+      "answer": "<Hello>"
+    },
+    {
+      "question": "What is the output of print(int(5.7))?",
+      "choices": [
+        "5",
+        "6",
+        "5.7",
+        "Error"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "How do you convert a string to lowercase in Python?",
+      "choices": [
+        "str.lowercase()",
+        "str.lower()",
+        "lowercase(str)",
+        "str.to_lower()"
+      ],
+      "answer": "str.lower()"
+    },
+    {
+      "question": "What is the result of 2 * '3' in Python?",
+      "choices": [
+        "6",
+        "'6'",
+        "'33'",
+        "Error"
+      ],
+      "answer": "'33'"
+    },
+    {
+      "question": "Which of the following is true about variables in Python?",
+      "choices": [
+        "They must be declared with a specific type",
+        "They can change type during program execution",
+        "They cannot be reassigned once created",
+        "They must start with a number"
+      ],
+      "answer": "They can change type during program execution"
+    },
+    {
+      "question": "What is the output of print('Hello'.replace('l', 'w'))?",
+      "choices": [
+        "'Hello'",
+        "'Hewwo'",
+        "'Hewlo'",
+        "'Helwo'"
+      ],
+      "answer": "'Hewwo'"
+    },
+    {
+      "question": "How do you get the length of a string in Python?",
+      "choices": [
+        "string.length()",
+        "len(string)",
+        "string.size()",
+        "length(string)"
+      ],
+      "answer": "len(string)"
+    },
+    {
+      "question": "What is the result of 3 * 'abc'?",
+      "choices": [
+        "'abcabcabc'",
+        "'abc3'",
+        "9",
+        "Error"
+      ],
+      "answer": "'abcabcabc'"
+    },
+    {
+      "question": "Which of the following is NOT a valid numeric type in Python?",
+      "choices": [
+        "int",
+        "float",
+        "complex",
+        "decimal"
+      ],
+      "answer": "decimal"
+    },
+    {
+      "question": "What is the output of print(float('3.14'))?",
+      "choices": [
+        "3",
+        "3.14",
+        "'3.14'",
+        "Error"
+      ],
+      "answer": "3.14"
+    },
+    {
+      "question": "How do you convert a float to an integer in Python?",
+      "choices": [
+        "int(float_number)",
+        "float_to_int(number)",
+        "convert(float, int)",
+        "round(float_number)"
+      ],
+      "answer": "int(float_number)"
+    },
+    {
+      "question": "What is the result of '5' + '5' in Python?",
+      "choices": [
+        "10",
+        "'10'",
+        "'55'",
+        "Error"
+      ],
+      "answer": "'55'"
+    },
+    {
+      "question": "Which method is used to find a substring within a string in Python?",
+      "choices": [
+        "search()",
+        "find()",
+        "locate()",
+        "index()"
+      ],
+      "answer": "find()"
+    }
+  ]
+}

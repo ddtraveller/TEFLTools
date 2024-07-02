@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Libraries and APIs",
+  "questions": [
+    {
+      "question": "What is a Python library?",
+      "choices": [
+        "A collection of books about Python",
+        "A pre-written code collection that extends Python's capabilities",
+        "A type of Python data structure",
+        "A Python-specific web browser"
+      ],
+      "answer": "A pre-written code collection that extends Python's capabilities"
+    },
+    {
+      "question": "Which command is used to install external libraries in Python?",
+      "choices": [
+        "install library_name",
+        "python install library_name",
+        "pip install library_name",
+        "library install library_name"
+      ],
+      "answer": "pip install library_name"
+    },
+    {
+      "question": "What does API stand for?",
+      "choices": [
+        "Advanced Python Interface",
+        "Application Programming Interface",
+        "Automated Program Integration",
+        "Advanced Program Installation"
+      ],
+      "answer": "Application Programming Interface"
+    },
+    {
+      "question": "Which library is commonly used for making HTTP requests in Python?",
+      "choices": [
+        "http",
+        "urllib",
+        "requests",
+        "web"
+      ],
+      "answer": "requests"
+    },
+    {
+      "question": "What is the primary purpose of an API?",
+      "choices": [
+        "To create graphical user interfaces",
+        "To allow different software applications to communicate",
+        "To compile Python code",
+        "To encrypt data transmissions"
+      ],
+      "answer": "To allow different software applications to communicate"
+    },
+    {
+      "question": "Which data format is commonly used for API responses?",
+      "choices": [
+        "XML",
+        "CSV",
+        "JSON",
+        "HTML"
+      ],
+      "answer": "JSON"
+    },
+    {
+      "question": "What does JSON stand for?",
+      "choices": [
+        "Java Script Object Notation",
+        "JavaScript Object Notation",
+        "Java Serialized Object Notation",
+        "JavaScript Oriented Notation"
+      ],
+      "answer": "JavaScript Object Notation"
+    },
+    {
+      "question": "Which Python library is commonly used for data visualization?",
+      "choices": [
+        "visualize",
+        "pyplot",
+        "matplotlib",
+        "graphlib"
+      ],
+      "answer": "matplotlib"
+    },
+    {
+      "question": "What is the purpose of the 'import' statement in Python?",
+      "choices": [
+        "To create a new variable",
+        "To define a function",
+        "To include external libraries or modules",
+        "To print output to the console"
+      ],
+      "answer": "To include external libraries or modules"
+    },
+    {
+      "question": "Which HTTP method is typically used to retrieve data from an API?",
+      "choices": [
+        "POST",
+        "GET",
+        "PUT",
+        "DELETE"
+      ],
+      "answer": "GET"
+    },
+    {
+      "question": "What is a common use case for APIs in Python programming?",
+      "choices": [
+        "To create graphical user interfaces",
+        "To compile Python code",
+        "To retrieve data from external services",
+        "To define new Python syntax"
+      ],
+      "answer": "To retrieve data from external services"
+    },
+    {
+      "question": "Which Python module is used to parse JSON data?",
+      "choices": [
+        "jsonlib",
+        "json",
+        "parse_json",
+        "json_parser"
+      ],
+      "answer": "json"
+    },
+    {
+      "question": "What is the typical first step when using an external library in Python?",
+      "choices": [
+        "Importing the library",
+        "Installing the library",
+        "Updating Python",
+        "Creating a new Python file"
+      ],
+      "answer": "Installing the library"
+    },
+    {
+      "question": "Which of the following is NOT a common type of API?",
+      "choices": [
+        "REST API",
+        "SOAP API",
+        "GraphQL API",
+        "PYTHON API"
+      ],
+      "answer": "PYTHON API"
+    },
+    {
+      "question": "What is the purpose of API documentation?",
+      "choices": [
+        "To provide the source code of the API",
+        "To explain how to use the API and what endpoints are available",
+        "To list all the users of the API",
+        "To show the API's performance metrics"
+      ],
+      "answer": "To explain how to use the API and what endpoints are available"
+    },
+    {
+      "question": "What is an API key typically used for?",
+      "choices": [
+        "To encrypt API responses",
+        "To authenticate and authorize API requests",
+        "To compress API data",
+        "To translate API responses to different languages"
+      ],
+      "answer": "To authenticate and authorize API requests"
+    },
+    {
+      "question": "Which of the following is a benefit of using libraries in Python?",
+      "choices": [
+        "It makes the code run slower",
+        "It requires writing more code",
+        "It saves time by reusing existing code",
+        "It makes the code more difficult to understand"
+      ],
+      "answer": "It saves time by reusing existing code"
+    },
+    {
+      "question": "What is an API endpoint?",
+      "choices": [
+        "The final line of code in an API",
+        "A specific URL where an API can be accessed",
+        "The last data point returned by an API",
+        "The API's terms of service"
+      ],
+      "answer": "A specific URL where an API can be accessed"
+    },
+    {
+      "question": "Which of the following is NOT a common HTTP status code?",
+      "choices": [
+        "200 OK",
+        "404 Not Found",
+        "500 Internal Server Error",
+        "600 Server Busy"
+      ],
+      "answer": "600 Server Busy"
+    },
+    {
+      "question": "What does the requests.get() function return?",
+      "choices": [
+        "A string containing the response data",
+        "A Response object",
+        "A JSON object",
+        "A boolean indicating success or failure"
+      ],
+      "answer": "A Response object"
+    },
+    {
+      "question": "Which method is used to extract the content of a response from the requests library?",
+      "choices": [
+        "response.content",
+        "response.text",
+        "response.body",
+        "response.data"
+      ],
+      "answer": "response.text"
+    },
+    {
+      "question": "What is the purpose of the json.loads() function in Python?",
+      "choices": [
+        "To create a new JSON file",
+        "To send JSON data to an API",
+        "To parse a JSON string into a Python object",
+        "To validate JSON syntax"
+      ],
+      "answer": "To parse a JSON string into a Python object"
+    },
+    {
+      "question": "Which of the following is NOT a common type of data visualization?",
+      "choices": [
+        "Bar chart",
+        "Line graph",
+        "Pie chart",
+        "Tree diagram"
+      ],
+      "answer": "Tree diagram"
+    },
+    {
+      "question": "What is the purpose of the plt.show() function in matplotlib?",
+      "choices": [
+        "To create a new plot",
+        "To save the plot as an image file",
+        "To display the plot",
+        "To clear the current plot"
+      ],
+      "answer": "To display the plot"
+    },
+    {
+      "question": "Which of the following is a drawback of using external libraries?",
+      "choices": [
+        "Increased code reusability",
+        "Potential dependency issues",
+        "Improved code organization",
+        "Enhanced functionality"
+      ],
+      "answer": "Potential dependency issues"
+    },
+    {
+      "question": "What is the purpose of the requests.post() function?",
+      "choices": [
+        "To retrieve data from an API",
+        "To send data to an API",
+        "To update existing data in an API",
+        "To delete data from an API"
+      ],
+      "answer": "To send data to an API"
+    },
+    {
+      "question": "Which of the following is NOT a common parameter in API requests?",
+      "choices": [
+        "API key",
+        "Endpoint",
+        "Query parameters",
+        "CPU usage"
+      ],
+      "answer": "CPU usage"
+    },
+    {
+      "question": "What is the purpose of error handling when working with APIs?",
+      "choices": [
+        "To make the code run faster",
+        "To reduce the amount of data returned",
+        "To handle unexpected responses or failures gracefully",
+        "To encrypt the API communication"
+      ],
+      "answer": "To handle unexpected responses or failures gracefully"
+    },
+    {
+      "question": "Which of the following is a best practice when using API keys?",
+      "choices": [
+        "Hardcoding them in your source code",
+        "Sharing them publicly to encourage collaboration",
+        "Storing them in environment variables or configuration files",
+        "Using the same key for all your projects"
+      ],
+      "answer": "Storing them in environment variables or configuration files"
+    },
+    {
+      "question": "What is the primary advantage of using JSON for API responses?",
+      "choices": [
+        "It's the fastest data format",
+        "It's easy for both humans and machines to read",
+        "It's the most secure data format",
+        "It's the only format supported by Python"
+      ],
+      "answer": "It's easy for both humans and machines to read"
+    }
+  ]
+}

@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 import time
 import json
 import PyPDF2
+import tiktoken
 
 # Initialize the Anthropic client
 client = anthropic.Anthropic()
@@ -43,10 +44,27 @@ def write_to_file(content, file_path):
         file.write(content)
     print(f"Written file: {file_path}")
 
+def num_tokens_from_string(string: str, encoding_name: str = "cl100k_base") -> int:
+    """Returns the number of tokens in a text string."""
+    encoding = tiktoken.get_encoding(encoding_name)
+    num_tokens = len(encoding.encode(string))
+    return num_tokens
+
+def truncate_to_token_limit(text: str, max_tokens: int = 199999) -> str:
+    """Truncates the text to fit within the specified token limit."""
+    encoding = tiktoken.get_encoding("cl100k_base")
+    tokens = encoding.encode(text)
+    if len(tokens) <= max_tokens:
+        return text
+    return encoding.decode(tokens[:max_tokens])
+
 def generate_syllabus(project_info):
     """Generate a syllabus based on the project information using Claude."""
+    # Truncate project_info to fit within token limit
+    truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)  # Leave some room for the prompt
+
     prompt = f"""Given the following project information:
-{project_info}
+{truncated_info}
 Please do the following:
 1. Synthesize the key points and goals of the project
 2. Localize the content for Timor Leste, considering cultural context and appropriateness

@@ -1,0 +1,305 @@
+{
+  "title": "Learning Unit 8: Final Project",
+  "questions": [
+    {
+      "question": "What is the main objective of the final project in this course?",
+      "choices": [
+        "To learn a new programming language",
+        "To apply learned concepts to a real-world problem in Timor-Leste",
+        "To create a video game",
+        "To write a research paper on Python"
+      ],
+      "answer": "To apply learned concepts to a real-world problem in Timor-Leste"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a suggested project idea?",
+      "choices": [
+        "An app to track local market prices",
+        "A tool to help farmers",
+        "An educational game about Timorese culture",
+        "A social media platform for Timor-Leste"
+      ],
+      "answer": "A social media platform for Timor-Leste"
+    },
+    {
+      "question": "What is the recommended group size for the final project?",
+      "choices": [
+        "Individual work",
+        "Pairs",
+        "3-4 members",
+        "5-6 members"
+      ],
+      "answer": "3-4 members"
+    },
+    {
+      "question": "What is the definition of a Minimum Viable Product (MVP)?",
+      "choices": [
+        "A fully-featured product ready for market",
+        "A version of a product with just enough features to be usable by early customers",
+        "A prototype that doesn't work",
+        "The final version of a product after years of development"
+      ],
+      "answer": "A version of a product with just enough features to be usable by early customers"
+    },
+    {
+      "question": "Which of the following is NOT a key component of project management?",
+      "choices": [
+        "Initiating",
+        "Planning",
+        "Executing",
+        "Outsourcing"
+      ],
+      "answer": "Outsourcing"
+    },
+    {
+      "question": "What is Agile Development?",
+      "choices": [
+        "A rigid, structured approach to software development",
+        "An iterative approach emphasizing flexibility and collaboration",
+        "A method of developing software without any planning",
+        "A technique for writing code faster"
+      ],
+      "answer": "An iterative approach emphasizing flexibility and collaboration"
+    },
+    {
+      "question": "Which of the following is NOT a basic Git command?",
+      "choices": [
+        "git init",
+        "git add",
+        "git commit",
+        "git delete"
+      ],
+      "answer": "git delete"
+    },
+    {
+      "question": "What is the purpose of user stories in project planning?",
+      "choices": [
+        "To entertain the development team",
+        "To define features from the user's perspective",
+        "To create a marketing strategy",
+        "To test the final product"
+      ],
+      "answer": "To define features from the user's perspective"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a required resource for the course?",
+      "choices": [
+        "Computer with internet access",
+        "Python 3.x installed",
+        "Text editor",
+        "Smartphone"
+      ],
+      "answer": "Smartphone"
+    },
+    {
+      "question": "What is the recommended text for the course?",
+      "choices": [
+        "Python for Dummies",
+        "Learning Python the Hard Way",
+        "Think Python by Allen B. Downey",
+        "Python Crash Course"
+      ],
+      "answer": "Think Python by Allen B. Downey"
+    },
+    {
+      "question": "Which of the following is suggested as a way to gain practical experience?",
+      "choices": [
+        "Watching Python tutorials on YouTube",
+        "Reading Python blogs",
+        "Participating in a 'code for good' hackathon",
+        "Memorizing Python syntax"
+      ],
+      "answer": "Participating in a 'code for good' hackathon"
+    },
+    {
+      "question": "What is the purpose of inviting local tech professionals to give guest lectures?",
+      "choices": [
+        "To provide entertainment",
+        "To offer real-world insights and experiences",
+        "To grade student projects",
+        "To teach advanced Python concepts"
+      ],
+      "answer": "To offer real-world insights and experiences"
+    },
+    {
+      "question": "Which online resource is mentioned for additional Python learning?",
+      "choices": [
+        "Udacity",
+        "Coursera",
+        "edX",
+        "Codecademy"
+      ],
+      "answer": "Codecademy"
+    },
+    {
+      "question": "What is the purpose of the individual reflection paper in the final project?",
+      "choices": [
+        "To practice creative writing",
+        "To reflect on the project experience and learnings",
+        "To critique other teams' projects",
+        "To propose future course improvements"
+      ],
+      "answer": "To reflect on the project experience and learnings"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in the final project unit?",
+      "choices": [
+        "Project planning",
+        "Implementing a larger program",
+        "Presenting results",
+        "Advanced algorithms"
+      ],
+      "answer": "Advanced algorithms"
+    },
+    {
+      "question": "What is the recommended length for the final project presentation?",
+      "choices": [
+        "5-10 minutes",
+        "10-15 minutes",
+        "20-25 minutes",
+        "30-45 minutes"
+      ],
+      "answer": "10-15 minutes"
+    },
+    {
+      "question": "Which of the following is NOT part of the final project deliverables?",
+      "choices": [
+        "Source code",
+        "User manual",
+        "Project presentation",
+        "Marketing plan"
+      ],
+      "answer": "Marketing plan"
+    },
+    {
+      "question": "What percentage of the final project grade is allocated to functionality?",
+      "choices": [
+        "20%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": "40%"
+    },
+    {
+      "question": "Which Python library is recommended for GUI development in the final project?",
+      "choices": [
+        "PyQt",
+        "Kivy",
+        "Tkinter",
+        "wxPython"
+      ],
+      "answer": "Tkinter"
+    },
+    {
+      "question": "What is the purpose of using version control (e.g., Git) in the project?",
+      "choices": [
+        "To make the project more complicated",
+        "To track changes and facilitate collaboration",
+        "To impress the instructor",
+        "To automatically fix bugs"
+      ],
+      "answer": "To track changes and facilitate collaboration"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential challenge in project implementation?",
+      "choices": [
+        "Time management",
+        "Technical difficulties",
+        "Team collaboration",
+        "Language barriers"
+      ],
+      "answer": "Language barriers"
+    },
+    {
+      "question": "What is the recommended approach for breaking down a large project?",
+      "choices": [
+        "Tackle it all at once",
+        "Divide it into smaller, manageable tasks",
+        "Assign the entire project to one team member",
+        "Wait until the last minute and rush"
+      ],
+      "answer": "Divide it into smaller, manageable tasks"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key principle of Agile Development?",
+      "choices": [
+        "Individuals and interactions over processes and tools",
+        "Working software over comprehensive documentation",
+        "Customer collaboration over contract negotiation",
+        "Following a strict plan over responding to change"
+      ],
+      "answer": "Following a strict plan over responding to change"
+    },
+    {
+      "question": "What is the purpose of creating a product backlog in project management?",
+      "choices": [
+        "To list all completed tasks",
+        "To prioritize and track pending tasks and features",
+        "To document project failures",
+        "To assign blame for project delays"
+      ],
+      "answer": "To prioritize and track pending tasks and features"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a best practice for code organization?",
+      "choices": [
+        "Modular programming",
+        "Consistent naming conventions",
+        "Commenting and documentation",
+        "Writing all code in a single file"
+      ],
+      "answer": "Writing all code in a single file"
+    },
+    {
+      "question": "What is the recommended structure for the final project presentation?",
+      "choices": [
+        "Introduction, Body, Conclusion",
+        "Problem, Solution, Demo",
+        "Team, Code, Questions",
+        "Jokes, Demo, More Jokes"
+      ],
+      "answer": "Introduction, Body, Conclusion"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a demo best practice?",
+      "choices": [
+        "Prepare a script",
+        "Test thoroughly before presentation",
+        "Have a backup plan for technical issues",
+        "Improvise the entire demo"
+      ],
+      "answer": "Improvise the entire demo"
+    },
+    {
+      "question": "What is the purpose of the user manual deliverable in the final project?",
+      "choices": [
+        "To pad the project requirements",
+        "To provide instructions on how to use the program",
+        "To showcase the team's writing skills",
+        "To replace the need for a good user interface"
+      ],
+      "answer": "To provide instructions on how to use the program"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a grading criterion for the final project?",
+      "choices": [
+        "Functionality",
+        "Code quality and organization",
+        "User interface and experience",
+        "Number of lines of code"
+      ],
+      "answer": "Number of lines of code"
+    },
+    {
+      "question": "What is the purpose of incorporating error handling in the final project?",
+      "choices": [
+        "To make the code longer",
+        "To confuse users",
+        "To improve the robustness and user experience of the program",
+        "To showcase advanced Python skills"
+      ],
+      "answer": "To improve the robustness and user experience of the program"
+    }
+  ]
+}
