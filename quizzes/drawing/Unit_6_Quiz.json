@@ -1,0 +1,305 @@
+{
+  "title": "Figure Drawing Basics",
+  "questions": [
+    {
+      "question": "In the 8-head proportion system, how many 'heads' tall is the average adult human figure?",
+      "choices": [
+        "6 heads",
+        "7 heads",
+        "8 heads",
+        "9 heads"
+      ],
+      "answer": "8 heads"
+    },
+    {
+      "question": "Where is the navel typically located in the 8-head proportion system?",
+      "choices": [
+        "At 3 heads",
+        "At 4 heads",
+        "At 5 heads",
+        "At 6 heads"
+      ],
+      "answer": "At 4 heads"
+    },
+    {
+      "question": "What is the primary purpose of gesture drawing?",
+      "choices": [
+        "To create detailed anatomical studies",
+        "To capture the essence and energy of a pose quickly",
+        "To practice shading techniques",
+        "To draw perfect proportions"
+      ],
+      "answer": "To capture the essence and energy of a pose quickly"
+    },
+    {
+      "question": "How long do gesture drawings typically take?",
+      "choices": [
+        "5-10 minutes",
+        "30 seconds to 1 minute",
+        "10-15 minutes",
+        "2-5 minutes"
+      ],
+      "answer": "30 seconds to 1 minute"
+    },
+    {
+      "question": "Which shape is commonly used to represent the ribcage when constructing a figure?",
+      "choices": [
+        "Square",
+        "Triangle",
+        "Oval",
+        "Rectangle"
+      ],
+      "answer": "Oval"
+    },
+    {
+      "question": "Where are the eyes typically placed on the head in basic facial proportion?",
+      "choices": [
+        "At the very top of the head",
+        "One-third down from the top of the head",
+        "Halfway down the head",
+        "Two-thirds down from the top of the head"
+      ],
+      "answer": "Halfway down the head"
+    },
+    {
+      "question": "What is the approximate location of the mouth in facial proportions?",
+      "choices": [
+        "Halfway between the nose and chin",
+        "One-third of the way between nose and chin",
+        "At the bottom of the chin",
+        "Directly under the nose"
+      ],
+      "answer": "One-third of the way between nose and chin"
+    },
+    {
+      "question": "Which of the following is NOT typically used in constructing a simplified figure?",
+      "choices": [
+        "Cylinders for limbs",
+        "Ovals for the head",
+        "Triangles for the shoulders",
+        "Squares for the hands"
+      ],
+      "answer": "Squares for the hands"
+    },
+    {
+      "question": "How many heads tall is a child typically drawn in proportion systems?",
+      "choices": [
+        "8 heads",
+        "7 heads",
+        "5-6 heads",
+        "4 heads"
+      ],
+      "answer": "5-6 heads"
+    },
+    {
+      "question": "What is the main focus in gesture drawing?",
+      "choices": [
+        "Detailed musculature",
+        "Precise facial features",
+        "Overall movement and flow",
+        "Accurate proportions"
+      ],
+      "answer": "Overall movement and flow"
+    },
+    {
+      "question": "Which feature is typically drawn first when sketching a face?",
+      "choices": [
+        "Nose",
+        "Eyes",
+        "Mouth",
+        "Ears"
+      ],
+      "answer": "Eyes"
+    },
+    {
+      "question": "What is contour drawing in figure drawing?",
+      "choices": [
+        "Shading technique",
+        "Capturing the outline or edges of a form",
+        "Drawing muscles",
+        "Sketching facial expressions"
+      ],
+      "answer": "Capturing the outline or edges of a form"
+    },
+    {
+      "question": "Which of these is NOT a common shape used in constructing a simplified figure?",
+      "choices": [
+        "Ovals",
+        "Cylinders",
+        "Triangles",
+        "Hexagons"
+      ],
+      "answer": "Hexagons"
+    },
+    {
+      "question": "What does the 'line of action' refer to in gesture drawing?",
+      "choices": [
+        "The outline of the figure",
+        "The main curve of the body",
+        "The direction of light",
+        "The path of movement"
+      ],
+      "answer": "The main curve of the body"
+    },
+    {
+      "question": "In the 8-head proportion system, where is the crotch typically located?",
+      "choices": [
+        "At 3 heads",
+        "At 4 heads",
+        "At 5 heads",
+        "At 6 heads"
+      ],
+      "answer": "At 4 heads"
+    },
+    {
+      "question": "What is the purpose of using simple shapes to construct a figure?",
+      "choices": [
+        "To make the drawing look abstract",
+        "To establish the basic structure before adding details",
+        "To avoid drawing complex anatomy",
+        "To make the drawing process faster"
+      ],
+      "answer": "To establish the basic structure before adding details"
+    },
+    {
+      "question": "Which facial feature is typically aligned with the top of the ears?",
+      "choices": [
+        "Hairline",
+        "Eyebrows",
+        "Nose",
+        "Mouth"
+      ],
+      "answer": "Eyebrows"
+    },
+    {
+      "question": "What is the benefit of practicing quick gesture drawings?",
+      "choices": [
+        "It helps in creating highly detailed drawings",
+        "It improves observation skills and hand-eye coordination",
+        "It allows for precise measurement of proportions",
+        "It focuses on rendering textures accurately"
+      ],
+      "answer": "It improves observation skills and hand-eye coordination"
+    },
+    {
+      "question": "Which of these is NOT typically associated with a surprised expression?",
+      "choices": [
+        "Raised eyebrows",
+        "Wide eyes",
+        "Open mouth",
+        "Furrowed brow"
+      ],
+      "answer": "Furrowed brow"
+    },
+    {
+      "question": "In figure drawing, what does 'form' refer to?",
+      "choices": [
+        "The outline of the figure",
+        "The three-dimensional quality of the figure",
+        "The pose of the model",
+        "The style of the artist"
+      ],
+      "answer": "The three-dimensional quality of the figure"
+    },
+    {
+      "question": "Which of these is most important in gesture drawing?",
+      "choices": [
+        "Accurate proportions",
+        "Detailed facial features",
+        "Capturing the energy and movement",
+        "Precise muscle definition"
+      ],
+      "answer": "Capturing the energy and movement"
+    },
+    {
+      "question": "What is the typical proportion of the legs in the 8-head system?",
+      "choices": [
+        "2 heads",
+        "3 heads",
+        "4 heads",
+        "5 heads"
+      ],
+      "answer": "4 heads"
+    },
+    {
+      "question": "Which of these is NOT a common characteristic when drawing elderly figures?",
+      "choices": [
+        "Slightly shorter overall height",
+        "More pronounced curvature of the spine",
+        "Longer limbs",
+        "Changes in facial features"
+      ],
+      "answer": "Longer limbs"
+    },
+    {
+      "question": "What is the purpose of blind contour drawing exercises?",
+      "choices": [
+        "To create realistic portraits",
+        "To improve hand-eye coordination and observation skills",
+        "To practice shading techniques",
+        "To learn digital drawing tools"
+      ],
+      "answer": "To improve hand-eye coordination and observation skills"
+    },
+    {
+      "question": "Which of these is typically associated with an angry expression?",
+      "choices": [
+        "Upturned mouth",
+        "Raised eyebrows",
+        "Furrowed brow",
+        "Wide eyes"
+      ],
+      "answer": "Furrowed brow"
+    },
+    {
+      "question": "In figure drawing, what does 'foreshortening' refer to?",
+      "choices": [
+        "Drawing figures shorter than they are",
+        "The illusion of an object receding in space",
+        "A technique for drawing hands",
+        "A method of shading"
+      ],
+      "answer": "The illusion of an object receding in space"
+    },
+    {
+      "question": "Which of these is NOT typically a focus in basic figure drawing?",
+      "choices": [
+        "Proportions",
+        "Gesture",
+        "Form",
+        "Detailed rendering of clothing textures"
+      ],
+      "answer": "Detailed rendering of clothing textures"
+    },
+    {
+      "question": "What is the purpose of studying anatomy for figure drawing?",
+      "choices": [
+        "To become a medical illustrator",
+        "To understand the underlying structure of the body",
+        "To draw only muscular figures",
+        "To avoid drawing realistic figures"
+      ],
+      "answer": "To understand the underlying structure of the body"
+    },
+    {
+      "question": "Which of these is most useful for practicing dynamic figure poses?",
+      "choices": [
+        "Still life drawing",
+        "Landscape sketching",
+        "Gesture drawing",
+        "Portrait painting"
+      ],
+      "answer": "Gesture drawing"
+    },
+    {
+      "question": "What is the benefit of drawing figures from life rather than photographs?",
+      "choices": [
+        "It's easier to get perfect proportions",
+        "It allows for better understanding of three-dimensional form",
+        "Photographs are never available",
+        "Life drawing is always faster"
+      ],
+      "answer": "It allows for better understanding of three-dimensional form"
+    }
+  ]
+}

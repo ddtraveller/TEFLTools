@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Object-Oriented Programming",
+  "questions": [
+    {
+      "question": "What is a class in object-oriented programming?",
+      "choices": [
+        "A type of loop",
+        "A blueprint for creating objects",
+        "A built-in Python function",
+        "A type of variable"
+      ],
+      "answer": "A blueprint for creating objects"
+    },
+    {
+      "question": "What is an object in OOP?",
+      "choices": [
+        "A piece of code that performs a specific task",
+        "A type of data structure",
+        "An instance of a class",
+        "A function that returns a value"
+      ],
+      "answer": "An instance of a class"
+    },
+    {
+      "question": "What is an attribute in OOP?",
+      "choices": [
+        "A variable that belongs to a class or object",
+        "A function that belongs to a class",
+        "A type of loop",
+        "A way to import modules"
+      ],
+      "answer": "A variable that belongs to a class or object"
+    },
+    {
+      "question": "What is a method in OOP?",
+      "choices": [
+        "A type of variable",
+        "A function that belongs to a class",
+        "A way to create objects",
+        "A type of data structure"
+      ],
+      "answer": "A function that belongs to a class"
+    },
+    {
+      "question": "What is the purpose of the __init__ method in Python classes?",
+      "choices": [
+        "To delete objects",
+        "To initialize new objects",
+        "To import modules",
+        "To define class attributes"
+      ],
+      "answer": "To initialize new objects"
+    },
+    {
+      "question": "Which of the following is a benefit of OOP?",
+      "choices": [
+        "Increased code complexity",
+        "Reduced code reusability",
+        "Improved modularity",
+        "Slower execution speed"
+      ],
+      "answer": "Improved modularity"
+    },
+    {
+      "question": "What is encapsulation in OOP?",
+      "choices": [
+        "The process of creating objects",
+        "The bundling of data and methods that operate on that data within a single unit",
+        "The ability of a class to inherit from multiple parent classes",
+        "The process of converting code to machine language"
+      ],
+      "answer": "The bundling of data and methods that operate on that data within a single unit"
+    },
+    {
+      "question": "In Python, how do you typically create an instance of a class?",
+      "choices": [
+        "By using the 'new' keyword",
+        "By calling the class name as if it were a function",
+        "By using the 'create' method",
+        "By importing the class from a module"
+      ],
+      "answer": "By calling the class name as if it were a function"
+    },
+    {
+      "question": "What is the correct syntax for defining a class in Python?",
+      "choices": [
+        "class MyClass {}",
+        "def MyClass():",
+        "class MyClass():",
+        "create MyClass:"
+      ],
+      "answer": "class MyClass():"
+    },
+    {
+      "question": "Which of the following is true about the 'self' parameter in Python class methods?",
+      "choices": [
+        "It is optional and can be omitted",
+        "It refers to the class itself",
+        "It refers to the instance of the class",
+        "It is used to create new objects"
+      ],
+      "answer": "It refers to the instance of the class"
+    },
+    {
+      "question": "What is the purpose of creating a UmaLulik class in the context of Timor-Leste?",
+      "choices": [
+        "To represent a traditional Timorese house",
+        "To model a coffee plantation",
+        "To simulate a government structure",
+        "To create a banking system"
+      ],
+      "answer": "To represent a traditional Timorese house"
+    },
+    {
+      "question": "In the context of the lesson, what might be an attribute of the UmaLulik class?",
+      "choices": [
+        "Process orders",
+        "Calculate taxes",
+        "Size",
+        "Brew coffee"
+      ],
+      "answer": "Size"
+    },
+    {
+      "question": "What is a potential method for the UmaLulik class?",
+      "choices": [
+        "Grow crops",
+        "Renovate",
+        "Sell products",
+        "Teach students"
+      ],
+      "answer": "Renovate"
+    },
+    {
+      "question": "What is the purpose of creating a Coffee class in the context of Timor-Leste?",
+      "choices": [
+        "To model the country's main export",
+        "To represent a type of building",
+        "To simulate weather patterns",
+        "To manage student records"
+      ],
+      "answer": "To model the country's main export"
+    },
+    {
+      "question": "Which of the following would be an appropriate attribute for the Coffee class?",
+      "choices": [
+        "Number of wheels",
+        "Battery life",
+        "Origin",
+        "Screen size"
+      ],
+      "answer": "Origin"
+    },
+    {
+      "question": "What method might be useful for the Coffee class?",
+      "choices": [
+        "Start engine",
+        "Calculate total cost",
+        "Print document",
+        "Send email"
+      ],
+      "answer": "Calculate total cost"
+    },
+    {
+      "question": "In the context of the inventory management system for a coffee cooperative, what might the Product class represent?",
+      "choices": [
+        "Individual coffee beans",
+        "Coffee packaging and merchandise",
+        "Farming equipment",
+        "Cooperative members"
+      ],
+      "answer": "Coffee packaging and merchandise"
+    },
+    {
+      "question": "What would be a suitable method for the Inventory class in the coffee cooperative system?",
+      "choices": [
+        "Brew coffee",
+        "Hire employees",
+        "Update stock levels",
+        "Set coffee prices"
+      ],
+      "answer": "Update stock levels"
+    },
+    {
+      "question": "What is the purpose of creating a Student class in the lesson's context?",
+      "choices": [
+        "To manage school finances",
+        "To represent individual learners",
+        "To schedule classes",
+        "To grade exams automatically"
+      ],
+      "answer": "To represent individual learners"
+    },
+    {
+      "question": "Which of the following would be an appropriate method for the Student class?",
+      "choices": [
+        "Teach class",
+        "Take exam",
+        "Assign homework",
+        "Clean classroom"
+      ],
+      "answer": "Take exam"
+    },
+    {
+      "question": "What is the purpose of the TaisShop class in the homework assignment?",
+      "choices": [
+        "To represent a coffee shop",
+        "To model a traditional cloth shop",
+        "To simulate a school",
+        "To create a banking system"
+      ],
+      "answer": "To model a traditional cloth shop"
+    },
+    {
+      "question": "Which of the following would be an appropriate attribute for the TaisShop class?",
+      "choices": [
+        "Coffee beans in stock",
+        "Number of students",
+        "Inventory of traditional cloths",
+        "Vehicle fuel level"
+      ],
+      "answer": "Inventory of traditional cloths"
+    },
+    {
+      "question": "What method might be useful for the TaisShop class?",
+      "choices": [
+        "Brew coffee",
+        "Teach lesson",
+        "Generate sales report",
+        "Harvest crops"
+      ],
+      "answer": "Generate sales report"
+    },
+    {
+      "question": "In OOP, what does the term 'instance' refer to?",
+      "choices": [
+        "A blueprint for creating objects",
+        "A function that belongs to a class",
+        "A specific object created from a class",
+        "A variable that belongs to a class"
+      ],
+      "answer": "A specific object created from a class"
+    },
+    {
+      "question": "What is the main purpose of using OOP in the context of Timor-Leste's development?",
+      "choices": [
+        "To make programming more difficult",
+        "To model and solve local problems efficiently",
+        "To reduce the need for computers",
+        "To replace traditional practices"
+      ],
+      "answer": "To model and solve local problems efficiently"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a class in Python?",
+      "choices": [
+        "Attributes",
+        "Methods",
+        "Constructor",
+        "Database"
+      ],
+      "answer": "Database"
+    },
+    {
+      "question": "What is the purpose of the 'self' keyword in Python class methods?",
+      "choices": [
+        "To create a new object",
+        "To refer to the current instance of the class",
+        "To define a new method",
+        "To import modules"
+      ],
+      "answer": "To refer to the current instance of the class"
+    },
+    {
+      "question": "In the context of the lesson, what might be a method of the Order class in the coffee cooperative system?",
+      "choices": [
+        "Grow coffee",
+        "Roast beans",
+        "Process payment",
+        "Hire employees"
+      ],
+      "answer": "Process payment"
+    },
+    {
+      "question": "What is the main advantage of using classes to model real-world entities?",
+      "choices": [
+        "It makes the code run faster",
+        "It reduces the need for variables",
+        "It allows for more accurate and intuitive representation of complex systems",
+        "It eliminates the need for functions"
+      ],
+      "answer": "It allows for more accurate and intuitive representation of complex systems"
+    },
+    {
+      "question": "In the context of Timor-Leste, how might OOP be used to address local challenges?",
+      "choices": [
+        "By replacing traditional farming methods",
+        "By eliminating the need for manual labor",
+        "By modeling and simulating complex systems like agriculture or resource management",
+        "By automating all government processes"
+      ],
+      "answer": "By modeling and simulating complex systems like agriculture or resource management"
+    }
+  ]
+}

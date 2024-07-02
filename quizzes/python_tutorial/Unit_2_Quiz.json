@@ -1,0 +1,305 @@
+{
+  "title": "Control Flow in Python",
+  "questions": [
+    {
+      "question": "What is the primary purpose of conditional statements in Python?",
+      "choices": [
+        "To define functions",
+        "To make decisions based on specific conditions",
+        "To create loops",
+        "To import modules"
+      ],
+      "answer": "To make decisions based on specific conditions"
+    },
+    {
+      "question": "Which keyword is used to start an if statement in Python?",
+      "choices": [
+        "if",
+        "elif",
+        "else",
+        "then"
+      ],
+      "answer": "if"
+    },
+    {
+      "question": "What is the purpose of the 'elif' keyword in Python?",
+      "choices": [
+        "To end an if statement",
+        "To check additional conditions if the previous conditions are false",
+        "To define a loop",
+        "To import a module"
+      ],
+      "answer": "To check additional conditions if the previous conditions are false"
+    },
+    {
+      "question": "Which of the following is NOT a valid comparison operator in Python?",
+      "choices": [
+        "==",
+        "!=",
+        "<>",
+        ">="
+      ],
+      "answer": "<>"
+    },
+    {
+      "question": "What type of value does a boolean expression evaluate to?",
+      "choices": [
+        "Integer",
+        "String",
+        "Float",
+        "True or False"
+      ],
+      "answer": "True or False"
+    },
+    {
+      "question": "Which loop is used to iterate over a sequence in Python?",
+      "choices": [
+        "while loop",
+        "for loop",
+        "do-while loop",
+        "repeat-until loop"
+      ],
+      "answer": "for loop"
+    },
+    {
+      "question": "What is the purpose of the 'break' statement in a loop?",
+      "choices": [
+        "To skip the current iteration",
+        "To exit the loop immediately",
+        "To continue to the next iteration",
+        "To restart the loop"
+      ],
+      "answer": "To exit the loop immediately"
+    },
+    {
+      "question": "Which of the following is true about the 'else' clause in a Python if-elif-else statement?",
+      "choices": [
+        "It is mandatory",
+        "It is executed if all previous conditions are false",
+        "It can contain another if statement",
+        "It must be followed by a condition"
+      ],
+      "answer": "It is executed if all previous conditions are false"
+    },
+    {
+      "question": "What does the 'range()' function do in a for loop?",
+      "choices": [
+        "Defines the loop variable",
+        "Specifies the number of iterations",
+        "Creates a list to iterate over",
+        "Determines the step size of the loop"
+      ],
+      "answer": "Creates a list to iterate over"
+    },
+    {
+      "question": "Which statement is used to skip the rest of the current iteration and move to the next one in a loop?",
+      "choices": [
+        "break",
+        "continue",
+        "pass",
+        "skip"
+      ],
+      "answer": "continue"
+    },
+    {
+      "question": "What is the correct way to check if a variable 'x' is between 10 and 20 (inclusive)?",
+      "choices": [
+        "10 < x < 20",
+        "10 <= x <= 20",
+        "x > 10 and x < 20",
+        "x >= 10 or x <= 20"
+      ],
+      "answer": "10 <= x <= 20"
+    },
+    {
+      "question": "Which of the following is NOT a valid loop in Python?",
+      "choices": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "nested loop"
+      ],
+      "answer": "do-while loop"
+    },
+    {
+      "question": "What is the purpose of indentation in Python's control flow structures?",
+      "choices": [
+        "To make the code look neat",
+        "To define code blocks",
+        "To increase execution speed",
+        "To declare variables"
+      ],
+      "answer": "To define code blocks"
+    },
+    {
+      "question": "Which of the following is true about the 'while' loop in Python?",
+      "choices": [
+        "It always executes at least once",
+        "It requires a counter variable",
+        "It continues as long as the condition is True",
+        "It can only be used with numbers"
+      ],
+      "answer": "It continues as long as the condition is True"
+    },
+    {
+      "question": "What is the output of the following code: print(5 > 3 and 2 < 4)",
+      "choices": [
+        "True",
+        "False",
+        "5",
+        "Error"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is NOT a valid way to combine conditions in Python?",
+      "choices": [
+        "and",
+        "or",
+        "not",
+        "xor"
+      ],
+      "answer": "xor"
+    },
+    {
+      "question": "What does the 'pass' statement do in Python?",
+      "choices": [
+        "Skips the current iteration",
+        "Exits the loop",
+        "Does nothing and acts as a placeholder",
+        "Raises an exception"
+      ],
+      "answer": "Does nothing and acts as a placeholder"
+    },
+    {
+      "question": "Which of the following is true about nested loops in Python?",
+      "choices": [
+        "They are not allowed",
+        "They can only be used with for loops",
+        "They can be used to create complex iterations",
+        "They always cause infinite loops"
+      ],
+      "answer": "They can be used to create complex iterations"
+    },
+    {
+      "question": "What is the purpose of the 'else' clause in a for loop?",
+      "choices": [
+        "It is executed if the loop completes normally",
+        "It is executed if the loop is broken",
+        "It is used to define the loop variable",
+        "It is not valid in a for loop"
+      ],
+      "answer": "It is executed if the loop completes normally"
+    },
+    {
+      "question": "Which of the following is true about the 'in' operator in Python?",
+      "choices": [
+        "It can only be used with lists",
+        "It checks for membership in a sequence",
+        "It is used to define functions",
+        "It is equivalent to the '==' operator"
+      ],
+      "answer": "It checks for membership in a sequence"
+    },
+    {
+      "question": "What is the output of the following code: print(bool(0))",
+      "choices": [
+        "True",
+        "False",
+        "0",
+        "Error"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Which of the following is NOT a valid way to iterate over a dictionary in Python?",
+      "choices": [
+        "for key in dict:",
+        "for key, value in dict.items():",
+        "for value in dict.values():",
+        "for index in dict:"
+      ],
+      "answer": "for index in dict:"
+    },
+    {
+      "question": "What is the purpose of the 'enumerate()' function in a for loop?",
+      "choices": [
+        "To count the number of iterations",
+        "To provide both index and value of each item",
+        "To reverse the order of iteration",
+        "To filter out certain elements"
+      ],
+      "answer": "To provide both index and value of each item"
+    },
+    {
+      "question": "Which of the following is true about the 'else' clause in a while loop?",
+      "choices": [
+        "It is executed if the loop condition becomes false",
+        "It is executed if the loop is broken",
+        "It is used to define the loop condition",
+        "It is not valid in a while loop"
+      ],
+      "answer": "It is executed if the loop condition becomes false"
+    },
+    {
+      "question": "What is the output of the following code: print(any([False, False, True]))",
+      "choices": [
+        "True",
+        "False",
+        "[False, False, True]",
+        "Error"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "Which of the following is true about the 'is' operator in Python?",
+      "choices": [
+        "It compares the values of two objects",
+        "It checks if two objects have the same identity",
+        "It is equivalent to the '==' operator",
+        "It is used to assign values to variables"
+      ],
+      "answer": "It checks if two objects have the same identity"
+    },
+    {
+      "question": "What is the purpose of the 'zip()' function in Python?",
+      "choices": [
+        "To compress files",
+        "To combine two or more iterables",
+        "To create a dictionary from two lists",
+        "To split a string into a list"
+      ],
+      "answer": "To combine two or more iterables"
+    },
+    {
+      "question": "Which of the following is NOT a valid way to create an infinite loop in Python?",
+      "choices": [
+        "while True:",
+        "for i in range(float('inf')):",
+        "while 1:",
+        "for i in iter(int, 1):"
+      ],
+      "answer": "for i in range(float('inf')):"
+    },
+    {
+      "question": "What is the output of the following code: print(all([True, False, True]))",
+      "choices": [
+        "True",
+        "False",
+        "[True, False, True]",
+        "Error"
+      ],
+      "answer": "False"
+    },
+    {
+      "question": "Which of the following is true about list comprehensions in Python?",
+      "choices": [
+        "They can only be used to create lists",
+        "They are slower than traditional for loops",
+        "They provide a concise way to create lists based on existing lists",
+        "They cannot contain conditional statements"
+      ],
+      "answer": "They provide a concise way to create lists based on existing lists"
+    }
+  ]
+}

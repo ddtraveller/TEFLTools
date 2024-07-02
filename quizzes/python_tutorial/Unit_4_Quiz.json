@@ -1,0 +1,305 @@
+{
+  "title": "Data Structures in Python",
+  "questions": [
+    {
+      "question": "Which of the following is a mutable data structure in Python?",
+      "choices": [
+        "List",
+        "Tuple",
+        "String",
+        "Integer"
+      ],
+      "answer": "List"
+    },
+    {
+      "question": "What is the correct syntax to create an empty list in Python?",
+      "choices": [
+        "list()",
+        "[]",
+        "{}",
+        "()"
+      ],
+      "answer": "[]"
+    },
+    {
+      "question": "Which method is used to add an element to the end of a list?",
+      "choices": [
+        "append()",
+        "extend()",
+        "insert()",
+        "add()"
+      ],
+      "answer": "append()"
+    },
+    {
+      "question": "What is the output of the following code: len([1, [2, 3], 4])",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "Error"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Which of the following is an immutable data structure?",
+      "choices": [
+        "List",
+        "Dictionary",
+        "Set",
+        "Tuple"
+      ],
+      "answer": "Tuple"
+    },
+    {
+      "question": "What is the correct way to create a tuple with a single element?",
+      "choices": [
+        "(1)",
+        "(1,)",
+        "1,",
+        "tuple(1)"
+      ],
+      "answer": "(1,)"
+    },
+    {
+      "question": "Which of the following is used to define a dictionary in Python?",
+      "choices": [
+        "[]",
+        "()",
+        "{}",
+        "<>"
+      ],
+      "answer": "{}"
+    },
+    {
+      "question": "What is the result of the following code: {'a': 1, 'b': 2, 'a': 3}",
+      "choices": [
+        "{'a': 1, 'b': 2, 'a': 3}",
+        "{'a': 1, 'b': 2}",
+        "{'a': 3, 'b': 2}",
+        "Error"
+      ],
+      "answer": "{'a': 3, 'b': 2}"
+    },
+    {
+      "question": "Which method is used to remove and return an element from a list by its index?",
+      "choices": [
+        "remove()",
+        "pop()",
+        "delete()",
+        "discard()"
+      ],
+      "answer": "pop()"
+    },
+    {
+      "question": "What is the correct way to access the value of key 'name' in the dictionary d?",
+      "choices": [
+        "d['name']",
+        "d.name",
+        "d.get('name')",
+        "Both A and C"
+      ],
+      "answer": "Both A and C"
+    },
+    {
+      "question": "Which of the following is NOT a valid way to create an empty dictionary?",
+      "choices": [
+        "{}",
+        "dict()",
+        "()",
+        "dict([])"
+      ],
+      "answer": "()"
+    },
+    {
+      "question": "What is the output of [1, 2, 3] + [4, 5, 6]?",
+      "choices": [
+        "[1, 2, 3, 4, 5, 6]",
+        "[5, 7, 9]",
+        "Error",
+        "[1, 2, 3][4, 5, 6]"
+      ],
+      "answer": "[1, 2, 3, 4, 5, 6]"
+    },
+    {
+      "question": "Which method is used to sort a list in place?",
+      "choices": [
+        "sort()",
+        "sorted()",
+        "order()",
+        "arrange()"
+      ],
+      "answer": "sort()"
+    },
+    {
+      "question": "What is the result of tuple('abc')?",
+      "choices": [
+        "('a', 'b', 'c')",
+        "['a', 'b', 'c']",
+        "{'a', 'b', 'c'}",
+        "('abc',)"
+      ],
+      "answer": "('a', 'b', 'c')"
+    },
+    {
+      "question": "Which of the following is true about dictionary keys in Python?",
+      "choices": [
+        "They must be immutable",
+        "They can be of any type",
+        "They are ordered",
+        "They can be duplicated"
+      ],
+      "answer": "They must be immutable"
+    },
+    {
+      "question": "What is the output of [1, 2, 3] * 2?",
+      "choices": [
+        "[1, 2, 3, 1, 2, 3]",
+        "[2, 4, 6]",
+        "Error",
+        "[1, 1, 2, 2, 3, 3]"
+      ],
+      "answer": "[1, 2, 3, 1, 2, 3]"
+    },
+    {
+      "question": "Which method is used to return the number of occurrences of an element in a list?",
+      "choices": [
+        "count()",
+        "occurrences()",
+        "frequency()",
+        "num()"
+      ],
+      "answer": "count()"
+    },
+    {
+      "question": "What is the correct way to create a list of squares of numbers from 1 to 5 using list comprehension?",
+      "choices": [
+        "[x**2 for x in range(1, 6)]",
+        "[x*x for x in range(5)]",
+        "[x^2 for x in range(1, 5)]",
+        "[x**2 for x in range(5)]"
+      ],
+      "answer": "[x**2 for x in range(1, 6)]"
+    },
+    {
+      "question": "Which method is used to remove all elements from a list?",
+      "choices": [
+        "clear()",
+        "remove_all()",
+        "delete()",
+        "empty()"
+      ],
+      "answer": "clear()"
+    },
+    {
+      "question": "What is the output of list('python')?",
+      "choices": [
+        "['p', 'y', 't', 'h', 'o', 'n']",
+        "['python']",
+        "('p', 'y', 't', 'h', 'o', 'n')",
+        "Error"
+      ],
+      "answer": "['p', 'y', 't', 'h', 'o', 'n']"
+    },
+    {
+      "question": "Which of the following is true about tuples in Python?",
+      "choices": [
+        "They can be modified after creation",
+        "They are defined using square brackets",
+        "They can contain elements of different types",
+        "They cannot be used as dictionary keys"
+      ],
+      "answer": "They can contain elements of different types"
+    },
+    {
+      "question": "What is the correct way to get all keys from a dictionary 'd'?",
+      "choices": [
+        "d.keys()",
+        "d.getkeys()",
+        "keys(d)",
+        "d.key()"
+      ],
+      "answer": "d.keys()"
+    },
+    {
+      "question": "Which method is used to add multiple elements to a list at once?",
+      "choices": [
+        "extend()",
+        "append()",
+        "insert()",
+        "add()"
+      ],
+      "answer": "extend()"
+    },
+    {
+      "question": "What is the output of (1, 2, 3) + (4, 5, 6)?",
+      "choices": [
+        "(1, 2, 3, 4, 5, 6)",
+        "(5, 7, 9)",
+        "Error",
+        "((1, 2, 3), (4, 5, 6))"
+      ],
+      "answer": "(1, 2, 3, 4, 5, 6)"
+    },
+    {
+      "question": "Which of the following is NOT a valid dictionary method?",
+      "choices": [
+        "items()",
+        "keys()",
+        "values()",
+        "elements()"
+      ],
+      "answer": "elements()"
+    },
+    {
+      "question": "What is the result of [1, 2, 3].index(2)?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "Error"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "Which of the following is true about list slicing in Python?",
+      "choices": [
+        "It always creates a new list",
+        "It modifies the original list",
+        "It can only be used with positive indices",
+        "It can only slice contiguous elements"
+      ],
+      "answer": "It always creates a new list"
+    },
+    {
+      "question": "What is the output of {'a': 1, 'b': 2}.get('c', 3)?",
+      "choices": [
+        "3",
+        "None",
+        "Error",
+        "{'c': 3}"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Which method is used to remove a key-value pair from a dictionary by key?",
+      "choices": [
+        "pop()",
+        "remove()",
+        "delete()",
+        "discard()"
+      ],
+      "answer": "pop()"
+    },
+    {
+      "question": "What is the result of set([1, 2, 2, 3, 3, 3])?",
+      "choices": [
+        "{1, 2, 3}",
+        "[1, 2, 3]",
+        "{1, 2, 2, 3, 3, 3}",
+        "Error"
+      ],
+      "answer": "{1, 2, 3}"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Python and Basic Syntax",
+  "questions": [
+    {
+      "question": "What is Python?",
+      "choices": [
+        "A compiled programming language",
+        "A high-level, interpreted programming language",
+        "A low-level programming language",
+        "A markup language"
+      ],
+      "answer": "A high-level, interpreted programming language"
+    },
+    {
+      "question": "Who created Python?",
+      "choices": [
+        "Guido van Rossum",
+        "James Gosling",
+        "Bjarne Stroustrup",
+        "Brendan Eich"
+      ],
+      "answer": "Guido van Rossum"
+    },
+    {
+      "question": "In which year was Python first released?",
+      "choices": [
+        "1989",
+        "1991",
+        "1995",
+        "2000"
+      ],
+      "answer": "1991"
+    },
+    {
+      "question": "What is IDLE in the context of Python?",
+      "choices": [
+        "A Python library",
+        "An Integrated Development and Learning Environment",
+        "A Python framework",
+        "A Python package manager"
+      ],
+      "answer": "An Integrated Development and Learning Environment"
+    },
+    {
+      "question": "Which of the following is NOT a common use of Python in Timor-Leste, as mentioned in the module?",
+      "choices": [
+        "Analyzing agricultural data",
+        "Developing websites for tourism",
+        "Creating educational software in Tetum",
+        "Controlling traffic lights"
+      ],
+      "answer": "Controlling traffic lights"
+    },
+    {
+      "question": "What does it mean that Python is dynamically typed?",
+      "choices": [
+        "Variables must be declared with a type",
+        "Variable types are inferred based on the data they hold",
+        "Variables can only hold one type of data",
+        "Variable types are determined at compile time"
+      ],
+      "answer": "Variable types are inferred based on the data they hold"
+    },
+    {
+      "question": "Which of the following is a valid variable name in Python?",
+      "choices": [
+        "1st_name",
+        "first-name",
+        "firstName",
+        "first name"
+      ],
+      "answer": "firstName"
+    },
+    {
+      "question": "What is the correct way to create a variable 'age' with the value 25 in Python?",
+      "choices": [
+        "age := 25",
+        "var age = 25",
+        "age = 25",
+        "int age = 25"
+      ],
+      "answer": "age = 25"
+    },
+    {
+      "question": "Which data type would be used to store the price of coffee in USD?",
+      "choices": [
+        "int",
+        "float",
+        "str",
+        "bool"
+      ],
+      "answer": "float"
+    },
+    {
+      "question": "What is the output of the following code: print(10 // 3)?",
+      "choices": [
+        "3.33",
+        "3",
+        "3.0",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Which operator is used for exponentiation in Python?",
+      "choices": [
+        "^",
+        "**",
+        "^^",
+        "pow()"
+      ],
+      "answer": "**"
+    },
+    {
+      "question": "What does the '%' operator do in Python?",
+      "choices": [
+        "Percentage calculation",
+        "Modulo (remainder of division)",
+        "String formatting",
+        "Decimal point"
+      ],
+      "answer": "Modulo (remainder of division)"
+    },
+    {
+      "question": "How do you create a string variable 'name' with the value 'Maria' in Python?",
+      "choices": [
+        "name = Maria",
+        "name = 'Maria'",
+        "string name = \"Maria\"",
+        "name := \"Maria\""
+      ],
+      "answer": "name = 'Maria'"
+    },
+    {
+      "question": "What is the correct way to concatenate two strings in Python?",
+      "choices": [
+        "str1 + str2",
+        "str1 & str2",
+        "str1 . str2",
+        "concat(str1, str2)"
+      ],
+      "answer": "str1 + str2"
+    },
+    {
+      "question": "Which of the following is a valid boolean value in Python?",
+      "choices": [
+        "true",
+        "True",
+        "yes",
+        "1"
+      ],
+      "answer": "True"
+    },
+    {
+      "question": "What is the purpose of the print() function in Python?",
+      "choices": [
+        "To input data from the user",
+        "To output information to the console",
+        "To perform mathematical calculations",
+        "To define a new function"
+      ],
+      "answer": "To output information to the console"
+    },
+    {
+      "question": "What is an f-string in Python?",
+      "choices": [
+        "A string that only contains floating-point numbers",
+        "A formatted string literal that allows embedding expressions",
+        "A function that formats strings",
+        "A special type of string used for file handling"
+      ],
+      "answer": "A formatted string literal that allows embedding expressions"
+    },
+    {
+      "question": "How do you create an f-string in Python?",
+      "choices": [
+        "fstring\"text {variable}\"",
+        "f\"text {variable}\"",
+        "format\"text {variable}\"",
+        "\"text %s\" % variable"
+      ],
+      "answer": "f\"text {variable}\""
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using Python mentioned in the module?",
+      "choices": [
+        "Readability",
+        "Extensive libraries",
+        "Wide-ranging applications",
+        "Fastest execution speed"
+      ],
+      "answer": "Fastest execution speed"
+    },
+    {
+      "question": "What does it mean that Python is an interpreted language?",
+      "choices": [
+        "It requires a separate compiler",
+        "Code is executed line by line",
+        "It can only run on specific hardware",
+        "It automatically translates code to machine language"
+      ],
+      "answer": "Code is executed line by line"
+    },
+    {
+      "question": "How does Python enforce code structure?",
+      "choices": [
+        "Through the use of semicolons",
+        "By requiring explicit declaration of variables",
+        "Using indentation to define code blocks",
+        "Through mandatory use of brackets"
+      ],
+      "answer": "Using indentation to define code blocks"
+    },
+    {
+      "question": "What is the correct way to comment a single line in Python?",
+      "choices": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "# This is a comment",
+        "-- This is a comment"
+      ],
+      "answer": "# This is a comment"
+    },
+    {
+      "question": "Which of the following is a valid comparison operator in Python?",
+      "choices": [
+        "=",
+        "===",
+        "==",
+        "<>"
+      ],
+      "answer": "=="
+    },
+    {
+      "question": "What is the result of 5 + '5' in Python?",
+      "choices": [
+        "10",
+        "55",
+        "'55'",
+        "Error"
+      ],
+      "answer": "Error"
+    },
+    {
+      "question": "Which of the following is NOT a logical operator in Python?",
+      "choices": [
+        "and",
+        "or",
+        "not",
+        "xor"
+      ],
+      "answer": "xor"
+    },
+    {
+      "question": "What is the purpose of the input() function in Python?",
+      "choices": [
+        "To print output to the console",
+        "To read user input from the keyboard",
+        "To import modules",
+        "To define a new function"
+      ],
+      "answer": "To read user input from the keyboard"
+    },
+    {
+      "question": "Which of the following is the correct way to import a module named 'math' in Python?",
+      "choices": [
+        "import math",
+        "include math",
+        "using math",
+        "require math"
+      ],
+      "answer": "import math"
+    },
+    {
+      "question": "What is the output of print(type(42)) in Python?",
+      "choices": [
+        "<class 'int'>",
+        "<class 'float'>",
+        "<class 'str'>",
+        "<class 'number'>"
+      ],
+      "answer": "<class 'int'>"
+    },
+    {
+      "question": "How do you convert a string '123' to an integer in Python?",
+      "choices": [
+        "int('123')",
+        "Integer.parse('123')",
+        "cast(int, '123')",
+        "'123'.toInt()"
+      ],
+      "answer": "int('123')"
+    },
+    {
+      "question": "What is the result of 3 * '2' in Python?",
+      "choices": [
+        "6",
+        "'6'",
+        "'222'",
+        "Error"
+      ],
+      "answer": "'222'"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Foundations of Drawing",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a basic shading technique?",
+      "choices": [
+        "Hatching",
+        "Cross-hatching",
+        "Blending",
+        "Embossing"
+      ],
+      "answer": "Embossing"
+    },
+    {
+      "question": "What is the term for the brightest area on an object where light directly hits the surface?",
+      "choices": [
+        "Shadow",
+        "Highlight",
+        "Core shadow",
+        "Reflected light"
+      ],
+      "answer": "Highlight"
+    },
+    {
+      "question": "Which drawing material is often sourced from natural materials and offers rich, dark tones?",
+      "choices": [
+        "Pencil",
+        "Charcoal",
+        "Eraser",
+        "Ink"
+      ],
+      "answer": "Charcoal"
+    },
+    {
+      "question": "What is the shading technique that uses a series of dots to create tones?",
+      "choices": [
+        "Hatching",
+        "Cross-hatching",
+        "Stippling",
+        "Blending"
+      ],
+      "answer": "Stippling"
+    },
+    {
+      "question": "Which of the following is considered the cornerstone of visual arts?",
+      "choices": [
+        "Painting",
+        "Sculpture",
+        "Drawing",
+        "Photography"
+      ],
+      "answer": "Drawing"
+    },
+    {
+      "question": "What is the term for the shadow that an object creates on surrounding surfaces?",
+      "choices": [
+        "Core shadow",
+        "Cast shadow",
+        "Reflected shadow",
+        "Ambient shadow"
+      ],
+      "answer": "Cast shadow"
+    },
+    {
+      "question": "Which shape is often considered the perfect subject for practicing shading and understanding light behavior?",
+      "choices": [
+        "Cube",
+        "Pyramid",
+        "Cylinder",
+        "Sphere"
+      ],
+      "answer": "Sphere"
+    },
+    {
+      "question": "What does the 'B' in pencil grading stand for?",
+      "choices": [
+        "Bold",
+        "Black",
+        "Bright",
+        "Soft"
+      ],
+      "answer": "Soft"
+    },
+    {
+      "question": "Which of the following is NOT a primary use of erasers in drawing?",
+      "choices": [
+        "Correcting mistakes",
+        "Creating highlights",
+        "Blending",
+        "Adding color"
+      ],
+      "answer": "Adding color"
+    },
+    {
+      "question": "What is the term for the area of deepest shadow on the object itself?",
+      "choices": [
+        "Cast shadow",
+        "Core shadow",
+        "Highlight",
+        "Reflected light"
+      ],
+      "answer": "Core shadow"
+    },
+    {
+      "question": "Which shading technique involves drawing parallel lines close together?",
+      "choices": [
+        "Hatching",
+        "Cross-hatching",
+        "Stippling",
+        "Blending"
+      ],
+      "answer": "Hatching"
+    },
+    {
+      "question": "What is the purpose of understanding light and shadow in drawing?",
+      "choices": [
+        "To create abstract art",
+        "To use fewer materials",
+        "To create the illusion of three-dimensionality",
+        "To draw faster"
+      ],
+      "answer": "To create the illusion of three-dimensionality"
+    },
+    {
+      "question": "Which local fruit is suggested for sketching practice in the course?",
+      "choices": [
+        "Apple",
+        "Orange",
+        "Coconut",
+        "Grape"
+      ],
+      "answer": "Coconut"
+    },
+    {
+      "question": "What is the term for subtle illumination in shadow areas caused by light bouncing off nearby surfaces?",
+      "choices": [
+        "Highlight",
+        "Core shadow",
+        "Cast shadow",
+        "Reflected light"
+      ],
+      "answer": "Reflected light"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a basic drawing material in the module?",
+      "choices": [
+        "Pencils",
+        "Charcoal",
+        "Erasers",
+        "Paint brushes"
+      ],
+      "answer": "Paint brushes"
+    },
+    {
+      "question": "What does the 'H' in pencil grading stand for?",
+      "choices": [
+        "Heavy",
+        "Hard",
+        "Highlight",
+        "Hue"
+      ],
+      "answer": "Hard"
+    },
+    {
+      "question": "Which shading technique involves intersecting sets of parallel lines?",
+      "choices": [
+        "Hatching",
+        "Cross-hatching",
+        "Stippling",
+        "Blending"
+      ],
+      "answer": "Cross-hatching"
+    },
+    {
+      "question": "What is the primary purpose of the blind contour drawing warm-up activity?",
+      "choices": [
+        "To create a finished artwork",
+        "To practice shading techniques",
+        "To focus on observing the subject closely",
+        "To learn perspective drawing"
+      ],
+      "answer": "To focus on observing the subject closely"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a type of eraser in the module?",
+      "choices": [
+        "Kneaded eraser",
+        "Gum eraser",
+        "Vinyl eraser",
+        "Liquid eraser"
+      ],
+      "answer": "Liquid eraser"
+    },
+    {
+      "question": "What is the term for the outline or edge of a shape or form in a drawing?",
+      "choices": [
+        "Silhouette",
+        "Contour",
+        "Boundary",
+        "Perimeter"
+      ],
+      "answer": "Contour"
+    },
+    {
+      "question": "Which local craft is suggested for still life drawing practice in the course?",
+      "choices": [
+        "Tais weaving",
+        "Basket weaving",
+        "Metal working",
+        "Glass blowing"
+      ],
+      "answer": "Tais weaving"
+    },
+    {
+      "question": "What is the recommended duration for the warm-up activity in the lesson plan?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "answer": "10 minutes"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a learning objective for the module?",
+      "choices": [
+        "Understand basic drawing materials and techniques",
+        "Learn to see and draw simple 3D shapes",
+        "Master human figure drawing",
+        "Observe light and shadow in nature"
+      ],
+      "answer": "Master human figure drawing"
+    },
+    {
+      "question": "What is the suggested light source for demonstrating light and shadow in the lesson?",
+      "choices": [
+        "Natural sunlight",
+        "Overhead fluorescent light",
+        "Small lamp or flashlight",
+        "Candle"
+      ],
+      "answer": "Small lamp or flashlight"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in Learning Unit 1?",
+      "choices": [
+        "Introduction to drawing materials",
+        "The sphere and shading techniques",
+        "Observing light and shadow in nature",
+        "Perspective drawing"
+      ],
+      "answer": "Perspective drawing"
+    },
+    {
+      "question": "What is the recommended duration for the main lesson content presentation?",
+      "choices": [
+        "10 minutes",
+        "15 minutes",
+        "20 minutes",
+        "30 minutes"
+      ],
+      "answer": "20 minutes"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a practice activity in the lesson plan?",
+      "choices": [
+        "Experimenting with different drawing materials",
+        "Practicing basic shading techniques",
+        "Drawing simple geometric shapes",
+        "Sketching landscapes"
+      ],
+      "answer": "Sketching landscapes"
+    },
+    {
+      "question": "What is the suggested homework assignment for the lesson?",
+      "choices": [
+        "Draw a self-portrait",
+        "Sketch three round objects found at home or in nature",
+        "Create a still life with five objects",
+        "Practice perspective drawing"
+      ],
+      "answer": "Sketch three round objects found at home or in nature"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key vocabulary term in the lesson plan?",
+      "choices": [
+        "Shading",
+        "Highlight",
+        "Texture",
+        "Perspective"
+      ],
+      "answer": "Perspective"
+    },
+    {
+      "question": "What is the recommended duration for the production tasks in the lesson plan?",
+      "choices": [
+        "20 minutes",
+        "30 minutes",
+        "40 minutes",
+        "50 minutes"
+      ],
+      "answer": "40 minutes"
+    }
+  ]
+}

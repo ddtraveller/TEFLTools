@@ -1,0 +1,305 @@
+{
+  "title": "File Handling and Exception Handling",
+  "questions": [
+    {
+      "question": "What is the primary purpose of file handling in Python?",
+      "choices": [
+        "To create graphical user interfaces",
+        "To read from and write to files",
+        "To connect to databases",
+        "To perform mathematical calculations"
+      ],
+      "answer": "To read from and write to files"
+    },
+    {
+      "question": "Which file mode is used to open a file for reading?",
+      "choices": [
+        "w",
+        "a",
+        "r",
+        "x"
+      ],
+      "answer": "r"
+    },
+    {
+      "question": "What is the purpose of exception handling in Python?",
+      "choices": [
+        "To make the code run faster",
+        "To handle errors and unexpected situations",
+        "To create user interfaces",
+        "To optimize memory usage"
+      ],
+      "answer": "To handle errors and unexpected situations"
+    },
+    {
+      "question": "Which keyword is used to begin an exception handling block in Python?",
+      "choices": [
+        "catch",
+        "except",
+        "handle",
+        "error"
+      ],
+      "answer": "try"
+    },
+    {
+      "question": "What does CSV stand for in the context of file handling?",
+      "choices": [
+        "Comma-Separated Values",
+        "Computer System Variables",
+        "Calculated String Values",
+        "Centralized Storage Vault"
+      ],
+      "answer": "Comma-Separated Values"
+    },
+    {
+      "question": "Which Python module is commonly used to work with CSV files?",
+      "choices": [
+        "csvreader",
+        "csv",
+        "commasv",
+        "filecsv"
+      ],
+      "answer": "csv"
+    },
+    {
+      "question": "What is the purpose of the 'with' statement when working with files?",
+      "choices": [
+        "To create a new file",
+        "To delete a file",
+        "To ensure proper file closure after operations",
+        "To rename a file"
+      ],
+      "answer": "To ensure proper file closure after operations"
+    },
+    {
+      "question": "Which file mode is used to open a file for writing, creating a new file if it doesn't exist?",
+      "choices": [
+        "r",
+        "w",
+        "a",
+        "x"
+      ],
+      "answer": "w"
+    },
+    {
+      "question": "What type of error would you expect if you try to open a file that doesn't exist for reading?",
+      "choices": [
+        "ValueError",
+        "TypeError",
+        "FileNotFoundError",
+        "IOError"
+      ],
+      "answer": "FileNotFoundError"
+    },
+    {
+      "question": "Which method is used to read all lines of a file into a list?",
+      "choices": [
+        "readlines()",
+        "readline()",
+        "read()",
+        "readall()"
+      ],
+      "answer": "readlines()"
+    },
+    {
+      "question": "What is the purpose of the 'a' mode when opening a file?",
+      "choices": [
+        "To read the file",
+        "To write to the file, overwriting existing content",
+        "To append new content to the end of the file",
+        "To create a new file only if it doesn't exist"
+      ],
+      "answer": "To append new content to the end of the file"
+    },
+    {
+      "question": "Which of the following is NOT a valid file mode in Python?",
+      "choices": [
+        "r",
+        "w",
+        "a",
+        "e"
+      ],
+      "answer": "e"
+    },
+    {
+      "question": "What does the 'b' suffix in file modes (e.g., 'rb', 'wb') indicate?",
+      "choices": [
+        "Binary mode",
+        "Buffered mode",
+        "Blocked mode",
+        "Backup mode"
+      ],
+      "answer": "Binary mode"
+    },
+    {
+      "question": "Which method is used to write a single line to a file?",
+      "choices": [
+        "write()",
+        "writeline()",
+        "append()",
+        "print()"
+      ],
+      "answer": "write()"
+    },
+    {
+      "question": "What is the purpose of the 'finally' clause in a try-except block?",
+      "choices": [
+        "To handle specific exceptions",
+        "To execute code regardless of whether an exception occurred",
+        "To raise custom exceptions",
+        "To terminate the program"
+      ],
+      "answer": "To execute code regardless of whether an exception occurred"
+    },
+    {
+      "question": "Which of the following is a good practice when handling exceptions?",
+      "choices": [
+        "Catching all exceptions with a broad except clause",
+        "Ignoring all exceptions",
+        "Catching specific exceptions and handling them appropriately",
+        "Using only try blocks without except clauses"
+      ],
+      "answer": "Catching specific exceptions and handling them appropriately"
+    },
+    {
+      "question": "What is the purpose of the 'else' clause in a try-except block?",
+      "choices": [
+        "To handle exceptions",
+        "To execute code if no exception occurs",
+        "To define custom exceptions",
+        "To terminate the program"
+      ],
+      "answer": "To execute code if no exception occurs"
+    },
+    {
+      "question": "Which method would you use to read a specific number of characters from a file?",
+      "choices": [
+        "read(n)",
+        "readchars(n)",
+        "readline(n)",
+        "readspecific(n)"
+      ],
+      "answer": "read(n)"
+    },
+    {
+      "question": "What is the purpose of the 'seek()' method when working with files?",
+      "choices": [
+        "To search for a specific string in the file",
+        "To move the file cursor to a specific position",
+        "To count the number of lines in the file",
+        "To encrypt the file contents"
+      ],
+      "answer": "To move the file cursor to a specific position"
+    },
+    {
+      "question": "Which of the following is TRUE about working with CSV files in Python?",
+      "choices": [
+        "CSV files can only contain numeric data",
+        "The csv module is required to read CSV files",
+        "CSV files cannot be written, only read",
+        "CSV stands for Computer System Values"
+      ],
+      "answer": "The csv module is required to read CSV files"
+    },
+    {
+      "question": "What is the purpose of the 'DictReader' class in the csv module?",
+      "choices": [
+        "To read CSV files as dictionaries",
+        "To create dictionaries from scratch",
+        "To convert dictionaries to CSV files",
+        "To sort dictionaries alphabetically"
+      ],
+      "answer": "To read CSV files as dictionaries"
+    },
+    {
+      "question": "Which of the following is NOT a common exception in Python?",
+      "choices": [
+        "ValueError",
+        "TypeError",
+        "IndexError",
+        "DataError"
+      ],
+      "answer": "DataError"
+    },
+    {
+      "question": "What happens if you try to write to a file opened in read mode?",
+      "choices": [
+        "The file is automatically switched to write mode",
+        "An IOError is raised",
+        "The content is appended to the end of the file",
+        "The existing content is overwritten"
+      ],
+      "answer": "An IOError is raised"
+    },
+    {
+      "question": "Which method would you use to write multiple lines to a file at once?",
+      "choices": [
+        "writelines()",
+        "writemany()",
+        "writeall()",
+        "writemultiple()"
+      ],
+      "answer": "writelines()"
+    },
+    {
+      "question": "What is the purpose of the 'strip()' method when reading lines from a file?",
+      "choices": [
+        "To remove leading and trailing whitespace",
+        "To remove all spaces from the line",
+        "To split the line into words",
+        "To capitalize all letters in the line"
+      ],
+      "answer": "To remove leading and trailing whitespace"
+    },
+    {
+      "question": "Which of the following is TRUE about the 'with' statement when working with files?",
+      "choices": [
+        "It's only used for reading files",
+        "It automatically closes the file after operations are complete",
+        "It's required for all file operations",
+        "It can only be used with text files, not binary files"
+      ],
+      "answer": "It automatically closes the file after operations are complete"
+    },
+    {
+      "question": "What is the purpose of the 'tell()' method when working with files?",
+      "choices": [
+        "To display the file contents",
+        "To return the current position of the file cursor",
+        "To check if the file exists",
+        "To count the number of lines in the file"
+      ],
+      "answer": "To return the current position of the file cursor"
+    },
+    {
+      "question": "Which of the following is a valid way to open a file named 'data.txt' for reading?",
+      "choices": [
+        "file = open('data.txt', 'read')",
+        "file = open('data.txt', 'r')",
+        "file = read('data.txt')",
+        "file = open('data.txt', 'input')"
+      ],
+      "answer": "file = open('data.txt', 'r')"
+    },
+    {
+      "question": "What is the purpose of the 'raise' keyword in Python?",
+      "choices": [
+        "To catch exceptions",
+        "To ignore exceptions",
+        "To manually throw or raise an exception",
+        "To define new exception types"
+      ],
+      "answer": "To manually throw or raise an exception"
+    },
+    {
+      "question": "Which of the following is TRUE about handling multiple exceptions in Python?",
+      "choices": [
+        "You can only handle one exception type per try-except block",
+        "You can use multiple except clauses to handle different exception types",
+        "All exceptions must be handled in a single except clause",
+        "Exception handling is limited to built-in exceptions only"
+      ],
+      "answer": "You can use multiple except clauses to handle different exception types"
+    }
+  ]
+}

@@ -1,15 +1,26 @@
-# TEFLTools: Regenerative Living and Holistic Practices in Timor-Leste
+# TEFLTools: TEFL course material for English language, Regenerative Living and Holistic Practices in Timor-Leste
 
 This repository is a comprehensive collection of educational materials focused on regenerative living, holistic healing practices, and permaculture approaches tailored for Timor-Leste. It also includes resources for software development, beekeeping, English language learning, cultural studies, fiction writing, and TEFL (Teaching English as a Foreign Language) content.
 
-The repo materials are meant as support materials for the books below.
-
 ## Table of Contents
 
-- [Repository Structure](#repository-structure)
-- [Key Courses](#key-courses)  
 - [Navigation Guide](#navigation-guide)
+- [Repository Structure](#repository-structure)
+- [Key Courses](#key-courses)
 - [Bibliography](#bibliography)
+
+## Navigation Guide
+
+To explore a specific course:
+1. Start with the syllabus in the [syllabus/](syllabus/) directory.
+2. Refer to the corresponding readings in the [Readings/](Readings/) directory.
+3. Follow the lesson plans in the [lesson_plans/](lesson_plans/) directory.
+4. Complement learning with activities from the [activities/](activities/) directory and quizzes from the [quizzes/](quizzes/) directory where available.
+
+For practical applications:
+- Explore the [scripts/](scripts/) directory for useful tools and demonstrations.
+- Check out the [games/](games/) directory for interactive learning experiences.
+- Refer to the [recipes/](recipes/) directory for traditional and medicinal preparations.
 
 ## Repository Structure
 
@@ -21,31 +32,34 @@ Contains in-depth reading materials on various subjects:
 - [Cultural_Studies/](Readings/Cultural_Studies/): Readings on cultural topics and figures from various traditions.
 - [English_Language/](Readings/English_Language/): Materials for English language learners.
 - [Fiction_Writing/](Readings/Fiction_Writing/): Resources and readings for fiction writing.
-- [Holistic_Healing_Arts_and_Practices/](Readings/Holistic_Healing_Arts_and_Practices/): Extensive readings on traditional and modern healing practices. 
+- [Food_Innovation_and_Sustainability/](Readings/Food_Innovation_and_Sustainability/): Materials on sustainable food practices.
+- [Holistic_Healing_Arts_and_Practices/](Readings/Holistic_Healing_Arts_and_Practices/): Extensive readings on traditional and modern healing practices.
 - [Medical_Herbalism/](Readings/Medical_Herbalism/): Detailed information on herbal medicine and plant taxonomy.
 - [Regenerative_Living/](Readings/Regenerative_Living/): Comprehensive materials on permaculture and sustainable living.
 - [Software_for_Timor_Leste/](Readings/Software_for_Timor_Leste/): Resources for software development.
 - [Timor_Leste/](Readings/Timor_Leste/): Readings specifically related to Timor-Leste culture and traditions.
 
-### [lesson_plans/](lesson_plans/) 
+### [lesson_plans/](lesson_plans/)
 Structured lesson plans for various courses:
 - [Bee_Keeping/](lesson_plans/Bee_Keeping/): Lessons on beekeeping practices.
-- [English_Language/](lesson_plans/English_Language/): Lesson plans for teaching English grammar and skills. 
-- [Fiction_Writing/](lesson_plans/Fiction_Writing/): Modular lesson plans for a fiction writing course.
+- [English_Language/](lesson_plans/English_Language/): Lesson plans for teaching English grammar and skills.
+- [Fiction_Writing/](lesson_plans/Fiction_Writing/): Modular lesson plans and content for a fiction writing course.
+- [Food_Innovation_and_Sustainability/](lesson_plans/Food_Innovation_and_Sustainability/): Lessons on sustainable food practices.
 - [Holistic_Healing_Arts_and_Practices/](lesson_plans/Holistic_Healing_Arts_and_Practices/): Detailed module-based lessons on holistic healing.
 - [Medical_Herbalism/](lesson_plans/Medical_Herbalism/): Lesson plans for a course on medical herbalism.
-- [Regenerative_Living/](lesson_plans/Regenerative_Living/): Comprehensive lessons on permaculture. 
+- [Regenerative_Living/](lesson_plans/Regenerative_Living/): Comprehensive lessons on permaculture.
 - [Software_for_Timor_Leste/](lesson_plans/Software_for_Timor_Leste/): Lessons on software development.
 
 ### [activities/](activities/)
 Hands-on activities to complement the lessons:
 - [Bee_Keeping/](activities/Bee_Keeping/): Practical beekeeping activities.
-- [Creative_Wrinting/](activities/Creative_Wrinting/): Writing exercises and activities. 
+- [Book_Keeping_for Healers.txt](activities/Book_Keeping_for%20Healers.txt): Activities for financial management in healing practices.
+- [Creative_Wrinting/](activities/Creative_Wrinting/): Writing exercises and activities.
 - [Regenerative_Living/](activities/Regenerative_Living/): Activities on canning, fermentation, hydroponics, and more.
 - [Software_for_Timor_Leste/](activities/Software_for_Timor_Leste/): Coding exercises and projects.
 
-### [quizzes/](quizzes/) 
-Interactive quizzes to assess understanding of various topics, including Creative Writing, English Language, Fiction Writing, Medical Herbalism, Regenerative Living, and Software Development for Timor-Leste.
+### [quizzes/](quizzes/)
+Interactive quizzes to assess understanding of various topics, including Creative Writing, English Language, Fiction Writing, Food Innovation and Sustainability, Holistic Healing Arts and Practices, Medical Herbalism, Regenerative Living, and Software Development for Timor-Leste.
 
 ### [games/](games/)
 Interactive games for educational purposes, including:
@@ -56,59 +70,47 @@ Interactive games for educational purposes, including:
 - [fantasy_game/](games/fantasy_game/): Fantasy RPG that could be adapted for learning purposes.
 
 ### [scripts/](scripts/)
-Utility scripts for various purposes, including content generation and visualization tools.
+Utility scripts for various purposes, including content generation and visualization tools:
+- [Medical_Herbalism_LLM_Templates/](scripts/Medical_Herbalism_LLM_Templates/): Templates for generating medical herbalism content.
+- [Regenerative_Living/](scripts/Regenerative_Living/): Scripts for permaculture and sustainable living visualizations.
+- [Software_for_Tmor_Leste/](scripts/Software_for_Tmor_Leste/): Software development tools specific to Timor-Leste.
 
-### [syllabus/](syllabus/)  
+### [syllabus/](syllabus/)
 Detailed course syllabi for the main courses offered.
 
-### [recipes/](recipes/)
-Traditional and medicinal recipes relevant to Timor-Leste.
-
-### [timorLesteMap/](timorLesteMap/)
-Resources for creating an interactive map of Timor-Leste.
-
-### [pdf/](pdf/)
-PDF resources, such as client intake forms for holistic health services.
+### Additional Resources
+- [recipes/](recipes/): Traditional and medicinal recipes relevant to Timor-Leste.
+- [timorLesteMap/](timorLesteMap/): Resources for creating an interactive map of Timor-Leste.
+- [pdf/](pdf/): PDF resources, such as client intake forms for holistic health services.
 
 ## Key Courses
 
 1. [**Regenerative Living: A Permaculture Approach**](syllabus/Regenerative_Living_a_Permaculture_Approach.md)
    This course immerses participants in permaculture principles and practices, focusing on sustainable living systems tailored to Timor-Leste's environment.
 
-2. [**Holistic Healing Arts and Practices**](syllabus/Holistic_Healing_Arts_and_Practices.md) 
+2. [**Holistic Healing Arts and Practices**](syllabus/Holistic_Healing_Arts_and_Practices.md)
    Explores a range of healing modalities, blending modern therapeutic techniques with traditional Timorese wisdom.
 
 3. [**Medical Herbalism**](syllabus/Medical_Herbalism.md)
    Covers the use of medicinal plants, combining scientific knowledge with traditional herbal practices.
 
 4. [**Beekeeping: A Permaculture Approach**](syllabus/Beekeeping_a_Permaculture_Approach.md)
-   Teaches natural beekeeping methods integrated with permaculture principles. 
+   Teaches natural beekeeping methods integrated with permaculture principles.
 
 5. [**Software Development for Timor-Leste**](syllabus/Software_Development_for_Timor_Leste.md)
    A comprehensive program designed to equip students with software development skills relevant to Timor-Leste's context.
 
-6. [**Fiction Writing**](syllabus/Fiction_Writing.md)  
+6. [**Fiction Writing**](syllabus/Fiction_Writing.md)
    A multi-module TEFL course on the craft of writing fiction across various genres and topics.
 
 7. [**English Language**](syllabus/English_Language.html)
    Resources and TEFL lesson plans for teaching English grammar.
 
-8. [**Practical English**](syllabus/Practical_English.html)
-   TEFL Resources and lesson plans for teaching practical areas of conversation. 
-   Topics: Introductions and Personal Information, Daily Life and Routines, Shopping and Money, Food and Dining, Travel and Directions, Health and Emergencies
+8. [**Practical English**](syllabus/Practical_English.md)
+   TEFL Resources and lesson plans for teaching practical areas of conversation.
 
-## Navigation Guide
-
-To explore a specific course:
-1. Start with the syllabus in the [syllabus/](syllabus/) directory. 
-2. Refer to the corresponding readings in the [Readings/](Readings/) directory.
-3. Follow the lesson plans in the [lesson_plans/](lesson_plans/) directory.
-4. Complement learning with activities from the [activities/](activities/) directory and quizzes from the [quizzes/](quizzes/) directory where available.
-
-For practical applications:
-- Explore the [scripts/](scripts/) directory for useful tools and demonstrations.
-- Check out the [games/](games/) directory for interactive learning experiences.  
-- Refer to the [recipes/](recipes/) directory for traditional and medicinal preparations.
+9. [**Food Innovation and Sustainability**](syllabus/Food_Inovation_and_Sustainability.md)
+   Explores sustainable food practices and innovations in the context of Timor-Leste.
 
 ## Bibliography
 

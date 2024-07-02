@@ -1,0 +1,305 @@
+{
+  "title": "Form and Perspective",
+  "questions": [
+    {
+      "question": "What is the primary purpose of shading in drawing?",
+      "choices": [
+        "To add color",
+        "To create texture",
+        "To convey form and volume",
+        "To indicate size"
+      ],
+      "answer": "To convey form and volume"
+    },
+    {
+      "question": "In one-point perspective, where do all perpendicular lines converge?",
+      "choices": [
+        "The horizon line",
+        "The vanishing point",
+        "The center of the page",
+        "The foreground"
+      ],
+      "answer": "The vanishing point"
+    },
+    {
+      "question": "What does the horizon line represent in perspective drawing?",
+      "choices": [
+        "The ground level",
+        "The viewer's eye level",
+        "The top of the scene",
+        "The middle of the object"
+      ],
+      "answer": "The viewer's eye level"
+    },
+    {
+      "question": "Which of the following is NOT considered a basic 3D form?",
+      "choices": [
+        "Sphere",
+        "Cube",
+        "Cylinder",
+        "Triangle"
+      ],
+      "answer": "Triangle"
+    },
+    {
+      "question": "What technique involves depicting an object as shorter than it actually is to create the illusion of depth?",
+      "choices": [
+        "Foreshortening",
+        "Elongation",
+        "Distortion",
+        "Exaggeration"
+      ],
+      "answer": "Foreshortening"
+    },
+    {
+      "question": "When shading a cube, which face should be left unshaded?",
+      "choices": [
+        "The face furthest from the light source",
+        "The face closest to the light source",
+        "The bottom face",
+        "All faces should be shaded equally"
+      ],
+      "answer": "The face closest to the light source"
+    },
+    {
+      "question": "What is the first step in constructing a basic cube?",
+      "choices": [
+        "Draw diagonal lines",
+        "Draw a circle",
+        "Draw a square for the front face",
+        "Draw the vanishing point"
+      ],
+      "answer": "Draw a square for the front face"
+    },
+    {
+      "question": "In perspective drawing, objects that are farther away should appear:",
+      "choices": [
+        "Larger and higher on the page",
+        "Smaller and closer to the horizon line",
+        "The same size as nearby objects",
+        "More detailed than nearby objects"
+      ],
+      "answer": "Smaller and closer to the horizon line"
+    },
+    {
+      "question": "What is the term for the point at which receding parallel lines appear to meet in the distance?",
+      "choices": [
+        "Horizon point",
+        "Convergence point",
+        "Vanishing point",
+        "Perspective point"
+      ],
+      "answer": "Vanishing point"
+    },
+    {
+      "question": "When drawing a cylinder, what shape should you use for the top and bottom?",
+      "choices": [
+        "Circle",
+        "Oval",
+        "Square",
+        "Triangle"
+      ],
+      "answer": "Oval"
+    },
+    {
+      "question": "Which of the following is a common mistake in one-point perspective drawing?",
+      "choices": [
+        "Using vertical lines",
+        "Drawing objects smaller in the distance",
+        "Including a horizon line",
+        "Using an inconsistent vanishing point"
+      ],
+      "answer": "Using an inconsistent vanishing point"
+    },
+    {
+      "question": "What is the first step in analyzing architectural forms for drawing?",
+      "choices": [
+        "Adding decorative elements",
+        "Drawing the roof",
+        "Breaking down complex structures into basic shapes",
+        "Sketching the surrounding landscape"
+      ],
+      "answer": "Breaking down complex structures into basic shapes"
+    },
+    {
+      "question": "Which basic shape is most appropriate for representing the main structure of a traditional Timorese house?",
+      "choices": [
+        "Sphere",
+        "Cylinder",
+        "Cube",
+        "Cone"
+      ],
+      "answer": "Cube"
+    },
+    {
+      "question": "What shape is typically used to represent the roof of a traditional Timorese house?",
+      "choices": [
+        "Cube",
+        "Cylinder",
+        "Sphere",
+        "Triangular prism"
+      ],
+      "answer": "Triangular prism"
+    },
+    {
+      "question": "When shading a cylinder, where should the darkest shading be applied?",
+      "choices": [
+        "In the center",
+        "At the top",
+        "Towards the edges",
+        "Evenly across the entire surface"
+      ],
+      "answer": "Towards the edges"
+    },
+    {
+      "question": "What is the purpose of using basic 3D shapes in architectural drawing?",
+      "choices": [
+        "To simplify complex structures",
+        "To make buildings look unrealistic",
+        "To avoid using perspective",
+        "To eliminate the need for shading"
+      ],
+      "answer": "To simplify complex structures"
+    },
+    {
+      "question": "In one-point perspective, which lines remain parallel and do not converge?",
+      "choices": [
+        "Vertical lines",
+        "Horizontal lines",
+        "Diagonal lines",
+        "All lines converge"
+      ],
+      "answer": "Vertical lines"
+    },
+    {
+      "question": "What is the term for the three-dimensional shape of an object?",
+      "choices": [
+        "Volume",
+        "Mass",
+        "Form",
+        "Dimension"
+      ],
+      "answer": "Form"
+    },
+    {
+      "question": "Which technique is most effective for creating the illusion of depth in a drawing?",
+      "choices": [
+        "Using bright colors",
+        "Drawing everything the same size",
+        "Using perspective",
+        "Avoiding shading"
+      ],
+      "answer": "Using perspective"
+    },
+    {
+      "question": "What is the primary difference between shape and form in drawing?",
+      "choices": [
+        "Shape is two-dimensional, form is three-dimensional",
+        "Shape is colorful, form is black and white",
+        "Shape is for beginners, form is for experts",
+        "There is no difference"
+      ],
+      "answer": "Shape is two-dimensional, form is three-dimensional"
+    },
+    {
+      "question": "When drawing a street scene in one-point perspective, where should the vanishing point typically be placed?",
+      "choices": [
+        "At the bottom of the page",
+        "On the horizon line",
+        "In the foreground",
+        "Off the page"
+      ],
+      "answer": "On the horizon line"
+    },
+    {
+      "question": "What is the purpose of adding elements like people or vehicles to a perspective drawing of a street scene?",
+      "choices": [
+        "To make the drawing more colorful",
+        "To hide mistakes in perspective",
+        "To bring the scene to life and add scale",
+        "To make the drawing more difficult"
+      ],
+      "answer": "To bring the scene to life and add scale"
+    },
+    {
+      "question": "Which of the following is NOT a key element in creating the illusion of form?",
+      "choices": [
+        "Light",
+        "Shadow",
+        "Texture",
+        "Color"
+      ],
+      "answer": "Color"
+    },
+    {
+      "question": "What is the term for the space occupied by a three-dimensional object?",
+      "choices": [
+        "Area",
+        "Mass",
+        "Volume",
+        "Density"
+      ],
+      "answer": "Volume"
+    },
+    {
+      "question": "Which of the following is a unique feature of traditional Timorese architecture mentioned in the module?",
+      "choices": [
+        "Underground structures",
+        "Glass facades",
+        "Elevated structures",
+        "Flat roofs"
+      ],
+      "answer": "Elevated structures"
+    },
+    {
+      "question": "What is the purpose of drawing diagonal lines to find the center when constructing a cube?",
+      "choices": [
+        "To create texture",
+        "To add shading",
+        "To find the vanishing point",
+        "To determine where to draw lines for sides and top"
+      ],
+      "answer": "To determine where to draw lines for sides and top"
+    },
+    {
+      "question": "In architectural drawing, what does breaking down complex structures into basic shapes help with?",
+      "choices": [
+        "Adding unnecessary details",
+        "Avoiding the use of perspective",
+        "Capturing the essence of the structure more easily",
+        "Making the drawing process longer"
+      ],
+      "answer": "Capturing the essence of the structure more easily"
+    },
+    {
+      "question": "What is the term for the outline or edges of an object in drawing?",
+      "choices": [
+        "Silhouette",
+        "Contour",
+        "Border",
+        "Frame"
+      ],
+      "answer": "Contour"
+    },
+    {
+      "question": "When drawing a cylinder, why is the bottom oval typically drawn slightly smaller than the top oval?",
+      "choices": [
+        "To make the cylinder look taller",
+        "To create the illusion of perspective",
+        "To make shading easier",
+        "It's a stylistic choice with no specific purpose"
+      ],
+      "answer": "To create the illusion of perspective"
+    },
+    {
+      "question": "What is the relationship between form and light in drawing?",
+      "choices": [
+        "Light has no effect on form",
+        "Light helps define and reveal form",
+        "Form determines the direction of light",
+        "Light and form are unrelated concepts"
+      ],
+      "answer": "Light helps define and reveal form"
+    }
+  ]
+}

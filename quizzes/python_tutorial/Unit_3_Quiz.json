@@ -1,0 +1,305 @@
+{
+  "title": "Functions and Modules in Python",
+  "questions": [
+    {
+      "question": "What is the primary purpose of functions in Python?",
+      "choices": [
+        "To increase code complexity",
+        "To break down complex problems into smaller, manageable pieces",
+        "To make the code run faster",
+        "To reduce the number of lines in a program"
+      ],
+      "answer": "To break down complex problems into smaller, manageable pieces"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "choices": [
+        "function",
+        "def",
+        "define",
+        "func"
+      ],
+      "answer": "def"
+    },
+    {
+      "question": "What does the 'return' statement in a function do?",
+      "choices": [
+        "Prints the result to the console",
+        "Ends the function execution",
+        "Specifies the output of the function",
+        "Calls another function"
+      ],
+      "answer": "Specifies the output of the function"
+    },
+    {
+      "question": "What is a module in Python?",
+      "choices": [
+        "A type of loop",
+        "A file containing Python definitions and statements",
+        "A built-in function",
+        "A data structure"
+      ],
+      "answer": "A file containing Python definitions and statements"
+    },
+    {
+      "question": "How do you import a module in Python?",
+      "choices": [
+        "use module_name",
+        "import module_name",
+        "include module_name",
+        "require module_name"
+      ],
+      "answer": "import module_name"
+    },
+    {
+      "question": "What is the advantage of using modules in Python?",
+      "choices": [
+        "They make the code run faster",
+        "They reduce the file size of the program",
+        "They allow for code organization and reusability",
+        "They automatically debug the code"
+      ],
+      "answer": "They allow for code organization and reusability"
+    },
+    {
+      "question": "What happens if a function doesn't have a return statement?",
+      "choices": [
+        "It returns 0",
+        "It returns None",
+        "It raises an error",
+        "It returns an empty string"
+      ],
+      "answer": "It returns None"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using functions?",
+      "choices": [
+        "Code reusability",
+        "Improved readability",
+        "Automatic error handling",
+        "Abstraction of complex operations"
+      ],
+      "answer": "Automatic error handling"
+    },
+    {
+      "question": "What is the correct way to call a function named 'greet' with an argument 'name'?",
+      "choices": [
+        "greet(name)",
+        "call greet(name)",
+        "function greet(name)",
+        "greet = name"
+      ],
+      "answer": "greet(name)"
+    },
+    {
+      "question": "What is the difference between parameters and arguments in functions?",
+      "choices": [
+        "They are the same thing",
+        "Parameters are variables in the function definition, arguments are the actual values passed",
+        "Arguments are variables in the function definition, parameters are the actual values passed",
+        "Parameters are used in built-in functions, arguments in user-defined functions"
+      ],
+      "answer": "Parameters are variables in the function definition, arguments are the actual values passed"
+    },
+    {
+      "question": "Which statement is used to make all names from a module directly accessible in the current namespace?",
+      "choices": [
+        "import module_name",
+        "from module_name import *",
+        "use module_name",
+        "include module_name"
+      ],
+      "answer": "from module_name import *"
+    },
+    {
+      "question": "What is the purpose of the __name__ variable in Python modules?",
+      "choices": [
+        "To store the module's creation date",
+        "To keep track of the number of times the module has been imported",
+        "To determine if the module is being run directly or imported",
+        "To store the module's version number"
+      ],
+      "answer": "To determine if the module is being run directly or imported"
+    },
+    {
+      "question": "Which of the following is true about Python's standard library?",
+      "choices": [
+        "It needs to be installed separately",
+        "It contains a rich collection of pre-built modules",
+        "It only works with Python 2",
+        "It is only available in the professional version of Python"
+      ],
+      "answer": "It contains a rich collection of pre-built modules"
+    },
+    {
+      "question": "What is the correct way to import a specific function from a module?",
+      "choices": [
+        "from module_name get function_name",
+        "import module_name.function_name",
+        "from module_name import function_name",
+        "use function_name from module_name"
+      ],
+      "answer": "from module_name import function_name"
+    },
+    {
+      "question": "What is the purpose of the 'as' keyword when importing modules?",
+      "choices": [
+        "To specify the version of the module to import",
+        "To create an alias for the module or imported name",
+        "To import the module asynchronously",
+        "To import only a portion of the module"
+      ],
+      "answer": "To create an alias for the module or imported name"
+    },
+    {
+      "question": "Which of the following is NOT a valid way to define a function in Python?",
+      "choices": [
+        "def function_name():",
+        "function function_name():",
+        "def function_name(param1, param2):",
+        "def function_name(*args):"
+      ],
+      "answer": "function function_name():"
+    },
+    {
+      "question": "What is a docstring in Python?",
+      "choices": [
+        "A type of comment",
+        "A string literal that appears as the first statement in a function",
+        "A special type of variable",
+        "A built-in function for documentation"
+      ],
+      "answer": "A string literal that appears as the first statement in a function"
+    },
+    {
+      "question": "Which of the following is true about function arguments in Python?",
+      "choices": [
+        "All arguments must be positional",
+        "Python only supports a maximum of 5 arguments per function",
+        "Arguments can be passed by position or by keyword",
+        "The order of arguments doesn't matter"
+      ],
+      "answer": "Arguments can be passed by position or by keyword"
+    },
+    {
+      "question": "What is the purpose of the 'global' keyword in Python functions?",
+      "choices": [
+        "To create a new global variable",
+        "To indicate that a variable should be treated as global within the function",
+        "To import global modules",
+        "To make the function accessible globally"
+      ],
+      "answer": "To indicate that a variable should be treated as global within the function"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using modules in Python?",
+      "choices": [
+        "Code reusability",
+        "Namespace management",
+        "Automatic parallelization of code",
+        "Logical organization of code"
+      ],
+      "answer": "Automatic parallelization of code"
+    },
+    {
+      "question": "What happens if you try to import a module that doesn't exist?",
+      "choices": [
+        "Python creates an empty module",
+        "The program continues running without the module",
+        "Python raises an ImportError",
+        "Python prompts you to create the module"
+      ],
+      "answer": "Python raises an ImportError"
+    },
+    {
+      "question": "What is the purpose of the '__init__.py' file in a Python package?",
+      "choices": [
+        "To initialize variables for the package",
+        "To define the main function of the package",
+        "To mark a directory as a Python package",
+        "To list all the modules in the package"
+      ],
+      "answer": "To mark a directory as a Python package"
+    },
+    {
+      "question": "Which of the following is true about function parameters in Python?",
+      "choices": [
+        "All parameters must have default values",
+        "Parameters can have default values, making them optional",
+        "Python doesn't support optional parameters",
+        "Default values for parameters must be immutable objects"
+      ],
+      "answer": "Parameters can have default values, making them optional"
+    },
+    {
+      "question": "What is a lambda function in Python?",
+      "choices": [
+        "A function that can only be used once",
+        "A function with multiple return values",
+        "An anonymous function defined using the 'lambda' keyword",
+        "A function that automatically handles exceptions"
+      ],
+      "answer": "An anonymous function defined using the 'lambda' keyword"
+    },
+    {
+      "question": "Which of the following is true about the 'return' statement in Python functions?",
+      "choices": [
+        "A function can have multiple return statements",
+        "return can only be used to return numeric values",
+        "Every function must have a return statement",
+        "return always exits the entire program"
+      ],
+      "answer": "A function can have multiple return statements"
+    },
+    {
+      "question": "What is the purpose of the '*args' syntax in function parameters?",
+      "choices": [
+        "To multiply all arguments",
+        "To allow a variable number of positional arguments",
+        "To unpack a list into arguments",
+        "To make all arguments optional"
+      ],
+      "answer": "To allow a variable number of positional arguments"
+    },
+    {
+      "question": "Which of the following is NOT a valid module in Python's standard library?",
+      "choices": [
+        "math",
+        "random",
+        "database",
+        "os"
+      ],
+      "answer": "database"
+    },
+    {
+      "question": "What is the difference between 'import math' and 'from math import *'?",
+      "choices": [
+        "There is no difference",
+        "'import math' is faster",
+        "'import math' requires using math.function(), while 'from math import *' allows using function() directly",
+        "'from math import *' only imports a subset of the math module"
+      ],
+      "answer": "'import math' requires using math.function(), while 'from math import *' allows using function() directly"
+    },
+    {
+      "question": "What is the purpose of the 'if __name__ == \"__main__\":' idiom in Python scripts?",
+      "choices": [
+        "To define the main function of the script",
+        "To check if the script is being run directly or imported as a module",
+        "To ensure the script is compatible with both Python 2 and 3",
+        "To initialize global variables"
+      ],
+      "answer": "To check if the script is being run directly or imported as a module"
+    },
+    {
+      "question": "Which of the following is true about Python's module search path?",
+      "choices": [
+        "It only looks in the current directory",
+        "It's defined by the PYTHONPATH environment variable",
+        "It includes the current directory, PYTHONPATH, and installation-dependent defaults",
+        "It only searches in the Python standard library"
+      ],
+      "answer": "It includes the current directory, PYTHONPATH, and installation-dependent defaults"
+    }
+  ]
+}
