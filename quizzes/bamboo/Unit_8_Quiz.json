@@ -1,0 +1,305 @@
+{
+  "title": "Bamboo for Sustainable Development in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is one of the key properties of bamboo that makes it suitable for disaster-resistant construction?",
+      "choices": [
+        "Low tensile strength",
+        "High density",
+        "Flexibility",
+        "Brittleness"
+      ],
+      "answer": "Flexibility"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential bamboo product for economic development in Timor-Leste?",
+      "choices": [
+        "Furniture",
+        "Textiles",
+        "Electronics",
+        "Food products"
+      ],
+      "answer": "Electronics"
+    },
+    {
+      "question": "How does bamboo contribute to climate change mitigation?",
+      "choices": [
+        "By increasing carbon emissions",
+        "Through carbon sequestration",
+        "By promoting fossil fuel use",
+        "By reducing biodiversity"
+      ],
+      "answer": "Through carbon sequestration"
+    },
+    {
+      "question": "What is a key benefit of bamboo's root system in Timor-Leste's context?",
+      "choices": [
+        "Increases soil acidity",
+        "Prevents soil erosion",
+        "Depletes groundwater",
+        "Attracts harmful insects"
+      ],
+      "answer": "Prevents soil erosion"
+    },
+    {
+      "question": "Which natural disasters is Timor-Leste particularly vulnerable to?",
+      "choices": [
+        "Volcanoes and tsunamis",
+        "Blizzards and ice storms",
+        "Earthquakes and cyclones",
+        "Droughts and heat waves"
+      ],
+      "answer": "Earthquakes and cyclones"
+    },
+    {
+      "question": "What is the growth rate of some bamboo species mentioned in the module?",
+      "choices": [
+        "Up to 91 cm per day",
+        "Up to 1 cm per day",
+        "Up to 10 cm per month",
+        "Up to 1 meter per year"
+      ],
+      "answer": "Up to 91 cm per day"
+    },
+    {
+      "question": "How does bamboo compare to steel in terms of tensile strength?",
+      "choices": [
+        "Much weaker than steel",
+        "Slightly weaker than steel",
+        "Comparable to steel in some species",
+        "Much stronger than steel"
+      ],
+      "answer": "Comparable to steel in some species"
+    },
+    {
+      "question": "What is a potential benefit of developing a bamboo industry in Timor-Leste?",
+      "choices": [
+        "Increased reliance on imported materials",
+        "Job creation in urban areas only",
+        "Reduced biodiversity",
+        "Job creation in rural areas"
+      ],
+      "answer": "Job creation in rural areas"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a bamboo-based product for potential development in Timor-Leste?",
+      "choices": [
+        "Flooring",
+        "Scaffolding",
+        "Clothing",
+        "Automobiles"
+      ],
+      "answer": "Automobiles"
+    },
+    {
+      "question": "How can bamboo contribute to Timor-Leste's energy sector?",
+      "choices": [
+        "As a source of nuclear fuel",
+        "Through bamboo biomass for fuel",
+        "By enhancing oil extraction",
+        "As a component in solar panels"
+      ],
+      "answer": "Through bamboo biomass for fuel"
+    },
+    {
+      "question": "What is a key challenge in developing a bamboo-based construction industry in Timor-Leste?",
+      "choices": [
+        "Lack of bamboo resources",
+        "Excessive rainfall",
+        "Need for skills development and training",
+        "High cost of bamboo"
+      ],
+      "answer": "Need for skills development and training"
+    },
+    {
+      "question": "How can bamboo plantations benefit Timor-Leste's water resources?",
+      "choices": [
+        "By increasing water consumption",
+        "Through watershed protection",
+        "By promoting water pollution",
+        "By reducing groundwater recharge"
+      ],
+      "answer": "Through watershed protection"
+    },
+    {
+      "question": "What is the recommended harvesting technique for sustainable bamboo management?",
+      "choices": [
+        "Clear-cutting",
+        "Burning",
+        "Selective harvesting",
+        "Chemical defoliation"
+      ],
+      "answer": "Selective harvesting"
+    },
+    {
+      "question": "How can bamboo contribute to Timor-Leste's tourism sector?",
+      "choices": [
+        "By replacing all historical sites",
+        "Through eco-lodges built with bamboo",
+        "By eliminating traditional architecture",
+        "As a barrier to prevent tourist access"
+      ],
+      "answer": "Through eco-lodges built with bamboo"
+    },
+    {
+      "question": "What is a potential environmental benefit of using bamboo instead of timber?",
+      "choices": [
+        "Increased deforestation",
+        "Reduced pressure on natural forests",
+        "Elimination of all tree species",
+        "Decreased biodiversity"
+      ],
+      "answer": "Reduced pressure on natural forests"
+    },
+    {
+      "question": "How much CO2 can some bamboo species sequester per hectare per year?",
+      "choices": [
+        "Up to 1 ton",
+        "Up to 5 tons",
+        "Up to 12 tons",
+        "Up to 20 tons"
+      ],
+      "answer": "Up to 12 tons"
+    },
+    {
+      "question": "What is a key factor in making bamboo construction disaster-resistant?",
+      "choices": [
+        "Using untreated bamboo",
+        "Avoiding all traditional techniques",
+        "Proper joinery techniques",
+        "Maximizing the weight of structures"
+      ],
+      "answer": "Proper joinery techniques"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a step in the bamboo value chain?",
+      "choices": [
+        "Cultivation",
+        "Processing",
+        "Genetic modification",
+        "Marketing"
+      ],
+      "answer": "Genetic modification"
+    },
+    {
+      "question": "How can bamboo contribute to food security in Timor-Leste?",
+      "choices": [
+        "By replacing all traditional crops",
+        "Through bamboo shoot production",
+        "By eliminating agricultural land",
+        "As a pesticide for other crops"
+      ],
+      "answer": "Through bamboo shoot production"
+    },
+    {
+      "question": "What role can traditional knowledge play in bamboo development in Timor-Leste?",
+      "choices": [
+        "It should be completely ignored",
+        "It can inform modern bamboo applications",
+        "It is irrelevant to sustainable development",
+        "It should replace all modern techniques"
+      ],
+      "answer": "It can inform modern bamboo applications"
+    },
+    {
+      "question": "What is a potential challenge in developing bamboo textile industry in Timor-Leste?",
+      "choices": [
+        "Lack of market demand",
+        "Bamboo's unsuitability for textiles",
+        "Need for processing facilities",
+        "Excessive water requirements"
+      ],
+      "answer": "Need for processing facilities"
+    },
+    {
+      "question": "How can bamboo construction contribute to cultural preservation in Timor-Leste?",
+      "choices": [
+        "By replacing all traditional buildings",
+        "Through integration with traditional designs",
+        "By importing foreign architectural styles",
+        "By eliminating the use of local materials"
+      ],
+      "answer": "Through integration with traditional designs"
+    },
+    {
+      "question": "What is a key consideration for ensuring sustainable bamboo harvesting in Timor-Leste?",
+      "choices": [
+        "Harvesting all bamboo at once",
+        "Using chemical defoliants",
+        "Implementing clear-cutting techniques",
+        "Developing proper management plans"
+      ],
+      "answer": "Developing proper management plans"
+    },
+    {
+      "question": "How can bamboo contribute to carbon offset projects in Timor-Leste?",
+      "choices": [
+        "By increasing carbon emissions",
+        "Through rapid growth and CO2 absorption",
+        "By replacing all other plant species",
+        "As a source of fossil fuels"
+      ],
+      "answer": "Through rapid growth and CO2 absorption"
+    },
+    {
+      "question": "What is a potential benefit of bamboo in concrete reinforcement?",
+      "choices": [
+        "Increased weight of structures",
+        "Reduced flexibility",
+        "Enhanced tensile strength",
+        "Higher cost compared to steel"
+      ],
+      "answer": "Enhanced tensile strength"
+    },
+    {
+      "question": "How can bamboo plantations benefit biodiversity in Timor-Leste?",
+      "choices": [
+        "By eliminating all other plant species",
+        "Through monoculture farming",
+        "By providing habitat for various species",
+        "By increasing the use of pesticides"
+      ],
+      "answer": "By providing habitat for various species"
+    },
+    {
+      "question": "What is a key factor in promoting bamboo-based industries in Timor-Leste?",
+      "choices": [
+        "Discouraging local participation",
+        "Focusing solely on export markets",
+        "Implementing supportive government policies",
+        "Avoiding all forms of innovation"
+      ],
+      "answer": "Implementing supportive government policies"
+    },
+    {
+      "question": "How can bamboo contribute to water management in Timor-Leste?",
+      "choices": [
+        "By increasing water consumption",
+        "Through erosion control and watershed protection",
+        "By promoting water pollution",
+        "As a barrier to natural water flow"
+      ],
+      "answer": "Through erosion control and watershed protection"
+    },
+    {
+      "question": "What is a potential application of bamboo in Timor-Leste's energy sector?",
+      "choices": [
+        "As a source of nuclear fuel",
+        "For oil extraction",
+        "In solar panel production",
+        "As biomass for charcoal production"
+      ],
+      "answer": "As biomass for charcoal production"
+    },
+    {
+      "question": "How can bamboo construction techniques be improved in Timor-Leste?",
+      "choices": [
+        "By completely abandoning traditional methods",
+        "Through research and integration of modern techniques",
+        "By importing all construction materials",
+        "By using only untreated bamboo"
+      ],
+      "answer": "Through research and integration of modern techniques"
+    }
+  ]
+}

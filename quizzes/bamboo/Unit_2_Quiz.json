@@ -1,0 +1,295 @@
+{
+  "title": "Bamboo Cultivation and Harvesting",
+  "questions": [
+    {
+      "question": "What is the fastest growing plant on Earth?",
+      "choices": [
+        "Oak",
+        "Bamboo",
+        "Eucalyptus",
+        "Corn"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "How much can some bamboo species grow in a single day under ideal conditions?",
+      "choices": [
+        "Up to 10 cm",
+        "Up to 36 cm",
+        "Up to 91 cm",
+        "Up to 150 cm"
+      ],
+      "answer": "Up to 91 cm"
+    },
+    {
+      "question": "What are the two main types of bamboo?",
+      "choices": [
+        "Tall and short",
+        "Thick and thin",
+        "Running and clumping",
+        "Edible and non-edible"
+      ],
+      "answer": "Running and clumping"
+    },
+    {
+      "question": "What is the underground stem system of bamboo called?",
+      "choices": [
+        "Root",
+        "Rhizome",
+        "Culm",
+        "Shoot"
+      ],
+      "answer": "Rhizome"
+    },
+    {
+      "question": "How long does it typically take for a bamboo culm to reach full height?",
+      "choices": [
+        "2-4 weeks",
+        "2-4 months",
+        "2-4 years",
+        "4-6 months"
+      ],
+      "answer": "2-4 months"
+    },
+    {
+      "question": "What is the process of strengthening the bamboo culm called?",
+      "choices": [
+        "Ossification",
+        "Calcification",
+        "Lignification",
+        "Solidification"
+      ],
+      "answer": "Lignification"
+    },
+    {
+      "question": "How long does it typically take for most bamboo species to mature?",
+      "choices": [
+        "1-2 years",
+        "3-5 years",
+        "7-10 years",
+        "15-20 years"
+      ],
+      "answer": "3-5 years"
+    },
+    {
+      "question": "What is the recommended soil depth for preparing a bamboo planting site?",
+      "choices": [
+        "10-20 cm",
+        "30-60 cm",
+        "70-100 cm",
+        "100-150 cm"
+      ],
+      "answer": "30-60 cm"
+    },
+    {
+      "question": "When is the best time to plant bamboo?",
+      "choices": [
+        "During the dry season",
+        "During the rainy season",
+        "In early spring",
+        "In late autumn"
+      ],
+      "answer": "During the rainy season"
+    },
+    {
+      "question": "What percentage of mature culms should be harvested annually for sustainable practices?",
+      "choices": [
+        "10-15%",
+        "25-30%",
+        "40-50%",
+        "60-70%"
+      ],
+      "answer": "25-30%"
+    },
+    {
+      "question": "What is the recommended cutting height for harvesting bamboo culms?",
+      "choices": [
+        "At ground level",
+        "Just above the first or second node from ground level",
+        "Halfway up the culm",
+        "Near the top of the culm"
+      ],
+      "answer": "Just above the first or second node from ground level"
+    },
+    {
+      "question": "Which of the following is NOT a sign of a mature bamboo culm?",
+      "choices": [
+        "Darker color",
+        "Presence of lichens or moss",
+        "Absence of culm sheaths",
+        "Soft texture when tapped"
+      ],
+      "answer": "Soft texture when tapped"
+    },
+    {
+      "question": "What is the purpose of applying borax solution to freshly cut bamboo ends?",
+      "choices": [
+        "To enhance color",
+        "To increase flexibility",
+        "To prevent fungal growth",
+        "To accelerate drying"
+      ],
+      "answer": "To prevent fungal growth"
+    },
+    {
+      "question": "Which of the following is a traditional method of curing bamboo?",
+      "choices": [
+        "Kiln drying",
+        "Chemical treatment",
+        "Vertical storage",
+        "Pressure treatment"
+      ],
+      "answer": "Vertical storage"
+    },
+    {
+      "question": "How long does the traditional vertical storage method of curing bamboo typically take?",
+      "choices": [
+        "1-2 weeks",
+        "4-8 weeks",
+        "3-6 months",
+        "1-2 years"
+      ],
+      "answer": "4-8 weeks"
+    },
+    {
+      "question": "What is the primary advantage of clumping bamboo over running bamboo?",
+      "choices": [
+        "Faster growth rate",
+        "Higher yield",
+        "Easier to control spread",
+        "More resistant to pests"
+      ],
+      "answer": "Easier to control spread"
+    },
+    {
+      "question": "Which season is best for harvesting bamboo to reduce sap content?",
+      "choices": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Dry season"
+      ],
+      "answer": "Dry season"
+    },
+    {
+      "question": "What is the recommended method for storing treated bamboo?",
+      "choices": [
+        "Vertically in bundles",
+        "Horizontally on raised platforms",
+        "Submerged in water",
+        "Buried in sand"
+      ],
+      "answer": "Horizontally on raised platforms"
+    },
+    {
+      "question": "Which of the following is NOT a step in the immediate post-harvest treatment of bamboo?",
+      "choices": [
+        "Cleaning",
+        "Grading",
+        "Painting",
+        "Initial treatment"
+      ],
+      "answer": "Painting"
+    },
+    {
+      "question": "What is the main purpose of curing bamboo after harvest?",
+      "choices": [
+        "To increase strength",
+        "To reduce moisture and starch content",
+        "To improve color",
+        "To eliminate pests"
+      ],
+      "answer": "To reduce moisture and starch content"
+    },
+    {
+      "question": "Which of the following is a modern method of curing bamboo?",
+      "choices": [
+        "Clump curing",
+        "Vertical storage",
+        "Kiln drying",
+        "Sun drying"
+      ],
+      "answer": "Kiln drying"
+    },
+    {
+      "question": "What is the primary benefit of integrating bamboo into agroforestry systems in Timor-Leste?",
+      "choices": [
+        "Increased crop yield",
+        "Pest control",
+        "Erosion control and carbon sequestration",
+        "Improved soil fertility"
+      ],
+      "answer": "Erosion control and carbon sequestration"
+    },
+    {
+      "question": "Which part of the bamboo plant produces new shoots and roots?",
+      "choices": [
+        "Culm",
+        "Branch",
+        "Leaf",
+        "Rhizome"
+      ],
+      "answer": "Rhizome"
+    },
+    {
+      "question": "What is the term for the main stem or stalk of the bamboo plant?",
+      "choices": [
+        "Shoot",
+        "Culm",
+        "Branch",
+        "Rhizome"
+      ],
+      "answer": "Culm"
+    },
+    {
+      "question": "Which type of bamboo spreads rapidly through underground rhizomes?",
+      "choices": [
+        "Clumping bamboo",
+        "Running bamboo",
+        "Dwarf bamboo",
+        "Giant bamboo"
+      ],
+      "answer": "Running bamboo"
+    },
+    {
+      "question": "What is the recommended frequency for fertilizing bamboo?",
+      "choices": [
+        "Monthly",
+        "Twice a year (spring and mid-summer)",
+        "Weekly during growing season",
+        "Annually in autumn"
+      ],
+      "answer": "Twice a year (spring and mid-summer)"
+    },
+    {
+      "question": "Which of the following is NOT a principle of sustainable bamboo harvesting?",
+      "choices": [
+        "Selective harvesting",
+        "Proper timing",
+        "Correct cutting techniques",
+        "Clear-cutting entire stands"
+      ],
+      "answer": "Clear-cutting entire stands"
+    },
+    {
+      "question": "What is the purpose of dividing a bamboo stand into sections for annual rotation?",
+      "choices": [
+        "To increase yield",
+        "To prevent disease spread",
+        "To ensure sustainable harvesting",
+        "To improve aesthetics"
+      ],
+      "answer": "To ensure sustainable harvesting"
+    },
+    {
+      "question": "Which of the following is a common use of bamboo in Timor-Leste?",
+      "choices": [
+        "Boat building",
+        "Traditional architecture",
+        "Paper production",
+        "Textile manufacturing"
+      ],
+      "answer": "Traditional architecture"
+    }
+  ]
+}

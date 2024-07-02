@@ -1,0 +1,305 @@
+{
+  "title": "Designing with Bamboo",
+  "questions": [
+    {
+      "question": "What is the average tensile strength of bamboo?",
+      "choices": [
+        "100-200 N/mm²",
+        "200-300 N/mm²",
+        "350-500 N/mm²",
+        "550-700 N/mm²"
+      ],
+      "answer": "350-500 N/mm²"
+    },
+    {
+      "question": "Which of the following is NOT a key structural property of bamboo?",
+      "choices": [
+        "Tensile strength",
+        "Compressive strength",
+        "Flexural rigidity",
+        "Thermal conductivity"
+      ],
+      "answer": "Thermal conductivity"
+    },
+    {
+      "question": "What is the recommended maximum length-to-diameter ratio for bamboo columns?",
+      "choices": [
+        "20:1",
+        "30:1",
+        "40:1",
+        "50:1"
+      ],
+      "answer": "30:1"
+    },
+    {
+      "question": "Which of the following is NOT a common type of bamboo joint?",
+      "choices": [
+        "Lashed",
+        "Pinned",
+        "Bolted",
+        "Welded"
+      ],
+      "answer": "Welded"
+    },
+    {
+      "question": "What is the average compressive strength of bamboo?",
+      "choices": [
+        "10-30 N/mm²",
+        "40-80 N/mm²",
+        "90-120 N/mm²",
+        "130-170 N/mm²"
+      ],
+      "answer": "40-80 N/mm²"
+    },
+    {
+      "question": "Which factor does NOT affect the load-bearing capacity of bamboo?",
+      "choices": [
+        "Culm diameter",
+        "Wall thickness",
+        "Internode length",
+        "Bamboo age"
+      ],
+      "answer": "Bamboo age"
+    },
+    {
+      "question": "What is the typical range for the modulus of elasticity of bamboo?",
+      "choices": [
+        "1,000-5,000 N/mm²",
+        "5,000-10,000 N/mm²",
+        "10,000-20,000 N/mm²",
+        "20,000-30,000 N/mm²"
+      ],
+      "answer": "10,000-20,000 N/mm²"
+    },
+    {
+      "question": "Which of the following is NOT a common method for protecting bamboo from insects and fungi?",
+      "choices": [
+        "Borax-boric acid treatment",
+        "Smoking",
+        "Lime washing",
+        "Painting with acrylic paint"
+      ],
+      "answer": "Painting with acrylic paint"
+    },
+    {
+      "question": "What is the primary advantage of using CAD software for bamboo design?",
+      "choices": [
+        "It eliminates the need for physical prototypes",
+        "It automatically selects the best bamboo species for each project",
+        "It allows for precise modeling of complex geometries",
+        "It guarantees structural integrity without engineering input"
+      ],
+      "answer": "It allows for precise modeling of complex geometries"
+    },
+    {
+      "question": "Which CAD software is described as user-friendly and good for conceptual design in bamboo structures?",
+      "choices": [
+        "AutoCAD",
+        "SketchUp",
+        "Rhino",
+        "SolidWorks"
+      ],
+      "answer": "SketchUp"
+    },
+    {
+      "question": "What is the primary challenge in nailing or screwing bamboo directly?",
+      "choices": [
+        "It dulls tools quickly",
+        "It creates weak connections",
+        "It risks splits or cracks in the bamboo",
+        "It is too time-consuming"
+      ],
+      "answer": "It risks splits or cracks in the bamboo"
+    },
+    {
+      "question": "Which of the following is NOT a typical consideration in bamboo roof design?",
+      "choices": [
+        "Light-weight roofing materials",
+        "Proper overhang for weather protection",
+        "Ventilation",
+        "Insulation R-value"
+      ],
+      "answer": "Insulation R-value"
+    },
+    {
+      "question": "What is the primary purpose of allowing for movement in bamboo joint design?",
+      "choices": [
+        "To accommodate thermal expansion",
+        "To prevent splitting",
+        "To improve earthquake resistance",
+        "To facilitate easy disassembly"
+      ],
+      "answer": "To prevent splitting"
+    },
+    {
+      "question": "Which of the following is NOT a common infill option for bamboo frame walls?",
+      "choices": [
+        "Bamboo mats",
+        "Earth",
+        "Concrete blocks",
+        "Woven palm leaves"
+      ],
+      "answer": "Concrete blocks"
+    },
+    {
+      "question": "What is the primary advantage of bamboo's hollow, tubular structure in construction?",
+      "choices": [
+        "It reduces material costs",
+        "It provides excellent insulation",
+        "It offers a high strength-to-weight ratio",
+        "It allows for easy electrical wiring"
+      ],
+      "answer": "It offers a high strength-to-weight ratio"
+    },
+    {
+      "question": "Which factor does NOT typically increase the compressive strength of bamboo?",
+      "choices": [
+        "Increased age",
+        "Lower height on the culm",
+        "Larger diameter",
+        "Higher moisture content"
+      ],
+      "answer": "Higher moisture content"
+    },
+    {
+      "question": "What is the primary reason for using light-weight roofing materials in bamboo structures?",
+      "choices": [
+        "To reduce cost",
+        "To minimize load on the bamboo frame",
+        "To improve insulation",
+        "To enhance aesthetics"
+      ],
+      "answer": "To minimize load on the bamboo frame"
+    },
+    {
+      "question": "Which of the following is NOT a common method for modeling bamboo culms in CAD software?",
+      "choices": [
+        "Using cylinders",
+        "Using pipes",
+        "Using cones",
+        "Using extruded profiles"
+      ],
+      "answer": "Using cones"
+    },
+    {
+      "question": "What is the primary purpose of proper detailing in bamboo construction?",
+      "choices": [
+        "To enhance aesthetic appeal",
+        "To simplify construction",
+        "To prevent water ingress",
+        "To reduce material usage"
+      ],
+      "answer": "To prevent water ingress"
+    },
+    {
+      "question": "Which of the following is NOT a typical site factor to consider when designing bamboo structures?",
+      "choices": [
+        "Local climate",
+        "Soil conditions",
+        "Sun exposure",
+        "Proximity to bamboo forests"
+      ],
+      "answer": "Proximity to bamboo forests"
+    },
+    {
+      "question": "What is the primary advantage of using bamboo in construction compared to steel?",
+      "choices": [
+        "Higher tensile strength",
+        "Better fire resistance",
+        "Lower environmental impact",
+        "Longer lifespan"
+      ],
+      "answer": "Lower environmental impact"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in designing with bamboo?",
+      "choices": [
+        "Variability in culm dimensions",
+        "Susceptibility to moisture damage",
+        "Difficulty in creating standardized components",
+        "High cost of raw material"
+      ],
+      "answer": "High cost of raw material"
+    },
+    {
+      "question": "What is the primary purpose of elevating bamboo structures off the ground?",
+      "choices": [
+        "To improve ventilation",
+        "To protect against flooding",
+        "To minimize contact with moisture and insects",
+        "To create storage space underneath"
+      ],
+      "answer": "To minimize contact with moisture and insects"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of using CAD in bamboo structure design?",
+      "choices": [
+        "Precise modeling of complex geometries",
+        "Easy modification and iteration of designs",
+        "Generation of accurate material lists",
+        "Automatic structural optimization"
+      ],
+      "answer": "Automatic structural optimization"
+    },
+    {
+      "question": "What is the primary consideration when selecting bamboo culms for primary load-bearing components?",
+      "choices": [
+        "Age of the bamboo",
+        "Species of bamboo",
+        "Diameter of the culm",
+        "Color of the bamboo"
+      ],
+      "answer": "Diameter of the culm"
+    },
+    {
+      "question": "Which of the following is NOT a typical strategy for improving the fire resistance of bamboo structures?",
+      "choices": [
+        "Using fire-retardant treatments",
+        "Proper spacing between elements",
+        "Compartmentalization in design",
+        "Coating with a thick layer of plaster"
+      ],
+      "answer": "Coating with a thick layer of plaster"
+    },
+    {
+      "question": "What is the primary advantage of using bamboo in disaster-resistant construction?",
+      "choices": [
+        "Its ability to withstand high winds",
+        "Its resistance to water damage",
+        "Its flexibility and energy absorption",
+        "Its non-combustible nature"
+      ],
+      "answer": "Its flexibility and energy absorption"
+    },
+    {
+      "question": "Which of the following is NOT a typical consideration in bamboo foundation design?",
+      "choices": [
+        "Soil type and stability",
+        "Drainage",
+        "Termite protection",
+        "Aesthetic appeal"
+      ],
+      "answer": "Aesthetic appeal"
+    },
+    {
+      "question": "What is the primary reason for considering ventilation in bamboo roof design?",
+      "choices": [
+        "To reduce heat gain",
+        "To prevent moisture accumulation",
+        "To improve indoor air quality",
+        "To enhance structural stability"
+      ],
+      "answer": "To prevent moisture accumulation"
+    },
+    {
+      "question": "Which of the following is NOT a typical method for creating bamboo joints in CAD software?",
+      "choices": [
+        "Using cylinders to represent lashed connections",
+        "Modeling bolted connections with simple geometry",
+        "Creating custom joint components",
+        "Automatically generating joints based on stress analysis"
+      ],
+      "answer": "Automatically generating joints based on stress analysis"
+    }
+  ]
+}

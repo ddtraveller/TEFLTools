@@ -1,0 +1,305 @@
+{
+  "title": "Bamboo Treatment and Preservation",
+  "questions": [
+    {
+      "question": "What is the primary purpose of bamboo treatment?",
+      "choices": [
+        "To change its color",
+        "To increase its weight",
+        "To extend its lifespan",
+        "To make it more flexible"
+      ],
+      "answer": "To extend its lifespan"
+    },
+    {
+      "question": "Untreated bamboo in outdoor conditions typically lasts for:",
+      "choices": [
+        "1-3 years",
+        "5-10 years",
+        "15-20 years",
+        "30-40 years"
+      ],
+      "answer": "1-3 years"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese bamboo treatment method?",
+      "choices": [
+        "Pressure treatment",
+        "Smoke treatment",
+        "Acetylation",
+        "Microwave treatment"
+      ],
+      "answer": "Smoke treatment"
+    },
+    {
+      "question": "What is the main benefit of lime soaking as a bamboo treatment method?",
+      "choices": [
+        "It makes bamboo more flexible",
+        "It increases bamboo's tensile strength",
+        "It improves resistance to fungi and insects",
+        "It reduces bamboo's weight"
+      ],
+      "answer": "It improves resistance to fungi and insects"
+    },
+    {
+      "question": "Which modern preservation technique is considered both effective and environmentally friendly?",
+      "choices": [
+        "Copper Chrome Arsenic (CCA) treatment",
+        "Borax-boric acid treatment",
+        "Creosote treatment",
+        "Pentachlorophenol treatment"
+      ],
+      "answer": "Borax-boric acid treatment"
+    },
+    {
+      "question": "What is the ideal moisture content for construction-grade bamboo?",
+      "choices": [
+        "5-8%",
+        "12-15%",
+        "20-25%",
+        "30-35%"
+      ],
+      "answer": "12-15%"
+    },
+    {
+      "question": "How long does the traditional smoke treatment typically take?",
+      "choices": [
+        "2-4 days",
+        "2-4 weeks",
+        "2-4 months",
+        "2-4 hours"
+      ],
+      "answer": "2-4 weeks"
+    },
+    {
+      "question": "What is the primary advantage of borax-boric acid treatment over traditional methods?",
+      "choices": [
+        "It's faster",
+        "It's cheaper",
+        "It's more consistent and long-lasting",
+        "It's more culturally appropriate"
+      ],
+      "answer": "It's more consistent and long-lasting"
+    },
+    {
+      "question": "Which of the following is NOT a common threat to untreated bamboo?",
+      "choices": [
+        "Fungal decay",
+        "Insect infestation",
+        "UV radiation",
+        "Petrification"
+      ],
+      "answer": "Petrification"
+    },
+    {
+      "question": "What is the recommended concentration of borax-boric acid solution for bamboo treatment?",
+      "choices": [
+        "1-3%",
+        "5-8%",
+        "10-15%",
+        "20-25%"
+      ],
+      "answer": "5-8%"
+    },
+    {
+      "question": "How long should bamboo be soaked in a borax-boric acid solution?",
+      "choices": [
+        "1-2 days",
+        "5-7 days",
+        "2-3 weeks",
+        "1-2 months"
+      ],
+      "answer": "5-7 days"
+    },
+    {
+      "question": "What is the main purpose of drying bamboo after treatment?",
+      "choices": [
+        "To increase its weight",
+        "To improve its color",
+        "To reduce its moisture content",
+        "To make it more flexible"
+      ],
+      "answer": "To reduce its moisture content"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for storing treated bamboo?",
+      "choices": [
+        "Storing horizontally on raised racks",
+        "Protecting from direct sunlight",
+        "Ensuring good air circulation",
+        "Storing in a damp environment"
+      ],
+      "answer": "Storing in a damp environment"
+    },
+    {
+      "question": "What is the primary advantage of traditional treatment methods in Timor-Leste?",
+      "choices": [
+        "They are more effective than modern methods",
+        "They are faster than modern methods",
+        "They use locally available materials",
+        "They produce bamboo with higher strength"
+      ],
+      "answer": "They use locally available materials"
+    },
+    {
+      "question": "Which insect is particularly problematic for untreated bamboo?",
+      "choices": [
+        "Butterflies",
+        "Beetles",
+        "Bees",
+        "Ants"
+      ],
+      "answer": "Beetles"
+    },
+    {
+      "question": "What is the main disadvantage of the Copper Chrome Arsenic (CCA) treatment?",
+      "choices": [
+        "It's ineffective against fungi",
+        "It's too expensive",
+        "It's toxic to humans and animals",
+        "It weakens the bamboo structure"
+      ],
+      "answer": "It's toxic to humans and animals"
+    },
+    {
+      "question": "How does smoke treatment protect bamboo?",
+      "choices": [
+        "By increasing its moisture content",
+        "By creating a protective layer on the surface",
+        "By changing its cellular structure",
+        "By making it more flexible"
+      ],
+      "answer": "By creating a protective layer on the surface"
+    },
+    {
+      "question": "What tool is commonly used to check the moisture content of bamboo?",
+      "choices": [
+        "Hygrometer",
+        "Barometer",
+        "Moisture meter",
+        "Thermometer"
+      ],
+      "answer": "Moisture meter"
+    },
+    {
+      "question": "Which of the following is a benefit of properly treated bamboo?",
+      "choices": [
+        "Increased flexibility",
+        "Higher moisture content",
+        "Reduced maintenance costs",
+        "Faster growth rate"
+      ],
+      "answer": "Reduced maintenance costs"
+    },
+    {
+      "question": "What is the primary component in bamboo that attracts insects?",
+      "choices": [
+        "Cellulose",
+        "Lignin",
+        "Starch",
+        "Silica"
+      ],
+      "answer": "Starch"
+    },
+    {
+      "question": "How long does lime soaking typically take?",
+      "choices": [
+        "1-2 days",
+        "1-2 weeks",
+        "1-2 months",
+        "1-2 years"
+      ],
+      "answer": "1-2 months"
+    },
+    {
+      "question": "What is the main advantage of kiln drying over air drying for bamboo?",
+      "choices": [
+        "It's cheaper",
+        "It's faster",
+        "It results in stronger bamboo",
+        "It's more environmentally friendly"
+      ],
+      "answer": "It's faster"
+    },
+    {
+      "question": "Which of the following is NOT a safety precaution when treating bamboo?",
+      "choices": [
+        "Wearing gloves",
+        "Working in a well-ventilated area",
+        "Wearing safety goggles",
+        "Working in an enclosed space"
+      ],
+      "answer": "Working in an enclosed space"
+    },
+    {
+      "question": "What is the primary purpose of using a moisture meter on treated bamboo?",
+      "choices": [
+        "To check for insect infestation",
+        "To measure its strength",
+        "To ensure it has reached the ideal moisture content",
+        "To determine its age"
+      ],
+      "answer": "To ensure it has reached the ideal moisture content"
+    },
+    {
+      "question": "Which of the following factors does NOT typically affect the effectiveness of bamboo treatment?",
+      "choices": [
+        "Bamboo species",
+        "Local climate",
+        "Treatment method",
+        "Bamboo color"
+      ],
+      "answer": "Bamboo color"
+    },
+    {
+      "question": "What is the main advantage of using borax-boric acid treatment?",
+      "choices": [
+        "It's the cheapest option",
+        "It's non-toxic to humans and animals",
+        "It changes the bamboo's color",
+        "It makes bamboo fireproof"
+      ],
+      "answer": "It's non-toxic to humans and animals"
+    },
+    {
+      "question": "How does high moisture content affect bamboo?",
+      "choices": [
+        "It makes it stronger",
+        "It makes it more resistant to insects",
+        "It makes it more susceptible to fungal growth",
+        "It improves its flexibility"
+      ],
+      "answer": "It makes it more susceptible to fungal growth"
+    },
+    {
+      "question": "What is the primary reason for storing treated bamboo off the ground?",
+      "choices": [
+        "To prevent insect infestation",
+        "To allow for better air circulation",
+        "To make it easier to transport",
+        "To increase its strength"
+      ],
+      "answer": "To allow for better air circulation"
+    },
+    {
+      "question": "Which of the following is a sign that bamboo may need treatment?",
+      "choices": [
+        "It's too straight",
+        "It's too heavy",
+        "It shows signs of discoloration or mold",
+        "It's too light in color"
+      ],
+      "answer": "It shows signs of discoloration or mold"
+    },
+    {
+      "question": "What is the main purpose of treating bamboo with chemicals?",
+      "choices": [
+        "To change its appearance",
+        "To make it heavier",
+        "To protect it from decay and insects",
+        "To make it grow faster"
+      ],
+      "answer": "To protect it from decay and insects"
+    }
+  ]
+}

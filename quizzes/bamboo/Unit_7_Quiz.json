@@ -1,0 +1,305 @@
+{
+  "title": "Building with Bamboo",
+  "questions": [
+    {
+      "question": "What is the first step in bamboo construction?",
+      "choices": [
+        "Roofing installation",
+        "Site preparation",
+        "Frame assembly",
+        "Bamboo harvesting"
+      ],
+      "answer": "Site preparation"
+    },
+    {
+      "question": "Which of the following is NOT typically considered during site selection for bamboo construction?",
+      "choices": [
+        "Drainage",
+        "Soil stability",
+        "Natural hazards",
+        "Proximity to bamboo forests"
+      ],
+      "answer": "Proximity to bamboo forests"
+    },
+    {
+      "question": "What is the purpose of soil testing in bamboo construction?",
+      "choices": [
+        "To determine the type of bamboo to use",
+        "To ensure stable foundation",
+        "To measure bamboo growth rate",
+        "To assess roofing materials"
+      ],
+      "answer": "To ensure stable foundation"
+    },
+    {
+      "question": "Which of the following is NOT a common foundation type for bamboo structures?",
+      "choices": [
+        "Concrete pad foundations",
+        "Stone piers",
+        "Deep pile foundations",
+        "Raised platform foundations"
+      ],
+      "answer": "Deep pile foundations"
+    },
+    {
+      "question": "What is the primary advantage of bamboo structures in earthquake-prone regions?",
+      "choices": [
+        "Fire resistance",
+        "Lightweight yet strong",
+        "Low cost",
+        "Easy to repair"
+      ],
+      "answer": "Lightweight yet strong"
+    },
+    {
+      "question": "Which structural principle is important for stability in bamboo frame construction?",
+      "choices": [
+        "Triangulation",
+        "Compression",
+        "Tension",
+        "Torsion"
+      ],
+      "answer": "Triangulation"
+    },
+    {
+      "question": "What is the purpose of horizontal tie beams in bamboo frame construction?",
+      "choices": [
+        "To support the roof",
+        "To provide stability",
+        "To create windows",
+        "To improve insulation"
+      ],
+      "answer": "To provide stability"
+    },
+    {
+      "question": "Which joinery method involves securing bamboo poles together using rope or flexible materials?",
+      "choices": [
+        "Bolted connections",
+        "Fish-mouth joints",
+        "Lashed joints",
+        "Dowel reinforcement"
+      ],
+      "answer": "Lashed joints"
+    },
+    {
+      "question": "What is the primary purpose of bracing in bamboo frame construction?",
+      "choices": [
+        "To support the roof",
+        "To create doorways",
+        "To provide rigidity",
+        "To improve insulation"
+      ],
+      "answer": "To provide rigidity"
+    },
+    {
+      "question": "Which of the following is NOT a common roofing option for bamboo structures?",
+      "choices": [
+        "Palm leaf thatch",
+        "Corrugated metal sheets",
+        "Bamboo shingles",
+        "Concrete tiles"
+      ],
+      "answer": "Concrete tiles"
+    },
+    {
+      "question": "What is the primary purpose of weatherproofing in bamboo construction?",
+      "choices": [
+        "To improve structural strength",
+        "To enhance aesthetic appeal",
+        "To protect bamboo from moisture and UV radiation",
+        "To increase bamboo flexibility"
+      ],
+      "answer": "To protect bamboo from moisture and UV radiation"
+    },
+    {
+      "question": "Which of the following is a natural sealant used for weatherproofing bamboo?",
+      "choices": [
+        "Polyurethane",
+        "Epoxy resin",
+        "Linseed oil",
+        "Acrylic paint"
+      ],
+      "answer": "Linseed oil"
+    },
+    {
+      "question": "Why is proper roof overhang important in bamboo construction?",
+      "choices": [
+        "To increase interior space",
+        "To support solar panels",
+        "To prevent moisture damage",
+        "To improve ventilation"
+      ],
+      "answer": "To prevent moisture damage"
+    },
+    {
+      "question": "What is the primary advantage of using bamboo in construction compared to conventional materials?",
+      "choices": [
+        "Higher strength",
+        "Better fire resistance",
+        "Environmental sustainability",
+        "Lower cost"
+      ],
+      "answer": "Environmental sustainability"
+    },
+    {
+      "question": "Which of the following is a challenge in standardizing bamboo construction?",
+      "choices": [
+        "Bamboo's rapid growth rate",
+        "Lack of building codes",
+        "High cost of bamboo",
+        "Natural variability of bamboo"
+      ],
+      "answer": "Natural variability of bamboo"
+    },
+    {
+      "question": "What is the purpose of raising floors in bamboo structures?",
+      "choices": [
+        "To improve ventilation",
+        "To prevent moisture damage",
+        "To create storage space",
+        "To enhance earthquake resistance"
+      ],
+      "answer": "To prevent moisture damage"
+    },
+    {
+      "question": "Which of the following is NOT a common threat to bamboo structures?",
+      "choices": [
+        "Insect infestation",
+        "Moisture damage",
+        "UV radiation",
+        "Rust"
+      ],
+      "answer": "Rust"
+    },
+    {
+      "question": "What is the primary advantage of bamboo's tubular shape in construction?",
+      "choices": [
+        "Improved insulation",
+        "Better acoustics",
+        "High strength-to-weight ratio",
+        "Ease of transportation"
+      ],
+      "answer": "High strength-to-weight ratio"
+    },
+    {
+      "question": "Which of the following is a modern joinery technique for bamboo construction?",
+      "choices": [
+        "Lashing with vines",
+        "Bolted connections",
+        "Mud packing",
+        "Woven joints"
+      ],
+      "answer": "Bolted connections"
+    },
+    {
+      "question": "What is the primary purpose of diagonal braces in bamboo frame construction?",
+      "choices": [
+        "To support the roof",
+        "To create windows",
+        "To provide rigidity",
+        "To improve insulation"
+      ],
+      "answer": "To provide rigidity"
+    },
+    {
+      "question": "Which of the following is NOT a common soil test used in site preparation for bamboo construction?",
+      "choices": [
+        "Jar test",
+        "Ribbon test",
+        "Penetration test",
+        "Spectrometer test"
+      ],
+      "answer": "Spectrometer test"
+    },
+    {
+      "question": "What is the primary advantage of using bamboo shingles for roofing?",
+      "choices": [
+        "Better insulation",
+        "Lower cost",
+        "Longer lifespan",
+        "Sustainability"
+      ],
+      "answer": "Sustainability"
+    },
+    {
+      "question": "Which of the following is a key consideration when selecting bamboo poles for construction?",
+      "choices": [
+        "Color",
+        "Age",
+        "Number of branches",
+        "Bamboo species origin"
+      ],
+      "answer": "Age"
+    },
+    {
+      "question": "What is the primary purpose of compaction in soil preparation for bamboo construction?",
+      "choices": [
+        "To improve drainage",
+        "To increase soil fertility",
+        "To ensure foundation stability",
+        "To prevent bamboo growth"
+      ],
+      "answer": "To ensure foundation stability"
+    },
+    {
+      "question": "Which of the following is NOT a common method for bamboo preservation?",
+      "choices": [
+        "Borax treatment",
+        "Smoke curing",
+        "Oil treatment",
+        "Freeze-drying"
+      ],
+      "answer": "Freeze-drying"
+    },
+    {
+      "question": "What is the primary advantage of using living roofs in bamboo structures?",
+      "choices": [
+        "Lower cost",
+        "Improved insulation",
+        "Easier maintenance",
+        "Better structural support"
+      ],
+      "answer": "Improved insulation"
+    },
+    {
+      "question": "Which of the following is a key factor in ensuring the longevity of bamboo structures?",
+      "choices": [
+        "Painting the bamboo",
+        "Using only young bamboo",
+        "Proper treatment and maintenance",
+        "Avoiding sunlight exposure"
+      ],
+      "answer": "Proper treatment and maintenance"
+    },
+    {
+      "question": "What is the primary purpose of fish-mouth joints in bamboo construction?",
+      "choices": [
+        "To create decorative patterns",
+        "To join bamboo poles at angles",
+        "To improve water resistance",
+        "To increase bamboo flexibility"
+      ],
+      "answer": "To join bamboo poles at angles"
+    },
+    {
+      "question": "Which of the following is NOT a common application of bamboo in construction?",
+      "choices": [
+        "Structural framing",
+        "Flooring",
+        "Roofing",
+        "Foundation"
+      ],
+      "answer": "Foundation"
+    },
+    {
+      "question": "What is the primary advantage of using bamboo lattice work for walls?",
+      "choices": [
+        "Improved insulation",
+        "Better soundproofing",
+        "Natural ventilation",
+        "Increased structural strength"
+      ],
+      "answer": "Natural ventilation"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Basic Bamboo Joinery Techniques",
+  "questions": [
+    {
+      "question": "Which traditional bamboo joinery technique involves using flexible materials to bind bamboo poles together?",
+      "choices": [
+        "Lashing",
+        "Fish-mouth joint",
+        "Mortise and tenon",
+        "Dowel joint"
+      ],
+      "answer": "Lashing"
+    },
+    {
+      "question": "What is the primary advantage of the fish-mouth joint in bamboo construction?",
+      "choices": [
+        "It's easy to disassemble",
+        "It's ideal for creating angled connections",
+        "It's the strongest joint type",
+        "It requires no additional materials"
+      ],
+      "answer": "It's ideal for creating angled connections"
+    },
+    {
+      "question": "Which modern joinery technique involves creating a projecting part on one pole that fits into a corresponding cavity in another?",
+      "choices": [
+        "Lashing",
+        "Fish-mouth joint",
+        "Mortise and tenon",
+        "Bolted connection"
+      ],
+      "answer": "Mortise and tenon"
+    },
+    {
+      "question": "What is a key consideration when choosing bamboo joinery techniques?",
+      "choices": [
+        "The color of the bamboo",
+        "The age of the bamboo plant",
+        "The structural forces at play",
+        "The bamboo's country of origin"
+      ],
+      "answer": "The structural forces at play"
+    },
+    {
+      "question": "Which type of force pushes bamboo poles together?",
+      "choices": [
+        "Tension",
+        "Compression",
+        "Shear",
+        "Torsion"
+      ],
+      "answer": "Compression"
+    },
+    {
+      "question": "What is a common material used in traditional lashing techniques?",
+      "choices": [
+        "Steel wire",
+        "Plastic zip ties",
+        "Rattan",
+        "Nylon rope"
+      ],
+      "answer": "Rattan"
+    },
+    {
+      "question": "Which modern material is often incorporated into contemporary bamboo joinery to increase strength?",
+      "choices": [
+        "Concrete",
+        "Glass",
+        "Steel",
+        "Rubber"
+      ],
+      "answer": "Steel"
+    },
+    {
+      "question": "What is a key advantage of using bolted connections in bamboo construction?",
+      "choices": [
+        "They are invisible",
+        "They are biodegradable",
+        "They increase strength and durability",
+        "They are the cheapest option"
+      ],
+      "answer": "They increase strength and durability"
+    },
+    {
+      "question": "Which joint type is particularly useful when combining bamboo poles of different diameters?",
+      "choices": [
+        "Fish-mouth joint",
+        "Lashed joint",
+        "Mortise and tenon",
+        "Dowel joint"
+      ],
+      "answer": "Dowel joint"
+    },
+    {
+      "question": "What is a crucial factor for ensuring the strength of a lashed joint?",
+      "choices": [
+        "The color of the binding material",
+        "The tightness of the binding",
+        "The age of the bamboo",
+        "The humidity of the environment"
+      ],
+      "answer": "The tightness of the binding"
+    },
+    {
+      "question": "Which force pulls bamboo poles apart?",
+      "choices": [
+        "Compression",
+        "Shear",
+        "Tension",
+        "Torsion"
+      ],
+      "answer": "Tension"
+    },
+    {
+      "question": "What is a key challenge in bamboo joinery compared to timber joinery?",
+      "choices": [
+        "Bamboo is too soft",
+        "Bamboo is too heavy",
+        "Bamboo has a hollow, tubular form",
+        "Bamboo is not strong enough"
+      ],
+      "answer": "Bamboo has a hollow, tubular form"
+    },
+    {
+      "question": "Which joinery technique is often used in load-bearing structures due to its excellent stability?",
+      "choices": [
+        "Lashing",
+        "Fish-mouth joint",
+        "Mortise and tenon",
+        "Simple butt joint"
+      ],
+      "answer": "Mortise and tenon"
+    },
+    {
+      "question": "What is a key consideration for roof connections in bamboo structures?",
+      "choices": [
+        "Aesthetic appeal only",
+        "Resistance to both downward pressure and uplift forces",
+        "Ease of disassembly",
+        "Minimal use of additional materials"
+      ],
+      "answer": "Resistance to both downward pressure and uplift forces"
+    },
+    {
+      "question": "Which traditional Timorese joinery technique involves creating a slot in one bamboo pole and inserting a wedge-shaped piece from another?",
+      "choices": [
+        "Lashed joint",
+        "Wedged joint",
+        "Pegged joint",
+        "Fish-mouth joint"
+      ],
+      "answer": "Wedged joint"
+    },
+    {
+      "question": "What is a common application for pegged joints in traditional Timorese bamboo construction?",
+      "choices": [
+        "Decorative elements only",
+        "Temporary structures",
+        "Reinforcing lashed joints",
+        "Creating flexible connections"
+      ],
+      "answer": "Reinforcing lashed joints"
+    },
+    {
+      "question": "Which modern joinery technique involves filling bamboo internodes with epoxy resin?",
+      "choices": [
+        "Bolted connections",
+        "Steel insert joints",
+        "Epoxy-filled joints",
+        "Prefabricated connectors"
+      ],
+      "answer": "Epoxy-filled joints"
+    },
+    {
+      "question": "What is a primary advantage of prefabricated connectors in bamboo construction?",
+      "choices": [
+        "They are biodegradable",
+        "They are invisible",
+        "They allow for standardization and ease of assembly",
+        "They are always made from natural materials"
+      ],
+      "answer": "They allow for standardization and ease of assembly"
+    },
+    {
+      "question": "Which type of joint is known for its ability to handle complex stress patterns?",
+      "choices": [
+        "Lashed joint",
+        "Fish-mouth joint",
+        "Wedged joint",
+        "Steel insert joint"
+      ],
+      "answer": "Steel insert joint"
+    },
+    {
+      "question": "What is a key factor to consider when choosing joinery methods for bamboo structures in humid environments?",
+      "choices": [
+        "The color of the bamboo",
+        "The age of the bamboo plants",
+        "Resistance to moisture ingress",
+        "The bamboo's country of origin"
+      ],
+      "answer": "Resistance to moisture ingress"
+    },
+    {
+      "question": "Which joinery technique is often used in scaffolding and temporary structures?",
+      "choices": [
+        "Bolted connections",
+        "Lashed joints",
+        "Mortise and tenon",
+        "Epoxy-filled joints"
+      ],
+      "answer": "Lashed joints"
+    },
+    {
+      "question": "What is a key advantage of using natural fibers for lashing in traditional bamboo construction?",
+      "choices": [
+        "They are stronger than steel",
+        "They are readily available and biodegradable",
+        "They are completely waterproof",
+        "They never need replacement"
+      ],
+      "answer": "They are readily available and biodegradable"
+    },
+    {
+      "question": "Which factor is NOT typically considered when selecting bamboo joinery methods?",
+      "choices": [
+        "Type and magnitude of forces acting on the joint",
+        "Environmental conditions",
+        "Desired lifespan of the structure",
+        "The bamboo's age when harvested"
+      ],
+      "answer": "The bamboo's age when harvested"
+    },
+    {
+      "question": "What is a common application for wedged joints in traditional Timorese bamboo construction?",
+      "choices": [
+        "Flooring",
+        "Roof trusses",
+        "Furniture making",
+        "Foundation work"
+      ],
+      "answer": "Roof trusses"
+    },
+    {
+      "question": "Which modern joinery technique is particularly useful for creating water-resistant joints?",
+      "choices": [
+        "Lashed joints",
+        "Fish-mouth joints",
+        "Epoxy-filled joints",
+        "Simple butt joints"
+      ],
+      "answer": "Epoxy-filled joints"
+    },
+    {
+      "question": "What is a key advantage of bolted connections in bamboo structures?",
+      "choices": [
+        "They are invisible",
+        "They are always the cheapest option",
+        "They allow for easy disassembly and adjustability",
+        "They require no tools to install"
+      ],
+      "answer": "They allow for easy disassembly and adjustability"
+    },
+    {
+      "question": "Which type of joint is most likely to fail under extreme tension forces?",
+      "choices": [
+        "Bolted connection",
+        "Steel insert joint",
+        "Lashed joint",
+        "Fish-mouth joint"
+      ],
+      "answer": "Fish-mouth joint"
+    },
+    {
+      "question": "What is a key consideration when using steel insert joints in bamboo construction?",
+      "choices": [
+        "They should only be used in temporary structures",
+        "They must be painted to match the bamboo color",
+        "They can potentially weaken the bamboo if not properly designed",
+        "They are only suitable for horizontal members"
+      ],
+      "answer": "They can potentially weaken the bamboo if not properly designed"
+    },
+    {
+      "question": "Which joinery technique is most suitable for creating removable or adjustable connections in bamboo structures?",
+      "choices": [
+        "Lashed joints",
+        "Fish-mouth joints",
+        "Epoxy-filled joints",
+        "Bolted connections"
+      ],
+      "answer": "Bolted connections"
+    },
+    {
+      "question": "What is a key advantage of combining traditional and modern joinery techniques in bamboo construction?",
+      "choices": [
+        "It always reduces costs",
+        "It guarantees a structure will last forever",
+        "It can balance cultural authenticity with modern structural requirements",
+        "It eliminates the need for maintenance"
+      ],
+      "answer": "It can balance cultural authenticity with modern structural requirements"
+    }
+  ]
+}
