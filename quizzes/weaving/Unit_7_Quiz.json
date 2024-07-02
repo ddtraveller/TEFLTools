@@ -1,0 +1,305 @@
+{
+  "title": "Fabric Analysis and Finishing",
+  "questions": [
+    {
+      "question": "What does fabric count refer to?",
+      "choices": [
+        "The number of colors in a fabric",
+        "The number of warp and weft yarns per unit area",
+        "The total number of fabrics produced",
+        "The weight of the fabric in grams"
+      ],
+      "answer": "The number of warp and weft yarns per unit area"
+    },
+    {
+      "question": "Which unit is commonly used to measure fabric weight?",
+      "choices": [
+        "Kilograms per meter",
+        "Pounds per square inch",
+        "Grams per square meter",
+        "Ounces per linear yard"
+      ],
+      "answer": "Grams per square meter"
+    },
+    {
+      "question": "What does a higher cover factor indicate?",
+      "choices": [
+        "A looser weave",
+        "A tighter weave",
+        "A lighter fabric",
+        "A more elastic fabric"
+      ],
+      "answer": "A tighter weave"
+    },
+    {
+      "question": "What is the primary purpose of scouring in wet finishing?",
+      "choices": [
+        "To add color to the fabric",
+        "To remove impurities from the fabric",
+        "To increase fabric density",
+        "To add stretch to the fabric"
+      ],
+      "answer": "To remove impurities from the fabric"
+    },
+    {
+      "question": "Which wet finishing process is primarily used for wool fabrics?",
+      "choices": [
+        "Scouring",
+        "Fulling",
+        "Tentering",
+        "Mercerizing"
+      ],
+      "answer": "Fulling"
+    },
+    {
+      "question": "What is the purpose of tentering in fabric finishing?",
+      "choices": [
+        "To add color to the fabric",
+        "To remove impurities",
+        "To stretch the fabric to a specific width",
+        "To increase fabric density"
+      ],
+      "answer": "To stretch the fabric to a specific width"
+    },
+    {
+      "question": "Which of the following is NOT a common embellishment technique?",
+      "choices": [
+        "Beading",
+        "Sequins",
+        "Embroidery",
+        "Fulling"
+      ],
+      "answer": "Fulling"
+    },
+    {
+      "question": "How is fabric count typically expressed?",
+      "choices": [
+        "As a single number",
+        "As a fraction",
+        "As two numbers (warp x weft)",
+        "As a percentage"
+      ],
+      "answer": "As two numbers (warp x weft)"
+    },
+    {
+      "question": "What tool is commonly used to determine fabric count?",
+      "choices": [
+        "Scissors",
+        "Pick counter",
+        "Weighing scale",
+        "Tape measure"
+      ],
+      "answer": "Pick counter"
+    },
+    {
+      "question": "Which factor does NOT directly affect cover factor?",
+      "choices": [
+        "Yarn diameter",
+        "Thread count",
+        "Yarn spacing",
+        "Fabric color"
+      ],
+      "answer": "Fabric color"
+    },
+    {
+      "question": "What is the main purpose of wet finishing processes?",
+      "choices": [
+        "To dry the fabric quickly",
+        "To add weight to the fabric",
+        "To improve fabric appearance and properties",
+        "To reduce production costs"
+      ],
+      "answer": "To improve fabric appearance and properties"
+    },
+    {
+      "question": "Which process involves controlled shrinkage to increase fabric density?",
+      "choices": [
+        "Scouring",
+        "Tentering",
+        "Fulling",
+        "Beading"
+      ],
+      "answer": "Fulling"
+    },
+    {
+      "question": "What is the primary purpose of embellishment techniques?",
+      "choices": [
+        "To strengthen the fabric",
+        "To enhance the fabric's aesthetic appeal",
+        "To increase fabric weight",
+        "To improve water resistance"
+      ],
+      "answer": "To enhance the fabric's aesthetic appeal"
+    },
+    {
+      "question": "Which of the following is a benefit of a higher fabric count?",
+      "choices": [
+        "Increased breathability",
+        "Lower production cost",
+        "Greater durability",
+        "Faster drying time"
+      ],
+      "answer": "Greater durability"
+    },
+    {
+      "question": "What does GSM stand for in fabric weight measurement?",
+      "choices": [
+        "Global Standard Measurement",
+        "Grams per Square Meter",
+        "General Sizing Method",
+        "Gross Sample Mass"
+      ],
+      "answer": "Grams per Square Meter"
+    },
+    {
+      "question": "Which embellishment technique involves attaching small, shiny discs to the fabric?",
+      "choices": [
+        "Beading",
+        "Embroidery",
+        "Sequins",
+        "Appliqué"
+      ],
+      "answer": "Sequins"
+    },
+    {
+      "question": "What is the primary purpose of analyzing fabric structure?",
+      "choices": [
+        "To determine fabric color",
+        "To set fabric prices",
+        "To understand fabric properties and performance",
+        "To decide packaging methods"
+      ],
+      "answer": "To understand fabric properties and performance"
+    },
+    {
+      "question": "Which wet finishing process is essential for preparing fabric for dyeing?",
+      "choices": [
+        "Fulling",
+        "Tentering",
+        "Scouring",
+        "Embroidery"
+      ],
+      "answer": "Scouring"
+    },
+    {
+      "question": "What does a fabric count of 60 x 54 indicate?",
+      "choices": [
+        "60 warp yarns and 54 weft yarns per inch",
+        "60 inches wide and 54 inches long",
+        "60 grams per 54 square meters",
+        "60% warp and 54% weft composition"
+      ],
+      "answer": "60 warp yarns and 54 weft yarns per inch"
+    },
+    {
+      "question": "Which factor is NOT typically considered in fabric analysis?",
+      "choices": [
+        "Fabric count",
+        "Fabric weight",
+        "Cover factor",
+        "Fabric brand"
+      ],
+      "answer": "Fabric brand"
+    },
+    {
+      "question": "What is the main advantage of a higher cover factor?",
+      "choices": [
+        "Increased breathability",
+        "Better protection against elements",
+        "Lower production cost",
+        "Faster drying time"
+      ],
+      "answer": "Better protection against elements"
+    },
+    {
+      "question": "Which embellishment technique involves using decorative stitches to create patterns?",
+      "choices": [
+        "Beading",
+        "Sequins",
+        "Fulling",
+        "Embroidery"
+      ],
+      "answer": "Embroidery"
+    },
+    {
+      "question": "What is the primary purpose of tentering in fabric finishing?",
+      "choices": [
+        "To add color to the fabric",
+        "To remove impurities",
+        "To restore fabric width and straighten the weave",
+        "To increase fabric density"
+      ],
+      "answer": "To restore fabric width and straighten the weave"
+    },
+    {
+      "question": "Which of the following is NOT a common wet finishing process?",
+      "choices": [
+        "Scouring",
+        "Fulling",
+        "Tentering",
+        "Beading"
+      ],
+      "answer": "Beading"
+    },
+    {
+      "question": "What does a lower fabric weight typically indicate?",
+      "choices": [
+        "A heavier, more durable fabric",
+        "A lighter, more breathable fabric",
+        "A more water-resistant fabric",
+        "A more elastic fabric"
+      ],
+      "answer": "A lighter, more breathable fabric"
+    },
+    {
+      "question": "Which tool is used to magnify fabric for detailed analysis?",
+      "choices": [
+        "Telescope",
+        "Microscope",
+        "Loupe",
+        "Binoculars"
+      ],
+      "answer": "Loupe"
+    },
+    {
+      "question": "What is the primary purpose of fulling in wool fabric processing?",
+      "choices": [
+        "To add color",
+        "To remove impurities",
+        "To increase fabric density",
+        "To add stretch"
+      ],
+      "answer": "To increase fabric density"
+    },
+    {
+      "question": "Which factor does NOT directly influence fabric weight?",
+      "choices": [
+        "Fiber type",
+        "Yarn thickness",
+        "Weave density",
+        "Fabric color"
+      ],
+      "answer": "Fabric color"
+    },
+    {
+      "question": "What is the main purpose of fabric analysis in textile production?",
+      "choices": [
+        "To determine fabric price",
+        "To guide finishing processes and end-use applications",
+        "To decide packaging methods",
+        "To set production quotas"
+      ],
+      "answer": "To guide finishing processes and end-use applications"
+    },
+    {
+      "question": "Which embellishment technique is most likely to add significant weight to a fabric?",
+      "choices": [
+        "Embroidery",
+        "Sequins",
+        "Beading",
+        "Printing"
+      ],
+      "answer": "Beading"
+    }
+  ]
+}

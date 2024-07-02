@@ -1,0 +1,305 @@
+{
+  "title": "Basic Weave Structures",
+  "questions": [
+    {
+      "question": "What is the simplest and most common weave structure?",
+      "choices": [
+        "Twill weave",
+        "Plain weave",
+        "Satin weave",
+        "Basket weave"
+      ],
+      "answer": "Plain weave"
+    },
+    {
+      "question": "Which weave structure is characterized by diagonal lines on the fabric surface?",
+      "choices": [
+        "Plain weave",
+        "Satin weave",
+        "Twill weave",
+        "Jacquard weave"
+      ],
+      "answer": "Twill weave"
+    },
+    {
+      "question": "What is a key characteristic of satin weave?",
+      "choices": [
+        "Rough texture",
+        "Diagonal lines",
+        "Long floats",
+        "Equal warp and weft visibility"
+      ],
+      "answer": "Long floats"
+    },
+    {
+      "question": "Which weave structure is also known as tabby weave?",
+      "choices": [
+        "Twill weave",
+        "Satin weave",
+        "Plain weave",
+        "Herringbone weave"
+      ],
+      "answer": "Plain weave"
+    },
+    {
+      "question": "What is the minimum number of harnesses typically required for a satin weave?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Which weave structure is commonly used in denim fabric?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Pile weave"
+      ],
+      "answer": "Twill weave"
+    },
+    {
+      "question": "What is a characteristic of plain weave fabrics?",
+      "choices": [
+        "High elasticity",
+        "Smooth, lustrous surface",
+        "Diagonal patterns",
+        "Good durability"
+      ],
+      "answer": "Good durability"
+    },
+    {
+      "question": "Which weave structure typically has the best drape?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Basket weave"
+      ],
+      "answer": "Satin weave"
+    },
+    {
+      "question": "What is a common application of satin weave?",
+      "choices": [
+        "Denim jeans",
+        "Canvas bags",
+        "Neckties",
+        "Bath towels"
+      ],
+      "answer": "Neckties"
+    },
+    {
+      "question": "Which weave structure is most resistant to wrinkling?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Leno weave"
+      ],
+      "answer": "Twill weave"
+    },
+    {
+      "question": "What is the term for the vertical threads on a loom?",
+      "choices": [
+        "Weft",
+        "Warp",
+        "Shed",
+        "Float"
+      ],
+      "answer": "Warp"
+    },
+    {
+      "question": "Which weave structure is most likely to snag easily?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Basket weave"
+      ],
+      "answer": "Satin weave"
+    },
+    {
+      "question": "What is the term for the horizontal threads woven through the warp?",
+      "choices": [
+        "Weft",
+        "Warp",
+        "Shed",
+        "Float"
+      ],
+      "answer": "Weft"
+    },
+    {
+      "question": "Which weave structure is often used in gabardine fabric?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Pile weave"
+      ],
+      "answer": "Twill weave"
+    },
+    {
+      "question": "What is a characteristic of balanced plain weave?",
+      "choices": [
+        "Unequal warp and weft threads",
+        "Diagonal lines",
+        "Equal number and size of warp and weft threads",
+        "Long floats on the surface"
+      ],
+      "answer": "Equal number and size of warp and weft threads"
+    },
+    {
+      "question": "Which weave structure is typically the least durable?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Basket weave"
+      ],
+      "answer": "Satin weave"
+    },
+    {
+      "question": "What is the term for a portion of yarn that passes over multiple threads before interlacing?",
+      "choices": [
+        "Warp",
+        "Weft",
+        "Shed",
+        "Float"
+      ],
+      "answer": "Float"
+    },
+    {
+      "question": "Which weave structure is often used in muslin fabric?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Pile weave"
+      ],
+      "answer": "Plain weave"
+    },
+    {
+      "question": "What is a common ratio used to describe twill weave patterns?",
+      "choices": [
+        "1/1",
+        "2/2",
+        "3/3",
+        "4/4"
+      ],
+      "answer": "2/2"
+    },
+    {
+      "question": "Which weave structure typically has the flattest surface?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Pile weave"
+      ],
+      "answer": "Plain weave"
+    },
+    {
+      "question": "What is the term for the space created between raised and lowered warp threads?",
+      "choices": [
+        "Weft",
+        "Float",
+        "Shed",
+        "Heddle"
+      ],
+      "answer": "Shed"
+    },
+    {
+      "question": "Which weave structure is often used in high-end bedding?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Leno weave"
+      ],
+      "answer": "Satin weave"
+    },
+    {
+      "question": "What is a characteristic of twill weave fabrics?",
+      "choices": [
+        "Poor drape",
+        "High wrinkle resistance",
+        "Smooth, lustrous surface",
+        "Limited strength"
+      ],
+      "answer": "High wrinkle resistance"
+    },
+    {
+      "question": "Which weave structure is typically used in canvas fabric?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Pile weave"
+      ],
+      "answer": "Plain weave"
+    },
+    {
+      "question": "What is a variation of twill weave?",
+      "choices": [
+        "Taffeta",
+        "Charmeuse",
+        "Herringbone",
+        "Chiffon"
+      ],
+      "answer": "Herringbone"
+    },
+    {
+      "question": "Which weave structure is often used in athletic wear for its smooth surface?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Pile weave"
+      ],
+      "answer": "Satin weave"
+    },
+    {
+      "question": "What is the term for a weft-faced satin weave?",
+      "choices": [
+        "Damask",
+        "Sateen",
+        "Twill",
+        "Jacquard"
+      ],
+      "answer": "Sateen"
+    },
+    {
+      "question": "Which weave structure typically has the most thread intersections?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Leno weave"
+      ],
+      "answer": "Plain weave"
+    },
+    {
+      "question": "What is a common use of plain weave in traditional Timorese textiles?",
+      "choices": [
+        "Decorative patterns",
+        "Background areas",
+        "Ceremonial elements",
+        "Edge finishes"
+      ],
+      "answer": "Background areas"
+    },
+    {
+      "question": "Which weave structure is often used in umbrella fabric?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Pile weave"
+      ],
+      "answer": "Satin weave"
+    }
+  ]
+}

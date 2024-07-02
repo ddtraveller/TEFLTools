@@ -1,0 +1,305 @@
+{
+  "title": "Yarn and Fiber Properties",
+  "questions": [
+    {
+      "question": "Which of the following is a natural fiber?",
+      "choices": [
+        "Polyester",
+        "Nylon",
+        "Cotton",
+        "Acrylic"
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question": "What is the primary source of silk fiber?",
+      "choices": [
+        "Cotton plant",
+        "Sheep",
+        "Silkworms",
+        "Flax plant"
+      ],
+      "answer": "Silkworms"
+    },
+    {
+      "question": "Which fiber is known for its warmth and moisture-wicking properties?",
+      "choices": [
+        "Cotton",
+        "Wool",
+        "Linen",
+        "Polyester"
+      ],
+      "answer": "Wool"
+    },
+    {
+      "question": "What is the term for the spiral arrangement of fibers in a yarn?",
+      "choices": [
+        "Ply",
+        "Count",
+        "Twist",
+        "Denier"
+      ],
+      "answer": "Twist"
+    },
+    {
+      "question": "Which yarn count system uses weight in grams per 1000 meters?",
+      "choices": [
+        "Ne",
+        "Tex",
+        "Denier",
+        "Cotton Count"
+      ],
+      "answer": "Tex"
+    },
+    {
+      "question": "What is the purpose of warp winding?",
+      "choices": [
+        "To create organized, tensioned threads for weaving",
+        "To prepare bobbins for weft insertion",
+        "To measure yarn count",
+        "To determine fiber content"
+      ],
+      "answer": "To create organized, tensioned threads for weaving"
+    },
+    {
+      "question": "Which fiber is often used in activewear due to its quick-drying properties?",
+      "choices": [
+        "Cotton",
+        "Wool",
+        "Silk",
+        "Polyester"
+      ],
+      "answer": "Polyester"
+    },
+    {
+      "question": "What is a staple fiber?",
+      "choices": [
+        "A long, continuous fiber",
+        "A short fiber that must be spun into yarn",
+        "A synthetic fiber",
+        "A fiber used only in industrial textiles"
+      ],
+      "answer": "A short fiber that must be spun into yarn"
+    },
+    {
+      "question": "Which direction does an S-twist yarn spiral?",
+      "choices": [
+        "Upward to the left",
+        "Upward to the right",
+        "Downward to the left",
+        "Downward to the right"
+      ],
+      "answer": "Upward to the left"
+    },
+    {
+      "question": "What is the traditional Timorese name for cotton?",
+      "choices": [
+        "Tais",
+        "Kabas",
+        "Liman",
+        "Ai-fuan"
+      ],
+      "answer": "Kabas"
+    },
+    {
+      "question": "Which fiber is known for becoming softer with use?",
+      "choices": [
+        "Polyester",
+        "Nylon",
+        "Wool",
+        "Linen"
+      ],
+      "answer": "Linen"
+    },
+    {
+      "question": "What is the purpose of a burn test in fiber identification?",
+      "choices": [
+        "To determine color fastness",
+        "To measure fiber strength",
+        "To identify fiber content",
+        "To assess yarn twist"
+      ],
+      "answer": "To identify fiber content"
+    },
+    {
+      "question": "Which yarn count system results in a higher number for finer yarns?",
+      "choices": [
+        "Tex",
+        "Denier",
+        "Ne (Cotton Count)",
+        "Grist"
+      ],
+      "answer": "Ne (Cotton Count)"
+    },
+    {
+      "question": "What is the primary advantage of using synthetic fibers in textiles?",
+      "choices": [
+        "Lower cost",
+        "Better breathability",
+        "More sustainable production",
+        "Enhanced durability and specific performance characteristics"
+      ],
+      "answer": "Enhanced durability and specific performance characteristics"
+    },
+    {
+      "question": "Which fiber is commonly used in traditional Timorese tais weaving?",
+      "choices": [
+        "Silk",
+        "Wool",
+        "Cotton",
+        "Polyester"
+      ],
+      "answer": "Cotton"
+    },
+    {
+      "question": "What does a higher twist level in yarn generally result in?",
+      "choices": [
+        "Softer fabric",
+        "Weaker yarn",
+        "Stronger yarn",
+        "Lower yarn count"
+      ],
+      "answer": "Stronger yarn"
+    },
+    {
+      "question": "Which fiber is known for its strength and abrasion resistance?",
+      "choices": [
+        "Cotton",
+        "Silk",
+        "Linen",
+        "Nylon"
+      ],
+      "answer": "Nylon"
+    },
+    {
+      "question": "What is the purpose of a bobbin in weaving?",
+      "choices": [
+        "To measure yarn count",
+        "To hold warp threads",
+        "To hold weft yarn for insertion",
+        "To create yarn twist"
+      ],
+      "answer": "To hold weft yarn for insertion"
+    },
+    {
+      "question": "Which property of wool makes it suitable for winter clothing?",
+      "choices": [
+        "Quick-drying",
+        "Wrinkle-resistance",
+        "Warmth retention",
+        "UV protection"
+      ],
+      "answer": "Warmth retention"
+    },
+    {
+      "question": "What is the primary source of linen fiber?",
+      "choices": [
+        "Cotton plant seeds",
+        "Flax plant stems",
+        "Sheep's wool",
+        "Silkworm cocoons"
+      ],
+      "answer": "Flax plant stems"
+    },
+    {
+      "question": "Which fiber is often used in luxury garments due to its lustrous appearance?",
+      "choices": [
+        "Cotton",
+        "Polyester",
+        "Wool",
+        "Silk"
+      ],
+      "answer": "Silk"
+    },
+    {
+      "question": "What does a lower yarn count generally indicate?",
+      "choices": [
+        "Finer yarn",
+        "Stronger yarn",
+        "Thicker yarn",
+        "More twist"
+      ],
+      "answer": "Thicker yarn"
+    },
+    {
+      "question": "Which fiber is known for its elasticity and use in stockings?",
+      "choices": [
+        "Cotton",
+        "Linen",
+        "Nylon",
+        "Polyester"
+      ],
+      "answer": "Nylon"
+    },
+    {
+      "question": "What is the purpose of winding yarn in a figure-eight pattern during warp preparation?",
+      "choices": [
+        "To increase yarn strength",
+        "To maintain consistent tension",
+        "To create decorative patterns",
+        "To measure yarn count"
+      ],
+      "answer": "To maintain consistent tension"
+    },
+    {
+      "question": "Which fiber is often used in outdoor gear due to its quick-drying properties?",
+      "choices": [
+        "Cotton",
+        "Wool",
+        "Silk",
+        "Polyester"
+      ],
+      "answer": "Polyester"
+    },
+    {
+      "question": "What is the primary advantage of using natural fibers in textiles?",
+      "choices": [
+        "Lower cost",
+        "Better durability",
+        "Enhanced breathability and comfort",
+        "Easier care and maintenance"
+      ],
+      "answer": "Enhanced breathability and comfort"
+    },
+    {
+      "question": "Which property of cotton makes it suitable for towels and bedding?",
+      "choices": [
+        "Water-resistance",
+        "Elasticity",
+        "Absorbency",
+        "Wrinkle-resistance"
+      ],
+      "answer": "Absorbency"
+    },
+    {
+      "question": "What is the term for yarn made by twisting multiple single yarns together?",
+      "choices": [
+        "Staple yarn",
+        "Filament yarn",
+        "Plied yarn",
+        "Textured yarn"
+      ],
+      "answer": "Plied yarn"
+    },
+    {
+      "question": "Which fiber is often used in blends to add wrinkle-resistance to fabrics?",
+      "choices": [
+        "Cotton",
+        "Wool",
+        "Polyester",
+        "Linen"
+      ],
+      "answer": "Polyester"
+    },
+    {
+      "question": "What is the primary purpose of understanding yarn and fiber properties in weaving?",
+      "choices": [
+        "To increase production speed",
+        "To reduce material costs",
+        "To create textiles with specific performance and aesthetic qualities",
+        "To simplify the weaving process"
+      ],
+      "answer": "To create textiles with specific performance and aesthetic qualities"
+    }
+  ]
+}

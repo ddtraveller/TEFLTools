@@ -1,0 +1,305 @@
+{
+  "title": "Salt-Tolerant Crops for Timor-Leste",
+  "questions": [
+    {
+      "question": "Which of the following crops is known for its ability to tolerate salinity levels up to 40 dS/m?",
+      "choices": [
+        "Barley",
+        "Quinoa",
+        "Date palm",
+        "Rice"
+      ],
+      "answer": "Quinoa"
+    },
+    {
+      "question": "What is the maximum salinity level that barley can typically tolerate?",
+      "choices": [
+        "4 dS/m",
+        "8 dS/m",
+        "12 dS/m",
+        "16 dS/m"
+      ],
+      "answer": "8 dS/m"
+    },
+    {
+      "question": "Which salt-tolerant crop is a fruit-bearing tree that can withstand salinity levels up to 22 dS/m?",
+      "choices": [
+        "Quinoa",
+        "Barley",
+        "Date palm",
+        "Saltbush"
+      ],
+      "answer": "Date palm"
+    },
+    {
+      "question": "What is the primary use of saltbush in saline agriculture?",
+      "choices": [
+        "Human food consumption",
+        "Biofuel production",
+        "Animal fodder and land rehabilitation",
+        "Fiber production"
+      ],
+      "answer": "Animal fodder and land rehabilitation"
+    },
+    {
+      "question": "Which salt-tolerant crop can grow in pure seawater with an EC > 50 dS/m?",
+      "choices": [
+        "Quinoa",
+        "Barley",
+        "Sea asparagus (Salicornia)",
+        "Salt-tolerant rice"
+      ],
+      "answer": "Sea asparagus (Salicornia)"
+    },
+    {
+      "question": "What is the maximum salinity level that salt-tolerant rice varieties can typically withstand?",
+      "choices": [
+        "2-4 dS/m",
+        "4-6 dS/m",
+        "6-8 dS/m",
+        "8-10 dS/m"
+      ],
+      "answer": "6-8 dS/m"
+    },
+    {
+      "question": "What is the average annual rainfall in Timor-Leste?",
+      "choices": [
+        "500-1000 mm",
+        "1000-1500 mm",
+        "1500-2000 mm",
+        "2000-2500 mm"
+      ],
+      "answer": "1500-2000 mm"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of Timor-Leste's climate?",
+      "choices": [
+        "Tropical climate",
+        "Distinct wet and dry seasons",
+        "Temperature range of 21-33°C",
+        "Year-round consistent rainfall"
+      ],
+      "answer": "Year-round consistent rainfall"
+    },
+    {
+      "question": "What is the primary reason for soil salinity in coastal areas of Timor-Leste?",
+      "choices": [
+        "Excessive fertilizer use",
+        "Seawater intrusion",
+        "Volcanic activity",
+        "Deforestation"
+      ],
+      "answer": "Seawater intrusion"
+    },
+    {
+      "question": "Which of the following is NOT an adaptation strategy for salt-tolerant crops in Timor-Leste?",
+      "choices": [
+        "Selection of varieties suited to tropical climates",
+        "Adjusting planting dates to coincide with favorable seasons",
+        "Implementing appropriate irrigation and drainage systems",
+        "Increasing the use of chemical fertilizers"
+      ],
+      "answer": "Increasing the use of chemical fertilizers"
+    },
+    {
+      "question": "What is the primary nutritional benefit of quinoa?",
+      "choices": [
+        "High vitamin C content",
+        "Complete protein profile",
+        "High omega-3 fatty acids",
+        "Rich in calcium"
+      ],
+      "answer": "Complete protein profile"
+    },
+    {
+      "question": "Which salt-tolerant crop is particularly valuable for its use in the brewing industry?",
+      "choices": [
+        "Quinoa",
+        "Barley",
+        "Date palm",
+        "Sea asparagus"
+      ],
+      "answer": "Barley"
+    },
+    {
+      "question": "What is the main economic potential of date palms in Timor-Leste?",
+      "choices": [
+        "Timber production",
+        "Biofuel source",
+        "Fruit crop with export opportunities",
+        "Medicinal properties"
+      ],
+      "answer": "Fruit crop with export opportunities"
+    },
+    {
+      "question": "Which salt-tolerant crop is particularly rich in iodine?",
+      "choices": [
+        "Quinoa",
+        "Barley",
+        "Saltbush",
+        "Sea asparagus"
+      ],
+      "answer": "Sea asparagus"
+    },
+    {
+      "question": "What is the primary importance of salt-tolerant rice varieties for Timor-Leste?",
+      "choices": [
+        "Export potential",
+        "Biofuel production",
+        "Food security in coastal areas",
+        "Animal feed"
+      ],
+      "answer": "Food security in coastal areas"
+    },
+    {
+      "question": "Which of the following is a mechanism of salt tolerance in plants?",
+      "choices": [
+        "Increased water uptake",
+        "Ion exclusion",
+        "Accelerated growth rate",
+        "Deeper root systems"
+      ],
+      "answer": "Ion exclusion"
+    },
+    {
+      "question": "What is the term for plants that thrive in high-salt environments?",
+      "choices": [
+        "Xerophytes",
+        "Hydrophytes",
+        "Halophytes",
+        "Mesophytes"
+      ],
+      "answer": "Halophytes"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of introducing salt-tolerant crops in Timor-Leste?",
+      "choices": [
+        "Improved food security",
+        "Increased agricultural productivity in saline areas",
+        "Reduced need for irrigation",
+        "New economic opportunities"
+      ],
+      "answer": "Reduced need for irrigation"
+    },
+    {
+      "question": "What is the primary use of sea asparagus (Salicornia) in the culinary world?",
+      "choices": [
+        "Staple grain",
+        "Cooking oil",
+        "Gourmet vegetable",
+        "Sweetener"
+      ],
+      "answer": "Gourmet vegetable"
+    },
+    {
+      "question": "Which salt-tolerant crop is a pseudocereal?",
+      "choices": [
+        "Barley",
+        "Quinoa",
+        "Rice",
+        "Date palm"
+      ],
+      "answer": "Quinoa"
+    },
+    {
+      "question": "What is the main advantage of crop rotation using salt-tolerant crops?",
+      "choices": [
+        "Increased use of chemical fertilizers",
+        "Reduced need for irrigation",
+        "Improved soil health and pest management",
+        "Higher crop yields in the short term"
+      ],
+      "answer": "Improved soil health and pest management"
+    },
+    {
+      "question": "Which of the following is a challenge in introducing new crops like quinoa to local markets in Timor-Leste?",
+      "choices": [
+        "Lack of salt-tolerant varieties",
+        "Unsuitable climate conditions",
+        "Adapting to local cuisines and food preferences",
+        "Excessive market demand"
+      ],
+      "answer": "Adapting to local cuisines and food preferences"
+    },
+    {
+      "question": "What role can government policies play in promoting salt-tolerant crops in Timor-Leste?",
+      "choices": [
+        "Banning traditional crop cultivation",
+        "Providing subsidies and training for farmers",
+        "Restricting agricultural research",
+        "Increasing taxes on agricultural products"
+      ],
+      "answer": "Providing subsidies and training for farmers"
+    },
+    {
+      "question": "Which of the following is NOT a potential environmental impact of cultivating salt-tolerant crops in coastal areas?",
+      "choices": [
+        "Reduced soil erosion",
+        "Improved soil structure",
+        "Increased biodiversity",
+        "Depletion of freshwater resources"
+      ],
+      "answer": "Depletion of freshwater resources"
+    },
+    {
+      "question": "What is the primary benefit of using mulching techniques in saline agriculture?",
+      "choices": [
+        "Increased soil salinity",
+        "Reduced water evaporation",
+        "Faster crop growth",
+        "Elimination of pests"
+      ],
+      "answer": "Reduced water evaporation"
+    },
+    {
+      "question": "Which of the following is a key consideration when planning a crop rotation with salt-tolerant crops?",
+      "choices": [
+        "Using the same crop for multiple consecutive seasons",
+        "Ignoring local climate patterns",
+        "Considering the seasonal climate of Timor-Leste",
+        "Focusing solely on short-term economic gains"
+      ],
+      "answer": "Considering the seasonal climate of Timor-Leste"
+    },
+    {
+      "question": "What is the main purpose of phytoremediation in saline soils?",
+      "choices": [
+        "Increasing soil salinity",
+        "Removing excess salts from the soil",
+        "Adding chemical fertilizers",
+        "Compacting the soil"
+      ],
+      "answer": "Removing excess salts from the soil"
+    },
+    {
+      "question": "Which of the following is NOT a step in successfully introducing salt-tolerant crops in Timor-Leste?",
+      "choices": [
+        "Farmer education and training",
+        "Research and development of suitable varieties",
+        "Infrastructure development",
+        "Immediate replacement of all traditional crops"
+      ],
+      "answer": "Immediate replacement of all traditional crops"
+    },
+    {
+      "question": "What is the primary advantage of cultivating sea asparagus (Salicornia) in coastal areas of Timor-Leste?",
+      "choices": [
+        "Low water requirements",
+        "Ability to grow in highly saline conditions",
+        "Resistance to tropical diseases",
+        "High carbohydrate content"
+      ],
+      "answer": "Ability to grow in highly saline conditions"
+    },
+    {
+      "question": "Which of the following best describes the economic potential of salt-tolerant crops for Timor-Leste?",
+      "choices": [
+        "Limited to local markets only",
+        "Primarily for biofuel production",
+        "Potential for both domestic use and export",
+        "Exclusively for animal feed"
+      ],
+      "answer": "Potential for both domestic use and export"
+    }
+  ]
+}

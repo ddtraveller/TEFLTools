@@ -1,0 +1,305 @@
+{
+  "title": "Hive Design and Construction",
+  "questions": [
+    {
+      "question": "Which of the following is a traditional Timorese hive design?",
+      "choices": [
+        "Langstroth hive",
+        "Log hive",
+        "Warre hive",
+        "Kenya top-bar hive"
+      ],
+      "answer": "Log hive"
+    },
+    {
+      "question": "What is a major advantage of top-bar hives for small-scale beekeepers in Timor-Leste?",
+      "choices": [
+        "Higher honey yields",
+        "Standardized equipment",
+        "Lower cost and easier construction",
+        "Better resistance to tropical pests"
+      ],
+      "answer": "Lower cost and easier construction"
+    },
+    {
+      "question": "Which material is commonly used for roofing in locally-made hives in Timor-Leste?",
+      "choices": [
+        "Aluminum sheets",
+        "Palm leaves",
+        "Ceramic tiles",
+        "Plastic sheeting"
+      ],
+      "answer": "Palm leaves"
+    },
+    {
+      "question": "What is a key adaptation for top-bar hives in tropical climates?",
+      "choices": [
+        "Reduced ventilation",
+        "Smaller entrance",
+        "Extended roof overhang",
+        "Thicker walls"
+      ],
+      "answer": "Extended roof overhang"
+    },
+    {
+      "question": "Which local material is often used for the body of a top-bar hive in Timor-Leste?",
+      "choices": [
+        "Pine wood",
+        "Bamboo",
+        "Plastic",
+        "Metal"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "What is a disadvantage of traditional log hives?",
+      "choices": [
+        "Too expensive to make",
+        "Not suitable for local bee species",
+        "Difficult to inspect and manage colonies",
+        "Cannot produce honey"
+      ],
+      "answer": "Difficult to inspect and manage colonies"
+    },
+    {
+      "question": "Which of the following is NOT a common traditional hive design in Timor-Leste?",
+      "choices": [
+        "Log hives",
+        "Clay pot hives",
+        "Woven basket hives",
+        "Skep hives"
+      ],
+      "answer": "Skep hives"
+    },
+    {
+      "question": "What is a benefit of using clay pot hives?",
+      "choices": [
+        "Easy to transport",
+        "Good insulation properties",
+        "High honey yields",
+        "Simple to inspect"
+      ],
+      "answer": "Good insulation properties"
+    },
+    {
+      "question": "How are bamboo poles typically prepared for hive construction?",
+      "choices": [
+        "Soaked in water",
+        "Treated with borax solution",
+        "Painted with latex paint",
+        "Coated with beeswax"
+      ],
+      "answer": "Treated with borax solution"
+    },
+    {
+      "question": "What is the main advantage of using local materials for hive construction?",
+      "choices": [
+        "Increased honey production",
+        "Better resistance to diseases",
+        "Lower cost and sustainability",
+        "Improved queen rearing"
+      ],
+      "answer": "Lower cost and sustainability"
+    },
+    {
+      "question": "Which of the following is a key consideration when designing hives for tropical climates?",
+      "choices": [
+        "Minimizing ventilation",
+        "Using dark-colored materials",
+        "Providing adequate sun protection",
+        "Increasing hive weight"
+      ],
+      "answer": "Providing adequate sun protection"
+    },
+    {
+      "question": "What is the purpose of an entrance reducer in a beehive?",
+      "choices": [
+        "To increase honey production",
+        "To control ventilation and protect against pests",
+        "To make the hive more attractive to bees",
+        "To support the weight of honey combs"
+      ],
+      "answer": "To control ventilation and protect against pests"
+    },
+    {
+      "question": "Which part of a top-bar hive do bees build their comb from?",
+      "choices": [
+        "Bottom board",
+        "Side walls",
+        "Top bars",
+        "Entrance"
+      ],
+      "answer": "Top bars"
+    },
+    {
+      "question": "What is a common challenge when using woven basket hives?",
+      "choices": [
+        "Too heavy to move",
+        "Attracts too many pests",
+        "Short lifespan due to material degradation",
+        "Cannot hold enough bees"
+      ],
+      "answer": "Short lifespan due to material degradation"
+    },
+    {
+      "question": "How does a top-bar hive differ from a Langstroth hive?",
+      "choices": [
+        "Top-bar hives are vertical, Langstroth are horizontal",
+        "Top-bar hives use frames, Langstroth uses bars",
+        "Top-bar hives are horizontal, Langstroth are vertical",
+        "There is no difference between them"
+      ],
+      "answer": "Top-bar hives are horizontal, Langstroth are vertical"
+    },
+    {
+      "question": "What natural mixture is often used for sealing joints in locally-made hives?",
+      "choices": [
+        "Clay and sand",
+        "Beeswax and propolis",
+        "Coconut oil and ash",
+        "Mud and straw"
+      ],
+      "answer": "Beeswax and propolis"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using top-bar hives in Timor-Leste?",
+      "choices": [
+        "Allows for natural comb building",
+        "Easy to inspect and manage",
+        "Suitable for both Apis cerana and stingless bees",
+        "Produces the highest honey yields"
+      ],
+      "answer": "Produces the highest honey yields"
+    },
+    {
+      "question": "What is a key advantage of using bamboo in hive construction?",
+      "choices": [
+        "It's impervious to water",
+        "It's resistant to all pests",
+        "It's abundant and fast-growing",
+        "It doesn't require any treatment"
+      ],
+      "answer": "It's abundant and fast-growing"
+    },
+    {
+      "question": "Which of the following is a method to increase ventilation in a top-bar hive?",
+      "choices": [
+        "Sealing all cracks",
+        "Using a solid bottom board",
+        "Adding a screened bottom board",
+        "Reducing the entrance size"
+      ],
+      "answer": "Adding a screened bottom board"
+    },
+    {
+      "question": "What is the main purpose of the brood chamber in a beehive?",
+      "choices": [
+        "To store honey",
+        "To house the queen and developing bees",
+        "To trap pests",
+        "To provide ventilation"
+      ],
+      "answer": "To house the queen and developing bees"
+    },
+    {
+      "question": "Which local hardwood is mentioned as suitable for hive construction in Timor-Leste?",
+      "choices": [
+        "Pine",
+        "Oak",
+        "Teak",
+        "Maple"
+      ],
+      "answer": "Teak"
+    },
+    {
+      "question": "What is a potential disadvantage of using clay pot hives?",
+      "choices": [
+        "Poor insulation",
+        "Attracts pests",
+        "Fragile and can break easily",
+        "Cannot be used for honey production"
+      ],
+      "answer": "Fragile and can break easily"
+    },
+    {
+      "question": "How does the use of sustainable local materials in hive construction contribute to beekeeping practices?",
+      "choices": [
+        "It increases honey production",
+        "It improves bee health",
+        "It enhances the flavor of honey",
+        "It promotes overall sustainability"
+      ],
+      "answer": "It promotes overall sustainability"
+    },
+    {
+      "question": "What is a honey super in a beehive?",
+      "choices": [
+        "A special type of bee",
+        "An additional box for honey storage",
+        "A tool for extracting honey",
+        "A feeding system for bees"
+      ],
+      "answer": "An additional box for honey storage"
+    },
+    {
+      "question": "Which of the following is NOT a common adaptation for hives in tropical climates?",
+      "choices": [
+        "Increased ventilation",
+        "Extended roof overhang",
+        "Use of insulating materials",
+        "Raised hive stands"
+      ],
+      "answer": "Use of insulating materials"
+    },
+    {
+      "question": "What is the primary advantage of using removable top bars in hive design?",
+      "choices": [
+        "Increased honey production",
+        "Better insulation",
+        "Easier inspection and management",
+        "Improved resistance to pests"
+      ],
+      "answer": "Easier inspection and management"
+    },
+    {
+      "question": "Which traditional Timorese hive design is often coated with mud or dung for weatherproofing?",
+      "choices": [
+        "Log hives",
+        "Clay pot hives",
+        "Woven basket hives",
+        "Bamboo hives"
+      ],
+      "answer": "Woven basket hives"
+    },
+    {
+      "question": "What is a key consideration when selecting bamboo for hive construction?",
+      "choices": [
+        "Use only young, green bamboo",
+        "Choose bamboo that is at least 10 years old",
+        "Select mature bamboo (3-5 years old)",
+        "Use only dried and cracked bamboo"
+      ],
+      "answer": "Select mature bamboo (3-5 years old)"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge when using traditional hive designs?",
+      "choices": [
+        "Difficulty in inspecting colonies",
+        "Limited honey production",
+        "Potential to harbor pests and diseases",
+        "High cost of materials"
+      ],
+      "answer": "High cost of materials"
+    },
+    {
+      "question": "What natural treatment is often used for wood preservation in hive construction?",
+      "choices": [
+        "Lemon juice",
+        "Coconut oil",
+        "Vinegar",
+        "Salt water"
+      ],
+      "answer": "Coconut oil"
+    }
+  ]
+}

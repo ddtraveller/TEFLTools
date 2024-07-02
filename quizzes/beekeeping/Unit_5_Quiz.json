@@ -1,0 +1,305 @@
+{
+  "title": "Hive Management - Dry Season",
+  "questions": [
+    {
+      "question": "What is the primary challenge bees face during the dry season?",
+      "choices": [
+        "Excessive rainfall",
+        "Reduced availability of nectar and pollen",
+        "Increased predator activity",
+        "Higher humidity levels"
+      ],
+      "answer": "Reduced availability of nectar and pollen"
+    },
+    {
+      "question": "Why is water crucial for bees during the dry season?",
+      "choices": [
+        "For honey production",
+        "To dilute nectar",
+        "For cooling the hive and processing food",
+        "To attract more worker bees"
+      ],
+      "answer": "For cooling the hive and processing food"
+    },
+    {
+      "question": "What is absconding in the context of beekeeping?",
+      "choices": [
+        "When bees produce excess honey",
+        "When the queen bee dies",
+        "When an entire colony abandons its hive",
+        "When bees attack their beekeeper"
+      ],
+      "answer": "When an entire colony abandons its hive"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for providing water to bees?",
+      "choices": [
+        "Shallow dishes with pebbles",
+        "Drip systems",
+        "Bird baths with landing spots",
+        "Deep buckets of water"
+      ],
+      "answer": "Deep buckets of water"
+    },
+    {
+      "question": "What color of clothing is recommended when inspecting hives?",
+      "choices": [
+        "Dark colors",
+        "Bright colors",
+        "Light colors",
+        "Red colors"
+      ],
+      "answer": "Light colors"
+    },
+    {
+      "question": "How does smoke affect bees during hive inspections?",
+      "choices": [
+        "It kills harmful bacteria",
+        "It calms the bees",
+        "It increases honey production",
+        "It repels predators"
+      ],
+      "answer": "It calms the bees"
+    },
+    {
+      "question": "What should beekeepers look for during dry season hive inspections?",
+      "choices": [
+        "Excess honey production",
+        "Signs of swarming",
+        "Queen presence and food stores",
+        "Increased brood production"
+      ],
+      "answer": "Queen presence and food stores"
+    },
+    {
+      "question": "Which of the following is a sign that a colony might be preparing to abscond?",
+      "choices": [
+        "Increased honey production",
+        "Reduced foraging activity",
+        "More aggressive behavior towards beekeepers",
+        "Building new comb"
+      ],
+      "answer": "Reduced foraging activity"
+    },
+    {
+      "question": "What is the recommended distance for placing water sources near hives?",
+      "choices": [
+        "Within 10 meters",
+        "Within 50 meters",
+        "Within 100 meters",
+        "Within 500 meters"
+      ],
+      "answer": "Within 50 meters"
+    },
+    {
+      "question": "Which of the following is NOT a cause of absconding?",
+      "choices": [
+        "Lack of food or water",
+        "Excessive heat",
+        "Pest infestations",
+        "Increased nectar flow"
+      ],
+      "answer": "Increased nectar flow"
+    },
+    {
+      "question": "What is the primary purpose of using a smoker during hive inspections?",
+      "choices": [
+        "To kill harmful bacteria",
+        "To increase honey production",
+        "To calm the bees",
+        "To drive away predators"
+      ],
+      "answer": "To calm the bees"
+    },
+    {
+      "question": "Which of the following is a proper fuel for smokers?",
+      "choices": [
+        "Plastic",
+        "Wet leaves",
+        "Dry leaves and wood shavings",
+        "Scented candles"
+      ],
+      "answer": "Dry leaves and wood shavings"
+    },
+    {
+      "question": "What is the recommended ratio for sugar syrup when providing supplemental feeding during the dry season?",
+      "choices": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "1:2"
+      ],
+      "answer": "1:1"
+    },
+    {
+      "question": "Which of the following is NOT a recommended strategy for preventing absconding?",
+      "choices": [
+        "Ensuring adequate food stores",
+        "Improving hive ventilation",
+        "Providing shade for hives",
+        "Increasing hive inspections during the hottest parts of the day"
+      ],
+      "answer": "Increasing hive inspections during the hottest parts of the day"
+    },
+    {
+      "question": "What is the primary purpose of providing pebbles or twigs in water sources for bees?",
+      "choices": [
+        "To filter the water",
+        "To provide minerals",
+        "To create landing spots",
+        "To prevent evaporation"
+      ],
+      "answer": "To create landing spots"
+    },
+    {
+      "question": "Which of the following is a sign of water stress in bees?",
+      "choices": [
+        "Increased honey production",
+        "Clustering of bees at water sources",
+        "Building new comb",
+        "Increased foraging activity"
+      ],
+      "answer": "Clustering of bees at water sources"
+    },
+    {
+      "question": "What is the recommended frequency for hive inspections during the dry season?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Quarterly"
+      ],
+      "answer": "Weekly"
+    },
+    {
+      "question": "Which of the following is NOT a proper component of a beekeeper's protective gear?",
+      "choices": [
+        "Full suit or jacket with veil",
+        "Gloves",
+        "Closed-toe shoes",
+        "Brightly colored clothing"
+      ],
+      "answer": "Brightly colored clothing"
+    },
+    {
+      "question": "What is the primary purpose of reducing hive space during the dry season?",
+      "choices": [
+        "To increase honey production",
+        "To prevent swarming",
+        "To help the colony maintain optimal conditions",
+        "To reduce ventilation"
+      ],
+      "answer": "To help the colony maintain optimal conditions"
+    },
+    {
+      "question": "Which of the following pests can take advantage of weakened colonies during the dry season?",
+      "choices": [
+        "Varroa mites",
+        "Butterflies",
+        "Grasshoppers",
+        "Ladybugs"
+      ],
+      "answer": "Varroa mites"
+    },
+    {
+      "question": "What is the recommended approach for supplemental feeding during the dry season?",
+      "choices": [
+        "Provide as much food as possible at all times",
+        "Never provide supplemental feeding",
+        "Provide feeding judiciously to avoid dependency",
+        "Only feed at night"
+      ],
+      "answer": "Provide feeding judiciously to avoid dependency"
+    },
+    {
+      "question": "Which of the following is a natural pest management technique for beehives?",
+      "choices": [
+        "Using chemical pesticides",
+        "Introducing predatory insects",
+        "Using screened bottom boards",
+        "Removing all surrounding vegetation"
+      ],
+      "answer": "Using screened bottom boards"
+    },
+    {
+      "question": "What is the primary purpose of maintaining strong colonies during the dry season?",
+      "choices": [
+        "To increase honey production",
+        "To prepare for splitting hives",
+        "To resist pest infestations and diseases",
+        "To encourage swarming"
+      ],
+      "answer": "To resist pest infestations and diseases"
+    },
+    {
+      "question": "Which of the following is NOT a recommended location for placing water sources for bees?",
+      "choices": [
+        "Near hives",
+        "In shaded areas",
+        "Away from human activity",
+        "In direct sunlight"
+      ],
+      "answer": "In direct sunlight"
+    },
+    {
+      "question": "What is the primary reason for avoiding crushing bees during hive inspections?",
+      "choices": [
+        "To maintain honey production",
+        "To prevent the release of alarm pheromones",
+        "To ensure proper pollination",
+        "To keep the queen happy"
+      ],
+      "answer": "To prevent the release of alarm pheromones"
+    },
+    {
+      "question": "Which of the following is a sign of a healthy colony during a dry season inspection?",
+      "choices": [
+        "Absence of the queen",
+        "Presence of eggs and larvae",
+        "Aggressive behavior towards the beekeeper",
+        "Clustering of bees at the hive entrance"
+      ],
+      "answer": "Presence of eggs and larvae"
+    },
+    {
+      "question": "What is the primary purpose of record-keeping during hive inspections?",
+      "choices": [
+        "To comply with government regulations",
+        "To impress other beekeepers",
+        "To track colony health and make informed management decisions",
+        "To calculate honey yields"
+      ],
+      "answer": "To track colony health and make informed management decisions"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for improving hive ventilation during the dry season?",
+      "choices": [
+        "Adjusting entrance reducers",
+        "Adding ventilation holes to the hive body",
+        "Removing the hive cover completely",
+        "Ensuring proper spacing between frames"
+      ],
+      "answer": "Removing the hive cover completely"
+    },
+    {
+      "question": "What is the primary reason for providing shade to hives during the dry season?",
+      "choices": [
+        "To increase honey production",
+        "To encourage foraging",
+        "To reduce heat stress on the colony",
+        "To prevent swarming"
+      ],
+      "answer": "To reduce heat stress on the colony"
+    },
+    {
+      "question": "Which of the following is a sign that supplemental feeding may be necessary during the dry season?",
+      "choices": [
+        "Increased foraging activity",
+        "Aggressive behavior towards the beekeeper",
+        "Reduced food stores in the hive",
+        "Building new comb"
+      ],
+      "answer": "Reduced food stores in the hive"
+    }
+  ]
+}

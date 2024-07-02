@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Weaving",
+  "questions": [
+    {
+      "question": "What is the primary cultural significance of weaving in Timor-Leste?",
+      "choices": [
+        "It's a modern art form",
+        "It's central to Timorese identity",
+        "It's only used for export",
+        "It's a recent introduction to the culture"
+      ],
+      "answer": "It's central to Timorese identity"
+    },
+    {
+      "question": "What are the vertical threads on a loom called?",
+      "choices": [
+        "Weft",
+        "Warp",
+        "Shed",
+        "Heddle"
+      ],
+      "answer": "Warp"
+    },
+    {
+      "question": "What is the traditional woven cloth of Timor-Leste called?",
+      "choices": [
+        "Sarong",
+        "Kente",
+        "Tais",
+        "Ikat"
+      ],
+      "answer": "Tais"
+    },
+    {
+      "question": "Which of the following is NOT a basic weaving term?",
+      "choices": [
+        "Warp",
+        "Weft",
+        "Shed",
+        "Loom"
+      ],
+      "answer": "Loom"
+    },
+    {
+      "question": "What is the space created between raised and lowered warp threads called?",
+      "choices": [
+        "Shed",
+        "Gap",
+        "Weave",
+        "Slot"
+      ],
+      "answer": "Shed"
+    },
+    {
+      "question": "Which type of loom is traditionally used in Timor-Leste?",
+      "choices": [
+        "Floor loom",
+        "Table loom",
+        "Backstrap loom",
+        "Jacquard loom"
+      ],
+      "answer": "Backstrap loom"
+    },
+    {
+      "question": "What is the tool used to carry the weft thread across the warp called?",
+      "choices": [
+        "Needle",
+        "Shuttle",
+        "Bobbin",
+        "Reed"
+      ],
+      "answer": "Shuttle"
+    },
+    {
+      "question": "What is the most basic weave structure?",
+      "choices": [
+        "Twill weave",
+        "Satin weave",
+        "Plain weave",
+        "Basket weave"
+      ],
+      "answer": "Plain weave"
+    },
+    {
+      "question": "What are the horizontal threads woven through the warp called?",
+      "choices": [
+        "Weft",
+        "Warp",
+        "Shed",
+        "Heddle"
+      ],
+      "answer": "Weft"
+    },
+    {
+      "question": "Which of the following is NOT a common fiber used in Timorese weaving?",
+      "choices": [
+        "Cotton",
+        "Wool",
+        "Local plant fibers",
+        "Polyester"
+      ],
+      "answer": "Polyester"
+    },
+    {
+      "question": "What is the process of setting up the warp threads on a loom called?",
+      "choices": [
+        "Threading",
+        "Warping",
+        "Dressing",
+        "Beaming"
+      ],
+      "answer": "Warping"
+    },
+    {
+      "question": "Which of the following is a component of a backstrap loom?",
+      "choices": [
+        "Treadles",
+        "Breast beam",
+        "Fly shuttle",
+        "Dobby"
+      ],
+      "answer": "Breast beam"
+    },
+    {
+      "question": "What is the finished edge of a woven fabric called?",
+      "choices": [
+        "Hem",
+        "Border",
+        "Selvedge",
+        "Fringe"
+      ],
+      "answer": "Selvedge"
+    },
+    {
+      "question": "Which weave structure creates a diagonal pattern?",
+      "choices": [
+        "Plain weave",
+        "Twill weave",
+        "Satin weave",
+        "Basket weave"
+      ],
+      "answer": "Twill weave"
+    },
+    {
+      "question": "What is the purpose of a heddle in weaving?",
+      "choices": [
+        "To carry the weft thread",
+        "To separate and lift warp threads",
+        "To beat the weft into place",
+        "To wind the warp threads"
+      ],
+      "answer": "To separate and lift warp threads"
+    },
+    {
+      "question": "Which type of loom is best suited for beginners and small projects?",
+      "choices": [
+        "Floor loom",
+        "Jacquard loom",
+        "Frame loom",
+        "Dobby loom"
+      ],
+      "answer": "Frame loom"
+    },
+    {
+      "question": "What does the 'Kaif Metan' pattern in Timorese textiles represent?",
+      "choices": [
+        "Love and marriage",
+        "Strength and protection",
+        "Harvest and abundance",
+        "Wisdom and knowledge"
+      ],
+      "answer": "Strength and protection"
+    },
+    {
+      "question": "Which of the following is NOT a component of a floor loom?",
+      "choices": [
+        "Beams",
+        "Shafts",
+        "Treadles",
+        "Backstrap"
+      ],
+      "answer": "Backstrap"
+    },
+    {
+      "question": "What is a single pass of weft thread across the warp called?",
+      "choices": [
+        "Shot",
+        "Pass",
+        "Pick",
+        "Throw"
+      ],
+      "answer": "Pick"
+    },
+    {
+      "question": "What is the primary advantage of a backstrap loom?",
+      "choices": [
+        "It can produce very wide fabrics",
+        "It's portable and adaptable",
+        "It allows for complex pattern weaving",
+        "It's faster than other looms"
+      ],
+      "answer": "It's portable and adaptable"
+    },
+    {
+      "question": "Which pattern in Timorese weaving symbolizes leadership and authority?",
+      "choices": [
+        "Kaif Metan",
+        "Mane Zon",
+        "Buna",
+        "Ai-kanoik"
+      ],
+      "answer": "Mane Zon"
+    },
+    {
+      "question": "What is the purpose of a reed in weaving?",
+      "choices": [
+        "To create patterns",
+        "To space warp threads evenly",
+        "To hold the weft in place",
+        "To tension the warp threads"
+      ],
+      "answer": "To space warp threads evenly"
+    },
+    {
+      "question": "Which of the following is NOT a common use for tais in Timorese culture?",
+      "choices": [
+        "Ceremonial purposes",
+        "Gifts",
+        "Daily wear",
+        "Currency"
+      ],
+      "answer": "Currency"
+    },
+    {
+      "question": "What does the 'Buna' motif in Timorese textiles represent?",
+      "choices": [
+        "Strength",
+        "Leadership",
+        "Fertility",
+        "Protection"
+      ],
+      "answer": "Fertility"
+    },
+    {
+      "question": "Which of the following is a characteristic of satin weave?",
+      "choices": [
+        "Equal distribution of warp and weft on surface",
+        "Diagonal lines on the fabric surface",
+        "Long floats of yarn on the fabric surface",
+        "Basket-like appearance"
+      ],
+      "answer": "Long floats of yarn on the fabric surface"
+    },
+    {
+      "question": "What is the primary function of a shuttle in weaving?",
+      "choices": [
+        "To create the shed",
+        "To tension the warp threads",
+        "To carry the weft thread across the warp",
+        "To beat the weft into place"
+      ],
+      "answer": "To carry the weft thread across the warp"
+    },
+    {
+      "question": "Which of the following is NOT a common motif in traditional Timorese textiles?",
+      "choices": [
+        "Animals",
+        "Plants",
+        "Celestial bodies",
+        "Modern machinery"
+      ],
+      "answer": "Modern machinery"
+    },
+    {
+      "question": "What is the purpose of a warping board in weaving?",
+      "choices": [
+        "To create patterns",
+        "To measure and organize warp threads",
+        "To hold the finished fabric",
+        "To beat the weft into place"
+      ],
+      "answer": "To measure and organize warp threads"
+    },
+    {
+      "question": "Which of the following best describes the cultural role of weaving patterns in Timor-Leste?",
+      "choices": [
+        "Purely decorative",
+        "A form of written language",
+        "A means of social communication",
+        "A recent artistic development"
+      ],
+      "answer": "A means of social communication"
+    },
+    {
+      "question": "What is the primary difference between a boat shuttle and a stick shuttle?",
+      "choices": [
+        "The material they're made from",
+        "The type of yarn they can hold",
+        "The shape and design",
+        "The weaving technique they're used for"
+      ],
+      "answer": "The shape and design"
+    }
+  ]
+}

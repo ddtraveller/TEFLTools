@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Aquaculture Development in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the current primary focus of aquaculture in Timor-Leste?",
+      "choices": [
+        "Large-scale commercial operations",
+        "Marine aquaculture",
+        "Small-scale freshwater species cultivation",
+        "Seaweed farming"
+      ],
+      "answer": "Small-scale freshwater species cultivation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a main species currently cultivated in Timor-Leste?",
+      "choices": [
+        "Tilapia",
+        "Carp",
+        "Milkfish",
+        "Shrimp"
+      ],
+      "answer": "Shrimp"
+    },
+    {
+      "question": "What is the approximate total aquaculture production in Timor-Leste as of 2020?",
+      "choices": [
+        "100 metric tons",
+        "300 metric tons",
+        "1000 metric tons",
+        "3000 metric tons"
+      ],
+      "answer": "300 metric tons"
+    },
+    {
+      "question": "Which of the following is a major challenge for aquaculture development in Timor-Leste?",
+      "choices": [
+        "Oversaturation of the domestic market",
+        "Lack of suitable land and water resources",
+        "Limited technical knowledge and expertise",
+        "Excessive government regulation"
+      ],
+      "answer": "Limited technical knowledge and expertise"
+    },
+    {
+      "question": "What is the current contribution of aquaculture to Timor-Leste's GDP?",
+      "choices": [
+        "Less than 1%",
+        "Between 1-5%",
+        "Between 5-10%",
+        "More than 10%"
+      ],
+      "answer": "Less than 1%"
+    },
+    {
+      "question": "Which of the following is an environmental opportunity for sustainable aquaculture in Timor-Leste?",
+      "choices": [
+        "Increased use of antibiotics",
+        "Implementation of integrated multi-trophic aquaculture (IMTA)",
+        "Expansion of monoculture practices",
+        "Relaxation of environmental regulations"
+      ],
+      "answer": "Implementation of integrated multi-trophic aquaculture (IMTA)"
+    },
+    {
+      "question": "What is a potential social challenge for aquaculture development in Timor-Leste?",
+      "choices": [
+        "Oversupply of skilled labor",
+        "Lack of interest from local communities",
+        "Competition with traditional fishing communities",
+        "Excessive government support"
+      ],
+      "answer": "Competition with traditional fishing communities"
+    },
+    {
+      "question": "Which of the following is an economic opportunity presented by aquaculture development in Timor-Leste?",
+      "choices": [
+        "Reduced need for imports",
+        "Decreased food security",
+        "Centralization of economic activities",
+        "Diversification of rural economies"
+      ],
+      "answer": "Diversification of rural economies"
+    },
+    {
+      "question": "What is the name of the national strategy that guides aquaculture development in Timor-Leste?",
+      "choices": [
+        "Timor-Leste Aquaculture Act",
+        "National Aquaculture Development Strategy (2015-2030)",
+        "Fisheries and Aquaculture Master Plan",
+        "Blue Economy Initiative"
+      ],
+      "answer": "National Aquaculture Development Strategy (2015-2030)"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key element of the regulatory framework for aquaculture in Timor-Leste?",
+      "choices": [
+        "Licensing and permitting procedures",
+        "Environmental impact assessment requirements",
+        "Quota system for production",
+        "Disease control and biosecurity measures"
+      ],
+      "answer": "Quota system for production"
+    },
+    {
+      "question": "What is a major gap in the current regulatory framework for aquaculture in Timor-Leste?",
+      "choices": [
+        "Lack of environmental regulations",
+        "Excessive taxation on aquaculture businesses",
+        "Need for specific aquaculture legislation",
+        "Overregulation of small-scale farmers"
+      ],
+      "answer": "Need for specific aquaculture legislation"
+    },
+    {
+      "question": "Which approach is crucial for balancing aquaculture with other coastal activities in Timor-Leste?",
+      "choices": [
+        "Exclusive focus on aquaculture development",
+        "Integrated coastal management",
+        "Elimination of traditional fishing practices",
+        "Prioritization of tourism over aquaculture"
+      ],
+      "answer": "Integrated coastal management"
+    },
+    {
+      "question": "What is the primary purpose of implementing spatial planning and zoning for aquaculture in Timor-Leste?",
+      "choices": [
+        "To increase production quotas",
+        "To minimize environmental impact and conflicts with other activities",
+        "To centralize aquaculture operations",
+        "To restrict foreign investment in the sector"
+      ],
+      "answer": "To minimize environmental impact and conflicts with other activities"
+    },
+    {
+      "question": "Which of the following is a key aspect of water quality management for sustainable aquaculture?",
+      "choices": [
+        "Maximizing the use of antibiotics",
+        "Ignoring effluent management",
+        "Understanding and managing carrying capacity",
+        "Increasing stocking densities"
+      ],
+      "answer": "Understanding and managing carrying capacity"
+    },
+    {
+      "question": "What is the importance of stakeholder engagement in aquaculture development in Timor-Leste?",
+      "choices": [
+        "To exclude local communities from decision-making",
+        "To ensure equitable distribution of benefits",
+        "To centralize control of resources",
+        "To prioritize foreign investors"
+      ],
+      "answer": "To ensure equitable distribution of benefits"
+    },
+    {
+      "question": "Which of the following is a recommended strategy for disease prevention in Timor-Leste's aquaculture sector?",
+      "choices": [
+        "Increasing the use of antibiotics",
+        "Implementing robust biosecurity measures",
+        "Ignoring quarantine protocols",
+        "Focusing solely on treatment rather than prevention"
+      ],
+      "answer": "Implementing robust biosecurity measures"
+    },
+    {
+      "question": "What is a key component of value chain development for aquaculture in Timor-Leste?",
+      "choices": [
+        "Restricting exports",
+        "Focusing only on domestic markets",
+        "Investing in processing facilities",
+        "Limiting transportation infrastructure"
+      ],
+      "answer": "Investing in processing facilities"
+    },
+    {
+      "question": "Which environmental concern must be addressed in Timor-Leste's aquaculture development?",
+      "choices": [
+        "Excessive reforestation",
+        "Potential habitat destruction",
+        "Overabundance of native species",
+        "Lack of sunlight"
+      ],
+      "answer": "Potential habitat destruction"
+    },
+    {
+      "question": "What role can international organizations play in supporting sustainable aquaculture in Timor-Leste?",
+      "choices": [
+        "Taking over management of local resources",
+        "Providing technical assistance and capacity building",
+        "Imposing strict production quotas",
+        "Discouraging local participation"
+      ],
+      "answer": "Providing technical assistance and capacity building"
+    },
+    {
+      "question": "Which of the following is a potential benefit of integrating aquaculture with other coastal activities in Timor-Leste?",
+      "choices": [
+        "Increased conflicts over resource use",
+        "Reduced overall economic output",
+        "Enhanced environmental degradation",
+        "Promotion of sustainable development"
+      ],
+      "answer": "Promotion of sustainable development"
+    },
+    {
+      "question": "What is the significance of developing clear guidelines for environmental impact assessments in Timor-Leste's aquaculture sector?",
+      "choices": [
+        "To discourage aquaculture development",
+        "To promote unsustainable practices",
+        "To ensure environmental protection while encouraging growth",
+        "To increase bureaucratic hurdles"
+      ],
+      "answer": "To ensure environmental protection while encouraging growth"
+    },
+    {
+      "question": "Which type of aquaculture system is mentioned as an opportunity for environmental sustainability in Timor-Leste?",
+      "choices": [
+        "Intensive monoculture",
+        "Recirculating aquaculture systems (RAS)",
+        "Open-net pen farming",
+        "Antibiotic-dependent farming"
+      ],
+      "answer": "Recirculating aquaculture systems (RAS)"
+    },
+    {
+      "question": "What is a potential social opportunity presented by aquaculture development in Timor-Leste?",
+      "choices": [
+        "Displacement of local communities",
+        "Reduction in traditional fishing practices",
+        "Job creation in rural coastal areas",
+        "Centralization of economic activities"
+      ],
+      "answer": "Job creation in rural coastal areas"
+    },
+    {
+      "question": "Which of the following is a key consideration in species selection for aquaculture in Timor-Leste?",
+      "choices": [
+        "Focusing only on non-native species",
+        "Ignoring market demand",
+        "Considering environmental suitability and economic viability",
+        "Prioritizing species with the highest feed requirements"
+      ],
+      "answer": "Considering environmental suitability and economic viability"
+    },
+    {
+      "question": "What is the importance of developing a phased approach to aquaculture development in Timor-Leste?",
+      "choices": [
+        "To delay progress indefinitely",
+        "To exclude small-scale farmers",
+        "To allow for gradual capacity building and infrastructure development",
+        "To prioritize immediate large-scale production"
+      ],
+      "answer": "To allow for gradual capacity building and infrastructure development"
+    },
+    {
+      "question": "Which of the following is a potential risk that should be assessed in aquaculture development plans for Timor-Leste?",
+      "choices": [
+        "Excessive government support",
+        "Overabundance of skilled labor",
+        "Climate change impacts",
+        "Lack of international interest"
+      ],
+      "answer": "Climate change impacts"
+    },
+    {
+      "question": "What is the significance of developing local feed production capabilities for Timor-Leste's aquaculture sector?",
+      "choices": [
+        "To increase dependence on imports",
+        "To reduce operational costs and enhance food security",
+        "To decrease the quality of aquaculture products",
+        "To limit the growth of the sector"
+      ],
+      "answer": "To reduce operational costs and enhance food security"
+    },
+    {
+      "question": "Which approach to aquaculture development is most aligned with sustainable practices in Timor-Leste?",
+      "choices": [
+        "Rapid, unregulated expansion",
+        "Focus on short-term profits",
+        "Ecosystem-based approach considering environmental and social factors",
+        "Prioritization of intensive monoculture systems"
+      ],
+      "answer": "Ecosystem-based approach considering environmental and social factors"
+    },
+    {
+      "question": "What role should capacity building and training programs play in Timor-Leste's aquaculture development?",
+      "choices": [
+        "They are unnecessary for sector growth",
+        "They should focus only on large-scale commercial operators",
+        "They are crucial for developing local expertise and sustainable practices",
+        "They should be limited to government officials"
+      ],
+      "answer": "They are crucial for developing local expertise and sustainable practices"
+    },
+    {
+      "question": "Which of the following is a key consideration in developing marketing strategies for Timor-Leste's aquaculture products?",
+      "choices": [
+        "Focusing exclusively on export markets",
+        "Ignoring quality standards",
+        "Balancing domestic food security needs with export opportunities",
+        "Avoiding value-added processing"
+      ],
+      "answer": "Balancing domestic food security needs with export opportunities"
+    }
+  ]
+}

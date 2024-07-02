@@ -1,0 +1,305 @@
+{
+  "title": "Irrigation Management in Saline Agriculture",
+  "questions": [
+    {
+      "question": "What is the primary benefit of drip irrigation in saline agriculture?",
+      "choices": [
+        "Increased water usage",
+        "Minimized salt accumulation in the root zone",
+        "Higher evaporation rates",
+        "Faster crop growth"
+      ],
+      "answer": "Minimized salt accumulation in the root zone"
+    },
+    {
+      "question": "Which of the following is NOT a component of a drip irrigation system?",
+      "choices": [
+        "Emitters",
+        "Filters",
+        "Sprinklers",
+        "Pressure regulators"
+      ],
+      "answer": "Sprinklers"
+    },
+    {
+      "question": "What does the term 'leaching fraction' refer to in irrigation management?",
+      "choices": [
+        "The amount of fertilizer applied through irrigation",
+        "The portion of water that evaporates during irrigation",
+        "The amount of water needed to flush salts below the root zone",
+        "The rate at which plants absorb water"
+      ],
+      "answer": "The amount of water needed to flush salts below the root zone"
+    },
+    {
+      "question": "Which parameter is most important to measure when testing water quality for saline agriculture?",
+      "choices": [
+        "Temperature",
+        "Color",
+        "Electrical Conductivity (EC)",
+        "Turbidity"
+      ],
+      "answer": "Electrical Conductivity (EC)"
+    },
+    {
+      "question": "What is the primary purpose of irrigation scheduling in saline conditions?",
+      "choices": [
+        "To increase salt accumulation",
+        "To maintain adequate soil moisture while preventing salt accumulation",
+        "To promote faster evaporation",
+        "To reduce crop water requirements"
+      ],
+      "answer": "To maintain adequate soil moisture while preventing salt accumulation"
+    },
+    {
+      "question": "Which irrigation method is most effective for managing salinity in agriculture?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is fertigation?",
+      "choices": [
+        "A method of soil testing",
+        "Application of fertilizer through irrigation water",
+        "A type of salt-tolerant crop",
+        "A technique for measuring soil salinity"
+      ],
+      "answer": "Application of fertilizer through irrigation water"
+    },
+    {
+      "question": "Which factor does NOT affect irrigation scheduling in saline conditions?",
+      "choices": [
+        "Crop water requirements",
+        "Soil moisture content",
+        "Crop market price",
+        "Weather conditions"
+      ],
+      "answer": "Crop market price"
+    },
+    {
+      "question": "What is the purpose of a leaching requirement in saline agriculture?",
+      "choices": [
+        "To increase salt concentration in the soil",
+        "To remove excess water from the field",
+        "To flush salts below the root zone",
+        "To improve soil structure"
+      ],
+      "answer": "To flush salts below the root zone"
+    },
+    {
+      "question": "Which of the following is a strategy for managing poor quality water in saline agriculture?",
+      "choices": [
+        "Increasing irrigation frequency",
+        "Blending with better quality water",
+        "Applying more fertilizer",
+        "Reducing crop density"
+      ],
+      "answer": "Blending with better quality water"
+    },
+    {
+      "question": "What does the crop coefficient (Kc) represent in irrigation calculations?",
+      "choices": [
+        "The amount of salt in the soil",
+        "The crop's tolerance to drought",
+        "The ratio of crop evapotranspiration to reference evapotranspiration",
+        "The crop's growth rate"
+      ],
+      "answer": "The ratio of crop evapotranspiration to reference evapotranspiration"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of drip irrigation in saline conditions?",
+      "choices": [
+        "Precise water application",
+        "Improved water use efficiency",
+        "Increased salt leaching",
+        "Minimized salt accumulation in root zone"
+      ],
+      "answer": "Increased salt leaching"
+    },
+    {
+      "question": "What is the primary purpose of a filtration system in a drip irrigation setup?",
+      "choices": [
+        "To add nutrients to the water",
+        "To remove salts from the water",
+        "To prevent clogging of emitters",
+        "To increase water pressure"
+      ],
+      "answer": "To prevent clogging of emitters"
+    },
+    {
+      "question": "Which irrigation technique involves applying less water than the crop's full water requirement?",
+      "choices": [
+        "Excess irrigation",
+        "Deficit irrigation",
+        "Flood irrigation",
+        "Continuous irrigation"
+      ],
+      "answer": "Deficit irrigation"
+    },
+    {
+      "question": "What is the Sodium Adsorption Ratio (SAR) used to measure?",
+      "choices": [
+        "The amount of sodium in irrigation water relative to calcium and magnesium",
+        "The total salt content in the soil",
+        "The rate of water absorption by plants",
+        "The efficiency of the irrigation system"
+      ],
+      "answer": "The amount of sodium in irrigation water relative to calcium and magnesium"
+    },
+    {
+      "question": "Which of the following is a benefit of night-time irrigation in saline conditions?",
+      "choices": [
+        "Increased evaporation",
+        "Higher salt accumulation",
+        "Reduced evaporation and salt concentration at the soil surface",
+        "Faster plant growth"
+      ],
+      "answer": "Reduced evaporation and salt concentration at the soil surface"
+    },
+    {
+      "question": "What is the primary advantage of subsurface drip irrigation in saline agriculture?",
+      "choices": [
+        "Higher water pressure",
+        "Increased evaporation",
+        "Further reduction in salt accumulation at the soil surface",
+        "Easier maintenance"
+      ],
+      "answer": "Further reduction in salt accumulation at the soil surface"
+    },
+    {
+      "question": "Which factor is NOT considered when calculating crop water requirements in saline conditions?",
+      "choices": [
+        "Evapotranspiration rates",
+        "Soil salinity levels",
+        "Crop type",
+        "Market demand for the crop"
+      ],
+      "answer": "Market demand for the crop"
+    },
+    {
+      "question": "What is the purpose of pulse irrigation in saline agriculture?",
+      "choices": [
+        "To increase salt accumulation",
+        "To reduce water use",
+        "To improve water infiltration and reduce runoff",
+        "To promote deeper root growth"
+      ],
+      "answer": "To improve water infiltration and reduce runoff"
+    },
+    {
+      "question": "Which of the following is a key component of precision irrigation?",
+      "choices": [
+        "Using only rainwater for irrigation",
+        "Applying the same amount of water to all crops",
+        "Using sensors and data analytics to optimize water application",
+        "Irrigating only during the day"
+      ],
+      "answer": "Using sensors and data analytics to optimize water application"
+    },
+    {
+      "question": "What is the main purpose of measuring soil moisture content in saline agriculture?",
+      "choices": [
+        "To determine fertilizer requirements",
+        "To guide irrigation decisions",
+        "To predict crop yield",
+        "To measure soil salinity"
+      ],
+      "answer": "To guide irrigation decisions"
+    },
+    {
+      "question": "Which of the following is NOT a strategy for managing irrigation in saline conditions?",
+      "choices": [
+        "Frequent, light irrigations",
+        "Leaching fractions",
+        "Continuous flood irrigation",
+        "Night-time irrigation"
+      ],
+      "answer": "Continuous flood irrigation"
+    },
+    {
+      "question": "What does ET0 represent in the crop water requirement formula?",
+      "choices": [
+        "Effective temperature",
+        "Evaporation time",
+        "Reference evapotranspiration",
+        "Excess transpiration"
+      ],
+      "answer": "Reference evapotranspiration"
+    },
+    {
+      "question": "Which of the following is a benefit of using gypsum as a soil amendment in saline agriculture?",
+      "choices": [
+        "It increases soil salinity",
+        "It improves soil structure and helps leach sodium",
+        "It reduces water infiltration",
+        "It increases soil acidity"
+      ],
+      "answer": "It improves soil structure and helps leach sodium"
+    },
+    {
+      "question": "What is the primary goal of water quality management in saline agriculture?",
+      "choices": [
+        "To increase water salinity",
+        "To reduce water usage",
+        "To ensure water suitability for irrigation and guide management practices",
+        "To promote algae growth"
+      ],
+      "answer": "To ensure water suitability for irrigation and guide management practices"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting evapotranspiration rates?",
+      "choices": [
+        "Temperature",
+        "Humidity",
+        "Wind speed",
+        "Soil color"
+      ],
+      "answer": "Soil color"
+    },
+    {
+      "question": "What is the main advantage of using salt-tolerant crops in saline agriculture?",
+      "choices": [
+        "They require more water",
+        "They can produce higher yields in saline conditions",
+        "They eliminate the need for irrigation",
+        "They reduce soil salinity"
+      ],
+      "answer": "They can produce higher yields in saline conditions"
+    },
+    {
+      "question": "Which irrigation technique involves placing drip lines below the soil surface?",
+      "choices": [
+        "Surface drip irrigation",
+        "Sprinkler irrigation",
+        "Subsurface drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Subsurface drip irrigation"
+    },
+    {
+      "question": "What is the primary purpose of a pressure regulator in a drip irrigation system?",
+      "choices": [
+        "To increase water pressure",
+        "To filter out impurities",
+        "To maintain consistent water flow to emitters",
+        "To add fertilizer to the water"
+      ],
+      "answer": "To maintain consistent water flow to emitters"
+    },
+    {
+      "question": "Which of the following is a potential challenge of implementing drip irrigation in saline agriculture?",
+      "choices": [
+        "Increased water usage",
+        "Higher salt accumulation in the root zone",
+        "Initial setup cost and maintenance requirements",
+        "Reduced crop yield"
+      ],
+      "answer": "Initial setup cost and maintenance requirements"
+    }
+  ]
+}

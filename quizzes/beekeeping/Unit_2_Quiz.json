@@ -1,0 +1,305 @@
+{
+  "title": "Bee Biology and Behavior",
+  "questions": [
+    {
+      "question": "Which body part of a bee contains the muscles that control wing movement?",
+      "choices": [
+        "Head",
+        "Thorax",
+        "Abdomen",
+        "Proboscis"
+      ],
+      "answer": "Thorax"
+    },
+    {
+      "question": "What is the primary function of a bee's compound eyes?",
+      "choices": [
+        "Detecting movement and color",
+        "Smelling flowers",
+        "Tasting nectar",
+        "Producing wax"
+      ],
+      "answer": "Detecting movement and color"
+    },
+    {
+      "question": "How many days does it typically take for a bee egg to hatch?",
+      "choices": [
+        "1 day",
+        "3 days",
+        "5 days",
+        "7 days"
+      ],
+      "answer": "3 days"
+    },
+    {
+      "question": "Which stage of a bee's lifecycle involves the most dramatic physical transformation?",
+      "choices": [
+        "Egg",
+        "Larva",
+        "Pupa",
+        "Adult"
+      ],
+      "answer": "Pupa"
+    },
+    {
+      "question": "What is the primary role of drone bees in a colony?",
+      "choices": [
+        "Foraging for nectar",
+        "Mating with queens from other colonies",
+        "Defending the hive",
+        "Producing honey"
+      ],
+      "answer": "Mating with queens from other colonies"
+    },
+    {
+      "question": "Which caste of bees is responsible for producing wax in the hive?",
+      "choices": [
+        "Queen",
+        "Workers",
+        "Drones",
+        "Larvae"
+      ],
+      "answer": "Workers"
+    },
+    {
+      "question": "What is the purpose of the waggle dance performed by forager bees?",
+      "choices": [
+        "To attract mates",
+        "To communicate the location of food sources",
+        "To regulate hive temperature",
+        "To ward off predators"
+      ],
+      "answer": "To communicate the location of food sources"
+    },
+    {
+      "question": "Which of the following is NOT a stage in the complete metamorphosis of bees?",
+      "choices": [
+        "Egg",
+        "Larva",
+        "Nymph",
+        "Pupa"
+      ],
+      "answer": "Nymph"
+    },
+    {
+      "question": "What is the typical lifespan of a worker bee during the summer?",
+      "choices": [
+        "2-3 days",
+        "2-3 weeks",
+        "4-6 weeks",
+        "4-6 months"
+      ],
+      "answer": "4-6 weeks"
+    },
+    {
+      "question": "Which part of a bee's anatomy is used for sucking nectar from flowers?",
+      "choices": [
+        "Mandibles",
+        "Antennae",
+        "Proboscis",
+        "Stinger"
+      ],
+      "answer": "Proboscis"
+    },
+    {
+      "question": "What is the primary function of pheromones in a bee colony?",
+      "choices": [
+        "To produce honey",
+        "To regulate colony behavior",
+        "To digest pollen",
+        "To build honeycomb"
+      ],
+      "answer": "To regulate colony behavior"
+    },
+    {
+      "question": "Which of the following is NOT a task typically performed by young worker bees?",
+      "choices": [
+        "Cell cleaning",
+        "Nursing larvae",
+        "Foraging for nectar",
+        "Wax production"
+      ],
+      "answer": "Foraging for nectar"
+    },
+    {
+      "question": "What is the maximum number of eggs a queen bee can lay in a single day?",
+      "choices": [
+        "500",
+        "1000",
+        "1500",
+        "2000"
+      ],
+      "answer": "2000"
+    },
+    {
+      "question": "Which of the following is a feature found only in worker bees?",
+      "choices": [
+        "Stinger",
+        "Wings",
+        "Pollen baskets",
+        "Compound eyes"
+      ],
+      "answer": "Pollen baskets"
+    },
+    {
+      "question": "What is the primary function of the honey stomach in bees?",
+      "choices": [
+        "Digesting pollen",
+        "Storing nectar",
+        "Producing wax",
+        "Secreting pheromones"
+      ],
+      "answer": "Storing nectar"
+    },
+    {
+      "question": "Which of the following is NOT conveyed by the waggle dance?",
+      "choices": [
+        "Distance to food source",
+        "Direction of food source",
+        "Quality of food source",
+        "Type of predators near food source"
+      ],
+      "answer": "Type of predators near food source"
+    },
+    {
+      "question": "What is the typical lifespan of a queen bee?",
+      "choices": [
+        "2-5 weeks",
+        "2-5 months",
+        "2-5 years",
+        "10-15 years"
+      ],
+      "answer": "2-5 years"
+    },
+    {
+      "question": "Which of the following is NOT a function of bee antennae?",
+      "choices": [
+        "Smell",
+        "Touch",
+        "Taste",
+        "Detecting air movement"
+      ],
+      "answer": "Taste"
+    },
+    {
+      "question": "What is the purpose of the simple eyes (ocelli) on a bee's head?",
+      "choices": [
+        "Detecting color",
+        "Detecting movement",
+        "Detecting light",
+        "Detecting pheromones"
+      ],
+      "answer": "Detecting light"
+    },
+    {
+      "question": "Which caste of bees has the shortest lifespan?",
+      "choices": [
+        "Queen",
+        "Worker",
+        "Drone",
+        "Larva"
+      ],
+      "answer": "Drone"
+    },
+    {
+      "question": "What is the primary function of mandibles in bees?",
+      "choices": [
+        "Sucking nectar",
+        "Detecting odors",
+        "Manipulating wax and pollen",
+        "Producing honey"
+      ],
+      "answer": "Manipulating wax and pollen"
+    },
+    {
+      "question": "Which of the following is NOT a role typically performed by worker bees?",
+      "choices": [
+        "Guarding the hive",
+        "Laying eggs",
+        "Foraging for nectar",
+        "Building honeycomb"
+      ],
+      "answer": "Laying eggs"
+    },
+    {
+      "question": "What is the purpose of the wax glands in worker bees?",
+      "choices": [
+        "To produce honey",
+        "To secrete wax for building comb",
+        "To digest pollen",
+        "To detect pheromones"
+      ],
+      "answer": "To secrete wax for building comb"
+    },
+    {
+      "question": "Which of the following best describes the stinger of a bee?",
+      "choices": [
+        "A modified leg",
+        "A modified antenna",
+        "A modified ovipositor",
+        "A modified mandible"
+      ],
+      "answer": "A modified ovipositor"
+    },
+    {
+      "question": "What is the primary function of piping sounds made by queen bees?",
+      "choices": [
+        "To attract worker bees",
+        "To communicate with drones",
+        "To assert dominance or signal before swarming",
+        "To regulate hive temperature"
+      ],
+      "answer": "To assert dominance or signal before swarming"
+    },
+    {
+      "question": "Which of the following is NOT a factor in determining the role of a worker bee within the hive?",
+      "choices": [
+        "Age",
+        "Size",
+        "Genetic predisposition",
+        "Colony needs"
+      ],
+      "answer": "Size"
+    },
+    {
+      "question": "What is the primary function of the queen's pheromones?",
+      "choices": [
+        "To attract drones for mating",
+        "To direct worker bees to food sources",
+        "To maintain colony cohesion and regulate behavior",
+        "To ward off predators"
+      ],
+      "answer": "To maintain colony cohesion and regulate behavior"
+    },
+    {
+      "question": "Which of the following best describes the relationship between the queen bee and the colony?",
+      "choices": [
+        "The queen actively directs all colony activities",
+        "The queen serves the colony primarily through egg-laying and pheromone production",
+        "The queen competes with workers for dominance",
+        "The queen only interacts with drones"
+      ],
+      "answer": "The queen serves the colony primarily through egg-laying and pheromone production"
+    },
+    {
+      "question": "What is the significance of age-based task allocation in worker bees?",
+      "choices": [
+        "It ensures that all bees learn every task",
+        "It maximizes efficiency by matching bee physiology to task requirements",
+        "It prevents worker bees from leaving the hive",
+        "It allows the queen to control worker activities directly"
+      ],
+      "answer": "It maximizes efficiency by matching bee physiology to task requirements"
+    },
+    {
+      "question": "Which of the following is NOT a method of communication used by bees?",
+      "choices": [
+        "Waggle dance",
+        "Pheromones",
+        "Vibrations",
+        "Telepathy"
+      ],
+      "answer": "Telepathy"
+    }
+  ]
+}

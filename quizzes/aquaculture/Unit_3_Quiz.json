@@ -1,0 +1,305 @@
+{
+  "title": "Water Quality Management in Aquaculture",
+  "questions": [
+    {
+      "question": "What is the most important water quality parameter for aquaculture?",
+      "choices": [
+        "pH",
+        "Dissolved oxygen",
+        "Temperature",
+        "Salinity"
+      ],
+      "answer": "Dissolved oxygen"
+    },
+    {
+      "question": "What is the ideal pH range for most aquaculture species?",
+      "choices": [
+        "4.5-6.5",
+        "5.5-7.5",
+        "6.5-8.5",
+        "7.5-9.5"
+      ],
+      "answer": "6.5-8.5"
+    },
+    {
+      "question": "Which nitrogen compound is highly toxic to fish at low concentrations?",
+      "choices": [
+        "Nitrate",
+        "Nitrite",
+        "Ammonia",
+        "Nitrogen gas"
+      ],
+      "answer": "Ammonia"
+    },
+    {
+      "question": "What is the definition of carrying capacity in aquaculture?",
+      "choices": [
+        "The maximum amount of feed a system can handle",
+        "The maximum population size that an environment can sustain indefinitely",
+        "The maximum water flow rate in a system",
+        "The maximum number of species that can coexist in a system"
+      ],
+      "answer": "The maximum population size that an environment can sustain indefinitely"
+    },
+    {
+      "question": "What does assimilative capacity refer to in aquaculture?",
+      "choices": [
+        "The ability of fish to absorb nutrients",
+        "The ability of a water body to purify itself, removing pollutants",
+        "The capacity of a system to produce fish",
+        "The ability of bacteria to convert ammonia to nitrate"
+      ],
+      "answer": "The ability of a water body to purify itself, removing pollutants"
+    },
+    {
+      "question": "Which of the following is NOT a common method for treating aquaculture effluents?",
+      "choices": [
+        "Sedimentation ponds",
+        "Biological filtration",
+        "Constructed wetlands",
+        "Chlorination"
+      ],
+      "answer": "Chlorination"
+    },
+    {
+      "question": "What is eutrophication?",
+      "choices": [
+        "The process of adding nutrients to water",
+        "The excessive richness of nutrients in a body of water",
+        "The removal of nutrients from water",
+        "The balance of nutrients in an ecosystem"
+      ],
+      "answer": "The excessive richness of nutrients in a body of water"
+    },
+    {
+      "question": "What is the primary source of ammonia in aquaculture systems?",
+      "choices": [
+        "Photosynthesis",
+        "Fish waste and decomposing organic matter",
+        "Atmospheric deposition",
+        "Chemical additives"
+      ],
+      "answer": "Fish waste and decomposing organic matter"
+    },
+    {
+      "question": "Which of the following factors does NOT affect dissolved oxygen levels in water?",
+      "choices": [
+        "Temperature",
+        "Salinity",
+        "Atmospheric pressure",
+        "Water color"
+      ],
+      "answer": "Water color"
+    },
+    {
+      "question": "What is the ideal range for un-ionized ammonia in aquaculture systems?",
+      "choices": [
+        "< 0.02 mg/L",
+        "< 0.2 mg/L",
+        "< 2 mg/L",
+        "< 20 mg/L"
+      ],
+      "answer": "< 0.02 mg/L"
+    },
+    {
+      "question": "What is the primary advantage of recirculating aquaculture systems (RAS)?",
+      "choices": [
+        "Lower initial costs",
+        "Minimal water exchange",
+        "Easier to manage diseases",
+        "Higher stocking densities"
+      ],
+      "answer": "Minimal water exchange"
+    },
+    {
+      "question": "Which of the following is a sustainable practice in aquaculture water quality management?",
+      "choices": [
+        "Maximizing feed input",
+        "Using antibiotics preventatively",
+        "Implementing integrated multi-trophic aquaculture",
+        "Increasing water exchange rates"
+      ],
+      "answer": "Implementing integrated multi-trophic aquaculture"
+    },
+    {
+      "question": "What is the primary function of biological filtration in aquaculture?",
+      "choices": [
+        "Remove solid waste",
+        "Increase dissolved oxygen",
+        "Convert ammonia to less toxic forms",
+        "Regulate water temperature"
+      ],
+      "answer": "Convert ammonia to less toxic forms"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting carrying capacity in aquaculture?",
+      "choices": [
+        "Available space",
+        "Food resources",
+        "Water quality",
+        "Fish species color"
+      ],
+      "answer": "Fish species color"
+    },
+    {
+      "question": "What is the main environmental concern associated with excessive nutrient discharge from aquaculture?",
+      "choices": [
+        "Soil erosion",
+        "Air pollution",
+        "Eutrophication",
+        "Deforestation"
+      ],
+      "answer": "Eutrophication"
+    },
+    {
+      "question": "Which water quality parameter is most affected by CO2 levels in aquaculture systems?",
+      "choices": [
+        "Dissolved oxygen",
+        "Temperature",
+        "pH",
+        "Salinity"
+      ],
+      "answer": "pH"
+    },
+    {
+      "question": "What is the primary function of sedimentation ponds in aquaculture effluent treatment?",
+      "choices": [
+        "Increase dissolved oxygen",
+        "Remove suspended solids",
+        "Regulate water temperature",
+        "Add beneficial bacteria"
+      ],
+      "answer": "Remove suspended solids"
+    },
+    {
+      "question": "Which of the following is a benefit of constructed wetlands in aquaculture?",
+      "choices": [
+        "Increased water temperature",
+        "Higher stocking densities",
+        "Natural water purification",
+        "Faster fish growth rates"
+      ],
+      "answer": "Natural water purification"
+    },
+    {
+      "question": "What is the main advantage of optimizing feed management in aquaculture?",
+      "choices": [
+        "Increased water clarity",
+        "Reduced waste production",
+        "Higher dissolved oxygen levels",
+        "Lower fish mortality rates"
+      ],
+      "answer": "Reduced waste production"
+    },
+    {
+      "question": "Which of the following is NOT a common method for monitoring water quality in aquaculture?",
+      "choices": [
+        "pH testing",
+        "Dissolved oxygen measurement",
+        "Ammonia testing",
+        "Fish scale analysis"
+      ],
+      "answer": "Fish scale analysis"
+    },
+    {
+      "question": "What is the primary role of nitrifying bacteria in aquaculture systems?",
+      "choices": [
+        "Produce oxygen",
+        "Convert ammonia to nitrate",
+        "Remove solid waste",
+        "Regulate water temperature"
+      ],
+      "answer": "Convert ammonia to nitrate"
+    },
+    {
+      "question": "Which of the following is a potential consequence of low dissolved oxygen levels in aquaculture?",
+      "choices": [
+        "Increased fish growth",
+        "Improved water clarity",
+        "Reduced fish stress",
+        "Fish mortality"
+      ],
+      "answer": "Fish mortality"
+    },
+    {
+      "question": "What is the main purpose of regular water quality monitoring in aquaculture?",
+      "choices": [
+        "To increase fish production",
+        "To reduce feed costs",
+        "To identify and address issues early",
+        "To comply with aesthetic standards"
+      ],
+      "answer": "To identify and address issues early"
+    },
+    {
+      "question": "Which of the following factors does NOT typically affect the assimilative capacity of a water body?",
+      "choices": [
+        "Water volume",
+        "Flow rate",
+        "Temperature",
+        "Fish species"
+      ],
+      "answer": "Fish species"
+    },
+    {
+      "question": "What is the primary advantage of integrated multi-trophic aquaculture systems?",
+      "choices": [
+        "Higher stocking densities",
+        "Utilization of waste products",
+        "Reduced need for water quality monitoring",
+        "Simplified harvest procedures"
+      ],
+      "answer": "Utilization of waste products"
+    },
+    {
+      "question": "Which of the following is NOT a common water-efficient practice in aquaculture?",
+      "choices": [
+        "Recirculating systems",
+        "Rainwater harvesting",
+        "Continuous water exchange",
+        "Efficient feed management"
+      ],
+      "answer": "Continuous water exchange"
+    },
+    {
+      "question": "What is the main concern with high nitrate levels in aquaculture systems?",
+      "choices": [
+        "Direct toxicity to fish",
+        "pH fluctuations",
+        "Potential for eutrophication",
+        "Reduced dissolved oxygen"
+      ],
+      "answer": "Potential for eutrophication"
+    },
+    {
+      "question": "Which of the following best describes the nitrogen cycle in aquaculture?",
+      "choices": [
+        "Ammonia → Nitrite → Nitrate",
+        "Nitrate → Nitrite → Ammonia",
+        "Nitrite → Ammonia → Nitrate",
+        "Ammonia → Nitrate → Nitrite"
+      ],
+      "answer": "Ammonia → Nitrite → Nitrate"
+    },
+    {
+      "question": "What is the primary goal of effluent management in aquaculture?",
+      "choices": [
+        "To increase water clarity",
+        "To improve fish growth rates",
+        "To minimize environmental impact",
+        "To reduce operational costs"
+      ],
+      "answer": "To minimize environmental impact"
+    },
+    {
+      "question": "Which of the following is NOT a typical consequence of poor water quality management in aquaculture?",
+      "choices": [
+        "Reduced fish growth",
+        "Increased disease susceptibility",
+        "Higher feed conversion ratios",
+        "Improved market value of fish"
+      ],
+      "answer": "Improved market value of fish"
+    }
+  ]
+}

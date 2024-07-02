@@ -1,0 +1,305 @@
+{
+  "title": "Designing Woven Textiles",
+  "questions": [
+    {
+      "question": "What are the three main components of a weaving draft?",
+      "choices": [
+        "Threading, tie-up, and treadling",
+        "Warp, weft, and shed",
+        "Color, pattern, and texture",
+        "Loom, shuttle, and heddle"
+      ],
+      "answer": "Threading, tie-up, and treadling"
+    },
+    {
+      "question": "In a weaving draft, which component represents how warp threads are arranged on the loom?",
+      "choices": [
+        "Threading",
+        "Tie-up",
+        "Treadling",
+        "Drawdown"
+      ],
+      "answer": "Threading"
+    },
+    {
+      "question": "What does the tie-up in a weaving draft indicate?",
+      "choices": [
+        "Which shafts are connected to which treadles",
+        "The order of weft insertion",
+        "The color sequence of the warp",
+        "The tension of the warp threads"
+      ],
+      "answer": "Which shafts are connected to which treadles"
+    },
+    {
+      "question": "In a weaving draft, how is the treadling sequence read?",
+      "choices": [
+        "From top to bottom",
+        "From left to right",
+        "From right to left",
+        "From bottom to top"
+      ],
+      "answer": "From top to bottom"
+    },
+    {
+      "question": "What does the drawdown in a weaving draft represent?",
+      "choices": [
+        "Visual representation of the final fabric structure",
+        "The process of removing the fabric from the loom",
+        "The tension adjustment of the warp threads",
+        "The speed at which the weaver operates the loom"
+      ],
+      "answer": "Visual representation of the final fabric structure"
+    },
+    {
+      "question": "Which color harmony uses colors opposite each other on the color wheel?",
+      "choices": [
+        "Complementary",
+        "Analogous",
+        "Triadic",
+        "Monochromatic"
+      ],
+      "answer": "Complementary"
+    },
+    {
+      "question": "What is optical mixing in woven textiles?",
+      "choices": [
+        "Colors blend visually when woven in small patterns",
+        "The process of dyeing yarns before weaving",
+        "Using optical fibers in the weaving process",
+        "Adjusting the loom's tension for better visibility"
+      ],
+      "answer": "Colors blend visually when woven in small patterns"
+    },
+    {
+      "question": "Which of the following is NOT a method for modernizing traditional designs?",
+      "choices": [
+        "Replicating exact traditional patterns",
+        "Simplification",
+        "Scale adjustment",
+        "Color modification"
+      ],
+      "answer": "Replicating exact traditional patterns"
+    },
+    {
+      "question": "What is the purpose of creating a weaving draft?",
+      "choices": [
+        "To plan and communicate complex patterns",
+        "To calculate the cost of materials",
+        "To determine the weaving speed",
+        "To measure the strength of the yarn"
+      ],
+      "answer": "To plan and communicate complex patterns"
+    },
+    {
+      "question": "In color theory, what are analogous colors?",
+      "choices": [
+        "Colors adjacent on the color wheel",
+        "Colors opposite on the color wheel",
+        "Primary colors only",
+        "Black, white, and gray"
+      ],
+      "answer": "Colors adjacent on the color wheel"
+    },
+    {
+      "question": "What is the significance of understanding color dominance in woven textiles?",
+      "choices": [
+        "It affects the overall appearance of the fabric",
+        "It determines the strength of the fabric",
+        "It influences the weaving speed",
+        "It dictates the type of loom to be used"
+      ],
+      "answer": "It affects the overall appearance of the fabric"
+    },
+    {
+      "question": "Which of the following is a common geometric pattern in traditional Timorese motifs?",
+      "choices": [
+        "Diamonds",
+        "Spirals",
+        "Circles",
+        "Hexagons"
+      ],
+      "answer": "Diamonds"
+    },
+    {
+      "question": "What is the benefit of simplifying complex motifs in modern adaptations?",
+      "choices": [
+        "It focuses on key elements of the design",
+        "It makes the weaving process faster",
+        "It reduces the cost of materials",
+        "It increases the fabric's durability"
+      ],
+      "answer": "It focuses on key elements of the design"
+    },
+    {
+      "question": "How can traditional motifs be incorporated into contemporary patterns?",
+      "choices": [
+        "Use them as borders or accents in modern designs",
+        "Replicate them exactly without any changes",
+        "Eliminate them completely from new designs",
+        "Use them only in traditional garments"
+      ],
+      "answer": "Use them as borders or accents in modern designs"
+    },
+    {
+      "question": "What is the purpose of the threading diagram in a weaving draft?",
+      "choices": [
+        "To show how warp threads are arranged on the loom",
+        "To indicate the color of the weft threads",
+        "To determine the weaving pattern",
+        "To calculate the fabric's shrinkage"
+      ],
+      "answer": "To show how warp threads are arranged on the loom"
+    },
+    {
+      "question": "In a weaving draft, what do black squares in the tie-up section indicate?",
+      "choices": [
+        "A connection between shaft and treadle",
+        "The use of dark-colored yarn",
+        "Areas where the fabric will be cut",
+        "Mistakes in the weaving process"
+      ],
+      "answer": "A connection between shaft and treadle"
+    },
+    {
+      "question": "What is the term for one pass of the weft in weaving?",
+      "choices": [
+        "Pick",
+        "Thread",
+        "Shaft",
+        "Heddle"
+      ],
+      "answer": "Pick"
+    },
+    {
+      "question": "Which color harmony creates high contrast and vibrant designs?",
+      "choices": [
+        "Complementary",
+        "Analogous",
+        "Monochromatic",
+        "Pastel"
+      ],
+      "answer": "Complementary"
+    },
+    {
+      "question": "What is the effect of using analogous colors in weaving?",
+      "choices": [
+        "Creates harmonious, subtle designs",
+        "Produces high contrast patterns",
+        "Results in black and white fabrics",
+        "Causes the fabric to appear three-dimensional"
+      ],
+      "answer": "Creates harmonious, subtle designs"
+    },
+    {
+      "question": "Which of the following is NOT a primary color?",
+      "choices": [
+        "Green",
+        "Red",
+        "Blue",
+        "Yellow"
+      ],
+      "answer": "Green"
+    },
+    {
+      "question": "What is the purpose of altering the frequency or arrangement of motifs in modern adaptations?",
+      "choices": [
+        "To create new rhythms with traditional elements",
+        "To make the fabric easier to produce",
+        "To increase the fabric's strength",
+        "To reduce the use of color in the design"
+      ],
+      "answer": "To create new rhythms with traditional elements"
+    },
+    {
+      "question": "How does optical mixing differ in woven textiles compared to painting?",
+      "choices": [
+        "Colors blend when woven in small patterns",
+        "Woven textiles cannot achieve optical mixing",
+        "Painting always produces more vibrant colors",
+        "Optical mixing only occurs in digital textile design"
+      ],
+      "answer": "Colors blend when woven in small patterns"
+    },
+    {
+      "question": "What is the significance of understanding warp and weft interaction in color theory for weaving?",
+      "choices": [
+        "It produces different effects when colors cross",
+        "It determines the fabric's washing instructions",
+        "It affects the loom's operation speed",
+        "It influences the fabric's resistance to fading"
+      ],
+      "answer": "It produces different effects when colors cross"
+    },
+    {
+      "question": "Which of the following is a method for incorporating traditional elements in contemporary patterns?",
+      "choices": [
+        "Integrating traditional symbols into abstract compositions",
+        "Using only modern motifs and avoiding traditional elements",
+        "Replicating traditional patterns without any modifications",
+        "Eliminating all symbolic meanings from the designs"
+      ],
+      "answer": "Integrating traditional symbols into abstract compositions"
+    },
+    {
+      "question": "What is the purpose of creating a color palette inspired by Timorese textiles?",
+      "choices": [
+        "To honor traditional color usage while exploring modern combinations",
+        "To exactly replicate traditional color schemes",
+        "To avoid using any colors found in traditional textiles",
+        "To use only primary colors in new designs"
+      ],
+      "answer": "To honor traditional color usage while exploring modern combinations"
+    },
+    {
+      "question": "Which of the following is NOT a typical symbolic motif in traditional Timorese textiles?",
+      "choices": [
+        "Elephants",
+        "Crocodiles",
+        "Roosters",
+        "Ancestral figures"
+      ],
+      "answer": "Elephants"
+    },
+    {
+      "question": "What is the benefit of understanding weaving drafts for Timorese weavers entering modern markets?",
+      "choices": [
+        "It allows for the creation of more complex and marketable designs",
+        "It makes the weaving process faster",
+        "It reduces the cost of materials",
+        "It eliminates the need for traditional weaving skills"
+      ],
+      "answer": "It allows for the creation of more complex and marketable designs"
+    },
+    {
+      "question": "How can color theory be applied to create more appealing products for international markets?",
+      "choices": [
+        "By using color harmonies that appeal to diverse cultural preferences",
+        "By using only traditional Timorese color combinations",
+        "By avoiding bright colors in all designs",
+        "By using only black and white in modern designs"
+      ],
+      "answer": "By using color harmonies that appeal to diverse cultural preferences"
+    },
+    {
+      "question": "What is the purpose of studying traditional Timorese motifs in a modern weaving course?",
+      "choices": [
+        "To preserve cultural heritage while exploring innovation",
+        "To replicate traditional textiles without any changes",
+        "To phase out the use of traditional designs",
+        "To limit creativity in modern textile design"
+      ],
+      "answer": "To preserve cultural heritage while exploring innovation"
+    },
+    {
+      "question": "Which of the following best describes the relationship between warp and weft in creating fabric patterns?",
+      "choices": [
+        "Their interaction determines the final appearance of the fabric",
+        "Only the warp threads contribute to the pattern",
+        "The weft has no impact on the fabric's design",
+        "Warp and weft always create the same pattern regardless of their arrangement"
+      ],
+      "answer": "Their interaction determines the final appearance of the fabric"
+    }
+  ]
+}

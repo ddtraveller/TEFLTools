@@ -1,0 +1,295 @@
+{
+  "title": "Introduction to Beekeeping in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the two primary types of bees found in Timor-Leste?",
+      "choices": [
+        "Apis mellifera and Apis cerana",
+        "Apis cerana and Trigona spp.",
+        "Apis dorsata and Apis florea",
+        "Bombus spp. and Xylocopa spp."
+      ],
+      "answer": "Apis cerana and Trigona spp."
+    },
+    {
+      "question": "Which of the following is a characteristic of Apis cerana?",
+      "choices": [
+        "Larger than European honey bees",
+        "Unable to adapt to various climates",
+        "Known for its aggressive nature",
+        "Excellent foragers, flying up to 1-2 km from the hive"
+      ],
+      "answer": "Excellent foragers, flying up to 1-2 km from the hive"
+    },
+    {
+      "question": "What is a traditional honey harvesting method in Timor-Leste?",
+      "choices": [
+        "Using modern beekeeping suits",
+        "Climbing tall trees or cliffs to reach wild bee nests",
+        "Luring bees into artificial hives",
+        "Domesticating European honey bees"
+      ],
+      "answer": "Climbing tall trees or cliffs to reach wild bee nests"
+    },
+    {
+      "question": "Which crop, a major export of Timor-Leste, benefits significantly from bee pollination?",
+      "choices": [
+        "Rice",
+        "Wheat",
+        "Coffee",
+        "Sugarcane"
+      ],
+      "answer": "Coffee"
+    },
+    {
+      "question": "What is a characteristic of Trigona spp. (stingless bees) in Timor-Leste?",
+      "choices": [
+        "They produce more honey than Apis species",
+        "They are larger than Apis cerana",
+        "They build nests only in underground cavities",
+        "Their honey has distinct flavor and medicinal properties"
+      ],
+      "answer": "Their honey has distinct flavor and medicinal properties"
+    },
+    {
+      "question": "How has beekeeping in Timor-Leste evolved over time?",
+      "choices": [
+        "It has remained unchanged for centuries",
+        "It has shifted from modern techniques to traditional methods",
+        "It has transitioned from traditional honey hunting to more modern beekeeping practices",
+        "It has completely abandoned all traditional methods"
+      ],
+      "answer": "It has transitioned from traditional honey hunting to more modern beekeeping practices"
+    },
+    {
+      "question": "What material do Trigona spp. use to build their nests?",
+      "choices": [
+        "Only wax",
+        "A mixture of wax and plant resins (propolis)",
+        "Mud and leaves",
+        "Spider silk"
+      ],
+      "answer": "A mixture of wax and plant resins (propolis)"
+    },
+    {
+      "question": "Which of the following is NOT a challenge facing beekeeping in Timor-Leste?",
+      "choices": [
+        "Climate change impacts",
+        "Overabundance of modern beekeeping equipment",
+        "Deforestation",
+        "Lack of technical knowledge"
+      ],
+      "answer": "Overabundance of modern beekeeping equipment"
+    },
+    {
+      "question": "What is the term for plants that produce substances collected by bees to make honey?",
+      "choices": [
+        "Nectariferous plants",
+        "Melliferous plants",
+        "Apiferous plants",
+        "Polleniferous plants"
+      ],
+      "answer": "Melliferous plants"
+    },
+    {
+      "question": "Why is the introduction of European honeybees (Apis mellifera) considered unsuccessful in Timor-Leste?",
+      "choices": [
+        "They produced too much honey",
+        "They were too aggressive",
+        "They did not adapt well to the local climate and conditions",
+        "They outcompeted native species"
+      ],
+      "answer": "They did not adapt well to the local climate and conditions"
+    },
+    {
+      "question": "What is the primary economic benefit of beekeeping for rural communities in Timor-Leste?",
+      "choices": [
+        "Export of bees to other countries",
+        "Production of honey, beeswax, and other bee products",
+        "Selling beekeeping equipment",
+        "Ecotourism centered around beehives"
+      ],
+      "answer": "Production of honey, beeswax, and other bee products"
+    },
+    {
+      "question": "How does climate change affect beekeeping in Timor-Leste?",
+      "choices": [
+        "It has no impact on beekeeping",
+        "It only affects imported bee species",
+        "It alters flowering patterns and increases extreme weather events",
+        "It improves honey production"
+      ],
+      "answer": "It alters flowering patterns and increases extreme weather events"
+    },
+    {
+      "question": "What is the size range of Trigona spp. in Timor-Leste?",
+      "choices": [
+        "1-2mm",
+        "2-14mm",
+        "15-20mm",
+        "25-30mm"
+      ],
+      "answer": "2-14mm"
+    },
+    {
+      "question": "Which of the following is a characteristic of Apis cerana?",
+      "choices": [
+        "Inability to adapt to different climates",
+        "Aggressive behavior towards humans",
+        "Prone to absconding when disturbed",
+        "Preference for building nests in open areas"
+      ],
+      "answer": "Prone to absconding when disturbed"
+    },
+    {
+      "question": "What is the main difference between traditional honey hunting and modern beekeeping in Timor-Leste?",
+      "choices": [
+        "Traditional methods use more advanced technology",
+        "Modern beekeeping focuses on wild bee colonies",
+        "Traditional hunting often destroys the entire colony",
+        "Modern beekeeping produces less honey"
+      ],
+      "answer": "Traditional hunting often destroys the entire colony"
+    },
+    {
+      "question": "How do bees contribute to biodiversity in Timor-Leste?",
+      "choices": [
+        "By eating harmful insects",
+        "By pollinating native plant species",
+        "By producing oxygen",
+        "By controlling the population of other pollinators"
+      ],
+      "answer": "By pollinating native plant species"
+    },
+    {
+      "question": "What is a potential advantage of focusing on native bee species for beekeeping in Timor-Leste?",
+      "choices": [
+        "They produce more honey than non-native species",
+        "They require less management",
+        "They are better adapted to local pests and diseases",
+        "They can pollinate a wider range of non-native crops"
+      ],
+      "answer": "They are better adapted to local pests and diseases"
+    },
+    {
+      "question": "Which of the following is NOT a typical nesting location for Trigona spp.?",
+      "choices": [
+        "Tree hollows",
+        "Rock crevices",
+        "Underground cavities",
+        "Open tree branches"
+      ],
+      "answer": "Open tree branches"
+    },
+    {
+      "question": "What is the approximate size of Apis cerana compared to European honey bees?",
+      "choices": [
+        "Much larger",
+        "About the same size",
+        "Slightly larger",
+        "Smaller"
+      ],
+      "answer": "Smaller"
+    },
+    {
+      "question": "Which of the following initiatives is NOT mentioned as being underway in Timor-Leste to support beekeeping?",
+      "choices": [
+        "Training programs for local beekeepers",
+        "Integrating beekeeping into agroforestry systems",
+        "Creating bee-friendly landscapes using native plants",
+        "Introducing non-native bee species"
+      ],
+      "answer": "Introducing non-native bee species"
+    },
+    {
+      "question": "What is the primary method used to calm bees during traditional honey hunting in Timor-Leste?",
+      "choices": [
+        "Using water spray",
+        "Playing calming music",
+        "Using smoke from burning specific plants",
+        "Offering sugar water"
+      ],
+      "answer": "Using smoke from burning specific plants"
+    },
+    {
+      "question": "How far can Apis cerana typically forage from their hive?",
+      "choices": [
+        "Up to 500 meters",
+        "1-2 kilometers",
+        "5-10 kilometers",
+        "More than 15 kilometers"
+      ],
+      "answer": "1-2 kilometers"
+    },
+    {
+      "question": "Which of the following best describes the current state of beekeeping in Timor-Leste?",
+      "choices": [
+        "Exclusively traditional honey hunting",
+        "Fully modernized industrial beekeeping",
+        "A mix of traditional honey hunting and modern beekeeping practices",
+        "Complete abandonment of beekeeping"
+      ],
+      "answer": "A mix of traditional honey hunting and modern beekeeping practices"
+    },
+    {
+      "question": "What is a key advantage of stingless bees (Trigona spp.) in crop pollination?",
+      "choices": [
+        "They can fly longer distances",
+        "They can pollinate crops with large flowers more effectively",
+        "They are active year-round regardless of weather",
+        "They can pollinate crops with small flowers effectively"
+      ],
+      "answer": "They can pollinate crops with small flowers effectively"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a product of beekeeping in Timor-Leste?",
+      "choices": [
+        "Honey",
+        "Beeswax",
+        "Royal jelly",
+        "Propolis"
+      ],
+      "answer": "Royal jelly"
+    },
+    {
+      "question": "What is the main challenge in transitioning from traditional honey hunting to modern beekeeping in rural areas of Timor-Leste?",
+      "choices": [
+        "Resistance from local communities",
+        "Lack of suitable bee species",
+        "Limited availability of education and resources",
+        "Government regulations against modern beekeeping"
+      ],
+      "answer": "Limited availability of education and resources"
+    },
+    {
+      "question": "How does beekeeping contribute to sustainable development in Timor-Leste?",
+      "choices": [
+        "By replacing traditional agriculture",
+        "By providing a sustainable source of income for rural communities",
+        "By eliminating the need for crop pollination",
+        "By increasing the use of pesticides"
+      ],
+      "answer": "By providing a sustainable source of income for rural communities"
+    },
+    {
+      "question": "What is the significance of integrating beekeeping into agroforestry systems in Timor-Leste?",
+      "choices": [
+        "It reduces the need for crop rotation",
+        "It eliminates the need for chemical fertilizers",
+        "It enhances biodiversity and provides multiple benefits to farmers",
+        "It simplifies farm management"
+      ],
+      "answer": "It enhances biodiversity and provides multiple benefits to farmers"
+    },
+    {
+      "question": "Which of the following is a characteristic of Timorese honey?",
+      "choices": [
+        "It is always clear and colorless",
+        "It has unique flavors influenced by diverse local flora",
+        "It is identical to European honey",
+        "It cannot be stored for long periods"
+      ],
+      "answer": "It has unique flavors influenced by diverse local flora"
+    }
+  ]
+}

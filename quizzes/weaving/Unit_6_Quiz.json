@@ -1,0 +1,295 @@
+{
+  "title": "Introduction to Floor Looms",
+  "questions": [
+    {
+      "question": "What is the main advantage of floor looms over traditional handheld looms?",
+      "choices": [
+        "They are more portable",
+        "They allow for greater efficiency in creating complex and large-scale fabrics",
+        "They require less skill to operate",
+        "They use less yarn"
+      ],
+      "answer": "They allow for greater efficiency in creating complex and large-scale fabrics"
+    },
+    {
+      "question": "Which part of the floor loom holds the warp threads?",
+      "choices": [
+        "Cloth beam",
+        "Heddles",
+        "Warp beam",
+        "Reed"
+      ],
+      "answer": "Warp beam"
+    },
+    {
+      "question": "What is the function of heddles in a floor loom?",
+      "choices": [
+        "To hold the weft threads",
+        "To create tension in the fabric",
+        "To hold and control individual warp threads",
+        "To beat the weft into place"
+      ],
+      "answer": "To hold and control individual warp threads"
+    },
+    {
+      "question": "What is the purpose of harnesses on a floor loom?",
+      "choices": [
+        "To hold the heddles",
+        "To wind the finished fabric",
+        "To carry the weft thread",
+        "To space the warp threads"
+      ],
+      "answer": "To hold the heddles"
+    },
+    {
+      "question": "How do weavers control the harnesses on a floor loom?",
+      "choices": [
+        "By hand",
+        "With a computer",
+        "Using treadles",
+        "With a crank"
+      ],
+      "answer": "Using treadles"
+    },
+    {
+      "question": "What is the purpose of the reed in a floor loom?",
+      "choices": [
+        "To create the shed",
+        "To hold the warp beam",
+        "To space warp threads and beat weft into place",
+        "To control the tension of the fabric"
+      ],
+      "answer": "To space warp threads and beat weft into place"
+    },
+    {
+      "question": "What tool is used to carry the weft thread through the shed?",
+      "choices": [
+        "Heddle",
+        "Shuttle",
+        "Treadle",
+        "Beater"
+      ],
+      "answer": "Shuttle"
+    },
+    {
+      "question": "What is the 'shed' in weaving?",
+      "choices": [
+        "The space where the loom is stored",
+        "The opening between raised and lowered warp threads",
+        "The cover for the loom when not in use",
+        "The area where yarn is stored"
+      ],
+      "answer": "The opening between raised and lowered warp threads"
+    },
+    {
+      "question": "Which type of floor loom uses a system of rising shafts?",
+      "choices": [
+        "Counterbalance loom",
+        "Countermarch loom",
+        "Jack loom",
+        "Dobby loom"
+      ],
+      "answer": "Jack loom"
+    },
+    {
+      "question": "What principle does a counterbalance loom operate on?",
+      "choices": [
+        "Pulley system",
+        "See-saw principle",
+        "Lever action",
+        "Gear mechanism"
+      ],
+      "answer": "See-saw principle"
+    },
+    {
+      "question": "Which type of floor loom offers the most versatility in harness control?",
+      "choices": [
+        "Jack loom",
+        "Counterbalance loom",
+        "Countermarch loom",
+        "Table loom"
+      ],
+      "answer": "Countermarch loom"
+    },
+    {
+      "question": "What is the process of preparing a floor loom for weaving called?",
+      "choices": [
+        "Warping",
+        "Threading",
+        "Dressing the loom",
+        "Beaming"
+      ],
+      "answer": "Dressing the loom"
+    },
+    {
+      "question": "What is the first step in dressing a loom?",
+      "choices": [
+        "Threading the heddles",
+        "Measuring the warp threads",
+        "Sleying the reed",
+        "Tying onto the cloth beam"
+      ],
+      "answer": "Measuring the warp threads"
+    },
+    {
+      "question": "What is the process of passing warp threads through heddle eyes called?",
+      "choices": [
+        "Sleying",
+        "Threading",
+        "Beaming",
+        "Tensioning"
+      ],
+      "answer": "Threading"
+    },
+    {
+      "question": "What is the process of pulling warp threads through the reed called?",
+      "choices": [
+        "Threading",
+        "Beaming",
+        "Sleying",
+        "Denting"
+      ],
+      "answer": "Sleying"
+    },
+    {
+      "question": "What determines the complexity of patterns that can be woven on a floor loom?",
+      "choices": [
+        "The size of the loom",
+        "The type of yarn used",
+        "The number of harnesses",
+        "The speed of the weaver"
+      ],
+      "answer": "The number of harnesses"
+    },
+    {
+      "question": "What is the purpose of the cloth beam on a floor loom?",
+      "choices": [
+        "To hold the warp threads",
+        "To create tension in the fabric",
+        "To hold the finished woven fabric",
+        "To space the warp threads"
+      ],
+      "answer": "To hold the finished woven fabric"
+    },
+    {
+      "question": "Which part of the loom is used to beat the weft into place?",
+      "choices": [
+        "Shuttle",
+        "Heddle",
+        "Beater",
+        "Treadle"
+      ],
+      "answer": "Beater"
+    },
+    {
+      "question": "What is the function of the breast beam on a floor loom?",
+      "choices": [
+        "To hold the warp threads",
+        "To support the fabric as it's woven",
+        "To create tension in the warp",
+        "To hold the heddles"
+      ],
+      "answer": "To support the fabric as it's woven"
+    },
+    {
+      "question": "What is the purpose of creating a lease (cross) when measuring the warp?",
+      "choices": [
+        "To add strength to the warp",
+        "To create a decorative pattern",
+        "To maintain thread order",
+        "To increase weaving speed"
+      ],
+      "answer": "To maintain thread order"
+    },
+    {
+      "question": "What is the purpose of tying up treadles?",
+      "choices": [
+        "To secure the loom to the floor",
+        "To connect treadles to harnesses according to the weave pattern",
+        "To adjust the tension of the warp",
+        "To prepare the shuttle for weaving"
+      ],
+      "answer": "To connect treadles to harnesses according to the weave pattern"
+    },
+    {
+      "question": "What is the typical number of harnesses on a basic floor loom?",
+      "choices": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "What is the main difference between industrial looms and smaller floor looms?",
+      "choices": [
+        "Industrial looms are always computerized",
+        "Industrial looms can only weave plain weave",
+        "Industrial looms are capable of producing vast quantities of fabric",
+        "Industrial looms use a different weaving technique"
+      ],
+      "answer": "Industrial looms are capable of producing vast quantities of fabric"
+    },
+    {
+      "question": "What is the primary advantage of a countermarch loom?",
+      "choices": [
+        "It's easier to warp",
+        "It creates a cleaner shed",
+        "It allows each harness to be independently raised or lowered",
+        "It's more suitable for beginners"
+      ],
+      "answer": "It allows each harness to be independently raised or lowered"
+    },
+    {
+      "question": "What is the main disadvantage of a counterbalance loom?",
+      "choices": [
+        "It's more expensive",
+        "It's limited to an even number of harnesses",
+        "It's harder to maintain",
+        "It can only weave simple patterns"
+      ],
+      "answer": "It's limited to an even number of harnesses"
+    },
+    {
+      "question": "What is the purpose of the castle on a floor loom?",
+      "choices": [
+        "To hold the cloth beam",
+        "To support the harnesses",
+        "To create tension in the warp",
+        "To hold the shuttle"
+      ],
+      "answer": "To support the harnesses"
+    },
+    {
+      "question": "What is the main advantage of a jack loom?",
+      "choices": [
+        "It's the most versatile type",
+        "It's the easiest to understand and use",
+        "It creates the cleanest shed",
+        "It's the most compact"
+      ],
+      "answer": "It's the easiest to understand and use"
+    },
+    {
+      "question": "What is the main challenge when transitioning from a backstrap loom to a floor loom?",
+      "choices": [
+        "Learning to use treadles",
+        "Understanding the warping process",
+        "Adapting to a fixed weaving width",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary function of the brake on a floor loom?",
+      "choices": [
+        "To stop the shuttle",
+        "To control the speed of weaving",
+        "To maintain warp tension",
+        "To adjust the height of the loom"
+      ],
+      "answer": "To maintain warp tension"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Disease Prevention and Control in Aquaculture",
+  "questions": [
+    {
+      "question": "What is the primary goal of biosecurity in aquaculture?",
+      "choices": [
+        "To increase fish production",
+        "To reduce the risk of disease transmission",
+        "To improve water quality",
+        "To enhance fish growth rates"
+      ],
+      "answer": "To reduce the risk of disease transmission"
+    },
+    {
+      "question": "Which of the following is NOT a common type of pathogen in aquaculture?",
+      "choices": [
+        "Viral",
+        "Bacterial",
+        "Parasitic",
+        "Fungal"
+      ],
+      "answer": "Fungal"
+    },
+    {
+      "question": "What is the causative agent of Infectious Salmon Anemia (ISA)?",
+      "choices": [
+        "Bacteria",
+        "Virus",
+        "Parasite",
+        "Fungus"
+      ],
+      "answer": "Virus"
+    },
+    {
+      "question": "Which of the following is a symptom of Viral Nervous Necrosis (VNN)?",
+      "choices": [
+        "Abnormal swimming behavior",
+        "Increased appetite",
+        "Fin rot",
+        "Excessive mucus production"
+      ],
+      "answer": "Abnormal swimming behavior"
+    },
+    {
+      "question": "What is the primary host for sea lice in aquaculture?",
+      "choices": [
+        "Tilapia",
+        "Salmon",
+        "Shrimp",
+        "Catfish"
+      ],
+      "answer": "Salmon"
+    },
+    {
+      "question": "Which disease is caused by the protozoan parasite Ichthyophthirius multifiliis?",
+      "choices": [
+        "Furunculosis",
+        "Vibriosis",
+        "White Spot Disease",
+        "Sea Lice infestation"
+      ],
+      "answer": "White Spot Disease"
+    },
+    {
+      "question": "What is the main purpose of quarantine procedures in aquaculture?",
+      "choices": [
+        "To increase fish growth rates",
+        "To improve water quality",
+        "To prevent the introduction of diseases",
+        "To reduce feed costs"
+      ],
+      "answer": "To prevent the introduction of diseases"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of a biosecurity plan?",
+      "choices": [
+        "Access control",
+        "Sanitation protocols",
+        "Marketing strategies",
+        "Waste management"
+      ],
+      "answer": "Marketing strategies"
+    },
+    {
+      "question": "What is the primary role of government in aquaculture disease control?",
+      "choices": [
+        "Selling fish products",
+        "Providing daily farm labor",
+        "Establishing and enforcing regulations",
+        "Designing farm layouts"
+      ],
+      "answer": "Establishing and enforcing regulations"
+    },
+    {
+      "question": "Which of the following is an example of a coordinated disease control strategy?",
+      "choices": [
+        "Individual farmers keeping disease outbreaks secret",
+        "Using antibiotics without prescription",
+        "Information sharing between farms and regions",
+        "Ignoring government regulations"
+      ],
+      "answer": "Information sharing between farms and regions"
+    },
+    {
+      "question": "What is the estimated economic loss from the ISA outbreak in Chile between 2007-2009?",
+      "choices": [
+        "$500 million",
+        "$1 billion",
+        "$2 billion",
+        "$5 billion"
+      ],
+      "answer": "$2 billion"
+    },
+    {
+      "question": "Which of the following is NOT a typical symptom of bacterial diseases in fish?",
+      "choices": [
+        "Skin ulcers",
+        "Loss of appetite",
+        "Internal hemorrhaging",
+        "Increased growth rate"
+      ],
+      "answer": "Increased growth rate"
+    },
+    {
+      "question": "What type of pathogen causes Vibriosis in aquaculture?",
+      "choices": [
+        "Virus",
+        "Bacteria",
+        "Parasite",
+        "Fungus"
+      ],
+      "answer": "Bacteria"
+    },
+    {
+      "question": "Which of the following is a key component of early detection systems in aquaculture?",
+      "choices": [
+        "Annual fish counting",
+        "Regular health monitoring",
+        "Increased feeding rates",
+        "Reduced water exchange"
+      ],
+      "answer": "Regular health monitoring"
+    },
+    {
+      "question": "What is the primary purpose of foot baths in aquaculture facilities?",
+      "choices": [
+        "To keep feet clean",
+        "To prevent slipping",
+        "To disinfect footwear",
+        "To measure water quality"
+      ],
+      "answer": "To disinfect footwear"
+    },
+    {
+      "question": "Which of the following is NOT a typical method for treating water in aquaculture systems?",
+      "choices": [
+        "UV sterilization",
+        "Ozonation",
+        "Filtration",
+        "Acidification"
+      ],
+      "answer": "Acidification"
+    },
+    {
+      "question": "What is the main purpose of vaccination programs in aquaculture?",
+      "choices": [
+        "To increase fish size",
+        "To improve water quality",
+        "To prevent specific diseases",
+        "To reduce feed costs"
+      ],
+      "answer": "To prevent specific diseases"
+    },
+    {
+      "question": "Which of the following is an example of a stress reduction strategy in aquaculture?",
+      "choices": [
+        "Overcrowding fish",
+        "Maintaining optimal water quality",
+        "Frequent handling of fish",
+        "Irregular feeding schedules"
+      ],
+      "answer": "Maintaining optimal water quality"
+    },
+    {
+      "question": "What is the primary role of rapid diagnostic techniques like PCR in disease control?",
+      "choices": [
+        "To increase fish production",
+        "To improve water quality",
+        "To quickly identify pathogens",
+        "To reduce feed costs"
+      ],
+      "answer": "To quickly identify pathogens"
+    },
+    {
+      "question": "Which of the following is NOT typically part of a government's role in aquaculture disease control?",
+      "choices": [
+        "Establishing regulations",
+        "Providing disease surveillance",
+        "Coordinating emergency responses",
+        "Daily farm management"
+      ],
+      "answer": "Daily farm management"
+    },
+    {
+      "question": "What is the main purpose of proper dead fish disposal in aquaculture?",
+      "choices": [
+        "To improve aesthetics",
+        "To prevent disease spread",
+        "To increase feed efficiency",
+        "To attract predators"
+      ],
+      "answer": "To prevent disease spread"
+    },
+    {
+      "question": "Which of the following is an example of a collaborative approach to disease management?",
+      "choices": [
+        "Keeping farm data confidential",
+        "Avoiding communication with neighboring farms",
+        "Sharing best practices between producers",
+        "Ignoring government guidelines"
+      ],
+      "answer": "Sharing best practices between producers"
+    },
+    {
+      "question": "What is the primary purpose of stock health monitoring in aquaculture?",
+      "choices": [
+        "To increase fish size",
+        "To improve water quality",
+        "To detect diseases early",
+        "To reduce feed costs"
+      ],
+      "answer": "To detect diseases early"
+    },
+    {
+      "question": "Which of the following is NOT typically a part of personal protective equipment (PPE) in aquaculture?",
+      "choices": [
+        "Disposable gloves",
+        "Waterproof boots",
+        "Face masks",
+        "Scuba gear"
+      ],
+      "answer": "Scuba gear"
+    },
+    {
+      "question": "What is the main purpose of implementing movement restrictions during a disease outbreak?",
+      "choices": [
+        "To increase fish production",
+        "To improve water quality",
+        "To prevent disease spread",
+        "To reduce feed costs"
+      ],
+      "answer": "To prevent disease spread"
+    },
+    {
+      "question": "Which of the following is an example of a rapid diagnostic technique used in aquaculture?",
+      "choices": [
+        "Visual inspection",
+        "Water quality testing",
+        "PCR (Polymerase Chain Reaction)",
+        "Fish weighing"
+      ],
+      "answer": "PCR (Polymerase Chain Reaction)"
+    },
+    {
+      "question": "What is the primary purpose of isolation tanks in aquaculture facilities?",
+      "choices": [
+        "To increase fish production",
+        "To quarantine new or sick fish",
+        "To improve water quality",
+        "To reduce feed costs"
+      ],
+      "answer": "To quarantine new or sick fish"
+    },
+    {
+      "question": "Which of the following is NOT a typical role of the aquaculture industry in disease control?",
+      "choices": [
+        "Implementing biosecurity measures",
+        "Participating in voluntary disease control programs",
+        "Investing in research and development",
+        "Setting national regulations"
+      ],
+      "answer": "Setting national regulations"
+    },
+    {
+      "question": "What is the main purpose of regular record-keeping in aquaculture health management?",
+      "choices": [
+        "To increase fish production",
+        "To track disease patterns and treatments",
+        "To improve water quality",
+        "To reduce feed costs"
+      ],
+      "answer": "To track disease patterns and treatments"
+    },
+    {
+      "question": "Which of the following is an example of a preventive measure against disease in aquaculture?",
+      "choices": [
+        "Overcrowding fish tanks",
+        "Using untreated water",
+        "Regular vaccination programs",
+        "Minimizing water quality checks"
+      ],
+      "answer": "Regular vaccination programs"
+    }
+  ]
+}

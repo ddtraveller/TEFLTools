@@ -1,0 +1,305 @@
+{
+  "title": "Spatial Planning for Aquaculture",
+  "questions": [
+    {
+      "question": "What is the primary purpose of spatial planning in aquaculture?",
+      "choices": [
+        "To increase fish production",
+        "To organize the use of spaces and manage interactions",
+        "To reduce labor costs",
+        "To improve fish genetics"
+      ],
+      "answer": "To organize the use of spaces and manage interactions"
+    },
+    {
+      "question": "Which of the following is NOT a key benefit of spatial planning in aquaculture?",
+      "choices": [
+        "Sustainable resource use",
+        "Conflict prevention",
+        "Optimizing production",
+        "Increasing fish species diversity"
+      ],
+      "answer": "Increasing fish species diversity"
+    },
+    {
+      "question": "What tool is commonly used for creating detailed maps in aquaculture spatial planning?",
+      "choices": [
+        "Microsoft Excel",
+        "Google Maps",
+        "Geographic Information Systems (GIS)",
+        "AutoCAD"
+      ],
+      "answer": "Geographic Information Systems (GIS)"
+    },
+    {
+      "question": "Which of the following is a component of national-level scoping for aquaculture development?",
+      "choices": [
+        "Designing fish ponds",
+        "Resource mapping",
+        "Setting fish prices",
+        "Breeding new fish species"
+      ],
+      "answer": "Resource mapping"
+    },
+    {
+      "question": "What is zoning in the context of aquaculture spatial planning?",
+      "choices": [
+        "Dividing fish into different tanks",
+        "Separating male and female fish",
+        "Dividing land into sections for different uses",
+        "Creating temperature zones in water bodies"
+      ],
+      "answer": "Dividing land into sections for different uses"
+    },
+    {
+      "question": "Which of the following is NOT typically considered in site selection criteria for aquaculture farms?",
+      "choices": [
+        "Water quality parameters",
+        "Environmental considerations",
+        "Socio-economic factors",
+        "Fish species popularity"
+      ],
+      "answer": "Fish species popularity"
+    },
+    {
+      "question": "What is carrying capacity in the context of aquaculture?",
+      "choices": [
+        "The maximum weight of fish a truck can transport",
+        "The maximum population size that an environment can sustain indefinitely",
+        "The maximum number of workers a farm can employ",
+        "The maximum number of fish species that can be cultured together"
+      ],
+      "answer": "The maximum population size that an environment can sustain indefinitely"
+    },
+    {
+      "question": "Which of the following is an example of a water quality parameter important for aquaculture site selection?",
+      "choices": [
+        "Soil type",
+        "Wind speed",
+        "Dissolved oxygen",
+        "Altitude"
+      ],
+      "answer": "Dissolved oxygen"
+    },
+    {
+      "question": "What is stakeholder engagement in spatial planning for aquaculture?",
+      "choices": [
+        "Hiring employees for aquaculture farms",
+        "Involving relevant parties in planning and decision-making",
+        "Engaging fish in breeding programs",
+        "Marketing aquaculture products to consumers"
+      ],
+      "answer": "Involving relevant parties in planning and decision-making"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a multi-use zoning concept for aquaculture?",
+      "choices": [
+        "Exclusive aquaculture zones",
+        "Aquaculture priority areas",
+        "Integrated use zones",
+        "Fish-free zones"
+      ],
+      "answer": "Fish-free zones"
+    },
+    {
+      "question": "What is an environmental impact assessment in the context of aquaculture planning?",
+      "choices": [
+        "Measuring the growth rate of fish",
+        "Evaluating the potential environmental effects of a proposed project",
+        "Assessing the nutritional value of fish feed",
+        "Calculating the profitability of an aquaculture farm"
+      ],
+      "answer": "Evaluating the potential environmental effects of a proposed project"
+    },
+    {
+      "question": "Which of the following is an example of infrastructure considered in aquaculture spatial planning?",
+      "choices": [
+        "Fish markets",
+        "Schools",
+        "Hospitals",
+        "Shopping malls"
+      ],
+      "answer": "Fish markets"
+    },
+    {
+      "question": "What is the purpose of integrating aquaculture with other coastal activities in spatial planning?",
+      "choices": [
+        "To increase competition between sectors",
+        "To reduce the overall coastal area used",
+        "To promote synergies and reduce conflicts",
+        "To simplify management processes"
+      ],
+      "answer": "To promote synergies and reduce conflicts"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a sensitive habitat in aquaculture spatial planning?",
+      "choices": [
+        "Mangroves",
+        "Seagrass beds",
+        "Coral reefs",
+        "Open ocean"
+      ],
+      "answer": "Open ocean"
+    },
+    {
+      "question": "What role does remote sensing play in aquaculture spatial planning?",
+      "choices": [
+        "Monitoring fish behavior",
+        "Providing data on land and water resources",
+        "Controlling water temperature",
+        "Managing fish feeding schedules"
+      ],
+      "answer": "Providing data on land and water resources"
+    },
+    {
+      "question": "Which of the following is a socio-economic factor considered in aquaculture site selection?",
+      "choices": [
+        "Water salinity",
+        "Fish species",
+        "Local community acceptance",
+        "Pond depth"
+      ],
+      "answer": "Local community acceptance"
+    },
+    {
+      "question": "What is the primary purpose of creating GIS maps in aquaculture spatial planning?",
+      "choices": [
+        "To make colorful presentations",
+        "To visualize complex spatial relationships",
+        "To replace traditional paper maps",
+        "To increase computer usage in planning"
+      ],
+      "answer": "To visualize complex spatial relationships"
+    },
+    {
+      "question": "Which of the following is NOT typically a step in the zoning process for aquaculture?",
+      "choices": [
+        "Identify stakeholders",
+        "Collect and analyze data",
+        "Develop zoning options",
+        "Determine fish prices"
+      ],
+      "answer": "Determine fish prices"
+    },
+    {
+      "question": "What is the purpose of assessing carrying capacity in aquaculture spatial planning?",
+      "choices": [
+        "To determine the maximum weight of fish that can be harvested",
+        "To ensure sustainable use of resources",
+        "To calculate the number of workers needed",
+        "To set fish production quotas"
+      ],
+      "answer": "To ensure sustainable use of resources"
+    },
+    {
+      "question": "Which of the following is an example of a potential conflict that spatial planning aims to prevent in aquaculture development?",
+      "choices": [
+        "Competition between fish species",
+        "Disagreements among farm workers",
+        "Conflicts with traditional fishing grounds",
+        "Disputes over fish feed suppliers"
+      ],
+      "answer": "Conflicts with traditional fishing grounds"
+    },
+    {
+      "question": "What role does climate data play in national-level scoping for aquaculture?",
+      "choices": [
+        "Determining the best fish species to culture",
+        "Identifying potential areas for aquaculture development",
+        "Setting production targets",
+        "Establishing export quotas"
+      ],
+      "answer": "Identifying potential areas for aquaculture development"
+    },
+    {
+      "question": "Which of the following is NOT typically considered when assessing infrastructure needs for aquaculture development?",
+      "choices": [
+        "Transportation networks",
+        "Electricity supply",
+        "Processing facilities",
+        "Entertainment venues"
+      ],
+      "answer": "Entertainment venues"
+    },
+    {
+      "question": "What is the purpose of stakeholder consultation in the zoning process for aquaculture?",
+      "choices": [
+        "To increase bureaucracy in planning",
+        "To delay development projects",
+        "To ensure all relevant perspectives are considered",
+        "To reduce government responsibility"
+      ],
+      "answer": "To ensure all relevant perspectives are considered"
+    },
+    {
+      "question": "Which of the following is an example of how spatial planning can optimize aquaculture production?",
+      "choices": [
+        "By increasing fish feed quality",
+        "By improving fish genetics",
+        "By strategically placing farms in areas with optimal conditions",
+        "By increasing the number of workers"
+      ],
+      "answer": "By strategically placing farms in areas with optimal conditions"
+    },
+    {
+      "question": "What is the primary purpose of assessing water exchange and currents in site selection for aquaculture?",
+      "choices": [
+        "To determine the speed of fish growth",
+        "To ensure adequate water quality and waste dispersion",
+        "To calculate the amount of feed needed",
+        "To predict fish migration patterns"
+      ],
+      "answer": "To ensure adequate water quality and waste dispersion"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of a spatial plan for aquaculture development?",
+      "choices": [
+        "Zoning map",
+        "Site selection report",
+        "Stakeholder engagement plan",
+        "Fish breeding manual"
+      ],
+      "answer": "Fish breeding manual"
+    },
+    {
+      "question": "What is the purpose of integrating national statistics and databases in aquaculture spatial planning?",
+      "choices": [
+        "To complicate the planning process",
+        "To provide comprehensive data for informed decision-making",
+        "To increase government control over aquaculture",
+        "To reduce the need for field surveys"
+      ],
+      "answer": "To provide comprehensive data for informed decision-making"
+    },
+    {
+      "question": "Which of the following is a potential challenge in implementing spatial planning for aquaculture in developing countries?",
+      "choices": [
+        "Excess of trained personnel",
+        "Too much available data",
+        "Lack of financial resources",
+        "Overabundance of technology"
+      ],
+      "answer": "Lack of financial resources"
+    },
+    {
+      "question": "What role does market access play in site selection for aquaculture farms?",
+      "choices": [
+        "It determines the types of fish to be cultured",
+        "It influences the economic viability of the farm",
+        "It dictates the size of the farm",
+        "It determines the water quality requirements"
+      ],
+      "answer": "It influences the economic viability of the farm"
+    },
+    {
+      "question": "Which of the following is NOT a typical objective of spatial planning for aquaculture?",
+      "choices": [
+        "Ensuring sustainable resource use",
+        "Preventing conflicts with other activities",
+        "Optimizing production",
+        "Maximizing short-term profits at any cost"
+      ],
+      "answer": "Maximizing short-term profits at any cost"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Pest and Disease Management in Beekeeping",
+  "questions": [
+    {
+      "question": "Which of the following is considered the most notorious pest in beekeeping?",
+      "choices": [
+        "Small hive beetle",
+        "Varroa mite",
+        "Wax moth",
+        "Nosema"
+      ],
+      "answer": "Varroa mite"
+    },
+    {
+      "question": "What is the scientific name of the Varroa mite?",
+      "choices": [
+        "Varroa jacobsoni",
+        "Varroa destructor",
+        "Varroa apis",
+        "Varroa mellifera"
+      ],
+      "answer": "Varroa destructor"
+    },
+    {
+      "question": "Which of the following is NOT a common impact of Varroa mites on bee colonies?",
+      "choices": [
+        "Weakens bees",
+        "Shortens bee lifespan",
+        "Vectors for viruses",
+        "Increases honey production"
+      ],
+      "answer": "Increases honey production"
+    },
+    {
+      "question": "What is the scientific name of the small hive beetle?",
+      "choices": [
+        "Aethina tumida",
+        "Galleria mellonella",
+        "Apis mellifera",
+        "Vespa velutina"
+      ],
+      "answer": "Aethina tumida"
+    },
+    {
+      "question": "Where do small hive beetle larvae typically pupate?",
+      "choices": [
+        "Inside the hive",
+        "On tree branches",
+        "In soil outside the hive",
+        "In nearby water sources"
+      ],
+      "answer": "In soil outside the hive"
+    },
+    {
+      "question": "Which of the following is a common impact of wax moths on bee colonies?",
+      "choices": [
+        "Increase honey production",
+        "Strengthen hive structure",
+        "Destroy combs",
+        "Improve brood health"
+      ],
+      "answer": "Destroy combs"
+    },
+    {
+      "question": "What is the common name for Galleria mellonella?",
+      "choices": [
+        "Small hive beetle",
+        "Varroa mite",
+        "Greater wax moth",
+        "Lesser wax moth"
+      ],
+      "answer": "Greater wax moth"
+    },
+    {
+      "question": "Which disease is caused by the fungus Ascosphaera apis?",
+      "choices": [
+        "American foulbrood",
+        "European foulbrood",
+        "Nosema",
+        "Chalkbrood"
+      ],
+      "answer": "Chalkbrood"
+    },
+    {
+      "question": "What is a common symptom of Nosema in adult bees?",
+      "choices": [
+        "Increased honey production",
+        "Dysentery",
+        "Improved flight ability",
+        "Enhanced longevity"
+      ],
+      "answer": "Dysentery"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for preventing Nosema?",
+      "choices": [
+        "Good hive hygiene",
+        "Avoiding moisture build-up in hives",
+        "Increasing hive density",
+        "Ensuring proper ventilation"
+      ],
+      "answer": "Increasing hive density"
+    },
+    {
+      "question": "What is the primary ingredient in a natural treatment effective against varroa mites?",
+      "choices": [
+        "Coffee grounds",
+        "Tobacco leaves",
+        "Citrus peels",
+        "Garlic cloves"
+      ],
+      "answer": "Tobacco leaves"
+    },
+    {
+      "question": "Which plant-based oil is commonly used as a pest repellent in beekeeping?",
+      "choices": [
+        "Olive oil",
+        "Coconut oil",
+        "Neem oil",
+        "Sunflower oil"
+      ],
+      "answer": "Neem oil"
+    },
+    {
+      "question": "What is the recommended frequency for hive inspections to check for pests and diseases?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Every 2-3 weeks",
+        "Monthly"
+      ],
+      "answer": "Every 2-3 weeks"
+    },
+    {
+      "question": "Which of the following is NOT a cultural control method for pest management?",
+      "choices": [
+        "Using locally adapted top-bar hives",
+        "Ensuring proper ventilation",
+        "Keeping hives on the ground",
+        "Regular inspections"
+      ],
+      "answer": "Keeping hives on the ground"
+    },
+    {
+      "question": "What is the primary purpose of using trap crops in beekeeping?",
+      "choices": [
+        "To increase honey production",
+        "To attract beneficial insects",
+        "To divert pests away from hives",
+        "To provide additional nutrition for bees"
+      ],
+      "answer": "To divert pests away from hives"
+    },
+    {
+      "question": "Which plant is mentioned as a trap crop for wax moths?",
+      "choices": [
+        "Sunflower",
+        "Lavender",
+        "Castor bean",
+        "Marigold"
+      ],
+      "answer": "Castor bean"
+    },
+    {
+      "question": "What does IPM stand for in the context of beekeeping?",
+      "choices": [
+        "Intensive Pest Management",
+        "Integrated Pest Management",
+        "Internal Parasite Monitoring",
+        "Insect Population Measurement"
+      ],
+      "answer": "Integrated Pest Management"
+    },
+    {
+      "question": "Which of the following is NOT a component of Integrated Pest Management in beekeeping?",
+      "choices": [
+        "Hive hygiene",
+        "Strong colony management",
+        "Regular monitoring",
+        "Exclusive use of chemical treatments"
+      ],
+      "answer": "Exclusive use of chemical treatments"
+    },
+    {
+      "question": "What is the primary advantage of using resistant bee strains?",
+      "choices": [
+        "Increased honey production",
+        "Natural resistance to certain pests",
+        "Improved pollination efficiency",
+        "Longer lifespan"
+      ],
+      "answer": "Natural resistance to certain pests"
+    },
+    {
+      "question": "Which of the following is a natural method for controlling Varroa mites?",
+      "choices": [
+        "Antibiotic treatment",
+        "Powdered sugar dusting",
+        "Increasing hive temperature",
+        "Adding more queen cells"
+      ],
+      "answer": "Powdered sugar dusting"
+    },
+    {
+      "question": "What property of essential oils like thymol makes them useful in pest management?",
+      "choices": [
+        "Nutritional value",
+        "Honey flavor enhancement",
+        "Pest and disease control properties",
+        "Improved bee navigation"
+      ],
+      "answer": "Pest and disease control properties"
+    },
+    {
+      "question": "Which local plant is mentioned as having both antifungal and insecticidal properties?",
+      "choices": [
+        "Tobacco",
+        "Neem",
+        "Lemongrass",
+        "Basil"
+      ],
+      "answer": "Neem"
+    },
+    {
+      "question": "What is the primary goal of maintaining strong colonies in pest management?",
+      "choices": [
+        "Increased honey production",
+        "Natural resistance to pests and diseases",
+        "Improved pollination",
+        "Easier hive inspections"
+      ],
+      "answer": "Natural resistance to pests and diseases"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for hive hygiene?",
+      "choices": [
+        "Regular cleaning",
+        "Proper hive maintenance",
+        "Leaving old combs in place",
+        "Removing debris from the bottom board"
+      ],
+      "answer": "Leaving old combs in place"
+    },
+    {
+      "question": "What is the purpose of using a screened bottom board in hives?",
+      "choices": [
+        "To increase honey production",
+        "To improve ventilation",
+        "To create less favorable conditions for pests",
+        "To make hive inspections easier"
+      ],
+      "answer": "To create less favorable conditions for pests"
+    },
+    {
+      "question": "Which of the following is a potential negative impact of chemical treatments in beekeeping?",
+      "choices": [
+        "Increased honey production",
+        "Improved bee health",
+        "Residues in honey and wax",
+        "Enhanced pest resistance in bees"
+      ],
+      "answer": "Residues in honey and wax"
+    },
+    {
+      "question": "What is the primary advantage of using local plants for pest management in beekeeping?",
+      "choices": [
+        "Higher effectiveness than chemical treatments",
+        "Availability and sustainability",
+        "Improved honey flavor",
+        "Increased bee population"
+      ],
+      "answer": "Availability and sustainability"
+    },
+    {
+      "question": "Which of the following is NOT a common sign of a healthy bee colony?",
+      "choices": [
+        "Presence of eggs and larvae",
+        "Even brood pattern",
+        "Adequate bee population",
+        "Presence of multiple queen cells"
+      ],
+      "answer": "Presence of multiple queen cells"
+    },
+    {
+      "question": "What is the recommended action when a weak colony is identified during inspection?",
+      "choices": [
+        "Immediately treat with chemicals",
+        "Remove the queen",
+        "Combine with a stronger colony",
+        "Increase feeding with sugar syrup"
+      ],
+      "answer": "Combine with a stronger colony"
+    },
+    {
+      "question": "Which of the following plants is NOT mentioned as useful for pest management in beekeeping?",
+      "choices": [
+        "Tobacco",
+        "Neem",
+        "Lemongrass",
+        "Eucalyptus"
+      ],
+      "answer": "Eucalyptus"
+    }
+  ]
+}

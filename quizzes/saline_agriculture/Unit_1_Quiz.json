@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Saline Agriculture",
+  "questions": [
+    {
+      "question": "What is the primary cause of soil salinity in coastal areas of Timor-Leste?",
+      "choices": [
+        "Excessive use of fertilizers",
+        "Saltwater intrusion",
+        "Overgrazing",
+        "Industrial pollution"
+      ],
+      "answer": "Saltwater intrusion"
+    },
+    {
+      "question": "Which of the following is NOT a principle of saline agriculture?",
+      "choices": [
+        "Using salt-tolerant crops",
+        "Adapting to salinity rather than eliminating it",
+        "Focusing on freshwater irrigation",
+        "Modifying farming practices"
+      ],
+      "answer": "Focusing on freshwater irrigation"
+    },
+    {
+      "question": "What percentage of coastal agricultural land in Timor-Leste is estimated to be affected by salinity?",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "Which of the following is a benefit of saline agriculture?",
+      "choices": [
+        "Increased use of freshwater resources",
+        "Reduced crop diversity",
+        "Improved food security",
+        "Higher pesticide requirements"
+      ],
+      "answer": "Improved food security"
+    },
+    {
+      "question": "What is the term for plants that can thrive in saline conditions?",
+      "choices": [
+        "Xerophytes",
+        "Hydrophytes",
+        "Halophytes",
+        "Mesophytes"
+      ],
+      "answer": "Halophytes"
+    },
+    {
+      "question": "Which soil management technique involves washing away excess salts from the root zone?",
+      "choices": [
+        "Mulching",
+        "Leaching",
+        "Composting",
+        "Terracing"
+      ],
+      "answer": "Leaching"
+    },
+    {
+      "question": "What type of irrigation system is often used in saline agriculture to minimize salt accumulation?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a salt-tolerant crop in the module?",
+      "choices": [
+        "Quinoa",
+        "Barley",
+        "Date palms",
+        "Wheat"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What environmental benefit does saline agriculture offer?",
+      "choices": [
+        "Increased biodiversity",
+        "Reduced pressure on freshwater resources",
+        "Elimination of pests",
+        "Increased soil erosion"
+      ],
+      "answer": "Reduced pressure on freshwater resources"
+    },
+    {
+      "question": "Which of the following districts in Timor-Leste is NOT mentioned as being most affected by soil salinity?",
+      "choices": [
+        "Manatuto",
+        "Manufahi",
+        "Cova Lima",
+        "Dili"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question": "What is the primary tool used to measure soil salinity in the practical activity?",
+      "choices": [
+        "pH meter",
+        "Thermometer",
+        "Electrical conductivity (EC) meter",
+        "Hygrometer"
+      ],
+      "answer": "Electrical conductivity (EC) meter"
+    },
+    {
+      "question": "Which of the following is a challenge faced by traditional agriculture in saline conditions?",
+      "choices": [
+        "Increased crop yields",
+        "Improved soil structure",
+        "Reduced farm income",
+        "Enhanced nutrient uptake"
+      ],
+      "answer": "Reduced farm income"
+    },
+    {
+      "question": "What is the recommended approach to dealing with salinity in saline agriculture?",
+      "choices": [
+        "Eliminating all salt from the soil",
+        "Avoiding saline areas entirely",
+        "Adapting to salinity as a given condition",
+        "Using only traditional crop varieties"
+      ],
+      "answer": "Adapting to salinity as a given condition"
+    },
+    {
+      "question": "Which country is mentioned as an example of successful biosaline forestry?",
+      "choices": [
+        "India",
+        "Australia",
+        "Pakistan",
+        "Brazil"
+      ],
+      "answer": "Pakistan"
+    },
+    {
+      "question": "What is the potential economic opportunity mentioned for salt-tolerant crops like salicornia?",
+      "choices": [
+        "Biofuel production",
+        "Textile manufacturing",
+        "Export markets",
+        "Livestock feed"
+      ],
+      "answer": "Export markets"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a cause of soil salinity in Timor-Leste?",
+      "choices": [
+        "Coastal location",
+        "High evaporation rates",
+        "Poor irrigation practices",
+        "Volcanic activity"
+      ],
+      "answer": "Volcanic activity"
+    },
+    {
+      "question": "What is the primary goal of raised bed farming in saline agriculture?",
+      "choices": [
+        "To increase crop height",
+        "To improve soil aeration",
+        "To manage water and salt levels more effectively",
+        "To reduce labor requirements"
+      ],
+      "answer": "To manage water and salt levels more effectively"
+    },
+    {
+      "question": "Which of the following is a potential benefit of saline agriculture for Timor-Leste?",
+      "choices": [
+        "Increased reliance on food imports",
+        "Reduced agricultural biodiversity",
+        "Enhanced food security in coastal areas",
+        "Higher water consumption in agriculture"
+      ],
+      "answer": "Enhanced food security in coastal areas"
+    },
+    {
+      "question": "What role does organic matter play in managing saline soils?",
+      "choices": [
+        "It increases soil salinity",
+        "It improves soil structure and water retention",
+        "It eliminates the need for irrigation",
+        "It reduces crop nutrient uptake"
+      ],
+      "answer": "It improves soil structure and water retention"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of saline agriculture?",
+      "choices": [
+        "Increased agricultural production in previously unusable land",
+        "Diversification of crop types",
+        "Reduced need for soil testing",
+        "Resilience to increasing salinity due to climate change"
+      ],
+      "answer": "Reduced need for soil testing"
+    },
+    {
+      "question": "What is the primary challenge that saline agriculture addresses?",
+      "choices": [
+        "Soil erosion",
+        "Pest infestations",
+        "Soil salinity",
+        "Nutrient deficiency"
+      ],
+      "answer": "Soil salinity"
+    },
+    {
+      "question": "Which of the following is a key principle of saline agriculture?",
+      "choices": [
+        "Maximizing freshwater use",
+        "Eliminating all salt-tolerant plants",
+        "Focusing on salt-sensitive crops",
+        "Adapting farming practices to saline conditions"
+      ],
+      "answer": "Adapting farming practices to saline conditions"
+    },
+    {
+      "question": "What is the potential environmental benefit of saline agriculture mentioned in the module?",
+      "choices": [
+        "Increased use of chemical fertilizers",
+        "Carbon sequestration",
+        "Expansion of monoculture farming",
+        "Reduction in crop diversity"
+      ],
+      "answer": "Carbon sequestration"
+    },
+    {
+      "question": "Which factor is contributing to the increasing trend of soil salinity in Timor-Leste?",
+      "choices": [
+        "Reforestation efforts",
+        "Decreased agricultural activity",
+        "Climate change and sea-level rise",
+        "Improved irrigation techniques"
+      ],
+      "answer": "Climate change and sea-level rise"
+    },
+    {
+      "question": "What is the recommended approach for implementing saline agriculture projects?",
+      "choices": [
+        "Top-down government mandates",
+        "Ignoring traditional farming practices",
+        "Community-based approaches and engagement",
+        "Focusing solely on modern technologies"
+      ],
+      "answer": "Community-based approaches and engagement"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a soil management technique in saline agriculture?",
+      "choices": [
+        "Leaching",
+        "Mulching",
+        "Raised bed farming",
+        "Deep plowing"
+      ],
+      "answer": "Deep plowing"
+    },
+    {
+      "question": "What is the primary purpose of conducting soil salinity tests in the practical activity?",
+      "choices": [
+        "To determine soil pH",
+        "To measure soil temperature",
+        "To assess soil nutrient levels",
+        "To measure electrical conductivity (EC)"
+      ],
+      "answer": "To measure electrical conductivity (EC)"
+    },
+    {
+      "question": "Which of the following is a potential cultural barrier to implementing saline agriculture in Timor-Leste?",
+      "choices": [
+        "Resistance to changing traditional farming practices",
+        "Lack of access to saltwater",
+        "Preference for imported foods",
+        "Abundance of freshwater resources"
+      ],
+      "answer": "Resistance to changing traditional farming practices"
+    },
+    {
+      "question": "What is the recommended approach for irrigation scheduling in saline agriculture?",
+      "choices": [
+        "Constant irrigation regardless of conditions",
+        "Avoiding irrigation entirely",
+        "Careful scheduling to minimize salt accumulation",
+        "Using only rainwater for irrigation"
+      ],
+      "answer": "Careful scheduling to minimize salt accumulation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a step in the soil salinity testing project?",
+      "choices": [
+        "Collecting soil samples from different locations",
+        "Measuring electrical conductivity (EC) of samples",
+        "Creating a map showing sample locations and EC values",
+        "Determining soil organic matter content"
+      ],
+      "answer": "Determining soil organic matter content"
+    }
+  ]
+}

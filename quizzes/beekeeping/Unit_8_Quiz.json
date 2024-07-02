@@ -1,0 +1,305 @@
+{
+  "title": "Harvesting and Processing Bee Products",
+  "questions": [
+    {
+      "question": "What is the ideal moisture content for honey?",
+      "choices": [
+        "Below 17%",
+        "17% - 18.5%",
+        "18.6% - 20%",
+        "Above 20%"
+      ],
+      "answer": "Below 17%"
+    },
+    {
+      "question": "Which of the following is NOT a sustainable harvesting practice?",
+      "choices": [
+        "Using a smoker to calm bees",
+        "Leaving sufficient honey for the colony",
+        "Harvesting all combs regardless of maturity",
+        "Selecting only capped honey combs"
+      ],
+      "answer": "Harvesting all combs regardless of maturity"
+    },
+    {
+      "question": "What is the primary advantage of modern beekeeping harvesting over traditional honey hunting?",
+      "choices": [
+        "It's faster",
+        "It's more sustainable",
+        "It produces more honey",
+        "It requires less equipment"
+      ],
+      "answer": "It's more sustainable"
+    },
+    {
+      "question": "Which tool is used to calm bees during honey harvesting?",
+      "choices": [
+        "Hive tool",
+        "Smoker",
+        "Extractor",
+        "Refractometer"
+      ],
+      "answer": "Smoker"
+    },
+    {
+      "question": "What is the process of removing wax cappings from honey cells called?",
+      "choices": [
+        "Extracting",
+        "Uncapping",
+        "Straining",
+        "Rendering"
+      ],
+      "answer": "Uncapping"
+    },
+    {
+      "question": "Which method of honey extraction is most suitable for small-scale beekeepers?",
+      "choices": [
+        "Centrifugal extractor",
+        "Crush and strain",
+        "Pressure extraction",
+        "Chemical separation"
+      ],
+      "answer": "Crush and strain"
+    },
+    {
+      "question": "What is the purpose of allowing honey to settle after extraction?",
+      "choices": [
+        "To increase moisture content",
+        "To remove remaining particles",
+        "To enhance flavor",
+        "To speed up crystallization"
+      ],
+      "answer": "To remove remaining particles"
+    },
+    {
+      "question": "Which of the following is a source of harvestable beeswax?",
+      "choices": [
+        "Bee pollen",
+        "Propolis",
+        "Old combs",
+        "Royal jelly"
+      ],
+      "answer": "Old combs"
+    },
+    {
+      "question": "What is the main advantage of using a solar wax melter?",
+      "choices": [
+        "It's faster than other methods",
+        "It's suitable for large-scale operations",
+        "It's low-cost and uses renewable energy",
+        "It produces higher quality wax"
+      ],
+      "answer": "It's low-cost and uses renewable energy"
+    },
+    {
+      "question": "What is the primary risk of honey with moisture content above 20%?",
+      "choices": [
+        "Crystallization",
+        "Fermentation",
+        "Discoloration",
+        "Loss of flavor"
+      ],
+      "answer": "Fermentation"
+    },
+    {
+      "question": "Which of the following is NOT a traditional use of beeswax in Timor-Leste?",
+      "choices": [
+        "Candle making",
+        "Batik fabric design",
+        "Waterproofing",
+        "Fuel for lamps"
+      ],
+      "answer": "Fuel for lamps"
+    },
+    {
+      "question": "What type of hive is particularly suitable for conditions in Timor-Leste?",
+      "choices": [
+        "Langstroth hive",
+        "Warre hive",
+        "Top-bar hive",
+        "Skep hive"
+      ],
+      "answer": "Top-bar hive"
+    },
+    {
+      "question": "What is the purpose of a refractometer in beekeeping?",
+      "choices": [
+        "To measure hive temperature",
+        "To count bee population",
+        "To measure honey moisture content",
+        "To detect diseases in bees"
+      ],
+      "answer": "To measure honey moisture content"
+    },
+    {
+      "question": "Which of the following is a sign that honey is ready for harvesting?",
+      "choices": [
+        "Bees are clustered outside the hive",
+        "Honey cells are capped with wax",
+        "The hive is making a buzzing sound",
+        "Bees are aggressive when approached"
+      ],
+      "answer": "Honey cells are capped with wax"
+    },
+    {
+      "question": "What is the recommended storage temperature range for honey?",
+      "choices": [
+        "0-5°C",
+        "10-20°C",
+        "25-30°C",
+        "35-40°C"
+      ],
+      "answer": "10-20°C"
+    },
+    {
+      "question": "Which of the following is NOT typically included on a honey jar label?",
+      "choices": [
+        "Harvest date",
+        "Floral source",
+        "Producer information",
+        "Bee species"
+      ],
+      "answer": "Bee species"
+    },
+    {
+      "question": "What is the process of melting and purifying beeswax called?",
+      "choices": [
+        "Extracting",
+        "Filtering",
+        "Rendering",
+        "Capping"
+      ],
+      "answer": "Rendering"
+    },
+    {
+      "question": "Which of the following is a challenge associated with traditional honey hunting?",
+      "choices": [
+        "Low honey yield",
+        "High equipment costs",
+        "Destruction of wild bee populations",
+        "Difficulty in finding wild hives"
+      ],
+      "answer": "Destruction of wild bee populations"
+    },
+    {
+      "question": "What is the primary purpose of using a smoker during honey harvesting?",
+      "choices": [
+        "To increase honey production",
+        "To improve honey flavor",
+        "To calm the bees",
+        "To prevent honey crystallization"
+      ],
+      "answer": "To calm the bees"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting honey quality?",
+      "choices": [
+        "Moisture content",
+        "Pollen sources",
+        "Processing methods",
+        "Color of the hive"
+      ],
+      "answer": "Color of the hive"
+    },
+    {
+      "question": "What is the main advantage of using glass containers for honey storage?",
+      "choices": [
+        "They are cheaper than plastic",
+        "They prevent crystallization",
+        "They are inert and don't react with honey",
+        "They filter out impurities"
+      ],
+      "answer": "They are inert and don't react with honey"
+    },
+    {
+      "question": "Which of the following is a modern application of beeswax?",
+      "choices": [
+        "Engine lubricant",
+        "Food preservative",
+        "Cosmetics",
+        "Building material"
+      ],
+      "answer": "Cosmetics"
+    },
+    {
+      "question": "What is the primary reason for leaving sufficient honey in the hive during harvest?",
+      "choices": [
+        "To improve the flavor of future harvests",
+        "To prevent swarming",
+        "To ensure the colony's survival during scarcity",
+        "To attract more bees to the hive"
+      ],
+      "answer": "To ensure the colony's survival during scarcity"
+    },
+    {
+      "question": "Which of the following is NOT a step in the honey extraction process?",
+      "choices": [
+        "Uncapping",
+        "Straining",
+        "Bottling",
+        "Fermenting"
+      ],
+      "answer": "Fermenting"
+    },
+    {
+      "question": "What is the main advantage of using a centrifugal extractor for honey?",
+      "choices": [
+        "It's suitable for small-scale operations",
+        "It's more efficient for large quantities",
+        "It produces clearer honey",
+        "It prevents crystallization"
+      ],
+      "answer": "It's more efficient for large quantities"
+    },
+    {
+      "question": "Which of the following is a sign of poor quality honey?",
+      "choices": [
+        "Natural crystallization",
+        "Varying colors between batches",
+        "Presence of pollen grains",
+        "Fermentation or bubbling"
+      ],
+      "answer": "Fermentation or bubbling"
+    },
+    {
+      "question": "What is the primary purpose of allowing honey to settle after extraction?",
+      "choices": [
+        "To increase sugar content",
+        "To improve flavor",
+        "To allow air bubbles and debris to rise",
+        "To start the crystallization process"
+      ],
+      "answer": "To allow air bubbles and debris to rise"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for sustainable beekeeping?",
+      "choices": [
+        "Regular hive inspections",
+        "Using locally adapted bee species",
+        "Harvesting honey frequently to maximize yield",
+        "Planting bee-friendly flowers nearby"
+      ],
+      "answer": "Harvesting honey frequently to maximize yield"
+    },
+    {
+      "question": "What is the main reason for using clean equipment during honey processing?",
+      "choices": [
+        "To improve honey color",
+        "To prevent contamination",
+        "To speed up the process",
+        "To increase honey yield"
+      ],
+      "answer": "To prevent contamination"
+    },
+    {
+      "question": "Which of the following is a benefit of promoting value-added beeswax products in Timor-Leste?",
+      "choices": [
+        "It reduces the need for beekeeping",
+        "It increases honey production",
+        "It contributes to economic viability of beekeeping",
+        "It eliminates the need for honey production"
+      ],
+      "answer": "It contributes to economic viability of beekeeping"
+    }
+  ]
+}

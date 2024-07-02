@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Sustainable Aquaculture",
+  "questions": [
+    {
+      "question": "What percentage of global aquaculture production does Asia account for?",
+      "choices": [
+        "65%",
+        "75%",
+        "89%",
+        "95%"
+      ],
+      "answer": "89%"
+    },
+    {
+      "question": "Which of the following is NOT one of the main species cultured in Timor-Leste?",
+      "choices": [
+        "Tilapia",
+        "Milkfish",
+        "Seaweed",
+        "Salmon"
+      ],
+      "answer": "Salmon"
+    },
+    {
+      "question": "What are the three pillars of sustainability in aquaculture?",
+      "choices": [
+        "Environmental, Economic, and Social",
+        "Biological, Chemical, and Physical",
+        "Production, Processing, and Distribution",
+        "Land, Water, and Air"
+      ],
+      "answer": "Environmental, Economic, and Social"
+    },
+    {
+      "question": "What does EAA stand for in the context of sustainable aquaculture?",
+      "choices": [
+        "Environmental Aquaculture Assessment",
+        "Ecosystem Approach to Aquaculture",
+        "Economic Aquaculture Analysis",
+        "Efficient Aquatic Agriculture"
+      ],
+      "answer": "Ecosystem Approach to Aquaculture"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of the Ecosystem Approach to Aquaculture?",
+      "choices": [
+        "Consider ecosystem functions and services",
+        "Improve human well-being and equity",
+        "Develop aquaculture in isolation from other sectors",
+        "Consider other sectors, policies, and goals"
+      ],
+      "answer": "Develop aquaculture in isolation from other sectors"
+    },
+    {
+      "question": "What is the primary goal of environmental sustainability in aquaculture?",
+      "choices": [
+        "Maximize profit",
+        "Increase production",
+        "Minimize environmental impacts",
+        "Expand market share"
+      ],
+      "answer": "Minimize environmental impacts"
+    },
+    {
+      "question": "Which of the following is a challenge for aquaculture development in Timor-Leste?",
+      "choices": [
+        "Excessive technical knowledge",
+        "Lack of infrastructure",
+        "Oversaturated market",
+        "Unfavorable climate"
+      ],
+      "answer": "Lack of infrastructure"
+    },
+    {
+      "question": "What is the role of economic sustainability in aquaculture?",
+      "choices": [
+        "To maximize short-term profits",
+        "To ensure long-term economic viability",
+        "To eliminate all environmental impacts",
+        "To reduce employment opportunities"
+      ],
+      "answer": "To ensure long-term economic viability"
+    },
+    {
+      "question": "Which of the following is an aspect of social sustainability in aquaculture?",
+      "choices": [
+        "Maximizing water pollution",
+        "Ignoring local communities",
+        "Providing employment opportunities",
+        "Depleting natural resources"
+      ],
+      "answer": "Providing employment opportunities"
+    },
+    {
+      "question": "What is the primary focus of the Ecosystem Approach to Aquaculture?",
+      "choices": [
+        "Maximizing production at any cost",
+        "Integrating aquaculture within the wider ecosystem",
+        "Isolating aquaculture from other ecosystems",
+        "Prioritizing economic gains over environmental concerns"
+      ],
+      "answer": "Integrating aquaculture within the wider ecosystem"
+    },
+    {
+      "question": "Which of the following is NOT a component of implementing the Ecosystem Approach to Aquaculture?",
+      "choices": [
+        "Spatial planning and zoning",
+        "Carrying capacity assessment",
+        "Ignoring stakeholder participation",
+        "Risk analysis and management"
+      ],
+      "answer": "Ignoring stakeholder participation"
+    },
+    {
+      "question": "What is the purpose of carrying capacity assessment in sustainable aquaculture?",
+      "choices": [
+        "To determine the maximum weight a boat can carry",
+        "To assess the environmental limits for aquaculture in an area",
+        "To calculate the number of workers needed",
+        "To measure the size of fish tanks"
+      ],
+      "answer": "To assess the environmental limits for aquaculture in an area"
+    },
+    {
+      "question": "Which global organization promotes the Ecosystem Approach to Aquaculture?",
+      "choices": [
+        "World Health Organization (WHO)",
+        "United Nations Environment Programme (UNEP)",
+        "Food and Agriculture Organization (FAO)",
+        "World Trade Organization (WTO)"
+      ],
+      "answer": "Food and Agriculture Organization (FAO)"
+    },
+    {
+      "question": "What is the primary goal of sustainable aquaculture?",
+      "choices": [
+        "To maximize short-term profits",
+        "To meet the demand for seafood while preserving ecosystems",
+        "To eliminate all forms of fishing",
+        "To reduce global fish consumption"
+      ],
+      "answer": "To meet the demand for seafood while preserving ecosystems"
+    },
+    {
+      "question": "Which of the following is an example of resource efficiency in aquaculture?",
+      "choices": [
+        "Using more water than necessary",
+        "Overfeeding fish to increase growth",
+        "Optimizing feed conversion ratios",
+        "Maximizing energy consumption"
+      ],
+      "answer": "Optimizing feed conversion ratios"
+    },
+    {
+      "question": "What is the role of biosecurity in sustainable aquaculture?",
+      "choices": [
+        "To increase the use of antibiotics",
+        "To prevent and control disease outbreaks",
+        "To isolate aquaculture from the environment",
+        "To maximize fish density in ponds"
+      ],
+      "answer": "To prevent and control disease outbreaks"
+    },
+    {
+      "question": "Which of the following is a benefit of integrated multi-trophic aquaculture (IMTA)?",
+      "choices": [
+        "Increased pollution",
+        "Reduced biodiversity",
+        "Improved nutrient cycling",
+        "Higher disease risk"
+      ],
+      "answer": "Improved nutrient cycling"
+    },
+    {
+      "question": "What is the primary challenge of implementing sustainable aquaculture in developing countries?",
+      "choices": [
+        "Excess of technical expertise",
+        "Over-regulation of the sector",
+        "Limited infrastructure and knowledge",
+        "Lack of demand for seafood"
+      ],
+      "answer": "Limited infrastructure and knowledge"
+    },
+    {
+      "question": "Which of the following is an example of environmental impact assessment in aquaculture?",
+      "choices": [
+        "Ignoring water quality changes",
+        "Assessing effects on local ecosystems",
+        "Maximizing fish production without consideration",
+        "Avoiding all interaction with the environment"
+      ],
+      "answer": "Assessing effects on local ecosystems"
+    },
+    {
+      "question": "What is the purpose of adaptive management in sustainable aquaculture?",
+      "choices": [
+        "To maintain rigid, unchanging practices",
+        "To ignore new scientific information",
+        "To continuously adjust practices based on monitoring",
+        "To maximize short-term profits"
+      ],
+      "answer": "To continuously adjust practices based on monitoring"
+    },
+    {
+      "question": "Which of the following is a key consideration in site selection for sustainable aquaculture?",
+      "choices": [
+        "Proximity to polluted areas",
+        "Disregard for local ecosystems",
+        "Potential environmental impacts",
+        "Maximum distance from markets"
+      ],
+      "answer": "Potential environmental impacts"
+    },
+    {
+      "question": "What role does stakeholder participation play in sustainable aquaculture?",
+      "choices": [
+        "It is unnecessary and should be avoided",
+        "It ensures all voices are heard in decision-making",
+        "It slows down development and should be minimized",
+        "It only involves government officials"
+      ],
+      "answer": "It ensures all voices are heard in decision-making"
+    },
+    {
+      "question": "Which of the following is an example of social sustainability in aquaculture?",
+      "choices": [
+        "Exploiting local labor",
+        "Ignoring community concerns",
+        "Ensuring fair labor practices",
+        "Maximizing profits at any social cost"
+      ],
+      "answer": "Ensuring fair labor practices"
+    },
+    {
+      "question": "What is the purpose of the precautionary approach in sustainable aquaculture?",
+      "choices": [
+        "To encourage risky practices",
+        "To avoid any form of aquaculture",
+        "To take preventive measures against potential harm",
+        "To maximize production without consideration"
+      ],
+      "answer": "To take preventive measures against potential harm"
+    },
+    {
+      "question": "Which of the following is a potential benefit of sustainable aquaculture in developing countries?",
+      "choices": [
+        "Reduced food security",
+        "Increased environmental degradation",
+        "Enhanced livelihood opportunities",
+        "Decreased economic growth"
+      ],
+      "answer": "Enhanced livelihood opportunities"
+    },
+    {
+      "question": "What is the role of technology in sustainable aquaculture?",
+      "choices": [
+        "It is irrelevant and should be avoided",
+        "It can enhance efficiency and reduce environmental impacts",
+        "It always leads to unsustainable practices",
+        "It should replace traditional knowledge entirely"
+      ],
+      "answer": "It can enhance efficiency and reduce environmental impacts"
+    },
+    {
+      "question": "Which of the following is an example of economic sustainability in aquaculture?",
+      "choices": [
+        "Maximizing short-term profits at any cost",
+        "Ignoring market demands",
+        "Ensuring long-term profitability while respecting environmental limits",
+        "Avoiding all forms of economic analysis"
+      ],
+      "answer": "Ensuring long-term profitability while respecting environmental limits"
+    },
+    {
+      "question": "What is the importance of water quality management in sustainable aquaculture?",
+      "choices": [
+        "It is unnecessary and can be ignored",
+        "It only affects fish health, not the environment",
+        "It is crucial for both aquatic organism health and environmental protection",
+        "It only matters in freshwater aquaculture"
+      ],
+      "answer": "It is crucial for both aquatic organism health and environmental protection"
+    },
+    {
+      "question": "Which of the following is a potential conflict between aquaculture and other coastal activities?",
+      "choices": [
+        "Enhanced biodiversity",
+        "Improved water quality",
+        "Competition for space with tourism",
+        "Increased fish stocks for capture fisheries"
+      ],
+      "answer": "Competition for space with tourism"
+    },
+    {
+      "question": "What is the role of policy and regulatory frameworks in sustainable aquaculture?",
+      "choices": [
+        "They are unnecessary and hinder development",
+        "They provide guidelines and ensure responsible practices",
+        "They should focus solely on maximizing production",
+        "They are only relevant in developed countries"
+      ],
+      "answer": "They provide guidelines and ensure responsible practices"
+    }
+  ]
+}

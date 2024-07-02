@@ -1,0 +1,305 @@
+{
+  "title": "Hive Management - Wet Season",
+  "questions": [
+    {
+      "question": "What is a primary challenge for beekeepers during the wet season?",
+      "choices": [
+        "Excess heat in the hive",
+        "Lack of flowering plants",
+        "Excess moisture in the hive",
+        "Increased predator activity"
+      ],
+      "answer": "Excess moisture in the hive"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for improving hive ventilation?",
+      "choices": [
+        "Adding ventilation holes",
+        "Using screened bottom boards",
+        "Sealing all cracks in the hive",
+        "Propping up hive covers slightly"
+      ],
+      "answer": "Sealing all cracks in the hive"
+    },
+    {
+      "question": "What is a natural absorbent material that can be used inside hives to manage moisture?",
+      "choices": [
+        "Plastic sheets",
+        "Coconut husk fibers",
+        "Metal shavings",
+        "Synthetic sponges"
+      ],
+      "answer": "Coconut husk fibers"
+    },
+    {
+      "question": "What is the term for when an entire colony abandons their hive due to unfavorable conditions?",
+      "choices": [
+        "Swarming",
+        "Absconding",
+        "Migrating",
+        "Hibernating"
+      ],
+      "answer": "Absconding"
+    },
+    {
+      "question": "What percentage of worker bees typically leave with the queen during a swarm?",
+      "choices": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "answer": "60%"
+    },
+    {
+      "question": "What are scout bees responsible for during the swarming process?",
+      "choices": [
+        "Protecting the queen",
+        "Building new combs",
+        "Searching for new nest sites",
+        "Collecting nectar for the journey"
+      ],
+      "answer": "Searching for new nest sites"
+    },
+    {
+      "question": "When is the best time to capture a swarm?",
+      "choices": [
+        "Midday when all bees are active",
+        "During heavy rainfall",
+        "Early morning or late afternoon",
+        "At night when bees are sleeping"
+      ],
+      "answer": "Early morning or late afternoon"
+    },
+    {
+      "question": "What is a queen cup in the context of beekeeping?",
+      "choices": [
+        "A special feeding container for the queen",
+        "A cell built by workers where a new queen can be raised",
+        "A protective cage used during queen introduction",
+        "The queen's personal resting area in the hive"
+      ],
+      "answer": "A cell built by workers where a new queen can be raised"
+    },
+    {
+      "question": "Which of the following is NOT a sign of impending swarming?",
+      "choices": [
+        "Presence of queen cups",
+        "Overcrowding in the hive",
+        "Increased honey production",
+        "Reduction in queen's egg-laying"
+      ],
+      "answer": "Increased honey production"
+    },
+    {
+      "question": "What is the primary purpose of hive splitting?",
+      "choices": [
+        "To reduce honey production",
+        "To eliminate diseased bees",
+        "To control colony reproduction and prevent swarming",
+        "To create space for storing more honey"
+      ],
+      "answer": "To control colony reproduction and prevent swarming"
+    },
+    {
+      "question": "What is a 'walk-away split' in beekeeping?",
+      "choices": [
+        "When a beekeeper abandons an unproductive hive",
+        "A method of dividing a colony where one half raises a new queen",
+        "A technique for encouraging bees to leave a hive",
+        "The natural process of a swarm leaving the hive"
+      ],
+      "answer": "A method of dividing a colony where one half raises a new queen"
+    },
+    {
+      "question": "Why is it important to capture the queen during a swarm capture?",
+      "choices": [
+        "To ensure the swarm will stay in the new hive",
+        "To prevent the swarm from producing honey",
+        "To stop the queen from laying eggs",
+        "To make the worker bees more docile"
+      ],
+      "answer": "To ensure the swarm will stay in the new hive"
+    },
+    {
+      "question": "What is the best time for performing hive splits?",
+      "choices": [
+        "During the coldest part of winter",
+        "When there's a nectar dearth",
+        "During a strong nectar flow",
+        "Immediately after harvesting honey"
+      ],
+      "answer": "During a strong nectar flow"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for protecting hives from excess moisture?",
+      "choices": [
+        "Using stands to keep hives off the ground",
+        "Sealing all hive entrances",
+        "Ensuring good air circulation around hives",
+        "Choosing elevated ground for hive placement"
+      ],
+      "answer": "Sealing all hive entrances"
+    },
+    {
+      "question": "What is a potential consequence of excess moisture in a beehive?",
+      "choices": [
+        "Increased honey production",
+        "Improved queen fertility",
+        "Growth of mold and fungi",
+        "Enhanced wax production"
+      ],
+      "answer": "Growth of mold and fungi"
+    },
+    {
+      "question": "What is the purpose of tilting hives slightly forward during the wet season?",
+      "choices": [
+        "To make it easier for bees to enter",
+        "To allow water to drain out of the entrance",
+        "To increase sun exposure",
+        "To prevent predators from entering"
+      ],
+      "answer": "To allow water to drain out of the entrance"
+    },
+    {
+      "question": "Which of the following is a traditional material used for water-resistant hive covers in Timor-Leste?",
+      "choices": [
+        "Plastic sheeting",
+        "Corrugated metal",
+        "Palm leaves",
+        "Fiberglass"
+      ],
+      "answer": "Palm leaves"
+    },
+    {
+      "question": "What is the main purpose of using a swarm trap?",
+      "choices": [
+        "To kill unwanted swarms",
+        "To attract and capture swarms",
+        "To feed bees during nectar dearth",
+        "To protect hives from predators"
+      ],
+      "answer": "To attract and capture swarms"
+    },
+    {
+      "question": "What is the term for the process of creating small colonies from larger ones?",
+      "choices": [
+        "Colony fragmentation",
+        "Hive division",
+        "Nucleus colony creation",
+        "Bee partitioning"
+      ],
+      "answer": "Nucleus colony creation"
+    },
+    {
+      "question": "Why might heavy rains during the wet season pose a challenge for foraging bees?",
+      "choices": [
+        "Bees cannot fly in the rain",
+        "Rain washes away nectar and pollen from flowers",
+        "Rainwater dilutes honey in the hive",
+        "Wet conditions attract more bee predators"
+      ],
+      "answer": "Rain washes away nectar and pollen from flowers"
+    },
+    {
+      "question": "What is an 'artificial swarm' in beekeeping?",
+      "choices": [
+        "A swarm created using robotic bees",
+        "Moving the old queen to a new hive with foragers",
+        "A method of controlling varroa mites",
+        "Introducing a new species of bees to an area"
+      ],
+      "answer": "Moving the old queen to a new hive with foragers"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a swarm capture kit?",
+      "choices": [
+        "Bee brush",
+        "Capture box",
+        "Honey extractor",
+        "Pruning shears"
+      ],
+      "answer": "Honey extractor"
+    },
+    {
+      "question": "What is the purpose of using a spray bottle with sugar water during swarm capture?",
+      "choices": [
+        "To feed the bees",
+        "To calm the bees and make them heavier",
+        "To mark the queen",
+        "To clean the capture box"
+      ],
+      "answer": "To calm the bees and make them heavier"
+    },
+    {
+      "question": "Why is it important to consider local seasonal patterns when planning hive splits?",
+      "choices": [
+        "To align with traditional festivals",
+        "To ensure adequate resources for both colonies",
+        "To avoid conflicts with other beekeepers",
+        "To maximize honey production"
+      ],
+      "answer": "To ensure adequate resources for both colonies"
+    },
+    {
+      "question": "What is the primary reason for reducing the hive entrance during the wet season?",
+      "choices": [
+        "To keep predators out",
+        "To prevent bees from leaving",
+        "To minimize water entry into the hive",
+        "To reduce ventilation"
+      ],
+      "answer": "To minimize water entry into the hive"
+    },
+    {
+      "question": "Which of the following is a sign that a captured swarm has successfully accepted its new hive?",
+      "choices": [
+        "Bees are clustering outside the hive",
+        "Worker bees start bringing in pollen",
+        "The queen leaves the hive",
+        "Bees become aggressive towards the beekeeper"
+      ],
+      "answer": "Worker bees start bringing in pollen"
+    },
+    {
+      "question": "What is the purpose of using a white sheet or tarp during swarm capture?",
+      "choices": [
+        "To provide shade for the bees",
+        "To make it easier to spot the queen",
+        "To keep the bees dry",
+        "To attract the swarm to a specific location"
+      ],
+      "answer": "To make it easier to spot the queen"
+    },
+    {
+      "question": "Why might a beekeeper choose to create a nucleus colony?",
+      "choices": [
+        "To produce more honey",
+        "For queen rearing or gradual expansion",
+        "To eliminate diseased bees",
+        "To reduce the workload of managing full-sized colonies"
+      ],
+      "answer": "For queen rearing or gradual expansion"
+    },
+    {
+      "question": "What is the primary concern when transporting a captured swarm?",
+      "choices": [
+        "Keeping the swarm warm",
+        "Providing food for the journey",
+        "Ensuring proper ventilation",
+        "Preventing the queen from escaping"
+      ],
+      "answer": "Ensuring proper ventilation"
+    },
+    {
+      "question": "Which local Timorese plant is mentioned as useful for attracting swarms?",
+      "choices": [
+        "Coffee",
+        "Banana",
+        "Ai-dak (Schleichera oleosa)",
+        "Coconut"
+      ],
+      "answer": "Ai-dak (Schleichera oleosa)"
+    }
+  ]
+}

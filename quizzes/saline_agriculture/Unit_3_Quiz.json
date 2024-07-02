@@ -1,0 +1,305 @@
+{
+  "title": "Soil Management for Saline Agriculture",
+  "questions": [
+    {
+      "question": "What is the primary purpose of soil leaching in saline agriculture?",
+      "choices": [
+        "To add nutrients to the soil",
+        "To remove excess salts from the soil",
+        "To increase soil acidity",
+        "To compact the soil structure"
+      ],
+      "answer": "To remove excess salts from the soil"
+    },
+    {
+      "question": "Which of the following is NOT a common soil leaching technique?",
+      "choices": [
+        "Continuous ponding",
+        "Intermittent ponding",
+        "Sprinkler leaching",
+        "Acidic leaching"
+      ],
+      "answer": "Acidic leaching"
+    },
+    {
+      "question": "What is a potential disadvantage of continuous ponding for soil leaching?",
+      "choices": [
+        "Low water requirement",
+        "Ineffective for heavily saline soils",
+        "Potential waterlogging",
+        "Reduced salt removal"
+      ],
+      "answer": "Potential waterlogging"
+    },
+    {
+      "question": "Which factor does NOT affect leaching efficiency?",
+      "choices": [
+        "Soil texture",
+        "Initial salt concentration",
+        "Quality of leaching water",
+        "Crop type"
+      ],
+      "answer": "Crop type"
+    },
+    {
+      "question": "What is the recommended depth for applying mulch around plants in saline conditions?",
+      "choices": [
+        "1-2 cm",
+        "5-10 cm",
+        "15-20 cm",
+        "25-30 cm"
+      ],
+      "answer": "5-10 cm"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using organic matter in saline soils?",
+      "choices": [
+        "Improves soil structure",
+        "Enhances microbial activity",
+        "Increases salt concentration",
+        "Provides nutrients as it decomposes"
+      ],
+      "answer": "Increases salt concentration"
+    },
+    {
+      "question": "What is green manure in the context of saline agriculture?",
+      "choices": [
+        "Chemical fertilizers",
+        "Crops grown and plowed back into the soil",
+        "Animal waste",
+        "Algae-based soil amendments"
+      ],
+      "answer": "Crops grown and plowed back into the soil"
+    },
+    {
+      "question": "Which of the following is an inorganic mulching material?",
+      "choices": [
+        "Straw",
+        "Leaves",
+        "Bark chips",
+        "Plastic sheets"
+      ],
+      "answer": "Plastic sheets"
+    },
+    {
+      "question": "What is the typical height of raised beds in saline agriculture?",
+      "choices": [
+        "5-10 cm",
+        "15-30 cm",
+        "40-50 cm",
+        "60-75 cm"
+      ],
+      "answer": "15-30 cm"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of raised bed farming in saline conditions?",
+      "choices": [
+        "Improves drainage",
+        "Reduces waterlogging",
+        "Increases salt accumulation",
+        "Facilitates easier management of crops"
+      ],
+      "answer": "Increases salt accumulation"
+    },
+    {
+      "question": "What is the recommended width for raised beds to allow easy access?",
+      "choices": [
+        "0.5-1 meter",
+        "1-1.5 meters",
+        "2-2.5 meters",
+        "3-3.5 meters"
+      ],
+      "answer": "1-1.5 meters"
+    },
+    {
+      "question": "Which step is NOT part of constructing raised beds for saline agriculture?",
+      "choices": [
+        "Leveling the ground",
+        "Adding organic matter",
+        "Creating a slight crown in bed center",
+        "Applying chemical fertilizers"
+      ],
+      "answer": "Applying chemical fertilizers"
+    },
+    {
+      "question": "What is the primary purpose of creating a slight crown in the center of raised beds?",
+      "choices": [
+        "To increase sunlight exposure",
+        "To improve drainage",
+        "To reduce wind erosion",
+        "To concentrate fertilizer application"
+      ],
+      "answer": "To improve drainage"
+    },
+    {
+      "question": "Which of the following is NOT a management practice for raised beds in saline conditions?",
+      "choices": [
+        "Regular addition of organic matter",
+        "Careful irrigation",
+        "Crop rotation",
+        "Increasing salt application"
+      ],
+      "answer": "Increasing salt application"
+    },
+    {
+      "question": "What is the main advantage of intermittent ponding over continuous ponding for soil leaching?",
+      "choices": [
+        "Higher water requirement",
+        "More efficient water use",
+        "Faster salt removal",
+        "Lower labor needs"
+      ],
+      "answer": "More efficient water use"
+    },
+    {
+      "question": "Which type of organic matter is rich in nutrients and improves soil structure in saline conditions?",
+      "choices": [
+        "Sand",
+        "Gravel",
+        "Compost",
+        "Plastic mulch"
+      ],
+      "answer": "Compost"
+    },
+    {
+      "question": "What precaution should be taken when using animal manure in saline soils?",
+      "choices": [
+        "Apply it directly to plant roots",
+        "Mix it with chemical fertilizers",
+        "Ensure proper composting to avoid pathogens",
+        "Use only fresh manure"
+      ],
+      "answer": "Ensure proper composting to avoid pathogens"
+    },
+    {
+      "question": "Which of the following is a benefit of mulching in saline agriculture?",
+      "choices": [
+        "Increases soil temperature",
+        "Promotes weed growth",
+        "Reduces evaporation",
+        "Accelerates salt accumulation"
+      ],
+      "answer": "Reduces evaporation"
+    },
+    {
+      "question": "What should be considered when timing soil leaching in Timor-Leste?",
+      "choices": [
+        "Avoiding rainy seasons",
+        "Coordinating with harvest times",
+        "Timing with rainy seasons when possible",
+        "Leaching only during drought periods"
+      ],
+      "answer": "Timing with rainy seasons when possible"
+    },
+    {
+      "question": "Which factor is NOT typically considered in designing a drainage system for a saline field?",
+      "choices": [
+        "Soil type",
+        "Topography",
+        "Crop variety",
+        "Water table depth"
+      ],
+      "answer": "Crop variety"
+    },
+    {
+      "question": "What is the primary purpose of incorporating organic matter into saline soils?",
+      "choices": [
+        "To increase soil salinity",
+        "To improve soil structure and fertility",
+        "To reduce crop yield",
+        "To eliminate the need for irrigation"
+      ],
+      "answer": "To improve soil structure and fertility"
+    },
+    {
+      "question": "Which of the following is NOT a component of a typical drainage system in saline areas?",
+      "choices": [
+        "Subsurface drainage pipes",
+        "Open ditches",
+        "Catch basins",
+        "Salt evaporation ponds"
+      ],
+      "answer": "Salt evaporation ponds"
+    },
+    {
+      "question": "What is a potential disadvantage of sprinkler leaching in saline agriculture?",
+      "choices": [
+        "Uneven water application",
+        "Low initial cost",
+        "Ineffective on flat land",
+        "Potential for salt accumulation on leaves"
+      ],
+      "answer": "Potential for salt accumulation on leaves"
+    },
+    {
+      "question": "Which crop is known for its high salt tolerance and potential use in saline agriculture?",
+      "choices": [
+        "Tomatoes",
+        "Lettuce",
+        "Quinoa",
+        "Potatoes"
+      ],
+      "answer": "Quinoa"
+    },
+    {
+      "question": "What is the primary benefit of crop rotation in saline agriculture?",
+      "choices": [
+        "Increases soil salinity",
+        "Reduces need for irrigation",
+        "Manages soil health",
+        "Eliminates need for fertilizers"
+      ],
+      "answer": "Manages soil health"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice when applying mulch in saline conditions?",
+      "choices": [
+        "Keeping mulch away from plant stems",
+        "Applying a 5-10 cm layer",
+        "Using organic materials",
+        "Covering the entire soil surface including plant stems"
+      ],
+      "answer": "Covering the entire soil surface including plant stems"
+    },
+    {
+      "question": "What is the main purpose of adding a slight crown to the center of raised beds?",
+      "choices": [
+        "To increase planting area",
+        "To improve drainage",
+        "To reduce erosion",
+        "To concentrate nutrients"
+      ],
+      "answer": "To improve drainage"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in implementing raised bed farming in rural areas of Timor-Leste?",
+      "choices": [
+        "Limited access to machinery",
+        "Lack of local knowledge",
+        "Excess availability of water",
+        "Labor-intensive initial setup"
+      ],
+      "answer": "Excess availability of water"
+    },
+    {
+      "question": "What is a potential environmental impact of large-scale soil leaching in coastal areas?",
+      "choices": [
+        "Increased soil fertility",
+        "Reduced water salinity in nearby water bodies",
+        "Potential contamination of groundwater",
+        "Improved air quality"
+      ],
+      "answer": "Potential contamination of groundwater"
+    },
+    {
+      "question": "Which of the following is NOT a recommended adaptation for saline agriculture in the face of climate change?",
+      "choices": [
+        "Developing more salt-tolerant crop varieties",
+        "Improving water management techniques",
+        "Increasing the use of chemical fertilizers",
+        "Enhancing soil conservation practices"
+      ],
+      "answer": "Increasing the use of chemical fertilizers"
+    }
+  ]
+}

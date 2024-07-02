@@ -1,0 +1,305 @@
+{
+  "title": "Traditional Timorese Weaving Techniques",
+  "questions": [
+    {
+      "question": "What is the traditional handwoven textile of Timor-Leste called?",
+      "choices": [
+        "Sarong",
+        "Tais",
+        "Batik",
+        "Ikat"
+      ],
+      "answer": "Tais"
+    },
+    {
+      "question": "Which type of loom is primarily used in traditional Timorese weaving?",
+      "choices": [
+        "Floor loom",
+        "Table loom",
+        "Backstrap loom",
+        "Jacquard loom"
+      ],
+      "answer": "Backstrap loom"
+    },
+    {
+      "question": "What mythical creature is often represented in Timorese weaving motifs and is associated with the country's origin?",
+      "choices": [
+        "Dragon",
+        "Phoenix",
+        "Crocodile",
+        "Tiger"
+      ],
+      "answer": "Crocodile"
+    },
+    {
+      "question": "What does the rooster motif symbolize in Timorese weaving?",
+      "choices": [
+        "Fertility and abundance",
+        "Bravery and masculinity",
+        "Wisdom and knowledge",
+        "Peace and harmony"
+      ],
+      "answer": "Bravery and masculinity"
+    },
+    {
+      "question": "Which of the following is NOT a common motif in traditional Timorese weaving?",
+      "choices": [
+        "Star",
+        "Corn",
+        "Elephant",
+        "Geometric patterns"
+      ],
+      "answer": "Elephant"
+    },
+    {
+      "question": "What is the purpose of the breast beam in a backstrap loom?",
+      "choices": [
+        "To hold the warp threads",
+        "To attach to the weaver's waist",
+        "To create the shed",
+        "To beat the weft threads"
+      ],
+      "answer": "To attach to the weaver's waist"
+    },
+    {
+      "question": "What is the main advantage of using a backstrap loom?",
+      "choices": [
+        "It can produce very wide fabrics",
+        "It is electrically powered",
+        "It is portable and low-cost",
+        "It requires minimal physical effort"
+      ],
+      "answer": "It is portable and low-cost"
+    },
+    {
+      "question": "What is the typical width range of fabric produced on a backstrap loom?",
+      "choices": [
+        "6-12 inches",
+        "12-24 inches",
+        "24-36 inches",
+        "36-48 inches"
+      ],
+      "answer": "12-24 inches"
+    },
+    {
+      "question": "Which component of the backstrap loom is used to separate warp threads?",
+      "choices": [
+        "Shuttle",
+        "Beater",
+        "Heddles",
+        "Shed rod"
+      ],
+      "answer": "Heddles"
+    },
+    {
+      "question": "What is the primary function of the shuttle in weaving?",
+      "choices": [
+        "To create tension in the warp",
+        "To separate warp threads",
+        "To carry the weft thread across the warp",
+        "To compact the weft threads"
+      ],
+      "answer": "To carry the weft thread across the warp"
+    },
+    {
+      "question": "Which of the following best describes the cultural significance of tais in Timorese society?",
+      "choices": [
+        "Used only for export and tourism",
+        "Worn exclusively by royalty",
+        "Used for ceremonial purposes, gifts, and daily wear",
+        "Considered taboo in traditional communities"
+      ],
+      "answer": "Used for ceremonial purposes, gifts, and daily wear"
+    },
+    {
+      "question": "During which period did tais production decline in Timor-Leste?",
+      "choices": [
+        "Portuguese colonial era",
+        "World War II",
+        "Indonesian occupation (1975-1999)",
+        "Post-independence period"
+      ],
+      "answer": "Indonesian occupation (1975-1999)"
+    },
+    {
+      "question": "What do diamond shapes in Timorese weaving motifs typically represent?",
+      "choices": [
+        "Wealth and prosperity",
+        "Unity and balance",
+        "War and conflict",
+        "Love and marriage"
+      ],
+      "answer": "Unity and balance"
+    },
+    {
+      "question": "What is the traditional method of passing down weaving knowledge in Timorese culture?",
+      "choices": [
+        "Through formal schooling",
+        "From mother to daughter",
+        "Via written manuals",
+        "Through religious institutions"
+      ],
+      "answer": "From mother to daughter"
+    },
+    {
+      "question": "Which of the following is a limitation of the backstrap loom?",
+      "choices": [
+        "It cannot produce patterned fabrics",
+        "It is not portable",
+        "It requires expensive materials",
+        "It is labor-intensive"
+      ],
+      "answer": "It is labor-intensive"
+    },
+    {
+      "question": "What does the corn motif symbolize in Timorese weaving?",
+      "choices": [
+        "Strength and power",
+        "Fertility and abundance",
+        "Wisdom and knowledge",
+        "Love and romance"
+      ],
+      "answer": "Fertility and abundance"
+    },
+    {
+      "question": "How do Timorese weavers typically adjust the tension of the warp threads on a backstrap loom?",
+      "choices": [
+        "By turning a crank",
+        "By adding weights",
+        "By leaning back or forward",
+        "By adjusting a lever"
+      ],
+      "answer": "By leaning back or forward"
+    },
+    {
+      "question": "What is the purpose of the beater in weaving?",
+      "choices": [
+        "To create patterns in the fabric",
+        "To compact weft threads",
+        "To hold the warp threads in place",
+        "To carry the weft thread across the warp"
+      ],
+      "answer": "To compact weft threads"
+    },
+    {
+      "question": "Which of the following best describes the warp in weaving?",
+      "choices": [
+        "Horizontal threads woven through the vertical threads",
+        "Vertical threads on a loom",
+        "The tool used to carry the thread",
+        "The finished edge of the fabric"
+      ],
+      "answer": "Vertical threads on a loom"
+    },
+    {
+      "question": "What is the primary function of the shed rod in a backstrap loom?",
+      "choices": [
+        "To hold the warp threads",
+        "To create space for weft insertion",
+        "To beat the weft threads",
+        "To control the tension of the fabric"
+      ],
+      "answer": "To create space for weft insertion"
+    },
+    {
+      "question": "Which of the following materials was traditionally used for dyeing in Timorese weaving?",
+      "choices": [
+        "Synthetic chemicals",
+        "Animal blood",
+        "Plant extracts",
+        "Metal oxides"
+      ],
+      "answer": "Plant extracts"
+    },
+    {
+      "question": "What does the star motif typically symbolize in Timorese weaving?",
+      "choices": [
+        "Wealth and prosperity",
+        "Guidance and divine protection",
+        "War and conflict",
+        "Agricultural abundance"
+      ],
+      "answer": "Guidance and divine protection"
+    },
+    {
+      "question": "Which region of Timor-Leste is particularly known for using the star motif in its tais?",
+      "choices": [
+        "Dili",
+        "Baucau",
+        "Oecusse",
+        "Viqueque"
+      ],
+      "answer": "Oecusse"
+    },
+    {
+      "question": "What do zigzag lines often represent in Timorese weaving motifs?",
+      "choices": [
+        "Mountains and valleys",
+        "Life's journey and obstacles",
+        "Rivers and streams",
+        "Lightning and thunder"
+      ],
+      "answer": "Life's journey and obstacles"
+    },
+    {
+      "question": "Which of the following is NOT a typical use for tais in Timorese culture?",
+      "choices": [
+        "Ceremonial dress",
+        "Gift-giving",
+        "Currency in traditional exchanges",
+        "Roofing material"
+      ],
+      "answer": "Roofing material"
+    },
+    {
+      "question": "What recent trend has been observed in the use of materials for tais production?",
+      "choices": [
+        "Exclusive use of synthetic fibers",
+        "Return to only natural fibers and dyes",
+        "Incorporation of commercial yarns and synthetic dyes",
+        "Use of metallic threads for all designs"
+      ],
+      "answer": "Incorporation of commercial yarns and synthetic dyes"
+    },
+    {
+      "question": "Which of the following best describes the cultural role of tais motifs?",
+      "choices": [
+        "Purely decorative with no deeper meaning",
+        "Used only to identify the weaver",
+        "A form of non-verbal communication conveying social and cultural information",
+        "Standardized designs with no regional variation"
+      ],
+      "answer": "A form of non-verbal communication conveying social and cultural information"
+    },
+    {
+      "question": "What is a potential economic benefit of preserving traditional weaving techniques in Timor-Leste?",
+      "choices": [
+        "Increased agricultural productivity",
+        "Development of heavy industry",
+        "Expansion of the mining sector",
+        "Growth in textile production and tourism"
+      ],
+      "answer": "Growth in textile production and tourism"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a backstrap loom?",
+      "choices": [
+        "Breast beam",
+        "Heddles",
+        "Treadles",
+        "Shuttle"
+      ],
+      "answer": "Treadles"
+    },
+    {
+      "question": "What is the primary challenge in preserving traditional Timorese weaving techniques?",
+      "choices": [
+        "Lack of raw materials",
+        "Government restrictions on weaving",
+        "Competition from modern textile industries",
+        "Disinterest among younger generations"
+      ],
+      "answer": "Disinterest among younger generations"
+    }
+  ]
+}
