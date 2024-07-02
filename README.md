@@ -22,7 +22,7 @@ For practical applications:
 - Check out the [games/](games/) directory for interactive learning experiences.
 - Refer to the [recipes/](recipes/) directory for traditional and medicinal preparations.
 
-## Key Courses
+## Key Courses - all content is localized/regionalized for Timor Leste
 
 1. **Regenerative Living: A Permaculture Approach**
    This hands-on program immerses participants in permaculture principles and practices, equipping them with knowledge and skills to design sustainable living systems. The course covers water management, soil building, perennial food systems, animal integration, natural building, food preservation, and community resilience. Students learn to apply permaculture ethics and principles to create integrated designs for homes, farms, and communities.
@@ -74,38 +74,25 @@ For practical applications:
 The repository is organized into several main directories, each serving a specific purpose:
 
 ### [Readings/](Readings/)
-Contains in-depth reading materials on various subjects, including:
-- Beekeeping practices
-- Cultural studies and traditional knowledge
-- English language materials
-- Fiction writing resources
-- Food innovation and sustainability
-- Holistic healing arts and practices
-- Medical herbalism
-- Regenerative living and permaculture
-- Software development
+Contains reading materials on the Key Courses, plus:
 - Timor-Leste specific cultural content
 
 ### [lesson_plans/](lesson_plans/)
-Structured lesson plans for various courses, including:
-- Beekeeping
-- English language
-- Fiction writing
-- Food innovation and sustainability
-- Holistic healing arts and practices
-- Medical herbalism
-- Regenerative living
-- Software development
+- Structured lesson plans on the Key Courses.
+- Support and reference material
 
 ### [activities/](activities/)
-Hands-on activities to complement the lessons, such as:
+Hands-on activities to complement the lessons for each Key Course, such as:
 - Practical beekeeping exercises
 - Creative writing activities
 - Regenerative living projects (e.g., canning, fermentation, hydroponics)
 - Software development coding exercises
 
 ### [quizzes/](quizzes/)
-Interactive quizzes to assess understanding of various topics, including Creative Writing, English Language, Fiction Writing, Food Innovation and Sustainability, Holistic Healing Arts and Practices, Medical Herbalism, Regenerative Living, and Software Development.
+- Each Key Course comes with a set of multiple choice question and answer quizzes.
+- Each quiz is written in json file format. 
+- An html/javascript quiz file, quiz.html, can load any quiz json and deliver a random 10 question quiz from a pool of 30 questions.
+- The json format allows for the quiz questions to be used via other scripts and web pages.
 
 ### [games/](games/)
 Interactive games for educational purposes, including:
@@ -121,7 +108,7 @@ Utility scripts for various purposes, including:
 - Software development tools specific to Timor-Leste
 
 ### [syllabus/](syllabus/)
-Detailed course syllabi for the main courses offered.
+Detailed course syllabi for the Key Courses offered.
 
 ### Additional Resources
 - [recipes/](recipes/): Traditional and medicinal recipes relevant to Timor-Leste
