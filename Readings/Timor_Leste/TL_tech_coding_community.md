@@ -9,15 +9,12 @@ Here's a comprehensive resource on Timorese tech/coding community forums and mee
    - Regular discussions on programming, web development, and IT topics
    - Link: [Timor-Leste Tech Hub](https://www.facebook.com/groups/timorlestetechhub)
 
-2. Codiga Timor (Discord Server)
-   - Online community for Timorese coders and developers
-   - Channels for various programming languages and technologies
-   - Link: [Codiga Timor Discord](https://discord.gg/codigatimor)
+2. Learning Tetun (Discord Server)
+   - Link: [Learning Tetun](https://discord.gg/DaBJG2Gn)
 
-3. Timor-Leste IT Professionals Network (LinkedIn Group)
-   - Professional networking for IT workers in Timor-Leste
-   - Job postings and industry discussions
-   - Link: [TL IT Professionals](https://www.linkedin.com/groups/timorlesteITprofessionals)
+3. Tetun/English translator
+   - [English Tetun translation] (https://tetun.org/)
+
 
 ## Local Meetups and Events
 
