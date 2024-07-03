@@ -117,8 +117,6 @@ Detailed course syllabi for the Key Courses offered.
 
 ## Bibliography
 
-## Bibliography
-
 1. Acupressure's Potent Points. (No author or date provided)
 2. Anatomy Trains: Myofascial Meridians for Manual Therapists and Movement Professionals. (No author or date provided) 
 3. An Introduction to Craniosacral Therapy. (No author or date provided)

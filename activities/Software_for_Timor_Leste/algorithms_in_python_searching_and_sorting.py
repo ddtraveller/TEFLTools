@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 
 print("Welcome to the Searching and Sorting Algorithms Tutorial!")
-
+print("See the doc in the Readings folder as well.")
 # Searching Algorithms
 
 def linear_search(arr, target):
