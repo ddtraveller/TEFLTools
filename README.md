@@ -10,6 +10,7 @@ Repozitoriu ida-ne'e hanesan kolesaun komprehensivu ida husi materiál edukasaun
 - [Navigation Guide](#navigation-guide)
 - [Key Courses](#key-courses)
 - [Repository Structure](#repository-structure)
+- [Resources](#resources)
 - [Bibliography](#bibliography)
 
 ## Navigation Guide
@@ -159,6 +160,9 @@ Detailed course syllabi for the Key Courses offered.
 - [timorLesteMap/](timorLesteMap/): Resources for creating an interactive map of Timor-Leste
 - [pdf/](pdf/): PDF resources, such as client intake forms for holistic health services
 
+## Resources
+ - Media and pdf course support files here; https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+ 
 ## Bibliography
 
 1. Acupressure's Potent Points. (No author or date provided)
