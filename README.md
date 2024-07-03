@@ -1,6 +1,6 @@
 # TEFLTools: TEFL course material for English language, Regenerative Living and Holistic Practices in Timor-Leste
 
-This repository is a comprehensive collection of educational materials focused on regenerative living, holistic healing practices, and permaculture approaches tailored for Timor-Leste. It also includes resources for software development, beekeeping, English language learning, cultural studies, fiction writing, and TEFL (Teaching English as a Foreign Language) content.
+This repository is a comprehensive collection of educational materials focused on regenerative living, holistic healing practices, and permaculture approaches tailored for Timor-Leste. It also includes resources for software development, cultural studies, fiction writing, and TEFL (Teaching English as a Foreign Language) content.
 
 ## Table of Contents
 
@@ -111,7 +111,7 @@ Utility scripts for various purposes, including:
 Detailed course syllabi for the Key Courses offered.
 
 ### Additional Resources
-- [recipes/](recipes/): Traditional and medicinal recipes relevant to Timor-Leste
+- [recipes/](recipes/): Traditional and other recipes relevant to Timor-Leste
 - [timorLesteMap/](timorLesteMap/): Resources for creating an interactive map of Timor-Leste
 - [pdf/](pdf/): PDF resources, such as client intake forms for holistic health services
 
