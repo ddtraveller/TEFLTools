@@ -1,4 +1,5 @@
-# TEFLTools: TEFL course material for English language, Regenerative Living and Holistic Practices in Timor-Leste
+# TEFLTools: TEFL course material for English language, Regenerative Living, Holistic Practices, Programming and Technology in Timor-Leste
+## materiál kursu TEMF ba lian Ingles, Moris Rejenerativu, Pratika Holistika, Programa no Teknolojia iha Timor-Leste.
 
 This repository is a comprehensive collection of educational materials focused on regenerative living, holistic healing practices, and permaculture approaches tailored for Timor-Leste. It also includes resources for software development, cultural studies, fiction writing, and TEFL (Teaching English as a Foreign Language) content.
 
