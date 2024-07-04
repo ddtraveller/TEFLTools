@@ -162,6 +162,7 @@ Detailed course syllabi for the Key Courses offered.
 
 ## Resources
  - Media and pdf course support files here; https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+ - [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
  
 ## Bibliography
 

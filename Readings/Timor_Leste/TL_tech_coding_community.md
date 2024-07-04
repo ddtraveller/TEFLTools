@@ -4,17 +4,13 @@ Here's a comprehensive resource on Timorese tech/coding community forums and mee
 
 ## Online Forums and Communities
 
-1. Timor-Leste Tech Hub (Facebook Group)
-   - Active community of local tech enthusiasts
-   - Regular discussions on programming, web development, and IT topics
-   - Link: [Timor-Leste Tech Hub](https://www.facebook.com/groups/timorlestetechhub)
-
-2. Learning Tetun (Discord Server)
+1. Learning Tetun (Discord Server)
    - Link: [Learning Tetun](https://discord.gg/DaBJG2Gn)
 
-3. Tetun/English translator
+2. Tetun/English translator
    - [English Tetun translation] (https://tetun.org/)
-
+3. Tetun and TL resources
+   [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
 
 ## Local Meetups and Events
 
