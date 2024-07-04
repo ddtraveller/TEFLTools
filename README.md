@@ -3,8 +3,14 @@
 
 This repository is a comprehensive collection of educational materials focused on regenerative living, holistic healing practices, and permaculture approaches tailored for Timor-Leste. It also includes resources for software development, cultural studies, fiction writing, and TEFL (Teaching English as a Foreign Language) content.
 
+Support media for the courses can be found here;
+https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+
 Repozitoriu ida-ne'e hanesan kolesaun komprehensivu ida husi materiál edukasaun nian ne'ebé foka liu ba prátika moris rejenerativu, kura holistiku, no aprosimasaun permakultura ne'ebé adapta ba Timor-Leste. Ida ne'e mós inklui rekursu sira ba dezenvolvimentu software, estudu kulturál, hakerek fiksaun, no konteúdu TEFL (Teaching English as a Foreign Language).
 
+Bele hetan média apoiu ba kursu sira iha ne'e; 
+ https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+ 
 ## Table of Contents
 
 - [Navigation Guide](#navigation-guide)
