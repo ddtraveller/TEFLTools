@@ -9,8 +9,9 @@ Here's a comprehensive resource on Timorese tech/coding community forums and mee
 
 2. Tetun/English translator
    - [English Tetun translation] (https://tetun.org/)
+   
 3. Tetun and TL resources
-   [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
+   - [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
 
 ## Local Meetups and Events
 
