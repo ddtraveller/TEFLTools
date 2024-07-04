@@ -51,6 +51,24 @@ Key concepts in the Data Link layer include:
 - **Error Detection**: Techniques such as Cyclic Redundancy Check (CRC) are used to detect and discard corrupted frames.
 - **Flow Control**: Mechanisms to prevent a fast sender from overwhelming a slow receiver.
 
+## Modelu TCP/IP 
+ Modelu TCP/IP, ne'ebé mós koñesidu hanesan protokolu internét, mak implementasaun pratiku ida husi modelu OSI. Dezenvolve husi Departamentu Defeza Estadus Unidus (DoD) no sai ona hanesan baze ba komunikasaun internét modernu. Modelu TCP/IP kompostu husi kuadru haat: 
+ 1. ** Rede Interface Layer**: Layer ida-ne'e korresponde ba kombinasaun Layer Fíziku no Dadus Ligasaun iha modelu OSI. Nia trata transmisaun fíziku dadus no protokolu sira ne'ebé uza atu asesu ba rede média. 
+ 2. ** Internet Layer**: Internet layer mak hanesan ho Rede iha modelu OSI. Nia mak responsavel atu responde, halo pakote dadus no halo rotasaun iha rede oin-oin liu husi Protokolu Internet (IP). 
+ 3. **Layer Transporte**: Layer Transporte iha modelu TCP/IP hanesan ho Layer Transporte iha modelu OSI. Nia fornese servisu komunikasaun ikus ba rohan no asegura entrega dadus ne'ebé fiar-na'in. Protokolu prinsipál rua iha kuadru ida-ne'e mak Protokolu Kontrolu Transmisaun (TCP) no Protokolu Dadus Uzaun (UDP). 
+ 4. * Layer Aplikasaun**: Layer Aplikasaun iha modelu TCP/IP kombina funsaun Sesaun, Aprezentasaun, no Layer Aplikasaun husi modelu OSI. Ida ne'e inklui protokolu sira hanesan HTTP, log, SMTP, no DNS, ne'ebé interasa diretamente ho aplikasaun utilizadór sira. 
+ ## Foku ba Layer 2 (Data Link) no Layer 3 ( Rede) 
+ Maske modelu OSI no TCP/IP hotu-hotu ne'e esensiál ba komunikasaun rede, Layer 2 (Data Link) no Layer 3 (Rework) partikularmente importante atu kompriende oinsá transfere dadus entre ekipamentu no rede sira. 
+ ## Layer 2 (Data Link) 
+ Ligasaun dadus nian mak responsavel ba transferénsia dadus ne'ebé fiar-na'in entre ekipamentu rua ne'ebé liga diretamente. Ne'e inklui sublayers rua: 
+ 1. ** Kontrola Ligasaun Lojika (LLC) **: Protokolu multiplexe sub-layer ne'e hala'o iha leten layer Data Link no opsaun atu fornese kontrolu flow, rekoñesimentu, no notifikasaun erru. 
+ 2. ** Media Access Control (MAC) **: Sublayer ida-ne'e mak responsavel ba kontrolu asesu ba rede média. Nia define eskema atu hatán uza diresaun MAC no regra atu determina bainhira mak ekipamentu ida bele transmite dadus. 
+ Konseitu xave sira iha ligasaun dadus inklui: 
+ - **Adresa ba MAK**: Diresaun úniku ba hardware 48-bit ne'ebé atribui ba kartaun interfísiu rede (NICs) husi produtor sira. 
+ - **Framing**: Prosesu enkapasamentu dadus husi kuartu leten ba enkuadramentu, ne'ebé mak unidade báziku ba transmisaun iha kuartu Data Link. 
+ - ** Detesaun erru**: Teknika sira hanesan Siklic Redundensia Check (CRC) uza atu deteta no hasai kuadru korruptu sira. 
+ - **Kontrola lalais**: Mekanizmu atu prevene ema ne'ebé haruka lalais simu lalais.
+ 
 ### Layer 3 (Network)
 
 The Network layer is responsible for routing data packets between different networks. It provides logical addressing and determines the best path for data to travel from source to destination. The primary protocol at this layer is the Internet Protocol (IP).

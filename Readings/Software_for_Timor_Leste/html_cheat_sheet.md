@@ -61,3 +61,49 @@ Global attributes are attributes that can be used on any HTML element to provide
 - `data-*`: Allows custom data attributes to be added to elements, which can be accessed and manipulated with JavaScript. The asterisk (`*`) is replaced with a specific name for the data attribute.
 
 This cheat sheet covers the essential elements and concepts of HTML and HTML5. For more detailed information and advanced topics, refer to the official HTML specification and web development resources.
+
+# HTML/HTML5 Karta trigu 
+ # # Estrutura Baziku 
+ Estrutura bázika dokumentu HTML nian inklui deklarasaun <!DOTYPE html>, elementu huun <html> ho atribuisaun "lang," seksaun "<head>" ba informasaun metadadu no dokumentu, no seksaun "<body>" ba konteúdu prinsipál pájina nian. 
+ "Html 
+ DOTYPE html> Htmllang="en"> Ulun Meta jawset="UTF-8"> 
+ Titulu pájina</titulu> 
+ Ulun-toos Body> Konteudu pájina ba iha ne'e --> 
+ Body> Html> " 
+ # # # Elementu komún 
+ - 
+: Elementu Paragrafu, uza atu reprezenta parágrafu ida husi testu. 
+ -<h1> to'o <h6>: Elementu sira ne'ebé uza atu reprezenta títulu seksaun ho nivel importánsia diferente. <h1> mak nivel aas liu no <h6> mak ki'ik liu. 
+ - <a href=">: Elementu Anchor, ne'ebé uza atu kria hiperlinks ba pájina web seluk ka ba seksaun sira iha pájina ida deit. Atribuisaun "href" espesífika ligasaun alvu. 
+ -<img src="" alt=">: Elementu imajen, ne'ebé uza atu inklui imajen sira iha dokumentu HTML. Atribuisaun "src" espesífika fonte imajen, no atribuisaun "alt" fornese testu alternativu ba asesibilidade. 
+ -<ul>,<ol>,<li>: Lista elementu sira, ne'ebé uza atu kria lista ne'ebé la iha orden (bullet) ho lista ne'ebé la iha orden (<ul>) no númeru (numeru) ho <ol>. Lista item sira reprezenta husi elementu sira. 
+ -<div>: Elementu Divizaun, kontentór jerál ne'ebé uza ba konteúdu grupu no estilu. 
+ -<span>: Konteiner jerál ne'ebé iha ligasaun, uza ba elementu grupu no estilu iha ligasaun sein halo rahun dokumentu nia suli. 
+ # # HTML5 Elementu Semantiku 
+ HTML5 introdús elementu semantiku sira ne'ebé fó signifikasaun no estrutura ba konteúdu pájina web. Elementu hirak-ne'e ajuda buka mákina, lee-nain sira ne'ebé haree, no dezenvolve-nain sira atu komprende objetivu husi parte oioin husi dokumentu ne'e. 
+ -<head>: Reprezentante konteúdu introdutóriu, hanesan logo, navigasaun, ka banner. 
+ -<nav>: Reprezentante seksaun ida kona-ba ligasaun navigasaun, baibain uza ba menu prinsipál iha website. 
+ -<main>: Reprezentante konteúdu prinsipál husi dokumentu nee, úniku ba pájina nee. 
+ -<artigu>: Reprezentante kompozisaun ne'ebé iha konteúdu rasik, hanesan postu blog, artigu notísia, ka postu forum. 
+ -<seksaun> Reprezentante seksaun jerál ida husi dokumentu nee, baibain uza ba konteúdu relasiona ho grupu. 
+ -<aside>: Reprezentante konteúdu ne'ebé tangente relasiona ho konteúdu prinsipál sira, hanesan kaixa boot ka kaixa call-out. 
+ -<footer>: Reprezentante footer husi dokumentu ka seksaun ida, baibain kontein informasaun kona-ba autór, notísia direitu direitu, ka ligasaun sira ne'ebé iha relasaun. 
+## Formasaun Elementu 
+ HTML fornese elementu formuláriu oioin atu halibur input utilizadór no submete dadus ba serveiru ida. 
+ - <form action="" métodu=">: Reprezentante formuláriu ida, ho asaun ne'ebé espesífika URL ne'ebé submete dadus formuláriu nian no métodu ne'ebé espesífika métodu ne'e métodu (ezemplu, "get" ka "postu"). 
+ - <input type=">: Reprezentante kampu input ida, ho tipu atribuisaun espesífika tipu input (ezemplu, "textu," "radia," "checkbox," "password," "email," "number," etc.). 
+ -<textu>: Reprezentante kampu input testu multi-line. 
+ -<select> no<opsaun>: Reprezentante lista drop-down, ho elementu <opsaun> ne'ebé reprezenta opsaun sira ne'ebé disponivel. 
+ -< Button type="submit">: Reprezentante knotak submisaun ba formuláriu. 
+ ## Elementu Komunikasaun Sosial 
+ HTML5 introdús apoiu nasionál ba konteúdu multimedia, hanesan audio no vídeo, sein nesesidade ba plugins. 
+ -<audio>: Reprezentante ba player audio, ho atribuisaun src espesífika fonte fail audio ka elementu <source> ne'ebé la iha iha laran ba fonte oioin. 
+ -<video>: Reprezentante ba vídeo-nain ida, ho atribuisaun "src" ne'ebé espesífika fonte fail vídeo ka elementu "<source>" ne'ebé la iha iha laran ba fonte oioin. 
+ -<source> Reprezentante fonte média ida ba elementu <audio> no <video>, ne'ebé permite formatu oioin atu asegura kompatibilidade navegador. 
+ ## 
+ Atributu globál mak atributu ne'ebé bele uza iha kualkér elementu HTML atu fornese funsionalidade adisionál ka metadadu. 
+ - Klase: Espesifika naran klase CSS ida ka liu ba elementu ida, uza ba estilu no hili elementu ho JavaScript. 
+ - ID: Espesifika identifikador úniku ida ba elementu ida, ne'ebé uza ba estilu, ligasaun, no hili elementu ho JavaScript. 
+ - estilu: Espesifika estilu CSS iha liña ba elementu ida, liu husi estilu esternu. 
+ - Data-*: Husik atributu dadus kostumeiru sira atu aumenta ba elementu sira, ne'ebé bele hetan asesu no manipulasaun ho JavaScript. Asterisk (*') troka ho naran espesífiku ba atribuisaun dadus. 
+ Kaixa bosok ne'e kobre elementu no konseitu esensiál sira husi HTML no HTML5. Atu hetan informasaun detalladu liu no tópiku avansadu sira, refere ba espesifikasaun ofisiál HTML no rekursu dezenvolvimentu web.

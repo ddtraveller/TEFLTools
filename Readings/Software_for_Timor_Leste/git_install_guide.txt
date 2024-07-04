@@ -24,3 +24,25 @@ This guide will walk you through installing Git on your Windows, macOS, or Linux
 3. Verify the installation by running: `git --version`
 
 After installation, proceed to configure Git with your name and email address for proper attribution of your work.
+
+# Matadalan ba instalasaun Git 
+ Matadalan ida-ne'e sei la'o liu husi instalasaun Git iha ita-nia komputadór Windows, macOS, ka Linux. 
+ ## Windows 
+ 1. Vizita website ofisiál Git: https://git-scm.com/ download/win 
+ 2. Download Git foun ba Windows setup file. 
+ 3. Halo instalador no halo tuir setup wizard. 
+ 4. Hili opsaun sira ne'ebé lalika se laiha preferénsia espesífiku. 
+ 5. Bainhira instalasaun remata, loke Git Bash atu hahú uza Git. 
+ ## macOS 
+ 1. Vizita website ofisiál Git: https://git-scm.com/ download/mac 
+ 2. Halo download ba instalador foun Git ba macOS. 
+ 3. Loke arkivu.dmg no hala'o instalador iha laran. 
+ 4. Halo tuir instalador nia promptus, hodi halo tuir opsaun sira ne'ebé lalika, se la iha preferénsia espesífiku. 
+ 5. Bainhira instaladu tiha, bele asesu ba Git liu husi aplikasaun Terminal. 
+ ## Linux 
+ 1. Loke janela terminál ida. 
+ 2. Uza ita-nia jestaun pakote distribuisaun atu instala Git. Porezemplu: 
+ - Ubuntu ka Debian: sudo apt instala git-all 
+ - Fedora: sudo dnf instala git-all 
+ 3. Verifika instalasaun liuhosi hala'o: "git --version" 
+ Hafoin instalasaun, kontinua konfigura Git ho Ita-nia naran no e-mail hodi fó atribuisaun di'ak ba Ita-nia servisu.

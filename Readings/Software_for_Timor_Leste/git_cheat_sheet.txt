@@ -107,3 +107,100 @@
 Remember, this cheat sheet covers the most commonly used Git commands. Git provides many more commands and options for advanced use cases, such as rebasing, stashing, and submodules. Refer to the official Git documentation for a comprehensive guide to Git's features and capabilities.
 
 When working with Git, it's essential to follow best practices, such as writing meaningful commit messages, creating focused and descriptive branches, and regularly pushing your changes to remote repositories. Effective use of Git enables collaboration, version control, and the ability to revert changes when needed.
+
+---
+
+# Git nia surat-tahan 
+ # # Komandu báziku 
+ - inísiu: Inisia repozitóriu foun ida husi Git iha diresaun atual. 
+ "Basa 
+ # Kriasaun diresaun foun ida no inisia repozitoriu Git 
+ MKdir my-project 
+ CD ha'u-nia projetu 
+ Git hahú 
+ " 
+ -git clone <url>: Clone repozitóriu ida husi fonte remote, hanesan GitHub ka GitLab. 
+ "Basa 
+ # Clone repozitóriu ida husi URL remote 
+ Git clone https://github.com/username/repository.git 
+ " 
+ -git add <file>: Halo fail ba kompromisu, prepara ba kompromisu tuir mai. 
+ "Basa 
+ # Halo fail ida de'it 
+ Git add README.md 
+ # Faze arkivu oioin 
+ Git add file1.txt file2.txt 
+ # Faze hotu-hotu modifikadu no fail foun 
+ Git aumenta. 
+ " 
+ -git kompromete -m "mensajen": Kompromete arkivu ho mensajen deskrisaun. 
+ "Basa 
+ # Kompromete fail sira ne'ebé iha mensajen 
+ Git kompromete -m "Atu hatudu fail README" 
+ " 
+ - estatutu git: Haree ba ita-nia repozitóriu nia estatutu atuál, hatudu arkivu modifikadu, estajiadu, no la hetan track. 
+ "Basa 
+ # Haree repozitoriu nia estatutu 
+ Estatutu Git 
+ " 
+ - "Liafuan ": Haree istória kona-ba ema ne'ebé hakerek istória kona-ba ema ne'ebé hakerek istória kona-ba ema ne'e, hatudu ema ne'ebé hakerek karta, ema ne'ebé hakerek karta, no mensajen. 
+ "Basa 
+ # Haree to'ok istória 
+ Git log 
+ # Haree istória ne'ebé kondensadu 
+ Git log --oneline 
+ " 
+ ## Fila fali 
+ - Sukursal git: Lista sukursal hotu iha repozitóriu. 
+ "Basa 
+ # Lista sukursal lokál 
+ Git branch 
+ " 
+ -git branch <branch-name>: Kriasaun sukursal foun ho naran espesífiku. 
+ "Basa 
+ # Halo sukursal foun 
+ Git branch-x 
+ " 
+ -git checkout <branch-name>: Switch ba sukursal espesífiku. 
+ "Basa 
+ # Halo mudansa ba sukursal 
+ Git checkout feature-x 
+ " 
+ -git merge <branch-name>: Merge sukursal espesífiku ba sukursal atual. 
+ "Basa 
+ # Hatama sukursal ida ba sukursal ohin loron 
+ Git merge feature-x 
+ " 
+ ## Repozitoriu Remote 
+ -git remote add <name> <url>: Aumenta repozitóriu remote ho naran no URL espesífiku. 
+ "Basa 
+ # Aumenta repozitóriu remote 
+ Git remote add origin https://github.com/username/repository.git 
+ " 
+ -git push <remote> <branch>: Push sukursal espesífiku ba repozitóriu remote. 
+ "Basa 
+ # Foti sukursal atuál ba iha fatin dook 
+ Git dudu orijinál prinsipál 
+ " 
+ -git pull <remote> <branch>: Pull atualiza husi sukursal espesífiku husi repozitóriu remote. 
+ "Basa 
+ # Foti informasaun husi repozitoriu remote 
+ Git pull origin main 
+ " 
+ -git fitch <remote>: Hetan atualizaun husi repozitóriu remote sein halibur ba sukursal atual. 
+ "Basa 
+ # Hetan informasaun husi repozitoriu remote 
+ Git kaer orijen 
+ " 
+ # # Hadook an husi mudansa 
+ - Git reverse <commit>: Reversa kompromisu espesífiku ida hodi kria kompromisu foun ida-ne'ebé la halo mudansa sira. 
+ "Basa 
+ # Halo fali komitmentu 
+ Git troka abc123 
+ " 
+ - re-set <file>: Halo fila-fali fail ida, hasai tiha husi fatin estajiariu. 
+ "Basa 
+ # Halo fail 
+ Git reset README.md 
+ " 
+ -git check-out -- <file>: Hadook tiha mudansa iha arkivu ida, hodi troka ba estadu ikus ne'ebé komete ona.

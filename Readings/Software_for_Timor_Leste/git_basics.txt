@@ -26,3 +26,23 @@ git commit -m "Update HTML content to pass the test"
 
 # copy the files to github
 git push
+
+---
+
+# Komprende didi'ak kona-ba serbisu ne'ebé sira halo 
+ Git mak sistema kontrolu versaun distribuidu ida, ne'ebé signifika katak utilizadór ida-idak iha kopia kompletu husi repozitóriu iha sira-nia mákina lokal. Tuirmai ne'e mak dalan ne'ebé workflow ne'ebé hanesan Git: 
+ 1. **Inisializa repozitoriu ida**: Ita bele kria repozitoriu foun ida iha ita-nia mákina lokál uza "git init," ka klone repozitoriu ida-ne'ebé eziste husi fonte remote (hanesan GitHub) uza klone git. 
+ 2. **Halo mudansa sira**: Kria, modifika, ka hasai arkivu sira iha ita-nia diresaun servisu tuir nesesidade ba ita-nia projetu. 
+ 3. ** Mudansa iha estajiu**: Bainhira ita prontu atu salva ita-nia mudansa sira, uza "git add" hodi halo faze ba arkivu modifikadu sira ba kompromisu. 
+ 4. ** Mudansa iha kompromisu**: Uza kompromisu atu salva nafatin mudansa iha ita-nia repozitóriu lokál. Kada kompromisu iha ID úniku no mensajen ida-ne'ebé deskreve mudansa sira. 
+ 5. **Push changes**: Atu fahe ita-nia kompromisu ho ema seluk, uza "git push" hodi haruka ita-nia kompromisu lokál ba repozitóriu remote (hanesan ema ne'ebé simu iha GitHub). 
+ 6. **Haree mudansa sira**: Uza pull-git hodi kaer no halo atualizaun husi repozitóriu remote ba ita-nia repozitóriu lokal, hodi halo sinál ho utilizadór sira seluk. 
+ Enkuantu GitHub mak plataforma populár ida atu organiza repozitoriu sira husi Git, maibé la'ós opsaun úniku. Ita bele fahe repozitóriu sira liu husi servisu hosting sira seluk, ka mós diretamente entre komputadór sira uza protokolu sira hanesan HTTP, SSH, ka Git mak protokolu rasik. 
+ Vantajen prinsipál husi Git mak modelu distribuisaun mak katak utilizadór ida-idak iha backup kompletu ba repozitóriu, hodi permite servisu offline no fleksibilidade iha fluxu servisu kolaborasaun. 
+ # Atualiza arkivu 
+ Eko "<html></head><body>Hello Timor Leste!</body></html>" > index.html 
+ # Halo mudansa sira 
+ Git add index.html 
+ Git kompromete -m "Haree fali konteúdu HTML hodi halo teste" 
+ # kopia fail ba github 
+ Git dudu.
