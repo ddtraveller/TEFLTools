@@ -1,0 +1,305 @@
+{
+  "title": "Planting Techniques and Crop Selection",
+  "questions": [
+    {
+      "question": "What is the primary goal of bio-intensive planting methods?",
+      "choices": [
+        "To maximize crop yield from a small area while maintaining soil fertility",
+        "To reduce the need for crop rotation",
+        "To eliminate the need for composting",
+        "To increase water usage in gardening"
+      ],
+      "answer": "To maximize crop yield from a small area while maintaining soil fertility"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of bio-intensive planting?",
+      "choices": [
+        "Deep soil preparation",
+        "Intensive planting",
+        "Monoculture farming",
+        "Composting"
+      ],
+      "answer": "Monoculture farming"
+    },
+    {
+      "question": "What is triangular spacing in gardening?",
+      "choices": [
+        "Planting crops in a triangular pattern rather than in rows",
+        "Using triangular-shaped garden beds",
+        "Planting three different crops in each bed",
+        "Rotating crops every three months"
+      ],
+      "answer": "Planting crops in a triangular pattern rather than in rows"
+    },
+    {
+      "question": "Which of the following is a benefit of triangular spacing?",
+      "choices": [
+        "Reduces competition between plants",
+        "Increases water usage",
+        "Promotes pest growth",
+        "Decreases overall yield"
+      ],
+      "answer": "Reduces competition between plants"
+    },
+    {
+      "question": "What is companion planting?",
+      "choices": [
+        "Growing different plants together for mutual benefit",
+        "Planting the same crop in multiple locations",
+        "Using only native plant species",
+        "Growing plants in greenhouses"
+      ],
+      "answer": "Growing different plants together for mutual benefit"
+    },
+    {
+      "question": "Which combination is an example of companion planting?",
+      "choices": [
+        "Tomatoes and basil",
+        "Potatoes and tomatoes",
+        "Onions and beans",
+        "Cabbage and broccoli"
+      ],
+      "answer": "Tomatoes and basil"
+    },
+    {
+      "question": "What is the purpose of crop rotation?",
+      "choices": [
+        "To improve soil health and reduce pest problems",
+        "To increase water usage in the garden",
+        "To promote monoculture farming",
+        "To eliminate the need for fertilizers"
+      ],
+      "answer": "To improve soil health and reduce pest problems"
+    },
+    {
+      "question": "In a basic 4-year crop rotation plan, which type of crop typically follows leaf crops?",
+      "choices": [
+        "Fruit crops",
+        "Root crops",
+        "Legumes",
+        "Grains"
+      ],
+      "answer": "Fruit crops"
+    },
+    {
+      "question": "What is succession planting?",
+      "choices": [
+        "Planting crops at regular intervals to ensure continuous harvest",
+        "Planting crops in a specific order based on their height",
+        "Growing the same crop year after year",
+        "Planting crops only after the previous crop has been fully harvested"
+      ],
+      "answer": "Planting crops at regular intervals to ensure continuous harvest"
+    },
+    {
+      "question": "Which of the following is NOT a factor to consider when selecting crops for Timor-Leste?",
+      "choices": [
+        "Climate adaptability",
+        "Nutritional value",
+        "Export potential",
+        "Cultural preferences"
+      ],
+      "answer": "Export potential"
+    },
+    {
+      "question": "Which crop is a good source of Vitamin A in Timor-Leste?",
+      "choices": [
+        "Sweet potato",
+        "Cassava",
+        "Maize",
+        "Mung beans"
+      ],
+      "answer": "Sweet potato"
+    },
+    {
+      "question": "What is the primary benefit of using open-pollinated seeds in bio-intensive gardening?",
+      "choices": [
+        "Preserving genetic diversity and allowing seed saving",
+        "Increasing crop yield",
+        "Reducing water usage",
+        "Eliminating the need for crop rotation"
+      ],
+      "answer": "Preserving genetic diversity and allowing seed saving"
+    },
+    {
+      "question": "Which of the following is a key principle of carbon farming in bio-intensive methods?",
+      "choices": [
+        "Growing carbon-sequestering crops to improve soil health",
+        "Using carbon-based fertilizers exclusively",
+        "Burning crop residues to release carbon into the atmosphere",
+        "Avoiding the use of compost to reduce carbon content in soil"
+      ],
+      "answer": "Growing carbon-sequestering crops to improve soil health"
+    },
+    {
+      "question": "What is the main purpose of calorie farming in bio-intensive gardening?",
+      "choices": [
+        "To maximize food energy production in a small area",
+        "To reduce the caloric content of crops",
+        "To increase water usage in the garden",
+        "To promote the growth of low-calorie vegetables only"
+      ],
+      "answer": "To maximize food energy production in a small area"
+    },
+    {
+      "question": "How does triangular spacing create a living mulch effect?",
+      "choices": [
+        "By creating a dense plant canopy that shades the soil",
+        "By requiring the use of organic mulch between plants",
+        "By promoting the growth of weeds as ground cover",
+        "By increasing the space between plants"
+      ],
+      "answer": "By creating a dense plant canopy that shades the soil"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of companion planting?",
+      "choices": [
+        "Increased water usage",
+        "Pest control",
+        "Improved pollination",
+        "Maximizing space use"
+      ],
+      "answer": "Increased water usage"
+    },
+    {
+      "question": "In the context of Timor-Leste, which combination represents the 'Three Sisters' companion planting?",
+      "choices": [
+        "Corn, beans, and squash",
+        "Tomatoes, peppers, and eggplant",
+        "Cassava, taro, and sweet potato",
+        "Rice, mung beans, and peanuts"
+      ],
+      "answer": "Corn, beans, and squash"
+    },
+    {
+      "question": "What is the primary purpose of using marigolds as a companion plant?",
+      "choices": [
+        "To repel pests",
+        "To fix nitrogen in the soil",
+        "To provide shade for other plants",
+        "To increase crop yield"
+      ],
+      "answer": "To repel pests"
+    },
+    {
+      "question": "Which of the following crops is typically considered a 'heavy feeder' and should be followed by legumes in a crop rotation plan?",
+      "choices": [
+        "Tomatoes",
+        "Beans",
+        "Carrots",
+        "Lettuce"
+      ],
+      "answer": "Tomatoes"
+    },
+    {
+      "question": "What is the main advantage of interplanting quick-growing crops with slow-growing ones?",
+      "choices": [
+        "Maximizes space utilization and extends harvest period",
+        "Reduces the need for crop rotation",
+        "Eliminates the need for pest control",
+        "Increases water usage efficiency"
+      ],
+      "answer": "Maximizes space utilization and extends harvest period"
+    },
+    {
+      "question": "Which of the following is a good source of protein for Timorese gardens?",
+      "choices": [
+        "Mung beans",
+        "Cassava",
+        "Papaya",
+        "Taro"
+      ],
+      "answer": "Mung beans"
+    },
+    {
+      "question": "What is the primary benefit of including fruit trees like papaya and banana in a Timorese garden?",
+      "choices": [
+        "Provides long-term food security and nutritional diversity",
+        "Reduces the need for annual crops",
+        "Eliminates the need for soil preparation",
+        "Increases water usage efficiency"
+      ],
+      "answer": "Provides long-term food security and nutritional diversity"
+    },
+    {
+      "question": "Which of the following is NOT a recommended leafy green for Timor-Leste?",
+      "choices": [
+        "Iceberg lettuce",
+        "Kankung",
+        "Mustard greens",
+        "Amaranth"
+      ],
+      "answer": "Iceberg lettuce"
+    },
+    {
+      "question": "What is the primary advantage of using raised beds in bio-intensive gardening?",
+      "choices": [
+        "Improved soil drainage and root development",
+        "Reduced need for crop rotation",
+        "Elimination of pest problems",
+        "Increased water usage"
+      ],
+      "answer": "Improved soil drainage and root development"
+    },
+    {
+      "question": "Which of the following practices is most likely to improve soil fertility in a bio-intensive garden?",
+      "choices": [
+        "Regular addition of compost and organic matter",
+        "Frequent tilling of the soil",
+        "Application of synthetic fertilizers",
+        "Removing all plant residues after harvest"
+      ],
+      "answer": "Regular addition of compost and organic matter"
+    },
+    {
+      "question": "What is the main purpose of double-digging in bio-intensive gardening?",
+      "choices": [
+        "To create deep, loose soil for better root growth",
+        "To remove all weeds and their seeds",
+        "To incorporate chemical fertilizers deeply",
+        "To reduce the need for watering"
+      ],
+      "answer": "To create deep, loose soil for better root growth"
+    },
+    {
+      "question": "Which of the following is a key consideration when creating a seasonal planting calendar for Timor-Leste?",
+      "choices": [
+        "The wet and dry seasons",
+        "The length of daylight hours",
+        "The proximity to the equator",
+        "The lunar cycle"
+      ],
+      "answer": "The wet and dry seasons"
+    },
+    {
+      "question": "What is the primary benefit of including legumes in a crop rotation plan?",
+      "choices": [
+        "They fix nitrogen in the soil",
+        "They require less water than other crops",
+        "They are resistant to all pests",
+        "They have the highest calorie content"
+      ],
+      "answer": "They fix nitrogen in the soil"
+    },
+    {
+      "question": "Which of the following crops is NOT typically recommended for intercropping with maize in Timor-Leste?",
+      "choices": [
+        "Tomatoes",
+        "Beans",
+        "Pumpkins",
+        "Peanuts"
+      ],
+      "answer": "Tomatoes"
+    },
+    {
+      "question": "What is the main advantage of using locally adapted, open-pollinated seeds in Timor-Leste?",
+      "choices": [
+        "They are better suited to local growing conditions and can be saved for future seasons",
+        "They produce higher yields than hybrid seeds",
+        "They require less water and nutrients",
+        "They are resistant to all local pests and diseases"
+      ],
+      "answer": "They are better suited to local growing conditions and can be saved for future seasons"
+    }
+  ]
+}

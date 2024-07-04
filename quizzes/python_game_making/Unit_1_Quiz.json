@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Python and Game Concepts",
+  "questions": [
+    {
+      "question": "What is Python primarily known for?",
+      "choices": [
+        "Its complexity and verbosity",
+        "Its simplicity and readability",
+        "Its speed and performance",
+        "Its exclusive use in game development"
+      ],
+      "answer": "Its simplicity and readability"
+    },
+    {
+      "question": "Which symbol is used for single-line comments in Python?",
+      "choices": [
+        "//",
+        "/*",
+        "#",
+        "--"
+      ],
+      "answer": "#"
+    },
+    {
+      "question": "What is the correct way to print 'Hello, Timor-Leste!' in Python?",
+      "choices": [
+        "print 'Hello, Timor-Leste!'",
+        "print('Hello, Timor-Leste!')",
+        "console.log('Hello, Timor-Leste!')",
+        "echo 'Hello, Timor-Leste!'"
+      ],
+      "answer": "print('Hello, Timor-Leste!')"
+    },
+    {
+      "question": "Which of the following is NOT a common data type in Python?",
+      "choices": [
+        "Integer",
+        "Float",
+        "String",
+        "Array"
+      ],
+      "answer": "Array"
+    },
+    {
+      "question": "What is the correct way to declare a variable 'age' with the value 25 in Python?",
+      "choices": [
+        "var age = 25",
+        "int age = 25",
+        "age = 25",
+        "let age = 25"
+      ],
+      "answer": "age = 25"
+    },
+    {
+      "question": "Which operator is used for floor division in Python?",
+      "choices": [
+        "/",
+        "//",
+        "%",
+        "**"
+      ],
+      "answer": "//"
+    },
+    {
+      "question": "What does the '%' operator do in Python?",
+      "choices": [
+        "Percentage calculation",
+        "Modulus (remainder of division)",
+        "Power calculation",
+        "String formatting"
+      ],
+      "answer": "Modulus (remainder of division)"
+    },
+    {
+      "question": "Which comparison operator checks if two values are NOT equal in Python?",
+      "choices": [
+        "<>",
+        "!=",
+        "~=",
+        "/="
+      ],
+      "answer": "!="
+    },
+    {
+      "question": "What is Pygame?",
+      "choices": [
+        "A standalone game engine",
+        "A set of Python modules for writing video games",
+        "A game development IDE",
+        "A Python compiler for games"
+      ],
+      "answer": "A set of Python modules for writing video games"
+    },
+    {
+      "question": "Which function is used to initialize Pygame?",
+      "choices": [
+        "pygame.start()",
+        "pygame.begin()",
+        "pygame.init()",
+        "pygame.setup()"
+      ],
+      "answer": "pygame.init()"
+    },
+    {
+      "question": "What is the purpose of the game loop in game development?",
+      "choices": [
+        "To create infinite games",
+        "To continuously process input, update game state, and render graphics",
+        "To load game assets",
+        "To save game progress"
+      ],
+      "answer": "To continuously process input, update game state, and render graphics"
+    },
+    {
+      "question": "Which Pygame function is used to update the display?",
+      "choices": [
+        "pygame.display.update()",
+        "pygame.screen.refresh()",
+        "pygame.display.flip()",
+        "pygame.render()"
+      ],
+      "answer": "pygame.display.flip()"
+    },
+    {
+      "question": "What does SDL stand for in the context of Pygame?",
+      "choices": [
+        "Simple DirectMedia Layer",
+        "Software Development Library",
+        "System Design Language",
+        "Screen Display Logic"
+      ],
+      "answer": "Simple DirectMedia Layer"
+    },
+    {
+      "question": "Which of the following is NOT a typical phase in a game loop?",
+      "choices": [
+        "Process user input",
+        "Update game state",
+        "Render graphics",
+        "Compile source code"
+      ],
+      "answer": "Compile source code"
+    },
+    {
+      "question": "What is the correct way to exit a Pygame program?",
+      "choices": [
+        "break",
+        "exit()",
+        "pygame.quit()",
+        "sys.exit()"
+      ],
+      "answer": "pygame.quit()"
+    },
+    {
+      "question": "Which Pygame function is used to create a window?",
+      "choices": [
+        "pygame.window.create()",
+        "pygame.display.set_mode()",
+        "pygame.screen.init()",
+        "pygame.surface.new()"
+      ],
+      "answer": "pygame.display.set_mode()"
+    },
+    {
+      "question": "What does RGB stand for in the context of colors in Pygame?",
+      "choices": [
+        "Red, Green, Blue",
+        "Range, Gamma, Brightness",
+        "Render, Generate, Blend",
+        "Raster Graphics Buffer"
+      ],
+      "answer": "Red, Green, Blue"
+    },
+    {
+      "question": "Which Python data type would be most appropriate for storing a player's name?",
+      "choices": [
+        "Integer",
+        "Float",
+        "String",
+        "Boolean"
+      ],
+      "answer": "String"
+    },
+    {
+      "question": "What is the purpose of the pygame.event.get() function?",
+      "choices": [
+        "To create new events",
+        "To retrieve and remove events from the event queue",
+        "To send events to other programs",
+        "To schedule future events"
+      ],
+      "answer": "To retrieve and remove events from the event queue"
+    },
+    {
+      "question": "Which of the following is NOT a valid color representation in Pygame?",
+      "choices": [
+        "(255, 0, 0)",
+        "#FF0000",
+        "pygame.Color('red')",
+        "color.RED"
+      ],
+      "answer": "color.RED"
+    },
+    {
+      "question": "What is the purpose of pygame.time.Clock() in game development?",
+      "choices": [
+        "To display the current time",
+        "To create timed events",
+        "To control the frame rate of the game",
+        "To measure the duration of the game"
+      ],
+      "answer": "To control the frame rate of the game"
+    },
+    {
+      "question": "Which Pygame module is used for drawing shapes?",
+      "choices": [
+        "pygame.graphics",
+        "pygame.shapes",
+        "pygame.draw",
+        "pygame.geometry"
+      ],
+      "answer": "pygame.draw"
+    },
+    {
+      "question": "What does FPS stand for in game development?",
+      "choices": [
+        "First Person Shooter",
+        "Frames Per Second",
+        "Fast Processing System",
+        "File Processing Sequence"
+      ],
+      "answer": "Frames Per Second"
+    },
+    {
+      "question": "Which of the following is NOT a valid event type in Pygame?",
+      "choices": [
+        "pygame.QUIT",
+        "pygame.KEYDOWN",
+        "pygame.MOUSEMOTION",
+        "pygame.CLICK"
+      ],
+      "answer": "pygame.CLICK"
+    },
+    {
+      "question": "What is the purpose of pygame.font.Font() in Pygame?",
+      "choices": [
+        "To create a new font object",
+        "To change the game's font settings",
+        "To load system fonts",
+        "To render text directly to the screen"
+      ],
+      "answer": "To create a new font object"
+    },
+    {
+      "question": "Which method is used to draw a rectangle in Pygame?",
+      "choices": [
+        "pygame.draw.square()",
+        "pygame.draw.rectangle()",
+        "pygame.draw.rect()",
+        "pygame.draw.box()"
+      ],
+      "answer": "pygame.draw.rect()"
+    },
+    {
+      "question": "What is the purpose of pygame.mixer in game development?",
+      "choices": [
+        "To mix colors for graphics",
+        "To handle audio playback",
+        "To combine multiple game objects",
+        "To create particle effects"
+      ],
+      "answer": "To handle audio playback"
+    },
+    {
+      "question": "Which of the following is NOT a valid key constant in Pygame?",
+        "choices": [
+        "pygame.K_SPACE",
+        "pygame.K_RETURN",
+        "pygame.K_ESCAPE",
+        "pygame.K_CLICK"
+      ],
+      "answer": "pygame.K_CLICK"
+    },
+    {
+      "question": "What is the purpose of pygame.sprite.Sprite in game development?",
+      "choices": [
+        "To create 2D game objects",
+        "To handle sprite sheet animations",
+        "To manage groups of game objects",
+        "To render 3D models"
+      ],
+      "answer": "To create 2D game objects"
+    },
+    {
+      "question": "Which method is used to load an image in Pygame?",
+      "choices": [
+        "pygame.image.get()",
+        "pygame.image.load()",
+        "pygame.image.open()",
+        "pygame.image.read()"
+      ],
+      "answer": "pygame.image.load()"
+    }
+  ]
+}

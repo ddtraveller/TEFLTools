@@ -1,0 +1,305 @@
+{
+  "title": "Community Engagement and Outreach for Permagardens",
+  "questions": [
+    {
+      "question": "What is the primary goal of community engagement in permagarden projects?",
+      "choices": [
+        "To increase project funding",
+        "To ensure alignment with community needs and preferences",
+        "To speed up project implementation",
+        "To reduce project costs"
+      ],
+      "answer": "To ensure alignment with community needs and preferences"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of community engagement?",
+      "choices": [
+        "Building trust and relationships",
+        "Identifying and involving key stakeholders",
+        "Imposing external solutions without consultation",
+        "Fostering ownership and empowerment"
+      ],
+      "answer": "Imposing external solutions without consultation"
+    },
+    {
+      "question": "What is a participatory learning approach?",
+      "choices": [
+        "A method where experts lecture community members",
+        "An approach that actively involves learners in the educational process",
+        "A technique for teaching only literate community members",
+        "A strategy for excluding local knowledge from projects"
+      ],
+      "answer": "An approach that actively involves learners in the educational process"
+    },
+    {
+      "question": "Which of the following is an example of a participatory learning technique?",
+      "choices": [
+        "Formal classroom lectures",
+        "Online webinars",
+        "Community mapping",
+        "Standardized testing"
+      ],
+      "answer": "Community mapping"
+    },
+    {
+      "question": "What is the purpose of a focus group in community engagement?",
+      "choices": [
+        "To make decisions for the community",
+        "To gather in-depth insights and opinions on specific topics",
+        "To exclude certain community members from participation",
+        "To replace traditional decision-making processes"
+      ],
+      "answer": "To gather in-depth insights and opinions on specific topics"
+    },
+    {
+      "question": "What is Participatory Rural Appraisal (PRA)?",
+      "choices": [
+        "A government-led assessment of rural areas",
+        "A set of techniques for collaborative analysis of local conditions",
+        "A method for excluding rural communities from decision-making",
+        "A standardized test for rural development projects"
+      ],
+      "answer": "A set of techniques for collaborative analysis of local conditions"
+    },
+    {
+      "question": "Which of the following is a benefit of participatory approaches in permagarden projects?",
+      "choices": [
+        "Decreased community involvement",
+        "Increased project costs",
+        "Enhanced relevance and effectiveness of interventions",
+        "Reduced need for local input"
+      ],
+      "answer": "Enhanced relevance and effectiveness of interventions"
+    },
+    {
+      "question": "What is the first step in planning a community garden project?",
+      "choices": [
+        "Designing the garden layout",
+        "Securing funding",
+        "Assessing community interest and needs",
+        "Purchasing seeds and tools"
+      ],
+      "answer": "Assessing community interest and needs"
+    },
+    {
+      "question": "Who typically oversees the overall project and acts as a liaison with stakeholders in a community garden project?",
+      "choices": [
+        "Site Manager",
+        "Garden Coordinator",
+        "Education Coordinator",
+        "Resource Manager"
+      ],
+      "answer": "Garden Coordinator"
+    },
+    {
+      "question": "What is a common challenge in organizing community garden projects?",
+      "choices": [
+        "Excess water availability",
+        "Too many volunteers",
+        "Sustaining volunteer engagement",
+        "Overabundance of funding"
+      ],
+      "answer": "Sustaining volunteer engagement"
+    },
+    {
+      "question": "Why is cultural sensitivity important in adapting permagarden techniques?",
+      "choices": [
+        "It increases project costs",
+        "It slows down project implementation",
+        "It ensures relevance and sustainability of permagarden projects",
+        "It reduces community participation"
+      ],
+      "answer": "It ensures relevance and sustainability of permagarden projects"
+    },
+    {
+      "question": "What is 'ai-lebo' in the context of Timor-Leste agriculture?",
+      "choices": [
+        "A type of crop rotation",
+        "A traditional practice of using tree branches for soil improvement",
+        "A water conservation technique",
+        "A pest management strategy"
+      ],
+      "answer": "A traditional practice of using tree branches for soil improvement"
+    },
+    {
+      "question": "How can permagarden projects respect local decision-making processes?",
+      "choices": [
+        "By ignoring traditional leaders",
+        "By making all decisions unilaterally",
+        "By involving traditional leaders in project planning",
+        "By implementing projects without community consultation"
+      ],
+      "answer": "By involving traditional leaders in project planning"
+    },
+    {
+      "question": "What is the purpose of a community outreach plan for permagarden promotion?",
+      "choices": [
+        "To exclude certain community members",
+        "To increase project costs",
+        "To promote permagardens and engage the community",
+        "To replace traditional farming methods entirely"
+      ],
+      "answer": "To promote permagardens and engage the community"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a community outreach plan?",
+      "choices": [
+        "Target audience analysis",
+        "Key messages",
+        "Evaluation plan",
+        "Detailed construction blueprints"
+      ],
+      "answer": "Detailed construction blueprints"
+    },
+    {
+      "question": "What role do demonstration plots play in permagarden outreach?",
+      "choices": [
+        "They replace the need for community gardens",
+        "They provide hands-on learning opportunities",
+        "They increase project costs",
+        "They exclude community participation"
+      ],
+      "answer": "They provide hands-on learning opportunities"
+    },
+    {
+      "question": "What is the purpose of organizing field trips to successful permagardens?",
+      "choices": [
+        "To increase tourism in the area",
+        "To showcase failures in other projects",
+        "To provide practical examples and inspiration",
+        "To discourage community participation"
+      ],
+      "answer": "To provide practical examples and inspiration"
+    },
+    {
+      "question": "How can permagarden projects engage youth effectively?",
+      "choices": [
+        "By excluding them from all activities",
+        "By focusing only on traditional farming methods",
+        "By collaborating with local schools to set up school gardens",
+        "By implementing age restrictions on participation"
+      ],
+      "answer": "By collaborating with local schools to set up school gardens"
+    },
+    {
+      "question": "What is the benefit of using local languages and dialects in permagarden outreach?",
+      "choices": [
+        "It complicates project implementation",
+        "It excludes certain community members",
+        "It increases project costs",
+        "It enhances understanding and acceptance of new practices"
+      ],
+      "answer": "It enhances understanding and acceptance of new practices"
+    },
+    {
+      "question": "How can storytelling be used effectively in permagarden outreach?",
+      "choices": [
+        "To exclude illiterate community members",
+        "To complicate project explanations",
+        "To share experiences and knowledge in a culturally relevant way",
+        "To replace all other forms of communication"
+      ],
+      "answer": "To share experiences and knowledge in a culturally relevant way"
+    },
+    {
+      "question": "What is the purpose of conducting a community assessment before implementing a permagarden project?",
+      "choices": [
+        "To delay project implementation",
+        "To increase project costs",
+        "To understand existing practices and identify cultural preferences",
+        "To exclude certain community members from participation"
+      ],
+      "answer": "To understand existing practices and identify cultural preferences"
+    },
+    {
+      "question": "How can permagarden projects address water scarcity concerns in communities?",
+      "choices": [
+        "By ignoring water issues",
+        "By implementing water-intensive practices",
+        "By explaining and demonstrating water-efficient techniques",
+        "By relocating communities to water-rich areas"
+      ],
+      "answer": "By explaining and demonstrating water-efficient techniques"
+    },
+    {
+      "question": "What is the role of a Resource Manager in a community garden project?",
+      "choices": [
+        "To oversee overall project implementation",
+        "To manage day-to-day garden operations",
+        "To organize workshops and training sessions",
+        "To manage tools, seeds, and other supplies"
+      ],
+      "answer": "To manage tools, seeds, and other supplies"
+    },
+    {
+      "question": "How can permagarden projects ensure long-term sustainability?",
+      "choices": [
+        "By relying solely on external funding",
+        "By excluding community members from decision-making",
+        "By developing local capacity through training and mentorship",
+        "By implementing rigid, unchangeable project plans"
+      ],
+      "answer": "By developing local capacity through training and mentorship"
+    },
+    {
+      "question": "What is the purpose of incorporating traditional crops into permagarden designs?",
+      "choices": [
+        "To completely replace modern crop varieties",
+        "To complicate garden management",
+        "To respect local preferences and increase acceptance",
+        "To reduce garden productivity"
+      ],
+      "answer": "To respect local preferences and increase acceptance"
+    },
+    {
+      "question": "How can role-playing exercises be used in permagarden training?",
+      "choices": [
+        "To exclude certain community members",
+        "To practice community engagement scenarios",
+        "To replace actual gardening activities",
+        "To increase project costs"
+      ],
+      "answer": "To practice community engagement scenarios"
+    },
+    {
+      "question": "What is the benefit of organizing cooking demonstrations using garden produce?",
+      "choices": [
+        "To exclude non-cooking community members",
+        "To increase project costs",
+        "To promote nutrition education and demonstrate produce use",
+        "To replace traditional cooking methods entirely"
+      ],
+      "answer": "To promote nutrition education and demonstrate produce use"
+    },
+    {
+      "question": "How can permagarden projects address the challenge of sustaining volunteer engagement?",
+      "choices": [
+        "By reducing volunteer opportunities",
+        "By implementing strict participation requirements",
+        "By offering diverse roles and celebrating achievements",
+        "By relying solely on paid staff"
+      ],
+      "answer": "By offering diverse roles and celebrating achievements"
+    },
+    {
+      "question": "What is the purpose of creating a seasonal planting calendar in permagarden projects?",
+      "choices": [
+        "To complicate garden management",
+        "To exclude traditional planting practices",
+        "To align planting with local climate and cultural cycles",
+        "To increase dependence on external inputs"
+      ],
+      "answer": "To align planting with local climate and cultural cycles"
+    },
+    {
+      "question": "How can permagarden projects effectively measure the success of their community engagement efforts?",
+      "choices": [
+        "By focusing solely on crop yields",
+        "By ignoring community feedback",
+        "By using both quantitative and qualitative metrics",
+        "By implementing standardized tests for all participants"
+      ],
+      "answer": "By using both quantitative and qualitative metrics"
+    }
+  ]
+}

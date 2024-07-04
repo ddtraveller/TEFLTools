@@ -1,5 +1,3 @@
-Based on the provided Python tutorial content, I'll create a localized syllabus for an introductory Python programming course tailored for Timor-Leste. I'll adapt the content to be culturally relevant and appropriate for the local context.
-
 # Introduction to Python Programming for Timor-Leste
 
 ## Course Overview and Objectives

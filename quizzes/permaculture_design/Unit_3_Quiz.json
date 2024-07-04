@@ -1,0 +1,305 @@
+{
+  "title": "Water Management Techniques for Permagardens in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary purpose of swales in water management?",
+      "choices": [
+        "To increase water runoff",
+        "To capture and retain water",
+        "To create barriers for plants",
+        "To promote soil erosion"
+      ],
+      "answer": "To capture and retain water"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of mulching?",
+      "choices": [
+        "Reduces evaporation",
+        "Suppresses weed growth",
+        "Improves soil structure",
+        "Increases water runoff"
+      ],
+      "answer": "Increases water runoff"
+    },
+    {
+      "question": "What is a berm in the context of water management?",
+      "choices": [
+        "A deep hole for water storage",
+        "A raised earth bank or ridge",
+        "A type of irrigation system",
+        "A water-resistant plant species"
+      ],
+      "answer": "A raised earth bank or ridge"
+    },
+    {
+      "question": "What is the recommended depth for water retention holes?",
+      "choices": [
+        "10-20cm",
+        "30-40cm",
+        "60-100cm",
+        "150-200cm"
+      ],
+      "answer": "60-100cm"
+    },
+    {
+      "question": "Which of the following is NOT a suitable mulching material in Timor-Leste?",
+      "choices": [
+        "Rice straw",
+        "Coconut husks",
+        "Plastic sheets",
+        "Dried leaves"
+      ],
+      "answer": "Plastic sheets"
+    },
+    {
+      "question": "What is the primary function of a first flush diverter in a rainwater harvesting system?",
+      "choices": [
+        "To increase water pressure",
+        "To filter out contaminants from the initial rainfall",
+        "To measure the amount of rainfall",
+        "To distribute water evenly in the garden"
+      ],
+      "answer": "To filter out contaminants from the initial rainfall"
+    },
+    {
+      "question": "Which water management technique involves creating shallow channels along the contour of a slope?",
+      "choices": [
+        "Berms",
+        "Swales",
+        "Mulching",
+        "Water retention holes"
+      ],
+      "answer": "Swales"
+    },
+    {
+      "question": "What is the recommended thickness for applying mulch around plants?",
+      "choices": [
+        "1-2cm",
+        "5-10cm",
+        "15-20cm",
+        "25-30cm"
+      ],
+      "answer": "5-10cm"
+    },
+    {
+      "question": "Which principle is fundamental to effective water management in permagardens?",
+      "choices": [
+        "Fast, spread, and sink",
+        "Slow, concentrate, and drain",
+        "Slow, spread, and sink",
+        "Fast, concentrate, and evaporate"
+      ],
+      "answer": "Slow, spread, and sink"
+    },
+    {
+      "question": "What is the main purpose of shade techniques in water management?",
+      "choices": [
+        "To increase water runoff",
+        "To promote faster plant growth",
+        "To reduce water loss through evaporation",
+        "To increase soil temperature"
+      ],
+      "answer": "To reduce water loss through evaporation"
+    },
+    {
+      "question": "Which tool is commonly used to mark contour lines for swale construction?",
+      "choices": [
+        "Theodolite",
+        "A-frame level",
+        "Laser level",
+        "GPS device"
+      ],
+      "answer": "A-frame level"
+    },
+    {
+      "question": "What is the primary benefit of water retention holes?",
+      "choices": [
+        "To increase water runoff",
+        "To store water and slowly release it to surrounding areas",
+        "To promote faster evaporation",
+        "To create barriers for plant roots"
+      ],
+      "answer": "To store water and slowly release it to surrounding areas"
+    },
+    {
+      "question": "Which of the following is NOT a component of a basic roof catchment system for rainwater harvesting?",
+      "choices": [
+        "Catchment area (roof)",
+        "Gutters and downpipes",
+        "First flush diverter",
+        "Irrigation sprinklers"
+      ],
+      "answer": "Irrigation sprinklers"
+    },
+    {
+      "question": "What is the main challenge Timor-Leste faces during the wet season?",
+      "choices": [
+        "Water scarcity",
+        "Soil erosion and nutrient leaching",
+        "Excessive plant growth",
+        "Decreased humidity"
+      ],
+      "answer": "Soil erosion and nutrient leaching"
+    },
+    {
+      "question": "Which water management technique is most effective for reducing soil erosion on slopes?",
+      "choices": [
+        "Mulching",
+        "Water retention holes",
+        "Swales and berms",
+        "Shade techniques"
+      ],
+      "answer": "Swales and berms"
+    },
+    {
+      "question": "What should be considered when determining the size of a rainwater storage tank?",
+      "choices": [
+        "Only the roof area",
+        "Only the rainfall patterns",
+        "Both roof area and rainfall patterns",
+        "Neither roof area nor rainfall patterns"
+      ],
+      "answer": "Both roof area and rainfall patterns"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of implementing water management techniques in Timor-Leste?",
+      "choices": [
+        "Increased food security",
+        "Improved soil health",
+        "Enhanced crop yields",
+        "Reduced biodiversity"
+      ],
+      "answer": "Reduced biodiversity"
+    },
+    {
+      "question": "What is the primary purpose of a check dam in water management?",
+      "choices": [
+        "To increase water flow speed",
+        "To prevent water from flowing",
+        "To slow down water flow and reduce erosion",
+        "To create a water reservoir for irrigation"
+      ],
+      "answer": "To slow down water flow and reduce erosion"
+    },
+    {
+      "question": "Which of the following is a suitable plant for stabilizing berms in Timor-Leste?",
+      "choices": [
+        "Rice",
+        "Lemongrass",
+        "Tomatoes",
+        "Lettuce"
+      ],
+      "answer": "Lemongrass"
+    },
+    {
+      "question": "What is the main advantage of using coconut husks as mulch in Timor-Leste?",
+      "choices": [
+        "Rapid decomposition",
+        "High nutrient content",
+        "Slow decomposition rate",
+        "Low water retention"
+      ],
+      "answer": "Slow decomposition rate"
+    },
+    {
+      "question": "Which water management technique is most suitable for areas prone to runoff?",
+      "choices": [
+        "Mulching",
+        "Shade techniques",
+        "Water retention holes",
+        "Rainwater harvesting"
+      ],
+      "answer": "Water retention holes"
+    },
+    {
+      "question": "What is the primary purpose of integrating traditional Timorese agricultural practices with modern water management techniques?",
+      "choices": [
+        "To replace modern techniques entirely",
+        "To enhance effectiveness and cultural appropriateness",
+        "To reduce the cost of implementation",
+        "To simplify the water management process"
+      ],
+      "answer": "To enhance effectiveness and cultural appropriateness"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when implementing water management techniques in Timor-Leste?",
+      "choices": [
+        "Local soil types",
+        "Slope gradients",
+        "Available materials",
+        "Global market prices"
+      ],
+      "answer": "Global market prices"
+    },
+    {
+      "question": "What is the main purpose of a ground catchment system in rainwater harvesting?",
+      "choices": [
+        "To collect water from roofs",
+        "To store water in underground tanks",
+        "To collect runoff from the ground surface",
+        "To filter rainwater before use"
+      ],
+      "answer": "To collect runoff from the ground surface"
+    },
+    {
+      "question": "Which of the following is a potential challenge when implementing swales in Timor-Leste?",
+      "choices": [
+        "Excessive water retention",
+        "Difficult terrain and steep slopes",
+        "Lack of suitable soil",
+        "Overabundance of water"
+      ],
+      "answer": "Difficult terrain and steep slopes"
+    },
+    {
+      "question": "What is the primary benefit of using shade cloth in a permagarden?",
+      "choices": [
+        "To increase soil temperature",
+        "To promote faster plant growth",
+        "To reduce water loss through evaporation",
+        "To prevent pest infestations"
+      ],
+      "answer": "To reduce water loss through evaporation"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a water retention hole?",
+      "choices": [
+        "Organic matter",
+        "Soil cover",
+        "Plastic lining",
+        "Slight surface depression"
+      ],
+      "answer": "Plastic lining"
+    },
+    {
+      "question": "What is the main advantage of implementing multiple water management techniques in a single permagarden?",
+      "choices": [
+        "It reduces the need for maintenance",
+        "It creates a more resilient and efficient system",
+        "It eliminates the need for irrigation",
+        "It guarantees higher crop yields"
+      ],
+      "answer": "It creates a more resilient and efficient system"
+    },
+    {
+      "question": "Which of the following best describes the climate challenges faced by gardeners in Timor-Leste?",
+      "choices": [
+        "Year-round rainfall and moderate temperatures",
+        "Distinct wet and dry seasons with unpredictable rainfall patterns",
+        "Constant drought conditions throughout the year",
+        "Heavy snowfall in winter and hot summers"
+      ],
+      "answer": "Distinct wet and dry seasons with unpredictable rainfall patterns"
+    },
+    {
+      "question": "What is the primary goal of water management in permagardens in Timor-Leste?",
+      "choices": [
+        "To eliminate the need for watering",
+        "To create artificial wetlands",
+        "To ensure year-round food production and increase resilience",
+        "To promote water-intensive crop varieties"
+      ],
+      "answer": "To ensure year-round food production and increase resilience"
+    }
+  ]
+}

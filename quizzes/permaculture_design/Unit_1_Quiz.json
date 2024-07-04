@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Permaculture and Permagardens",
+  "questions": [
+    {
+      "question": "What are the three ethics of permaculture?",
+      "choices": [
+        "Earth Care, People Care, Fair Share",
+        "Sustainability, Biodiversity, Resilience",
+        "Observe, Interact, Design",
+        "Catch, Store, Obtain"
+      ],
+      "answer": "Earth Care, People Care, Fair Share"
+    },
+    {
+      "question": "Who developed permaculture in the 1970s?",
+      "choices": [
+        "Bill Mollison and David Holmgren",
+        "Rachel Carson and Aldo Leopold",
+        "Masanobu Fukuoka and Sepp Holzer",
+        "Geoff Lawton and Toby Hemenway"
+      ],
+      "answer": "Bill Mollison and David Holmgren"
+    },
+    {
+      "question": "What is a permagarden?",
+      "choices": [
+        "A large-scale commercial farm",
+        "A small-scale, intensively managed garden applying permaculture principles",
+        "A garden that only grows perennial plants",
+        "A garden that requires constant irrigation"
+      ],
+      "answer": "A small-scale, intensively managed garden applying permaculture principles"
+    },
+    {
+      "question": "Which of the following is NOT a key feature of permagardens?",
+      "choices": [
+        "Diverse plant species",
+        "Efficient use of space",
+        "Heavy reliance on chemical fertilizers",
+        "Water conservation techniques"
+      ],
+      "answer": "Heavy reliance on chemical fertilizers"
+    },
+    {
+      "question": "What is one of the major agricultural challenges in Timor-Leste?",
+      "choices": [
+        "Excessive rainfall",
+        "Water scarcity during dry season",
+        "Overabundance of agricultural inputs",
+        "Lack of mountainous terrain"
+      ],
+      "answer": "Water scarcity during dry season"
+    },
+    {
+      "question": "Which permaculture principle emphasizes the importance of working with natural systems?",
+      "choices": [
+        "Observe and interact",
+        "Produce no waste",
+        "Use and value diversity",
+        "Obtain a yield"
+      ],
+      "answer": "Observe and interact"
+    },
+    {
+      "question": "What is the primary goal of implementing swales in a permagarden?",
+      "choices": [
+        "To create walking paths",
+        "To increase soil erosion",
+        "To capture and store water",
+        "To separate different plant species"
+      ],
+      "answer": "To capture and store water"
+    },
+    {
+      "question": "Which of the following is a benefit of permagardens for communities in Timor-Leste?",
+      "choices": [
+        "Increased reliance on imported foods",
+        "Reduced biodiversity",
+        "Improved food security",
+        "Higher water consumption"
+      ],
+      "answer": "Improved food security"
+    },
+    {
+      "question": "What does the permaculture principle 'Obtain a yield' emphasize?",
+      "choices": [
+        "Maximizing profit at all costs",
+        "Ensuring that efforts produce useful results",
+        "Only growing cash crops",
+        "Focusing solely on long-term benefits"
+      ],
+      "answer": "Ensuring that efforts produce useful results"
+    },
+    {
+      "question": "Which soil type is predominantly found in Timor-Leste?",
+      "choices": [
+        "Peat",
+        "Clay and sandy loams",
+        "Pure sand",
+        "Chalk"
+      ],
+      "answer": "Clay and sandy loams"
+    },
+    {
+      "question": "What is the purpose of companion planting in permagardens?",
+      "choices": [
+        "To increase competition between plants",
+        "To simplify crop rotation",
+        "To naturally manage pests and improve plant growth",
+        "To reduce biodiversity"
+      ],
+      "answer": "To naturally manage pests and improve plant growth"
+    },
+    {
+      "question": "Which permaculture principle encourages the use of renewable resources?",
+      "choices": [
+        "Produce no waste",
+        "Use and value renewable resources and services",
+        "Apply self-regulation and accept feedback",
+        "Creatively use and respond to change"
+      ],
+      "answer": "Use and value renewable resources and services"
+    },
+    {
+      "question": "What is the main purpose of mulching in permagardens?",
+      "choices": [
+        "To increase soil temperature",
+        "To promote weed growth",
+        "To conserve soil moisture",
+        "To reduce soil fertility"
+      ],
+      "answer": "To conserve soil moisture"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of permagardens?",
+      "choices": [
+        "Increased food security",
+        "Improved nutrition",
+        "Enhanced resilience to climate change",
+        "Increased dependence on chemical inputs"
+      ],
+      "answer": "Increased dependence on chemical inputs"
+    },
+    {
+      "question": "What does the permaculture principle 'Use edges and value the marginal' suggest?",
+      "choices": [
+        "Focus only on the center of the garden",
+        "Ignore boundary areas",
+        "Recognize and utilize the value of edge ecosystems",
+        "Eliminate all edges in the garden design"
+      ],
+      "answer": "Recognize and utilize the value of edge ecosystems"
+    },
+    {
+      "question": "Which of the following is a water management technique used in permagardens?",
+      "choices": [
+        "Constant irrigation",
+        "Swales and berms",
+        "Concrete channels",
+        "Deep plowing"
+      ],
+      "answer": "Swales and berms"
+    },
+    {
+      "question": "What is the purpose of integrating animals and insects in permagardens?",
+      "choices": [
+        "To increase the use of pesticides",
+        "To reduce plant diversity",
+        "To create a balanced ecosystem and natural pest control",
+        "To eliminate all wildlife from the garden"
+      ],
+      "answer": "To create a balanced ecosystem and natural pest control"
+    },
+    {
+      "question": "Which permaculture principle emphasizes the importance of diversity?",
+      "choices": [
+        "Produce no waste",
+        "Use and value diversity",
+        "Obtain a yield",
+        "Design from patterns to details"
+      ],
+      "answer": "Use and value diversity"
+    },
+    {
+      "question": "What is a key challenge in implementing permagardens in Timor-Leste?",
+      "choices": [
+        "Excessive water availability",
+        "Lack of sunlight",
+        "Soil erosion and degradation",
+        "Overabundance of agricultural inputs"
+      ],
+      "answer": "Soil erosion and degradation"
+    },
+    {
+      "question": "Which permaculture principle suggests starting with overall patterns and moving to details?",
+      "choices": [
+        "Observe and interact",
+        "Catch and store energy",
+        "Design from patterns to details",
+        "Integrate rather than segregate"
+      ],
+      "answer": "Design from patterns to details"
+    },
+    {
+      "question": "What is the primary goal of using nitrogen-fixing plants in permagardens?",
+      "choices": [
+        "To increase water consumption",
+        "To improve soil fertility",
+        "To reduce biodiversity",
+        "To increase pest populations"
+      ],
+      "answer": "To improve soil fertility"
+    },
+    {
+      "question": "Which of the following is a characteristic of Timor-Leste's climate?",
+      "choices": [
+        "Year-round rainfall",
+        "Distinct wet and dry seasons",
+        "Constant cold temperatures",
+        "No seasonal variations"
+      ],
+      "answer": "Distinct wet and dry seasons"
+    },
+    {
+      "question": "What does the permaculture principle 'Apply self-regulation and accept feedback' encourage?",
+      "choices": [
+        "Ignoring environmental signals",
+        "Resisting change at all costs",
+        "Learning from and adapting to ecosystem responses",
+        "Maintaining rigid control over all garden elements"
+      ],
+      "answer": "Learning from and adapting to ecosystem responses"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a permagarden?",
+      "choices": [
+        "Compost area",
+        "Diverse plant species",
+        "Monoculture planting",
+        "Water-saving techniques"
+      ],
+      "answer": "Monoculture planting"
+    },
+    {
+      "question": "What is the purpose of triangular spacing in permagardens?",
+      "choices": [
+        "To reduce plant density",
+        "To increase water usage",
+        "To maximize space efficiency and plant interaction",
+        "To simplify harvesting"
+      ],
+      "answer": "To maximize space efficiency and plant interaction"
+    },
+    {
+      "question": "Which permaculture principle emphasizes the importance of energy efficiency?",
+      "choices": [
+        "Produce no waste",
+        "Catch and store energy",
+        "Use small and slow solutions",
+        "Creatively use and respond to change"
+      ],
+      "answer": "Catch and store energy"
+    },
+    {
+      "question": "What is a key benefit of using local materials in permagardens?",
+      "choices": [
+        "Increased dependence on external inputs",
+        "Higher costs",
+        "Reduced sustainability",
+        "Enhanced resilience and accessibility"
+      ],
+      "answer": "Enhanced resilience and accessibility"
+    },
+    {
+      "question": "Which of the following is a strategy for addressing water scarcity in Timor-Leste's permagardens?",
+      "choices": [
+        "Increasing water usage",
+        "Implementing mulching techniques",
+        "Removing all ground cover",
+        "Focusing on water-intensive crops"
+      ],
+      "answer": "Implementing mulching techniques"
+    },
+    {
+      "question": "What does the permaculture principle 'Integrate rather than segregate' suggest?",
+      "choices": [
+        "Keeping all elements of the garden separate",
+        "Creating monoculture zones",
+        "Placing elements so they work together effectively",
+        "Avoiding any interaction between different species"
+      ],
+      "answer": "Placing elements so they work together effectively"
+    },
+    {
+      "question": "Which of the following is NOT a typical goal of implementing permagardens in Timor-Leste?",
+      "choices": [
+        "Improving household nutrition",
+        "Increasing reliance on imported foods",
+        "Enhancing community resilience",
+        "Promoting sustainable agricultural practices"
+      ],
+      "answer": "Increasing reliance on imported foods"
+    }
+  ]
+}

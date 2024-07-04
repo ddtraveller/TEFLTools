@@ -1,0 +1,305 @@
+{
+  "title": "Garden Maintenance and Pest Management",
+  "questions": [
+    {
+      "question": "What is the primary benefit of regular weeding?",
+      "choices": [
+        "Improves soil pH",
+        "Reduces competition for nutrients, water, and sunlight",
+        "Increases pest populations",
+        "Promotes soil erosion"
+      ],
+      "answer": "Reduces competition for nutrients, water, and sunlight"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of mulching?",
+      "choices": [
+        "Conserves soil moisture",
+        "Suppresses weed growth",
+        "Regulates soil temperature",
+        "Increases pest populations"
+      ],
+      "answer": "Increases pest populations"
+    },
+    {
+      "question": "What is the recommended depth for applying mulch around plants?",
+      "choices": [
+        "1 inch",
+        "2-4 inches",
+        "6-8 inches",
+        "10-12 inches"
+      ],
+      "answer": "2-4 inches"
+    },
+    {
+      "question": "What is Integrated Pest Management (IPM)?",
+      "choices": [
+        "A method of using only chemical pesticides",
+        "A holistic approach using multiple techniques to manage pests",
+        "A technique for increasing pest populations",
+        "A strategy for eliminating all insects from the garden"
+      ],
+      "answer": "A holistic approach using multiple techniques to manage pests"
+    },
+    {
+      "question": "Which plant is commonly used in natural pest control solutions?",
+      "choices": [
+        "Neem",
+        "Rose",
+        "Sunflower",
+        "Bamboo"
+      ],
+      "answer": "Neem"
+    },
+    {
+      "question": "What is companion planting?",
+      "choices": [
+        "Growing plants in greenhouses",
+        "Planting crops in straight rows",
+        "Growing certain plants together for mutual benefit",
+        "Using chemical fertilizers on all plants"
+      ],
+      "answer": "Growing certain plants together for mutual benefit"
+    },
+    {
+      "question": "Which of the following is an example of a beneficial insect?",
+      "choices": [
+        "Aphid",
+        "Ladybug",
+        "Whitefly",
+        "Japanese beetle"
+      ],
+      "answer": "Ladybug"
+    },
+    {
+      "question": "What is the primary purpose of seed saving?",
+      "choices": [
+        "To increase pest populations",
+        "To reduce crop yields",
+        "To preserve local biodiversity and ensure access to locally adapted varieties",
+        "To promote the use of chemical pesticides"
+      ],
+      "answer": "To preserve local biodiversity and ensure access to locally adapted varieties"
+    },
+    {
+      "question": "Which processing method is typically used for saving tomato seeds?",
+      "choices": [
+        "Dry processing",
+        "Wet processing",
+        "Freeze drying",
+        "Chemical treatment"
+      ],
+      "answer": "Wet processing"
+    },
+    {
+      "question": "What is the purpose of fermenting some seeds during the saving process?",
+      "choices": [
+        "To improve germination rates",
+        "To remove the gel coating",
+        "To kill beneficial bacteria",
+        "To increase seed size"
+      ],
+      "answer": "To remove the gel coating"
+    },
+    {
+      "question": "How should saved seeds be stored?",
+      "choices": [
+        "In a warm, humid place",
+        "In direct sunlight",
+        "In a cool, dry, dark place",
+        "In the refrigerator's vegetable drawer"
+      ],
+      "answer": "In a cool, dry, dark place"
+    },
+    {
+      "question": "Which of the following is NOT a component of Integrated Pest Management?",
+      "choices": [
+        "Prevention",
+        "Monitoring",
+        "Indiscriminate use of chemical pesticides",
+        "Cultural controls"
+      ],
+      "answer": "Indiscriminate use of chemical pesticides"
+    },
+    {
+      "question": "What is the primary benefit of attracting beneficial insects to the garden?",
+      "choices": [
+        "They improve soil quality",
+        "They control pest populations naturally",
+        "They increase crop yields directly",
+        "They reduce the need for watering"
+      ],
+      "answer": "They control pest populations naturally"
+    },
+    {
+      "question": "Which of the following is a good companion plant for tomatoes?",
+      "choices": [
+        "Potatoes",
+        "Corn",
+        "Basil",
+        "Fennel"
+      ],
+      "answer": "Basil"
+    },
+    {
+      "question": "What is the purpose of crop rotation in pest management?",
+      "choices": [
+        "To increase pest populations",
+        "To reduce soil fertility",
+        "To break pest and disease cycles",
+        "To promote monoculture"
+      ],
+      "answer": "To break pest and disease cycles"
+    },
+    {
+      "question": "Which of the following is an organic mulch material?",
+      "choices": [
+        "Plastic sheets",
+        "Gravel",
+        "Straw",
+        "Synthetic fabric"
+      ],
+      "answer": "Straw"
+    },
+    {
+      "question": "What is the main purpose of pruning in garden maintenance?",
+      "choices": [
+        "To reduce plant size",
+        "To improve air circulation and plant health",
+        "To increase pest habitats",
+        "To reduce fruit production"
+      ],
+      "answer": "To improve air circulation and plant health"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of seed saving?",
+      "choices": [
+        "Preserves local biodiversity",
+        "Ensures access to locally adapted varieties",
+        "Reduces dependence on external seed sources",
+        "Increases the need for chemical fertilizers"
+      ],
+      "answer": "Increases the need for chemical fertilizers"
+    },
+    {
+      "question": "What is the recommended method for controlling snails and slugs organically?",
+      "choices": [
+        "Chemical pesticides",
+        "Copper tape barriers",
+        "Increasing moisture in the garden",
+        "Planting more leafy greens"
+      ],
+      "answer": "Copper tape barriers"
+    },
+    {
+      "question": "Which of the following plants is known for its pest-repelling properties?",
+      "choices": [
+        "Lettuce",
+        "Carrot",
+        "Marigold",
+        "Cucumber"
+      ],
+      "answer": "Marigold"
+    },
+    {
+      "question": "What is the primary purpose of a germination test in seed saving?",
+      "choices": [
+        "To determine seed color",
+        "To check seed viability",
+        "To increase seed size",
+        "To reduce seed dormancy"
+      ],
+      "answer": "To check seed viability"
+    },
+    {
+      "question": "Which of the following is a natural method to deter flies and mosquitoes?",
+      "choices": [
+        "Planting more fruit trees",
+        "Increasing standing water",
+        "Planting basil near outdoor areas",
+        "Using bright lights at night"
+      ],
+      "answer": "Planting basil near outdoor areas"
+    },
+    {
+      "question": "What is the 'Three Sisters' planting method?",
+      "choices": [
+        "Planting tomatoes, peppers, and eggplants together",
+        "A crop rotation system with three phases",
+        "Planting corn, beans, and squash together",
+        "A method of planting three rows of the same crop"
+      ],
+      "answer": "Planting corn, beans, and squash together"
+    },
+    {
+      "question": "Which of the following is NOT a sustainable garden maintenance practice?",
+      "choices": [
+        "Regular weeding",
+        "Mulching",
+        "Overwatering",
+        "Composting"
+      ],
+      "answer": "Overwatering"
+    },
+    {
+      "question": "What is the primary benefit of using organic pest control methods?",
+      "choices": [
+        "They are always more effective than chemical pesticides",
+        "They are less expensive than chemical alternatives",
+        "They have minimal impact on beneficial insects and the environment",
+        "They provide instant results"
+      ],
+      "answer": "They have minimal impact on beneficial insects and the environment"
+    },
+    {
+      "question": "Which of the following is a sign of nutrient deficiency in plants?",
+      "choices": [
+        "Rapid growth",
+        "Yellowing leaves",
+        "Abundant flowering",
+        "Deep green color"
+      ],
+      "answer": "Yellowing leaves"
+    },
+    {
+      "question": "What is the purpose of crop rotation in garden maintenance?",
+      "choices": [
+        "To increase pest populations",
+        "To deplete soil nutrients",
+        "To maintain soil fertility and reduce pest and disease problems",
+        "To promote monoculture"
+      ],
+      "answer": "To maintain soil fertility and reduce pest and disease problems"
+    },
+    {
+      "question": "Which of the following is NOT a method of natural pest control?",
+      "choices": [
+        "Handpicking pests",
+        "Using pheromone traps",
+        "Spraying synthetic pesticides",
+        "Introducing predatory insects"
+      ],
+      "answer": "Spraying synthetic pesticides"
+    },
+    {
+      "question": "What is the primary benefit of composting in garden maintenance?",
+      "choices": [
+        "It reduces soil fertility",
+        "It increases the need for chemical fertilizers",
+        "It improves soil structure and provides nutrients",
+        "It promotes pest infestations"
+      ],
+      "answer": "It improves soil structure and provides nutrients"
+    },
+    {
+      "question": "Which of the following practices helps conserve water in the garden?",
+      "choices": [
+        "Daily shallow watering",
+        "Removing all mulch",
+        "Using drip irrigation or soaker hoses",
+        "Watering during the hottest part of the day"
+      ],
+      "answer": "Using drip irrigation or soaker hoses"
+    }
+  ]
+}

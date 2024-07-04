@@ -1,0 +1,305 @@
+{
+  "title": "Drawing and Animation with Pygame",
+  "questions": [
+    {
+      "question": "What is the coordinate of the top-left corner in Pygame's coordinate system?",
+      "choices": [
+        "(0, 0)",
+        "(1, 1)",
+        "(-1, -1)",
+        "(width, height)"
+      ],
+      "answer": "(0, 0)"
+    },
+    {
+      "question": "Which Pygame function is used to draw a rectangle?",
+      "choices": [
+        "pygame.draw.rect()",
+        "pygame.draw.square()",
+        "pygame.draw.box()",
+        "pygame.draw.rectangle()"
+      ],
+      "answer": "pygame.draw.rect()"
+    },
+    {
+      "question": "How are colors typically represented in Pygame?",
+      "choices": [
+        "RGB tuples",
+        "Hexadecimal codes",
+        "Color names as strings",
+        "CMYK values"
+      ],
+      "answer": "RGB tuples"
+    },
+    {
+      "question": "What does the 'width' parameter in pygame.draw.rect() control when set to 0?",
+      "choices": [
+        "Creates a filled shape",
+        "Creates an outline",
+        "Hides the shape",
+        "Sets the shape's transparency"
+      ],
+      "answer": "Creates a filled shape"
+    },
+    {
+      "question": "Which function is used to load an image in Pygame?",
+      "choices": [
+        "pygame.image.load()",
+        "pygame.load.image()",
+        "pygame.image.open()",
+        "pygame.open.image()"
+      ],
+      "answer": "pygame.image.load()"
+    },
+    {
+      "question": "What is the purpose of the 'blit' function in Pygame?",
+      "choices": [
+        "To draw one surface onto another",
+        "To create a new image",
+        "To resize an image",
+        "To rotate an image"
+      ],
+      "answer": "To draw one surface onto another"
+    },
+    {
+      "question": "What does FPS stand for in the context of Pygame animation?",
+      "choices": [
+        "Frames Per Second",
+        "Fast Processing System",
+        "File Processing Speed",
+        "Frame Positioning System"
+      ],
+      "answer": "Frames Per Second"
+    },
+    {
+      "question": "Which Pygame object is used to control frame rate?",
+      "choices": [
+        "pygame.time.Clock()",
+        "pygame.fps.Control()",
+        "pygame.display.FPS()",
+        "pygame.time.FPS()"
+      ],
+      "answer": "pygame.time.Clock()"
+    },
+    {
+      "question": "What is the purpose of pygame.display.flip() in an animation loop?",
+      "choices": [
+        "To update the display",
+        "To clear the screen",
+        "To rotate the display",
+        "To resize the window"
+      ],
+      "answer": "To update the display"
+    },
+    {
+      "question": "Which of these is NOT a supported image format in Pygame?",
+      "choices": [
+        "SVG",
+        "PNG",
+        "JPG",
+        "GIF"
+      ],
+      "answer": "SVG"
+    },
+    {
+      "question": "What is a Sprite in Pygame?",
+      "choices": [
+        "An object that represents a game element",
+        "A type of image file",
+        "A drawing function",
+        "A color palette"
+      ],
+      "answer": "An object that represents a game element"
+    },
+    {
+      "question": "What is the main advantage of using Sprite Groups in Pygame?",
+      "choices": [
+        "Simplifies management of multiple game objects",
+        "Increases game performance",
+        "Allows for 3D rendering",
+        "Enables multiplayer functionality"
+      ],
+      "answer": "Simplifies management of multiple game objects"
+    },
+    {
+      "question": "Which function would you use to draw a circle in Pygame?",
+      "choices": [
+        "pygame.draw.circle()",
+        "pygame.draw.round()",
+        "pygame.draw.oval()",
+        "pygame.draw.sphere()"
+      ],
+      "answer": "pygame.draw.circle()"
+    },
+    {
+      "question": "What does the 'center' parameter in pygame.draw.circle() represent?",
+      "choices": [
+        "The (x, y) coordinates of the circle's center",
+        "The diameter of the circle",
+        "The color of the circle",
+        "The thickness of the circle's outline"
+      ],
+      "answer": "The (x, y) coordinates of the circle's center"
+    },
+    {
+      "question": "How is a straight line drawn in Pygame?",
+      "choices": [
+        "pygame.draw.line()",
+        "pygame.draw.straight()",
+        "pygame.draw.vector()",
+        "pygame.draw.path()"
+      ],
+      "answer": "pygame.draw.line()"
+    },
+    {
+      "question": "What is the purpose of the 'clock.tick()' method in a Pygame animation loop?",
+      "choices": [
+        "To maintain a consistent frame rate",
+        "To create a ticking sound",
+        "To count the number of frames",
+        "To synchronize multiplayer games"
+      ],
+      "answer": "To maintain a consistent frame rate"
+    },
+    {
+      "question": "Which method is used to fill the entire screen with a single color?",
+      "choices": [
+        "screen.fill()",
+        "screen.clear()",
+        "screen.color()",
+        "screen.background()"
+      ],
+      "answer": "screen.fill()"
+    },
+    {
+      "question": "What is the purpose of the 'event.get()' method in Pygame?",
+      "choices": [
+        "To retrieve all events from the event queue",
+        "To create new events",
+        "To delete events",
+        "To pause the game"
+      ],
+      "answer": "To retrieve all events from the event queue"
+    },
+    {
+      "question": "Which event type is used to detect when the user closes the game window?",
+      "choices": [
+        "pygame.QUIT",
+        "pygame.CLOSE",
+        "pygame.EXIT",
+        "pygame.SHUTDOWN"
+      ],
+      "answer": "pygame.QUIT"
+    },
+    {
+      "question": "What does the 'convert()' method do when applied to a Pygame surface?",
+      "choices": [
+        "Optimizes the surface for faster blitting",
+        "Converts the image to grayscale",
+        "Resizes the surface",
+        "Rotates the surface"
+      ],
+      "answer": "Optimizes the surface for faster blitting"
+    },
+    {
+      "question": "How can you make a sprite move diagonally across the screen?",
+      "choices": [
+        "Update both its x and y coordinates simultaneously",
+        "Use the pygame.move.diagonal() function",
+        "Apply a diagonal force vector",
+        "Set the sprite's direction to 45 degrees"
+      ],
+      "answer": "Update both its x and y coordinates simultaneously"
+    },
+    {
+      "question": "What is the purpose of the 'pygame.display.set_mode()' function?",
+      "choices": [
+        "To create the game window",
+        "To set the game's difficulty",
+        "To change the display resolution",
+        "To switch between fullscreen and windowed mode"
+      ],
+      "answer": "To create the game window"
+    },
+    {
+      "question": "Which of these is NOT a valid color representation in Pygame?",
+      "choices": [
+        "(255, 255, 255, 0.5)",
+        "(255, 0, 0)",
+        "(0, 255, 0)",
+        "(0, 0, 255)"
+      ],
+      "answer": "(255, 255, 255, 0.5)"
+    },
+    {
+      "question": "What is the difference between pygame.display.flip() and pygame.display.update()?",
+      "choices": [
+        "update() can refresh a portion of the screen, while flip() always updates the entire screen",
+        "flip() is faster than update()",
+        "update() is used for 2D graphics, flip() for 3D",
+        "There is no difference, they are aliases"
+      ],
+      "answer": "update() can refresh a portion of the screen, while flip() always updates the entire screen"
+    },
+    {
+      "question": "How can you make a sprite rotate in Pygame?",
+      "choices": [
+        "Use pygame.transform.rotate() on the sprite's image",
+        "Set the sprite's rotation attribute",
+        "Use the sprite.rotate() method",
+        "Apply a rotational force to the sprite"
+      ],
+      "answer": "Use pygame.transform.rotate() on the sprite's image"
+    },
+    {
+      "question": "What is the purpose of the 'pygame.sprite.Group()' class?",
+      "choices": [
+        "To manage and update multiple sprites efficiently",
+        "To group similar colors together",
+        "To create layered backgrounds",
+        "To handle collision detection"
+      ],
+      "answer": "To manage and update multiple sprites efficiently"
+    },
+    {
+      "question": "Which method is used to detect collisions between sprites in Pygame?",
+      "choices": [
+        "pygame.sprite.spritecollide()",
+        "pygame.collision.detect()",
+        "sprite.is_colliding()",
+        "pygame.check_collision()"
+      ],
+      "answer": "pygame.sprite.spritecollide()"
+    },
+    {
+      "question": "What does the 'alpha' value represent in RGBA color format?",
+      "choices": [
+        "Transparency",
+        "Brightness",
+        "Saturation",
+        "Hue"
+      ],
+      "answer": "Transparency"
+    },
+    {
+      "question": "How can you create a fading effect for a sprite in Pygame?",
+      "choices": [
+        "Gradually decrease the alpha value of the sprite's image",
+        "Use the pygame.fade() function",
+        "Decrease the sprite's visibility attribute",
+        "Apply a fading filter to the sprite"
+      ],
+      "answer": "Gradually decrease the alpha value of the sprite's image"
+    },
+    {
+      "question": "What is the purpose of the 'dirty rect' technique in Pygame?",
+      "choices": [
+        "To optimize performance by updating only changed parts of the screen",
+        "To create textured backgrounds",
+        "To handle complex collision detection",
+        "To implement particle systems"
+      ],
+      "answer": "To optimize performance by updating only changed parts of the screen"
+    }
+  ]
+}

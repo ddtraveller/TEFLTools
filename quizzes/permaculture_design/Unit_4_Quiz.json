@@ -1,0 +1,305 @@
+{
+  "title": "Soil Preparation and Improvement",
+  "questions": [
+    {
+      "question": "What is the primary benefit of double-digging?",
+      "choices": [
+        "Increases soil compaction",
+        "Improves soil aeration and drainage",
+        "Reduces organic matter content",
+        "Lowers soil pH"
+      ],
+      "answer": "Improves soil aeration and drainage"
+    },
+    {
+      "question": "How deep is soil typically dug in the double-digging method?",
+      "choices": [
+        "6 inches",
+        "12 inches",
+        "24 inches",
+        "36 inches"
+      ],
+      "answer": "24 inches"
+    },
+    {
+      "question": "What is the recommended ratio of brown to green materials in a compost pile?",
+      "choices": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1"
+      ],
+      "answer": "3:1"
+    },
+    {
+      "question": "Which of the following is considered a 'green' material for composting?",
+      "choices": [
+        "Dry leaves",
+        "Straw",
+        "Fresh grass clippings",
+        "Small twigs"
+      ],
+      "answer": "Fresh grass clippings"
+    },
+    {
+      "question": "What is biochar?",
+      "choices": [
+        "A type of fertilizer",
+        "Charcoal produced from plant matter through pyrolysis",
+        "A soil-borne pathogen",
+        "A chemical pesticide"
+      ],
+      "answer": "Charcoal produced from plant matter through pyrolysis"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using biochar as a soil amendment?",
+      "choices": [
+        "Improves soil water retention",
+        "Enhances nutrient retention",
+        "Increases soil acidity",
+        "Helps sequester carbon in the soil"
+      ],
+      "answer": "Increases soil acidity"
+    },
+    {
+      "question": "What is the primary benefit of adding wood ash to soil?",
+      "choices": [
+        "Lowers soil pH",
+        "Adds nitrogen",
+        "Provides potassium and calcium",
+        "Increases soil salinity"
+      ],
+      "answer": "Provides potassium and calcium"
+    },
+    {
+      "question": "How much wood ash is recommended per 1000 square feet of garden area per year?",
+      "choices": [
+        "1-2 pounds",
+        "5-10 pounds",
+        "20-25 pounds",
+        "50-100 pounds"
+      ],
+      "answer": "5-10 pounds"
+    },
+    {
+      "question": "Which of the following is NOT a component of a good compost pile?",
+      "choices": [
+        "Green materials",
+        "Brown materials",
+        "Water",
+        "Chemical fertilizers"
+      ],
+      "answer": "Chemical fertilizers"
+    },
+    {
+      "question": "What is the purpose of turning a compost pile?",
+      "choices": [
+        "To cool it down",
+        "To add more materials",
+        "To aerate it",
+        "To remove finished compost"
+      ],
+      "answer": "To aerate it"
+    },
+    {
+      "question": "Which composting method is most suitable for urban areas with limited space?",
+      "choices": [
+        "Pile method",
+        "Bin method",
+        "Trench composting",
+        "Windrow composting"
+      ],
+      "answer": "Bin method"
+    },
+    {
+      "question": "What should you do if your compost pile has a bad odor?",
+      "choices": [
+        "Add more green materials",
+        "Add more brown materials and turn the pile",
+        "Water it more frequently",
+        "Add chemical deodorizers"
+      ],
+      "answer": "Add more brown materials and turn the pile"
+    },
+    {
+      "question": "Which of the following is a benefit of double-digging?",
+      "choices": [
+        "Reduces water retention capacity",
+        "Promotes shallower root growth",
+        "Enhances nutrient availability",
+        "Increases soil compaction"
+      ],
+      "answer": "Enhances nutrient availability"
+    },
+    {
+      "question": "What is the recommended application rate for biochar in soil?",
+      "choices": [
+        "1-2% by volume",
+        "5-10% by volume",
+        "20-25% by volume",
+        "50-60% by volume"
+      ],
+      "answer": "5-10% by volume"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of composting?",
+      "choices": [
+        "Recycles kitchen and garden waste",
+        "Produces nutrient-rich soil amendment",
+        "Reduces the need for chemical fertilizers",
+        "Eliminates all plant diseases"
+      ],
+      "answer": "Eliminates all plant diseases"
+    },
+    {
+      "question": "What is the ideal height for a compost pile?",
+      "choices": [
+        "1 foot",
+        "2 feet",
+        "3 feet",
+        "5 feet"
+      ],
+      "answer": "3 feet"
+    },
+    {
+      "question": "Which of the following is considered a 'brown' material for composting?",
+      "choices": [
+        "Fresh grass clippings",
+        "Kitchen scraps",
+        "Green leaves",
+        "Dry leaves"
+      ],
+      "answer": "Dry leaves"
+    },
+    {
+      "question": "What is the primary function of 'green' materials in a compost pile?",
+      "choices": [
+        "Provide carbon",
+        "Provide nitrogen",
+        "Improve aeration",
+        "Reduce moisture"
+      ],
+      "answer": "Provide nitrogen"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in the double-digging process?",
+      "choices": [
+        "Removing the top layer of soil",
+        "Loosening the subsoil",
+        "Adding chemical fertilizers",
+        "Incorporating organic matter"
+      ],
+      "answer": "Adding chemical fertilizers"
+    },
+    {
+      "question": "What is the main advantage of trench composting?",
+      "choices": [
+        "It's faster than other methods",
+        "It requires less space above ground",
+        "It eliminates the need for turning",
+        "It produces more compost"
+      ],
+      "answer": "It requires less space above ground"
+    },
+    {
+      "question": "Which of the following is a potential challenge when implementing composting in Timorese communities?",
+      "choices": [
+        "Lack of organic materials",
+        "Excessive rainfall",
+        "Cultural resistance to waste management",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary benefit of using seaweed as a soil amendment?",
+      "choices": [
+        "High nitrogen content",
+        "Improves soil structure",
+        "Rich in micronutrients and growth hormones",
+        "Increases soil acidity"
+      ],
+      "answer": "Rich in micronutrients and growth hormones"
+    },
+    {
+      "question": "Which of the following is NOT a typical use for wood ash in gardening?",
+      "choices": [
+        "Raising soil pH",
+        "Adding potassium",
+        "Deterring pests",
+        "Improving soil structure"
+      ],
+      "answer": "Deterring pests"
+    },
+    {
+      "question": "What is the primary benefit of using animal manure as a soil amendment?",
+      "choices": [
+        "Lowers soil pH",
+        "Adds nitrogen and organic matter",
+        "Improves soil drainage",
+        "Eliminates weed seeds"
+      ],
+      "answer": "Adds nitrogen and organic matter"
+    },
+    {
+      "question": "Which of the following plants is commonly used as green manure in Timor-Leste?",
+      "choices": [
+        "Eucalyptus",
+        "Mucuna pruriens (Velvet bean)",
+        "Bamboo",
+        "Coconut palm"
+      ],
+      "answer": "Mucuna pruriens (Velvet bean)"
+    },
+    {
+      "question": "What is the main purpose of incorporating cover crops into the soil?",
+      "choices": [
+        "To reduce soil erosion",
+        "To add organic matter and improve soil structure",
+        "To suppress weeds",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of improved soil management techniques in Timor-Leste?",
+      "choices": [
+        "Increased crop yields",
+        "Enhanced water retention",
+        "Reduced need for irrigation",
+        "Elimination of all pest problems"
+      ],
+      "answer": "Elimination of all pest problems"
+    },
+    {
+      "question": "What is the primary function of 'brown' materials in a compost pile?",
+      "choices": [
+        "Provide nitrogen",
+        "Provide carbon",
+        "Add moisture",
+        "Increase temperature"
+      ],
+      "answer": "Provide carbon"
+    },
+    {
+      "question": "Which of the following is a potential barrier to adopting new soil preparation methods in Timor-Leste?",
+      "choices": [
+        "Lack of education about new techniques",
+        "Limited access to tools and resources",
+        "Cultural attachment to traditional methods",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the recommended depth for a double-dug bed in areas with shallow topsoil?",
+      "choices": [
+        "6 inches",
+        "12 inches",
+        "18 inches",
+        "24 inches"
+      ],
+      "answer": "18 inches"
+    }
+  ]
+}

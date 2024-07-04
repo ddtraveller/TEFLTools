@@ -1,0 +1,305 @@
+{
+  "title": "User Input and Game Controls",
+  "questions": [
+    {
+      "question": "What is the primary purpose of event handling in game development?",
+      "choices": [
+        "To create graphics",
+        "To detect and respond to player actions",
+        "To manage game audio",
+        "To control game difficulty"
+      ],
+      "answer": "To detect and respond to player actions"
+    },
+    {
+      "question": "Which Pygame function is used to get the current state of all keyboard keys?",
+      "choices": [
+        "pygame.key.get_state()",
+        "pygame.key.get_pressed()",
+        "pygame.key.get_keys()",
+        "pygame.key.get_input()"
+      ],
+      "answer": "pygame.key.get_pressed()"
+    },
+    {
+      "question": "What is the purpose of the game loop in Pygame?",
+      "choices": [
+        "To create a menu system",
+        "To handle saving and loading",
+        "To continuously update game state and render graphics",
+        "To manage network connections"
+      ],
+      "answer": "To continuously update game state and render graphics"
+    },
+    {
+      "question": "Which Pygame event type is used to detect when a key is pressed?",
+      "choices": [
+        "pygame.KEYPRESS",
+        "pygame.KEYPRESSED",
+        "pygame.KEYDOWN",
+        "pygame.KEYINPUT"
+      ],
+      "answer": "pygame.KEYDOWN"
+    },
+    {
+      "question": "What is the advantage of using state-based input handling over event-based input handling?",
+      "choices": [
+        "It's easier to implement",
+        "It allows for continuous input detection",
+        "It uses less memory",
+        "It's more accurate for single key presses"
+      ],
+      "answer": "It allows for continuous input detection"
+    },
+    {
+      "question": "Which Pygame function is used to get the current position of the mouse?",
+      "choices": [
+        "pygame.mouse.get_pos()",
+        "pygame.mouse.position()",
+        "pygame.mouse.get_location()",
+        "pygame.mouse.coordinates()"
+      ],
+      "answer": "pygame.mouse.get_pos()"
+    },
+    {
+      "question": "What is the purpose of using clock.tick() in a Pygame game loop?",
+      "choices": [
+        "To pause the game",
+        "To control the game's frame rate",
+        "To synchronize multiplayer games",
+        "To create time-based events"
+      ],
+      "answer": "To control the game's frame rate"
+    },
+    {
+      "question": "Which Pygame event type is used to detect mouse movement?",
+      "choices": [
+        "pygame.MOUSEMOVE",
+        "pygame.MOUSEMOTION",
+        "pygame.MOUSEDRAG",
+        "pygame.MOUSETRACK"
+      ],
+      "answer": "pygame.MOUSEMOTION"
+    },
+    {
+      "question": "What is the purpose of delta time in game movement calculations?",
+      "choices": [
+        "To make movement faster",
+        "To ensure consistent movement speed across different frame rates",
+        "To create acceleration effects",
+        "To synchronize multiplayer movement"
+      ],
+      "answer": "To ensure consistent movement speed across different frame rates"
+    },
+    {
+      "question": "Which Pygame function is used to update the display after drawing?",
+      "choices": [
+        "pygame.display.update()",
+        "pygame.display.refresh()",
+        "pygame.display.flip()",
+        "pygame.display.show()"
+      ],
+      "answer": "pygame.display.flip()"
+    },
+    {
+      "question": "What is the purpose of the pygame.event.get() function?",
+      "choices": [
+        "To create new events",
+        "To retrieve all pending events",
+        "To filter specific event types",
+        "To send events to other objects"
+      ],
+      "answer": "To retrieve all pending events"
+    },
+    {
+      "question": "Which key constant in Pygame represents the spacebar?",
+      "choices": [
+        "pygame.K_SPACE",
+        "pygame.K_SPACEBAR",
+        "pygame.K_BAR",
+        "pygame.K_BLANK"
+      ],
+      "answer": "pygame.K_SPACE"
+    },
+    {
+      "question": "What is the main difference between pygame.KEYDOWN and pygame.KEYUP events?",
+      "choices": [
+        "KEYDOWN is for letter keys, KEYUP is for number keys",
+        "KEYDOWN occurs when a key is pressed, KEYUP when it's released",
+        "KEYDOWN is for keyboard input, KEYUP is for mouse input",
+        "There is no difference, they are interchangeable"
+      ],
+      "answer": "KEYDOWN occurs when a key is pressed, KEYUP when it's released"
+    },
+    {
+      "question": "Which Pygame function is used to hide the mouse cursor?",
+      "choices": [
+        "pygame.mouse.hide()",
+        "pygame.mouse.set_visible(False)",
+        "pygame.mouse.invisible()",
+        "pygame.mouse.disable()"
+      ],
+      "answer": "pygame.mouse.set_visible(False)"
+    },
+    {
+      "question": "What does the event.type attribute in Pygame represent?",
+      "choices": [
+        "The data type of the event",
+        "The category or kind of event that occurred",
+        "The time when the event happened",
+        "The priority of the event"
+      ],
+      "answer": "The category or kind of event that occurred"
+    },
+    {
+      "question": "Which of the following is NOT a common type of user input in games?",
+      "choices": [
+        "Keyboard input",
+        "Mouse input",
+        "Voice input",
+        "Telepathic input"
+      ],
+      "answer": "Telepathic input"
+    },
+    {
+      "question": "What is the purpose of implementing diagonal movement in a game?",
+      "choices": [
+        "To make the game more difficult",
+        "To allow more natural and fluid character movement",
+        "To reduce the number of key presses needed",
+        "To save processing power"
+      ],
+      "answer": "To allow more natural and fluid character movement"
+    },
+    {
+      "question": "Which Pygame event type is used to detect when the game window is closed?",
+      "choices": [
+        "pygame.CLOSE",
+        "pygame.EXIT",
+        "pygame.QUIT",
+        "pygame.SHUTDOWN"
+      ],
+      "answer": "pygame.QUIT"
+    },
+    {
+      "question": "What is the purpose of using sprites in Pygame?",
+      "choices": [
+        "To create 3D graphics",
+        "To handle user input",
+        "To represent game objects with images",
+        "To manage sound effects"
+      ],
+      "answer": "To represent game objects with images"
+    },
+    {
+      "question": "Which of the following is an advantage of event-based input handling?",
+      "choices": [
+        "It's better for continuous movement",
+        "It's more efficient for checking multiple keys",
+        "It's ideal for detecting single key presses or releases",
+        "It requires less code to implement"
+      ],
+      "answer": "It's ideal for detecting single key presses or releases"
+    },
+    {
+      "question": "What is the purpose of the pygame.key.get_mods() function?",
+      "choices": [
+        "To get all available keyboard modifications",
+        "To check which modifier keys (Shift, Ctrl, Alt) are pressed",
+        "To modify key bindings",
+        "To get the total number of keys on the keyboard"
+      ],
+      "answer": "To check which modifier keys (Shift, Ctrl, Alt) are pressed"
+    },
+    {
+      "question": "Which Pygame function is used to get the state of all mouse buttons?",
+      "choices": [
+        "pygame.mouse.get_pressed()",
+        "pygame.mouse.get_buttons()",
+        "pygame.mouse.get_state()",
+        "pygame.mouse.get_clicks()"
+      ],
+      "answer": "pygame.mouse.get_pressed()"
+    },
+    {
+      "question": "What is the purpose of implementing acceleration and deceleration in character movement?",
+      "choices": [
+        "To make the game more difficult",
+        "To reduce processing load",
+        "To create more realistic and smooth movement",
+        "To comply with game engine requirements"
+      ],
+      "answer": "To create more realistic and smooth movement"
+    },
+    {
+      "question": "Which of the following is NOT a typical attribute of a Pygame event object?",
+      "choices": [
+        "type",
+        "key",
+        "pos",
+        "color"
+      ],
+      "answer": "color"
+    },
+    {
+      "question": "What is the main advantage of using a game loop for input handling?",
+      "choices": [
+        "It simplifies the code structure",
+        "It allows for continuous checking and response to input",
+        "It reduces the game's memory usage",
+        "It automatically handles all types of input"
+      ],
+      "answer": "It allows for continuous checking and response to input"
+    },
+    {
+      "question": "Which Pygame function is used to set the position of the mouse cursor?",
+      "choices": [
+        "pygame.mouse.set_pos()",
+        "pygame.mouse.move()",
+        "pygame.mouse.place()",
+        "pygame.mouse.teleport()"
+      ],
+      "answer": "pygame.mouse.set_pos()"
+    },
+    {
+      "question": "What is the purpose of using key constants (e.g., K_UP, K_DOWN) in Pygame?",
+      "choices": [
+        "To create custom key bindings",
+        "To represent specific keys in a platform-independent way",
+        "To encrypt keyboard input",
+        "To measure key press duration"
+      ],
+      "answer": "To represent specific keys in a platform-independent way"
+    },
+    {
+      "question": "Which of the following is a best practice for implementing game controls?",
+      "choices": [
+        "Using only keyboard or only mouse input",
+        "Hardcoding control schemes without options for customization",
+        "Providing options for control customization",
+        "Changing control schemes randomly during gameplay"
+      ],
+      "answer": "Providing options for control customization"
+    },
+    {
+      "question": "What is the purpose of the 'event.button' attribute in a Pygame mouse event?",
+      "choices": [
+        "To store the color of the clicked button",
+        "To indicate which mouse button was pressed or released",
+        "To measure the force of the mouse click",
+        "To count the number of clicks"
+      ],
+      "answer": "To indicate which mouse button was pressed or released"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in implementing game controls?",
+      "choices": [
+        "Ensuring responsiveness",
+        "Handling multiple simultaneous inputs",
+        "Creating intuitive control schemes",
+        "Maximizing CPU usage"
+      ],
+      "answer": "Maximizing CPU usage"
+    }
+  ]
+}

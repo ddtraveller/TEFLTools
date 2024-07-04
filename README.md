@@ -48,47 +48,47 @@ Ba aplikasaun pratika:
 1. **Regenerative Living: A Permaculture Approach**
    This hands-on program immerses participants in permaculture principles and practices, equipping them with knowledge and skills to design sustainable living systems. The course covers water management, soil building, perennial food systems, animal integration, natural building, food preservation, and community resilience. Students learn to apply permaculture ethics and principles to create integrated designs for homes, farms, and communities.
 
-    Programa hands-on ne'e inklui partisipante sira iha prinsípiu no prátika permakultura nian, hodi prepara sira ho koñesimentu no abilidade atu dezeña sistema moris sustentavel sira. Kursu ne'e kobre jestaun bee, konstrusaun rai, sistema ai-han perenniál, integrasaun animál, konstrusaun naturál, konservasaun ai-han, no reziliensia komunidade. Estudante sira aprende atu aplika étika no prinsípiu permakultura hodi kria dezeñu integradu ba uma, agrikultura no komunidade sira.
+   Programa hands-on ne'e inklui partisipante sira iha prinsípiu no prátika permakultura nian, hodi prepara sira ho koñesimentu no abilidade atu dezeña sistema moris sustentavel sira. Kursu ne'e kobre jestaun bee, konstrusaun rai, sistema ai-han perenniál, integrasaun animál, konstrusaun naturál, konservasaun ai-han, no reziliensia komunidade. Estudante sira aprende atu aplika étika no prinsípiu permakultura hodi kria dezeñu integradu ba uma, agrikultura no komunidade sira.
 
 2. **Holistic Healing Arts and Practices**
    This comprehensive program explores a wide range of holistic healing modalities, blending modern therapeutic techniques with traditional wisdom. The curriculum covers the foundations of holistic healing, therapeutic relationships, hands-on healing techniques, movement as medicine, and other healing methods. It also addresses women's health and career considerations in the healing arts.
 
-    Programa kompreensivu ida-ne'e esplora modalidade kura holistiku oin-oin, kahur tékniku terapeutiku modernu ho matenek tradisionál. Kurríkulu ne'e kobre baze holistiku ba kura, relasaun terapeutika, téknika kura liman, movimentu hanesan ai-moruk, no métodu kura seluk. Nia mós ko'alia kona-ba feto sira-nia saúde no konsiderasaun karreira iha arte kura nian.
+   Programa kompreensivu ida-ne'e esplora modalidade kura holistiku oin-oin, kahur tékniku terapeutiku modernu ho matenek tradisionál. Kurríkulu ne'e kobre baze holistiku ba kura, relasaun terapeutika, téknika kura liman, movimentu hanesan ai-moruk, no métodu kura seluk. Nia mós ko'alia kona-ba feto sira-nia saúde no konsiderasaun karreira iha arte kura nian.
 
 3. **Medical Herbalism**
    This course provides a deep dive into the art and science of herbal medicine. Students learn about botanical classification, plant chemistry, herbal actions, formulation, safety considerations, and clinical applications. The program combines theoretical foundations with practical skills in herbal preparation and clinical practice, emphasizing both traditional knowledge and modern scientific research.
 
-    Kursu ida-ne'e fó kle'an liu ba arte no siénsia ai-moruk hirak-ne'e. Estudante sira aprende kona-ba klasifikasaun botanika, kímika plantasaun, asaun hirak-ne'e, formulasaun, konsiderasaun seguransa, no aplikasaun klínika. Programa ne'e kombina baze teóriku ho abilidade pratika iha preparasaun ai-horis no prátika klínika, hodi ko'alia liu kona-ba koñesimentu tradisionál no peskiza sientifika modernu.
+   Kursu ida-ne'e fó kle'an liu ba arte no siénsia ai-moruk hirak-ne'e. Estudante sira aprende kona-ba klasifikasaun botanika, kímika plantasaun, asaun hirak-ne'e, formulasaun, konsiderasaun seguransa, no aplikasaun klínika. Programa ne'e kombina baze teóriku ho abilidade pratika iha preparasaun ai-horis no prátika klínika, hodi ko'alia liu kona-ba koñesimentu tradisionál no peskiza sientifika modernu.
 
 4. **Sustainable Beekeeping: A Permaculture Approach for Timor-Leste**
    This course introduces sustainable beekeeping practices tailored for Timor-Leste, integrating permaculture principles with traditional knowledge. Students learn about native bee species, hive management, bee-friendly landscaping, and honey harvesting. The course emphasizes hands-on experience and community engagement, preparing students to establish and maintain healthy bee colonies using locally-appropriate methods.
 
-    Kursu ida-ne'e introdús prátika sustentavel sira ne'ebé adapta ba Timor-Leste, integra prinsípiu permakultura ho koñesimentu tradisionál sira. Estudante sira aprende kona-ba espésie bee-moos, jestaun, rai ne'ebé amigavel ba bee, no koá bani-been. Kursu ne'e ko'alia liu kona-ba esperiénsia hands-on no envolvimentu komunidade nian, prepara estudante sira atu estabelese no mantein kolonias bee saudavel ho métodu lokál apropriadu.
+   Kursu ida-ne'e introdús prátika sustentavel sira ne'ebé adapta ba Timor-Leste, integra prinsípiu permakultura ho koñesimentu tradisionál sira. Estudante sira aprende kona-ba espésie bee-moos, jestaun, rai ne'ebé amigavel ba bee, no koá bani-been. Kursu ne'e ko'alia liu kona-ba esperiénsia hands-on no envolvimentu komunidade nian, prepara estudante sira atu estabelese no mantein kolonias bee saudavel ho métodu lokál apropriadu.
 
 5. **Comprehensive Software Development for Timor-Leste**
    This intensive 24-week program equips students with a broad range of software development skills. The curriculum progresses from basic data creation and version control to advanced topics like AI-assisted programming and geospatial development. It includes modules on data analysis, algorithms, databases, Linux, networking, and containerization, all tailored to the Timorese context.
 
-    Programa intensivu ida-ne'e prepara estudante sira ho abilidade dezenvolvimentu software oin-oin. Kurríkulu ne'e la'o ba oin husi kriasaun dadus báziku no kontrolu versaun ba tópiku avansadu sira hanesan programa asisténsia AI no dezenvolvimentu jeospasial. Ida ne'e inklui modulu sira kona-ba análize dadus, algoritmu, baze dadus, Linux, rede, no kontentór, hotu-hotu adapta ba kontestu Timor nian.
+   Programa intensivu ida-ne'e prepara estudante sira ho abilidade dezenvolvimentu software oin-oin. Kurríkulu ne'e la'o ba oin husi kriasaun dadus báziku no kontrolu versaun ba tópiku avansadu sira hanesan programa asisténsia AI no dezenvolvimentu jeospasial. Ida ne'e inklui modulu sira kona-ba análize dadus, algoritmu, baze dadus, Linux, rede, no kontentór, hotu-hotu adapta ba kontestu Timor nian.
 
 6. **The Art and Craft of Fiction Writing**
    This course explores the techniques and artistry of fiction writing while examining the human experience through diverse literary works. Students learn about storytelling fundamentals, character development, plot structure, and narrative techniques. The course also engages with themes such as identity, social justice, and historical perspectives, developing both analytical and creative skills in fiction writing.
 
-    Kursu ida-ne'e esplora tékniku no arte-na'in sira hodi hakerek fiksaun nian bainhira ezamina esperiénsia umanu liuhusi obra literáriu oioin. Estudante sira aprende kona-ba fundamentál istória nian, dezenvolvimentu karakter, estrutura plot, no téknika narrativa. Kursu ne'e mós envolve ho tema sira hanesan identidade, justisa sosiál no perspetiva istórika, dezenvolve abilidade analítiku no kriativu iha hakerek fiksaun.
+   Kursu ida-ne'e esplora tékniku no arte-na'in sira hodi hakerek fiksaun nian bainhira ezamina esperiénsia umanu liuhusi obra literáriu oioin. Estudante sira aprende kona-ba fundamentál istória nian, dezenvolvimentu karakter, estrutura plot, no téknika narrativa. Kursu ne'e mós envolve ho tema sira hanesan identidade, justisa sosiál no perspetiva istórika, dezenvolve abilidade analítiku no kriativu iha hakerek fiksaun.
 
 7. **English Grammar**
    This comprehensive course provides an in-depth exploration of English grammar rules, structures, and usage. It covers topics such as tenses, modal verbs, conditionals, passive voice, reported speech, and sentence structure. The course aims to enhance students' understanding and application of English grammar in both spoken and written contexts.
 
-    Kursu kompreensivu ida-ne'e fornese esplorasaun kle'an ida kona-ba regra, estrutura no utilizasaun grama Ingles nian. Ne'e kobre tópiku sira hanesan tensaun, liafuan modal, kondisional, lian pasivu, diskursu, no estrutura sentensa. Kursu ne'e ninia objetivu mak atu hasa'e estudante sira-nia komprensaun no aplikasaun kona-ba grama Ingles iha kontestu ko'alia no hakerek.
+   Kursu kompreensivu ida-ne'e fornese esplorasaun kle'an ida kona-ba regra, estrutura no utilizasaun grama Ingles nian. Ne'e kobre tópiku sira hanesan tensaun, liafuan modal, kondisional, lian pasivu, diskursu, no estrutura sentensa. Kursu ne'e ninia objetivu mak atu hasa'e estudante sira-nia komprensaun no aplikasaun kona-ba grama Ingles iha kontestu ko'alia no hakerek.
 
 8. **Practical English for Timor-Leste**
    This course focuses on developing practical, communicative English language skills useful in real-life situations for Timorese students. It covers topics such as introductions, daily life, shopping, food and dining, travel, and health. The course emphasizes speaking, listening, reading, and writing activities, using engaging and interactive teaching methods.
 
-    Kursu ida-ne'e foka liu ba dezenvolve abilidade prátika no komunikasaun lian Ingles ne'ebé util iha situasaun moris reál ba estudante timoroan sira. Ida-ne'e kobre tópiku sira hanesan introdusaun, moris loroloron nian, kompras, hahán no hahán, viajen, no saúde. Kursu ne'e ko'alia, rona, lee, no hakerek, uza métodu hanorin ne'ebé envolve no interativu.
+   Kursu ida-ne'e foka liu ba dezenvolve abilidade prátika no komunikasaun lian Ingles ne'ebé util iha situasaun moris reál ba estudante timoroan sira. Ida-ne'e kobre tópiku sira hanesan introdusaun, moris loroloron nian, kompras, hahán no hahán, viajen, no saúde. Kursu ne'e ko'alia, rona, lee, no hakerek, uza métodu hanorin ne'ebé envolve no interativu.
 
 9. **Food Innovation and Sustainability for Timor-Leste**
    This program aims to reinvigorate the production and utilization of healthy Timorese foods to improve food security and address malnutrition. It covers traditional Timorese ingredients, innovative food product development, culinary skills, nutrition, sustainable food systems, and food entrepreneurship. The course combines theoretical learning with practical skills development and community engagement.
 
-    Programa ida-ne'e ninia objetivu mak atu hadi'a fali produsaun no utilizasaun ai-han ne'ebé saudavel iha Timor-Leste hodi hadi'a seguransa ai-han no responde ba malnutrisaun. Nia kobre komponente tradisionál timoroan sira, dezenvolvimentu produtu ai-han inovativu, abilidade kulinaria, nutrisaun, sistema ai-han sustentavel, no emprezariedade ai-han. Kursu ne'e kombina aprendizajen teóriku ho dezenvolvimentu abilidade pratiku no envolvimentu komunidade.
+   Programa ida-ne'e ninia objetivu mak atu hadi'a fali produsaun no utilizasaun ai-han ne'ebé saudavel iha Timor-Leste hodi hadi'a seguransa ai-han no responde ba malnutrisaun. Nia kobre komponente tradisionál timoroan sira, dezenvolvimentu produtu ai-han inovativu, abilidade kulinaria, nutrisaun, sistema ai-han sustentavel, no emprezariedade ai-han. Kursu ne'e kombina aprendizajen teóriku ho dezenvolvimentu abilidade pratiku no envolvimentu komunidade.
 
 10. **Introduction to Generative AI and Language Models for Timor-Leste**
     This course introduces students to the fundamentals of generative AI and large language models, focusing on their potential applications in Timor-Leste. It covers basic principles of machine learning, deep learning, and natural language processing, leading up to current generative AI technologies. Students gain hands-on experience while considering ethical implications and potential impacts on Timorese society and economy.
@@ -119,6 +119,21 @@ Ba aplikasaun pratika:
     This course introduces saline agriculture techniques and salt-tolerant crops to farmers and agricultural students in Timor-Leste. It covers principles of saline agriculture, identification of salt-tolerant crops suitable for Timor-Leste's climate, techniques for managing saline soils and irrigation, and planning for implementing saline agriculture projects in local communities.
 
     Kursu ida-ne'e introdús téknika agrikultura salina no ai-horis ne'ebé tolerante ho masin ba agrikultór no estudante agrikultura sira iha Timor-Leste. Ne'e kobre prinsípiu agrikultura salina, identifikasaun ai-horis ne'ebé adekuadu ba klima Timor-Leste nian, téknika jestaun rai salina no irrigasaun, no planeamentu ba implementasaun projetu agrikultura salina iha komunidade lokál sira.
+
+16. **Permagarden Design and Implementation for Food Security in Timor-Leste**
+    This course equips participants with the knowledge and skills to design and implement permagardens in Timor-Leste, focusing on improving household food security, nutrition, and resilience. It covers permaculture principles, site assessment, water management, soil preparation, planting techniques, garden maintenance, and community engagement. Participants learn to create sustainable, productive gardens using locally available resources.
+
+    Kursu ida-ne'e fornese ba partisipante sira koñesimentu no abilidade atu dezeña no implementa permagardens iha Timor-Leste, foka liu ba hadi'a seguransa ai-han uma-kain, nutrisaun no reziliensia. Kobre prinsípiu permakultura, avaliasaun fatin, jestaun bee, preparasaun rai, téknika kuda, manutensaun jardín, no envolvimentu komunidade. Partisipante sira aprende atu kria jardín sustentavel no produtivu sira uza rekursu lokál sira ne'ebé disponivel.
+
+17. **Introduction to Python Programming for Timor-Leste**
+    This course provides an introduction to Python programming for students in Timor-Leste. It teaches fundamental programming concepts using Python, while incorporating culturally relevant examples and applications. Topics include basic syntax, data types, control flow, functions, lists, dictionaries, file I/O, and an introduction to libraries and APIs. The course emphasizes practical application to local issues and community-based projects.
+
+    Kursu ida-ne'e fornese introdusaun ba programa Python ba estudante sira iha Timor-Leste. Ida ne'e hanorin konseitu fundamentál sira kona-ba programa uza Python, no mós inkorpora ezemplu no aplikasaun sira ne'ebé kulturalmente relevante. Topiku sira inklui sintax báziku, tipu dadus, flow kontrolu, funsaun, lista, dictionary, I/O, no introdusaun ba biblioteka no APIs. Kursu ne'e ko'alia liu kona-ba aplikasaun pratika ba asuntu lokál no projetu bazeia ba komunidade.
+
+18. **Introduction to Game Programming with Python**
+    This course introduces students in Timor-Leste to basic programming concepts through game development using Python. Students will learn fundamental programming skills while creating an interactive game, with a focus on practical application and cultural relevance. By the end of the course, students will be able to create a simple game and understand core programming principles.
+
+    Kursu ida-ne'e introdús estudante sira iha Timor-Leste ba konseitu programa báziku liu husi dezenvolvimentu jogu uza Python. Estudante sira sei aprende abilidade fundamentál ba programa bainhira kria jogu interativu ida, ho fokus ba aplikasaun pratiku no relevante kulturál. To'o kursu remata, estudante sira bele kria jogu simples no komprende prinsípiu prinsipál sira kona-ba programa.
 
 ## Repository Structure
 
@@ -169,7 +184,7 @@ Detailed course syllabi for the Key Courses offered.
 ## Resources
  - Media and pdf course support files here; https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
  - [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
- 
+
 ## Bibliography
 
 1. Acupressure's Potent Points. (No author or date provided)

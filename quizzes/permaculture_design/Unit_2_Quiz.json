@@ -1,0 +1,305 @@
+{
+  "title": "Site Assessment and Design for Permagardens",
+  "questions": [
+    {
+      "question": "What is the primary purpose of conducting a site assessment?",
+      "choices": [
+        "To determine the market value of the land",
+        "To inform design decisions and maximize efficiency",
+        "To comply with local zoning regulations",
+        "To estimate the cost of garden implementation"
+      ],
+      "answer": "To inform design decisions and maximize efficiency"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a site assessment?",
+      "choices": [
+        "Soil pH testing",
+        "Measuring site dimensions",
+        "Analyzing sun exposure",
+        "Determining property ownership"
+      ],
+      "answer": "Determining property ownership"
+    },
+    {
+      "question": "What tool is commonly used to create contour lines during site assessment?",
+      "choices": [
+        "GPS device",
+        "A-frame level",
+        "Soil auger",
+        "pH meter"
+      ],
+      "answer": "A-frame level"
+    },
+    {
+      "question": "Why is analyzing sun exposure important in site assessment?",
+      "choices": [
+        "To determine the best time for planting",
+        "To plan for solar panel installation",
+        "To inform plant placement and identify microclimates",
+        "To estimate the garden's energy efficiency"
+      ],
+      "answer": "To inform plant placement and identify microclimates"
+    },
+    {
+      "question": "What is the purpose of creating a base map during site assessment?",
+      "choices": [
+        "To mark property boundaries",
+        "To record the site's features and measurements",
+        "To plan irrigation systems",
+        "To identify soil types"
+      ],
+      "answer": "To record the site's features and measurements"
+    },
+    {
+      "question": "Which of the following is a common constraint for permagardens in Timor-Leste?",
+      "choices": [
+        "Excessive rainfall",
+        "Limited water availability during dry seasons",
+        "Overly fertile soil",
+        "Abundance of gardening inputs"
+      ],
+      "answer": "Limited water availability during dry seasons"
+    },
+    {
+      "question": "What is the purpose of zoning in permagarden design?",
+      "choices": [
+        "To comply with local land use regulations",
+        "To separate different types of plants",
+        "To organize the garden based on frequency of use and maintenance needs",
+        "To create distinct microclimates within the garden"
+      ],
+      "answer": "To organize the garden based on frequency of use and maintenance needs"
+    },
+    {
+      "question": "What does sector analysis in permaculture design primarily focus on?",
+      "choices": [
+        "Dividing the garden into equal sections",
+        "Analyzing soil composition in different areas",
+        "Mapping external influences on the site",
+        "Determining the economic potential of different garden areas"
+      ],
+      "answer": "Mapping external influences on the site"
+    },
+    {
+      "question": "Which zone in a typical permagarden would be most suitable for daily-use herbs?",
+      "choices": [
+        "Zone 0",
+        "Zone 1",
+        "Zone 3",
+        "Zone 4"
+      ],
+      "answer": "Zone 1"
+    },
+    {
+      "question": "What is a key consideration when assessing slope in site assessment?",
+      "choices": [
+        "The aesthetic appeal of the landscape",
+        "The potential for installing playground equipment",
+        "The impact on water flow and erosion",
+        "The suitability for building structures"
+      ],
+      "answer": "The impact on water flow and erosion"
+    },
+    {
+      "question": "Which soil characteristic is NOT typically assessed during a basic site assessment?",
+      "choices": [
+        "pH level",
+        "Texture",
+        "Organic matter content",
+        "Microbial diversity"
+      ],
+      "answer": "Microbial diversity"
+    },
+    {
+      "question": "What is the primary purpose of creating contour lines in site assessment?",
+      "choices": [
+        "To mark property boundaries",
+        "To plan for irrigation systems",
+        "To understand and work with slope",
+        "To determine planting zones"
+      ],
+      "answer": "To understand and work with slope"
+    },
+    {
+      "question": "Which of the following is an example of a local resource that might be identified during site assessment in Timor-Leste?",
+      "choices": [
+        "Imported fertilizers",
+        "Native plant species",
+        "Modern irrigation equipment",
+        "Genetically modified seeds"
+      ],
+      "answer": "Native plant species"
+    },
+    {
+      "question": "What is the purpose of conducting a soil texture test during site assessment?",
+      "choices": [
+        "To determine soil color",
+        "To measure soil temperature",
+        "To assess the ratio of sand, silt, and clay",
+        "To identify soil-borne pathogens"
+      ],
+      "answer": "To assess the ratio of sand, silt, and clay"
+    },
+    {
+      "question": "Which of the following is NOT typically considered in sector analysis?",
+      "choices": [
+        "Prevailing winds",
+        "Sun path",
+        "Water flow",
+        "Soil pH"
+      ],
+      "answer": "Soil pH"
+    },
+    {
+      "question": "What is a key benefit of incorporating zoning principles in permagarden design?",
+      "choices": [
+        "It increases property value",
+        "It improves aesthetic appeal",
+        "It enhances efficiency in garden management",
+        "It guarantees higher crop yields"
+      ],
+      "answer": "It enhances efficiency in garden management"
+    },
+    {
+      "question": "Which water management feature is particularly useful for sloped sites in Timor-Leste?",
+      "choices": [
+        "Ponds",
+        "Swales",
+        "Sprinkler systems",
+        "Underground tanks"
+      ],
+      "answer": "Swales"
+    },
+    {
+      "question": "What is the primary purpose of identifying microclimates during site assessment?",
+      "choices": [
+        "To determine the best location for a weather station",
+        "To plan for climate change adaptation",
+        "To optimize plant placement and selection",
+        "To assess the need for greenhouse structures"
+      ],
+      "answer": "To optimize plant placement and selection"
+    },
+    {
+      "question": "Which of the following is an important consideration when assessing water sources in Timor-Leste?",
+      "choices": [
+        "Proximity to the ocean",
+        "Potential for rainwater harvesting",
+        "Availability of snowmelt",
+        "Access to desalination plants"
+      ],
+      "answer": "Potential for rainwater harvesting"
+    },
+    {
+      "question": "What is the purpose of inventorying existing vegetation during site assessment?",
+      "choices": [
+        "To determine the site's biodiversity index",
+        "To plan for complete vegetation removal",
+        "To inform decisions on integration or removal of plants",
+        "To assess the site's carbon sequestration potential"
+      ],
+      "answer": "To inform decisions on integration or removal of plants"
+    },
+    {
+      "question": "Which of the following is NOT a typical zone in a permagarden design?",
+      "choices": [
+        "Zone 0: The house",
+        "Zone 1: Intensively used areas",
+        "Zone 3: Occasional use areas",
+        "Zone 5: Urban development area"
+      ],
+      "answer": "Zone 5: Urban development area"
+    },
+    {
+      "question": "What is a key consideration when adapting permagarden design principles to Timor-Leste?",
+      "choices": [
+        "Accommodating large-scale mechanized farming",
+        "Planning for frequent snowfall",
+        "Addressing challenges of steep terrain and erosion",
+        "Designing for year-round consistent rainfall"
+      ],
+      "answer": "Addressing challenges of steep terrain and erosion"
+    },
+    {
+      "question": "Which of the following is an important aspect of soil assessment in Timor-Leste?",
+      "choices": [
+        "Measuring soil salinity",
+        "Testing for heavy metal contamination",
+        "Assessing organic matter content",
+        "Determining soil age"
+      ],
+      "answer": "Assessing organic matter content"
+    },
+    {
+      "question": "What is the primary goal of incorporating biodiversity in permagarden design?",
+      "choices": [
+        "To increase the garden's aesthetic appeal",
+        "To comply with international gardening standards",
+        "To promote ecological balance and resilience",
+        "To maximize the use of exotic plant species"
+      ],
+      "answer": "To promote ecological balance and resilience"
+    },
+    {
+      "question": "Which of the following is a key principle in designing water management for permagardens in Timor-Leste?",
+      "choices": [
+        "Maximizing water use through constant irrigation",
+        "Relying primarily on groundwater extraction",
+        "Implementing water conservation techniques like mulching",
+        "Focusing on water-intensive crop varieties"
+      ],
+      "answer": "Implementing water conservation techniques like mulching"
+    },
+    {
+      "question": "What is the purpose of creating a seasonal planting calendar during the design phase?",
+      "choices": [
+        "To schedule garden parties",
+        "To plan crop rotations and succession planting",
+        "To determine the best times for fertilizer application",
+        "To schedule irrigation system maintenance"
+      ],
+      "answer": "To plan crop rotations and succession planting"
+    },
+    {
+      "question": "Which of the following is an important consideration when designing paths in a permagarden?",
+      "choices": [
+        "Ensuring paths are always straight for aesthetic appeal",
+        "Maximizing the length of paths for exercise purposes",
+        "Designing for efficient movement and reduced labor",
+        "Using only imported materials for path construction"
+      ],
+      "answer": "Designing for efficient movement and reduced labor"
+    },
+    {
+      "question": "What is a key benefit of integrating traditional Timorese land-use practices into permagarden design?",
+      "choices": [
+        "It ensures compliance with international gardening standards",
+        "It maximizes the use of modern agricultural technologies",
+        "It promotes cultural preservation and local adaptation",
+        "It guarantees higher crop yields in all conditions"
+      ],
+      "answer": "It promotes cultural preservation and local adaptation"
+    },
+    {
+      "question": "Which of the following is NOT typically a focus of climate change adaptation strategies in permagarden design for Timor-Leste?",
+      "choices": [
+        "Drought-resistant crop selection",
+        "Enhanced water harvesting techniques",
+        "Increased use of chemical pesticides",
+        "Soil conservation methods"
+      ],
+      "answer": "Increased use of chemical pesticides"
+    },
+    {
+      "question": "What is the primary purpose of conducting community engagement during the permagarden design process?",
+      "choices": [
+        "To comply with local regulations",
+        "To secure funding for the project",
+        "To incorporate local knowledge and ensure cultural appropriateness",
+        "To recruit labor for garden construction"
+      ],
+      "answer": "To incorporate local knowledge and ensure cultural appropriateness"
+    }
+  ]
+}

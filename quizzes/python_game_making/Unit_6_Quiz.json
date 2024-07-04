@@ -1,0 +1,305 @@
+{
+  "title": "Final Project - Complete Dodger Game",
+  "questions": [
+    {
+      "question": "What is the main purpose of a Game Design Document (GDD)?",
+      "choices": [
+        "To serve as a marketing tool",
+        "To act as a blueprint for game development",
+        "To replace the need for coding",
+        "To satisfy legal requirements"
+      ],
+      "answer": "To act as a blueprint for game development"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a Game Design Document?",
+      "choices": [
+        "Game concept and story",
+        "Gameplay mechanics",
+        "Visual style and art direction",
+        "Detailed code implementation"
+      ],
+      "answer": "Detailed code implementation"
+    },
+    {
+      "question": "What is the core concept of a Dodger game?",
+      "choices": [
+        "Solving puzzles",
+        "Building structures",
+        "Avoiding falling objects",
+        "Collecting power-ups"
+      ],
+      "answer": "Avoiding falling objects"
+    },
+    {
+      "question": "How can Timorese cultural elements be incorporated into the Dodger game?",
+      "choices": [
+        "Using traditional patterns for backgrounds",
+        "Including local characters or symbols as sprites",
+        "Using traditional music for the background score",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of the main game loop in a Pygame program?",
+      "choices": [
+        "To handle events and update game state",
+        "To create a menu system",
+        "To generate random numbers",
+        "To connect to the internet"
+      ],
+      "answer": "To handle events and update game state"
+    },
+    {
+      "question": "Which Pygame function is used to update the display after drawing?",
+      "choices": [
+        "pygame.display.update()",
+        "pygame.screen.refresh()",
+        "pygame.display.flip()",
+        "pygame.screen.redraw()"
+      ],
+      "answer": "pygame.display.flip()"
+    },
+    {
+      "question": "What is the purpose of the clock.tick() function in Pygame?",
+      "choices": [
+        "To create a ticking sound",
+        "To control game speed",
+        "To measure elapsed time",
+        "To synchronize multiplayer games"
+      ],
+      "answer": "To control game speed"
+    },
+    {
+      "question": "Which of the following is NOT a typical game object in a Dodger game?",
+      "choices": [
+        "Player character",
+        "Falling objects",
+        "Background elements",
+        "Enemy AI"
+      ],
+      "answer": "Enemy AI"
+    },
+    {
+      "question": "What is the primary purpose of collision detection in a Dodger game?",
+      "choices": [
+        "To increase the score",
+        "To create sound effects",
+        "To determine if the player has been hit",
+        "To generate new falling objects"
+      ],
+      "answer": "To determine if the player has been hit"
+    },
+    {
+      "question": "How can difficulty progression be implemented in a Dodger game?",
+      "choices": [
+        "Increasing the fall speed of objects",
+        "Increasing the number of falling objects",
+        "Decreasing the size of the player character",
+        "Both A and B"
+      ],
+      "answer": "Both A and B"
+    },
+    {
+      "question": "What is a common debugging technique in game development?",
+      "choices": [
+        "Using print statements",
+        "Disabling all game features",
+        "Rewriting the entire codebase",
+        "Ignoring error messages"
+      ],
+      "answer": "Using print statements"
+    },
+    {
+      "question": "What is playtesting in game development?",
+      "choices": [
+        "Testing the game on different platforms",
+        "Having others play the game to identify issues",
+        "Playing the game while standing up",
+        "Testing the game's networking capabilities"
+      ],
+      "answer": "Having others play the game to identify issues"
+    },
+    {
+      "question": "Which of the following is NOT a typical section in a Game Design Document?",
+      "choices": [
+        "Game concept",
+        "Gameplay mechanics",
+        "Marketing strategy",
+        "Sound design"
+      ],
+      "answer": "Marketing strategy"
+    },
+    {
+      "question": "What is the purpose of a sprite sheet in game development?",
+      "choices": [
+        "To provide a list of game sprites",
+        "To contain multiple sprites or game objects in one image file",
+        "To create 3D models",
+        "To generate random textures"
+      ],
+      "answer": "To contain multiple sprites or game objects in one image file"
+    },
+    {
+      "question": "What does 'game balance' refer to in game design?",
+      "choices": [
+        "The physical stability of the game console",
+        "The process of adjusting game elements for fair and enjoyable gameplay",
+        "The financial aspects of game development",
+        "The ratio of graphics to sound in a game"
+      ],
+      "answer": "The process of adjusting game elements for fair and enjoyable gameplay"
+    },
+    {
+      "question": "What is the primary function of the User Interface (UI) in a game?",
+      "choices": [
+        "To entertain the player",
+        "To provide visual elements for player interaction",
+        "To increase game difficulty",
+        "To store game data"
+      ],
+      "answer": "To provide visual elements for player interaction"
+    },
+    {
+      "question": "Which Pygame function is used to load a sound file?",
+      "choices": [
+        "pygame.sound.load()",
+        "pygame.mixer.Sound()",
+        "pygame.audio.import()",
+        "pygame.music.load()"
+      ],
+      "answer": "pygame.mixer.Sound()"
+    },
+    {
+      "question": "How can version control with Git benefit game development?",
+      "choices": [
+        "By automatically fixing bugs",
+        "By generating game art",
+        "By tracking changes and facilitating collaboration",
+        "By increasing game performance"
+      ],
+      "answer": "By tracking changes and facilitating collaboration"
+    },
+    {
+      "question": "What is a potential challenge in balancing difficulty progression in a Dodger game?",
+      "choices": [
+        "Making the game too easy at the start",
+        "Increasing difficulty too rapidly",
+        "Keeping the game engaging for skilled players",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT a typical way to incorporate Timorese culture into a Dodger game?",
+      "choices": [
+        "Using traditional Timorese music",
+        "Including sprites based on local symbols",
+        "Using English language exclusively",
+        "Featuring backgrounds inspired by Timorese landscapes"
+      ],
+      "answer": "Using English language exclusively"
+    },
+    {
+      "question": "What is the purpose of the pygame.init() function?",
+      "choices": [
+        "To create a new game window",
+        "To initialize all imported Pygame modules",
+        "To start the game loop",
+        "To load game assets"
+      ],
+      "answer": "To initialize all imported Pygame modules"
+    },
+    {
+      "question": "How can sound design enhance the player's experience in a Dodger game?",
+      "choices": [
+        "By providing feedback for player actions",
+        "By creating an immersive atmosphere",
+        "By indicating changes in game state",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the benefit of using a basic image editing software like GIMP in game development?",
+      "choices": [
+        "To write game code",
+        "To create and edit game graphics",
+        "To compose music",
+        "To test game performance"
+      ],
+      "answer": "To create and edit game graphics"
+    },
+    {
+      "question": "Which of the following is NOT a typical objective for the final Dodger game project?",
+      "choices": [
+        "Apply all learned concepts",
+        "Customize the game with local cultural elements",
+        "Create a multiplayer online version",
+        "Debug and test the game effectively"
+      ],
+      "answer": "Create a multiplayer online version"
+    },
+    {
+      "question": "What is the purpose of organizing a game showcase event for the local community?",
+      "choices": [
+        "To sell the games commercially",
+        "To engage with the community and showcase student work",
+        "To recruit professional game developers",
+        "To test game performance on different devices"
+      ],
+      "answer": "To engage with the community and showcase student work"
+    },
+    {
+      "question": "Which of the following is a good practice for debugging a Pygame program?",
+      "choices": [
+        "Removing all comments from the code",
+        "Ignoring error messages",
+        "Using print statements to track variable values",
+        "Deleting random sections of code"
+      ],
+      "answer": "Using print statements to track variable values"
+    },
+    {
+      "question": "What is the primary purpose of collaborating with local artists for game graphics and music?",
+      "choices": [
+        "To reduce development costs",
+        "To increase game performance",
+        "To enhance cultural authenticity and relevance",
+        "To comply with copyright laws"
+      ],
+      "answer": "To enhance cultural authenticity and relevance"
+    },
+    {
+      "question": "Which of the following is NOT typically included in the final project presentation?",
+      "choices": [
+        "Game concept and cultural elements incorporated",
+        "Challenges faced and overcome",
+        "Future improvements or extensions",
+        "Detailed code explanations"
+      ],
+      "answer": "Detailed code explanations"
+    },
+    {
+      "question": "What is the recommended duration for the final project presentation?",
+      "choices": [
+        "30 seconds to 1 minute",
+        "2-3 minutes",
+        "10-15 minutes",
+        "30 minutes or more"
+      ],
+      "answer": "2-3 minutes"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of the final Dodger game project?",
+      "choices": [
+        "At least three levels of increasing difficulty",
+        "Score tracking and display",
+        "Start menu and game over screen",
+        "Online leaderboard system"
+      ],
+      "answer": "Online leaderboard system"
+    }
+  ]
+}
