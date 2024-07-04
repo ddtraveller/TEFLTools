@@ -1,9 +1,9 @@
-```markdown
 # Regenerative Living: A Permaculture Approach - Comprehensive Course Overview
 
 ## Course Description
 
 This hands-on program immerses participants in the principles and practices of permaculture, equipping them with the knowledge and skills to design and implement sustainable, resilient living systems. Through a blend of classroom learning and field practice, students will explore regenerative approaches to water, soil, food, shelter, and community. The curriculum is grounded in both time-tested traditional wisdom and innovative ecological design, with a focus on locally appropriate solutions. Graduates will be prepared to serve as leaders and educators, guiding their communities towards a more secure, abundant, and connected way of life in harmony with nature.
+Programa hands-on ne'e inklui partisipante sira iha prinsípiu no prátika permakultura nian, hodi prepara sira ho koñesimentu no abilidade atu dezeña no implementa sistema moris sustentavel no reziliente. Liu husi mistura aprendizajen iha klase-laran no prátika iha kampu, estudante sira sei esplora aprosimasaun rejenerativu ba bee, rai, ai-han, uma mahon, no komunidade. Kurikulu ne'e bazeia ba matenek tradisionál no dezeñu ekolojiku inovativu, ho fokus ba solusaun lokál ne'ebé apropriadu. Graduadu sira sei prontu atu serbí nu'udar lider no edukador, hodi orienta sira-nia komunidade ba dalan moris ne'ebé seguru, barak liu, no iha ligasaun ho natureza.
 
 ## Navigation Links
 
@@ -140,4 +140,3 @@ The course repository contains various materials to support teaching and learnin
 23. "Charcoal Remedies.com" by John Dinsley - Explores the uses of activated charcoal
 
 These resources provide a comprehensive foundation for the diverse topics covered in the Regenerative Living: A Permaculture Approach course.
-```

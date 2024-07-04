@@ -1,9 +1,9 @@
-```markdown
 # Medical Herbalism: Comprehensive Course Overview
 
 ## Course Description
 
 This comprehensive program explores the art and science of herbal medicine, blending traditional knowledge with modern scientific research. Students will develop a deep understanding of medicinal plants, their therapeutic applications, and the principles of holistic healing. The curriculum combines theoretical foundations with practical skills in herbal formulation and clinical practice.
+Programa ida-ne'ebé komprensivu esplora arte no siénsia kona-ba ai-moruk hirak-ne'e, hodi halibur koñesimentu tradisionál ho peskiza sientifika modernu. Estudante sira sei dezenvolve kompriensaun kle'an kona-ba ai-moruk sira, sira-nia aplikasaun terapeutika, no prinsípiu kura holistiku. Kurikulu ne'e kombina baze teóriku ho abilidade pratika iha formulasaun hirak-ne'e no prátika klínika.
 
 ## Navigation Links
 
@@ -129,4 +129,3 @@ The course repository contains various materials to support teaching and learnin
 10. "The Practice of Traditional Western Herbalism" by Matthew Wood - Practical application of traditional herbal knowledge
 
 These resources provide a comprehensive foundation for the diverse topics covered in the Medical Herbalism course.
-```

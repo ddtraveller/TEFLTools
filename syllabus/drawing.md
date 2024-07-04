@@ -1,10 +1,9 @@
-Here is a suggested syllabus for a localized drawing course for Timor-Leste, based on the key concepts from "You Can Draw in 30 Days":
-
 # Introduction to Drawing for Timor-Leste
 
 ## Course Overview and Objectives
 
 This 8-week course introduces students in Timor-Leste to fundamental drawing skills, with a focus on observing and depicting local scenes, culture, and nature. Students will learn the core principles of drawing in 3D while developing their artistic voice and connecting with their community through art. By the end of the course, students will be able to confidently sketch objects, landscapes, and people from observation and imagination.
+Kursu semana 8 ida-ne'e introdús estudante sira iha Timor-Leste atu dezeña abilidade fundamentál sira, ho fokus ba observasaun no dezeñu fatin lokál sira, kultura no natureza. Estudante sira sei aprende prinsípiu prinsipál sira husi dezeñu iha 3D bainhira dezenvolve sira-nia lian artístiku no liga ho sira-nia komunidade liuhusi arte. Iha kursu nia rohan, estudante sira bele haree ho konfiansa objetu, rai-luan no ema husi observasaun no imajina.
 
 ## Learning Unit 1: Foundations of Drawing
 - Objectives:  

@@ -11,6 +11,13 @@ This program aims to reinvigorate the production and utilization of healthy Timo
 
 The program will employ a mix of theoretical learning, practical skills development, and community engagement to create a holistic understanding of Timor-Leste's food landscape and opportunities for innovation.
 
+Programa ne'e ninia objetivu mak atu reforsa fali produsaun no utilizasaun ai-han ne'ebé saudavel husi Timor-Leste hodi hadi'a seguransa ai-han no responde ba malnutrisaun iha Timor-Leste. Dezeña inspirasaun husi projetu Timor-Leste Food Innovators Exchange (TLFIX) - https://www.foodsystemsjournal.org/index.php/fsj/artigu/view/1055/1024, kursu ne'e sei foka liu ba: 
+ 1. Valorizasaun ba sasán no hahán tradisionál Timor nian 
+ 2. Dezenvolve produtu ai-han inovativu no nutritivu sira uza sasán lokál sira 
+ 3. Haforsa foin-sa'e sira liu husi abilidade kulinaria no emprezariedade ai-han 
+ 4. Promove prátika no sistema ai-han sustentavel 
+ Programa ne'e sei uza mistura aprendizajen teóriku, dezenvolvimentu abilidade pratika, no envolvimentu komunidade nian hodi kria kompriensaun holistiku ida kona-ba Timor-Leste nia paizajen ai-han no oportunidade ba inovasaun.
+
 ## Course Objectives
 
 By the end of this program, participants will be able to:

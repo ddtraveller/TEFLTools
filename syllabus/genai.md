@@ -3,6 +3,7 @@
 ## Course Overview and Objectives
 
 This course aims to introduce students in Timor-Leste to the fundamentals of generative AI and large language models (LLMs), with a focus on their potential applications and implications for the country's development. The course will cover the basic principles of machine learning, deep learning, and natural language processing, leading up to the current state of generative AI technologies. Students will gain hands-on experience with these technologies while considering their ethical implications and potential impact on Timorese society and economy.
+Kursu ida-ne'e ho objetivu atu introdús estudante sira iha Timor-Leste ba fundamentál sira husi AI jerativa no modelu lian boot (LLMs), ho fokus ba sira-nia aplikasaun no implikasaun potensiál ba dezenvolvimentu nasaun nian. Kursu ne'e sei kobre prinsípiu báziku sira kona-ba aprendizajen mákina, aprendizajen kle'an, no prosesamentu lian naturál, ne'ebé lori ba estadu teknolojia jerativa AI nian. Estudante sira sei hetan esperiénsia hanesan ho teknolojia hirak-ne'e no konsidera sira-nia implikasaun étika no impaktu potensiál ba sosiedade no ekonomia Timor nian.
 
 Course objectives:
 1. Understand the core concepts of machine learning, deep learning, and natural language processing

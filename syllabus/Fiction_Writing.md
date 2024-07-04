@@ -3,6 +3,7 @@
 ## Course Description
 
 This comprehensive course explores the techniques and artistry of fiction writing while examining the human experience through a diverse selection of literary works. Students will learn the fundamentals of storytelling, character development, plot structure, and narrative techniques, while also engaging with themes such as identity, social justice, historical perspectives, and the impact of technological progress on society. This course aims to develop both analytical and creative skills in fiction writing.
+Kursu ida-ne'ebé komprensivu esplora tékniku no artezenvolvimentu hakerek fiksaun nian no mós ezamina esperiénsia umanu liu husi selesaun oioin husi obra literáriu sira. Estudante sira sei aprende kona-ba fundamentál sira iha istória, dezenvolvimentu karakter, estrutura no téknika narrativa sira, no mós envolve mós ho tema sira hanesan identidade, justisa sosiál, perspetiva istórika, no impaktu husi progresu teknolojiku ba sosiedade. Kursu ida-ne'e ho objetivu atu dezenvolve abilidade analítiku no kriativu iha hakerek fiksaun.
 
 ## Course Objectives
 

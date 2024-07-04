@@ -3,6 +3,7 @@
 ## Course Overview and Objectives
 
 This course aims to introduce students in Timor-Leste to sustainable bamboo construction techniques, emphasizing local bamboo species and traditional building methods. The program will cover bamboo's properties, cultivation, harvesting, treatment, and various construction applications. Students will learn to design and build small-scale bamboo structures while considering environmental sustainability, cultural relevance, and economic feasibility in the Timorese context.
+Kursu ida-ne'e ho objetivu atu introdús estudante sira iha Timor-Leste ba téknika konstrusaun bambu sustentavel, hodi fó atensaun ba espésie bambu lokál no métodu konstrusaun tradisionál sira. Programa ne'e sei kobre bamboo nia propriedade, kultivasaun, koá, tratamentu, no aplikasaun konstrusaun oioin. Estudante sira sei aprende atu dezeña no harii estrutura bamboo eskala ki'ik no konsidera sustentabilidade ambientál, relevante kulturál no viabilidade ekonómika iha kontestu Timor nian.
 
 Course objectives:
 1. Understand the ecological and economic benefits of bamboo as a construction material in Timor-Leste

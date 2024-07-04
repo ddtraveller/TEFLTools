@@ -3,6 +3,7 @@
 ## Course Overview and Objectives
 
 This course introduces students in Timor-Leste to the fundamentals of weaving technology, with a focus on traditional and modern weaving techniques. Students will learn about different types of looms, weaving patterns, and fabric properties. The course aims to preserve and promote Timor-Leste's rich weaving heritage while exploring opportunities for innovation and economic development through textile production.
+Kursu ida-ne'e introdús estudante sira iha Timor-Leste ba fundamentál teknolojia tesi-lia nian, ho fokus ba téknika tesi-lia tradisionál no modernu. Estudante sira sei aprende kona-ba tipu oioin husi sanan-rai, modelu tesi-lia, no propriedade sira husi fábrika. Kursu ne'e ninia objetivu mak atu prezerva no promove Timor-Leste nia patrimóniu riku atu halo tesi-lia, no mós atu esplora oportunidade sira ba inovasaun no dezenvolvimentu ekonómiku liuhusi produsaun textil.
 
 Objectives:
 - Understand basic weaving principles and terminology

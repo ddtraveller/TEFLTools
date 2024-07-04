@@ -5,6 +5,7 @@ Based on the provided Python tutorial content, I'll create a localized syllabus 
 ## Course Overview and Objectives
 
 This course introduces students in Timor-Leste to the fundamentals of programming using Python. The course aims to provide a solid foundation in Python syntax, data structures, and basic programming concepts while incorporating examples and applications relevant to Timor-Leste's context. By the end of the course, students will be able to write simple Python programs, understand core programming concepts, and apply their skills to solve local problems.
+Kursu ida-ne'e introdús estudante sira iha Timor-Leste ba fundamentál sira husi programa ne'ebé uza Python. Kursu ne'e ho objetivu atu fornese fundasaun ida-ne'ebé metin iha sintax Python, estrutura dadus, no konseitu programa báziku sira, no mós inkorpora ezemplu no aplikasaun sira ne'ebé relevante ba kontestu Timor-Leste nian. To'o kursu remata, estudante sira bele hakerek programa Python simples, komprende konseitu programa prinsipál sira, no aplika sira-nia abilidade atu rezolve problema lokál sira.
 
 ## Learning Unit 1: Introduction to Python and Basic Syntax
 - Objectives:

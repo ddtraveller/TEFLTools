@@ -5,6 +5,7 @@ Here is a suggested syllabus for a program on sustainable aquaculture management
 ## Course Overview and Objectives
 
 This course aims to provide students with the knowledge and skills to implement sustainable aquaculture practices in Timor-Leste. The program will cover key principles of the ecosystem approach to aquaculture (EAA), focusing on spatial planning, water quality management, and disease control. Students will learn how to apply these concepts to the local context of Timor-Leste's developing aquaculture sector.
+Kursu ida-ne'e ho objetivu atu fornese koñesimentu no abilidade ba estudante sira atu implementa prátika akua-kultura sustentavel iha Timor-Leste. Programa ne'e sei kobre prinsípiu prinsipál sira husi abordajen ekosistema nian ba akuakultura (EAA), ne'ebé foka liu ba planeamentu espasu, jestaun kualidade bee, no kontrolu ba moras. Estudante sira sei aprende oinsá atu aplika konseitu hirak-ne'e ba kontestu lokál iha setór akua-kultura Timor-Leste nian ne'ebé dezenvolve hela.
 
 By the end of this course, students will be able to:
 - Understand the principles of sustainable aquaculture and the EAA

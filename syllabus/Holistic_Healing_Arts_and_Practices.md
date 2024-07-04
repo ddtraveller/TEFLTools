@@ -1,9 +1,9 @@
-```markdown
 # Holistic Healing Arts and Practices: Comprehensive Course Overview
 
 ## Course Description
 
 This immersive program explores a wide range of holistic healing modalities, blending modern therapeutic techniques with traditional wisdom. Students will develop a deep understanding of the mind-body-spirit connection in the healing process. The curriculum combines theoretical foundations with extensive hands-on practice, emphasizing cultural sensitivity and adaptability to prepare practitioners for serving diverse communities.
+Programa imersivu ida-ne'e esplora modalidade kura holistiku oin-oin, kahur téknika terapeutika modernu ho matenek tradisionál. Estudante sira sei dezenvolve kompriensaun kle'an kona-ba ligasaun isin-lolon iha prosesu kura. Kurríkulu ne'e kombina baze teóriku ho prátika ne'ebé luan, hodi fó atensaun ba sensibilidade kulturál no adaptabilidade hodi prepara prátika sira atu serve komunidade oioin.
 
 ## Navigation Links
 
@@ -129,4 +129,3 @@ The course repository contains a wealth of materials to support teaching and lea
 31. "What to Expect When You're Expecting" - Essential resource for the pregnancy component
 
 These resources provide a comprehensive foundation for the diverse topics covered in the Holistic Healing Arts and Practices course.
-```

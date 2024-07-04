@@ -1,10 +1,9 @@
-Here is a suggested syllabus for a Python programming course localized for Timor-Leste:
-
 # Introduction to Python Programming for Timor-Leste
 
 ## Course Overview and Objectives
 
 This course provides an introduction to Python programming for students in Timor-Leste. The goal is to teach fundamental programming concepts using Python, while incorporating culturally relevant examples and applications. By the end of the course, students will be able to:
+Kursu ida-ne'e fornese introdusaun ba programa Python ba estudante sira iha Timor-Leste. Objetivu mak hanorin konseitu fundamentál sira kona-ba programa uza Python, no mós inkorpora ezemplu no aplikasaun sira ne'ebé kulturalmente relevante. To'o kursu remata, estudante sira bele:
 
 - Understand basic programming concepts and Python syntax
 - Write simple Python programs to solve problems

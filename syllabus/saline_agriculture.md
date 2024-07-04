@@ -3,6 +3,7 @@
 ## Course Overview and Objectives
 
 This course aims to introduce saline agriculture techniques and salt-tolerant crops to farmers and agricultural students in Timor-Leste. The goal is to expand agricultural production in coastal and saline-affected areas, improving food security and economic opportunities. By the end of this course, participants will be able to:
+Kursu ida-ne'e ho objetivu atu introdús téknika agrikultura salina no ai-horis ne'ebé tolerante ho masin ba agrikultór no estudante agrikultura sira iha Timor-Leste. Objetivu mak atu habelar produsaun agríkola iha área tasi-ibun no salina, hadi'a seguransa ai-han no oportunidade ekonómika sira. To'o kursu ne'e remata, partisipante sira bele:
 
 - Understand the principles of saline agriculture
 - Identify salt-tolerant crops suitable for Timor-Leste's climate and conditions

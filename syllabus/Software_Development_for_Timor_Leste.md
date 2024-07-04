@@ -1,9 +1,9 @@
-```markdown
 # Comprehensive Software Development for Timor-Leste - Course Syllabus
 
 ## Course Description
 
 This intensive 24-week program is designed to equip students in Timor-Leste with a broad range of software development skills, from basic data creation to advanced AI-assisted programming. The curriculum aims to prepare students for competitive roles in the international software development industry.
+Programa intensivu ida-ne'e dezeña atu fó ekipamentu ba estudante sira iha Timor-Leste ho abilidade dezenvolvimentu software oin-oin, hahú husi kriasaun dadus báziku to'o programa asisténsia AI avansadu. Kurríkulu ne'e ho objetivu atu prepara estudante sira ba papél kompetitivu iha indústria dezenvolvimentu software internasionál.
 
 ## Navigation Links
 
@@ -135,4 +135,3 @@ The course repository contains various materials to support teaching and learnin
 These resources provide a comprehensive foundation for the diverse topics covered in the Comprehensive Software Development for Timor-Leste course.
 
 **Note:** The curriculum may be adjusted based on student progress and available resources. Advanced topics such as AWS deployment and cloud development environments will be introduced if infrastructure permits.
-```

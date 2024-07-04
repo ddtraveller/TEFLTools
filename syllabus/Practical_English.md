@@ -2,6 +2,7 @@
 
 ## Course Description
 This course focuses on developing practical, communicative English language skills that will be useful in real-life situations for high school students and community members in Timor-Leste. The course incorporates speaking, listening, reading, and writing activities, using engaging and interactive teaching methods such as role-plays, discussions, and games. Relevant vocabulary and grammar will be introduced in context.
+Kursu ida-ne'e foka liu ba dezenvolve abilidade lian Ingles ne'ebé prátika no komunikativu ne'ebé sei util iha situasaun moris reál ba estudante eskola sekundária no membru komunidade sira iha Timor-Leste. Kursu ne'e inkorpora atividade ko'alia, rona, lee, no hakerek, uza métodu hanorin ne'ebé envolve no interativu hanesan papél, diskusaun, no jogu. Vokabularia relevante no gramátika sei introdús iha kontestu.
 
 ## Course Objectives
 By the end of this course, students will be able to:

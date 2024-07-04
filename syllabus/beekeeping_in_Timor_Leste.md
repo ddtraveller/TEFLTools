@@ -3,6 +3,7 @@
 ## Course Overview and Objectives
 
 This course introduces sustainable beekeeping practices tailored for Timor-Leste, integrating permaculture principles with traditional knowledge. Students will learn to establish and maintain healthy bee colonies using locally-appropriate methods that support biodiversity and community resilience. The course emphasizes hands-on experience with native Timorese bees, natural hive designs, and the creation of bee-friendly landscapes using indigenous plants.
+Kursu ida-ne'e introdús prátika sustentavel sira ne'ebé adapta ba Timor-Leste, integra prinsípiu permakultura ho koñesimentu tradisionál sira. Estudante sira sei aprende atu estabelese no mantein kolonias bee-moos ne'ebé saudavel uza métodu lokál ne'ebé apropriadu hodi suporta biodiversidade no reziliensia komunidade. Kursu ne'e ko'alia liu kona-ba esperiénsia hands-on ho bee-moos Timor-oan sira, dezeñu hive naturál sira, no kriasaun rai-na'in sira ne'ebé bele uza ai-horis indigenu sira.
 
 By the end of this course, students will be able to:
 - Understand the principles of natural beekeeping and its relationship to Timorese ecology
