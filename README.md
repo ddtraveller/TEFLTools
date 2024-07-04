@@ -13,35 +13,35 @@ Bele hetan média apoiu ba kursu sira iha ne'e;
  
 ## Table of Contents
 
-- [Navigation Guide](#navigation-guide)
-- [Key Courses](#key-courses)
-- [Repository Structure](#repository-structure)
-- [Resources](#resources)
-- [Bibliography](#bibliography)
+- Navigation Guide
+- Key Courses
+- Repository Structure
+- Resources
+- Bibliography
 
 ## Navigation Guide
 
 To explore a specific course:
-1. Start with the syllabus in the [syllabus/](syllabus/) directory.
-2. Refer to the corresponding readings in the [Readings/](Readings/) directory.
-3. Follow the lesson plans in the [lesson_plans/](lesson_plans/) directory.
-4. Complement learning with activities from the [activities/](activities/) directory and quizzes from the [quizzes/](quizzes/) directory where available.
+1. Start with the syllabus in the **syllabus/** directory.
+2. Refer to the corresponding readings in the **Readings/** directory.
+3. Follow the lesson plans in the **lesson_plans/** directory.
+4. Complement learning with activities from the **activities/** directory and quizzes from the **quizzes/** directory where available.
 
 For practical applications:
-- Explore the [scripts/](scripts/) directory for useful tools and demonstrations.
-- Check out the [games/](games/) directory for interactive learning experiences.
-- Refer to the [recipes/](recipes/) directory for traditional and medicinal preparations.
+- Explore the **scripts/** directory for useful tools and demonstrations.
+- Check out the **games/** directory for interactive learning experiences.
+- Refer to the **recipes/** directory for traditional and medicinal preparations.
 
 Atu esplora kursu espesífiku ida:
-1. Hahú ho programa iha [syllabus/] (syllabus/) diresaun.
-2. Haree ba lee iha [Readings/] (Readings/) diresaun.
-3. Halo tuir planu lisaun iha [lesson_plans/] (lesson_plans/) diresaun.
-4. Komplementa aprendizajen ho atividade sira husi [atividade/] (atividade/) diresaun no kestionáriu sira husi [quizzes/] (quizzes/) diresaun wainhira disponivel.
+1. Hahú ho programa iha **syllabus/** diresaun.
+2. Haree ba lee iha **Readings/**  diresaun.
+3. Halo tuir planu lisaun iha **lesson_plans/** diresaun.
+4. Komplementa aprendizajen ho atividade sira husi **atividade/** diresaun no kestionáriu sira husi **quizzes/** diresaun wainhira disponivel.
 
 Ba aplikasaun pratika:
-- Esplika [eskritura/] (scripts/) diresaun ba instrumentu no demonstrasaun util.
-- Haree ba [jogu/] (games/) diresaun ba esperiénsia aprendizajen interativu.
-- refere ba [recipitu/] (recipes/) diresaun ba preparasaun tradisionál no ai-moruk.
+- Esplika **scripts/** diresaun ba instrumentu no demonstrasaun util.
+- Haree ba **games/** diresaun ba esperiénsia aprendizajen interativu.
+- refere ba **recipes/** diresaun ba preparasaun tradisionál no ai-moruk.
 
 ## Key Courses - all content is localized/regionalized for Timor Leste
 
