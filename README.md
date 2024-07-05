@@ -73,23 +73,29 @@ For detailed descriptions of each course in both English and Tetun, please refer
 
 The repository is organized into several main directories:
 
-- **[Readings/](Readings/)**: Contains reading materials on the Key Courses and Timor-Leste specific cultural content.
-- **[lesson_plans/](lesson_plans/)**: Structured lesson plans and support material for the Key Courses.
-- **[activities/](activities/)**: Hands-on activities to complement the lessons for each Key Course.
-- **[quizzes/](quizzes/)**: Multiple choice quizzes in JSON format for each Key Course.
-- **[games/](games/)**: Interactive educational games.
-- **[scripts/](scripts/)**: Utility scripts for various purposes.
-- **[syllabus/](syllabus/)**: Detailed course syllabi for the Key Courses.
+- **[Readings/](Readings/)**: Contains reading materials on the Key Courses and Timor-Leste specific cultural content/Kontein materiál lee kona-ba Kursu Prinsipal no konteúdu kulturál espesífiku Timor-Leste nian.
+- **[lesson_plans/](lesson_plans/)**: Structured lesson plans and support material for the Key Courses/Planu lisaun estruturadu no materiál apoiu ba Kursu Prinsipal sira.
+- 
+- **[activities/](activities/)**: Hands-on activities to complement the lessons for each Key Course/Atividade hands-on atu komplementa lisaun sira ba kada Kursu Prinsipal.
+- 
+- **[quizzes/](quizzes/)**: Multiple choice quizzes in JSON format for each Key Course/Kestionáriu opsaun oin-oin iha formatu JSON ba kada Kursu Prinsipal.
+- 
+- **[games/](games/)**: Interactive educational games/Jogu edukasaun interativu.
+- 
+- **[scripts/](scripts/)**: Utility scripts for various purposes/Eskritura utilidade ba objetivu oioin.
+- 
+- **[syllabus/](syllabus/)**: Detailed course syllabi for the Key Courses/Kursu detalladu ba Kursu Prinsipal sira.
 
 Additional Resources:
-- **[recipes/](recipes/)**: Traditional and other recipes relevant to Timor-Leste.
-- **[timorLesteMap/](timorLesteMap/)**: Resources for creating an interactive map of Timor-Leste.
-- **[pdf/](pdf/)**: PDF resources, such as client intake forms for holistic health services.
+- **[recipes/](recipes/)**: Traditional and other recipes relevant to Timor-Leste/Receita tradisionál no sira seluk ne'ebé relevante ba Timor-Leste.
+- **[timorLesteMap/](timorLesteMap/)**: Resources for creating an interactive map of Timor-Leste/Rekursu atu kria mapa interativu ida kona-ba Timor-Leste.
+- **[pdf/](pdf/)**: PDF resources, such as client intake forms for holistic health services/Rekursu PDF, hanesan formuláriu intake kliente ba servisu saúde holistiku.
 
 ## Resources
 
 - Media and pdf course support files: https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
 - [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
+- [Discord, Tetun Learners!](https://discord.gg/DaBJG2Gn)
 
 ## Bibliography
 
