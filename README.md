@@ -97,6 +97,7 @@ Additional Resources:
 - [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
 - [Discord, Tetun Learners!](https://discord.gg/DaBJG2Gn)
 
+
 ## Bibliography
 
 1. Acupressure's Potent Points. (No author or date provided)
