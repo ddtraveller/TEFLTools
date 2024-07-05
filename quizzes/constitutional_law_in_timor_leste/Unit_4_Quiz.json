@@ -1,0 +1,305 @@
+{
+  "title": "The National Parliament of Timor-Leste",
+  "questions": [
+    {
+      "question": "How many members are there in Timor-Leste's National Parliament?",
+      "choices": [
+        "55",
+        "65",
+        "75",
+        "85"
+      ],
+      "answer": "65"
+    },
+    {
+      "question": "What type of legislature does Timor-Leste have?",
+      "choices": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Federal"
+      ],
+      "answer": "Unicameral"
+    },
+    {
+      "question": "How long is the term for members of Timor-Leste's Parliament?",
+      "choices": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "question": "What electoral system is used for parliamentary elections in Timor-Leste?",
+      "choices": [
+        "First-past-the-post",
+        "Proportional representation",
+        "Mixed member proportional",
+        "Two-round system"
+      ],
+      "answer": "Proportional representation"
+    },
+    {
+      "question": "Who can introduce bills in Timor-Leste's Parliament?",
+      "choices": [
+        "Only the Government",
+        "Only parliamentary benches",
+        "Only parliamentary committees",
+        "Parliamentary benches, committees, and the Government"
+      ],
+      "answer": "Parliamentary benches, committees, and the Government"
+    },
+    {
+      "question": "How many signatures are required for a private member's bill in Timor-Leste?",
+      "choices": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "What is the role of the President of Parliament?",
+      "choices": [
+        "To lead the government",
+        "To oversee parliamentary proceedings",
+        "To represent Timor-Leste internationally",
+        "To appoint judges"
+      ],
+      "answer": "To oversee parliamentary proceedings"
+    },
+    {
+      "question": "What is the purpose of parliamentary committees in Timor-Leste?",
+      "choices": [
+        "To elect the President",
+        "To review and amend bills",
+        "To conduct foreign policy",
+        "To appoint ministers"
+      ],
+      "answer": "To review and amend bills"
+    },
+    {
+      "question": "What type of majority is required to pass organic laws in Timor-Leste's Parliament?",
+      "choices": [
+        "Simple majority",
+        "Two-thirds majority",
+        "Absolute majority",
+        "Unanimous consent"
+      ],
+      "answer": "Absolute majority"
+    },
+    {
+      "question": "What action can the President take after Parliament passes a bill?",
+      "choices": [
+        "Only promulgate",
+        "Only veto",
+        "Promulgate, veto, or request constitutional review",
+        "Amend the bill directly"
+      ],
+      "answer": "Promulgate, veto, or request constitutional review"
+    },
+    {
+      "question": "Where are new laws published in Timor-Leste after promulgation?",
+      "choices": [
+        "National Gazette",
+        "Official Gazette",
+        "Parliamentary Record",
+        "Government Bulletin"
+      ],
+      "answer": "Official Gazette"
+    },
+    {
+      "question": "What is one method of parliamentary oversight in Timor-Leste?",
+      "choices": [
+        "Appointing ministers",
+        "Conducting foreign policy",
+        "Questions to the Government",
+        "Setting monetary policy"
+      ],
+      "answer": "Questions to the Government"
+    },
+    {
+      "question": "How often are parliamentary elections held in Timor-Leste?",
+      "choices": [
+        "Every 3 years",
+        "Every 4 years",
+        "Every 5 years",
+        "Every 6 years"
+      ],
+      "answer": "Every 5 years"
+    },
+    {
+      "question": "What fraction of MPs can initiate a vote of no confidence?",
+      "choices": [
+        "1/3",
+        "1/4",
+        "1/5",
+        "1/2"
+      ],
+      "answer": "1/4"
+    },
+    {
+      "question": "What majority is required to pass a vote of no confidence?",
+      "choices": [
+        "Simple majority",
+        "Two-thirds majority",
+        "Absolute majority",
+        "Three-fourths majority"
+      ],
+      "answer": "Absolute majority"
+    },
+    {
+      "question": "What is the minimum number of candidates of each gender required per every group of 10 candidates on party lists?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Who forms the Parliamentary Bureau?",
+      "choices": [
+        "All members of parliament",
+        "The President and Prime Minister",
+        "The President of Parliament, Vice-Presidents, and Secretaries",
+        "Heads of parliamentary committees"
+      ],
+      "answer": "The President of Parliament, Vice-Presidents, and Secretaries"
+    },
+    {
+      "question": "What type of committees can be formed in addition to standing committees?",
+      "choices": [
+        "Permanent committees",
+        "Ad hoc committees",
+        "Executive committees",
+        "Judicial committees"
+      ],
+      "answer": "Ad hoc committees"
+    },
+    {
+      "question": "What is the first stage of the legislative process in Timor-Leste?",
+      "choices": [
+        "Committee review",
+        "Plenary debate",
+        "Bill introduction",
+        "Presidential review"
+      ],
+      "answer": "Bill introduction"
+    },
+    {
+      "question": "What can parliamentary committees do during the review stage of a bill?",
+      "choices": [
+        "Promulgate the bill",
+        "Veto the bill",
+        "Amend the bill",
+        "Elect new committee members"
+      ],
+      "answer": "Amend the bill"
+    },
+    {
+      "question": "What happens during the plenary debate stage of the legislative process?",
+      "choices": [
+        "Only committee members discuss the bill",
+        "The full parliament discusses the bill",
+        "The President decides on the bill",
+        "The public votes on the bill"
+      ],
+      "answer": "The full parliament discusses the bill"
+    },
+    {
+      "question": "What is the purpose of the general principles debate in the plenary session?",
+      "choices": [
+        "To elect the President of Parliament",
+        "To discuss the overall concept and goals of the bill",
+        "To amend specific articles of the bill",
+        "To vote on the final version of the bill"
+      ],
+      "answer": "To discuss the overall concept and goals of the bill"
+    },
+    {
+      "question": "What type of questions can MPs submit to ministers as part of parliamentary oversight?",
+      "choices": [
+        "Only written questions",
+        "Only oral questions",
+        "Written or oral questions",
+        "Neither written nor oral questions"
+      ],
+      "answer": "Written or oral questions"
+    },
+    {
+      "question": "What power do parliamentary committees have in terms of oversight?",
+      "choices": [
+        "They can dismiss ministers directly",
+        "They can amend laws without full parliamentary approval",
+        "They can summon officials and conduct inquiries",
+        "They can appoint new government officials"
+      ],
+      "answer": "They can summon officials and conduct inquiries"
+    },
+    {
+      "question": "What is the purpose of the vote of no confidence mechanism?",
+      "choices": [
+        "To elect a new President",
+        "To pass new laws quickly",
+        "To potentially dismiss the government",
+        "To amend the constitution"
+      ],
+      "answer": "To potentially dismiss the government"
+    },
+    {
+      "question": "What is one challenge faced by Timor-Leste's National Parliament?",
+      "choices": [
+        "Too many members",
+        "Lack of legislative power",
+        "Building institutional capacity",
+        "Excessive funding"
+      ],
+      "answer": "Building institutional capacity"
+    },
+    {
+      "question": "What role does the National Parliament play in Timor-Leste's system of checks and balances?",
+      "choices": [
+        "It acts as a check on executive power",
+        "It appoints judges to the Supreme Court",
+        "It conducts foreign policy independently",
+        "It manages the national budget without oversight"
+      ],
+      "answer": "It acts as a check on executive power"
+    },
+    {
+      "question": "How does the proportional representation system impact governance in Timor-Leste?",
+      "choices": [
+        "It ensures only two parties are represented",
+        "It allows for diverse representation in parliament",
+        "It guarantees a majority government every election",
+        "It eliminates the need for coalitions"
+      ],
+      "answer": "It allows for diverse representation in parliament"
+    },
+    {
+      "question": "What is the significance of the parliamentary committee stage in the legislative process?",
+      "choices": [
+        "It bypasses the need for a full parliamentary vote",
+        "It allows for more detailed scrutiny of bills",
+        "It gives the President direct input on legislation",
+        "It eliminates the possibility of amendments"
+      ],
+      "answer": "It allows for more detailed scrutiny of bills"
+    },
+    {
+      "question": "What is the primary function of the National Parliament of Timor-Leste?",
+      "choices": [
+        "To conduct foreign policy",
+        "To create and pass laws",
+        "To enforce laws",
+        "To interpret laws"
+      ],
+      "answer": "To create and pass laws"
+    }
+  ]
+}

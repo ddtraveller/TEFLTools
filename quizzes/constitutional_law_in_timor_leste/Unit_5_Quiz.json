@@ -1,0 +1,305 @@
+{
+  "title": "The Judiciary in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the highest court in Timor-Leste's judicial system?",
+      "choices": [
+        "District Court",
+        "Court of Appeal",
+        "Supreme Court of Justice",
+        "Constitutional Court"
+      ],
+      "answer": "Supreme Court of Justice"
+    },
+    {
+      "question": "Which of the following is NOT a level of court in Timor-Leste's judicial system?",
+      "choices": [
+        "District Courts",
+        "Court of Appeal",
+        "Supreme Court of Justice",
+        "Federal Circuit Court"
+      ],
+      "answer": "Federal Circuit Court"
+    },
+    {
+      "question": "What is the primary function of the District Courts in Timor-Leste?",
+      "choices": [
+        "Handling constitutional reviews",
+        "Hearing final appeals",
+        "Handling most criminal and civil cases",
+        "Resolving electoral disputes"
+      ],
+      "answer": "Handling most criminal and civil cases"
+    },
+    {
+      "question": "Which court in Timor-Leste is responsible for constitutional review?",
+      "choices": [
+        "District Courts",
+        "Court of Appeal",
+        "Supreme Court of Justice",
+        "Constitutional Tribunal"
+      ],
+      "answer": "Supreme Court of Justice"
+    },
+    {
+      "question": "What is the term of office for the President of the Supreme Court of Justice in Timor-Leste?",
+      "choices": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "Life term"
+      ],
+      "answer": "4 years"
+    },
+    {
+      "question": "Who appoints the President of the Supreme Court of Justice in Timor-Leste?",
+      "choices": [
+        "The Prime Minister",
+        "The National Parliament",
+        "The President of the Republic",
+        "The Judicial Council"
+      ],
+      "answer": "The President of the Republic"
+    },
+    {
+      "question": "What is the minimum number of judges required for the Supreme Court of Justice in Timor-Leste?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Which of the following is NOT a power of the Supreme Court of Justice in Timor-Leste?",
+      "choices": [
+        "Constitutional review",
+        "Hearing final appeals",
+        "Resolving jurisdictional conflicts between courts",
+        "Appointing lower court judges"
+      ],
+      "answer": "Appointing lower court judges"
+    },
+    {
+      "question": "What type of constitutional review can be requested by the President, Parliament, Prime Minister, or Prosecutor General?",
+      "choices": [
+        "Abstract review",
+        "Concrete review",
+        "Judicial review",
+        "Legislative review"
+      ],
+      "answer": "Abstract review"
+    },
+    {
+      "question": "In Timor-Leste's judicial system, what is concrete review?",
+      "choices": [
+        "Review of construction laws",
+        "Review arising from actual cases in lower courts",
+        "Review of concrete evidence in criminal cases",
+        "Review of international treaties"
+      ],
+      "answer": "Review arising from actual cases in lower courts"
+    },
+    {
+      "question": "Who can refer constitutional questions to the Supreme Court in Timor-Leste?",
+      "choices": [
+        "Only the President",
+        "Only the Prime Minister",
+        "Lower court judges",
+        "Any citizen"
+      ],
+      "answer": "Lower court judges"
+    },
+    {
+      "question": "What is the effect of Supreme Court decisions on constitutionality in Timor-Leste?",
+      "choices": [
+        "They are advisory only",
+        "They are binding on all courts and authorities",
+        "They must be approved by Parliament",
+        "They only apply to the specific case"
+      ],
+      "answer": "They are binding on all courts and authorities"
+    },
+    {
+      "question": "Which court hears appeals from District Courts in Timor-Leste?",
+      "choices": [
+        "Supreme Court of Justice",
+        "Court of Appeal",
+        "Constitutional Court",
+        "High Court"
+      ],
+      "answer": "Court of Appeal"
+    },
+    {
+      "question": "What type of cases do Military Courts handle in Timor-Leste?",
+      "choices": [
+        "All cases involving military personnel",
+        "Only cases of military-specific crimes",
+        "Civil cases against the military",
+        "Constitutional cases related to military matters"
+      ],
+      "answer": "Only cases of military-specific crimes"
+    },
+    {
+      "question": "What is the primary purpose of constitutional review in Timor-Leste?",
+      "choices": [
+        "To ensure laws comply with international treaties",
+        "To examine whether laws and government actions comply with the constitution",
+        "To review the performance of government officials",
+        "To propose new legislation"
+      ],
+      "answer": "To examine whether laws and government actions comply with the constitution"
+    },
+    {
+      "question": "Which of the following is a challenge faced by Timor-Leste's judiciary?",
+      "choices": [
+        "Excess of qualified judges",
+        "Too many resources",
+        "Balancing formal legal systems with traditional customary law",
+        "Overabundance of law schools"
+      ],
+      "answer": "Balancing formal legal systems with traditional customary law"
+    },
+    {
+      "question": "What is the term of office for regular judges in Timor-Leste?",
+      "choices": [
+        "2 years",
+        "4 years",
+        "6 years",
+        "Life term"
+      ],
+      "answer": "Life term"
+    },
+    {
+      "question": "Which body oversees judicial appointments and disciplinary matters in Timor-Leste?",
+      "choices": [
+        "The Supreme Court",
+        "The Ministry of Justice",
+        "The Judicial Council",
+        "The National Parliament"
+      ],
+      "answer": "The Judicial Council"
+    },
+    {
+      "question": "What is the purpose of having a separate budget for the judiciary in Timor-Leste?",
+      "choices": [
+        "To increase judges' salaries",
+        "To build more courthouses",
+        "To reduce potential for financial leverage by other branches of government",
+        "To fund legal aid programs"
+      ],
+      "answer": "To reduce potential for financial leverage by other branches of government"
+    },
+    {
+      "question": "Which of the following is NOT a responsibility of the Supreme Court of Justice in Timor-Leste?",
+      "choices": [
+        "Trying cases of impeachment of high-ranking officials",
+        "Verifying the constitutionality of referendums",
+        "Appointing the Prime Minister",
+        "Reviewing the legality of political parties"
+      ],
+      "answer": "Appointing the Prime Minister"
+    },
+    {
+      "question": "What year was Timor-Leste's judicial system established?",
+      "choices": [
+        "1999",
+        "2000",
+        "2002",
+        "2005"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What is the primary role of the Court of Appeal in Timor-Leste?",
+      "choices": [
+        "Handling first instance criminal cases",
+        "Conducting constitutional reviews",
+        "Hearing appeals from District Courts",
+        "Appointing judges to lower courts"
+      ],
+      "answer": "Hearing appeals from District Courts"
+    },
+    {
+      "question": "Which of the following is a key principle of Timor-Leste's judicial system?",
+      "choices": [
+        "Political appointment of judges",
+        "Judicial dependence on the executive",
+        "Judicial independence",
+        "Term limits for all judges"
+      ],
+      "answer": "Judicial independence"
+    },
+    {
+      "question": "Who can initiate an abstract constitutional review in Timor-Leste?",
+      "choices": [
+        "Only citizens",
+        "Only lower court judges",
+        "The President, Parliament, Prime Minister, or Prosecutor General",
+        "Only the Supreme Court judges"
+      ],
+      "answer": "The President, Parliament, Prime Minister, or Prosecutor General"
+    },
+    {
+      "question": "What is the purpose of having District Courts spread across Timor-Leste?",
+      "choices": [
+        "To provide employment for judges",
+        "To ensure access to justice for all citizens",
+        "To increase government control",
+        "To reduce the workload of the Supreme Court"
+      ],
+      "answer": "To ensure access to justice for all citizens"
+    },
+    {
+      "question": "Which court in Timor-Leste has jurisdiction over electoral disputes?",
+      "choices": [
+        "District Courts",
+        "Court of Appeal",
+        "Supreme Court of Justice",
+        "Electoral Tribunal"
+      ],
+      "answer": "Supreme Court of Justice"
+    },
+    {
+      "question": "What is the primary purpose of concrete constitutional review in Timor-Leste?",
+      "choices": [
+        "To review all new legislation",
+        "To address constitutional questions arising in specific cases",
+        "To evaluate the performance of judges",
+        "To propose constitutional amendments"
+      ],
+      "answer": "To address constitutional questions arising in specific cases"
+    },
+    {
+      "question": "How are Supreme Court decisions on constitutionality implemented in Timor-Leste?",
+      "choices": [
+        "They require parliamentary approval",
+        "They are automatically binding on all courts and authorities",
+        "They must be approved by the President",
+        "They are subject to public referendum"
+      ],
+      "answer": "They are automatically binding on all courts and authorities"
+    },
+    {
+      "question": "What role does the Supreme Court play in impeachment proceedings in Timor-Leste?",
+      "choices": [
+        "It initiates impeachment proceedings",
+        "It tries cases involving the impeachment of high-ranking officials",
+        "It has no role in impeachment proceedings",
+        "It only advises Parliament on impeachment matters"
+      ],
+      "answer": "It tries cases involving the impeachment of high-ranking officials"
+    },
+    {
+      "question": "What is a key challenge in implementing Timor-Leste's formal legal system?",
+      "choices": [
+        "Excessive number of courts",
+        "Too many qualified judges",
+        "Balancing with traditional customary law practices",
+        "Overabundance of legal resources"
+      ],
+      "answer": "Balancing with traditional customary law practices"
+    }
+  ]
+}

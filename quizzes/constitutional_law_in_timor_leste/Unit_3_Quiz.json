@@ -1,0 +1,305 @@
+{
+  "title": "The Government of Timor-Leste",
+  "questions": [
+    {
+      "question": "Who is responsible for appointing the Prime Minister of Timor-Leste?",
+      "choices": [
+        "The National Parliament",
+        "The President",
+        "The Council of Ministers",
+        "The Supreme Court"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What is the main executive body in Timor-Leste's government?",
+      "choices": [
+        "The Presidency",
+        "The National Parliament",
+        "The Council of Ministers",
+        "The Supreme Court"
+      ],
+      "answer": "The Council of Ministers"
+    },
+    {
+      "question": "Who presides over the Council of Ministers?",
+      "choices": [
+        "The President",
+        "The Prime Minister",
+        "The Speaker of Parliament",
+        "The Chief Justice"
+      ],
+      "answer": "The Prime Minister"
+    },
+    {
+      "question": "What type of government system does Timor-Leste have?",
+      "choices": [
+        "Presidential",
+        "Parliamentary",
+        "Semi-presidential",
+        "Federal"
+      ],
+      "answer": "Semi-presidential"
+    },
+    {
+      "question": "What is required for a no-confidence vote to pass in Timor-Leste's Parliament?",
+      "choices": [
+        "Simple majority",
+        "Two-thirds majority",
+        "Unanimous vote",
+        "Absolute majority"
+      ],
+      "answer": "Absolute majority"
+    },
+    {
+      "question": "Who is responsible for directing and guiding the general policy of the Government?",
+      "choices": [
+        "The President",
+        "The Prime Minister",
+        "The Speaker of Parliament",
+        "The Minister of Foreign Affairs"
+      ],
+      "answer": "The Prime Minister"
+    },
+    {
+      "question": "What is the role of the President in Timor-Leste's government?",
+      "choices": [
+        "Head of Government",
+        "Head of State",
+        "Head of Parliament",
+        "Head of Judiciary"
+      ],
+      "answer": "Head of State"
+    },
+    {
+      "question": "Who is responsible for appointing ministers in Timor-Leste?",
+      "choices": [
+        "The Prime Minister",
+        "The President",
+        "The National Parliament",
+        "The Council of Ministers"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What happens if the government's program is rejected by the National Parliament?",
+      "choices": [
+        "The President is removed",
+        "New elections are called",
+        "The Government is dismissed",
+        "The Prime Minister resigns"
+      ],
+      "answer": "The Government is dismissed"
+    },
+    {
+      "question": "Who is the commander-in-chief of the armed forces in Timor-Leste?",
+      "choices": [
+        "The Prime Minister",
+        "The Minister of Defense",
+        "The President",
+        "The Chief of Staff"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What is the primary function of the Council of Ministers?",
+      "choices": [
+        "To pass laws",
+        "To interpret the constitution",
+        "To define and implement general government policy",
+        "To elect the Prime Minister"
+      ],
+      "answer": "To define and implement general government policy"
+    },
+    {
+      "question": "How are members of the Council of Ministers selected?",
+      "choices": [
+        "Elected by popular vote",
+        "Appointed by the Prime Minister and confirmed by the President",
+        "Chosen by the National Parliament",
+        "Selected by a committee of experts"
+      ],
+      "answer": "Appointed by the Prime Minister and confirmed by the President"
+    },
+    {
+      "question": "What is the purpose of having a semi-presidential system in Timor-Leste?",
+      "choices": [
+        "To concentrate power in the presidency",
+        "To eliminate the need for a parliament",
+        "To create a system of checks and balances",
+        "To simplify the governmental structure"
+      ],
+      "answer": "To create a system of checks and balances"
+    },
+    {
+      "question": "Who represents the Government in relations with other state organs?",
+      "choices": [
+        "The President",
+        "The Prime Minister",
+        "The Minister of Foreign Affairs",
+        "The Speaker of Parliament"
+      ],
+      "answer": "The Prime Minister"
+    },
+    {
+      "question": "What is required for the formation of a new government after elections?",
+      "choices": [
+        "Approval from the United Nations",
+        "A referendum",
+        "Majority support in the National Parliament",
+        "Unanimous consent from all political parties"
+      ],
+      "answer": "Majority support in the National Parliament"
+    },
+    {
+      "question": "Who has the power to dismiss the Government in Timor-Leste?",
+      "choices": [
+        "Only the National Parliament",
+        "Only the President",
+        "Both the National Parliament and the President",
+        "The Supreme Court"
+      ],
+      "answer": "Both the National Parliament and the President"
+    },
+    {
+      "question": "What is the primary role of the Prime Minister in foreign policy?",
+      "choices": [
+        "To declare war",
+        "To sign international treaties",
+        "To represent the Government in international relations",
+        "To appoint ambassadors"
+      ],
+      "answer": "To represent the Government in international relations"
+    },
+    {
+      "question": "How can the National Parliament remove a government from power?",
+      "choices": [
+        "By impeaching the Prime Minister",
+        "Through a no-confidence vote",
+        "By dissolving itself",
+        "By appealing to the President"
+      ],
+      "answer": "Through a no-confidence vote"
+    },
+    {
+      "question": "What is the main advantage of having a parliamentary system in Timor-Leste?",
+      "choices": [
+        "It allows for direct election of the head of government",
+        "It provides for a clear separation of powers",
+        "It encourages cooperation between executive and legislative branches",
+        "It eliminates the need for political parties"
+      ],
+      "answer": "It encourages cooperation between executive and legislative branches"
+    },
+    {
+      "question": "Who is responsible for approving government actions involving increases or reductions in public revenues or expenditures?",
+      "choices": [
+        "The President",
+        "The Prime Minister",
+        "The National Parliament",
+        "The Council of Ministers"
+      ],
+      "answer": "The Council of Ministers"
+    },
+    {
+      "question": "What is the primary role of the National Parliament in government formation?",
+      "choices": [
+        "To elect the President",
+        "To appoint ministers",
+        "To provide majority support for the government",
+        "To draft the constitution"
+      ],
+      "answer": "To provide majority support for the government"
+    },
+    {
+      "question": "What happens if no single party achieves a majority in parliamentary elections?",
+      "choices": [
+        "The President forms the government",
+        "New elections are immediately called",
+        "The largest minority party automatically forms the government",
+        "Coalition negotiations may take place to form a government"
+      ],
+      "answer": "Coalition negotiations may take place to form a government"
+    },
+    {
+      "question": "What is the purpose of having the President appoint the Prime Minister in Timor-Leste's system?",
+      "choices": [
+        "To give the President control over the government",
+        "To ensure the Prime Minister has the support of Parliament",
+        "To bypass the need for elections",
+        "To limit the power of political parties"
+      ],
+      "answer": "To ensure the Prime Minister has the support of Parliament"
+    },
+    {
+      "question": "What role does the President play in legislation?",
+      "choices": [
+        "Drafting laws",
+        "Voting on laws in Parliament",
+        "Power to veto legislation",
+        "Enforcing laws"
+      ],
+      "answer": "Power to veto legislation"
+    },
+    {
+      "question": "Who is responsible for coordinating the actions of all Ministers?",
+      "choices": [
+        "The President",
+        "The Prime Minister",
+        "The Speaker of Parliament",
+        "The Chief Justice"
+      ],
+      "answer": "The Prime Minister"
+    },
+    {
+      "question": "What is a potential disadvantage of the no-confidence vote mechanism?",
+      "choices": [
+        "It can lead to political instability if used frequently",
+        "It gives too much power to the President",
+        "It prevents the government from making decisions",
+        "It eliminates parliamentary debate"
+      ],
+      "answer": "It can lead to political instability if used frequently"
+    },
+    {
+      "question": "What is the primary function of the President in Timor-Leste's government system?",
+      "choices": [
+        "To lead the government",
+        "To pass laws",
+        "To maintain constitutional order and represent national unity",
+        "To manage the economy"
+      ],
+      "answer": "To maintain constitutional order and represent national unity"
+    },
+    {
+      "question": "Who has the power to dissolve parliament in Timor-Leste?",
+      "choices": [
+        "The Prime Minister",
+        "The President",
+        "The Supreme Court",
+        "The Council of Ministers"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What is the main purpose of having both a Prime Minister and a President in Timor-Leste's system?",
+      "choices": [
+        "To increase government efficiency",
+        "To represent different political parties",
+        "To prevent the concentration of power in a single office",
+        "To reduce the workload of government officials"
+      ],
+      "answer": "To prevent the concentration of power in a single office"
+    },
+    {
+      "question": "What happens after the President appoints the Prime Minister?",
+      "choices": [
+        "The Prime Minister immediately assumes full power",
+        "The Prime Minister proposes ministers to the President",
+        "The National Parliament votes on the Prime Minister",
+        "The President forms the rest of the government"
+      ],
+      "answer": "The Prime Minister proposes ministers to the President"
+    }
+  ]
+}

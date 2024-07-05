@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Constitutional Law",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a constitution?",
+      "choices": [
+        "To collect taxes",
+        "To establish the framework for government",
+        "To regulate international trade",
+        "To determine foreign policy"
+      ],
+      "answer": "To establish the framework for government"
+    },
+    {
+      "question": "Which principle divides governmental authority into distinct branches?",
+      "choices": [
+        "Rule of law",
+        "Checks and balances",
+        "Separation of powers",
+        "Popular sovereignty"
+      ],
+      "answer": "Separation of powers"
+    },
+    {
+      "question": "What is the main purpose of the system of checks and balances?",
+      "choices": [
+        "To ensure economic stability",
+        "To prevent any single branch from becoming too powerful",
+        "To promote international relations",
+        "To simplify the legislative process"
+      ],
+      "answer": "To prevent any single branch from becoming too powerful"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a branch of government in the separation of powers?",
+      "choices": [
+        "Executive",
+        "Legislative",
+        "Judiciary",
+        "Media"
+      ],
+      "answer": "Media"
+    },
+    {
+      "question": "What does the concept of 'rule of law' primarily ensure?",
+      "choices": [
+        "That the military has ultimate authority",
+        "That all individuals and institutions are subject to and accountable to laws",
+        "That the executive branch can override the judiciary",
+        "That laws can be changed at will by the government"
+      ],
+      "answer": "That all individuals and institutions are subject to and accountable to laws"
+    },
+    {
+      "question": "When did Timor-Leste gain independence?",
+      "choices": [
+        "1975",
+        "1999",
+        "2002",
+        "2005"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What type of government system does Timor-Leste's constitution establish?",
+      "choices": [
+        "Presidential",
+        "Parliamentary",
+        "Semi-presidential",
+        "Monarchical"
+      ],
+      "answer": "Semi-presidential"
+    },
+    {
+      "question": "What is a primary function of a bill of rights in a constitution?",
+      "choices": [
+        "To establish tax rates",
+        "To guarantee certain inalienable rights to citizens",
+        "To define the powers of the military",
+        "To regulate international trade"
+      ],
+      "answer": "To guarantee certain inalienable rights to citizens"
+    },
+    {
+      "question": "Which of the following is NOT typically protected by a bill of rights?",
+      "choices": [
+        "Freedom of speech",
+        "Freedom of religion",
+        "Right to bear arms",
+        "Right to free healthcare"
+      ],
+      "answer": "Right to free healthcare"
+    },
+    {
+      "question": "What is the primary role of the judiciary in a constitutional system?",
+      "choices": [
+        "To make laws",
+        "To implement laws",
+        "To interpret and apply laws",
+        "To elect government officials"
+      ],
+      "answer": "To interpret and apply laws"
+    },
+    {
+      "question": "What does the principle of popular sovereignty assert?",
+      "choices": [
+        "That the monarch has absolute power",
+        "That the military controls the government",
+        "That power ultimately resides with the people",
+        "That the judiciary is the supreme authority"
+      ],
+      "answer": "That power ultimately resides with the people"
+    },
+    {
+      "question": "What is the purpose of constitutional review?",
+      "choices": [
+        "To rewrite the constitution regularly",
+        "To ensure laws comply with the constitution",
+        "To elect new government officials",
+        "To manage the economy"
+      ],
+      "answer": "To ensure laws comply with the constitution"
+    },
+    {
+      "question": "Which body typically has the power to declare laws unconstitutional?",
+      "choices": [
+        "The legislature",
+        "The executive",
+        "The judiciary",
+        "The military"
+      ],
+      "answer": "The judiciary"
+    },
+    {
+      "question": "What is the primary difference between rigid and flexible constitutions?",
+      "choices": [
+        "The length of the document",
+        "The ease of amending the constitution",
+        "The number of rights protected",
+        "The age of the constitution"
+      ],
+      "answer": "The ease of amending the constitution"
+    },
+    {
+      "question": "What was a key feature of Timor-Leste's constitution-making process?",
+      "choices": [
+        "It was imposed by the United Nations",
+        "It involved extensive public consultation",
+        "It was completed in secret",
+        "It was directly copied from Portugal's constitution"
+      ],
+      "answer": "It involved extensive public consultation"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of a constitution?",
+      "choices": [
+        "It is the supreme law of the land",
+        "It outlines the structure of government",
+        "It changes frequently to reflect current political trends",
+        "It protects fundamental rights"
+      ],
+      "answer": "It changes frequently to reflect current political trends"
+    },
+    {
+      "question": "What is the primary purpose of separation of powers?",
+      "choices": [
+        "To increase government efficiency",
+        "To reduce government spending",
+        "To prevent concentration of power",
+        "To promote international cooperation"
+      ],
+      "answer": "To prevent concentration of power"
+    },
+    {
+      "question": "In a typical presidential system, who is usually the head of state and head of government?",
+      "choices": [
+        "The Prime Minister",
+        "The President",
+        "The Chief Justice",
+        "The Speaker of Parliament"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What does the term 'constitutional sovereignty' refer to?",
+      "choices": [
+        "The power of the military over the constitution",
+        "The supremacy of the constitution over other laws",
+        "The ability of the executive to override the constitution",
+        "The right of citizens to ignore constitutional provisions"
+      ],
+      "answer": "The supremacy of the constitution over other laws"
+    },
+    {
+      "question": "Which of the following is a key principle of constitutionalism?",
+      "choices": [
+        "Absolute power of the executive",
+        "Rejection of individual rights",
+        "Limited government",
+        "Centralization of all authority"
+      ],
+      "answer": "Limited government"
+    },
+    {
+      "question": "What is the primary purpose of a constitutional preamble?",
+      "choices": [
+        "To list all laws in detail",
+        "To state the fundamental values and principles of the nation",
+        "To describe the geographical boundaries of the country",
+        "To set tax rates"
+      ],
+      "answer": "To state the fundamental values and principles of the nation"
+    },
+    {
+      "question": "Which of the following is NOT typically a method for amending a constitution?",
+      "choices": [
+        "Legislative approval",
+        "Popular referendum",
+        "Executive decree",
+        "Constitutional convention"
+      ],
+      "answer": "Executive decree"
+    },
+    {
+      "question": "What is the primary purpose of constitutional interpretation?",
+      "choices": [
+        "To rewrite the constitution",
+        "To apply constitutional principles to specific cases or situations",
+        "To override the constitution",
+        "To elect government officials"
+      ],
+      "answer": "To apply constitutional principles to specific cases or situations"
+    },
+    {
+      "question": "Which of the following is a key feature of judicial independence?",
+      "choices": [
+        "Judges are elected by popular vote",
+        "The executive can dismiss judges at will",
+        "Judges have fixed terms or life tenure",
+        "Judges must follow orders from the legislature"
+      ],
+      "answer": "Judges have fixed terms or life tenure"
+    },
+    {
+      "question": "What is the primary purpose of a constitutional court?",
+      "choices": [
+        "To try criminal cases",
+        "To review the constitutionality of laws and government actions",
+        "To draft new laws",
+        "To conduct foreign policy"
+      ],
+      "answer": "To review the constitutionality of laws and government actions"
+    },
+    {
+      "question": "Which of the following is NOT typically a fundamental right protected by constitutions?",
+      "choices": [
+        "Freedom of speech",
+        "Right to property",
+        "Right to a specific job",
+        "Right to a fair trial"
+      ],
+      "answer": "Right to a specific job"
+    },
+    {
+      "question": "What is the primary purpose of constitutional limits on government power?",
+      "choices": [
+        "To make the government ineffective",
+        "To protect individual rights and prevent abuse of power",
+        "To ensure the military controls the government",
+        "To promote economic growth"
+      ],
+      "answer": "To protect individual rights and prevent abuse of power"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'living constitution'?",
+      "choices": [
+        "A constitution that changes daily",
+        "A constitution that is interpreted to adapt to changing times and circumstances",
+        "A constitution written on living tissue",
+        "A constitution that only applies to living persons"
+      ],
+      "answer": "A constitution that is interpreted to adapt to changing times and circumstances"
+    },
+    {
+      "question": "What is the primary purpose of constitutional provisions for emergency powers?",
+      "choices": [
+        "To allow the government to ignore the constitution permanently",
+        "To provide flexibility in crisis situations while maintaining some constitutional safeguards",
+        "To give the military control over the government",
+        "To suspend all individual rights indefinitely"
+      ],
+      "answer": "To provide flexibility in crisis situations while maintaining some constitutional safeguards"
+    },
+    {
+      "question": "Which of the following is a key principle of constitutional democracy?",
+      "choices": [
+        "Rule by the strongest",
+        "Absolute power of the majority",
+        "Protection of minority rights",
+        "Government secrecy"
+      ],
+      "answer": "Protection of minority rights"
+    }
+  ]
+}

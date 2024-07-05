@@ -134,7 +134,17 @@ Ba aplikasaun pratika:
     This course introduces students in Timor-Leste to basic programming concepts through game development using Python. Students will learn fundamental programming skills while creating an interactive game, with a focus on practical application and cultural relevance. By the end of the course, students will be able to create a simple game and understand core programming principles.
 
     Kursu ida-ne'e introdús estudante sira iha Timor-Leste ba konseitu programa báziku liu husi dezenvolvimentu jogu uza Python. Estudante sira sei aprende abilidade fundamentál ba programa bainhira kria jogu interativu ida, ho fokus ba aplikasaun pratiku no relevante kulturál. To'o kursu remata, estudante sira bele kria jogu simples no komprende prinsípiu prinsipál sira kona-ba programa.
+    
+19. **Constitutional Law in Timor Leste**
+    This course provides an introduction to constitutional law in Timor-Leste, focusing on the structure and functions of government institutions as established by the Constitution. Students will gain an understanding of the roles and powers of the President, Government, National Parliament, and Courts, as well as key constitutional principles like separation of powers and checks and balances. The course aims to develop students' knowledge of Timor-Leste's constitutional system and ability to analyze constitutional issues.
 
+    Kursu ida-ne'e fornese introdusaun ba lei konstitusionál iha Timor-Leste, ne'ebé foka liu ba estrutura no funsaun instituisaun governu nian sira-nian hanesan Konstituisaun estabelese. Estudante sira sei hetan kompriensaun kona-ba papél no podér Prezidente, Governu, Parlamentu Nasional no Tribunal sira-nian, nune'e mós prinsípiu konstitusionál xave sira hanesan separasaun podér no kontrolu no balansu. Kursu ne'e ninia objetivu mak atu dezenvolve estudante sira-nia koñesimentu kona-ba sistema konstitusionál Timor-Leste nian no abilidade atu analiza asuntu konstitusionál sira. 
+     To'o kursu ne'e remata, estudante sira bele: 
+     - Esplika estrutura bázika no prinsípiu sira Konstituisaun Timor-Leste nian 
+     - Deskreve papél, podér no limitasaun husi instituisaun boot governu nian 
+     - Analize asuntu konstitusionál no konflitu entre ramu governu sira 
+     - Aplikasaun prinsípiu konstitusionál ba eventu no kazu legál sira iha Timor-Leste.
+     
 ## Repository Structure
 
 The repository is organized into several main directories, each serving a specific purpose:

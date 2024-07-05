@@ -1,0 +1,305 @@
+{
+  "title": "The Presidency in Timor-Leste",
+  "questions": [
+    {
+      "question": "Who is the President of Timor-Leste according to the Constitution?",
+      "choices": [
+        "The Head of Government",
+        "The Head of State",
+        "The Prime Minister",
+        "The Speaker of Parliament"
+      ],
+      "answer": "The Head of State"
+    },
+    {
+      "question": "What is the President's role in relation to the Defence Force?",
+      "choices": [
+        "Commander-in-Chief",
+        "Minister of Defense",
+        "Chief of Staff",
+        "Military Advisor"
+      ],
+      "answer": "Commander-in-Chief"
+    },
+    {
+      "question": "How is the President of Timor-Leste elected?",
+      "choices": [
+        "Appointed by Parliament",
+        "Hereditary succession",
+        "Universal, free, direct, secret, and personal suffrage",
+        "Chosen by the Council of Ministers"
+      ],
+      "answer": "Universal, free, direct, secret, and personal suffrage"
+    },
+    {
+      "question": "What is the time limit for the President to exercise veto power on legislation?",
+      "choices": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "answer": "30 days"
+    },
+    {
+      "question": "Who appoints the Prime Minister of Timor-Leste?",
+      "choices": [
+        "The President",
+        "The Parliament",
+        "The Supreme Court",
+        "The people through direct election"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What is required for the President to declare a state of siege or emergency?",
+      "choices": [
+        "Unilateral decision",
+        "Consultation with the Prime Minister only",
+        "Authorization from the National Parliament",
+        "Approval from the United Nations"
+      ],
+      "answer": "Authorization from the National Parliament"
+    },
+    {
+      "question": "What is the minimum age requirement to be eligible for the presidency in Timor-Leste?",
+      "choices": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": "35 years"
+    },
+    {
+      "question": "How long is the term of office for the President of Timor-Leste?",
+      "choices": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
+      ],
+      "answer": "5 years"
+    },
+    {
+      "question": "What is the maximum number of consecutive terms a President can serve in Timor-Leste?",
+      "choices": [
+        "One term",
+        "Two terms",
+        "Three terms",
+        "No limit"
+      ],
+      "answer": "Two terms"
+    },
+    {
+      "question": "Who has the power to request constitutional review from the Supreme Court?",
+      "choices": [
+        "Only the Prime Minister",
+        "Only the Parliament",
+        "The President",
+        "Any citizen of Timor-Leste"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What is the President's role in the legislative process?",
+      "choices": [
+        "Drafting laws",
+        "Voting on laws in Parliament",
+        "Promulgating laws",
+        "Enforcing laws"
+      ],
+      "answer": "Promulgating laws"
+    },
+    {
+      "question": "Who swears in the President of Timor-Leste?",
+      "choices": [
+        "The Chief Justice",
+        "The Prime Minister",
+        "The President of the National Parliament",
+        "The outgoing President"
+      ],
+      "answer": "The President of the National Parliament"
+    },
+    {
+      "question": "What power does the President have regarding pardons?",
+      "choices": [
+        "No power to grant pardons",
+        "Unilateral power to grant pardons",
+        "Power to grant pardons after consultation with the Government",
+        "Power to grant pardons with Parliamentary approval"
+      ],
+      "answer": "Power to grant pardons after consultation with the Government"
+    },
+    {
+      "question": "What is required for some presidential acts to take effect?",
+      "choices": [
+        "Approval from the Supreme Court",
+        "A public referendum",
+        "Countersignature by the Prime Minister or relevant ministers",
+        "Unanimous consent from Parliament"
+      ],
+      "answer": "Countersignature by the Prime Minister or relevant ministers"
+    },
+    {
+      "question": "Who represents the state of Timor-Leste in international relations?",
+      "choices": [
+        "The Prime Minister",
+        "The Foreign Minister",
+        "The President",
+        "The Ambassador to the United Nations"
+      ],
+      "answer": "The President"
+    },
+    {
+      "question": "What happens if no presidential candidate receives over 50% of votes in the first round?",
+      "choices": [
+        "The candidate with the most votes wins",
+        "Parliament chooses the President",
+        "A second round is held between the top two candidates",
+        "The incumbent President remains in office"
+      ],
+      "answer": "A second round is held between the top two candidates"
+    },
+    {
+      "question": "What is the President's role in forming a new government?",
+      "choices": [
+        "The President forms the government independently",
+        "The President appoints the Prime Minister designated by the parliamentary majority",
+        "The President has no role in government formation",
+        "The President selects ministers for all portfolios"
+      ],
+      "answer": "The President appoints the Prime Minister designated by the parliamentary majority"
+    },
+    {
+      "question": "What body must the President consult before declaring war?",
+      "choices": [
+        "The United Nations Security Council",
+        "The Council of State",
+        "The Supreme Court",
+        "The Council of Ministers"
+      ],
+      "answer": "The Council of State"
+    },
+    {
+      "question": "What is the President's role in ratifying international treaties?",
+      "choices": [
+        "The President negotiates and signs all treaties",
+        "The President has no role in treaty ratification",
+        "The President ratifies treaties after parliamentary approval",
+        "The President can unilaterally ratify any treaty"
+      ],
+      "answer": "The President ratifies treaties after parliamentary approval"
+    },
+    {
+      "question": "What is a key limitation on the President's power to dissolve Parliament?",
+      "choices": [
+        "It can only be done once per term",
+        "It requires approval from the Supreme Court",
+        "It can only be done under specific constitutional conditions",
+        "It requires a national referendum"
+      ],
+      "answer": "It can only be done under specific constitutional conditions"
+    },
+    {
+      "question": "Who has the authority to override a presidential veto?",
+      "choices": [
+        "The Supreme Court",
+        "The Prime Minister",
+        "The Parliament",
+        "The Council of State"
+      ],
+      "answer": "The Parliament"
+    },
+    {
+      "question": "What is the President's role in awarding honors and decorations?",
+      "choices": [
+        "The President has no role in awarding honors",
+        "The President can award honors unilaterally",
+        "The President awards honors in accordance with the law",
+        "Only the Prime Minister can award honors"
+      ],
+      "answer": "The President awards honors in accordance with the law"
+    },
+    {
+      "question": "What type of citizenship is required to be eligible for the presidency?",
+      "choices": [
+        "Naturalized citizenship",
+        "Citizenship by origin",
+        "Dual citizenship",
+        "Any form of Timorese citizenship"
+      ],
+      "answer": "Citizenship by origin"
+    },
+    {
+      "question": "What is the President's role in relation to the functioning of democratic institutions?",
+      "choices": [
+        "Direct management of all institutions",
+        "No role in institutional functioning",
+        "Guarantor of smooth functioning",
+        "Oversight of parliamentary procedures only"
+      ],
+      "answer": "Guarantor of smooth functioning"
+    },
+    {
+      "question": "How can the constitutionality of presidential actions be reviewed?",
+      "choices": [
+        "Through public referendum",
+        "By decision of the Prime Minister",
+        "Through review by the Constitutional Court",
+        "By vote in Parliament"
+      ],
+      "answer": "Through review by the Constitutional Court"
+    },
+    {
+      "question": "What is the President's role in submitting issues to a referendum?",
+      "choices": [
+        "The President can unilaterally call referendums",
+        "The President has no role in referendums",
+        "The President can submit relevant issues as laid down in the Constitution",
+        "Only Parliament can call referendums"
+      ],
+      "answer": "The President can submit relevant issues as laid down in the Constitution"
+    },
+    {
+      "question": "Who has the power to commute sentences in Timor-Leste?",
+      "choices": [
+        "Only the courts",
+        "The Prime Minister",
+        "The President, after consultation with the Government",
+        "The Minister of Justice"
+      ],
+      "answer": "The President, after consultation with the Government"
+    },
+    {
+      "question": "What is the President's role in relation to national unity?",
+      "choices": [
+        "Symbolic representation only",
+        "No specific role",
+        "Symbol and guarantor of national unity",
+        "Enforcer of unity through executive orders"
+      ],
+      "answer": "Symbol and guarantor of national unity"
+    },
+    {
+      "question": "How does the President's role in Timor-Leste's system of government be best described?",
+      "choices": [
+        "Absolute monarchy",
+        "Parliamentary democracy",
+        "Semi-presidential system",
+        "Presidential system"
+      ],
+      "answer": "Semi-presidential system"
+    },
+    {
+      "question": "What body must authorize the President's declaration of war?",
+      "choices": [
+        "The Supreme Council of Defence and Security",
+        "The Council of Ministers",
+        "The National Parliament",
+        "The United Nations Security Council"
+      ],
+      "answer": "The National Parliament"
+    }
+  ]
+}
