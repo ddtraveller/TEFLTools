@@ -3,7 +3,39 @@ import anthropic
 import time
 import json
 import os
+import re
 
+def save_game(game):
+    game_state = {
+        'pirate_name': game.pirate_name,
+        'inventory': game.inventory,
+        'ship_type': game.ship_type,
+        'ship_capacity': game.ship_capacity,
+        'ship_health': game.ship_health,
+        'guns': game.guns,
+        'speed': game.speed,
+        'maneuverability': game.maneuverability,
+        'current_city': game.current_city,
+        'turn': game.turn,
+        'prices': game.prices,
+        'debt': game.debt,
+        'bank_balance': game.bank_balance,
+        'morale': game.morale,
+        'reputation': game.reputation,
+        'money': game.money
+    }
+    
+    filename = re.sub(r'[^\w]', '_', game.pirate_name.lower()) + '.json'
+    with open(filename, 'w') as f:
+        json.dump(game_state, f)
+
+def load_game(pirate_name):
+    filename = re.sub(r'[^\w]', '_', pirate_name.lower()) + '.json'
+    if os.path.exists(filename):
+        with open(filename, 'r') as f:
+            return json.load(f)
+    return None
+    
 def load_random_events():
     with open('json/random_events.json', 'r') as f:
         return json.load(f)
@@ -43,13 +75,13 @@ with open('json/pirates_and_merchants.json', 'r') as f:
 def generate_response(prompt, role="parrot", captain_name=None):
     system_message = {
         "parrot": "You are a pirate's parrot on a trading ship in Timor-Leste. Respond in a parrot's voice, using pirate slang and bird-like interjections.",
-        "enemy_captain": f"You are a pirate captain{' named ' + captain_name if captain_name else ''}. You have just been defeated or emerged victorious in a sea battle. Respond with a mix of disappointment or triumph, seasoned with colorful pirate language. If you don't have a specific name, don't refer to yourself by name."
+        "enemy_captain": f"You are a pirate captain{' named ' + captain_name if captain_name else ''}. You have just been defeated or emerged victorious in a sea battle. Respond with a mix of disappointment or triumph, seasoned with CREATIVE UNIQUE colorful pirate language. If you don't have a specific name, don't refer to yourself by name."
     }
 
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",
         max_tokens=1000,
-        temperature=0.7,
+        temperature=1.0,
         system=system_message[role],
         messages=[
             {
@@ -111,13 +143,26 @@ def pirate_attack(game):
                 print("You've defeated the pirates!")
                 game.money += enemy_ship['cost'] // 2
                 print(f"You've gained {enemy_ship['cost'] // 2} gold as booty!")
-                enemy_captain_remark = generate_response("You've just been defeated in a sea battle. What do you say to the victorious captain?", role="enemy_captain", captain_name=captain_name)
-                if captain_name:
-                    print(f"The defeated pirate captain, {captain_name}, shouts: {enemy_captain_remark}")
+                
+                # New code for pirate defeat options
+                defeat_choice = input("Do you want to make the pirate (w)alk the plank or (s)pare him and his officers? ").lower()
+                if defeat_choice == 'w':
+                    print("The pirate captain walks the plank. Your crew cheers!")
+                    enemy_captain_remark = generate_response("You've just been defeated in a sea battle and are about to walk the plank. What are your last words?", role="enemy_captain", captain_name=captain_name)
+                elif defeat_choice == 's':
+                    print("You spare the pirate captain and his officers, letting them go aboard a life raft.")
+                    game.reputation += 1
+                    enemy_captain_remark = generate_response("You've just been defeated in a sea battle, but the victorious captain has spared your life. Express your gratitude.", role="enemy_captain", captain_name=captain_name)
                 else:
-                    print(f"The defeated pirate captain shouts: {enemy_captain_remark}")
+                    print("Invalid choice. The pirate captain escapes in the confusion.")
+                    enemy_captain_remark = generate_response("You've just been defeated in a sea battle, but managed to escape. What do you say?", role="enemy_captain", captain_name=captain_name)
+                
+                if captain_name:
+                    print(f"The {defeat_choice == 's' and 'grateful' or 'defeated'} pirate captain, {captain_name}, says: {enemy_captain_remark}")
+                else:
+                    print(f"The {defeat_choice == 's' and 'grateful' or 'defeated'} pirate captain says: {enemy_captain_remark}")
+                
                 log_captain_response(enemy_captain_remark, False)
-                game.reputation += 1
                 wait_for_space()
                 break
             elif battle_result == "player_lose":
@@ -229,3 +274,75 @@ def wait_for_space():
     while True:
         if input() != "xxxxxx":
             break
+
+def handle_hunger(game):
+    if game.turn % 3 == 0:
+        food_consumed = False
+        morale_change = 0
+        # Check for luxury food items first
+        for item in game.luxury_food_items:
+            if game.inventory[item] > 0:
+                game.inventory[item] -= 1
+                food_consumed = True
+                morale_change = 5
+                print(f"Crew consumed 1 {item}. Morale increased!")
+                break
+        
+        # If no luxury food, check for basic food items
+        if not food_consumed:
+            for item in game.basic_food_items:
+                if game.inventory[item] > 0:
+                    game.inventory[item] -= 1
+                    food_consumed = True
+                    print(f"Crew consumed 1 {item}.")
+                    break
+        
+        # If no food at all, decrease morale
+        if not food_consumed:
+            morale_change = -10
+            print("No food available! Crew morale decreased significantly.")
+        update_morale(game, morale_change)
+
+def update_morale(game, change=0):
+    game.morale = min(100, max(0, game.morale + change + (game.ship_health - 50) / 10 + (game.guns - 5) / 2 - game.debt / 1000))
+    if sum(game.inventory.values()) / game.ship_capacity > 0.8:
+        game.morale += 5
+    if game.money > 10000:
+        game.morale += 5
+    if game.debt > 5000:
+        game.morale -= 5
+
+def display_status(game):
+    print(f"\nTurn: {game.turn}")
+    print(f"Current Port: {game.cities[game.current_city]}")
+    print(f"Gold: {game.money}")
+    print(f"Debt: {game.debt}")
+    print(f"Bank Balance: {game.bank_balance}")
+    print(f"Crew Morale: {game.morale:.2f}%")
+    print(f"Reputation: {game.reputation}")
+    # Display food items and their quantities
+    print("\nFood Supplies:")
+    for item in game.luxury_food_items + game.basic_food_items:
+        if game.inventory[item] > 0:
+            print(f"{item}: {game.inventory[item]}")
+    # Display top 3 items by price
+    top_items = sorted(game.prices.items(), key=lambda x: x[1], reverse=True)[:3]
+    print("\nTop 3 items by price:")
+    for i, (item, price) in enumerate(top_items):
+        print(f"{i+1}. {item} - {price} gold")
+    # Display bottom 3 items by price
+    bottom_items = sorted(game.prices.items(), key=lambda x: x[1])[:3]
+    print("\nBottom 3 items by price:")
+    for i, (item, price) in enumerate(bottom_items):
+        print(f"{i+1}. {item} - {price} gold")
+    # Display prices for items in the player's inventory
+    print("\nPrices for items in your inventory:")
+    for item, amount in game.inventory.items():
+        if amount > 0:
+            print(f"{item} - {game.prices[item]} gold")
+    print(f"\nShip Type: {game.ship_type}")
+    print(f"Ship Health: {game.ship_health}%")
+    print(f"Guns: {game.guns}")
+    print(f"Speed: {game.speed}")
+    print(f"Maneuverability: {game.maneuverability}")
+    print(f"Capacity: {game.ship_capacity - sum(game.inventory.values())}/{game.ship_capacity}")

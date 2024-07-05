@@ -1,5 +1,3 @@
-I understand you'd like me to transcribe Mirabai's poems from the given text and provide commentary from a spiritual perspective similar to Anandamayi Ma or Sri Ma of Kolkata. I'll do my best to present the poems and offer insights in that spirit, without pretending to be those revered figures. Here are the poems with commentary:
-
 1. A Cowherding girl
 
 The plums tasted

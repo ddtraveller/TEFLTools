@@ -1,6 +1,7 @@
 import json
 import random
-from utils import generate_response, update_prices, pirate_attack, offer_ship_upgrade, trigger_random_event
+import re
+from utils import generate_response, update_prices, pirate_attack, offer_ship_upgrade, trigger_random_event, handle_hunger, update_morale, display_status, save_game, load_game
 
 class TimorLesteFantasyTrader:
     def __init__(self):
@@ -30,105 +31,85 @@ class TimorLesteFantasyTrader:
         self.luxury_food_items = ['Timorese coffee beans', 'Sugar', 'Palm wine', 'Salt']
         self.basic_food_items = ['Rice', 'Corn', 'Salted fish', "Sailor's rations", "Low Quality sailor's rations"]
 
-        print("Choose your starting condition:")
+        print("Welcome to Timor-Leste Fantasy Trader!")
         print("1. Start with 5 guns and no money")
         print("2. Start with 1000 gold and 2000 gold debt")
-        choice = input("Enter 1 or 2: ")
+        print("3. Load saved game")
+        
+        while True:
+            choice = input("Enter your choice (1-3): ")
+            if choice in ['1', '2', '3']:
+                break
+            else:
+                print("Invalid input. Please enter 1, 2, or 3.")
+        
+        if choice == '3':
+            pirate_name = input("Enter the name of your pirate to load the game: ")
+            loaded_game = load_game(pirate_name)
+            if loaded_game:
+                self.__dict__.update(loaded_game)
+                print(f"Welcome back, Captain {self.pirate_name}!")
+            else:
+                print("No saved game found. Starting a new game...")
+                self.initialize_new_game()
+        else:
+            self.initialize_new_game(choice)
+
+    def initialize_new_game(self, choice='1'):
+        self.pirate_name = input("Enter your pirate name: ")
         if choice == '1':
             self.money = 0
             self.guns = 5
         else:
             self.money = 1000
             self.debt = 2000
+        print(f"Welcome aboard, Captain {self.pirate_name}!")
 
-    def handle_hunger(self):
-        if self.turn % 3 == 0:
-            food_consumed = False
-            morale_change = 0
-
-            # Check for luxury food items first
-            for item in self.luxury_food_items:
-                if self.inventory[item] > 0:
-                    self.inventory[item] -= 1
-                    food_consumed = True
-                    morale_change = 5
-                    print(f"Crew consumed 1 {item}. Morale increased!")
-                    break
-            
-            # If no luxury food, check for basic food items
-            if not food_consumed:
-                for item in self.basic_food_items:
-                    if self.inventory[item] > 0:
-                        self.inventory[item] -= 1
-                        food_consumed = True
-                        print(f"Crew consumed 1 {item}.")
-                        break
-            
-            # If no food at all, decrease morale
-            if not food_consumed:
-                morale_change = -10
-                print("No food available! Crew morale decreased significantly.")
-
-            self.update_morale(morale_change)
-
-    def update_morale(self, change=0):
-        self.morale = min(100, max(0, self.morale + change + (self.ship_health - 50) / 10 + (self.guns - 5) / 2 - self.debt / 1000))
-        if sum(self.inventory.values()) / self.ship_capacity > 0.8:
-            self.morale += 5
-        if self.money > 10000:
-            self.morale += 5
-        if self.debt > 5000:
-            self.morale -= 5
-
-    def display_status(self):
-        print(f"\nTurn: {self.turn}")
-        print(f"Current Port: {self.cities[self.current_city]}")
-        print(f"Gold: {self.money}")
-        print(f"Debt: {self.debt}")
-        print(f"Bank Balance: {self.bank_balance}")
-        print(f"Crew Morale: {self.morale:.2f}%")
-        print(f"Reputation: {self.reputation}")
-
-        # Display food items and their quantities
-        print("\nFood Supplies:")
-        for item in self.luxury_food_items + self.basic_food_items:
-            if self.inventory[item] > 0:
-                print(f"{item}: {self.inventory[item]}")
-
-        # Display top 3 items by price
-        top_items = sorted(self.prices.items(), key=lambda x: x[1], reverse=True)[:3]
-        print("\nTop 3 items by price:")
-        for i, (item, price) in enumerate(top_items):
-            print(f"{i+1}. {item} - {price} gold")
-
-        # Display bottom 3 items by price
-        bottom_items = sorted(self.prices.items(), key=lambda x: x[1])[:3]
-        print("\nBottom 3 items by price:")
-        for i, (item, price) in enumerate(bottom_items):
-            print(f"{i+1}. {item} - {price} gold")
-
-        # Display prices for items in the player's inventory
-        print("\nPrices for items in your inventory:")
-        for item, amount in self.inventory.items():
-            if amount > 0:
-                print(f"{item} - {self.prices[item]} gold")
-
-        print(f"\nShip Type: {self.ship_type}")
-        print(f"Ship Health: {self.ship_health}%")
-        print(f"Guns: {self.guns}")
-        print(f"Speed: {self.speed}")
-        print(f"Maneuverability: {self.maneuverability}")
-        print(f"Capacity: {self.ship_capacity - sum(self.inventory.values())}/{self.ship_capacity}")
+    def dili_harbor_options(self):
+        while True:
+            print("\nDili Harbor Special Options:")
+            print("1. Repair ship")
+            print("2. Visit money lender")
+            print("3. Visit shipyard")
+            print("4. Visit bank")
+            print("5. Save game")
+            print("6. Return to main menu")
+            choice = input("Enter your choice: ")
+            if choice == '1':
+                self.repair_ship()
+            elif choice == '2':
+                self.money_lender()
+            elif choice == '3':
+                self.shipyard()
+            elif choice == '4':
+                self.bank()
+            elif choice == '5':
+                save_game(self)
+                print("Game saved successfully!")
+            elif choice == '6':
+                break
+            else:
+                print("Invalid choice! Please enter a number between 1 and 6.")
 
     def buy(self):
         print("\nItems available for purchase:")
         for i, item in enumerate(self.goods):
             print(f"{i+1}. {item['name']} - {self.prices[item['name']]} gold")
-        choice = int(input("Enter the number of the item you want to buy (0 to cancel): ")) - 1
-        if choice == -1 or choice >= len(self.goods):
-            return
+        while True:
+            try:
+                choice = int(input("Enter the number of the item you want to buy (0 to cancel): ")) - 1
+                if choice == -1 or choice >= len(self.goods):
+                    return
+                break
+            except ValueError:
+                print("Invalid input. Please enter a number.")
         item = self.goods[choice]['name']
-        amount = int(input(f"How many {item} would you like to buy? "))
+        while True:
+            try:
+                amount = int(input(f"How many {item} would you like to buy? "))
+                break
+            except ValueError:
+                print("Invalid input. Please enter a number.")
         cost = self.prices[item] * amount
         if cost > self.money:
             print("Not enough gold!")
@@ -148,11 +129,21 @@ class TimorLesteFantasyTrader:
         if not items_to_sell:
             print("You have nothing to sell!")
             return
-        choice = int(input("Enter the number of the item you want to sell (0 to cancel): ")) - 1
-        if choice == -1 or choice >= len(items_to_sell):
-            return
+        while True:
+            try:
+                choice = int(input("Enter the number of the item you want to sell (0 to cancel): ")) - 1
+                if choice == -1 or choice >= len(items_to_sell):
+                    return
+                break
+            except ValueError:
+                print("Invalid input. Please enter a number.")
         item = items_to_sell[choice][0]
-        amount = int(input(f"How many {item} would you like to sell? "))
+        while True:
+            try:
+                amount = int(input(f"How many {item} would you like to sell? "))
+                break
+            except ValueError:
+                print("Invalid input. Please enter a number.")
         if amount > self.inventory[item]:
             print("Not enough inventory!")
             return
@@ -166,10 +157,15 @@ class TimorLesteFantasyTrader:
         for i, city in enumerate(self.cities):
             if i != self.current_city:
                 print(f"{i+1}. {city}")
-        choice = int(input("Enter the number of your destination: ")) - 1
-        if choice == self.current_city or choice < 0 or choice >= len(self.cities):
-            print("Invalid choice!")
-            return
+        while True:
+            try:
+                choice = int(input("Enter the number of your destination: ")) - 1
+                if choice == self.current_city or choice < 0 or choice >= len(self.cities):
+                    print("Invalid choice!")
+                    continue
+                break
+            except ValueError:
+                print("Invalid input. Please enter a number.")
         self.current_city = choice
         self.turn += 1
         update_prices(self)
@@ -179,28 +175,6 @@ class TimorLesteFantasyTrader:
             pirate_attack(self)
         elif random.random() < 0.1:
             offer_ship_upgrade(self)
-
-    def dili_harbor_options(self):
-        while True:
-            print("\nDili Harbor Special Options:")
-            print("1. Repair ship")
-            print("2. Visit money lender")
-            print("3. Visit shipyard")
-            print("4. Visit bank")
-            print("5. Return to main menu")
-            choice = input("Enter your choice: ")
-            if choice == '1':
-                self.repair_ship()
-            elif choice == '2':
-                self.money_lender()
-            elif choice == '3':
-                self.shipyard()
-            elif choice == '4':
-                self.bank()
-            elif choice == '5':
-                break
-            else:
-                print("Invalid choice!")
 
     def repair_ship(self):
         repair_cost = (100 - self.ship_health) * self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type))]['cost'] // 100
@@ -218,7 +192,12 @@ class TimorLesteFantasyTrader:
         action = input("Do you want to (b)orrow or (r)epay? ").lower()
         if action == 'b':
             max_borrow = max(0, self.money * 2 - self.debt)
-            amount = int(input(f"How much do you want to borrow? (max {max_borrow}): "))
+            while True:
+                try:
+                    amount = int(input(f"How much do you want to borrow? (max {max_borrow}): "))
+                    break
+                except ValueError:
+                    print("Invalid input. Please enter a number.")
             if amount <= max_borrow:
                 self.money += amount
                 self.debt += int(amount * 2)
@@ -226,7 +205,12 @@ class TimorLesteFantasyTrader:
             else:
                 print("You can't borrow that much!")
         elif action == 'r':
-            amount = int(input(f"How much do you want to repay? (max {min(self.money, self.debt)}): "))
+            while True:
+                try:
+                    amount = int(input(f"How much do you want to repay? (max {min(self.money, self.debt)}): "))
+                    break
+                except ValueError:
+                    print("Invalid input. Please enter a number.")
             if amount <= self.money and amount <= self.debt:
                 self.money -= amount
                 self.debt -= amount
@@ -253,9 +237,17 @@ class TimorLesteFantasyTrader:
         print("\nAvailable ships:")
         for i, ship in enumerate(self.ships):
             print(f"{i+1}. {ship['name']} - {ship['cost']} gold")
-        choice = int(input("Enter the number of the ship you want to upgrade/exchange to (0 to cancel): ")) - 1
-        if choice == -1:
-            return
+        while True:
+            try:
+                choice = int(input("Enter the number of the ship you want to upgrade/exchange to (0 to cancel): ")) - 1
+                if choice == -1:
+                    return
+                if choice < 0 or choice >= len(self.ships):
+                    print("Invalid choice!")
+                    continue
+                break
+            except ValueError:
+                print("Invalid input. Please enter a number.")
         ship = self.ships[choice]
         if self.money >= ship['cost']:
             self.money -= ship['cost']
@@ -273,7 +265,12 @@ class TimorLesteFantasyTrader:
         print(f"\nYou currently have {self.guns} guns.")
         gun_cost = 1000
         max_guns = min(self.money // gun_cost, self.ships[self.ships.index(next(ship for ship in self.ships if ship['name'] == self.ship_type))]['guns'] - self.guns)
-        amount = int(input(f"How many guns do you want to buy? (max {max_guns}): "))
+        while True:
+            try:
+                amount = int(input(f"How many guns do you want to buy? (max {max_guns}): "))
+                break
+            except ValueError:
+                print("Invalid input. Please enter a number.")
         if amount > max_guns:
             print("You can't buy that many guns!")
             return
@@ -286,14 +283,24 @@ class TimorLesteFantasyTrader:
         print(f"Current bank balance: {self.bank_balance}")
         action = input("Do you want to (d)eposit or (w)ithdraw? ").lower()
         if action == 'd':
-            amount = int(input(f"How much do you want to deposit? (max {self.money}): "))
+            while True:
+                try:
+                    amount = int(input(f"How much do you want to deposit? (max {self.money}): "))
+                    break
+                except ValueError:
+                    print("Invalid input. Please enter a number.")
             if amount <= self.money:
                 self.money -= amount
                 self.bank_balance += amount
             else:
                 print("You don't have that much gold!")
         elif action == 'w':
-            amount = int(input(f"How much do you want to withdraw? (max {self.bank_balance}): "))
+            while True:
+                try:
+                    amount = int(input(f"How much do you want to withdraw? (max {self.bank_balance}): "))
+                    break
+                except ValueError:
+                    print("Invalid input. Please enter a number.")
             if amount <= self.bank_balance:
                 self.money += amount
                 self.bank_balance -= amount
@@ -317,17 +324,16 @@ class TimorLesteFantasyTrader:
         return f"The ship's parrot squawks: {parrot_message}"
 
     def play(self):
-        print("Welcome to Timor-Leste Fantasy Trader!")
         update_prices(self)
         while True:
-            self.display_status()
+            display_status(self)
             if self.current_city == 0:  # Dili Harbor
                 self.dili_harbor_options()
             
             if self.turn % 10 == 0:
                 print(self.parrot_speak())
             
-            self.handle_hunger()  # Call the hunger system every turn
+            handle_hunger(self)  # Call the hunger system every turn
             
             # Trigger random event with 20% probability
             if random.random() < 0.2:
@@ -339,7 +345,12 @@ class TimorLesteFantasyTrader:
             print("3. Travel")
             print("4. Quit")
             
-            action = input("Enter your choice (1-4): ")
+            while True:
+                action = input("Enter your choice (1-4): ")
+                if action in ['1', '2', '3', '4']:
+                    break
+                else:
+                    print("Invalid input. Please enter a number between 1 and 4.")
             
             if action == '1':
                 self.buy()
@@ -348,9 +359,11 @@ class TimorLesteFantasyTrader:
             elif action == '3':
                 self.travel()
             elif action == '4':
+                save_choice = input("Do you want to save the game before quitting? (y/n): ")
+                if save_choice.lower() == 'y':
+                    save_game(self)
+                    print("Game saved successfully!")
                 break
-            else:
-                print("Invalid action! Please choose a number between 1-4.")
             
             self.turn += 1
     

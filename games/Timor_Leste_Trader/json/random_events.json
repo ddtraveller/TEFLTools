@@ -18,5 +18,85 @@
   {
     "description": "You pass the wreckage of a vessel that looks to have been looted and burned. It was a large Galleon with a lot of guns. Sharks abound in the water. The crew takes it as an ominous sign for the voyage.",
     "effect": {"morale": -3}
+  },
+  {
+    "description": "A pod of friendly dolphins guides your ship through a treacherous reef, saving you from potential disaster.",
+    "effect": {"ship_health": 5, "morale": 5}
+  },
+  {
+    "description": "Your ship encounters a thick fog bank, slowing your progress and putting the crew on edge.",
+    "effect": {"morale": -2, "speed": -1}
+  },
+  {
+    "description": "A charismatic storyteller among the crew boosts morale with tales of legendary pirates and hidden treasures.",
+    "effect": {"morale": 8}
+  },
+  {
+    "description": "Your ship's cook discovers a way to make hardtack more palatable, improving the crew's spirits.",
+    "effect": {"morale": 3}
+  },
+  {
+    "description": "A minor mutiny breaks out but is quickly quelled. The ringleaders are punished, but tension remains high.",
+    "effect": {"morale": -7}
+  },
+  {
+    "description": "Your navigator spots a previously uncharted island. Mapping it could prove valuable.",
+    "effect": {"money": 1000, "reputation": 1}
+  },
+  {
+    "description": "A freak wave washes over the deck, sweeping away some supplies and a few unlucky crew members.",
+    "effect": {"morale": -5, "ship_health": -5}
+  },
+  {
+    "description": "Your ship rescues survivors from a shipwreck. They're grateful and offer to join your crew.",
+    "effect": {"morale": 3, "maneuverability": 1}
+  },
+  {
+    "description": "A sea serpent is spotted in the distance. The crew is both terrified and excited by the rare sight.",
+    "effect": {"morale": 2}
+  },
+  {
+    "description": "Your ship discovers a hidden cove full of valuable pearls. The crew is ecstatic about the find.",
+    "effect": {"money": 2000, "morale": 10}
+  },
+  {
+    "description": "A powerful tailwind fills your sails, dramatically increasing your speed for a day.",
+    "effect": {"speed": 2}
+  },
+  {
+    "description": "Your ship's carpenter invents a new technique for patching hull damage, improving your ship's durability.",
+    "effect": {"ship_health": 15}
+  },
+  {
+    "description": "A stowaway is discovered on board. They turn out to be a skilled navigator fleeing from a rival pirate crew.",
+    "effect": {"maneuverability": 1, "reputation": -1}
+  },
+  {
+    "description": "Your crew successfully fends off an attack by giant squids, boosting their confidence in combat.",
+    "effect": {"morale": 7, "reputation": 1}
+  },
+  {
+    "description": "A crewmember falls ill with a mysterious tropical disease, causing worry among the rest of the crew.",
+    "effect": {"morale": -4}
+  },
+  {
+    "description": "Your ship passes through waters said to be haunted. Strange noises and eerie lights unsettle the crew.",
+    "effect": {"morale": -6}
+  },
+  {
+    "description": "A foreign merchant vessel offers to trade rare spices for some of your cargo.",
+    "effect": {"money": 1500}
+  },
+  {
+    "description": "Your ship's gunner devises a more efficient way to load the cannons, improving your combat readiness.",
+    "effect": {"guns": 1}
+  },
+  {
+    "description": "A series of small leaks are discovered in the hull. They're patched, but the ship needs proper repairs soon.",
+    "effect": {"ship_health": -8}
+  },
+  {
+    "description": "Your crew catches an enormous tuna, providing a feast and lifting spirits.",
+    "effect": {"morale": 6}
   }
 ]

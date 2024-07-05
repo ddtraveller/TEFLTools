@@ -15,7 +15,7 @@
     "capacity": 150,
     "guns": 4,
     "speed": 8,
-    "maneuverability": 9
+    "maneuverability": 8
   },
   {
     "name": "Heavy Sloop",
@@ -25,7 +25,7 @@
     "guns": 5,
     "speed": 7,
     "maneuverability": 8
-  },  
+  },
   {
     "name": "Barque",
     "description": "A mid-sized combat vessel with a good cargo hold. Usually encountered as a Portuguese trading ship in the Timor Sea, it is nimble enough to protect itself from most ship types, and can survive a broadside or two from an enemy ship without too much trouble. Useful for players who want the largest ship that doesn't have too much trouble sailing eastwards or upwind.",
@@ -88,5 +88,50 @@
     "guns": 40,
     "speed": 5,
     "maneuverability": 1
+  },
+  {
+    "name": "Dhow",
+    "description": "A traditional Arab sailing vessel with a distinctive triangular lateen sail. Known for its maneuverability and ability to sail close to the wind, the Dhow is a favorite among local traders in the Timor Sea. While not built for combat, its speed and agility make it an excellent choice for those looking to outrun danger.",
+    "cost": 15000,
+    "capacity": 120,
+    "guns": 3,
+    "speed": 7,
+    "maneuverability": 9
+  },
+  {
+    "name": "Junk",
+    "description": "A Chinese sailing ship design notable for its efficient hull shape and unique sail plan. Junks are sturdy vessels capable of extended voyages, making them popular among traders in the Timor Sea. Their compartmentalized hull design provides excellent survivability in combat, despite the limited armament.",
+    "cost": 30000,
+    "capacity": 180,
+    "guns": 6,
+    "speed": 5,
+    "maneuverability": 6
+  },
+  {
+    "name": "Ketch",
+    "description": "A small, two-masted sailing craft popular among smugglers and pirates in the Timor Sea. Its compact size and relatively good cargo capacity make it ideal for quick, discreet trading runs. While not heavily armed, the Ketch can hold its own in skirmishes against other small vessels.",
+    "cost": 20000,
+    "capacity": 130,
+    "guns": 4,
+    "speed": 6,
+    "maneuverability": 7
+  },
+  {
+    "name": "Brigantine",
+    "description": "A two-masted sailing vessel combining square and lateen rigged sails. This versatile ship type is favored by many nations for its balance of speed, maneuverability, and firepower. Brigantines are often used for both trade and light combat roles in the Timor Sea.",
+    "cost": 35000,
+    "capacity": 170,
+    "guns": 8,
+    "speed": 7,
+    "maneuverability": 7
+  },
+  {
+    "name": "Xebec",
+    "description": "A Mediterranean-inspired vessel with a distinctive hull shape and sail plan. Known for its speed and maneuverability, the Xebec is a favorite among corsairs and adventurers in the Timor Sea. Its combination of oars and sails allows for excellent performance in both light winds and combat situations.",
+    "cost": 28000,
+    "capacity": 140,
+    "guns": 7,
+    "speed": 8,
+    "maneuverability": 8
   }
 ]
