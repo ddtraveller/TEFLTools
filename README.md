@@ -65,7 +65,7 @@ All content is localized/regionalized for Timor-Leste. / Konteúdu hotu-hotu lok
 16. **Permagarden Design and Implementation for Food Security in Timor-Leste**
 17. **Introduction to Python Programming for Timor-Leste / Introdusaun ba Programa Python ba Timor-Leste**
 18. **Introduction to Game Programming with Python / Introdusaun ba Programa Jogu ho Python**
-19. **Constitutional Law in Timor-Leste / Lei Konstitusional iha Timor-Leste**
+19. **Constitutional Law in Timor-Leste / Lei Konstitusional iha Timor-Leste (Atu fó onra ba Laloran Justisa)**
 
 For detailed descriptions of each course in both English and Tetun, please refer to the original document.
 
