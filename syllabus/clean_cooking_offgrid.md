@@ -4,6 +4,8 @@
 
 This course aims to introduce clean cooking technologies and practices to communities in Timor-Leste. The goal is to reduce reliance on traditional biomass cooking methods, improve health outcomes, and promote environmental sustainability. By the end of this course, participants will understand the benefits of clean cooking, be familiar with various clean cooking technologies appropriate for Timor-Leste, and be able to implement and promote these technologies in their communities.
 
+Kursu ida-ne'e ho objetivu atu introdús teknolojia no prátika te'in ne'ebé moos ba komunidade sira iha Timor-Leste. Objetivu mak atu hamenus dependénsia ba métodu te'in biomas tradisionál, hadi'a rezultadu saúde, no promove sustentabilidade ambientál. Iha kursu ne'e nia rohan, partisipante sira sei komprende benefísiu husi te'in ne'ebé moos, hatene didi'ak teknolojia te'in ne'ebé apropriadu ba Timor-Leste, no bele implementa no promove teknolojia hirak-ne'e iha sira-nia komunidade.
+
 Key objectives:
 - Understand the health and environmental impacts of traditional cooking methods
 - Learn about clean cooking technologies suitable for Timor-Leste

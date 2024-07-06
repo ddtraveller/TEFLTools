@@ -66,6 +66,7 @@ All content is localized/regionalized for Timor-Leste. / Konteúdu hotu-hotu lok
 17. **Introduction to Python Programming for Timor-Leste / Introdusaun ba Programa Python ba Timor-Leste**
 18. **Introduction to Game Programming with Python / Introdusaun ba Programa Jogu ho Python**
 19. **Constitutional Law in Timor-Leste / Lei Konstitusional iha Timor-Leste (Atu fó onra ba Laloran Justisa)**
+20. **Clean Cooking Offgrid/Hamoos cooking Offgrid.**
 
 For detailed descriptions of each course in both English and Tetun, please refer to the original document.
 

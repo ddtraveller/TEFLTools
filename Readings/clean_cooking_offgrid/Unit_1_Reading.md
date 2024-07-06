@@ -28,6 +28,15 @@ Clean cooking technologies offer promising solutions to address the challenges p
 
 4. Solar Cookers: These devices use sunlight to cook food, eliminating the need for fuel and producing no emissions. However, they are limited by weather conditions and cooking time constraints.
 
+Te'in ne'ebé moos mak asuntu globál ida-ne'ebé importante tebes ne'ebé fó impaktu ba ema biliaun iha mundu tomak, liuliu iha nasaun dezenvolvimentu sira. Dokumentu ida-ne'e fó introdusaun ida atu hamoos te'in, esplora ninia importánsia, dezafiu sira ne'ebé asosiadu ho métodu te'in tradisionál sira, no solusaun potensiál sira ne'ebé oferese liuhosi teknolojia te'in ne'ebé moos. 
+ Introdusaun 
+ Te'in nu'udar atividade fundamentál ida ba ema, ne'ebé esensiál ba nutrisaun no sustentabilidade. Maibé, kuaze metade husi populasaun iha mundu tomak, aktu simples hodi prepara hahán bele sai perigu ba sira-nia saúde no ambiente. Iha nasaun barak ne'ebé dezenvolve hela, inklui Timor-Leste, métodu te'in tradisionál depende maka'as ba kombustivel biomasu hanesan ai, karcoal, no lixu agrikultura. Prátika hirak-ne'e kontribui signifikante ba poluisaun aereu iha uma-laran, deflorestasaun, no mudansa klimátika, hodi halo te'in sai hanesan área importante ida ba dezenvolvimentu globál no esforsu konservasaun ambientál. 
+ Dezafiu sira husi métodu te'in tradisionál sira 
+ Prátika te'in tradisionál iha fatin barak iha mundu envolve uza ahi nakloke ka ai-riin rudimentár ne'ebé sunu kombustivel biomasu la efisiente. Inefisiensia ida-ne'e hamosu kestaun presaun oioin: 
+ 1. Risku Saude: Poluisaun aereu iha uma-laran ne'ebé rezulta husi métodu te'in tradisionál mak preokupasaun saúde boot ida. Suar no sasán partikulár ne'ebé fó sai durante te'in bele hamosu moras respiratóriu ne'ebé grave, problema matan, no sunu. Feto no labarik sira, ne'ebé dala barak gasta tempu barak liu besik área te'in, hetan impaktu ne'ebé la proporsional ho risku saúde hirak-ne'e. Organizasaun Mundial Saude estimativa katak maizumenus ema millaun 4 mate sedu tinan-tinan tanba moras ne'ebé bele atribui ba poluisaun aereu uma-kain nian tanba te'in ho kombustivel ne'ebé metin. 
+ 2. Impaktu Ambiental: Depende ba biomasu kombustivel ba te'in kontribui signifikante ba deflorestasaun no degradasaun rai. Bainhira ai-huun sira tesi tiha ba kombustivel, ekosistema sira sai fraku, ne'ebé hamosu lakon biodiversidade. Liu-liu, kombustivel biomas ne'ebé la kompletu fó sai gás estufa, hodi kontribui ba mudansa klimátika. 
+ 3. Bubu sosio-ekonomiku: Tempu no esforsu ne'ebé presiza atu halibur ai-funan ka kombustivel biomasu sira seluk bele sai substansial, liu-liu iha área rurál sira. Dala barak todan ne'e tun ba feto no labarik sira, limita sira-nia oportunidade ba edukasaun, jerasaun rendimentu, no atividade produtivu sira seluk.
+
 The Importance of Clean Cooking
 
 Promoting clean cooking technologies has far-reaching benefits:

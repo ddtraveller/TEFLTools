@@ -1,5 +1,5 @@
 import anthropic
-
+# export ANTHROPIC_API_KEY='your_api_key_here'
 client = anthropic.Anthropic()
 
 message = client.messages.create(
