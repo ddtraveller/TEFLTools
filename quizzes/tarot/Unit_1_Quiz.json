@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Kabbalah",
+  "questions": [
+    {
+      "question": "What is the primary text of Kabbalah?",
+      "choices": [
+        "The Torah",
+        "The Talmud",
+        "The Zohar",
+        "The Sefer Yetzirah"
+      ],
+      "answer": "The Zohar"
+    },
+    {
+      "question": "How many Sephiroth are there in the Tree of Life?",
+      "choices": [
+        "7",
+        "10",
+        "12",
+        "22"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "What does the term 'Ein Sof' represent in Kabbalah?",
+      "choices": [
+        "The Tree of Life",
+        "The infinite and unknowable essence of God",
+        "The lowest Sephirah",
+        "The physical world"
+      ],
+      "answer": "The infinite and unknowable essence of God"
+    },
+    {
+      "question": "Which of the following is NOT one of the four worlds in Kabbalistic thought?",
+      "choices": [
+        "Atziluth",
+        "Beriah",
+        "Yetzirah",
+        "Malkuth"
+      ],
+      "answer": "Malkuth"
+    },
+    {
+      "question": "What does the word 'Kabbalah' mean in Hebrew?",
+      "choices": [
+        "To give",
+        "To receive",
+        "To create",
+        "To understand"
+      ],
+      "answer": "To receive"
+    },
+    {
+      "question": "Which Sephirah represents 'Beauty' in the Tree of Life?",
+      "choices": [
+        "Chesed",
+        "Geburah",
+        "Tiphereth",
+        "Hod"
+      ],
+      "answer": "Tiphereth"
+    },
+    {
+      "question": "How many paths connect the Sephiroth in the Tree of Life?",
+      "choices": [
+        "10",
+        "22",
+        "32",
+        "50"
+      ],
+      "answer": "22"
+    },
+    {
+      "question": "Which of the following is the World of Action in Kabbalistic thought?",
+      "choices": [
+        "Atziluth",
+        "Beriah",
+        "Yetzirah",
+        "Assiah"
+      ],
+      "answer": "Assiah"
+    },
+    {
+      "question": "What does the Sephirah 'Kether' represent?",
+      "choices": [
+        "Wisdom",
+        "Understanding",
+        "Crown",
+        "Foundation"
+      ],
+      "answer": "Crown"
+    },
+    {
+      "question": "In which century did the Zohar emerge?",
+      "choices": [
+        "11th century",
+        "12th century",
+        "13th century",
+        "14th century"
+      ],
+      "answer": "13th century"
+    },
+    {
+      "question": "What are the three pillars of the Tree of Life?",
+      "choices": [
+        "Light, Dark, and Balance",
+        "Past, Present, and Future",
+        "Body, Mind, and Spirit",
+        "Severity, Mercy, and Balance"
+      ],
+      "answer": "Severity, Mercy, and Balance"
+    },
+    {
+      "question": "Which Sephirah is associated with 'Foundation'?",
+      "choices": [
+        "Yesod",
+        "Malkuth",
+        "Hod",
+        "Netzach"
+      ],
+      "answer": "Yesod"
+    },
+    {
+      "question": "What does the concept of 'emanation' refer to in Kabbalah?",
+      "choices": [
+        "The creation of the physical world",
+        "The process of spiritual enlightenment",
+        "The unfolding of the infinite into the finite",
+        "The ascent of the soul through the Sephiroth"
+      ],
+      "answer": "The unfolding of the infinite into the finite"
+    },
+    {
+      "question": "Which of the following is NOT a practice associated with Kabbalah?",
+      "choices": [
+        "Meditation on the Tree of Life",
+        "Study of sacred texts",
+        "Exploration of mystical meanings of Hebrew letters",
+        "Animal sacrifice"
+      ],
+      "answer": "Animal sacrifice"
+    },
+    {
+      "question": "What is the lowest Sephirah on the Tree of Life?",
+      "choices": [
+        "Kether",
+        "Yesod",
+        "Malkuth",
+        "Tiphereth"
+      ],
+      "answer": "Malkuth"
+    },
+    {
+      "question": "Which Kabbalistic concept is most similar to the idea of reincarnation?",
+      "choices": [
+        "Gilgul",
+        "Tikkun Olam",
+        "Devekut",
+        "Tzimtzum"
+      ],
+      "answer": "Gilgul"
+    },
+    {
+      "question": "What does the Sephirah 'Binah' represent?",
+      "choices": [
+        "Wisdom",
+        "Understanding",
+        "Knowledge",
+        "Insight"
+      ],
+      "answer": "Understanding"
+    },
+    {
+      "question": "Which of the following best describes the relationship between Ein Sof and the Sephiroth?",
+      "choices": [
+        "Ein Sof is one of the Sephiroth",
+        "The Sephiroth are aspects of Ein Sof",
+        "Ein Sof and the Sephiroth are unrelated concepts",
+        "The Sephiroth created Ein Sof"
+      ],
+      "answer": "The Sephiroth are aspects of Ein Sof"
+    },
+    {
+      "question": "What is the significance of the number 22 in Kabbalah?",
+      "choices": [
+        "It represents the number of Sephiroth",
+        "It is the number of paths on the Tree of Life",
+        "It symbolizes the age of spiritual maturity",
+        "It is the number of divine names"
+      ],
+      "answer": "It is the number of paths on the Tree of Life"
+    },
+    {
+      "question": "Which Kabbalistic concept refers to the repair or healing of the world?",
+      "choices": [
+        "Gilgul",
+        "Tikkun Olam",
+        "Devekut",
+        "Tzimtzum"
+      ],
+      "answer": "Tikkun Olam"
+    },
+    {
+      "question": "What is the Kabbalistic term for cleaving to God?",
+      "choices": [
+        "Gilgul",
+        "Tikkun Olam",
+        "Devekut",
+        "Tzimtzum"
+      ],
+      "answer": "Devekut"
+    },
+    {
+      "question": "In Kabbalistic thought, which world is closest to the physical realm?",
+      "choices": [
+        "Atziluth",
+        "Beriah",
+        "Yetzirah",
+        "Assiah"
+      ],
+      "answer": "Assiah"
+    },
+    {
+      "question": "What does the Sephirah 'Chesed' represent?",
+      "choices": [
+        "Strength",
+        "Loving-kindness",
+        "Victory",
+        "Splendor"
+      ],
+      "answer": "Loving-kindness"
+    },
+    {
+      "question": "Which of the following is NOT a traditional Kabbalistic practice?",
+      "choices": [
+        "Gematria",
+        "Meditation on Hebrew letters",
+        "Astral projection",
+        "Study of the Zohar"
+      ],
+      "answer": "Astral projection"
+    },
+    {
+      "question": "What is the significance of the 'Tree of Life' in Kabbalah?",
+      "choices": [
+        "It represents the physical structure of the universe",
+        "It is a map of creation and guide for spiritual development",
+        "It symbolizes the Garden of Eden",
+        "It is a metaphor for human evolution"
+      ],
+      "answer": "It is a map of creation and guide for spiritual development"
+    },
+    {
+      "question": "Which Sephirah is associated with 'Victory'?",
+      "choices": [
+        "Geburah",
+        "Tiphereth",
+        "Netzach",
+        "Hod"
+      ],
+      "answer": "Netzach"
+    },
+    {
+      "question": "What is the Kabbalistic concept of 'Tzimtzum'?",
+      "choices": [
+        "The expansion of divine light",
+        "The contraction of divine essence to allow for creation",
+        "The balance between good and evil",
+        "The process of spiritual purification"
+      ],
+      "answer": "The contraction of divine essence to allow for creation"
+    },
+    {
+      "question": "In Kabbalistic thought, what does the World of Beriah represent?",
+      "choices": [
+        "The physical world",
+        "The world of emotions",
+        "The world of intellect and creation",
+        "The world of divine emanation"
+      ],
+      "answer": "The world of intellect and creation"
+    },
+    {
+      "question": "Which of the following best describes the relationship between Kabbalah and Judaism?",
+      "choices": [
+        "Kabbalah is entirely separate from Judaism",
+        "Kabbalah is the foundation of all Jewish thought",
+        "Kabbalah is a mystical tradition within Judaism",
+        "Kabbalah replaced traditional Judaism in the Middle Ages"
+      ],
+      "answer": "Kabbalah is a mystical tradition within Judaism"
+    },
+    {
+      "question": "What is the significance of the Hebrew alphabet in Kabbalistic study?",
+      "choices": [
+        "It is used only for writing sacred texts",
+        "Each letter has mystical meanings and creative power",
+        "It is considered obsolete in modern Kabbalah",
+        "It is used exclusively for numerology"
+      ],
+      "answer": "Each letter has mystical meanings and creative power"
+    }
+  ]
+}

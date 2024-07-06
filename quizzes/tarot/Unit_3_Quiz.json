@@ -1,0 +1,305 @@
+{
+  "title": "Numerology in Kabbalah and Tarot",
+  "questions": [
+    {
+      "question": "What is the primary belief underlying numerology?",
+      "choices": [
+        "Numbers have no inherent meaning",
+        "Numbers have inherent vibrations that influence various aspects of life",
+        "Only even numbers have significance",
+        "Numbers are purely mathematical constructs"
+      ],
+      "answer": "Numbers have inherent vibrations that influence various aspects of life"
+    },
+    {
+      "question": "What is Gematria in Kabbalah?",
+      "choices": [
+        "A type of prayer",
+        "A method of interpreting Hebrew scriptures through numerical values",
+        "A sacred text",
+        "A meditation technique"
+      ],
+      "answer": "A method of interpreting Hebrew scriptures through numerical values"
+    },
+    {
+      "question": "How many Sephiroth are there in the Kabbalistic Tree of Life?",
+      "choices": [
+        "7",
+        "9",
+        "10",
+        "12"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "What does the number 1 typically represent in Kabbalah?",
+      "choices": [
+        "Duality",
+        "Unity and divine oneness",
+        "Material world",
+        "Human will"
+      ],
+      "answer": "Unity and divine oneness"
+    },
+    {
+      "question": "How many cards are in the Major Arcana of the Tarot?",
+      "choices": [
+        "21",
+        "22",
+        "56",
+        "78"
+      ],
+      "answer": "22"
+    },
+    {
+      "question": "What is the Life Path Number in numerology?",
+      "choices": [
+        "A number derived from one's name",
+        "A number derived from one's birth date",
+        "A randomly assigned number",
+        "The sum of all numbers in one's life"
+      ],
+      "answer": "A number derived from one's birth date"
+    },
+    {
+      "question": "Which Tarot card is associated with the number 0?",
+      "choices": [
+        "The Magician",
+        "The High Priestess",
+        "The Fool",
+        "The World"
+      ],
+      "answer": "The Fool"
+    },
+    {
+      "question": "What does the number 6 represent in Kabbalah?",
+      "choices": [
+        "Victory",
+        "Foundation",
+        "Beauty and harmony in creation",
+        "Splendor"
+      ],
+      "answer": "Beauty and harmony in creation"
+    },
+    {
+      "question": "How is the Destiny Number typically calculated in numerology?",
+      "choices": [
+        "From one's birth date",
+        "From one's full birth name",
+        "From one's current age",
+        "From one's favorite number"
+      ],
+      "answer": "From one's full birth name"
+    },
+    {
+      "question": "What is the process of reducing multi-digit numbers to a single digit called?",
+      "choices": [
+        "Number crunching",
+        "Digit summing",
+        "Numerical reduction",
+        "Gematria"
+      ],
+      "answer": "Digit summing"
+    },
+    {
+      "question": "Which of these is NOT one of the four suits in the Minor Arcana of Tarot?",
+      "choices": [
+        "Wands",
+        "Cups",
+        "Swords",
+        "Diamonds"
+      ],
+      "answer": "Diamonds"
+    },
+    {
+      "question": "What does the number 3 typically represent in Kabbalah?",
+      "choices": [
+        "Duality",
+        "Unity",
+        "Harmony and integration",
+        "Material world"
+      ],
+      "answer": "Harmony and integration"
+    },
+    {
+      "question": "Which Tarot card is associated with the number 1?",
+      "choices": [
+        "The Fool",
+        "The Magician",
+        "The High Priestess",
+        "The Empress"
+      ],
+      "answer": "The Magician"
+    },
+    {
+      "question": "What is the significance of the number 22 in Tarot?",
+      "choices": [
+        "It's the number of cards in a standard deck",
+        "It's the number of Major Arcana cards",
+        "It represents completion",
+        "It has no special significance"
+      ],
+      "answer": "It's the number of Major Arcana cards"
+    },
+    {
+      "question": "In Kabbalah, which Sephirah is associated with the number 1?",
+      "choices": [
+        "Malkuth",
+        "Kether",
+        "Chokmah",
+        "Binah"
+      ],
+      "answer": "Kether"
+    },
+    {
+      "question": "What is the typical meaning of the number 5 in numerology?",
+      "choices": [
+        "Stability",
+        "Unity",
+        "Dynamic change and human will",
+        "Completion"
+      ],
+      "answer": "Dynamic change and human will"
+    },
+    {
+      "question": "Which of these is considered a 'master number' in numerology?",
+      "choices": [
+        "10",
+        "11",
+        "13",
+        "15"
+      ],
+      "answer": "11"
+    },
+    {
+      "question": "What does the Tarot card 'The Wheel of Fortune' (10) typically represent?",
+      "choices": [
+        "Stability",
+        "New beginnings",
+        "Cycles and destiny",
+        "Inner power"
+      ],
+      "answer": "Cycles and destiny"
+    },
+    {
+      "question": "In Kabbalah, what does the number 4 typically represent?",
+      "choices": [
+        "Unity",
+        "Duality",
+        "Harmony",
+        "Stability and the material world"
+      ],
+      "answer": "Stability and the material world"
+    },
+    {
+      "question": "What is the significance of the number 8 in Chinese numerology?",
+      "choices": [
+        "It's considered unlucky",
+        "It's associated with death",
+        "It's considered particularly auspicious",
+        "It has no special significance"
+      ],
+      "answer": "It's considered particularly auspicious"
+    },
+    {
+      "question": "Which Tarot card is associated with the number 2?",
+      "choices": [
+        "The Magician",
+        "The High Priestess",
+        "The Empress",
+        "The Emperor"
+      ],
+      "answer": "The High Priestess"
+    },
+    {
+      "question": "What does the number 7 typically represent in Kabbalah?",
+      "choices": [
+        "Unity",
+        "Duality",
+        "Victory and completion of a cycle",
+        "Foundation"
+      ],
+      "answer": "Victory and completion of a cycle"
+    },
+    {
+      "question": "How many court cards are there in each suit of the Minor Arcana?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "What is the typical meaning of the number 9 in numerology?",
+      "choices": [
+        "New beginnings",
+        "Duality",
+        "Completion and culmination",
+        "Material success"
+      ],
+      "answer": "Completion and culmination"
+    },
+    {
+      "question": "Which Tarot card is associated with the number 21?",
+      "choices": [
+        "The Fool",
+        "The Magician",
+        "The World",
+        "Judgement"
+      ],
+      "answer": "The World"
+    },
+    {
+      "question": "In Kabbalah, what does the number 10 typically represent?",
+      "choices": [
+        "Unity",
+        "Duality",
+        "Harmony",
+        "Kingdom and manifestation in the physical world"
+      ],
+      "answer": "Kingdom and manifestation in the physical world"
+    },
+    {
+      "question": "What is the significance of the number 4 in Chinese numerology?",
+      "choices": [
+        "It's considered lucky",
+        "It's associated with wealth",
+        "It's often avoided due to its similarity to the word for 'death'",
+        "It represents longevity"
+      ],
+      "answer": "It's often avoided due to its similarity to the word for 'death'"
+    },
+    {
+      "question": "Which of these is NOT a typical method used in personal numerology?",
+      "choices": [
+        "Life Path Number",
+        "Destiny Number",
+        "Personal Year Number",
+        "Zodiac Number"
+      ],
+      "answer": "Zodiac Number"
+    },
+    {
+      "question": "What does the Tarot card 'The Hermit' (9) typically represent?",
+      "choices": [
+        "New beginnings",
+        "Introspection and wisdom",
+        "Material success",
+        "Romantic relationships"
+      ],
+      "answer": "Introspection and wisdom"
+    },
+    {
+      "question": "In Kabbalah, which Sephirah is associated with the number 6?",
+      "choices": [
+        "Kether",
+        "Chokmah",
+        "Binah",
+        "Tiphereth"
+      ],
+      "answer": "Tiphereth"
+    }
+  ]
+}

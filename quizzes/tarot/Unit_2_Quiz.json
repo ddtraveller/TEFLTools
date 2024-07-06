@@ -1,0 +1,305 @@
+{
+  "title": "The Major Arcana of Tarot",
+  "questions": [
+    {
+      "question": "How many cards are in the Major Arcana?",
+      "choices": [
+        "18",
+        "21",
+        "22",
+        "78"
+      ],
+      "answer": "22"
+    },
+    {
+      "question": "What is the first card of the Major Arcana?",
+      "choices": [
+        "The Magician",
+        "The Fool",
+        "The High Priestess",
+        "The Empress"
+      ],
+      "answer": "The Fool"
+    },
+    {
+      "question": "What number is typically associated with The Fool card?",
+      "choices": [
+        "0",
+        "1",
+        "21",
+        "22"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "Which card represents the completion of the Fool's Journey?",
+      "choices": [
+        "The Sun",
+        "The Star",
+        "The World",
+        "Judgment"
+      ],
+      "answer": "The World"
+    },
+    {
+      "question": "What does The Magician card symbolize?",
+      "choices": [
+        "Mystery and intuition",
+        "Authority and structure",
+        "Willpower and manifestation",
+        "New beginnings and innocence"
+      ],
+      "answer": "Willpower and manifestation"
+    },
+    {
+      "question": "Which card is associated with intuition and the subconscious mind?",
+      "choices": [
+        "The Empress",
+        "The High Priestess",
+        "The Hermit",
+        "The Moon"
+      ],
+      "answer": "The High Priestess"
+    },
+    {
+      "question": "What does The Empress card typically represent?",
+      "choices": [
+        "Authority and leadership",
+        "Fertility and abundance",
+        "Wisdom and solitude",
+        "Balance and justice"
+      ],
+      "answer": "Fertility and abundance"
+    },
+    {
+      "question": "Which animal is often associated with The Emperor card?",
+      "choices": [
+        "Lion",
+        "Eagle",
+        "Ram",
+        "Bull"
+      ],
+      "answer": "Ram"
+    },
+    {
+      "question": "In what century did Tarot originate as playing cards?",
+      "choices": [
+        "13th century",
+        "15th century",
+        "17th century",
+        "19th century"
+      ],
+      "answer": "15th century"
+    },
+    {
+      "question": "When did Tarot begin to be used for divination?",
+      "choices": [
+        "15th century",
+        "16th century",
+        "17th century",
+        "18th century"
+      ],
+      "answer": "18th century"
+    },
+    {
+      "question": "Which Tarot deck standardized much of modern Tarot imagery?",
+      "choices": [
+        "Marseille Tarot",
+        "Thoth Tarot",
+        "Rider-Waite-Smith Tarot",
+        "Visconti-Sforza Tarot"
+      ],
+      "answer": "Rider-Waite-Smith Tarot"
+    },
+    {
+      "question": "What year was the Rider-Waite-Smith Tarot deck published?",
+      "choices": [
+        "1889",
+        "1909",
+        "1929",
+        "1949"
+      ],
+      "answer": "1909"
+    },
+    {
+      "question": "What is another name for the Major Arcana cards?",
+      "choices": [
+        "Court cards",
+        "Minor cards",
+        "Trump cards",
+        "Suit cards"
+      ],
+      "answer": "Trump cards"
+    },
+    {
+      "question": "What concept is the sequence of Major Arcana cards often referred to as?",
+      "choices": [
+        "The Hero's Path",
+        "The Fool's Journey",
+        "The Magician's Quest",
+        "The Empress's Tale"
+      ],
+      "answer": "The Fool's Journey"
+    },
+    {
+      "question": "Which card represents new beginnings and taking risks?",
+      "choices": [
+        "The Magician",
+        "The Fool",
+        "The Star",
+        "The Sun"
+      ],
+      "answer": "The Fool"
+    },
+    {
+      "question": "What do the four suits on The Magician's table represent?",
+      "choices": [
+        "The four seasons",
+        "The four elements",
+        "The four directions",
+        "The four virtues"
+      ],
+      "answer": "The four elements"
+    },
+    {
+      "question": "What do the two pillars in The High Priestess card symbolize?",
+      "choices": [
+        "Good and evil",
+        "Past and future",
+        "Seen and unseen worlds",
+        "Male and female"
+      ],
+      "answer": "Seen and unseen worlds"
+    },
+    {
+      "question": "Which Major Arcana card is associated with fertility and the natural world?",
+      "choices": [
+        "The Star",
+        "The Moon",
+        "The Sun",
+        "The Empress"
+      ],
+      "answer": "The Empress"
+    },
+    {
+      "question": "What does The Emperor card primarily symbolize?",
+      "choices": [
+        "Intuition and mystery",
+        "Authority and structure",
+        "Creativity and abundance",
+        "Wisdom and solitude"
+      ],
+      "answer": "Authority and structure"
+    },
+    {
+      "question": "Which concept from mythology is often compared to the Fool's Journey?",
+      "choices": [
+        "The Golden Fleece",
+        "The Labyrinth",
+        "The Hero's Journey",
+        "The Odyssey"
+      ],
+      "answer": "The Hero's Journey"
+    },
+    {
+      "question": "Who popularized the concept of the hero's journey in mythology?",
+      "choices": [
+        "Carl Jung",
+        "Sigmund Freud",
+        "Joseph Campbell",
+        "Claude Lévi-Strauss"
+      ],
+      "answer": "Joseph Campbell"
+    },
+    {
+      "question": "How many suits are there in a complete Tarot deck?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "What modern field often uses Tarot archetypes as tools for self-reflection?",
+      "choices": [
+        "Medicine",
+        "Law",
+        "Psychology",
+        "Economics"
+      ],
+      "answer": "Psychology"
+    },
+    {
+      "question": "What is the total number of cards in a standard Tarot deck?",
+      "choices": [
+        "52",
+        "64",
+        "78",
+        "100"
+      ],
+      "answer": "78"
+    },
+    {
+      "question": "Which of these is NOT one of the four suits in a Tarot deck?",
+      "choices": [
+        "Wands",
+        "Cups",
+        "Swords",
+        "Spears"
+      ],
+      "answer": "Spears"
+    },
+    {
+      "question": "What does the term 'Minor Arcana' refer to in Tarot?",
+      "choices": [
+        "The 22 trump cards",
+        "The 56 suit cards",
+        "The court cards only",
+        "The numbered cards only"
+      ],
+      "answer": "The 56 suit cards"
+    },
+    {
+      "question": "Which Major Arcana card is often associated with change and upheaval?",
+      "choices": [
+        "The Tower",
+        "The Hanged Man",
+        "The Chariot",
+        "The Wheel of Fortune"
+      ],
+      "answer": "The Tower"
+    },
+    {
+      "question": "What does the Death card in Tarot typically symbolize?",
+      "choices": [
+        "Physical death",
+        "Transformation and renewal",
+        "Bad luck",
+        "The end of the world"
+      ],
+      "answer": "Transformation and renewal"
+    },
+    {
+      "question": "Which Major Arcana card is associated with balance and justice?",
+      "choices": [
+        "The Emperor",
+        "The Hierophant",
+        "Justice",
+        "Temperance"
+      ],
+      "answer": "Justice"
+    },
+    {
+      "question": "What is the significance of reversing Tarot cards in a reading?",
+      "choices": [
+        "It negates the card's meaning",
+        "It intensifies the card's meaning",
+        "It can modify or oppose the card's upright meaning",
+        "It has no significance"
+      ],
+      "answer": "It can modify or oppose the card's upright meaning"
+    }
+  ]
+}
