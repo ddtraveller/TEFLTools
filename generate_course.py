@@ -9,6 +9,7 @@ import PyPDF2
 import tiktoken
 
 # Initialize the Anthropic client
+# export ANTHROPIC_API_KEY='your_api_key_here'
 client = anthropic.Anthropic()
 
 def clean_name(name):
@@ -58,10 +59,10 @@ def truncate_to_token_limit(text: str, max_tokens: int = 199999) -> str:
         return text
     return encoding.decode(tokens[:max_tokens])
 
-def generate_syllabus(project_info):
+def generate_syllabus(truncated_info):
     """Generate a syllabus based on the project information using Claude."""
     # Truncate project_info to fit within token limit
-    truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)  # Leave some room for the prompt
+    #truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)  # Leave some room for the prompt
 
     prompt = f"""Given the following project information:
 {truncated_info}
@@ -154,9 +155,11 @@ def extract_units(content):
     print(f"Found {len(units)} units")
     return [unit.strip() for unit in units]
 
-def generate_lesson_plan(unit, syllabus):
+def generate_lesson_plan(unit, syllabus, truncated_info):
     """Generate a lesson plan for a given learning unit using Claude."""
-    prompt = f"""Given the following learning unit from a syllabus:
+    prompt = f"""Given the following project information:
+{truncated_info}
+And given the following learning unit from a syllabus:
 {unit}
 
 And the complete syllabus for context:
@@ -272,15 +275,14 @@ def process_additional_resource(week_name, resource, syllabus, lesson_resources)
     time.sleep(2)  # Pause for 2 seconds after Anthropic call
     return message.content[0].text if message.content else ""
 
-def generate_reading(lesson_plan, syllabus, lesson_resources):
+def generate_reading(lesson_plan, syllabus, lesson_resources, truncated_info):
     """Generate a reading about the subject of the lesson plan using Claude."""
     topic = re.search(r'# Lesson Plan: (.*)', lesson_plan).group(1) if re.search(r'# Lesson Plan: (.*)', lesson_plan) else "Unknown Topic"
-    prompt = f"""Given the following lesson plan:
+    prompt = f"""Given this information: 
+{truncated_info}
+Given the following lesson plan:
 
 {lesson_plan}
-
-And the complete syllabus for context:
-{syllabus}
 
 And the lesson resources:
 {lesson_resources}
@@ -302,10 +304,12 @@ Please write a paper that covers the subject of this lesson plan. The paper shou
     time.sleep(2)  # Pause for 2 seconds after Anthropic call
     return message.content[0].text if message.content else ""
 
-def generate_quiz(module_content, context_files):
+def generate_quiz(module_content, context_files, truncated_info):
     """Generate a quiz JSON using Claude."""
     context = "\n\n".join([f"File: {file}\n\nContent:\n{content}" for file, content in context_files.items()])
     prompt = f"""Given the following module content and additional context files from a course:
+Project information:
+{truncated_info}
 
 Module Content:
 {module_content}
@@ -437,22 +441,30 @@ def main():
 
     syllabus_filename = f'{cleaned_course_name}.md'
     syllabus_path = f'{base_dir}/syllabus/{syllabus_filename}'
-
+    content_folder = 'content'
+    project_info = ""    
+    
     if os.path.exists(syllabus_path):
         print(f"Loading existing syllabus from {syllabus_path}")
         with open(syllabus_path, 'r', encoding='utf-8') as file:
             syllabus = file.read()
-    else:
-        content_folder = 'content'
-        project_info = ""
         for filename in os.listdir(content_folder):
             if filename.lower().endswith(('.pdf', '.txt', '.md')):
                 print(f"Reading: {filename}")
                 file_path = os.path.join(content_folder, filename)
                 project_info += read_file_content(file_path) + "\n\n"
                 print(f"Read content from: {file_path}")
-
-        syllabus = generate_syllabus(project_info)
+        truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)
+    else:
+        for filename in os.listdir(content_folder):
+            if filename.lower().endswith(('.pdf', '.txt', '.md')):
+                print(f"Reading: {filename}")
+                file_path = os.path.join(content_folder, filename)
+                project_info += read_file_content(file_path) + "\n\n"
+                print(f"Read content from: {file_path}")
+                
+        truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)
+        syllabus = generate_syllabus(truncated_info)
         write_to_file(syllabus, syllabus_path)
     
     print("Syllabus content:")
@@ -470,7 +482,8 @@ def main():
                 lesson_plan = file.read()
         else:
             try:
-                lesson_plan = generate_lesson_plan(unit, syllabus)
+                
+                lesson_plan = generate_lesson_plan(unit, syllabus, truncated_info)
                 write_to_file(lesson_plan, lesson_plan_path)
                 print(f"Generated and wrote lesson plan for Unit {i}")
             except Exception as e:
@@ -535,7 +548,7 @@ def main():
         reading_path = f"{base_dir}/readings/Unit_{i}_Reading.md"
         if not os.path.exists(reading_path):
             try:
-                reading = generate_reading(lesson_plan, syllabus, lesson_plans[i-1])
+                reading = generate_reading(lesson_plan, syllabus, lesson_plans[i-1], truncated_info)
                 write_to_file(reading, reading_path)
             except Exception as e:
                 print(f"Error generating reading for Unit {i}: {str(e)}")
@@ -550,7 +563,7 @@ def main():
                     f"{base_dir}/lesson_plans/Unit_{i}_Resources.md": open(f"{base_dir}/lesson_plans/Unit_{i}_Resources.md", 'r').read() if os.path.exists(f"{base_dir}/lesson_plans/Unit_{i}_Resources.md") else "No resources available",
                     f"{base_dir}/readings/Unit_{i}_Reading.md": open(f"{base_dir}/readings/Unit_{i}_Reading.md", 'r').read() if os.path.exists(f"{base_dir}/readings/Unit_{i}_Reading.md") else "No reading available"
                 }
-                quiz_json = generate_quiz(unit, context_files)
+                quiz_json = generate_quiz(unit, context_files, truncated_info)
                 if quiz_json:
                     write_to_file(quiz_json, quiz_path)
                     print(f"Successfully generated and wrote quiz for Unit {i}")

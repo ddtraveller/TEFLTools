@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Clean Cooking",
+  "questions": [
+    {
+      "question": "What percentage of the world's population is affected by traditional cooking methods?",
+      "choices": [
+        "About 25%",
+        "Nearly 50%",
+        "Around 75%",
+        "Less than 10%"
+      ],
+      "answer": "Nearly 50%"
+    },
+    {
+      "question": "Which of the following is NOT a common biomass fuel used in traditional cooking?",
+      "choices": [
+        "Wood",
+        "Charcoal",
+        "Agricultural waste",
+        "Natural gas"
+      ],
+      "answer": "Natural gas"
+    },
+    {
+      "question": "What is the primary health risk associated with indoor air pollution from traditional cooking methods?",
+      "choices": [
+        "Skin diseases",
+        "Respiratory diseases",
+        "Digestive disorders",
+        "Bone fractures"
+      ],
+      "answer": "Respiratory diseases"
+    },
+    {
+      "question": "According to the World Health Organization, how many premature deaths per year are attributed to household air pollution from cooking with solid fuels?",
+      "choices": [
+        "Around 1 million",
+        "Around 2 million",
+        "Around 3 million",
+        "Around 4 million"
+      ],
+      "answer": "Around 4 million"
+    },
+    {
+      "question": "Which group is disproportionately affected by the health risks of traditional cooking methods?",
+      "choices": [
+        "Men",
+        "Women and children",
+        "Elderly",
+        "Teenagers"
+      ],
+      "answer": "Women and children"
+    },
+    {
+      "question": "What is the primary environmental impact of relying on biomass fuels for cooking?",
+      "choices": [
+        "Water pollution",
+        "Soil erosion",
+        "Deforestation",
+        "Ozone depletion"
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question": "Which of the following is NOT a direct consequence of deforestation caused by biomass fuel use?",
+      "choices": [
+        "Loss of biodiversity",
+        "Soil erosion",
+        "Disruption of ecosystem balance",
+        "Increased agricultural productivity"
+      ],
+      "answer": "Increased agricultural productivity"
+    },
+    {
+      "question": "What is the primary greenhouse gas released during the incomplete combustion of biomass fuels?",
+      "choices": [
+        "Methane",
+        "Carbon dioxide",
+        "Nitrous oxide",
+        "Ozone"
+      ],
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which socioeconomic burden is often associated with traditional cooking methods in rural areas?",
+      "choices": [
+        "High electricity costs",
+        "Time spent collecting firewood",
+        "Expensive cooking equipment",
+        "Frequent kitchen renovations"
+      ],
+      "answer": "Time spent collecting firewood"
+    },
+    {
+      "question": "What is the main goal of improved cookstoves?",
+      "choices": [
+        "To increase fuel consumption",
+        "To burn biomass fuels more efficiently",
+        "To eliminate the use of all fuels",
+        "To increase cooking time"
+      ],
+      "answer": "To burn biomass fuels more efficiently"
+    },
+    {
+      "question": "Which feature of improved cookstoves helps reduce indoor air pollution?",
+      "choices": [
+        "Larger fuel chamber",
+        "Heavier construction materials",
+        "Chimney or smoke hood",
+        "Multiple burners"
+      ],
+      "answer": "Chimney or smoke hood"
+    },
+    {
+      "question": "What is the main advantage of LPG stoves over traditional biomass stoves?",
+      "choices": [
+        "Lower fuel cost",
+        "Easier fuel collection",
+        "Reduced indoor air pollution",
+        "Faster cooking times"
+      ],
+      "answer": "Reduced indoor air pollution"
+    },
+    {
+      "question": "What is the primary limitation of solar cookers?",
+      "choices": [
+        "High fuel costs",
+        "Dependence on weather conditions",
+        "Complex maintenance requirements",
+        "Large size and weight"
+      ],
+      "answer": "Dependence on weather conditions"
+    },
+    {
+      "question": "Which clean cooking solution produces no direct emissions in the household?",
+      "choices": [
+        "Improved biomass cookstoves",
+        "LPG stoves",
+        "Electric stoves",
+        "Charcoal stoves"
+      ],
+      "answer": "Electric stoves"
+    },
+    {
+      "question": "How can clean cooking technologies contribute to women's empowerment?",
+      "choices": [
+        "By increasing fuel costs",
+        "By requiring more time for cooking",
+        "By freeing up time for education and income-generating activities",
+        "By promoting traditional gender roles"
+      ],
+      "answer": "By freeing up time for education and income-generating activities"
+    },
+    {
+      "question": "Which of the following is NOT a potential economic benefit of clean cooking technologies?",
+      "choices": [
+        "Reduced fuel consumption",
+        "Cost savings for households",
+        "New job opportunities in technology production",
+        "Increased demand for traditional fuels"
+      ],
+      "answer": "Increased demand for traditional fuels"
+    },
+    {
+      "question": "What is the name of the traditional Timorese practice of setting rules to regulate the relationship between people and the environment?",
+      "choices": [
+        "Tara Bandu",
+        "Halo Liman",
+        "Uma Lulik",
+        "Lia Nain"
+      ],
+      "answer": "Tara Bandu"
+    },
+    {
+      "question": "Which of the following is NOT a common type of traditional stove in Timor-Leste?",
+      "choices": [
+        "Three-stone fires",
+        "Mud stoves",
+        "Metal charcoal stoves",
+        "Gas ovens"
+      ],
+      "answer": "Gas ovens"
+    },
+    {
+      "question": "What is particulate matter in the context of indoor air pollution?",
+      "choices": [
+        "A type of cooking fuel",
+        "A clean cooking technology",
+        "Tiny particles suspended in the air",
+        "A respiratory disease"
+      ],
+      "answer": "Tiny particles suspended in the air"
+    },
+    {
+      "question": "Which of the following is a characteristic of carbon monoxide?",
+      "choices": [
+        "It has a strong odor",
+        "It is visible as black smoke",
+        "It is colorless and odorless",
+        "It is heavier than air"
+      ],
+      "answer": "It is colorless and odorless"
+    },
+    {
+      "question": "What does COPD stand for in the context of health risks from indoor air pollution?",
+      "choices": [
+        "Centralized Oxygen Processing Device",
+        "Chronic Obstructive Pulmonary Disease",
+        "Controlled Output Particulate Dispersion",
+        "Carbon Oxide Pollution Detector"
+      ],
+      "answer": "Chronic Obstructive Pulmonary Disease"
+    },
+    {
+      "question": "Which of the following is an example of an ecosystem service that can be affected by deforestation?",
+      "choices": [
+        "Electricity generation",
+        "Water filtration",
+        "Road construction",
+        "Internet connectivity"
+      ],
+      "answer": "Water filtration"
+    },
+    {
+      "question": "What is the primary purpose of a chimney in an improved cookstove?",
+      "choices": [
+        "To increase fuel efficiency",
+        "To make the stove look taller",
+        "To direct smoke away from the cooking area",
+        "To store excess fuel"
+      ],
+      "answer": "To direct smoke away from the cooking area"
+    },
+    {
+      "question": "Which of the following is NOT a common barrier to the adoption of clean cooking technologies?",
+      "choices": [
+        "High initial costs",
+        "Cultural preferences",
+        "Lack of awareness",
+        "Abundance of cheap, clean fuels"
+      ],
+      "answer": "Abundance of cheap, clean fuels"
+    },
+    {
+      "question": "What is the primary advantage of electric stoves in terms of emissions?",
+      "choices": [
+        "They produce no emissions at all",
+        "They produce no direct emissions in the household",
+        "They only emit water vapor",
+        "They convert emissions into harmless gases"
+      ],
+      "answer": "They produce no direct emissions in the household"
+    },
+    {
+      "question": "Which of the following best describes the relationship between clean cooking and climate change?",
+      "choices": [
+        "Clean cooking has no impact on climate change",
+        "Clean cooking contributes to climate change",
+        "Clean cooking can help mitigate climate change",
+        "Climate change improves the efficiency of clean cooking"
+      ],
+      "answer": "Clean cooking can help mitigate climate change"
+    },
+    {
+      "question": "What is the main limitation of using agricultural waste as a cooking fuel?",
+      "choices": [
+        "It is too expensive",
+        "It is not widely available",
+        "It burns too quickly",
+        "It can lead to soil degradation if overused"
+      ],
+      "answer": "It can lead to soil degradation if overused"
+    },
+    {
+      "question": "Which of the following is a potential negative consequence of the widespread adoption of LPG stoves?",
+      "choices": [
+        "Increased indoor air pollution",
+        "Higher rates of deforestation",
+        "Dependence on fossil fuels",
+        "Reduced cooking efficiency"
+      ],
+      "answer": "Dependence on fossil fuels"
+    },
+    {
+      "question": "What role does gender play in the issue of traditional cooking methods?",
+      "choices": [
+        "Men are more affected by indoor air pollution",
+        "Women typically spend more time cooking and collecting fuel",
+        "Gender has no significant impact on cooking practices",
+        "Boys are more likely to suffer from respiratory diseases"
+      ],
+      "answer": "Women typically spend more time cooking and collecting fuel"
+    },
+    {
+      "question": "Which of the following is NOT a direct health benefit of adopting clean cooking technologies?",
+      "choices": [
+        "Reduced incidence of respiratory diseases",
+        "Fewer burns and injuries",
+        "Improved nutrition",
+        "Decreased eye irritation"
+      ],
+      "answer": "Improved nutrition"
+    }
+  ]
+}

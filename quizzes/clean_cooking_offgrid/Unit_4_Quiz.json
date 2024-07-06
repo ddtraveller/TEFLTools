@@ -1,0 +1,305 @@
+{
+  "title": "Alternative Fuel Sources in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary composition of LPG?",
+      "choices": [
+        "Methane and ethane",
+        "Propane and butane",
+        "Hydrogen and oxygen",
+        "Carbon dioxide and nitrogen"
+      ],
+      "answer": "Propane and butane"
+    },
+    {
+      "question": "Which of the following is NOT a challenge in implementing LPG in Timor-Leste?",
+      "choices": [
+        "High initial cost of stoves and cylinders",
+        "Development of a robust distribution network",
+        "Safety concerns",
+        "Lack of sunlight"
+      ],
+      "answer": "Lack of sunlight"
+    },
+    {
+      "question": "What is biogas primarily composed of?",
+      "choices": [
+        "Oxygen and nitrogen",
+        "Hydrogen and helium",
+        "Methane and carbon dioxide",
+        "Propane and butane"
+      ],
+      "answer": "Methane and carbon dioxide"
+    },
+    {
+      "question": "Which of the following is NOT a potential feedstock for biogas production in Timor-Leste?",
+      "choices": [
+        "Agricultural waste",
+        "Animal manure",
+        "Food scraps",
+        "Petroleum"
+      ],
+      "answer": "Petroleum"
+    },
+    {
+      "question": "What is the byproduct of biogas production that can be used as fertilizer?",
+      "choices": [
+        "Compost",
+        "Digestate",
+        "Sludge",
+        "Biomass"
+      ],
+      "answer": "Digestate"
+    },
+    {
+      "question": "Which type of solar cooker uses a curved reflective surface to focus intense heat on a small area?",
+      "choices": [
+        "Box cooker",
+        "Panel cooker",
+        "Parabolic cooker",
+        "Flat-plate collector"
+      ],
+      "answer": "Parabolic cooker"
+    },
+    {
+      "question": "What is a major advantage of solar cooking technologies?",
+      "choices": [
+        "They work well in cloudy weather",
+        "They have zero fuel costs after initial investment",
+        "They cook food faster than traditional methods",
+        "They are easy to use at night"
+      ],
+      "answer": "They have zero fuel costs after initial investment"
+    },
+    {
+      "question": "Which of the following is NOT a type of solar cooker mentioned in the text?",
+      "choices": [
+        "Box cooker",
+        "Panel cooker",
+        "Parabolic cooker",
+        "Microwave cooker"
+      ],
+      "answer": "Microwave cooker"
+    },
+    {
+      "question": "What is the process by which biogas is produced?",
+      "choices": [
+        "Photosynthesis",
+        "Combustion",
+        "Anaerobic digestion",
+        "Fermentation"
+      ],
+      "answer": "Anaerobic digestion"
+    },
+    {
+      "question": "Which alternative fuel source in Timor-Leste relies on abundant sunshine?",
+      "choices": [
+        "LPG",
+        "Biogas",
+        "Solar cooking",
+        "Nuclear energy"
+      ],
+      "answer": "Solar cooking"
+    },
+    {
+      "question": "What is a major challenge in implementing biogas systems in Timor-Leste?",
+      "choices": [
+        "Lack of organic waste",
+        "Excessive sunlight",
+        "Initial investment in infrastructure",
+        "Overabundance of LPG"
+      ],
+      "answer": "Initial investment in infrastructure"
+    },
+    {
+      "question": "Which alternative fuel source can potentially address waste management issues in Timor-Leste?",
+      "choices": [
+        "LPG",
+        "Biogas",
+        "Solar cooking",
+        "Wind energy"
+      ],
+      "answer": "Biogas"
+    },
+    {
+      "question": "What is a key benefit of LPG compared to traditional biomass fuels?",
+      "choices": [
+        "It's cheaper",
+        "It burns more slowly",
+        "It burns cleanly and efficiently",
+        "It's easier to collect"
+      ],
+      "answer": "It burns cleanly and efficiently"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a use for biogas?",
+      "choices": [
+        "Cooking",
+        "Lighting",
+        "Electricity generation",
+        "Transportation fuel"
+      ],
+      "answer": "Transportation fuel"
+    },
+    {
+      "question": "What is a potential environmental benefit of adopting alternative fuel sources in Timor-Leste?",
+      "choices": [
+        "Increased deforestation",
+        "Higher carbon emissions",
+        "Reduced indoor air pollution",
+        "Increased water consumption"
+      ],
+      "answer": "Reduced indoor air pollution"
+    },
+    {
+      "question": "Which alternative fuel source requires the development of a robust distribution network in Timor-Leste?",
+      "choices": [
+        "Biogas",
+        "Solar cooking",
+        "LPG",
+        "Wind energy"
+      ],
+      "answer": "LPG"
+    },
+    {
+      "question": "What is a limitation of solar cooking technologies?",
+      "choices": [
+        "High fuel costs",
+        "Dependence on sunny weather",
+        "Excessive heat generation",
+        "Need for constant maintenance"
+      ],
+      "answer": "Dependence on sunny weather"
+    },
+    {
+      "question": "Which sector of Timor-Leste's economy makes biogas production particularly promising?",
+      "choices": [
+        "Industrial",
+        "Service",
+        "Agricultural",
+        "Tourism"
+      ],
+      "answer": "Agricultural"
+    },
+    {
+      "question": "What is needed to ensure the successful adoption of biogas systems in Timor-Leste?",
+      "choices": [
+        "Increased use of fossil fuels",
+        "Reduction in agricultural activities",
+        "Education on benefits and maintenance",
+        "Banning of traditional cooking methods"
+      ],
+      "answer": "Education on benefits and maintenance"
+    },
+    {
+      "question": "Which type of solar cooker is described as an insulated container with a transparent lid?",
+      "choices": [
+        "Panel cooker",
+        "Parabolic cooker",
+        "Box cooker",
+        "Flat-plate collector"
+      ],
+      "answer": "Box cooker"
+    },
+    {
+      "question": "What is a potential social challenge in adopting alternative fuel sources in Timor-Leste?",
+      "choices": [
+        "Lack of sunlight",
+        "Shortage of agricultural waste",
+        "Cultural acceptance and changing cooking habits",
+        "Abundance of fossil fuels"
+      ],
+      "answer": "Cultural acceptance and changing cooking habits"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a use for LPG?",
+      "choices": [
+        "Cooking",
+        "Heating",
+        "Transportation",
+        "Lighting"
+      ],
+      "answer": "Transportation"
+    },
+    {
+      "question": "What is a key advantage of biogas production at the community level?",
+      "choices": [
+        "It requires less organic waste",
+        "It produces more methane",
+        "It addresses waste management issues",
+        "It's cheaper to implement"
+      ],
+      "answer": "It addresses waste management issues"
+    },
+    {
+      "question": "Which alternative fuel source could potentially boost agricultural productivity in Timor-Leste?",
+      "choices": [
+        "LPG",
+        "Solar cooking",
+        "Biogas",
+        "Wind energy"
+      ],
+      "answer": "Biogas"
+    },
+    {
+      "question": "What is a key factor in the successful implementation of alternative fuel sources in Timor-Leste?",
+      "choices": [
+        "Reliance on a single energy source",
+        "Ignoring cultural practices",
+        "Government support",
+        "Discouraging private sector involvement"
+      ],
+      "answer": "Government support"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of adopting alternative fuel sources in Timor-Leste?",
+      "choices": [
+        "Ensuring energy security",
+        "Reducing environmental impact",
+        "Improving quality of life",
+        "Increasing fossil fuel exports"
+      ],
+      "answer": "Increasing fossil fuel exports"
+    },
+    {
+      "question": "What is a potential economic benefit of widespread adoption of alternative fuel sources in Timor-Leste?",
+      "choices": [
+        "Increased dependence on fuel imports",
+        "Higher energy costs for households",
+        "Reduced energy expenditure for families",
+        "Decreased agricultural productivity"
+      ],
+      "answer": "Reduced energy expenditure for families"
+    },
+    {
+      "question": "Which alternative fuel source could potentially reduce the time spent collecting traditional fuels?",
+      "choices": [
+        "Biogas",
+        "LPG",
+        "Solar cooking",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is a key consideration for the safe use of LPG in households?",
+      "choices": [
+        "Storing cylinders in direct sunlight",
+        "Using open flames to check for leaks",
+        "Proper ventilation in cooking areas",
+        "Mixing LPG with other fuels"
+      ],
+      "answer": "Proper ventilation in cooking areas"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a necessary component for successful implementation of alternative fuel sources in Timor-Leste?",
+      "choices": [
+        "Investment in infrastructure",
+        "Public education",
+        "Technical training",
+        "Increased fossil fuel production"
+      ],
+      "answer": "Increased fossil fuel production"
+    }
+  ]
+}

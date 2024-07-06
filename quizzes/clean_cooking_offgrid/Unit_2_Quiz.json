@@ -1,0 +1,305 @@
+{
+  "title": "Clean Cooking Technologies for Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of households in Timor-Leste rely on solid fuels for cooking?",
+      "choices": [
+        "75%",
+        "85%",
+        "90%",
+        "95%"
+      ],
+      "answer": "95%"
+    },
+    {
+      "question": "Which of the following is NOT a main category of clean cooking solutions discussed for Timor-Leste?",
+      "choices": [
+        "Improved Biomass Stoves",
+        "LPG Stoves",
+        "Solar Cookers",
+        "Electric Induction Stoves"
+      ],
+      "answer": "Electric Induction Stoves"
+    },
+    {
+      "question": "What is the primary cooking fuel used in Timor-Leste?",
+      "choices": [
+        "LPG",
+        "Kerosene",
+        "Firewood",
+        "Charcoal"
+      ],
+      "answer": "Firewood"
+    },
+    {
+      "question": "What percentage of households in urban areas of Timor-Leste use LPG for cooking?",
+      "choices": [
+        "1%",
+        "4%",
+        "10%",
+        "15%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "Which type of improved biomass stove uses a two-stage combustion process for cleaner burning?",
+      "choices": [
+        "Rocket stove",
+        "Gasifier stove",
+        "Box cooker",
+        "Parabolic cooker"
+      ],
+      "answer": "Gasifier stove"
+    },
+    {
+      "question": "What is a key advantage of LPG stoves?",
+      "choices": [
+        "No fuel costs",
+        "Can be made with local materials",
+        "Uses existing biomass fuels",
+        "Very clean burning"
+      ],
+      "answer": "Very clean burning"
+    },
+    {
+      "question": "Which clean cooking technology is most dependent on weather conditions?",
+      "choices": [
+        "Improved biomass stoves",
+        "LPG stoves",
+        "Solar cookers",
+        "Rocket stoves"
+      ],
+      "answer": "Solar cookers"
+    },
+    {
+      "question": "What is a major limitation of solar cookers?",
+      "choices": [
+        "High fuel costs",
+        "Indoor air pollution",
+        "Dependence on fuel supply chain",
+        "Limited to daytime use"
+      ],
+      "answer": "Limited to daytime use"
+    },
+    {
+      "question": "Which clean cooking technology typically has the highest thermal efficiency?",
+      "choices": [
+        "Traditional 3-stone fire",
+        "Improved biomass stove",
+        "LPG stove",
+        "Solar cooker"
+      ],
+      "answer": "LPG stove"
+    },
+    {
+      "question": "What is the typical reduction in fuel consumption when using an improved biomass stove compared to traditional methods?",
+      "choices": [
+        "10-20%",
+        "30-60%",
+        "70-80%",
+        "90-100%"
+      ],
+      "answer": "30-60%"
+    },
+    {
+      "question": "Which type of solar cooker uses a curved reflective surface to concentrate sunlight?",
+      "choices": [
+        "Box cooker",
+        "Rocket stove",
+        "Parabolic cooker",
+        "Gasifier stove"
+      ],
+      "answer": "Parabolic cooker"
+    },
+    {
+      "question": "What is a key benefit of improved biomass stoves in rural areas of Timor-Leste?",
+      "choices": [
+        "No fuel costs",
+        "Can use existing fuel sources",
+        "Fastest cooking times",
+        "Zero emissions"
+      ],
+      "answer": "Can use existing fuel sources"
+    },
+    {
+      "question": "Which clean cooking technology might be most suitable for urban areas in Timor-Leste?",
+      "choices": [
+        "Improved biomass stoves",
+        "LPG stoves",
+        "Solar cookers",
+        "Traditional 3-stone fires"
+      ],
+      "answer": "LPG stoves"
+    },
+    {
+      "question": "What is a major challenge for widespread adoption of LPG stoves in rural Timor-Leste?",
+      "choices": [
+        "High indoor air pollution",
+        "Lack of sunlight",
+        "Dependence on fuel supply chain",
+        "Inability to cook traditional dishes"
+      ],
+      "answer": "Dependence on fuel supply chain"
+    },
+    {
+      "question": "Which country implemented a successful large-scale Kerosene-to-LPG Conversion Program?",
+      "choices": [
+        "Timor-Leste",
+        "Philippines",
+        "Indonesia",
+        "Malaysia"
+      ],
+      "answer": "Indonesia"
+    },
+    {
+      "question": "What was a key outcome of the Improved Cookstoves Project in the Philippines?",
+      "choices": [
+        "Complete elimination of biomass use",
+        "Creation of local jobs",
+        "Transition to solar cooking",
+        "Increased use of kerosene"
+      ],
+      "answer": "Creation of local jobs"
+    },
+    {
+      "question": "Which factor is NOT typically considered when assessing the suitability of clean cooking technologies for a community?",
+      "choices": [
+        "Local fuel availability",
+        "Cultural cooking practices",
+        "Economic considerations",
+        "Political affiliations"
+      ],
+      "answer": "Political affiliations"
+    },
+    {
+      "question": "What is the primary health risk associated with traditional cooking methods in Timor-Leste?",
+      "choices": [
+        "Burns",
+        "Indoor air pollution",
+        "Foodborne illnesses",
+        "Dehydration"
+      ],
+      "answer": "Indoor air pollution"
+    },
+    {
+      "question": "Which group is typically most affected by the health impacts of traditional cooking methods?",
+      "choices": [
+        "Adult men",
+        "Teenage boys",
+        "Women and children",
+        "Elderly men"
+      ],
+      "answer": "Women and children"
+    },
+    {
+      "question": "What is a potential environmental benefit of widespread adoption of clean cooking technologies in Timor-Leste?",
+      "choices": [
+        "Increased biodiversity",
+        "Improved soil quality",
+        "Reduced deforestation",
+        "Higher rainfall"
+      ],
+      "answer": "Reduced deforestation"
+    },
+    {
+      "question": "Which clean cooking technology requires the least change in cooking behavior from traditional methods?",
+      "choices": [
+        "Solar cookers",
+        "LPG stoves",
+        "Improved biomass stoves",
+        "Electric induction stoves"
+      ],
+      "answer": "Improved biomass stoves"
+    },
+    {
+      "question": "What is the approximate thermal efficiency of a traditional 3-stone fire?",
+      "choices": [
+        "5-10%",
+        "10-15%",
+        "20-25%",
+        "30-35%"
+      ],
+      "answer": "10-15%"
+    },
+    {
+      "question": "Which clean cooking technology has the potential for the lowest fuel consumption in kg/hour?",
+      "choices": [
+        "Traditional 3-stone fire",
+        "Improved biomass stove",
+        "LPG stove",
+        "Solar cooker"
+      ],
+      "answer": "Solar cooker"
+    },
+    {
+      "question": "What is a key consideration for implementing solar cookers in mountain villages of Timor-Leste?",
+      "choices": [
+        "Lack of biomass resources",
+        "High population density",
+        "Potential cloud cover and limited sun exposure",
+        "Abundance of LPG supply"
+      ],
+      "answer": "Potential cloud cover and limited sun exposure"
+    },
+    {
+      "question": "Which of the following is NOT a typical function of traditional cooking fires in Timor-Leste communities?",
+      "choices": [
+        "Cooking food",
+        "Social gathering point",
+        "Space heating",
+        "Electricity generation"
+      ],
+      "answer": "Electricity generation"
+    },
+    {
+      "question": "What is a potential economic benefit of adopting clean cooking technologies for households in Timor-Leste?",
+      "choices": [
+        "Increased fuel costs",
+        "Higher initial investment",
+        "Reduced time spent collecting fuel",
+        "More time required for cooking"
+      ],
+      "answer": "Reduced time spent collecting fuel"
+    },
+    {
+      "question": "Which type of improved biomass stove features an L-shaped combustion chamber?",
+      "choices": [
+        "Gasifier stove",
+        "Rocket stove",
+        "Box cooker",
+        "Parabolic cooker"
+      ],
+      "answer": "Rocket stove"
+    },
+    {
+      "question": "What is the primary challenge in promoting LPG stoves to low-income households in Timor-Leste?",
+      "choices": [
+        "Lack of cooking skills",
+        "Cultural resistance",
+        "High upfront and ongoing fuel costs",
+        "Insufficient heat output"
+      ],
+      "answer": "High upfront and ongoing fuel costs"
+    },
+    {
+      "question": "Which factor is most likely to influence the choice between improved biomass stoves and LPG stoves in rural areas?",
+      "choices": [
+        "Cooking speed",
+        "Fuel availability",
+        "Stove color",
+        "Brand reputation"
+      ],
+      "answer": "Fuel availability"
+    },
+    {
+      "question": "What role do women typically play in the adoption of new cooking technologies in Timor-Leste?",
+      "choices": [
+        "Primary decision-makers",
+        "No involvement",
+        "Only financial contributors",
+        "Solely responsible for maintenance"
+      ],
+      "answer": "Primary decision-makers"
+    }
+  ]
+}

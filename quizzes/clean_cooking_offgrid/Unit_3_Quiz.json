@@ -1,0 +1,305 @@
+{
+  "title": "Improved Biomass Cookstoves",
+  "questions": [
+    {
+      "question": "What is the primary advantage of rocket stoves?",
+      "choices": [
+        "They use electricity",
+        "They have an L-shaped combustion chamber for efficient burning",
+        "They are made entirely of metal",
+        "They require specialized fuel"
+      ],
+      "answer": "They have an L-shaped combustion chamber for efficient burning"
+    },
+    {
+      "question": "Which type of improved cookstove converts solid biomass into a combustible gas before burning?",
+      "choices": [
+        "Rocket stove",
+        "Plancha stove",
+        "Gasifier stove",
+        "Traditional stove"
+      ],
+      "answer": "Gasifier stove"
+    },
+    {
+      "question": "What is a key feature of plancha stoves?",
+      "choices": [
+        "They use electricity",
+        "They have a large flat cooking surface",
+        "They are portable",
+        "They require specialized fuel"
+      ],
+      "answer": "They have a large flat cooking surface"
+    },
+    {
+      "question": "Which of the following is NOT a principle of efficient combustion in improved cookstoves?",
+      "choices": [
+        "Complete fuel burning",
+        "Effective heat transfer",
+        "Insulation",
+        "Fuel pre-heating"
+      ],
+      "answer": "Fuel pre-heating"
+    },
+    {
+      "question": "What is the purpose of insulation in improved cookstoves?",
+      "choices": [
+        "To make the stove lighter",
+        "To retain heat within the stove body",
+        "To make the stove more attractive",
+        "To increase fuel consumption"
+      ],
+      "answer": "To retain heat within the stove body"
+    },
+    {
+      "question": "Which material is often used for the combustion chamber liner due to its heat-resistant properties?",
+      "choices": [
+        "Plastic",
+        "Wood",
+        "Clay",
+        "Aluminum foil"
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question": "What is a common use for sheet metal in improved cookstove construction?",
+      "choices": [
+        "As insulation",
+        "For the outer body of the stove",
+        "As a fuel source",
+        "For the cooking grate"
+      ],
+      "answer": "For the outer body of the stove"
+    },
+    {
+      "question": "What type of bricks are used to insulate improved cookstoves?",
+      "choices": [
+        "Regular clay bricks",
+        "Concrete blocks",
+        "Insulative bricks made from materials like vermiculite",
+        "Plastic bricks"
+      ],
+      "answer": "Insulative bricks made from materials like vermiculite"
+    },
+    {
+      "question": "What is an essential maintenance task for improved cookstoves?",
+      "choices": [
+        "Painting the stove regularly",
+        "Removing ash and soot from the combustion chamber",
+        "Replacing the entire stove annually",
+        "Adding more fuel to increase efficiency"
+      ],
+      "answer": "Removing ash and soot from the combustion chamber"
+    },
+    {
+      "question": "What can cause excessive smoke production in an improved cookstove?",
+      "choices": [
+        "Using dry fuel",
+        "Good air flow",
+        "Regular cleaning",
+        "Wet fuel or poor air flow"
+      ],
+      "answer": "Wet fuel or poor air flow"
+    },
+    {
+      "question": "By what percentage can many improved stoves reduce fuel use?",
+      "choices": [
+        "5-10%",
+        "15-20%",
+        "30-60%",
+        "80-90%"
+      ],
+      "answer": "30-60%"
+    },
+    {
+      "question": "What is a key environmental benefit of improved cookstoves?",
+      "choices": [
+        "Increased deforestation",
+        "Higher carbon emissions",
+        "Reduced pressure on local forests",
+        "Increased fuel consumption"
+      ],
+      "answer": "Reduced pressure on local forests"
+    },
+    {
+      "question": "How do improved cookstoves impact indoor air quality?",
+      "choices": [
+        "They have no effect",
+        "They significantly improve it",
+        "They slightly worsen it",
+        "They make it much worse"
+      ],
+      "answer": "They significantly improve it"
+    },
+    {
+      "question": "What is a social benefit of reduced fuel collection time?",
+      "choices": [
+        "Increased deforestation",
+        "Less time for education",
+        "More time for women and girls for education and income generation",
+        "Higher fuel costs"
+      ],
+      "answer": "More time for women and girls for education and income generation"
+    },
+    {
+      "question": "Which of the following is NOT a common type of improved biomass cookstove?",
+      "choices": [
+        "Rocket stove",
+        "Gasifier stove",
+        "Plancha stove",
+        "Microwave stove"
+      ],
+      "answer": "Microwave stove"
+    },
+    {
+      "question": "What is the primary purpose of the L-shaped combustion chamber in rocket stoves?",
+      "choices": [
+        "To look aesthetically pleasing",
+        "To increase fuel consumption",
+        "To promote efficient burning and direct heat to the cooking pot",
+        "To make the stove more portable"
+      ],
+      "answer": "To promote efficient burning and direct heat to the cooking pot"
+    },
+    {
+      "question": "In gasifier stoves, what happens during the first stage of the two-stage process?",
+      "choices": [
+        "The food is cooked",
+        "Solid biomass is converted into a combustible gas",
+        "The gas is burned",
+        "The stove is cooled down"
+      ],
+      "answer": "Solid biomass is converted into a combustible gas"
+    },
+    {
+      "question": "What is a key feature of plancha stoves that helps reduce indoor air pollution?",
+      "choices": [
+        "They use electricity",
+        "They have a built-in fan",
+        "They have a chimney to vent smoke outside",
+        "They only burn liquid fuels"
+      ],
+      "answer": "They have a chimney to vent smoke outside"
+    },
+    {
+      "question": "What is the purpose of maintaining high temperatures in the combustion chamber?",
+      "choices": [
+        "To cook food faster",
+        "To achieve more complete fuel burning",
+        "To make the stove last longer",
+        "To increase smoke production"
+      ],
+      "answer": "To achieve more complete fuel burning"
+    },
+    {
+      "question": "How does effective heat transfer in improved cookstoves typically occur?",
+      "choices": [
+        "By increasing the distance between the flame and the pot",
+        "By using electric heating elements",
+        "By carefully shaping the combustion chamber and minimizing distance between flame and pot",
+        "By using larger pots"
+      ],
+      "answer": "By carefully shaping the combustion chamber and minimizing distance between flame and pot"
+    },
+    {
+      "question": "Why is clay often used in the construction of improved cookstoves?",
+      "choices": [
+        "It's cheap and readily available",
+        "It has heat-resistant properties and can be molded into specific shapes",
+        "It's lightweight and easy to transport",
+        "It conducts heat better than any other material"
+      ],
+      "answer": "It has heat-resistant properties and can be molded into specific shapes"
+    },
+    {
+      "question": "What is a potential drawback of using clay in cookstove construction?",
+      "choices": [
+        "It's too expensive",
+        "It may crack if not properly cured or maintained",
+        "It's not heat-resistant",
+        "It's too heavy to use in stoves"
+      ],
+      "answer": "It may crack if not properly cured or maintained"
+    },
+    {
+      "question": "Why might metal be used in cookstove construction?",
+      "choices": [
+        "It's a good insulator",
+        "It's biodegradable",
+        "It's good for precise manufacturing and conducts heat quickly",
+        "It's resistant to high temperatures"
+      ],
+      "answer": "It's good for precise manufacturing and conducts heat quickly"
+    },
+    {
+      "question": "What is a common issue with metal in cookstove construction?",
+      "choices": [
+        "It's too fragile",
+        "It may need insulation to prevent heat loss",
+        "It's too expensive",
+        "It can't withstand high temperatures"
+      ],
+      "answer": "It may need insulation to prevent heat loss"
+    },
+    {
+      "question": "What is a key benefit of using insulative bricks in cookstove construction?",
+      "choices": [
+        "They are very cheap",
+        "They conduct heat well",
+        "They can withstand high temperatures and provide excellent insulation",
+        "They are easy to shape and mold"
+      ],
+      "answer": "They can withstand high temperatures and provide excellent insulation"
+    },
+    {
+      "question": "What is a common troubleshooting step for a stove producing low heat output?",
+      "choices": [
+        "Add more fuel",
+        "Reduce air intake",
+        "Check for air leaks in the stove body",
+        "Increase the distance between the flame and the pot"
+      ],
+      "answer": "Check for air leaks in the stove body"
+    },
+    {
+      "question": "How can cracking in clay or ceramic stoves be prevented?",
+      "choices": [
+        "By using the stove at maximum heat at all times",
+        "By avoiding rapid temperature changes and allowing proper curing time",
+        "By using metal reinforcements",
+        "By applying a coat of paint"
+      ],
+      "answer": "By avoiding rapid temperature changes and allowing proper curing time"
+    },
+    {
+      "question": "What is a key environmental impact of widespread adoption of improved cookstoves?",
+      "choices": [
+        "Increased greenhouse gas emissions",
+        "Higher rates of deforestation",
+        "Mitigation of climate change impacts associated with traditional biomass burning",
+        "Reduced biodiversity"
+      ],
+      "answer": "Mitigation of climate change impacts associated with traditional biomass burning"
+    },
+    {
+      "question": "Which of the following is NOT typically a benefit of improved cookstoves?",
+      "choices": [
+        "Reduced fuel consumption",
+        "Decreased emissions",
+        "Time savings",
+        "Increased cooking temperatures"
+      ],
+      "answer": "Increased cooking temperatures"
+    },
+    {
+      "question": "What makes improved cookstoves particularly suitable for developing regions?",
+      "choices": [
+        "They require electricity to operate",
+        "They use expensive, imported materials",
+        "They can be constructed using locally available materials",
+        "They need specialized maintenance from trained technicians"
+      ],
+      "answer": "They can be constructed using locally available materials"
+    }
+  ]
+}
