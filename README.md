@@ -62,7 +62,7 @@ All content is localized/regionalized for Timor-Leste. / Konteúdu hotu-hotu lok
 13. **Introduction to Drawing for Timor-Leste / Introdusaun ba Drawing ba Timor-Leste**
 14. **Introduction to Weaving Technology / Introdusaun ba Teknolojia Weaving**
 15. **Saline Agriculture for Timor-Leste / Salina Agrikultura ba Timor-Leste**
-16. **Permagarden Design and Implementation for Food Security in Timor-Leste**
+16. **Permagarden Design and Implementation for Food Security in Timor-Leste/Dezenvolvimentu no Implementasaun permajardín ba Seguransa Ai-han iha Timor-Leste.**
 17. **Introduction to Python Programming for Timor-Leste / Introdusaun ba Programa Python ba Timor-Leste**
 18. **Introduction to Game Programming with Python / Introdusaun ba Programa Jogu ho Python**
 19. **Constitutional Law in Timor-Leste / Lei Konstitusional iha Timor-Leste (Atu fó onra ba Laloran Justisa)**
