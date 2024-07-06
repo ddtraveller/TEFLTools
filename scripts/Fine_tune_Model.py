@@ -1,11 +1,31 @@
 import json
 import torch
+import warnings
+import os
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer
 from datasets import Dataset
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 
+# Suppress warnings
+warnings.filterwarnings("ignore", category=UserWarning)
+
+# Disable TensorFlow warnings
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
 # Set your Hugging Face access token here
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = 'your_huggingface_access_token_here'
+
+# CUDA setup
+print(f"CUDA available: {torch.cuda.is_available()}")
+print(f"CUDA version: {torch.version.cuda}")
+print(f"Number of GPUs: {torch.cuda.device_count()}")
+
+if torch.cuda.is_available():
+    device = torch.device("cuda")
+    print(f"Using GPU: {torch.cuda.get_device_name(0)}")
+else:
+    device = torch.device("cpu")
+    print("CUDA is not available. Using CPU.")
 
 def load_dataset(file_path):
     with open(file_path, 'r') as f:
@@ -32,11 +52,13 @@ def main():
     # Load pre-trained model and tokenizer with authentication
     model_name = "google/gemma-7b-it"
     tokenizer = AutoTokenizer.from_pretrained(model_name, token=ACCESS_TOKEN)
-    model = AutoModelForCausalLM.from_pretrained(model_name, 
-                                                 token=ACCESS_TOKEN,
-                                                 device_map="auto", 
-                                                 torch_dtype=torch.bfloat16,
-                                                 use_cache=False)
+    model = AutoModelForCausalLM.from_pretrained(
+        model_name, 
+        token=ACCESS_TOKEN,
+        device_map="auto",
+        torch_dtype=torch.float32 if device.type == "cpu" else torch.bfloat16,
+        use_cache=False,
+    )
 
     # Prepare the model for k-bit training
     model = prepare_model_for_kbit_training(model)
@@ -63,10 +85,14 @@ def main():
         gradient_accumulation_steps=4,
         num_train_epochs=3,
         learning_rate=2e-5,
-        bf16=True,  # Use bfloat16 precision
+        fp16=False,
+        bf16=False,
         save_steps=100,
         logging_steps=10,
         save_total_limit=2,
+        dataloader_num_workers=1,  # Reduced for CPU
+        gradient_checkpointing=True,
+        optim="adamw_torch",  # Use AdamW optimizer which works well on CPU
     )
 
     # Create Trainer instance

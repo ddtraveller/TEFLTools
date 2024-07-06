@@ -1,5 +1,3 @@
-Here is a draft scholarly article analyzing the key findings from the report "Bride-Price and Domestic Violence in Timor-Leste":
-
 Title: The Impact of Bride-Price Traditions on Domestic Violence Against Women in Timor-Leste
 
 Abstract:

@@ -75,15 +75,10 @@ The repository is organized into several main directories:
 
 - **[Readings/](Readings/)**: Contains reading materials on the Key Courses and Timor-Leste specific cultural content/Kontein materiál lee kona-ba Kursu Prinsipal no konteúdu kulturál espesífiku Timor-Leste nian.
 - **[lesson_plans/](lesson_plans/)**: Structured lesson plans and support material for the Key Courses/Planu lisaun estruturadu no materiál apoiu ba Kursu Prinsipal sira.
-- 
 - **[activities/](activities/)**: Hands-on activities to complement the lessons for each Key Course/Atividade hands-on atu komplementa lisaun sira ba kada Kursu Prinsipal.
-- 
 - **[quizzes/](quizzes/)**: Multiple choice quizzes in JSON format for each Key Course/Kestionáriu opsaun oin-oin iha formatu JSON ba kada Kursu Prinsipal.
-- 
 - **[games/](games/)**: Interactive educational games/Jogu edukasaun interativu.
-- 
 - **[scripts/](scripts/)**: Utility scripts for various purposes/Eskritura utilidade ba objetivu oioin.
-- 
 - **[syllabus/](syllabus/)**: Detailed course syllabi for the Key Courses/Kursu detalladu ba Kursu Prinsipal sira.
 
 Additional Resources:
