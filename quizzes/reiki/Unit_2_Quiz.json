@@ -1,0 +1,305 @@
+{
+  "title": "The Human Energy System",
+  "questions": [
+    {
+      "question": "What is the Japanese term for life force energy?",
+      "choices": [
+        "Chi",
+        "Ki",
+        "Prana",
+        "Mana"
+      ],
+      "answer": "Ki"
+    },
+    {
+      "question": "How many main chakras are typically recognized in the human energy system?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Which chakra is associated with personal power and confidence?",
+      "choices": [
+        "Root Chakra",
+        "Sacral Chakra",
+        "Solar Plexus Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Solar Plexus Chakra"
+    },
+    {
+      "question": "What is the Sanskrit name for the Root Chakra?",
+      "choices": [
+        "Svadhisthana",
+        "Manipura",
+        "Muladhara",
+        "Anahata"
+      ],
+      "answer": "Muladhara"
+    },
+    {
+      "question": "Which chakra is associated with communication and self-expression?",
+      "choices": [
+        "Third Eye Chakra",
+        "Throat Chakra",
+        "Crown Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Throat Chakra"
+    },
+    {
+      "question": "What is the energy field surrounding the physical body called?",
+      "choices": [
+        "Chakra",
+        "Meridian",
+        "Aura",
+        "Nadi"
+      ],
+      "answer": "Aura"
+    },
+    {
+      "question": "Which chakra is located at the top of the head?",
+      "choices": [
+        "Third Eye Chakra",
+        "Crown Chakra",
+        "Throat Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Crown Chakra"
+    },
+    {
+      "question": "What color is associated with the Heart Chakra?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "answer": "Green"
+    },
+    {
+      "question": "Which energy healing technique originated in Japan?",
+      "choices": [
+        "Acupuncture",
+        "Qigong",
+        "Reiki",
+        "Ayurveda"
+      ],
+      "answer": "Reiki"
+    },
+    {
+      "question": "What is the Sanskrit name for the Third Eye Chakra?",
+      "choices": [
+        "Vishuddha",
+        "Ajna",
+        "Sahasrara",
+        "Anahata"
+      ],
+      "answer": "Ajna"
+    },
+    {
+      "question": "Which chakra is associated with creativity and sexuality?",
+      "choices": [
+        "Root Chakra",
+        "Sacral Chakra",
+        "Solar Plexus Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Sacral Chakra"
+    },
+    {
+      "question": "What is the traditional Chinese medicine term for life force energy?",
+      "choices": [
+        "Ki",
+        "Prana",
+        "Chi",
+        "Mana"
+      ],
+      "answer": "Chi"
+    },
+    {
+      "question": "Which chakra is associated with intuition and spiritual insight?",
+      "choices": [
+        "Crown Chakra",
+        "Third Eye Chakra",
+        "Throat Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Third Eye Chakra"
+    },
+    {
+      "question": "What shape is the aura often described as?",
+      "choices": [
+        "Spherical",
+        "Cubic",
+        "Pyramidal",
+        "Egg-shaped"
+      ],
+      "answer": "Egg-shaped"
+    },
+    {
+      "question": "Which practice involves focusing on chakras or visualizing energy flow?",
+      "choices": [
+        "Acupuncture",
+        "Meditation",
+        "Massage therapy",
+        "Chiropractic"
+      ],
+      "answer": "Meditation"
+    },
+    {
+      "question": "What is the Sanskrit name for the Throat Chakra?",
+      "choices": [
+        "Anahata",
+        "Manipura",
+        "Vishuddha",
+        "Svadhisthana"
+      ],
+      "answer": "Vishuddha"
+    },
+    {
+      "question": "Which chakra is associated with grounding and stability?",
+      "choices": [
+        "Root Chakra",
+        "Sacral Chakra",
+        "Solar Plexus Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Root Chakra"
+    },
+    {
+      "question": "What is believed to happen when chakras are open and balanced?",
+      "choices": [
+        "Energy becomes stagnant",
+        "Physical ailments increase",
+        "Energy flows freely through the body",
+        "Emotional instability occurs"
+      ],
+      "answer": "Energy flows freely through the body"
+    },
+    {
+      "question": "Which of the following is NOT a main chakra?",
+      "choices": [
+        "Crown Chakra",
+        "Heart Chakra",
+        "Knee Chakra",
+        "Throat Chakra"
+      ],
+      "answer": "Knee Chakra"
+    },
+    {
+      "question": "What color is associated with the Root Chakra?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "answer": "Red"
+    },
+    {
+      "question": "Which energy system concept is similar to meridians in acupuncture?",
+      "choices": [
+        "Chakras",
+        "Aura",
+        "Nadis",
+        "Biofield"
+      ],
+      "answer": "Nadis"
+    },
+    {
+      "question": "What is the Sanskrit name for the Crown Chakra?",
+      "choices": [
+        "Ajna",
+        "Vishuddha",
+        "Sahasrara",
+        "Muladhara"
+      ],
+      "answer": "Sahasrara"
+    },
+    {
+      "question": "Which chakra is associated with love and compassion?",
+      "choices": [
+        "Root Chakra",
+        "Sacral Chakra",
+        "Solar Plexus Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Heart Chakra"
+    },
+    {
+      "question": "What is believed to contribute to physical, emotional, and spiritual ailments?",
+      "choices": [
+        "Balanced energy flow",
+        "Open chakras",
+        "Blockages or imbalances in energy flow",
+        "Strong aura"
+      ],
+      "answer": "Blockages or imbalances in energy flow"
+    },
+    {
+      "question": "Which practice is designed to stimulate and balance specific chakras and energy pathways?",
+      "choices": [
+        "Weight lifting",
+        "Yoga",
+        "Cardio exercises",
+        "Swimming"
+      ],
+      "answer": "Yoga"
+    },
+    {
+      "question": "What does the aura reflect, according to energy system beliefs?",
+      "choices": [
+        "Only physical state",
+        "Only emotional state",
+        "Only spiritual state",
+        "Physical, emotional, and spiritual state"
+      ],
+      "answer": "Physical, emotional, and spiritual state"
+    },
+    {
+      "question": "Which chakra is associated with spiritual connection and enlightenment?",
+      "choices": [
+        "Third Eye Chakra",
+        "Crown Chakra",
+        "Throat Chakra",
+        "Heart Chakra"
+      ],
+      "answer": "Crown Chakra"
+    },
+    {
+      "question": "What is the study of biofields and energy systems called?",
+      "choices": [
+        "Quantum physics",
+        "Neuroscience",
+        "Biofield science",
+        "Parapsychology"
+      ],
+      "answer": "Biofield science"
+    },
+    {
+      "question": "Which of the following is NOT a common way to work with the energy system?",
+      "choices": [
+        "Reiki",
+        "Acupuncture",
+        "Surgery",
+        "Qigong"
+      ],
+      "answer": "Surgery"
+    },
+    {
+      "question": "What is the primary goal of working with the human energy system?",
+      "choices": [
+        "To replace modern medicine",
+        "To promote overall health and well-being",
+        "To develop psychic abilities",
+        "To disprove scientific theories"
+      ],
+      "answer": "To promote overall health and well-being"
+    }
+  ]
+}
