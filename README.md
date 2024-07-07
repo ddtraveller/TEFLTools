@@ -69,8 +69,12 @@ All content is localized/regionalized for Timor-Leste. / Konteúdu hotu-hotu lok
 20. **Clean Cooking Offgrid/Hamoos cooking Offgrid.**
 21. **Quick Guide to Teaching English/Matadalan lalais atu hanorin Ingles**
 22. **Python and Google/Python no Google**
+23. **Playwriting/Dramaturgia**
+Plus more/Liu tan.
 
-For detailed descriptions of each course in both English and Tetun, please refer to the original document.
+For detailed descriptions of each course in both English and Tetun, please refer to the course syllabus.
+
+Atu hetan deskrisaun detalladu kona-ba kursu ida-idak iha lian Ingles no Tetun, favór refere ba kursu ne'e.
 
 ## Repository Structure
 

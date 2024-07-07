@@ -1,0 +1,305 @@
+{
+  "title": "Final Project Development in Playwriting",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a staged reading in playwriting?",
+      "choices": [
+        "To entertain an audience",
+        "To hear the play performed and gather feedback",
+        "To finalize casting decisions",
+        "To determine ticket prices"
+      ],
+      "answer": "To hear the play performed and gather feedback"
+    },
+    {
+      "question": "Which of the following is NOT a common revision strategy for playwrights?",
+      "choices": [
+        "Reading dialogue aloud",
+        "Focusing on character objectives",
+        "Trimming unnecessary elements",
+        "Adding more characters to every scene"
+      ],
+      "answer": "Adding more characters to every scene"
+    },
+    {
+      "question": "What is the recommended font for standard script formatting?",
+      "choices": [
+        "Arial",
+        "Times New Roman",
+        "Courier",
+        "Helvetica"
+      ],
+      "answer": "Courier"
+    },
+    {
+      "question": "How should character names be formatted in dialogue and stage directions?",
+      "choices": [
+        "In italics",
+        "In bold",
+        "In all caps",
+        "In lowercase"
+      ],
+      "answer": "In all caps"
+    },
+    {
+      "question": "What is the primary focus when writing stage directions?",
+      "choices": [
+        "Describing characters' emotions in detail",
+        "Providing extensive background information",
+        "Focusing on essential actions for understanding the story",
+        "Giving specific instructions for actors' performances"
+      ],
+      "answer": "Focusing on essential actions for understanding the story"
+    },
+    {
+      "question": "In the context of plays set in Timor-Leste, what is crucial for playwrights to ensure?",
+      "choices": [
+        "Use of English language only",
+        "Incorporation of Western theatrical traditions",
+        "Cultural authenticity in representation",
+        "Avoidance of local customs and traditions"
+      ],
+      "answer": "Cultural authenticity in representation"
+    },
+    {
+      "question": "What is the recommended length for a one-act play in the final project?",
+      "choices": [
+        "5-10 pages",
+        "15-30 pages",
+        "40-50 pages",
+        "60-80 pages"
+      ],
+      "answer": "15-30 pages"
+    },
+    {
+      "question": "How many characters are typically recommended for a one-act play in this course?",
+      "choices": [
+        "1-2",
+        "2-5",
+        "6-8",
+        "10 or more"
+      ],
+      "answer": "2-5"
+    },
+    {
+      "question": "What is the primary language requirement for the final project play?",
+      "choices": [
+        "Entirely in Tetum",
+        "Entirely in Portuguese",
+        "Primarily in English with some Tetum and/or Portuguese",
+        "Any language of the playwright's choice"
+      ],
+      "answer": "Primarily in English with some Tetum and/or Portuguese"
+    },
+    {
+      "question": "Which of the following is NOT a required submission component for the final project?",
+      "choices": [
+        "Final draft of the one-act play",
+        "One-page reflection on the writing process",
+        "Character breakdown sheet",
+        "Full costume designs for all characters"
+      ],
+      "answer": "Full costume designs for all characters"
+    },
+    {
+      "question": "What is the purpose of reading dialogue aloud during the revision process?",
+      "choices": [
+        "To memorize the lines",
+        "To check for spelling errors",
+        "To identify awkward phrasing and improve flow",
+        "To determine the play's genre"
+      ],
+      "answer": "To identify awkward phrasing and improve flow"
+    },
+    {
+      "question": "When revising character development, what should playwrights focus on?",
+      "choices": [
+        "Making all characters likable",
+        "Ensuring clear goals and motivations for each character",
+        "Reducing the number of characters",
+        "Making characters more similar to each other"
+      ],
+      "answer": "Ensuring clear goals and motivations for each character"
+    },
+    {
+      "question": "What is the recommended approach for incorporating Timorese cultural elements in the play?",
+      "choices": [
+        "Avoid them entirely to appeal to a global audience",
+        "Use stereotypes for easy recognition",
+        "Include at least one specific Timorese cultural practice or tradition",
+        "Only use elements from pre-colonial Timor-Leste"
+      ],
+      "answer": "Include at least one specific Timorese cultural practice or tradition"
+    },
+    {
+      "question": "How should playwrights approach the use of stage directions?",
+      "choices": [
+        "Include as many details as possible",
+        "Avoid them entirely",
+        "Use them sparingly, focusing on essential actions",
+        "Write them in poetic language"
+      ],
+      "answer": "Use them sparingly, focusing on essential actions"
+    },
+    {
+      "question": "What is the purpose of a character breakdown sheet?",
+      "choices": [
+        "To list all the character's lines",
+        "To provide brief descriptions and motivations for each character",
+        "To determine the order in which characters appear",
+        "To assign actors to roles"
+      ],
+      "answer": "To provide brief descriptions and motivations for each character"
+    },
+    {
+      "question": "In preparing for a staged reading, what should playwrights focus on selecting?",
+      "choices": [
+        "The longest scenes",
+        "Only comedic moments",
+        "Key excerpts that showcase the play's strengths and central conflicts",
+        "Scenes with the most characters"
+      ],
+      "answer": "Key excerpts that showcase the play's strengths and central conflicts"
+    },
+    {
+      "question": "What is the recommended approach for handling multiple languages in the play?",
+      "choices": [
+        "Use only one language throughout",
+        "Provide translations for all non-English lines",
+        "Leave all non-English lines untranslated",
+        "Use multiple languages meaningfully, with context or explanations where necessary"
+      ],
+      "answer": "Use multiple languages meaningfully, with context or explanations where necessary"
+    },
+    {
+      "question": "What aspect of playwriting is particularly important when writing for Timorese audiences?",
+      "choices": [
+        "Using only Western theatrical conventions",
+        "Avoiding all references to local culture",
+        "Balancing tradition and modernity in Timorese theatre",
+        "Writing exclusively in English"
+      ],
+      "answer": "Balancing tradition and modernity in Timorese theatre"
+    },
+    {
+      "question": "What is the primary purpose of a one-page reflection on the writing process?",
+      "choices": [
+        "To increase the overall page count",
+        "To critique other students' work",
+        "To demonstrate understanding of the creative journey and challenges faced",
+        "To plan future plays"
+      ],
+      "answer": "To demonstrate understanding of the creative journey and challenges faced"
+    },
+    {
+      "question": "How should playwrights approach the incorporation of Timorese performance elements?",
+      "choices": [
+        "Avoid them to keep the play modern",
+        "Use them without consideration for their cultural significance",
+        "Incorporate them thoughtfully to enhance the storytelling",
+        "Only use them if the play is set in the past"
+      ],
+      "answer": "Incorporate them thoughtfully to enhance the storytelling"
+    },
+    {
+      "question": "What is the recommended approach for addressing social and political issues in Timorese plays?",
+      "choices": [
+        "Avoid them entirely",
+        "Address them directly without nuance",
+        "Incorporate them thoughtfully while respecting cultural sensitivities",
+        "Only address issues from the colonial period"
+      ],
+      "answer": "Incorporate them thoughtfully while respecting cultural sensitivities"
+    },
+    {
+      "question": "When adapting traditional Timorese stories for the stage, what ethical consideration is most important?",
+      "choices": [
+        "Changing the story completely to make it more exciting",
+        "Respecting the original narrative while making it accessible to modern audiences",
+        "Removing all traditional elements to modernize the story",
+        "Only using stories from one specific region of Timor-Leste"
+      ],
+      "answer": "Respecting the original narrative while making it accessible to modern audiences"
+    },
+    {
+      "question": "What is the purpose of including a set design sketch or description in the final project?",
+      "choices": [
+        "To demonstrate artistic drawing skills",
+        "To limit the director's creative choices",
+        "To provide a visual or descriptive representation of the play's setting",
+        "To determine the budget for the production"
+      ],
+      "answer": "To provide a visual or descriptive representation of the play's setting"
+    },
+    {
+      "question": "How should playwrights approach the use of Tetum or Portuguese in their plays?",
+      "choices": [
+        "Avoid using them entirely",
+        "Use them without providing any context",
+        "Use them extensively without considering the audience's understanding",
+        "Incorporate them meaningfully, ensuring clarity through context or explanation"
+      ],
+      "answer": "Incorporate them meaningfully, ensuring clarity through context or explanation"
+    },
+    {
+      "question": "What is the primary goal of the revision process in playwriting?",
+      "choices": [
+        "To make the play longer",
+        "To change the genre of the play",
+        "To refine and improve the script for better dramatic effect",
+        "To remove all stage directions"
+      ],
+      "answer": "To refine and improve the script for better dramatic effect"
+    },
+    {
+      "question": "In the context of Timorese playwriting, what does 'cultural authenticity' primarily refer to?",
+      "choices": [
+        "Using only traditional storytelling methods",
+        "Avoiding any modern influences",
+        "Accurately representing Timorese culture, customs, and social dynamics",
+        "Writing exclusively in Tetum"
+      ],
+      "answer": "Accurately representing Timorese culture, customs, and social dynamics"
+    },
+    {
+      "question": "What is the recommended approach for handling character emotions in stage directions?",
+      "choices": [
+        "Describe them in great detail",
+        "Avoid mentioning emotions entirely",
+        "Let emotions be conveyed through dialogue and action rather than explicit direction",
+        "Use emojis to represent emotions"
+      ],
+      "answer": "Let emotions be conveyed through dialogue and action rather than explicit direction"
+    },
+    {
+      "question": "What is the primary purpose of a character's objective in a play?",
+      "choices": [
+        "To confuse the audience",
+        "To make the character likable",
+        "To drive the character's actions and create conflict",
+        "To determine the character's costume"
+      ],
+      "answer": "To drive the character's actions and create conflict"
+    },
+    {
+      "question": "How should playwrights approach the ending of their one-act play?",
+      "choices": [
+        "Always end with a twist",
+        "Leave it completely open-ended",
+        "Ensure it feels satisfying and true to the characters and themes established",
+        "End abruptly without resolution"
+      ],
+      "answer": "Ensure it feels satisfying and true to the characters and themes established"
+    },
+    {
+      "question": "What is the importance of considering staging limitations when writing a play?",
+      "choices": [
+        "It's not important; directors will figure it out",
+        "To make the play as complex as possible",
+        "To ensure the play is realistically producible in various theatre settings",
+        "To limit the creative possibilities"
+      ],
+      "answer": "To ensure the play is realistically producible in various theatre settings"
+    }
+  ]
+}

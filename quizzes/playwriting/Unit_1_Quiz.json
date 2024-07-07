@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Dramatic Structure",
+  "questions": [
+    {
+      "question": "Who wrote the seminal work 'Poetics' that laid the foundation for Western dramatic theory?",
+      "choices": [
+        "Sophocles",
+        "Aristotle",
+        "Plato",
+        "Homer"
+      ],
+      "answer": "Aristotle"
+    },
+    {
+      "question": "According to Aristotle, which element of drama is considered the 'soul of tragedy'?",
+      "choices": [
+        "Character",
+        "Thought",
+        "Plot",
+        "Spectacle"
+      ],
+      "answer": "Plot"
+    },
+    {
+      "question": "How many acts are typically included in the three-act structure?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": "Three"
+    },
+    {
+      "question": "What is the term for the part of the story that introduces the main characters and establishes the setting?",
+      "choices": [
+        "Climax",
+        "Resolution",
+        "Exposition",
+        "Rising Action"
+      ],
+      "answer": "Exposition"
+    },
+    {
+      "question": "Which act in the three-act structure typically comprises the bulk of the story?",
+      "choices": [
+        "Act I",
+        "Act II",
+        "Act III",
+        "Epilogue"
+      ],
+      "answer": "Act II"
+    },
+    {
+      "question": "What is the term for the point of highest dramatic tension in a story?",
+      "choices": [
+        "Exposition",
+        "Rising Action",
+        "Climax",
+        "Denouement"
+      ],
+      "answer": "Climax"
+    },
+    {
+      "question": "What drives the story forward and engages the audience emotionally?",
+      "choices": [
+        "Dialogue",
+        "Setting",
+        "Conflict",
+        "Narration"
+      ],
+      "answer": "Conflict"
+    },
+    {
+      "question": "What is the term for the main character whose journey we follow in a story?",
+      "choices": [
+        "Antagonist",
+        "Deuteragonist",
+        "Protagonist",
+        "Foil"
+      ],
+      "answer": "Protagonist"
+    },
+    {
+      "question": "What is the opposing force that creates obstacles for the protagonist called?",
+      "choices": [
+        "Antagonist",
+        "Deuteragonist",
+        "Protagonist",
+        "Foil"
+      ],
+      "answer": "Antagonist"
+    },
+    {
+      "question": "In Timor-Leste, what plays a significant role in preserving history and cultural values?",
+      "choices": [
+        "Written plays",
+        "Oral storytelling",
+        "Modern films",
+        "Television dramas"
+      ],
+      "answer": "Oral storytelling"
+    },
+    {
+      "question": "What is the term for the part of the story that shows the immediate consequences of the climactic moment?",
+      "choices": [
+        "Rising Action",
+        "Climax",
+        "Falling Action",
+        "Resolution"
+      ],
+      "answer": "Falling Action"
+    },
+    {
+      "question": "Which of the following is NOT one of the six key elements of drama identified by Aristotle?",
+      "choices": [
+        "Plot",
+        "Character",
+        "Setting",
+        "Diction"
+      ],
+      "answer": "Setting"
+    },
+    {
+      "question": "What is the term for the event that sets the story in motion?",
+      "choices": [
+        "Exposition",
+        "Inciting Incident",
+        "Climax",
+        "Resolution"
+      ],
+      "answer": "Inciting Incident"
+    },
+    {
+      "question": "In which act of the three-act structure does the story typically reach its climax?",
+      "choices": [
+        "Act I",
+        "Act II",
+        "Act III",
+        "Prologue"
+      ],
+      "answer": "Act III"
+    },
+    {
+      "question": "What is the term for the final part of the story where loose ends are tied up?",
+      "choices": [
+        "Climax",
+        "Falling Action",
+        "Resolution",
+        "Epilogue"
+      ],
+      "answer": "Resolution"
+    },
+    {
+      "question": "Which of the following is an example of internal conflict?",
+      "choices": [
+        "Person vs. Person",
+        "Person vs. Nature",
+        "Person vs. Society",
+        "Person vs. Self"
+      ],
+      "answer": "Person vs. Self"
+    },
+    {
+      "question": "What is the purpose of exposition in a story?",
+      "choices": [
+        "To create tension",
+        "To resolve conflicts",
+        "To provide background information",
+        "To introduce the antagonist"
+      ],
+      "answer": "To provide background information"
+    },
+    {
+      "question": "Which part of the story typically introduces the main conflict?",
+      "choices": [
+        "Exposition",
+        "Rising Action",
+        "Climax",
+        "Falling Action"
+      ],
+      "answer": "Rising Action"
+    },
+    {
+      "question": "What is the term for a sudden and unexpected turn of events in a story?",
+      "choices": [
+        "Climax",
+        "Plot Twist",
+        "Denouement",
+        "Exposition"
+      ],
+      "answer": "Plot Twist"
+    },
+    {
+      "question": "In Timorese storytelling, what often reflects the island's unique heritage and worldview?",
+      "choices": [
+        "Western plot structures",
+        "Recurring themes and motifs",
+        "Three-act structure",
+        "Hollywood-style narratives"
+      ],
+      "answer": "Recurring themes and motifs"
+    },
+    {
+      "question": "What is the term for the gradual increase in tension and stakes throughout a story?",
+      "choices": [
+        "Exposition",
+        "Rising Action",
+        "Falling Action",
+        "Resolution"
+      ],
+      "answer": "Rising Action"
+    },
+    {
+      "question": "Which of the following is NOT typically a part of the three-act structure?",
+      "choices": [
+        "Setup",
+        "Confrontation",
+        "Intermission",
+        "Resolution"
+      ],
+      "answer": "Intermission"
+    },
+    {
+      "question": "What is the term for the sequence of events that make up a story?",
+      "choices": [
+        "Narrative",
+        "Plot",
+        "Storyline",
+        "Arc"
+      ],
+      "answer": "Plot"
+    },
+    {
+      "question": "Which of the following best describes the function of conflict in a story?",
+      "choices": [
+        "To confuse the audience",
+        "To introduce new characters",
+        "To drive the story forward",
+        "To provide background information"
+      ],
+      "answer": "To drive the story forward"
+    },
+    {
+      "question": "What is the term for the development and change a character undergoes throughout a story?",
+      "choices": [
+        "Character Arc",
+        "Plot Twist",
+        "Rising Action",
+        "Denouement"
+      ],
+      "answer": "Character Arc"
+    },
+    {
+      "question": "In which century was Aristotle's 'Poetics' written?",
+      "choices": [
+        "2nd century BCE",
+        "4th century BCE",
+        "6th century BCE",
+        "8th century BCE"
+      ],
+      "answer": "4th century BCE"
+    },
+    {
+      "question": "What is the term for the emotional purification or purgation experienced by the audience in Greek tragedy?",
+      "choices": [
+        "Mimesis",
+        "Catharsis",
+        "Anagnorisis",
+        "Peripeteia"
+      ],
+      "answer": "Catharsis"
+    },
+    {
+      "question": "Which of the following is NOT a typical type of conflict in storytelling?",
+      "choices": [
+        "Person vs. Person",
+        "Person vs. Nature",
+        "Person vs. Technology",
+        "Person vs. Harmony"
+      ],
+      "answer": "Person vs. Harmony"
+    },
+    {
+      "question": "What is the purpose of studying dramatic structure?",
+      "choices": [
+        "To limit creativity in storytelling",
+        "To understand how stories are built and function",
+        "To enforce a single way of telling stories",
+        "To eliminate cultural differences in narratives"
+      ],
+      "answer": "To understand how stories are built and function"
+    },
+    {
+      "question": "Which of the following best describes the relationship between Western dramatic theory and Timorese storytelling traditions?",
+      "choices": [
+        "They are identical in structure and content",
+        "They have no common elements",
+        "They may share some universal elements but also have distinct features",
+        "Timorese stories always follow the three-act structure"
+      ],
+      "answer": "They may share some universal elements but also have distinct features"
+    }
+  ]
+}

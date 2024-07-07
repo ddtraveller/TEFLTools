@@ -1,0 +1,305 @@
+{
+  "title": "Staging and Production Considerations",
+  "questions": [
+    {
+      "question": "What is 'found space' in theatre?",
+      "choices": [
+        "A purpose-built theatre",
+        "A non-traditional location adapted for theatrical performance",
+        "A space discovered during rehearsals",
+        "An area backstage for storing props"
+      ],
+      "answer": "A non-traditional location adapted for theatrical performance"
+    },
+    {
+      "question": "Which of the following is NOT a common limitation in Timorese theatre spaces?",
+      "choices": [
+        "Small performance areas",
+        "Limited lighting equipment",
+        "Abundance of trained technicians",
+        "Minimal props and set pieces"
+      ],
+      "answer": "Abundance of trained technicians"
+    },
+    {
+      "question": "What is 'blocking' in theatre?",
+      "choices": [
+        "Preventing audience members from entering",
+        "The positioning and movement of actors on stage",
+        "Building the set",
+        "Rehearsing fight scenes"
+      ],
+      "answer": "The positioning and movement of actors on stage"
+    },
+    {
+      "question": "What are 'sight lines' in theatre?",
+      "choices": [
+        "The audience's view of the stage from different seating positions",
+        "Lines drawn on the stage to guide actors",
+        "The visual design of the set",
+        "The order in which scenes are performed"
+      ],
+      "answer": "The audience's view of the stage from different seating positions"
+    },
+    {
+      "question": "What is a key advantage of site-specific theatre?",
+      "choices": [
+        "Always having a full orchestra pit",
+        "Guaranteed perfect acoustics",
+        "Lower venue costs",
+        "Unlimited backstage space"
+      ],
+      "answer": "Lower venue costs"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese performance element?",
+      "choices": [
+        "Kabuki",
+        "Tebe-tebe",
+        "Ballet",
+        "Flamenco"
+      ],
+      "answer": "Tebe-tebe"
+    },
+    {
+      "question": "What is a strategy for creating impactful scenes with minimal resources?",
+      "choices": [
+        "Using expensive special effects",
+        "Hiring a large cast",
+        "Focusing on strong performances and dialogue",
+        "Building elaborate sets"
+      ],
+      "answer": "Focusing on strong performances and dialogue"
+    },
+    {
+      "question": "Which play is known for its minimalist staging with just two actors and chairs?",
+      "choices": [
+        "Hamlet",
+        "The Chairs",
+        "A Midsummer Night's Dream",
+        "Les Misérables"
+      ],
+      "answer": "The Chairs"
+    },
+    {
+      "question": "What is a challenge of adapting to non-traditional spaces for theatre?",
+      "choices": [
+        "Too much available lighting",
+        "Excessive backstage area",
+        "Dealing with unpredictable acoustics",
+        "Having too many trained technicians"
+      ],
+      "answer": "Dealing with unpredictable acoustics"
+    },
+    {
+      "question": "What is a technique for utilizing environmental features in site-specific theatre?",
+      "choices": [
+        "Ignoring the surroundings completely",
+        "Only performing indoors",
+        "Incorporating natural or architectural elements into the narrative",
+        "Using as many artificial set pieces as possible"
+      ],
+      "answer": "Incorporating natural or architectural elements into the narrative"
+    },
+    {
+      "question": "What is 'ai-knanoik' in Timorese performance traditions?",
+      "choices": [
+        "A type of mask",
+        "A musical instrument",
+        "A storytelling technique",
+        "A dance form"
+      ],
+      "answer": "A storytelling technique"
+    },
+    {
+      "question": "How can traditional Timorese elements be incorporated into modern theatre productions?",
+      "choices": [
+        "By completely replacing modern techniques",
+        "By ignoring them entirely",
+        "By integrating traditional music or instruments into the score",
+        "By only performing historical plays"
+      ],
+      "answer": "By integrating traditional music or instruments into the score"
+    },
+    {
+      "question": "What is a potential benefit of community involvement in theatre production?",
+      "choices": [
+        "Increased production costs",
+        "Less audience interest",
+        "Greater audience turnout",
+        "Simplified storytelling"
+      ],
+      "answer": "Greater audience turnout"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when adapting a scene for a non-traditional space?",
+      "choices": [
+        "How the environment affects characters' actions",
+        "What natural objects could be used as props",
+        "How to install permanent seating",
+        "How the audience might move within the space"
+      ],
+      "answer": "How to install permanent seating"
+    },
+    {
+      "question": "What is a creative solution for lighting in resource-limited settings?",
+      "choices": [
+        "Always performing during daylight hours",
+        "Using audience-held flashlights",
+        "Cancelling all evening performances",
+        "Performing in complete darkness"
+      ],
+      "answer": "Using audience-held flashlights"
+    },
+    {
+      "question": "What is the purpose of a production plan in community theatre?",
+      "choices": [
+        "To increase the budget",
+        "To eliminate the need for rehearsals",
+        "To outline the project's logistics and artistic vision",
+        "To restrict community involvement"
+      ],
+      "answer": "To outline the project's logistics and artistic vision"
+    },
+    {
+      "question": "Which of the following is a key consideration when selecting a venue for community theatre?",
+      "choices": [
+        "Proximity to a major city",
+        "Availability of a full orchestra pit",
+        "Advantages and challenges of the chosen space",
+        "Number of dressing rooms"
+      ],
+      "answer": "Advantages and challenges of the chosen space"
+    },
+    {
+      "question": "What is a benefit of using versatile, multi-purpose set pieces?",
+      "choices": [
+        "They require more storage space",
+        "They are more expensive",
+        "They allow for creative use of limited resources",
+        "They eliminate the need for actors"
+      ],
+      "answer": "They allow for creative use of limited resources"
+    },
+    {
+      "question": "How can bilingual dialogue be used effectively in Timorese theatre?",
+      "choices": [
+        "By only using English",
+        "By avoiding any local languages",
+        "By reflecting the linguistic heritage of Tetum and Portuguese",
+        "By using a different language for each performance"
+      ],
+      "answer": "By reflecting the linguistic heritage of Tetum and Portuguese"
+    },
+    {
+      "question": "What is a potential challenge of outdoor performances?",
+      "choices": [
+        "Too much backstage space",
+        "Excessive lighting options",
+        "Weather conditions",
+        "Overly controlled acoustics"
+      ],
+      "answer": "Weather conditions"
+    },
+    {
+      "question": "How can traditional masks be incorporated into contemporary Timorese theatre?",
+      "choices": [
+        "By using them as set decorations only",
+        "By adapting them for contemporary characters",
+        "By banning their use entirely",
+        "By using them only in historical plays"
+      ],
+      "answer": "By adapting them for contemporary characters"
+    },
+    {
+      "question": "What is a key aspect of community engagement in theatre production?",
+      "choices": [
+        "Excluding local talent",
+        "Focusing only on professional actors",
+        "Involving local community members in various aspects of the production",
+        "Performing only well-known international plays"
+      ],
+      "answer": "Involving local community members in various aspects of the production"
+    },
+    {
+      "question": "Which of the following is NOT typically part of a production plan for community theatre?",
+      "choices": [
+        "Resource list",
+        "Venue selection",
+        "Community engagement strategy",
+        "International tour schedule"
+      ],
+      "answer": "International tour schedule"
+    },
+    {
+      "question": "What is a benefit of minimalist staging?",
+      "choices": [
+        "It requires a larger budget",
+        "It needs more elaborate sets",
+        "It can lead to more focused storytelling",
+        "It eliminates the need for actors"
+      ],
+      "answer": "It can lead to more focused storytelling"
+    },
+    {
+      "question": "How can sound effects be created in resource-limited settings?",
+      "choices": [
+        "By always using pre-recorded tracks",
+        "By hiring a full orchestra",
+        "By using simple instruments or everyday objects",
+        "By eliminating all sound from the performance"
+      ],
+      "answer": "By using simple instruments or everyday objects"
+    },
+    {
+      "question": "What is an advantage of incorporating local performance traditions into modern theatre?",
+      "choices": [
+        "It alienates the local audience",
+        "It makes the theatre less accessible",
+        "It helps make the theatre more relevant to local audiences",
+        "It eliminates the need for original scripts"
+      ],
+      "answer": "It helps make the theatre more relevant to local audiences"
+    },
+    {
+      "question": "Which of the following is a consideration when planning audience positioning in site-specific theatre?",
+      "choices": [
+        "Ensuring all seats have cup holders",
+        "Providing a full dinner service",
+        "Optimizing sight lines for the performance",
+        "Installing permanent seating"
+      ],
+      "answer": "Optimizing sight lines for the performance"
+    },
+    {
+      "question": "What is a potential advantage of using found objects as props?",
+      "choices": [
+        "They are always more expensive",
+        "They require less creativity",
+        "They can add authenticity to the performance",
+        "They eliminate the need for a props manager"
+      ],
+      "answer": "They can add authenticity to the performance"
+    },
+    {
+      "question": "How can theatre address social issues in Timor-Leste?",
+      "choices": [
+        "By avoiding all controversial topics",
+        "By only performing comedies",
+        "By incorporating relevant themes into performances",
+        "By banning all political content"
+      ],
+      "answer": "By incorporating relevant themes into performances"
+    },
+    {
+      "question": "What is a key consideration when adapting a traditional story for modern theatre?",
+      "choices": [
+        "Completely changing the story's message",
+        "Ignoring the original cultural context",
+        "Balancing traditional elements with contemporary relevance",
+        "Only using actors from other cultures"
+      ],
+      "answer": "Balancing traditional elements with contemporary relevance"
+    }
+  ]
+}

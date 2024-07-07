@@ -118,7 +118,8 @@ Format the output as Markdown, with clear headings and subheadings for each sect
 
 [List additional resources here]
 
-Ensure that each learning unit is clearly labeled and structured as shown above."""
+Ensure that each learning unit is clearly labeled and structured as shown above.
+Don't add any commentary at the top, like 'Here is a syllabus...'"""
 
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",
@@ -176,7 +177,8 @@ Please provide a detailed lesson plan for this learning unit, including:
 8. Wrap-up and review
 9. Homework assignment
 10. Key vocabulary definitions
-Format the output as Markdown, with clear section headers for each part of the lesson plan."""
+Format the output as Markdown, with clear section headers for each part of the lesson plan.
+Don't add any commentary at the top, like 'Here is a lesson plan...'"""
     
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",
@@ -212,7 +214,8 @@ Please provide detailed resources for this week's lessons, including:
 5. Assignment details
 6. Any additional relevant materials or examples
 
-Format the output as Markdown, with clear section headers for each resource type and subtopics within the week."""
+Format the output as Markdown, with clear section headers for each resource type and subtopics within the week.
+Don't add any commentary at the top, like 'Here are the resources...'"""
 
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",
@@ -288,6 +291,9 @@ And the lesson resources:
 {lesson_resources}
 
 Please write a paper that covers the subject of this lesson plan. The paper should focus on the topic itself, "{topic}", rather than the teaching aspects of the lesson. Take on the role of an author writing an informative article about {topic} for a general audience. The paper should be well-structured, with an introduction, main body discussing the key points of {topic}, and a conclusion. Use a formal writing style and include relevant examples and facts to support the main ideas.
+Don't add any commentary at the top, like 'Here is a reading...'
+Don't add any verbiage at the top of the output before the paper.
+Do NOT add anything like, "Based on the provided syllabus and context for the course..."
 """
 
     message = client.messages.create(
@@ -308,9 +314,6 @@ def generate_quiz(module_content, context_files, truncated_info):
     """Generate a quiz JSON using Claude."""
     context = "\n\n".join([f"File: {file}\n\nContent:\n{content}" for file, content in context_files.items()])
     prompt = f"""Given the following module content and additional context files from a course:
-Project information:
-{truncated_info}
-
 Module Content:
 {module_content}
 
@@ -370,7 +373,8 @@ Please create a set of engaging activities for this lesson, including:
 4. Individual practice exercises
 5. Cool-down or wrap-up activities
 
-Ensure that the activities are appropriate for the lesson content, engaging for students, and help reinforce the key concepts of the lesson. Format the output as Markdown, with clear section headers for each type of activity."""
+Ensure that the activities are appropriate for the lesson content, engaging for students, and help reinforce the key concepts of the lesson. Format the output as Markdown, with clear section headers for each type of activity.
+Don't add any commentary at the top, like 'Here is an activity...'"""
 
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",
@@ -463,6 +467,7 @@ def main():
                 project_info += read_file_content(file_path) + "\n\n"
                 print(f"Read content from: {file_path}")
                 
+        print(f"Total content size before truncation: {len(project_info)} characters")
         truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)
         syllabus = generate_syllabus(truncated_info)
         write_to_file(syllabus, syllabus_path)

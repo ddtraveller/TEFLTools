@@ -1,0 +1,305 @@
+{
+  "title": "Collaborative Playwriting",
+  "questions": [
+    {
+      "question": "What is the primary goal of collaborative playwriting?",
+      "choices": [
+        "To write plays faster",
+        "To harness collective creativity",
+        "To reduce individual workload",
+        "To eliminate the need for a director"
+      ],
+      "answer": "To harness collective creativity"
+    },
+    {
+      "question": "Which of the following is NOT a common workshop technique in collaborative playwriting?",
+      "choices": [
+        "Hot seating",
+        "Improvisation exercises",
+        "Character interviews",
+        "Solo writing sessions"
+      ],
+      "answer": "Solo writing sessions"
+    },
+    {
+      "question": "What is the role of a dramaturg in collaborative playwriting?",
+      "choices": [
+        "To write the entire play",
+        "To direct the play",
+        "To maintain the overall vision and provide context",
+        "To design the set"
+      ],
+      "answer": "To maintain the overall vision and provide context"
+    },
+    {
+      "question": "What is the purpose of a staged reading in the collaborative playwriting process?",
+      "choices": [
+        "To entertain an audience",
+        "To finalize the script",
+        "To hear the work brought to life and identify areas for improvement",
+        "To cast actors for the final production"
+      ],
+      "answer": "To hear the work brought to life and identify areas for improvement"
+    },
+    {
+      "question": "Which of the following is a key challenge in collaborative playwriting?",
+      "choices": [
+        "Maintaining a consistent voice throughout the work",
+        "Finding enough writers",
+        "Securing funding for the production",
+        "Designing costumes"
+      ],
+      "answer": "Maintaining a consistent voice throughout the work"
+    },
+    {
+      "question": "What is 'hot seating' in the context of collaborative playwriting?",
+      "choices": [
+        "A technique where writers sit on heated chairs",
+        "A method where actors answer questions in character",
+        "A process of rapidly writing dialogue",
+        "A way to determine the lead writer"
+      ],
+      "answer": "A method where actors answer questions in character"
+    },
+    {
+      "question": "How does collaborative playwriting differ from traditional playwriting?",
+      "choices": [
+        "It involves multiple writers instead of a single playwright",
+        "It only focuses on comedies",
+        "It doesn't require a script",
+        "It's always performed outdoors"
+      ],
+      "answer": "It involves multiple writers instead of a single playwright"
+    },
+    {
+      "question": "What is the purpose of character interviews in collaborative playwriting?",
+      "choices": [
+        "To hire actors",
+        "To develop marketing strategies",
+        "To delve deep into a character's psyche",
+        "To determine the play's budget"
+      ],
+      "answer": "To delve deep into a character's psyche"
+    },
+    {
+      "question": "What is a 'scene swap' in collaborative playwriting?",
+      "choices": [
+        "Exchanging costumes between scenes",
+        "Changing the order of scenes in the play",
+        "Writers exchanging partially completed scenes",
+        "Actors switching roles mid-performance"
+      ],
+      "answer": "Writers exchanging partially completed scenes"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of collaborative playwriting?",
+      "choices": [
+        "Drawing upon diverse talents and experiences",
+        "Fostering a sense of community among writers",
+        "Guaranteed commercial success",
+        "Providing training opportunities for emerging playwrights"
+      ],
+      "answer": "Guaranteed commercial success"
+    },
+    {
+      "question": "What role do improvisation exercises play in collaborative playwriting?",
+      "choices": [
+        "They replace the need for a written script",
+        "They help explore character interactions and plot developments",
+        "They are used to audition actors",
+        "They determine the play's genre"
+      ],
+      "answer": "They help explore character interactions and plot developments"
+    },
+    {
+      "question": "In collaborative playwriting, what is the primary function of regular meetings?",
+      "choices": [
+        "To assign roles to actors",
+        "To ensure all contributors are aligned with the play's direction",
+        "To plan the marketing strategy",
+        "To design the set"
+      ],
+      "answer": "To ensure all contributors are aligned with the play's direction"
+    },
+    {
+      "question": "What is a potential advantage of collaborative playwriting over individual playwriting?",
+      "choices": [
+        "It always results in shorter plays",
+        "It eliminates the need for revisions",
+        "It can lead to richer, multifaceted narratives",
+        "It guarantees a larger audience"
+      ],
+      "answer": "It can lead to richer, multifaceted narratives"
+    },
+    {
+      "question": "How does collaborative playwriting typically begin?",
+      "choices": [
+        "With a fully written script",
+        "With a workshop for brainstorming ideas",
+        "With a performance",
+        "With costume design"
+      ],
+      "answer": "With a workshop for brainstorming ideas"
+    },
+    {
+      "question": "What is the role of compromise in collaborative playwriting?",
+      "choices": [
+        "It is unnecessary",
+        "It helps blend styles and ideas of multiple writers",
+        "It determines the play's budget",
+        "It replaces the need for a director"
+      ],
+      "answer": "It helps blend styles and ideas of multiple writers"
+    },
+    {
+      "question": "How can collaborative playwriting benefit emerging playwrights?",
+      "choices": [
+        "By guaranteeing them a lead role",
+        "By providing opportunities to learn from experienced writers",
+        "By eliminating the need for formal education",
+        "By ensuring their plays will be published"
+      ],
+      "answer": "By providing opportunities to learn from experienced writers"
+    },
+    {
+      "question": "What is the significance of feedback in collaborative playwriting?",
+      "choices": [
+        "It is discouraged to maintain individual visions",
+        "It helps guide necessary adjustments to the play",
+        "It is only given by the director",
+        "It determines the playwright's salary"
+      ],
+      "answer": "It helps guide necessary adjustments to the play"
+    },
+    {
+      "question": "In collaborative playwriting, what is the purpose of drawing upon diverse perspectives?",
+      "choices": [
+        "To complicate the writing process",
+        "To create conflict among writers",
+        "To tackle complex themes with greater depth",
+        "To increase the play's running time"
+      ],
+      "answer": "To tackle complex themes with greater depth"
+    },
+    {
+      "question": "What role does a test audience play in collaborative playwriting?",
+      "choices": [
+        "They write parts of the script",
+        "They provide immediate feedback during staged readings",
+        "They fund the production",
+        "They design the costumes"
+      ],
+      "answer": "They provide immediate feedback during staged readings"
+    },
+    {
+      "question": "How does collaborative playwriting potentially impact the final product?",
+      "choices": [
+        "It always results in a shorter play",
+        "It guarantees commercial success",
+        "It can produce works that resonate with a broader audience",
+        "It eliminates the need for editing"
+      ],
+      "answer": "It can produce works that resonate with a broader audience"
+    },
+    {
+      "question": "What is a potential challenge of collaborative playwriting in terms of creative vision?",
+      "choices": [
+        "Maintaining a unified vision among multiple contributors",
+        "Having too few ideas",
+        "Eliminating the need for a director",
+        "Reducing the quality of dialogue"
+      ],
+      "answer": "Maintaining a unified vision among multiple contributors"
+    },
+    {
+      "question": "How does collaborative playwriting potentially benefit the theatre community?",
+      "choices": [
+        "By eliminating the need for individual playwrights",
+        "By reducing production costs",
+        "By fostering a sense of community and future collaborations",
+        "By simplifying the rehearsal process"
+      ],
+      "answer": "By fostering a sense of community and future collaborations"
+    },
+    {
+      "question": "What is the significance of character consistency in collaborative playwriting?",
+      "choices": [
+        "It is not important in collaborative works",
+        "It helps maintain the integrity of the play despite multiple writers",
+        "It determines the play's genre",
+        "It replaces the need for a plot"
+      ],
+      "answer": "It helps maintain the integrity of the play despite multiple writers"
+    },
+    {
+      "question": "How can collaborative playwriting impact the development of plot structure?",
+      "choices": [
+        "It always results in linear narratives",
+        "It can lead to more complex, layered storylines",
+        "It eliminates the need for conflict in the story",
+        "It restricts the play to a single act"
+      ],
+      "answer": "It can lead to more complex, layered storylines"
+    },
+    {
+      "question": "What role does communication play in successful collaborative playwriting?",
+      "choices": [
+        "It is discouraged to maintain individual creativity",
+        "It is essential for aligning the team's vision and resolving conflicts",
+        "It is only necessary between the lead writer and director",
+        "It is used exclusively for marketing purposes"
+      ],
+      "answer": "It is essential for aligning the team's vision and resolving conflicts"
+    },
+    {
+      "question": "How might collaborative playwriting influence dialogue in a play?",
+      "choices": [
+        "It always results in monotonous dialogue",
+        "It can lead to more diverse and authentic character voices",
+        "It eliminates the need for dialogue altogether",
+        "It restricts dialogue to a single language"
+      ],
+      "answer": "It can lead to more diverse and authentic character voices"
+    },
+    {
+      "question": "What is the importance of flexibility in collaborative playwriting?",
+      "choices": [
+        "It allows for easier scheduling of rehearsals",
+        "It helps accommodate diverse ideas and unexpected creative directions",
+        "It is only important for the set design",
+        "It determines the play's runtime"
+      ],
+      "answer": "It helps accommodate diverse ideas and unexpected creative directions"
+    },
+    {
+      "question": "How does collaborative playwriting potentially impact the revision process?",
+      "choices": [
+        "It eliminates the need for revisions",
+        "It can make revisions more comprehensive due to multiple perspectives",
+        "It restricts revisions to a single writer",
+        "It always extends the revision process by years"
+      ],
+      "answer": "It can make revisions more comprehensive due to multiple perspectives"
+    },
+    {
+      "question": "What role does creative conflict play in collaborative playwriting?",
+      "choices": [
+        "It should always be avoided",
+        "It can lead to more nuanced and well-developed ideas",
+        "It determines the play's genre",
+        "It is only relevant to costume design"
+      ],
+      "answer": "It can lead to more nuanced and well-developed ideas"
+    },
+    {
+      "question": "How might collaborative playwriting influence the representation of diverse perspectives in a play?",
+      "choices": [
+        "It always results in a single, unified perspective",
+        "It can lead to more inclusive and varied representation",
+        "It eliminates the need for character diversity",
+        "It restricts the play to a single cultural viewpoint"
+      ],
+      "answer": "It can lead to more inclusive and varied representation"
+    }
+  ]
+}
