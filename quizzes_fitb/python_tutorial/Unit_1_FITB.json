@@ -1,0 +1,16 @@
+{
+  "reading": "Python is a versatile and powerful [BLANK_1] that has gained immense popularity in recent years. Developed by Guido van Rossum in the late 1980s, Python has become a go-to language for beginners and experienced programmers alike. Its clear [BLANK_2], extensive libraries, and wide-ranging applications make it an excellent choice for various fields, including web development, data analysis, artificial intelligence, and scientific computing.\\n\\nAt its core, Python is a high-level, interpreted language. This means that it abstracts many complex operations, making it easier for programmers to focus on solving problems rather than managing low-level details. As an interpreted language, Python code is executed line by line, allowing for immediate feedback and easier debugging.\\n\\nOne of Python's key strengths is its readability. The language emphasizes clean, readable code through its use of indentation to define code blocks. This enforced structure helps programmers write more organized and maintainable code. Python's syntax is often described as \\\"pseudocode-like,\\\" meaning that it closely resembles plain English, making it more accessible to newcomers.\\n\\nTo begin working with Python, one must first set up a development environment. This typically involves installing Python itself and an [BLANK_3] such as [BLANK_4], which comes bundled with Python. IDLE provides a user-friendly interface for writing, running, and debugging Python code.\\n\\nOnce the environment is set up, programmers can start exploring Python's basic syntax. At the foundation of Python programming are [BLANK_5], which act as containers for storing data. Variables in Python are dynamically typed, meaning their type is inferred based on the data they hold. For example:\\n\\n```python\\nname = \\\"Maria\\\"\\nage = 25\\nheight = 1.65\\n```\\n\\nIn this example, `name` is automatically recognized as a [BLANK_6] (str), `age` as an [BLANK_7] (int), and `height` as a [BLANK_8] (float).\\n\\nPython supports several basic [BLANK_9], including integers, floats, strings, and booleans. Each type has its own set of operations and methods. For instance, strings can be concatenated using the `+` operator:\\n\\n```python\\ngreeting = \\\"Bondia \\\" + name\\nprint(greeting)  # Output: Bondia Maria\\n```\\n\\n[BLANK_10] in Python allow for various operations on data. These include arithmetic operators (+, -, *, /), comparison operators (==, !=, <, >), and logical operators (and, or, not). Python also provides special operators like `//` for floor division and `**` for exponentiation.",
+  "vocabulary": {
+    "[BLANK_1]": "65",
+    "[BLANK_2]": "programming language",
+    "[BLANK_3]": "syntax",
+    "[BLANK_4]": "Integrated Development Environment",
+    "[BLANK_5]": "IDLE",
+    "[BLANK_6]": "variables",
+    "[BLANK_7]": "string",
+    "[BLANK_8]": "integer",
+    "[BLANK_9]": "float",
+    "[BLANK_10]": "data types",
+    "[BLANK_11]": "Operators"
+  }
+}

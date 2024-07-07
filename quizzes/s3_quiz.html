@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiple Choice Quizzes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        #course-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        #course-list li {
+            margin-bottom: 10px;
+        }
+        #course-list a {
+            color: #0066cc;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        #course-list a:hover {
+            text-decoration: underline;
+        }
+        .question {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .correct {
+            color: green;
+            font-weight: bold;
+        }
+        .incorrect {
+            color: red;
+            font-weight: bold;
+        }
+        #error-message {
+            color: red;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Multiple Choice Quizzes</h1>
+    <ul id="course-list"></ul>
+    <div id="quiz-container" style="display: none;">
+        <h2 id="quizTitle">Quiz</h2>
+        <div id="error-message"></div>
+        <form id="quizForm">
+            <div id="questions"></div>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script>
+        const s3BaseUrl = 'https://tl-web.s3.us-west-2.amazonaws.com/quizzes/';
+        const courses = {
+            "Creative_Writing": ["Experimental_Writing_Writers_block.json", "creative_voice_short_fiction.json", "dialogue_voice_world_building.json", "non_fiction.json", "novels_character_development.json"],
+            "English_Language": ["modal_verbs.json", "passive_voice.json", "past_simple_continuous.json", "present_conditional.json", "present_perfect_simple_continuous.json", "present_simple_continuous.json"],
+            "Fiction_Writing": ["Module_1_quiz.json", "Module_2_quiz.json", "Module_3_quiz.json", "Module_4_quiz.json", "Module_5_quiz.json", "Module_6_quiz.json", "Module_7_quiz.json", "Module_8_quiz.json"],
+            "Food_Innovation_and_Sustainability": ["Unit1_Lesson_Plan_quiz.json", "Unit2_Lesson_Plan_quiz.json", "Unit3_Lesson_Plan_quiz.json", "Unit4_Lesson_Plan_quiz.json", "Unit5_Lesson_Plan_quiz.json", "Unit6_Lesson_Plan_quiz.json", "Unit7_Lesson_Plan_quiz.json", "Unit8_Lesson_Plan_quiz.json"],
+            "Medical_Herbalism": ["formulation.json", "herbal_actions_and_energetics.json", "intro_to_herbalism.json", "planning_and_assessment.json", "plant_chemistry_and_pharmacology.json", "plant_taxonomy.json", "preparation.json", "safety.json"],
+            "Regenerative_Living": ["activated_charcoal.json", "agroforestry.json", "aquaponics.json", "aquaponics2.json", "bioremediation.json", "canning_and_drying_food.json", "celebration_community_ritual.json", "chicken_husbandry.json", "cob_straw_bale_and_earthbag_construction.json", "community_build_projects.json", "community_needs_and_assets_assessments.json", "cottage_industry.json", "cover_cropping.json", "economic_resiliance_and_resource_sharing_in_TL.json", "fermentation.json", "food_creation_preservation_structures.json", "goats.json", "grey_water.json", "herbal_medicine.json", "integrating_animals.json", "local_natural_building_materials.json", "mapping_and_site_assessment.json", "methods_of_design.json", "natural_beekeeping.json", "participatory_design.json", "passive_solar.json", "patterns_in_nature.json", "perennial_food_systems_in_timor_leste.json", "perinnial_food_systems.json", "permaculture_foundations.json", "permaculture_principles.json", "personal_practice_and_social_permaculture.json", "plant_guilds_and_companion_planting.json", "seed_saving_plant_propagation.json", "soil_building.json", "soil_science_basics.json", "waste_management.json", "water_cycle.json", "water_drought_proofing.json", "water_harvesting.json", "water_keyline_design.json"],
+            "Software_Development_for_Timor_Leste": ["quiz_json/algorithms_and_data_structures.json", "quiz_json/bash.json", "quiz_json/centos.json", "quiz_json/cicd.json", "quiz_json/cryptocurrency.json", "quiz_json/data_analytics.json", "quiz_json/data_visulaizations.json", "quiz_json/databases.json", "quiz_json/docker.json", "quiz_json/generative_ai.json", "quiz_json/generative_ai_advanced.json", "quiz_json/geospatial_python.json", "quiz_json/git_basics.json", "quiz_json/html2_quiz.json", "quiz_json/html_links.json", "quiz_json/html_quiz.json", "quiz_json/html_tables.json", "quiz_json/k8s.json", "quiz_json/linux.json", "quiz_json/networking.json", "quiz_json/postgre.json", "quiz_json/python_advanced.json", "quiz_json/python_apis.json", "quiz_json/python_pandas.json", "quiz_json/python_regex.json", "quiz_json/r.json", "quiz_json/spreadsheets.json", "quiz_json/spreadsheets2.json", "quiz_json/sql.json", "quiz_json/text_files.json"],
+            "aquaculture": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json"],
+            "bamboo": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json", "Unit_7_Quiz.json", "Unit_8_Quiz.json"],
+            "beekeeping": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json", "Unit_7_Quiz.json", "Unit_8_Quiz.json", "Unit_9_Quiz.json", "Unit_10_Quiz.json"],
+            "clean_cooking_offgrid": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json"],
+            "constitutional_law_in_timor_leste": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json"],
+            "drawing": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json", "Unit_7_Quiz.json", "Unit_8_Quiz.json"],
+            "genai": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json", "Unit_7_Quiz.json", "Unit_8_Quiz.json"],
+            "permaculture_design": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json", "Unit_7_Quiz.json"],
+            "playwriting": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json", "Unit_7_Quiz.json", "Unit_8_Quiz.json"],
+            "python_game_making": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json"],
+            "python_tutorial": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json"],
+            "reiki": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json"],
+            "saline_agriculture": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json"],
+            "tarot": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json"],
+            "weaving": ["Unit_1_Quiz.json", "Unit_2_Quiz.json", "Unit_3_Quiz.json", "Unit_4_Quiz.json", "Unit_5_Quiz.json", "Unit_6_Quiz.json", "Unit_7_Quiz.json", "Unit_8_Quiz.json"]
+        };
+
+        let currentCourse = '';
+        let currentQuiz = '';
+
+        function populateCourseList() {
+            const courseList = document.getElementById('course-list');
+            Object.keys(courses).forEach(course => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.textContent = course.replace(/_/g, ' ');
+                a.onclick = () => loadRandomQuiz(course);
+                li.appendChild(a);
+                courseList.appendChild(li);
+            });
+        }
+
+        async function loadRandomQuiz(course) {
+            currentCourse = course;
+            const quizzes = courses[course];
+            currentQuiz = quizzes[Math.floor(Math.random() * quizzes.length)];
+            const quizPath = `${s3BaseUrl}${course}/${currentQuiz}`;
+
+            try {
+                const response = await fetch(quizPath);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const data = await response.json();
+                displayQuiz(data);
+            } catch (error) {
+                console.error('Error loading quiz:', error);
+                document.getElementById('error-message').textContent = `Failed to load quiz. Please try again. Error: ${error.message}`;
+            }
+        }
+
+        function displayQuiz(quizData) {
+            const quizContainer = document.getElementById('quiz-container');
+            const quizTitle = document.getElementById('quizTitle');
+            const questionsContainer = document.getElementById('questions');
+
+            quizContainer.style.display = 'block';
+            quizTitle.textContent = `${currentCourse.replace(/_/g, ' ')} - ${currentQuiz.replace('.json', '')}`;
+            questionsContainer.innerHTML = '';
+
+            quizData.questions.forEach((question, index) => {
+                const questionElement = document.createElement('div');
+                questionElement.className = 'question';
+                questionElement.innerHTML = `
+                    <p><strong>${index + 1}. ${question.question}</strong></p>
+                    ${question.choices.map((choice, i) => `
+                        <label>
+                            <input type="radio" name="question${index}" value="${choice}">
+                            ${choice}
+                        </label><br>
+                    `).join('')}
+                `;
+                questionsContainer.appendChild(questionElement);
+            });
+
+            document.getElementById('quizForm').onsubmit = (e) => {
+                e.preventDefault();
+                checkAnswers(quizData.questions);
+            };
+        }
+
+        function checkAnswers(questions) {
+            questions.forEach((question, index) => {
+                const selectedAnswer = document.querySelector(`input[name="question${index}"]:checked`);
+                const questionElement = document.getElementsByClassName('question')[index];
+                const answerElement = document.createElement('div');
+
+                if (selectedAnswer) {
+                    const isCorrect = selectedAnswer.value === question.answer;
+                    answerElement.innerHTML = `
+                        <p><strong>Your Answer:</strong> <span class="${isCorrect ? 'correct' : 'incorrect'}">${selectedAnswer.value}</span></p>
+                        <p><strong>Correct Answer:</strong> ${question.answer}</p>
+                    `;
+                } else {
+                    answerElement.innerHTML = `
+                        <p><strong>Your Answer:</strong> <span class="incorrect">Not answered</span></p>
+                        <p><strong>Correct Answer:</strong> ${question.answer}</p>
+                    `;
+                }
+
+                questionElement.appendChild(answerElement);
+                questionElement.querySelectorAll('input[type="radio"]').forEach(input => {
+                    input.disabled = true;
+                });
+            });
+
+            document.querySelector('button[type="submit"]').disabled = true;
+        }
+
+        window.onload = populateCourseList;
+    </script>
+</body>
+</html>

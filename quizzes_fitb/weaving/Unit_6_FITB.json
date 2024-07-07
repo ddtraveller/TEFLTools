@@ -1,0 +1,15 @@
+{
+  "reading": "Floor looms are sophisticated weaving devices that have revolutionized textile production, allowing weavers to create complex and large-scale fabrics with greater efficiency than traditional handheld looms. These versatile tools have become a cornerstone of both artisanal and industrial weaving, offering a blend of traditional craftsmanship and modern engineering.\\n\\nAt its core, a floor loom is a framework designed to hold [BLANK_1] threads under tension while allowing the weaver to create a [BLANK_2]—an opening between raised and lowered warp threads—through which weft threads are passed. This basic principle is common to all weaving, but floor looms introduce mechanical advantages that significantly enhance the weaving process.\\n\\nThe anatomy of a floor loom is complex, with each component playing a crucial role in the weaving process. The [BLANK_3], located at the back of the loom, holds the warp threads, which run lengthwise through the loom. As weaving progresses, the finished fabric is wound onto the [BLANK_4] at the front. Between these two beams, a series of mechanisms facilitate the weaving process.\\n\\nCentral to the loom's operation are the [BLANK_5], typically made of wire or cord, each with an eye through which a warp thread passes. These heddles are held in frames called [BLANK_6], which can be raised or lowered to create different sheds. The number of harnesses on a loom determines the complexity of patterns that can be woven; a basic floor loom often has four harnesses, while more advanced looms may have eight, sixteen, or even more.\\n\\nThe weaver controls these harnesses through a system of [BLANK_7]—foot-operated levers connected to the harnesses. By pressing different combinations of treadles, the weaver can quickly and easily create various sheds, allowing for the production of intricate patterns.\\n\\nAnother key component is the [BLANK_8], a comb-like device that serves two purposes: it spaces the warp threads evenly and is used to beat the weft threads into place after they are passed through the shed. The weft thread itself is carried through the shed by a [BLANK_9], a boat-shaped tool that holds a bobbin of yarn.\\n\\nFloor looms come in several types, each with its own mechanical system for creating sheds. The three main types are [BLANK_10] looms, counterbalance looms, and countermarch looms. Jack looms, the most common type in modern use, use a system of rising shafts. Counterbalance looms operate on a see-saw principle, where raising one set of harnesses automatically lowers the others. Countermarch looms offer the most versatility, allowing each harness to be independently raised or lowered.",
+  "vocabulary": {
+    "[BLANK_1]": "warp",
+    "[BLANK_2]": "shed",
+    "[BLANK_3]": "warp beam",
+    "[BLANK_4]": "cloth beam",
+    "[BLANK_5]": "heddles",
+    "[BLANK_6]": "harnesses",
+    "[BLANK_7]": "treadles",
+    "[BLANK_8]": "reed",
+    "[BLANK_9]": "shuttle",
+    "[BLANK_10]": "jack"
+  }
+}

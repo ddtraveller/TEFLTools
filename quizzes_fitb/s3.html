@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fill-in-the-Blanks Quizzes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        #directory-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        #directory-list li {
+            margin-bottom: 10px;
+        }
+        #directory-list a {
+            color: #0066cc;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        #directory-list a:hover {
+            text-decoration: underline;
+        }
+        #quiz-container {
+            margin-top: 20px;
+        }
+        input[type="text"] {
+            margin: 5px 0;
+            padding: 5px;
+        }
+        button {
+            margin-top: 10px;
+            padding: 5px 10px;
+            background-color: #0066cc;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0052a3;
+        }
+        .correct {
+            color: green;
+        }
+        .incorrect {
+            color: red;
+        }
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fill-in-the-Blanks Quizzes</h1>
+    <p>Click a link to get a random quiz. Click submit to see the answers.</p>
+    <p>Klike iha link atu hetan kestionáriu random. Klike submete atu haree resposta sira.</p>    
+    <ul id="directory-list"></ul>
+    <div id="quiz-container"></div>
+
+    <script>
+        const quizzes = {
+        "aquaculture": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json"],
+        "bamboo": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json", "Unit_8_FITB.json"],
+        "beekeeping": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json", "Unit_8_FITB.json", "Unit_9_FITB.json", "Unit_10_FITB.json"],
+        "clean_cooking_offgrid": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json"],
+        "constitutional_law_in_timor_leste": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json"],
+        "drawing": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json", "Unit_8_FITB.json"],
+        "genai": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json", "Unit_8_FITB.json"],
+        "guide_to_teaching_english": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json", "Unit_8_FITB.json"],
+        "permaculture_design": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json"],
+        "playwriting": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json", "Unit_8_FITB.json"],
+        "python_game_making": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json"],
+        "python_tutorial": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json"],
+        "reiki": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json"],
+        "saline_agriculture": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json"],
+        "tarot": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json"],
+        "weaving": ["Unit_1_FITB.json", "Unit_2_FITB.json", "Unit_3_FITB.json", "Unit_4_FITB.json", "Unit_5_FITB.json", "Unit_6_FITB.json", "Unit_7_FITB.json", "Unit_8_FITB.json"]
+    };
+
+        const directoryList = document.getElementById('directory-list');
+        const quizContainer = document.getElementById('quiz-container');
+        let currentQuizData;
+
+        Object.keys(quizzes).forEach(dir => {
+            const li = document.createElement('li');
+            const a = document.createElement('a');
+            a.textContent = dir.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+            a.onclick = () => loadRandomQuiz(dir);
+            li.appendChild(a);
+            directoryList.appendChild(li);
+        });
+
+        function cleanJsonString(str) {
+            return str.replace(/\\n/g, "\\n")
+                      .replace(/\\'/g, "\\'")
+                      .replace(/\\"/g, '\\"')
+                      .replace(/\\&/g, "\\&")
+                      .replace(/\\r/g, "\\r")
+                      .replace(/\\t/g, "\\t")
+                      .replace(/\\b/g, "\\b")
+                      .replace(/\\f/g, "\\f");
+        }
+
+        async function loadRandomQuiz(directory) {
+            const quizFiles = quizzes[directory];
+            const randomQuiz = quizFiles[Math.floor(Math.random() * quizFiles.length)];
+            const quizPath = `${directory}/${randomQuiz}`;
+
+            try {
+                const response = await fetch(quizPath);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const rawText = await response.text();
+                const cleanedText = cleanJsonString(rawText);
+                currentQuizData = JSON.parse(cleanedText);
+                displayQuiz(currentQuizData);
+            } catch (error) {
+                console.error(`Error loading quiz from ${quizPath}:`, error);
+                quizContainer.innerHTML = `<p class="error">Error loading quiz from ${quizPath}: ${error.message}. Please try again or select a different quiz.</p>`;
+            }
+        }
+
+        function displayQuiz(quizData) {
+            let quizHtml = `<h2>${quizData.title || 'Fill-in-the-Blanks Quiz'}</h2>`;
+            quizHtml += `<p>${quizData.reading.replace(/\[BLANK_(\d+)\]/g, (_, i) => `<input type="text" id="blank_${i}" data-blank="${i}">`)}</p>`;
+            quizHtml += '<button onclick="checkAnswers()">Submit</button>';
+            quizContainer.innerHTML = quizHtml;
+        }
+
+        function checkAnswers() {
+            const inputs = quizContainer.querySelectorAll('input[type="text"]');
+            inputs.forEach(input => {
+                const blankNumber = input.dataset.blank;
+                const userAnswer = input.value.trim().toLowerCase();
+                const correctAnswer = currentQuizData.vocabulary[`[BLANK_${blankNumber}]`].toLowerCase();
+                
+                if (userAnswer === correctAnswer) {
+                    input.classList.add('correct');
+                    input.classList.remove('incorrect');
+                } else {
+                    input.classList.add('incorrect');
+                    input.classList.remove('correct');
+                }
+                
+                input.value = correctAnswer;
+                input.disabled = true;
+            });
+        }
+    </script>
+</body>
+</html>
