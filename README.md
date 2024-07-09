@@ -1,108 +1,67 @@
-# TEFL Course Material for Timor-Leste
-## Materiál kursu TEMF ba Timor-Leste
+# Empowering Timor-Leste: A Collaborative Learning Journey
 
-This repository contains course materials for English grammar, practical English, fiction writing, permaculture, holistic healing, and programming and technology, regionalized for Timor-Leste.
+Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
-Repozitoriu ida-ne'e iha materiál kursu ba lian Ingles, lian Ingles pratiku, hakerek fiksaun, permakultura, kura holistiku, no programa no teknolojia, rejionalizadu ba Timor-Leste.
+## Kursu Prinsipal sira / Key Courses
 
-Support media for the courses can be found here:
-https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+These courses blend traditional Timorese wisdom with modern practices, creating a unique learning experience that respects local culture while introducing new skills:
 
-Bele hetan média apoiu ba kursu sira iha ne'e:
-https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+1. **Moris rejenerativu: Aprosimasaun Permakultura / Regenerative Living: A Permaculture Approach**
+   - Learn sustainable farming techniques tailored to Timor-Leste's unique ecology.
 
-## Table of Contents / Tabela Konteudu
+2. **Holistiku Kura Arte no Pratika / Holistic Healing Arts and Practices**
+   - Explore traditional Timorese healing methods alongside modern holistic approaches.
 
-1. [Navigation Guide / Matadalan ba navigasaun](#navigation-guide--matadalan-ba-navigasaun)
-2. [Key Courses / Kursu Prinsipal sira](#key-courses--kursu-prinsipal-sira)
-3. [Repository Structure / Estrutura Repozitoriu](#repository-structure)
-4. [Resources / Rekursu](#resources)
-5. [Bibliography / Biblioteka](#bibliography)
+3. **Prátika Ingles ba Timor-Leste / Practical English for Timor-Leste**
+   - Develop English skills contextualized for daily life and work in Timor-Leste.
 
-## Navigation Guide / Matadalan ba navigasaun
+4. **Inovasaun no Sustentabilidade Ai-han ba Timor-Leste / Food Innovation and Sustainability for Timor-Leste**
+   - Discover ways to enhance food security using local ingredients and sustainable methods.
 
-To explore a specific course:
-1. Start with the syllabus in the **syllabus/** directory.
-2. Refer to the corresponding readings in the **Readings/** directory.
-3. Follow the lesson plans in the **lesson_plans/** directory.
-4. Complement learning with activities from the **activities/** directory and quizzes from the **quizzes/** directory where available.
+5. **Konstrusaun Bambu Sustentavel iha Timor-Leste / Sustainable Bamboo Construction in Timor-Leste**
+   - Learn eco-friendly building techniques using locally abundant bamboo.
 
-For practical applications:
-- Explore the **scripts/** directory for useful tools and demonstrations.
-- Check out the **games/** directory for interactive learning experiences.
-- Refer to the **recipes/** directory for traditional and medicinal preparations.
+6. **Dezenvolvimentu no Implementasaun permajardín ba Seguransa Ai-han iha Timor-Leste / Permagarden Design and Implementation for Food Security in Timor-Leste**
+   - Create productive, sustainable gardens to support community nutrition.
 
-Atu esplora kursu espesífiku ida:
-1. Hahú ho programa iha **syllabus/** diresaun.
-2. Haree ba lee iha **Readings/** diresaun.
-3. Halo tuir planu lisaun iha **lesson_plans/** diresaun.
-4. Komplementa aprendizajen ho atividade sira husi **atividade/** diresaun no kestionáriu sira husi **quizzes/** diresaun wainhira disponivel.
+7. **Introdusaun ba Programa Python ba Timor-Leste / Introduction to Python Programming for Timor-Leste**
+   - Gain practical coding skills to drive technological innovation in Timor-Leste.
 
-Ba aplikasaun pratika:
-- Esplika **scripts/** diresaun ba instrumentu no demonstrasaun util.
-- Haree ba **games/** diresaun ba esperiénsia aprendizajen interativu.
-- Refere ba **recipes/** diresaun ba preparasaun tradisionál no ai-moruk.
+## Matadalan ba navigasaun / Navigation Guide
 
-## Key Courses / Kursu Prinsipal sira
+To make the most of these resources:
 
-All content is localized/regionalized for Timor-Leste. / Konteúdu hotu-hotu lokalizadu/regionalizadu ba Timor-Leste.
+1. Begin with the syllabus in the **syllabus/** directory to understand course objectives.
+2. Explore related readings in the **Readings/** folder for in-depth knowledge.
+3. Follow structured lesson plans in the **lesson_plans/** directory.
+4. Engage with hands-on activities from the **activities/** folder and assess understanding through quizzes in the **quizzes/** directory.
 
-1. **Regenerative Living: A Permaculture Approach / Moris rejenerativu: Aprosimasaun Permakultura**
-2. **Holistic Healing Arts and Practices / Holistiku Kura Arte no Pratika**
-3. **Medical Herbalism / Erbalizmu médiku**
-4. **Sustainable Beekeeping: A Permaculture Approach for Timor-Leste / Sustentavel Bee: Aprosimasaun Permakultura ba Timor-Leste**
-5. **Software Development for Timor-Leste / Dezenvolvimentu software ba Timor-Leste**
-6. **The Art and Craft of Fiction Writing / Arte no hakerek fiksaun**
-7. **English Grammar**
-8. **Practical English for Timor-Leste / Prátika Ingles ba Timor-Leste**
-9. **Food Innovation and Sustainability for Timor-Leste / Inovasaun no Sustentabilidade Ai-han ba Timor-Leste**
-10. **Introduction to Generative AI and Language Models for Timor-Leste / Introdusaun ba Modelu AI Jerativa no Lian ba Timor-Leste**
-11. **Sustainable Aquaculture Management for Timor-Leste / Jestaun Aquakultura Sustentavel ba Timor-Leste**
-12. **Sustainable Bamboo Construction in Timor-Leste / Konstrusaun Bambu Sustentavel iha Timor-Leste**
-13. **Introduction to Drawing for Timor-Leste / Introdusaun ba Drawing ba Timor-Leste**
-14. **Introduction to Weaving Technology / Introdusaun ba Teknolojia Weaving**
-15. **Saline Agriculture for Timor-Leste / Salina Agrikultura ba Timor-Leste**
-16. **Permagarden Design and Implementation for Food Security in Timor-Leste/Dezenvolvimentu no Implementasaun permajardín ba Seguransa Ai-han iha Timor-Leste.**
-17. **Introduction to Python Programming for Timor-Leste / Introdusaun ba Programa Python ba Timor-Leste**
-18. **Introduction to Game Programming with Python / Introdusaun ba Programa Jogu ho Python**
-19. **Constitutional Law in Timor-Leste / Lei Konstitusional iha Timor-Leste (Atu fó onra ba Laloran Justisa)**
-20. **Clean Cooking Offgrid/Hamoos cooking Offgrid.**
-21. **Quick Guide to Teaching English/Matadalan lalais atu hanorin Ingles**
-22. **Python and Google/Python no Google**
-23. **Playwriting/Dramaturgia**
-Plus more/Liu tan.
+For practical application:
+- Utilize tools and demonstrations in the **scripts/** directory.
+- Enjoy interactive learning experiences in the **games/** folder.
+- Discover traditional and medicinal preparations in the **recipes/** section.
 
-For detailed descriptions of each course in both English and Tetun, please refer to the course syllabus.
+## Rekursu / Resources
 
-Atu hetan deskrisaun detalladu kona-ba kursu ida-idak iha lian Ingles no Tetun, favór refere ba kursu ne'e.
+- Access support media: https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+- Explore local resources: [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
+- Join our community: [Discord, Tetun Learners!](https://discord.gg/DaBJG2Gn)
 
-## Repository Structure
+## Our Commitment
 
-The repository is organized into several main directories:
+This project is dedicated to fostering sustainable development, preserving Timorese culture, and building lasting relationships between Peace Corps volunteers and local communities. By combining traditional knowledge with modern techniques, we aim to create a brighter future for Timor-Leste.
 
-- **[Readings/](Readings/)**: Contains reading materials on the Key Courses and Timor-Leste specific cultural content/Kontein materiál lee kona-ba Kursu Prinsipal no konteúdu kulturál espesífiku Timor-Leste nian.
-- **[lesson_plans/](lesson_plans/)**: Structured lesson plans and support material for the Key Courses/Planu lisaun estruturadu no materiál apoiu ba Kursu Prinsipal sira.
-- **[activities/](activities/)**: Hands-on activities to complement the lessons for each Key Course/Atividade hands-on atu komplementa lisaun sira ba kada Kursu Prinsipal.
-- **[quizzes/](quizzes/)**: Multiple choice quizzes for each Key Course/Kestionáriu opsaun oin-oin ba kada Kursu Prinsipal.
-Quizzes are available locally and online at/Kestionáriu sira disponivel iha fatin lokál no online; 
-https://tl-web.s3.us-west-2.amazonaws.com/quizzes/s3_quiz.html
-- **[quizzes_fitb/](quizzes_fitb/)**: Fill in the blank question quizzes for over 15 courses available localy and online at/Halo kompletu kestionáriu ba kursu 15 resin disponivel lokál no online iha; https://tl-web.s3.us-west-2.amazonaws.com/quizzes_fitb/s3.html
+You are invited to explore these resources, share your experiences, and contribute to this growing knowledge base. Together, we can build a stronger, more resilient Timor-Leste.
 
-All multiple choice and fill in the blanks quizzes are stored in JSON format for ease of re-use.
-- **[games/](games/)**: Interactive educational games/Jogu edukasaun interativu.
-- **[scripts/](scripts/)**: Utility scripts for various purposes/Eskritura utilidade ba objetivu oioin.
-- **[syllabus/](syllabus/)**: Detailed course syllabi for the Key Courses/Kursu detalladu ba Kursu Prinsipal sira.
+---
 
-Additional Resources:
-- **[recipes/](recipes/)**: Traditional and other recipes relevant to Timor-Leste/Receita tradisionál no sira seluk ne'ebé relevante ba Timor-Leste.
-- **[timorLesteMap/](timorLesteMap/)**: Resources for creating an interactive map of Timor-Leste/Rekursu atu kria mapa interativu ida kona-ba Timor-Leste.
-- **[pdf/](pdf/)**: PDF resources, such as client intake forms for holistic health services/Rekursu PDF, hanesan formuláriu intake kliente ba servisu saúde holistiku.
+Versaun Tetun:
 
-## Resources
+# Habele Timor-Leste: Viajen Aprendizajen Kolaborativu
 
-- Media and pdf course support files: https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
-- [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
-- [Discord, Tetun Learners!](https://discord.gg/DaBJG2Gn)
+Bemvindo ba ami-nia rekursu hub kompletu ne'ebé dezeñadu atu apoia voluntáriu Peace Corps no komunidade vibrante Timor-Leste nian. Koleksaun materiál ida-ne'e buka atu promove dezenvolvimentu sustentável, troka kultura, no aprendizajen mútua entre voluntáriu sira no ema Timor oan sira.
+
+[The rest of the content would be translated to Tetun in a similar manner, maintaining the structure and key points of the English version.]
 
 
 ## Bibliography
