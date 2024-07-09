@@ -1,14 +1,17 @@
 # Empowering Timor-Leste: A Collaborative Learning Journey
 
-Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
+<img src="jpg/TL_croc_flag.jpg" alt="A Timorese black crocodile flag" width="400"/>
 
-<img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
+Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
 Support media for the courses can be found here:
 https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
 
 Bele hetan média apoiu ba kursu sira iha ne'e:
 https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+
+<img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
+
 ## Kursu Prinsipal sira / Key Courses
 
 These courses blend traditional Timorese wisdom with modern practices, creating a unique learning experience that respects local culture while introducing new skills:
