@@ -2,13 +2,64 @@
 
 Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
-Support media for the courses can be found here:
-https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
-
-Bele hetan média apoiu ba kursu sira iha ne'e:
-https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+## Media
 
 <img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
+
+Bele hetan média apoiu ba kursu sira iha ne'e/Support media for the courses can be found here:
+
+https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+
+## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 
+
+https://www.youtube.com/watch?v=5hKWLY1lZrs
+
+Foka liu ba fatin sira duke ema bele troka hahalok no hamenus krime to'o 35% iha fatin sira ne'ebé uza ona. 
+
+TimorLesteMap nia diresaun iha kódigu aws lambda ne'ebé atualiza mapa ida ho pontu-interese bainhira ita hakerek latitude no naruk to'o númeru livre ida-ne'ebé estabelese iha aws ba projetu.
+ 
+---
+
+Focusing on places rather than people can change behaviors and reduce crime up to 35% in places where it has been used.
+
+TimorLesteMap directory contains aws lambda code that updates a map with points of interest when you text a lattitude and longitude to a toll free number that was set up in aws for the project. 
+
+<img src="jpg/TL_mapper.jpg" alt="Map of Timor Leste with points of interest" width="400"/>
+
+https://tl-web.s3.us-west-2.amazonaws.com/index.html
+
+The code works by updating a csv in s3 that holds information about the points of interest. ex:
+
+-8.651012,126.654322,crocodile,cadetblue
+
+When the lambda gets a new text message (via pinpoint and sns), it adds the points of interest to the index.html.
+
+var popup_07a6af339c64a0d6a28f72144d1d501b = L.popup({"maxWidth": "100%"});
+ex:
+```            
+var html_bd05340fc1335ce87240f82ba1ef79db = $(`<div id="html_bd05340fc1335ce87240f82ba1ef79db" style="width: 100.0%; height: 100.0%;">elephant</div>`)[0];
+popup_07a6af339c64a0d6a28f72144d1d501b.setContent(html_bd05340fc1335ce87240f82ba1ef79db);
+```
+
+## Online Automated Study Aids
+
+Automatiza opsaun oin-oin no enxe kestionáriu sira iha internét/Automated multiple choice and fill in the blank question quizzes are available online here;
+
+https://tl-web.s3.us-west-2.amazonaws.com/quizzes/s3_quiz.html
+
+https://tl-web.s3.us-west-2.amazonaws.com/quizzes_fitb/s3.html
+
+Kestionáriu no kestionáriu sira_fitb iha opsaun oioin no kompleta pergunta sira iha formatu JSON. 
+Bainhira JSON nia kestionáriu sira hatama ba s3 husi ne'ebé mak html serve, kestionáriu sira-ne'e automatikamente lori husi html. 
+
+Estudante sira bele hili husi kursu oioin 20 liu atu estuda.
+
+--- 
+
+The quizzes and quizzes_fitb folders hold multiple choice and fill in the blank questions in JSON format.
+When JSON quizzes are uploaded to s3 where the html is served from, the quizzes are automatically loaded by the html.
+
+Students can choose from over 20 different courses to study on.
 
 ## Kursu Prinsipal sira / Key Courses
 
