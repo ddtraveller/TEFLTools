@@ -1,7 +1,5 @@
 # Empowering Timor-Leste: A Collaborative Learning Journey
 
-<img src="jpg/TL_croc_flag.jpg" alt="A Timorese black crocodile flag" width="400"/>
-
 Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
 Support media for the courses can be found here:
