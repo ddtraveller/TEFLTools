@@ -186,10 +186,12 @@ Don't add any commentary at the top, like 'Here is a syllabus...'"""
 
 ## Kursu Prinsipal sira / Key Courses
 
-These courses blend traditional Timorese wisdom with modern practices, creating a unique learning experience that respects local culture while introducing new skills:
+Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
+
+All courses are regionalized for Timor Leste and inclusive of local wisdom aligned with modern research and best practices, creating a unique learning experience that respects local culture while introducing new skills:
 
 1. **Moris rejenerativu: Aprosimasaun Permakultura / Regenerative Living: A Permaculture Approach**
-   - Learn sustainable farming techniques tailored to Timor-Leste's unique ecology.
+   - Learn sustainable permaculture, agricultural and husbandry techniques tailored to Timor-Leste's unique ecology.
 
 2. **Holistiku Kura Arte no Pratika / Holistic Healing Arts and Practices**
    - Explore traditional Timorese healing methods alongside modern holistic approaches.
@@ -206,9 +208,15 @@ These courses blend traditional Timorese wisdom with modern practices, creating 
 6. **Dezenvolvimentu no Implementasaun permajardín ba Seguransa Ai-han iha Timor-Leste / Permagarden Design and Implementation for Food Security in Timor-Leste**
    - Create productive, sustainable gardens to support community nutrition.
 
-7. **Introdusaun ba Programa Python ba Timor-Leste / Introduction to Python Programming for Timor-Leste**
-   - Gain practical coding skills to drive technological innovation in Timor-Leste.
+7. **Dezenvolvimentu software ba Timor-Leste / Software Development for Timor-Leste**
+   - Learn the tools and fundamental skills necesarry to work in the software development industry as an independent contractor.
 
+8. **Introdusaun ba Programa Python ba Timor-Leste / Introduction to Python Programming for Timor-Leste**
+   - Gain practical coding skills to drive technological innovation in Timor-Leste.
+   
+9. **Introdusaun ba Herbalizmu Mediku ba Timor-Leste / Introduction to Medical Herbalism for Timor-Leste**
+   - Gain knowledge of the science of plants, their parts and how they work in the body along with information on local plants and herbs that make up part of a healthy diet or have practical uses. 
+   
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Matadalan ba navigasaun / Navigation Guide
