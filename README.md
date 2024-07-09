@@ -65,7 +65,9 @@ You are invited to explore these resources, share your experiences, and contribu
 
 Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kultura Timor-Leste nian, no harii relasaun ba nafatin entre voluntáriu Corpo da Pas no komunidade lokál sira. Liu husi kombinasaun koñesimentu tradisionál ho téknika modernu, ami hakarak kria futuru ida-ne'ebé naroman liu ba Timor-Leste. 
  Imi hetan konvite atu esplora rekursu hirak-ne'e, fahe imi-nia esperiénsia, no kontribui ba baze koñesimentu ne'ebé aumenta. Hamutuk, ita bele harii Timor-Leste ida-ne'ebé forte liu no reziliente liu.
- 
+
+<img src="jpg/TL_kids.jpg" alt="Smiling Timorese students outside" width="400"/>
+
 ## Bibliography
 
 1. Acupressure's Potent Points. (No author or date provided)
