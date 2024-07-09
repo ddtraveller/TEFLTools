@@ -99,9 +99,9 @@ Computers with GPUs are needed to take full advantage of an LLM and do other kin
 
 With that being said, GPU computers are very small now and will be otw to Timor Leste in October with the purpose of providing local LLM access. This means a chatbot that can understand and speak English and Portuguese when online and can understand written text offline and respond verbally and/or in text.  
 
-<img src="jpg/small_gpu.jpg" alt="A small GPU computer, smaller than a football." width="400"/>
+<img src="jpg/small_gpu.jpg" alt="A small GPU computer, smaller than a football." width="200"/>
 
-<img src="jpg/lil_gpu.jpg" alt="A tiny GPU computer, about the size of a baseball." width="400"/>
+<img src="jpg/lil_gpu.jpg" alt="A tiny GPU computer, about the size of a baseball." width="200"/>
 
 ### Ezemplu Kodigu Jerasaun Python LLM Syllabus / Python LLM Syllabus Generation Code Sample
 
