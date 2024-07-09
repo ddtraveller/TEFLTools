@@ -1,8 +1,8 @@
-# Empowering Timor-Leste: A Collaborative Learning Journey
+# Haforsa Timor-Leste: viajen aprendizajen kolaborativu ida / Empowering Timor-Leste: A Collaborative Learning Journey
 
 Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
-## Media
+## Média / Media
 
 <img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
 
@@ -41,7 +41,7 @@ var html_bd05340fc1335ce87240f82ba1ef79db = $(`<div id="html_bd05340fc1335ce8724
 popup_07a6af339c64a0d6a28f72144d1d501b.setContent(html_bd05340fc1335ce87240f82ba1ef79db);
 ```
 
-## Online Automated Study Aids
+## Asisténsia Estudu automatizadu online no lokál / Online and Locally Available Automated Study Aids
 
 Automatiza opsaun oin-oin no enxe kestionáriu sira iha internét/Automated multiple choice and fill in the blank question quizzes are available online here;
 
@@ -60,6 +60,109 @@ The quizzes and quizzes_fitb folders hold multiple choice and fill in the blank 
 When JSON quizzes are uploaded to s3 where the html is served from, the quizzes are automatically loaded by the html.
 
 Students can choose from over 20 different courses to study on.
+
+## Kriasaun Kursu Jerativa AI Driven / Generative AI Driven Course Creation
+
+Maioria dadus ba materiál kursu iha repo ne'e mai husi fail PDF. 
+Programa ne'e organiza iha kursu sira liuhosi modelu língua boot. 
+Uza anthropic LLM jere_course.py la'o liu husi prosesu kriasaun kursu TEFL. 
+Primeiru, nia kaer no pdf ka arkivu testu ho dadus relevante ba kursu. Ida-ne'e bele lori maizumenus 10MB dadus. 
+Tuirmai, nia kria sinál ida. Husi dadus no programa, ne'e kria planu lisaun. 
+Ida-ne'e kria, lee, atividade, opsaun oioin no halo kompletu kestionáriu sira iha formatu JSON. 
+Estudante sira bele uza kestionáriu sira-ne'e online ka lokál no mós apropriadu atu uza iha LoRA tun di'ak ba LLM lokal. 
+Kursu sira iha repozisaun ne'e hetan ona uza AI no tuirmai ema ida fila fali hodi edita no halo riku informasaun sira-ne'e. 
+Presiza maizumenus minutu 10 no dolar amerikanu $1-4 atu selu konvite ba modelu apí maske bele uza LLM lokál ida-ne'ebé livre.
+ 
+---
+
+Most of the data for the course material in this repo came from pdf files. 
+It was organized into courses by a large language model.
+Using an Anthropic LLM generate_course.py walks through the process of creating a TEFL course.
+First, it loads and pdf or text files with data relevant to the course. It can take about 10MB of data.
+Then, it creates a syllabus. From the the data and the syllabus, it creates lesson plans.
+It creates, readings, activities, multiple choice and fill in the blank quizzes in JSON format.
+The quizzes can be used online or locally by students and are also suitable for use in LoRA fine tuning of a local LLM.
+The courses in this repo were generated using AI and then a human to go back and edit and enrich the information.
+It takes about 10 minutes and $1-4 USD to pay for calls to the model api although a local free LLM could be used.
+
+Halo programa iha Python ho LLM haree hanesan ne'e (no nota mistura instrusaun Ingles no Python - hotu-hotu mak kódigu ne'ebé válidu iha sentidu) / Generating a syllabus in python with an LLM looks like this (note the mix of English and python instruction - all of it is valid code in a sense);
+```
+def generate_syllabus(truncated_info):
+    """Generate a syllabus based on the project information using Claude."""
+    # Truncate project_info to fit within token limit
+    #truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)  # Leave some room for the prompt
+
+    prompt = f"""Given the following project information:
+{truncated_info}
+Please do the following:
+1. Synthesize the key points and goals of the project
+2. Localize the content for Timor Leste, considering cultural context and appropriateness
+3. Create a well-structured syllabus for a program, including:
+   - Course overview and objectives
+   - A structure that includes a sequence of learning units (these can be called weeks, modules, or units)
+   - For each learning unit, provide:
+     * Clear objectives
+     * Topics to be covered
+     * Activities or assignments
+   - Required resources (books, materials)
+   - Suggested items to cover
+   - Ideas for practical experience and community engagement
+   - Resources
+
+Format the output as Markdown, with clear headings and subheadings for each section. Use the following structure:
+
+# Course Title
+
+## Course Overview and Objectives
+
+[Course overview and objectives here]
+
+## Learning Unit 1: [Unit Title]
+- Objectives:
+  * [Objective 1]
+  * [Objective 2]
+- Topics:
+  * [Topic 1]
+  * [Topic 2]
+- Activities:
+  * [Activity 1]
+  * [Activity 2]
+
+[Continue with more learning units]
+
+## Required Resources
+
+[List resources here]
+
+## Suggested Items to Cover
+
+[List suggested items here]
+
+## Practical Experience and Community Engagement
+
+[List ideas here]
+
+## Additional Resources
+
+[List additional resources here]
+
+Ensure that each learning unit is clearly labeled and structured as shown above.
+Don't add any commentary at the top, like 'Here is a syllabus...'"""
+
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=4000,
+        temperature=0.2,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+    time.sleep(2)  # Pause for 2 seconds after Anthropic call
+    return message.content[0].text if message.content else ""
+```
 
 ## Kursu Prinsipal sira / Key Courses
 
