@@ -89,6 +89,20 @@ It takes about 10 minutes and $1-4 USD to pay for calls to the model api althoug
 
 <img src="jpg/llm_applications.jpg" alt="LLM applications; banking, health care, education, programming, sales, marketing, etc." width="400"/>
 
+### Aplikasaun LLM lokál no GPU / Local LLM Applications and GPUs
+
+Modelu lian boot bele forte tebes maibé komputadór sira ne'ebé iha de'it CPU sei iha kapasidade limitadu atu hala'o sira. 
+Presiza komputadór ho GPU sira atu aproveita hotu LLM no halo prosesu oioin. Mákina hirak-ne'e tenke fó dalan ba funsionáriu hanorin Timor-Leste atu produtivu liu hodi permite sira uza LLM maibé mós aplikasaun komputadór konvensiál liu hanesan uzasurat-tahan ka uza sira atu hala'o projector.
+ 
+Large language models can be very powerful but computers with only a CPU will have a limited ability to run them.
+Computers with GPUs are needed to take full advantage of an LLM and do other kinds of processing. These machines should enable Timor Leste teaching staff to be more productive by allowing them to use LLMs but also more conventional computer applications like using spreadsheets or using them to run a projector.
+
+With that being said, GPU computers are very small now and will be otw to Timor Leste in October with the purpose of providing local LLM access. This means a chatbot that can understand and speak English and Portuguese when online and can understand written text offline and respond verbally and/or in text.  
+
+<img src="jpg/small_gpu.jpg" alt="A small GPU computer, smaller than a football." width="400"/>
+
+<img src="jpg/lil_gpu.jpg" alt="A tiny GPU computer, about the size of a baseball." width="400"/>
+
 ### Ezemplu Kodigu Jerasaun Python LLM Syllabus / Python LLM Syllabus Generation Code Sample
 
 Halo programa iha Python ho LLM haree hanesan ne'e (no nota mistura instrusaun Ingles no Python - hotu-hotu mak kódigu ne'ebé válidu iha sentidu) / Generating a syllabus in python with an LLM looks like this (note the mix of English and python instruction - all of it is valid code in a sense);
