@@ -85,6 +85,12 @@ The quizzes can be used online or locally by students and are also suitable for 
 The courses in this repo were generated using AI and then a human to go back and edit and enrich the information.
 It takes about 10 minutes and $1-4 USD to pay for calls to the model api although a local free LLM could be used.
 
+### Aplikasaun LLM / LLM Applications
+
+<img src="jpg/llm_applications.jpg" alt="LLM applications; banking, health care, education, programming, sales, marketing, etc." width="400"/>
+
+### Ezemplu Kodigu Jerasaun Python LLM Syllabus / Python LLM Syllabus Generation Code Sample
+
 Halo programa iha Python ho LLM haree hanesan ne'e (no nota mistura instrusaun Ingles no Python - hotu-hotu mak kódigu ne'ebé válidu iha sentidu) / Generating a syllabus in python with an LLM looks like this (note the mix of English and python instruction - all of it is valid code in a sense);
 ```
 def generate_syllabus(truncated_info):
