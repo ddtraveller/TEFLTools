@@ -2,7 +2,7 @@
 
 Welcome to our comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
-![Smiling Timorese girl studying](jpg/TL_kid.jpg)
+<img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
 
 ## Kursu Prinsipal sira / Key Courses
 
@@ -29,7 +29,7 @@ Our courses blend traditional Timorese wisdom with modern practices, creating a 
 7. **Introdusaun ba Programa Python ba Timor-Leste / Introduction to Python Programming for Timor-Leste**
    - Gain practical coding skills to drive technological innovation in Timor-Leste.
 
-![Timorese children in traditional dress](jpg/TL_kids2.jpg)
+<img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Matadalan ba navigasaun / Navigation Guide
 
@@ -45,7 +45,7 @@ For practical application:
 - Enjoy interactive learning experiences in the **games/** folder.
 - Discover traditional and medicinal preparations in the **recipes/** section.
 
-![Timorese students in a classroom](jpg/TL_classroom.jpg)
+<img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
 
 ## Rekursu / Resources
 
@@ -59,7 +59,7 @@ This project is dedicated to fostering sustainable development, preserving Timor
 
 We invite Peace Corps volunteers and Timorese community members to explore these resources, share their experiences, and contribute to this growing knowledge base. Together, we can build a stronger, more resilient Timor-Leste.
 
-![Timorese children outdoors](jpg/TL_kids.jpg)
+<img src="jpg/TL_kids.jpg" alt="Timorese children outdoors" width="400"/>
 
 ---
 
