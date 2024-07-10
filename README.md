@@ -10,19 +10,70 @@ Bele hetan média apoiu ba kursu sira iha ne'e/Support media for the courses can
 
 https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
 
+## Kursu Prinsipal sira / Key Courses
+
+Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
+
+All courses are regionalized for Timor Leste and inclusive of local wisdom aligned with modern research and best practices, creating a unique learning experience that respects local culture while introducing new skills:
+
+1. **Moris rejenerativu: Aprosimasaun Permakultura / Regenerative Living: A Permaculture Approach**
+   - Learn sustainable permaculture, agricultural and husbandry techniques tailored to Timor-Leste's unique ecology.
+
+2. **Holistiku Kura Arte no Pratika / Holistic Healing Arts and Practices**
+   - Explore traditional Timorese healing methods alongside modern holistic approaches.
+
+3. **Prátika Ingles ba Timor-Leste / Practical English for Timor-Leste**
+   - Develop English skills contextualized for daily life and work in Timor-Leste.
+
+4. **Inovasaun no Sustentabilidade Ai-han ba Timor-Leste / Food Innovation and Sustainability for Timor-Leste**
+   - Discover ways to enhance food security using local ingredients and sustainable methods.
+
+5. **Konstrusaun Bambu Sustentavel iha Timor-Leste / Sustainable Bamboo Construction in Timor-Leste**
+   - Learn eco-friendly building techniques using locally abundant bamboo.
+
+6. **Dezenvolvimentu no Implementasaun permajardín ba Seguransa Ai-han iha Timor-Leste / Permagarden Design and Implementation for Food Security in Timor-Leste**
+   - Create productive, sustainable gardens to support community nutrition.
+
+7. **Dezenvolvimentu software ba Timor-Leste / Software Development for Timor-Leste**
+   - Learn the tools and fundamental skills necesarry to work in the software development industry as an independent contractor.
+
+8. **Introdusaun ba Programa Python ba Timor-Leste / Introduction to Python Programming for Timor-Leste**
+   - Gain practical coding skills to drive technological innovation in Timor-Leste.
+   
+9. **Introdusaun ba Herbalizmu Mediku ba Timor-Leste / Introduction to Medical Herbalism for Timor-Leste**
+   - Gain knowledge of the science of plants, their parts and how they work in the body along with information on local plants and herbs that make up part of a healthy diet or have practical uses. 
+   
+<img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
+
+## Matadalan ba navigasaun / Navigation Guide
+
+To make the most of these resources:
+
+1. Begin with the syllabus in the **syllabus/** directory to understand course objectives.
+2. Explore related readings in the **Readings/** folder for in-depth knowledge.
+3. Follow structured lesson plans in the **lesson_plans/** directory.
+4. Engage with hands-on activities from the **activities/** folder and assess understanding through quizzes in the **quizzes/** directory.
+
+For practical application:
+- Utilize tools and demonstrations in the **scripts/** directory.
+- Enjoy interactive learning experiences in the **games/** folder.
+- Discover traditional and medicinal preparations in the **recipes/** section.
+
+<img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
+
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 
 
 https://www.youtube.com/watch?v=5hKWLY1lZrs
 
 Foka liu ba fatin sira duke ema bele troka hahalok no hamenus krime to'o 35% iha fatin sira ne'ebé uza ona. 
 
-TimorLesteMap nia diresaun iha kódigu aws lambda ne'ebé atualiza mapa ida ho pontu-interese bainhira ita hakerek latitude no naruk to'o númeru livre ida-ne'ebé estabelese iha aws ba projetu.
+TimorLesteMap nia diresaun iha kódigu aws lambda ne'ebé atualiza mapa ida ho pontu-interese bainhira ita hakerek latitude no naruk to'o númeru gratuita, +18445730801, ne'ebé estabelese iha aws ba projetu. Tenke autoriza asesu molok númeru telefone bele uza númeru taxa gratuita.
  
 ---
 
 Focusing on places rather than people can change behaviors and reduce crime up to 35% in places where it has been used.
 
-TimorLesteMap directory contains aws lambda code that updates a map with points of interest when you text a lattitude and longitude to a toll free number that was set up in aws for the project. 
+TimorLesteMap directory contains aws lambda code that updates a map with points of interest when you text a lattitude and longitude to a toll free number, +18445730801, that was set up in aws for the project. Access must be authorized before a phone number can use the toll free number. 
 
 <img src="jpg/TL_mapper.jpg" alt="Map of Timor Leste with points of interest" width="400"/>
 
@@ -183,57 +234,6 @@ Don't add any commentary at the top, like 'Here is a syllabus...'"""
     time.sleep(2)  # Pause for 2 seconds after Anthropic call
     return message.content[0].text if message.content else ""
 ```
-
-## Kursu Prinsipal sira / Key Courses
-
-Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
-
-All courses are regionalized for Timor Leste and inclusive of local wisdom aligned with modern research and best practices, creating a unique learning experience that respects local culture while introducing new skills:
-
-1. **Moris rejenerativu: Aprosimasaun Permakultura / Regenerative Living: A Permaculture Approach**
-   - Learn sustainable permaculture, agricultural and husbandry techniques tailored to Timor-Leste's unique ecology.
-
-2. **Holistiku Kura Arte no Pratika / Holistic Healing Arts and Practices**
-   - Explore traditional Timorese healing methods alongside modern holistic approaches.
-
-3. **Prátika Ingles ba Timor-Leste / Practical English for Timor-Leste**
-   - Develop English skills contextualized for daily life and work in Timor-Leste.
-
-4. **Inovasaun no Sustentabilidade Ai-han ba Timor-Leste / Food Innovation and Sustainability for Timor-Leste**
-   - Discover ways to enhance food security using local ingredients and sustainable methods.
-
-5. **Konstrusaun Bambu Sustentavel iha Timor-Leste / Sustainable Bamboo Construction in Timor-Leste**
-   - Learn eco-friendly building techniques using locally abundant bamboo.
-
-6. **Dezenvolvimentu no Implementasaun permajardín ba Seguransa Ai-han iha Timor-Leste / Permagarden Design and Implementation for Food Security in Timor-Leste**
-   - Create productive, sustainable gardens to support community nutrition.
-
-7. **Dezenvolvimentu software ba Timor-Leste / Software Development for Timor-Leste**
-   - Learn the tools and fundamental skills necesarry to work in the software development industry as an independent contractor.
-
-8. **Introdusaun ba Programa Python ba Timor-Leste / Introduction to Python Programming for Timor-Leste**
-   - Gain practical coding skills to drive technological innovation in Timor-Leste.
-   
-9. **Introdusaun ba Herbalizmu Mediku ba Timor-Leste / Introduction to Medical Herbalism for Timor-Leste**
-   - Gain knowledge of the science of plants, their parts and how they work in the body along with information on local plants and herbs that make up part of a healthy diet or have practical uses. 
-   
-<img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
-
-## Matadalan ba navigasaun / Navigation Guide
-
-To make the most of these resources:
-
-1. Begin with the syllabus in the **syllabus/** directory to understand course objectives.
-2. Explore related readings in the **Readings/** folder for in-depth knowledge.
-3. Follow structured lesson plans in the **lesson_plans/** directory.
-4. Engage with hands-on activities from the **activities/** folder and assess understanding through quizzes in the **quizzes/** directory.
-
-For practical application:
-- Utilize tools and demonstrations in the **scripts/** directory.
-- Enjoy interactive learning experiences in the **games/** folder.
-- Discover traditional and medicinal preparations in the **recipes/** section.
-
-<img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
 
 ## Rekursu / Resources
 
