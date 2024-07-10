@@ -138,6 +138,16 @@ It takes about 10 minutes and $1-4 USD to pay for calls to the model api althoug
 
 ### Aplikasaun LLM / LLM Applications
 
+Konteúdu kursu no programa Python disponivel iha kódigu ida-ne'e ne'ebé fornese instrusaun, ezemplu no utilizasaun AI LLM. 
+AI fó benefísiu barak ba edukasaun espesifikamente no jeralmente. Maske ida-ne'e mak software teknolojia ne'ebé avansadu liu no aas liu, maibé mós fasil liu atu hanorin no uza.
+ 
+Course content and python programs are available in this code repo that provide instruction, examples and usage of AI LLMs.
+AI provides many benefits for education specifically and in general. While this is some of the most advanced and highest technology software, it is also some of the easiest to teach and use.
+
+<img src="jpg/llm_benefits_educators.png" alt="Automatic grading, content creation, instant feedback and many other benefits are available to educators via AI and LLMs." width="400"/>
+
+<img src="jpg/llm_benefits_students.png" alt="Endless reviews, interaction, personalized instruction and adaptability are available to students via large language models" width="400"/>
+
 <img src="jpg/llm_applications.jpg" alt="LLM applications; banking, health care, education, programming, sales, marketing, etc." width="400"/>
 
 ### Aplikasaun LLM lokál no GPU / Local LLM Applications and GPUs
