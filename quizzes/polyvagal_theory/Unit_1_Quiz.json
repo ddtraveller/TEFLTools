@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Polyvagal Theory",
+  "questions": [
+    {
+      "question": "Who developed Polyvagal Theory?",
+      "choices": [
+        "Dr. Stephen Hawking",
+        "Dr. Stephen Porges",
+        "Dr. Sigmund Freud",
+        "Dr. Carl Jung"
+      ],
+      "answer": "Dr. Stephen Porges"
+    },
+    {
+      "question": "How many distinct neural circuits does Polyvagal Theory propose in the autonomic nervous system?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": "Three"
+    },
+    {
+      "question": "Which of the following is NOT one of the neural circuits described in Polyvagal Theory?",
+      "choices": [
+        "Ventral vagal complex",
+        "Sympathetic nervous system",
+        "Dorsal vagal complex",
+        "Peripheral nervous system"
+      ],
+      "answer": "Peripheral nervous system"
+    },
+    {
+      "question": "What is the term for the subconscious process by which our nervous system evaluates environmental cues for safety or danger?",
+      "choices": [
+        "Neuroception",
+        "Perception",
+        "Intuition",
+        "Cognition"
+      ],
+      "answer": "Neuroception"
+    },
+    {
+      "question": "Which neural circuit is associated with social engagement and feelings of safety?",
+      "choices": [
+        "Sympathetic nervous system",
+        "Dorsal vagal complex",
+        "Ventral vagal complex",
+        "Peripheral nervous system"
+      ],
+      "answer": "Ventral vagal complex"
+    },
+    {
+      "question": "What is vagal tone?",
+      "choices": [
+        "The pitch of one's voice",
+        "The activity of the vagus nerve",
+        "The tension in facial muscles",
+        "The rhythm of heart contractions"
+      ],
+      "answer": "The activity of the vagus nerve"
+    },
+    {
+      "question": "Which neural circuit is responsible for the 'fight or flight' response?",
+      "choices": [
+        "Ventral vagal complex",
+        "Sympathetic nervous system",
+        "Dorsal vagal complex",
+        "Parasympathetic nervous system"
+      ],
+      "answer": "Sympathetic nervous system"
+    },
+    {
+      "question": "What is the most primitive neural circuit according to Polyvagal Theory?",
+      "choices": [
+        "Ventral vagal complex",
+        "Sympathetic nervous system",
+        "Dorsal vagal complex",
+        "Central nervous system"
+      ],
+      "answer": "Dorsal vagal complex"
+    },
+    {
+      "question": "Which of the following is NOT a function of the vagus nerve?",
+      "choices": [
+        "Regulating heart rate",
+        "Influencing digestion",
+        "Controlling voluntary muscle movement",
+        "Supporting social engagement behaviors"
+      ],
+      "answer": "Controlling voluntary muscle movement"
+    },
+    {
+      "question": "What state is associated with the dorsal vagal complex?",
+      "choices": [
+        "Fight",
+        "Flight",
+        "Freeze",
+        "Fawn"
+      ],
+      "answer": "Freeze"
+    },
+    {
+      "question": "Which practice can help improve vagal tone?",
+      "choices": [
+        "Intense exercise",
+        "Deep breathing exercises",
+        "Caffeine consumption",
+        "Sleep deprivation"
+      ],
+      "answer": "Deep breathing exercises"
+    },
+    {
+      "question": "In Polyvagal Theory, what is the hierarchical order of the neural circuits from most evolved to most primitive?",
+      "choices": [
+        "Ventral vagal, sympathetic, dorsal vagal",
+        "Sympathetic, ventral vagal, dorsal vagal",
+        "Dorsal vagal, sympathetic, ventral vagal",
+        "Ventral vagal, dorsal vagal, sympathetic"
+      ],
+      "answer": "Ventral vagal, sympathetic, dorsal vagal"
+    },
+    {
+      "question": "What does high vagal tone indicate?",
+      "choices": [
+        "Poor emotional regulation",
+        "Better emotional regulation and social functioning",
+        "Increased sympathetic activation",
+        "Chronic stress"
+      ],
+      "answer": "Better emotional regulation and social functioning"
+    },
+    {
+      "question": "Which of the following is a key concept in Polyvagal Theory?",
+      "choices": [
+        "Cognitive dissonance",
+        "Operant conditioning",
+        "Neuroception",
+        "Psychoanalysis"
+      ],
+      "answer": "Neuroception"
+    },
+    {
+      "question": "What does the term 'polyvagal' refer to?",
+      "choices": [
+        "Multiple types of vagus nerves",
+        "Multiple branches of the vagus nerve",
+        "Polygraph testing of the vagus nerve",
+        "Polymorphic variations in the vagus nerve"
+      ],
+      "answer": "Multiple branches of the vagus nerve"
+    },
+    {
+      "question": "Which state promotes calmness, social bonding, and health restoration?",
+      "choices": [
+        "Sympathetic state",
+        "Dorsal vagal state",
+        "Ventral vagal state",
+        "Fight or flight state"
+      ],
+      "answer": "Ventral vagal state"
+    },
+    {
+      "question": "What type of response is associated with the dorsal vagal complex in extreme cases of perceived life threat?",
+      "choices": [
+        "Hyperarousal",
+        "Aggression",
+        "Shutdown or dissociation",
+        "Increased social engagement"
+      ],
+      "answer": "Shutdown or dissociation"
+    },
+    {
+      "question": "According to Polyvagal Theory, which system evolved first in vertebrates?",
+      "choices": [
+        "Ventral vagal complex",
+        "Sympathetic nervous system",
+        "Dorsal vagal complex",
+        "Central nervous system"
+      ],
+      "answer": "Dorsal vagal complex"
+    },
+    {
+      "question": "What is one of the main contributions of Polyvagal Theory to our understanding of the autonomic nervous system?",
+      "choices": [
+        "It disproved the existence of the sympathetic nervous system",
+        "It introduced the concept of a third neural circuit",
+        "It showed that the nervous system has no impact on behavior",
+        "It proved that all autonomic responses are consciously controlled"
+      ],
+      "answer": "It introduced the concept of a third neural circuit"
+    },
+    {
+      "question": "How does Polyvagal Theory suggest the three neural circuits operate?",
+      "choices": [
+        "Independently",
+        "Simultaneously",
+        "Hierarchically",
+        "Randomly"
+      ],
+      "answer": "Hierarchically"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of the ventral vagal state?",
+      "choices": [
+        "Promotes calmness",
+        "Facilitates social bonding",
+        "Supports health and growth",
+        "Increases heart rate and blood pressure"
+      ],
+      "answer": "Increases heart rate and blood pressure"
+    },
+    {
+      "question": "What is the primary function of neuroception in Polyvagal Theory?",
+      "choices": [
+        "To consciously analyze threats",
+        "To subconsciously evaluate environmental safety",
+        "To control voluntary muscle movements",
+        "To regulate digestion"
+      ],
+      "answer": "To subconsciously evaluate environmental safety"
+    },
+    {
+      "question": "Which field is NOT mentioned as being significantly impacted by Polyvagal Theory?",
+      "choices": [
+        "Psychology",
+        "Medicine",
+        "Education",
+        "Astrophysics"
+      ],
+      "answer": "Astrophysics"
+    },
+    {
+      "question": "What does Polyvagal Theory suggest about the traditional view of the autonomic nervous system?",
+      "choices": [
+        "It confirms the two-branch model",
+        "It completely rejects the existence of sympathetic and parasympathetic branches",
+        "It expands on the two-branch model by introducing a third circuit",
+        "It suggests the autonomic nervous system doesn't exist"
+      ],
+      "answer": "It expands on the two-branch model by introducing a third circuit"
+    },
+    {
+      "question": "According to Polyvagal Theory, what happens when the ventral vagal complex is activated?",
+      "choices": [
+        "Heart rate increases",
+        "Social withdrawal occurs",
+        "Digestion slows down",
+        "Social engagement is facilitated"
+      ],
+      "answer": "Social engagement is facilitated"
+    },
+    {
+      "question": "Which of the following is a potential application of Polyvagal Theory in therapy?",
+      "choices": [
+        "Ignoring the client's physiological state",
+        "Focusing solely on cognitive processes",
+        "Helping clients recognize and regulate their autonomic states",
+        "Encouraging constant sympathetic activation"
+      ],
+      "answer": "Helping clients recognize and regulate their autonomic states"
+    },
+    {
+      "question": "What role does the vagus nerve play in the parasympathetic nervous system?",
+      "choices": [
+        "It is a minor component",
+        "It is the primary component",
+        "It has no role in the parasympathetic nervous system",
+        "It only affects the sympathetic nervous system"
+      ],
+      "answer": "It is the primary component"
+    },
+    {
+      "question": "How might understanding Polyvagal Theory benefit individuals dealing with trauma or anxiety disorders?",
+      "choices": [
+        "It suggests that their symptoms are imaginary",
+        "It provides a framework for understanding their physiological responses",
+        "It proves that autonomic responses can't be changed",
+        "It shows that social engagement is harmful for recovery"
+      ],
+      "answer": "It provides a framework for understanding their physiological responses"
+    },
+    {
+      "question": "What does Polyvagal Theory suggest about the relationship between physiology and behavior?",
+      "choices": [
+        "There is no relationship between physiology and behavior",
+        "Physiology and behavior are completely independent",
+        "There is a complex interplay between the nervous system, emotions, and behavior",
+        "Behavior always overrides physiological responses"
+      ],
+      "answer": "There is a complex interplay between the nervous system, emotions, and behavior"
+    },
+    {
+      "question": "According to Polyvagal Theory, which neural circuit is activated during social bonding and effective communication?",
+      "choices": [
+        "Sympathetic nervous system",
+        "Dorsal vagal complex",
+        "Ventral vagal complex",
+        "Somatic nervous system"
+      ],
+      "answer": "Ventral vagal complex"
+    }
+  ]
+}
