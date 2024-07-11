@@ -1,0 +1,305 @@
+{
+  "title": "Spaceship Earth's Life Support Systems",
+  "questions": [
+    {
+      "question": "Which of the following is NOT one of the three fundamental global cycles mentioned in the reading?",
+      "choices": [
+        "Carbon cycle",
+        "Water cycle",
+        "Nutrient cycle",
+        "Oxygen cycle"
+      ],
+      "answer": "Oxygen cycle"
+    },
+    {
+      "question": "What process do plants and phytoplankton use to absorb carbon dioxide from the atmosphere?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Decomposition",
+        "Evaporation"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which human activity is primarily responsible for disrupting the carbon cycle?",
+      "choices": [
+        "Deforestation",
+        "Overfishing",
+        "Burning of fossil fuels",
+        "Urban development"
+      ],
+      "answer": "Burning of fossil fuels"
+    },
+    {
+      "question": "What is another name for the water cycle?",
+      "choices": [
+        "Hydrologic cycle",
+        "Aquatic cycle",
+        "Precipitation cycle",
+        "Moisture cycle"
+      ],
+      "answer": "Hydrologic cycle"
+    },
+    {
+      "question": "Which of the following is NOT a process involved in the water cycle?",
+      "choices": [
+        "Evaporation",
+        "Transpiration",
+        "Condensation",
+        "Photosynthesis"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What role do microorganisms play in the nutrient cycle?",
+      "choices": [
+        "They absorb nutrients from the atmosphere",
+        "They break down organic matter and release nutrients into the soil",
+        "They convert inorganic nutrients into organic forms",
+        "They transport nutrients between ecosystems"
+      ],
+      "answer": "They break down organic matter and release nutrients into the soil"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a critical ecosystem in Timor-Leste?",
+      "choices": [
+        "Mangrove forests",
+        "Coral reefs",
+        "Tropical forests",
+        "Grasslands"
+      ],
+      "answer": "Grasslands"
+    },
+    {
+      "question": "What is the primary function of mangrove forests in coastal protection?",
+      "choices": [
+        "They absorb carbon dioxide",
+        "They provide habitat for fish",
+        "They act as natural barriers against storm surges and coastal erosion",
+        "They regulate ocean temperatures"
+      ],
+      "answer": "They act as natural barriers against storm surges and coastal erosion"
+    },
+    {
+      "question": "Why are coral reefs often called the 'rainforests of the sea'?",
+      "choices": [
+        "Because they are always wet",
+        "Due to their incredible biodiversity",
+        "Because they produce oxygen",
+        "Due to their green color"
+      ],
+      "answer": "Due to their incredible biodiversity"
+    },
+    {
+      "question": "What role do tropical forests play in the water cycle?",
+      "choices": [
+        "They create clouds",
+        "They purify groundwater",
+        "They influence precipitation and prevent soil erosion",
+        "They increase ocean salinity"
+      ],
+      "answer": "They influence precipitation and prevent soil erosion"
+    },
+    {
+      "question": "Which of the following is NOT an example of an ecosystem service?",
+      "choices": [
+        "Food provision",
+        "Climate regulation",
+        "Nutrient cycling",
+        "Fossil fuel production"
+      ],
+      "answer": "Fossil fuel production"
+    },
+    {
+      "question": "What is biomimicry?",
+      "choices": [
+        "The study of human impact on ecosystems",
+        "The process of creating artificial ecosystems",
+        "The practice of studying and emulating nature's strategies to solve human problems",
+        "The genetic modification of organisms to enhance ecosystem services"
+      ],
+      "answer": "The practice of studying and emulating nature's strategies to solve human problems"
+    },
+    {
+      "question": "Which natural structure has inspired energy-efficient building designs?",
+      "choices": [
+        "Beehives",
+        "Spider webs",
+        "Termite mounds",
+        "Bird nests"
+      ],
+      "answer": "Termite mounds"
+    },
+    {
+      "question": "What is the primary role of oceans in the carbon cycle?",
+      "choices": [
+        "Producing carbon dioxide",
+        "Absorbing carbon dioxide and acting as a carbon sink",
+        "Converting carbon dioxide to oxygen",
+        "Releasing carbon dioxide into the atmosphere"
+      ],
+      "answer": "Absorbing carbon dioxide and acting as a carbon sink"
+    },
+    {
+      "question": "Which of the following is a supporting ecosystem service?",
+      "choices": [
+        "Food production",
+        "Flood control",
+        "Recreational benefits",
+        "Soil formation"
+      ],
+      "answer": "Soil formation"
+    },
+    {
+      "question": "What is the main benefit of mangrove forests for local fisheries?",
+      "choices": [
+        "They provide wood for fishing boats",
+        "They serve as nurseries for many fish species",
+        "They increase water salinity",
+        "They reduce fish populations"
+      ],
+      "answer": "They serve as nurseries for many fish species"
+    },
+    {
+      "question": "How do tropical forests contribute to climate regulation?",
+      "choices": [
+        "By producing greenhouse gases",
+        "By absorbing large amounts of carbon dioxide",
+        "By increasing global temperatures",
+        "By reducing atmospheric oxygen"
+      ],
+      "answer": "By absorbing large amounts of carbon dioxide"
+    },
+    {
+      "question": "Which of the following is a cultural ecosystem service?",
+      "choices": [
+        "Water purification",
+        "Pollination",
+        "Spiritual benefits",
+        "Nutrient cycling"
+      ],
+      "answer": "Spiritual benefits"
+    },
+    {
+      "question": "What natural structure has inspired the development of self-cleaning surfaces?",
+      "choices": [
+        "Shark skin",
+        "Lotus leaves",
+        "Butterfly wings",
+        "Tree bark"
+      ],
+      "answer": "Lotus leaves"
+    },
+    {
+      "question": "Which process in the water cycle involves water turning into vapor?",
+      "choices": [
+        "Condensation",
+        "Precipitation",
+        "Evaporation",
+        "Infiltration"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question": "What is the primary function of coral reefs in coastal protection?",
+      "choices": [
+        "They absorb water during storms",
+        "They create a physical barrier against waves",
+        "They increase coastal wind speeds",
+        "They produce sand for beaches"
+      ],
+      "answer": "They create a physical barrier against waves"
+    },
+    {
+      "question": "Which of the following elements is NOT mentioned as part of the nutrient cycle?",
+      "choices": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Carbon"
+      ],
+      "answer": "Carbon"
+    },
+    {
+      "question": "What is the main way that human activities have disrupted the carbon cycle?",
+      "choices": [
+        "By increasing photosynthesis",
+        "By reducing ocean volume",
+        "By increasing atmospheric carbon dioxide levels",
+        "By eliminating all carbon-based life forms"
+      ],
+      "answer": "By increasing atmospheric carbon dioxide levels"
+    },
+    {
+      "question": "Which of the following is a regulating ecosystem service?",
+      "choices": [
+        "Timber production",
+        "Genetic resources",
+        "Climate regulation",
+        "Soil formation"
+      ],
+      "answer": "Climate regulation"
+    },
+    {
+      "question": "What role do plants play in the water cycle?",
+      "choices": [
+        "They only absorb water",
+        "They only release water",
+        "They both absorb and release water through transpiration",
+        "They have no significant role in the water cycle"
+      ],
+      "answer": "They both absorb and release water through transpiration"
+    },
+    {
+      "question": "Which of the following best describes the relationship between global cycles and ecosystems?",
+      "choices": [
+        "They operate independently of each other",
+        "Global cycles support ecosystems, but ecosystems don't affect global cycles",
+        "Ecosystems support global cycles, but global cycles don't affect ecosystems",
+        "They are interconnected and mutually supportive"
+      ],
+      "answer": "They are interconnected and mutually supportive"
+    },
+    {
+      "question": "What is the primary benefit of biomimicry in addressing environmental challenges?",
+      "choices": [
+        "It allows us to completely replace natural ecosystems",
+        "It provides quick fixes for all environmental problems",
+        "It helps develop sustainable solutions inspired by nature",
+        "It eliminates the need for conservation efforts"
+      ],
+      "answer": "It helps develop sustainable solutions inspired by nature"
+    },
+    {
+      "question": "Which of the following is NOT a way that mangrove forests benefit the environment?",
+      "choices": [
+        "Carbon sequestration",
+        "Coastal protection",
+        "Fish nurseries",
+        "Oxygen production for marine life"
+      ],
+      "answer": "Oxygen production for marine life"
+    },
+    {
+      "question": "What is the primary role of decomposers in the nutrient cycle?",
+      "choices": [
+        "They produce nutrients from inorganic matter",
+        "They transport nutrients between ecosystems",
+        "They break down organic matter and release nutrients",
+        "They convert solar energy into chemical energy"
+      ],
+      "answer": "They break down organic matter and release nutrients"
+    },
+    {
+      "question": "Which of the following best describes the concept of Spaceship Earth?",
+      "choices": [
+        "Earth is a spacecraft designed by aliens",
+        "Earth is an isolated system with finite resources",
+        "Earth is constantly receiving new resources from space",
+        "Earth's systems are simple and easy to manage"
+      ],
+      "answer": "Earth is an isolated system with finite resources"
+    }
+  ]
+}

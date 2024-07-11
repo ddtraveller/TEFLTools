@@ -1,0 +1,305 @@
+{
+  "title": "General Systems Theory and Timor-Leste",
+  "questions": [
+    {
+      "question": "Who developed General Systems Theory in the 1940s?",
+      "choices": [
+        "Donella Meadows",
+        "Ludwig von Bertalanffy",
+        "R. Buckminster Fuller",
+        "Frédéric Durand"
+      ],
+      "answer": "Ludwig von Bertalanffy"
+    },
+    {
+      "question": "What is a key principle of systems thinking?",
+      "choices": [
+        "Focusing on individual components",
+        "Ignoring feedback loops",
+        "Emphasizing relationships and processes",
+        "Avoiding holistic perspectives"
+      ],
+      "answer": "Emphasizing relationships and processes"
+    },
+    {
+      "question": "Which of the following is NOT a key component of Timor-Leste's socio-economic system?",
+      "choices": [
+        "Agriculture",
+        "Oil and gas industry",
+        "Tourism sector",
+        "Automotive manufacturing"
+      ],
+      "answer": "Automotive manufacturing"
+    },
+    {
+      "question": "What is a feedback loop in systems theory?",
+      "choices": [
+        "A linear process of cause and effect",
+        "A process where the output influences the input",
+        "A one-way flow of information",
+        "A static relationship between components"
+      ],
+      "answer": "A process where the output influences the input"
+    },
+    {
+      "question": "What is emergence in the context of systems theory?",
+      "choices": [
+        "The breakdown of a system into its components",
+        "The appearance of complex properties from simpler interactions",
+        "The isolation of individual elements for study",
+        "The linear progression of system development"
+      ],
+      "answer": "The appearance of complex properties from simpler interactions"
+    },
+    {
+      "question": "Which approach does systems thinking contrast with?",
+      "choices": [
+        "Holistic approach",
+        "Integrative approach",
+        "Reductionist approach",
+        "Synergetic approach"
+      ],
+      "answer": "Reductionist approach"
+    },
+    {
+      "question": "What is a leverage point in systems thinking?",
+      "choices": [
+        "A weak point in the system",
+        "A place to intervene in a system for maximum impact",
+        "The central component of a system",
+        "The endpoint of a feedback loop"
+      ],
+      "answer": "A place to intervene in a system for maximum impact"
+    },
+    {
+      "question": "Which of the following is an example of a positive feedback loop in Timor-Leste's context?",
+      "choices": [
+        "Increased education funding leading to economic decline",
+        "Agricultural productivity leading to decreased income",
+        "Deforestation leading to increased soil fertility",
+        "Quality improvement in coffee leading to higher prices and investment"
+      ],
+      "answer": "Quality improvement in coffee leading to higher prices and investment"
+    },
+    {
+      "question": "What is the primary goal of applying systems thinking to Timor-Leste's development challenges?",
+      "choices": [
+        "To focus on individual problems in isolation",
+        "To ignore complex interconnections",
+        "To understand and address complex issues holistically",
+        "To promote linear problem-solving approaches"
+      ],
+      "answer": "To understand and address complex issues holistically"
+    },
+    {
+      "question": "Which of the following is NOT a key element of a system according to the reading?",
+      "choices": [
+        "Components",
+        "Interconnections",
+        "Purpose",
+        "Isolation"
+      ],
+      "answer": "Isolation"
+    },
+    {
+      "question": "What role do traditional knowledge systems play in the course's approach to systems thinking in Timor-Leste?",
+      "choices": [
+        "They are considered irrelevant to modern systems thinking",
+        "They are to be replaced entirely by modern approaches",
+        "They are to be integrated with modern systems thinking approaches",
+        "They are studied as historical artifacts only"
+      ],
+      "answer": "They are to be integrated with modern systems thinking approaches"
+    },
+    {
+      "question": "Which activity is suggested to apply systems thinking to a local context?",
+      "choices": [
+        "Creating a linear flow chart",
+        "Focusing on a single component in isolation",
+        "Creating a systems map of a local community or industry",
+        "Ignoring feedback loops in local systems"
+      ],
+      "answer": "Creating a systems map of a local community or industry"
+    },
+    {
+      "question": "What is the purpose of the systems mapping activity in the lesson plan?",
+      "choices": [
+        "To memorize the components of a system",
+        "To identify key elements, interconnections, and feedback loops",
+        "To focus on individual parts of a system separately",
+        "To create a linear representation of cause and effect"
+      ],
+      "answer": "To identify key elements, interconnections, and feedback loops"
+    },
+    {
+      "question": "How does the course suggest applying systems thinking to Timor-Leste's coffee industry?",
+      "choices": [
+        "By focusing solely on coffee bean production",
+        "By ignoring international market influences",
+        "By considering supply chain relationships, knowledge transfer, and regulatory frameworks",
+        "By treating each component of the industry in isolation"
+      ],
+      "answer": "By considering supply chain relationships, knowledge transfer, and regulatory frameworks"
+    },
+    {
+      "question": "What is a potential leverage point for Timor-Leste's coffee industry according to the course materials?",
+      "choices": [
+        "Reducing coffee production",
+        "Ignoring climate change impacts",
+        "Centralizing all coffee processing",
+        "Improving processing techniques to enhance quality"
+      ],
+      "answer": "Improving processing techniques to enhance quality"
+    },
+    {
+      "question": "How does the course suggest addressing complex societal issues using systems thinking?",
+      "choices": [
+        "By focusing on a single aspect of the problem",
+        "By ignoring interconnections between different factors",
+        "By mapping out interconnections and identifying leverage points",
+        "By applying linear, cause-and-effect solutions"
+      ],
+      "answer": "By mapping out interconnections and identifying leverage points"
+    },
+    {
+      "question": "What type of thinking does the course promote for understanding Timor-Leste's development challenges?",
+      "choices": [
+        "Linear thinking",
+        "Reductionist thinking",
+        "Holistic thinking",
+        "Isolated thinking"
+      ],
+      "answer": "Holistic thinking"
+    },
+    {
+      "question": "Which of the following is considered a subsystem within Timor-Leste's larger socio-economic system?",
+      "choices": [
+        "The global economy",
+        "The United Nations",
+        "The coffee industry",
+        "The Pacific Ocean"
+      ],
+      "answer": "The coffee industry"
+    },
+    {
+      "question": "What does the course suggest about the relationship between education and economic growth in Timor-Leste?",
+      "choices": [
+        "They are unrelated systems",
+        "They form a linear, one-way relationship",
+        "They are part of a feedback loop",
+        "Education has no impact on economic growth"
+      ],
+      "answer": "They are part of a feedback loop"
+    },
+    {
+      "question": "How does the course recommend studying Timor-Leste's environmental challenges?",
+      "choices": [
+        "By focusing solely on individual species",
+        "By ignoring human impacts",
+        "By considering interconnections between social, economic, and environmental factors",
+        "By studying each ecosystem in isolation"
+      ],
+      "answer": "By considering interconnections between social, economic, and environmental factors"
+    },
+    {
+      "question": "What role do international aid and development organizations play in Timor-Leste's systems, according to the course?",
+      "choices": [
+        "They are irrelevant to local systems",
+        "They are a key component of Timor-Leste's socio-economic system",
+        "They only affect the government sector",
+        "They operate independently of local systems"
+      ],
+      "answer": "They are a key component of Timor-Leste's socio-economic system"
+    },
+    {
+      "question": "How does the course suggest addressing unintended consequences of development interventions?",
+      "choices": [
+        "By ignoring them",
+        "By focusing only on short-term outcomes",
+        "By using systems thinking to anticipate potential impacts",
+        "By implementing interventions without analysis"
+      ],
+      "answer": "By using systems thinking to anticipate potential impacts"
+    },
+    {
+      "question": "What is the significance of feedback loops in Timor-Leste's development, according to the course?",
+      "choices": [
+        "They are irrelevant to development",
+        "They only occur in natural ecosystems",
+        "They help maintain stability or drive change in systems",
+        "They should be eliminated for efficient development"
+      ],
+      "answer": "They help maintain stability or drive change in systems"
+    },
+    {
+      "question": "How does the course suggest integrating traditional Timorese knowledge with systems thinking?",
+      "choices": [
+        "By replacing traditional knowledge entirely",
+        "By ignoring traditional knowledge",
+        "By treating traditional and modern approaches as separate systems",
+        "By combining traditional insights with modern systems analysis"
+      ],
+      "answer": "By combining traditional insights with modern systems analysis"
+    },
+    {
+      "question": "What approach does the course recommend for sustainable tourism development in Timor-Leste?",
+      "choices": [
+        "Focusing solely on economic benefits",
+        "Ignoring environmental impacts",
+        "Applying systems thinking to balance economic, social, and environmental factors",
+        "Developing tourism without considering local communities"
+      ],
+      "answer": "Applying systems thinking to balance economic, social, and environmental factors"
+    },
+    {
+      "question": "How does the course suggest addressing food security in Timor-Leste?",
+      "choices": [
+        "By focusing only on increasing crop yields",
+        "By ignoring climate change impacts",
+        "By considering interconnections between agriculture, climate, markets, and culture",
+        "By importing all food and eliminating local agriculture"
+      ],
+      "answer": "By considering interconnections between agriculture, climate, markets, and culture"
+    },
+    {
+      "question": "What is the purpose of creating a systems map in the course activities?",
+      "choices": [
+        "To simplify complex issues",
+        "To focus on individual components in isolation",
+        "To visualize interconnections and identify potential interventions",
+        "To create a linear representation of cause and effect"
+      ],
+      "answer": "To visualize interconnections and identify potential interventions"
+    },
+    {
+      "question": "How does the course suggest approaching the study of Timor-Leste's natural resources?",
+      "choices": [
+        "By focusing solely on extraction methods",
+        "By ignoring global market influences",
+        "By considering the interplay between resource use, environmental impact, and economic development",
+        "By studying each resource in isolation from others"
+      ],
+      "answer": "By considering the interplay between resource use, environmental impact, and economic development"
+    },
+    {
+      "question": "What role does the course assign to government institutions in Timor-Leste's systems?",
+      "choices": [
+        "They are irrelevant to systems analysis",
+        "They operate independently of other systems",
+        "They are a key component interacting with other elements of the socio-economic system",
+        "They should be excluded from systems thinking approaches"
+      ],
+      "answer": "They are a key component interacting with other elements of the socio-economic system"
+    },
+    {
+      "question": "How does the course suggest addressing the challenges of Timor-Leste's oil and gas industry?",
+      "choices": [
+        "By focusing solely on maximizing extraction",
+        "By ignoring environmental concerns",
+        "By applying systems thinking to balance economic benefits, environmental impacts, and long-term sustainability",
+        "By eliminating the industry entirely"
+      ],
+      "answer": "By applying systems thinking to balance economic benefits, environmental impacts, and long-term sustainability"
+    }
+  ]
+}
