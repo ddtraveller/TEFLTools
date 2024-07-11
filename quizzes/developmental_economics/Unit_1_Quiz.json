@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Experimental Approach in Development Economics",
+  "questions": [
+    {
+      "question": "What is the primary goal of the experimental approach in development economics?",
+      "choices": [
+        "To develop new economic theories",
+        "To accurately measure the impact of specific interventions or policies",
+        "To replace traditional economic models",
+        "To increase funding for development projects"
+      ],
+      "answer": "To accurately measure the impact of specific interventions or policies"
+    },
+    {
+      "question": "What is the main advantage of using Randomized Controlled Trials (RCTs) in development economics?",
+      "choices": [
+        "They are inexpensive to conduct",
+        "They can be implemented quickly",
+        "They allow researchers to establish causality",
+        "They always produce generalizable results"
+      ],
+      "answer": "They allow researchers to establish causality"
+    },
+    {
+      "question": "Who received the Nobel Prize in Economics in 2019 for their experimental work in development economics?",
+      "choices": [
+        "Amartya Sen and Joseph Stiglitz",
+        "Paul Krugman and Milton Friedman",
+        "Esther Duflo, Abhijit Banerjee, and Michael Kremer",
+        "Jeffrey Sachs and William Easterly"
+      ],
+      "answer": "Esther Duflo, Abhijit Banerjee, and Michael Kremer"
+    },
+    {
+      "question": "What is a key feature of the control group in an RCT?",
+      "choices": [
+        "It receives a different intervention than the treatment group",
+        "It does not receive the intervention being studied",
+        "It is always smaller than the treatment group",
+        "It is selected based on specific criteria"
+      ],
+      "answer": "It does not receive the intervention being studied"
+    },
+    {
+      "question": "In the context of RCTs, what does 'external validity' refer to?",
+      "choices": [
+        "The accuracy of the data collection process",
+        "The statistical significance of the results",
+        "The ability to generalize results to other contexts",
+        "The ethical considerations of the study"
+      ],
+      "answer": "The ability to generalize results to other contexts"
+    },
+    {
+      "question": "What was the main finding of the RCT conducted in Kenya regarding school uniforms?",
+      "choices": [
+        "Free uniforms had no impact on attendance",
+        "Free uniforms significantly increased school attendance",
+        "Free uniforms improved academic performance but not attendance",
+        "Free uniforms only benefited wealthier students"
+      ],
+      "answer": "Free uniforms significantly increased school attendance"
+    },
+    {
+      "question": "What was the incentive used in the Indian RCT to increase immunization rates?",
+      "choices": [
+        "Cash payments",
+        "Free healthcare",
+        "Lentils",
+        "School supplies"
+      ],
+      "answer": "Lentils"
+    },
+    {
+      "question": "What has the experimental approach revealed about microcredit programs?",
+      "choices": [
+        "They always lead to significant poverty reduction",
+        "They have no impact on business investment",
+        "Their impact on overall poverty reduction may be more limited than initially thought",
+        "They are ineffective in all contexts"
+      ],
+      "answer": "Their impact on overall poverty reduction may be more limited than initially thought"
+    },
+    {
+      "question": "What is a common criticism of the experimental approach in development economics?",
+      "choices": [
+        "It is too theoretical",
+        "Results may not be generalizable beyond the specific context",
+        "It focuses too much on macroeconomic factors",
+        "It is not rigorous enough"
+      ],
+      "answer": "Results may not be generalizable beyond the specific context"
+    },
+    {
+      "question": "How has the experimental approach influenced development organizations and policymakers?",
+      "choices": [
+        "It has led to a decrease in evidence-based interventions",
+        "It has increased reliance on theoretical models",
+        "It has encouraged prioritizing evidence-based interventions",
+        "It has reduced the need for policy evaluation"
+      ],
+      "answer": "It has encouraged prioritizing evidence-based interventions"
+    },
+    {
+      "question": "What is a key difference between traditional approaches and the experimental approach in development economics?",
+      "choices": [
+        "Traditional approaches focus on micro-level analysis",
+        "Experimental approaches rely more on theoretical models",
+        "Traditional approaches emphasize randomized trials",
+        "Experimental approaches focus more on empirical evidence"
+      ],
+      "answer": "Experimental approaches focus more on empirical evidence"
+    },
+    {
+      "question": "What is the primary purpose of random assignment in RCTs?",
+      "choices": [
+        "To reduce the cost of the study",
+        "To increase the sample size",
+        "To eliminate selection bias",
+        "To simplify data analysis"
+      ],
+      "answer": "To eliminate selection bias"
+    },
+    {
+      "question": "Which field of study did development economics borrow the RCT methodology from?",
+      "choices": [
+        "Physics",
+        "Psychology",
+        "Medical research",
+        "Computer science"
+      ],
+      "answer": "Medical research"
+    },
+    {
+      "question": "What is a potential limitation of RCTs in development economics?",
+      "choices": [
+        "They are too quick to implement",
+        "They are often expensive and time-consuming",
+        "They always produce generalizable results",
+        "They are not rigorous enough"
+      ],
+      "answer": "They are often expensive and time-consuming"
+    },
+    {
+      "question": "How do RCTs contribute to understanding causality in development interventions?",
+      "choices": [
+        "By focusing on correlation between variables",
+        "By isolating the effect of a particular intervention",
+        "By relying on historical data",
+        "By using complex economic models"
+      ],
+      "answer": "By isolating the effect of a particular intervention"
+    },
+    {
+      "question": "What is a key advantage of the experimental approach over traditional cross-country comparisons?",
+      "choices": [
+        "It is less expensive",
+        "It requires less data",
+        "It can better establish causal relationships",
+        "It always produces generalizable results"
+      ],
+      "answer": "It can better establish causal relationships"
+    },
+    {
+      "question": "In the context of RCTs, what is the treatment group?",
+      "choices": [
+        "The group that receives medical treatment",
+        "The group that receives the intervention being studied",
+        "The group that is not part of the study",
+        "The group that analyzes the data"
+      ],
+      "answer": "The group that receives the intervention being studied"
+    },
+    {
+      "question": "What has the experimental approach revealed about the effectiveness of providing free school uniforms?",
+      "choices": [
+        "It has no impact on education outcomes",
+        "It significantly increases school attendance, particularly among poorer students",
+        "It only benefits wealthy students",
+        "It improves academic performance but not attendance"
+      ],
+      "answer": "It significantly increases school attendance, particularly among poorer students"
+    },
+    {
+      "question": "How has the experimental approach influenced the field of microfinance?",
+      "choices": [
+        "It has shown that microfinance always reduces poverty",
+        "It has revealed that microfinance has no impact on business investment",
+        "It has challenged some initial optimism about microfinance's impact on poverty reduction",
+        "It has proven that microfinance is ineffective in all contexts"
+      ],
+      "answer": "It has challenged some initial optimism about microfinance's impact on poverty reduction"
+    },
+    {
+      "question": "What is a key consideration when implementing RCTs in different cultural contexts?",
+      "choices": [
+        "Cultural factors are irrelevant in RCTs",
+        "RCTs cannot be conducted in diverse cultural settings",
+        "Researchers must be sensitive to local cultural norms and practices",
+        "Cultural context only affects the control group"
+      ],
+      "answer": "Researchers must be sensitive to local cultural norms and practices"
+    },
+    {
+      "question": "How do proponents of the experimental approach suggest addressing the issue of external validity?",
+      "choices": [
+        "By conducting larger studies",
+        "By replicating studies in different contexts",
+        "By focusing only on developed countries",
+        "By eliminating the control group"
+      ],
+      "answer": "By replicating studies in different contexts"
+    },
+    {
+      "question": "What is a potential ethical concern when conducting RCTs in development economics?",
+      "choices": [
+        "Providing interventions to all participants",
+        "Withholding potentially beneficial interventions from the control group",
+        "Using too small a sample size",
+        "Publishing results too quickly"
+      ],
+      "answer": "Withholding potentially beneficial interventions from the control group"
+    },
+    {
+      "question": "How has the experimental approach affected policy-making in development?",
+      "choices": [
+        "It has led to less evidence-based policy-making",
+        "It has increased reliance on intuition in policy decisions",
+        "It has encouraged more testing and evaluation before scaling up interventions",
+        "It has reduced the need for policy evaluation"
+      ],
+      "answer": "It has encouraged more testing and evaluation before scaling up interventions"
+    },
+    {
+      "question": "What is a key difference between RCTs and observational studies in development economics?",
+      "choices": [
+        "RCTs are always larger in scale",
+        "RCTs randomly assign participants to treatment and control groups",
+        "Observational studies are more accurate",
+        "RCTs are only used in developed countries"
+      ],
+      "answer": "RCTs randomly assign participants to treatment and control groups"
+    },
+    {
+      "question": "What role do RCTs play in addressing the complexity of poverty?",
+      "choices": [
+        "They simplify poverty to a single cause",
+        "They ignore the multifaceted nature of poverty",
+        "They help understand specific interventions' impacts on various aspects of poverty",
+        "They focus only on economic factors of poverty"
+      ],
+      "answer": "They help understand specific interventions' impacts on various aspects of poverty"
+    },
+    {
+      "question": "How has the experimental approach contributed to understanding behavioral aspects of poverty?",
+      "choices": [
+        "It has shown that behavior is irrelevant to poverty",
+        "It has revealed how various interventions can influence decision-making among the poor",
+        "It has proven that poverty is solely a result of individual choices",
+        "It has demonstrated that behavioral factors do not affect poverty"
+      ],
+      "answer": "It has revealed how various interventions can influence decision-making among the poor"
+    },
+    {
+      "question": "What is a key advantage of RCTs in studying the effectiveness of educational interventions?",
+      "choices": [
+        "They are always cheaper than traditional methods",
+        "They can isolate the impact of specific educational practices or policies",
+        "They guarantee improved educational outcomes",
+        "They eliminate the need for qualitative research in education"
+      ],
+      "answer": "They can isolate the impact of specific educational practices or policies"
+    },
+    {
+      "question": "How has the experimental approach influenced the study of gender issues in development?",
+      "choices": [
+        "It has shown that gender is irrelevant in development",
+        "It has provided empirical evidence on the impacts of gender-focused interventions",
+        "It has proven that gender equality is impossible to achieve",
+        "It has eliminated the need for gender-specific policies"
+      ],
+      "answer": "It has provided empirical evidence on the impacts of gender-focused interventions"
+    },
+    {
+      "question": "What is a key consideration when designing an RCT in a resource-constrained environment?",
+      "choices": [
+        "Always use the largest possible sample size",
+        "Ignore local context and cultural factors",
+        "Balance scientific rigor with practical feasibility",
+        "Focus only on short-term outcomes"
+      ],
+      "answer": "Balance scientific rigor with practical feasibility"
+    },
+    {
+      "question": "How has the experimental approach contributed to understanding the effectiveness of health interventions in developing countries?",
+      "choices": [
+        "It has shown that all health interventions are equally effective",
+        "It has provided evidence on which specific health interventions are most impactful",
+        "It has proven that health interventions are unnecessary",
+        "It has demonstrated that health outcomes are unrelated to economic development"
+      ],
+      "answer": "It has provided evidence on which specific health interventions are most impactful"
+    }
+  ]
+}

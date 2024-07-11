@@ -1,0 +1,305 @@
+{
+  "title": "Designing and Implementing RCTs in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary purpose of randomization in an RCT?",
+      "choices": [
+        "To ensure equal sample sizes",
+        "To minimize researcher bias",
+        "To attribute differences between groups to the intervention",
+        "To reduce costs of the study"
+      ],
+      "answer": "To attribute differences between groups to the intervention"
+    },
+    {
+      "question": "Which of the following is a unique challenge when conducting RCTs in Timor-Leste?",
+      "choices": [
+        "High literacy rates",
+        "Linguistic homogeneity",
+        "Advanced infrastructure",
+        "Cultural and linguistic diversity"
+      ],
+      "answer": "Cultural and linguistic diversity"
+    },
+    {
+      "question": "What is a power calculation used for in RCT design?",
+      "choices": [
+        "To determine the budget for the study",
+        "To calculate the duration of the intervention",
+        "To estimate the required sample size",
+        "To measure the impact of the intervention"
+      ],
+      "answer": "To estimate the required sample size"
+    },
+    {
+      "question": "Which randomization strategy might be more appropriate in Timor-Leste's context?",
+      "choices": [
+        "Individual randomization",
+        "Cluster randomization",
+        "Stratified randomization",
+        "Block randomization"
+      ],
+      "answer": "Cluster randomization"
+    },
+    {
+      "question": "Why might cluster randomization be preferred in Timor-Leste?",
+      "choices": [
+        "It's cheaper to implement",
+        "It allows for larger sample sizes",
+        "It helps minimize spillover effects",
+        "It's easier to explain to participants"
+      ],
+      "answer": "It helps minimize spillover effects"
+    },
+    {
+      "question": "What is a key ethical consideration when conducting RCTs in Timor-Leste?",
+      "choices": [
+        "Maximizing profit from the research",
+        "Obtaining informed consent from participants",
+        "Excluding local researchers from the study",
+        "Withholding results from the community"
+      ],
+      "answer": "Obtaining informed consent from participants"
+    },
+    {
+      "question": "How can researchers address language barriers in Timor-Leste?",
+      "choices": [
+        "Only include English-speaking participants",
+        "Use only written surveys",
+        "Work with local translators and enumerators",
+        "Conduct all interviews in Tetum"
+      ],
+      "answer": "Work with local translators and enumerators"
+    },
+    {
+      "question": "What is a potential challenge of using control groups in Timor-Leste?",
+      "choices": [
+        "Control groups are not necessary in RCTs",
+        "It may be seen as withholding benefits from a high-poverty population",
+        "Control groups are illegal in Timor-Leste",
+        "Control groups always receive better treatment"
+      ],
+      "answer": "It may be seen as withholding benefits from a high-poverty population"
+    },
+    {
+      "question": "How can researchers ensure equitable resource allocation in RCTs?",
+      "choices": [
+        "By only selecting wealthy participants",
+        "By implementing phase-in designs",
+        "By excluding control groups",
+        "By providing all benefits upfront"
+      ],
+      "answer": "By implementing phase-in designs"
+    },
+    {
+      "question": "Why is community engagement important in RCTs in Timor-Leste?",
+      "choices": [
+        "It's required by law",
+        "It increases the cost of the study",
+        "It improves the quality and relevance of the research",
+        "It allows researchers to avoid local customs"
+      ],
+      "answer": "It improves the quality and relevance of the research"
+    },
+    {
+      "question": "What is a spillover effect in the context of RCTs?",
+      "choices": [
+        "When the intervention affects the control group indirectly",
+        "When the study budget is exceeded",
+        "When participants drop out of the study",
+        "When researchers influence the results"
+      ],
+      "answer": "When the intervention affects the control group indirectly"
+    },
+    {
+      "question": "What is the purpose of a baseline survey in an RCT?",
+      "choices": [
+        "To determine the final impact of the intervention",
+        "To collect data on participants before the intervention",
+        "To select which participants will be in the control group",
+        "To decide on the research question"
+      ],
+      "answer": "To collect data on participants before the intervention"
+    },
+    {
+      "question": "What does attrition refer to in RCTs?",
+      "choices": [
+        "The process of selecting participants",
+        "The loss of participants from the study over time",
+        "The method of randomization",
+        "The analysis of results"
+      ],
+      "answer": "The loss of participants from the study over time"
+    },
+    {
+      "question": "Why might qualitative research methods be useful in RCTs in Timor-Leste?",
+      "choices": [
+        "They are cheaper to implement",
+        "They provide insights into mechanisms behind observed impacts",
+        "They eliminate the need for quantitative data",
+        "They are required by Timorese law"
+      ],
+      "answer": "They provide insights into mechanisms behind observed impacts"
+    },
+    {
+      "question": "What is a key consideration when formulating research questions for RCTs in Timor-Leste?",
+      "choices": [
+        "Ensuring they are as broad as possible",
+        "Focusing only on economic outcomes",
+        "Addressing pressing development challenges",
+        "Avoiding topics related to agriculture"
+      ],
+      "answer": "Addressing pressing development challenges"
+    },
+    {
+      "question": "How can researchers navigate political sensitivities in Timor-Leste?",
+      "choices": [
+        "By avoiding all politically relevant topics",
+        "By only working with government officials",
+        "By collaborating closely with local authorities and community leaders",
+        "By conducting research secretly"
+      ],
+      "answer": "By collaborating closely with local authorities and community leaders"
+    },
+    {
+      "question": "What is a potential challenge of data collection in remote areas of Timor-Leste?",
+      "choices": [
+        "Excessive internet connectivity",
+        "Too many trained researchers",
+        "Limited infrastructure",
+        "Overabundance of transportation options"
+      ],
+      "answer": "Limited infrastructure"
+    },
+    {
+      "question": "Why is it important to consider seasonal variations when analyzing RCT results in Timor-Leste?",
+      "choices": [
+        "Seasons don't exist in Timor-Leste",
+        "They can be potential confounding factors",
+        "They only affect urban areas",
+        "They are irrelevant to development outcomes"
+      ],
+      "answer": "They can be potential confounding factors"
+    },
+    {
+      "question": "What is the purpose of stratification in RCT design?",
+      "choices": [
+        "To increase the sample size",
+        "To eliminate the need for a control group",
+        "To ensure balance across important variables",
+        "To reduce the cost of the study"
+      ],
+      "answer": "To ensure balance across important variables"
+    },
+    {
+      "question": "Why might mobile phone surveys be considered for data collection in Timor-Leste?",
+      "choices": [
+        "Everyone in Timor-Leste owns a smartphone",
+        "They can overcome some infrastructure limitations",
+        "They are required by research ethics boards",
+        "They eliminate the need for in-person interviews"
+      ],
+      "answer": "They can overcome some infrastructure limitations"
+    },
+    {
+      "question": "What is a key consideration when obtaining informed consent in Timor-Leste?",
+      "choices": [
+        "Using only written forms",
+        "Explaining the study only in English",
+        "Considering collective decision-making in communities",
+        "Avoiding mention of potential risks"
+      ],
+      "answer": "Considering collective decision-making in communities"
+    },
+    {
+      "question": "Why is it important to involve local researchers in RCTs in Timor-Leste?",
+      "choices": [
+        "To reduce the cost of the study",
+        "To bypass ethical review processes",
+        "To build local research capacity",
+        "To avoid engaging with the community"
+      ],
+      "answer": "To build local research capacity"
+    },
+    {
+      "question": "What is a potential benefit of conducting RCTs in Timor-Leste?",
+      "choices": [
+        "Generating rigorous evidence for policymaking",
+        "Avoiding the need for ethical considerations",
+        "Guaranteeing positive outcomes for all interventions",
+        "Eliminating the need for further research"
+      ],
+      "answer": "Generating rigorous evidence for policymaking"
+    },
+    {
+      "question": "Why might researchers need to be cautious about generalizing RCT results in Timor-Leste?",
+      "choices": [
+        "RCTs always produce generalizable results",
+        "Timor-Leste's unique context may limit external validity",
+        "Generalization is not important in development economics",
+        "RCTs are not suitable for generalization"
+      ],
+      "answer": "Timor-Leste's unique context may limit external validity"
+    },
+    {
+      "question": "What role can community leaders play in RCTs in Timor-Leste?",
+      "choices": [
+        "They should be excluded to maintain objectivity",
+        "They can help with community engagement and trust-building",
+        "They should always be part of the treatment group",
+        "They are only relevant in urban settings"
+      ],
+      "answer": "They can help with community engagement and trust-building"
+    },
+    {
+      "question": "Why is it important to consider traditional beliefs when designing health-related RCTs in Timor-Leste?",
+      "choices": [
+        "Traditional beliefs are always more effective than modern medicine",
+        "They may influence health-seeking behaviors and intervention uptake",
+        "They are irrelevant to health outcomes",
+        "Considering them is unethical in scientific research"
+      ],
+      "answer": "They may influence health-seeking behaviors and intervention uptake"
+    },
+    {
+      "question": "What is a potential challenge of using written surveys in rural Timor-Leste?",
+      "choices": [
+        "Rural populations prefer longer surveys",
+        "Written surveys are always more accurate",
+        "Low literacy rates may affect comprehension and response",
+        "There is a paper shortage in rural areas"
+      ],
+      "answer": "Low literacy rates may affect comprehension and response"
+    },
+    {
+      "question": "Why might researchers consider a phase-in design for RCTs in Timor-Leste?",
+      "choices": [
+        "It's cheaper to implement",
+        "It allows for larger sample sizes",
+        "It addresses ethical concerns about withholding interventions",
+        "It eliminates the need for a control group"
+      ],
+      "answer": "It addresses ethical concerns about withholding interventions"
+    },
+    {
+      "question": "What is an important consideration when designing agricultural interventions for RCTs in Timor-Leste?",
+      "choices": [
+        "Focusing only on cash crops",
+        "Ignoring traditional farming practices",
+        "Considering seasonal variations and local agricultural cycles",
+        "Implementing identical interventions across all regions"
+      ],
+      "answer": "Considering seasonal variations and local agricultural cycles"
+    },
+    {
+      "question": "Why is it crucial to secure data privacy in RCTs conducted in Timor-Leste?",
+      "choices": [
+        "To comply with international research standards",
+        "To prevent other researchers from accessing the data",
+        "To hide negative results",
+        "Data privacy is not important in development research"
+      ],
+      "answer": "To comply with international research standards"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Health Interventions and Poverty Alleviation in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of Timor-Leste's population lives below the national poverty line?",
+      "choices": [
+        "31.8%",
+        "41.8%",
+        "51.8%",
+        "61.8%"
+      ],
+      "answer": "41.8%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a major health challenge in Timor-Leste?",
+      "choices": [
+        "Malnutrition",
+        "Maternal and child health issues",
+        "Infectious diseases",
+        "Obesity"
+      ],
+      "answer": "Obesity"
+    },
+    {
+      "question": "What percentage of children under five in Timor-Leste are affected by stunting?",
+      "choices": [
+        "Nearly 30%",
+        "Nearly 40%",
+        "Nearly 50%",
+        "Nearly 60%"
+      ],
+      "answer": "Nearly 50%"
+    },
+    {
+      "question": "Which of the following is a key strategy outlined in Timor-Leste's National Health Sector Strategic Plan 2011-2030?",
+      "choices": [
+        "Privatizing all healthcare facilities",
+        "Focusing solely on tertiary care",
+        "Strengthening primary healthcare",
+        "Reducing immunization programs"
+      ],
+      "answer": "Strengthening primary healthcare"
+    },
+    {
+      "question": "According to the Miguel and Kremer (2004) study in Kenya, what was the impact of school-based deworming on absenteeism?",
+      "choices": [
+        "10% reduction",
+        "15% reduction",
+        "25% reduction",
+        "35% reduction"
+      ],
+      "answer": "25% reduction"
+    },
+    {
+      "question": "Which country's polio immunization campaign was mentioned as an example of a successful vaccination program?",
+      "choices": [
+        "China",
+        "India",
+        "Indonesia",
+        "Bangladesh"
+      ],
+      "answer": "India"
+    },
+    {
+      "question": "According to the Bhatt et al. (2015) study, what percentage of malaria case decline in sub-Saharan Africa between 2000 and 2015 was attributed to bed nets?",
+      "choices": [
+        "48%",
+        "58%",
+        "68%",
+        "78%"
+      ],
+      "answer": "68%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor to consider when implementing health interventions in Timor-Leste?",
+      "choices": [
+        "Limited resources",
+        "Geographical barriers",
+        "Cultural factors",
+        "Political instability"
+      ],
+      "answer": "Political instability"
+    },
+    {
+      "question": "What type of study design is recommended for rigorously evaluating the effectiveness of health interventions?",
+      "choices": [
+        "Case studies",
+        "Observational studies",
+        "Randomized controlled trials (RCTs)",
+        "Cross-sectional surveys"
+      ],
+      "answer": "Randomized controlled trials (RCTs)"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key infectious disease concern in Timor-Leste?",
+      "choices": [
+        "Malaria",
+        "Tuberculosis",
+        "Dengue fever",
+        "Cholera"
+      ],
+      "answer": "Cholera"
+    },
+    {
+      "question": "What is the time frame of Timor-Leste's National Health Sector Strategic Plan?",
+      "choices": [
+        "2011-2025",
+        "2011-2030",
+        "2015-2030",
+        "2020-2035"
+      ],
+      "answer": "2011-2030"
+    },
+    {
+      "question": "Which of the following is mentioned as a challenge in delivering essential health services in Timor-Leste?",
+      "choices": [
+        "Oversupply of healthcare professionals",
+        "Limited healthcare infrastructure",
+        "Excessive foreign aid",
+        "Overreliance on traditional medicine"
+      ],
+      "answer": "Limited healthcare infrastructure"
+    },
+    {
+      "question": "According to the Kremer et al. (2011) study in rural Kenya, what was the focus of the clean water intervention?",
+      "choices": [
+        "Building new wells",
+        "Distributing water filters",
+        "Protecting springs from contamination",
+        "Installing community taps"
+      ],
+      "answer": "Protecting springs from contamination"
+    },
+    {
+      "question": "What is emphasized as essential for ensuring the sustainability of health interventions in Timor-Leste?",
+      "choices": [
+        "International funding",
+        "Government control",
+        "Community engagement and capacity building",
+        "Privatization of health services"
+      ],
+      "answer": "Community engagement and capacity building"
+    },
+    {
+      "question": "In what year did Timor-Leste gain independence?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential benefit of improved health outcomes?",
+      "choices": [
+        "Increased productivity",
+        "Better educational attainment",
+        "Overall economic growth",
+        "Reduced cultural diversity"
+      ],
+      "answer": "Reduced cultural diversity"
+    },
+    {
+      "question": "What is the primary goal of Timor-Leste's National Health Sector Strategic Plan 2011-2030?",
+      "choices": [
+        "Privatizing all hospitals",
+        "Achieving universal health coverage",
+        "Eliminating all infectious diseases",
+        "Focusing solely on maternal health"
+      ],
+      "answer": "Achieving universal health coverage"
+    },
+    {
+      "question": "Which health intervention is particularly relevant for addressing Timor-Leste's ongoing struggle with malaria?",
+      "choices": [
+        "Vaccination campaigns",
+        "Deworming programs",
+        "Bed net distribution",
+        "Spring protection"
+      ],
+      "answer": "Bed net distribution"
+    },
+    {
+      "question": "What is emphasized as crucial for informing policy decisions and allocating resources effectively in health interventions?",
+      "choices": [
+        "Political lobbying",
+        "International pressure",
+        "Measuring impact through rigorous evaluation",
+        "Increasing healthcare spending"
+      ],
+      "answer": "Measuring impact through rigorous evaluation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key strategy in Timor-Leste's health initiatives?",
+      "choices": [
+        "Expanding immunization programs",
+        "Improving maternal and child health services",
+        "Focusing on tertiary care hospitals",
+        "Strengthening primary healthcare"
+      ],
+      "answer": "Focusing on tertiary care hospitals"
+    },
+    {
+      "question": "What is described as a cycle in the relationship between health and poverty?",
+      "choices": [
+        "Poor health leads to increased wealth",
+        "Poverty leads to better health outcomes",
+        "Poor health can lead to reduced income and increased poverty",
+        "Wealth always results in perfect health"
+      ],
+      "answer": "Poor health can lead to reduced income and increased poverty"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential impact of clean water interventions in Timor-Leste?",
+      "choices": [
+        "Increased agricultural output",
+        "Reduced diarrheal diseases",
+        "Improved air quality",
+        "Enhanced biodiversity"
+      ],
+      "answer": "Reduced diarrheal diseases"
+    },
+    {
+      "question": "What is emphasized as necessary for the success of health programs in Timor-Leste, given its unique challenges?",
+      "choices": [
+        "Ignoring local contexts",
+        "Implementing one-size-fits-all solutions",
+        "Careful consideration of local contexts and challenges",
+        "Focusing solely on urban areas"
+      ],
+      "answer": "Careful consideration of local contexts and challenges"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor contributing to the success of health interventions in Timor-Leste?",
+      "choices": [
+        "Sustained commitment from the government",
+        "Support from international partners",
+        "Engagement of local communities",
+        "Reliance on traditional healing practices only"
+      ],
+      "answer": "Reliance on traditional healing practices only"
+    },
+    {
+      "question": "What is suggested as a potential outcome if Timor-Leste successfully implements targeted health interventions?",
+      "choices": [
+        "Immediate elimination of all poverty",
+        "Setting an example for other developing countries",
+        "Achieving developed country status within a year",
+        "Completely replacing traditional medicine"
+      ],
+      "answer": "Setting an example for other developing countries"
+    },
+    {
+      "question": "Which of the following is emphasized as important when adapting health interventions to Timor-Leste?",
+      "choices": [
+        "Ignoring cultural factors",
+        "Implementing only foreign models",
+        "Adapting interventions to unique needs and circumstances",
+        "Focusing solely on urban populations"
+      ],
+      "answer": "Adapting interventions to unique needs and circumstances"
+    },
+    {
+      "question": "What is described as a significant challenge in delivering healthcare services in Timor-Leste, particularly in rural areas?",
+      "choices": [
+        "Oversupply of doctors",
+        "Excessive healthcare funding",
+        "Limited healthcare infrastructure",
+        "Too many hospitals"
+      ],
+      "answer": "Limited healthcare infrastructure"
+    },
+    {
+      "question": "Which health issue is mentioned as affecting nearly 50% of children under five in Timor-Leste?",
+      "choices": [
+        "Obesity",
+        "Stunting",
+        "Diabetes",
+        "Asthma"
+      ],
+      "answer": "Stunting"
+    },
+    {
+      "question": "What type of economic impact is associated with healthier populations according to the article?",
+      "choices": [
+        "Decreased productivity",
+        "Reduced economic growth",
+        "Increased healthcare costs",
+        "Contribution to economic growth"
+      ],
+      "answer": "Contribution to economic growth"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key aspect of Timor-Leste's health policies and initiatives?",
+      "choices": [
+        "National Health Sector Strategic Plan",
+        "Expanding immunization programs",
+        "Improving maternal and child health services",
+        "Privatizing all healthcare services"
+      ],
+      "answer": "Privatizing all healthcare services"
+    }
+  ]
+}

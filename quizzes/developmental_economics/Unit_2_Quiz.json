@@ -1,0 +1,305 @@
+{
+  "title": "Education and Human Capital in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary goal of investing in education in Timor-Leste?",
+      "choices": [
+        "To increase tourism",
+        "To enhance human capital and foster economic growth",
+        "To improve agricultural production",
+        "To attract foreign investment"
+      ],
+      "answer": "To enhance human capital and foster economic growth"
+    },
+    {
+      "question": "Which of the following is a major challenge facing Timor-Leste's education system?",
+      "choices": [
+        "Excessive funding",
+        "Too many qualified teachers",
+        "Low educational attainment",
+        "Over-enrollment in schools"
+      ],
+      "answer": "Low educational attainment"
+    },
+    {
+      "question": "What is a significant issue affecting the quality of education in Timor-Leste?",
+      "choices": [
+        "Too few students per classroom",
+        "Excess of learning materials",
+        "Shortage of qualified teachers",
+        "Over-qualified teaching staff"
+      ],
+      "answer": "Shortage of qualified teachers"
+    },
+    {
+      "question": "Which level of education in Timor-Leste has shown particular improvement in enrollment rates?",
+      "choices": [
+        "University",
+        "Secondary school",
+        "Primary school",
+        "Vocational training"
+      ],
+      "answer": "Primary school"
+    },
+    {
+      "question": "What is a common reason for high dropout rates in Timor-Leste's education system?",
+      "choices": [
+        "Lack of interest in education",
+        "Economic pressures on families",
+        "Poor school infrastructure",
+        "Difficult curriculum"
+      ],
+      "answer": "Economic pressures on families"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as an initiative to improve education in Timor-Leste?",
+      "choices": [
+        "Teacher training programs",
+        "Curriculum reforms",
+        "Infrastructure development",
+        "Mandatory higher education"
+      ],
+      "answer": "Mandatory higher education"
+    },
+    {
+      "question": "What approach has been introduced in early grades to improve learning outcomes in Timor-Leste?",
+      "choices": [
+        "English-only instruction",
+        "Mother tongue-based multilingual education",
+        "Computer-based learning",
+        "Rote memorization techniques"
+      ],
+      "answer": "Mother tongue-based multilingual education"
+    },
+    {
+      "question": "According to research, what can have a positive impact on student learning, particularly in early grades?",
+      "choices": [
+        "Increasing class sizes",
+        "Reducing class sizes",
+        "Eliminating homework",
+        "Extending school hours"
+      ],
+      "answer": "Reducing class sizes"
+    },
+    {
+      "question": "What has been found to boost educational outcomes in resource-constrained environments?",
+      "choices": [
+        "Reducing school hours",
+        "Eliminating exams",
+        "Providing additional learning materials",
+        "Increasing class sizes"
+      ],
+      "answer": "Providing additional learning materials"
+    },
+    {
+      "question": "What combination has shown promise in motivating teachers and enhancing student achievement?",
+      "choices": [
+        "Reduced workload and higher salaries",
+        "Professional development and performance-based incentives",
+        "Longer vacations and fewer responsibilities",
+        "Stricter regulations and punitive measures"
+      ],
+      "answer": "Professional development and performance-based incentives"
+    },
+    {
+      "question": "What is a potential tool for enhancing education in Timor-Leste, despite infrastructure challenges?",
+      "choices": [
+        "Increased focus on sports",
+        "Mandatory foreign language learning",
+        "Technology-based interventions",
+        "Elimination of standardized testing"
+      ],
+      "answer": "Technology-based interventions"
+    },
+    {
+      "question": "What is crucial for the success and sustainability of educational reforms in Timor-Leste?",
+      "choices": [
+        "Copying systems from developed countries",
+        "Focusing solely on urban areas",
+        "Engaging local stakeholders",
+        "Implementing a one-size-fits-all approach"
+      ],
+      "answer": "Engaging local stakeholders"
+    },
+    {
+      "question": "What is the literacy rate situation in Timor-Leste?",
+      "choices": [
+        "High across all regions",
+        "Low across all regions",
+        "Improving, but still a concern, particularly in rural areas",
+        "Declining rapidly"
+      ],
+      "answer": "Improving, but still a concern, particularly in rural areas"
+    },
+    {
+      "question": "What is one of the consequences of low educational attainment in Timor-Leste?",
+      "choices": [
+        "Increased foreign investment",
+        "A workforce lacking skills necessary for a modernizing economy",
+        "Higher rates of entrepreneurship",
+        "Improved agricultural productivity"
+      ],
+      "answer": "A workforce lacking skills necessary for a modernizing economy"
+    },
+    {
+      "question": "Which of the following is a common problem in Timor-Leste's classrooms?",
+      "choices": [
+        "Overcrowding",
+        "Too few students",
+        "Excess of teachers",
+        "Overabundance of learning materials"
+      ],
+      "answer": "Overcrowding"
+    },
+    {
+      "question": "What is one of the targeted interventions mentioned to improve education in Timor-Leste?",
+      "choices": [
+        "Mandatory military service",
+        "Increasing girls' participation in education",
+        "Eliminating physical education",
+        "Focusing solely on STEM subjects"
+      ],
+      "answer": "Increasing girls' participation in education"
+    },
+    {
+      "question": "What is the primary goal of curriculum reforms in Timor-Leste?",
+      "choices": [
+        "To make education more difficult",
+        "To eliminate local cultural context",
+        "To make education more relevant to the country's needs and cultural context",
+        "To focus solely on international standards"
+      ],
+      "answer": "To make education more relevant to the country's needs and cultural context"
+    },
+    {
+      "question": "What is a key factor in the effectiveness of reducing class sizes?",
+      "choices": [
+        "Increasing school fees",
+        "Eliminating extracurricular activities",
+        "Complementary measures such as improved teacher training",
+        "Reducing the number of subjects taught"
+      ],
+      "answer": "Complementary measures such as improved teacher training"
+    },
+    {
+      "question": "What is one of the challenges in implementing technology-based interventions in Timor-Leste?",
+      "choices": [
+        "Lack of interest from students",
+        "Infrastructure challenges, particularly in rural areas",
+        "Opposition from teachers",
+        "Excess of available technology"
+      ],
+      "answer": "Infrastructure challenges, particularly in rural areas"
+    },
+    {
+      "question": "What is the importance of adapting successful interventions from other developing nations to Timor-Leste?",
+      "choices": [
+        "To impress international donors",
+        "To ensure their effectiveness in Timorese communities",
+        "To make education more difficult",
+        "To reduce the cost of education"
+      ],
+      "answer": "To ensure their effectiveness in Timorese communities"
+    },
+    {
+      "question": "What is one of the main goals of investing in education in Timor-Leste?",
+      "choices": [
+        "To increase dependency on foreign aid",
+        "To reduce the workforce",
+        "To foster economic growth and poverty reduction",
+        "To discourage higher education"
+      ],
+      "answer": "To foster economic growth and poverty reduction"
+    },
+    {
+      "question": "What is a significant challenge in teacher quality in Timor-Leste?",
+      "choices": [
+        "Too many qualified teachers",
+        "Lack of interest in teaching profession",
+        "Limited professional development opportunities",
+        "Excessive teacher salaries"
+      ],
+      "answer": "Limited professional development opportunities"
+    },
+    {
+      "question": "What is one of the focuses of the National Education Strategic Plan 2011-2030 in Timor-Leste?",
+      "choices": [
+        "Reducing access to education",
+        "Improving access, quality, and management of education",
+        "Eliminating secondary education",
+        "Focusing solely on higher education"
+      ],
+      "answer": "Improving access, quality, and management of education"
+    },
+    {
+      "question": "What is one of the challenges related to the language of instruction in Timor-Leste?",
+      "choices": [
+        "Too few languages",
+        "Lack of foreign language instruction",
+        "Multiple languages: Tetum, Portuguese, local languages",
+        "Overemphasis on English"
+      ],
+      "answer": "Multiple languages: Tetum, Portuguese, local languages"
+    },
+    {
+      "question": "What is a key consideration in designing educational interventions in Timor-Leste?",
+      "choices": [
+        "Ignoring local culture",
+        "Focusing only on urban areas",
+        "Cultural sensitivity and local norms",
+        "Implementing only foreign models"
+      ],
+      "answer": "Cultural sensitivity and local norms"
+    },
+    {
+      "question": "What is one of the potential benefits of Community Learning Centers in rural areas of Timor-Leste?",
+      "choices": [
+        "Increased urbanization",
+        "Reduced community involvement",
+        "Increased access to education for marginalized populations",
+        "Focus on theoretical knowledge only"
+      ],
+      "answer": "Increased access to education for marginalized populations"
+    },
+    {
+      "question": "What is one of the challenges in scaling up the Mother Tongue-Based Multilingual Education program in Timor-Leste?",
+      "choices": [
+        "Lack of linguistic diversity",
+        "Too much funding",
+        "Resource constraints",
+        "Opposition from students"
+      ],
+      "answer": "Resource constraints"
+    },
+    {
+      "question": "What is one of the aims of providing practical skills training in Community Learning Centers?",
+      "choices": [
+        "To discourage formal education",
+        "To focus only on academic subjects",
+        "To develop relevant life skills for rural communities",
+        "To promote urbanization"
+      ],
+      "answer": "To develop relevant life skills for rural communities"
+    },
+    {
+      "question": "What is one of the considerations for implementing Community Learning Centers in Timor-Leste?",
+      "choices": [
+        "Ignoring local needs",
+        "Focusing only on theoretical knowledge",
+        "Integration with the formal education system",
+        "Discouraging adult education"
+      ],
+      "answer": "Integration with the formal education system"
+    },
+    {
+      "question": "What is one of the potential long-term impacts of Mother Tongue-Based Multilingual Education in Timor-Leste?",
+      "choices": [
+        "Decreased cultural awareness",
+        "Reduced linguistic diversity",
+        "Improved educational outcomes and cultural preservation",
+        "Increased dependence on foreign languages"
+      ],
+      "answer": "Improved educational outcomes and cultural preservation"
+    }
+  ]
+}

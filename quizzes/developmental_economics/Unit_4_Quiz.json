@@ -1,0 +1,305 @@
+{
+  "title": "Behavioral Economics and Poverty Reduction in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is present bias?",
+      "choices": [
+        "The tendency to prioritize immediate rewards over long-term benefits",
+        "The preference for future rewards over immediate gratification",
+        "The bias towards present-day economic theories",
+        "The tendency to overestimate current economic conditions"
+      ],
+      "answer": "The tendency to prioritize immediate rewards over long-term benefits"
+    },
+    {
+      "question": "How might present bias affect a Timorese farmer's decision-making?",
+      "choices": [
+        "By encouraging long-term investment in agricultural inputs",
+        "By promoting immediate consumption over saving for future investments",
+        "By increasing the likelihood of adopting new farming technologies",
+        "By improving crop rotation practices"
+      ],
+      "answer": "By promoting immediate consumption over saving for future investments"
+    },
+    {
+      "question": "What is loss aversion in behavioral economics?",
+      "choices": [
+        "The tendency to seek out losses in economic transactions",
+        "The preference for risky investments over safe ones",
+        "The tendency to feel the pain of losses more acutely than the pleasure of equivalent gains",
+        "The aversion to any form of economic activity"
+      ],
+      "answer": "The tendency to feel the pain of losses more acutely than the pleasure of equivalent gains"
+    },
+    {
+      "question": "How might loss aversion impact agricultural development in Timor-Leste?",
+      "choices": [
+        "By encouraging farmers to try new crop varieties",
+        "By promoting risk-taking behavior among farmers",
+        "By making farmers reluctant to adopt new farming techniques due to fear of failure",
+        "By increasing investment in agricultural insurance"
+      ],
+      "answer": "By making farmers reluctant to adopt new farming techniques due to fear of failure"
+    },
+    {
+      "question": "What is mental accounting in behavioral economics?",
+      "choices": [
+        "The practice of keeping detailed financial records",
+        "The way people categorize and evaluate financial activities",
+        "The tendency to overestimate one's financial capabilities",
+        "The process of balancing a household budget"
+      ],
+      "answer": "The way people categorize and evaluate financial activities"
+    },
+    {
+      "question": "How might mental accounting affect how Timorese households use government cash transfers?",
+      "choices": [
+        "By treating the transfers the same as earned income",
+        "By automatically investing the transfers in long-term savings",
+        "By mentally allocating the transfers differently than earned income, potentially leading to different spending patterns",
+        "By encouraging households to return the transfers to the government"
+      ],
+      "answer": "By mentally allocating the transfers differently than earned income, potentially leading to different spending patterns"
+    },
+    {
+      "question": "What is nudge theory?",
+      "choices": [
+        "A theory that proposes using force to change behavior",
+        "A theory that suggests people cannot change their behavior",
+        "A theory that proposes using subtle cues to influence behavior without restricting freedom",
+        "A theory that advocates for strict government control over individual choices"
+      ],
+      "answer": "A theory that proposes using subtle cues to influence behavior without restricting freedom"
+    },
+    {
+      "question": "What is an example of a nudge that could be used to improve nutrition in Timor-Leste?",
+      "choices": [
+        "Banning all unhealthy food options",
+        "Imposing heavy taxes on certain food items",
+        "Placing healthier food options more prominently in local markets",
+        "Forcing people to attend nutrition classes"
+      ],
+      "answer": "Placing healthier food options more prominently in local markets"
+    },
+    {
+      "question": "What is choice architecture?",
+      "choices": [
+        "The design of buildings to maximize economic efficiency",
+        "The process of eliminating choices to simplify decision-making",
+        "The environment in which people make decisions",
+        "The architectural style of government buildings"
+      ],
+      "answer": "The environment in which people make decisions"
+    },
+    {
+      "question": "How can understanding cultural factors in Timor-Leste improve the effectiveness of behavioral interventions?",
+      "choices": [
+        "By ignoring local customs and traditions",
+        "By imposing Western economic models without adaptation",
+        "By designing interventions that take into account communal traditions and family ties",
+        "By focusing solely on individual-level interventions"
+      ],
+      "answer": "By designing interventions that take into account communal traditions and family ties"
+    },
+    {
+      "question": "What was the key insight from the fertilizer study in Kenya mentioned in the module?",
+      "choices": [
+        "Farmers never use fertilizer regardless of incentives",
+        "Large subsidies are always more effective than small discounts",
+        "Providing small, time-limited discounts immediately after harvest increased fertilizer use",
+        "Kenyan farmers are more rational decision-makers than Timorese farmers"
+      ],
+      "answer": "Providing small, time-limited discounts immediately after harvest increased fertilizer use"
+    },
+    {
+      "question": "Why might social pressure impact saving and investment behaviors in Timor-Leste?",
+      "choices": [
+        "Because Timorese people do not value savings",
+        "Due to strong communal traditions and family ties",
+        "Because the government prohibits individual savings",
+        "Due to a lack of banking infrastructure"
+      ],
+      "answer": "Due to strong communal traditions and family ties"
+    },
+    {
+      "question": "What is an important ethical consideration when designing behavioral interventions?",
+      "choices": [
+        "Maximizing profit for the implementing organization",
+        "Ensuring the intervention is as complex as possible",
+        "Respecting individual autonomy and cultural values",
+        "Prioritizing short-term gains over long-term impacts"
+      ],
+      "answer": "Respecting individual autonomy and cultural values"
+    },
+    {
+      "question": "How can behavioral economics complement traditional economic approaches in Timor-Leste?",
+      "choices": [
+        "By replacing all existing economic policies",
+        "By focusing solely on individual behavior change",
+        "By providing insights into psychological and social factors that influence economic decision-making",
+        "By ignoring macroeconomic factors entirely"
+      ],
+      "answer": "By providing insights into psychological and social factors that influence economic decision-making"
+    },
+    {
+      "question": "What is a potential application of mental accounting insights in Timor-Leste's development programs?",
+      "choices": [
+        "Encouraging people to mix all their income sources",
+        "Designing transfer programs that encourage recipients to mentally earmark funds for specific purposes",
+        "Prohibiting people from categorizing their expenses",
+        "Forcing people to spend all their income immediately"
+      ],
+      "answer": "Designing transfer programs that encourage recipients to mentally earmark funds for specific purposes"
+    },
+    {
+      "question": "How might loss aversion be addressed in agricultural development programs in Timor-Leste?",
+      "choices": [
+        "By ignoring farmers' concerns about potential losses",
+        "By discouraging any form of agricultural innovation",
+        "By offering insurance schemes or guarantees that mitigate the risk of losses",
+        "By forcing farmers to adopt new techniques without support"
+      ],
+      "answer": "By offering insurance schemes or guarantees that mitigate the risk of losses"
+    },
+    {
+      "question": "What is a potential drawback of relying solely on behavioral economics for poverty reduction in Timor-Leste?",
+      "choices": [
+        "It is too expensive to implement",
+        "It may neglect broader structural reforms and investments needed for development",
+        "It is not applicable to developing countries",
+        "It always produces immediate results"
+      ],
+      "answer": "It may neglect broader structural reforms and investments needed for development"
+    },
+    {
+      "question": "How can mobile technology be leveraged to address present bias in savings behavior?",
+      "choices": [
+        "By making it harder for people to access their money",
+        "By implementing automatic savings features and sending personalized reminders",
+        "By eliminating all mobile banking services",
+        "By charging high fees for mobile transactions"
+      ],
+      "answer": "By implementing automatic savings features and sending personalized reminders"
+    },
+    {
+      "question": "What role can community leaders play in behavioral interventions in Timor-Leste?",
+      "choices": [
+        "They should be excluded from all interventions",
+        "They can help promote programs and address trust issues",
+        "They should be the sole decision-makers for all interventions",
+        "They are irrelevant to behavioral economics approaches"
+      ],
+      "answer": "They can help promote programs and address trust issues"
+    },
+    {
+      "question": "How might linguistic diversity in Timor-Leste affect the implementation of behavioral interventions?",
+      "choices": [
+        "It has no impact on interventions",
+        "It makes interventions impossible to implement",
+        "It requires interventions to be designed with multiple language options to ensure effective communication",
+        "It means only English-language interventions should be used"
+      ],
+      "answer": "It requires interventions to be designed with multiple language options to ensure effective communication"
+    },
+    {
+      "question": "What is an example of how choice architecture could be used to promote better health outcomes in Timor-Leste?",
+      "choices": [
+        "By removing all choices related to healthcare",
+        "By making unhealthy options the default choice",
+        "By designing clinic layouts that make preventive services more visible and accessible",
+        "By forcing people to use specific health services"
+      ],
+      "answer": "By designing clinic layouts that make preventive services more visible and accessible"
+    },
+    {
+      "question": "How might the post-conflict context of Timor-Leste influence the effectiveness of behavioral interventions?",
+      "choices": [
+        "It has no impact on economic decision-making",
+        "It may lead to increased trust in all institutions",
+        "It could result in challenges related to trust in institutions and long-term planning",
+        "It guarantees the success of all behavioral interventions"
+      ],
+      "answer": "It could result in challenges related to trust in institutions and long-term planning"
+    },
+    {
+      "question": "What is a potential way to address choice overload in microfinance programs in Timor-Leste?",
+      "choices": [
+        "By offering as many product options as possible",
+        "By eliminating all microfinance programs",
+        "By simplifying product offerings and providing clear, easy-to-understand information",
+        "By randomly assigning products to individuals"
+      ],
+      "answer": "By simplifying product offerings and providing clear, easy-to-understand information"
+    },
+    {
+      "question": "How can behavioral economics insights be applied to improve education outcomes in Timor-Leste?",
+      "choices": [
+        "By focusing solely on building more schools",
+        "By ignoring parental decision-making in education",
+        "By designing interventions that address present bias in educational investment decisions",
+        "By eliminating all traditional teaching methods"
+      ],
+      "answer": "By designing interventions that address present bias in educational investment decisions"
+    },
+    {
+      "question": "What is a potential application of social norms in behavioral interventions in Timor-Leste?",
+      "choices": [
+        "By ignoring all social influences on behavior",
+        "By designing programs that leverage peer effects to promote positive behaviors",
+        "By forcing individuals to conform to Western norms",
+        "By eliminating all traditional social structures"
+      ],
+      "answer": "By designing programs that leverage peer effects to promote positive behaviors"
+    },
+    {
+      "question": "How might framing effects be used to promote better financial decision-making in Timor-Leste?",
+      "choices": [
+        "By presenting all financial information in a negative light",
+        "By hiding important financial information from individuals",
+        "By framing savings as a way to protect against future losses rather than just accumulating gains",
+        "By using only complex financial jargon in all communications"
+      ],
+      "answer": "By framing savings as a way to protect against future losses rather than just accumulating gains"
+    },
+    {
+      "question": "What is a potential challenge in applying behavioral economics insights from other countries to Timor-Leste?",
+      "choices": [
+        "Behavioral economics is not applicable to any developing country",
+        "Cultural and contextual differences may require adaptation of interventions",
+        "All behavioral insights are universally applicable without modification",
+        "Timorese people are immune to behavioral biases"
+      ],
+      "answer": "Cultural and contextual differences may require adaptation of interventions"
+    },
+    {
+      "question": "How can commitment devices be used to address self-control problems in Timor-Leste?",
+      "choices": [
+        "By forcing people to make specific choices",
+        "By eliminating all forms of financial services",
+        "By offering voluntary mechanisms that allow people to restrict their future choices",
+        "By imposing strict government control over all personal decisions"
+      ],
+      "answer": "By offering voluntary mechanisms that allow people to restrict their future choices"
+    },
+    {
+      "question": "What role can default options play in improving economic outcomes in Timor-Leste?",
+      "choices": [
+        "They have no impact on decision-making",
+        "They should always be set to the least beneficial option",
+        "They can be designed to nudge people towards better economic choices while preserving freedom of choice",
+        "They should be eliminated from all decision-making processes"
+      ],
+      "answer": "They can be designed to nudge people towards better economic choices while preserving freedom of choice"
+    },
+    {
+      "question": "How might scarcity affect cognitive function and decision-making in poverty contexts like Timor-Leste?",
+      "choices": [
+        "It has no effect on cognitive function",
+        "It always leads to better decision-making",
+        "It can impair cognitive function and lead to suboptimal economic decisions",
+        "It only affects physical health, not decision-making"
+      ],
+      "answer": "It can impair cognitive function and lead to suboptimal economic decisions"
+    }
+  ]
+}

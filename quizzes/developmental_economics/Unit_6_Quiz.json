@@ -1,0 +1,305 @@
+{
+  "title": "Microfinance and Credit Access in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary goal of microfinance in the context of Timor-Leste?",
+      "choices": [
+        "To replace traditional banking systems",
+        "To provide financial services to underserved populations",
+        "To increase government revenue",
+        "To attract foreign investment"
+      ],
+      "answer": "To provide financial services to underserved populations"
+    },
+    {
+      "question": "According to the module, what is a major challenge for implementing microfinance in Timor-Leste?",
+      "choices": [
+        "Oversaturation of financial services",
+        "Limited financial infrastructure",
+        "Lack of demand for credit",
+        "High levels of financial literacy"
+      ],
+      "answer": "Limited financial infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential benefit of microfinance in Timor-Leste?",
+      "choices": [
+        "Increased access to capital for rural communities",
+        "Women's empowerment through targeted lending programs",
+        "Support for agricultural sector development",
+        "Immediate eradication of poverty"
+      ],
+      "answer": "Immediate eradication of poverty"
+    },
+    {
+      "question": "What did the study by Banerjee et al. (2015) find regarding the impact of microfinance?",
+      "choices": [
+        "It significantly improved household consumption",
+        "It led to an increase in business activity but didn't significantly impact household consumption",
+        "It had no effect on business activity or household consumption",
+        "It negatively impacted economic development"
+      ],
+      "answer": "It led to an increase in business activity but didn't significantly impact household consumption"
+    },
+    {
+      "question": "Which technology is mentioned as a potential tool to expand the reach of microfinance in Timor-Leste?",
+      "choices": [
+        "Artificial Intelligence",
+        "Blockchain",
+        "Mobile banking",
+        "Virtual Reality"
+      ],
+      "answer": "Mobile banking"
+    },
+    {
+      "question": "What is a key challenge in providing financial services in Timor-Leste?",
+      "choices": [
+        "Overabundance of banks",
+        "High levels of financial literacy",
+        "Geographical dispersion of the population",
+        "Lack of interest in financial services"
+      ],
+      "answer": "Geographical dispersion of the population"
+    },
+    {
+      "question": "How are some MFIs tailoring their products to suit Timorese farmers?",
+      "choices": [
+        "By offering only large loans",
+        "By aligning repayment schedules with harvest cycles",
+        "By requiring land as collateral",
+        "By focusing solely on non-agricultural loans"
+      ],
+      "answer": "By aligning repayment schedules with harvest cycles"
+    },
+    {
+      "question": "What is the government of Timor-Leste doing to support microfinance?",
+      "choices": [
+        "Banning all microfinance institutions",
+        "Implementing policies to improve the regulatory environment",
+        "Discouraging financial literacy",
+        "Nationalizing all microfinance institutions"
+      ],
+      "answer": "Implementing policies to improve the regulatory environment"
+    },
+    {
+      "question": "Which group is often targeted by microfinance programs in Timor-Leste?",
+      "choices": [
+        "Large corporations",
+        "Government officials",
+        "Women entrepreneurs",
+        "Foreign investors"
+      ],
+      "answer": "Women entrepreneurs"
+    },
+    {
+      "question": "What is a potential risk of microfinance mentioned in the module?",
+      "choices": [
+        "Over-indebtedness of borrowers",
+        "Decreased business activity",
+        "Reduced financial inclusion",
+        "Increased government control over the economy"
+      ],
+      "answer": "Over-indebtedness of borrowers"
+    },
+    {
+      "question": "What is the primary purpose of group lending models in microfinance?",
+      "choices": [
+        "To increase interest rates",
+        "To mitigate risk and foster community support",
+        "To reduce the number of loans given",
+        "To compete with traditional banks"
+      ],
+      "answer": "To mitigate risk and foster community support"
+    },
+    {
+      "question": "According to the module, what is a key factor in the success of microfinance initiatives in Timor-Leste?",
+      "choices": [
+        "Ignoring local contexts",
+        "Focusing solely on urban areas",
+        "Implementing a one-size-fits-all approach",
+        "Careful program design and integration with broader development efforts"
+      ],
+      "answer": "Careful program design and integration with broader development efforts"
+    },
+    {
+      "question": "What is mentioned as a limitation of microfinance in Timor-Leste?",
+      "choices": [
+        "Too many people have access to credit",
+        "Interest rates are too low",
+        "Cultural barriers to formal financial services",
+        "Excessive government regulation"
+      ],
+      "answer": "Cultural barriers to formal financial services"
+    },
+    {
+      "question": "How does the module suggest measuring the impact of microfinance programs?",
+      "choices": [
+        "By the number of loans given",
+        "By the profit of microfinance institutions",
+        "By carefully evaluating outcomes over time",
+        "By the size of individual loans"
+      ],
+      "answer": "By carefully evaluating outcomes over time"
+    },
+    {
+      "question": "What is the role of financial literacy in the context of microfinance in Timor-Leste?",
+      "choices": [
+        "It is irrelevant to microfinance success",
+        "Low levels can hinder effective use of credit",
+        "High levels eliminate the need for microfinance",
+        "It only affects traditional banking"
+      ],
+      "answer": "Low levels can hinder effective use of credit"
+    },
+    {
+      "question": "Which sector is specifically mentioned as benefiting from tailored microfinance products in Timor-Leste?",
+      "choices": [
+        "Manufacturing",
+        "Tourism",
+        "Agriculture",
+        "Technology"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is the main criticism of high interest rates in microfinance programs?",
+      "choices": [
+        "They make loans too accessible",
+        "They can be a burden on borrowers",
+        "They decrease the profitability of MFIs",
+        "They attract too many foreign investors"
+      ],
+      "answer": "They can be a burden on borrowers"
+    },
+    {
+      "question": "According to the module, what is the relationship between microfinance and poverty alleviation in Timor-Leste?",
+      "choices": [
+        "Microfinance guarantees poverty eradication",
+        "Microfinance has no impact on poverty",
+        "Microfinance is a potential tool but not a panacea for poverty alleviation",
+        "Microfinance always increases poverty"
+      ],
+      "answer": "Microfinance is a potential tool but not a panacea for poverty alleviation"
+    },
+    {
+      "question": "What type of collateral is often used in group lending models?",
+      "choices": [
+        "Personal property",
+        "Land titles",
+        "Social collateral (group guarantee)",
+        "Government bonds"
+      ],
+      "answer": "Social collateral (group guarantee)"
+    },
+    {
+      "question": "How does mobile banking potentially benefit microfinance in Timor-Leste?",
+      "choices": [
+        "By increasing interest rates",
+        "By reducing the need for financial services",
+        "By expanding reach and reducing operational costs",
+        "By replacing all traditional banking services"
+      ],
+      "answer": "By expanding reach and reducing operational costs"
+    },
+    {
+      "question": "What is a key consideration for MFIs operating in Timor-Leste's rural areas?",
+      "choices": [
+        "Focusing only on large loans",
+        "Ignoring agricultural cycles",
+        "Balancing outreach with financial sustainability",
+        "Avoiding technology use"
+      ],
+      "answer": "Balancing outreach with financial sustainability"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a target group for microfinance in Timor-Leste?",
+      "choices": [
+        "Rural communities",
+        "Women entrepreneurs",
+        "Small-scale farmers",
+        "Large corporations"
+      ],
+      "answer": "Large corporations"
+    },
+    {
+      "question": "What role does the module suggest for the government in microfinance development?",
+      "choices": [
+        "Direct provision of all microfinance services",
+        "Complete non-intervention in the sector",
+        "Supporting and regulating the microfinance sector",
+        "Discouraging all forms of microfinance"
+      ],
+      "answer": "Supporting and regulating the microfinance sector"
+    },
+    {
+      "question": "According to the module, why might interest rates be higher in microfinance compared to traditional banking?",
+      "choices": [
+        "To maximize profits for MFIs",
+        "To discourage borrowing",
+        "To cover the high costs of reaching remote communities",
+        "Due to government regulations"
+      ],
+      "answer": "To cover the high costs of reaching remote communities"
+    },
+    {
+      "question": "What is the significance of tailoring loan repayment schedules to harvest cycles?",
+      "choices": [
+        "It increases interest rates",
+        "It aligns with farmers' cash flow patterns",
+        "It discourages agricultural loans",
+        "It simplifies the loan application process"
+      ],
+      "answer": "It aligns with farmers' cash flow patterns"
+    },
+    {
+      "question": "How does the module suggest microfinance can contribute to women's empowerment in Timor-Leste?",
+      "choices": [
+        "By excluding women from financial services",
+        "Through targeted lending programs for women",
+        "By focusing only on male borrowers",
+        "By increasing the gender gap in financial access"
+      ],
+      "answer": "Through targeted lending programs for women"
+    },
+    {
+      "question": "What is a potential unintended consequence of widespread microfinance implementation in Timor-Leste?",
+      "choices": [
+        "Immediate economic growth",
+        "Elimination of all poverty",
+        "Market saturation in urban areas",
+        "Decreased need for financial services"
+      ],
+      "answer": "Market saturation in urban areas"
+    },
+    {
+      "question": "According to the module, what is a key challenge in evaluating the impact of microfinance programs?",
+      "choices": [
+        "The immediate and clear results",
+        "The lack of interest in evaluation",
+        "The need for long-term assessment",
+        "The simplicity of microfinance operations"
+      ],
+      "answer": "The need for long-term assessment"
+    },
+    {
+      "question": "What does the module suggest about the relationship between microfinance and traditional banking in Timor-Leste?",
+      "choices": [
+        "Microfinance should completely replace traditional banking",
+        "Traditional banking is always preferable to microfinance",
+        "Microfinance can complement traditional banking by reaching underserved populations",
+        "There is no relationship between microfinance and traditional banking"
+      ],
+      "answer": "Microfinance can complement traditional banking by reaching underserved populations"
+    },
+    {
+      "question": "What is the significance of financial literacy programs in the context of microfinance in Timor-Leste?",
+      "choices": [
+        "They are unnecessary for microfinance success",
+        "They can help borrowers use credit more effectively",
+        "They only benefit traditional banks",
+        "They increase the cost of microfinance services"
+      ],
+      "answer": "They can help borrowers use credit more effectively"
+    }
+  ]
+}
