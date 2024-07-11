@@ -51,7 +51,7 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 12. **Ekonomia Dezenvolvimentu / Developmental Economics**
     - This course explores an experimental approach pioneered by Abhijit Banerjee and Esther Duflo to development economics, and its application to poverty alleviation. Students will learn about innovative research methods, key findings in education, health, behavioral economics, gender, politics, and credit, and how these insights can be applied to Timor-Leste's unique context.
 
-13. ** Teoria Polivagal/ Polyvagal Theory**
+13. **Teoria Polivagal/ Polyvagal Theory**
     - This course will teach the hierarchy of neural channels, the autonomic nervous system, neuroception, and how these concepts relate to social engagement, stress responses, and trauma recovery.
 
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
