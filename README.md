@@ -7,7 +7,6 @@ Welcome to this comprehensive resource hub designed to support Peace Corps volun
 <img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
 
 Bele hetan média apoiu ba kursu sira iha ne'e/Support media for the courses can be found here:
-
 https://tefl.go-tl.com/
 
 ## Kursu Prinsipal sira / Key Courses
@@ -19,7 +18,7 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 1. **Moris rejenerativu: Aprosimasaun Permakultura / Regenerative Living: A Permaculture Approach**
    - Learn sustainable permaculture, agricultural and husbandry techniques tailored to Timor-Leste's unique ecology.
 
-2. **Holistiku Kura Arte no Pratika / Holistic Healing Arts and Practices**
+2. **Holistiku Kura Arte no Pratika / Holistic Healing Arts and Practices**  
    - Explore traditional Timorese healing methods alongside modern holistic approaches.
 
 3. **Prátika Ingles ba Timor-Leste / Practical English for Timor-Leste**
@@ -35,23 +34,23 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
    - Create productive, sustainable gardens to support community nutrition.
 
 7. **Dezenvolvimentu software ba Timor-Leste / Software Development for Timor-Leste**
-   - Learn the tools and fundamental skills necesarry to work in the software development industry as an independent contractor.
+   - Learn the tools and fundamental skills necessary to work in the software development industry as an independent contractor.
 
 8. **Introdusaun ba Programa Python ba Timor-Leste / Introduction to Python Programming for Timor-Leste**
    - Gain practical coding skills to drive technological innovation in Timor-Leste.
-   
+
 9. **Introdusaun ba Herbalizmu Mediku ba Timor-Leste / Introduction to Medical Herbalism for Timor-Leste**
-   - Gain knowledge of the science of plants, their parts and how they work in the body along with information on local plants and herbs that make up part of a healthy diet or have practical uses. 
+   - Gain knowledge of the science of plants, their parts and how they work in the body along with information on local plants and herbs that make up part of a healthy diet or have practical uses.
 
 10. **Sustentavel Dezenvolvimentu Lokal no Arkitekultura / Sustainable Local Development and Architecture**
-   - Based on renowned architect Ana Heringer's work Simply Local, learn about sustainable, local building practices.
+    - Based on renowned architect Ana Heringer's work Simply Local, learn about sustainable, local building practices.
 
 11. **Manuál Operasaun ba Rai Espasial / Operations Manual for Spaceship Earth**
-   - Based on the work of the same name by renowned architect and scientist, Buckminster Fuller, learn about global sustainability, resource management, and human potential.
+    - Based on the work of the same name by renowned architect and scientist, Buckminster Fuller, learn about global sustainability, resource management, and human potential.
 
 12. **Ekonomia Dezenvolvimentu / Developmental Economics**
-   - This course explores an experimental approach pioneered by Abhijit Banerjee and Esther Duflo to development economics, and its application to poverty alleviation. Students will learn about innovative research methods, key findings in education, health, behavioral economics, gender, politics, and credit, and how these insights can be applied to Timor-Leste's unique context. 
-   
+    - This course explores an experimental approach pioneered by Abhijit Banerjee and Esther Duflo to development economics, and its application to poverty alleviation. Students will learn about innovative research methods, key findings in education, health, behavioral economics, gender, politics, and credit, and how these insights can be applied to Timor-Leste's unique context.
+
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Matadalan ba navigasaun / Navigation Guide
