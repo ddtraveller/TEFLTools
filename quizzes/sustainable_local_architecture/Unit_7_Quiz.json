@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Project Planning and Management",
+  "questions": [
+    {
+      "question": "What are the typical phases of a sustainable project lifecycle?",
+      "choices": [
+        "Initiation, Planning, Design, Procurement, Construction, Operation and Maintenance, End-of-life/Recycling",
+        "Concept, Development, Implementation, Closure",
+        "Planning, Budgeting, Execution, Evaluation",
+        "Design, Build, Operate, Transfer"
+      ],
+      "answer": "Initiation, Planning, Design, Procurement, Construction, Operation and Maintenance, End-of-life/Recycling"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of sourcing local materials?",
+      "choices": [
+        "Reduced transportation costs",
+        "Support for local economy",
+        "Better adaptation to local climate",
+        "Increased standardization"
+      ],
+      "answer": "Increased standardization"
+    },
+    {
+      "question": "What is a cost-benefit analysis in the context of sustainable building projects?",
+      "choices": [
+        "A systematic process for calculating and comparing benefits and costs of a project or decision",
+        "A method to determine the cheapest materials for construction",
+        "An analysis of the project's environmental impact only",
+        "A comparison of local vs. imported labor costs"
+      ],
+      "answer": "A systematic process for calculating and comparing benefits and costs of a project or decision"
+    },
+    {
+      "question": "Which of the following is a long-term sustainability benefit of efficient building design?",
+      "choices": [
+        "Energy savings",
+        "Higher initial construction costs",
+        "Increased use of imported materials",
+        "Reduced community engagement"
+      ],
+      "answer": "Energy savings"
+    },
+    {
+      "question": "What is a key consideration during the procurement phase of a sustainable project?",
+      "choices": [
+        "Prioritizing local and sustainable materials",
+        "Maximizing the use of imported goods",
+        "Ignoring suppliers' environmental practices",
+        "Focusing only on initial costs"
+      ],
+      "answer": "Prioritizing local and sustainable materials"
+    },
+    {
+      "question": "Which of the following is a challenge in establishing a local material supply chain in Timor-Leste?",
+      "choices": [
+        "Potential quality control issues",
+        "Excessive availability of materials",
+        "Over-standardization of local products",
+        "Lack of traditional building techniques"
+      ],
+      "answer": "Potential quality control issues"
+    },
+    {
+      "question": "What is an important consideration during the end-of-life/recycling phase of a project?",
+      "choices": [
+        "Planning for deconstruction and material reuse",
+        "Maximizing energy consumption",
+        "Increasing waste production",
+        "Ignoring adaptive reuse possibilities"
+      ],
+      "answer": "Planning for deconstruction and material reuse"
+    },
+    {
+      "question": "Which of the following is a key component of a sustainable project plan?",
+      "choices": [
+        "Material sourcing strategy",
+        "Plan to maximize use of imported materials",
+        "Strategy to avoid community engagement",
+        "Focus on short-term cost savings only"
+      ],
+      "answer": "Material sourcing strategy"
+    },
+    {
+      "question": "What is an important aspect of community engagement in sustainable projects?",
+      "choices": [
+        "Involving local stakeholders from early stages",
+        "Excluding local input to speed up the process",
+        "Focusing only on government approvals",
+        "Prioritizing external expertise over local knowledge"
+      ],
+      "answer": "Involving local stakeholders from early stages"
+    },
+    {
+      "question": "Which of the following is a sustainability consideration during the construction phase?",
+      "choices": [
+        "Implementing erosion and sediment control measures",
+        "Maximizing waste production",
+        "Ignoring local labor laws",
+        "Using only imported construction equipment"
+      ],
+      "answer": "Implementing erosion and sediment control measures"
+    },
+    {
+      "question": "What is a key benefit of using traditional building techniques in Timor-Leste?",
+      "choices": [
+        "Preservation of cultural heritage",
+        "Increased reliance on imported materials",
+        "Reduced need for skilled local labor",
+        "Higher construction costs"
+      ],
+      "answer": "Preservation of cultural heritage"
+    },
+    {
+      "question": "Which factor should be considered when comparing local vs. imported materials?",
+      "choices": [
+        "Environmental impact of production and transportation",
+        "Only the initial purchase cost",
+        "Availability of foreign currency",
+        "Political relations with exporting countries"
+      ],
+      "answer": "Environmental impact of production and transportation"
+    },
+    {
+      "question": "What is an important consideration during the operation and maintenance phase of a sustainable building?",
+      "choices": [
+        "Implementing energy-efficient systems",
+        "Increasing reliance on non-renewable energy",
+        "Avoiding user education on sustainable practices",
+        "Maximizing water consumption"
+      ],
+      "answer": "Implementing energy-efficient systems"
+    },
+    {
+      "question": "Which of the following is a potential challenge when using local materials in Timor-Leste?",
+      "choices": [
+        "Limited availability or inconsistent supply",
+        "Excessive standardization",
+        "Over-reliance on modern techniques",
+        "Too much government regulation"
+      ],
+      "answer": "Limited availability or inconsistent supply"
+    },
+    {
+      "question": "What is an important aspect of sustainable project planning in the context of Timor-Leste?",
+      "choices": [
+        "Adapting to local climate conditions",
+        "Ignoring traditional building methods",
+        "Maximizing use of air conditioning",
+        "Prioritizing short-term cost savings over long-term sustainability"
+      ],
+      "answer": "Adapting to local climate conditions"
+    },
+    {
+      "question": "Which of the following is a key consideration in the design phase of a sustainable project?",
+      "choices": [
+        "Implementing passive design strategies",
+        "Maximizing energy consumption",
+        "Ignoring future adaptability",
+        "Focusing only on aesthetic appeal"
+      ],
+      "answer": "Implementing passive design strategies"
+    },
+    {
+      "question": "What is an important factor in sustainable procurement for building projects in Timor-Leste?",
+      "choices": [
+        "Evaluating suppliers' environmental practices",
+        "Always choosing the cheapest option",
+        "Prioritizing imported materials over local ones",
+        "Ignoring the social impact of procurement decisions"
+      ],
+      "answer": "Evaluating suppliers' environmental practices"
+    },
+    {
+      "question": "Which of the following is a benefit of using bamboo as a building material in Timor-Leste?",
+      "choices": [
+        "It's a locally available, renewable resource",
+        "It requires no specialized knowledge to use",
+        "It's more durable than steel",
+        "It's always cheaper than imported materials"
+      ],
+      "answer": "It's a locally available, renewable resource"
+    },
+    {
+      "question": "What is an important consideration when planning for the end-of-life phase of a building in Timor-Leste?",
+      "choices": [
+        "Potential for material reuse or recycling",
+        "Maximizing waste sent to landfills",
+        "Ignoring local waste management capabilities",
+        "Prioritizing complete demolition over deconstruction"
+      ],
+      "answer": "Potential for material reuse or recycling"
+    },
+    {
+      "question": "Which of the following is a key aspect of sustainable project management in Timor-Leste?",
+      "choices": [
+        "Balancing modern sustainability practices with local knowledge",
+        "Completely rejecting traditional building methods",
+        "Prioritizing imported expertise over local skills",
+        "Ignoring long-term environmental impacts"
+      ],
+      "answer": "Balancing modern sustainability practices with local knowledge"
+    },
+    {
+      "question": "What is an important consideration when conducting a cost-benefit analysis for sustainable building projects?",
+      "choices": [
+        "Long-term operational costs and savings",
+        "Only the initial construction costs",
+        "Ignoring environmental impact costs",
+        "Focusing solely on short-term financial returns"
+      ],
+      "answer": "Long-term operational costs and savings"
+    },
+    {
+      "question": "Which of the following is a potential benefit of using earth blocks in construction in Timor-Leste?",
+      "choices": [
+        "Low environmental impact and good thermal properties",
+        "Higher durability than concrete",
+        "Resistance to all types of weather conditions",
+        "No need for skilled labor in construction"
+      ],
+      "answer": "Low environmental impact and good thermal properties"
+    },
+    {
+      "question": "What is an important aspect of community engagement in sustainable building projects?",
+      "choices": [
+        "Building local capacity for sustainable development",
+        "Minimizing local input to speed up the process",
+        "Prioritizing external design ideas over local preferences",
+        "Focusing only on short-term employment opportunities"
+      ],
+      "answer": "Building local capacity for sustainable development"
+    },
+    {
+      "question": "Which of the following is a key consideration when planning for sustainable urban development in Timor-Leste?",
+      "choices": [
+        "Preserving and adapting traditional architectural elements",
+        "Completely replacing all traditional structures with modern buildings",
+        "Ignoring population growth projections",
+        "Prioritizing car-centric urban design"
+      ],
+      "answer": "Preserving and adapting traditional architectural elements"
+    },
+    {
+      "question": "What is an important factor to consider when implementing water conservation measures in Timor-Leste?",
+      "choices": [
+        "Local rainfall patterns and water availability",
+        "Copying water systems from developed countries without adaptation",
+        "Prioritizing ornamental water features",
+        "Ignoring traditional water management practices"
+      ],
+      "answer": "Local rainfall patterns and water availability"
+    },
+    {
+      "question": "Which of the following is a key aspect of sustainable waste management in building projects?",
+      "choices": [
+        "Implementing recycling and waste reduction strategies",
+        "Maximizing waste sent to landfills",
+        "Ignoring construction waste management",
+        "Prioritizing incineration for all waste"
+      ],
+      "answer": "Implementing recycling and waste reduction strategies"
+    },
+    {
+      "question": "What is an important consideration when planning for disaster-resistant building in Timor-Leste?",
+      "choices": [
+        "Adapting designs to local seismic and climate risks",
+        "Using only imported building techniques",
+        "Ignoring traditional knowledge about local hazards",
+        "Prioritizing aesthetics over structural integrity"
+      ],
+      "answer": "Adapting designs to local seismic and climate risks"
+    },
+    {
+      "question": "Which of the following is a key aspect of sustainable energy planning for buildings in Timor-Leste?",
+      "choices": [
+        "Maximizing use of renewable energy sources like solar",
+        "Relying entirely on diesel generators",
+        "Ignoring energy efficiency in building design",
+        "Prioritizing connection to centralized power plants"
+      ],
+      "answer": "Maximizing use of renewable energy sources like solar"
+    },
+    {
+      "question": "What is an important consideration when planning for sustainable transportation in urban development projects?",
+      "choices": [
+        "Prioritizing pedestrian and bicycle infrastructure",
+        "Focusing solely on expanding roads for cars",
+        "Ignoring public transportation options",
+        "Separating residential areas from all commercial zones"
+      ],
+      "answer": "Prioritizing pedestrian and bicycle infrastructure"
+    },
+    {
+      "question": "Which of the following is a key aspect of sustainable land use planning in Timor-Leste?",
+      "choices": [
+        "Balancing development needs with environmental conservation",
+        "Maximizing urban sprawl",
+        "Ignoring agricultural land preservation",
+        "Prioritizing short-term economic gains over long-term sustainability"
+      ],
+      "answer": "Balancing development needs with environmental conservation"
+    }
+  ]
+}

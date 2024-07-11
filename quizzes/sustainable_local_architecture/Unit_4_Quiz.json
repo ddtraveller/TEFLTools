@@ -1,0 +1,305 @@
+{
+  "title": "Improving Local Techniques",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a damp-proof course in building foundations?",
+      "choices": [
+        "To increase structural strength",
+        "To prevent moisture from rising through the structure",
+        "To improve thermal insulation",
+        "To reduce earthquake damage"
+      ],
+      "answer": "To prevent moisture from rising through the structure"
+    },
+    {
+      "question": "Which of the following is NOT a common material used for damp-proof courses?",
+      "choices": [
+        "Polyethylene sheets",
+        "Bitumen-based materials",
+        "Slate",
+        "Bamboo"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "What is the recommended minimum depth for improved foundations in Timorese architecture?",
+      "choices": [
+        "20cm below ground level",
+        "35cm below ground level",
+        "50cm below ground level",
+        "100cm below ground level"
+      ],
+      "answer": "50cm below ground level"
+    },
+    {
+      "question": "Which natural material is commonly added to earth mixtures to increase tensile strength and reduce cracking?",
+      "choices": [
+        "Sand",
+        "Gravel",
+        "Straw",
+        "Clay"
+      ],
+      "answer": "Straw"
+    },
+    {
+      "question": "What is the optimal fiber length for reinforcing earth walls?",
+      "choices": [
+        "1-2cm",
+        "3-5cm",
+        "6-8cm",
+        "9-10cm"
+      ],
+      "answer": "3-5cm"
+    },
+    {
+      "question": "What percentage of fiber content by volume is recommended for reinforcing earth walls?",
+      "choices": [
+        "0.1-0.5%",
+        "1-3%",
+        "5-7%",
+        "10-15%"
+      ],
+      "answer": "1-3%"
+    },
+    {
+      "question": "Which treatment is recommended for bamboo to prevent insect infestation?",
+      "choices": [
+        "Painting with latex",
+        "Soaking in saltwater",
+        "Treatment with borax solution",
+        "Coating with cement"
+      ],
+      "answer": "Treatment with borax solution"
+    },
+    {
+      "question": "What type of joint is recommended for stronger connections in bamboo structures?",
+      "choices": [
+        "Butt joint",
+        "Lap joint",
+        "Fish-mouth joint",
+        "Mortise and tenon joint"
+      ],
+      "answer": "Fish-mouth joint"
+    },
+    {
+      "question": "Which of the following is a principle of cross-ventilation?",
+      "choices": [
+        "Placing all openings on the same wall",
+        "Using only circular windows",
+        "Placing openings on opposite or adjacent walls",
+        "Avoiding windows altogether"
+      ],
+      "answer": "Placing openings on opposite or adjacent walls"
+    },
+    {
+      "question": "What is the purpose of increasing roof height in traditional structures?",
+      "choices": [
+        "To improve aesthetics",
+        "To create more living space",
+        "To better withstand strong winds",
+        "To enhance stack effect ventilation"
+      ],
+      "answer": "To enhance stack effect ventilation"
+    },
+    {
+      "question": "Which feature of traditional roofs helps with shading and rain protection?",
+      "choices": [
+        "Flat design",
+        "Wide eaves",
+        "Multiple peaks",
+        "Transparent materials"
+      ],
+      "answer": "Wide eaves"
+    },
+    {
+      "question": "How do thick earth walls contribute to thermal comfort?",
+      "choices": [
+        "By reflecting sunlight",
+        "By absorbing heat during the day and releasing it at night",
+        "By creating air pockets for insulation",
+        "By allowing more airflow through the structure"
+      ],
+      "answer": "By absorbing heat during the day and releasing it at night"
+    },
+    {
+      "question": "What is the purpose of incorporating internal courtyards in traditional designs?",
+      "choices": [
+        "To increase property value",
+        "To provide space for livestock",
+        "For microclimate control",
+        "To meet building code requirements"
+      ],
+      "answer": "For microclimate control"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using local materials in construction?",
+      "choices": [
+        "Reduced transportation costs",
+        "Cultural appropriateness",
+        "Increased durability in all climates",
+        "Easier maintenance and repair"
+      ],
+      "answer": "Increased durability in all climates"
+    },
+    {
+      "question": "What is the primary challenge in introducing new damp-proofing techniques to rural communities?",
+      "choices": [
+        "Lack of suitable materials",
+        "High cost of implementation",
+        "Resistance to change in traditional practices",
+        "Incompatibility with local climate"
+      ],
+      "answer": "Resistance to change in traditional practices"
+    },
+    {
+      "question": "Which natural cooling strategy involves the strategic placement of plants around a building?",
+      "choices": [
+        "Thermal mass",
+        "Cross-ventilation",
+        "Vegetation shading",
+        "Evaporative cooling"
+      ],
+      "answer": "Vegetation shading"
+    },
+    {
+      "question": "What is the main purpose of vented ridges in roof design?",
+      "choices": [
+        "To improve structural integrity",
+        "To allow hot air to escape",
+        "To collect rainwater",
+        "To support solar panels"
+      ],
+      "answer": "To allow hot air to escape"
+    },
+    {
+      "question": "Which of the following is a benefit of using stabilized earth blocks for foundations?",
+      "choices": [
+        "They are completely waterproof",
+        "They are lighter than traditional materials",
+        "They provide better insulation",
+        "They are more durable than loose stone"
+      ],
+      "answer": "They are more durable than loose stone"
+    },
+    {
+      "question": "What is the primary advantage of using natural fiber lashing combined with wooden pegs in bamboo structures?",
+      "choices": [
+        "It is cheaper than modern fasteners",
+        "It provides greater strength than metal joints",
+        "It allows for easier disassembly and repair",
+        "It improves the structure's resistance to earthquakes"
+      ],
+      "answer": "It allows for easier disassembly and repair"
+    },
+    {
+      "question": "Which factor is most important to consider when placing openings for natural ventilation?",
+      "choices": [
+        "Aesthetic appeal",
+        "Prevailing wind directions",
+        "Cost of materials",
+        "Symmetry of the building"
+      ],
+      "answer": "Prevailing wind directions"
+    },
+    {
+      "question": "What is the main advantage of using a double-roof system with an air gap?",
+      "choices": [
+        "Improved sound insulation",
+        "Enhanced structural strength",
+        "Better rainwater collection",
+        "Reduced heat transfer to the interior"
+      ],
+      "answer": "Reduced heat transfer to the interior"
+    },
+    {
+      "question": "Which of the following is NOT a typical improvement for traditional Timorese house foundations?",
+      "choices": [
+        "Using concrete for foundation walls",
+        "Incorporating proper drainage systems",
+        "Raising the foundation above ground level",
+        "Using untreated wood for the base"
+      ],
+      "answer": "Using untreated wood for the base"
+    },
+    {
+      "question": "What is the primary purpose of adding vertical bamboo poles at corners and openings in earth walls?",
+      "choices": [
+        "To improve aesthetics",
+        "To support electrical wiring",
+        "To enhance structural strength",
+        "To create natural ventilation channels"
+      ],
+      "answer": "To enhance structural strength"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'thermal mass' in building design?",
+      "choices": [
+        "The total weight of the building materials",
+        "The ability of materials to absorb and store heat",
+        "The rate of heat loss through the building envelope",
+        "The amount of insulation in the walls and roof"
+      ],
+      "answer": "The ability of materials to absorb and store heat"
+    },
+    {
+      "question": "What is the main advantage of using light-colored roofing materials in tropical climates?",
+      "choices": [
+        "They are more durable",
+        "They are cheaper to produce",
+        "They decrease heat absorption",
+        "They improve structural integrity"
+      ],
+      "answer": "They decrease heat absorption"
+    },
+    {
+      "question": "Which of the following is a key consideration when improving traditional building techniques?",
+      "choices": [
+        "Completely replacing all traditional methods",
+        "Ignoring local cultural preferences",
+        "Balancing modern improvements with cultural preservation",
+        "Using only imported materials"
+      ],
+      "answer": "Balancing modern improvements with cultural preservation"
+    },
+    {
+      "question": "What is the primary benefit of incorporating improved building techniques in rural Timorese communities?",
+      "choices": [
+        "Increased property values",
+        "Enhanced durability and comfort of structures",
+        "Reduced need for skilled labor",
+        "Elimination of all traditional building practices"
+      ],
+      "answer": "Enhanced durability and comfort of structures"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in implementing improved building techniques in Timor-Leste?",
+      "choices": [
+        "Limited access to modern materials",
+        "Resistance to change from local communities",
+        "Lack of skilled labor for new techniques",
+        "Excessive government funding for improvements"
+      ],
+      "answer": "Excessive government funding for improvements"
+    },
+    {
+      "question": "What role does proper drainage play in improving traditional foundations?",
+      "choices": [
+        "It increases the structural load capacity",
+        "It enhances the aesthetic appeal of the building",
+        "It prevents water accumulation and soil erosion",
+        "It provides a source of water for household use"
+      ],
+      "answer": "It prevents water accumulation and soil erosion"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'stack effect ventilation'?",
+      "choices": [
+        "Horizontal air movement through a building",
+        "Vertical air movement due to temperature differences",
+        "Mechanical ventilation using fans",
+        "Ventilation through small, evenly spaced openings"
+      ],
+      "answer": "Vertical air movement due to temperature differences"
+    }
+  ]
+}

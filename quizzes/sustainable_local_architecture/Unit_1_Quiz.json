@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Sustainable Local Architecture",
+  "questions": [
+    {
+      "question": "What is the primary goal of sustainable architecture?",
+      "choices": [
+        "To maximize profit",
+        "To use only modern materials",
+        "To meet present needs without compromising future generations",
+        "To create the tallest buildings possible"
+      ],
+      "answer": "To meet present needs without compromising future generations"
+    },
+    {
+      "question": "Which of the following is NOT a key element of sustainable architecture?",
+      "choices": [
+        "Energy efficiency",
+        "Use of local materials",
+        "Minimal environmental impact",
+        "Exclusive use of imported materials"
+      ],
+      "answer": "Exclusive use of imported materials"
+    },
+    {
+      "question": "What is vernacular architecture?",
+      "choices": [
+        "Architecture that uses only modern materials",
+        "Building style using local materials and traditions specific to a region",
+        "Designs created by famous international architects",
+        "Structures built only for religious purposes"
+      ],
+      "answer": "Building style using local materials and traditions specific to a region"
+    },
+    {
+      "question": "Which of the following is an advantage of using local building materials?",
+      "choices": [
+        "Higher transportation costs",
+        "Increased carbon footprint",
+        "Support for local economy",
+        "Faster construction time"
+      ],
+      "answer": "Support for local economy"
+    },
+    {
+      "question": "What is a challenge in preserving traditional architecture in Timor-Leste?",
+      "choices": [
+        "Excess of skilled traditional builders",
+        "Too much funding for preservation",
+        "Loss of traditional building skills",
+        "Lack of interest in modern architecture"
+      ],
+      "answer": "Loss of traditional building skills"
+    },
+    {
+      "question": "What is the term for the total amount of greenhouse gases produced by human activities?",
+      "choices": [
+        "Green index",
+        "Carbon footprint",
+        "Emission scale",
+        "Climate score"
+      ],
+      "answer": "Carbon footprint"
+    },
+    {
+      "question": "Which of the following is a characteristic of sustainable local architecture?",
+      "choices": [
+        "High dependence on imported materials",
+        "Disregard for local climate conditions",
+        "Emphasis on cultural preservation",
+        "Preference for energy-intensive building methods"
+      ],
+      "answer": "Emphasis on cultural preservation"
+    },
+    {
+      "question": "What is a benefit of using bamboo in construction in Timor-Leste?",
+      "choices": [
+        "It's non-renewable",
+        "It has a high carbon footprint",
+        "It's not locally available",
+        "It's renewable and has a low carbon footprint"
+      ],
+      "answer": "It's renewable and has a low carbon footprint"
+    },
+    {
+      "question": "What is an Uma Lulik in Timorese architecture?",
+      "choices": [
+        "A modern apartment building",
+        "A sacred house",
+        "A type of roofing material",
+        "A government office"
+      ],
+      "answer": "A sacred house"
+    },
+    {
+      "question": "Which of the following is a passive design strategy for energy efficiency?",
+      "choices": [
+        "Installing air conditioning in every room",
+        "Using only artificial lighting",
+        "Utilizing natural ventilation",
+        "Maximizing the use of concrete"
+      ],
+      "answer": "Utilizing natural ventilation"
+    },
+    {
+      "question": "What is a potential negative impact of globalization on local architecture?",
+      "choices": [
+        "Increased use of local materials",
+        "Preservation of traditional building techniques",
+        "Homogenization of building styles",
+        "Enhanced cultural identity in buildings"
+      ],
+      "answer": "Homogenization of building styles"
+    },
+    {
+      "question": "Which material is traditionally used for roofing in Timorese architecture?",
+      "choices": [
+        "Concrete tiles",
+        "Metal sheets",
+        "Palm leaves (bebak)",
+        "Asphalt shingles"
+      ],
+      "answer": "Palm leaves (bebak)"
+    },
+    {
+      "question": "What is a key consideration in climate-responsive design for Timor-Leste's tropical environment?",
+      "choices": [
+        "Maximizing heat gain",
+        "Minimizing natural ventilation",
+        "Creating large, open windows for cross-ventilation",
+        "Using dark colors to absorb more heat"
+      ],
+      "answer": "Creating large, open windows for cross-ventilation"
+    },
+    {
+      "question": "Which of the following is NOT typically a feature of traditional Timorese buildings?",
+      "choices": [
+        "Raised floors",
+        "Steep thatched roofs",
+        "Concrete foundations",
+        "Open living spaces"
+      ],
+      "answer": "Concrete foundations"
+    },
+    {
+      "question": "What is the purpose of raised floors in traditional Timorese architecture?",
+      "choices": [
+        "To create storage space",
+        "For ventilation and flood protection",
+        "To make the building taller",
+        "To save on construction materials"
+      ],
+      "answer": "For ventilation and flood protection"
+    },
+    {
+      "question": "Which of the following is a sustainable water management technique often used in local architecture?",
+      "choices": [
+        "Increasing water consumption",
+        "Rainwater harvesting",
+        "Using only bottled water",
+        "Draining all water into the ocean"
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "What is the term for wooden posts, often carved, in traditional Timorese architecture?",
+      "choices": [
+        "Tata",
+        "Bebak",
+        "Ai-riin",
+        "Uma Lisan"
+      ],
+      "answer": "Ai-riin"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'cultural identity in architecture'?",
+      "choices": [
+        "Using only modern design elements",
+        "Copying architectural styles from other countries",
+        "Incorporating elements that reflect and preserve local cultural heritage",
+        "Avoiding any traditional design features"
+      ],
+      "answer": "Incorporating elements that reflect and preserve local cultural heritage"
+    },
+    {
+      "question": "What is a benefit of using earth bricks in construction?",
+      "choices": [
+        "High carbon footprint",
+        "Poor thermal mass",
+        "Expensive to produce",
+        "Good thermal mass for temperature regulation"
+      ],
+      "answer": "Good thermal mass for temperature regulation"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in implementing sustainable local architecture?",
+      "choices": [
+        "Lack of modern amenities",
+        "Limited availability of certain materials",
+        "Need for specialized knowledge",
+        "Excess of skilled traditional builders"
+      ],
+      "answer": "Excess of skilled traditional builders"
+    },
+    {
+      "question": "What is the primary purpose of large overhanging roofs in tropical architecture?",
+      "choices": [
+        "To collect more rainwater",
+        "To provide shade and rain protection",
+        "To make the building look larger",
+        "To support solar panels"
+      ],
+      "answer": "To provide shade and rain protection"
+    },
+    {
+      "question": "Which of the following is a key principle of sustainable architecture?",
+      "choices": [
+        "Maximizing the use of non-renewable resources",
+        "Ignoring local climate conditions",
+        "Prioritizing short-term cost savings over long-term sustainability",
+        "Considering the entire lifecycle of a structure"
+      ],
+      "answer": "Considering the entire lifecycle of a structure"
+    },
+    {
+      "question": "What is the term for woven bamboo walls in traditional Timorese architecture?",
+      "choices": [
+        "Ai-riin",
+        "Tata",
+        "Bebak",
+        "Uma Adat"
+      ],
+      "answer": "Tata"
+    },
+    {
+      "question": "Which of the following is a benefit of integrating outdoor living spaces in tropical architecture?",
+      "choices": [
+        "Increased energy consumption",
+        "Reduced connection with nature",
+        "Improved natural ventilation and reduced cooling needs",
+        "Higher construction costs"
+      ],
+      "answer": "Improved natural ventilation and reduced cooling needs"
+    },
+    {
+      "question": "What is a key consideration when adapting traditional building techniques for modern use?",
+      "choices": [
+        "Completely replacing all traditional methods",
+        "Ignoring modern safety standards",
+        "Balancing traditional methods with modern requirements for safety and comfort",
+        "Using only imported materials"
+      ],
+      "answer": "Balancing traditional methods with modern requirements for safety and comfort"
+    },
+    {
+      "question": "Which of the following is NOT typically a sustainable design feature in tropical climates?",
+      "choices": [
+        "Large windows for cross-ventilation",
+        "Use of local, natural materials",
+        "Thick, insulated walls to trap heat",
+        "Rainwater harvesting systems"
+      ],
+      "answer": "Thick, insulated walls to trap heat"
+    },
+    {
+      "question": "What is the term for a clan house in traditional Timorese architecture?",
+      "choices": [
+        "Uma Lulik",
+        "Uma Lisan",
+        "Tata",
+        "Ai-riin"
+      ],
+      "answer": "Uma Lisan"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'minimal environmental impact' in sustainable architecture?",
+      "choices": [
+        "Using only the most expensive materials",
+        "Designing buildings with the largest possible footprint",
+        "Minimizing waste, conserving resources, and preserving natural habitats",
+        "Avoiding any use of technology in buildings"
+      ],
+      "answer": "Minimizing waste, conserving resources, and preserving natural habitats"
+    },
+    {
+      "question": "What is a potential benefit of documenting and reviving traditional building techniques?",
+      "choices": [
+        "Increasing dependence on imported materials",
+        "Losing cultural identity",
+        "Preserving sustainable solutions to contemporary challenges",
+        "Reducing local employment opportunities"
+      ],
+      "answer": "Preserving sustainable solutions to contemporary challenges"
+    },
+    {
+      "question": "Which of the following is a characteristic of passive solar design?",
+      "choices": [
+        "Reliance on mechanical heating and cooling systems",
+        "Orientation of buildings to maximize natural light and heat",
+        "Use of dark-colored roofing materials to absorb heat",
+        "Minimizing window sizes to reduce heat gain"
+      ],
+      "answer": "Orientation of buildings to maximize natural light and heat"
+    }
+  ]
+}

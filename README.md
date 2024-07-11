@@ -42,6 +42,12 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
    
 9. **Introdusaun ba Herbalizmu Mediku ba Timor-Leste / Introduction to Medical Herbalism for Timor-Leste**
    - Gain knowledge of the science of plants, their parts and how they work in the body along with information on local plants and herbs that make up part of a healthy diet or have practical uses. 
+
+10. **Sustentavel Dezenvolvimentu Lokal no Arkitekultura / Sustainable Local Development and Architecture**
+   - Based on renowned architect Ana Heringer's work Simply Local, learn about sustainable, local building practices.
+
+11. **Manuál Operasaun ba Rai Espasial / Operations Manual for Spaceship Earth**
+   - Based on the work of the same name by renowned architect and scientist, Buckminster Fuller, learn about global sustainability, resource management, and human potential.
    
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 

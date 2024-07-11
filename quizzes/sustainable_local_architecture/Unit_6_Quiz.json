@@ -1,0 +1,305 @@
+{
+  "title": "Participatory Design and Community Engagement",
+  "questions": [
+    {
+      "question": "What is the main goal of participatory design in architecture?",
+      "choices": [
+        "To speed up the design process",
+        "To reduce costs for architects",
+        "To create designs that reflect community needs and values",
+        "To simplify complex architectural concepts"
+      ],
+      "answer": "To create designs that reflect community needs and values"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of participatory design?",
+      "choices": [
+        "Bridging the gap between professional expertise and local knowledge",
+        "Creating more innovative and effective solutions",
+        "Ensuring that designs are always completed faster",
+        "Addressing real-world problems more effectively"
+      ],
+      "answer": "Ensuring that designs are always completed faster"
+    },
+    {
+      "question": "What is community mapping in the context of participatory design?",
+      "choices": [
+        "A technique for creating detailed topographic maps",
+        "A method for visualizing community demographics",
+        "A process of creating visual representations of a neighborhood, highlighting important features",
+        "A way to map out the locations of community meetings"
+      ],
+      "answer": "A process of creating visual representations of a neighborhood, highlighting important features"
+    },
+    {
+      "question": "What is a design charrette?",
+      "choices": [
+        "A type of architectural drawing",
+        "An intensive, collaborative planning session",
+        "A software tool for 3D modeling",
+        "A community voting process"
+      ],
+      "answer": "An intensive, collaborative planning session"
+    },
+    {
+      "question": "What is the primary purpose of the Photovoice technique?",
+      "choices": [
+        "To create professional photographs of architectural designs",
+        "To document the construction process",
+        "To empower community members to document their environment through photography",
+        "To teach photography skills to architects"
+      ],
+      "answer": "To empower community members to document their environment through photography"
+    },
+    {
+      "question": "What is participatory 3D modeling used for in community engagement?",
+      "choices": [
+        "To create exact replicas of existing buildings",
+        "To combine local spatial knowledge with geographic information technologies",
+        "To teach community members how to use CAD software",
+        "To produce professional architectural renderings"
+      ],
+      "answer": "To combine local spatial knowledge with geographic information technologies"
+    },
+    {
+      "question": "Which skill is crucial for architects and planners when facilitating community workshops?",
+      "choices": [
+        "Public speaking",
+        "Technical drawing",
+        "Active listening",
+        "Financial planning"
+      ],
+      "answer": "Active listening"
+    },
+    {
+      "question": "What is the primary purpose of creating a community engagement plan?",
+      "choices": [
+        "To meet legal requirements",
+        "To reduce project costs",
+        "To ensure meaningful and sustained community participation",
+        "To speed up the design process"
+      ],
+      "answer": "To ensure meaningful and sustained community participation"
+    },
+    {
+      "question": "Which of the following is NOT typically a challenge in participatory design?",
+      "choices": [
+        "Balancing diverse opinions",
+        "Managing expectations",
+        "Navigating political dynamics",
+        "Reducing the need for professional expertise"
+      ],
+      "answer": "Reducing the need for professional expertise"
+    },
+    {
+      "question": "What is a key benefit of involving communities in the architectural process?",
+      "choices": [
+        "It always results in lower construction costs",
+        "It eliminates the need for professional architects",
+        "It fosters a sense of ownership and pride among residents",
+        "It guarantees faster project completion"
+      ],
+      "answer": "It fosters a sense of ownership and pride among residents"
+    },
+    {
+      "question": "Which of the following best describes the role of an architect in participatory design?",
+      "choices": [
+        "The sole decision-maker",
+        "A facilitator and technical expert",
+        "An observer of community discussions",
+        "The final authority on all design choices"
+      ],
+      "answer": "A facilitator and technical expert"
+    },
+    {
+      "question": "What is the primary goal of using participatory 3D modeling in community engagement?",
+      "choices": [
+        "To create professional-quality architectural models",
+        "To teach community members advanced modeling techniques",
+        "To visualize complex spatial relationships and potential design interventions",
+        "To replace traditional 2D mapping methods"
+      ],
+      "answer": "To visualize complex spatial relationships and potential design interventions"
+    },
+    {
+      "question": "Which of the following is a key component of an effective community engagement plan?",
+      "choices": [
+        "Limiting the number of stakeholders involved",
+        "Setting clear objectives for the engagement process",
+        "Focusing solely on online engagement methods",
+        "Prioritizing speed over inclusivity"
+      ],
+      "answer": "Setting clear objectives for the engagement process"
+    },
+    {
+      "question": "What is the main advantage of using Photovoice in participatory design?",
+      "choices": [
+        "It provides high-quality images for marketing materials",
+        "It reduces the need for written documentation",
+        "It engages marginalized groups whose voices might otherwise go unheard",
+        "It speeds up the design process significantly"
+      ],
+      "answer": "It engages marginalized groups whose voices might otherwise go unheard"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a stakeholder in participatory design?",
+      "choices": [
+        "Architects",
+        "Community members",
+        "Local authorities",
+        "International tourists"
+      ],
+      "answer": "International tourists"
+    },
+    {
+      "question": "What is a potential drawback of participatory design processes?",
+      "choices": [
+        "They always result in higher construction costs",
+        "They can be time-consuming and resource-intensive",
+        "They eliminate the need for professional expertise",
+        "They always lead to conflict within communities"
+      ],
+      "answer": "They can be time-consuming and resource-intensive"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'design justice' in participatory architecture?",
+      "choices": [
+        "Ensuring all buildings meet legal codes",
+        "Prioritizing aesthetic beauty over functionality",
+        "Challenging systemic inequalities in design processes",
+        "Focusing solely on environmental sustainability"
+      ],
+      "answer": "Challenging systemic inequalities in design processes"
+    },
+    {
+      "question": "What is the primary purpose of a design charrette in participatory architecture?",
+      "choices": [
+        "To showcase finished architectural designs",
+        "To train community members in architectural drawing",
+        "To generate design solutions through intensive collaboration",
+        "To select the most cost-effective construction materials"
+      ],
+      "answer": "To generate design solutions through intensive collaboration"
+    },
+    {
+      "question": "Which of the following is a key skill for managing group dynamics in community workshops?",
+      "choices": [
+        "Advanced mathematical modeling",
+        "Proficiency in multiple languages",
+        "The ability to tactfully manage dominant personalities",
+        "Expertise in construction techniques"
+      ],
+      "answer": "The ability to tactfully manage dominant personalities"
+    },
+    {
+      "question": "What is the main purpose of including a timeline in a community engagement plan?",
+      "choices": [
+        "To ensure the project is completed as quickly as possible",
+        "To limit the amount of community input",
+        "To allocate sufficient time for meaningful participation and feedback incorporation",
+        "To meet legal requirements for public consultation"
+      ],
+      "answer": "To allocate sufficient time for meaningful participation and feedback incorporation"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'placemaking' in participatory design?",
+      "choices": [
+        "Creating exact replicas of historical buildings",
+        "Designing spaces based solely on architect's vision",
+        "A multi-faceted approach that capitalizes on local community's assets and potential",
+        "Focusing exclusively on creating new public parks"
+      ],
+      "answer": "A multi-faceted approach that capitalizes on local community's assets and potential"
+    },
+    {
+      "question": "What is a key consideration when adapting participatory design techniques for different cultural contexts?",
+      "choices": [
+        "Using the same methods regardless of cultural differences",
+        "Prioritizing Western design principles",
+        "Understanding and respecting local cultural norms and practices",
+        "Avoiding any discussion of cultural differences"
+      ],
+      "answer": "Understanding and respecting local cultural norms and practices"
+    },
+    {
+      "question": "Which of the following is an example of vernacular architecture?",
+      "choices": [
+        "A skyscraper designed by a famous architect",
+        "A traditional house built using local materials and techniques",
+        "A prefabricated modular home",
+        "A government building designed to international standards"
+      ],
+      "answer": "A traditional house built using local materials and techniques"
+    },
+    {
+      "question": "What is the primary goal of consensus building in participatory design?",
+      "choices": [
+        "To ensure the architect's vision is implemented without changes",
+        "To find solutions that all parties can agree on through collaborative problem-solving",
+        "To identify the most vocal community members",
+        "To speed up the decision-making process"
+      ],
+      "answer": "To find solutions that all parties can agree on through collaborative problem-solving"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of a community mapping exercise?",
+      "choices": [
+        "Identifying areas of frequent use",
+        "Marking problematic or avoided areas",
+        "Highlighting potential for improvement",
+        "Determining property values"
+      ],
+      "answer": "Determining property values"
+    },
+    {
+      "question": "What is the main advantage of using participatory 3D modeling over traditional 2D mapping?",
+      "choices": [
+        "It's always cheaper to implement",
+        "It requires less community involvement",
+        "It helps in visualizing elevation and land use more effectively",
+        "It eliminates the need for digital mapping tools"
+      ],
+      "answer": "It helps in visualizing elevation and land use more effectively"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'empowerment' in participatory design?",
+      "choices": [
+        "Giving complete control of the project to the community",
+        "Educating community members about architectural principles",
+        "The process of communities becoming more confident in controlling their environment",
+        "Providing financial resources to community members"
+      ],
+      "answer": "The process of communities becoming more confident in controlling their environment"
+    },
+    {
+      "question": "What is a key benefit of using local knowledge in architectural design?",
+      "choices": [
+        "It always results in lower construction costs",
+        "It eliminates the need for professional architects",
+        "It leads to designs that are more culturally appropriate and sustainable",
+        "It speeds up the construction process"
+      ],
+      "answer": "It leads to designs that are more culturally appropriate and sustainable"
+    },
+    {
+      "question": "Which of the following is NOT typically a goal of participatory design in architecture?",
+      "choices": [
+        "Creating more functional spaces",
+        "Fostering a sense of community ownership",
+        "Ensuring designs reflect local culture and values",
+        "Minimizing community input to streamline the process"
+      ],
+      "answer": "Minimizing community input to streamline the process"
+    },
+    {
+      "question": "What is the primary purpose of conducting stakeholder analysis in participatory design?",
+      "choices": [
+        "To identify the wealthiest community members",
+        "To determine who to exclude from the process",
+        "To understand the interests and influence of different groups affected by the project",
+        "To find potential donors for the project"
+      ],
+      "answer": "To understand the interests and influence of different groups affected by the project"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Integrating Modern Sustainable Technologies",
+  "questions": [
+    {
+      "question": "What is the primary function of photovoltaic cells in a solar power system?",
+      "choices": [
+        "To store electricity",
+        "To convert sunlight directly into electricity",
+        "To distribute electricity to appliances",
+        "To regulate voltage"
+      ],
+      "answer": "To convert sunlight directly into electricity"
+    },
+    {
+      "question": "Which component in a solar power system converts DC to AC?",
+      "choices": [
+        "Solar panel",
+        "Battery",
+        "Inverter",
+        "Charge controller"
+      ],
+      "answer": "Inverter"
+    },
+    {
+      "question": "What is a major advantage of solar power in rural Timor-Leste?",
+      "choices": [
+        "Low initial cost",
+        "Abundant sunlight",
+        "Easy maintenance",
+        "Widespread technical expertise"
+      ],
+      "answer": "Abundant sunlight"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a rainwater harvesting system?",
+      "choices": [
+        "Catchment area",
+        "Gutters",
+        "Solar panels",
+        "Storage tank"
+      ],
+      "answer": "Solar panels"
+    },
+    {
+      "question": "What is the purpose of a first flush diverter in a rainwater harvesting system?",
+      "choices": [
+        "To increase water pressure",
+        "To filter out contaminants from initial rainfall",
+        "To regulate water flow",
+        "To heat the collected water"
+      ],
+      "answer": "To filter out contaminants from initial rainfall"
+    },
+    {
+      "question": "Which of the following is a benefit of rainwater harvesting?",
+      "choices": [
+        "Increases demand on groundwater",
+        "Provides water during wet seasons only",
+        "Reduces soil erosion",
+        "Increases water hardness"
+      ],
+      "answer": "Reduces soil erosion"
+    },
+    {
+      "question": "What is the primary function of a composting toilet?",
+      "choices": [
+        "To flush waste with minimal water",
+        "To separate liquid and solid waste for aerobic decomposition",
+        "To treat greywater for reuse",
+        "To generate electricity from waste"
+      ],
+      "answer": "To separate liquid and solid waste for aerobic decomposition"
+    },
+    {
+      "question": "Which of the following is NOT typically added to a composting toilet?",
+      "choices": [
+        "Sawdust",
+        "Leaves",
+        "Chemical disinfectants",
+        "Carbon-rich materials"
+      ],
+      "answer": "Chemical disinfectants"
+    },
+    {
+      "question": "What is greywater?",
+      "choices": [
+        "Rainwater collected from roofs",
+        "Wastewater from toilets",
+        "Wastewater from household uses excluding toilet waste",
+        "Treated drinking water"
+      ],
+      "answer": "Wastewater from household uses excluding toilet waste"
+    },
+    {
+      "question": "Which of the following is a benefit of ecological sanitation?",
+      "choices": [
+        "Increased water consumption",
+        "Nutrient recycling",
+        "Higher installation costs",
+        "Dependence on centralized sewage systems"
+      ],
+      "answer": "Nutrient recycling"
+    },
+    {
+      "question": "What is a major challenge in implementing solar power systems in rural Timor-Leste?",
+      "choices": [
+        "Lack of sunlight",
+        "Oversupply of electricity",
+        "Initial cost",
+        "Excessive technical expertise"
+      ],
+      "answer": "Initial cost"
+    },
+    {
+      "question": "Which factor is important when sizing a storage tank for a rainwater harvesting system?",
+      "choices": [
+        "Roof color",
+        "House age",
+        "Rainfall patterns",
+        "Soil type"
+      ],
+      "answer": "Rainfall patterns"
+    },
+    {
+      "question": "What is the primary purpose of a charge controller in a solar power system?",
+      "choices": [
+        "To convert DC to AC",
+        "To store electricity",
+        "To regulate battery charging and discharging",
+        "To distribute power to appliances"
+      ],
+      "answer": "To regulate battery charging and discharging"
+    },
+    {
+      "question": "Which of the following is a potential use for treated greywater?",
+      "choices": [
+        "Drinking",
+        "Cooking",
+        "Bathing",
+        "Irrigation"
+      ],
+      "answer": "Irrigation"
+    },
+    {
+      "question": "What is the main advantage of using composting toilets in areas without sewage infrastructure?",
+      "choices": [
+        "They require less maintenance",
+        "They produce fertilizer for agriculture",
+        "They use less water than conventional toilets",
+        "They are more comfortable to use"
+      ],
+      "answer": "They produce fertilizer for agriculture"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in implementing sustainable technologies in rural areas?",
+      "choices": [
+        "Limited technical expertise",
+        "Cultural resistance",
+        "High initial costs",
+        "Excessive government support"
+      ],
+      "answer": "Excessive government support"
+    },
+    {
+      "question": "What is the primary function of gutters in a rainwater harvesting system?",
+      "choices": [
+        "To filter the water",
+        "To store the water",
+        "To channel water from the catchment area to the storage tank",
+        "To distribute water to household taps"
+      ],
+      "answer": "To channel water from the catchment area to the storage tank"
+    },
+    {
+      "question": "Which of the following is a benefit of using solar power in rural areas?",
+      "choices": [
+        "It requires connection to the main power grid",
+        "It provides a centralized power source",
+        "It offers an off-grid power solution",
+        "It eliminates the need for batteries"
+      ],
+      "answer": "It offers an off-grid power solution"
+    },
+    {
+      "question": "What is the main environmental benefit of ecological sanitation systems?",
+      "choices": [
+        "Increased water usage",
+        "Reduced groundwater contamination",
+        "Higher energy consumption",
+        "Increased waste production"
+      ],
+      "answer": "Reduced groundwater contamination"
+    },
+    {
+      "question": "Which factor is most important when determining the placement of solar panels?",
+      "choices": [
+        "Proximity to water sources",
+        "Soil composition",
+        "Exposure to sunlight",
+        "Aesthetic appeal"
+      ],
+      "answer": "Exposure to sunlight"
+    },
+    {
+      "question": "What is the purpose of a filtration system in a rainwater harvesting setup?",
+      "choices": [
+        "To increase water pressure",
+        "To remove contaminants from collected water",
+        "To heat the water",
+        "To add minerals to the water"
+      ],
+      "answer": "To remove contaminants from collected water"
+    },
+    {
+      "question": "Which of the following is NOT a typical use for harvested rainwater?",
+      "choices": [
+        "Irrigation",
+        "Toilet flushing",
+        "Drinking (after proper treatment)",
+        "Electricity generation"
+      ],
+      "answer": "Electricity generation"
+    },
+    {
+      "question": "What is a key consideration when implementing composting toilets in traditional communities?",
+      "choices": [
+        "Ensuring compatibility with local sewage systems",
+        "Addressing cultural acceptance and education",
+        "Maximizing water usage",
+        "Increasing reliance on chemical treatments"
+      ],
+      "answer": "Addressing cultural acceptance and education"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'appropriate technology' for Timor-Leste?",
+      "choices": [
+        "The most advanced technology available globally",
+        "Technology that is suitable for local conditions and needs",
+        "Technology that requires the least maintenance",
+        "The cheapest technology option available"
+      ],
+      "answer": "Technology that is suitable for local conditions and needs"
+    },
+    {
+      "question": "What role do batteries play in a solar power system?",
+      "choices": [
+        "They convert sunlight to electricity",
+        "They regulate voltage",
+        "They store energy for use when sunlight is unavailable",
+        "They distribute power to appliances"
+      ],
+      "answer": "They store energy for use when sunlight is unavailable"
+    },
+    {
+      "question": "Which of the following is a potential economic impact of widespread adoption of sustainable technologies in Timor-Leste?",
+      "choices": [
+        "Increased dependence on imported fuels",
+        "Reduced local employment opportunities",
+        "Development of new local industries and skills",
+        "Higher long-term energy costs"
+      ],
+      "answer": "Development of new local industries and skills"
+    },
+    {
+      "question": "What is a key benefit of integrating sustainable technologies with traditional Timorese building practices?",
+      "choices": [
+        "It completely replaces traditional methods",
+        "It increases reliance on imported materials",
+        "It preserves cultural heritage while improving sustainability",
+        "It reduces the need for community involvement"
+      ],
+      "answer": "It preserves cultural heritage while improving sustainability"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a small-scale solar power system for a rural home?",
+      "choices": [
+        "Solar panels",
+        "Inverter",
+        "Wind turbine",
+        "Battery bank"
+      ],
+      "answer": "Wind turbine"
+    },
+    {
+      "question": "What is the primary purpose of a community engagement plan in sustainable technology projects?",
+      "choices": [
+        "To increase project costs",
+        "To exclude local input",
+        "To ensure local participation and ownership",
+        "To speed up implementation without consultation"
+      ],
+      "answer": "To ensure local participation and ownership"
+    },
+    {
+      "question": "Which factor is most crucial for the long-term success of sustainable technology projects in rural areas?",
+      "choices": [
+        "Continuous external funding",
+        "Local capacity for maintenance and operation",
+        "Regular replacement with newer technologies",
+        "Centralized control by urban experts"
+      ],
+      "answer": "Local capacity for maintenance and operation"
+    }
+  ]
+}
