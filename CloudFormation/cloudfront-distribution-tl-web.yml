@@ -1,0 +1,150 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'CloudFront distribution for go-tl.com with S3 origin in us-west-2'
+
+Resources:
+  CloudFrontDistribution:
+    Type: AWS::CloudFront::Distribution
+    Properties:
+      DistributionConfig:
+        Aliases:
+          - go-tl.com
+          - '*.go-tl.com'
+        Comment: CloudFront distribution for go-tl.com
+        CustomErrorResponses:
+          - ErrorCachingMinTTL: 300
+            ErrorCode: 404
+            ResponseCode: 404
+            ResponsePagePath: /404.html
+        DefaultCacheBehavior:
+          Compress: true
+          DefaultTTL: 0
+          ForwardedValues:
+            QueryString: false
+            Cookies:
+              Forward: none
+          MaxTTL: 0
+          MinTTL: 0
+          SmoothStreaming: false
+          ViewerProtocolPolicy: redirect-to-https
+          TargetOriginId: S3Origin
+        CacheBehaviors:
+          - Compress: true
+            DefaultTTL: 0
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 0
+            MinTTL: 0
+            PathPattern: sw.js
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https
+          - Compress: true
+            DefaultTTL: 31557600
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 31557600
+            MinTTL: 31557600
+            PathPattern: '*.js'
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https
+          - Compress: true
+            DefaultTTL: 0
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 0
+            MinTTL: 0
+            PathPattern: '*.html'
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https
+          - Compress: true
+            DefaultTTL: 31557600
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 31557600
+            MinTTL: 31557600
+            PathPattern: '*.png'
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https
+          - Compress: true
+            DefaultTTL: 31557600
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 31557600
+            MinTTL: 31557600
+            PathPattern: '*.jpg'
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https
+          - Compress: true
+            DefaultTTL: 31557600
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 31557600
+            MinTTL: 31557600
+            PathPattern: '*.json'
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https
+          - Compress: true
+            DefaultTTL: 0
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 0
+            MinTTL: 0
+            PathPattern: 'quizzes_fitb/*'
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https                    
+          - Compress: true
+            DefaultTTL: 0
+            ForwardedValues:
+              QueryString: false
+              Cookies:
+                Forward: none
+            MaxTTL: 0
+            MinTTL: 0
+            PathPattern: 'quizzes/*'
+            SmoothStreaming: false
+            TargetOriginId: S3Origin
+            ViewerProtocolPolicy: redirect-to-https            
+        DefaultRootObject: index.html
+        Enabled: true
+        HttpVersion: http2
+        IPV6Enabled: true
+        Origins:
+          - DomainName: tl-web.s3-website-us-west-2.amazonaws.com
+            Id: S3Origin
+            CustomOriginConfig:
+              OriginProtocolPolicy: http-only
+              HTTPPort: '80'
+              HTTPSPort: '443'
+        PriceClass: PriceClass_100
+        ViewerCertificate:
+          AcmCertificateArn: arn:aws:acm:us-east-1:874956223356:certificate/2d55811d-044f-4bb9-9f8c-b1c85eb2c852
+          SslSupportMethod: sni-only
+          MinimumProtocolVersion: TLSv1.2_2021
+
+Outputs:
+  CloudFrontDomainName:
+    Description: Domain name of the CloudFront distribution
+    Value: !GetAtt CloudFrontDistribution.DomainName
+  CloudFrontDistributionId:
+    Description: ID of the CloudFront distribution
+    Value: !Ref CloudFrontDistribution

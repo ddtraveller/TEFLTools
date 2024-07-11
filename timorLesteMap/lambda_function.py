@@ -125,6 +125,10 @@ def lambda_handler(event, context):
         # Generate the updated map HTML
         updated_map_html = dili_map.get_root().render()
 
+        # Add the favicon link to the HTML head
+        favicon_link = '<link rel="icon" type="image/x-icon" href="https://tarotcardsstyles.s3.us-west-2.amazonaws.com/favicon.ico">'
+        updated_map_html = updated_map_html.replace('<head>', f'<head>\n    {favicon_link}')
+
         # Generate the updated CSV content
         updated_csv_content = io.StringIO()
         csv_writer = csv.writer(updated_csv_content)

@@ -8,7 +8,7 @@ Welcome to this comprehensive resource hub designed to support Peace Corps volun
 
 Bele hetan média apoiu ba kursu sira iha ne'e/Support media for the courses can be found here:
 
-https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+https://tefl.go-tl.com/
 
 ## Kursu Prinsipal sira / Key Courses
 
@@ -77,7 +77,7 @@ TimorLesteMap directory contains aws lambda code that updates a map with points 
 
 <img src="jpg/TL_mapper.jpg" alt="Map of Timor Leste with points of interest" width="400"/>
 
-https://tl-web.s3.us-west-2.amazonaws.com/index.html
+https://map.go-tl.com/
 
 The code works by updating a csv in s3 that holds information about the points of interest. ex:
 
@@ -96,9 +96,9 @@ popup_07a6af339c64a0d6a28f72144d1d501b.setContent(html_bd05340fc1335ce87240f82ba
 
 Automatiza opsaun oin-oin no enxe kestionáriu sira iha internét/Automated multiple choice and fill in the blank question quizzes are available online here;
 
-https://tl-web.s3.us-west-2.amazonaws.com/quizzes/s3_quiz.html
+https://content.go-tl.com/quizzes/quiz.html
 
-https://tl-web.s3.us-west-2.amazonaws.com/quizzes_fitb/s3.html
+https://content.go-tl.com/quizzes_fitb/quiz.html
 
 Kestionáriu no kestionáriu sira_fitb iha opsaun oioin no kompleta pergunta sira iha formatu JSON. 
 Bainhira JSON nia kestionáriu sira hatama ba s3 husi ne'ebé mak html serve, kestionáriu sira-ne'e automatikamente lori husi html. 
@@ -247,7 +247,7 @@ Don't add any commentary at the top, like 'Here is a syllabus...'"""
 
 ## Rekursu / Resources
 
-- Access support media: https://tl-tefl.s3.us-west-2.amazonaws.com/index.html
+- Access support media: https://tefl.go-tl.com/
 - Explore local resources: [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
 - Join our community: [Discord, Tetun Learners!](https://discord.gg/DaBJG2Gn)
 

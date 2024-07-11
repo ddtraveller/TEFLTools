@@ -1,0 +1,24 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'CloudFormation template to create an SSL certificate for go-tl.com'
+
+Parameters:
+  DomainName:
+    Type: String
+    Default: go-tl.com
+    Description: The domain name for which the certificate should be issued
+
+Resources:
+  SSLCertificate:
+    Type: AWS::CertificateManager::Certificate
+    Properties:
+      DomainName: !Ref DomainName
+      ValidationMethod: DNS
+      SubjectAlternativeNames:
+        - !Join [ '.', ['www', !Ref DomainName ] ]
+        - !Join [ '.', [ '*', !Ref DomainName ] ]
+      ValidationMethod: DNS
+
+Outputs:
+  CertificateArn:
+    Description: ARN of the created SSL certificate
+    Value: !Ref SSLCertificate
