@@ -146,4 +146,16 @@ However, as time went on, some villagers began to take the rooster for granted. 
 
 Mau, remembering his promise to Maromak, stood up for the rooster. He reminded the villagers of how their lives had improved and of the sacred trust they had been given. Most of the villagers came to their senses and agreed to honor their commitment.
 
-But one night, a group of disgruntled young men decided to silence the rooster. They crept to its coop, planning to steal it away. Just as they reached for the bird, there was a blinding
+But one night, a group of disgruntled young men decided to silence the rooster. They crept to its coop, planning to steal it away. Just as they reached for the bird, there was a blinding flash of light. The young men stumbled back, shielding their eyes. When they could see again, they gasped in astonishment. Where the single rooster had been, there now stood dozens of roosters, all with brilliant red crests and proud tails.
+
+Maromak's voice echoed through the night: "I gave you one rooster as a gift and a responsibility. You have failed to honor your promise. Now, instead of one voice to wake you, there will be many. Let this remind you of the importance of keeping your word and respecting the gifts you've been given."
+
+The young men, filled with shame and fear, ran back to the village and confessed what they had done. By morning, the entire village knew of their attempted misdeed and Maromak's response.
+
+As the sun rose, the air filled with a chorus of crows from the many roosters. Chief Leki called a village meeting. He spoke of the importance of the rooster in their lives and the sacred trust they had been given. "We must learn from this," he said. "Our word is our honor, and we must respect the gifts and responsibilities we're given, even when they're sometimes inconvenient."
+
+From that day forward, the village embraced their role as caretakers of the roosters. They built beautiful coops and made sure the birds were well-fed and protected. The villagers came to see the morning chorus not as a disturbance, but as a reminder of their commitment and the balance between responsibility and benefit.
+
+As years passed, roosters from this village became prized throughout Timor. People would travel from far and wide to obtain one of these special birds, known for their punctuality and beautiful crows. The village prospered, not just from trading roosters, but from the reputation they gained as people of integrity who valued their commitments.
+
+And so, the lesson of the first rooster became a cornerstone of Timorese culture – a reminder that gifts come with responsibilities, and that keeping one's word is as important as the crow that greets each new day.
