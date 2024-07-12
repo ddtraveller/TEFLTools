@@ -7,7 +7,7 @@ At its core, Python is a high-level, interpreted language. This means that it ab
 One of Python's key strengths is its readability. The language emphasizes clean, readable code through its use of indentation to define code blocks. This enforced structure helps programmers write more organized and maintainable code. Python's syntax is often described as "pseudocode-like," meaning that it closely resembles plain English, making it more accessible to newcomers.
 
 To begin working with Python, one must first set up a development environment. This typically involves installing Python itself and an Integrated Development Environment (IDE) such as IDLE, which comes bundled with Python. IDLE provides a user-friendly interface for writing, running, and debugging Python code. You can use Notepad on Windows or any text editor as well. For today, you can go to the command line by typing "cmd" in Windows in the search prompt. Then type "python3". This will put you into python and show you a prompt like >>>.
-Then you can type python commands. 
+Then you can type python commands. Press ctrl+d to end python.
 
 Once the environment is set up, programmers can start exploring Python's basic syntax. At the foundation of Python programming are variables, which act as containers for storing data. Variables in Python are dynamically typed, meaning their type is inferred based on the data they hold. For example:
 
