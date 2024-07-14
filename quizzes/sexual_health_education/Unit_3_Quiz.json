@@ -1,0 +1,305 @@
+{
+  "title": "Sexual and Reproductive Health",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a common method of contraception?",
+      "choices": [
+        "Condoms",
+        "Birth control pills",
+        "Intrauterine devices (IUDs)",
+        "Antibiotics"
+      ],
+      "answer": "Antibiotics"
+    },
+    {
+      "question": "What is the primary advantage of using condoms for contraception?",
+      "choices": [
+        "They are the most effective method",
+        "They protect against both pregnancy and STIs",
+        "They are the easiest to obtain",
+        "They have no side effects"
+      ],
+      "answer": "They protect against both pregnancy and STIs"
+    },
+    {
+      "question": "Which of the following is a long-acting reversible contraceptive (LARC)?",
+      "choices": [
+        "Condoms",
+        "Birth control pills",
+        "Intrauterine devices (IUDs)",
+        "Spermicide"
+      ],
+      "answer": "Intrauterine devices (IUDs)"
+    },
+    {
+      "question": "What is the first step in proper condom use?",
+      "choices": [
+        "Rolling it down the penis",
+        "Carefully opening the package",
+        "Pinching the tip",
+        "Applying lubricant"
+      ],
+      "answer": "Carefully opening the package"
+    },
+    {
+      "question": "Why is it important to pinch the tip of the condom before rolling it on?",
+      "choices": [
+        "To test for holes",
+        "To remove air and leave space for semen",
+        "To make it easier to roll down",
+        "To increase sensitivity"
+      ],
+      "answer": "To remove air and leave space for semen"
+    },
+    {
+      "question": "Which of the following is NOT a common sexually transmitted infection (STI)?",
+      "choices": [
+        "Chlamydia",
+        "Gonorrhea",
+        "Diabetes",
+        "HIV/AIDS"
+      ],
+      "answer": "Diabetes"
+    },
+    {
+      "question": "Why is regular STI testing important?",
+      "choices": [
+        "It's required by law",
+        "Many STIs can be asymptomatic",
+        "It's only necessary for people with multiple partners",
+        "STIs always show visible symptoms"
+      ],
+      "answer": "Many STIs can be asymptomatic"
+    },
+    {
+      "question": "Which of the following is NOT a method of STI prevention?",
+      "choices": [
+        "Using condoms",
+        "Limiting sexual partners",
+        "Getting vaccinated against HPV",
+        "Taking birth control pills"
+      ],
+      "answer": "Taking birth control pills"
+    },
+    {
+      "question": "What is one of the early signs of pregnancy?",
+      "choices": [
+        "Increased energy",
+        "Weight loss",
+        "Missed period",
+        "Decreased appetite"
+      ],
+      "answer": "Missed period"
+    },
+    {
+      "question": "Why is prenatal care important?",
+      "choices": [
+        "It guarantees a perfect pregnancy",
+        "It's only necessary for first-time mothers",
+        "It monitors the health of both mother and baby",
+        "It's required by law"
+      ],
+      "answer": "It monitors the health of both mother and baby"
+    },
+    {
+      "question": "Which of the following is NOT typically part of prenatal care?",
+      "choices": [
+        "Regular check-ups",
+        "Screenings for genetic disorders",
+        "Nutritional guidance",
+        "Fertility treatments"
+      ],
+      "answer": "Fertility treatments"
+    },
+    {
+      "question": "What is a common barrier to accessing sexual and reproductive health services in Timor-Leste?",
+      "choices": [
+        "Overabundance of clinics",
+        "Cultural taboos",
+        "Mandatory sex education",
+        "Free contraception for all"
+      ],
+      "answer": "Cultural taboos"
+    },
+    {
+      "question": "What role does education play in promoting sexual and reproductive health?",
+      "choices": [
+        "It's not important for sexual health",
+        "It only matters for teenagers",
+        "It provides knowledge for informed decision-making",
+        "It replaces the need for healthcare services"
+      ],
+      "answer": "It provides knowledge for informed decision-making"
+    },
+    {
+      "question": "Which of the following is a key component of comprehensive sex education?",
+      "choices": [
+        "Promoting abstinence only",
+        "Ignoring LGBTQ+ issues",
+        "Teaching about contraceptive options",
+        "Discouraging discussions about sex"
+      ],
+      "answer": "Teaching about contraceptive options"
+    },
+    {
+      "question": "What is the purpose of an anonymous question box in sex education?",
+      "choices": [
+        "To test students' knowledge",
+        "To allow students to ask sensitive questions privately",
+        "To collect personal information",
+        "To assign homework"
+      ],
+      "answer": "To allow students to ask sensitive questions privately"
+    },
+    {
+      "question": "Which of the following is NOT typically discussed in a lesson on puberty?",
+      "choices": [
+        "Physical changes in the body",
+        "Emotional changes",
+        "Menstruation",
+        "Retirement planning"
+      ],
+      "answer": "Retirement planning"
+    },
+    {
+      "question": "What is consent in the context of sexual relationships?",
+      "choices": [
+        "A legal document",
+        "Agreeing to all sexual activities",
+        "Voluntary agreement to engage in sexual activity",
+        "Something that's only necessary the first time"
+      ],
+      "answer": "Voluntary agreement to engage in sexual activity"
+    },
+    {
+      "question": "Which of the following is a characteristic of a healthy relationship?",
+      "choices": [
+        "One partner making all the decisions",
+        "Keeping secrets from each other",
+        "Mutual respect and trust",
+        "Frequent arguments and conflicts"
+      ],
+      "answer": "Mutual respect and trust"
+    },
+    {
+      "question": "What is the purpose of a relationship 'bill of rights'?",
+      "choices": [
+        "To legally bind partners together",
+        "To outline expectations and boundaries in a relationship",
+        "To list reasons for breaking up",
+        "To plan a wedding"
+      ],
+      "answer": "To outline expectations and boundaries in a relationship"
+    },
+    {
+      "question": "Which of the following is NOT a form of contraception?",
+      "choices": [
+        "Withdrawal method",
+        "Copper IUD",
+        "Condoms",
+        "Antibiotics"
+      ],
+      "answer": "Antibiotics"
+    },
+    {
+      "question": "What is the primary function of prenatal vitamins?",
+      "choices": [
+        "To prevent all birth defects",
+        "To support the mother's and baby's nutritional needs",
+        "To induce labor",
+        "To determine the baby's gender"
+      ],
+      "answer": "To support the mother's and baby's nutritional needs"
+    },
+    {
+      "question": "Which of the following is a sign that labor may be beginning?",
+      "choices": [
+        "Increased appetite",
+        "Sudden burst of energy",
+        "Water breaking",
+        "Decreased fetal movement"
+      ],
+      "answer": "Water breaking"
+    },
+    {
+      "question": "What is the recommended frequency of prenatal check-ups in a typical pregnancy?",
+      "choices": [
+        "Once during the entire pregnancy",
+        "Monthly, then more frequently in later stages",
+        "Only when problems arise",
+        "Daily throughout the pregnancy"
+      ],
+      "answer": "Monthly, then more frequently in later stages"
+    },
+    {
+      "question": "Which STI is known as 'the silent infection' because it often has no symptoms?",
+      "choices": [
+        "HIV/AIDS",
+        "Chlamydia",
+        "Herpes",
+        "Syphilis"
+      ],
+      "answer": "Chlamydia"
+    },
+    {
+      "question": "What is PrEP in the context of HIV prevention?",
+      "choices": [
+        "A type of condom",
+        "A medication taken to reduce the risk of HIV infection",
+        "A post-exposure treatment",
+        "A type of HIV test"
+      ],
+      "answer": "A medication taken to reduce the risk of HIV infection"
+    },
+    {
+      "question": "Which of the following is NOT a typical stage of puberty?",
+      "choices": [
+        "Growth spurt",
+        "Development of secondary sex characteristics",
+        "Onset of menstruation in females",
+        "Immediate ability to reproduce"
+      ],
+      "answer": "Immediate ability to reproduce"
+    },
+    {
+      "question": "What is the purpose of a pap smear?",
+      "choices": [
+        "To test for pregnancy",
+        "To screen for cervical cancer",
+        "To diagnose infertility",
+        "To induce menstruation"
+      ],
+      "answer": "To screen for cervical cancer"
+    },
+    {
+      "question": "Which of the following is NOT a method of natural family planning?",
+      "choices": [
+        "Calendar method",
+        "Basal body temperature method",
+        "Cervical mucus method",
+        "Blood type method"
+      ],
+      "answer": "Blood type method"
+    },
+    {
+      "question": "What is emergency contraception?",
+      "choices": [
+        "A regular form of birth control",
+        "A method to terminate pregnancy",
+        "A backup method to prevent pregnancy after unprotected sex",
+        "A type of STI treatment"
+      ],
+      "answer": "A backup method to prevent pregnancy after unprotected sex"
+    },
+    {
+      "question": "Which of the following is NOT a common side effect of hormonal birth control?",
+      "choices": [
+        "Nausea",
+        "Headaches",
+        "Mood changes",
+        "Immediate weight gain"
+      ],
+      "answer": "Immediate weight gain"
+    }
+  ]
+}
