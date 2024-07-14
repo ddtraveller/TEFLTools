@@ -1,5 +1,3 @@
-Here's a comprehensive resource on documentaries about Timorese culture and traditions for Unit 6 of your course:
-
 Documentaries on Timorese Culture and Traditions
 
 1. "Uma Lulik" (The Sacred House) - Director: Victor de Sousa (2010)

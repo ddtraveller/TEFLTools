@@ -51,9 +51,20 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 12. **Ekonomia Dezenvolvimentu / Developmental Economics**
     - This course explores an experimental approach pioneered by Abhijit Banerjee and Esther Duflo to development economics, and its application to poverty alleviation. Students will learn about innovative research methods, key findings in education, health, behavioral economics, gender, politics, and credit, and how these insights can be applied to Timor-Leste's unique context.
 
-13. **Teoria Polivagal/ Polyvagal Theory**
+13. **Teoria Polivagal / Polyvagal Theory**
     - This course will teach the hierarchy of neural channels, the autonomic nervous system, neuroception, and how these concepts relate to social engagement, stress responses, and trauma recovery.
 
+14. **Edukasaun Saude Seksual / Sexual Health Education**
+    - This course aims to provide culturally appropriate sexual health and relationships education for young adults in Timor-Leste. 
+    - Increase understanding of human sexuality, reproductive health, and healthy relationships
+    - Promote safe sexual practices and reduce rates of sexually transmitted infections and unintended pregnancies
+    - Encourage gender equality and respect in relationships
+    - Provide accurate information to counter myths and misinformation
+    - Empower participants to make informed decisions about their sexual and reproductive health
+    
+15. **Maromak nia feminina / The Divine Feminine**
+    - This course explores the history of human sexuality and the divine feminine, with a focus on Timorese cultural context. Students will examine how concepts of gender, sexuality, and spirituality have evolved over time and how they manifest in Timor-Leste today.
+    
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Matadalan ba navigasaun / Navigation Guide

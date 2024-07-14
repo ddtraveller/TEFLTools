@@ -67,7 +67,7 @@ def generate_syllabus(truncated_info):
     prompt = f"""Given the following project information:
 {truncated_info}
 Please do the following:
-1. Synthesize the key points and goals of the project
+1. Synthesize the key points and goals of the project.
 2. Localize the content for Timor Leste, considering cultural context and appropriateness
 3. Create a well-structured syllabus for a program, including:
    - Course overview and objectives
@@ -266,6 +266,7 @@ def process_additional_resource(week_name, resource, syllabus, lesson_resources)
         prompt = f"For a course in {week_name}, please create a comprehensive resource on the following topic: {resource}"
 
     prompt += f"\n\nConsider the following context:\nSyllabus:\n{syllabus}\n\nLesson Resources:\n{lesson_resources}"
+    prompt += "Do NOT add any commentary along with the output like, 'Here's a comprehensive resource...'"
 
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",

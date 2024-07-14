@@ -1,4 +1,4 @@
-# Sexual Health and Relationships Education for Timor-Leste
+# Sexual Health Education for Timor-Leste
 
 ## Course Overview and Objectives
 
