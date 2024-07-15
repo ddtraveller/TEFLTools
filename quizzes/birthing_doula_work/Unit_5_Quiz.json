@@ -1,0 +1,305 @@
+{
+  "title": "Immediate Postpartum and Breastfeeding",
+  "questions": [
+    {
+      "question": "What is the term for the vaginal discharge after giving birth, consisting of blood, mucus, and uterine tissue?",
+      "choices": [
+        "Colostrum",
+        "Lochia",
+        "Afterpains",
+        "Let-down"
+      ],
+      "answer": "Lochia"
+    },
+    {
+      "question": "Which of the following is NOT a physiological change that occurs in the immediate postpartum period?",
+      "choices": [
+        "Uterine involution",
+        "Hormonal shifts",
+        "Increased milk production",
+        "Fetal movement"
+      ],
+      "answer": "Fetal movement"
+    },
+    {
+      "question": "What is the term for the first form of milk produced by the mammary glands, rich in antibodies and nutrients?",
+      "choices": [
+        "Colostrum",
+        "Mature milk",
+        "Transitional milk",
+        "Foremilk"
+      ],
+      "answer": "Colostrum"
+    },
+    {
+      "question": "Which reflex in newborns involves turning their head towards touch on their cheek, searching for the nipple?",
+      "choices": [
+        "Sucking reflex",
+        "Rooting reflex",
+        "Moro reflex",
+        "Babinski reflex"
+      ],
+      "answer": "Rooting reflex"
+    },
+    {
+      "question": "What is the term for the release of milk from the alveoli through the breast ducts to the nipples?",
+      "choices": [
+        "Let-down reflex",
+        "Milk ejection",
+        "Lactation response",
+        "Breast engorgement"
+      ],
+      "answer": "Let-down reflex"
+    },
+    {
+      "question": "Which of the following is a key objective of the module on immediate postpartum and breastfeeding?",
+      "choices": [
+        "Learn about prenatal nutrition",
+        "Understand labor pain management techniques",
+        "Learn basics of breastfeeding support",
+        "Study fetal development stages"
+      ],
+      "answer": "Learn basics of breastfeeding support"
+    },
+    {
+      "question": "What is the term for contractions of the uterus after childbirth, often experienced during breastfeeding?",
+      "choices": [
+        "Braxton Hicks",
+        "Afterpains",
+        "Labor pains",
+        "Uterine spasms"
+      ],
+      "answer": "Afterpains"
+    },
+    {
+      "question": "Which of the following is emphasized in the module regarding traditional postpartum practices in Timor-Leste?",
+      "choices": [
+        "Completely replacing them with modern practices",
+        "Ignoring them entirely",
+        "Integrating them with evidence-based care",
+        "Criticizing their effectiveness"
+      ],
+      "answer": "Integrating them with evidence-based care"
+    },
+    {
+      "question": "What is a key activity mentioned in the module for learning about breastfeeding?",
+      "choices": [
+        "Watching videos of cesarean sections",
+        "Practicing prenatal exercises",
+        "Demonstrating proper latch and positioning",
+        "Discussing labor pain management"
+      ],
+      "answer": "Demonstrating proper latch and positioning"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in the immediate postpartum and breastfeeding module?",
+      "choices": [
+        "Physiological changes after birth",
+        "Initiation of breastfeeding",
+        "Traditional postpartum practices in Timor-Leste",
+        "Prenatal nutrition guidelines"
+      ],
+      "answer": "Prenatal nutrition guidelines"
+    },
+    {
+      "question": "What is the recommended timing for the initiation of breastfeeding after birth?",
+      "choices": [
+        "Within the first hour",
+        "After 24 hours",
+        "When the mother feels ready",
+        "Only after the baby cries for food"
+      ],
+      "answer": "Within the first hour"
+    },
+    {
+      "question": "Which of the following is a sign of a good latch during breastfeeding?",
+      "choices": [
+        "Baby's lips are tucked in",
+        "Clicking sounds during feeding",
+        "Baby's chin touches the breast",
+        "Baby's nose is pressed against the breast"
+      ],
+      "answer": "Baby's chin touches the breast"
+    },
+    {
+      "question": "What is the primary purpose of colostrum?",
+      "choices": [
+        "To satisfy the baby's hunger",
+        "To provide antibodies and nutrients",
+        "To stimulate the let-down reflex",
+        "To increase milk production"
+      ],
+      "answer": "To provide antibodies and nutrients"
+    },
+    {
+      "question": "Which of the following is a common traditional postpartum practice in many cultures, including Timor-Leste?",
+      "choices": [
+        "Immediate return to work",
+        "Avoiding certain foods",
+        "Exposure to cold air",
+        "Vigorous exercise"
+      ],
+      "answer": "Avoiding certain foods"
+    },
+    {
+      "question": "What is the process of the uterus returning to its pre-pregnancy size called?",
+      "choices": [
+        "Uterine contraction",
+        "Uterine involution",
+        "Uterine expansion",
+        "Uterine relaxation"
+      ],
+      "answer": "Uterine involution"
+    },
+    {
+      "question": "Which of the following is NOT typically a sign that a newborn is ready to breastfeed?",
+      "choices": [
+        "Rooting",
+        "Hand-to-mouth movements",
+        "Crying loudly",
+        "Sucking motions"
+      ],
+      "answer": "Crying loudly"
+    },
+    {
+      "question": "What is the recommended position for a newborn's body during breastfeeding?",
+      "choices": [
+        "Facing away from the mother",
+        "Aligned with the mother's body",
+        "Perpendicular to the mother's body",
+        "Above the mother's breast"
+      ],
+      "answer": "Aligned with the mother's body"
+    },
+    {
+      "question": "Which hormone is primarily responsible for milk production?",
+      "choices": [
+        "Oxytocin",
+        "Prolactin",
+        "Estrogen",
+        "Progesterone"
+      ],
+      "answer": "Prolactin"
+    },
+    {
+      "question": "What is the term for the practice of holding the newborn skin-to-skin immediately after birth?",
+      "choices": [
+        "Kangaroo care",
+        "Swaddling",
+        "Rooming-in",
+        "Co-sleeping"
+      ],
+      "answer": "Kangaroo care"
+    },
+    {
+      "question": "Which of the following is NOT a typical physiological change in the immediate postpartum period?",
+      "choices": [
+        "Increased urination",
+        "Decreased body temperature",
+        "Breast engorgement",
+        "Uterine contractions"
+      ],
+      "answer": "Decreased body temperature"
+    },
+    {
+      "question": "What is the recommended frequency of breastfeeding in the first few weeks?",
+      "choices": [
+        "Every 4 hours",
+        "On a strict schedule",
+        "On demand, about 8-12 times in 24 hours",
+        "Only during the day"
+      ],
+      "answer": "On demand, about 8-12 times in 24 hours"
+    },
+    {
+      "question": "Which of the following is a sign that a baby is getting enough milk?",
+      "choices": [
+        "Sleeping through the night",
+        "Crying frequently",
+        "Producing at least 6 wet diapers in 24 hours",
+        "Refusing to breastfeed"
+      ],
+      "answer": "Producing at least 6 wet diapers in 24 hours"
+    },
+    {
+      "question": "What is the purpose of the homework assignment to interview an elder about traditional postpartum practices?",
+      "choices": [
+        "To criticize outdated practices",
+        "To replace evidence-based care",
+        "To understand cultural context and integrate practices",
+        "To avoid traditional practices entirely"
+      ],
+      "answer": "To understand cultural context and integrate practices"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of immediate postpartum care?",
+      "choices": [
+        "Monitoring maternal vital signs",
+        "Assessing newborn health",
+        "Encouraging early breastfeeding",
+        "Administering fertility treatments"
+      ],
+      "answer": "Administering fertility treatments"
+    },
+    {
+      "question": "What is the primary role of a doula in the immediate postpartum period?",
+      "choices": [
+        "Performing medical procedures",
+        "Prescribing medications",
+        "Providing emotional and physical support",
+        "Taking over childcare responsibilities"
+      ],
+      "answer": "Providing emotional and physical support"
+    },
+    {
+      "question": "Which of the following is a common challenge in the early days of breastfeeding?",
+      "choices": [
+        "Oversupply of milk",
+        "Sore or cracked nipples",
+        "Immediate weight loss for the mother",
+        "Decreased bonding with the baby"
+      ],
+      "answer": "Sore or cracked nipples"
+    },
+    {
+      "question": "What is the recommended duration of exclusive breastfeeding according to the World Health Organization?",
+      "choices": [
+        "3 months",
+        "4 months",
+        "6 months",
+        "12 months"
+      ],
+      "answer": "6 months"
+    },
+    {
+      "question": "Which of the following is NOT typically a benefit of early skin-to-skin contact between mother and baby?",
+      "choices": [
+        "Regulates baby's temperature",
+        "Promotes bonding",
+        "Facilitates early breastfeeding",
+        "Prevents jaundice"
+      ],
+      "answer": "Prevents jaundice"
+    },
+    {
+      "question": "What is the term for the practice of keeping mother and baby together 24 hours a day during the hospital stay?",
+      "choices": [
+        "Co-sleeping",
+        "Rooming-in",
+        "Kangaroo care",
+        "Attachment parenting"
+      ],
+      "answer": "Rooming-in"
+    },
+    {
+      "question": "Which of the following is a sign that a baby is not latched on properly during breastfeeding?",
+      "choices": [
+        "Wide-open mouth",
+        "Lips flanged outward",
+        "Rhythmic sucking and swallowing",
+        "Clicking sounds while feeding"
+      ],
+      "answer": "Clicking sounds while feeding"
+    }
+  ]
+}

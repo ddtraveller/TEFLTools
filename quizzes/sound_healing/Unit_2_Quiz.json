@@ -1,0 +1,305 @@
+{
+  "title": "The Science of Sound and Healing",
+  "questions": [
+    {
+      "question": "What is the range of frequencies typically audible to the human ear?",
+      "choices": [
+        "10 Hz to 10,000 Hz",
+        "20 Hz to 20,000 Hz",
+        "50 Hz to 50,000 Hz",
+        "100 Hz to 100,000 Hz"
+      ],
+      "answer": "20 Hz to 20,000 Hz"
+    },
+    {
+      "question": "What is resonance in the context of sound healing?",
+      "choices": [
+        "The ability of sound to travel through different mediums",
+        "The synchronization of two oscillating systems",
+        "The vibration of an object at its natural frequency in response to an external stimulus",
+        "The conversion of sound waves into electrical signals in the brain"
+      ],
+      "answer": "The vibration of an object at its natural frequency in response to an external stimulus"
+    },
+    {
+      "question": "Which principle describes the tendency for two oscillating systems to synchronize when exposed to each other?",
+      "choices": [
+        "Resonance",
+        "Entrainment",
+        "Frequency modulation",
+        "Amplitude variation"
+      ],
+      "answer": "Entrainment"
+    },
+    {
+      "question": "What are the two main characteristics of sound waves?",
+      "choices": [
+        "Frequency and amplitude",
+        "Wavelength and timbre",
+        "Volume and pitch",
+        "Resonance and entrainment"
+      ],
+      "answer": "Frequency and amplitude"
+    },
+    {
+      "question": "Which brain wave state is associated with alert, focused states?",
+      "choices": [
+        "Alpha waves",
+        "Beta waves",
+        "Theta waves",
+        "Delta waves"
+      ],
+      "answer": "Beta waves"
+    },
+    {
+      "question": "What is the frequency range of beta brain waves?",
+      "choices": [
+        "4-7 Hz",
+        "8-13 Hz",
+        "13-30 Hz",
+        "30-100 Hz"
+      ],
+      "answer": "13-30 Hz"
+    },
+    {
+      "question": "Which instrument, originally used in Tibetan spiritual ceremonies, produces rich, harmonic tones?",
+      "choices": [
+        "Gong",
+        "Tuning fork",
+        "Singing bowl",
+        "Didgeridoo"
+      ],
+      "answer": "Singing bowl"
+    },
+    {
+      "question": "What is the primary purpose of using tuning forks in sound healing?",
+      "choices": [
+        "To create complex overtones",
+        "To apply specific frequencies to different parts of the body",
+        "To induce trance-like states",
+        "To synchronize heart rates"
+      ],
+      "answer": "To apply specific frequencies to different parts of the body"
+    },
+    {
+      "question": "Which type of sounds have been associated with relaxation and reduced anxiety?",
+      "choices": [
+        "High-frequency sounds",
+        "Low-frequency sounds",
+        "Discordant sounds",
+        "Rapid rhythmic sounds"
+      ],
+      "answer": "Low-frequency sounds"
+    },
+    {
+      "question": "What is the process by which sound waves are converted into electrical signals in the brain?",
+      "choices": [
+        "Resonance",
+        "Entrainment",
+        "Auditory transduction",
+        "Frequency modulation"
+      ],
+      "answer": "Auditory transduction"
+    },
+    {
+      "question": "Which of the following is NOT a common tool used in sound healing practices?",
+      "choices": [
+        "Singing bowls",
+        "Gongs",
+        "Tuning forks",
+        "Stethoscopes"
+      ],
+      "answer": "Stethoscopes"
+    },
+    {
+      "question": "What is the term for the strength or intensity of a sound wave?",
+      "choices": [
+        "Frequency",
+        "Amplitude",
+        "Wavelength",
+        "Timbre"
+      ],
+      "answer": "Amplitude"
+    },
+    {
+      "question": "Which brain wave state is associated with relaxation and creativity?",
+      "choices": [
+        "Alpha waves",
+        "Beta waves",
+        "Gamma waves",
+        "Delta waves"
+      ],
+      "answer": "Alpha waves"
+    },
+    {
+      "question": "What is the frequency range of alpha brain waves?",
+      "choices": [
+        "4-7 Hz",
+        "8-13 Hz",
+        "13-30 Hz",
+        "30-100 Hz"
+      ],
+      "answer": "8-13 Hz"
+    },
+    {
+      "question": "Which sound healing technique involves creating and sustaining specific vowel sounds?",
+      "choices": [
+        "Binaural beats",
+        "Overtone singing",
+        "Toning",
+        "Drumming"
+      ],
+      "answer": "Toning"
+    },
+    {
+      "question": "What is the primary goal of using binaural beats in sound healing?",
+      "choices": [
+        "To create physical vibrations in the body",
+        "To induce specific brain wave states",
+        "To amplify the effects of other instruments",
+        "To cancel out background noise"
+      ],
+      "answer": "To induce specific brain wave states"
+    },
+    {
+      "question": "Which of the following is a potential physiological effect of sound healing?",
+      "choices": [
+        "Increased blood pressure",
+        "Accelerated heart rate",
+        "Improved immune function",
+        "Heightened anxiety"
+      ],
+      "answer": "Improved immune function"
+    },
+    {
+      "question": "What is the science of sound, including its production, transmission, and effects called?",
+      "choices": [
+        "Acoustics",
+        "Harmonics",
+        "Sonics",
+        "Audiometry"
+      ],
+      "answer": "Acoustics"
+    },
+    {
+      "question": "Which traditional Timorese healing practice is most likely to incorporate sound?",
+      "choices": [
+        "Herbal medicine",
+        "Chanting",
+        "Acupuncture",
+        "Massage"
+      ],
+      "answer": "Chanting"
+    },
+    {
+      "question": "What is the term for the reinforcement of vibrations of a body by a synchronously vibrating system?",
+      "choices": [
+        "Entrainment",
+        "Resonance",
+        "Harmonization",
+        "Synchronization"
+      ],
+      "answer": "Resonance"
+    },
+    {
+      "question": "Which of the following is NOT a typical objective of a deep listening exercise?",
+      "choices": [
+        "Enhancing auditory awareness",
+        "Promoting relaxation",
+        "Improving concentration",
+        "Increasing heart rate"
+      ],
+      "answer": "Increasing heart rate"
+    },
+    {
+      "question": "What type of instrument is often used to demonstrate the principle of resonance in sound healing classes?",
+      "choices": [
+        "Drums",
+        "Flutes",
+        "Tuning forks",
+        "Xylophones"
+      ],
+      "answer": "Tuning forks"
+    },
+    {
+      "question": "Which of the following is a key consideration when adapting sound healing practices for Timor-Leste?",
+      "choices": [
+        "Ignoring local traditions",
+        "Using only Western instruments",
+        "Incorporating local musical traditions",
+        "Focusing solely on modern scientific approaches"
+      ],
+      "answer": "Incorporating local musical traditions"
+    },
+    {
+      "question": "What is the primary purpose of keeping a sound journal as a homework assignment?",
+      "choices": [
+        "To improve writing skills",
+        "To develop musical composition abilities",
+        "To increase awareness of daily sounds and their effects",
+        "To prepare for a career in sound engineering"
+      ],
+      "answer": "To increase awareness of daily sounds and their effects"
+    },
+    {
+      "question": "Which of the following is NOT a typical application of sound healing?",
+      "choices": [
+        "Stress reduction",
+        "Pain management",
+        "Sleep improvement",
+        "Bone fracture treatment"
+      ],
+      "answer": "Bone fracture treatment"
+    },
+    {
+      "question": "What is the term for the number of sound wave cycles per second?",
+      "choices": [
+        "Amplitude",
+        "Wavelength",
+        "Frequency",
+        "Resonance"
+      ],
+      "answer": "Frequency"
+    },
+    {
+      "question": "Which of the following best describes the relationship between sound healing and conventional medicine in Timor-Leste?",
+      "choices": [
+        "Sound healing is intended to replace conventional medicine",
+        "Sound healing and conventional medicine are mutually exclusive",
+        "Sound healing can be integrated as a complementary approach to conventional medicine",
+        "Conventional medicine has fully embraced sound healing techniques"
+      ],
+      "answer": "Sound healing can be integrated as a complementary approach to conventional medicine"
+    },
+    {
+      "question": "What is the primary goal of an entrainment exercise using a steady drumbeat?",
+      "choices": [
+        "To improve drumming skills",
+        "To induce a trance-like state",
+        "To synchronize bodily rhythms with the external beat",
+        "To increase heart rate"
+      ],
+      "answer": "To synchronize bodily rhythms with the external beat"
+    },
+    {
+      "question": "Which of the following is an important ethical consideration in sound healing practice?",
+      "choices": [
+        "Using the loudest possible sounds",
+        "Ignoring client discomfort",
+        "Maintaining appropriate boundaries",
+        "Promising miraculous cures"
+      ],
+      "answer": "Maintaining appropriate boundaries"
+    },
+    {
+      "question": "What is the primary purpose of studying the acoustic characteristics of traditional Timorese instruments?",
+      "choices": [
+        "To replace them with modern instruments",
+        "To understand their potential healing properties",
+        "To improve their manufacturing process",
+        "To increase their market value"
+      ],
+      "answer": "To understand their potential healing properties"
+    }
+  ]
+}

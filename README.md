@@ -11,6 +11,8 @@ https://tefl.go-tl.com/
 
 ## Kursu Prinsipal sira / Key Courses
 
+Repo ne'e iha kursu individuál liu 30. This repo contains over 30 individual courses.
+
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
 All courses are regionalized for Timor Leste and inclusive of local wisdom aligned with modern research and best practices, creating a unique learning experience that respects local culture while introducing new skills:

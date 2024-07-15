@@ -1,0 +1,305 @@
+{
+  "title": "Music and Healing",
+  "questions": [
+    {
+      "question": "What is one of the main objectives of Learning Unit 5?",
+      "choices": [
+        "Learn to play traditional Timorese instruments",
+        "Understand how different types of music affect health and wellbeing",
+        "Compose new Timorese healing songs",
+        "Study the history of Western classical music"
+      ],
+      "answer": "Understand how different types of music affect health and wellbeing"
+    },
+    {
+      "question": "Which of the following is NOT a topic covered in Learning Unit 5?",
+      "choices": [
+        "Music therapy principles",
+        "Analyzing the healing elements in Timorese music",
+        "Creating healing playlists",
+        "The physics of sound waves"
+      ],
+      "answer": "The physics of sound waves"
+    },
+    {
+      "question": "What is one of the activities mentioned in Learning Unit 5?",
+      "choices": [
+        "Group analysis of traditional Timorese songs for healing elements",
+        "Learning to play the didgeridoo",
+        "Writing a research paper on music history",
+        "Conducting a clinical trial on music therapy"
+      ],
+      "answer": "Group analysis of traditional Timorese songs for healing elements"
+    },
+    {
+      "question": "What is the definition of music therapy provided in the lesson plan?",
+      "choices": [
+        "The use of music to improve physical and mental health",
+        "The study of musical instruments in different cultures",
+        "The practice of composing therapeutic music",
+        "The analysis of musical structures in healing rituals"
+      ],
+      "answer": "The use of music to improve physical and mental health"
+    },
+    {
+      "question": "Which of the following is NOT listed as a key vocabulary term in the lesson plan?",
+      "choices": [
+        "Tempo",
+        "Rhythm",
+        "Harmony",
+        "Pitch"
+      ],
+      "answer": "Pitch"
+    },
+    {
+      "question": "What is the warm-up activity described in the lesson plan?",
+      "choices": [
+        "Playing a short clip of Timorese traditional music and discussing feelings",
+        "Singing a group song together",
+        "Practicing breathing exercises",
+        "Analyzing the lyrics of a popular song"
+      ],
+      "answer": "Playing a short clip of Timorese traditional music and discussing feelings"
+    },
+    {
+      "question": "How long is the presentation of main lesson content scheduled to last?",
+      "choices": [
+        "10 minutes",
+        "20 minutes",
+        "30 minutes",
+        "45 minutes"
+      ],
+      "answer": "30 minutes"
+    },
+    {
+      "question": "What is one of the tasks in the group analysis activity?",
+      "choices": [
+        "Analyze a Timorese traditional song for healing elements",
+        "Compose a new healing song",
+        "Perform a traditional dance",
+        "Translate song lyrics into English"
+      ],
+      "answer": "Analyze a Timorese traditional song for healing elements"
+    },
+    {
+      "question": "What is the production task described in the lesson plan?",
+      "choices": [
+        "Creating a healing playlist for a specific health concern",
+        "Writing a research paper on Timorese music",
+        "Composing a new piece of music",
+        "Recording a traditional Timorese song"
+      ],
+      "answer": "Creating a healing playlist for a specific health concern"
+    },
+    {
+      "question": "How long should the healing playlist be in the production task?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "answer": "15 minutes"
+    },
+    {
+      "question": "What is one of the homework assignments given?",
+      "choices": [
+        "Research and write about a traditional Timorese instrument",
+        "Compose a new healing song",
+        "Interview a local musician",
+        "Transcribe a Timorese traditional song"
+      ],
+      "answer": "Research and write about a traditional Timorese instrument"
+    },
+    {
+      "question": "According to the lesson plan, what should students do with their created playlist as part of their homework?",
+      "choices": [
+        "Listen to it for 15 minutes each day and journal about the effects",
+        "Share it with friends and family for feedback",
+        "Analyze it for musical structure",
+        "Perform it live in the next class"
+      ],
+      "answer": "Listen to it for 15 minutes each day and journal about the effects"
+    },
+    {
+      "question": "What is the definition of 'tempo' provided in the key vocabulary?",
+      "choices": [
+        "The speed or pace of a piece of music",
+        "The loudness of a musical piece",
+        "The emotional quality of a song",
+        "The number of instruments in a composition"
+      ],
+      "answer": "The speed or pace of a piece of music"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a way music can be used therapeutically?",
+      "choices": [
+        "Relaxation",
+        "Pain management",
+        "Emotional regulation",
+        "Improving mathematical skills"
+      ],
+      "answer": "Improving mathematical skills"
+    },
+    {
+      "question": "What is the definition of 'timbre' given in the key vocabulary?",
+      "choices": [
+        "The character or quality of a musical sound independent of its pitch or volume",
+        "The speed of a musical piece",
+        "The emotional impact of a song",
+        "The rhythmic pattern in music"
+      ],
+      "answer": "The character or quality of a musical sound independent of its pitch or volume"
+    },
+    {
+      "question": "Which of the following is NOT listed as a consideration when analyzing Timorese songs for healing elements?",
+      "choices": [
+        "Tempo and rhythm",
+        "Melodic structure",
+        "Lyrical content",
+        "Instrument manufacturing process"
+      ],
+      "answer": "Instrument manufacturing process"
+    },
+    {
+      "question": "What is the main goal of the course as stated in the course overview?",
+      "choices": [
+        "To equip participants with practical skills to use sound healing techniques in their communities",
+        "To train professional music therapists",
+        "To preserve traditional Timorese music",
+        "To develop new musical instruments"
+      ],
+      "answer": "To equip participants with practical skills to use sound healing techniques in their communities"
+    },
+    {
+      "question": "Which learning unit focuses on the science behind sound and healing?",
+      "choices": [
+        "Learning Unit 1",
+        "Learning Unit 2",
+        "Learning Unit 3",
+        "Learning Unit 4"
+      ],
+      "answer": "Learning Unit 2"
+    },
+    {
+      "question": "What is one of the activities mentioned in Learning Unit 3: Voice as a Healing Instrument?",
+      "choices": [
+        "Group toning exercise",
+        "Playing the didgeridoo",
+        "Analyzing classical music",
+        "Writing song lyrics"
+      ],
+      "answer": "Group toning exercise"
+    },
+    {
+      "question": "Which learning unit covers the topic of facilitating sound healing sessions?",
+      "choices": [
+        "Learning Unit 5",
+        "Learning Unit 6",
+        "Learning Unit 7",
+        "Learning Unit 8"
+      ],
+      "answer": "Learning Unit 7"
+    },
+    {
+      "question": "What is one of the suggested items to cover in the course?",
+      "choices": [
+        "Cultural sensitivity in applying sound healing techniques",
+        "Western classical music theory",
+        "Electronic music production",
+        "Music business management"
+      ],
+      "answer": "Cultural sensitivity in applying sound healing techniques"
+    },
+    {
+      "question": "Which of the following is NOT listed as a required resource for the course?",
+      "choices": [
+        "Basic sound healing instruments",
+        "Audio playback equipment",
+        "Handouts on sound healing principles",
+        "Professional recording studio"
+      ],
+      "answer": "Professional recording studio"
+    },
+    {
+      "question": "What type of practical experience is suggested in the course outline?",
+      "choices": [
+        "Organizing sound healing sessions at local community centers",
+        "Performing in professional concerts",
+        "Recording a commercial album",
+        "Teaching music in public schools"
+      ],
+      "answer": "Organizing sound healing sessions at local community centers"
+    },
+    {
+      "question": "What is one of the additional resources mentioned for the course?",
+      "choices": [
+        "Books on sound healing (with translated summaries if not available in Tetum)",
+        "Advanced music theory textbooks",
+        "Professional-grade recording equipment",
+        "Musical scores of Western classical compositions"
+      ],
+      "answer": "Books on sound healing (with translated summaries if not available in Tetum)"
+    },
+    {
+      "question": "Which learning unit focuses on sound healing techniques for common health issues?",
+      "choices": [
+        "Learning Unit 4",
+        "Learning Unit 5",
+        "Learning Unit 6",
+        "Learning Unit 7"
+      ],
+      "answer": "Learning Unit 6"
+    },
+    {
+      "question": "What is one of the topics covered in Learning Unit 8: Integrating Sound Healing in Timorese Healthcare?",
+      "choices": [
+        "Current healthcare landscape in Timor-Leste",
+        "Advanced music composition techniques",
+        "History of Western medicine",
+        "Physics of sound waves"
+      ],
+      "answer": "Current healthcare landscape in Timor-Leste"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a learning objective for the entire course?",
+      "choices": [
+        "Understand the basic principles of sound healing",
+        "Develop skills to facilitate sound healing sessions",
+        "Learn to read and write Western musical notation",
+        "Explore the cultural significance of sound in Timorese healing traditions"
+      ],
+      "answer": "Learn to read and write Western musical notation"
+    },
+    {
+      "question": "What is the recommended length of the report on a traditional Timorese instrument in the homework assignment?",
+      "choices": [
+        "One page",
+        "Two pages",
+        "Three pages",
+        "Five pages"
+      ],
+      "answer": "One page"
+    },
+    {
+      "question": "How many Timorese traditional songs are students required to include in their healing playlist?",
+      "choices": [
+        "At least one",
+        "At least two",
+        "At least three",
+        "At least four"
+      ],
+      "answer": "At least one"
+    },
+    {
+      "question": "What is the definition of 'harmony' provided in the key vocabulary?",
+      "choices": [
+        "The combination of simultaneously sounded musical notes to produce chords",
+        "The speed of a musical piece",
+        "The pattern of regular or irregular pulses in music",
+        "A sequence of musical notes that form a recognizable tune"
+      ],
+      "answer": "The combination of simultaneously sounded musical notes to produce chords"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Labor and Birth Process",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a stage of labor?",
+      "choices": [
+        "Early labor",
+        "Active labor",
+        "Transition",
+        "Recuperation"
+      ],
+      "answer": "Recuperation"
+    },
+    {
+      "question": "What is the term for the rhythmic tightening of the uterus that helps dilate the cervix?",
+      "choices": [
+        "Contractions",
+        "Effacement",
+        "Dilation",
+        "Transition"
+      ],
+      "answer": "Contractions"
+    },
+    {
+      "question": "Which stage of labor involves the delivery of the placenta?",
+      "choices": [
+        "First stage",
+        "Second stage",
+        "Third stage",
+        "Fourth stage"
+      ],
+      "answer": "Third stage"
+    },
+    {
+      "question": "What is the term for the thinning and softening of the cervix during labor?",
+      "choices": [
+        "Dilation",
+        "Effacement",
+        "Engagement",
+        "Expulsion"
+      ],
+      "answer": "Effacement"
+    },
+    {
+      "question": "At what dilation is the cervix considered fully dilated?",
+      "choices": [
+        "5 cm",
+        "7 cm",
+        "9 cm",
+        "10 cm"
+      ],
+      "answer": "10 cm"
+    },
+    {
+      "question": "Which of the following is a sign of true labor?",
+      "choices": [
+        "Contractions that stop when you change position",
+        "Contractions that are irregular in timing",
+        "Contractions that increase in intensity over time",
+        "Pain only in the lower back"
+      ],
+      "answer": "Contractions that increase in intensity over time"
+    },
+    {
+      "question": "What is the most intense part of labor, typically occurring at the end of the first stage?",
+      "choices": [
+        "Early labor",
+        "Active labor",
+        "Transition",
+        "Pushing"
+      ],
+      "answer": "Transition"
+    },
+    {
+      "question": "Which hormone plays a crucial role in initiating and maintaining labor?",
+      "choices": [
+        "Estrogen",
+        "Progesterone",
+        "Oxytocin",
+        "Prolactin"
+      ],
+      "answer": "Oxytocin"
+    },
+    {
+      "question": "What is the term for the baby's position with the head down and facing the mother's back?",
+      "choices": [
+        "Posterior position",
+        "Anterior position",
+        "Breech position",
+        "Transverse position"
+      ],
+      "answer": "Anterior position"
+    },
+    {
+      "question": "Which of the following is NOT a common intervention during labor?",
+      "choices": [
+        "Epidural anesthesia",
+        "Artificial rupture of membranes",
+        "Episiotomy",
+        "Acupuncture"
+      ],
+      "answer": "Acupuncture"
+    },
+    {
+      "question": "What is the purpose of using a doll and pelvis model in doula training?",
+      "choices": [
+        "To practice diaper changing",
+        "To demonstrate fetal positions",
+        "To teach breastfeeding techniques",
+        "To simulate contractions"
+      ],
+      "answer": "To demonstrate fetal positions"
+    },
+    {
+      "question": "Which of the following is a sign that labor may be starting soon?",
+      "choices": [
+        "Increased appetite",
+        "Sudden burst of energy (nesting instinct)",
+        "Decreased fetal movement",
+        "Increased urination"
+      ],
+      "answer": "Sudden burst of energy (nesting instinct)"
+    },
+    {
+      "question": "What is the average length of active labor for a first-time mother?",
+      "choices": [
+        "1-3 hours",
+        "4-8 hours",
+        "8-12 hours",
+        "12-18 hours"
+      ],
+      "answer": "8-12 hours"
+    },
+    {
+      "question": "Which of the following is NOT a physiological change during labor?",
+      "choices": [
+        "Increased heart rate",
+        "Elevated body temperature",
+        "Decreased blood pressure",
+        "Increased respiratory rate"
+      ],
+      "answer": "Decreased blood pressure"
+    },
+    {
+      "question": "What is the term for the baby's head entering the pelvic inlet?",
+      "choices": [
+        "Crowning",
+        "Engagement",
+        "Descent",
+        "Station"
+      ],
+      "answer": "Engagement"
+    },
+    {
+      "question": "Which of the following positions is often recommended during labor to help with fetal descent?",
+      "choices": [
+        "Lying flat on back",
+        "Standing upright",
+        "Squatting",
+        "Sitting in a reclined position"
+      ],
+      "answer": "Squatting"
+    },
+    {
+      "question": "What is the purpose of watching and discussing videos of natural births in doula training?",
+      "choices": [
+        "To entertain students",
+        "To scare students about childbirth",
+        "To familiarize students with the birth process",
+        "To teach students how to operate video equipment"
+      ],
+      "answer": "To familiarize students with the birth process"
+    },
+    {
+      "question": "Which of the following is NOT a common emotional change during labor?",
+      "choices": [
+        "Anxiety",
+        "Excitement",
+        "Irritability",
+        "Euphoria"
+      ],
+      "answer": "Euphoria"
+    },
+    {
+      "question": "What is the term for the expulsion of the baby from the uterus?",
+      "choices": [
+        "Crowning",
+        "Engagement",
+        "Birth",
+        "Delivery"
+      ],
+      "answer": "Birth"
+    },
+    {
+      "question": "Which of the following is a sign that labor is progressing well?",
+      "choices": [
+        "Decreasing intensity of contractions",
+        "Increasing duration between contractions",
+        "Cervical dilation progressing at about 1 cm per hour",
+        "Sudden cessation of contractions"
+      ],
+      "answer": "Cervical dilation progressing at about 1 cm per hour"
+    },
+    {
+      "question": "What is the purpose of the placenta during pregnancy?",
+      "choices": [
+        "To provide nutrients to the baby",
+        "To cushion the baby",
+        "To produce breast milk",
+        "To initiate contractions"
+      ],
+      "answer": "To provide nutrients to the baby"
+    },
+    {
+      "question": "Which of the following is NOT a method to assess the progress of labor?",
+      "choices": [
+        "Cervical checks",
+        "Monitoring contraction patterns",
+        "Observing maternal behavior",
+        "Measuring maternal weight gain"
+      ],
+      "answer": "Measuring maternal weight gain"
+    },
+    {
+      "question": "What is the term for the baby's head becoming visible at the vaginal opening during birth?",
+      "choices": [
+        "Engagement",
+        "Crowning",
+        "Descent",
+        "Station"
+      ],
+      "answer": "Crowning"
+    },
+    {
+      "question": "Which of the following is a potential benefit of allowing labor to start naturally?",
+      "choices": [
+        "Guaranteed shorter labor",
+        "Lower risk of cesarean section",
+        "No need for pain management",
+        "Automatic easy delivery"
+      ],
+      "answer": "Lower risk of cesarean section"
+    },
+    {
+      "question": "What is the primary role of a doula during labor?",
+      "choices": [
+        "To perform medical procedures",
+        "To make decisions for the mother",
+        "To provide continuous emotional and physical support",
+        "To deliver the baby"
+      ],
+      "answer": "To provide continuous emotional and physical support"
+    },
+    {
+      "question": "Which of the following is NOT a common comfort measure used during labor?",
+      "choices": [
+        "Massage",
+        "Hydrotherapy",
+        "Breathing techniques",
+        "Administering medication"
+      ],
+      "answer": "Administering medication"
+    },
+    {
+      "question": "What is the term for the separation of the placenta from the uterine wall?",
+      "choices": [
+        "Detachment",
+        "Expulsion",
+        "Delivery",
+        "Separation"
+      ],
+      "answer": "Separation"
+    },
+    {
+      "question": "Which of the following is a sign that the second stage of labor (pushing) is beginning?",
+      "choices": [
+        "Water breaking",
+        "Intense nausea",
+        "Strong urge to push",
+        "Sudden drop in body temperature"
+      ],
+      "answer": "Strong urge to push"
+    },
+    {
+      "question": "What is the purpose of the amniotic fluid during labor?",
+      "choices": [
+        "To provide nutrition to the baby",
+        "To cushion and protect the baby",
+        "To initiate contractions",
+        "To dilate the cervix"
+      ],
+      "answer": "To cushion and protect the baby"
+    },
+    {
+      "question": "Which of the following is NOT a typical emotional support technique used by doulas during labor?",
+      "choices": [
+        "Encouragement and praise",
+        "Visualization exercises",
+        "Criticism of the mother's efforts",
+        "Reassurance and calming words"
+      ],
+      "answer": "Criticism of the mother's efforts"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Comfort Measures and Labor Support",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a non-pharmacological pain management technique?",
+      "choices": [
+        "Breathing techniques",
+        "Epidural anesthesia",
+        "Massage and touch",
+        "Hydrotherapy"
+      ],
+      "answer": "Epidural anesthesia"
+    },
+    {
+      "question": "What is the term for applying firm, steady pressure to a specific area of the body to relieve pain during contractions?",
+      "choices": [
+        "Counterpressure",
+        "Hydrotherapy",
+        "Aromatherapy",
+        "Visualization"
+      ],
+      "answer": "Counterpressure"
+    },
+    {
+      "question": "Which of the following is NOT a position typically used for labor and birth?",
+      "choices": [
+        "Standing and walking",
+        "Hands and knees",
+        "Squatting",
+        "Headstand"
+      ],
+      "answer": "Headstand"
+    },
+    {
+      "question": "What are the natural pain-relieving hormones produced by the body during labor?",
+      "choices": [
+        "Endorphins",
+        "Adrenaline",
+        "Cortisol",
+        "Oxytocin"
+      ],
+      "answer": "Endorphins"
+    },
+    {
+      "question": "Which theory suggests that non-painful input can close the 'gates' to painful input, reducing pain sensation?",
+      "choices": [
+        "Gate control theory",
+        "Pain threshold theory",
+        "Endorphin release theory",
+        "Neuroplasticity theory"
+      ],
+      "answer": "Gate control theory"
+    },
+    {
+      "question": "What is the phase of labor characterized by regular, strong contractions and cervical dilation from 6-10 cm?",
+      "choices": [
+        "Early labor",
+        "Active labor",
+        "Transition",
+        "Pushing stage"
+      ],
+      "answer": "Active labor"
+    },
+    {
+      "question": "Which of the following is an example of emotional support provided by a doula?",
+      "choices": [
+        "Administering medication",
+        "Performing medical examinations",
+        "Providing positive affirmations",
+        "Making medical decisions"
+      ],
+      "answer": "Providing positive affirmations"
+    },
+    {
+      "question": "What is the most intense phase of labor, typically occurring as the cervix dilates from 8-10 cm?",
+      "choices": [
+        "Early labor",
+        "Active labor",
+        "Transition",
+        "Pushing stage"
+      ],
+      "answer": "Transition"
+    },
+    {
+      "question": "Which comfort measure involves using water to provide pain relief during labor?",
+      "choices": [
+        "Aromatherapy",
+        "Hydrotherapy",
+        "Acupressure",
+        "Visualization"
+      ],
+      "answer": "Hydrotherapy"
+    },
+    {
+      "question": "What is the purpose of using a birthing ball during labor?",
+      "choices": [
+        "To provide entertainment",
+        "To measure contractions",
+        "To assist with positioning and comfort",
+        "To induce labor"
+      ],
+      "answer": "To assist with positioning and comfort"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a doula's role?",
+      "choices": [
+        "Providing emotional support",
+        "Offering physical comfort measures",
+        "Performing medical procedures",
+        "Advocating for the client's needs"
+      ],
+      "answer": "Performing medical procedures"
+    },
+    {
+      "question": "What is the term for using mental imagery to cope with labor pain?",
+      "choices": [
+        "Hypnobirthing",
+        "Visualization",
+        "Meditation",
+        "Biofeedback"
+      ],
+      "answer": "Visualization"
+    },
+    {
+      "question": "Which comfort measure involves using scents to promote relaxation during labor?",
+      "choices": [
+        "Hydrotherapy",
+        "Acupressure",
+        "Aromatherapy",
+        "Reflexology"
+      ],
+      "answer": "Aromatherapy"
+    },
+    {
+      "question": "What is the primary benefit of continuous labor support provided by a doula?",
+      "choices": [
+        "Reduced need for pain medication",
+        "Faster labor progression",
+        "Improved fetal heart rate",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which position may help alleviate back pain during labor?",
+      "choices": [
+        "Lying flat on back",
+        "Standing upright",
+        "Hands and knees",
+        "Sitting in a chair"
+      ],
+      "answer": "Hands and knees"
+    },
+    {
+      "question": "What is the purpose of using a rebozo during labor?",
+      "choices": [
+        "To monitor contractions",
+        "To provide support and comfort through various techniques",
+        "To induce labor",
+        "To measure cervical dilation"
+      ],
+      "answer": "To provide support and comfort through various techniques"
+    },
+    {
+      "question": "Which of the following is NOT a typical item found in a doula's comfort measures bag?",
+      "choices": [
+        "Massage oil",
+        "Tennis balls",
+        "Stethoscope",
+        "Essential oils"
+      ],
+      "answer": "Stethoscope"
+    },
+    {
+      "question": "What is the main goal of using breathing techniques during labor?",
+      "choices": [
+        "To increase oxygen to the baby",
+        "To distract from pain and promote relaxation",
+        "To speed up labor",
+        "To prevent tearing"
+      ],
+      "answer": "To distract from pain and promote relaxation"
+    },
+    {
+      "question": "Which of the following is an example of creating a calm environment during labor?",
+      "choices": [
+        "Playing loud music",
+        "Dimming lights",
+        "Encouraging many visitors",
+        "Frequently checking the clock"
+      ],
+      "answer": "Dimming lights"
+    },
+    {
+      "question": "What is the purpose of the double hip squeeze technique?",
+      "choices": [
+        "To induce labor",
+        "To relieve back pain during contractions",
+        "To monitor fetal heart rate",
+        "To speed up cervical dilation"
+      ],
+      "answer": "To relieve back pain during contractions"
+    },
+    {
+      "question": "Which position may help a baby rotate into a more favorable position for birth?",
+      "choices": [
+        "Lying flat on back",
+        "Standing upright",
+        "Hands and knees",
+        "Sitting in a recliner"
+      ],
+      "answer": "Hands and knees"
+    },
+    {
+      "question": "What is the primary role of a doula during the pushing stage of labor?",
+      "choices": [
+        "To catch the baby",
+        "To perform vaginal examinations",
+        "To provide encouragement and suggest positions",
+        "To administer pain medication"
+      ],
+      "answer": "To provide encouragement and suggest positions"
+    },
+    {
+      "question": "Which comfort measure involves applying warm or cool compresses to specific areas of the body?",
+      "choices": [
+        "Hydrotherapy",
+        "Aromatherapy",
+        "Heat and cold therapy",
+        "Acupressure"
+      ],
+      "answer": "Heat and cold therapy"
+    },
+    {
+      "question": "What is the benefit of using a birthing ball during early labor?",
+      "choices": [
+        "It speeds up contractions",
+        "It allows for rest between contractions",
+        "It measures cervical dilation",
+        "It reduces the need for pain medication"
+      ],
+      "answer": "It allows for rest between contractions"
+    },
+    {
+      "question": "Which of the following is NOT a typical way a doula might advocate for a client?",
+      "choices": [
+        "Communicating the client's preferences to medical staff",
+        "Encouraging the client to ask questions",
+        "Making medical decisions on behalf of the client",
+        "Requesting time for the client to consider options"
+      ],
+      "answer": "Making medical decisions on behalf of the client"
+    },
+    {
+      "question": "What is the purpose of using positive affirmations during labor?",
+      "choices": [
+        "To speed up contractions",
+        "To reduce the need for pain medication",
+        "To boost confidence and maintain a positive mindset",
+        "To induce sleep between contractions"
+      ],
+      "answer": "To boost confidence and maintain a positive mindset"
+    },
+    {
+      "question": "Which of the following is a benefit of upright positions during labor?",
+      "choices": [
+        "Reduced pain perception",
+        "Increased oxygen to the baby",
+        "More efficient contractions",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the main purpose of practicing comfort measures before labor begins?",
+      "choices": [
+        "To induce labor",
+        "To prevent complications",
+        "To familiarize the birthing person with techniques",
+        "To reduce the length of labor"
+      ],
+      "answer": "To familiarize the birthing person with techniques"
+    },
+    {
+      "question": "Which of the following is NOT a typical responsibility of a doula in Timor-Leste?",
+      "choices": [
+        "Providing culturally appropriate support",
+        "Offering comfort measures during labor",
+        "Prescribing medication for pain relief",
+        "Encouraging early bonding after birth"
+      ],
+      "answer": "Prescribing medication for pain relief"
+    },
+    {
+      "question": "What is the importance of understanding traditional Timorese birth practices for a doula?",
+      "choices": [
+        "To replace them with modern techniques",
+        "To incorporate them respectfully into care",
+        "To discourage their use entirely",
+        "To report them to medical authorities"
+      ],
+      "answer": "To incorporate them respectfully into care"
+    }
+  ]
+}

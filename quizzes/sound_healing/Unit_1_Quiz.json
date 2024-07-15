@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Sound Healing",
+  "questions": [
+    {
+      "question": "What is the core principle of sound healing based on?",
+      "choices": [
+        "Everything in the universe is in a state of vibration",
+        "Sound can only heal physical ailments",
+        "Healing occurs through visual stimuli",
+        "Sound healing is a modern invention"
+      ],
+      "answer": "Everything in the universe is in a state of vibration"
+    },
+    {
+      "question": "Which ancient civilization used vowel sound chants for therapeutic purposes?",
+      "choices": [
+        "Roman",
+        "Egyptian",
+        "Chinese",
+        "Mayan"
+      ],
+      "answer": "Egyptian"
+    },
+    {
+      "question": "What is the term for producing long, sustained vowel sounds in sound healing?",
+      "choices": [
+        "Chanting",
+        "Humming",
+        "Toning",
+        "Singing"
+      ],
+      "answer": "Toning"
+    },
+    {
+      "question": "In Timor-Leste, traditional healers believe that healing sounds connect:",
+      "choices": [
+        "The past and the future",
+        "The physical world and the spiritual realm",
+        "Different dimensions",
+        "The conscious and unconscious mind"
+      ],
+      "answer": "The physical world and the spiritual realm"
+    },
+    {
+      "question": "What is resonance in the context of sound healing?",
+      "choices": [
+        "The pitch of a sound",
+        "The volume of a sound",
+        "The reinforcement or prolongation of sound by reflection or synchronous vibration",
+        "The speed at which sound travels"
+      ],
+      "answer": "The reinforcement or prolongation of sound by reflection or synchronous vibration"
+    },
+    {
+      "question": "Which philosopher explored the mathematical principles of sound and its effects on the human psyche?",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Pythagoras"
+      ],
+      "answer": "Pythagoras"
+    },
+    {
+      "question": "What is frequency in sound healing?",
+      "choices": [
+        "The loudness of a sound",
+        "The number of vibrations per second, measured in Hertz (Hz)",
+        "The duration of a sound",
+        "The quality of a sound"
+      ],
+      "answer": "The number of vibrations per second, measured in Hertz (Hz)"
+    },
+    {
+      "question": "Which of the following is NOT a common tool used in modern sound healing?",
+      "choices": [
+        "Tuning forks",
+        "Crystal bowls",
+        "Gongs",
+        "Stethoscopes"
+      ],
+      "answer": "Stethoscopes"
+    },
+    {
+      "question": "What are binaural beats used for in sound healing?",
+      "choices": [
+        "To produce loud, startling sounds",
+        "To induce specific brainwave states",
+        "To measure heart rate",
+        "To amplify external sounds"
+      ],
+      "answer": "To induce specific brainwave states"
+    },
+    {
+      "question": "In traditional healing chants, what role does rhythm often play?",
+      "choices": [
+        "It mimics natural biological rhythms like heartbeat or breath",
+        "It creates dissonance to challenge the listener",
+        "It is used to measure the duration of the healing session",
+        "It has no significant role"
+      ],
+      "answer": "It mimics natural biological rhythms like heartbeat or breath"
+    },
+    {
+      "question": "What is the primary purpose of repetition in healing chants?",
+      "choices": [
+        "To make the chant easier to remember",
+        "To induce trance-like states",
+        "To increase the volume of the sound",
+        "To demonstrate the skill of the healer"
+      ],
+      "answer": "To induce trance-like states"
+    },
+    {
+      "question": "In some traditions, specific pitches or intervals are believed to correspond to:",
+      "choices": [
+        "Different planets",
+        "Various emotions",
+        "Particular energy centers in the body (chakras)",
+        "Different times of day"
+      ],
+      "answer": "Particular energy centers in the body (chakras)"
+    },
+    {
+      "question": "How is sound healing typically used in relation to conventional medical treatments?",
+      "choices": [
+        "As a replacement for all other treatments",
+        "As a complementary therapy alongside conventional treatments",
+        "Only when conventional treatments fail",
+        "As a diagnostic tool"
+      ],
+      "answer": "As a complementary therapy alongside conventional treatments"
+    },
+    {
+      "question": "What is one of the physical effects of sound vibrations on the body?",
+      "choices": [
+        "Increased blood pressure",
+        "Accelerated heart rate",
+        "Improved circulation",
+        "Heightened stress response"
+      ],
+      "answer": "Improved circulation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential benefit of sound healing?",
+      "choices": [
+        "Pain reduction",
+        "Stress relief",
+        "Improved memory",
+        "Inducing relaxation"
+      ],
+      "answer": "Improved memory"
+    },
+    {
+      "question": "What is the term for cultural healing practices passed down through generations?",
+      "choices": [
+        "Modern medicine",
+        "Alternative therapy",
+        "Traditional healing",
+        "Experimental treatment"
+      ],
+      "answer": "Traditional healing"
+    },
+    {
+      "question": "In Ayurvedic medicine, which tools are mentioned as being used for sound healing?",
+      "choices": [
+        "Tuning forks and gongs",
+        "Mantras and singing bowls",
+        "Drums and flutes",
+        "Bells and cymbals"
+      ],
+      "answer": "Mantras and singing bowls"
+    },
+    {
+      "question": "What is the primary goal of sound healing in relation to the body's frequencies?",
+      "choices": [
+        "To disrupt all frequencies",
+        "To eliminate all vibrations",
+        "To realign and restore harmony to disrupted frequencies",
+        "To introduce new, artificial frequencies"
+      ],
+      "answer": "To realign and restore harmony to disrupted frequencies"
+    },
+    {
+      "question": "Which of the following is described as one of the most powerful instruments in sound healing?",
+      "choices": [
+        "The human voice",
+        "The piano",
+        "The violin",
+        "The didgeridoo"
+      ],
+      "answer": "The human voice"
+    },
+    {
+      "question": "What type of sounds are used in the warm-up activity described in the lesson plan?",
+      "choices": [
+        "Urban noise",
+        "Classical music",
+        "Nature sounds",
+        "Electronic beats"
+      ],
+      "answer": "Nature sounds"
+    },
+    {
+      "question": "In the production task of the lesson plan, what are students asked to create?",
+      "choices": [
+        "A musical composition",
+        "A sound healing 'recipe' for a common ailment",
+        "A historical timeline of sound healing",
+        "A diagram of the human ear"
+      ],
+      "answer": "A sound healing 'recipe' for a common ailment"
+    },
+    {
+      "question": "What is one of the homework assignments given in the lesson plan?",
+      "choices": [
+        "Practice playing a musical instrument",
+        "Record natural sounds in their environment",
+        "Interview an elder family member about traditional healing sounds",
+        "Write an essay on the physics of sound"
+      ],
+      "answer": "Interview an elder family member about traditional healing sounds"
+    },
+    {
+      "question": "According to the reading, what can the vibrations created by one's own voice do?",
+      "choices": [
+        "Damage internal organs",
+        "Massage organs and tissues from the inside out",
+        "Increase blood pressure",
+        "Cause hearing loss"
+      ],
+      "answer": "Massage organs and tissues from the inside out"
+    },
+    {
+      "question": "What does the reading suggest about the current state of scientific research on sound healing?",
+      "choices": [
+        "There is no scientific evidence supporting it",
+        "Research is conclusive and all-encompassing",
+        "Studies have shown positive effects on various conditions",
+        "Research has disproven its effectiveness"
+      ],
+      "answer": "Studies have shown positive effects on various conditions"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a disruption that can lead to disharmony in the body?",
+      "choices": [
+        "Stress",
+        "Illness",
+        "Environmental factors",
+        "Genetic predisposition"
+      ],
+      "answer": "Genetic predisposition"
+    },
+    {
+      "question": "What is the significance of chanting in sound healing?",
+      "choices": [
+        "It's purely for entertainment",
+        "It combines the power of sound with the focus of intention",
+        "It's only effective when done in groups",
+        "It's used to communicate with spirits"
+      ],
+      "answer": "It combines the power of sound with the focus of intention"
+    },
+    {
+      "question": "How does the reading describe the relationship between sound healing and conventional medicine?",
+      "choices": [
+        "Sound healing should replace conventional medicine",
+        "They are completely unrelated fields",
+        "Sound healing is typically used as a complementary therapy",
+        "Conventional medicine has fully embraced sound healing"
+      ],
+      "answer": "Sound healing is typically used as a complementary therapy"
+    },
+    {
+      "question": "What is suggested as a simple sound healing technique that anyone can use?",
+      "choices": [
+        "Playing complex musical instruments",
+        "Using expensive electronic equipment",
+        "Toning with long, sustained vowel sounds",
+        "Listening to specific genres of music"
+      ],
+      "answer": "Toning with long, sustained vowel sounds"
+    },
+    {
+      "question": "According to the reading, what is one emotional benefit of certain sound frequencies?",
+      "choices": [
+        "Increased aggression",
+        "Enhanced memory",
+        "Improved physical strength",
+        "Alleviation of stress and anxiety"
+      ],
+      "answer": "Alleviation of stress and anxiety"
+    },
+    {
+      "question": "What does the reading suggest about the future of sound healing?",
+      "choices": [
+        "It will likely be forgotten",
+        "It will completely replace traditional medicine",
+        "Its potential for healing through harmony is becoming more apparent",
+        "It will only be used in specific cultures"
+      ],
+      "answer": "Its potential for healing through harmony is becoming more apparent"
+    }
+  ]
+}

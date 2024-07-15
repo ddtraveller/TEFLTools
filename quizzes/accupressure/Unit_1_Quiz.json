@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Acupressure and Traditional Chinese Medicine",
+  "questions": [
+    {
+      "question": "What is the central concept in Traditional Chinese Medicine that is described as the vital life force or energy?",
+      "choices": [
+        "Meridian",
+        "Qi",
+        "Yin",
+        "Yang"
+      ],
+      "answer": "Qi"
+    },
+    {
+      "question": "How many main meridians are there in the body according to TCM?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "What are the pathways through which qi flows in the body called?",
+      "choices": [
+        "Channels",
+        "Meridians",
+        "Vessels",
+        "Streams"
+      ],
+      "answer": "Meridians"
+    },
+    {
+      "question": "Which of the following best describes the holistic approach of TCM?",
+      "choices": [
+        "Focusing solely on physical symptoms",
+        "Treating only the mind",
+        "Considering the interconnection of body, mind, and spirit",
+        "Emphasizing medication over lifestyle changes"
+      ],
+      "answer": "Considering the interconnection of body, mind, and spirit"
+    },
+    {
+      "question": "What is the main difference between acupuncture and acupressure?",
+      "choices": [
+        "Acupuncture uses needles, while acupressure uses pressure",
+        "Acupuncture is older than acupressure",
+        "Acupressure requires more training",
+        "Acupuncture is only used for pain relief"
+      ],
+      "answer": "Acupuncture uses needles, while acupressure uses pressure"
+    },
+    {
+      "question": "Which philosophical concept in TCM represents complementary opposites?",
+      "choices": [
+        "Qi and Meridians",
+        "Yin and Yang",
+        "Five Elements",
+        "Zang-Fu"
+      ],
+      "answer": "Yin and Yang"
+    },
+    {
+      "question": "What is the term for specific locations on meridians where qi can be accessed and influenced?",
+      "choices": [
+        "Qi points",
+        "Energy nodes",
+        "Acupoints",
+        "Meridian junctions"
+      ],
+      "answer": "Acupoints"
+    },
+    {
+      "question": "During which Chinese dynasty was TCM systematized?",
+      "choices": [
+        "Tang Dynasty",
+        "Song Dynasty",
+        "Ming Dynasty",
+        "Han Dynasty"
+      ],
+      "answer": "Han Dynasty"
+    },
+    {
+      "question": "What is the primary goal of TCM treatments?",
+      "choices": [
+        "To eliminate all symptoms",
+        "To restore balance and harmony in the body",
+        "To provide quick relief",
+        "To replace conventional medicine"
+      ],
+      "answer": "To restore balance and harmony in the body"
+    },
+    {
+      "question": "Which of the following is NOT one of the Five Elements in TCM theory?",
+      "choices": [
+        "Wood",
+        "Fire",
+        "Air",
+        "Metal"
+      ],
+      "answer": "Air"
+    },
+    {
+      "question": "What is the name of the TCM practice that involves burning herbs near acupoints?",
+      "choices": [
+        "Cupping",
+        "Tui na",
+        "Moxibustion",
+        "Qigong"
+      ],
+      "answer": "Moxibustion"
+    },
+    {
+      "question": "Which type of qi is inherited from one's parents according to TCM?",
+      "choices": [
+        "Original Qi (Yuan Qi)",
+        "Nutritive Qi (Ying Qi)",
+        "Defensive Qi (Wei Qi)",
+        "Gathering Qi (Zong Qi)"
+      ],
+      "answer": "Original Qi (Yuan Qi)"
+    },
+    {
+      "question": "What is the term for internal organs in TCM, including both physical and energetic functions?",
+      "choices": [
+        "Shen",
+        "Jing",
+        "Xue",
+        "Zang-Fu"
+      ],
+      "answer": "Zang-Fu"
+    },
+    {
+      "question": "Which acupoint, located on the hand between the thumb and index finger, is commonly used for headache relief?",
+      "choices": [
+        "ST36",
+        "LI4",
+        "PC6",
+        "GB20"
+      ],
+      "answer": "LI4"
+    },
+    {
+      "question": "What does TCM consider to be the cause of illness?",
+      "choices": [
+        "Bacterial infections",
+        "Viral infections",
+        "Imbalances in the body",
+        "Genetic predisposition"
+      ],
+      "answer": "Imbalances in the body"
+    },
+    {
+      "question": "Which of the following is NOT a traditional practice in TCM?",
+      "choices": [
+        "Herbal medicine",
+        "Acupuncture",
+        "Surgery",
+        "Tai Chi"
+      ],
+      "answer": "Surgery"
+    },
+    {
+      "question": "What is the primary function of defensive qi (Wei Qi)?",
+      "choices": [
+        "To digest food",
+        "To circulate blood",
+        "To protect against external pathogens",
+        "To regulate body temperature"
+      ],
+      "answer": "To protect against external pathogens"
+    },
+    {
+      "question": "How many extraordinary meridians are there in TCM theory?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "What is the TCM term for blood, which has both physical and energetic properties?",
+      "choices": [
+        "Qi",
+        "Jing",
+        "Xue",
+        "Shen"
+      ],
+      "answer": "Xue"
+    },
+    {
+      "question": "Which of the following is considered a key function of qi in the body?",
+      "choices": [
+        "Producing red blood cells",
+        "Synthesizing proteins",
+        "Maintaining body temperature",
+        "Filtering blood in the kidneys"
+      ],
+      "answer": "Maintaining body temperature"
+    },
+    {
+      "question": "What is the name of the TCM practice that involves gentle exercises and meditation?",
+      "choices": [
+        "Tui na",
+        "Qigong",
+        "Cupping",
+        "Gua sha"
+      ],
+      "answer": "Qigong"
+    },
+    {
+      "question": "According to TCM, what happens when qi is balanced and flowing freely?",
+      "choices": [
+        "The person experiences illness",
+        "The person experiences good health",
+        "The person becomes more susceptible to pathogens",
+        "The person requires more sleep"
+      ],
+      "answer": "The person experiences good health"
+    },
+    {
+      "question": "Which organization has recognized acupuncture as a viable treatment option for various conditions?",
+      "choices": [
+        "United Nations",
+        "World Bank",
+        "World Health Organization",
+        "International Monetary Fund"
+      ],
+      "answer": "World Health Organization"
+    },
+    {
+      "question": "What is the primary aim of stimulating acupoints in TCM?",
+      "choices": [
+        "To increase muscle strength",
+        "To improve flexibility",
+        "To restore balance to the flow of qi",
+        "To reduce body fat"
+      ],
+      "answer": "To restore balance to the flow of qi"
+    },
+    {
+      "question": "Which of the following best describes the relationship between TCM and local healing traditions in Timor-Leste?",
+      "choices": [
+        "They are completely unrelated",
+        "TCM has replaced all local traditions",
+        "They may share similarities in their holistic approach",
+        "Local traditions are considered superior to TCM"
+      ],
+      "answer": "They may share similarities in their holistic approach"
+    },
+    {
+      "question": "What is the significance of the theory of Yin and Yang in TCM?",
+      "choices": [
+        "It explains the origin of the universe",
+        "It represents the balance needed for good health",
+        "It determines a person's personality type",
+        "It predicts future health outcomes"
+      ],
+      "answer": "It represents the balance needed for good health"
+    },
+    {
+      "question": "How does TCM view the relationship between physical, mental, and emotional health?",
+      "choices": [
+        "They are completely separate aspects of health",
+        "Physical health is the only important factor",
+        "Mental health determines physical health",
+        "They are all interrelated and interconnected"
+      ],
+      "answer": "They are all interrelated and interconnected"
+    },
+    {
+      "question": "What is the primary focus of acupressure treatment?",
+      "choices": [
+        "Surgical intervention",
+        "Prescription medication",
+        "Stimulation of specific body points",
+        "Dietary changes"
+      ],
+      "answer": "Stimulation of specific body points"
+    },
+    {
+      "question": "In TCM, what is believed to happen when there are blockages in qi flow?",
+      "choices": [
+        "Improved health",
+        "Increased energy",
+        "Various health issues",
+        "Enhanced immunity"
+      ],
+      "answer": "Various health issues"
+    },
+    {
+      "question": "What is the term for the most refined form of qi in TCM?",
+      "choices": [
+        "Shen",
+        "Jing",
+        "Xue",
+        "Zang"
+      ],
+      "answer": "Jing"
+    }
+  ]
+}
