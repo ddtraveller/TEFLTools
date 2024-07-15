@@ -1,0 +1,295 @@
+{
+  "title": "Environmental Influences on the Microbiome",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a common waterborne pathogen in Timor-Leste?",
+      "choices": [
+        "Escherichia coli",
+        "Vibrio cholerae",
+        "Giardia lamblia",
+        "Staphylococcus aureus"
+      ],
+      "answer": "Staphylococcus aureus"
+    },
+    {
+      "question": "What is the hygiene hypothesis?",
+      "choices": [
+        "The idea that excessive cleanliness leads to better health",
+        "The theory that lack of early microbial exposure increases susceptibility to allergic diseases",
+        "The concept that all microbes are harmful and should be eliminated",
+        "The belief that rural areas have better hygiene than urban areas"
+      ],
+      "answer": "The theory that lack of early microbial exposure increases susceptibility to allergic diseases"
+    },
+    {
+      "question": "Which of the following is a method of water treatment mentioned in the module?",
+      "choices": [
+        "Freezing",
+        "Magnetization",
+        "Solar disinfection (SODIS)",
+        "Electrolysis"
+      ],
+      "answer": "Solar disinfection (SODIS)"
+    },
+    {
+      "question": "What is the approximate percentage of water in the human body?",
+      "choices": [
+        "40%",
+        "50%",
+        "60%",
+        "70%"
+      ],
+      "answer": "60%"
+    },
+    {
+      "question": "Which bacterial genus is often found in higher abundance in rural microbiomes?",
+      "choices": [
+        "Escherichia",
+        "Bacteroides",
+        "Prevotella",
+        "Clostridium"
+      ],
+      "answer": "Prevotella"
+    },
+    {
+      "question": "What is the primary purpose of using E. coli as an indicator in water quality testing?",
+      "choices": [
+        "To measure water acidity",
+        "To indicate the presence of industrial pollutants",
+        "To indicate fecal contamination",
+        "To measure water hardness"
+      ],
+      "answer": "To indicate fecal contamination"
+    },
+    {
+      "question": "Which of the following is NOT a factor contributing to urban/rural microbiome differences?",
+      "choices": [
+        "Diet",
+        "Lifestyle",
+        "Environmental exposure",
+        "Genetic predisposition"
+      ],
+      "answer": "Genetic predisposition"
+    },
+    {
+      "question": "What is the 'Old Friends' hypothesis?",
+      "choices": [
+        "The idea that we should only trust old friends",
+        "The theory that humans co-evolved with certain microorganisms that help train the immune system",
+        "The concept that older people have more diverse microbiomes",
+        "The belief that traditional farming practices are better for the microbiome"
+      ],
+      "answer": "The theory that humans co-evolved with certain microorganisms that help train the immune system"
+    },
+    {
+      "question": "Which of the following is a potential negative consequence of improving sanitation in developing countries?",
+      "choices": [
+        "Increased microbial diversity",
+        "Reduced exposure to pathogens",
+        "Possible increase in allergic disorders",
+        "Lower rates of infectious diseases"
+      ],
+      "answer": "Possible increase in allergic disorders"
+    },
+    {
+      "question": "What type of diet is more commonly associated with rural microbiomes?",
+      "choices": [
+        "High in processed foods",
+        "Low in fiber",
+        "Rich in plant-based foods",
+        "High in refined sugars"
+      ],
+      "answer": "Rich in plant-based foods"
+    },
+    {
+      "question": "Which of the following is NOT a type of microorganism commonly found in water?",
+      "choices": [
+        "Bacteria",
+        "Viruses",
+        "Protozoa",
+        "Fungi"
+      ],
+      "answer": "Fungi"
+    },
+    {
+      "question": "What is the primary goal of water treatment in relation to the microbiome?",
+      "choices": [
+        "To eliminate all microorganisms",
+        "To increase microbial diversity",
+        "To support the growth of beneficial microbes while reducing pathogens",
+        "To add probiotics to the water supply"
+      ],
+      "answer": "To support the growth of beneficial microbes while reducing pathogens"
+    },
+    {
+      "question": "Which of the following is a characteristic of urban microbiomes compared to rural ones?",
+      "choices": [
+        "Higher diversity",
+        "Lower abundance of bacteria associated with processed foods",
+        "More exposure to environmental microbes",
+        "Lower diversity"
+      ],
+      "answer": "Lower diversity"
+    },
+    {
+      "question": "What is the significance of early-life microbial exposures?",
+      "choices": [
+        "They have no impact on long-term health",
+        "They are crucial for proper immune system development",
+        "They only affect digestive health",
+        "They determine adult height"
+      ],
+      "answer": "They are crucial for proper immune system development"
+    },
+    {
+      "question": "Which of the following is NOT a common water source mentioned for Timor-Leste?",
+      "choices": [
+        "Wells",
+        "Rivers",
+        "Desalination plants",
+        "Rainwater collection"
+      ],
+      "answer": "Desalination plants"
+    },
+    {
+      "question": "What is the relationship between sanitation and microbial diversity?",
+      "choices": [
+        "Improved sanitation always increases microbial diversity",
+        "Poor sanitation leads to higher beneficial microbial diversity",
+        "Proper sanitation can reduce exposure to pathogens but may also reduce overall microbial diversity",
+        "Sanitation has no effect on microbial diversity"
+      ],
+      "answer": "Proper sanitation can reduce exposure to pathogens but may also reduce overall microbial diversity"
+    },
+    {
+      "question": "Which of the following is a potential benefit of diverse microbial exposures in early life?",
+      "choices": [
+        "Increased risk of allergies",
+        "Weakened immune system",
+        "Improved immune system development",
+        "Higher susceptibility to infections"
+      ],
+      "answer": "Improved immune system development"
+    },
+    {
+      "question": "What is a potential challenge in implementing microbiome research in Timor-Leste?",
+      "choices": [
+        "Lack of genetic diversity in the population",
+        "Too much funding for research",
+        "Limited resources and infrastructure",
+        "Overabundance of trained microbiologists"
+      ],
+      "answer": "Limited resources and infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor contributing to urban-rural microbiome differences?",
+      "choices": [
+        "Diet composition",
+        "Physical activity levels",
+        "Exposure to environmental microbes",
+        "Educational attainment"
+      ],
+      "answer": "Educational attainment"
+    },
+    {
+      "question": "What is the primary concern with using river water as a drinking source in Timor-Leste?",
+      "choices": [
+        "It's too cold",
+        "It contains too many minerals",
+        "It may be contaminated with pathogens",
+        "It lacks essential nutrients"
+      ],
+      "answer": "It may be contaminated with pathogens"
+    },
+    {
+      "question": "Which of the following is a potential microbiome-based intervention mentioned in the course?",
+      "choices": [
+        "Genetic modification of gut bacteria",
+        "Complete elimination of all gut bacteria",
+        "Development of culturally appropriate probiotic foods",
+        "Mandatory fecal transplants for all citizens"
+      ],
+      "answer": "Development of culturally appropriate probiotic foods"
+    },
+    {
+      "question": "What is the significance of the gut-brain axis in microbiome research?",
+      "choices": [
+        "It only affects digestive processes",
+        "It suggests a connection between gut microbes and mental health",
+        "It's a new exercise routine for gut health",
+        "It's unrelated to microbiome studies"
+      ],
+      "answer": "It suggests a connection between gut microbes and mental health"
+    },
+    {
+      "question": "Which of the following is NOT a suggested item to cover in the course syllabus?",
+      "choices": [
+        "Traditional Timorese practices that may influence the microbiome",
+        "Local food fermentation techniques",
+        "Challenges in implementing microbiome research in resource-limited settings",
+        "Advanced genetic engineering of microbes"
+      ],
+      "answer": "Advanced genetic engineering of microbes"
+    },
+    {
+      "question": "What is the primary goal of the field trip mentioned in the module activities?",
+      "choices": [
+        "To collect water samples for laboratory analysis",
+        "To compare water sources and discuss potential microbiome impacts",
+        "To install new water treatment facilities",
+        "To meet with government officials about water policy"
+      ],
+      "answer": "To compare water sources and discuss potential microbiome impacts"
+    },
+    {
+      "question": "Which of the following is a key objective of the Environmental Influences on the Microbiome unit?",
+      "choices": [
+        "To develop new antibiotics",
+        "To analyze how Timor-Leste's environment impacts microbial communities",
+        "To study deep-sea microbiomes",
+        "To create genetically modified bacteria"
+      ],
+      "answer": "To analyze how Timor-Leste's environment impacts microbial communities"
+    },
+    {
+      "question": "What type of intervention are students asked to design in one of the module activities?",
+      "choices": [
+        "A new type of probiotic",
+        "A vaccination program",
+        "An intervention to improve environmental factors affecting the microbiome",
+        "A genetic screening test for microbiome health"
+      ],
+      "answer": "An intervention to improve environmental factors affecting the microbiome"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in the Environmental Influences on the Microbiome unit?",
+      "choices": [
+        "Water quality and the microbiome",
+        "Sanitation practices and microbial exposure",
+        "Urban vs. rural microbiome differences",
+        "Microbiome changes during space travel"
+      ],
+      "answer": "Microbiome changes during space travel"
+    },
+    {
+      "question": "What is the significance of studying urban vs. rural microbiome differences in Timor-Leste?",
+      "choices": [
+        "It has no relevance to public health",
+        "It can inform targeted health interventions based on living environment",
+        "It only affects agricultural practices",
+        "It's purely for academic interest with no practical applications"
+      ],
+      "answer": "It can inform targeted health interventions based on living environment"
+    },
+    {
+      "question": "Which of the following is a potential consequence of rapid urbanization on the microbiome in Timor-Leste?",
+      "choices": [
+        "Increased exposure to diverse environmental microbes",
+        "Higher consumption of traditional fermented foods",
+        "Reduced diversity in the gut microbiome",
+        "Elimination of all waterborne pathogens"
+      ],
+      "answer": "Reduced diversity in the gut microbiome"
+    }
+  ]
+}

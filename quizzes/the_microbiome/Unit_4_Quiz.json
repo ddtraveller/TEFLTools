@@ -1,0 +1,295 @@
+{
+  "title": "Microbiome and Immune System",
+  "questions": [
+    {
+      "question": "What is colonization resistance?",
+      "choices": [
+        "The ability of pathogens to resist antibiotics",
+        "The immune system's resistance to colonization by any microbes",
+        "The ability of the microbiome to prevent colonization by pathogenic microorganisms",
+        "The resistance of the gut to probiotic colonization"
+      ],
+      "answer": "The ability of the microbiome to prevent colonization by pathogenic microorganisms"
+    },
+    {
+      "question": "Which of the following best describes immune tolerance?",
+      "choices": [
+        "The immune system's ability to fight off all foreign substances",
+        "The immune system's lack of response to substances or tissues that have the potential to elicit an immune response",
+        "The tolerance of the body to high doses of antibiotics",
+        "The ability of pathogens to evade the immune system"
+      ],
+      "answer": "The immune system's lack of response to substances or tissues that have the potential to elicit an immune response"
+    },
+    {
+      "question": "What are pathobionts?",
+      "choices": [
+        "Harmful pathogens that always cause disease",
+        "Beneficial microbes that enhance immune function",
+        "Symbiotic microorganisms that can cause disease under certain circumstances",
+        "Antibodies that target specific pathogens"
+      ],
+      "answer": "Symbiotic microorganisms that can cause disease under certain circumstances"
+    },
+    {
+      "question": "What is mucosal immunity?",
+      "choices": [
+        "Immune responses that occur in the bloodstream",
+        "Immune responses that occur at mucosal surfaces of the body",
+        "The production of mucus to trap pathogens",
+        "The immunity developed after exposure to mucus-producing pathogens"
+      ],
+      "answer": "Immune responses that occur at mucosal surfaces of the body"
+    },
+    {
+      "question": "What does the term 'microbiome-immune axis' refer to?",
+      "choices": [
+        "The physical connection between gut microbes and immune cells",
+        "The axis of rotation of bacteria in the gut",
+        "The bidirectional communication between the microbiome and the immune system",
+        "The line separating beneficial and harmful microbes in the body"
+      ],
+      "answer": "The bidirectional communication between the microbiome and the immune system"
+    },
+    {
+      "question": "When does the human microbiome begin to establish itself?",
+      "choices": [
+        "In the womb",
+        "At birth",
+        "During puberty",
+        "In adulthood"
+      ],
+      "answer": "At birth"
+    },
+    {
+      "question": "How does mode of delivery (vaginal vs. cesarean) affect an infant's microbiome?",
+      "choices": [
+        "It has no effect on the microbiome",
+        "It influences the initial microbial colonization",
+        "It only affects the skin microbiome",
+        "It determines the child's lifelong microbiome composition"
+      ],
+      "answer": "It influences the initial microbial colonization"
+    },
+    {
+      "question": "Which of the following is NOT a way the microbiome influences innate immunity?",
+      "choices": [
+        "Stimulates production of antimicrobial peptides",
+        "Enhances barrier function of epithelial cells",
+        "Trains neutrophils and macrophages for rapid response",
+        "Directly produces antibodies against pathogens"
+      ],
+      "answer": "Directly produces antibodies against pathogens"
+    },
+    {
+      "question": "How does the microbiome affect adaptive immunity?",
+      "choices": [
+        "It has no effect on adaptive immunity",
+        "It only influences B cell development",
+        "It shapes T cell differentiation and influences B cell development and antibody production",
+        "It suppresses all adaptive immune responses"
+      ],
+      "answer": "It shapes T cell differentiation and influences B cell development and antibody production"
+    },
+    {
+      "question": "What is dysbiosis?",
+      "choices": [
+        "The normal, healthy state of the microbiome",
+        "An imbalance in the microbiome composition",
+        "The process of acquiring new microbes",
+        "The complete absence of microbes in the gut"
+      ],
+      "answer": "An imbalance in the microbiome composition"
+    },
+    {
+      "question": "Which of the following is an example of a microbiome-based therapy for infectious diseases?",
+      "choices": [
+        "Antibiotics",
+        "Vaccines",
+        "Fecal microbiota transplantation",
+        "Pain relievers"
+      ],
+      "answer": "Fecal microbiota transplantation"
+    },
+    {
+      "question": "How might the lung microbiome be relevant to tuberculosis in Timor-Leste?",
+      "choices": [
+        "It has no relevance to tuberculosis",
+        "Certain lung microbiota may have potential protective effects against TB",
+        "The lung microbiome always prevents TB infection",
+        "TB bacteria are a normal part of the lung microbiome"
+      ],
+      "answer": "Certain lung microbiota may have potential protective effects against TB"
+    },
+    {
+      "question": "What is the relationship between malaria and the gut microbiome?",
+      "choices": [
+        "Malaria has no interaction with the gut microbiome",
+        "The gut microbiome can influence malaria severity and transmission",
+        "Malaria parasites are part of the normal gut microbiome",
+        "The gut microbiome always prevents malaria infection"
+      ],
+      "answer": "The gut microbiome can influence malaria severity and transmission"
+    },
+    {
+      "question": "How do soil-transmitted helminths interact with the gut microbiome?",
+      "choices": [
+        "They have no interaction with the gut microbiome",
+        "Helminth infections can alter the composition of the gut microbiome",
+        "Helminths are a normal part of the gut microbiome",
+        "The gut microbiome always prevents helminth infections"
+      ],
+      "answer": "Helminth infections can alter the composition of the gut microbiome"
+    },
+    {
+      "question": "What is the primary function of colonization resistance?",
+      "choices": [
+        "To resist the colonization of any new microbes",
+        "To prevent the establishment and growth of pathogenic microbes",
+        "To resist the effects of antibiotics",
+        "To colonize the gut with beneficial bacteria"
+      ],
+      "answer": "To prevent the establishment and growth of pathogenic microbes"
+    },
+    {
+      "question": "Which of the following is NOT a mechanism of colonization resistance?",
+      "choices": [
+        "Competition for nutrients",
+        "Competition for attachment sites",
+        "Production of antimicrobial compounds",
+        "Suppression of the host immune system"
+      ],
+      "answer": "Suppression of the host immune system"
+    },
+    {
+      "question": "How does breastfeeding influence an infant's microbiome?",
+      "choices": [
+        "It has no effect on the microbiome",
+        "It introduces harmful bacteria to the infant",
+        "It provides essential microbes and nutrients for immune development",
+        "It completely determines the child's lifelong microbiome composition"
+      ],
+      "answer": "It provides essential microbes and nutrients for immune development"
+    },
+    {
+      "question": "What is the role of microbial exposure in early life?",
+      "choices": [
+        "It should be avoided to prevent infections",
+        "It trains the immune system to distinguish between harmful and beneficial microbes",
+        "It has no significant impact on health",
+        "It only affects the skin microbiome"
+      ],
+      "answer": "It trains the immune system to distinguish between harmful and beneficial microbes"
+    },
+    {
+      "question": "How might high rates of home births in rural Timor-Leste impact infant microbiome development?",
+      "choices": [
+        "It has no impact on microbiome development",
+        "It may lead to less diverse initial microbial colonization",
+        "It always results in a healthier microbiome",
+        "It only affects the mother's microbiome, not the infant's"
+      ],
+      "answer": "It may lead to less diverse initial microbial colonization"
+    },
+    {
+      "question": "What is a potential consequence of disrupted microbiome development in early life?",
+      "choices": [
+        "Enhanced immune function",
+        "Increased risk of allergies or autoimmune disorders",
+        "Improved colonization resistance",
+        "Better ability to fight off all pathogens"
+      ],
+      "answer": "Increased risk of allergies or autoimmune disorders"
+    },
+    {
+      "question": "How might limited access to antibiotics in parts of Timor-Leste affect the population's microbiome?",
+      "choices": [
+        "It would have no effect on the microbiome",
+        "It might result in a less diverse microbiome",
+        "It could lead to a more diverse and resilient microbiome",
+        "It would cause immediate health problems"
+      ],
+      "answer": "It could lead to a more diverse and resilient microbiome"
+    },
+    {
+      "question": "What is a potential benefit of traditional fermented foods in Timor-Leste?",
+      "choices": [
+        "They have no effect on health",
+        "They may contribute beneficial microbes to the gut microbiome",
+        "They always cause digestive problems",
+        "They eliminate all harmful bacteria in the gut"
+      ],
+      "answer": "They may contribute beneficial microbes to the gut microbiome"
+    },
+    {
+      "question": "How might education about the microbiome-immune system relationship be effectively delivered in Timor-Leste?",
+      "choices": [
+        "Through complex scientific papers",
+        "It's not possible to educate about this topic in Timor-Leste",
+        "Using culturally appropriate, simple messages in local languages",
+        "Only through formal school curricula"
+      ],
+      "answer": "Using culturally appropriate, simple messages in local languages"
+    },
+    {
+      "question": "What is a potential ethical consideration when proposing microbiome-based interventions in Timor-Leste?",
+      "choices": [
+        "There are no ethical considerations",
+        "Respect for local cultural practices and beliefs about health",
+        "Ignoring local health authorities",
+        "Implementing all interventions without community consultation"
+      ],
+      "answer": "Respect for local cultural practices and beliefs about health"
+    },
+    {
+      "question": "How might traditional medicine practices in Timor-Leste interact with the microbiome?",
+      "choices": [
+        "They have no interaction with the microbiome",
+        "They always harm the microbiome",
+        "They could potentially influence microbiome composition and function",
+        "They completely replace the need for a healthy microbiome"
+      ],
+      "answer": "They could potentially influence microbiome composition and function"
+    },
+    {
+      "question": "What is a potential application of microbiome science in addressing soil-transmitted helminth infections in Timor-Leste?",
+      "choices": [
+        "Ignoring the microbiome entirely in treatment approaches",
+        "Using antibiotics to eliminate all gut microbes",
+        "Developing probiotic interventions to enhance anti-helminth immunity",
+        "Avoiding all interventions related to the microbiome"
+      ],
+      "answer": "Developing probiotic interventions to enhance anti-helminth immunity"
+    },
+    {
+      "question": "How might urbanization in Timor-Leste impact population microbiome composition?",
+      "choices": [
+        "It would have no effect on the microbiome",
+        "It might lead to reduced microbial diversity due to changes in lifestyle and environment",
+        "It would always improve microbiome health",
+        "It only affects the skin microbiome"
+      ],
+      "answer": "It might lead to reduced microbial diversity due to changes in lifestyle and environment"
+    },
+    {
+      "question": "What role could microbiome research play in addressing malnutrition in Timor-Leste?",
+      "choices": [
+        "It has no relevance to malnutrition",
+        "It could inform the development of microbiome-based therapies to improve nutrient absorption",
+        "It would replace the need for proper nutrition",
+        "It only applies to obesity, not malnutrition"
+      ],
+      "answer": "It could inform the development of microbiome-based therapies to improve nutrient absorption"
+    },
+    {
+      "question": "How might improved sanitation practices in Timor-Leste affect the population's microbiome?",
+      "choices": [
+        "They would have no effect on the microbiome",
+        "They might reduce exposure to diverse environmental microbes",
+        "They would always improve microbiome health",
+        "They only affect the skin microbiome"
+      ],
+      "answer": "They might reduce exposure to diverse environmental microbes"
+    }
+  ]
+}

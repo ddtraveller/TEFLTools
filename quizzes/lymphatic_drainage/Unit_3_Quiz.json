@@ -1,0 +1,305 @@
+{
+  "title": "MLD for Upper Body",
+  "questions": [
+    {
+      "question": "What is the primary goal of Manual Lymphatic Drainage (MLD) for the upper body?",
+      "choices": [
+        "To increase muscle strength",
+        "To encourage natural drainage of lymph",
+        "To break down scar tissue",
+        "To improve blood circulation"
+      ],
+      "answer": "To encourage natural drainage of lymph"
+    },
+    {
+      "question": "Which of the following is NOT a major lymph node group in the upper body?",
+      "choices": [
+        "Cervical nodes",
+        "Supraclavicular nodes",
+        "Axillary nodes",
+        "Popliteal nodes"
+      ],
+      "answer": "Popliteal nodes"
+    },
+    {
+      "question": "What is the correct sequence for MLD in the upper body?",
+      "choices": [
+        "Start with the hands, then move to the arms, shoulders, and neck",
+        "Begin with the neck, then shoulders, arms, and hands",
+        "Start with the shoulders, then neck, arms, and hands",
+        "Begin with the arms, then hands, shoulders, and neck"
+      ],
+      "answer": "Begin with the neck, then shoulders, arms, and hands"
+    },
+    {
+      "question": "How is the pressure applied in MLD described?",
+      "choices": [
+        "As deep as a deep tissue massage",
+        "As light as the weight of a coin on the skin",
+        "Firm enough to cause slight discomfort",
+        "Varying between light and deep pressure"
+      ],
+      "answer": "As light as the weight of a coin on the skin"
+    },
+    {
+      "question": "What is a key principle of MLD technique?",
+      "choices": [
+        "Applying deep pressure to stimulate lymph flow",
+        "Using hot stones to relax muscles",
+        "Clearing proximal areas before working on distal regions",
+        "Focusing solely on areas of visible swelling"
+      ],
+      "answer": "Clearing proximal areas before working on distal regions"
+    },
+    {
+      "question": "Which of the following is a cultural consideration when performing MLD in Timor-Leste?",
+      "choices": [
+        "Encouraging patients to wear Western-style clothing",
+        "Ignoring traditional beliefs about health and healing",
+        "Respecting modesty concerns and using appropriate draping techniques",
+        "Insisting on removing all clothing for treatment"
+      ],
+      "answer": "Respecting modesty concerns and using appropriate draping techniques"
+    },
+    {
+      "question": "What type of motions are typically used in MLD for the neck area?",
+      "choices": [
+        "Rapid, percussive tapping",
+        "Deep, kneading movements",
+        "Gentle, circular motions",
+        "Strong, linear strokes"
+      ],
+      "answer": "Gentle, circular motions"
+    },
+    {
+      "question": "When performing MLD on the arm, where does the therapist typically start?",
+      "choices": [
+        "At the fingertips",
+        "At the wrist",
+        "At the elbow",
+        "At the upper arm"
+      ],
+      "answer": "At the upper arm"
+    },
+    {
+      "question": "What is the purpose of the 'preparatory strokes' in MLD?",
+      "choices": [
+        "To warm up the therapist's hands",
+        "To assess the patient's pain levels",
+        "To clear central lymph nodes and prepare them to receive fluid",
+        "To increase blood flow to the area"
+      ],
+      "answer": "To clear central lymph nodes and prepare them to receive fluid"
+    },
+    {
+      "question": "How should MLD techniques be adapted for patients in rural areas of Timor-Leste with limited resources?",
+      "choices": [
+        "Skip the treatment if a massage table is not available",
+        "Use only self-MLD techniques",
+        "Demonstrate how to perform MLD while seated or lying on a clean mat",
+        "Increase the pressure to compensate for lack of equipment"
+      ],
+      "answer": "Demonstrate how to perform MLD while seated or lying on a clean mat"
+    },
+    {
+      "question": "What is the Tetum term for 'lymph nodes'?",
+      "choices": [
+        "Liman-fuan",
+        "Nódulu linfátiku",
+        "Kakorok",
+        "Bubu"
+      ],
+      "answer": "Nódulu linfátiku"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit reported by patients receiving MLD for the upper body?",
+      "choices": [
+        "Reduced swelling",
+        "Improved skin condition",
+        "Increased muscle mass",
+        "General sense of relaxation"
+      ],
+      "answer": "Increased muscle mass"
+    },
+    {
+      "question": "How should a practitioner address a patient's belief that their swelling is caused by spirits?",
+      "choices": [
+        "Dismiss their beliefs as superstition",
+        "Refuse to treat them until they accept scientific explanations",
+        "Explain MLD in terms of helping the body's natural healing processes",
+        "Agree that spirits are the cause and claim MLD exorcises them"
+      ],
+      "answer": "Explain MLD in terms of helping the body's natural healing processes"
+    },
+    {
+      "question": "What is the correct approach when a patient is uncomfortable with direct skin contact during MLD?",
+      "choices": [
+        "Insist on direct skin contact for effective treatment",
+        "Cancel the treatment session",
+        "Use a thin, clean cloth between hands and the patient's skin",
+        "Apply more pressure to work through clothing"
+      ],
+      "answer": "Use a thin, clean cloth between hands and the patient's skin"
+    },
+    {
+      "question": "Which area is treated first in the MLD sequence for the arm?",
+      "choices": [
+        "Hand",
+        "Forearm",
+        "Elbow",
+        "Upper arm"
+      ],
+      "answer": "Upper arm"
+    },
+    {
+      "question": "What type of strokes are used for hand drainage in MLD?",
+      "choices": [
+        "Deep, penetrating strokes",
+        "Quick, chopping motions",
+        "Light strokes from fingertips to wrist",
+        "Vigorous shaking of the hand"
+      ],
+      "answer": "Light strokes from fingertips to wrist"
+    },
+    {
+      "question": "How should gender sensitivities be addressed when performing MLD in Timor-Leste?",
+      "choices": [
+        "Ignore gender preferences entirely",
+        "Only allow same-gender treatments",
+        "Prefer same-gender practitioners when possible and offer chaperones",
+        "Require all patients to bring a family member of the opposite gender"
+      ],
+      "answer": "Prefer same-gender practitioners when possible and offer chaperones"
+    },
+    {
+      "question": "What is the primary focus when performing MLD on the chest and breast areas?",
+      "choices": [
+        "Using deep pressure to break up fatty tissue",
+        "Applying hot compresses to increase circulation",
+        "Guiding fluid towards the armpit lymph nodes",
+        "Focusing on cosmetic enhancement"
+      ],
+      "answer": "Guiding fluid towards the armpit lymph nodes"
+    },
+    {
+      "question": "Which of the following is a key difference between MLD and traditional massage?",
+      "choices": [
+        "MLD uses deeper pressure",
+        "MLD focuses on muscle relaxation",
+        "MLD follows specific drainage pathways",
+        "MLD is always performed with oil"
+      ],
+      "answer": "MLD follows specific drainage pathways"
+    },
+    {
+      "question": "What is the recommended approach for teaching patients about MLD in Timor-Leste?",
+      "choices": [
+        "Use complex medical terminology to sound authoritative",
+        "Provide handouts in English only",
+        "Use simple language and provide explanations in Tetum",
+        "Avoid any explanations and just demonstrate the technique"
+      ],
+      "answer": "Use simple language and provide explanations in Tetum"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a patient education script for MLD?",
+      "choices": [
+        "Explanation of what MLD is and how it helps",
+        "Overview of what to expect during treatment",
+        "Reassurances about the gentleness of the treatment",
+        "Detailed anatomical descriptions of lymph node locations"
+      ],
+      "answer": "Detailed anatomical descriptions of lymph node locations"
+    },
+    {
+      "question": "What is the purpose of role-playing patient education in Tetum during the course?",
+      "choices": [
+        "To entertain the class",
+        "To practice language skills unrelated to MLD",
+        "To prepare students for explaining MLD to Timorese patients",
+        "To assess students' acting abilities"
+      ],
+      "answer": "To prepare students for explaining MLD to Timorese patients"
+    },
+    {
+      "question": "How should MLD techniques be modified for patients with different comfort levels?",
+      "choices": [
+        "Ignore patient comfort and proceed with standard techniques",
+        "Discontinue treatment if any discomfort is expressed",
+        "Adapt techniques based on patient feedback and cultural considerations",
+        "Increase pressure until the patient becomes comfortable"
+      ],
+      "answer": "Adapt techniques based on patient feedback and cultural considerations"
+    },
+    {
+      "question": "What is the primary purpose of creating a patient handout for MLD?",
+      "choices": [
+        "To replace in-person treatments",
+        "To demonstrate the therapist's artistic skills",
+        "To provide a reference for patients to review at home",
+        "To advertise additional services"
+      ],
+      "answer": "To provide a reference for patients to review at home"
+    },
+    {
+      "question": "Which of the following should be included in a patient handout for MLD?",
+      "choices": [
+        "Complex medical diagrams",
+        "Pricing information for future sessions",
+        "Simple drawings and step-by-step instructions",
+        "The therapist's personal contact information"
+      ],
+      "answer": "Simple drawings and step-by-step instructions"
+    },
+    {
+      "question": "What is the recommended approach for integrating MLD with traditional Timorese healing practices?",
+      "choices": [
+        "Completely replace traditional practices with MLD",
+        "Ignore traditional practices and focus solely on MLD",
+        "Suggest MLD as a complement to traditional healing methods",
+        "Criticize traditional practices as ineffective"
+      ],
+      "answer": "Suggest MLD as a complement to traditional healing methods"
+    },
+    {
+      "question": "How should a practitioner respond if a patient expresses skepticism about MLD?",
+      "choices": [
+        "Dismiss their concerns and proceed with treatment",
+        "Refuse to treat skeptical patients",
+        "Explain the principles of MLD and offer to demonstrate its gentleness",
+        "Insist that the patient must believe in MLD for it to work"
+      ],
+      "answer": "Explain the principles of MLD and offer to demonstrate its gentleness"
+    },
+    {
+      "question": "What is the primary consideration when adapting MLD techniques for use in resource-limited settings?",
+      "choices": [
+        "Skipping essential steps to save time",
+        "Using improvised tools to mimic expensive equipment",
+        "Maintaining the core principles of MLD while adapting to available resources",
+        "Focusing only on areas that can be treated with available equipment"
+      ],
+      "answer": "Maintaining the core principles of MLD while adapting to available resources"
+    },
+    {
+      "question": "Which of the following is a key component of the practical experience in this course?",
+      "choices": [
+        "Performing MLD on mannequins only",
+        "Observing videos of MLD techniques",
+        "Supervised practice sessions in local health clinics",
+        "Writing essays about MLD theory"
+      ],
+      "answer": "Supervised practice sessions in local health clinics"
+    },
+    {
+      "question": "What is the purpose of the reflection assignment after practicing MLD on a family member or friend?",
+      "choices": [
+        "To critique family members' health habits",
+        "To identify challenges and cultural adaptations needed for MLD in the community",
+        "To recruit new patients for the clinic",
+        "To compare MLD with other massage techniques"
+      ],
+      "answer": "To identify challenges and cultural adaptations needed for MLD in the community"
+    }
+  ]
+}

@@ -27,7 +27,7 @@ For practical application:
 
 ## Kursu Prinsipal sira / Key Courses
 
-Repo ne'e iha kursu individuál liu 30. This repo contains over 30 individual courses.
+Repo ne'e iha kursu individuál liu 40. This repo contains over 40 individual courses.
 
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
@@ -94,6 +94,9 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 
 19. **Aramaiku Jesus no Timor Leste / Aramaic Jesus and Timor Leste**
     - This course explores the native tongue of Jesus, Aramaic, its use in his teachings and its relevance to Timor-Leste's cultural and spiritual context.
+
+20. **Mikrobioma /The Microbiome **
+    - This course explores the human microbiome and its impact on health, with a focus on applications in Timor-Leste. Students will learn about the diverse microbial communities inhabiting the human body, their roles in health and disease, and how environmental and cultural factors in Timor-Leste influence the microbiome. The course aims to provide a foundation for understanding microbiome research and its potential applications in improving public health in Timor-Leste.
     
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 

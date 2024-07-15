@@ -1,0 +1,305 @@
+{
+  "title": "Microbiome-Based Interventions and Therapies",
+  "questions": [
+    {
+      "question": "What are probiotics?",
+      "choices": [
+        "Harmful bacteria that cause disease",
+        "Live microorganisms that confer health benefits when consumed",
+        "Chemicals that kill bacteria in the gut",
+        "Non-digestible food ingredients that promote bacterial growth"
+      ],
+      "answer": "Live microorganisms that confer health benefits when consumed"
+    },
+    {
+      "question": "Which of the following is NOT a common probiotic strain?",
+      "choices": [
+        "Lactobacillus acidophilus",
+        "Bifidobacterium bifidum",
+        "Escherichia coli",
+        "Saccharomyces boulardii"
+      ],
+      "answer": "Escherichia coli"
+    },
+    {
+      "question": "What are prebiotics?",
+      "choices": [
+        "Live bacteria in supplements",
+        "Antibiotics that target specific pathogens",
+        "Non-digestible food ingredients that promote growth of beneficial gut bacteria",
+        "Chemicals that stimulate immune response"
+      ],
+      "answer": "Non-digestible food ingredients that promote growth of beneficial gut bacteria"
+    },
+    {
+      "question": "Which of the following is a prebiotic fiber?",
+      "choices": [
+        "Lactose",
+        "Sucrose",
+        "Inulin",
+        "Glucose"
+      ],
+      "answer": "Inulin"
+    },
+    {
+      "question": "What is the primary use of fecal microbiota transplantation (FMT)?",
+      "choices": [
+        "Treatment of obesity",
+        "Cure for cancer",
+        "Treatment of recurrent Clostridioides difficile infections",
+        "Improving athletic performance"
+      ],
+      "answer": "Treatment of recurrent Clostridioides difficile infections"
+    },
+    {
+      "question": "Which of the following is NOT a potential risk of FMT?",
+      "choices": [
+        "Transmission of pathogens",
+        "Long-term effects on recipient's microbiome",
+        "Guaranteed weight loss",
+        "Donor privacy issues"
+      ],
+      "answer": "Guaranteed weight loss"
+    },
+    {
+      "question": "What is a synbiotic?",
+      "choices": [
+        "A type of antibiotic",
+        "A combination of probiotics and prebiotics",
+        "A genetically engineered microorganism",
+        "A type of gut bacteria"
+      ],
+      "answer": "A combination of probiotics and prebiotics"
+    },
+    {
+      "question": "What is the concept behind microbiome-friendly medications?",
+      "choices": [
+        "Medications that kill all bacteria in the gut",
+        "Drugs designed to minimize disruption to beneficial microbiota",
+        "Antibiotics that target human cells",
+        "Medications that increase inflammation in the gut"
+      ],
+      "answer": "Drugs designed to minimize disruption to beneficial microbiota"
+    },
+    {
+      "question": "Which of the following is an example of a microbiome-friendly medication approach?",
+      "choices": [
+        "Broad-spectrum antibiotics",
+        "Chemotherapy drugs",
+        "Narrow-spectrum antibiotics",
+        "Steroids"
+      ],
+      "answer": "Narrow-spectrum antibiotics"
+    },
+    {
+      "question": "What is the purpose of using beta-lactamase enzymes alongside antibiotics?",
+      "choices": [
+        "To increase the potency of antibiotics",
+        "To degrade antibiotics in the gut, preserving beneficial bacteria",
+        "To stimulate the growth of harmful bacteria",
+        "To improve the taste of antibiotics"
+      ],
+      "answer": "To degrade antibiotics in the gut, preserving beneficial bacteria"
+    },
+    {
+      "question": "Which of the following is NOT a potential benefit of probiotics?",
+      "choices": [
+        "Improved digestive health",
+        "Enhanced immune function",
+        "Guaranteed prevention of all diseases",
+        "Reduced risk of certain infections"
+      ],
+      "answer": "Guaranteed prevention of all diseases"
+    },
+    {
+      "question": "What is a challenge in developing microbiome-based interventions?",
+      "choices": [
+        "The simplicity of the human microbiome",
+        "The uniformity of microbiomes across all individuals",
+        "The complexity and individuality of the human microbiome",
+        "The lack of interest from the scientific community"
+      ],
+      "answer": "The complexity and individuality of the human microbiome"
+    },
+    {
+      "question": "Which of the following is a potential application of FMT currently being researched?",
+      "choices": [
+        "Treatment of bone fractures",
+        "Cure for baldness",
+        "Management of inflammatory bowel diseases",
+        "Improvement of eyesight"
+      ],
+      "answer": "Management of inflammatory bowel diseases"
+    },
+    {
+      "question": "What is the primary function of prebiotics in the gut?",
+      "choices": [
+        "To directly kill harmful bacteria",
+        "To provide nutrients for beneficial bacteria",
+        "To reduce gut motility",
+        "To increase stomach acid production"
+      ],
+      "answer": "To provide nutrients for beneficial bacteria"
+    },
+    {
+      "question": "Which of the following is NOT a common method of administering FMT?",
+      "choices": [
+        "Colonoscopy",
+        "Enema",
+        "Nasogastric tube",
+        "Intravenous injection"
+      ],
+      "answer": "Intravenous injection"
+    },
+    {
+      "question": "What is a potential long-term implication of introducing microbiome-based interventions in a population?",
+      "choices": [
+        "Guaranteed improvement in all health outcomes",
+        "No effect on the population's health",
+        "Possible changes in the baseline microbiome composition of the population",
+        "Immediate eradication of all diseases"
+      ],
+      "answer": "Possible changes in the baseline microbiome composition of the population"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when evaluating the feasibility of microbiome interventions in Timor-Leste?",
+      "choices": [
+        "Cultural acceptability",
+        "Infrastructure and resources",
+        "Global stock market trends",
+        "Integration with existing healthcare systems"
+      ],
+      "answer": "Global stock market trends"
+    },
+    {
+      "question": "What is a potential challenge in implementing FMT in resource-limited settings like Timor-Leste?",
+      "choices": [
+        "Excess of medical facilities",
+        "Too many trained personnel",
+        "Limited access to advanced medical technologies",
+        "Overabundance of potential donors"
+      ],
+      "answer": "Limited access to advanced medical technologies"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese food with potential probiotic properties?",
+      "choices": [
+        "Pizza",
+        "Hamburger",
+        "Tukir (fermented fish)",
+        "Ice cream"
+      ],
+      "answer": "Tukir (fermented fish)"
+    },
+    {
+      "question": "What is an important ethical consideration when conducting microbiome research in Timor-Leste?",
+      "choices": [
+        "Ignoring local cultural beliefs",
+        "Maximizing profit for pharmaceutical companies",
+        "Respecting local cultural practices and beliefs",
+        "Conducting research without informed consent"
+      ],
+      "answer": "Respecting local cultural practices and beliefs"
+    },
+    {
+      "question": "Which of the following is NOT a potential benefit of developing locally-sourced probiotics in Timor-Leste?",
+      "choices": [
+        "Improved cultural acceptability",
+        "Lower production costs",
+        "Better adaptation to local gut microbiomes",
+        "Guaranteed cure for all local diseases"
+      ],
+      "answer": "Guaranteed cure for all local diseases"
+    },
+    {
+      "question": "What is a potential challenge in educating the public in Timor-Leste about microbiome-based therapies?",
+      "choices": [
+        "Lack of interest in health topics",
+        "Limited access to educational resources",
+        "Too much existing knowledge about the microbiome",
+        "Overabundance of microbiome experts"
+      ],
+      "answer": "Limited access to educational resources"
+    },
+    {
+      "question": "Which of the following is a key factor in designing a culturally appropriate probiotic food for Timor-Leste?",
+      "choices": [
+        "Using only imported ingredients",
+        "Ignoring local taste preferences",
+        "Considering local availability of ingredients",
+        "Making it as expensive as possible"
+      ],
+      "answer": "Considering local availability of ingredients"
+    },
+    {
+      "question": "What is a potential benefit of integrating traditional fermented foods into public health strategies in Timor-Leste?",
+      "choices": [
+        "Eliminating all traditional practices",
+        "Increasing dependence on imported foods",
+        "Promoting cultural preservation while improving gut health",
+        "Reducing dietary diversity"
+      ],
+      "answer": "Promoting cultural preservation while improving gut health"
+    },
+    {
+      "question": "Which of the following is NOT a potential application of personalized microbiome interventions?",
+      "choices": [
+        "Custom-designed probiotics",
+        "Personalized dietary recommendations",
+        "Targeted FMT procedures",
+        "Guaranteed personality changes"
+      ],
+      "answer": "Guaranteed personality changes"
+    },
+    {
+      "question": "What is a key challenge in developing microbiome-friendly medications?",
+      "choices": [
+        "Making medications that kill all bacteria",
+        "Ensuring effectiveness while minimizing disruption to beneficial microbiota",
+        "Developing medications that only work in the short term",
+        "Creating drugs that increase antibiotic resistance"
+      ],
+      "answer": "Ensuring effectiveness while minimizing disruption to beneficial microbiota"
+    },
+    {
+      "question": "Which of the following is a potential risk of unregulated probiotic use?",
+      "choices": [
+        "Guaranteed health improvements",
+        "Possible introduction of harmful bacteria",
+        "Immediate cure for all diseases",
+        "Elimination of all gut bacteria"
+      ],
+      "answer": "Possible introduction of harmful bacteria"
+    },
+    {
+      "question": "What is an important consideration when partnering with local farmers to explore traditional fermented foods in Timor-Leste?",
+      "choices": [
+        "Ignoring traditional production methods",
+        "Replacing all local foods with imported products",
+        "Respecting and preserving traditional knowledge",
+        "Focusing only on non-fermented foods"
+      ],
+      "answer": "Respecting and preserving traditional knowledge"
+    },
+    {
+      "question": "Which of the following is NOT a potential benefit of microbiome research in Timor-Leste?",
+      "choices": [
+        "Improved understanding of local health challenges",
+        "Development of culturally appropriate interventions",
+        "Guaranteed economic prosperity",
+        "Potential for new public health strategies"
+      ],
+      "answer": "Guaranteed economic prosperity"
+    },
+    {
+      "question": "What is a key consideration when collecting microbiome samples in Timor-Leste?",
+      "choices": [
+        "Ignoring privacy concerns",
+        "Collecting samples without consent",
+        "Ensuring proper informed consent and privacy protection",
+        "Focusing only on urban populations"
+      ],
+      "answer": "Ensuring proper informed consent and privacy protection"
+    }
+  ]
+}

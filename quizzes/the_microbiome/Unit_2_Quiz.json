@@ -1,0 +1,295 @@
+{
+  "title": "Microbiome Research Techniques",
+  "questions": [
+    {
+      "question": "What is the primary purpose of 16S rRNA gene sequencing in microbiome research?",
+      "choices": [
+        "To identify and classify bacteria in a sample",
+        "To determine the functional capabilities of microbes",
+        "To sequence entire microbial genomes",
+        "To detect viruses in a sample"
+      ],
+      "answer": "To identify and classify bacteria in a sample"
+    },
+    {
+      "question": "Which of the following is a limitation of 16S rRNA gene sequencing?",
+      "choices": [
+        "It cannot provide functional information",
+        "It is too expensive for large-scale studies",
+        "It cannot identify bacteria",
+        "It requires specialized equipment not available in most labs"
+      ],
+      "answer": "It cannot provide functional information"
+    },
+    {
+      "question": "What is an advantage of whole-genome shotgun metagenomic sequencing over 16S rRNA sequencing?",
+      "choices": [
+        "It provides both taxonomic and functional information",
+        "It is less expensive",
+        "It requires less computational power",
+        "It is faster to perform"
+      ],
+      "answer": "It provides both taxonomic and functional information"
+    },
+    {
+      "question": "What does OTU stand for in the context of microbiome research?",
+      "choices": [
+        "Operational Taxonomic Unit",
+        "Organism Tracking Utility",
+        "Optimal Taxonomic Uniformity",
+        "Organic Tissue Unification"
+      ],
+      "answer": "Operational Taxonomic Unit"
+    },
+    {
+      "question": "Which of the following is a common bioinformatics tool used for microbiome analysis?",
+      "choices": [
+        "QIIME",
+        "Photoshop",
+        "Excel",
+        "BLAST"
+      ],
+      "answer": "QIIME"
+    },
+    {
+      "question": "What is the first step in the 16S rRNA gene sequencing process?",
+      "choices": [
+        "DNA extraction from sample",
+        "PCR amplification",
+        "Bioinformatic analysis",
+        "Sequencing of amplified products"
+      ],
+      "answer": "DNA extraction from sample"
+    },
+    {
+      "question": "Which of the following is NOT a step in the basic microbiome data analysis workflow?",
+      "choices": [
+        "Protein crystallization",
+        "Quality control and preprocessing",
+        "OTU clustering",
+        "Taxonomic assignment"
+      ],
+      "answer": "Protein crystallization"
+    },
+    {
+      "question": "What is the approximate length of the 16S rRNA gene?",
+      "choices": [
+        "1,500 base pairs",
+        "500 base pairs",
+        "5,000 base pairs",
+        "10,000 base pairs"
+      ],
+      "answer": "1,500 base pairs"
+    },
+    {
+      "question": "Which sequencing method is more suitable for identifying novel genes and pathways in the microbiome?",
+      "choices": [
+        "Whole-genome shotgun metagenomic sequencing",
+        "16S rRNA gene sequencing",
+        "Sanger sequencing",
+        "RNA-seq"
+      ],
+      "answer": "Whole-genome shotgun metagenomic sequencing"
+    },
+    {
+      "question": "What does PCR stand for in the context of 16S rRNA sequencing?",
+      "choices": [
+        "Polymerase Chain Reaction",
+        "Protein Coding Region",
+        "Partial Chromosome Replication",
+        "Prokaryotic Cell Regulation"
+      ],
+      "answer": "Polymerase Chain Reaction"
+    },
+    {
+      "question": "Which of the following is NOT a common software package for microbiome analysis?",
+      "choices": [
+        "SPSS",
+        "QIIME",
+        "mothur",
+        "DADA2"
+      ],
+      "answer": "SPSS"
+    },
+    {
+      "question": "What is the main advantage of 16S rRNA gene sequencing for large-scale studies?",
+      "choices": [
+        "Cost-effectiveness",
+        "Higher resolution",
+        "Functional information",
+        "Viral detection"
+      ],
+      "answer": "Cost-effectiveness"
+    },
+    {
+      "question": "Which type of sequencing can provide strain-level identification of microbes?",
+      "choices": [
+        "Whole-genome shotgun metagenomic sequencing",
+        "16S rRNA gene sequencing",
+        "Amplicon sequencing",
+        "Sanger sequencing"
+      ],
+      "answer": "Whole-genome shotgun metagenomic sequencing"
+    },
+    {
+      "question": "What is the purpose of quality control in microbiome data analysis?",
+      "choices": [
+        "To remove low-quality sequences and contaminants",
+        "To increase the number of sequences",
+        "To identify rare species",
+        "To compare samples from different studies"
+      ],
+      "answer": "To remove low-quality sequences and contaminants"
+    },
+    {
+      "question": "Which of the following is a visualization tool for microbiome data?",
+      "choices": [
+        "Krona",
+        "BLAST",
+        "MEGA",
+        "Geneious"
+      ],
+      "answer": "Krona"
+    },
+    {
+      "question": "What does ASV stand for in microbiome analysis?",
+      "choices": [
+        "Amplicon Sequence Variant",
+        "Automated Sequence Verification",
+        "Average Sample Volume",
+        "Adjusted Sequence Value"
+      ],
+      "answer": "Amplicon Sequence Variant"
+    },
+    {
+      "question": "Which of the following is NOT a type of diversity analysis in microbiome studies?",
+      "choices": [
+        "Gamma diversity",
+        "Alpha diversity",
+        "Beta diversity",
+        "Phylogenetic diversity"
+      ],
+      "answer": "Gamma diversity"
+    },
+    {
+      "question": "What is the main challenge of implementing microbiome research techniques in a resource-limited setting like Timor-Leste?",
+      "choices": [
+        "Limited access to sequencing facilities and bioinformatics expertise",
+        "Lack of microbial diversity in the population",
+        "Absence of health issues related to the microbiome",
+        "Legal restrictions on microbiome research"
+      ],
+      "answer": "Limited access to sequencing facilities and bioinformatics expertise"
+    },
+    {
+      "question": "Which of the following is a potential application of microbiome research in Timor-Leste?",
+      "choices": [
+        "Studying the impact of traditional diets on gut health",
+        "Developing new computer algorithms",
+        "Exploring deep-sea microbial communities",
+        "Analyzing the microbiome of arctic animals"
+      ],
+      "answer": "Studying the impact of traditional diets on gut health"
+    },
+    {
+      "question": "What is a key ethical consideration when collecting microbiome samples in Timor-Leste?",
+      "choices": [
+        "Obtaining informed consent and respecting cultural sensitivities",
+        "Maximizing the number of samples collected",
+        "Prioritizing foreign researchers over local scientists",
+        "Focusing only on economically valuable microbes"
+      ],
+      "answer": "Obtaining informed consent and respecting cultural sensitivities"
+    },
+    {
+      "question": "Which of the following is NOT a step in the whole-genome shotgun metagenomic sequencing process?",
+      "choices": [
+        "PCR amplification of 16S rRNA gene",
+        "DNA extraction from sample",
+        "Fragmentation of DNA",
+        "Assembly and annotation of sequences"
+      ],
+      "answer": "PCR amplification of 16S rRNA gene"
+    },
+    {
+      "question": "What is the primary purpose of using primers in 16S rRNA gene sequencing?",
+      "choices": [
+        "To target and amplify specific regions of the 16S rRNA gene",
+        "To extract DNA from the sample",
+        "To assemble the sequenced fragments",
+        "To identify the functional genes in the microbiome"
+      ],
+      "answer": "To target and amplify specific regions of the 16S rRNA gene"
+    },
+    {
+      "question": "Which of the following best describes the relationship between 16S rRNA gene sequencing and whole-genome shotgun metagenomic sequencing?",
+      "choices": [
+        "They are complementary techniques often used together in microbiome research",
+        "They are mutually exclusive techniques that cannot be used in the same study",
+        "16S rRNA sequencing has completely replaced metagenomic sequencing",
+        "Metagenomic sequencing is always preferred over 16S rRNA sequencing"
+      ],
+      "answer": "They are complementary techniques often used together in microbiome research"
+    },
+    {
+      "question": "What type of information can be inferred from metagenomic sequencing data?",
+      "choices": [
+        "Metabolic pathways and functions of the microbial community",
+        "The exact number of bacterial cells in a sample",
+        "The age of the microbes in the sample",
+        "The host's genetic information"
+      ],
+      "answer": "Metabolic pathways and functions of the microbial community"
+    },
+    {
+      "question": "Which of the following is a potential challenge in analyzing metagenomic data?",
+      "choices": [
+        "High computational requirements",
+        "Limited genetic diversity in samples",
+        "Inability to detect bacterial species",
+        "Excessive simplicity of data"
+      ],
+      "answer": "High computational requirements"
+    },
+    {
+      "question": "What is the primary advantage of using 16S rRNA gene for bacterial identification?",
+      "choices": [
+        "It contains both conserved and variable regions",
+        "It is only found in pathogenic bacteria",
+        "It mutates rapidly",
+        "It is present in all living organisms"
+      ],
+      "answer": "It contains both conserved and variable regions"
+    },
+    {
+      "question": "Which of the following is NOT a typical application of microbiome research techniques?",
+      "choices": [
+        "Predicting weather patterns",
+        "Studying the impact of diet on gut health",
+        "Investigating the role of microbes in soil fertility",
+        "Exploring microbial communities in extreme environments"
+      ],
+      "answer": "Predicting weather patterns"
+    },
+    {
+      "question": "What is the main purpose of clustering sequences into OTUs in 16S rRNA analysis?",
+      "choices": [
+        "To group similar sequences that likely represent the same or similar bacterial species",
+        "To separate sequences from different samples",
+        "To identify human DNA contamination",
+        "To determine the total number of sequences in the dataset"
+      ],
+      "answer": "To group similar sequences that likely represent the same or similar bacterial species"
+    },
+    {
+      "question": "Which of the following is a key consideration when designing a microbiome study in Timor-Leste?",
+      "choices": [
+        "Relevance to local health issues and environmental conditions",
+        "Maximizing the use of expensive equipment",
+        "Focusing only on gut microbiome samples",
+        "Prioritizing research questions of interest to foreign researchers"
+      ],
+      "answer": "Relevance to local health issues and environmental conditions"
+    }
+  ]
+}

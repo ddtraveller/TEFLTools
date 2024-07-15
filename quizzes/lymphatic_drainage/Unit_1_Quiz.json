@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to the Lymphatic System",
+  "questions": [
+    {
+      "question": "What is the primary fluid that circulates through the lymphatic system?",
+      "choices": [
+        "Blood",
+        "Lymph",
+        "Plasma",
+        "Interstitial fluid"
+      ],
+      "answer": "Lymph"
+    },
+    {
+      "question": "Which of the following is NOT a major component of the lymphatic system?",
+      "choices": [
+        "Lymph nodes",
+        "Lymph vessels",
+        "Lymphoid organs",
+        "Lymphatic arteries"
+      ],
+      "answer": "Lymphatic arteries"
+    },
+    {
+      "question": "What is the main function of lymph nodes?",
+      "choices": [
+        "Produce red blood cells",
+        "Filter lymph and contain immune cells",
+        "Regulate blood pressure",
+        "Produce hormones"
+      ],
+      "answer": "Filter lymph and contain immune cells"
+    },
+    {
+      "question": "Which of the following is NOT a lymphoid organ?",
+      "choices": [
+        "Spleen",
+        "Thymus",
+        "Tonsils",
+        "Liver"
+      ],
+      "answer": "Liver"
+    },
+    {
+      "question": "What is the primary role of the lymphatic system in fluid balance?",
+      "choices": [
+        "Produce interstitial fluid",
+        "Collect excess interstitial fluid from tissues",
+        "Increase blood volume",
+        "Regulate urine production"
+      ],
+      "answer": "Collect excess interstitial fluid from tissues"
+    },
+    {
+      "question": "Which of the following is a function of the lymphatic system?",
+      "choices": [
+        "Oxygenation of blood",
+        "Production of red blood cells",
+        "Fat absorption",
+        "Regulation of body temperature"
+      ],
+      "answer": "Fat absorption"
+    },
+    {
+      "question": "What type of nutrients are primarily absorbed by the lymphatic system in the digestive tract?",
+      "choices": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats and fat-soluble vitamins",
+        "Water-soluble vitamins"
+      ],
+      "answer": "Fats and fat-soluble vitamins"
+    },
+    {
+      "question": "Which of the following is a common lymphatic disorder in Timor-Leste?",
+      "choices": [
+        "Lymphoma",
+        "Lymphatic filariasis",
+        "Lymphangioma",
+        "Lymphocytosis"
+      ],
+      "answer": "Lymphatic filariasis"
+    },
+    {
+      "question": "What is lymphedema?",
+      "choices": [
+        "Inflammation of lymph nodes",
+        "Chronic swelling caused by accumulation of lymph in tissues",
+        "Blockage of lymphatic vessels by tumors",
+        "Overproduction of lymphocytes"
+      ],
+      "answer": "Chronic swelling caused by accumulation of lymph in tissues"
+    },
+    {
+      "question": "How is lymphatic filariasis transmitted?",
+      "choices": [
+        "Through contaminated water",
+        "By mosquito bites",
+        "Through direct contact with infected individuals",
+        "By ingesting contaminated food"
+      ],
+      "answer": "By mosquito bites"
+    },
+    {
+      "question": "What is the term for the fluid found between cells in tissues?",
+      "choices": [
+        "Plasma",
+        "Lymph",
+        "Interstitial fluid",
+        "Cerebrospinal fluid"
+      ],
+      "answer": "Interstitial fluid"
+    },
+    {
+      "question": "Which of the following is a potential cause of post-surgical swelling?",
+      "choices": [
+        "Increased blood flow",
+        "Disruption of lymphatic vessels",
+        "Improved immune response",
+        "Enhanced fat absorption"
+      ],
+      "answer": "Disruption of lymphatic vessels"
+    },
+    {
+      "question": "What is the primary function of the spleen in the lymphatic system?",
+      "choices": [
+        "Produce lymph",
+        "Filter blood and store platelets",
+        "Generate new lymphatic vessels",
+        "Regulate body temperature"
+      ],
+      "answer": "Filter blood and store platelets"
+    },
+    {
+      "question": "Which of the following best describes the relationship between the lymphatic and circulatory systems?",
+      "choices": [
+        "They are completely separate systems",
+        "The lymphatic system is a subsystem of the circulatory system",
+        "They run parallel to each other and interact",
+        "The circulatory system is part of the lymphatic system"
+      ],
+      "answer": "They run parallel to each other and interact"
+    },
+    {
+      "question": "What is the role of the thymus in the lymphatic system?",
+      "choices": [
+        "Produce red blood cells",
+        "Filter lymph",
+        "Mature T lymphocytes",
+        "Store excess lymph"
+      ],
+      "answer": "Mature T lymphocytes"
+    },
+    {
+      "question": "Which of the following is NOT a typical location for clusters of lymph nodes?",
+      "choices": [
+        "Neck",
+        "Armpits",
+        "Groin",
+        "Knees"
+      ],
+      "answer": "Knees"
+    },
+    {
+      "question": "What is the primary function of lymphocytes in the lymphatic system?",
+      "choices": [
+        "Clot blood",
+        "Fight infections",
+        "Produce hormones",
+        "Digest fats"
+      ],
+      "answer": "Fight infections"
+    },
+    {
+      "question": "Which of the following is a characteristic of lymphatic vessels?",
+      "choices": [
+        "They have thick, muscular walls",
+        "They contain valves to prevent backflow",
+        "They carry oxygenated lymph",
+        "They are only found in the limbs"
+      ],
+      "answer": "They contain valves to prevent backflow"
+    },
+    {
+      "question": "What is the term for swelling caused by excess fluid trapped in body tissues?",
+      "choices": [
+        "Edema",
+        "Embolism",
+        "Eczema",
+        "Emphysema"
+      ],
+      "answer": "Edema"
+    },
+    {
+      "question": "Which of the following is NOT a typical symptom of lymphatic filariasis?",
+      "choices": [
+        "Swelling of limbs",
+        "Fever and chills",
+        "Skin thickening",
+        "Increased urination"
+      ],
+      "answer": "Increased urination"
+    },
+    {
+      "question": "What is the primary difference between primary and secondary lymphedema?",
+      "choices": [
+        "Primary affects only the upper body, secondary affects the lower body",
+        "Primary is caused by genetics, secondary by damage or infection",
+        "Primary is temporary, secondary is chronic",
+        "Primary affects children, secondary affects adults"
+      ],
+      "answer": "Primary is caused by genetics, secondary by damage or infection"
+    },
+    {
+      "question": "Which of the following best describes the movement of lymph through the body?",
+      "choices": [
+        "Rapid circulation driven by the heart",
+        "Slow movement aided by muscle contractions and body movements",
+        "Constant flow at a steady rate",
+        "Pulsatile flow controlled by lymphatic organs"
+      ],
+      "answer": "Slow movement aided by muscle contractions and body movements"
+    },
+    {
+      "question": "What is the primary function of the tonsils in the lymphatic system?",
+      "choices": [
+        "Produce saliva",
+        "Filter air entering the lungs",
+        "Trap and fight pathogens entering through the mouth and nose",
+        "Regulate hormone production"
+      ],
+      "answer": "Trap and fight pathogens entering through the mouth and nose"
+    },
+    {
+      "question": "Which of the following is a potential complication of untreated lymphedema?",
+      "choices": [
+        "Increased flexibility in affected limbs",
+        "Improved circulation",
+        "Recurrent infections and skin changes",
+        "Enhanced immune response"
+      ],
+      "answer": "Recurrent infections and skin changes"
+    },
+    {
+      "question": "What is the role of the lymphatic system in the body's immune defense?",
+      "choices": [
+        "It produces all types of blood cells",
+        "It generates antibodies and houses immune cells",
+        "It regulates body temperature to fight infections",
+        "It increases blood pressure to improve circulation"
+      ],
+      "answer": "It generates antibodies and houses immune cells"
+    },
+    {
+      "question": "Which of the following is NOT a typical cause of damage to the lymphatic system?",
+      "choices": [
+        "Surgery",
+        "Radiation therapy",
+        "Parasitic infections",
+        "Regular exercise"
+      ],
+      "answer": "Regular exercise"
+    },
+    {
+      "question": "What is the term for the specialized lymphatic vessels in the small intestine that absorb fats?",
+      "choices": [
+        "Villi",
+        "Lacteals",
+        "Microvilli",
+        "Lymphangions"
+      ],
+      "answer": "Lacteals"
+    },
+    {
+      "question": "Which of the following best describes the relationship between the lymphatic system and the concept of 'bad blood' in some traditional beliefs?",
+      "choices": [
+        "They are completely unrelated concepts",
+        "Bad blood directly causes lymphatic disorders",
+        "Both relate to the body's need for proper fluid balance and circulation",
+        "Bad blood is the scientific term for lymph"
+      ],
+      "answer": "Both relate to the body's need for proper fluid balance and circulation"
+    },
+    {
+      "question": "What is the primary challenge in explaining lymphatic disorders to patients in Timor-Leste?",
+      "choices": [
+        "Lack of lymphatic system disorders in the region",
+        "Absence of medical terminology in local languages",
+        "Potential conflicts with traditional beliefs and practices",
+        "Overabundance of lymphatic specialists in the area"
+      ],
+      "answer": "Potential conflicts with traditional beliefs and practices"
+    },
+    {
+      "question": "Which of the following is a key consideration when adapting lymphatic health education for Timor-Leste?",
+      "choices": [
+        "Ignoring local beliefs about health and illness",
+        "Using only English-language materials",
+        "Incorporating cultural sensitivity and local context",
+        "Focusing solely on Western medical practices"
+      ],
+      "answer": "Incorporating cultural sensitivity and local context"
+    }
+  ]
+}

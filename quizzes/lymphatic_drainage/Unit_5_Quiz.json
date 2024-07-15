@@ -1,0 +1,305 @@
+{
+  "title": "MLD for Specific Conditions",
+  "questions": [
+    {
+      "question": "What is the primary cause of post-surgical swelling?",
+      "choices": [
+        "Dehydration",
+        "Tissue trauma and disruption of lymphatic pathways",
+        "Excessive physical activity",
+        "Allergic reaction to anesthesia"
+      ],
+      "answer": "Tissue trauma and disruption of lymphatic pathways"
+    },
+    {
+      "question": "When performing MLD for post-surgical swelling, where should the treatment begin?",
+      "choices": [
+        "Directly on the surgical site",
+        "At the furthest point from the surgical site",
+        "With neck and trunk clearing",
+        "On the opposite side of the body"
+      ],
+      "answer": "With neck and trunk clearing"
+    },
+    {
+      "question": "What pressure should be used when performing MLD near a surgical site?",
+      "choices": [
+        "Very light pressure",
+        "Moderate pressure",
+        "Firm pressure",
+        "Deep tissue pressure"
+      ],
+      "answer": "Very light pressure"
+    },
+    {
+      "question": "What is chronic venous insufficiency?",
+      "choices": [
+        "A condition where arteries have difficulty supplying blood to the legs",
+        "A condition where veins have difficulty returning blood from the legs to the heart",
+        "A condition causing excessive blood flow to the legs",
+        "A condition resulting in complete blockage of leg veins"
+      ],
+      "answer": "A condition where veins have difficulty returning blood from the legs to the heart"
+    },
+    {
+      "question": "When performing MLD for chronic venous insufficiency, in what direction should the strokes primarily be applied?",
+      "choices": [
+        "Downward",
+        "Circular",
+        "Upward",
+        "Sideways"
+      ],
+      "answer": "Upward"
+    },
+    {
+      "question": "What is a common complication of untreated chronic venous insufficiency?",
+      "choices": [
+        "Bone fractures",
+        "Venous ulcers",
+        "Muscle atrophy",
+        "Joint dislocation"
+      ],
+      "answer": "Venous ulcers"
+    },
+    {
+      "question": "What causes lymphatic filariasis?",
+      "choices": [
+        "Bacterial infection",
+        "Viral infection",
+        "Parasitic worms",
+        "Fungal infection"
+      ],
+      "answer": "Parasitic worms"
+    },
+    {
+      "question": "What is a key consideration when performing MLD for lymphatic filariasis?",
+      "choices": [
+        "Using very firm pressure",
+        "Focusing only on the affected limb",
+        "Ensuring proper hygiene before and during treatment",
+        "Avoiding trunk clearing"
+      ],
+      "answer": "Ensuring proper hygiene before and during treatment"
+    },
+    {
+      "question": "What technique is often used when treating fibrotic tissue in lymphatic filariasis?",
+      "choices": [
+        "Deep tissue massage",
+        "Specialized MLD techniques for hardened tissue",
+        "Heat therapy",
+        "Ultrasound therapy"
+      ],
+      "answer": "Specialized MLD techniques for hardened tissue"
+    },
+    {
+      "question": "What is an important aspect of patient education for those with lymphatic filariasis?",
+      "choices": [
+        "Teaching high-impact exercises",
+        "Recommending a high-salt diet",
+        "Teaching self-MLD and hygiene practices",
+        "Encouraging prolonged periods of immobility"
+      ],
+      "answer": "Teaching self-MLD and hygiene practices"
+    },
+    {
+      "question": "What is a contraindication for MLD?",
+      "choices": [
+        "Mild edema",
+        "Recent surgery",
+        "Active infection",
+        "Chronic pain"
+      ],
+      "answer": "Active infection"
+    },
+    {
+      "question": "How should MLD be integrated with compression therapy for chronic venous insufficiency?",
+      "choices": [
+        "MLD should be performed after applying compression garments",
+        "MLD should be performed before applying compression garments",
+        "Compression therapy should not be used with MLD",
+        "MLD and compression therapy should be performed on alternate days"
+      ],
+      "answer": "MLD should be performed before applying compression garments"
+    },
+    {
+      "question": "What is the recommended approach when beginning MLD for a patient with post-surgical swelling?",
+      "choices": [
+        "Start with vigorous massage directly on the surgical site",
+        "Begin with gentle strokes far from the surgical site",
+        "Apply heat therapy before MLD",
+        "Use deep pressure to break up scar tissue"
+      ],
+      "answer": "Begin with gentle strokes far from the surgical site"
+    },
+    {
+      "question": "How does MLD benefit patients with chronic venous insufficiency?",
+      "choices": [
+        "It increases blood pressure in the legs",
+        "It reduces edema and improves venous return",
+        "It strengthens vein walls",
+        "It breaks down blood clots"
+      ],
+      "answer": "It reduces edema and improves venous return"
+    },
+    {
+      "question": "What is a common challenge when implementing MLD for lymphatic filariasis in Timor-Leste?",
+      "choices": [
+        "Lack of patient interest",
+        "Excessive healthcare resources",
+        "Limited access to healthcare in remote areas",
+        "Overabundance of trained MLD practitioners"
+      ],
+      "answer": "Limited access to healthcare in remote areas"
+    },
+    {
+      "question": "How should MLD techniques be modified for patients with fragile skin due to chronic venous insufficiency?",
+      "choices": [
+        "Use firmer pressure to stimulate circulation",
+        "Apply lotion during the massage to reduce friction",
+        "Use very gentle pressure and avoid areas with open wounds",
+        "Focus on rapid, stimulating strokes"
+      ],
+      "answer": "Use very gentle pressure and avoid areas with open wounds"
+    },
+    {
+      "question": "What is an important consideration when developing a treatment plan for post-surgical MLD?",
+      "choices": [
+        "Ignoring the surgeon's recommendations",
+        "Starting MLD immediately after surgery regardless of wound healing",
+        "Coordinating with the surgeon for approval before beginning MLD",
+        "Applying the same protocol for all types of surgeries"
+      ],
+      "answer": "Coordinating with the surgeon for approval before beginning MLD"
+    },
+    {
+      "question": "How can MLD practitioners address the psychological impact of visible swelling in lymphatic filariasis?",
+      "choices": [
+        "Ignore the psychological aspects and focus only on physical treatment",
+        "Refer all patients to mental health professionals",
+        "Provide emotional support and education about the condition",
+        "Recommend that patients avoid social interactions"
+      ],
+      "answer": "Provide emotional support and education about the condition"
+    },
+    {
+      "question": "What role can community health workers play in supporting MLD treatments in Timor-Leste?",
+      "choices": [
+        "Perform complex MLD techniques independently",
+        "Prescribe medications for lymphatic conditions",
+        "Provide patient education and support for self-care techniques",
+        "Replace trained MLD practitioners entirely"
+      ],
+      "answer": "Provide patient education and support for self-care techniques"
+    },
+    {
+      "question": "How should MLD techniques be adapted to respect cultural norms in Timorese communities?",
+      "choices": [
+        "Ignore cultural norms and apply Western practices strictly",
+        "Avoid touching patients altogether",
+        "Modify techniques to maintain modesty and respect local customs",
+        "Only treat patients of the same gender as the practitioner"
+      ],
+      "answer": "Modify techniques to maintain modesty and respect local customs"
+    },
+    {
+      "question": "What is a key component of patient education for self-care in lymphatic conditions?",
+      "choices": [
+        "Teaching patients to perform deep tissue massage",
+        "Instructing patients to avoid all physical activity",
+        "Demonstrating proper skin care and hygiene practices",
+        "Recommending a high-salt diet to retain fluid"
+      ],
+      "answer": "Demonstrating proper skin care and hygiene practices"
+    },
+    {
+      "question": "How often should MLD treatments typically be performed for acute post-surgical swelling?",
+      "choices": [
+        "Once a month",
+        "Weekly",
+        "Daily, initially",
+        "Yearly"
+      ],
+      "answer": "Daily, initially"
+    },
+    {
+      "question": "What is an important consideration when performing MLD for patients with lymphatic filariasis in tropical climates?",
+      "choices": [
+        "Ignoring environmental factors",
+        "Using heating pads to increase circulation",
+        "Emphasizing hygiene and skin care to prevent infections",
+        "Recommending tight, restrictive clothing"
+      ],
+      "answer": "Emphasizing hygiene and skin care to prevent infections"
+    },
+    {
+      "question": "How can MLD practitioners effectively communicate the benefits of treatment to patients with limited health literacy?",
+      "choices": [
+        "Use complex medical terminology",
+        "Provide written information only",
+        "Use simple language and visual aids",
+        "Avoid explaining the treatment process"
+      ],
+      "answer": "Use simple language and visual aids"
+    },
+    {
+      "question": "What is a potential benefit of integrating traditional Timorese healing practices with MLD?",
+      "choices": [
+        "It can replace the need for MLD entirely",
+        "It may increase patient comfort and acceptance of treatment",
+        "It allows practitioners to ignore modern medical knowledge",
+        "It guarantees faster results than MLD alone"
+      ],
+      "answer": "It may increase patient comfort and acceptance of treatment"
+    },
+    {
+      "question": "What should be included in a comprehensive MLD treatment plan for chronic conditions?",
+      "choices": [
+        "MLD techniques only",
+        "MLD techniques and medication prescriptions",
+        "MLD techniques, self-care instructions, and follow-up schedule",
+        "Self-care instructions only"
+      ],
+      "answer": "MLD techniques, self-care instructions, and follow-up schedule"
+    },
+    {
+      "question": "How should MLD practitioners address language barriers when treating patients in Timor-Leste?",
+      "choices": [
+        "Only treat patients who speak the practitioner's language",
+        "Use medical terminology regardless of patient understanding",
+        "Utilize interpreters or visual aids when necessary",
+        "Avoid verbal communication entirely"
+      ],
+      "answer": "Utilize interpreters or visual aids when necessary"
+    },
+    {
+      "question": "What is an important consideration when applying MLD for post-surgical swelling in mastectomy patients?",
+      "choices": [
+        "Focusing only on the affected breast",
+        "Ignoring the axillary region",
+        "Including treatment of the neck, chest, and axillary regions",
+        "Applying firm pressure to the surgical site"
+      ],
+      "answer": "Including treatment of the neck, chest, and axillary regions"
+    },
+    {
+      "question": "How can MLD practitioners ensure continuity of care for patients with chronic conditions in resource-limited settings?",
+      "choices": [
+        "Providing intensive daily treatments indefinitely",
+        "Teaching self-care techniques and scheduling regular follow-ups",
+        "Referring all patients to urban medical centers",
+        "Focusing solely on acute care"
+      ],
+      "answer": "Teaching self-care techniques and scheduling regular follow-ups"
+    },
+    {
+      "question": "What is a key principle in adapting MLD techniques for use in resource-limited settings?",
+      "choices": [
+        "Always using expensive, specialized equipment",
+        "Ignoring local health practices",
+        "Modifying techniques to work with available resources while maintaining effectiveness",
+        "Applying techniques exactly as taught in Western settings"
+      ],
+      "answer": "Modifying techniques to work with available resources while maintaining effectiveness"
+    }
+  ]
+}

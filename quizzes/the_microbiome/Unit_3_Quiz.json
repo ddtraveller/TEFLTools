@@ -1,0 +1,305 @@
+{
+  "title": "The Gut Microbiome",
+  "questions": [
+    {
+      "question": "Which of the following is NOT one of the major bacterial phyla in the human gut microbiome?",
+      "choices": [
+        "Firmicutes",
+        "Bacteroidetes",
+        "Actinobacteria",
+        "Cyanobacteria"
+      ],
+      "answer": "Cyanobacteria"
+    },
+    {
+      "question": "What percentage of the gut microbiome is typically composed of Firmicutes?",
+      "choices": [
+        "10-20%",
+        "30-50%",
+        "60-80%",
+        "90-100%"
+      ],
+      "answer": "30-50%"
+    },
+    {
+      "question": "Which of the following is a primary function of the gut microbiome?",
+      "choices": [
+        "Photosynthesis",
+        "Nutrient metabolism",
+        "Oxygen production",
+        "Blood cell formation"
+      ],
+      "answer": "Nutrient metabolism"
+    },
+    {
+      "question": "What are short-chain fatty acids (SCFAs)?",
+      "choices": [
+        "Harmful compounds produced by gut bacteria",
+        "Beneficial compounds produced by gut bacteria",
+        "Artificial food additives",
+        "Types of dietary fats"
+      ],
+      "answer": "Beneficial compounds produced by gut bacteria"
+    },
+    {
+      "question": "Which vitamin is synthesized by gut bacteria?",
+      "choices": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "answer": "Vitamin K"
+    },
+    {
+      "question": "How does the gut microbiome contribute to immune system regulation?",
+      "choices": [
+        "By producing antibodies",
+        "By training and developing the immune system",
+        "By destroying all bacteria in the gut",
+        "By increasing inflammation throughout the body"
+      ],
+      "answer": "By training and developing the immune system"
+    },
+    {
+      "question": "What is dysbiosis?",
+      "choices": [
+        "A healthy balance of gut bacteria",
+        "The process of digesting food",
+        "An imbalance in the microbial community",
+        "A type of probiotic supplement"
+      ],
+      "answer": "An imbalance in the microbial community"
+    },
+    {
+      "question": "Which of the following factors has the most significant impact on shaping the gut microbiome?",
+      "choices": [
+        "Age",
+        "Gender",
+        "Diet",
+        "Height"
+      ],
+      "answer": "Diet"
+    },
+    {
+      "question": "What effect do antibiotics typically have on the gut microbiome?",
+      "choices": [
+        "They promote microbial diversity",
+        "They have no effect on the microbiome",
+        "They can cause significant disruption",
+        "They only affect harmful bacteria"
+      ],
+      "answer": "They can cause significant disruption"
+    },
+    {
+      "question": "How does stress impact the gut microbiome?",
+      "choices": [
+        "It has no effect on the microbiome",
+        "It always improves microbial diversity",
+        "It alters gut-brain axis communication",
+        "It increases the number of beneficial bacteria"
+      ],
+      "answer": "It alters gut-brain axis communication"
+    },
+    {
+      "question": "What is the effect of regular exercise on the gut microbiome?",
+      "choices": [
+        "It decreases microbial diversity",
+        "It has no impact on the microbiome",
+        "It increases microbial diversity",
+        "It eliminates all gut bacteria"
+      ],
+      "answer": "It increases microbial diversity"
+    },
+    {
+      "question": "Which type of diet is associated with reduced microbial diversity?",
+      "choices": [
+        "Mediterranean diet",
+        "Western diet",
+        "Vegetarian diet",
+        "Traditional Timorese diet"
+      ],
+      "answer": "Western diet"
+    },
+    {
+      "question": "What are prebiotics?",
+      "choices": [
+        "Live bacteria in supplements",
+        "Non-digestible food components that promote bacterial growth",
+        "Artificial sweeteners",
+        "Antibiotics that target specific bacteria"
+      ],
+      "answer": "Non-digestible food components that promote bacterial growth"
+    },
+    {
+      "question": "Which of the following is a good source of prebiotics?",
+      "choices": [
+        "Chicken",
+        "Milk",
+        "Garlic",
+        "Olive oil"
+      ],
+      "answer": "Garlic"
+    },
+    {
+      "question": "What is the primary benefit of consuming fermented foods for gut health?",
+      "choices": [
+        "They provide essential vitamins",
+        "They introduce beneficial probiotics",
+        "They are low in calories",
+        "They are high in protein"
+      ],
+      "answer": "They introduce beneficial probiotics"
+    },
+    {
+      "question": "Which of the following is a traditional fermented food in Timor-Leste?",
+      "choices": [
+        "Kimchi",
+        "Yogurt",
+        "Ai-farina",
+        "Sauerkraut"
+      ],
+      "answer": "Ai-farina"
+    },
+    {
+      "question": "How does a high-fiber diet impact the gut microbiome?",
+      "choices": [
+        "It reduces microbial diversity",
+        "It has no effect on the microbiome",
+        "It promotes microbial diversity",
+        "It eliminates all gut bacteria"
+      ],
+      "answer": "It promotes microbial diversity"
+    },
+    {
+      "question": "What is the potential impact of urbanization on the gut microbiome in Timor-Leste?",
+      "choices": [
+        "It will always improve gut health",
+        "It may lead to reduced microbial diversity",
+        "It has no impact on the microbiome",
+        "It will eliminate all gut bacteria"
+      ],
+      "answer": "It may lead to reduced microbial diversity"
+    },
+    {
+      "question": "Which of the following is a challenge in maintaining a healthy gut microbiome in Timor-Leste?",
+      "choices": [
+        "Excessive consumption of processed foods",
+        "Limited access to diverse food sources in some areas",
+        "Overuse of probiotic supplements",
+        "Too much dietary fiber in the traditional diet"
+      ],
+      "answer": "Limited access to diverse food sources in some areas"
+    },
+    {
+      "question": "What role does the gut microbiome play in protecting against pathogens?",
+      "choices": [
+        "It produces antibodies",
+        "It increases inflammation",
+        "It competes for resources and produces antimicrobial compounds",
+        "It has no role in pathogen protection"
+      ],
+      "answer": "It competes for resources and produces antimicrobial compounds"
+    },
+    {
+      "question": "How do processed foods and artificial additives typically affect the gut microbiome?",
+      "choices": [
+        "They improve microbial diversity",
+        "They have no effect on the microbiome",
+        "They may negatively impact microbiome diversity",
+        "They eliminate harmful bacteria"
+      ],
+      "answer": "They may negatively impact microbiome diversity"
+    },
+    {
+      "question": "What is the relationship between the gut microbiome and the immune system?",
+      "choices": [
+        "The gut microbiome suppresses the immune system",
+        "The gut microbiome has no interaction with the immune system",
+        "The gut microbiome helps train and develop the immune system",
+        "The immune system completely eliminates the gut microbiome"
+      ],
+      "answer": "The gut microbiome helps train and develop the immune system"
+    },
+    {
+      "question": "Which of the following is a potential benefit of maintaining a healthy gut microbiome?",
+      "choices": [
+        "Increased inflammation",
+        "Reduced insulin sensitivity",
+        "Improved mental health",
+        "Decreased nutrient absorption"
+      ],
+      "answer": "Improved mental health"
+    },
+    {
+      "question": "What is the gut-brain axis?",
+      "choices": [
+        "A direct neural connection between the gut and brain",
+        "A type of probiotic supplement",
+        "A method of measuring gut bacteria",
+        "A diet plan for improving gut health"
+      ],
+      "answer": "A direct neural connection between the gut and brain"
+    },
+    {
+      "question": "How might seasonal variations in food availability affect gut microbiome health in Timor-Leste?",
+      "choices": [
+        "They have no impact on the microbiome",
+        "They may lead to fluctuations in microbial diversity",
+        "They always improve gut health",
+        "They eliminate all harmful bacteria"
+      ],
+      "answer": "They may lead to fluctuations in microbial diversity"
+    },
+    {
+      "question": "Which of the following is NOT a common staple food in the traditional Timorese diet?",
+      "choices": [
+        "Rice",
+        "Cassava",
+        "Wheat",
+        "Sweet potatoes"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What is the potential benefit of traditional fermented foods like ai-farina in Timor-Leste?",
+      "choices": [
+        "They are high in calories",
+        "They provide essential vitamins",
+        "They offer probiotics and support gut health",
+        "They are a good source of protein"
+      ],
+      "answer": "They offer probiotics and support gut health"
+    },
+    {
+      "question": "How can knowledge of the gut microbiome be used to address malnutrition issues in Timor-Leste?",
+      "choices": [
+        "By promoting the consumption of processed foods",
+        "By eliminating all bacteria from the gut",
+        "By encouraging dietary diversity and fermented foods",
+        "By increasing the use of antibiotics"
+      ],
+      "answer": "By encouraging dietary diversity and fermented foods"
+    },
+    {
+      "question": "What is a potential challenge in implementing microbiome-based dietary interventions in rural Timorese communities?",
+      "choices": [
+        "Excessive availability of processed foods",
+        "Limited access to diverse food sources",
+        "Overuse of probiotic supplements",
+        "Too much emphasis on gut health in traditional medicine"
+      ],
+      "answer": "Limited access to diverse food sources"
+    },
+    {
+      "question": "How does a diet high in animal protein and saturated fat typically affect the gut microbiome?",
+      "choices": [
+        "It promotes a more diverse microbiome",
+        "It has no effect on the microbiome",
+        "It is associated with less favorable microbiome profiles",
+        "It eliminates all harmful bacteria"
+      ],
+      "answer": "It is associated with less favorable microbiome profiles"
+    }
+  ]
+}

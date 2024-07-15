@@ -1,0 +1,305 @@
+{
+  "title": "Microbiome in Maternal and Child Health",
+  "questions": [
+    {
+      "question": "Which of the following best describes the change in vaginal microbiome during pregnancy?",
+      "choices": [
+        "Increased diversity",
+        "Decreased stability",
+        "Increased stability and decreased diversity",
+        "Decreased stability and increased diversity"
+      ],
+      "answer": "Increased stability and decreased diversity"
+    },
+    {
+      "question": "What is the primary genus of bacteria that typically dominates the vaginal microbiome?",
+      "choices": [
+        "Bifidobacterium",
+        "Escherichia",
+        "Lactobacillus",
+        "Bacteroides"
+      ],
+      "answer": "Lactobacillus"
+    },
+    {
+      "question": "How does the gut microbiome change in the third trimester of pregnancy?",
+      "choices": [
+        "Decreased diversity",
+        "Increased diversity",
+        "No significant change",
+        "Complete loss of certain bacterial phyla"
+      ],
+      "answer": "Increased diversity"
+    },
+    {
+      "question": "Which bacterial phyla are typically enriched in the gut microbiome during late pregnancy?",
+      "choices": [
+        "Firmicutes and Bacteroidetes",
+        "Proteobacteria and Actinobacteria",
+        "Fusobacteria and Verrucomicrobia",
+        "Cyanobacteria and Spirochaetes"
+      ],
+      "answer": "Proteobacteria and Actinobacteria"
+    },
+    {
+      "question": "What functional change occurs in the maternal gut microbiome during pregnancy?",
+      "choices": [
+        "Decreased energy extraction from diet",
+        "Enhanced energy extraction from diet",
+        "Increased production of vitamins",
+        "Decreased production of short-chain fatty acids"
+      ],
+      "answer": "Enhanced energy extraction from diet"
+    },
+    {
+      "question": "Which oral health condition is more common during pregnancy due to microbiome changes?",
+      "choices": [
+        "Dental caries",
+        "Gingivitis",
+        "Halitosis",
+        "Tooth sensitivity"
+      ],
+      "answer": "Gingivitis"
+    },
+    {
+      "question": "When does the major colonization of an infant's microbiome occur?",
+      "choices": [
+        "In the first trimester of pregnancy",
+        "In the third trimester of pregnancy",
+        "During and immediately after birth",
+        "At 6 months of age"
+      ],
+      "answer": "During and immediately after birth"
+    },
+    {
+      "question": "How does the mode of delivery affect an infant's initial microbiome?",
+      "choices": [
+        "It has no significant impact",
+        "Vaginal birth exposes infants to skin microbes",
+        "C-section exposes infants to vaginal microbiota",
+        "Vaginal birth exposes infants to vaginal and fecal microbiota"
+      ],
+      "answer": "Vaginal birth exposes infants to vaginal and fecal microbiota"
+    },
+    {
+      "question": "At what age does an infant's microbiome begin to resemble an adult composition?",
+      "choices": [
+        "6 months",
+        "1 year",
+        "2-3 years",
+        "5 years"
+      ],
+      "answer": "2-3 years"
+    },
+    {
+      "question": "What is the estimated number of bacteria transferred daily through breastfeeding?",
+      "choices": [
+        "8,000",
+        "80,000",
+        "800,000",
+        "8,000,000"
+      ],
+      "answer": "800,000"
+    },
+    {
+      "question": "Which of the following is NOT a common bacterial genus found in breast milk?",
+      "choices": [
+        "Staphylococcus",
+        "Streptococcus",
+        "Lactobacillus",
+        "Clostridium"
+      ],
+      "answer": "Clostridium"
+    },
+    {
+      "question": "What role do oligosaccharides in breast milk play?",
+      "choices": [
+        "They are the primary source of protein",
+        "They serve as prebiotics",
+        "They are essential fatty acids",
+        "They are antibiotics"
+      ],
+      "answer": "They serve as prebiotics"
+    },
+    {
+      "question": "Which bacterial genus is particularly promoted by breast milk oligosaccharides?",
+      "choices": [
+        "Escherichia",
+        "Bifidobacterium",
+        "Bacteroides",
+        "Lactobacillus"
+      ],
+      "answer": "Bifidobacterium"
+    },
+    {
+      "question": "How long can differences in microbiome composition be observed between breastfed and formula-fed infants?",
+      "choices": [
+        "Up to 1 year",
+        "Up to 3 years",
+        "Up to 5 years",
+        "Up to 7 years"
+      ],
+      "answer": "Up to 7 years"
+    },
+    {
+      "question": "What is the gut-brain axis?",
+      "choices": [
+        "The nerve connecting the gut to the brain",
+        "A nutritional pathway",
+        "A bidirectional communication system between the gut and brain",
+        "A type of probiotic supplement"
+      ],
+      "answer": "A bidirectional communication system between the gut and brain"
+    },
+    {
+      "question": "Which of the following factors does NOT significantly influence initial infant microbiome colonization?",
+      "choices": [
+        "Mode of delivery",
+        "Gestational age at birth",
+        "Maternal diet during pregnancy",
+        "Antibiotic use during pregnancy or labor"
+      ],
+      "answer": "Maternal diet during pregnancy"
+    },
+    {
+      "question": "At what age does the establishment of an anaerobic environment in the infant gut typically occur?",
+      "choices": [
+        "1-2 months",
+        "3-4 months",
+        "6-7 months",
+        "9-10 months"
+      ],
+      "answer": "3-4 months"
+    },
+    {
+      "question": "What effect does the introduction of solid foods have on an infant's microbiome?",
+      "choices": [
+        "Decreased diversity",
+        "Increased diversity",
+        "No significant change",
+        "Complete shift to adult-like composition"
+      ],
+      "answer": "Increased diversity"
+    },
+    {
+      "question": "Which of the following is NOT a potential impact of early microbiome development?",
+      "choices": [
+        "Immune system maturation",
+        "Metabolic programming",
+        "Neurodevelopment",
+        "Bone density"
+      ],
+      "answer": "Bone density"
+    },
+    {
+      "question": "What term describes the transfer of microbes from mother to infant during pregnancy, birth, or breastfeeding?",
+      "choices": [
+        "Horizontal transmission",
+        "Vertical transmission",
+        "Lateral transmission",
+        "Diagonal transmission"
+      ],
+      "answer": "Vertical transmission"
+    },
+    {
+      "question": "Which of the following best describes colostrum?",
+      "choices": [
+        "The last milk produced during weaning",
+        "A type of formula for premature infants",
+        "The first form of breast milk, rich in antibodies and beneficial microbes",
+        "A probiotic supplement for pregnant women"
+      ],
+      "answer": "The first form of breast milk, rich in antibodies and beneficial microbes"
+    },
+    {
+      "question": "How does cesarean section delivery typically affect an infant's initial microbiome compared to vaginal delivery?",
+      "choices": [
+        "It leads to higher diversity",
+        "It results in more skin and environmental microbes",
+        "It has no significant difference",
+        "It leads to earlier establishment of an adult-like microbiome"
+      ],
+      "answer": "It results in more skin and environmental microbes"
+    },
+    {
+      "question": "Which of the following maternal microbiome changes during pregnancy is associated with a state of mild inflammation?",
+      "choices": [
+        "Increased vaginal Lactobacillus",
+        "Decreased gut microbial diversity",
+        "Enrichment of gut Proteobacteria and Actinobacteria",
+        "Increased oral Streptococcus"
+      ],
+      "answer": "Enrichment of gut Proteobacteria and Actinobacteria"
+    },
+    {
+      "question": "What is the primary benefit of the increased stability of the vaginal microbiome during pregnancy?",
+      "choices": [
+        "Enhanced nutrient absorption",
+        "Improved mood regulation",
+        "Protection against pathogens",
+        "Increased milk production"
+      ],
+      "answer": "Protection against pathogens"
+    },
+    {
+      "question": "Which of the following best describes the relationship between breastfeeding and the infant immune system?",
+      "choices": [
+        "Breastfeeding has no impact on the immune system",
+        "Breastfeeding suppresses the infant's immune system",
+        "Breastfeeding supports the development of both innate and adaptive immunity",
+        "Breastfeeding only affects the innate immune system"
+      ],
+      "answer": "Breastfeeding supports the development of both innate and adaptive immunity"
+    },
+    {
+      "question": "What is the potential long-term health implication of disturbances in early-life microbiome establishment?",
+      "choices": [
+        "Increased height in adulthood",
+        "Enhanced cognitive abilities",
+        "Reduced risk of all diseases",
+        "Increased risk of allergies, asthma, and autoimmune disorders"
+      ],
+      "answer": "Increased risk of allergies, asthma, and autoimmune disorders"
+    },
+    {
+      "question": "How does the maternal gut microbiome change to support increased maternal adiposity during pregnancy?",
+      "choices": [
+        "By decreasing energy extraction from diet",
+        "By increasing inflammation",
+        "By enhancing energy extraction from diet",
+        "By reducing nutrient absorption"
+      ],
+      "answer": "By enhancing energy extraction from diet"
+    },
+    {
+      "question": "Which of the following is NOT a factor influencing the breast milk microbiome?",
+      "choices": [
+        "Maternal diet",
+        "Stage of lactation",
+        "Maternal age",
+        "Time of day"
+      ],
+      "answer": "Time of day"
+    },
+    {
+      "question": "What is the primary role of Bifidobacterium species in the infant gut?",
+      "choices": [
+        "Vitamin K production",
+        "Breakdown of complex carbohydrates",
+        "Protein digestion",
+        "Fat metabolism"
+      ],
+      "answer": "Breakdown of complex carbohydrates"
+    },
+    {
+      "question": "Which of the following best describes the current understanding of microbial presence in the womb?",
+      "choices": [
+        "The womb is completely sterile",
+        "There is some evidence of microbial presence in the placenta and amniotic fluid",
+        "The womb has the same microbial diversity as the vagina",
+        "Microbial colonization of the womb only occurs during labor"
+      ],
+      "answer": "There is some evidence of microbial presence in the placenta and amniotic fluid"
+    }
+  ]
+}

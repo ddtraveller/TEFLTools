@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to the Human Microbiome",
+  "questions": [
+    {
+      "question": "What is the human microbiome?",
+      "choices": [
+        "The collection of all human cells in the body",
+        "The collection of all microorganisms living in association with the human body",
+        "The collection of all pathogens that can infect humans",
+        "The collection of all antibodies in the human immune system"
+      ],
+      "answer": "The collection of all microorganisms living in association with the human body"
+    },
+    {
+      "question": "Approximately what is the ratio of microbial cells to human cells in the body?",
+      "choices": [
+        "1:1",
+        "1.3:1",
+        "10:1",
+        "100:1"
+      ],
+      "answer": "1.3:1"
+    },
+    {
+      "question": "Which of the following is NOT considered part of the human microbiome?",
+      "choices": [
+        "Bacteria",
+        "Viruses",
+        "Fungi",
+        "Human cells"
+      ],
+      "answer": "Human cells"
+    },
+    {
+      "question": "Which body site harbors the largest and most diverse microbial community?",
+      "choices": [
+        "Skin",
+        "Mouth",
+        "Gut",
+        "Lungs"
+      ],
+      "answer": "Gut"
+    },
+    {
+      "question": "What are the two dominant bacterial phyla in the gut microbiome?",
+      "choices": [
+        "Proteobacteria and Actinobacteria",
+        "Firmicutes and Bacteroidetes",
+        "Fusobacteria and Verrucomicrobia",
+        "Cyanobacteria and Spirochaetes"
+      ],
+      "answer": "Firmicutes and Bacteroidetes"
+    },
+    {
+      "question": "Who first observed microorganisms using a microscope?",
+      "choices": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Antonie van Leeuwenhoek",
+        "Alexander Fleming"
+      ],
+      "answer": "Antonie van Leeuwenhoek"
+    },
+    {
+      "question": "What is the term for a relationship between two organisms where one benefits and the other is unaffected?",
+      "choices": [
+        "Parasitism",
+        "Mutualism",
+        "Commensalism",
+        "Amensalism"
+      ],
+      "answer": "Commensalism"
+    },
+    {
+      "question": "What technology has revolutionized the study of the microbiome in recent years?",
+      "choices": [
+        "Electron microscopy",
+        "Flow cytometry",
+        "DNA sequencing",
+        "Mass spectrometry"
+      ],
+      "answer": "DNA sequencing"
+    },
+    {
+      "question": "What is metagenomics?",
+      "choices": [
+        "The study of human genetics",
+        "The analysis of genetic material recovered directly from environmental samples",
+        "The study of viral genomes",
+        "The comparison of genomes across species"
+      ],
+      "answer": "The analysis of genetic material recovered directly from environmental samples"
+    },
+    {
+      "question": "When was the Human Microbiome Project launched?",
+      "choices": [
+        "1995",
+        "2000",
+        "2007",
+        "2015"
+      ],
+      "answer": "2007"
+    },
+    {
+      "question": "Which of the following is NOT a major site of microbial colonization in the human body?",
+      "choices": [
+        "Gut",
+        "Skin",
+        "Oral cavity",
+        "Bloodstream"
+      ],
+      "answer": "Bloodstream"
+    },
+    {
+      "question": "What term is used to describe the genetic material of all the microbes in a particular environment?",
+      "choices": [
+        "Genome",
+        "Proteome",
+        "Microbiome",
+        "Transcriptome"
+      ],
+      "answer": "Microbiome"
+    },
+    {
+      "question": "Which of the following factors can influence the composition of the human microbiome?",
+      "choices": [
+        "Diet",
+        "Antibiotic use",
+        "Environment",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the term for beneficial microorganisms that can be administered to promote health?",
+      "choices": [
+        "Antibiotics",
+        "Prebiotics",
+        "Probiotics",
+        "Synbiotics"
+      ],
+      "answer": "Probiotics"
+    },
+    {
+      "question": "Which of the following is NOT a function of the gut microbiome?",
+      "choices": [
+        "Aiding in digestion",
+        "Synthesizing vitamins",
+        "Producing red blood cells",
+        "Training the immune system"
+      ],
+      "answer": "Producing red blood cells"
+    },
+    {
+      "question": "What is the gut-brain axis?",
+      "choices": [
+        "A physical connection between the gut and the brain",
+        "A communication system between the gut microbiome and the central nervous system",
+        "A type of brain surgery",
+        "A dietary plan for improving cognitive function"
+      ],
+      "answer": "A communication system between the gut microbiome and the central nervous system"
+    },
+    {
+      "question": "Which scientist developed the germ theory of disease?",
+      "choices": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Joseph Lister",
+        "Ignaz Semmelweis"
+      ],
+      "answer": "Louis Pasteur"
+    },
+    {
+      "question": "What term describes the community of microorganisms themselves, as opposed to their genetic material?",
+      "choices": [
+        "Microbiome",
+        "Metagenome",
+        "Microbiota",
+        "Microcosm"
+      ],
+      "answer": "Microbiota"
+    },
+    {
+      "question": "Which of the following is a potential application of microbiome research?",
+      "choices": [
+        "Treating gastrointestinal disorders",
+        "Developing new antibiotics",
+        "Improving mental health",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary advantage of culture-independent techniques in studying the microbiome?",
+      "choices": [
+        "They are cheaper than traditional methods",
+        "They can identify microbes that cannot be grown in the lab",
+        "They are faster than traditional methods",
+        "They require less specialized equipment"
+      ],
+      "answer": "They can identify microbes that cannot be grown in the lab"
+    },
+    {
+      "question": "Which of the following best describes the concept of humans as 'superorganisms'?",
+      "choices": [
+        "Humans have superhuman abilities",
+        "Humans are composed of multiple species living together",
+        "Humans are the dominant species on Earth",
+        "Humans have larger genomes than other organisms"
+      ],
+      "answer": "Humans are composed of multiple species living together"
+    },
+    {
+      "question": "What is the role of prebiotics in relation to the microbiome?",
+      "choices": [
+        "They are beneficial microorganisms",
+        "They are substances that promote the growth of beneficial microbes",
+        "They are antibiotics that target harmful microbes",
+        "They are enzymes produced by gut bacteria"
+      ],
+      "answer": "They are substances that promote the growth of beneficial microbes"
+    },
+    {
+      "question": "Which of the following is NOT typically considered part of the human microbiome?",
+      "choices": [
+        "Bacteria in the gut",
+        "Viruses on the skin",
+        "Fungi in the mouth",
+        "Mitochondria in human cells"
+      ],
+      "answer": "Mitochondria in human cells"
+    },
+    {
+      "question": "What is the main purpose of the Human Microbiome Project?",
+      "choices": [
+        "To develop new antibiotics",
+        "To characterize the microbial communities found in the human body",
+        "To study the evolution of bacteria",
+        "To create genetically modified microorganisms"
+      ],
+      "answer": "To characterize the microbial communities found in the human body"
+    },
+    {
+      "question": "How might overly stringent hygiene practices impact the microbiome?",
+      "choices": [
+        "They might increase microbial diversity",
+        "They might reduce exposure to beneficial microbes",
+        "They might promote the growth of pathogens",
+        "They have no impact on the microbiome"
+      ],
+      "answer": "They might reduce exposure to beneficial microbes"
+    },
+    {
+      "question": "Which of the following best describes the relationship between humans and most of their microbiota?",
+      "choices": [
+        "Parasitic",
+        "Commensal or mutualistic",
+        "Competitive",
+        "Predatory"
+      ],
+      "answer": "Commensal or mutualistic"
+    },
+    {
+      "question": "What is the significance of 16S rRNA gene sequencing in microbiome research?",
+      "choices": [
+        "It allows for the identification of bacterial species",
+        "It measures the activity of microbial enzymes",
+        "It determines the antibiotic resistance of microbes",
+        "It visualizes the structure of microbial cells"
+      ],
+      "answer": "It allows for the identification of bacterial species"
+    },
+    {
+      "question": "How might traditional fermented foods impact the gut microbiome?",
+      "choices": [
+        "They might introduce harmful bacteria",
+        "They might introduce beneficial microbes",
+        "They have no impact on the microbiome",
+        "They might reduce microbial diversity"
+      ],
+      "answer": "They might introduce beneficial microbes"
+    },
+    {
+      "question": "What is the potential impact of antibiotics on the gut microbiome?",
+      "choices": [
+        "They selectively target only harmful bacteria",
+        "They have no effect on the gut microbiome",
+        "They can dramatically alter the gut microbiome composition",
+        "They always improve gut microbial diversity"
+      ],
+      "answer": "They can dramatically alter the gut microbiome composition"
+    },
+    {
+      "question": "Which of the following is a key challenge in microbiome research?",
+      "choices": [
+        "The inability to sequence microbial DNA",
+        "The lack of variation between individual microbiomes",
+        "The difficulty in culturing many microbial species",
+        "The absence of microbes in most human body sites"
+      ],
+      "answer": "The difficulty in culturing many microbial species"
+    }
+  ]
+}

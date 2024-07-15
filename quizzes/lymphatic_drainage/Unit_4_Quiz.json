@@ -1,0 +1,305 @@
+{
+  "title": "MLD for Lower Body",
+  "questions": [
+    {
+      "question": "What is the primary goal of Manual Lymphatic Drainage (MLD) for the lower body?",
+      "choices": [
+        "To increase muscle strength",
+        "To stimulate lymph flow and reduce swelling",
+        "To improve bone density",
+        "To increase blood pressure"
+      ],
+      "answer": "To stimulate lymph flow and reduce swelling"
+    },
+    {
+      "question": "Which of the following is a common lymphatic issue in Timor-Leste?",
+      "choices": [
+        "Frostbite",
+        "Lymphatic filariasis",
+        "Altitude sickness",
+        "Hypothermia"
+      ],
+      "answer": "Lymphatic filariasis"
+    },
+    {
+      "question": "What is the correct pressure to be applied during MLD techniques?",
+      "choices": [
+        "Heavy pressure",
+        "Moderate pressure",
+        "Light pressure",
+        "No pressure at all"
+      ],
+      "answer": "Light pressure"
+    },
+    {
+      "question": "In what direction should MLD strokes be applied?",
+      "choices": [
+        "From proximal to distal areas",
+        "From distal to proximal areas",
+        "In circular motions only",
+        "In any direction"
+      ],
+      "answer": "From distal to proximal areas"
+    },
+    {
+      "question": "Which area is typically treated first in MLD for the lower body?",
+      "choices": [
+        "Feet",
+        "Ankles",
+        "Knees",
+        "Upper thighs and groin"
+      ],
+      "answer": "Upper thighs and groin"
+    },
+    {
+      "question": "What is a major challenge in performing MLD in tropical climates like Timor-Leste?",
+      "choices": [
+        "Lack of water",
+        "Increased risk of infection due to humidity",
+        "Excessive dryness",
+        "Cold temperatures"
+      ],
+      "answer": "Increased risk of infection due to humidity"
+    },
+    {
+      "question": "How should MLD techniques be adapted for tropical climates?",
+      "choices": [
+        "By using more pressure",
+        "By emphasizing hygiene and using antimicrobial lotions",
+        "By performing treatments less frequently",
+        "By avoiding treatment of the feet"
+      ],
+      "answer": "By emphasizing hygiene and using antimicrobial lotions"
+    },
+    {
+      "question": "What is lymphedema?",
+      "choices": [
+        "A type of skin cancer",
+        "Inflammation of the lymph nodes",
+        "Swelling caused by a buildup of lymph fluid in body tissues",
+        "A bacterial infection of the lymphatic system"
+      ],
+      "answer": "Swelling caused by a buildup of lymph fluid in body tissues"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in the MLD sequence for the leg?",
+      "choices": [
+        "Stationary circles at groin lymph nodes",
+        "Clearing of lower leg",
+        "Deep tissue massage of the calf muscles",
+        "Foot drainage"
+      ],
+      "answer": "Deep tissue massage of the calf muscles"
+    },
+    {
+      "question": "What is the purpose of performing stationary circles at the popliteal fossa?",
+      "choices": [
+        "To increase blood flow to the area",
+        "To stimulate lymph nodes behind the knee",
+        "To stretch the hamstring muscles",
+        "To reduce knee pain"
+      ],
+      "answer": "To stimulate lymph nodes behind the knee"
+    },
+    {
+      "question": "How can MLD be integrated with traditional Timorese healing practices?",
+      "choices": [
+        "By completely replacing traditional methods",
+        "By ignoring traditional practices",
+        "By combining MLD with local herbal remedies and respecting cultural beliefs",
+        "By only using MLD on non-Timorese patients"
+      ],
+      "answer": "By combining MLD with local herbal remedies and respecting cultural beliefs"
+    },
+    {
+      "question": "What is an important consideration when treating the lower body in Timor-Leste?",
+      "choices": [
+        "Using cold therapy",
+        "Respecting modesty and cultural norms",
+        "Encouraging patients to wear tight clothing",
+        "Avoiding treatment of the feet"
+      ],
+      "answer": "Respecting modesty and cultural norms"
+    },
+    {
+      "question": "Which of the following is a symptom of chronic venous insufficiency?",
+      "choices": [
+        "Increased flexibility",
+        "Improved circulation",
+        "Skin changes and ulcers",
+        "Reduced swelling"
+      ],
+      "answer": "Skin changes and ulcers"
+    },
+    {
+      "question": "What is filariasis?",
+      "choices": [
+        "A viral infection",
+        "A bacterial infection",
+        "A parasitic disease affecting the lymphatic system",
+        "A type of arthritis"
+      ],
+      "answer": "A parasitic disease affecting the lymphatic system"
+    },
+    {
+      "question": "How should MLD be adapted for patients with filariasis?",
+      "choices": [
+        "By using more pressure",
+        "By avoiding treatment altogether",
+        "By focusing only on unaffected areas",
+        "By using gentler techniques and considering antiparasitic treatments"
+      ],
+      "answer": "By using gentler techniques and considering antiparasitic treatments"
+    },
+    {
+      "question": "What type of clothing is recommended for patients with lower body lymphedema in tropical climates?",
+      "choices": [
+        "Tight, non-breathable fabrics",
+        "Breathable, moisture-wicking fabrics",
+        "Thick, insulating materials",
+        "No clothing at all"
+      ],
+      "answer": "Breathable, moisture-wicking fabrics"
+    },
+    {
+      "question": "What is the role of compression garments in managing lower body lymphedema?",
+      "choices": [
+        "To increase swelling",
+        "To provide warmth",
+        "To maintain the benefits of MLD between sessions",
+        "To restrict movement"
+      ],
+      "answer": "To maintain the benefits of MLD between sessions"
+    },
+    {
+      "question": "How often should MLD treatments be performed in tropical climates?",
+      "choices": [
+        "Less frequently than in cooler climates",
+        "The same frequency as in cooler climates",
+        "More frequently due to climate challenges",
+        "Only during the dry season"
+      ],
+      "answer": "More frequently due to climate challenges"
+    },
+    {
+      "question": "What is an important self-care instruction for patients with lower body lymphedema?",
+      "choices": [
+        "Avoid all physical activity",
+        "Keep the affected limb in a dependent position",
+        "Practice elevation techniques at home",
+        "Apply heat to the swollen areas"
+      ],
+      "answer": "Practice elevation techniques at home"
+    },
+    {
+      "question": "Which of the following is NOT a typical cause of lower body lymphedema in Timor-Leste?",
+      "choices": [
+        "Lymphatic filariasis",
+        "Chronic venous insufficiency",
+        "Frostbite",
+        "Post-traumatic injury"
+      ],
+      "answer": "Frostbite"
+    },
+    {
+      "question": "What is the primary function of the lymphatic system?",
+      "choices": [
+        "To produce red blood cells",
+        "To digest food",
+        "To maintain fluid balance and support immune function",
+        "To regulate body temperature"
+      ],
+      "answer": "To maintain fluid balance and support immune function"
+    },
+    {
+      "question": "How should a therapist approach cultural beliefs about swelling during treatment?",
+      "choices": [
+        "Ignore them completely",
+        "Respect them while providing education on MLD benefits",
+        "Argue against traditional beliefs",
+        "Only use traditional methods"
+      ],
+      "answer": "Respect them while providing education on MLD benefits"
+    },
+    {
+      "question": "What is a potential benefit of integrating MLD with traditional Timorese massage methods?",
+      "choices": [
+        "It makes MLD less effective",
+        "It increases the cost of treatment",
+        "It creates a synergistic approach to healing",
+        "It replaces the need for MLD entirely"
+      ],
+      "answer": "It creates a synergistic approach to healing"
+    },
+    {
+      "question": "Which of the following is an important aspect of skin care for patients with lower body lymphedema?",
+      "choices": [
+        "Avoiding all moisturizers",
+        "Using harsh exfoliants daily",
+        "Proper moisturizing and inspection for cuts or infections",
+        "Applying tight bandages to reduce swelling"
+      ],
+      "answer": "Proper moisturizing and inspection for cuts or infections"
+    },
+    {
+      "question": "What is the purpose of the preparatory stationary circles at the groin lymph nodes?",
+      "choices": [
+        "To increase blood flow to the legs",
+        "To clear proximal lymph pathways",
+        "To stretch the hip muscles",
+        "To reduce groin pain"
+      ],
+      "answer": "To clear proximal lymph pathways"
+    },
+    {
+      "question": "How should MLD techniques be modified for patients with acute infections?",
+      "choices": [
+        "Use more pressure to clear the infection",
+        "Avoid treatment until the infection clears",
+        "Focus only on the infected area",
+        "Use the same techniques as for non-infected patients"
+      ],
+      "answer": "Avoid treatment until the infection clears"
+    },
+    {
+      "question": "What is the recommended approach for involving family members in lymphedema care?",
+      "choices": [
+        "Exclude family members from all aspects of care",
+        "Allow family members to perform MLD without training",
+        "Involve family in decision-making and teach them appropriate self-care techniques",
+        "Only involve family members if the patient is a minor"
+      ],
+      "answer": "Involve family in decision-making and teach them appropriate self-care techniques"
+    },
+    {
+      "question": "Which of the following is a correct technique for foot drainage in MLD?",
+      "choices": [
+        "Using deep pressure on the sole of the foot",
+        "Avoiding touch on the top of the foot",
+        "Using the thumb to make small circles on the sole of the foot",
+        "Applying lotion to increase friction"
+      ],
+      "answer": "Using the thumb to make small circles on the sole of the foot"
+    },
+    {
+      "question": "What is the primary concern when adapting MLD techniques for patients with filariasis?",
+      "choices": [
+        "Increasing lymph flow too quickly",
+        "Causing pain during treatment",
+        "Spreading the parasitic infection",
+        "Reducing the effectiveness of antiparasitic medications"
+      ],
+      "answer": "Spreading the parasitic infection"
+    },
+    {
+      "question": "How can healthcare providers in Timor-Leste promote lymphatic health beyond individual MLD treatments?",
+      "choices": [
+        "By discouraging all traditional practices",
+        "By focusing only on medication-based treatments",
+        "By conducting community health education events on lymphatic health",
+        "By recommending bed rest for all patients with swelling"
+      ],
+      "answer": "By conducting community health education events on lymphatic health"
+    }
+  ]
+}

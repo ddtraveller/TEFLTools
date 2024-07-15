@@ -1,0 +1,305 @@
+{
+  "title": "Microbiome and Non-Communicable Diseases",
+  "questions": [
+    {
+      "question": "Which of the following is NOT considered a non-communicable disease (NCD)?",
+      "choices": [
+        "Obesity",
+        "Type 2 diabetes",
+        "Cardiovascular disease",
+        "Malaria"
+      ],
+      "answer": "Malaria"
+    },
+    {
+      "question": "What is the term for an imbalance in the microbial community of the body?",
+      "choices": [
+        "Dysbiosis",
+        "Homeostasis",
+        "Symbiosis",
+        "Microbiosis"
+      ],
+      "answer": "Dysbiosis"
+    },
+    {
+      "question": "Which ratio is often found to be higher in obese individuals compared to lean individuals?",
+      "choices": [
+        "Firmicutes to Bacteroidetes",
+        "Bacteroidetes to Firmicutes",
+        "Proteobacteria to Actinobacteria",
+        "Fusobacteria to Verrucomicrobia"
+      ],
+      "answer": "Firmicutes to Bacteroidetes"
+    },
+    {
+      "question": "What are short-chain fatty acids (SCFAs) produced by?",
+      "choices": [
+        "Liver cells",
+        "Pancreatic cells",
+        "Gut bacteria through fermentation of dietary fiber",
+        "Adipose tissue"
+      ],
+      "answer": "Gut bacteria through fermentation of dietary fiber"
+    },
+    {
+      "question": "Which microbial metabolite is associated with increased risk of atherosclerosis?",
+      "choices": [
+        "TMAO (Trimethylamine N-oxide)",
+        "LPS (Lipopolysaccharide)",
+        "Butyrate",
+        "Propionate"
+      ],
+      "answer": "TMAO (Trimethylamine N-oxide)"
+    },
+    {
+      "question": "What is the gut-brain axis?",
+      "choices": [
+        "A nerve connecting the gut to the brain",
+        "A bidirectional communication system between the gastrointestinal tract and central nervous system",
+        "A region of the brain responsible for digestion",
+        "A type of probiotic supplement"
+      ],
+      "answer": "A bidirectional communication system between the gastrointestinal tract and central nervous system"
+    },
+    {
+      "question": "Which of the following is NOT a neurotransmitter produced by gut bacteria?",
+      "choices": [
+        "Serotonin",
+        "GABA",
+        "Dopamine",
+        "Cortisol"
+      ],
+      "answer": "Cortisol"
+    },
+    {
+      "question": "What is a potential mechanism by which the microbiome may contribute to obesity?",
+      "choices": [
+        "Enhanced energy harvest from diet",
+        "Increased physical activity",
+        "Reduced appetite",
+        "Improved insulin sensitivity"
+      ],
+      "answer": "Enhanced energy harvest from diet"
+    },
+    {
+      "question": "Which of the following is a potential microbiome-based intervention for cardiovascular disease?",
+      "choices": [
+        "Increasing dietary choline intake",
+        "Reducing fiber consumption",
+        "Targeting the gut microbiome to reduce TMAO production",
+        "Promoting the growth of pro-inflammatory bacteria"
+      ],
+      "answer": "Targeting the gut microbiome to reduce TMAO production"
+    },
+    {
+      "question": "What is the term for probiotics that may have mental health benefits?",
+      "choices": [
+        "Neurobiotics",
+        "Psychobiotics",
+        "Mentalbiotics",
+        "Cognibiotics"
+      ],
+      "answer": "Psychobiotics"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of the microbiome in obesity?",
+      "choices": [
+        "Higher Firmicutes to Bacteroidetes ratio",
+        "Reduced microbial diversity",
+        "Increased production of short-chain fatty acids",
+        "Enhanced energy harvest from diet"
+      ],
+      "answer": "Increased production of short-chain fatty acids"
+    },
+    {
+      "question": "What is metabolic endotoxemia?",
+      "choices": [
+        "A condition caused by excessive antibiotic use",
+        "The presence of bacterial toxins in the bloodstream, leading to low-grade inflammation",
+        "A side effect of probiotic supplementation",
+        "The process of breaking down complex carbohydrates in the gut"
+      ],
+      "answer": "The presence of bacterial toxins in the bloodstream, leading to low-grade inflammation"
+    },
+    {
+      "question": "Which of the following is a potential mechanism by which the gut microbiome influences blood pressure?",
+      "choices": [
+        "Production of aldosterone",
+        "Regulation of the renin-angiotensin system",
+        "Direct control of heart rate",
+        "Secretion of antidiuretic hormone"
+      ],
+      "answer": "Regulation of the renin-angiotensin system"
+    },
+    {
+      "question": "What is the primary source of TMAO production in the body?",
+      "choices": [
+        "Liver metabolism of microbial-derived trimethylamine",
+        "Direct production by gut bacteria",
+        "Synthesis in adipose tissue",
+        "Production in the pancreas"
+      ],
+      "answer": "Liver metabolism of microbial-derived trimethylamine"
+    },
+    {
+      "question": "Which of the following is NOT a typical effect of short-chain fatty acids on health?",
+      "choices": [
+        "Improved insulin sensitivity",
+        "Enhanced intestinal barrier function",
+        "Increased systemic inflammation",
+        "Regulation of appetite"
+      ],
+      "answer": "Increased systemic inflammation"
+    },
+    {
+      "question": "What is the potential link between the microbiome and depression?",
+      "choices": [
+        "Increased production of stress hormones by gut bacteria",
+        "Microbial influence on systemic inflammation",
+        "Direct bacterial colonization of brain tissue",
+        "Bacterial consumption of neurotransmitters"
+      ],
+      "answer": "Microbial influence on systemic inflammation"
+    },
+    {
+      "question": "Which of the following is a potential microbiome-based intervention for obesity?",
+      "choices": [
+        "Antibiotics to eliminate all gut bacteria",
+        "High-fat, low-fiber diet",
+        "Fecal microbiota transplantation",
+        "Increased consumption of processed foods"
+      ],
+      "answer": "Fecal microbiota transplantation"
+    },
+    {
+      "question": "What role does the microbiome play in insulin sensitivity?",
+      "choices": [
+        "It has no effect on insulin sensitivity",
+        "It only affects insulin production, not sensitivity",
+        "It can influence insulin sensitivity through production of metabolites and regulation of inflammation",
+        "It directly produces insulin"
+      ],
+      "answer": "It can influence insulin sensitivity through production of metabolites and regulation of inflammation"
+    },
+    {
+      "question": "Which of the following best describes the relationship between stress and the gut microbiome?",
+      "choices": [
+        "Stress has no impact on the gut microbiome",
+        "Stress only affects the microbiome in individuals with pre-existing gut disorders",
+        "There is a unidirectional relationship where stress impacts the microbiome but not vice versa",
+        "There is a bidirectional relationship between stress and the gut microbiome"
+      ],
+      "answer": "There is a bidirectional relationship between stress and the gut microbiome"
+    },
+    {
+      "question": "What is a potential mechanism by which the gut microbiome might influence appetite regulation?",
+      "choices": [
+        "Direct control of the hypothalamus",
+        "Production of hormones that affect satiety",
+        "Altering the absorption of all nutrients",
+        "Increasing stomach size"
+      ],
+      "answer": "Production of hormones that affect satiety"
+    },
+    {
+      "question": "Which of the following is NOT a typical recommendation for maintaining a healthy gut microbiome?",
+      "choices": [
+        "Consuming a diverse range of plant-based foods",
+        "Regular use of broad-spectrum antibiotics",
+        "Including fermented foods in the diet",
+        "Maintaining regular physical activity"
+      ],
+      "answer": "Regular use of broad-spectrum antibiotics"
+    },
+    {
+      "question": "What is the primary challenge in implementing microbiome-based interventions in Timor-Leste?",
+      "choices": [
+        "Lack of interest from the population",
+        "Absence of gut bacteria in the Timorese population",
+        "Limited resources and infrastructure for advanced microbiome research and treatments",
+        "Government regulations prohibiting microbiome research"
+      ],
+      "answer": "Limited resources and infrastructure for advanced microbiome research and treatments"
+    },
+    {
+      "question": "How might urbanization in Timor-Leste affect the population's microbiome?",
+      "choices": [
+        "It would have no effect on the microbiome",
+        "It could lead to reduced microbial diversity due to changes in diet and lifestyle",
+        "It would always increase microbial diversity",
+        "It would only affect the skin microbiome, not the gut"
+      ],
+      "answer": "It could lead to reduced microbial diversity due to changes in diet and lifestyle"
+    },
+    {
+      "question": "Which of the following is a potential benefit of traditional Timorese fermented foods?",
+      "choices": [
+        "They contain no bacteria",
+        "They may provide beneficial probiotics",
+        "They always cause dysbiosis",
+        "They have no impact on gut health"
+      ],
+      "answer": "They may provide beneficial probiotics"
+    },
+    {
+      "question": "What is a key consideration when developing microbiome-aware public health strategies in Timor-Leste?",
+      "choices": [
+        "Ignoring local cultural practices",
+        "Focusing only on expensive, high-tech interventions",
+        "Considering cultural factors and accessibility",
+        "Promoting a Western diet"
+      ],
+      "answer": "Considering cultural factors and accessibility"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a community workshop on microbiome and NCD prevention?",
+      "choices": [
+        "Information on the link between diet and gut health",
+        "Interactive activities to engage participants",
+        "Prescription of antibiotics to all participants",
+        "Culturally appropriate recommendations for maintaining a healthy microbiome"
+      ],
+      "answer": "Prescription of antibiotics to all participants"
+    },
+    {
+      "question": "What is the potential role of improving sanitation and water quality in Timor-Leste in relation to the microbiome and NCD risk?",
+      "choices": [
+        "It would have no effect on the microbiome or NCD risk",
+        "It could potentially reduce exposure to harmful pathogens and promote a healthier microbiome",
+        "It would definitely eliminate all NCDs",
+        "It would only affect waterborne diseases, not NCDs"
+      ],
+      "answer": "It could potentially reduce exposure to harmful pathogens and promote a healthier microbiome"
+    },
+    {
+      "question": "Which of the following best describes the current understanding of the microbiome's role in mental health?",
+      "choices": [
+        "The microbiome has no influence on mental health",
+        "The microbiome is the sole cause of all mental health disorders",
+        "The microbiome may play a role in mental health through various mechanisms, including neurotransmitter production and inflammation regulation",
+        "The microbiome only affects mental health in individuals with pre-existing gut disorders"
+      ],
+      "answer": "The microbiome may play a role in mental health through various mechanisms, including neurotransmitter production and inflammation regulation"
+    },
+    {
+      "question": "What is a potential ethical consideration in using fecal microbiota transplantation (FMT) as a treatment in Timor-Leste?",
+      "choices": [
+        "FMT has no ethical considerations",
+        "Ensuring informed consent and addressing cultural sensitivities",
+        "FMT is illegal in all countries",
+        "FMT can only be performed on animals, not humans"
+      ],
+      "answer": "Ensuring informed consent and addressing cultural sensitivities"
+    },
+    {
+      "question": "Which of the following is a potential barrier to adopting a 'microbiome-friendly' lifestyle in Timor-Leste?",
+      "choices": [
+        "Excessive availability of diverse, plant-based foods",
+        "Too much leisure time for physical activity",
+        "Limited access to information about gut health",
+        "Overabundance of advanced medical facilities"
+      ],
+      "answer": "Limited access to information about gut health"
+    }
+  ]
+}
