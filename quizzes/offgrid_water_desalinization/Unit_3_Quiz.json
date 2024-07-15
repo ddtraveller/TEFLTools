@@ -1,0 +1,305 @@
+{
+  "title": "Project Planning and Feasibility Studies for Desalination in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary purpose of conducting a feasibility study for a desalination project?",
+      "choices": [
+        "To determine the project's viability and potential success",
+        "To secure funding from international donors",
+        "To train local operators",
+        "To design the desalination plant"
+      ],
+      "answer": "To determine the project's viability and potential success"
+    },
+    {
+      "question": "Which of the following is NOT a key factor in site selection for a desalination plant in Timor-Leste?",
+      "choices": [
+        "Proximity to water source and demand centers",
+        "Topography and land availability",
+        "Presence of historical landmarks",
+        "Environmental sensitivity"
+      ],
+      "answer": "Presence of historical landmarks"
+    },
+    {
+      "question": "What does CAPEX stand for in the context of desalination projects?",
+      "choices": [
+        "Capital Expenditure",
+        "Capacity Expansion",
+        "Coastal Exploration",
+        "Community Expenses"
+      ],
+      "answer": "Capital Expenditure"
+    },
+    {
+      "question": "Which of the following is an example of OPEX in a desalination project?",
+      "choices": [
+        "Land acquisition",
+        "Plant construction",
+        "Energy consumption",
+        "Initial equipment purchase"
+      ],
+      "answer": "Energy consumption"
+    },
+    {
+      "question": "What is the primary purpose of an Environmental Impact Assessment (EIA) in desalination projects?",
+      "choices": [
+        "To secure funding from environmental organizations",
+        "To identify and evaluate potential environmental consequences",
+        "To design the desalination plant's layout",
+        "To determine the project's profitability"
+      ],
+      "answer": "To identify and evaluate potential environmental consequences"
+    },
+    {
+      "question": "Which of the following is NOT typically considered in an economic feasibility analysis for a desalination project?",
+      "choices": [
+        "Capital costs",
+        "Operational costs",
+        "Political affiliations of project managers",
+        "Potential funding sources"
+      ],
+      "answer": "Political affiliations of project managers"
+    },
+    {
+      "question": "What is brine in the context of desalination?",
+      "choices": [
+        "A type of fish found in coastal waters",
+        "Highly concentrated salt water discharged from the desalination process",
+        "A chemical used to clean desalination equipment",
+        "Freshwater produced by the desalination plant"
+      ],
+      "answer": "Highly concentrated salt water discharged from the desalination process"
+    },
+    {
+      "question": "Why is stakeholder consultation important in desalination project planning for Timor-Leste?",
+      "choices": [
+        "To comply with international regulations",
+        "To reduce construction costs",
+        "To ensure all perspectives are considered and potential conflicts addressed",
+        "To determine the salinity of seawater"
+      ],
+      "answer": "To ensure all perspectives are considered and potential conflicts addressed"
+    },
+    {
+      "question": "Which of the following is a potential social impact of introducing desalination technology to traditional coastal communities in Timor-Leste?",
+      "choices": [
+        "Increased tourism",
+        "Changes in traditional water management practices",
+        "Reduction in fishing activities",
+        "Improved agricultural yields"
+      ],
+      "answer": "Changes in traditional water management practices"
+    },
+    {
+      "question": "What is the primary challenge Timor-Leste faces in terms of water resources?",
+      "choices": [
+        "Excessive rainfall",
+        "Limited freshwater resources and seasonal water scarcity",
+        "Too many rivers and streams",
+        "Overabundance of groundwater"
+      ],
+      "answer": "Limited freshwater resources and seasonal water scarcity"
+    },
+    {
+      "question": "Which factor is NOT typically considered when assessing the environmental sensitivity of a potential desalination site?",
+      "choices": [
+        "Presence of sensitive marine ecosystems",
+        "Protected areas or habitats of endangered species",
+        "Coastal erosion patterns",
+        "Local political preferences"
+      ],
+      "answer": "Local political preferences"
+    },
+    {
+      "question": "What is a key consideration when evaluating energy access for a desalination plant in Timor-Leste?",
+      "choices": [
+        "Proximity to oil fields",
+        "Availability of nuclear power plants",
+        "Potential for renewable energy integration",
+        "Access to coal reserves"
+      ],
+      "answer": "Potential for renewable energy integration"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a feasibility study for a desalination project?",
+      "choices": [
+        "Market analysis",
+        "Technical feasibility",
+        "Financial analysis",
+        "Architectural design competition"
+      ],
+      "answer": "Architectural design competition"
+    },
+    {
+      "question": "What is the purpose of a cost-benefit analysis in desalination project planning?",
+      "choices": [
+        "To determine the most aesthetically pleasing plant design",
+        "To compare project costs with potential benefits",
+        "To calculate the salaries of plant operators",
+        "To estimate the lifespan of desalination equipment"
+      ],
+      "answer": "To compare project costs with potential benefits"
+    },
+    {
+      "question": "Which of the following is a potential indirect benefit of a desalination project in Timor-Leste?",
+      "choices": [
+        "Increased salt production",
+        "Improved public health",
+        "Higher rainfall",
+        "Reduced need for water conservation"
+      ],
+      "answer": "Improved public health"
+    },
+    {
+      "question": "What is a key challenge in conducting Environmental Impact Assessments in Timor-Leste?",
+      "choices": [
+        "Excessive environmental regulations",
+        "Too many environmental experts",
+        "Limited baseline environmental data",
+        "Overabundance of previous EIA studies"
+      ],
+      "answer": "Limited baseline environmental data"
+    },
+    {
+      "question": "Which of the following is NOT a typical funding source for desalination projects in developing countries like Timor-Leste?",
+      "choices": [
+        "Government funding",
+        "International development agency grants",
+        "Public-private partnerships",
+        "Individual crowdfunding campaigns"
+      ],
+      "answer": "Individual crowdfunding campaigns"
+    },
+    {
+      "question": "What is the primary purpose of integrating renewable energy sources into desalination projects in Timor-Leste?",
+      "choices": [
+        "To comply with international environmental laws",
+        "To reduce operational costs and environmental impact",
+        "To increase the salinity of seawater",
+        "To create jobs in the renewable energy sector"
+      ],
+      "answer": "To reduce operational costs and environmental impact"
+    },
+    {
+      "question": "Which of the following is a potential cultural consideration when planning a desalination project in Timor-Leste?",
+      "choices": [
+        "Local cuisine preferences",
+        "Traditional beliefs related to water resources",
+        "Popular music genres",
+        "National sports teams"
+      ],
+      "answer": "Traditional beliefs related to water resources"
+    },
+    {
+      "question": "What is the purpose of a site selection process in desalination project planning?",
+      "choices": [
+        "To determine the color scheme of the desalination plant",
+        "To identify the most suitable location for the plant",
+        "To select the project manager",
+        "To choose the type of desalination technology"
+      ],
+      "answer": "To identify the most suitable location for the plant"
+    },
+    {
+      "question": "Which of the following is NOT typically included in an Environmental Impact Assessment for a desalination project?",
+      "choices": [
+        "Effects on marine life due to seawater intake",
+        "Changes in local water temperature and salinity",
+        "Noise and visual impacts",
+        "Impact on local real estate prices"
+      ],
+      "answer": "Impact on local real estate prices"
+    },
+    {
+      "question": "What is a key economic challenge in implementing desalination projects in Timor-Leste?",
+      "choices": [
+        "Excessive government funding",
+        "High income levels of the population",
+        "Limited government budget for large infrastructure projects",
+        "Oversupply of skilled labor"
+      ],
+      "answer": "Limited government budget for large infrastructure projects"
+    },
+    {
+      "question": "Which of the following is a potential positive economic impact of a desalination project in Timor-Leste?",
+      "choices": [
+        "Reduced need for water infrastructure",
+        "Increased water scarcity",
+        "Economic diversification through improved water access",
+        "Decreased agricultural productivity"
+      ],
+      "answer": "Economic diversification through improved water access"
+    },
+    {
+      "question": "What is the purpose of considering future expansion in site selection for desalination plants?",
+      "choices": [
+        "To increase initial construction costs",
+        "To complicate the design process",
+        "To allow for potential capacity increases in response to future demand",
+        "To create more jobs during the initial construction phase"
+      ],
+      "answer": "To allow for potential capacity increases in response to future demand"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in the Environmental Impact Assessment process?",
+      "choices": [
+        "Screening",
+        "Scoping",
+        "Baseline studies",
+        "Profit calculation"
+      ],
+      "answer": "Profit calculation"
+    },
+    {
+      "question": "What is a key consideration when assessing the financial viability of a desalination project in Timor-Leste?",
+      "choices": [
+        "The country's military budget",
+        "The population's willingness to pay for water",
+        "The national football team's performance",
+        "The country's oil exports"
+      ],
+      "answer": "The population's willingness to pay for water"
+    },
+    {
+      "question": "Which of the following is a potential mitigation measure for the environmental impact of brine discharge?",
+      "choices": [
+        "Increasing the concentration of the brine",
+        "Discharging brine closer to the shore",
+        "Using diffusers to enhance dilution and dispersion",
+        "Storing brine in underground reservoirs indefinitely"
+      ],
+      "answer": "Using diffusers to enhance dilution and dispersion"
+    },
+    {
+      "question": "What is the primary purpose of conducting stakeholder consultations in desalination project planning?",
+      "choices": [
+        "To reduce project costs",
+        "To speed up the construction process",
+        "To engage with and address concerns of affected parties",
+        "To determine the taste preferences for desalinated water"
+      ],
+      "answer": "To engage with and address concerns of affected parties"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a stakeholder in desalination projects in Timor-Leste?",
+      "choices": [
+        "Local fishing communities",
+        "Environmental NGOs",
+        "Government agencies",
+        "International sports organizations"
+      ],
+      "answer": "International sports organizations"
+    },
+    {
+      "question": "What is a key challenge in the economic analysis of desalination projects in Timor-Leste?",
+      "choices": [
+        "Excessive profitability of water utilities",
+        "High per capita income",
+        "Challenges in cost recovery due to low income levels",
+        "Overabundance of local funding sources"
+      ],
+      "answer": "Challenges in cost recovery due to low income levels"
+    }
+  ]
+}

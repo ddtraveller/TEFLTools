@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Desalination and Water Challenges in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary purpose of desalination?",
+      "choices": [
+        "To increase salt content in water",
+        "To remove salt and minerals from seawater or brackish water",
+        "To add minerals to freshwater",
+        "To purify air in coastal regions"
+      ],
+      "answer": "To remove salt and minerals from seawater or brackish water"
+    },
+    {
+      "question": "Which of the following is NOT a main method of desalination?",
+      "choices": [
+        "Reverse Osmosis",
+        "Multi-Stage Flash Distillation",
+        "Electrodialysis",
+        "Vapor Compression Distillation"
+      ],
+      "answer": "Electrodialysis"
+    },
+    {
+      "question": "What is the most common desalination method used globally?",
+      "choices": [
+        "Thermal Distillation",
+        "Reverse Osmosis",
+        "Electrodialysis",
+        "Solar Desalination"
+      ],
+      "answer": "Reverse Osmosis"
+    },
+    {
+      "question": "In reverse osmosis, what force is used to push water through the semi-permeable membrane?",
+      "choices": [
+        "Gravity",
+        "Centrifugal force",
+        "Pressure",
+        "Magnetic force"
+      ],
+      "answer": "Pressure"
+    },
+    {
+      "question": "Which of the following is NOT a main water source in Timor-Leste?",
+      "choices": [
+        "Rivers",
+        "Groundwater",
+        "Rainwater",
+        "Desalination plants"
+      ],
+      "answer": "Desalination plants"
+    },
+    {
+      "question": "What is a major challenge affecting groundwater sources in coastal areas of Timor-Leste?",
+      "choices": [
+        "Overfishing",
+        "Saltwater intrusion",
+        "Deforestation",
+        "Industrial pollution"
+      ],
+      "answer": "Saltwater intrusion"
+    },
+    {
+      "question": "Which season in Timor-Leste is characterized by higher rainfall?",
+      "choices": [
+        "Dry season (May to October)",
+        "Wet season (November to April)",
+        "Monsoon season (June to August)",
+        "Spring season (March to May)"
+      ],
+      "answer": "Wet season (November to April)"
+    },
+    {
+      "question": "What is a significant infrastructure limitation in Timor-Leste's water management?",
+      "choices": [
+        "Excess of treatment facilities",
+        "Over-distribution of water",
+        "Inadequate distribution systems",
+        "Too many dams"
+      ],
+      "answer": "Inadequate distribution systems"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key water challenge in Timor-Leste?",
+      "choices": [
+        "Infrastructure limitations",
+        "Water quality issues",
+        "Climate change impacts",
+        "Excessive water abundance"
+      ],
+      "answer": "Excessive water abundance"
+    },
+    {
+      "question": "What is a common source of water contamination in Timor-Leste?",
+      "choices": [
+        "Industrial waste",
+        "Nuclear power plants",
+        "Agricultural runoff",
+        "Oil spills"
+      ],
+      "answer": "Agricultural runoff"
+    },
+    {
+      "question": "How does climate change impact water resources in Timor-Leste?",
+      "choices": [
+        "Increasing frequency of droughts",
+        "Decreasing sea levels",
+        "More consistent rainfall patterns",
+        "Reduced evaporation rates"
+      ],
+      "answer": "Increasing frequency of droughts"
+    },
+    {
+      "question": "What is a traditional aspect of water management in Timorese communities?",
+      "choices": [
+        "Individual ownership of water sources",
+        "Communal ownership of water sources",
+        "Government control of all water resources",
+        "Privatization of water distribution"
+      ],
+      "answer": "Communal ownership of water sources"
+    },
+    {
+      "question": "How do water-related issues impact gender roles in Timor-Leste?",
+      "choices": [
+        "Men are primarily responsible for water collection",
+        "Water collection is equally shared between genders",
+        "Women and children often bear the burden of collecting water",
+        "Water collection is automated in most communities"
+      ],
+      "answer": "Women and children often bear the burden of collecting water"
+    },
+    {
+      "question": "What is a potential environmental concern of implementing desalination plants in coastal areas?",
+      "choices": [
+        "Increased biodiversity",
+        "Improved water quality in the ocean",
+        "Brine discharge affecting marine ecosystems",
+        "Reduced carbon emissions"
+      ],
+      "answer": "Brine discharge affecting marine ecosystems"
+    },
+    {
+      "question": "Which of the following is an emerging desalination technology?",
+      "choices": [
+        "Reverse Osmosis",
+        "Multi-Stage Flash Distillation",
+        "Forward Osmosis",
+        "Vapor Compression Distillation"
+      ],
+      "answer": "Forward Osmosis"
+    },
+    {
+      "question": "What is a major barrier to implementing desalination projects in rural Timorese communities?",
+      "choices": [
+        "Excess of skilled labor",
+        "Abundant energy resources",
+        "High initial costs and infrastructure requirements",
+        "Community preference for desalination over traditional sources"
+      ],
+      "answer": "High initial costs and infrastructure requirements"
+    },
+    {
+      "question": "How does water scarcity affect education in Timor-Leste?",
+      "choices": [
+        "It increases school attendance",
+        "It has no impact on education",
+        "It limits time available for schooling, especially for girls",
+        "It improves water-related curriculum in schools"
+      ],
+      "answer": "It limits time available for schooling, especially for girls"
+    },
+    {
+      "question": "What is the primary purpose of customary laws regarding water in Timorese communities?",
+      "choices": [
+        "To privatize water sources",
+        "To govern water use and distribution",
+        "To prohibit water use during dry seasons",
+        "To encourage water pollution"
+      ],
+      "answer": "To govern water use and distribution"
+    },
+    {
+      "question": "Which of the following best describes the seasonal variability of water resources in Timor-Leste?",
+      "choices": [
+        "Consistent water availability throughout the year",
+        "Periods of water abundance followed by severe shortages",
+        "Constant water scarcity regardless of season",
+        "Excess water during all seasons"
+      ],
+      "answer": "Periods of water abundance followed by severe shortages"
+    },
+    {
+      "question": "What is a potential social impact of implementing desalination technology in Timor-Leste?",
+      "choices": [
+        "Decreased water availability",
+        "Increased community conflicts",
+        "Reduced dependence on traditional water sources",
+        "Elimination of all water-related cultural practices"
+      ],
+      "answer": "Reduced dependence on traditional water sources"
+    },
+    {
+      "question": "Which factor is crucial for the success of any water management strategy in Timor-Leste?",
+      "choices": [
+        "Ignoring local communities",
+        "Focusing solely on technological solutions",
+        "Education and community engagement",
+        "Implementing only traditional practices"
+      ],
+      "answer": "Education and community engagement"
+    },
+    {
+      "question": "What is a potential benefit of small-scale desalination projects in coastal villages of Timor-Leste?",
+      "choices": [
+        "Increased salt production",
+        "Reliable freshwater source independent of rainfall",
+        "Elimination of all water-related cultural practices",
+        "Reduced need for water conservation"
+      ],
+      "answer": "Reliable freshwater source independent of rainfall"
+    },
+    {
+      "question": "How might climate change affect the need for desalination in Timor-Leste?",
+      "choices": [
+        "It will eliminate the need for desalination",
+        "It may increase the need due to more frequent droughts",
+        "It will have no impact on water resources",
+        "It will increase freshwater availability, reducing desalination needs"
+      ],
+      "answer": "It may increase the need due to more frequent droughts"
+    },
+    {
+      "question": "What is a key consideration when integrating desalination technology with traditional water management practices?",
+      "choices": [
+        "Completely replacing all traditional practices",
+        "Ignoring cultural significance of water sources",
+        "Respecting and incorporating local knowledge and customs",
+        "Implementing technology without community consultation"
+      ],
+      "answer": "Respecting and incorporating local knowledge and customs"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a main water source in the case study of Suai Loro village?",
+      "choices": [
+        "Seawater",
+        "Local wells",
+        "Piped water infrastructure",
+        "Rainwater harvesting"
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "What is a major water quality issue faced by coastal villages like Suai Loro in Timor-Leste?",
+      "choices": [
+        "Excessive chlorination",
+        "High levels of industrial pollutants",
+        "Saltwater intrusion into local wells",
+        "Radioactive contamination"
+      ],
+      "answer": "Saltwater intrusion into local wells"
+    },
+    {
+      "question": "Which economic activity is mentioned as primary in the coastal village of Suai Loro?",
+      "choices": [
+        "Tourism",
+        "Mining",
+        "Fishing",
+        "Large-scale agriculture"
+      ],
+      "answer": "Fishing"
+    },
+    {
+      "question": "What is a potential challenge in implementing new water technologies in Timorese communities with strong traditional beliefs?",
+      "choices": [
+        "Excessive enthusiasm for new technology",
+        "Resistance due to cultural significance of traditional water sources",
+        "Lack of water scarcity issues",
+        "Overabundance of skilled technicians"
+      ],
+      "answer": "Resistance due to cultural significance of traditional water sources"
+    },
+    {
+      "question": "Which of the following is a recommended approach for addressing water challenges in Timor-Leste?",
+      "choices": [
+        "Focusing solely on large-scale desalination plants",
+        "Ignoring traditional water management practices",
+        "Implementing only technological solutions",
+        "Combining technological advancements with respect for traditional practices"
+      ],
+      "answer": "Combining technological advancements with respect for traditional practices"
+    },
+    {
+      "question": "What is the primary goal of analyzing water challenges and potential solutions in Timor-Leste?",
+      "choices": [
+        "To increase tourism",
+        "To improve public health, economic growth, and quality of life",
+        "To eliminate all traditional water practices",
+        "To promote large-scale industrialization"
+      ],
+      "answer": "To improve public health, economic growth, and quality of life"
+    }
+  ]
+}

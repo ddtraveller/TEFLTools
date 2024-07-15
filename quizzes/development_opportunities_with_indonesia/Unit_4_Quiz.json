@@ -1,0 +1,295 @@
+{
+  "title": "Transport Connectivity and Trade Facilitation",
+  "questions": [
+    {
+      "question": "What are the main border crossings between Timor-Leste and NTT?",
+      "choices": [
+        "Batugade-Mota'ain, Salele-Wini, Oesilo-Bobometo",
+        "Dili-Kupang, Oecusse-Atambua, Suai-Kefamenanu",
+        "Maliana-Atapupu, Liquica-Wini, Viqueque-Betun",
+        "Baucau-Atambua, Lospalos-Kefamenanu, Ainaro-Soe"
+      ],
+      "answer": "Batugade-Mota'ain, Salele-Wini, Oesilo-Bobometo"
+    },
+    {
+      "question": "What is the main port in Timor-Leste mentioned in the module?",
+      "choices": [
+        "Suai",
+        "Oecusse",
+        "Dili",
+        "Baucau"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a common challenge in border control procedures?",
+      "choices": [
+        "Long waiting times",
+        "Lack of coordination between agencies",
+        "Inadequate infrastructure at border posts",
+        "Excessive staffing at customs checkpoints"
+      ],
+      "answer": "Excessive staffing at customs checkpoints"
+    },
+    {
+      "question": "What is a single window system in the context of trade facilitation?",
+      "choices": [
+        "A system that allows only one vehicle to cross the border at a time",
+        "A platform that allows traders to submit all required documentation through a single entry point",
+        "A window at the customs office where all traders must queue",
+        "A system that limits trade to a single product category"
+      ],
+      "answer": "A platform that allows traders to submit all required documentation through a single entry point"
+    },
+    {
+      "question": "Which countries are mentioned as examples of successful implementation of single window systems?",
+      "choices": [
+        "USA and Canada",
+        "China and Japan",
+        "Singapore and South Korea",
+        "Australia and New Zealand"
+      ],
+      "answer": "Singapore and South Korea"
+    },
+    {
+      "question": "What is the purpose of risk management approaches in border control?",
+      "choices": [
+        "To increase the number of inspections",
+        "To focus resources on high-risk consignments while efficiently processing low-risk goods",
+        "To eliminate all inspections",
+        "To create more paperwork for customs officials"
+      ],
+      "answer": "To focus resources on high-risk consignments while efficiently processing low-risk goods"
+    },
+    {
+      "question": "What does the harmonization of standards and procedures between neighboring countries involve?",
+      "choices": [
+        "Adopting completely different standards",
+        "Ignoring international standards",
+        "Aligning customs documentation requirements and adopting common product standards",
+        "Implementing stricter regulations for all imports"
+      ],
+      "answer": "Aligning customs documentation requirements and adopting common product standards"
+    },
+    {
+      "question": "What is the main airport in Timor-Leste mentioned in the module?",
+      "choices": [
+        "Baucau International Airport",
+        "Suai Airport",
+        "Oecusse Airport",
+        "Presidente Nicolau Lobato International Airport"
+      ],
+      "answer": "Presidente Nicolau Lobato International Airport"
+    },
+    {
+      "question": "What is the main airport in NTT mentioned in the module?",
+      "choices": [
+        "Ngurah Rai International Airport",
+        "El Tari International Airport",
+        "Soekarno-Hatta International Airport",
+        "Juanda International Airport"
+      ],
+      "answer": "El Tari International Airport"
+    },
+    {
+      "question": "What does the term 'intermodal transportation' refer to?",
+      "choices": [
+        "Using only one mode of transport",
+        "The seamless integration of different transport modes",
+        "Transporting goods exclusively by sea",
+        "Using only air transport for international trade"
+      ],
+      "answer": "The seamless integration of different transport modes"
+    },
+    {
+      "question": "What are sanitary and phytosanitary (SPS) measures designed to protect?",
+      "choices": [
+        "Only human health",
+        "Only animal health",
+        "Only plant health",
+        "Human, animal, and plant health"
+      ],
+      "answer": "Human, animal, and plant health"
+    },
+    {
+      "question": "What is a potential risk of overly stringent SPS regulations?",
+      "choices": [
+        "Increased trade volume",
+        "Reduced transportation costs",
+        "Becoming significant non-tariff barriers",
+        "Improved product quality"
+      ],
+      "answer": "Becoming significant non-tariff barriers"
+    },
+    {
+      "question": "What is the main goal of trade facilitation?",
+      "choices": [
+        "To increase tariffs",
+        "To reduce the time and cost associated with cross-border trade",
+        "To eliminate all trade between countries",
+        "To increase bureaucracy in customs procedures"
+      ],
+      "answer": "To reduce the time and cost associated with cross-border trade"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a component of transport connectivity?",
+      "choices": [
+        "Road networks",
+        "Seaports",
+        "Airports",
+        "Shopping malls"
+      ],
+      "answer": "Shopping malls"
+    },
+    {
+      "question": "What is the benefit of using non-intrusive inspection technologies in border control?",
+      "choices": [
+        "It increases the time needed for inspections",
+        "It allows for more efficient processing of goods",
+        "It eliminates the need for any inspections",
+        "It increases the cost of border control"
+      ],
+      "answer": "It allows for more efficient processing of goods"
+    },
+    {
+      "question": "What regional cooperation initiative is mentioned as an example of harmonizing standards and procedures?",
+      "choices": [
+        "European Union Single Market",
+        "North American Free Trade Agreement",
+        "ASEAN Single Window",
+        "African Continental Free Trade Area"
+      ],
+      "answer": "ASEAN Single Window"
+    },
+    {
+      "question": "What is the potential benefit of upgrading the road network between Dili and Kupang?",
+      "choices": [
+        "Increased air pollution",
+        "Higher transportation costs",
+        "Reduced travel times and vehicle operating costs",
+        "Less trade between the two regions"
+      ],
+      "answer": "Reduced travel times and vehicle operating costs"
+    },
+    {
+      "question": "What role do modern border facilities equipped with advanced technologies play?",
+      "choices": [
+        "They slow down customs clearance",
+        "They eliminate the need for border officials",
+        "They increase security risks",
+        "They expedite customs clearance while maintaining necessary security measures"
+      ],
+      "answer": "They expedite customs clearance while maintaining necessary security measures"
+    },
+    {
+      "question": "What is the benefit of training border officials in customer service and risk assessment techniques?",
+      "choices": [
+        "It increases border crossing times",
+        "It contributes to more efficient and trade-friendly border management",
+        "It eliminates the need for documentation checks",
+        "It increases the cost of border operations"
+      ],
+      "answer": "It contributes to more efficient and trade-friendly border management"
+    },
+    {
+      "question": "What is the potential benefit of establishing direct shipping routes between Timor-Leste and NTT?",
+      "choices": [
+        "Increased reliance on distant transshipment hubs",
+        "Higher shipping costs",
+        "Boosted maritime trade and reduced reliance on distant transshipment hubs",
+        "Elimination of all land-based trade"
+      ],
+      "answer": "Boosted maritime trade and reduced reliance on distant transshipment hubs"
+    },
+    {
+      "question": "What is the purpose of developing intermodal hubs?",
+      "choices": [
+        "To focus exclusively on road transport",
+        "To eliminate sea transport options",
+        "To create more efficient and flexible logistics networks",
+        "To increase transportation costs"
+      ],
+      "answer": "To create more efficient and flexible logistics networks"
+    },
+    {
+      "question": "What is the main challenge of complex customs procedures?",
+      "choices": [
+        "They simplify trade",
+        "They reduce transportation costs",
+        "They complicate trade and increase delays",
+        "They eliminate the need for border controls"
+      ],
+      "answer": "They complicate trade and increase delays"
+    },
+    {
+      "question": "What is the benefit of mutual recognition of certifications between countries?",
+      "choices": [
+        "It increases the compliance burden on traders",
+        "It reduces the compliance burden on traders",
+        "It eliminates the need for product standards",
+        "It increases trade barriers"
+      ],
+      "answer": "It reduces the compliance burden on traders"
+    },
+    {
+      "question": "What is the purpose of pest risk assessments in the context of SPS measures?",
+      "choices": [
+        "To increase pest populations",
+        "To eliminate all agricultural trade",
+        "To balance trade facilitation and health standards",
+        "To increase trade barriers"
+      ],
+      "answer": "To balance trade facilitation and health standards"
+    },
+    {
+      "question": "What is the potential impact of improved transport connectivity on local communities?",
+      "choices": [
+        "Reduced access to markets",
+        "Increased isolation",
+        "Improved economic opportunities and regional integration",
+        "Elimination of all cross-border movement"
+      ],
+      "answer": "Improved economic opportunities and regional integration"
+    },
+    {
+      "question": "What is the main benefit of implementing electronic customs declaration systems?",
+      "choices": [
+        "Increased paperwork",
+        "Slower processing times",
+        "Reduced processing times and human error",
+        "Elimination of all customs checks"
+      ],
+      "answer": "Reduced processing times and human error"
+    },
+    {
+      "question": "What is the purpose of joint border patrols between neighboring countries?",
+      "choices": [
+        "To increase border tensions",
+        "To eliminate all border crossings",
+        "To improve coordination and security",
+        "To increase smuggling activities"
+      ],
+      "answer": "To improve coordination and security"
+    },
+    {
+      "question": "What is the potential benefit of simplified visa procedures for business travelers?",
+      "choices": [
+        "Reduced business interactions",
+        "Increased visa processing times",
+        "Facilitated cross-border business activities",
+        "Elimination of all business travel"
+      ],
+      "answer": "Facilitated cross-border business activities"
+    },
+    {
+      "question": "What is the main challenge of inadequate port facilities?",
+      "choices": [
+        "Excessive cargo handling capacity",
+        "Reduced shipping costs",
+        "Increased transportation costs and transit times",
+        "Improved maritime trade"
+      ],
+      "answer": "Increased transportation costs and transit times"
+    }
+  ]
+}

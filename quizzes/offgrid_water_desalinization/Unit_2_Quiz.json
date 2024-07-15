@@ -1,0 +1,305 @@
+{
+  "title": "Desalination Technologies",
+  "questions": [
+    {
+      "question": "Which desalination technology is currently the most widely used membrane-based process?",
+      "choices": [
+        "Multi-stage flash distillation",
+        "Reverse osmosis",
+        "Forward osmosis",
+        "Electrodialysis"
+      ],
+      "answer": "Reverse osmosis"
+    },
+    {
+      "question": "What is the main principle behind reverse osmosis?",
+      "choices": [
+        "Heating water to create steam",
+        "Using electrical charges to remove ions",
+        "Forcing water through a semi-permeable membrane",
+        "Freezing water to separate salt crystals"
+      ],
+      "answer": "Forcing water through a semi-permeable membrane"
+    },
+    {
+      "question": "Which of the following is a thermal desalination process?",
+      "choices": [
+        "Reverse osmosis",
+        "Forward osmosis",
+        "Multi-stage flash distillation",
+        "Capacitive deionization"
+      ],
+      "answer": "Multi-stage flash distillation"
+    },
+    {
+      "question": "What is a major advantage of reverse osmosis compared to thermal desalination methods?",
+      "choices": [
+        "Lower energy consumption",
+        "Higher water recovery rate",
+        "Ability to handle higher salinity feed water",
+        "Lower initial capital costs"
+      ],
+      "answer": "Lower energy consumption"
+    },
+    {
+      "question": "Which component of an RO system provides the necessary pressure to overcome osmotic pressure?",
+      "choices": [
+        "Semipermeable membrane",
+        "High-pressure pump",
+        "Pretreatment system",
+        "Post-treatment system"
+      ],
+      "answer": "High-pressure pump"
+    },
+    {
+      "question": "What is a common challenge in reverse osmosis systems?",
+      "choices": [
+        "Membrane fouling",
+        "Excessive steam production",
+        "High temperature requirements",
+        "Low salt rejection rates"
+      ],
+      "answer": "Membrane fouling"
+    },
+    {
+      "question": "Which thermal desalination process uses multiple evaporator vessels to improve energy efficiency?",
+      "choices": [
+        "Multi-stage flash distillation",
+        "Multiple-effect distillation",
+        "Vapor compression distillation",
+        "Solar still distillation"
+      ],
+      "answer": "Multiple-effect distillation"
+    },
+    {
+      "question": "What is the primary advantage of thermal desalination processes over membrane-based systems?",
+      "choices": [
+        "Lower energy consumption",
+        "Ability to handle higher salinity feed water",
+        "Lower initial capital costs",
+        "Simpler maintenance requirements"
+      ],
+      "answer": "Ability to handle higher salinity feed water"
+    },
+    {
+      "question": "Which emerging technology uses the natural osmotic pressure gradient to draw water through a membrane?",
+      "choices": [
+        "Reverse osmosis",
+        "Forward osmosis",
+        "Electrodialysis",
+        "Capacitive deionization"
+      ],
+      "answer": "Forward osmosis"
+    },
+    {
+      "question": "What is a potential advantage of forward osmosis over reverse osmosis?",
+      "choices": [
+        "Higher water recovery rate",
+        "Better salt rejection",
+        "Lower energy requirements",
+        "Simpler system design"
+      ],
+      "answer": "Lower energy requirements"
+    },
+    {
+      "question": "Which desalination method combines thermal and membrane processes?",
+      "choices": [
+        "Multi-stage flash distillation",
+        "Reverse osmosis",
+        "Membrane distillation",
+        "Electrodialysis"
+      ],
+      "answer": "Membrane distillation"
+    },
+    {
+      "question": "What type of membrane is typically used in reverse osmosis systems?",
+      "choices": [
+        "Hydrophilic membrane",
+        "Hydrophobic membrane",
+        "Thin-film composite membrane",
+        "Ceramic membrane"
+      ],
+      "answer": "Thin-film composite membrane"
+    },
+    {
+      "question": "Which desalination technology is most suitable for small-scale applications in remote areas of Timor-Leste?",
+      "choices": [
+        "Multi-stage flash distillation",
+        "Large-scale reverse osmosis plant",
+        "Small-scale reverse osmosis with renewable energy",
+        "Multiple-effect distillation"
+      ],
+      "answer": "Small-scale reverse osmosis with renewable energy"
+    },
+    {
+      "question": "What is a major environmental concern associated with desalination plants?",
+      "choices": [
+        "Freshwater contamination",
+        "Air pollution",
+        "Brine discharge impacts on marine ecosystems",
+        "Soil erosion"
+      ],
+      "answer": "Brine discharge impacts on marine ecosystems"
+    },
+    {
+      "question": "Which factor is NOT typically considered when choosing a desalination technology for a specific location?",
+      "choices": [
+        "Local energy costs",
+        "Feed water quality",
+        "Desired water quality",
+        "Local population density"
+      ],
+      "answer": "Local population density"
+    },
+    {
+      "question": "What is the primary purpose of the pretreatment system in a reverse osmosis plant?",
+      "choices": [
+        "To increase water pressure",
+        "To remove larger particles and adjust water chemistry",
+        "To add minerals to the treated water",
+        "To dispose of brine"
+      ],
+      "answer": "To remove larger particles and adjust water chemistry"
+    },
+    {
+      "question": "Which desalination process uses mechanical compression of vapor to provide heat for evaporation?",
+      "choices": [
+        "Multi-stage flash distillation",
+        "Multiple-effect distillation",
+        "Vapor compression distillation",
+        "Reverse osmosis"
+      ],
+      "answer": "Vapor compression distillation"
+    },
+    {
+      "question": "What is the typical range of energy consumption for reverse osmosis in kWh/m³?",
+      "choices": [
+        "1-2",
+        "3-6",
+        "10-16",
+        "20-25"
+      ],
+      "answer": "3-6"
+    },
+    {
+      "question": "Which desalination technology has the lowest operational complexity?",
+      "choices": [
+        "Reverse osmosis",
+        "Multi-stage flash distillation",
+        "Solar still",
+        "Vapor compression distillation"
+      ],
+      "answer": "Solar still"
+    },
+    {
+      "question": "What is the primary advantage of capacitive deionization?",
+      "choices": [
+        "High effectiveness for high salinity water",
+        "Energy efficiency for brackish water treatment",
+        "Ability to handle large-scale operations",
+        "Low maintenance requirements"
+      ],
+      "answer": "Energy efficiency for brackish water treatment"
+    },
+    {
+      "question": "Which of the following is NOT a component of a typical reverse osmosis system?",
+      "choices": [
+        "Pretreatment system",
+        "High-pressure pump",
+        "Semipermeable membrane",
+        "Distillation column"
+      ],
+      "answer": "Distillation column"
+    },
+    {
+      "question": "What is the main challenge in implementing forward osmosis technology?",
+      "choices": [
+        "High energy consumption",
+        "Low water quality output",
+        "Draw solution recovery",
+        "High maintenance costs"
+      ],
+      "answer": "Draw solution recovery"
+    },
+    {
+      "question": "Which desalination method is most suitable for large-scale operations with capacities over 100,000 m³/day?",
+      "choices": [
+        "Vapor compression distillation",
+        "Solar still",
+        "Multi-stage flash distillation",
+        "Capacitive deionization"
+      ],
+      "answer": "Multi-stage flash distillation"
+    },
+    {
+      "question": "What is the typical water recovery rate for reverse osmosis systems?",
+      "choices": [
+        "10-25%",
+        "35-50%",
+        "70-85%",
+        "90-95%"
+      ],
+      "answer": "35-50%"
+    },
+    {
+      "question": "Which of the following is a potential advantage of membrane distillation?",
+      "choices": [
+        "Low energy consumption",
+        "Ability to use low-grade heat sources",
+        "High water recovery rate",
+        "Low capital costs"
+      ],
+      "answer": "Ability to use low-grade heat sources"
+    },
+    {
+      "question": "What is the main principle behind multi-stage flash distillation?",
+      "choices": [
+        "Forcing water through a membrane",
+        "Rapid heating and sequential flashing in multiple stages",
+        "Using electrical charges to remove ions",
+        "Freezing and thawing seawater"
+      ],
+      "answer": "Rapid heating and sequential flashing in multiple stages"
+    },
+    {
+      "question": "Which factor is most likely to impact the acceptance of desalination technologies in Timorese communities?",
+      "choices": [
+        "Technology complexity",
+        "Energy requirements",
+        "Cultural attitudes towards water",
+        "Plant size"
+      ],
+      "answer": "Cultural attitudes towards water"
+    },
+    {
+      "question": "What is the primary advantage of integrating renewable energy sources with desalination systems in Timor-Leste?",
+      "choices": [
+        "Increased water output",
+        "Reduced environmental impact",
+        "Lower maintenance requirements",
+        "Improved water quality"
+      ],
+      "answer": "Reduced environmental impact"
+    },
+    {
+      "question": "Which desalination technology has the highest relative capital cost?",
+      "choices": [
+        "Reverse osmosis",
+        "Multi-stage flash distillation",
+        "Solar still",
+        "Vapor compression distillation"
+      ],
+      "answer": "Multi-stage flash distillation"
+    },
+    {
+      "question": "What is a key consideration when implementing small-scale desalination systems in remote coastal areas of Timor-Leste?",
+      "choices": [
+        "Maximizing plant capacity",
+        "Ensuring compatibility with existing large-scale water infrastructure",
+        "Minimizing energy consumption and utilizing renewable sources",
+        "Prioritizing thermal desalination methods"
+      ],
+      "answer": "Minimizing energy consumption and utilizing renewable sources"
+    }
+  ]
+}

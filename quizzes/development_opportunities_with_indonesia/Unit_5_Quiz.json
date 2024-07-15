@@ -1,0 +1,305 @@
+{
+  "title": "Business and Investment Climate in Timor-Leste",
+  "questions": [
+    {
+      "question": "According to the World Bank's Doing Business 2020 report, what was Timor-Leste's overall ranking out of 190 economies?",
+      "choices": [
+        "151",
+        "171",
+        "181",
+        "191"
+      ],
+      "answer": "181"
+    },
+    {
+      "question": "Which of the following is NOT one of the key challenges in Timor-Leste's business environment?",
+      "choices": [
+        "Complex regulations",
+        "Limited access to finance",
+        "Underdeveloped infrastructure",
+        "Oversaturated market"
+      ],
+      "answer": "Oversaturated market"
+    },
+    {
+      "question": "What is the name of the agency responsible for business registration in Timor-Leste?",
+      "choices": [
+        "SERVE",
+        "IADE",
+        "TradeInvest",
+        "CCI-TL"
+      ],
+      "answer": "SERVE"
+    },
+    {
+      "question": "Which law provides incentives for both domestic and foreign investors in Timor-Leste?",
+      "choices": [
+        "Commercial Companies Law",
+        "Labor Law",
+        "Land Law",
+        "Private Investment Law"
+      ],
+      "answer": "Private Investment Law"
+    },
+    {
+      "question": "What is the primary government agency responsible for providing Business Development Services (BDS) in Timor-Leste?",
+      "choices": [
+        "TradeInvest",
+        "SERVE",
+        "IADE",
+        "CCI-TL"
+      ],
+      "answer": "IADE"
+    },
+    {
+      "question": "Which of the following is NOT a commercial bank operating in Timor-Leste?",
+      "choices": [
+        "BNU",
+        "BNCTL",
+        "Mandiri",
+        "HSBC"
+      ],
+      "answer": "HSBC"
+    },
+    {
+      "question": "What is the name of the investment promotion agency established in 2015 in Timor-Leste?",
+      "choices": [
+        "SERVE",
+        "TradeInvest",
+        "IADE",
+        "CCI-TL"
+      ],
+      "answer": "TradeInvest"
+    },
+    {
+      "question": "Which of the following sectors is NOT mentioned as a priority sector for tax incentives in Timor-Leste?",
+      "choices": [
+        "Agriculture",
+        "Fisheries",
+        "Tourism",
+        "Manufacturing"
+      ],
+      "answer": "Manufacturing"
+    },
+    {
+      "question": "What is Timor-Leste's ranking for 'Enforcing Contracts' in the World Bank's Doing Business 2020 report?",
+      "choices": [
+        "180",
+        "185",
+        "188",
+        "190"
+      ],
+      "answer": "190"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a Special Economic Zone (SEZ) in Timor-Leste?",
+      "choices": [
+        "Oecusse",
+        "Atauro Island",
+        "Dili",
+        "Both A and B"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question": "What is the main challenge related to land for businesses in Timor-Leste?",
+      "choices": [
+        "Excessive land taxes",
+        "Unclear property rights",
+        "Lack of arable land",
+        "Strict zoning regulations"
+      ],
+      "answer": "Unclear property rights"
+    },
+    {
+      "question": "Which sector is mentioned as having significant potential for cross-border collaboration with Indonesia?",
+      "choices": [
+        "Oil and gas",
+        "Manufacturing",
+        "Tourism",
+        "Technology"
+      ],
+      "answer": "Tourism"
+    },
+    {
+      "question": "What is the primary source of revenue that Timor-Leste is seeking to diversify away from?",
+      "choices": [
+        "Agriculture",
+        "Tourism",
+        "Oil and gas",
+        "Manufacturing"
+      ],
+      "answer": "Oil and gas"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a microfinance institution in Timor-Leste?",
+      "choices": [
+        "Moris Rasik",
+        "Tuba Rai Metin",
+        "Kaebauk",
+        "All are mentioned"
+      ],
+      "answer": "Kaebauk"
+    },
+    {
+      "question": "What is the name of the central bank in Timor-Leste?",
+      "choices": [
+        "Bank of Timor-Leste",
+        "Central Bank of Timor-Leste (BCTL)",
+        "National Reserve Bank of Timor-Leste",
+        "Timor-Leste Monetary Authority"
+      ],
+      "answer": "Central Bank of Timor-Leste (BCTL)"
+    },
+    {
+      "question": "Which of the following is identified as a significant infrastructure deficit in Timor-Leste?",
+      "choices": [
+        "Water supply",
+        "Telecommunications",
+        "Electricity",
+        "Waste management"
+      ],
+      "answer": "Electricity"
+    },
+    {
+      "question": "What year did Timor-Leste gain independence?",
+      "choices": [
+        "1999",
+        "2000",
+        "2002",
+        "2005"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key step in the business registration process in Timor-Leste?",
+      "choices": [
+        "Obtain a criminal record certificate",
+        "Register with SERVE",
+        "Obtain a Tax Identification Number (TIN)",
+        "Obtain approval from the Ministry of Foreign Affairs"
+      ],
+      "answer": "Obtain approval from the Ministry of Foreign Affairs"
+    },
+    {
+      "question": "What is the main challenge related to human capital development in Timor-Leste?",
+      "choices": [
+        "Aging population",
+        "Brain drain",
+        "Shortage of skilled labor",
+        "Overpopulation"
+      ],
+      "answer": "Shortage of skilled labor"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential improvement for investment promotion in Timor-Leste?",
+      "choices": [
+        "Enhance digital infrastructure for e-government services",
+        "Develop targeted marketing campaigns for Indonesian investors",
+        "Strengthen capacity of investment promotion agencies",
+        "Implement stricter foreign ownership restrictions"
+      ],
+      "answer": "Implement stricter foreign ownership restrictions"
+    },
+    {
+      "question": "What is the primary purpose of the Chamber of Commerce and Industry of Timor-Leste (CCI-TL)?",
+      "choices": [
+        "To regulate businesses",
+        "To provide loans to entrepreneurs",
+        "To support and represent the private sector",
+        "To collect taxes from businesses"
+      ],
+      "answer": "To support and represent the private sector"
+    },
+    {
+      "question": "Which of the following is mentioned as a strength or opportunity for Timor-Leste's business climate?",
+      "choices": [
+        "Advanced technological infrastructure",
+        "Large domestic market",
+        "Strategic location",
+        "Highly skilled workforce"
+      ],
+      "answer": "Strategic location"
+    },
+    {
+      "question": "What type of incentives does Timor-Leste offer for investments in priority sectors?",
+      "choices": [
+        "Cash grants",
+        "Free land",
+        "Tax exemptions",
+        "Guaranteed government contracts"
+      ],
+      "answer": "Tax exemptions"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key law governing business activities in Timor-Leste?",
+      "choices": [
+        "Commercial Companies Law",
+        "Labor Law",
+        "Land Law",
+        "Foreign Investment Protection Act"
+      ],
+      "answer": "Foreign Investment Protection Act"
+    },
+    {
+      "question": "What is the main challenge related to access to finance in Timor-Leste?",
+      "choices": [
+        "Lack of banks",
+        "High interest rates",
+        "Strict collateral requirements",
+        "Foreign currency restrictions"
+      ],
+      "answer": "High interest rates"
+    },
+    {
+      "question": "Which of the following sectors is mentioned as having potential for attracting Indonesian investors?",
+      "choices": [
+        "High-tech manufacturing",
+        "Financial services",
+        "Agriculture",
+        "Aerospace"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is the primary purpose of Business Development Services (BDS) in Timor-Leste?",
+      "choices": [
+        "To provide loans to businesses",
+        "To regulate business activities",
+        "To help businesses improve performance and competitiveness",
+        "To collect taxes from businesses"
+      ],
+      "answer": "To help businesses improve performance and competitiveness"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential improvement for Timor-Leste's business climate?",
+      "choices": [
+        "Enhancing the quality of education",
+        "Improving vocational training programs",
+        "Developing more industrial parks",
+        "Increasing import tariffs"
+      ],
+      "answer": "Increasing import tariffs"
+    },
+    {
+      "question": "What recent development indicates increased economic cooperation between Timor-Leste and Indonesia?",
+      "choices": [
+        "Establishment of a common currency",
+        "Signing of agreements on investment promotion and protection",
+        "Creation of a joint stock exchange",
+        "Formation of a customs union"
+      ],
+      "answer": "Signing of agreements on investment promotion and protection"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key step in improving Timor-Leste's business climate?",
+      "choices": [
+        "Reforming the regulatory framework",
+        "Strengthening institutions",
+        "Investing in critical infrastructure",
+        "Implementing protectionist trade policies"
+      ],
+      "answer": "Implementing protectionist trade policies"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "System Design and Integration for Small-Scale Desalination",
+  "questions": [
+    {
+      "question": "What is the primary function of reverse osmosis in water desalination?",
+      "choices": [
+        "To add minerals to water",
+        "To remove contaminants, including salt, from water",
+        "To increase water pressure",
+        "To disinfect water"
+      ],
+      "answer": "To remove contaminants, including salt, from water"
+    },
+    {
+      "question": "Which component is responsible for creating the high pressure needed in an RO system?",
+      "choices": [
+        "Pretreatment units",
+        "RO membrane modules",
+        "High-pressure pumps",
+        "Post-treatment equipment"
+      ],
+      "answer": "High-pressure pumps"
+    },
+    {
+      "question": "What is the purpose of pretreatment in an RO system?",
+      "choices": [
+        "To increase water salinity",
+        "To remove suspended solids and contaminants",
+        "To add chemicals to the water",
+        "To pressurize the water"
+      ],
+      "answer": "To remove suspended solids and contaminants"
+    },
+    {
+      "question": "Which type of membrane element is typically used in small-scale RO systems?",
+      "choices": [
+        "Flat sheet",
+        "Hollow fiber",
+        "Spiral-wound",
+        "Tubular"
+      ],
+      "answer": "Spiral-wound"
+    },
+    {
+      "question": "What is the function of an energy recovery device (ERD) in an RO system?",
+      "choices": [
+        "To generate electricity",
+        "To store excess energy",
+        "To capture and reuse energy from the high-pressure brine stream",
+        "To convert AC power to DC power"
+      ],
+      "answer": "To capture and reuse energy from the high-pressure brine stream"
+    },
+    {
+      "question": "What is the purpose of post-treatment in a desalination system?",
+      "choices": [
+        "To remove salt from water",
+        "To adjust the quality of desalinated water for consumption",
+        "To increase water pressure",
+        "To pretreat seawater"
+      ],
+      "answer": "To adjust the quality of desalinated water for consumption"
+    },
+    {
+      "question": "Which type of pump is often preferred in small-scale RO systems?",
+      "choices": [
+        "Centrifugal pumps",
+        "Positive displacement pumps",
+        "Jet pumps",
+        "Submersible pumps"
+      ],
+      "answer": "Positive displacement pumps"
+    },
+    {
+      "question": "What is the primary benefit of integrating solar power into a desalination system?",
+      "choices": [
+        "Increased water production",
+        "Improved water quality",
+        "Enhanced sustainability and reduced operational costs",
+        "Simplified system design"
+      ],
+      "answer": "Enhanced sustainability and reduced operational costs"
+    },
+    {
+      "question": "Why is battery storage often included in off-grid solar-powered desalination systems?",
+      "choices": [
+        "To increase water pressure",
+        "To provide energy during periods of low sunlight or at night",
+        "To cool the RO membranes",
+        "To store excess desalinated water"
+      ],
+      "answer": "To provide energy during periods of low sunlight or at night"
+    },
+    {
+      "question": "What is the function of inverters in a solar-powered RO system?",
+      "choices": [
+        "To convert AC power to DC power",
+        "To convert DC power from solar panels and batteries into AC power",
+        "To increase water pressure",
+        "To store excess energy"
+      ],
+      "answer": "To convert DC power from solar panels and batteries into AC power"
+    },
+    {
+      "question": "Why is it important to consider the use of local materials in small-scale desalination system design?",
+      "choices": [
+        "To increase system complexity",
+        "To reduce efficiency",
+        "To promote sustainability and community involvement",
+        "To increase operational costs"
+      ],
+      "answer": "To promote sustainability and community involvement"
+    },
+    {
+      "question": "How does temperature affect RO membrane performance?",
+      "choices": [
+        "Higher temperatures decrease membrane permeability",
+        "Temperature has no effect on membrane performance",
+        "Higher temperatures can increase membrane permeability but may accelerate fouling",
+        "Lower temperatures always improve membrane performance"
+      ],
+      "answer": "Higher temperatures can increase membrane permeability but may accelerate fouling"
+    },
+    {
+      "question": "What is the importance of community involvement in small-scale desalination projects?",
+      "choices": [
+        "It increases project costs",
+        "It slows down the implementation process",
+        "It ensures the system meets community needs and is culturally appropriate",
+        "It reduces system efficiency"
+      ],
+      "answer": "It ensures the system meets community needs and is culturally appropriate"
+    },
+    {
+      "question": "Which factor is crucial for sizing the solar array in a solar-powered RO system?",
+      "choices": [
+        "Water salinity",
+        "Seasonal variations in solar irradiance",
+        "Soil composition",
+        "Wind speed"
+      ],
+      "answer": "Seasonal variations in solar irradiance"
+    },
+    {
+      "question": "What is the primary function of media filtration in the pretreatment stage?",
+      "choices": [
+        "To add minerals to the water",
+        "To remove suspended solids",
+        "To increase water pressure",
+        "To disinfect the water"
+      ],
+      "answer": "To remove suspended solids"
+    },
+    {
+      "question": "Which environmental factor can impact the efficiency of solar panels in a desalination system?",
+      "choices": [
+        "Water salinity",
+        "Soil pH",
+        "Extreme humidity",
+        "Tidal patterns"
+      ],
+      "answer": "Extreme humidity"
+    },
+    {
+      "question": "What is the purpose of remineralization in the post-treatment stage?",
+      "choices": [
+        "To remove excess salt",
+        "To add essential minerals back into the water",
+        "To increase water pressure",
+        "To remove bacteria"
+      ],
+      "answer": "To add essential minerals back into the water"
+    },
+    {
+      "question": "Which factor is most important when determining the number and configuration of membrane elements?",
+      "choices": [
+        "Solar panel efficiency",
+        "Battery storage capacity",
+        "Required water production capacity and desired recovery rate",
+        "Local climate conditions"
+      ],
+      "answer": "Required water production capacity and desired recovery rate"
+    },
+    {
+      "question": "What is the primary advantage of using positive displacement pumps in small-scale RO systems?",
+      "choices": [
+        "Lower cost",
+        "Larger size",
+        "Efficiency and ability to handle varying flow rates",
+        "Simplified maintenance"
+      ],
+      "answer": "Efficiency and ability to handle varying flow rates"
+    },
+    {
+      "question": "Why is pH adjustment often necessary in the post-treatment stage?",
+      "choices": [
+        "To increase water salinity",
+        "To remove suspended solids",
+        "To optimize water taste and protect distribution systems",
+        "To increase membrane efficiency"
+      ],
+      "answer": "To optimize water taste and protect distribution systems"
+    },
+    {
+      "question": "What is the primary challenge of integrating solar power into a desalination system?",
+      "choices": [
+        "Increased water production",
+        "Simplified system design",
+        "Added complexity to system design and operation",
+        "Reduced sustainability"
+      ],
+      "answer": "Added complexity to system design and operation"
+    },
+    {
+      "question": "Which local resource can be used in filtration systems for small-scale desalination?",
+      "choices": [
+        "Seawater",
+        "Solar panels",
+        "Locally sourced sand and gravel",
+        "RO membranes"
+      ],
+      "answer": "Locally sourced sand and gravel"
+    },
+    {
+      "question": "What is the purpose of chemical dosing in the pretreatment stage?",
+      "choices": [
+        "To increase water salinity",
+        "To adjust pH and prevent scaling",
+        "To disinfect the water",
+        "To increase membrane permeability"
+      ],
+      "answer": "To adjust pH and prevent scaling"
+    },
+    {
+      "question": "Which factor should be considered when determining the location of water distribution points?",
+      "choices": [
+        "Solar panel efficiency",
+        "Membrane type",
+        "Cultural considerations and community preferences",
+        "Battery storage capacity"
+      ],
+      "answer": "Cultural considerations and community preferences"
+    },
+    {
+      "question": "What is the primary function of cartridge filtration in the pretreatment stage?",
+      "choices": [
+        "To remove large debris",
+        "To adjust water pH",
+        "To provide fine filtration before RO membranes",
+        "To increase water pressure"
+      ],
+      "answer": "To provide fine filtration before RO membranes"
+    },
+    {
+      "question": "Why is it important to consider seasonal variations in solar irradiance when designing a solar-powered RO system?",
+      "choices": [
+        "To determine water quality",
+        "To size the RO membranes",
+        "To ensure sufficient power generation throughout the year",
+        "To calculate brine disposal rates"
+      ],
+      "answer": "To ensure sufficient power generation throughout the year"
+    },
+    {
+      "question": "What is the primary purpose of disinfection in the post-treatment stage?",
+      "choices": [
+        "To remove salt",
+        "To ensure microbial safety",
+        "To increase water pressure",
+        "To improve taste"
+      ],
+      "answer": "To ensure microbial safety"
+    },
+    {
+      "question": "Which factor is most critical in determining the daily water demand for a small-scale desalination system?",
+      "choices": [
+        "Solar panel efficiency",
+        "Community population and water usage patterns",
+        "Membrane type",
+        "Battery storage capacity"
+      ],
+      "answer": "Community population and water usage patterns"
+    },
+    {
+      "question": "What is the primary advantage of using locally trained labor for system operation and maintenance?",
+      "choices": [
+        "Increased system complexity",
+        "Higher operational costs",
+        "Improved sustainability and community involvement",
+        "Reduced system efficiency"
+      ],
+      "answer": "Improved sustainability and community involvement"
+    },
+    {
+      "question": "Which environmental factor can affect both RO membrane performance and solar panel efficiency?",
+      "choices": [
+        "Water salinity",
+        "Soil composition",
+        "Temperature",
+        "Wind speed"
+      ],
+      "answer": "Temperature"
+    }
+  ]
+}

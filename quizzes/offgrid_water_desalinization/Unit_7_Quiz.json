@@ -1,0 +1,305 @@
+{
+  "title": "Case Studies and Future Prospects in Desalination",
+  "questions": [
+    {
+      "question": "Which of the following is an emerging technology that uses osmotic pressure difference instead of hydraulic pressure?",
+      "choices": [
+        "Reverse osmosis",
+        "Forward osmosis",
+        "Capacitive deionization",
+        "Membrane distillation"
+      ],
+      "answer": "Forward osmosis"
+    },
+    {
+      "question": "What is the primary advantage of capacitive deionization (CDI) for desalination?",
+      "choices": [
+        "High salt rejection rate",
+        "Low energy consumption for low-salinity feeds",
+        "Ability to treat high-salinity water",
+        "Use of thermal energy"
+      ],
+      "answer": "Low energy consumption for low-salinity feeds"
+    },
+    {
+      "question": "Which desalination technology can use low-grade heat sources?",
+      "choices": [
+        "Reverse osmosis",
+        "Forward osmosis",
+        "Capacitive deionization",
+        "Membrane distillation"
+      ],
+      "answer": "Membrane distillation"
+    },
+    {
+      "question": "What is a major challenge in implementing forward osmosis technology?",
+      "choices": [
+        "High energy consumption",
+        "Low water quality",
+        "Draw solution recovery",
+        "Limited scalability"
+      ],
+      "answer": "Draw solution recovery"
+    },
+    {
+      "question": "Which of the following is NOT a projected climate change impact for Timor-Leste?",
+      "choices": [
+        "Increased rainfall variability",
+        "Higher temperatures",
+        "Sea level rise",
+        "Decreased overall annual precipitation"
+      ],
+      "answer": "Decreased overall annual precipitation"
+    },
+    {
+      "question": "What is the estimated sea level rise for Timor-Leste by 2100?",
+      "choices": [
+        "0.1-0.3m",
+        "0.4-0.7m",
+        "0.8-1.2m",
+        "1.5-2.0m"
+      ],
+      "answer": "0.4-0.7m"
+    },
+    {
+      "question": "Which of the following is a potential application of forward osmosis in Timor-Leste?",
+      "choices": [
+        "Large-scale seawater desalination",
+        "Point-of-use systems for remote areas",
+        "Integration with wastewater treatment",
+        "Brine concentration"
+      ],
+      "answer": "Integration with wastewater treatment"
+    },
+    {
+      "question": "What is a key advantage of capacitive deionization for Timor-Leste's context?",
+      "choices": [
+        "High capacity for seawater desalination",
+        "Effective for brackish water treatment",
+        "Low maintenance requirements",
+        "Integration with thermal energy sources"
+      ],
+      "answer": "Effective for brackish water treatment"
+    },
+    {
+      "question": "Which desalination technology is most suitable for integration with solar thermal systems in Timor-Leste?",
+      "choices": [
+        "Reverse osmosis",
+        "Forward osmosis",
+        "Capacitive deionization",
+        "Membrane distillation"
+      ],
+      "answer": "Membrane distillation"
+    },
+    {
+      "question": "What is a potential role of desalination in climate change adaptation for Timor-Leste?",
+      "choices": [
+        "Increasing rainfall",
+        "Reducing sea level rise",
+        "Diversification of water sources",
+        "Lowering atmospheric carbon dioxide levels"
+      ],
+      "answer": "Diversification of water sources"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing membrane distillation?",
+      "choices": [
+        "High energy consumption",
+        "Low salt rejection",
+        "Membrane wetting and fouling",
+        "Limited scalability"
+      ],
+      "answer": "Membrane wetting and fouling"
+    },
+    {
+      "question": "What is the capacity of the small-scale RO plant implemented in the Pacific island nation case study?",
+      "choices": [
+        "20 m3/day",
+        "40 m3/day",
+        "100 m3/day",
+        "500 m3/day"
+      ],
+      "answer": "40 m3/day"
+    },
+    {
+      "question": "Which energy source was used in the solar-powered desalination project in coastal Africa?",
+      "choices": [
+        "Hybrid solar-diesel system",
+        "100% solar photovoltaic",
+        "Wind power",
+        "Geothermal energy"
+      ],
+      "answer": "100% solar photovoltaic"
+    },
+    {
+      "question": "What was the implementation period for the solar-powered desalination project in Kenya?",
+      "choices": [
+        "6 months",
+        "12 months",
+        "18 months",
+        "24 months"
+      ],
+      "answer": "12 months"
+    },
+    {
+      "question": "Which of the following is NOT a lesson learned from the case studies presented?",
+      "choices": [
+        "Importance of community engagement",
+        "Need for ongoing operator training",
+        "Challenges in brine disposal",
+        "Preference for large-scale centralized systems"
+      ],
+      "answer": "Preference for large-scale centralized systems"
+    },
+    {
+      "question": "What is a key advantage of using solar power for desalination in remote areas?",
+      "choices": [
+        "Lower initial costs",
+        "Higher water production capacity",
+        "Elimination of reliance on diesel generators",
+        "Simpler maintenance procedures"
+      ],
+      "answer": "Elimination of reliance on diesel generators"
+    },
+    {
+      "question": "Which of the following is a potential application of capacitive deionization in Timor-Leste?",
+      "choices": [
+        "Large-scale seawater desalination",
+        "Treatment of high-salinity industrial wastewater",
+        "Point-of-use systems for remote areas",
+        "Brine concentration and zero liquid discharge systems"
+      ],
+      "answer": "Point-of-use systems for remote areas"
+    },
+    {
+      "question": "What is the principle behind forward osmosis desalination?",
+      "choices": [
+        "Using hydraulic pressure to force water through a membrane",
+        "Using osmotic pressure differential to separate water from salt",
+        "Using electrical charge to remove salt ions",
+        "Using thermal energy to evaporate water"
+      ],
+      "answer": "Using osmotic pressure differential to separate water from salt"
+    },
+    {
+      "question": "Which of the following is a key challenge in scaling up capacitive deionization technology?",
+      "choices": [
+        "High energy consumption",
+        "Low water quality",
+        "Electrode material optimization",
+        "Membrane fouling"
+      ],
+      "answer": "Electrode material optimization"
+    },
+    {
+      "question": "What is a potential advantage of integrating desalination with managed aquifer recharge?",
+      "choices": [
+        "Increased energy efficiency",
+        "Higher water production capacity",
+        "Resilience against drought",
+        "Lower initial investment costs"
+      ],
+      "answer": "Resilience against drought"
+    },
+    {
+      "question": "Which of the following is NOT a component of the hybrid solar-diesel system used in the Pacific island case study?",
+      "choices": [
+        "Solar panels",
+        "Diesel generator",
+        "Battery storage",
+        "Wind turbine"
+      ],
+      "answer": "Wind turbine"
+    },
+    {
+      "question": "What is the primary purpose of energy recovery devices in reverse osmosis systems?",
+      "choices": [
+        "To increase water production capacity",
+        "To improve water quality",
+        "To reduce energy consumption",
+        "To minimize brine discharge"
+      ],
+      "answer": "To reduce energy consumption"
+    },
+    {
+      "question": "Which of the following is a potential impact of climate change on water resources in Timor-Leste?",
+      "choices": [
+        "Increased groundwater recharge",
+        "Reduced evaporation from surface water sources",
+        "Saltwater intrusion into coastal aquifers",
+        "More consistent rainfall patterns"
+      ],
+      "answer": "Saltwater intrusion into coastal aquifers"
+    },
+    {
+      "question": "What is the primary advantage of using nanostructured membranes in desalination?",
+      "choices": [
+        "Lower cost",
+        "Higher water flux and improved salt rejection",
+        "Resistance to fouling",
+        "Compatibility with all feed water types"
+      ],
+      "answer": "Higher water flux and improved salt rejection"
+    },
+    {
+      "question": "Which of the following is a key consideration when integrating desalination into climate change adaptation strategies?",
+      "choices": [
+        "Maximizing water production capacity",
+        "Minimizing community involvement",
+        "Balancing environmental impacts and water security",
+        "Focusing solely on technological solutions"
+      ],
+      "answer": "Balancing environmental impacts and water security"
+    },
+    {
+      "question": "What is the primary challenge in implementing forward osmosis technology in Timor-Leste?",
+      "choices": [
+        "High energy requirements",
+        "Limited freshwater sources",
+        "Lack of suitable draw solutions",
+        "Cultural resistance to new technology"
+      ],
+      "answer": "Lack of suitable draw solutions"
+    },
+    {
+      "question": "Which of the following best describes the concept of a 'water stress index'?",
+      "choices": [
+        "The amount of rainfall in a given area",
+        "The ratio of water demand to available supply",
+        "The salinity level of groundwater",
+        "The frequency of droughts in a region"
+      ],
+      "answer": "The ratio of water demand to available supply"
+    },
+    {
+      "question": "What is a potential advantage of capacitive deionization for brackish water treatment in Timor-Leste?",
+      "choices": [
+        "High salt rejection for seawater",
+        "Low energy consumption for low-salinity feeds",
+        "Ability to treat large volumes of water",
+        "Integration with thermal energy sources"
+      ],
+      "answer": "Low energy consumption for low-salinity feeds"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a small-scale, solar-powered reverse osmosis system?",
+      "choices": [
+        "Solar panels",
+        "Energy recovery device",
+        "Thermal distillation unit",
+        "Pre-treatment filters"
+      ],
+      "answer": "Thermal distillation unit"
+    },
+    {
+      "question": "What is the primary purpose of a feasibility study for a desalination project?",
+      "choices": [
+        "To secure funding",
+        "To train local operators",
+        "To assess project viability and potential impacts",
+        "To design the plant layout"
+      ],
+      "answer": "To assess project viability and potential impacts"
+    }
+  ]
+}
