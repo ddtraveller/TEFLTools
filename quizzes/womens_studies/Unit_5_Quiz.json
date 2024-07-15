@@ -1,0 +1,305 @@
+{
+  "title": "Health and Well-being for Women in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the current fertility rate in Timor-Leste?",
+      "choices": [
+        "3.2 children per woman",
+        "4.5 children per woman",
+        "5.7 children per woman",
+        "6.9 children per woman"
+      ],
+      "answer": "5.7 children per woman"
+    },
+    {
+      "question": "What percentage of married women in Timor-Leste use modern contraceptive methods?",
+      "choices": [
+        "14%",
+        "24%",
+        "34%",
+        "44%"
+      ],
+      "answer": "24%"
+    },
+    {
+      "question": "What was the maternal mortality ratio in Timor-Leste in 2017?",
+      "choices": [
+        "92 deaths per 100,000 live births",
+        "142 deaths per 100,000 live births",
+        "192 deaths per 100,000 live births",
+        "242 deaths per 100,000 live births"
+      ],
+      "answer": "142 deaths per 100,000 live births"
+    },
+    {
+      "question": "What percentage of pregnant women in Timor-Leste receive at least one antenatal care visit?",
+      "choices": [
+        "64%",
+        "74%",
+        "84%",
+        "94%"
+      ],
+      "answer": "84%"
+    },
+    {
+      "question": "What percentage of births in Timor-Leste are attended by skilled health personnel?",
+      "choices": [
+        "37%",
+        "47%",
+        "57%",
+        "67%"
+      ],
+      "answer": "57%"
+    },
+    {
+      "question": "According to a 2016 study, what percentage of women aged 15-49 in Timor-Leste have experienced physical or sexual violence by an intimate partner in their lifetime?",
+      "choices": [
+        "39%",
+        "49%",
+        "59%",
+        "69%"
+      ],
+      "answer": "59%"
+    },
+    {
+      "question": "In which year did Timor-Leste pass the Law Against Domestic Violence?",
+      "choices": [
+        "2005",
+        "2010",
+        "2015",
+        "2020"
+      ],
+      "answer": "2010"
+    },
+    {
+      "question": "What is the contraceptive prevalence rate in Timor-Leste according to the 2016 data?",
+      "choices": [
+        "16%",
+        "26%",
+        "36%",
+        "46%"
+      ],
+      "answer": "26%"
+    },
+    {
+      "question": "What is the unmet need for family planning in Timor-Leste according to 2016 data?",
+      "choices": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "What is the adolescent birth rate in Timor-Leste (births per 1,000 women aged 15-19) as of 2017?",
+      "choices": [
+        "22",
+        "32",
+        "42",
+        "52"
+      ],
+      "answer": "42"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a main cause of maternal mortality in Timor-Leste?",
+      "choices": [
+        "Postpartum hemorrhage",
+        "Eclampsia",
+        "Obstructed labor",
+        "Malaria"
+      ],
+      "answer": "Malaria"
+    },
+    {
+      "question": "What is the name of the safe rooms provided in hospitals for domestic violence victims in Timor-Leste?",
+      "choices": [
+        "Uma Mahon",
+        "Fatin Hakmatek",
+        "ALFeLa",
+        "PRADET"
+      ],
+      "answer": "Fatin Hakmatek"
+    },
+    {
+      "question": "Which organization provides legal aid for domestic violence victims in Timor-Leste?",
+      "choices": [
+        "Uma Mahon",
+        "Fatin Hakmatek",
+        "ALFeLa",
+        "PRADET"
+      ],
+      "answer": "ALFeLa"
+    },
+    {
+      "question": "What does the Law Against Domestic Violence in Timor-Leste define domestic violence as?",
+      "choices": [
+        "A private matter",
+        "A civil dispute",
+        "A public crime",
+        "A family issue"
+      ],
+      "answer": "A public crime"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a cultural barrier to family planning in Timor-Leste?",
+      "choices": [
+        "Traditional beliefs favoring large families",
+        "Limited decision-making power for women",
+        "Religious opposition to contraception",
+        "Government policies discouraging family planning"
+      ],
+      "answer": "Government policies discouraging family planning"
+    },
+    {
+      "question": "What is the primary purpose of antenatal care?",
+      "choices": [
+        "To provide contraception",
+        "To perform cesarean sections",
+        "To detect and manage pregnancy complications",
+        "To promote home births"
+      ],
+      "answer": "To detect and manage pregnancy complications"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge in accessing maternal health services in Timor-Leste?",
+      "choices": [
+        "Geographic barriers in rural areas",
+        "Shortage of skilled health workers",
+        "Limited transportation options",
+        "High cost of services"
+      ],
+      "answer": "High cost of services"
+    },
+    {
+      "question": "What percentage of women who experienced violence in Timor-Leste sought help, according to the statistics provided?",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "answer": "20%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a form of domestic violence in the lesson content?",
+      "choices": [
+        "Physical abuse",
+        "Emotional/psychological abuse",
+        "Economic abuse",
+        "Cyber abuse"
+      ],
+      "answer": "Cyber abuse"
+    },
+    {
+      "question": "What is the name of the shelters provided for domestic violence victims in Timor-Leste?",
+      "choices": [
+        "Uma Mahon",
+        "Fatin Hakmatek",
+        "ALFeLa",
+        "PRADET"
+      ],
+      "answer": "Uma Mahon"
+    },
+    {
+      "question": "Which organization provides psychosocial support for domestic violence victims in Timor-Leste?",
+      "choices": [
+        "Uma Mahon",
+        "Fatin Hakmatek",
+        "ALFeLa",
+        "PRADET"
+      ],
+      "answer": "PRADET"
+    },
+    {
+      "question": "What is the primary goal of family planning?",
+      "choices": [
+        "To increase the population",
+        "To control the number and spacing of children",
+        "To promote traditional birth practices",
+        "To discourage the use of contraceptives"
+      ],
+      "answer": "To control the number and spacing of children"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as an available family planning method in Timor-Leste?",
+      "choices": [
+        "Oral contraceptives",
+        "Injectable contraceptives",
+        "Intrauterine devices (IUDs)",
+        "Contraceptive implants"
+      ],
+      "answer": "Contraceptive implants"
+    },
+    {
+      "question": "What is the main cultural preference for childbirth assistance in rural areas of Timor-Leste?",
+      "choices": [
+        "Hospital-based delivery",
+        "Midwife-assisted home birth",
+        "Traditional birth attendants",
+        "Unassisted home birth"
+      ],
+      "answer": "Traditional birth attendants"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key strategy for improving women's health in Timor-Leste?",
+      "choices": [
+        "Expanding access to family planning services",
+        "Strengthening the healthcare system",
+        "Implementing programs to address domestic violence",
+        "Promoting traditional medicine practices"
+      ],
+      "answer": "Promoting traditional medicine practices"
+    },
+    {
+      "question": "What is the recommended number of antenatal care visits during pregnancy?",
+      "choices": [
+        "At least 1 visit",
+        "At least 2 visits",
+        "At least 3 visits",
+        "At least 4 visits"
+      ],
+      "answer": "At least 4 visits"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential solution for improving maternal health outcomes in Timor-Leste?",
+      "choices": [
+        "Discouraging hospital births",
+        "Promoting traditional birth practices",
+        "Improving access to skilled birth attendants",
+        "Reducing the number of antenatal care visits"
+      ],
+      "answer": "Improving access to skilled birth attendants"
+    },
+    {
+      "question": "What is the primary challenge in implementing the Law Against Domestic Violence in Timor-Leste?",
+      "choices": [
+        "Lack of legal framework",
+        "Insufficient penalties for offenders",
+        "Limited resources and cultural norms",
+        "Absence of support services"
+      ],
+      "answer": "Limited resources and cultural norms"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key area for improving women's health and well-being in Timor-Leste?",
+      "choices": [
+        "Reproductive health",
+        "Maternal and child health",
+        "Domestic violence prevention",
+        "Geriatric care"
+      ],
+      "answer": "Geriatric care"
+    },
+    {
+      "question": "What is the primary goal of community health education plans in the context of women's health in Timor-Leste?",
+      "choices": [
+        "To increase government funding",
+        "To promote traditional healing practices",
+        "To educate communities on key health issues",
+        "To recruit more healthcare workers"
+      ],
+      "answer": "To educate communities on key health issues"
+    }
+  ]
+}

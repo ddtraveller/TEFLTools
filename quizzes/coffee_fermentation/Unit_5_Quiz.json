@@ -1,0 +1,305 @@
+{
+  "title": "Coffee Roasting",
+  "questions": [
+    {
+      "question": "What is the primary purpose of coffee roasting?",
+      "choices": [
+        "To increase the caffeine content",
+        "To develop flavors and aromas",
+        "To remove moisture from the beans",
+        "To change the color of the beans"
+      ],
+      "answer": "To develop flavors and aromas"
+    },
+    {
+      "question": "Which chemical reaction is responsible for the development of many flavors during coffee roasting?",
+      "choices": [
+        "Oxidation",
+        "Hydrolysis",
+        "Maillard reaction",
+        "Fermentation"
+      ],
+      "answer": "Maillard reaction"
+    },
+    {
+      "question": "What is the 'first crack' in coffee roasting?",
+      "choices": [
+        "The sound of beans breaking during grinding",
+        "An audible popping sound when beans expand and cell walls break",
+        "The initial heating of the roasting drum",
+        "The moment when chaff separates from the beans"
+      ],
+      "answer": "An audible popping sound when beans expand and cell walls break"
+    },
+    {
+      "question": "Which of the following is NOT a typical roast level?",
+      "choices": [
+        "Light",
+        "Medium",
+        "Dark",
+        "Extreme"
+      ],
+      "answer": "Extreme"
+    },
+    {
+      "question": "What is chaff in coffee roasting?",
+      "choices": [
+        "Unroasted coffee beans",
+        "The silverskin or outer layer that comes off during roasting",
+        "A type of coffee defect",
+        "The residue left in the roasting machine"
+      ],
+      "answer": "The silverskin or outer layer that comes off during roasting"
+    },
+    {
+      "question": "What is degassing in the context of coffee roasting?",
+      "choices": [
+        "Removing oxygen from the roasting environment",
+        "The release of CO2 from freshly roasted coffee beans",
+        "Cooling down the beans after roasting",
+        "Removing moisture from green coffee beans"
+      ],
+      "answer": "The release of CO2 from freshly roasted coffee beans"
+    },
+    {
+      "question": "Which stage of roasting is endothermic?",
+      "choices": [
+        "Early stage",
+        "Middle stage",
+        "Late stage",
+        "Cooling stage"
+      ],
+      "answer": "Early stage"
+    },
+    {
+      "question": "What is a roast profile?",
+      "choices": [
+        "The flavor description of a roasted coffee",
+        "The planned progression of time and temperature during roasting",
+        "The color of the roasted beans",
+        "The type of roasting machine used"
+      ],
+      "answer": "The planned progression of time and temperature during roasting"
+    },
+    {
+      "question": "Which of the following is a traditional coffee roasting method in Timor-Leste?",
+      "choices": [
+        "Air roasting",
+        "Drum roasting",
+        "Pan roasting",
+        "Fluid bed roasting"
+      ],
+      "answer": "Pan roasting"
+    },
+    {
+      "question": "What typically happens to the acidity of coffee as the roast level darkens?",
+      "choices": [
+        "It increases",
+        "It decreases",
+        "It remains constant",
+        "It fluctuates randomly"
+      ],
+      "answer": "It decreases"
+    },
+    {
+      "question": "Which of the following is NOT a variable typically controlled during coffee roasting?",
+      "choices": [
+        "Time",
+        "Temperature",
+        "Airflow",
+        "Humidity"
+      ],
+      "answer": "Humidity"
+    },
+    {
+      "question": "What is caramelization in coffee roasting?",
+      "choices": [
+        "The breakdown of complex sugars into simpler ones",
+        "The formation of oil on the bean surface",
+        "The evaporation of water from the beans",
+        "The development of fruity flavors"
+      ],
+      "answer": "The breakdown of complex sugars into simpler ones"
+    },
+    {
+      "question": "Which roast level typically has the highest acidity?",
+      "choices": [
+        "Light roast",
+        "Medium roast",
+        "Dark roast",
+        "French roast"
+      ],
+      "answer": "Light roast"
+    },
+    {
+      "question": "What is the purpose of a cooling tray in coffee roasting?",
+      "choices": [
+        "To sort beans by size",
+        "To quickly stop the roasting process",
+        "To remove chaff",
+        "To package the roasted beans"
+      ],
+      "answer": "To quickly stop the roasting process"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of dark roast coffee?",
+      "choices": [
+        "Low acidity",
+        "Oily surface",
+        "Bright, fruity flavors",
+        "Full body"
+      ],
+      "answer": "Bright, fruity flavors"
+    },
+    {
+      "question": "What is the 'second crack' in coffee roasting?",
+      "choices": [
+        "The sound of beans cooling down",
+        "A louder, more violent popping occurring in darker roasts",
+        "The initial expansion of beans",
+        "The sound of chaff being removed"
+      ],
+      "answer": "A louder, more violent popping occurring in darker roasts"
+    },
+    {
+      "question": "Which of the following is a key difference between traditional and modern roasting techniques?",
+      "choices": [
+        "Traditional methods always produce better quality coffee",
+        "Modern techniques allow for more precise control of variables",
+        "Traditional methods are faster",
+        "Modern techniques don't require skill or experience"
+      ],
+      "answer": "Modern techniques allow for more precise control of variables"
+    },
+    {
+      "question": "What is the primary purpose of cupping in relation to coffee roasting?",
+      "choices": [
+        "To determine the caffeine content",
+        "To evaluate and compare flavors, aromas, and body",
+        "To measure the moisture content of beans",
+        "To calculate the yield of the roast"
+      ],
+      "answer": "To evaluate and compare flavors, aromas, and body"
+    },
+    {
+      "question": "Which of the following is NOT typically recorded on a roast log?",
+      "choices": [
+        "Time",
+        "Temperature",
+        "Bean origin",
+        "Roaster's blood type"
+      ],
+      "answer": "Roaster's blood type"
+    },
+    {
+      "question": "What is the typical color of light roast coffee beans?",
+      "choices": [
+        "Dark brown",
+        "Light brown",
+        "Tan or light brown",
+        "Black"
+      ],
+      "answer": "Tan or light brown"
+    },
+    {
+      "question": "Which of the following is a benefit of using a drum roaster?",
+      "choices": [
+        "It's the cheapest roasting method",
+        "It allows for even heat distribution",
+        "It's the fastest roasting method",
+        "It requires no skill to operate"
+      ],
+      "answer": "It allows for even heat distribution"
+    },
+    {
+      "question": "What is the primary difference between air roasting and drum roasting?",
+      "choices": [
+        "Air roasting uses cold air",
+        "Drum roasting is always faster",
+        "Air roasting uses hot air to roast beans, while drum roasting uses a heated rotating drum",
+        "Air roasting produces darker roasts"
+      ],
+      "answer": "Air roasting uses hot air to roast beans, while drum roasting uses a heated rotating drum"
+    },
+    {
+      "question": "Which of the following factors does NOT directly affect the roast profile?",
+      "choices": [
+        "Ambient temperature",
+        "Bean density",
+        "Roaster's mood",
+        "Initial bean moisture content"
+      ],
+      "answer": "Roaster's mood"
+    },
+    {
+      "question": "What is the purpose of a flavor wheel in coffee cupping?",
+      "choices": [
+        "To determine the roast level",
+        "To measure caffeine content",
+        "To provide a common language for describing coffee flavors",
+        "To calculate the price of the coffee"
+      ],
+      "answer": "To provide a common language for describing coffee flavors"
+    },
+    {
+      "question": "Which of the following is NOT a typical stage in the coffee roasting process?",
+      "choices": [
+        "Drying phase",
+        "Maillard reaction phase",
+        "Development phase",
+        "Fermentation phase"
+      ],
+      "answer": "Fermentation phase"
+    },
+    {
+      "question": "What typically happens to the body of coffee as the roast level darkens?",
+      "choices": [
+        "It becomes lighter",
+        "It becomes heavier",
+        "It remains constant",
+        "It disappears completely"
+      ],
+      "answer": "It becomes heavier"
+    },
+    {
+      "question": "Which of the following is a characteristic of Timorese coffee that might influence roasting decisions?",
+      "choices": [
+        "It's always Robusta",
+        "It's typically very low in acidity",
+        "It often includes the Timor Hybrid variety",
+        "It's always dark roasted"
+      ],
+      "answer": "It often includes the Timor Hybrid variety"
+    },
+    {
+      "question": "What is the primary purpose of adjusting airflow during coffee roasting?",
+      "choices": [
+        "To cool the beans",
+        "To remove chaff",
+        "To control the rate of heat transfer",
+        "To increase humidity"
+      ],
+      "answer": "To control the rate of heat transfer"
+    },
+    {
+      "question": "Which of the following is NOT a typical consideration when developing a roast profile for a specific coffee?",
+      "choices": [
+        "Bean density",
+        "Desired flavor characteristics",
+        "Processing method of the green coffee",
+        "Zodiac sign of the coffee farmer"
+      ],
+      "answer": "Zodiac sign of the coffee farmer"
+    },
+    {
+      "question": "What is the primary reason for conducting comparative cuppings of different roast levels?",
+      "choices": [
+        "To determine which roast level is objectively the best",
+        "To understand how roast level affects flavor profile",
+        "To measure caffeine content",
+        "To determine the market price of the coffee"
+      ],
+      "answer": "To understand how roast level affects flavor profile"
+    }
+  ]
+}

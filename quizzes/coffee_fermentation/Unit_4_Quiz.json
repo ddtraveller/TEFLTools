@@ -1,0 +1,305 @@
+{
+  "title": "Drying and Storage of Coffee",
+  "questions": [
+    {
+      "question": "What is the primary purpose of drying coffee beans?",
+      "choices": [
+        "To enhance flavor",
+        "To reduce moisture content",
+        "To increase caffeine levels",
+        "To change bean color"
+      ],
+      "answer": "To reduce moisture content"
+    },
+    {
+      "question": "Which of the following is NOT a common method for drying coffee?",
+      "choices": [
+        "Sun drying",
+        "Mechanical drying",
+        "Freeze drying",
+        "Patio drying"
+      ],
+      "answer": "Freeze drying"
+    },
+    {
+      "question": "What is the ideal moisture content for storing green coffee beans?",
+      "choices": [
+        "5-8%",
+        "10-12%",
+        "15-18%",
+        "20-25%"
+      ],
+      "answer": "10-12%"
+    },
+    {
+      "question": "What term describes the ability of coffee beans to absorb moisture from the air?",
+      "choices": [
+        "Hydrophilic",
+        "Hygroscopic",
+        "Hydrostatic",
+        "Hygrometric"
+      ],
+      "answer": "Hygroscopic"
+    },
+    {
+      "question": "Which factor is NOT critical for proper coffee storage?",
+      "choices": [
+        "Temperature control",
+        "Humidity control",
+        "Light exposure",
+        "Oxygen levels"
+      ],
+      "answer": "Light exposure"
+    },
+    {
+      "question": "What is parchment coffee?",
+      "choices": [
+        "Coffee beans still in the cherry",
+        "Coffee beans with the parchment layer attached",
+        "Fully processed green coffee beans",
+        "Roasted coffee beans"
+      ],
+      "answer": "Coffee beans with the parchment layer attached"
+    },
+    {
+      "question": "Which packaging material is most effective for long-term coffee storage?",
+      "choices": [
+        "Paper bags",
+        "Jute bags",
+        "GrainPro bags",
+        "Plastic containers"
+      ],
+      "answer": "GrainPro bags"
+    },
+    {
+      "question": "What instrument is commonly used to measure coffee bean moisture content?",
+      "choices": [
+        "Hygrometer",
+        "Thermometer",
+        "Moisture meter",
+        "pH meter"
+      ],
+      "answer": "Moisture meter"
+    },
+    {
+      "question": "What is water activity in relation to coffee storage?",
+      "choices": [
+        "The amount of water added during processing",
+        "The rate of water evaporation during drying",
+        "The amount of water available for microbial growth and chemical reactions",
+        "The water content of the coffee cherry"
+      ],
+      "answer": "The amount of water available for microbial growth and chemical reactions"
+    },
+    {
+      "question": "Which of the following is an advantage of mechanical drying over sun drying?",
+      "choices": [
+        "Lower energy costs",
+        "Better flavor development",
+        "More consistent results",
+        "Simpler process"
+      ],
+      "answer": "More consistent results"
+    },
+    {
+      "question": "What is equilibrium moisture content in coffee storage?",
+      "choices": [
+        "The moisture content at which coffee is harvested",
+        "The moisture content at which coffee neither gains nor loses moisture to the surrounding air",
+        "The maximum allowable moisture content for export",
+        "The moisture content at which coffee begins to spoil"
+      ],
+      "answer": "The moisture content at which coffee neither gains nor loses moisture to the surrounding air"
+    },
+    {
+      "question": "Which pest is a major concern in coffee storage?",
+      "choices": [
+        "Coffee berry borer",
+        "Leaf rust",
+        "Root-knot nematode",
+        "Coffee bean weevil"
+      ],
+      "answer": "Coffee bean weevil"
+    },
+    {
+      "question": "What is the main disadvantage of sun drying coffee?",
+      "choices": [
+        "High energy costs",
+        "Dependence on weather conditions",
+        "Rapid moisture loss",
+        "Uneven drying"
+      ],
+      "answer": "Dependence on weather conditions"
+    },
+    {
+      "question": "Which factor does NOT affect the rate of coffee drying?",
+      "choices": [
+        "Air temperature",
+        "Relative humidity",
+        "Airflow",
+        "Bean variety"
+      ],
+      "answer": "Bean variety"
+    },
+    {
+      "question": "What is the purpose of turning coffee beans during sun drying?",
+      "choices": [
+        "To increase drying speed",
+        "To ensure even drying",
+        "To prevent fermentation",
+        "To improve flavor"
+      ],
+      "answer": "To ensure even drying"
+    },
+    {
+      "question": "Which of the following is a sign of over-dried coffee beans?",
+      "choices": [
+        "Mold growth",
+        "Brittle texture",
+        "Strong aroma",
+        "Dark color"
+      ],
+      "answer": "Brittle texture"
+    },
+    {
+      "question": "What is the recommended relative humidity for coffee storage?",
+      "choices": [
+        "30-40%",
+        "50-60%",
+        "70-80%",
+        "90-100%"
+      ],
+      "answer": "50-60%"
+    },
+    {
+      "question": "Which type of coffee generally requires a longer drying time?",
+      "choices": [
+        "Washed coffee",
+        "Natural processed coffee",
+        "Honey processed coffee",
+        "Decaffeinated coffee"
+      ],
+      "answer": "Natural processed coffee"
+    },
+    {
+      "question": "What is the primary purpose of using GrainPro bags for coffee storage?",
+      "choices": [
+        "To prevent insect infestation",
+        "To maintain moisture content",
+        "To improve coffee flavor",
+        "To reduce transportation costs"
+      ],
+      "answer": "To maintain moisture content"
+    },
+    {
+      "question": "Which of the following is NOT a common defect caused by improper drying?",
+      "choices": [
+        "Mold growth",
+        "Faded color",
+        "Increased acidity",
+        "Uneven bean size"
+      ],
+      "answer": "Uneven bean size"
+    },
+    {
+      "question": "What is the recommended temperature range for storing green coffee beans?",
+      "choices": [
+        "0-5°C",
+        "10-15°C",
+        "20-25°C",
+        "30-35°C"
+      ],
+      "answer": "20-25°C"
+    },
+    {
+      "question": "Which of the following is a benefit of proper coffee storage?",
+      "choices": [
+        "Increased caffeine content",
+        "Enhanced flavor development",
+        "Faster roasting time",
+        "Preserved quality and freshness"
+      ],
+      "answer": "Preserved quality and freshness"
+    },
+    {
+      "question": "What is the main advantage of vacuum-sealed packaging for coffee?",
+      "choices": [
+        "Lower cost",
+        "Better moisture control",
+        "Reduced oxygen exposure",
+        "Improved flavor"
+      ],
+      "answer": "Reduced oxygen exposure"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting coffee drying time?",
+      "choices": [
+        "Initial moisture content",
+        "Ambient temperature",
+        "Relative humidity",
+        "Coffee origin"
+      ],
+      "answer": "Coffee origin"
+    },
+    {
+      "question": "What is the purpose of a cupping session after drying coffee?",
+      "choices": [
+        "To determine moisture content",
+        "To assess flavor and quality",
+        "To measure bean density",
+        "To check for defects"
+      ],
+      "answer": "To assess flavor and quality"
+    },
+    {
+      "question": "Which of the following is a potential consequence of storing coffee at high humidity levels?",
+      "choices": [
+        "Loss of caffeine",
+        "Increased acidity",
+        "Mold growth",
+        "Improved flavor"
+      ],
+      "answer": "Mold growth"
+    },
+    {
+      "question": "What is the primary advantage of mechanical drying over sun drying?",
+      "choices": [
+        "Lower energy costs",
+        "Better flavor development",
+        "Faster drying time",
+        "More environmentally friendly"
+      ],
+      "answer": "Faster drying time"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for sun drying coffee?",
+      "choices": [
+        "Using raised beds",
+        "Covering beans at night",
+        "Stirring beans regularly",
+        "Drying beans on bare ground"
+      ],
+      "answer": "Drying beans on bare ground"
+    },
+    {
+      "question": "What is the main purpose of monitoring water activity in stored coffee?",
+      "choices": [
+        "To control roast profiles",
+        "To predict shelf life",
+        "To determine origin",
+        "To enhance flavor"
+      ],
+      "answer": "To predict shelf life"
+    },
+    {
+      "question": "Which of the following is a characteristic of under-dried coffee beans?",
+      "choices": [
+        "Brittle texture",
+        "Faded color",
+        "High risk of mold growth",
+        "Improved flavor"
+      ],
+      "answer": "High risk of mold growth"
+    }
+  ]
+}

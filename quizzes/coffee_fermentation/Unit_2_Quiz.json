@@ -1,0 +1,305 @@
+{
+  "title": "Coffee Cherry Processing Methods",
+  "questions": [
+    {
+      "question": "Which processing method involves removing the cherry's outer skin and pulp before drying the beans?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Wet processing"
+    },
+    {
+      "question": "What is another name for dry processing?",
+      "choices": [
+        "Washed coffee",
+        "Natural coffee",
+        "Honey coffee",
+        "Pulped natural coffee"
+      ],
+      "answer": "Natural coffee"
+    },
+    {
+      "question": "In honey processing, what determines whether it's yellow, red, or black honey?",
+      "choices": [
+        "The type of coffee cherry used",
+        "The drying time",
+        "The amount of mucilage left on the bean",
+        "The fermentation duration"
+      ],
+      "answer": "The amount of mucilage left on the bean"
+    },
+    {
+      "question": "Which processing method typically produces coffees with bright acidity and clean flavors?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Wet processing"
+    },
+    {
+      "question": "What is the typical duration of fermentation in wet processing?",
+      "choices": [
+        "1-6 hours",
+        "12-36 hours",
+        "2-4 days",
+        "1-2 weeks"
+      ],
+      "answer": "12-36 hours"
+    },
+    {
+      "question": "Which processing method is considered the oldest?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Dry processing"
+    },
+    {
+      "question": "What is the target moisture content for dried coffee beans in most processing methods?",
+      "choices": [
+        "5-7%",
+        "10-12%",
+        "15-18%",
+        "20-25%"
+      ],
+      "answer": "10-12%"
+    },
+    {
+      "question": "Which processing method typically requires the most water?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Wet processing"
+    },
+    {
+      "question": "In dry processing, how long does it typically take to dry the coffee cherries?",
+      "choices": [
+        "2-4 days",
+        "1-2 weeks",
+        "2-4 weeks",
+        "1-2 months"
+      ],
+      "answer": "2-4 weeks"
+    },
+    {
+      "question": "Which processing method is most likely to produce coffees with wine-like flavors?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Dry processing"
+    },
+    {
+      "question": "What is the purpose of fermentation in wet processing?",
+      "choices": [
+        "To remove the cherry skin",
+        "To break down the mucilage layer",
+        "To increase caffeine content",
+        "To enhance the coffee's acidity"
+      ],
+      "answer": "To break down the mucilage layer"
+    },
+    {
+      "question": "Which processing method typically produces coffees with the fullest body?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Dry processing"
+    },
+    {
+      "question": "What is the main risk associated with extended drying times in dry processing?",
+      "choices": [
+        "Over-fermentation",
+        "Loss of caffeine",
+        "Mold growth",
+        "Increased acidity"
+      ],
+      "answer": "Mold growth"
+    },
+    {
+      "question": "Which processing method is most suitable for regions with limited water resources?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Dry processing"
+    },
+    {
+      "question": "In honey processing, which type leaves the least amount of mucilage on the bean?",
+      "choices": [
+        "Yellow honey",
+        "Red honey",
+        "Black honey",
+        "White honey"
+      ],
+      "answer": "Yellow honey"
+    },
+    {
+      "question": "What equipment is typically used for pulping in wet processing?",
+      "choices": [
+        "Fermentation tanks",
+        "Drying beds",
+        "Pulping machines",
+        "Roasting drums"
+      ],
+      "answer": "Pulping machines"
+    },
+    {
+      "question": "Which processing method often produces coffees with a balanced sweetness and moderate acidity?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Honey processing"
+    },
+    {
+      "question": "What is the primary purpose of sorting coffee cherries before processing?",
+      "choices": [
+        "To separate different varieties",
+        "To remove underripe and defective cherries",
+        "To enhance fermentation",
+        "To increase drying speed"
+      ],
+      "answer": "To remove underripe and defective cherries"
+    },
+    {
+      "question": "Which factor does NOT typically affect fermentation in wet processing?",
+      "choices": [
+        "Temperature",
+        "pH",
+        "Time",
+        "Altitude"
+      ],
+      "answer": "Altitude"
+    },
+    {
+      "question": "What is the main advantage of wet processing over dry processing?",
+      "choices": [
+        "Lower water usage",
+        "Faster processing time",
+        "More consistent quality",
+        "Fuller body in the cup"
+      ],
+      "answer": "More consistent quality"
+    },
+    {
+      "question": "In which processing method are coffee cherries typically spread on patios or raised beds to dry?",
+      "choices": [
+        "Wet processing only",
+        "Dry processing only",
+        "Both wet and dry processing",
+        "Neither wet nor dry processing"
+      ],
+      "answer": "Both wet and dry processing"
+    },
+    {
+      "question": "What is the purpose of regularly turning coffee cherries during dry processing?",
+      "choices": [
+        "To speed up fermentation",
+        "To ensure even drying",
+        "To increase caffeine content",
+        "To remove the mucilage"
+      ],
+      "answer": "To ensure even drying"
+    },
+    {
+      "question": "Which processing method typically requires the least equipment?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Dry processing"
+    },
+    {
+      "question": "What is the main challenge associated with honey processing?",
+      "choices": [
+        "High water usage",
+        "Long fermentation times",
+        "Precise control during drying",
+        "Difficulty in removing cherry skins"
+      ],
+      "answer": "Precise control during drying"
+    },
+    {
+      "question": "Which processing method is most likely to produce coffees with the highest clarity of flavor?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Wet processing"
+    },
+    {
+      "question": "What is the purpose of washing in wet processing?",
+      "choices": [
+        "To start fermentation",
+        "To remove remaining mucilage",
+        "To separate different bean sizes",
+        "To increase acidity"
+      ],
+      "answer": "To remove remaining mucilage"
+    },
+    {
+      "question": "Which processing method typically has the longest overall processing time?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Dry processing"
+    },
+    {
+      "question": "What is the main difference between yellow and black honey processing?",
+      "choices": [
+        "Drying time",
+        "Fermentation duration",
+        "Amount of mucilage left on the bean",
+        "Type of coffee cherry used"
+      ],
+      "answer": "Amount of mucilage left on the bean"
+    },
+    {
+      "question": "Which processing method is most commonly used for high-quality Arabica coffees?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Honey processing",
+        "Semi-washed processing"
+      ],
+      "answer": "Wet processing"
+    },
+    {
+      "question": "What is the final step in most coffee processing methods?",
+      "choices": [
+        "Fermentation",
+        "Pulping",
+        "Drying",
+        "Roasting"
+      ],
+      "answer": "Drying"
+    }
+  ]
+}

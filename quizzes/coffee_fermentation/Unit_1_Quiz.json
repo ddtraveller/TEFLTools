@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Coffee in Timor-Leste",
+  "questions": [
+    {
+      "question": "When was coffee first introduced to Timor-Leste?",
+      "choices": [
+        "Early 18th century",
+        "Early 19th century",
+        "Late 19th century",
+        "Early 20th century"
+      ],
+      "answer": "Early 19th century"
+    },
+    {
+      "question": "Who introduced coffee to Timor-Leste?",
+      "choices": [
+        "Indonesian colonizers",
+        "Dutch traders",
+        "Portuguese colonizers",
+        "British merchants"
+      ],
+      "answer": "Portuguese colonizers"
+    },
+    {
+      "question": "What percentage of Timor-Leste's agricultural exports does coffee account for?",
+      "choices": [
+        "50%",
+        "65%",
+        "80%",
+        "95%"
+      ],
+      "answer": "80%"
+    },
+    {
+      "question": "Approximately what percentage of Timorese households are involved in coffee farming?",
+      "choices": [
+        "10%",
+        "25%",
+        "40%",
+        "55%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "Which of the following is NOT a main export market for Timorese coffee?",
+      "choices": [
+        "USA",
+        "Germany",
+        "China",
+        "Australia"
+      ],
+      "answer": "China"
+    },
+    {
+      "question": "What is the approximate annual coffee export volume for Timor-Leste?",
+      "choices": [
+        "1,000-3,000 tons",
+        "4,000-6,000 tons",
+        "7,000-10,000 tons",
+        "11,000-15,000 tons"
+      ],
+      "answer": "7,000-10,000 tons"
+    },
+    {
+      "question": "Which coffee variety is known for its lower caffeine content and complex flavor profile?",
+      "choices": [
+        "Arabica",
+        "Robusta",
+        "Timor Hybrid",
+        "Liberica"
+      ],
+      "answer": "Arabica"
+    },
+    {
+      "question": "At what altitude is Arabica coffee primarily grown in Timor-Leste?",
+      "choices": [
+        "Below 500 meters",
+        "500-1,000 meters",
+        "Above 1,000 meters",
+        "Above 2,000 meters"
+      ],
+      "answer": "Above 1,000 meters"
+    },
+    {
+      "question": "Which of the following is NOT a main Arabica-growing region in Timor-Leste?",
+      "choices": [
+        "Ermera",
+        "Aileu",
+        "Liquiçá",
+        "Manufahi"
+      ],
+      "answer": "Liquiçá"
+    },
+    {
+      "question": "What are the typical flavor notes associated with Timorese Arabica coffee?",
+      "choices": [
+        "Spicy and earthy",
+        "Floral and grassy",
+        "Chocolate, caramel, and citrus",
+        "Tobacco and leather"
+      ],
+      "answer": "Chocolate, caramel, and citrus"
+    },
+    {
+      "question": "Which coffee variety is known for its higher caffeine content and more bitter flavor?",
+      "choices": [
+        "Arabica",
+        "Robusta",
+        "Timor Hybrid",
+        "Excelsa"
+      ],
+      "answer": "Robusta"
+    },
+    {
+      "question": "In which regions of Timor-Leste is Robusta coffee primarily grown?",
+      "choices": [
+        "Ermera and Aileu",
+        "Liquiçá and parts of Bobonaro",
+        "Ainaro and Manufahi",
+        "Baucau and Viqueque"
+      ],
+      "answer": "Liquiçá and parts of Bobonaro"
+    },
+    {
+      "question": "What is the Timor Hybrid?",
+      "choices": [
+        "A man-made cross between Arabica and Robusta",
+        "A naturally occurring hybrid of Arabica and Robusta",
+        "A cross between Arabica and Liberica",
+        "A genetically modified coffee variety"
+      ],
+      "answer": "A naturally occurring hybrid of Arabica and Robusta"
+    },
+    {
+      "question": "When was the Timor Hybrid first discovered?",
+      "choices": [
+        "1907",
+        "1927",
+        "1947",
+        "1967"
+      ],
+      "answer": "1927"
+    },
+    {
+      "question": "What are the key features of the Timor Hybrid?",
+      "choices": [
+        "High yield and low quality",
+        "Disease resistance and Arabica-like quality",
+        "High caffeine content and bitter taste",
+        "Low yield and high acidity"
+      ],
+      "answer": "Disease resistance and Arabica-like quality"
+    },
+    {
+      "question": "Which popular coffee varieties have been developed using the Timor Hybrid?",
+      "choices": [
+        "Geisha and Bourbon",
+        "Typica and Caturra",
+        "Catimor and Sarchimor",
+        "Pacamara and Maragogipe"
+      ],
+      "answer": "Catimor and Sarchimor"
+    },
+    {
+      "question": "What is the primary use of the Timor Hybrid in global coffee breeding programs?",
+      "choices": [
+        "Increasing caffeine content",
+        "Improving flavor profiles",
+        "Developing disease-resistant varieties",
+        "Enhancing yield potential"
+      ],
+      "answer": "Developing disease-resistant varieties"
+    },
+    {
+      "question": "What percentage of Timor-Leste's GDP does coffee contribute?",
+      "choices": [
+        "About 5%",
+        "About 10%",
+        "About 15%",
+        "About 20%"
+      ],
+      "answer": "About 10%"
+    },
+    {
+      "question": "Which of the following is NOT a challenge facing the coffee industry in Timor-Leste?",
+      "choices": [
+        "Aging coffee trees",
+        "Limited access to modern farming techniques",
+        "Vulnerability to climate change",
+        "Overproduction of coffee"
+      ],
+      "answer": "Overproduction of coffee"
+    },
+    {
+      "question": "What is the focus of recent efforts to develop Timor-Leste's coffee industry?",
+      "choices": [
+        "Increasing production volume",
+        "Developing the specialty coffee market",
+        "Promoting Robusta cultivation",
+        "Expanding into instant coffee production"
+      ],
+      "answer": "Developing the specialty coffee market"
+    },
+    {
+      "question": "What is 'terroir' in the context of coffee production?",
+      "choices": [
+        "A type of coffee processing method",
+        "A coffee grading system",
+        "Environmental factors affecting coffee flavor",
+        "A coffee plant disease"
+      ],
+      "answer": "Environmental factors affecting coffee flavor"
+    },
+    {
+      "question": "Which factors contribute to the unique terroir of Timorese coffee?",
+      "choices": [
+        "Flat terrain and dry climate",
+        "Mountainous terrain, tropical climate, and volcanic soils",
+        "Coastal regions and sandy soils",
+        "Desert conditions and high altitudes"
+      ],
+      "answer": "Mountainous terrain, tropical climate, and volcanic soils"
+    },
+    {
+      "question": "During which historical period did coffee production in Timor-Leste focus on quantity over quality?",
+      "choices": [
+        "Portuguese colonial era",
+        "Japanese occupation",
+        "Indonesian occupation",
+        "Post-independence period"
+      ],
+      "answer": "Indonesian occupation"
+    },
+    {
+      "question": "What role did coffee play in Timor-Leste's post-independence economy?",
+      "choices": [
+        "It became less important due to oil discoveries",
+        "It became a symbol of economic independence",
+        "It was replaced by tourism as the main export",
+        "It was abandoned in favor of manufacturing"
+      ],
+      "answer": "It became a symbol of economic independence"
+    },
+    {
+      "question": "Which of the following is TRUE about coffee production in Timor-Leste?",
+      "choices": [
+        "It is primarily done on large plantations",
+        "It mainly involves smallholder farmers",
+        "It is exclusively organic",
+        "It is fully mechanized"
+      ],
+      "answer": "It mainly involves smallholder farmers"
+    },
+    {
+      "question": "What is the primary benefit of focusing on specialty coffee production in Timor-Leste?",
+      "choices": [
+        "Increased production volume",
+        "Lower production costs",
+        "Higher value exports and improved farmer incomes",
+        "Simplified processing techniques"
+      ],
+      "answer": "Higher value exports and improved farmer incomes"
+    },
+    {
+      "question": "Which coffee variety in Timor-Leste is known for its full body and low acidity?",
+      "choices": [
+        "Arabica",
+        "Robusta",
+        "Timor Hybrid",
+        "Liberica"
+      ],
+      "answer": "Robusta"
+    },
+    {
+      "question": "What is the significance of coffee cooperatives in Timor-Leste?",
+      "choices": [
+        "They control all coffee exports",
+        "They provide support and resources to smallholder farmers",
+        "They are owned by the government",
+        "They focus exclusively on Robusta production"
+      ],
+      "answer": "They provide support and resources to smallholder farmers"
+    },
+    {
+      "question": "Which international organization has been involved in supporting Timor-Leste's coffee industry?",
+      "choices": [
+        "World Health Organization",
+        "United Nations Development Programme",
+        "World Bank",
+        "International Monetary Fund"
+      ],
+      "answer": "United Nations Development Programme"
+    },
+    {
+      "question": "What is the main advantage of the Timor Hybrid in coffee breeding?",
+      "choices": [
+        "Higher caffeine content",
+        "Faster growth rate",
+        "Resistance to coffee leaf rust",
+        "Larger bean size"
+      ],
+      "answer": "Resistance to coffee leaf rust"
+    }
+  ]
+}

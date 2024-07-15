@@ -9,6 +9,22 @@ Welcome to this comprehensive resource hub designed to support Peace Corps volun
 Bele hetan média apoiu ba kursu sira iha ne'e/Support media for the courses can be found here:
 https://tefl.go-tl.com/
 
+## Matadalan ba navigasaun / Navigation Guide
+
+To make the most of these resources:
+
+1. Begin with the syllabus in the **syllabus/** directory to understand course objectives.
+2. Explore related readings in the **Readings/** folder for in-depth knowledge.
+3. Follow structured lesson plans in the **lesson_plans/** directory.
+4. Engage with hands-on activities from the **activities/** folder and assess understanding through quizzes in the **quizzes/** directory.
+
+For practical application:
+- Utilize tools and demonstrations in the **scripts/** directory.
+- Enjoy interactive learning experiences in the **games/** folder.
+- Discover traditional and medicinal preparations in the **recipes/** section.
+
+<img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
+
 ## Kursu Prinsipal sira / Key Courses
 
 Repo ne'e iha kursu individuál liu 30. This repo contains over 30 individual courses.
@@ -66,24 +82,11 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
     
 15. **Maromak nia feminina / The Divine Feminine**
     - This course explores the history of human sexuality and the divine feminine, with a focus on Timorese cultural context. Students will examine how concepts of gender, sexuality, and spirituality have evolved over time and how they manifest in Timor-Leste today.
+
+16. **Empoderamentu no Lideransa Feto iha Timor-Leste / Women's Empowerment and Leadership in Timor-Leste**
+    - This course aims to empower women in Timor-Leste to become effective leaders and agents of change in their communities. Participants will develop leadership skills, understand gender equality concepts, and learn strategies to overcome cultural barriers. The course will emphasize practical application and community engagement, considering Timor-Leste's unique cultural context.
     
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
-
-## Matadalan ba navigasaun / Navigation Guide
-
-To make the most of these resources:
-
-1. Begin with the syllabus in the **syllabus/** directory to understand course objectives.
-2. Explore related readings in the **Readings/** folder for in-depth knowledge.
-3. Follow structured lesson plans in the **lesson_plans/** directory.
-4. Engage with hands-on activities from the **activities/** folder and assess understanding through quizzes in the **quizzes/** directory.
-
-For practical application:
-- Utilize tools and demonstrations in the **scripts/** directory.
-- Enjoy interactive learning experiences in the **games/** folder.
-- Discover traditional and medicinal preparations in the **recipes/** section.
-
-<img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
 
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 
 

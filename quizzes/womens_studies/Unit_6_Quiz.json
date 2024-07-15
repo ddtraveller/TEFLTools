@@ -1,0 +1,295 @@
+{
+  "title": "Education and Lifelong Learning in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is one of the main objectives of Learning Unit 6?",
+      "choices": [
+        "To analyze the political system in Timor-Leste",
+        "To recognize the importance of education for women's empowerment",
+        "To develop strategies for economic independence",
+        "To understand key health issues affecting women in Timor-Leste"
+      ],
+      "answer": "To recognize the importance of education for women's empowerment"
+    },
+    {
+      "question": "Which of the following is NOT listed as a topic in Learning Unit 6?",
+      "choices": [
+        "Barriers to girls' education in Timor-Leste",
+        "Adult literacy and vocational training opportunities",
+        "Mentoring and support networks",
+        "Political participation and advocacy"
+      ],
+      "answer": "Political participation and advocacy"
+    },
+    {
+      "question": "What is one of the activities mentioned in Learning Unit 6?",
+      "choices": [
+        "Develop a basic business plan",
+        "Role-play on discussing sensitive health topics",
+        "Design a community awareness campaign for girls' education",
+        "Create an advocacy plan for a local women's issue"
+      ],
+      "answer": "Design a community awareness campaign for girls' education"
+    },
+    {
+      "question": "Which of the following is a required resource for the course?",
+      "choices": [
+        "\"Women and the Politics of Gender in Post-Conflict Timor-Leste\" by Sara Niner",
+        "\"The History of Timor-Leste\" by John Smith",
+        "\"Gender Equality in Southeast Asia\" by Jane Doe",
+        "\"Economic Development in Timor-Leste\" by Michael Johnson"
+      ],
+      "answer": "\"Women and the Politics of Gender in Post-Conflict Timor-Leste\" by Sara Niner"
+    },
+    {
+      "question": "What is one of the suggested items to cover in the course?",
+      "choices": [
+        "The role of the Catholic Church in shaping gender norms",
+        "The impact of climate change on women in Timor-Leste",
+        "The history of the Portuguese colonization of Timor-Leste",
+        "The role of women in the fishing industry"
+      ],
+      "answer": "The role of the Catholic Church in shaping gender norms"
+    },
+    {
+      "question": "Which of the following is NOT listed as a practical experience or community engagement activity?",
+      "choices": [
+        "Shadow a local female leader for a day",
+        "Organize a community event promoting women's rights",
+        "Conduct a small-scale needs assessment in participants' communities",
+        "Attend a national conference on women's empowerment"
+      ],
+      "answer": "Attend a national conference on women's empowerment"
+    },
+    {
+      "question": "Which organization is mentioned as an additional resource for the course?",
+      "choices": [
+        "World Bank",
+        "Rede Feto (Women's Network) Timor-Leste",
+        "Amnesty International",
+        "Red Cross"
+      ],
+      "answer": "Rede Feto (Women's Network) Timor-Leste"
+    },
+    {
+      "question": "What is the literacy rate for women in Timor-Leste according to the infographic?",
+      "choices": [
+        "64%",
+        "68%",
+        "71%",
+        "75%"
+      ],
+      "answer": "64%"
+    },
+    {
+      "question": "What is the primary school enrollment rate for girls in Timor-Leste according to the infographic?",
+      "choices": [
+        "90%",
+        "93%",
+        "95%",
+        "97%"
+      ],
+      "answer": "93%"
+    },
+    {
+      "question": "What is the most common reason for girls aged 10-18 dropping out of school in Timor-Leste?",
+      "choices": [
+        "Marriage/pregnancy",
+        "Lack of interest",
+        "Distance to school",
+        "Economic reasons"
+      ],
+      "answer": "Economic reasons"
+    },
+    {
+      "question": "Which foundation runs a scholarship program for girls in Timor-Leste?",
+      "choices": [
+        "Rede Feto Foundation",
+        "Alola Foundation",
+        "UNICEF Foundation",
+        "Timor-Leste Education Foundation"
+      ],
+      "answer": "Alola Foundation"
+    },
+    {
+      "question": "What percentage of Alola Foundation scholarship recipients pursue higher education or vocational training?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "answer": "70%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a cultural barrier to girls' education in Timor-Leste?",
+      "choices": [
+        "Traditional gender roles prioritizing boys' education",
+        "Girls expected to help with household chores",
+        "Early marriage and pregnancy",
+        "Religious prohibitions on female education"
+      ],
+      "answer": "Religious prohibitions on female education"
+    },
+    {
+      "question": "What is one of the economic factors affecting girls' education in Timor-Leste?",
+      "choices": [
+        "High tuition fees for girls",
+        "Lack of job opportunities for educated women",
+        "Poverty forcing families to choose which children to educate",
+        "Government policies favoring boys' education"
+      ],
+      "answer": "Poverty forcing families to choose which children to educate"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a safety concern for girls' education in Timor-Leste?",
+      "choices": [
+        "Long distances to schools",
+        "Lack of safe transportation options",
+        "Risk of harassment en route to school",
+        "Presence of armed conflicts near schools"
+      ],
+      "answer": "Presence of armed conflicts near schools"
+    },
+    {
+      "question": "What is SENAI in the context of Timor-Leste's education system?",
+      "choices": [
+        "A primary school curriculum",
+        "A university for women",
+        "National Service for Industrial Training",
+        "A literacy program for adults"
+      ],
+      "answer": "National Service for Industrial Training"
+    },
+    {
+      "question": "Which organization runs a Girls' Education program in Timor-Leste?",
+      "choices": [
+        "UNESCO",
+        "UNICEF",
+        "World Bank",
+        "Asian Development Bank"
+      ],
+      "answer": "UNICEF"
+    },
+    {
+      "question": "What is the primary school completion rate for girls in Timor-Leste according to the infographic?",
+      "choices": [
+        "74%",
+        "78%",
+        "84%",
+        "88%"
+      ],
+      "answer": "84%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of educating women in Timor-Leste?",
+      "choices": [
+        "Greater economic opportunities",
+        "Better health outcomes",
+        "Increased political participation",
+        "Improved agricultural productivity"
+      ],
+      "answer": "Improved agricultural productivity"
+    },
+    {
+      "question": "What percentage of tertiary education enrollment in Timor-Leste is comprised of women?",
+      "choices": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "answer": "20%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a strategy for expanding mentoring programs in Timor-Leste?",
+      "choices": [
+        "Training more women as mentors",
+        "Utilizing technology for remote mentoring",
+        "Engaging successful Timorese women as speakers",
+        "Implementing mandatory mentoring in all schools"
+      ],
+      "answer": "Implementing mandatory mentoring in all schools"
+    },
+    {
+      "question": "What is the overall literacy rate in Timor-Leste according to the infographic?",
+      "choices": [
+        "64%",
+        "68%",
+        "71%",
+        "75%"
+      ],
+      "answer": "68%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge for adult literacy and vocational training programs in Timor-Leste?",
+      "choices": [
+        "Limited reach in rural areas",
+        "Lack of childcare options for participants",
+        "Need for better alignment with job market demands",
+        "Shortage of qualified instructors"
+      ],
+      "answer": "Shortage of qualified instructors"
+    },
+    {
+      "question": "What is the secondary school enrollment rate for girls in Timor-Leste according to the infographic?",
+      "choices": [
+        "59%",
+        "63%",
+        "67%",
+        "71%"
+      ],
+      "answer": "67%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key feature of the Alola Foundation's scholarship program?",
+      "choices": [
+        "Covers school fees and supplies",
+        "Provides monthly stipend",
+        "Offers regular mentoring sessions",
+        "Guarantees job placement after graduation"
+      ],
+      "answer": "Guarantees job placement after graduation"
+    },
+    {
+      "question": "What percentage of girls aged 10-18 drop out of school due to marriage or pregnancy in Timor-Leste?",
+      "choices": [
+        "15%",
+        "23%",
+        "30%",
+        "40%"
+      ],
+      "answer": "23%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a vocational training opportunity for women in Timor-Leste?",
+      "choices": [
+        "Tailoring",
+        "Food processing",
+        "Handicrafts",
+        "Computer programming"
+      ],
+      "answer": "Computer programming"
+    },
+    {
+      "question": "What is the primary goal of the National Literacy Campaign in Timor-Leste?",
+      "choices": [
+        "To increase primary school enrollment",
+        "To improve adult literacy rates",
+        "To train more teachers",
+        "To develop new school curricula"
+      ],
+      "answer": "To improve adult literacy rates"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of mentoring for girls in Timor-Leste?",
+      "choices": [
+        "Provides role models",
+        "Offers guidance on education and career paths",
+        "Builds confidence and self-esteem",
+        "Guarantees scholarships for higher education"
+      ],
+      "answer": "Guarantees scholarships for higher education"
+    }
+  ]
+}

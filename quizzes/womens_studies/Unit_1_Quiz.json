@@ -1,0 +1,305 @@
+{
+  "title": "Understanding Gender Equality in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the traditional practice in Timor-Leste involving the exchange of gifts between families at marriage?",
+      "choices": [
+        "Dowry",
+        "Barlake",
+        "Bride price",
+        "Matrimonial exchange"
+      ],
+      "answer": "Barlake"
+    },
+    {
+      "question": "Which historical event saw widespread violence against women but also increased their participation in the resistance movement?",
+      "choices": [
+        "Portuguese colonization",
+        "Indonesian occupation",
+        "World War II",
+        "Timorese Civil War"
+      ],
+      "answer": "Indonesian occupation"
+    },
+    {
+      "question": "What percentage of seats in Timor-Leste's national parliament are held by women as of 2021?",
+      "choices": [
+        "Approximately 20%",
+        "Approximately 30%",
+        "Approximately 38%",
+        "Approximately 50%"
+      ],
+      "answer": "Approximately 38%"
+    },
+    {
+      "question": "Which law, enacted in 2010, criminalizes domestic violence in Timor-Leste?",
+      "choices": [
+        "Gender Equality Act",
+        "Family Protection Law",
+        "Law Against Domestic Violence",
+        "Women's Rights Act"
+      ],
+      "answer": "Law Against Domestic Violence"
+    },
+    {
+      "question": "What is the minimum percentage of women candidates required on party lists in Timor-Leste's quota system?",
+      "choices": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "Which religion was introduced during Portuguese colonization and reinforced patriarchal norms?",
+      "choices": [
+        "Islam",
+        "Buddhism",
+        "Catholicism",
+        "Hinduism"
+      ],
+      "answer": "Catholicism"
+    },
+    {
+      "question": "What percentage of women in Timor-Leste have experienced physical or sexual violence from an intimate partner?",
+      "choices": [
+        "Approximately 18%",
+        "Approximately 28%",
+        "Approximately 38%",
+        "Approximately 48%"
+      ],
+      "answer": "Approximately 38%"
+    },
+    {
+      "question": "Which area of healthcare in Timor-Leste has one of the highest rates in Southeast Asia?",
+      "choices": [
+        "Infant mortality",
+        "Maternal mortality",
+        "HIV/AIDS prevalence",
+        "Malaria incidence"
+      ],
+      "answer": "Maternal mortality"
+    },
+    {
+      "question": "What is a major factor contributing to higher dropout rates among girls in higher levels of education?",
+      "choices": [
+        "Lack of schools",
+        "Early marriage",
+        "Preference for boys' education",
+        "Language barriers"
+      ],
+      "answer": "Early marriage"
+    },
+    {
+      "question": "In which year did Timor-Leste gain independence?",
+      "choices": [
+        "1999",
+        "2000",
+        "2002",
+        "2005"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What is the primary economic sector where women in rural Timor-Leste are often involved?",
+      "choices": [
+        "Manufacturing",
+        "Tourism",
+        "Subsistence farming",
+        "Technology"
+      ],
+      "answer": "Subsistence farming"
+    },
+    {
+      "question": "Which document explicitly guarantees equal rights and duties for men and women in Timor-Leste?",
+      "choices": [
+        "The Treaty of Lisbon",
+        "The Constitution of 2002",
+        "The Jakarta Agreement",
+        "The UN Charter"
+      ],
+      "answer": "The Constitution of 2002"
+    },
+    {
+      "question": "What is a major challenge for women seeking to start businesses in Timor-Leste?",
+      "choices": [
+        "Legal restrictions",
+        "Lack of education",
+        "Limited access to credit",
+        "Import regulations"
+      ],
+      "answer": "Limited access to credit"
+    },
+    {
+      "question": "Which period in Timor-Leste's history lasted from 1515 to 1975?",
+      "choices": [
+        "Japanese occupation",
+        "Portuguese colonization",
+        "Indonesian rule",
+        "British administration"
+      ],
+      "answer": "Portuguese colonization"
+    },
+    {
+      "question": "What is the traditional Timorese practice used for conflict resolution and natural resource management?",
+      "choices": [
+        "Tara Bandu",
+        "Lisan",
+        "Adat",
+        "Suco"
+      ],
+      "answer": "Tara Bandu"
+    },
+    {
+      "question": "Which sector of employment are women in Timor-Leste often confined to?",
+      "choices": [
+        "High-tech industry",
+        "Government administration",
+        "Formal corporate sector",
+        "Low-paying, informal sector"
+      ],
+      "answer": "Low-paying, informal sector"
+    },
+    {
+      "question": "What is a significant barrier to women's health in rural areas of Timor-Leste?",
+      "choices": [
+        "Cultural taboos",
+        "Limited access to quality healthcare",
+        "Lack of female doctors",
+        "High cost of medication"
+      ],
+      "answer": "Limited access to quality healthcare"
+    },
+    {
+      "question": "Which group played a crucial role in rebuilding Timor-Leste's education system after independence?",
+      "choices": [
+        "UN peacekeepers",
+        "Portuguese administrators",
+        "Indonesian teachers",
+        "Local educators and activists"
+      ],
+      "answer": "Local educators and activists"
+    },
+    {
+      "question": "What is a key focus of civil society organizations working on women's empowerment in Timor-Leste?",
+      "choices": [
+        "Political lobbying",
+        "Military training",
+        "Education programs",
+        "Religious conversion"
+      ],
+      "answer": "Education programs"
+    },
+    {
+      "question": "Which factor contributes to the perception of women as property in traditional Timorese culture?",
+      "choices": [
+        "Constitutional law",
+        "Barlake practice",
+        "Catholic doctrine",
+        "Indonesian influence"
+      ],
+      "answer": "Barlake practice"
+    },
+    {
+      "question": "What is a major challenge in implementing gender equality laws in Timor-Leste?",
+      "choices": [
+        "Lack of funding",
+        "Political opposition",
+        "International pressure",
+        "Deeply rooted cultural norms"
+      ],
+      "answer": "Deeply rooted cultural norms"
+    },
+    {
+      "question": "Which area shows relatively equal enrollment rates between boys and girls in Timor-Leste?",
+      "choices": [
+        "University education",
+        "Secondary school",
+        "Primary school",
+        "Vocational training"
+      ],
+      "answer": "Primary school"
+    },
+    {
+      "question": "What role did women play during the Indonesian occupation of Timor-Leste?",
+      "choices": [
+        "They were largely uninvolved",
+        "They supported the Indonesian military",
+        "They participated actively in the resistance movement",
+        "They were all evacuated to other countries"
+      ],
+      "answer": "They participated actively in the resistance movement"
+    },
+    {
+      "question": "Which international organization has been particularly active in promoting women's rights in Timor-Leste?",
+      "choices": [
+        "UNESCO",
+        "WHO",
+        "UN Women",
+        "UNICEF"
+      ],
+      "answer": "UN Women"
+    },
+    {
+      "question": "What is a key strategy being used to increase women's political participation in Timor-Leste?",
+      "choices": [
+        "Mandatory voting for women",
+        "Quota system in parliament",
+        "All-female political parties",
+        "Lowering the voting age for women"
+      ],
+      "answer": "Quota system in parliament"
+    },
+    {
+      "question": "Which economic sector in Timor-Leste has seen increased women's participation in recent years?",
+      "choices": [
+        "Oil and gas industry",
+        "Technology startups",
+        "Coffee production",
+        "Tourism"
+      ],
+      "answer": "Coffee production"
+    },
+    {
+      "question": "What is a major focus of the National Action Plan on Gender-Based Violence in Timor-Leste?",
+      "choices": [
+        "Increasing women's representation in parliament",
+        "Promoting women's education",
+        "Preventing and responding to domestic violence",
+        "Expanding women's access to credit"
+      ],
+      "answer": "Preventing and responding to domestic violence"
+    },
+    {
+      "question": "Which traditional role is often assigned to women in Timorese society?",
+      "choices": [
+        "Community leadership",
+        "Religious authority",
+        "Household management",
+        "Military service"
+      ],
+      "answer": "Household management"
+    },
+    {
+      "question": "What is a significant challenge for women's health in Timor-Leste?",
+      "choices": [
+        "Lack of female doctors",
+        "High cost of healthcare",
+        "Limited access to reproductive health services",
+        "Prevalence of tropical diseases"
+      ],
+      "answer": "Limited access to reproductive health services"
+    },
+    {
+      "question": "Which factor has contributed to changing attitudes towards gender equality among younger generations in Timor-Leste?",
+      "choices": [
+        "Increased access to global media",
+        "Government propaganda",
+        "Religious teachings",
+        "Traditional education systems"
+      ],
+      "answer": "Increased access to global media"
+    }
+  ]
+}

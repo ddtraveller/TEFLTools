@@ -1,0 +1,305 @@
+{
+  "title": "Quality Control and Cupping",
+  "questions": [
+    {
+      "question": "What is the primary purpose of cupping in coffee quality assessment?",
+      "choices": [
+        "To determine the caffeine content",
+        "To evaluate sensory characteristics",
+        "To measure the bean size",
+        "To assess the roast level"
+      ],
+      "answer": "To evaluate sensory characteristics"
+    },
+    {
+      "question": "Which of the following is NOT a common step in the cupping process?",
+      "choices": [
+        "Evaluating dry fragrance",
+        "Breaking the crust",
+        "Tasting the coffee",
+        "Grinding the beans"
+      ],
+      "answer": "Grinding the beans"
+    },
+    {
+      "question": "What does the SCA Flavor Wheel primarily help with?",
+      "choices": [
+        "Roasting profiles",
+        "Describing coffee flavors and attributes",
+        "Determining caffeine content",
+        "Measuring acidity levels"
+      ],
+      "answer": "Describing coffee flavors and attributes"
+    },
+    {
+      "question": "Which of the following is considered a primary defect in green coffee?",
+      "choices": [
+        "Slight discoloration",
+        "Full black bean",
+        "Chipped bean",
+        "Partial sour bean"
+      ],
+      "answer": "Full black bean"
+    },
+    {
+      "question": "What is the purpose of breaking the crust during cupping?",
+      "choices": [
+        "To cool the coffee",
+        "To release aromas",
+        "To mix in sugar",
+        "To remove impurities"
+      ],
+      "answer": "To release aromas"
+    },
+    {
+      "question": "Which factor is NOT typically considered in green coffee grading?",
+      "choices": [
+        "Bean size",
+        "Defect count",
+        "Roast color",
+        "Density"
+      ],
+      "answer": "Roast color"
+    },
+    {
+      "question": "What is the recommended water temperature for cupping according to SCA standards?",
+      "choices": [
+        "85°C (185°F)",
+        "90°C (194°F)",
+        "95°C (203°F)",
+        "100°C (212°F)"
+      ],
+      "answer": "95°C (203°F)"
+    },
+    {
+      "question": "Which of the following is NOT one of the basic taste components in sensory evaluation?",
+      "choices": [
+        "Sweet",
+        "Sour",
+        "Spicy",
+        "Bitter"
+      ],
+      "answer": "Spicy"
+    },
+    {
+      "question": "What does 'body' refer to in coffee tasting?",
+      "choices": [
+        "The aroma of the coffee",
+        "The acidity level",
+        "The mouthfeel or thickness",
+        "The caffeine content"
+      ],
+      "answer": "The mouthfeel or thickness"
+    },
+    {
+      "question": "Which defect is most likely caused by over-fermentation during processing?",
+      "choices": [
+        "Quakers",
+        "Faded beans",
+        "Sour beans",
+        "Broken beans"
+      ],
+      "answer": "Sour beans"
+    },
+    {
+      "question": "What is the purpose of using a standardized cupping form?",
+      "choices": [
+        "To record roasting profiles",
+        "To track green coffee inventory",
+        "To ensure consistent evaluation across different coffees",
+        "To calculate caffeine content"
+      ],
+      "answer": "To ensure consistent evaluation across different coffees"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a cupping form?",
+      "choices": [
+        "Aroma",
+        "Acidity",
+        "Body",
+        "Roast date"
+      ],
+      "answer": "Roast date"
+    },
+    {
+      "question": "What does 'cupper's correction' refer to in coffee grading?",
+      "choices": [
+        "Adjusting the roast profile",
+        "Modifying the final score based on overall impression",
+        "Correcting defects in green coffee",
+        "Calibrating cupping equipment"
+      ],
+      "answer": "Modifying the final score based on overall impression"
+    },
+    {
+      "question": "Which factor can significantly affect the results of a cupping session?",
+      "choices": [
+        "The color of the cupping room",
+        "The time of day",
+        "The grind size of the coffee",
+        "The brand of cupping spoons used"
+      ],
+      "answer": "The grind size of the coffee"
+    },
+    {
+      "question": "What is the primary purpose of assessing the dry fragrance of coffee grounds?",
+      "choices": [
+        "To determine the roast level",
+        "To evaluate the initial aroma before water is added",
+        "To check for defects",
+        "To measure the density of the beans"
+      ],
+      "answer": "To evaluate the initial aroma before water is added"
+    },
+    {
+      "question": "Which of the following is a common cause of 'baggy' flavor in coffee?",
+      "choices": [
+        "Over-roasting",
+        "Under-fermentation",
+        "Improper storage",
+        "Excessive rainfall during growing"
+      ],
+      "answer": "Improper storage"
+    },
+    {
+      "question": "What does 'uniformity' refer to in coffee cupping?",
+      "choices": [
+        "The consistency of flavor across multiple cups of the same coffee",
+        "The evenness of the roast color",
+        "The similarity in bean size",
+        "The regularity of the grinding process"
+      ],
+      "answer": "The consistency of flavor across multiple cups of the same coffee"
+    },
+    {
+      "question": "Which of the following is NOT a typical category on the SCA Flavor Wheel?",
+      "choices": [
+        "Fruity",
+        "Nutty/Cocoa",
+        "Spices",
+        "Umami"
+      ],
+      "answer": "Umami"
+    },
+    {
+      "question": "What is the purpose of 'triangulation' in coffee tasting?",
+      "choices": [
+        "To measure the acidity of the coffee",
+        "To identify subtle differences between similar coffees",
+        "To determine the optimal brewing temperature",
+        "To calculate the density of the beans"
+      ],
+      "answer": "To identify subtle differences between similar coffees"
+    },
+    {
+      "question": "Which defect is characterized by a pale, whitish appearance and lack of flavor development?",
+      "choices": [
+        "Black beans",
+        "Quakers",
+        "Sour beans",
+        "Broken beans"
+      ],
+      "answer": "Quakers"
+    },
+    {
+      "question": "What does 'clean cup' refer to in coffee evaluation?",
+      "choices": [
+        "The absence of dirt in the cup",
+        "The lack of defects or off-flavors",
+        "The clarity of the brewed coffee",
+        "The use of filtered water"
+      ],
+      "answer": "The lack of defects or off-flavors"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in preparing coffee for cupping?",
+      "choices": [
+        "Grinding the coffee immediately before evaluation",
+        "Weighing out precise amounts of coffee",
+        "Adding cream to the brewed coffee",
+        "Using freshly boiled water"
+      ],
+      "answer": "Adding cream to the brewed coffee"
+    },
+    {
+      "question": "What is the purpose of 'calibration' in professional coffee tasting?",
+      "choices": [
+        "To adjust the grind size of the coffee",
+        "To ensure consistency among different tasters",
+        "To set the correct water temperature",
+        "To balance the acidity of the coffee"
+      ],
+      "answer": "To ensure consistency among different tasters"
+    },
+    {
+      "question": "Which of the following is a common cause of 'fermented' flavor in coffee?",
+      "choices": [
+        "Under-roasting",
+        "Excessive drying time",
+        "Prolonged fermentation during processing",
+        "High-altitude growing conditions"
+      ],
+      "answer": "Prolonged fermentation during processing"
+    },
+    {
+      "question": "What does 'retronasal olfaction' refer to in coffee tasting?",
+      "choices": [
+        "Smelling the coffee grounds before brewing",
+        "Perceiving aromas while the coffee is in the mouth",
+        "Evaluating the aftertaste of the coffee",
+        "Assessing the visual appearance of the brew"
+      ],
+      "answer": "Perceiving aromas while the coffee is in the mouth"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a positive attribute in coffee evaluation?",
+      "choices": [
+        "Brightness",
+        "Complexity",
+        "Astringency",
+        "Balance"
+      ],
+      "answer": "Astringency"
+    },
+    {
+      "question": "What is the primary purpose of using a standardized water recipe in cupping?",
+      "choices": [
+        "To enhance the flavor of the coffee",
+        "To ensure consistency across different cupping sessions",
+        "To neutralize acidity in the coffee",
+        "To sterilize the cupping equipment"
+      ],
+      "answer": "To ensure consistency across different cupping sessions"
+    },
+    {
+      "question": "Which of the following is a common method for removing defective beans before roasting?",
+      "choices": [
+        "Density sorting",
+        "Color sorting",
+        "Size grading",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What does 'green grading' primarily focus on?",
+      "choices": [
+        "Evaluating the flavor of unroasted coffee",
+        "Assessing the physical characteristics of raw coffee beans",
+        "Determining the chlorophyll content of coffee leaves",
+        "Measuring the moisture content of fresh coffee cherries"
+      ],
+      "answer": "Assessing the physical characteristics of raw coffee beans"
+    },
+    {
+      "question": "Which of the following is NOT a typical descriptor used for coffee acidity?",
+      "choices": [
+        "Bright",
+        "Crisp",
+        "Mellow",
+        "Flat"
+      ],
+      "answer": "Mellow"
+    }
+  ]
+}

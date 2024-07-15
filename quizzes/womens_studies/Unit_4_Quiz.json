@@ -1,0 +1,305 @@
+{
+  "title": "Political Participation and Advocacy in Timor-Leste",
+  "questions": [
+    {
+      "question": "What type of political system does Timor-Leste have?",
+      "choices": [
+        "Presidential",
+        "Parliamentary",
+        "Semi-presidential",
+        "Monarchical"
+      ],
+      "answer": "Semi-presidential"
+    },
+    {
+      "question": "Who serves as the head of state in Timor-Leste?",
+      "choices": [
+        "Prime Minister",
+        "President",
+        "King",
+        "Chief Justice"
+      ],
+      "answer": "President"
+    },
+    {
+      "question": "What is the name of Timor-Leste's legislative body?",
+      "choices": [
+        "National Assembly",
+        "Congress",
+        "Parliament",
+        "Senate"
+      ],
+      "answer": "Parliament"
+    },
+    {
+      "question": "What type of quota system does Timor-Leste use to promote women's representation in politics?",
+      "choices": [
+        "One woman for every two candidates",
+        "One woman for every three candidates",
+        "50% women candidates",
+        "No quota system"
+      ],
+      "answer": "One woman for every three candidates"
+    },
+    {
+      "question": "Which region does Timor-Leste have one of the highest percentages of women in parliament?",
+      "choices": [
+        "Europe",
+        "Africa",
+        "South America",
+        "Asia-Pacific"
+      ],
+      "answer": "Asia-Pacific"
+    },
+    {
+      "question": "What is the term for direct communication with government officials to persuade them on specific legislation?",
+      "choices": [
+        "Petitioning",
+        "Lobbying",
+        "Campaigning",
+        "Rallying"
+      ],
+      "answer": "Lobbying"
+    },
+    {
+      "question": "What is the grassroots approach to organizing and motivating people at the local level called?",
+      "choices": [
+        "Community mobilization",
+        "Political campaigning",
+        "Media outreach",
+        "Constituency building"
+      ],
+      "answer": "Community mobilization"
+    },
+    {
+      "question": "What type of electoral system does Timor-Leste use?",
+      "choices": [
+        "First-past-the-post",
+        "Ranked choice",
+        "Proportional representation",
+        "Mixed member proportional"
+      ],
+      "answer": "Proportional representation"
+    },
+    {
+      "question": "What is a key challenge to political participation in rural areas of Timor-Leste?",
+      "choices": [
+        "Overrepresentation",
+        "Limited access to information",
+        "High voter turnout",
+        "Excessive political engagement"
+      ],
+      "answer": "Limited access to information"
+    },
+    {
+      "question": "What year did Timor-Leste gain independence?",
+      "choices": [
+        "1999",
+        "2000",
+        "2002",
+        "2005"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What is the term for the group of voters an elected official represents?",
+      "choices": [
+        "Electorate",
+        "Constituency",
+        "Populace",
+        "Demographic"
+      ],
+      "answer": "Constituency"
+    },
+    {
+      "question": "Which of the following is NOT one of the three branches of government in Timor-Leste?",
+      "choices": [
+        "Executive",
+        "Legislative",
+        "Judicial",
+        "Administrative"
+      ],
+      "answer": "Administrative"
+    },
+    {
+      "question": "What is the purpose of civic education programs in Timor-Leste?",
+      "choices": [
+        "To increase political literacy",
+        "To discourage voting",
+        "To promote one political party",
+        "To reduce citizen engagement"
+      ],
+      "answer": "To increase political literacy"
+    },
+    {
+      "question": "What is a key focus of leadership training for women in Timor-Leste?",
+      "choices": [
+        "Cooking skills",
+        "Fashion design",
+        "Political engagement skills",
+        "Agricultural techniques"
+      ],
+      "answer": "Political engagement skills"
+    },
+    {
+      "question": "What historical factor has left some citizens wary of engaging with political institutions?",
+      "choices": [
+        "Economic prosperity",
+        "Legacy of conflict and authoritarian rule",
+        "Religious influence",
+        "Environmental disasters"
+      ],
+      "answer": "Legacy of conflict and authoritarian rule"
+    },
+    {
+      "question": "What is the primary goal of Timor-Leste's proportional representation system?",
+      "choices": [
+        "To ensure single-party dominance",
+        "To reflect the overall distribution of votes in parliament",
+        "To exclude minority parties",
+        "To simplify the voting process"
+      ],
+      "answer": "To reflect the overall distribution of votes in parliament"
+    },
+    {
+      "question": "Which government position leads the government in Timor-Leste?",
+      "choices": [
+        "President",
+        "Prime Minister",
+        "Speaker of Parliament",
+        "Chief Justice"
+      ],
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "What type of campaign uses various platforms to raise awareness and shape public opinion?",
+      "choices": [
+        "Lobbying campaign",
+        "Media campaign",
+        "Voting campaign",
+        "Fundraising campaign"
+      ],
+      "answer": "Media campaign"
+    },
+    {
+      "question": "What is a common method used by advocates to visibly express collective demands and concerns?",
+      "choices": [
+        "Secret meetings",
+        "Online petitions",
+        "Public demonstrations",
+        "Private negotiations"
+      ],
+      "answer": "Public demonstrations"
+    },
+    {
+      "question": "What has been a successful outcome of women's groups collaborating in Timor-Leste?",
+      "choices": [
+        "Decreased political participation",
+        "Legislation addressing domestic violence",
+        "Abolition of the quota system",
+        "Reduction in women's rights"
+      ],
+      "answer": "Legislation addressing domestic violence"
+    },
+    {
+      "question": "What is a key challenge for women's representation at the local government level in Timor-Leste?",
+      "choices": [
+        "Overrepresentation of women",
+        "Lack of interest from women",
+        "Lower representation compared to national level",
+        "Absence of local governments"
+      ],
+      "answer": "Lower representation compared to national level"
+    },
+    {
+      "question": "What is the term for the set of rules determining how votes are translated into seats in parliament?",
+      "choices": [
+        "Voting system",
+        "Electoral system",
+        "Political system",
+        "Representation system"
+      ],
+      "answer": "Electoral system"
+    },
+    {
+      "question": "What is a key benefit of building coalitions and networks in advocacy?",
+      "choices": [
+        "Reducing the number of voices",
+        "Amplifying voices and increasing impact",
+        "Simplifying complex issues",
+        "Excluding minority opinions"
+      ],
+      "answer": "Amplifying voices and increasing impact"
+    },
+    {
+      "question": "What is the primary purpose of strengthening civil society organizations in Timor-Leste?",
+      "choices": [
+        "To replace government functions",
+        "To reduce citizen participation",
+        "To enhance their ability to advocate effectively",
+        "To increase political polarization"
+      ],
+      "answer": "To enhance their ability to advocate effectively"
+    },
+    {
+      "question": "What societal factor can discourage women from actively participating in politics in Timor-Leste?",
+      "choices": [
+        "High levels of education",
+        "Economic independence",
+        "Traditional gender roles",
+        "Urban living"
+      ],
+      "answer": "Traditional gender roles"
+    },
+    {
+      "question": "What is the structure of Timor-Leste's Parliament?",
+      "choices": [
+        "Bicameral",
+        "Unicameral",
+        "Tricameral",
+        "Non-existent"
+      ],
+      "answer": "Unicameral"
+    },
+    {
+      "question": "What is a key component of effective advocacy in Timor-Leste?",
+      "choices": [
+        "Avoiding media attention",
+        "Focusing on a single issue",
+        "Ignoring local contexts",
+        "Understanding constituency needs"
+      ],
+      "answer": "Understanding constituency needs"
+    },
+    {
+      "question": "What is the primary goal of voter education workshops in rural areas of Timor-Leste?",
+      "choices": [
+        "To discourage voting",
+        "To promote a specific party",
+        "To explain the importance of women's political participation",
+        "To complicate the voting process"
+      ],
+      "answer": "To explain the importance of women's political participation"
+    },
+    {
+      "question": "What is a key challenge in implementing the quota system for women's representation in some areas?",
+      "choices": [
+        "Too many women candidates",
+        "Difficulty in finding candidates",
+        "Opposition from women's groups",
+        "Excessive funding for women candidates"
+      ],
+      "answer": "Difficulty in finding candidates"
+    },
+    {
+      "question": "What is the smallest administrative unit in Timor-Leste?",
+      "choices": [
+        "Province",
+        "District",
+        "Municipality",
+        "Suco"
+      ],
+      "answer": "Suco"
+    }
+  ]
+}

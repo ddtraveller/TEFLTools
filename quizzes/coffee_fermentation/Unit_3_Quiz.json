@@ -1,0 +1,305 @@
+{
+  "title": "Fermentation in Coffee Processing",
+  "questions": [
+    {
+      "question": "What is the primary purpose of fermentation in coffee processing?",
+      "choices": [
+        "To increase caffeine content",
+        "To break down mucilage surrounding coffee beans",
+        "To roast the coffee beans",
+        "To grind the coffee beans"
+      ],
+      "answer": "To break down mucilage surrounding coffee beans"
+    },
+    {
+      "question": "Which of the following is NOT a common type of coffee fermentation?",
+      "choices": [
+        "Wet fermentation",
+        "Dry fermentation",
+        "Anaerobic fermentation",
+        "Photosynthetic fermentation"
+      ],
+      "answer": "Photosynthetic fermentation"
+    },
+    {
+      "question": "In wet fermentation, coffee beans are:",
+      "choices": [
+        "Roasted before fermentation",
+        "Left in the whole cherry",
+        "Submerged in water",
+        "Fermented without any liquid"
+      ],
+      "answer": "Submerged in water"
+    },
+    {
+      "question": "Which microorganism often initiates coffee fermentation by breaking down simple sugars?",
+      "choices": [
+        "Lactobacillus",
+        "Acetobacter",
+        "Saccharomyces cerevisiae",
+        "Escherichia coli"
+      ],
+      "answer": "Saccharomyces cerevisiae"
+    },
+    {
+      "question": "What is the typical pH range at the start of coffee fermentation?",
+      "choices": [
+        "2.0 - 3.0",
+        "4.0 - 5.0",
+        "5.5 - 6.0",
+        "7.0 - 8.0"
+      ],
+      "answer": "5.5 - 6.0"
+    },
+    {
+      "question": "Which factor does NOT significantly influence coffee fermentation outcomes?",
+      "choices": [
+        "Temperature",
+        "pH",
+        "Time",
+        "Altitude of the coffee farm"
+      ],
+      "answer": "Altitude of the coffee farm"
+    },
+    {
+      "question": "What is the risk of over-fermentation in coffee processing?",
+      "choices": [
+        "Increased caffeine content",
+        "Undesirable flavors (e.g., vinegary, alcoholic)",
+        "Harder beans",
+        "Lighter roast color"
+      ],
+      "answer": "Undesirable flavors (e.g., vinegary, alcoholic)"
+    },
+    {
+      "question": "Which bacteria become more prevalent as the fermentation environment becomes more acidic?",
+      "choices": [
+        "Acetic acid bacteria",
+        "Lactic acid bacteria",
+        "Coliform bacteria",
+        "Nitrogen-fixing bacteria"
+      ],
+      "answer": "Lactic acid bacteria"
+    },
+    {
+      "question": "What is anaerobic fermentation in coffee processing?",
+      "choices": [
+        "Fermentation that occurs in the presence of oxygen",
+        "Fermentation that occurs without oxygen",
+        "Fermentation that uses nitrogen gas",
+        "Fermentation that requires sunlight"
+      ],
+      "answer": "Fermentation that occurs without oxygen"
+    },
+    {
+      "question": "Which of the following is NOT a common method for monitoring coffee fermentation?",
+      "choices": [
+        "pH measurement",
+        "Sensory evaluation",
+        "Microbiological assessment",
+        "X-ray diffraction"
+      ],
+      "answer": "X-ray diffraction"
+    },
+    {
+      "question": "What is the typical duration range for coffee fermentation?",
+      "choices": [
+        "1-6 hours",
+        "12-72 hours",
+        "5-7 days",
+        "2-4 weeks"
+      ],
+      "answer": "12-72 hours"
+    },
+    {
+      "question": "Which compound is abundant in coffee cherry mucilage and needs to be broken down during fermentation?",
+      "choices": [
+        "Cellulose",
+        "Pectin",
+        "Lignin",
+        "Chitin"
+      ],
+      "answer": "Pectin"
+    },
+    {
+      "question": "What is carbonic maceration in coffee processing?",
+      "choices": [
+        "A type of dry fermentation",
+        "A method of roasting coffee beans",
+        "An anaerobic fermentation technique",
+        "A way to measure fermentation progress"
+      ],
+      "answer": "An anaerobic fermentation technique"
+    },
+    {
+      "question": "Which of the following is a potential benefit of controlled fermentation in coffee processing?",
+      "choices": [
+        "Reduced processing time",
+        "Increased caffeine content",
+        "More consistent flavor profiles",
+        "Higher yield of coffee beans"
+      ],
+      "answer": "More consistent flavor profiles"
+    },
+    {
+      "question": "What role do acetic acid bacteria play in coffee fermentation?",
+      "choices": [
+        "They initiate the fermentation process",
+        "They contribute to acidity in later stages of fermentation",
+        "They break down caffeine",
+        "They are responsible for the roasted flavor"
+      ],
+      "answer": "They contribute to acidity in later stages of fermentation"
+    },
+    {
+      "question": "Which of the following is NOT a common flavor note developed through coffee fermentation?",
+      "choices": [
+        "Fruity",
+        "Floral",
+        "Chocolatey",
+        "Metallic"
+      ],
+      "answer": "Metallic"
+    },
+    {
+      "question": "What is the purpose of inoculating coffee fermentation with specific yeast strains?",
+      "choices": [
+        "To speed up the roasting process",
+        "To increase caffeine content",
+        "To control flavor development",
+        "To improve bean size"
+      ],
+      "answer": "To control flavor development"
+    },
+    {
+      "question": "How does higher temperature generally affect coffee fermentation?",
+      "choices": [
+        "It slows down the process",
+        "It accelerates the process",
+        "It has no effect on fermentation speed",
+        "It stops fermentation completely"
+      ],
+      "answer": "It accelerates the process"
+    },
+    {
+      "question": "What is the main difference between wet and dry coffee fermentation?",
+      "choices": [
+        "Wet uses water, dry doesn't",
+        "Dry takes longer than wet",
+        "Wet is only used for Robusta coffee",
+        "Dry produces more caffeine"
+      ],
+      "answer": "Wet uses water, dry doesn't"
+    },
+    {
+      "question": "Which of the following is a potential risk of under-fermentation in coffee processing?",
+      "choices": [
+        "Overly acidic taste",
+        "Incomplete mucilage removal",
+        "Increased bitterness",
+        "Loss of caffeine"
+      ],
+      "answer": "Incomplete mucilage removal"
+    },
+    {
+      "question": "What is the typical target end pH for coffee fermentation?",
+      "choices": [
+        "2.0 - 3.0",
+        "4.0 - 4.5",
+        "5.5 - 6.0",
+        "7.0 - 7.5"
+      ],
+      "answer": "4.0 - 4.5"
+    },
+    {
+      "question": "Which of the following is NOT a common method for assessing microbial activity during coffee fermentation?",
+      "choices": [
+        "Microscopic observation",
+        "Plating techniques",
+        "qPCR",
+        "Taste testing"
+      ],
+      "answer": "Taste testing"
+    },
+    {
+      "question": "What is the main advantage of anaerobic fermentation in coffee processing?",
+      "choices": [
+        "Faster processing time",
+        "Lower cost",
+        "Unique and intense flavor profiles",
+        "Higher caffeine content"
+      ],
+      "answer": "Unique and intense flavor profiles"
+    },
+    {
+      "question": "Which of the following is a key consideration when implementing controlled fermentation techniques in small-scale coffee production?",
+      "choices": [
+        "Increased water usage",
+        "Need for specialized equipment and knowledge",
+        "Reduced labor requirements",
+        "Faster processing time"
+      ],
+      "answer": "Need for specialized equipment and knowledge"
+    },
+    {
+      "question": "What role does oxygen availability play in coffee fermentation?",
+      "choices": [
+        "It has no effect on fermentation",
+        "It determines which microorganisms dominate the process",
+        "It increases caffeine content",
+        "It speeds up the drying process"
+      ],
+      "answer": "It determines which microorganisms dominate the process"
+    },
+    {
+      "question": "Which of the following is NOT a common use of coffee fermentation by-products?",
+      "choices": [
+        "Composting",
+        "Biogas production",
+        "Animal feed",
+        "Coffee flavoring"
+      ],
+      "answer": "Coffee flavoring"
+    },
+    {
+      "question": "What is the primary role of lactic acid bacteria in coffee fermentation?",
+      "choices": [
+        "To increase caffeine content",
+        "To produce lactic acid and other flavor compounds",
+        "To break down cellulose",
+        "To fix nitrogen in the beans"
+      ],
+      "answer": "To produce lactic acid and other flavor compounds"
+    },
+    {
+      "question": "Which of the following is a potential challenge in implementing innovative fermentation techniques in traditional coffee-producing regions?",
+      "choices": [
+        "Increased yield",
+        "Faster processing times",
+        "Cultural resistance to change",
+        "Lower production costs"
+      ],
+      "answer": "Cultural resistance to change"
+    },
+    {
+      "question": "What is the main purpose of sensory evaluation during coffee fermentation?",
+      "choices": [
+        "To measure caffeine content",
+        "To assess the progress and quality of fermentation",
+        "To determine the roast level",
+        "To set the market price"
+      ],
+      "answer": "To assess the progress and quality of fermentation"
+    },
+    {
+      "question": "Which of the following factors is most likely to contribute to inconsistent fermentation outcomes in traditional processing methods?",
+      "choices": [
+        "Use of stainless steel tanks",
+        "Variability in environmental conditions",
+        "Consistent cherry ripeness",
+        "Use of pH meters"
+      ],
+      "answer": "Variability in environmental conditions"
+    }
+  ]
+}
