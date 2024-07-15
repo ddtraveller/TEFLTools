@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Potato Production in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the approximate annual potato production in Timor-Leste?",
+      "choices": [
+        "1,000 metric tons",
+        "2,500 metric tons",
+        "5,000 metric tons",
+        "10,000 metric tons"
+      ],
+      "answer": "2,500 metric tons"
+    },
+    {
+      "question": "Which of the following is NOT one of the main potato production areas in Timor-Leste?",
+      "choices": [
+        "Aileu",
+        "Ainaro",
+        "Manufahi",
+        "Dili"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question": "What is the average potato yield in Timor-Leste?",
+      "choices": [
+        "4-6 tons per hectare",
+        "8-10 tons per hectare",
+        "12-14 tons per hectare",
+        "16-18 tons per hectare"
+      ],
+      "answer": "8-10 tons per hectare"
+    },
+    {
+      "question": "Which of the following is a challenge for potato production in Timor-Leste?",
+      "choices": [
+        "Excess quality seed potatoes",
+        "Overabundance of storage facilities",
+        "Lack of pest and disease pressure",
+        "Limited access to quality seed potatoes"
+      ],
+      "answer": "Limited access to quality seed potatoes"
+    },
+    {
+      "question": "What is a characteristic of heat-tolerant potato varieties?",
+      "choices": [
+        "Long dormancy period",
+        "Late maturity (150-180 days)",
+        "Tolerance to high day temperatures (up to 35°C)",
+        "Inability to tuberize under short day conditions"
+      ],
+      "answer": "Tolerance to high day temperatures (up to 35°C)"
+    },
+    {
+      "question": "Which of the following is a local potato variety in Timor-Leste?",
+      "choices": [
+        "Granola",
+        "Atlantic",
+        "Mantega",
+        "Desiree"
+      ],
+      "answer": "Mantega"
+    },
+    {
+      "question": "What is the optimal soil pH range for potato cultivation?",
+      "choices": [
+        "4.0-5.0",
+        "5.5-6.5",
+        "7.0-8.0",
+        "8.5-9.5"
+      ],
+      "answer": "5.5-6.5"
+    },
+    {
+      "question": "What is the recommended plowing depth for potato soil preparation?",
+      "choices": [
+        "10-20 cm",
+        "20-30 cm",
+        "30-40 cm",
+        "50-60 cm"
+      ],
+      "answer": "30-40 cm"
+    },
+    {
+      "question": "What is the optimal daytime temperature range for potato growth?",
+      "choices": [
+        "10-15°C",
+        "15-20°C",
+        "20-25°C",
+        "25-30°C"
+      ],
+      "answer": "20-25°C"
+    },
+    {
+      "question": "At what altitude range is potato cultivation most suitable in Timor-Leste?",
+      "choices": [
+        "200-600 meters above sea level",
+        "400-800 meters above sea level",
+        "800-2000 meters above sea level",
+        "2000-3000 meters above sea level"
+      ],
+      "answer": "800-2000 meters above sea level"
+    },
+    {
+      "question": "How much water do potatoes typically require during the growing season?",
+      "choices": [
+        "200-300 mm",
+        "300-400 mm",
+        "400-500 mm",
+        "500-700 mm"
+      ],
+      "answer": "500-700 mm"
+    },
+    {
+      "question": "Which of the following is NOT a critical period for water requirement in potato growth?",
+      "choices": [
+        "Planting to emergence",
+        "Tuber initiation",
+        "Tuber bulking",
+        "After harvest"
+      ],
+      "answer": "After harvest"
+    },
+    {
+      "question": "What is the recommended nitrogen (N) application rate for potatoes in Timor-Leste?",
+      "choices": [
+        "50-80 kg/ha",
+        "100-150 kg/ha",
+        "200-250 kg/ha",
+        "300-350 kg/ha"
+      ],
+      "answer": "100-150 kg/ha"
+    },
+    {
+      "question": "What is the purpose of hilling in potato cultivation?",
+      "choices": [
+        "To reduce water requirements",
+        "To increase soil acidity",
+        "To protect developing tubers from sunlight",
+        "To decrease overall yield"
+      ],
+      "answer": "To protect developing tubers from sunlight"
+    },
+    {
+      "question": "Which potato variety is known for its good processing qualities?",
+      "choices": [
+        "Mantega",
+        "Merah",
+        "Granola",
+        "Atlantic"
+      ],
+      "answer": "Atlantic"
+    },
+    {
+      "question": "What is the typical maturity period for heat-tolerant potato varieties in Timor-Leste?",
+      "choices": [
+        "60-70 days",
+        "90-100 days",
+        "120-130 days",
+        "150-180 days"
+      ],
+      "answer": "90-100 days"
+    },
+    {
+      "question": "Which of the following is NOT a common irrigation method for potatoes in Timor-Leste?",
+      "choices": [
+        "Furrow irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Flood irrigation"
+      ],
+      "answer": "Flood irrigation"
+    },
+    {
+      "question": "What is the primary economic importance of potato production in Timor-Leste?",
+      "choices": [
+        "Export to Europe",
+        "Biofuel production",
+        "Cash crop for smallholder farmers",
+        "Industrial starch production"
+      ],
+      "answer": "Cash crop for smallholder farmers"
+    },
+    {
+      "question": "Which nutrient deficiency in potatoes can cause purple discoloration of leaves?",
+      "choices": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "question": "What is the recommended timing for fertilizer application in potato cultivation?",
+      "choices": [
+        "Only at planting",
+        "Only at flowering",
+        "Basal dose at planting and top dressing at hilling",
+        "After harvest for next season"
+      ],
+      "answer": "Basal dose at planting and top dressing at hilling"
+    },
+    {
+      "question": "Which of the following soil types is preferred for potato cultivation?",
+      "choices": [
+        "Clay soil",
+        "Sandy soil",
+        "Sandy loam or loamy soil",
+        "Heavy clay soil"
+      ],
+      "answer": "Sandy loam or loamy soil"
+    },
+    {
+      "question": "What is the potential role of potato production in Timor-Leste's agricultural sector?",
+      "choices": [
+        "Replacing rice as the staple food",
+        "Exclusively for export markets",
+        "Import substitution and potential export",
+        "Ornamental plant production"
+      ],
+      "answer": "Import substitution and potential export"
+    },
+    {
+      "question": "Which of the following is a characteristic of the 'Desiree' potato variety?",
+      "choices": [
+        "White skin",
+        "Yellow flesh",
+        "Early maturity",
+        "Red skin"
+      ],
+      "answer": "Red skin"
+    },
+    {
+      "question": "What is the main purpose of incorporating organic matter into the soil before planting potatoes?",
+      "choices": [
+        "To increase soil acidity",
+        "To improve soil structure and fertility",
+        "To reduce water retention",
+        "To eliminate all soil microorganisms"
+      ],
+      "answer": "To improve soil structure and fertility"
+    },
+    {
+      "question": "Which of the following is NOT a common pest or disease problem for potatoes in Timor-Leste?",
+      "choices": [
+        "Late blight",
+        "Colorado potato beetle",
+        "Potato cyst nematode",
+        "Bacterial wilt"
+      ],
+      "answer": "Colorado potato beetle"
+    },
+    {
+      "question": "What is the primary reason for growing potatoes at higher altitudes in Timor-Leste?",
+      "choices": [
+        "Better access to markets",
+        "Higher rainfall",
+        "Cooler temperatures",
+        "Fewer pest problems"
+      ],
+      "answer": "Cooler temperatures"
+    },
+    {
+      "question": "Which of the following is a potential value-added product from potatoes in Timor-Leste?",
+      "choices": [
+        "Potato flour",
+        "Potato chips",
+        "Frozen french fries",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the recommended storage temperature for seed potatoes?",
+      "choices": [
+        "0-2°C",
+        "3-4°C",
+        "5-8°C",
+        "10-12°C"
+      ],
+      "answer": "3-4°C"
+    },
+    {
+      "question": "Which of the following practices can help mitigate the effects of climate change on potato production in Timor-Leste?",
+      "choices": [
+        "Using drought-tolerant varieties",
+        "Implementing water-efficient irrigation systems",
+        "Adjusting planting dates",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary function of potassium in potato plants?",
+      "choices": [
+        "Improving root development",
+        "Enhancing photosynthesis",
+        "Increasing disease resistance",
+        "Improving tuber quality and storage life"
+      ],
+      "answer": "Improving tuber quality and storage life"
+    }
+  ]
+}

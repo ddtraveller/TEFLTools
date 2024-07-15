@@ -1,0 +1,305 @@
+{
+  "title": "Post-Harvest Handling and Value Addition",
+  "questions": [
+    {
+      "question": "What is the primary objective of post-harvest handling?",
+      "choices": [
+        "To increase crop yield",
+        "To reduce post-harvest losses",
+        "To improve soil fertility",
+        "To enhance crop diversity"
+      ],
+      "answer": "To reduce post-harvest losses"
+    },
+    {
+      "question": "Which of the following is NOT a common cause of post-harvest losses?",
+      "choices": [
+        "Physical damage",
+        "Pests",
+        "Decay",
+        "Overwatering"
+      ],
+      "answer": "Overwatering"
+    },
+    {
+      "question": "What is value addition in the context of mountain agriculture?",
+      "choices": [
+        "Increasing crop yield",
+        "Improving soil quality",
+        "Increasing the economic value of a product through processing or marketing",
+        "Adding more fertilizers to crops"
+      ],
+      "answer": "Increasing the economic value of a product through processing or marketing"
+    },
+    {
+      "question": "Which of the following is an example of small-scale processing for mountain products?",
+      "choices": [
+        "Large-scale industrial canning",
+        "Coffee fermentation",
+        "Genetic modification",
+        "Chemical preservation"
+      ],
+      "answer": "Coffee fermentation"
+    },
+    {
+      "question": "What is a key consideration when designing a storage structure for mountain crops?",
+      "choices": [
+        "Maximizing sun exposure",
+        "Using only imported materials",
+        "Temperature and humidity control",
+        "Ensuring it's as large as possible"
+      ],
+      "answer": "Temperature and humidity control"
+    },
+    {
+      "question": "Which marketing strategy focuses on the unique qualities of mountain products?",
+      "choices": [
+        "Mass production",
+        "Standardization",
+        "Highlighting unique selling points",
+        "Lowering prices"
+      ],
+      "answer": "Highlighting unique selling points"
+    },
+    {
+      "question": "What is a potential benefit of organic certification for mountain products?",
+      "choices": [
+        "Reduced production costs",
+        "Increased yield",
+        "Access to premium markets",
+        "Simplified farming practices"
+      ],
+      "answer": "Access to premium markets"
+    },
+    {
+      "question": "Which of the following is a traditional method of crop storage in mountain regions?",
+      "choices": [
+        "Refrigeration",
+        "Vacuum sealing",
+        "Elevated granaries",
+        "Hydroponic systems"
+      ],
+      "answer": "Elevated granaries"
+    },
+    {
+      "question": "What is the purpose of a marketing plan for mountain products?",
+      "choices": [
+        "To increase crop yield",
+        "To improve soil fertility",
+        "To connect farmers with markets",
+        "To reduce pest infestations"
+      ],
+      "answer": "To connect farmers with markets"
+    },
+    {
+      "question": "Which processing technique is commonly used for preserving fruits in mountain regions?",
+      "choices": [
+        "Canning",
+        "Freeze-drying",
+        "Solar drying",
+        "Irradiation"
+      ],
+      "answer": "Solar drying"
+    },
+    {
+      "question": "What is a supply chain in the context of mountain agriculture?",
+      "choices": [
+        "A chain used to secure livestock",
+        "A series of mountain peaks",
+        "The network involved in moving a product from producer to consumer",
+        "A type of farming equipment"
+      ],
+      "answer": "The network involved in moving a product from producer to consumer"
+    },
+    {
+      "question": "Which factor is most important when determining the timing of crop harvest?",
+      "choices": [
+        "Market demand",
+        "Weather forecast",
+        "Crop maturity",
+        "Labor availability"
+      ],
+      "answer": "Crop maturity"
+    },
+    {
+      "question": "What is a potential advantage of direct marketing for mountain farmers?",
+      "choices": [
+        "Reduced interaction with customers",
+        "Higher profits by eliminating intermediaries",
+        "Simplified logistics",
+        "Guaranteed sales volumes"
+      ],
+      "answer": "Higher profits by eliminating intermediaries"
+    },
+    {
+      "question": "Which of the following is NOT typically considered in a basic marketing plan for a mountain product?",
+      "choices": [
+        "Product description",
+        "Target market",
+        "Pricing strategy",
+        "Crop rotation schedule"
+      ],
+      "answer": "Crop rotation schedule"
+    },
+    {
+      "question": "What role do women often play in mountain farming systems?",
+      "choices": [
+        "They are typically excluded from agricultural activities",
+        "They focus solely on household chores",
+        "They play a significant role in production and post-harvest activities",
+        "They are only involved in marketing"
+      ],
+      "answer": "They play a significant role in production and post-harvest activities"
+    },
+    {
+      "question": "Which government policy would likely support mountain agriculture in Timor-Leste?",
+      "choices": [
+        "Banning traditional farming practices",
+        "Promoting large-scale mechanized farming",
+        "Supporting small-scale processing facilities",
+        "Encouraging monoculture"
+      ],
+      "answer": "Supporting small-scale processing facilities"
+    },
+    {
+      "question": "What is a potential benefit of linking mountain agriculture to ecotourism?",
+      "choices": [
+        "Reduced biodiversity",
+        "Increased use of chemical inputs",
+        "Additional income streams for farmers",
+        "Simplified farming systems"
+      ],
+      "answer": "Additional income streams for farmers"
+    },
+    {
+      "question": "Which of the following is a common challenge in post-harvest handling of mountain crops?",
+      "choices": [
+        "Excess water availability",
+        "Too much storage space",
+        "Limited transportation infrastructure",
+        "Overabundance of processing facilities"
+      ],
+      "answer": "Limited transportation infrastructure"
+    },
+    {
+      "question": "What is the primary purpose of packaging in value addition?",
+      "choices": [
+        "To increase the weight of the product",
+        "To hide product defects",
+        "To protect the product and enhance its appeal",
+        "To make transportation more difficult"
+      ],
+      "answer": "To protect the product and enhance its appeal"
+    },
+    {
+      "question": "Which of the following is an example of traditional ecological knowledge in mountain agriculture?",
+      "choices": [
+        "Using chemical pesticides",
+        "Implementing monoculture",
+        "Understanding local weather patterns for planting",
+        "Relying solely on modern irrigation systems"
+      ],
+      "answer": "Understanding local weather patterns for planting"
+    },
+    {
+      "question": "What is a key consideration when developing a diverse cropping system for a mountain farm?",
+      "choices": [
+        "Focusing on a single crop",
+        "Ignoring local climate conditions",
+        "Integrating legumes and cover crops",
+        "Maximizing chemical inputs"
+      ],
+      "answer": "Integrating legumes and cover crops"
+    },
+    {
+      "question": "Which of the following is a sustainable livestock management practice in mountain areas?",
+      "choices": [
+        "Overgrazing steep slopes",
+        "Importing all animal feed",
+        "Integrating fodder production on marginal lands",
+        "Keeping animals confined year-round"
+      ],
+      "answer": "Integrating fodder production on marginal lands"
+    },
+    {
+      "question": "What is the purpose of a participatory research approach with mountain farming communities?",
+      "choices": [
+        "To exclude farmers from the research process",
+        "To impose external solutions without local input",
+        "To integrate local knowledge and ensure relevance of research",
+        "To reduce the time needed for research"
+      ],
+      "answer": "To integrate local knowledge and ensure relevance of research"
+    },
+    {
+      "question": "Which of the following is a benefit of proper manure management in mountain agriculture?",
+      "choices": [
+        "Increased soil erosion",
+        "Reduced soil fertility",
+        "Improved soil structure and fertility",
+        "Decreased crop yield"
+      ],
+      "answer": "Improved soil structure and fertility"
+    },
+    {
+      "question": "What is a key challenge of water management in mountain agriculture?",
+      "choices": [
+        "Excess water availability",
+        "Lack of gravity for irrigation",
+        "Managing water on steep slopes",
+        "Too much rainfall throughout the year"
+      ],
+      "answer": "Managing water on steep slopes"
+    },
+    {
+      "question": "Which of the following is a potential benefit of agroforestry systems in mountain regions?",
+      "choices": [
+        "Reduced biodiversity",
+        "Increased soil erosion",
+        "Enhanced ecosystem services",
+        "Simplified farm management"
+      ],
+      "answer": "Enhanced ecosystem services"
+    },
+    {
+      "question": "What is the primary goal of organizing a mountain products fair?",
+      "choices": [
+        "To discourage local production",
+        "To promote industrial agriculture",
+        "To connect farmers with markets",
+        "To increase use of chemical inputs"
+      ],
+      "answer": "To connect farmers with markets"
+    },
+    {
+      "question": "Which of the following is a sustainable soil conservation technique for mountain slopes?",
+      "choices": [
+        "Encouraging monoculture",
+        "Removing all vegetation",
+        "Contour farming",
+        "Increasing chemical fertilizer use"
+      ],
+      "answer": "Contour farming"
+    },
+    {
+      "question": "What is a key consideration when selecting climate-resilient crop varieties for mountain regions?",
+      "choices": [
+        "Choosing varieties that require high water input",
+        "Focusing on non-native species",
+        "Selecting varieties adapted to local conditions",
+        "Prioritizing high-yield varieties regardless of resilience"
+      ],
+      "answer": "Selecting varieties adapted to local conditions"
+    },
+    {
+      "question": "Which of the following is NOT typically a focus of small-scale processing for mountain products?",
+      "choices": [
+        "Drying",
+        "Fermentation",
+        "Grinding",
+        "Genetic modification"
+      ],
+      "answer": "Genetic modification"
+    }
+  ]
+}

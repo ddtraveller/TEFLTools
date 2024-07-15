@@ -1,0 +1,305 @@
+{
+  "title": "Understanding Salinity and Its Impact on Potato Production",
+  "questions": [
+    {
+      "question": "What is the primary unit used to measure salinity in agricultural contexts?",
+      "choices": [
+        "pH",
+        "Parts per million (ppm)",
+        "Electrical conductivity (EC)",
+        "Sodium adsorption ratio (SAR)"
+      ],
+      "answer": "Electrical conductivity (EC)"
+    },
+    {
+      "question": "At what EC level do potato yields typically begin to decline?",
+      "choices": [
+        "0.5 dS/m",
+        "1.7 dS/m",
+        "3.0 dS/m",
+        "5.0 dS/m"
+      ],
+      "answer": "1.7 dS/m"
+    },
+    {
+      "question": "Which of the following is NOT a common cause of human-induced salinity?",
+      "choices": [
+        "Poor irrigation practices",
+        "Deforestation",
+        "Marine sediments",
+        "Rising water tables"
+      ],
+      "answer": "Marine sediments"
+    },
+    {
+      "question": "What is osmotic stress in the context of salinity?",
+      "choices": [
+        "Excess water in plant cells",
+        "Difficulty in water uptake due to high salt concentration",
+        "Increased photosynthesis rate",
+        "Improved nutrient absorption"
+      ],
+      "answer": "Difficulty in water uptake due to high salt concentration"
+    },
+    {
+      "question": "Which ions are primarily responsible for specific ion toxicity in saline conditions?",
+      "choices": [
+        "Potassium (K+) and Magnesium (Mg2+)",
+        "Calcium (Ca2+) and Phosphate (PO43-)",
+        "Sodium (Na+) and Chloride (Cl-)",
+        "Nitrate (NO3-) and Sulfate (SO42-)"
+      ],
+      "answer": "Sodium (Na+) and Chloride (Cl-)"
+    },
+    {
+      "question": "What is the relationship between EC (dS/m) and salt concentration (ppm)?",
+      "choices": [
+        "ppm ≈ EC x 64",
+        "ppm ≈ EC x 640",
+        "ppm ≈ EC x 6400",
+        "ppm ≈ EC x 64000"
+      ],
+      "answer": "ppm ≈ EC x 640"
+    },
+    {
+      "question": "Which growth stage of potatoes is generally most sensitive to salinity?",
+      "choices": [
+        "Germination and early growth",
+        "Vegetative growth",
+        "Tuber initiation",
+        "Tuber bulking"
+      ],
+      "answer": "Germination and early growth"
+    },
+    {
+      "question": "What is leaching in the context of salinity management?",
+      "choices": [
+        "Applying fertilizers to counteract salt effects",
+        "Removing top soil layers",
+        "Flushing accumulated salts below the root zone with excess water",
+        "Planting salt-tolerant cover crops"
+      ],
+      "answer": "Flushing accumulated salts below the root zone with excess water"
+    },
+    {
+      "question": "Which nutrient's uptake is most commonly disrupted by excess sodium in saline soils?",
+      "choices": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Iron"
+      ],
+      "answer": "Potassium"
+    },
+    {
+      "question": "What is a common visual symptom of early-stage salt stress in potato plants?",
+      "choices": [
+        "Increased leaf size",
+        "Lighter green leaves",
+        "Darker, bluish-green leaves",
+        "Rapid stem elongation"
+      ],
+      "answer": "Darker, bluish-green leaves"
+    },
+    {
+      "question": "How does salinity typically affect tuber quality in potatoes?",
+      "choices": [
+        "Increases dry matter content",
+        "Improves skin texture",
+        "Enhances nutrient concentration",
+        "Reduces dry matter content"
+      ],
+      "answer": "Reduces dry matter content"
+    },
+    {
+      "question": "What is the primary concern with using leaching as a salinity management strategy?",
+      "choices": [
+        "It's too expensive",
+        "It can lead to waterlogging and groundwater contamination",
+        "It reduces soil fertility",
+        "It increases soil temperature"
+      ],
+      "answer": "It can lead to waterlogging and groundwater contamination"
+    },
+    {
+      "question": "Which of the following is NOT a typical effect of salinity on potato plant physiology?",
+      "choices": [
+        "Reduced photosynthesis rate",
+        "Altered carbon partitioning",
+        "Increased root growth",
+        "Decreased yield"
+      ],
+      "answer": "Increased root growth"
+    },
+    {
+      "question": "What does EC stand for in the context of salinity measurement?",
+      "choices": [
+        "Electrolyte Concentration",
+        "Environmental Condition",
+        "Electrical Conductivity",
+        "Elemental Composition"
+      ],
+      "answer": "Electrical Conductivity"
+    },
+    {
+      "question": "Which soil amendment is commonly used to address sodic soil conditions?",
+      "choices": [
+        "Lime",
+        "Sulfur",
+        "Gypsum",
+        "Perlite"
+      ],
+      "answer": "Gypsum"
+    },
+    {
+      "question": "What is the primary mechanism by which salinity reduces plant growth?",
+      "choices": [
+        "Increased photosynthesis",
+        "Osmotic stress",
+        "Enhanced nutrient uptake",
+        "Stimulated hormone production"
+      ],
+      "answer": "Osmotic stress"
+    },
+    {
+      "question": "Which irrigation method is generally most effective for managing salinity in potato production?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is the typical effect of salinity on leaf senescence in potato plants?",
+      "choices": [
+        "Delayed senescence",
+        "No effect on senescence",
+        "Premature senescence",
+        "Variable effects depending on variety"
+      ],
+      "answer": "Premature senescence"
+    },
+    {
+      "question": "How does salinity generally affect the number of tubers formed per potato plant?",
+      "choices": [
+        "Increases tuber number",
+        "No effect on tuber number",
+        "Decreases tuber number",
+        "Varies unpredictably"
+      ],
+      "answer": "Decreases tuber number"
+    },
+    {
+      "question": "What is a common soil management strategy to mitigate salinity effects?",
+      "choices": [
+        "Increasing tillage frequency",
+        "Removing all organic matter",
+        "Incorporating organic matter",
+        "Compacting the soil"
+      ],
+      "answer": "Incorporating organic matter"
+    },
+    {
+      "question": "Which of the following is a potential long-term effect of salinity on potato production?",
+      "choices": [
+        "Improved soil structure",
+        "Increased biodiversity",
+        "Enhanced nutrient cycling",
+        "Reduced soil fertility"
+      ],
+      "answer": "Reduced soil fertility"
+    },
+    {
+      "question": "What role does deforestation play in exacerbating salinity issues?",
+      "choices": [
+        "It reduces salt content in soil",
+        "It increases rainfall",
+        "It can lead to rising water tables and increased evaporation",
+        "It has no effect on salinity"
+      ],
+      "answer": "It can lead to rising water tables and increased evaporation"
+    },
+    {
+      "question": "How does salinity typically affect the leaf area of potato plants?",
+      "choices": [
+        "Increases leaf area",
+        "No effect on leaf area",
+        "Reduces leaf area",
+        "Causes leaf area to become highly variable"
+      ],
+      "answer": "Reduces leaf area"
+    },
+    {
+      "question": "What is the primary goal of crop breeding for salt tolerance in potatoes?",
+      "choices": [
+        "To increase salt uptake by plants",
+        "To develop varieties that require more salt",
+        "To create varieties that can maintain yield under saline conditions",
+        "To produce potatoes with higher salt content"
+      ],
+      "answer": "To create varieties that can maintain yield under saline conditions"
+    },
+    {
+      "question": "Which climatic factor can exacerbate salinity issues in potato fields?",
+      "choices": [
+        "High rainfall",
+        "Low temperatures",
+        "High evaporation rates",
+        "Increased cloud cover"
+      ],
+      "answer": "High evaporation rates"
+    },
+    {
+      "question": "What is the typical effect of salinity on the root system of potato plants?",
+      "choices": [
+        "Increased root mass",
+        "No effect on roots",
+        "Reduced root growth and function",
+        "Altered root color"
+      ],
+      "answer": "Reduced root growth and function"
+    },
+    {
+      "question": "How does salinity affect the uptake of micronutrients in potato plants?",
+      "choices": [
+        "Enhances micronutrient uptake",
+        "Has no effect on micronutrient uptake",
+        "Can induce micronutrient deficiencies",
+        "Always increases iron uptake"
+      ],
+      "answer": "Can induce micronutrient deficiencies"
+    },
+    {
+      "question": "What is a potential benefit of using mulch in saline potato fields?",
+      "choices": [
+        "It adds salt to the soil",
+        "It increases soil temperature",
+        "It reduces evaporation from the soil surface",
+        "It enhances salt uptake by plants"
+      ],
+      "answer": "It reduces evaporation from the soil surface"
+    },
+    {
+      "question": "How does salinity typically affect the timing of tuber initiation in potatoes?",
+      "choices": [
+        "Accelerates tuber initiation",
+        "Delays tuber initiation",
+        "Has no effect on tuber initiation timing",
+        "Causes highly variable initiation times"
+      ],
+      "answer": "Delays tuber initiation"
+    },
+    {
+      "question": "What is the primary reason for measuring both soil and irrigation water EC in potato production?",
+      "choices": [
+        "To calculate fertilizer needs",
+        "To determine planting dates",
+        "To assess overall salinity stress on plants",
+        "To predict potato flavor"
+      ],
+      "answer": "To assess overall salinity stress on plants"
+    }
+  ]
+}

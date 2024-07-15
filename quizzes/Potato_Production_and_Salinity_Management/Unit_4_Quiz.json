@@ -1,0 +1,305 @@
+{
+  "title": "Irrigation Management in Saline Conditions",
+  "questions": [
+    {
+      "question": "What is the primary purpose of leaching in saline soil management?",
+      "choices": [
+        "To increase soil temperature",
+        "To remove excess salts from the root zone",
+        "To add nutrients to the soil",
+        "To compact the soil"
+      ],
+      "answer": "To remove excess salts from the root zone"
+    },
+    {
+      "question": "Which irrigation method is considered most effective for managing salinity in crop production?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is the threshold EC (Electrical Conductivity) value at which potato yield begins to decline?",
+      "choices": [
+        "1.0 dS/m",
+        "1.7 dS/m",
+        "2.5 dS/m",
+        "3.2 dS/m"
+      ],
+      "answer": "1.7 dS/m"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of drip irrigation in saline conditions?",
+      "choices": [
+        "Precise water application",
+        "Reduced salt exposure to leaves",
+        "Improved leaching efficiency",
+        "Increased soil compaction"
+      ],
+      "answer": "Increased soil compaction"
+    },
+    {
+      "question": "What does ET stand for in the context of irrigation scheduling?",
+      "choices": [
+        "Elevated Temperature",
+        "Evapotranspiration",
+        "Electrical Transmission",
+        "Environmental Tolerance"
+      ],
+      "answer": "Evapotranspiration"
+    },
+    {
+      "question": "Which of the following is a common method for determining crop water requirements?",
+      "choices": [
+        "pH testing",
+        "Soil color analysis",
+        "Soil moisture-based scheduling",
+        "Leaf counting"
+      ],
+      "answer": "Soil moisture-based scheduling"
+    },
+    {
+      "question": "What is the main purpose of maintaining adequate soil moisture in saline conditions?",
+      "choices": [
+        "To increase salt concentration",
+        "To prevent salt concentration in the root zone",
+        "To promote salt uptake by plants",
+        "To reduce water absorption by roots"
+      ],
+      "answer": "To prevent salt concentration in the root zone"
+    },
+    {
+      "question": "Which of the following is used to measure soil moisture tension?",
+      "choices": [
+        "Thermometer",
+        "pH meter",
+        "Tensiometer",
+        "Anemometer"
+      ],
+      "answer": "Tensiometer"
+    },
+    {
+      "question": "What is the leaching fraction in irrigation management?",
+      "choices": [
+        "The amount of fertilizer applied with irrigation",
+        "The portion of applied water that evaporates",
+        "The portion of applied water that drains below the root zone",
+        "The amount of salt in the irrigation water"
+      ],
+      "answer": "The portion of applied water that drains below the root zone"
+    },
+    {
+      "question": "In the leaching requirement formula LR = ECw / (5 * ECe - ECw), what does ECw represent?",
+      "choices": [
+        "Electrical conductivity of the soil",
+        "Electrical conductivity of the plant",
+        "Electrical conductivity of irrigation water",
+        "Electrical conductivity of the atmosphere"
+      ],
+      "answer": "Electrical conductivity of irrigation water"
+    },
+    {
+      "question": "What is osmotic stress in plants?",
+      "choices": [
+        "Stress caused by excessive sunlight",
+        "Stress caused by high temperatures",
+        "Stress that reduces the plant's ability to take up water and nutrients",
+        "Stress caused by mechanical damage to the plant"
+      ],
+      "answer": "Stress that reduces the plant's ability to take up water and nutrients"
+    },
+    {
+      "question": "Which growth stage of potatoes typically requires the highest soil moisture levels?",
+      "choices": [
+        "Vegetative stage",
+        "Tuber initiation",
+        "Tuber bulking",
+        "Maturation"
+      ],
+      "answer": "Tuber initiation"
+    },
+    {
+      "question": "What is the recommended soil moisture level during the vegetative stage of potato growth?",
+      "choices": [
+        "45-55% of field capacity",
+        "65-75% of field capacity",
+        "85-95% of field capacity",
+        "100% of field capacity"
+      ],
+      "answer": "65-75% of field capacity"
+    },
+    {
+      "question": "Which of the following is NOT a component of a drip irrigation system?",
+      "choices": [
+        "Emitters",
+        "Pressure regulators",
+        "Sprinkler heads",
+        "Filtration system"
+      ],
+      "answer": "Sprinkler heads"
+    },
+    {
+      "question": "What is the primary advantage of ET-based irrigation scheduling?",
+      "choices": [
+        "It requires no equipment",
+        "It accounts for weather conditions and crop growth stage",
+        "It eliminates the need for irrigation",
+        "It increases salt concentration in the soil"
+      ],
+      "answer": "It accounts for weather conditions and crop growth stage"
+    },
+    {
+      "question": "Which of the following is a sign of salt stress in potato plants?",
+      "choices": [
+        "Increased tuber size",
+        "Accelerated growth",
+        "Leaf burn",
+        "Deeper green leaf color"
+      ],
+      "answer": "Leaf burn"
+    },
+    {
+      "question": "What is the purpose of system flushing in drip irrigation?",
+      "choices": [
+        "To add fertilizers",
+        "To prevent salt buildup in the lines",
+        "To increase water pressure",
+        "To cool the soil"
+      ],
+      "answer": "To prevent salt buildup in the lines"
+    },
+    {
+      "question": "When is it often beneficial to apply leaching irrigations?",
+      "choices": [
+        "Only during peak growing season",
+        "During the non-growing season or between crops",
+        "Every day throughout the year",
+        "Only when plants show visible salt stress"
+      ],
+      "answer": "During the non-growing season or between crops"
+    },
+    {
+      "question": "What does maintaining a 'favorable salt balance in the root zone' mean?",
+      "choices": [
+        "Keeping salt levels as high as possible",
+        "Eliminating all salts from the soil",
+        "Keeping salt levels below the crop's tolerance threshold",
+        "Ensuring equal distribution of salts throughout the soil profile"
+      ],
+      "answer": "Keeping salt levels below the crop's tolerance threshold"
+    },
+    {
+      "question": "Why is water conservation particularly important in saline conditions?",
+      "choices": [
+        "To increase salt concentration",
+        "To reduce the need for fertilizers",
+        "To minimize salt accumulation and maintain soil health",
+        "To promote deeper root growth"
+      ],
+      "answer": "To minimize salt accumulation and maintain soil health"
+    },
+    {
+      "question": "What is the main advantage of soil moisture-based scheduling in saline conditions?",
+      "choices": [
+        "It eliminates the need for irrigation",
+        "It allows farmers to maintain optimal soil moisture levels",
+        "It increases salt concentration in the root zone",
+        "It reduces crop water requirements"
+      ],
+      "answer": "It allows farmers to maintain optimal soil moisture levels"
+    },
+    {
+      "question": "Which of the following is NOT a factor to consider when calculating the leaching requirement?",
+      "choices": [
+        "Salinity of irrigation water",
+        "Salt tolerance of the crop",
+        "Desired salinity level in the root zone",
+        "Soil texture"
+      ],
+      "answer": "Soil texture"
+    },
+    {
+      "question": "What is the primary goal of irrigation management in saline conditions?",
+      "choices": [
+        "To increase salt levels in the soil",
+        "To reduce water usage regardless of crop health",
+        "To maintain crop productivity while managing soil health",
+        "To eliminate the need for fertilizers"
+      ],
+      "answer": "To maintain crop productivity while managing soil health"
+    },
+    {
+      "question": "Why are frequent, light irrigations often recommended during the vegetative stage of potato growth?",
+      "choices": [
+        "To increase salt concentration in the soil",
+        "To promote deep root development",
+        "To reduce overall water usage",
+        "To increase soil temperature"
+      ],
+      "answer": "To promote deep root development"
+    },
+    {
+      "question": "What is the main advantage of drip irrigation in pushing salts to the periphery of the wetted area?",
+      "choices": [
+        "It increases salt uptake by plants",
+        "It concentrates salts where roots are most active",
+        "It moves salts away from the main root zone",
+        "It eliminates the need for leaching"
+      ],
+      "answer": "It moves salts away from the main root zone"
+    },
+    {
+      "question": "Which of the following is a potential risk of over-irrigating in saline conditions?",
+      "choices": [
+        "Increased nutrient uptake",
+        "Improved soil structure",
+        "Waterlogging and reduced aeration",
+        "Decreased salt concentration in the root zone"
+      ],
+      "answer": "Waterlogging and reduced aeration"
+    },
+    {
+      "question": "What is the primary purpose of combining drip irrigation with periodic sprinkler irrigation in saline conditions?",
+      "choices": [
+        "To increase water usage",
+        "To promote salt accumulation",
+        "To aid in leaching salts from the soil surface",
+        "To reduce the efficiency of the irrigation system"
+      ],
+      "answer": "To aid in leaching salts from the soil surface"
+    },
+    {
+      "question": "Why is it important to consider emitter clog resistance when designing a drip system for saline conditions?",
+      "choices": [
+        "To increase water pressure",
+        "To prevent salt buildup and maintain system efficiency",
+        "To reduce water flow rates",
+        "To increase salt concentration in the soil"
+      ],
+      "answer": "To prevent salt buildup and maintain system efficiency"
+    },
+    {
+      "question": "What is the main benefit of maintaining consistent soil moisture at 70-80% of field capacity during the tuber bulking stage?",
+      "choices": [
+        "To increase salt concentration in the soil",
+        "To reduce overall water usage",
+        "To support rapid tuber growth",
+        "To promote early maturation"
+      ],
+      "answer": "To support rapid tuber growth"
+    },
+    {
+      "question": "Why is it recommended to gradually reduce irrigation frequency during the maturation stage of potato growth?",
+      "choices": [
+        "To increase salt concentration in the soil",
+        "To promote skin set on the tubers",
+        "To encourage continued tuber growth",
+        "To increase water uptake by the plant"
+      ],
+      "answer": "To promote skin set on the tubers"
+    }
+  ]
+}

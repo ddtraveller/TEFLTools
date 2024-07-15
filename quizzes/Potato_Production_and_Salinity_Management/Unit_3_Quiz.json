@@ -1,0 +1,305 @@
+{
+  "title": "Soil and Water Testing for Salinity",
+  "questions": [
+    {
+      "question": "What is the primary tool for measuring salinity in both soil and water?",
+      "choices": [
+        "pH meter",
+        "Electrical conductivity (EC) meter",
+        "Refractometer",
+        "Hydrometer"
+      ],
+      "answer": "Electrical conductivity (EC) meter"
+    },
+    {
+      "question": "Which unit is commonly used to report electrical conductivity in soil and water tests?",
+      "choices": [
+        "Parts per million (ppm)",
+        "Milligrams per liter (mg/L)",
+        "Decisiemens per meter (dS/m)",
+        "Moles per liter (mol/L)"
+      ],
+      "answer": "Decisiemens per meter (dS/m)"
+    },
+    {
+      "question": "What is the optimal pH range for potato production?",
+      "choices": [
+        "4.0-5.0",
+        "5.5-6.5",
+        "7.0-8.0",
+        "8.5-9.5"
+      ],
+      "answer": "5.5-6.5"
+    },
+    {
+      "question": "What does SAR stand for in the context of soil salinity?",
+      "choices": [
+        "Soil Acidity Ratio",
+        "Sodium Adsorption Ratio",
+        "Salt Accumulation Rate",
+        "Soil Alkalinity Reading"
+      ],
+      "answer": "Sodium Adsorption Ratio"
+    },
+    {
+      "question": "What sampling pattern is often used for soil sampling in a field?",
+      "choices": [
+        "Straight line",
+        "Circular",
+        "Zigzag",
+        "Random"
+      ],
+      "answer": "Zigzag"
+    },
+    {
+      "question": "At what depths should soil samples typically be taken for potato crops?",
+      "choices": [
+        "0-15cm and 15-30cm",
+        "0-30cm and 30-60cm",
+        "0-50cm and 50-100cm",
+        "0-10cm and 10-20cm"
+      ],
+      "answer": "0-30cm and 30-60cm"
+    },
+    {
+      "question": "What is the EC threshold for potatoes above which yield reduction may occur?",
+      "choices": [
+        "1.0 dS/m",
+        "1.7 dS/m",
+        "2.5 dS/m",
+        "3.0 dS/m"
+      ],
+      "answer": "1.7 dS/m"
+    },
+    {
+      "question": "What percentage yield decrease can be expected for potatoes per dS/m increase above the EC threshold?",
+      "choices": [
+        "5%",
+        "8%",
+        "12%",
+        "15%"
+      ],
+      "answer": "12%"
+    },
+    {
+      "question": "What does CEC stand for in soil science?",
+      "choices": [
+        "Cation Exchange Capacity",
+        "Chemical Element Concentration",
+        "Crop Efficiency Coefficient",
+        "Conductivity Evaluation Constant"
+      ],
+      "answer": "Cation Exchange Capacity"
+    },
+    {
+      "question": "Which of the following is NOT a major cation typically measured in salinity tests?",
+      "choices": [
+        "Sodium",
+        "Calcium",
+        "Magnesium",
+        "Potassium"
+      ],
+      "answer": "Potassium"
+    },
+    {
+      "question": "What is the recommended ratio of soil to distilled water for measuring EC in a soil sample?",
+      "choices": [
+        "1:1",
+        "1:2",
+        "1:5",
+        "2:1"
+      ],
+      "answer": "1:2"
+    },
+    {
+      "question": "What type of soil extract is commonly used for salinity assessment?",
+      "choices": [
+        "Water extract",
+        "Acid extract",
+        "Saturated paste extract",
+        "Alcohol extract"
+      ],
+      "answer": "Saturated paste extract"
+    },
+    {
+      "question": "What is considered a high risk SAR value for soil structure problems?",
+      "choices": [
+        "> 3",
+        "> 6",
+        "> 9",
+        "> 12"
+      ],
+      "answer": "> 9"
+    },
+    {
+      "question": "How many subsamples should typically be collected to create a composite soil sample for a field?",
+      "choices": [
+        "5-10",
+        "15-20",
+        "25-30",
+        "35-40"
+      ],
+      "answer": "15-20"
+    },
+    {
+      "question": "What is the recommended size of a composite soil sample for laboratory analysis?",
+      "choices": [
+        "100g",
+        "250g",
+        "500g",
+        "1000g"
+      ],
+      "answer": "500g"
+    },
+    {
+      "question": "Which soil texture may allow for easier leaching of salts?",
+      "choices": [
+        "Clay",
+        "Silt",
+        "Sandy loam",
+        "Clay loam"
+      ],
+      "answer": "Sandy loam"
+    },
+    {
+      "question": "What is the primary purpose of leaching irrigation in saline soils?",
+      "choices": [
+        "To add nutrients",
+        "To flush salts from the root zone",
+        "To increase soil compaction",
+        "To raise the water table"
+      ],
+      "answer": "To flush salts from the root zone"
+    },
+    {
+      "question": "Which of the following is NOT a recommended management practice for moderately saline soils?",
+      "choices": [
+        "Adding organic matter",
+        "Selecting salt-tolerant varieties",
+        "Increasing irrigation frequency",
+        "Applying more fertilizer"
+      ],
+      "answer": "Applying more fertilizer"
+    },
+    {
+      "question": "What type of fertilizers might be recommended to help lower soil pH over time in saline soils?",
+      "choices": [
+        "Alkaline fertilizers",
+        "Neutral fertilizers",
+        "Acidifying fertilizers",
+        "Organic fertilizers"
+      ],
+      "answer": "Acidifying fertilizers"
+    },
+    {
+      "question": "How often should irrigation water be sampled for salinity testing during a growing season?",
+      "choices": [
+        "Once at the beginning",
+        "Twice, at beginning and end",
+        "Three times, at beginning, middle, and end",
+        "Monthly"
+      ],
+      "answer": "Three times, at beginning, middle, and end"
+    },
+    {
+      "question": "What should be done with water sampling bottles before collecting a sample?",
+      "choices": [
+        "Sterilize with alcohol",
+        "Rinse with distilled water",
+        "Rinse with the water to be sampled",
+        "Use without rinsing"
+      ],
+      "answer": "Rinse with the water to be sampled"
+    },
+    {
+      "question": "Which of the following is NOT a major anion typically measured in salinity tests?",
+      "choices": [
+        "Chloride",
+        "Sulfate",
+        "Bicarbonate",
+        "Nitrate"
+      ],
+      "answer": "Nitrate"
+    },
+    {
+      "question": "What does a high SAR value indicate about the soil?",
+      "choices": [
+        "High acidity",
+        "High alkalinity",
+        "Potential for sodium-related soil structure problems",
+        "High organic matter content"
+      ],
+      "answer": "Potential for sodium-related soil structure problems"
+    },
+    {
+      "question": "Which soil amendment is often recommended to mitigate sodium impacts in saline soils?",
+      "choices": [
+        "Lime",
+        "Sulfur",
+        "Gypsum",
+        "Perlite"
+      ],
+      "answer": "Gypsum"
+    },
+    {
+      "question": "What is the primary reason for taking soil samples at different depths?",
+      "choices": [
+        "To save time",
+        "To reduce costs",
+        "To assess salinity in different root zones",
+        "To comply with regulations"
+      ],
+      "answer": "To assess salinity in different root zones"
+    },
+    {
+      "question": "How should water samples be stored after collection?",
+      "choices": [
+        "At room temperature",
+        "Refrigerated",
+        "Frozen",
+        "In direct sunlight"
+      ],
+      "answer": "Refrigerated"
+    },
+    {
+      "question": "What factor can cause seasonal variations in irrigation water quality?",
+      "choices": [
+        "Soil type",
+        "Crop rotation",
+        "Rainfall patterns",
+        "Fertilizer application"
+      ],
+      "answer": "Rainfall patterns"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a soil salinity management plan?",
+      "choices": [
+        "Improving drainage",
+        "Adjusting irrigation practices",
+        "Increasing fertilizer use",
+        "Selecting salt-tolerant crops"
+      ],
+      "answer": "Increasing fertilizer use"
+    },
+    {
+      "question": "What is the purpose of calibrating an EC meter before use?",
+      "choices": [
+        "To increase battery life",
+        "To ensure accurate readings",
+        "To clean the probe",
+        "To adjust for temperature"
+      ],
+      "answer": "To ensure accurate readings"
+    },
+    {
+      "question": "How does soil texture affect EC readings?",
+      "choices": [
+        "It has no effect",
+        "Sandy soils show higher EC than clay soils with the same salt content",
+        "Clay soils show higher EC than sandy soils with the same salt content",
+        "Only loam soils give accurate EC readings"
+      ],
+      "answer": "Clay soils show higher EC than sandy soils with the same salt content"
+    }
+  ]
+}

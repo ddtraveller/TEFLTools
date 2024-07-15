@@ -1,0 +1,305 @@
+{
+  "title": "Soil and Water Conservation Techniques",
+  "questions": [
+    {
+      "question": "What is the primary cause of increased soil erosion on mountain slopes?",
+      "choices": [
+        "Flat terrain",
+        "Steep slopes",
+        "Heavy vegetation",
+        "Low rainfall"
+      ],
+      "answer": "Steep slopes"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of vegetation cover for soil erosion control?",
+      "choices": [
+        "Plant roots bind soil particles together",
+        "Vegetation slows water runoff",
+        "Leaf litter protects soil surface",
+        "Plants increase soil moisture content"
+      ],
+      "answer": "Plants increase soil moisture content"
+    },
+    {
+      "question": "What type of terrace is characterized by flat surfaces with vertical walls?",
+      "choices": [
+        "Sloping terraces",
+        "Bench terraces",
+        "Stone-walled terraces",
+        "Grass strip terraces"
+      ],
+      "answer": "Bench terraces"
+    },
+    {
+      "question": "What is the maximum slope percentage generally suitable for contour farming?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of terracing and contour farming?",
+      "choices": [
+        "Reduces soil erosion",
+        "Increases water infiltration",
+        "Allows cultivation on steeper slopes",
+        "Eliminates the need for fertilizers"
+      ],
+      "answer": "Eliminates the need for fertilizers"
+    },
+    {
+      "question": "What is the primary purpose of mulching?",
+      "choices": [
+        "To increase soil erosion",
+        "To protect soil surface from rain impact and wind erosion",
+        "To decrease soil moisture retention",
+        "To promote weed growth"
+      ],
+      "answer": "To protect soil surface from rain impact and wind erosion"
+    },
+    {
+      "question": "Which type of cover crop can add nitrogen to the soil?",
+      "choices": [
+        "Grass cover crops",
+        "Legume cover crops",
+        "Root vegetable cover crops",
+        "Cereal cover crops"
+      ],
+      "answer": "Legume cover crops"
+    },
+    {
+      "question": "What is the term for incorporating cover crops into the soil as a natural fertilizer?",
+      "choices": [
+        "Green manure",
+        "Brown manure",
+        "Compost tea",
+        "Crop rotation"
+      ],
+      "answer": "Green manure"
+    },
+    {
+      "question": "Which rainwater harvesting technique uses gutters to collect water?",
+      "choices": [
+        "Contour bunds",
+        "Check dams",
+        "Rooftop collection",
+        "Infiltration pits"
+      ],
+      "answer": "Rooftop collection"
+    },
+    {
+      "question": "What is the purpose of a subsurface dam in rainwater harvesting?",
+      "choices": [
+        "To collect surface runoff",
+        "To trap groundwater flow",
+        "To increase evaporation",
+        "To prevent flooding"
+      ],
+      "answer": "To trap groundwater flow"
+    },
+    {
+      "question": "Which of the following is NOT a common use for harvested rainwater?",
+      "choices": [
+        "Domestic use",
+        "Supplemental irrigation",
+        "Livestock watering",
+        "Electricity generation"
+      ],
+      "answer": "Electricity generation"
+    },
+    {
+      "question": "What is the primary function of contour bunds in rainwater harvesting?",
+      "choices": [
+        "To collect roof runoff",
+        "To trap surface runoff along contours",
+        "To increase evaporation",
+        "To prevent landslides"
+      ],
+      "answer": "To trap surface runoff along contours"
+    },
+    {
+      "question": "Which soil conservation technique involves planting along contour lines instead of up and down slopes?",
+      "choices": [
+        "Terracing",
+        "Mulching",
+        "Contour farming",
+        "Cover cropping"
+      ],
+      "answer": "Contour farming"
+    },
+    {
+      "question": "What is the main advantage of underground cisterns for water storage?",
+      "choices": [
+        "Lower cost",
+        "Easier maintenance",
+        "Larger capacity and less visible",
+        "Better water quality"
+      ],
+      "answer": "Larger capacity and less visible"
+    },
+    {
+      "question": "Which of the following is a benefit of deep-rooted cover crops?",
+      "choices": [
+        "Increased soil compaction",
+        "Reduced water infiltration",
+        "Breaking up compacted soil layers",
+        "Decreased nutrient uptake"
+      ],
+      "answer": "Breaking up compacted soil layers"
+    },
+    {
+      "question": "What is the primary purpose of check dams in rainwater harvesting?",
+      "choices": [
+        "To collect roof runoff",
+        "To increase evaporation",
+        "To capture water and reduce erosion in gullies",
+        "To prevent flooding in lowland areas"
+      ],
+      "answer": "To capture water and reduce erosion in gullies"
+    },
+    {
+      "question": "Which type of terrace is easiest to construct?",
+      "choices": [
+        "Bench terraces",
+        "Sloping terraces",
+        "Stone-walled terraces",
+        "Grass strip terraces"
+      ],
+      "answer": "Sloping terraces"
+    },
+    {
+      "question": "What is the main advantage of using native vegetation for erosion control?",
+      "choices": [
+        "It's cheaper to plant",
+        "It grows faster",
+        "It's adapted to local conditions",
+        "It requires less maintenance"
+      ],
+      "answer": "It's adapted to local conditions"
+    },
+    {
+      "question": "Which of the following is NOT a function of mulching?",
+      "choices": [
+        "Suppressing weed growth",
+        "Moderating soil temperature",
+        "Increasing soil acidity",
+        "Adding organic matter to soil"
+      ],
+      "answer": "Increasing soil acidity"
+    },
+    {
+      "question": "What is the primary purpose of infiltration pits in rainwater harvesting?",
+      "choices": [
+        "To collect surface runoff",
+        "To increase groundwater recharge",
+        "To prevent soil erosion",
+        "To store water for immediate use"
+      ],
+      "answer": "To increase groundwater recharge"
+    },
+    {
+      "question": "Which of the following is a potential challenge of implementing terracing on small-scale mountain farms?",
+      "choices": [
+        "Increased crop yields",
+        "Improved water retention",
+        "High initial labor and resource requirements",
+        "Decreased soil erosion"
+      ],
+      "answer": "High initial labor and resource requirements"
+    },
+    {
+      "question": "What is the primary benefit of using stone-walled terraces?",
+      "choices": [
+        "They are cheaper to construct",
+        "They require less maintenance",
+        "They provide better reinforcement for terrace walls",
+        "They increase soil fertility"
+      ],
+      "answer": "They provide better reinforcement for terrace walls"
+    },
+    {
+      "question": "Which of the following is NOT a common material used for above-ground water storage tanks?",
+      "choices": [
+        "Concrete",
+        "Plastic",
+        "Metal",
+        "Wood"
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question": "What is the primary advantage of using farm ponds for water storage?",
+      "choices": [
+        "They are cheaper to construct",
+        "They provide larger storage capacity for irrigation",
+        "They require less maintenance",
+        "They improve water quality"
+      ],
+      "answer": "They provide larger storage capacity for irrigation"
+    },
+    {
+      "question": "Which soil conservation technique is most effective for reducing fertilizer and pesticide runoff?",
+      "choices": [
+        "Mulching",
+        "Cover cropping",
+        "Contour farming",
+        "Terracing"
+      ],
+      "answer": "Contour farming"
+    },
+    {
+      "question": "What is the primary purpose of creating a berm at the downslope edge of a terrace?",
+      "choices": [
+        "To increase erosion",
+        "To retain water",
+        "To promote weed growth",
+        "To decrease soil fertility"
+      ],
+      "answer": "To retain water"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of cover cropping?",
+      "choices": [
+        "Adds organic matter to soil",
+        "Reduces soil erosion",
+        "Increases pest populations",
+        "Improves soil structure"
+      ],
+      "answer": "Increases pest populations"
+    },
+    {
+      "question": "What is the primary advantage of using grass strip terraces?",
+      "choices": [
+        "They are more durable",
+        "They require less maintenance",
+        "They use vegetation to stabilize terrace edges",
+        "They allow for steeper slopes"
+      ],
+      "answer": "They use vegetation to stabilize terrace edges"
+    },
+    {
+      "question": "Which of the following is a potential challenge of rainwater harvesting in mountain regions?",
+      "choices": [
+        "Excess water availability",
+        "Lack of suitable collection surfaces",
+        "Poor water quality",
+        "Limited storage options"
+      ],
+      "answer": "Limited storage options"
+    },
+    {
+      "question": "What is the primary purpose of incorporating cover crops as green manure?",
+      "choices": [
+        "To increase soil erosion",
+        "To improve soil fertility",
+        "To reduce water infiltration",
+        "To promote pest growth"
+      ],
+      "answer": "To improve soil fertility"
+    }
+  ]
+}

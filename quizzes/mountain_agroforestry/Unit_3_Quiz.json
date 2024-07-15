@@ -1,0 +1,305 @@
+{
+  "title": "Crop Diversification and Climate-Resilient Varieties",
+  "questions": [
+    {
+      "question": "What is the primary purpose of using climate-resilient crop varieties?",
+      "choices": [
+        "To increase crop yield",
+        "To withstand environmental stresses",
+        "To reduce fertilizer use",
+        "To improve crop taste"
+      ],
+      "answer": "To withstand environmental stresses"
+    },
+    {
+      "question": "Which of the following is an example of a climate-resilient crop variety mentioned for Timor-Leste?",
+      "choices": [
+        "Drought-tolerant maize",
+        "Flood-resistant wheat",
+        "Salt-tolerant barley",
+        "Frost-resistant potatoes"
+      ],
+      "answer": "Drought-tolerant maize"
+    },
+    {
+      "question": "What is crop rotation?",
+      "choices": [
+        "Growing different crops in the same area across seasons",
+        "Rotating crops daily in a greenhouse",
+        "Changing crop orientation to face the sun",
+        "Moving crops to different fields each year"
+      ],
+      "answer": "Growing different crops in the same area across seasons"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of crop rotation?",
+      "choices": [
+        "Improved soil health",
+        "Pest management",
+        "Increased water usage",
+        "Weed control"
+      ],
+      "answer": "Increased water usage"
+    },
+    {
+      "question": "What is intercropping?",
+      "choices": [
+        "Growing crops inside greenhouses",
+        "Growing two or more crops in proximity",
+        "Crossing different crop species",
+        "Harvesting multiple crops simultaneously"
+      ],
+      "answer": "Growing two or more crops in proximity"
+    },
+    {
+      "question": "Which of the following is NOT a type of intercropping?",
+      "choices": [
+        "Row intercropping",
+        "Strip intercropping",
+        "Vertical intercropping",
+        "Relay intercropping"
+      ],
+      "answer": "Vertical intercropping"
+    },
+    {
+      "question": "What is agroforestry?",
+      "choices": [
+        "Growing only forest trees for timber",
+        "A land use management system integrating trees with crops and/or livestock",
+        "Clearing forests for agricultural use",
+        "Planting crops in mature forests"
+      ],
+      "answer": "A land use management system integrating trees with crops and/or livestock"
+    },
+    {
+      "question": "Which of the following is a benefit of agroforestry in mountain regions?",
+      "choices": [
+        "Increased soil erosion",
+        "Reduced biodiversity",
+        "Microclimate moderation",
+        "Higher water runoff"
+      ],
+      "answer": "Microclimate moderation"
+    },
+    {
+      "question": "What characteristic makes drought-tolerant maize suitable for mountain regions?",
+      "choices": [
+        "Shallow root systems",
+        "High water requirements",
+        "Deep root systems",
+        "Rapid growth rate"
+      ],
+      "answer": "Deep root systems"
+    },
+    {
+      "question": "Which coffee variety is mentioned as disease-resistant and suitable for higher altitudes in Timor-Leste?",
+      "choices": [
+        "Arabica",
+        "Robusta",
+        "Timor Hybrid derivatives",
+        "Liberica"
+      ],
+      "answer": "Timor Hybrid derivatives"
+    },
+    {
+      "question": "What is a key benefit of integrating legumes in a cropping system?",
+      "choices": [
+        "Increased pesticide use",
+        "Nitrogen fixation",
+        "Higher water consumption",
+        "Faster crop growth"
+      ],
+      "answer": "Nitrogen fixation"
+    },
+    {
+      "question": "Which of the following is NOT a principle of effective crop rotation?",
+      "choices": [
+        "Alternating nutrient-demanding and nutrient-replenishing crops",
+        "Varying root depths",
+        "Breaking pest and disease cycles",
+        "Planting the same crop continuously"
+      ],
+      "answer": "Planting the same crop continuously"
+    },
+    {
+      "question": "What is a potential challenge in adopting climate-resilient crop varieties?",
+      "choices": [
+        "Lower yields",
+        "Increased pest resistance",
+        "Access to seeds",
+        "Reduced nutritional value"
+      ],
+      "answer": "Access to seeds"
+    },
+    {
+      "question": "Which agroforestry system involves planting crops between rows of trees?",
+      "choices": [
+        "Silvopastoral",
+        "Alley cropping",
+        "Multistrata",
+        "Home gardens"
+      ],
+      "answer": "Alley cropping"
+    },
+    {
+      "question": "What is a key consideration for successful intercropping?",
+      "choices": [
+        "Using crops with similar growth habits",
+        "Maximizing competition between crops",
+        "Planting crops with complementary growth habits",
+        "Using crops with identical nutrient requirements"
+      ],
+      "answer": "Planting crops with complementary growth habits"
+    },
+    {
+      "question": "Which of the following is an example of a stress-tolerant legume mentioned for Timor-Leste?",
+      "choices": [
+        "Soybean",
+        "Lentil",
+        "Pigeon pea",
+        "Chickpea"
+      ],
+      "answer": "Pigeon pea"
+    },
+    {
+      "question": "What is the primary purpose of cover crops in a diversified cropping system?",
+      "choices": [
+        "To increase crop yield",
+        "To manage soil quality and erosion",
+        "To provide food for livestock",
+        "To generate additional income"
+      ],
+      "answer": "To manage soil quality and erosion"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of crop diversification?",
+      "choices": [
+        "Increased resilience to climate change",
+        "Improved soil health",
+        "Reduced labor requirements",
+        "Enhanced pest management"
+      ],
+      "answer": "Reduced labor requirements"
+    },
+    {
+      "question": "What is a key characteristic of climate-resilient rice varieties suitable for mountain regions?",
+      "choices": [
+        "Late maturation",
+        "Shallow root systems",
+        "Early maturation",
+        "High water requirements"
+      ],
+      "answer": "Early maturation"
+    },
+    {
+      "question": "Which of the following is a benefit of integrating fruit trees in upland farms?",
+      "choices": [
+        "Reduced soil erosion",
+        "Increased water runoff",
+        "Lower biodiversity",
+        "Simplified farm management"
+      ],
+      "answer": "Reduced soil erosion"
+    },
+    {
+      "question": "What is the primary purpose of on-farm trials for climate-resilient varieties?",
+      "choices": [
+        "To increase seed production",
+        "To test marketing potential",
+        "To match varieties to local conditions",
+        "To train farmers in new technologies"
+      ],
+      "answer": "To match varieties to local conditions"
+    },
+    {
+      "question": "Which of the following is NOT a type of agroforestry system mentioned in the module?",
+      "choices": [
+        "Alley cropping",
+        "Multistrata systems",
+        "Silvopastoral systems",
+        "Monocropping systems"
+      ],
+      "answer": "Monocropping systems"
+    },
+    {
+      "question": "What is a key benefit of incorporating fodder trees in mountain farming systems?",
+      "choices": [
+        "Increased crop yield",
+        "Improved livestock feed availability",
+        "Enhanced pest control",
+        "Higher water retention"
+      ],
+      "answer": "Improved livestock feed availability"
+    },
+    {
+      "question": "Which of the following is a challenge specific to mountain agriculture in Timor-Leste?",
+      "choices": [
+        "Excessive rainfall",
+        "Flat terrain",
+        "Steep slopes",
+        "High temperatures"
+      ],
+      "answer": "Steep slopes"
+    },
+    {
+      "question": "What is the primary goal of seed exchange activities mentioned in the module?",
+      "choices": [
+        "To increase crop yield",
+        "To promote biodiversity",
+        "To reduce seed costs",
+        "To improve seed storage"
+      ],
+      "answer": "To promote biodiversity"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of agroforestry systems in mountain regions?",
+      "choices": [
+        "Carbon sequestration",
+        "Erosion control",
+        "Income diversification",
+        "Increased water runoff"
+      ],
+      "answer": "Increased water runoff"
+    },
+    {
+      "question": "What is a key consideration when designing a diverse cropping system for a model farm?",
+      "choices": [
+        "Maximizing the use of a single crop variety",
+        "Ignoring local environmental conditions",
+        "Incorporating both annual and perennial crops",
+        "Focusing solely on cash crops"
+      ],
+      "answer": "Incorporating both annual and perennial crops"
+    },
+    {
+      "question": "Which of the following is a potential benefit of integrating traditional ecological knowledge in mountain farming systems?",
+      "choices": [
+        "Increased reliance on external inputs",
+        "Reduced adaptation to local conditions",
+        "Enhanced resilience to climate change",
+        "Simplified farming practices"
+      ],
+      "answer": "Enhanced resilience to climate change"
+    },
+    {
+      "question": "What is the primary purpose of crop rotation in mountain agriculture?",
+      "choices": [
+        "To increase crop yield",
+        "To reduce labor requirements",
+        "To improve soil health and manage pests",
+        "To simplify farm management"
+      ],
+      "answer": "To improve soil health and manage pests"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when selecting climate-resilient crop varieties for Timor-Leste's mountain regions?",
+      "choices": [
+        "Altitude",
+        "Rainfall patterns",
+        "Soil type",
+        "Proximity to urban markets"
+      ],
+      "answer": "Proximity to urban markets"
+    }
+  ]
+}

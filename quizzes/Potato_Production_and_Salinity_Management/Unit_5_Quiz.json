@@ -1,0 +1,305 @@
+{
+  "title": "Soil Management and Amendment Practices",
+  "questions": [
+    {
+      "question": "What is the primary benefit of using gypsum as a soil amendment in saline soils?",
+      "choices": [
+        "It lowers soil pH",
+        "It increases sodium levels",
+        "It improves soil structure and reduces sodium levels",
+        "It adds nitrogen to the soil"
+      ],
+      "answer": "It improves soil structure and reduces sodium levels"
+    },
+    {
+      "question": "What is the recommended application rate of gypsum for soils with moderate salinity?",
+      "choices": [
+        "0.5-1 tons/hectare",
+        "2-4 tons/hectare",
+        "8-10 tons/hectare",
+        "15-20 tons/hectare"
+      ],
+      "answer": "2-4 tons/hectare"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of organic matter in saline soils?",
+      "choices": [
+        "Improves soil structure",
+        "Enhances water retention",
+        "Increases salt concentration",
+        "Promotes beneficial microbial activity"
+      ],
+      "answer": "Increases salt concentration"
+    },
+    {
+      "question": "What is the ideal range of organic matter content for most agricultural soils?",
+      "choices": [
+        "0.5-1%",
+        "1-2%",
+        "3-5%",
+        "8-10%"
+      ],
+      "answer": "3-5%"
+    },
+    {
+      "question": "Which of the following is a salt-tolerant cover crop?",
+      "choices": [
+        "Tomato",
+        "Lettuce",
+        "Barley",
+        "Cucumber"
+      ],
+      "answer": "Barley"
+    },
+    {
+      "question": "What is the primary purpose of crop rotation in saline soil management?",
+      "choices": [
+        "To increase salt levels in the soil",
+        "To reduce crop yields",
+        "To improve soil structure and reduce pest problems",
+        "To eliminate the need for fertilizers"
+      ],
+      "answer": "To improve soil structure and reduce pest problems"
+    },
+    {
+      "question": "Which soil amendment is used to lower soil pH in saline conditions?",
+      "choices": [
+        "Gypsum",
+        "Sulfur",
+        "Calcium chloride",
+        "Potassium nitrate"
+      ],
+      "answer": "Sulfur"
+    },
+    {
+      "question": "What is the recommended application rate of compost or well-rotted manure for saline soils?",
+      "choices": [
+        "1-2 tons/hectare",
+        "5-8 tons/hectare",
+        "10-20 tons/hectare",
+        "30-40 tons/hectare"
+      ],
+      "answer": "10-20 tons/hectare"
+    },
+    {
+      "question": "Which of the following is NOT a method for incorporating organic matter into soil?",
+      "choices": [
+        "Surface application and incorporation",
+        "Green manure",
+        "Crop residue management",
+        "Deep plowing without adding organic materials"
+      ],
+      "answer": "Deep plowing without adding organic materials"
+    },
+    {
+      "question": "What is the annual target increase for soil organic matter content?",
+      "choices": [
+        "0.1-0.2%",
+        "0.5-1%",
+        "2-3%",
+        "5-7%"
+      ],
+      "answer": "0.1-0.2%"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of cover cropping in saline soils?",
+      "choices": [
+        "Reduces soil erosion",
+        "Improves soil structure",
+        "Increases salt concentration in topsoil",
+        "Suppresses weeds"
+      ],
+      "answer": "Increases salt concentration in topsoil"
+    },
+    {
+      "question": "What is the primary mechanism by which gypsum improves saline soils?",
+      "choices": [
+        "By adding nitrogen",
+        "By lowering soil pH",
+        "By replacing sodium ions with calcium ions",
+        "By increasing soil salinity"
+      ],
+      "answer": "By replacing sodium ions with calcium ions"
+    },
+    {
+      "question": "Which of the following is a quick-acting calcium source for saline soils?",
+      "choices": [
+        "Gypsum",
+        "Sulfur",
+        "Calcium chloride",
+        "Compost"
+      ],
+      "answer": "Calcium chloride"
+    },
+    {
+      "question": "What is the recommended target range for organic matter content in saline soils?",
+      "choices": [
+        "1-2%",
+        "3-5%",
+        "5-7%",
+        "8-10%"
+      ],
+      "answer": "5-7%"
+    },
+    {
+      "question": "Which of the following is NOT a salt-tolerant cover crop mentioned in the module?",
+      "choices": [
+        "Rye",
+        "Sunn hemp",
+        "Sesbania",
+        "Alfalfa"
+      ],
+      "answer": "Alfalfa"
+    },
+    {
+      "question": "What is the primary benefit of including legumes in a crop rotation for saline soils?",
+      "choices": [
+        "Increased salt tolerance",
+        "Nitrogen fixation",
+        "Deeper root systems",
+        "Higher market value"
+      ],
+      "answer": "Nitrogen fixation"
+    },
+    {
+      "question": "How does organic matter act as a buffer in saline soils?",
+      "choices": [
+        "By increasing salt concentration",
+        "By decreasing water retention",
+        "By improving soil structure and nutrient availability",
+        "By lowering soil pH"
+      ],
+      "answer": "By improving soil structure and nutrient availability"
+    },
+    {
+      "question": "What is the recommended frequency for turning compost during the composting process?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Never"
+      ],
+      "answer": "Weekly"
+    },
+    {
+      "question": "Which of the following is an example of a 'brown' material in composting?",
+      "choices": [
+        "Fresh grass clippings",
+        "Vegetable scraps",
+        "Straw",
+        "Coffee grounds"
+      ],
+      "answer": "Straw"
+    },
+    {
+      "question": "What is the primary purpose of alternating deep-rooted and shallow-rooted crops in a rotation?",
+      "choices": [
+        "To increase crop yield",
+        "To improve soil structure at different depths",
+        "To reduce water usage",
+        "To increase salt concentration"
+      ],
+      "answer": "To improve soil structure at different depths"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when designing a crop rotation for saline soils?",
+      "choices": [
+        "Salt tolerance of crops",
+        "Market demand for crops",
+        "Root depth of crops",
+        "Color of crop flowers"
+      ],
+      "answer": "Color of crop flowers"
+    },
+    {
+      "question": "What is the primary benefit of leaving crop residues on the field?",
+      "choices": [
+        "It increases soil temperature",
+        "It adds organic matter to the soil",
+        "It increases soil salinity",
+        "It reduces crop yield"
+      ],
+      "answer": "It adds organic matter to the soil"
+    },
+    {
+      "question": "Which of the following is a potential drawback of using gypsum as a soil amendment?",
+      "choices": [
+        "It may increase soil acidity",
+        "It can be expensive for large areas",
+        "It decreases water infiltration",
+        "It reduces organic matter content"
+      ],
+      "answer": "It can be expensive for large areas"
+    },
+    {
+      "question": "What is the primary benefit of using compost tea in saline soil management?",
+      "choices": [
+        "It directly reduces soil salinity",
+        "It provides a quick release of nutrients",
+        "It improves soil structure",
+        "It increases soil pH"
+      ],
+      "answer": "It provides a quick release of nutrients"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of saline soils?",
+      "choices": [
+        "Poor structure",
+        "High water infiltration",
+        "Limited nutrient availability",
+        "High concentrations of soluble salts"
+      ],
+      "answer": "High water infiltration"
+    },
+    {
+      "question": "What is the primary purpose of incorporating green manure into saline soils?",
+      "choices": [
+        "To increase soil salinity",
+        "To add organic matter and improve soil structure",
+        "To reduce crop yield",
+        "To increase soil acidity"
+      ],
+      "answer": "To add organic matter and improve soil structure"
+    },
+    {
+      "question": "Which of the following crops is typically more salt-tolerant?",
+      "choices": [
+        "Lettuce",
+        "Beans",
+        "Barley",
+        "Strawberries"
+      ],
+      "answer": "Barley"
+    },
+    {
+      "question": "What is the primary benefit of using drip irrigation in saline soil management?",
+      "choices": [
+        "It increases salt concentration in the root zone",
+        "It reduces water use efficiency",
+        "It allows for more precise water application and salt leaching",
+        "It eliminates the need for soil amendments"
+      ],
+      "answer": "It allows for more precise water application and salt leaching"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for composting in saline soil management?",
+      "choices": [
+        "Using a mix of brown and green materials",
+        "Maintaining proper moisture levels",
+        "Adding salt to the compost pile",
+        "Turning the compost regularly"
+      ],
+      "answer": "Adding salt to the compost pile"
+    },
+    {
+      "question": "What is the primary purpose of soil testing in saline soil management?",
+      "choices": [
+        "To determine crop yield potential",
+        "To assess soil salinity levels and nutrient status",
+        "To identify pest problems",
+        "To measure soil temperature"
+      ],
+      "answer": "To assess soil salinity levels and nutrient status"
+    }
+  ]
+}

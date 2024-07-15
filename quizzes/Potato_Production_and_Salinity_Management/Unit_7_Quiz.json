@@ -1,0 +1,305 @@
+{
+  "title": "Monitoring and Management Strategies for Potato Production in Saline Conditions",
+  "questions": [
+    {
+      "question": "What is the most common and reliable method for measuring soil salinity?",
+      "choices": [
+        "pH testing",
+        "Electrical conductivity (EC) testing",
+        "Soil texture analysis",
+        "Cation exchange capacity measurement"
+      ],
+      "answer": "Electrical conductivity (EC) testing"
+    },
+    {
+      "question": "How often should EC monitoring typically be conducted during the growing season?",
+      "choices": [
+        "Once at the beginning of the season",
+        "Monthly",
+        "Weekly during critical growth stages",
+        "Only when plants show signs of stress"
+      ],
+      "answer": "Weekly during critical growth stages"
+    },
+    {
+      "question": "What is the primary purpose of soil moisture monitoring in saline conditions?",
+      "choices": [
+        "To determine fertilizer needs",
+        "To predict harvest dates",
+        "To optimize irrigation practices",
+        "To measure soil temperature"
+      ],
+      "answer": "To optimize irrigation practices"
+    },
+    {
+      "question": "Why is leaf tissue analysis important in saline potato production?",
+      "choices": [
+        "To determine potato variety",
+        "To reveal nutrient imbalances caused by salt stress",
+        "To measure chlorophyll content",
+        "To assess soil organic matter"
+      ],
+      "answer": "To reveal nutrient imbalances caused by salt stress"
+    },
+    {
+      "question": "What is a potential consequence of high soil salinity on nutrient uptake?",
+      "choices": [
+        "Increased nutrient absorption",
+        "No effect on nutrient uptake",
+        "Nutrient deficiencies or toxicities",
+        "Improved micronutrient availability"
+      ],
+      "answer": "Nutrient deficiencies or toxicities"
+    },
+    {
+      "question": "Which of the following is an early sign of salt stress in potato plants?",
+      "choices": [
+        "Increased tuber size",
+        "Leaf chlorosis",
+        "Accelerated growth",
+        "Deeper root development"
+      ],
+      "answer": "Leaf chlorosis"
+    },
+    {
+      "question": "What is a potential risk of increasing irrigation to leach excess salts?",
+      "choices": [
+        "Soil acidification",
+        "Increased pest pressure",
+        "Waterlogging",
+        "Frost damage"
+      ],
+      "answer": "Waterlogging"
+    },
+    {
+      "question": "How does high soil salinity affect fertilizer management?",
+      "choices": [
+        "It eliminates the need for fertilization",
+        "It requires higher application rates of all nutrients",
+        "It may necessitate adjustments to fertilization programs",
+        "It has no effect on fertilizer management"
+      ],
+      "answer": "It may necessitate adjustments to fertilization programs"
+    },
+    {
+      "question": "What is the general salt tolerance level of most commercial potato cultivars?",
+      "choices": [
+        "Highly tolerant",
+        "Moderately tolerant",
+        "Moderately sensitive",
+        "Extremely sensitive"
+      ],
+      "answer": "Moderately sensitive"
+    },
+    {
+      "question": "Why is record-keeping important in managing potato production in saline environments?",
+      "choices": [
+        "To comply with government regulations",
+        "To analyze trends over multiple growing seasons",
+        "To impress other farmers",
+        "To reduce labor costs"
+      ],
+      "answer": "To analyze trends over multiple growing seasons"
+    },
+    {
+      "question": "What is the recommended sampling depth for soil EC monitoring in potato fields?",
+      "choices": [
+        "5-10 cm",
+        "15-30 cm",
+        "50-60 cm",
+        "100 cm"
+      ],
+      "answer": "15-30 cm"
+    },
+    {
+      "question": "Which of the following is NOT a typical parameter measured in leaf tissue analysis?",
+      "choices": [
+        "Nitrogen",
+        "Phosphorus",
+        "Soil pH",
+        "Potassium"
+      ],
+      "answer": "Soil pH"
+    },
+    {
+      "question": "What is the ideal soil moisture tension range for potato irrigation?",
+      "choices": [
+        "0-10 kPa",
+        "10-20 kPa",
+        "30-50 kPa",
+        "60-80 kPa"
+      ],
+      "answer": "30-50 kPa"
+    },
+    {
+      "question": "Which growth stage of potatoes is generally most sensitive to salinity?",
+      "choices": [
+        "Germination",
+        "Vegetative growth",
+        "Tuber initiation",
+        "Tuber bulking"
+      ],
+      "answer": "Germination"
+    },
+    {
+      "question": "What is the purpose of applying a leaching fraction in irrigation management?",
+      "choices": [
+        "To increase soil salinity",
+        "To flush salts from the root zone",
+        "To reduce water use",
+        "To promote deeper rooting"
+      ],
+      "answer": "To flush salts from the root zone"
+    },
+    {
+      "question": "Which nutrient is commonly deficient in potatoes grown in saline soils?",
+      "choices": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Carbon"
+      ],
+      "answer": "Potassium"
+    },
+    {
+      "question": "What is pulse irrigation?",
+      "choices": [
+        "Irrigation with saline water",
+        "Applying water in short, frequent bursts",
+        "Using pressure to force water into the soil",
+        "Irrigating only at night"
+      ],
+      "answer": "Applying water in short, frequent bursts"
+    },
+    {
+      "question": "Which of the following is NOT a typical visual indicator of salt stress in potato plants?",
+      "choices": [
+        "Leaf tip burn",
+        "Reduced plant vigor",
+        "Increased flowering",
+        "Chlorosis of older leaves"
+      ],
+      "answer": "Increased flowering"
+    },
+    {
+      "question": "What EC value is generally considered the threshold for high salinity in potato production?",
+      "choices": [
+        "1 dS/m",
+        "2 dS/m",
+        "4 dS/m",
+        "6 dS/m"
+      ],
+      "answer": "4 dS/m"
+    },
+    {
+      "question": "How does climate change potentially impact salinity management in potato production?",
+      "choices": [
+        "It has no impact on salinity",
+        "It always reduces soil salinity",
+        "It may exacerbate salinity issues",
+        "It eliminates the need for salinity management"
+      ],
+      "answer": "It may exacerbate salinity issues"
+    },
+    {
+      "question": "What is the primary advantage of using digital record-keeping systems for salinity management?",
+      "choices": [
+        "They are cheaper than paper records",
+        "They automatically control irrigation",
+        "They facilitate data analysis and integration",
+        "They eliminate the need for field monitoring"
+      ],
+      "answer": "They facilitate data analysis and integration"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a comprehensive monitoring plan for potato production in saline conditions?",
+      "choices": [
+        "Soil EC measurements",
+        "Leaf tissue analysis",
+        "Soil moisture monitoring",
+        "Genetic sequencing of potato plants"
+      ],
+      "answer": "Genetic sequencing of potato plants"
+    },
+    {
+      "question": "What is the recommended minimum number of soil sampling points per hectare for EC monitoring?",
+      "choices": [
+        "1",
+        "3",
+        "5",
+        "10"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "Which of the following is a potential long-term strategy for managing potato production in saline soils?",
+      "choices": [
+        "Increasing fertilizer application rates",
+        "Reducing irrigation frequency",
+        "Selecting salt-tolerant potato varieties",
+        "Switching to deep tillage practices"
+      ],
+      "answer": "Selecting salt-tolerant potato varieties"
+    },
+    {
+      "question": "What type of irrigation system is often recommended for managing salinity in potato production?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "How does soil organic matter content generally affect soil salinity management?",
+      "choices": [
+        "It has no effect on salinity management",
+        "It increases salt accumulation",
+        "It helps mitigate the effects of salinity",
+        "It reduces water retention"
+      ],
+      "answer": "It helps mitigate the effects of salinity"
+    },
+    {
+      "question": "What is the primary purpose of creating a field map for salinity monitoring?",
+      "choices": [
+        "To impress visitors",
+        "To calculate field area",
+        "To identify and track sampling locations",
+        "To plan crop rotation"
+      ],
+      "answer": "To identify and track sampling locations"
+    },
+    {
+      "question": "Which of the following weather factors has the most direct impact on soil salinity levels?",
+      "choices": [
+        "Wind speed",
+        "Solar radiation",
+        "Rainfall",
+        "Air temperature"
+      ],
+      "answer": "Rainfall"
+    },
+    {
+      "question": "What is the primary benefit of using foliar fertilizer applications in saline conditions?",
+      "choices": [
+        "It reduces water use",
+        "It bypasses soil salinity issues",
+        "It eliminates the need for soil testing",
+        "It increases soil organic matter"
+      ],
+      "answer": "It bypasses soil salinity issues"
+    },
+    {
+      "question": "How does excessive soil salinity typically affect potato tuber quality?",
+      "choices": [
+        "It improves tuber shape",
+        "It increases tuber size",
+        "It reduces specific gravity",
+        "It enhances tuber color"
+      ],
+      "answer": "It reduces specific gravity"
+    }
+  ]
+}

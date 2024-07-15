@@ -1,0 +1,305 @@
+{
+  "title": "Nutrient Management in Saline Conditions",
+  "questions": [
+    {
+      "question": "What is the primary effect of salinity on nutrient uptake in plants?",
+      "choices": [
+        "Increased nutrient absorption",
+        "Nutrient antagonism",
+        "Enhanced root growth",
+        "Improved water uptake"
+      ],
+      "answer": "Nutrient antagonism"
+    },
+    {
+      "question": "Which nutrient is most likely to compete with sodium for uptake in saline soils?",
+      "choices": [
+        "Calcium",
+        "Phosphorus",
+        "Potassium",
+        "Iron"
+      ],
+      "answer": "Potassium"
+    },
+    {
+      "question": "What is chlorosis in plants?",
+      "choices": [
+        "Excessive green coloration",
+        "Yellowing of leaves due to lack of chlorophyll",
+        "Browning of leaf edges",
+        "Thickening of cell walls"
+      ],
+      "answer": "Yellowing of leaves due to lack of chlorophyll"
+    },
+    {
+      "question": "Which of the following is NOT a common effect of salinity on nutrient availability?",
+      "choices": [
+        "Reduced nitrification",
+        "Increased phosphorus solubility",
+        "Decreased micronutrient availability",
+        "Displacement of calcium and magnesium from soil particles"
+      ],
+      "answer": "Increased phosphorus solubility"
+    },
+    {
+      "question": "What is the salt index of a fertilizer?",
+      "choices": [
+        "The percentage of salt in the fertilizer",
+        "The measure of the fertilizer's acidity",
+        "The fertilizer's ability to increase soil organic matter",
+        "The measure of salt concentration a fertilizer induces in soil solution"
+      ],
+      "answer": "The measure of salt concentration a fertilizer induces in soil solution"
+    },
+    {
+      "question": "Which fertilizer would be most appropriate for use in saline soils?",
+      "choices": [
+        "Potassium chloride",
+        "Ammonium nitrate",
+        "Potassium sulfate",
+        "Urea"
+      ],
+      "answer": "Potassium sulfate"
+    },
+    {
+      "question": "What is fertigation?",
+      "choices": [
+        "The process of removing salts from soil",
+        "Application of fertilizers through an irrigation system",
+        "Foliar application of nutrients",
+        "Deep placement of fertilizers in soil"
+      ],
+      "answer": "Application of fertilizers through an irrigation system"
+    },
+    {
+      "question": "Why are slow-release fertilizers beneficial in saline soils?",
+      "choices": [
+        "They increase soil salinity rapidly",
+        "They provide all nutrients at once",
+        "They reduce gradual salt buildup",
+        "They are cheaper than conventional fertilizers"
+      ],
+      "answer": "They reduce gradual salt buildup"
+    },
+    {
+      "question": "Which form of nitrogen is generally preferred in saline soils?",
+      "choices": [
+        "Nitrate",
+        "Ammonium",
+        "Urea",
+        "Nitrite"
+      ],
+      "answer": "Ammonium"
+    },
+    {
+      "question": "What is the primary benefit of foliar fertilization in saline conditions?",
+      "choices": [
+        "It reduces soil salinity",
+        "It bypasses root uptake limitations",
+        "It eliminates the need for soil-applied fertilizers",
+        "It increases salt tolerance in plants"
+      ],
+      "answer": "It bypasses root uptake limitations"
+    },
+    {
+      "question": "Which micronutrient is more likely to reach toxic levels in saline soils?",
+      "choices": [
+        "Iron",
+        "Zinc",
+        "Boron",
+        "Manganese"
+      ],
+      "answer": "Boron"
+    },
+    {
+      "question": "What is the recommended time for foliar fertilizer application?",
+      "choices": [
+        "Midday when sunlight is strongest",
+        "Late afternoon on hot days",
+        "Early morning or late evening",
+        "Anytime during the day"
+      ],
+      "answer": "Early morning or late evening"
+    },
+    {
+      "question": "Which fertilizer application method is most efficient in saline soils?",
+      "choices": [
+        "Broadcast application",
+        "Band application",
+        "Surface application",
+        "Aerial application"
+      ],
+      "answer": "Band application"
+    },
+    {
+      "question": "What is osmotic stress in plants?",
+      "choices": [
+        "Stress caused by excessive water uptake",
+        "Stress due to high temperatures",
+        "Stress resulting from reduced ability to take up water and nutrients",
+        "Stress caused by low light conditions"
+      ],
+      "answer": "Stress resulting from reduced ability to take up water and nutrients"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of organic fertilizers in saline soils?",
+      "choices": [
+        "Improved soil structure",
+        "Increased water retention",
+        "Rapid release of nutrients",
+        "Enhanced microbial activity"
+      ],
+      "answer": "Rapid release of nutrients"
+    },
+    {
+      "question": "What is the primary reason for using chelated micronutrients in foliar sprays?",
+      "choices": [
+        "Lower cost",
+        "Faster absorption",
+        "Enhanced stability and absorption",
+        "Reduced leaf burn"
+      ],
+      "answer": "Enhanced stability and absorption"
+    },
+    {
+      "question": "Which nutrient is least effectively applied through foliar fertilization?",
+      "choices": [
+        "Nitrogen",
+        "Potassium",
+        "Phosphorus",
+        "Magnesium"
+      ],
+      "answer": "Phosphorus"
+    },
+    {
+      "question": "What is the main advantage of split fertilizer applications in saline soils?",
+      "choices": [
+        "Increased fertilizer efficiency",
+        "Reduced labor costs",
+        "Improved soil structure",
+        "Enhanced plant growth rate"
+      ],
+      "answer": "Increased fertilizer efficiency"
+    },
+    {
+      "question": "Which soil amendment is commonly used to improve calcium levels in saline soils?",
+      "choices": [
+        "Sulfur",
+        "Gypsum",
+        "Lime",
+        "Perlite"
+      ],
+      "answer": "Gypsum"
+    },
+    {
+      "question": "What is the primary purpose of leaching in saline soil management?",
+      "choices": [
+        "To add nutrients to the soil",
+        "To remove excess salts from the root zone",
+        "To increase soil organic matter",
+        "To improve soil structure"
+      ],
+      "answer": "To remove excess salts from the root zone"
+    },
+    {
+      "question": "Which irrigation method is most suitable for managing salinity in potato production?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is the recommended EC (Electrical Conductivity) threshold for irrigation water in potato production?",
+      "choices": [
+        "Less than 0.7 dS/m",
+        "1.0 - 1.5 dS/m",
+        "2.0 - 2.5 dS/m",
+        "Greater than 3.0 dS/m"
+      ],
+      "answer": "Less than 0.7 dS/m"
+    },
+    {
+      "question": "Which of the following is NOT a common symptom of nutrient deficiency in potatoes grown in saline soils?",
+      "choices": [
+        "Interveinal yellowing",
+        "Stunted growth",
+        "Reduced tuber quality",
+        "Increased tuber size"
+      ],
+      "answer": "Increased tuber size"
+    },
+    {
+      "question": "What is the primary reason for preferring ammonium-based nitrogen fertilizers in saline soils?",
+      "choices": [
+        "They are cheaper",
+        "They are less likely to contribute to soil salinity",
+        "They provide faster plant growth",
+        "They improve soil structure"
+      ],
+      "answer": "They are less likely to contribute to soil salinity"
+    },
+    {
+      "question": "Which of the following is a key consideration when developing a fertilization plan for potatoes in saline soil?",
+      "choices": [
+        "Using only organic fertilizers",
+        "Applying all fertilizers at planting",
+        "Regular monitoring of soil and plant nutrient status",
+        "Avoiding foliar applications"
+      ],
+      "answer": "Regular monitoring of soil and plant nutrient status"
+    },
+    {
+      "question": "What is the primary benefit of using polymer-coated fertilizers in saline soils?",
+      "choices": [
+        "Immediate nutrient release",
+        "Lower cost",
+        "Gradual nutrient release reducing salt buildup",
+        "Improved soil structure"
+      ],
+      "answer": "Gradual nutrient release reducing salt buildup"
+    },
+    {
+      "question": "Which of the following practices can help improve nutrient availability in saline soils?",
+      "choices": [
+        "Increasing irrigation frequency",
+        "Adding organic matter to the soil",
+        "Using highly soluble fertilizers",
+        "Applying lime to increase soil pH"
+      ],
+      "answer": "Adding organic matter to the soil"
+    },
+    {
+      "question": "What is the main challenge of phosphorus management in saline soils?",
+      "choices": [
+        "Excessive availability leading to toxicity",
+        "Rapid leaching from the root zone",
+        "Reduced availability due to precipitation with calcium",
+        "Increased uptake by plants"
+      ],
+      "answer": "Reduced availability due to precipitation with calcium"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for foliar fertilization in saline conditions?",
+      "choices": [
+        "Using low concentrations to avoid leaf burn",
+        "Applying during the hottest part of the day",
+        "Ensuring uniform leaf coverage",
+        "Using chelated forms of micronutrients"
+      ],
+      "answer": "Applying during the hottest part of the day"
+    },
+    {
+      "question": "What is the primary reason for deep placement of fertilizers in saline soils?",
+      "choices": [
+        "To increase fertilizer efficiency",
+        "To reduce evaporation",
+        "To place nutrients below the salt-affected layer",
+        "To promote deeper root growth"
+      ],
+      "answer": "To place nutrients below the salt-affected layer"
+    }
+  ]
+}

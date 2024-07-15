@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Mountain Agriculture in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the highest peak in Timor-Leste?",
+      "choices": [
+        "Mount Kablaki",
+        "Mount Matebian",
+        "Mount Ramelau",
+        "Mount Tatamailau"
+      ],
+      "answer": "Mount Ramelau"
+    },
+    {
+      "question": "What is the typical slope gradient in Timor-Leste's mountainous regions?",
+      "choices": [
+        "10-20%",
+        "30-60%",
+        "70-90%",
+        "5-15%"
+      ],
+      "answer": "30-60%"
+    },
+    {
+      "question": "Which of the following is NOT a common soil type in Timor-Leste's mountains?",
+      "choices": [
+        "Shallow, rocky soils",
+        "Clay-rich soils",
+        "Sandy loam soils",
+        "Soils low in organic matter"
+      ],
+      "answer": "Sandy loam soils"
+    },
+    {
+      "question": "When is the wet season in Timor-Leste?",
+      "choices": [
+        "May to October",
+        "November to April",
+        "January to June",
+        "July to December"
+      ],
+      "answer": "November to April"
+    },
+    {
+      "question": "What is the average annual rainfall in Timor-Leste's mountain regions?",
+      "choices": [
+        "500-1,000mm",
+        "1,000-1,500mm",
+        "1,500-2,000mm",
+        "2,000-2,500mm"
+      ],
+      "answer": "1,500-2,000mm"
+    },
+    {
+      "question": "What is the local term for shifting cultivation in Timor-Leste?",
+      "choices": [
+        "Toós",
+        "Ladang",
+        "Jhum",
+        "Milpa"
+      ],
+      "answer": "Toós"
+    },
+    {
+      "question": "What is the typical rotation cycle for shifting cultivation in Timor-Leste?",
+      "choices": [
+        "1 year cultivation, 3 years fallow",
+        "2-3 years cultivation, 5-7 years fallow",
+        "4-5 years cultivation, 2-3 years fallow",
+        "Continuous cultivation with no fallow"
+      ],
+      "answer": "2-3 years cultivation, 5-7 years fallow"
+    },
+    {
+      "question": "Which crop is considered the primary staple in Timor-Leste's mountain agriculture?",
+      "choices": [
+        "Rice",
+        "Cassava",
+        "Maize",
+        "Sweet potato"
+      ],
+      "answer": "Maize"
+    },
+    {
+      "question": "Up to what elevation is maize typically grown in Timor-Leste?",
+      "choices": [
+        "1,000m",
+        "1,400m",
+        "1,800m",
+        "2,200m"
+      ],
+      "answer": "1,800m"
+    },
+    {
+      "question": "Which crop is known for its importance in food security and ability to grow up to 2,000m elevation?",
+      "choices": [
+        "Cassava",
+        "Sweet potato",
+        "Taro",
+        "Yam"
+      ],
+      "answer": "Sweet potato"
+    },
+    {
+      "question": "What type of coffee is predominantly grown in Timor-Leste's highlands?",
+      "choices": [
+        "Robusta",
+        "Liberica",
+        "Arabica",
+        "Excelsa"
+      ],
+      "answer": "Arabica"
+    },
+    {
+      "question": "At what rate has the temperature in Timor-Leste been increasing annually since 1950?",
+      "choices": [
+        "0.006°C",
+        "0.016°C",
+        "0.026°C",
+        "0.036°C"
+      ],
+      "answer": "0.016°C"
+    },
+    {
+      "question": "Which of the following is NOT a reported effect of climate change on Timor-Leste's mountain agriculture?",
+      "choices": [
+        "More intense rain events",
+        "Longer dry spells",
+        "Increased snowfall",
+        "Shifts in suitable elevation ranges for crops"
+      ],
+      "answer": "Increased snowfall"
+    },
+    {
+      "question": "What is a major challenge of shifting cultivation in mountain areas?",
+      "choices": [
+        "Overproduction of crops",
+        "Soil erosion",
+        "Excessive use of fertilizers",
+        "Overreliance on mechanization"
+      ],
+      "answer": "Soil erosion"
+    },
+    {
+      "question": "Which district in Timor-Leste is known for its high-quality coffee production?",
+      "choices": [
+        "Dili",
+        "Baucau",
+        "Ermera",
+        "Lautem"
+      ],
+      "answer": "Ermera"
+    },
+    {
+      "question": "What is the primary purpose of terracing in mountain agriculture?",
+      "choices": [
+        "To increase land area",
+        "To reduce erosion and conserve water",
+        "To improve soil fertility",
+        "To create microclimates"
+      ],
+      "answer": "To reduce erosion and conserve water"
+    },
+    {
+      "question": "Which of the following is a benefit of intercropping?",
+      "choices": [
+        "Simplified pest management",
+        "Reduced labor requirements",
+        "Improved soil fertility",
+        "Increased use of chemical fertilizers"
+      ],
+      "answer": "Improved soil fertility"
+    },
+    {
+      "question": "What is a potential advantage of mountain agriculture in Timor-Leste?",
+      "choices": [
+        "Flat, easily cultivated land",
+        "Abundant water resources",
+        "Unique microclimates for diverse crop production",
+        "Low transportation costs to markets"
+      ],
+      "answer": "Unique microclimates for diverse crop production"
+    },
+    {
+      "question": "Which crop is often intercropped with maize to fix nitrogen in the soil?",
+      "choices": [
+        "Cassava",
+        "Sweet potato",
+        "Beans",
+        "Pumpkins"
+      ],
+      "answer": "Beans"
+    },
+    {
+      "question": "What is a key challenge for mountain agriculture due to climate change?",
+      "choices": [
+        "Decreased crop diversity",
+        "Reduced need for irrigation",
+        "Increased risk of erosion and landslides",
+        "Lower pest and disease pressure"
+      ],
+      "answer": "Increased risk of erosion and landslides"
+    },
+    {
+      "question": "Which of the following is NOT a major mountain range in Timor-Leste?",
+      "choices": [
+        "Ramelau Range",
+        "Matebian Range",
+        "Kablaki Range",
+        "Himalayan Range"
+      ],
+      "answer": "Himalayan Range"
+    },
+    {
+      "question": "What is the temperature range in Timor-Leste's mountain regions?",
+      "choices": [
+        "10-20°C",
+        "15-25°C",
+        "20-30°C",
+        "25-35°C"
+      ],
+      "answer": "15-25°C"
+    },
+    {
+      "question": "At what elevation is frost possible in Timor-Leste?",
+      "choices": [
+        "Above 1,000m",
+        "Above 1,500m",
+        "Above 2,000m",
+        "Above 2,500m"
+      ],
+      "answer": "Above 2,000m"
+    },
+    {
+      "question": "Which crop is valued for its drought tolerance in Timor-Leste's mountain agriculture?",
+      "choices": [
+        "Rice",
+        "Wheat",
+        "Cassava",
+        "Lettuce"
+      ],
+      "answer": "Cassava"
+    },
+    {
+      "question": "What is a potential benefit of preserving traditional crop varieties in Timor-Leste?",
+      "choices": [
+        "Increased use of pesticides",
+        "Higher yields in all conditions",
+        "Development of climate-resilient agricultural systems",
+        "Reduced crop diversity"
+      ],
+      "answer": "Development of climate-resilient agricultural systems"
+    },
+    {
+      "question": "Which of the following is NOT a common practice in Timor-Leste's traditional mountain agriculture?",
+      "choices": [
+        "Terracing",
+        "Intercropping",
+        "Shifting cultivation",
+        "Large-scale monoculture"
+      ],
+      "answer": "Large-scale monoculture"
+    },
+    {
+      "question": "What is a key advantage of root crops like cassava and sweet potato in mountain agriculture?",
+      "choices": [
+        "They require frequent irrigation",
+        "They can be left in the ground and harvested as needed",
+        "They are resistant to all pests",
+        "They grow quickly in cold temperatures"
+      ],
+      "answer": "They can be left in the ground and harvested as needed"
+    },
+    {
+      "question": "Which of the following is a potential opportunity for mountain agriculture in Timor-Leste?",
+      "choices": [
+        "Expansion of lowland rice cultivation",
+        "Introduction of tropical fruits at high elevations",
+        "Production of temperate vegetables at higher altitudes",
+        "Large-scale mechanized farming"
+      ],
+      "answer": "Production of temperate vegetables at higher altitudes"
+    },
+    {
+      "question": "What is a major concern regarding the impact of climate change on coffee production in Timor-Leste?",
+      "choices": [
+        "Increased coffee bean size",
+        "Improved flavor profile",
+        "Shifts in suitable elevation ranges",
+        "Reduced demand for coffee"
+      ],
+      "answer": "Shifts in suitable elevation ranges"
+    },
+    {
+      "question": "Which agricultural practice in Timor-Leste helps to maximize limited arable land?",
+      "choices": [
+        "Monoculture",
+        "Intercropping",
+        "Deep plowing",
+        "Continuous irrigation"
+      ],
+      "answer": "Intercropping"
+    }
+  ]
+}
