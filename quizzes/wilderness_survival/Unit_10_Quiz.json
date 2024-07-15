@@ -1,0 +1,305 @@
+{
+  "title": "First Aid and Natural Medicine in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a poultice?",
+      "choices": [
+        "To clean wounds",
+        "To relieve soreness and inflammation",
+        "To stop bleeding",
+        "To treat fractures"
+      ],
+      "answer": "To relieve soreness and inflammation"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a natural first aid kit?",
+      "choices": [
+        "Aloe vera",
+        "Bandages",
+        "Antibiotics",
+        "Eucalyptus leaves"
+      ],
+      "answer": "Antibiotics"
+    },
+    {
+      "question": "What is an infusion in the context of medicinal plants?",
+      "choices": [
+        "A concentrated liquid made by boiling plant material",
+        "A drink made by steeping plant material in hot water",
+        "A paste made from crushed leaves",
+        "A method of injecting plant extracts"
+      ],
+      "answer": "A drink made by steeping plant material in hot water"
+    },
+    {
+      "question": "Which of the following is a key principle in wilderness first aid?",
+      "choices": [
+        "Always use modern medical supplies",
+        "Ignore traditional remedies",
+        "Combine modern and traditional medicine when appropriate",
+        "Rely solely on medicinal plants"
+      ],
+      "answer": "Combine modern and traditional medicine when appropriate"
+    },
+    {
+      "question": "What is the primary purpose of an antiseptic in first aid?",
+      "choices": [
+        "To reduce fever",
+        "To prevent the growth of disease-causing microorganisms",
+        "To promote blood clotting",
+        "To reduce inflammation"
+      ],
+      "answer": "To prevent the growth of disease-causing microorganisms"
+    },
+    {
+      "question": "Which of the following is NOT a typical use for medicinal plants in Timor-Leste?",
+      "choices": [
+        "Treating snake bites",
+        "Reducing inflammation",
+        "Performing surgery",
+        "Alleviating digestive issues"
+      ],
+      "answer": "Performing surgery"
+    },
+    {
+      "question": "What is a decoction?",
+      "choices": [
+        "A type of bandage",
+        "A concentrated liquid made by boiling plant material",
+        "A method of wound cleaning",
+        "A traditional Timorese dance"
+      ],
+      "answer": "A concentrated liquid made by boiling plant material"
+    },
+    {
+      "question": "Which of the following is an important consideration when foraging for medicinal plants?",
+      "choices": [
+        "Collect as much as possible",
+        "Harvest only from protected areas",
+        "Practice sustainable harvesting",
+        "Ignore plant identification"
+      ],
+      "answer": "Practice sustainable harvesting"
+    },
+    {
+      "question": "What is the primary purpose of splinting in wilderness first aid?",
+      "choices": [
+        "To stop bleeding",
+        "To reduce fever",
+        "To immobilize fractures",
+        "To treat burns"
+      ],
+      "answer": "To immobilize fractures"
+    },
+    {
+      "question": "Which of the following is a common symptom of heat exhaustion?",
+      "choices": [
+        "Frostbite",
+        "Increased urination",
+        "Dehydration",
+        "Hypothermia"
+      ],
+      "answer": "Dehydration"
+    },
+    {
+      "question": "What is the recommended first step in treating a snake bite in the wilderness?",
+      "choices": [
+        "Apply a tourniquet",
+        "Suck out the venom",
+        "Keep the affected area below heart level",
+        "Cut the wound to release venom"
+      ],
+      "answer": "Keep the affected area below heart level"
+    },
+    {
+      "question": "Which plant is commonly used for its anti-inflammatory properties in traditional Timorese medicine?",
+      "choices": [
+        "Poison ivy",
+        "Aloe vera",
+        "Stinging nettle",
+        "Poison oak"
+      ],
+      "answer": "Aloe vera"
+    },
+    {
+      "question": "What is the primary purpose of including ginger in a natural first aid kit?",
+      "choices": [
+        "To treat burns",
+        "To stop bleeding",
+        "To alleviate nausea",
+        "To splint fractures"
+      ],
+      "answer": "To alleviate nausea"
+    },
+    {
+      "question": "Which of the following is NOT a typical method of preparing medicinal plants?",
+      "choices": [
+        "Infusion",
+        "Decoction",
+        "Poultice",
+        "Injection"
+      ],
+      "answer": "Injection"
+    },
+    {
+      "question": "What is the primary purpose of eucalyptus in traditional medicine?",
+      "choices": [
+        "To treat skin rashes",
+        "To alleviate congestion",
+        "To stop bleeding",
+        "To reduce fever"
+      ],
+      "answer": "To alleviate congestion"
+    },
+    {
+      "question": "Which of the following is a key principle in Leave No Trace ethics when foraging for medicinal plants?",
+      "choices": [
+        "Take only what you need",
+        "Harvest entire plants",
+        "Focus on rare species",
+        "Ignore local regulations"
+      ],
+      "answer": "Take only what you need"
+    },
+    {
+      "question": "What is the primary purpose of including clean water in a wilderness first aid kit?",
+      "choices": [
+        "To make tea",
+        "To clean wounds",
+        "To water plants",
+        "To start fires"
+      ],
+      "answer": "To clean wounds"
+    },
+    {
+      "question": "Which of the following is NOT a typical treatment for burns in wilderness first aid?",
+      "choices": [
+        "Cooling the burn with water",
+        "Applying aloe vera",
+        "Covering with a clean bandage",
+        "Applying butter to the burn"
+      ],
+      "answer": "Applying butter to the burn"
+    },
+    {
+      "question": "What is the primary purpose of including a mortar and pestle in a natural medicine kit?",
+      "choices": [
+        "To start fires",
+        "To grind and prepare plant materials",
+        "To signal for help",
+        "To purify water"
+      ],
+      "answer": "To grind and prepare plant materials"
+    },
+    {
+      "question": "Which of the following is a key consideration when identifying medicinal plants in the wild?",
+      "choices": [
+        "Color is the only important factor",
+        "Ignore the plant's habitat",
+        "Use multiple identification features",
+        "Taste test all plants"
+      ],
+      "answer": "Use multiple identification features"
+    },
+    {
+      "question": "What is the primary purpose of including anti-inflammatory plants in a natural first aid kit?",
+      "choices": [
+        "To treat infections",
+        "To reduce swelling and pain",
+        "To induce vomiting",
+        "To promote blood clotting"
+      ],
+      "answer": "To reduce swelling and pain"
+    },
+    {
+      "question": "Which of the following is NOT a typical sign of dehydration?",
+      "choices": [
+        "Dark urine",
+        "Dry mouth",
+        "Increased urination",
+        "Fatigue"
+      ],
+      "answer": "Increased urination"
+    },
+    {
+      "question": "What is the primary purpose of including cordage in a wilderness first aid kit?",
+      "choices": [
+        "To start fires",
+        "To create shelter",
+        "To secure splints and bandages",
+        "To weave baskets"
+      ],
+      "answer": "To secure splints and bandages"
+    },
+    {
+      "question": "Which of the following is a key principle in sustainable harvesting of medicinal plants?",
+      "choices": [
+        "Harvest entire plants",
+        "Focus on rare species",
+        "Leave some plants for regeneration",
+        "Ignore local regulations"
+      ],
+      "answer": "Leave some plants for regeneration"
+    },
+    {
+      "question": "What is the primary purpose of including activated charcoal in a wilderness first aid kit?",
+      "choices": [
+        "To start fires",
+        "To treat poisoning",
+        "To purify water",
+        "To reduce fever"
+      ],
+      "answer": "To treat poisoning"
+    },
+    {
+      "question": "Which of the following is NOT a typical use for aloe vera in first aid?",
+      "choices": [
+        "Treating burns",
+        "Moisturizing skin",
+        "Reducing inflammation",
+        "Stopping bleeding"
+      ],
+      "answer": "Stopping bleeding"
+    },
+    {
+      "question": "What is the primary purpose of including a signal mirror in a wilderness first aid kit?",
+      "choices": [
+        "To start fires",
+        "To signal for help",
+        "To check for eye injuries",
+        "To purify water"
+      ],
+      "answer": "To signal for help"
+    },
+    {
+      "question": "Which of the following is a key principle in treating fractures in wilderness first aid?",
+      "choices": [
+        "Always attempt to reset the bone",
+        "Immobilize the joint above and below the fracture",
+        "Apply heat to the affected area",
+        "Encourage movement to prevent stiffness"
+      ],
+      "answer": "Immobilize the joint above and below the fracture"
+    },
+    {
+      "question": "What is the primary purpose of including honey in a natural first aid kit?",
+      "choices": [
+        "As a food source",
+        "To treat burns and wounds",
+        "To attract bees",
+        "To sweeten medicinal teas"
+      ],
+      "answer": "To treat burns and wounds"
+    },
+    {
+      "question": "Which of the following is NOT a typical method of water purification in wilderness survival?",
+      "choices": [
+        "Boiling",
+        "Chemical treatment",
+        "Filtration",
+        "Freezing"
+      ],
+      "answer": "Freezing"
+    }
+  ]
+}

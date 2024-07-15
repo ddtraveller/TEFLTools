@@ -1,0 +1,305 @@
+{
+  "title": "Water Sourcing and Purification in Timor-Leste",
+  "questions": [
+    {
+      "question": "Which of the following is NOT mentioned as a local water source in Timor-Leste?",
+      "choices": [
+        "Rivers",
+        "Springs",
+        "Coastal areas",
+        "Lakes"
+      ],
+      "answer": "Lakes"
+    },
+    {
+      "question": "What is the term for water that is safe to drink?",
+      "choices": [
+        "Purified water",
+        "Filtered water",
+        "Potable water",
+        "Spring water"
+      ],
+      "answer": "Potable water"
+    },
+    {
+      "question": "Which of the following is NOT a water purification method mentioned in the lesson?",
+      "choices": [
+        "Boiling",
+        "Filtration",
+        "Chemical treatment",
+        "Distillation"
+      ],
+      "answer": "Distillation"
+    },
+    {
+      "question": "What is the process of removing impurities from water by passing it through a medium called?",
+      "choices": [
+        "Purification",
+        "Filtration",
+        "Contamination",
+        "Turbidity"
+      ],
+      "answer": "Filtration"
+    },
+    {
+      "question": "Which of the following is a chemical treatment method for water purification?",
+      "choices": [
+        "Boiling",
+        "SODIS",
+        "Iodine",
+        "Sand filtration"
+      ],
+      "answer": "Iodine"
+    },
+    {
+      "question": "What does SODIS stand for in the context of water purification?",
+      "choices": [
+        "Solar Disinfection",
+        "Sodium Distillation",
+        "Source Distillation",
+        "Solar Distillation"
+      ],
+      "answer": "Solar Disinfection"
+    },
+    {
+      "question": "Which of the following is NOT a natural material mentioned for constructing water filters?",
+      "choices": [
+        "Sand",
+        "Gravel",
+        "Charcoal",
+        "Plastic"
+      ],
+      "answer": "Plastic"
+    },
+    {
+      "question": "What term describes the cloudiness or haziness of water due to suspended particles?",
+      "choices": [
+        "Contamination",
+        "Turbidity",
+        "Filtration",
+        "Purification"
+      ],
+      "answer": "Turbidity"
+    },
+    {
+      "question": "Which of the following is a potential health risk associated with untreated water?",
+      "choices": [
+        "Increased hydration",
+        "Improved digestion",
+        "Waterborne illnesses",
+        "Enhanced mineral intake"
+      ],
+      "answer": "Waterborne illnesses"
+    },
+    {
+      "question": "What are microorganisms that can cause disease called?",
+      "choices": [
+        "Bacteria",
+        "Viruses",
+        "Pathogens",
+        "Parasites"
+      ],
+      "answer": "Pathogens"
+    },
+    {
+      "question": "Which water purification method is considered the most reliable for killing pathogens?",
+      "choices": [
+        "Filtration",
+        "Chemical treatment",
+        "Boiling",
+        "SODIS"
+      ],
+      "answer": "Boiling"
+    },
+    {
+      "question": "What is the primary advantage of using chemical treatments for water purification?",
+      "choices": [
+        "It's the fastest method",
+        "It's the most effective against all pathogens",
+        "It's portable and easy to carry",
+        "It improves the taste of water"
+      ],
+      "answer": "It's portable and easy to carry"
+    },
+    {
+      "question": "Which of the following is NOT a step in the water sourcing and purification process?",
+      "choices": [
+        "Identifying safe water sources",
+        "Collecting water",
+        "Purifying water",
+        "Bottling water for commercial sale"
+      ],
+      "answer": "Bottling water for commercial sale"
+    },
+    {
+      "question": "What is the primary purpose of using charcoal in a homemade water filter?",
+      "choices": [
+        "To add minerals to the water",
+        "To remove odors and improve taste",
+        "To kill bacteria",
+        "To increase water flow"
+      ],
+      "answer": "To remove odors and improve taste"
+    },
+    {
+      "question": "Which of the following is a limitation of the SODIS method?",
+      "choices": [
+        "It requires expensive equipment",
+        "It doesn't work in cloudy water",
+        "It adds chemicals to the water",
+        "It takes too much time"
+      ],
+      "answer": "It doesn't work in cloudy water"
+    },
+    {
+      "question": "What is the recommended boiling time for water purification at sea level?",
+      "choices": [
+        "30 seconds",
+        "1 minute",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "answer": "1 minute"
+    },
+    {
+      "question": "Which of the following is NOT a factor to consider when selecting a water source in the wild?",
+      "choices": [
+        "Proximity to human settlements",
+        "Presence of animal activity",
+        "Water clarity",
+        "Water temperature"
+      ],
+      "answer": "Water temperature"
+    },
+    {
+      "question": "What is the primary function of sand in a homemade water filter?",
+      "choices": [
+        "To kill bacteria",
+        "To remove large particles and debris",
+        "To improve water taste",
+        "To add minerals to the water"
+      ],
+      "answer": "To remove large particles and debris"
+    },
+    {
+      "question": "Which of the following is a sign that water may be contaminated?",
+      "choices": [
+        "It's clear",
+        "It's odorless",
+        "It has a strange color",
+        "It's cold"
+      ],
+      "answer": "It has a strange color"
+    },
+    {
+      "question": "What is the primary advantage of using iodine for water purification?",
+      "choices": [
+        "It's the most effective against all pathogens",
+        "It improves water taste",
+        "It's lightweight and easy to carry",
+        "It works instantly"
+      ],
+      "answer": "It's lightweight and easy to carry"
+    },
+    {
+      "question": "Which of the following water sources is generally considered the safest in a wilderness setting?",
+      "choices": [
+        "Fast-moving streams",
+        "Stagnant ponds",
+        "Rainwater",
+        "Melted snow"
+      ],
+      "answer": "Rainwater"
+    },
+    {
+      "question": "What is the primary disadvantage of boiling as a water purification method in a survival situation?",
+      "choices": [
+        "It's not effective against all pathogens",
+        "It requires fuel and time",
+        "It doesn't remove chemical contaminants",
+        "It makes the water taste bad"
+      ],
+      "answer": "It requires fuel and time"
+    },
+    {
+      "question": "Which of the following is NOT a common chemical used for water purification?",
+      "choices": [
+        "Chlorine",
+        "Iodine",
+        "Potassium permanganate",
+        "Sodium bicarbonate"
+      ],
+      "answer": "Sodium bicarbonate"
+    },
+    {
+      "question": "What is the primary purpose of letting water stand after chemical treatment?",
+      "choices": [
+        "To improve taste",
+        "To allow sediment to settle",
+        "To increase effectiveness of the treatment",
+        "To cool the water"
+      ],
+      "answer": "To increase effectiveness of the treatment"
+    },
+    {
+      "question": "Which of the following is a potential risk of drinking untreated coastal water?",
+      "choices": [
+        "High salt content",
+        "Algal blooms",
+        "Industrial pollution",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary advantage of using a commercial water filter in a survival situation?",
+      "choices": [
+        "It's the cheapest option",
+        "It's the fastest method",
+        "It's effective against a wide range of contaminants",
+        "It doesn't require any effort"
+      ],
+      "answer": "It's effective against a wide range of contaminants"
+    },
+    {
+      "question": "Which of the following is NOT a recommended container for water collection in the wild?",
+      "choices": [
+        "Plastic bottles",
+        "Canteens",
+        "Hydration bladders",
+        "Glass jars"
+      ],
+      "answer": "Glass jars"
+    },
+    {
+      "question": "What is the primary purpose of adding cloth to a homemade water filter?",
+      "choices": [
+        "To kill bacteria",
+        "To remove fine particles",
+        "To improve water flow",
+        "To add minerals to the water"
+      ],
+      "answer": "To remove fine particles"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice when collecting water from a stream?",
+      "choices": [
+        "Collect upstream from your location",
+        "Avoid areas with visible contamination",
+        "Collect from the center of the stream",
+        "Collect from areas with the fastest flow"
+      ],
+      "answer": "Collect from the center of the stream"
+    },
+    {
+      "question": "What is the primary advantage of using multiple purification methods in combination?",
+      "choices": [
+        "It's faster",
+        "It's cheaper",
+        "It provides more comprehensive protection",
+        "It improves water taste"
+      ],
+      "answer": "It provides more comprehensive protection"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Neuroscience and Philosophy of Mind",
+  "questions": [
+    {
+      "question": "What is the basic functional unit of the nervous system?",
+      "choices": [
+        "Synapse",
+        "Neuron",
+        "Axon",
+        "Dendrite"
+      ],
+      "answer": "Neuron"
+    },
+    {
+      "question": "Approximately how many neurons are in the human brain?",
+      "choices": [
+        "1 million",
+        "1 billion",
+        "86 billion",
+        "100 trillion"
+      ],
+      "answer": "86 billion"
+    },
+    {
+      "question": "What is the junction between two neurons called?",
+      "choices": [
+        "Axon",
+        "Dendrite",
+        "Synapse",
+        "Soma"
+      ],
+      "answer": "Synapse"
+    },
+    {
+      "question": "Which of the following is NOT a neurotransmitter mentioned in the module?",
+      "choices": [
+        "Dopamine",
+        "Serotonin",
+        "Glutamate",
+        "Insulin"
+      ],
+      "answer": "Insulin"
+    },
+    {
+      "question": "Which brain region is responsible for higher-order cognitive functions such as reasoning and language?",
+      "choices": [
+        "Cerebral cortex",
+        "Limbic system",
+        "Brainstem",
+        "Cerebellum"
+      ],
+      "answer": "Cerebral cortex"
+    },
+    {
+      "question": "What is the 'hard problem of consciousness' as termed by David Chalmers?",
+      "choices": [
+        "Explaining how neurons fire",
+        "Understanding brain structure",
+        "Explaining how and why we have subjective experiences",
+        "Mapping all neural connections in the brain"
+      ],
+      "answer": "Explaining how and why we have subjective experiences"
+    },
+    {
+      "question": "Which theory of consciousness suggests that it is a fundamental property of systems that integrate information?",
+      "choices": [
+        "Global Workspace Theory",
+        "Integrated Information Theory",
+        "Dualism",
+        "Materialism"
+      ],
+      "answer": "Integrated Information Theory"
+    },
+    {
+      "question": "Who proposed the Global Workspace Theory of consciousness?",
+      "choices": [
+        "David Chalmers",
+        "Giulio Tononi",
+        "Bernard Baars",
+        "Benjamin Libet"
+      ],
+      "answer": "Bernard Baars"
+    },
+    {
+      "question": "Which philosopher's experiments challenged traditional notions of free will by studying the timing of conscious decisions?",
+      "choices": [
+        "David Chalmers",
+        "Giulio Tononi",
+        "Bernard Baars",
+        "Benjamin Libet"
+      ],
+      "answer": "Benjamin Libet"
+    },
+    {
+      "question": "What is the philosophical idea that all events are determined by previously existing causes?",
+      "choices": [
+        "Free will",
+        "Dualism",
+        "Determinism",
+        "Materialism"
+      ],
+      "answer": "Determinism"
+    },
+    {
+      "question": "Which brain structure is involved in emotion and memory formation?",
+      "choices": [
+        "Cerebellum",
+        "Brainstem",
+        "Limbic system",
+        "Corpus callosum"
+      ],
+      "answer": "Limbic system"
+    },
+    {
+      "question": "What is the process called when a neuron sends an electrical signal along its axon?",
+      "choices": [
+        "Synaptic transmission",
+        "Action potential",
+        "Neurotransmission",
+        "Depolarization"
+      ],
+      "answer": "Action potential"
+    },
+    {
+      "question": "Which philosophical perspective sees consciousness as entirely reducible to brain activity?",
+      "choices": [
+        "Dualism",
+        "Idealism",
+        "Materialism",
+        "Panpsychism"
+      ],
+      "answer": "Materialism"
+    },
+    {
+      "question": "What is the approximate weight of the human brain?",
+      "choices": [
+        "1 pound",
+        "3 pounds",
+        "5 pounds",
+        "10 pounds"
+      ],
+      "answer": "3 pounds"
+    },
+    {
+      "question": "Which brain region is responsible for coordinating movement and balance?",
+      "choices": [
+        "Cerebral cortex",
+        "Limbic system",
+        "Brainstem",
+        "Cerebellum"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "What type of cells are neurons?",
+      "choices": [
+        "Muscle cells",
+        "Epithelial cells",
+        "Specialized cells for information transmission",
+        "Blood cells"
+      ],
+      "answer": "Specialized cells for information transmission"
+    },
+    {
+      "question": "Which of the following is NOT a major region of the brain mentioned in the module?",
+      "choices": [
+        "Cerebral cortex",
+        "Limbic system",
+        "Brainstem",
+        "Hypothalamus"
+      ],
+      "answer": "Hypothalamus"
+    },
+    {
+      "question": "What is the philosophical view that posits consciousness as a fundamental aspect of reality distinct from matter?",
+      "choices": [
+        "Materialism",
+        "Determinism",
+        "Dualism",
+        "Behaviorism"
+      ],
+      "answer": "Dualism"
+    },
+    {
+      "question": "Which neurotransmitter is associated with reward and pleasure?",
+      "choices": [
+        "Serotonin",
+        "Dopamine",
+        "Glutamate",
+        "Acetylcholine"
+      ],
+      "answer": "Dopamine"
+    },
+    {
+      "question": "What is the term for the ability to make choices that are not predetermined or caused by external factors?",
+      "choices": [
+        "Determinism",
+        "Consciousness",
+        "Free will",
+        "Cognition"
+      ],
+      "answer": "Free will"
+    },
+    {
+      "question": "Which brain structure is involved in regulating vital functions such as breathing and heart rate?",
+      "choices": [
+        "Cerebral cortex",
+        "Limbic system",
+        "Brainstem",
+        "Cerebellum"
+      ],
+      "answer": "Brainstem"
+    },
+    {
+      "question": "What is the study of the ethical implications of neuroscience called?",
+      "choices": [
+        "Neuroethics",
+        "Bioethics",
+        "Neurophilosophy",
+        "Cognitive ethics"
+      ],
+      "answer": "Neuroethics"
+    },
+    {
+      "question": "Which of the following is NOT a function of neurotransmitters mentioned in the module?",
+      "choices": [
+        "Regulating mood",
+        "Influencing attention",
+        "Facilitating learning",
+        "Controlling blood pressure"
+      ],
+      "answer": "Controlling blood pressure"
+    },
+    {
+      "question": "What is the term for the state of being aware of and able to think about one's own thoughts and experiences?",
+      "choices": [
+        "Cognition",
+        "Consciousness",
+        "Introspection",
+        "Metacognition"
+      ],
+      "answer": "Consciousness"
+    },
+    {
+      "question": "Which structure in the limbic system is particularly important for forming new memories?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Thalamus",
+        "Hypothalamus"
+      ],
+      "answer": "Hippocampus"
+    },
+    {
+      "question": "What is the philosophical problem of explaining how physical processes in the brain give rise to subjective experiences?",
+      "choices": [
+        "Mind-body problem",
+        "Hard problem of consciousness",
+        "Qualia dilemma",
+        "Explanatory gap"
+      ],
+      "answer": "Hard problem of consciousness"
+    },
+    {
+      "question": "Which of the following is NOT a traditional belief about consciousness mentioned in the module?",
+      "choices": [
+        "Consciousness extends beyond the individual brain",
+        "Consciousness has collective dimensions",
+        "Consciousness has spiritual dimensions",
+        "Consciousness is solely a product of brain activity"
+      ],
+      "answer": "Consciousness is solely a product of brain activity"
+    },
+    {
+      "question": "What is the term for the ability of the brain to change and reorganize itself?",
+      "choices": [
+        "Neuroplasticity",
+        "Neurogenesis",
+        "Neurotransmission",
+        "Neuromodulation"
+      ],
+      "answer": "Neuroplasticity"
+    },
+    {
+      "question": "Which of the following best describes the relationship between neuroscience and philosophy of mind?",
+      "choices": [
+        "They are completely separate fields with no overlap",
+        "Neuroscience has replaced philosophy of mind",
+        "They offer complementary approaches to understanding cognition and consciousness",
+        "Philosophy of mind is a subset of neuroscience"
+      ],
+      "answer": "They offer complementary approaches to understanding cognition and consciousness"
+    },
+    {
+      "question": "What is the primary function of the amygdala?",
+      "choices": [
+        "Language processing",
+        "Emotional responses and fear conditioning",
+        "Motor control",
+        "Visual processing"
+      ],
+      "answer": "Emotional responses and fear conditioning"
+    }
+  ]
+}

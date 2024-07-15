@@ -1,0 +1,305 @@
+{
+  "title": "Shelter Building in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is a key consideration when selecting a shelter site in Timor-Leste?",
+      "choices": [
+        "Low ground near water sources",
+        "Areas with dense canopy cover",
+        "High ground to avoid flooding",
+        "Proximity to animal paths"
+      ],
+      "answer": "High ground to avoid flooding"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese shelter design?",
+      "choices": [
+        "Igloo",
+        "Yurt",
+        "Uma Lulik",
+        "Teepee"
+      ],
+      "answer": "Uma Lulik"
+    },
+    {
+      "question": "What is the primary purpose of a steep roof in tropical shelter design?",
+      "choices": [
+        "To increase interior space",
+        "To handle heavy rainfall",
+        "To improve ventilation",
+        "To resist strong winds"
+      ],
+      "answer": "To handle heavy rainfall"
+    },
+    {
+      "question": "Which shelter type is most suitable for an emergency situation in Timor-Leste's forests?",
+      "choices": [
+        "A-frame shelter",
+        "Debris hut",
+        "Uma Lulik",
+        "Tarp configuration"
+      ],
+      "answer": "Debris hut"
+    },
+    {
+      "question": "Why are raised floors important in tropical shelter design?",
+      "choices": [
+        "To improve the view",
+        "To avoid moisture and insects",
+        "To increase storage space",
+        "To make the shelter cooler"
+      ],
+      "answer": "To avoid moisture and insects"
+    },
+    {
+      "question": "What is a 'ridgepole' in shelter construction?",
+      "choices": [
+        "A support beam for the walls",
+        "The highest horizontal beam in a roof structure",
+        "A pole used for signaling",
+        "The main entrance support"
+      ],
+      "answer": "The highest horizontal beam in a roof structure"
+    },
+    {
+      "question": "Which knot is commonly used in shelter lashing?",
+      "choices": [
+        "Bowline",
+        "Figure-eight",
+        "Clove hitch",
+        "Sheet bend"
+      ],
+      "answer": "Clove hitch"
+    },
+    {
+      "question": "What is the primary difference between coastal and mountain shelters in Timor-Leste?",
+      "choices": [
+        "Material availability",
+        "Size of the shelter",
+        "Number of occupants",
+        "Color of the shelter"
+      ],
+      "answer": "Material availability"
+    },
+    {
+      "question": "Which natural material is commonly used for thatching in Timor-Leste?",
+      "choices": [
+        "Pine needles",
+        "Palm fronds",
+        "Moss",
+        "Seaweed"
+      ],
+      "answer": "Palm fronds"
+    },
+    {
+      "question": "What is the purpose of a lean-to shelter?",
+      "choices": [
+        "Long-term habitation",
+        "Food storage",
+        "Quick, temporary shelter",
+        "Ceremonial use"
+      ],
+      "answer": "Quick, temporary shelter"
+    },
+    {
+      "question": "Why is ventilation important in tropical shelter design?",
+      "choices": [
+        "To allow smoke to escape",
+        "To reduce humidity and heat",
+        "To improve natural lighting",
+        "To attract wildlife"
+      ],
+      "answer": "To reduce humidity and heat"
+    },
+    {
+      "question": "What is the primary consideration when adapting shelters for Timor-Leste's climate?",
+      "choices": [
+        "Snow load capacity",
+        "Insulation against cold",
+        "Protection from heavy rainfall",
+        "Resistance to earthquakes"
+      ],
+      "answer": "Protection from heavy rainfall"
+    },
+    {
+      "question": "Which of the following is NOT a common material used in traditional Timorese shelters?",
+      "choices": [
+        "Bamboo",
+        "Palm leaves",
+        "Grass",
+        "Pine logs"
+      ],
+      "answer": "Pine logs"
+    },
+    {
+      "question": "What is the purpose of lashing in shelter construction?",
+      "choices": [
+        "To create a fire",
+        "To tie poles or sticks together",
+        "To weave a sleeping mat",
+        "To mark trail paths"
+      ],
+      "answer": "To tie poles or sticks together"
+    },
+    {
+      "question": "Which shelter design is characterized by two supports leaning together to form a triangle?",
+      "choices": [
+        "Lean-to",
+        "A-frame",
+        "Debris hut",
+        "Tarp tent"
+      ],
+      "answer": "A-frame"
+    },
+    {
+      "question": "What is a key principle in selecting a natural windbreak for a shelter site?",
+      "choices": [
+        "Choose an area with no vegetation",
+        "Select a site on the windward side of a hill",
+        "Look for dense vegetation or geographical features on the windward side",
+        "Avoid areas with any trees or bushes"
+      ],
+      "answer": "Look for dense vegetation or geographical features on the windward side"
+    },
+    {
+      "question": "Why should you avoid building a shelter under large trees?",
+      "choices": [
+        "Trees attract lightning",
+        "Falling branches pose a safety risk",
+        "Tree roots will damage the shelter",
+        "Trees block too much sunlight"
+      ],
+      "answer": "Falling branches pose a safety risk"
+    },
+    {
+      "question": "What is the primary purpose of a debris hut?",
+      "choices": [
+        "Long-term living",
+        "Food storage",
+        "Emergency shelter",
+        "Ceremonial use"
+      ],
+      "answer": "Emergency shelter"
+    },
+    {
+      "question": "Which of the following is a key consideration for sun protection in tropical shelter design?",
+      "choices": [
+        "Building the shelter facing north",
+        "Using reflective materials on the roof",
+        "Creating extended eaves or awnings",
+        "Painting the shelter white"
+      ],
+      "answer": "Creating extended eaves or awnings"
+    },
+    {
+      "question": "What is the main advantage of using bamboo in shelter construction?",
+      "choices": [
+        "It's fireproof",
+        "It's readily available and strong",
+        "It repels insects",
+        "It's waterproof"
+      ],
+      "answer": "It's readily available and strong"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of a Uma Lulik (sacred house)?",
+      "choices": [
+        "Elevated structure",
+        "Thatched roof",
+        "Concrete foundation",
+        "Symbolic decorations"
+      ],
+      "answer": "Concrete foundation"
+    },
+    {
+      "question": "What is the primary purpose of waterproofing a shelter?",
+      "choices": [
+        "To keep the shelter cool",
+        "To prevent insect infestations",
+        "To make the shelter blend in with surroundings",
+        "To protect against rain and moisture"
+      ],
+      "answer": "To protect against rain and moisture"
+    },
+    {
+      "question": "Which of the following is a sustainable practice when gathering materials for shelter building?",
+      "choices": [
+        "Cutting down entire trees for lumber",
+        "Stripping all leaves from a single plant",
+        "Using only fallen or dead materials",
+        "Removing all vegetation from the building site"
+      ],
+      "answer": "Using only fallen or dead materials"
+    },
+    {
+      "question": "What is the purpose of a 'brace' in shelter construction?",
+      "choices": [
+        "To create a sleeping platform",
+        "To support and strengthen the structure",
+        "To mark the entrance of the shelter",
+        "To hang food away from animals"
+      ],
+      "answer": "To support and strengthen the structure"
+    },
+    {
+      "question": "Which of the following is NOT a common shape for a bushcraft shelter?",
+      "choices": [
+        "A-frame",
+        "Lean-to",
+        "Dome",
+        "Pyramid"
+      ],
+      "answer": "Pyramid"
+    },
+    {
+      "question": "What is the primary advantage of using natural materials for shelter building in Timor-Leste?",
+      "choices": [
+        "They are always waterproof",
+        "They are readily available and sustainable",
+        "They provide better insulation than modern materials",
+        "They are easier to transport than manufactured materials"
+      ],
+      "answer": "They are readily available and sustainable"
+    },
+    {
+      "question": "Which of the following is a key principle in tropical shelter ventilation?",
+      "choices": [
+        "Sealing all openings to keep out insects",
+        "Creating cross-ventilation with multiple openings",
+        "Building the shelter as low to the ground as possible",
+        "Using dark-colored materials to absorb heat"
+      ],
+      "answer": "Creating cross-ventilation with multiple openings"
+    },
+    {
+      "question": "What is the primary purpose of a 'ridgeline' in tarp shelter configurations?",
+      "choices": [
+        "To collect rainwater",
+        "To support the center of the tarp and create slope for water runoff",
+        "To hang food and supplies",
+        "To create a barrier against wildlife"
+      ],
+      "answer": "To support the center of the tarp and create slope for water runoff"
+    },
+    {
+      "question": "Which of the following is NOT a typical consideration when adapting shelters for Timor-Leste's coastal areas?",
+      "choices": [
+        "Protection from salt spray",
+        "Resistance to strong winds",
+        "Insulation against cold temperatures",
+        "Elevation to avoid tidal influences"
+      ],
+      "answer": "Insulation against cold temperatures"
+    },
+    {
+      "question": "What is the main purpose of creating a 'drip line' around a shelter?",
+      "choices": [
+        "To mark the shelter's territory",
+        "To collect rainwater for drinking",
+        "To prevent water from flowing into the shelter",
+        "To create a fire barrier"
+      ],
+      "answer": "To prevent water from flowing into the shelter"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Fire Craft in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is one of the traditional Timorese fire-starting techniques mentioned in the lesson plan?",
+      "choices": [
+        "Bow drill method",
+        "Bamboo fire saw method",
+        "Hand drill technique",
+        "Fire plow method"
+      ],
+      "answer": "Bamboo fire saw method"
+    },
+    {
+      "question": "Which of the following is NOT listed as a modern fire-starting tool in the lesson plan?",
+      "choices": [
+        "Flint and steel",
+        "Ferro rod",
+        "Magnifying glass",
+        "Lighter fluid"
+      ],
+      "answer": "Lighter fluid"
+    },
+    {
+      "question": "What is the term for easily combustible material used to start a fire?",
+      "choices": [
+        "Kindling",
+        "Fuel",
+        "Tinder",
+        "Ember"
+      ],
+      "answer": "Tinder"
+    },
+    {
+      "question": "Which of the following is described as small twigs or sticks used to build up a fire from the initial flame?",
+      "choices": [
+        "Tinder",
+        "Kindling",
+        "Fuel",
+        "Ember"
+      ],
+      "answer": "Kindling"
+    },
+    {
+      "question": "What is the term for larger pieces of wood that sustain a fire?",
+      "choices": [
+        "Tinder",
+        "Kindling",
+        "Fuel",
+        "Ember"
+      ],
+      "answer": "Fuel"
+    },
+    {
+      "question": "Which fire-starting method creates heat through friction between two pieces of wood?",
+      "choices": [
+        "Friction fire",
+        "Spark fire",
+        "Solar fire",
+        "Chemical fire"
+      ],
+      "answer": "Friction fire"
+    },
+    {
+      "question": "What is an ember?",
+      "choices": [
+        "A large flame",
+        "A small, glowing piece of coal or wood in a dying fire",
+        "The initial spark of a fire",
+        "A type of kindling"
+      ],
+      "answer": "A small, glowing piece of coal or wood in a dying fire"
+    },
+    {
+      "question": "What is the term for the arrangement of tinder, kindling, and fuel to start and maintain a fire?",
+      "choices": [
+        "Fire structure",
+        "Fire composition",
+        "Fire lay",
+        "Fire assembly"
+      ],
+      "answer": "Fire lay"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a type of fire lay in the lesson plan?",
+      "choices": [
+        "Teepee fire",
+        "Log cabin fire",
+        "Long fire",
+        "Star fire"
+      ],
+      "answer": "Star fire"
+    },
+    {
+      "question": "What natural material is suggested for creating cordage in the course syllabus?",
+      "choices": [
+        "Bamboo strips",
+        "Coconut fibers",
+        "Banana leaves",
+        "Palm fronds"
+      ],
+      "answer": "Coconut fibers"
+    },
+    {
+      "question": "Which celestial feature is mentioned for navigation in the Southern Hemisphere?",
+      "choices": [
+        "North Star",
+        "Big Dipper",
+        "Southern Cross",
+        "Orion's Belt"
+      ],
+      "answer": "Southern Cross"
+    },
+    {
+      "question": "What is one of the survival priorities mentioned in Learning Unit 2?",
+      "choices": [
+        "Communication",
+        "Transportation",
+        "Shelter",
+        "Entertainment"
+      ],
+      "answer": "Shelter"
+    },
+    {
+      "question": "Which of the following is NOT listed as a water purification method in the course syllabus?",
+      "choices": [
+        "Boiling",
+        "Filtration",
+        "Chemical treatment",
+        "Distillation"
+      ],
+      "answer": "Distillation"
+    },
+    {
+      "question": "What type of local expert is suggested to be invited for sharing traditional knowledge?",
+      "choices": [
+        "Politicians",
+        "Teachers",
+        "Elders",
+        "Athletes"
+      ],
+      "answer": "Elders"
+    },
+    {
+      "question": "Which of the following is mentioned as a basic bushcraft tool in the required resources?",
+      "choices": [
+        "Chainsaw",
+        "Axe",
+        "Power drill",
+        "Blowtorch"
+      ],
+      "answer": "Axe"
+    },
+    {
+      "question": "What is suggested as a material for tinder in the lesson plan?",
+      "choices": [
+        "Plastic shavings",
+        "Aluminum foil",
+        "Coconut husk fibers",
+        "Synthetic fabric"
+      ],
+      "answer": "Coconut husk fibers"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a fire safety measure in the lesson plan?",
+      "choices": [
+        "Fire extinguisher",
+        "Water buckets",
+        "Proper fire site selection",
+        "Fireproof clothing"
+      ],
+      "answer": "Fireproof clothing"
+    },
+    {
+      "question": "What is the suggested homework assignment in the lesson plan?",
+      "choices": [
+        "Build a fire at home",
+        "Write a report on a traditional fire-starting method from another culture",
+        "Create a fire safety poster",
+        "Collect tinder materials"
+      ],
+      "answer": "Write a report on a traditional fire-starting method from another culture"
+    },
+    {
+      "question": "Which university is mentioned for potential collaboration in researching local flora and fauna?",
+      "choices": [
+        "University of Timor-Leste",
+        "Timor-Leste National University",
+        "East Timor University",
+        "Dili Institute of Technology"
+      ],
+      "answer": "Timor-Leste National University"
+    },
+    {
+      "question": "What type of environment is NOT specifically mentioned in the course overview for Timor-Leste?",
+      "choices": [
+        "Forests",
+        "Mountains",
+        "Coastal areas",
+        "Deserts"
+      ],
+      "answer": "Deserts"
+    },
+    {
+      "question": "Which of the following is emphasized as part of the course's approach to bushcraft?",
+      "choices": [
+        "Exploitation of natural resources",
+        "Sustainable practices",
+        "Modernization of traditional techniques",
+        "Avoidance of local customs"
+      ],
+      "answer": "Sustainable practices"
+    },
+    {
+      "question": "What is one of the objectives for the Fire Craft learning unit?",
+      "choices": [
+        "Learn to cook over an open fire",
+        "Understand fire management and safety",
+        "Create fire-resistant clothing",
+        "Study the chemistry of combustion"
+      ],
+      "answer": "Understand fire management and safety"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in the Fire Craft learning unit?",
+      "choices": [
+        "Traditional Timorese fire-starting techniques",
+        "Modern fire-starting tools",
+        "Fire types for different purposes",
+        "Fire-resistant building materials"
+      ],
+      "answer": "Fire-resistant building materials"
+    },
+    {
+      "question": "What is one of the activities mentioned for the Fire Craft learning unit?",
+      "choices": [
+        "Creating fire-resistant clothing",
+        "Studying the physics of fire",
+        "Demonstrating friction fire-starting using local materials",
+        "Designing a new type of fire extinguisher"
+      ],
+      "answer": "Demonstrating friction fire-starting using local materials"
+    },
+    {
+      "question": "Which principle is mentioned as part of the course's ethical approach to bushcraft?",
+      "choices": [
+        "Leave No Trace",
+        "Survival of the fittest",
+        "Maximize resource extraction",
+        "Ignore local regulations"
+      ],
+      "answer": "Leave No Trace"
+    },
+    {
+      "question": "What type of navigation is taught in addition to map and compass skills?",
+      "choices": [
+        "GPS navigation",
+        "Celestial navigation",
+        "Echolocation",
+        "Dowsing"
+      ],
+      "answer": "Celestial navigation"
+    },
+    {
+      "question": "Which of the following is suggested as a way to engage with the local community?",
+      "choices": [
+        "Organize competitive survival games",
+        "Build permanent structures in the wilderness",
+        "Conduct workshops on bushcraft skills for local youth groups",
+        "Introduce non-native species for food foraging"
+      ],
+      "answer": "Conduct workshops on bushcraft skills for local youth groups"
+    },
+    {
+      "question": "What is suggested as a material for creating an individual emergency shelter?",
+      "choices": [
+        "Plastic tarps",
+        "Local vegetation",
+        "Prefabricated tent parts",
+        "Synthetic fabrics"
+      ],
+      "answer": "Local vegetation"
+    },
+    {
+      "question": "Which of the following is emphasized in the food foraging section of the course?",
+      "choices": [
+        "Maximizing calorie intake",
+        "Sustainable foraging ethics",
+        "Hunting large game",
+        "Cultivating non-native plants"
+      ],
+      "answer": "Sustainable foraging ethics"
+    },
+    {
+      "question": "What type of practical experience is suggested in the course syllabus?",
+      "choices": [
+        "Virtual reality simulations",
+        "Overnight camping trips",
+        "Classroom role-playing",
+        "Urban survival scenarios"
+      ],
+      "answer": "Overnight camping trips"
+    }
+  ]
+}

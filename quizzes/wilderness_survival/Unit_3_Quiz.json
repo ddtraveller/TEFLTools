@@ -1,0 +1,305 @@
+{
+  "title": "Navigation and Wayfinding in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary constellation used for celestial navigation in the Southern Hemisphere?",
+      "choices": [
+        "Big Dipper",
+        "Orion's Belt",
+        "Southern Cross",
+        "Cassiopeia"
+      ],
+      "answer": "Southern Cross"
+    },
+    {
+      "question": "Which of the following is NOT a topic covered in the Navigation and Wayfinding unit?",
+      "choices": [
+        "Map reading and compass use",
+        "Celestial navigation",
+        "Natural indicators for direction",
+        "GPS technology"
+      ],
+      "answer": "GPS technology"
+    },
+    {
+      "question": "What is the angular difference between magnetic north and true north called?",
+      "choices": [
+        "Azimuth",
+        "Declination",
+        "Bearing",
+        "Latitude"
+      ],
+      "answer": "Declination"
+    },
+    {
+      "question": "Which of the following is a natural indicator that can be used for navigation?",
+      "choices": [
+        "Tree growth patterns",
+        "Cloud formations",
+        "Animal migrations",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What type of map shows natural and man-made features as well as elevation changes?",
+      "choices": [
+        "Political map",
+        "Road map",
+        "Topographic map",
+        "Climate map"
+      ],
+      "answer": "Topographic map"
+    },
+    {
+      "question": "What are the lines on a topographic map that connect points of equal elevation called?",
+      "choices": [
+        "Isotherm lines",
+        "Contour lines",
+        "Latitude lines",
+        "Isobar lines"
+      ],
+      "answer": "Contour lines"
+    },
+    {
+      "question": "Which activity is included in the Navigation and Wayfinding unit to practice skills?",
+      "choices": [
+        "Rock climbing",
+        "Orienteering exercise",
+        "Kayaking",
+        "Wildlife tracking"
+      ],
+      "answer": "Orienteering exercise"
+    },
+    {
+      "question": "What is the direction from one point to another, usually expressed in degrees, called?",
+      "choices": [
+        "Azimuth",
+        "Bearing",
+        "Heading",
+        "Trajectory"
+      ],
+      "answer": "Bearing"
+    },
+    {
+      "question": "Which of the following is NOT a limitation of celestial navigation?",
+      "choices": [
+        "Cloud cover",
+        "Time of year",
+        "Daytime use",
+        "Magnetic interference"
+      ],
+      "answer": "Magnetic interference"
+    },
+    {
+      "question": "What simple tool can be created to determine direction using the sun's position?",
+      "choices": [
+        "Sun compass",
+        "Solar altimeter",
+        "Sundial",
+        "Heliostat"
+      ],
+      "answer": "Sun compass"
+    },
+    {
+      "question": "Which of the following is a key objective of the Navigation and Wayfinding unit?",
+      "choices": [
+        "Learn to build rafts",
+        "Master map and compass skills",
+        "Study weather patterns",
+        "Identify edible plants"
+      ],
+      "answer": "Master map and compass skills"
+    },
+    {
+      "question": "What is the process of orienting oneself and the map to the surrounding terrain called?",
+      "choices": [
+        "Triangulation",
+        "Resection",
+        "Map-to-terrain orientation",
+        "Azimuth alignment"
+      ],
+      "answer": "Map-to-terrain orientation"
+    },
+    {
+      "question": "Which of the following is NOT typically found on a topographic map?",
+      "choices": [
+        "Rivers and lakes",
+        "Elevation contours",
+        "Political boundaries",
+        "Vegetation cover"
+      ],
+      "answer": "Political boundaries"
+    },
+    {
+      "question": "What is the primary purpose of an orienteering exercise?",
+      "choices": [
+        "To improve physical fitness",
+        "To practice map and compass skills",
+        "To study local flora and fauna",
+        "To learn about local history"
+      ],
+      "answer": "To practice map and compass skills"
+    },
+    {
+      "question": "Which natural feature can often indicate the direction of prevailing winds in an area?",
+      "choices": [
+        "Rock formations",
+        "Tree growth patterns",
+        "Animal burrows",
+        "River flow"
+      ],
+      "answer": "Tree growth patterns"
+    },
+    {
+      "question": "What is the term for using environmental features to determine direction?",
+      "choices": [
+        "Eco-navigation",
+        "Bioindicator orientation",
+        "Natural navigation",
+        "Environmental wayfinding"
+      ],
+      "answer": "Natural navigation"
+    },
+    {
+      "question": "Which of the following is NOT a common item used in basic land navigation?",
+      "choices": [
+        "Compass",
+        "Topographic map",
+        "Altimeter",
+        "Sextant"
+      ],
+      "answer": "Sextant"
+    },
+    {
+      "question": "What is the primary function of a compass in navigation?",
+      "choices": [
+        "To measure distance",
+        "To determine elevation",
+        "To indicate direction",
+        "To predict weather"
+      ],
+      "answer": "To indicate direction"
+    },
+    {
+      "question": "Which celestial body is most commonly used for daytime navigation?",
+      "choices": [
+        "Moon",
+        "Sun",
+        "Venus",
+        "Jupiter"
+      ],
+      "answer": "Sun"
+    },
+    {
+      "question": "What is the term for the imaginary lines that run north-south on a map or globe?",
+      "choices": [
+        "Parallels",
+        "Meridians",
+        "Tropics",
+        "Equators"
+      ],
+      "answer": "Meridians"
+    },
+    {
+      "question": "Which of the following is NOT a method taught for finding direction without a compass?",
+      "choices": [
+        "Using the Southern Cross",
+        "Observing moss growth",
+        "Creating a sun compass",
+        "Using a GPS device"
+      ],
+      "answer": "Using a GPS device"
+    },
+    {
+      "question": "What is the primary advantage of using natural navigation techniques?",
+      "choices": [
+        "They are more accurate than modern methods",
+        "They work in all weather conditions",
+        "They don't require any equipment",
+        "They are faster than using a map and compass"
+      ],
+      "answer": "They don't require any equipment"
+    },
+    {
+      "question": "Which of the following is a key skill practiced in the orienteering exercise?",
+      "choices": [
+        "Swimming",
+        "Rock climbing",
+        "Finding control points",
+        "Building shelters"
+      ],
+      "answer": "Finding control points"
+    },
+    {
+      "question": "What is the purpose of creating a sun compass in the lesson activities?",
+      "choices": [
+        "To tell time",
+        "To predict weather",
+        "To determine direction",
+        "To measure temperature"
+      ],
+      "answer": "To determine direction"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a basic orienteering kit?",
+      "choices": [
+        "Compass",
+        "Map",
+        "Punch card",
+        "Tent"
+      ],
+      "answer": "Tent"
+    },
+    {
+      "question": "What is the main purpose of contour lines on a topographic map?",
+      "choices": [
+        "To show political boundaries",
+        "To indicate elevation changes",
+        "To mark hiking trails",
+        "To highlight water sources"
+      ],
+      "answer": "To indicate elevation changes"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese navigation technique mentioned in the course materials?",
+      "choices": [
+        "Using the Southern Cross",
+        "Reading ocean currents",
+        "Interpreting cloud patterns",
+        "None of the above"
+      ],
+      "answer": "None of the above"
+    },
+    {
+      "question": "What is the primary challenge of using celestial navigation in Timor-Leste?",
+      "choices": [
+        "Light pollution",
+        "Magnetic interference",
+        "Cloud cover",
+        "Lack of visible stars"
+      ],
+      "answer": "Cloud cover"
+    },
+    {
+      "question": "Which of the following is NOT a component of the homework assignment for this unit?",
+      "choices": [
+        "Creating a detailed map from home to school",
+        "Including landmarks on the map",
+        "Researching traditional Timorese navigation techniques",
+        "Practicing celestial navigation at night"
+      ],
+      "answer": "Practicing celestial navigation at night"
+    },
+    {
+      "question": "What is the primary purpose of the natural indicators scavenger hunt activity?",
+      "choices": [
+        "To identify edible plants",
+        "To practice using a compass",
+        "To find examples of natural direction indicators",
+        "To study local wildlife"
+      ],
+      "answer": "To find examples of natural direction indicators"
+    }
+  ]
+}

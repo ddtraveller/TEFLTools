@@ -1,0 +1,305 @@
+{
+  "title": "Basic Survival Skills Quiz",
+  "questions": [
+    {
+      "question": "What is the 'Rule of Threes' in survival situations?",
+      "choices": [
+        "3 minutes without air, 3 hours without shelter, 3 days without water, 3 weeks without food",
+        "3 hours without air, 3 days without shelter, 3 weeks without water, 3 months without food",
+        "3 seconds without air, 3 minutes without shelter, 3 hours without water, 3 days without food",
+        "3 days without air, 3 weeks without shelter, 3 months without water, 3 years without food"
+      ],
+      "answer": "3 minutes without air, 3 hours without shelter, 3 days without water, 3 weeks without food"
+    },
+    {
+      "question": "What is the first step in any survival situation?",
+      "choices": [
+        "Find water",
+        "Build a shelter",
+        "Start a fire",
+        "Remain calm and assess the situation"
+      ],
+      "answer": "Remain calm and assess the situation"
+    },
+    {
+      "question": "Which of the following is typically the most immediate concern in a survival scenario?",
+      "choices": [
+        "Food",
+        "Water",
+        "Shelter",
+        "Fire"
+      ],
+      "answer": "Shelter"
+    },
+    {
+      "question": "What is a lean-to shelter?",
+      "choices": [
+        "A shelter made entirely of leaves",
+        "A structure propped up at an angle with one open side",
+        "A underground bunker",
+        "A shelter built high in trees"
+      ],
+      "answer": "A structure propped up at an angle with one open side"
+    },
+    {
+      "question": "Which water source is generally preferable in a survival situation?",
+      "choices": [
+        "Standing water in a pond",
+        "Clear, running water",
+        "Rainwater collected from leaves",
+        "Melted snow"
+      ],
+      "answer": "Clear, running water"
+    },
+    {
+      "question": "What is the most reliable method of water purification in the wilderness?",
+      "choices": [
+        "Boiling",
+        "Chemical tablets",
+        "UV light treatment",
+        "Cloth filtration"
+      ],
+      "answer": "Boiling"
+    },
+    {
+      "question": "How long should water be boiled to ensure purification?",
+      "choices": [
+        "30 seconds",
+        "1 minute",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "answer": "1 minute"
+    },
+    {
+      "question": "What is the purpose of a ferrocerium rod in a survival kit?",
+      "choices": [
+        "Water purification",
+        "Starting fires",
+        "Signaling for help",
+        "Cutting wood"
+      ],
+      "answer": "Starting fires"
+    },
+    {
+      "question": "Which of the following is NOT a common use for fire in a survival situation?",
+      "choices": [
+        "Providing warmth",
+        "Purifying water",
+        "Cooking food",
+        "Repelling large predators"
+      ],
+      "answer": "Repelling large predators"
+    },
+    {
+      "question": "What is tinder in the context of fire-making?",
+      "choices": [
+        "Large logs",
+        "Medium-sized branches",
+        "Small twigs",
+        "Easily ignitable material like dry grass or paper"
+      ],
+      "answer": "Easily ignitable material like dry grass or paper"
+    },
+    {
+      "question": "How many whistle blasts are typically used as a distress signal?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "What does SOS stand for in the context of distress signals?",
+      "choices": [
+        "Save Our Souls",
+        "Save Our Ship",
+        "Situation Of Severity",
+        "Signal Of Survival"
+      ],
+      "answer": "Save Our Souls"
+    },
+    {
+      "question": "Which of the following is an effective visual signal for aircraft during the day?",
+      "choices": [
+        "A bright fire",
+        "A smoky fire",
+        "Flashing a light",
+        "Waving a white flag"
+      ],
+      "answer": "A smoky fire"
+    },
+    {
+      "question": "What is the primary purpose of a signal mirror in a survival situation?",
+      "choices": [
+        "To start fires",
+        "To purify water",
+        "To flash sunlight towards potential rescuers",
+        "To check for injuries"
+      ],
+      "answer": "To flash sunlight towards potential rescuers"
+    },
+    {
+      "question": "Which of the following is NOT a recommended material for an improvised water filter?",
+      "choices": [
+        "Sand",
+        "Charcoal",
+        "Cloth",
+        "Leaves"
+      ],
+      "answer": "Leaves"
+    },
+    {
+      "question": "What is the primary danger of consuming unidentified plants in a survival situation?",
+      "choices": [
+        "They might attract predators",
+        "They could be poisonous",
+        "They might cause allergic reactions",
+        "They could deplete your water supply"
+      ],
+      "answer": "They could be poisonous"
+    },
+    {
+      "question": "In a survival situation, why is it important to understand animal behavior?",
+      "choices": [
+        "To domesticate animals for companionship",
+        "To avoid dangerous encounters and potentially find food sources",
+        "To predict weather patterns",
+        "To learn new hunting techniques"
+      ],
+      "answer": "To avoid dangerous encounters and potentially find food sources"
+    },
+    {
+      "question": "What should be the orientation of a lean-to shelter's open side?",
+      "choices": [
+        "Facing the wind",
+        "Facing away from the wind",
+        "Facing north",
+        "Facing the sun"
+      ],
+      "answer": "Facing away from the wind"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a basic survival first aid kit?",
+      "choices": [
+        "Bandages",
+        "Antiseptic wipes",
+        "Pain relievers",
+        "Antibiotics"
+      ],
+      "answer": "Antibiotics"
+    },
+    {
+      "question": "What is the primary purpose of staying calm in a survival situation?",
+      "choices": [
+        "To conserve energy",
+        "To avoid attracting predators",
+        "To allow for clear thinking and rational decision-making",
+        "To maintain body temperature"
+      ],
+      "answer": "To allow for clear thinking and rational decision-making"
+    },
+    {
+      "question": "Which of the following is a natural indicator that can be used for navigation?",
+      "choices": [
+        "Cloud formations",
+        "Animal tracks",
+        "The Southern Cross constellation",
+        "Wind direction"
+      ],
+      "answer": "The Southern Cross constellation"
+    },
+    {
+      "question": "What is the recommended method for treating minor wounds in a survival situation?",
+      "choices": [
+        "Leave them open to air out",
+        "Apply mud to stop bleeding",
+        "Clean with water and cover with a sterile bandage",
+        "Cauterize with a hot metal object"
+      ],
+      "answer": "Clean with water and cover with a sterile bandage"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for finding water in the wilderness?",
+      "choices": [
+        "Following animal tracks",
+        "Looking for green vegetation",
+        "Digging in dry riverbeds",
+        "Collecting morning dew"
+      ],
+      "answer": "Following animal tracks"
+    },
+    {
+      "question": "What is the primary purpose of a ground-to-air signal?",
+      "choices": [
+        "To communicate with other survivors",
+        "To attract the attention of search aircraft",
+        "To mark a trail",
+        "To scare away predators"
+      ],
+      "answer": "To attract the attention of search aircraft"
+    },
+    {
+      "question": "Which of the following is a key component of the survival mindset?",
+      "choices": [
+        "Pessimism",
+        "Panic",
+        "Adaptability",
+        "Aggression"
+      ],
+      "answer": "Adaptability"
+    },
+    {
+      "question": "What is the recommended way to treat hypothermia in a survival situation?",
+      "choices": [
+        "Immerse the person in cold water",
+        "Give the person alcoholic drinks",
+        "Gradually warm the person and provide dry clothing",
+        "Encourage the person to exercise vigorously"
+      ],
+      "answer": "Gradually warm the person and provide dry clothing"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for signaling for help at night?",
+      "choices": [
+        "Building a bright fire",
+        "Using a flashlight to create a strobe effect",
+        "Shouting loudly",
+        "Setting off fireworks"
+      ],
+      "answer": "Setting off fireworks"
+    },
+    {
+      "question": "What is the primary purpose of cordage in a survival situation?",
+      "choices": [
+        "To create clothing",
+        "To build shelters and craft tools",
+        "To start fires",
+        "To purify water"
+      ],
+      "answer": "To build shelters and craft tools"
+    },
+    {
+      "question": "Which of the following is a safe method for testing if a plant is edible?",
+      "choices": [
+        "Eating a small amount and waiting for reactions",
+        "Rubbing it on your skin to check for irritation",
+        "Feeding it to animals and observing their reaction",
+        "There is no safe method without proper identification"
+      ],
+      "answer": "There is no safe method without proper identification"
+    },
+    {
+      "question": "What is the primary purpose of a survival whistle?",
+      "choices": [
+        "To start fires",
+        "To purify water",
+        "To signal for help",
+        "To scare away predators"
+      ],
+      "answer": "To signal for help"
+    }
+  ]
+}

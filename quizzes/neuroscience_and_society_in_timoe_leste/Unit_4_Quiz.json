@@ -1,0 +1,305 @@
+{
+  "title": "Memory and Learning in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the three main types of memory discussed in the module?",
+      "choices": [
+        "Short-term, long-term, and procedural",
+        "Sensory, working, and episodic",
+        "Declarative, semantic, and implicit",
+        "Visual, auditory, and kinesthetic"
+      ],
+      "answer": "Short-term, long-term, and procedural"
+    },
+    {
+      "question": "What is neuroplasticity?",
+      "choices": [
+        "The ability of neural networks in the brain to change through growth and reorganization",
+        "The process of forming new memories",
+        "The transmission of cultural knowledge",
+        "The capacity to hold information for a short period"
+      ],
+      "answer": "The ability of neural networks in the brain to change through growth and reorganization"
+    },
+    {
+      "question": "Which of the following is an example of cultural transmission in Timor-Leste?",
+      "choices": [
+        "Traditional oral storytelling",
+        "Using smartphones for learning",
+        "Studying neuroscience textbooks",
+        "Taking standardized tests"
+      ],
+      "answer": "Traditional oral storytelling"
+    },
+    {
+      "question": "What type of memory is associated with unconscious recall of skills and procedures?",
+      "choices": [
+        "Procedural memory",
+        "Short-term memory",
+        "Episodic memory",
+        "Semantic memory"
+      ],
+      "answer": "Procedural memory"
+    },
+    {
+      "question": "Which activity is suggested for exploring traditional memory techniques in Timor-Leste?",
+      "choices": [
+        "Interviewing elders",
+        "Conducting laboratory experiments",
+        "Analyzing brain scans",
+        "Reading academic journals"
+      ],
+      "answer": "Interviewing elders"
+    },
+    {
+      "question": "What is the main purpose of the warm-up activity in the lesson plan?",
+      "choices": [
+        "To demonstrate short-term memory in action",
+        "To teach students about long-term memory",
+        "To explain neuroplasticity",
+        "To introduce Timorese culture"
+      ],
+      "answer": "To demonstrate short-term memory in action"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a form of cultural transmission in Timor-Leste?",
+      "choices": [
+        "Online learning platforms",
+        "Apprenticeship in crafts and skills",
+        "Ritual and ceremonial learning",
+        "Traditional oral storytelling"
+      ],
+      "answer": "Online learning platforms"
+    },
+    {
+      "question": "What is the main objective of the production task in the lesson plan?",
+      "choices": [
+        "To design a learning activity incorporating neuroscience principles and Timorese cultural elements",
+        "To memorize a list of Timorese objects",
+        "To write an essay on neuroplasticity",
+        "To create a brain model"
+      ],
+      "answer": "To design a learning activity incorporating neuroscience principles and Timorese cultural elements"
+    },
+    {
+      "question": "How is short-term memory defined in the key vocabulary?",
+      "choices": [
+        "The capacity to hold a small amount of information in an active, readily available state for a short period",
+        "The storage of information over an extended period, potentially for a lifetime",
+        "The unconscious recall of skills and procedures",
+        "The process by which cultural elements are passed from person to person"
+      ],
+      "answer": "The capacity to hold a small amount of information in an active, readily available state for a short period"
+    },
+    {
+      "question": "What is the purpose of the Venn diagram activity in the lesson plan?",
+      "choices": [
+        "To compare Western and Timorese approaches to memory and learning",
+        "To illustrate the structure of the brain",
+        "To demonstrate the process of neuroplasticity",
+        "To categorize different types of memory"
+      ],
+      "answer": "To compare Western and Timorese approaches to memory and learning"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in the module content?",
+      "choices": [
+        "Genetic factors in memory formation",
+        "Types of memory",
+        "Neuroplasticity and learning",
+        "Cultural transmission of knowledge"
+      ],
+      "answer": "Genetic factors in memory formation"
+    },
+    {
+      "question": "What is the main focus of the homework assignment?",
+      "choices": [
+        "Interviewing an elder about traditional memory techniques or learning practices",
+        "Conducting a scientific experiment on memory",
+        "Writing a research paper on neuroplasticity",
+        "Creating a memory palace"
+      ],
+      "answer": "Interviewing an elder about traditional memory techniques or learning practices"
+    },
+    {
+      "question": "Which of the following best describes the concept of cultural transmission?",
+      "choices": [
+        "The process by which cultural elements are passed from person to person within a community",
+        "The ability of the brain to form new neural connections",
+        "The storage of information in long-term memory",
+        "The transfer of information between different parts of the brain"
+      ],
+      "answer": "The process by which cultural elements are passed from person to person within a community"
+    },
+    {
+      "question": "What is the recommended duration for displaying objects in the warm-up memory game?",
+      "choices": [
+        "30 seconds",
+        "1 minute",
+        "5 minutes",
+        "10 seconds"
+      ],
+      "answer": "30 seconds"
+    },
+    {
+      "question": "Which of the following is NOT listed as a required resource for the lesson?",
+      "choices": [
+        "EEG machine",
+        "Whiteboard and markers",
+        "Projector and computer",
+        "Traditional Timorese objects or images"
+      ],
+      "answer": "EEG machine"
+    },
+    {
+      "question": "What is the primary goal of incorporating Timorese cultural elements into the learning activities?",
+      "choices": [
+        "To make the neuroscience concepts more relevant and applicable to the local context",
+        "To replace modern scientific understanding with traditional beliefs",
+        "To challenge the validity of neuroscience principles",
+        "To promote tourism in Timor-Leste"
+      ],
+      "answer": "To make the neuroscience concepts more relevant and applicable to the local context"
+    },
+    {
+      "question": "Which type of memory is associated with the storage of information over an extended period, potentially for a lifetime?",
+      "choices": [
+        "Long-term memory",
+        "Short-term memory",
+        "Procedural memory",
+        "Sensory memory"
+      ],
+      "answer": "Long-term memory"
+    },
+    {
+      "question": "What is the suggested method for reviewing key concepts at the end of the lesson?",
+      "choices": [
+        "Quick quiz and class discussion",
+        "Written exam",
+        "Oral presentations",
+        "Group debate"
+      ],
+      "answer": "Quick quiz and class discussion"
+    },
+    {
+      "question": "Which of the following is an example of procedural memory?",
+      "choices": [
+        "Knowing how to ride a bicycle",
+        "Remembering your phone number",
+        "Recalling what you had for breakfast",
+        "Understanding the concept of gravity"
+      ],
+      "answer": "Knowing how to ride a bicycle"
+    },
+    {
+      "question": "What is the recommended group size for the production task in the lesson plan?",
+      "choices": [
+        "Small groups",
+        "Pairs",
+        "Individual work",
+        "Whole class"
+      ],
+      "answer": "Small groups"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a traditional learning method in Timor-Leste?",
+      "choices": [
+        "Rote memorization of textbooks",
+        "Apprenticeship in crafts and skills",
+        "Ritual and ceremonial learning",
+        "Oral storytelling"
+      ],
+      "answer": "Rote memorization of textbooks"
+    },
+    {
+      "question": "What is the main purpose of studying memory and learning in the context of Timor-Leste?",
+      "choices": [
+        "To understand how neuroscience concepts apply to and can benefit Timorese society",
+        "To prove the superiority of Western scientific methods",
+        "To replace traditional learning practices with modern techniques",
+        "To conduct psychological experiments on the Timorese population"
+      ],
+      "answer": "To understand how neuroscience concepts apply to and can benefit Timorese society"
+    },
+    {
+      "question": "Which of the following is a key component of neuroplasticity?",
+      "choices": [
+        "The brain's ability to form new neural connections",
+        "The size of the brain",
+        "The number of neurons at birth",
+        "The brain's resistance to change"
+      ],
+      "answer": "The brain's ability to form new neural connections"
+    },
+    {
+      "question": "What is the recommended duration for the presentation of main lesson content?",
+      "choices": [
+        "30 minutes",
+        "15 minutes",
+        "45 minutes",
+        "60 minutes"
+      ],
+      "answer": "30 minutes"
+    },
+    {
+      "question": "Which of the following best describes the relationship between neuroplasticity and learning?",
+      "choices": [
+        "Neuroplasticity enables the brain to change and adapt, facilitating learning",
+        "Neuroplasticity and learning are unrelated processes",
+        "Learning inhibits neuroplasticity",
+        "Neuroplasticity only occurs in childhood, not during adult learning"
+      ],
+      "answer": "Neuroplasticity enables the brain to change and adapt, facilitating learning"
+    },
+    {
+      "question": "What is the suggested format for presenting the findings from the elder interviews?",
+      "choices": [
+        "A 5-minute presentation",
+        "A written report",
+        "A group discussion",
+        "A poster display"
+      ],
+      "answer": "A 5-minute presentation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key vocabulary term in the lesson plan?",
+      "choices": [
+        "Synaptic pruning",
+        "Short-term memory",
+        "Long-term memory",
+        "Neuroplasticity"
+      ],
+      "answer": "Synaptic pruning"
+    },
+    {
+      "question": "What is the primary goal of comparing modern educational practices with traditional Timorese learning methods?",
+      "choices": [
+        "To identify strengths and potential areas of integration between the two approaches",
+        "To prove that modern methods are superior",
+        "To eliminate traditional learning practices",
+        "To criticize the Timorese education system"
+      ],
+      "answer": "To identify strengths and potential areas of integration between the two approaches"
+    },
+    {
+      "question": "Which of the following best describes the role of cultural transmission in learning?",
+      "choices": [
+        "It allows for the preservation and passing on of knowledge and skills within a community",
+        "It hinders the acquisition of new information",
+        "It is irrelevant to the learning process",
+        "It only applies to written forms of knowledge"
+      ],
+      "answer": "It allows for the preservation and passing on of knowledge and skills within a community"
+    },
+    {
+      "question": "What is the main challenge addressed by incorporating both neuroscience principles and Timorese cultural elements in the learning activity design?",
+      "choices": [
+        "Bridging modern scientific understanding with traditional cultural practices",
+        "Proving the superiority of Western educational methods",
+        "Replacing Timorese culture with scientific knowledge",
+        "Simplifying complex neuroscience concepts"
+      ],
+      "answer": "Bridging modern scientific understanding with traditional cultural practices"
+    }
+  ]
+}

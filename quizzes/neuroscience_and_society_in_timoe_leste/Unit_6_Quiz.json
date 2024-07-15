@@ -1,0 +1,305 @@
+{
+  "title": "Learning Unit 6: Neuroethics and Society",
+  "questions": [
+    {
+      "question": "What is neuroethics?",
+      "choices": [
+        "The study of brain anatomy",
+        "The study of ethical, legal, and social implications of neuroscience research and applications",
+        "The study of neurological disorders",
+        "The study of cognitive enhancement techniques"
+      ],
+      "answer": "The study of ethical, legal, and social implications of neuroscience research and applications"
+    },
+    {
+      "question": "What is cognitive liberty?",
+      "choices": [
+        "The right to access education",
+        "The freedom to use cognitive enhancers",
+        "The right to mental self-determination and freedom of thought",
+        "The ability to improve cognitive functions through technology"
+      ],
+      "answer": "The right to mental self-determination and freedom of thought"
+    },
+    {
+      "question": "What is neuroenhancement?",
+      "choices": [
+        "A surgical procedure to improve brain function",
+        "The use of neurotechnology to improve cognitive or mental functions",
+        "A natural method to boost brain power",
+        "The process of repairing damaged neural pathways"
+      ],
+      "answer": "The use of neurotechnology to improve cognitive or mental functions"
+    },
+    {
+      "question": "What is a brain-computer interface?",
+      "choices": [
+        "A device that replaces damaged brain tissue",
+        "A direct communication pathway between the brain and an external device",
+        "A computer program that simulates brain function",
+        "A method for visualizing brain activity"
+      ],
+      "answer": "A direct communication pathway between the brain and an external device"
+    },
+    {
+      "question": "What is neuroimaging?",
+      "choices": [
+        "The process of creating artificial neurons",
+        "Techniques for visualizing brain structure and function, such as fMRI or EEG",
+        "The study of brain development in infants",
+        "The use of microscopes to examine individual neurons"
+      ],
+      "answer": "Techniques for visualizing brain structure and function, such as fMRI or EEG"
+    },
+    {
+      "question": "Which of the following is NOT a main topic covered in the Neuroethics and Society unit?",
+      "choices": [
+        "Neuroenhancement and cognitive liberty",
+        "Privacy and brain data",
+        "Neuroscience in education and law",
+        "Neuroplasticity and learning"
+      ],
+      "answer": "Neuroplasticity and learning"
+    },
+    {
+      "question": "What is one of the suggested activities in the Neuroethics and Society unit?",
+      "choices": [
+        "Conduct experiments on animal brains",
+        "Debate the use of neurotechnology in Timorese schools",
+        "Develop a new brain imaging technique",
+        "Study the effects of psychoactive drugs on cognition"
+      ],
+      "answer": "Debate the use of neurotechnology in Timorese schools"
+    },
+    {
+      "question": "Which book is listed as a required resource for this unit?",
+      "choices": [
+        "\"The Brain That Changes Itself\" by Norman Doidge",
+        "\"Thinking, Fast and Slow\" by Daniel Kahneman",
+        "\"Neuroethics: An Introduction with Readings\" by Martha J. Farah",
+        "\"The Tell-Tale Brain\" by V.S. Ramachandran"
+      ],
+      "answer": "\"Neuroethics: An Introduction with Readings\" by Martha J. Farah"
+    },
+    {
+      "question": "What is one of the suggested items to cover in relation to Timor-Leste?",
+      "choices": [
+        "The impact of neuroscience on Timorese cuisine",
+        "The role of neuroscience in understanding and preserving Timorese languages",
+        "The influence of neuroscience on Timorese fashion",
+        "The application of neuroscience in Timorese sports"
+      ],
+      "answer": "The role of neuroscience in understanding and preserving Timorese languages"
+    },
+    {
+      "question": "What practical experience is suggested in the module?",
+      "choices": [
+        "Conduct brain surgery simulations",
+        "Organize a \"Brain Awareness Week\" event for local schools",
+        "Develop a new cognitive enhancement drug",
+        "Create a virtual reality brain exploration game"
+      ],
+      "answer": "Organize a \"Brain Awareness Week\" event for local schools"
+    },
+    {
+      "question": "Which online course is recommended as an additional resource?",
+      "choices": [
+        "\"Introduction to Psychology\" (edX)",
+        "\"Medical Neuroscience\" (Coursera)",
+        "\"Understanding the Brain: The Neurobiology of Everyday Life\" (Coursera)",
+        "\"Fundamentals of Neuroscience\" (Harvard X)"
+      ],
+      "answer": "\"Understanding the Brain: The Neurobiology of Everyday Life\" (Coursera)"
+    },
+    {
+      "question": "What is one of the objectives of the Neuroethics and Society unit?",
+      "choices": [
+        "To develop new neurosurgical techniques",
+        "To understand ethical implications of neuroscientific advances",
+        "To create a new brain-computer interface",
+        "To study the evolution of the human brain"
+      ],
+      "answer": "To understand ethical implications of neuroscientific advances"
+    },
+    {
+      "question": "Which activity is suggested for community engagement?",
+      "choices": [
+        "Develop a podcast series discussing neuroscience topics in Tetum",
+        "Organize a neuroscience conference for international researchers",
+        "Create a neuroscience-themed amusement park",
+        "Establish a neuroscience research laboratory"
+      ],
+      "answer": "Develop a podcast series discussing neuroscience topics in Tetum"
+    },
+    {
+      "question": "What is one potential ethical concern related to brain data?",
+      "choices": [
+        "The cost of brain imaging equipment",
+        "The difficulty of interpreting brain scans",
+        "Privacy issues",
+        "The limited resolution of current imaging techniques"
+      ],
+      "answer": "Privacy issues"
+    },
+    {
+      "question": "Which field is mentioned as an area where neuroscience could be applied in Timor-Leste?",
+      "choices": [
+        "Agriculture",
+        "Tourism",
+        "Education",
+        "Mining"
+      ],
+      "answer": "Education"
+    },
+    {
+      "question": "What type of guidelines are students asked to develop in one of the activities?",
+      "choices": [
+        "Guidelines for neurosurgery procedures",
+        "Guidelines for ethical neuroscience research in Timor-Leste",
+        "Guidelines for brain-healthy diets",
+        "Guidelines for neuroscience education in schools"
+      ],
+      "answer": "Guidelines for ethical neuroscience research in Timor-Leste"
+    },
+    {
+      "question": "Which documentary is recommended as an additional resource?",
+      "choices": [
+        "\"The Social Dilemma\"",
+        "\"The Brain with David Eagleman\"",
+        "\"Inside Out\"",
+        "\"A Beautiful Mind\""
+      ],
+      "answer": "\"The Brain with David Eagleman\""
+    },
+    {
+      "question": "What is one potential application of neuroscience in law?",
+      "choices": [
+        "Determining guilt or innocence based solely on brain scans",
+        "Using neurofeedback to rehabilitate offenders",
+        "Predicting future criminal behavior with 100% accuracy",
+        "Replacing judges with AI systems based on neuroscience"
+      ],
+      "answer": "Using neurofeedback to rehabilitate offenders"
+    },
+    {
+      "question": "Which journal is recommended as an additional resource?",
+      "choices": [
+        "Nature Neuroscience",
+        "Journal of Cognitive Neuroscience",
+        "Frontiers in Cultural Neuroscience",
+        "Annual Review of Neuroscience"
+      ],
+      "answer": "Frontiers in Cultural Neuroscience"
+    },
+    {
+      "question": "What is one ethical concern related to neuroenhancement?",
+      "choices": [
+        "The potential for creating unfair advantages in society",
+        "The high cost of development",
+        "The difficulty of administering enhancers",
+        "The limited effectiveness of current enhancers"
+      ],
+      "answer": "The potential for creating unfair advantages in society"
+    },
+    {
+      "question": "Which TED Talk is recommended as an additional resource?",
+      "choices": [
+        "\"The Power of Vulnerability\" by Brené Brown",
+        "\"The Neuroscience of Consciousness\" by Anil Seth",
+        "\"How to Make Stress Your Friend\" by Kelly McGonigal",
+        "\"The Puzzle of Motivation\" by Dan Pink"
+      ],
+      "answer": "\"The Neuroscience of Consciousness\" by Anil Seth"
+    },
+    {
+      "question": "What is one potential application of neuroscience in Timor-Leste's development strategies?",
+      "choices": [
+        "Improving agricultural techniques",
+        "Enhancing oil and gas extraction",
+        "Developing more effective educational methods",
+        "Boosting tourism through neuromarketing"
+      ],
+      "answer": "Developing more effective educational methods"
+    },
+    {
+      "question": "What type of collaboration is suggested in the practical experience section?",
+      "choices": [
+        "Collaborating with international neuroscience research centers",
+        "Collaborating with local health clinics to create educational materials on brain health",
+        "Collaborating with tech companies to develop new brain-computer interfaces",
+        "Collaborating with pharmaceutical companies to test new cognitive enhancers"
+      ],
+      "answer": "Collaborating with local health clinics to create educational materials on brain health"
+    },
+    {
+      "question": "What is one potential ethical concern related to using neuroscience in education?",
+      "choices": [
+        "The cost of implementing neuroscience-based methods",
+        "The potential for labeling or stigmatizing students based on brain data",
+        "The difficulty of training teachers in neuroscience",
+        "The limited applicability of neuroscience to all subjects"
+      ],
+      "answer": "The potential for labeling or stigmatizing students based on brain data"
+    },
+    {
+      "question": "Which aspect of traditional Timorese culture is suggested to be explored in relation to neuroscience?",
+      "choices": [
+        "Traditional Timorese cuisine",
+        "Traditional Timorese music",
+        "Traditional Timorese healing practices",
+        "Traditional Timorese architecture"
+      ],
+      "answer": "Traditional Timorese healing practices"
+    },
+    {
+      "question": "What is one potential benefit of applying neuroscience to education in Timor-Leste?",
+      "choices": [
+        "Reducing the need for teachers",
+        "Eliminating the need for textbooks",
+        "Developing more effective, culturally appropriate learning strategies",
+        "Standardizing all educational practices across the country"
+      ],
+      "answer": "Developing more effective, culturally appropriate learning strategies"
+    },
+    {
+      "question": "What is one potential ethical concern related to brain-computer interfaces?",
+      "choices": [
+        "The high energy consumption of these devices",
+        "The potential for unauthorized access to thoughts or memories",
+        "The difficulty of manufacturing these devices",
+        "The limited range of applications for these interfaces"
+      ],
+      "answer": "The potential for unauthorized access to thoughts or memories"
+    },
+    {
+      "question": "Which language is specifically mentioned for developing neuroscience educational materials?",
+      "choices": [
+        "Portuguese",
+        "English",
+        "Indonesian",
+        "Tetum"
+      ],
+      "answer": "Tetum"
+    },
+    {
+      "question": "What is one potential application of neuroscience in preserving Timorese languages?",
+      "choices": [
+        "Using brain imaging to study language processing in multilingual Timorese individuals",
+        "Developing brain-computer interfaces for instant language translation",
+        "Creating neuropharmaceuticals to enhance language learning",
+        "Using neurofeedback to improve pronunciation of Timorese languages"
+      ],
+      "answer": "Using brain imaging to study language processing in multilingual Timorese individuals"
+    },
+    {
+      "question": "What is one potential ethical concern related to using neuroscience in law enforcement?",
+      "choices": [
+        "The high cost of implementing neuroscience-based methods",
+        "The potential for violating privacy and self-incrimination rights",
+        "The difficulty of training law enforcement personnel in neuroscience",
+        "The limited applicability of neuroscience to all types of crimes"
+      ],
+      "answer": "The potential for violating privacy and self-incrimination rights"
+    }
+  ]
+}

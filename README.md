@@ -85,6 +85,15 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 
 16. **Empoderamentu no Lideransa Feto iha Timor-Leste / Women's Empowerment and Leadership in Timor-Leste**
     - This course aims to empower women in Timor-Leste to become effective leaders and agents of change in their communities. Participants will develop leadership skills, understand gender equality concepts, and learn strategies to overcome cultural barriers. The course will emphasize practical application and community engagement, considering Timor-Leste's unique cultural context.
+
+17. **Neurosciensia no Sosiedade iha Timor Leste / Neuroscience and Society in Timor Leste**
+    - This course explores the intersection of neuroscience, philosophy, and society, with a focus on applying these concepts to the cultural context of Timor-Leste. Students will examine how brain structure and function influence human behavior, decision-making, and social dynamics. The course aims to develop critical thinking skills and encourage students to consider the ethical implications of neuroscientific advances in Timorese society.
+
+18. **Intro ba Biology Marine / Intro to Marine Biology**
+    - This course aims to introduce students to marine biology and conservation principles, with a specific focus on the unique marine ecosystems of Timor-Leste. Students will gain an understanding of marine biodiversity, ecosystem functions, and conservation challenges in the local context. The course emphasizes the importance of sustainable practices and community engagement in protecting Timor-Leste's marine resources.
+
+19. **Aramaiku Jesus no Timor Leste / Aramaic Jesus and Timor Leste**
+    - This course explores the native tongue of Jesus, Aramaic, its use in his teachings and its relevance to Timor-Leste's cultural and spiritual context.
     
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
@@ -271,6 +280,9 @@ Don't add any commentary at the top, like 'Here is a syllabus...'"""
     time.sleep(2)  # Pause for 2 seconds after Anthropic call
     return message.content[0].text if message.content else ""
 ```
+
+## Timor Ohin! / Timor Today!
+In scripts/Timor_Today is an html file for a fake news website. It might be fun for members of the community or students to 'get hired' by the website and have them take some video cameras or just themselves around and report on the goings on in Timor Leste. This could be distributed over many P.C. sites or just one.
 
 ## Rekursu / Resources
 

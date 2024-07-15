@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Bushcraft and Local Ecology in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary focus of bushcraft?",
+      "choices": [
+        "Urban survival skills",
+        "Modern camping techniques",
+        "Living and thriving in the wilderness using traditional skills",
+        "Extreme sports in natural environments"
+      ],
+      "answer": "Living and thriving in the wilderness using traditional skills"
+    },
+    {
+      "question": "Approximately what percentage of Timor-Leste's land area is covered by forests?",
+      "choices": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": "50%"
+    },
+    {
+      "question": "Which of the following is NOT one of the main ecosystem types in Timor-Leste?",
+      "choices": [
+        "Tropical forests",
+        "Mountains",
+        "Coastal areas",
+        "Deserts"
+      ],
+      "answer": "Deserts"
+    },
+    {
+      "question": "What is the highest mountain peak in Timor-Leste?",
+      "choices": [
+        "Mount Kablaki",
+        "Mount Matebian",
+        "Mount Ramelau",
+        "Mount Timor"
+      ],
+      "answer": "Mount Ramelau"
+    },
+    {
+      "question": "Which of the following is a critically endangered bird species in Timor-Leste?",
+      "choices": [
+        "Timor imperial pigeon",
+        "Timor sparrow",
+        "Timor eagle",
+        "Timor parrot"
+      ],
+      "answer": "Timor imperial pigeon"
+    },
+    {
+      "question": "What is the primary goal of the 'Leave No Trace' principles?",
+      "choices": [
+        "To promote extreme wilderness challenges",
+        "To minimize human impact on the environment",
+        "To increase tourism in natural areas",
+        "To develop new camping equipment"
+      ],
+      "answer": "To minimize human impact on the environment"
+    },
+    {
+      "question": "Which of the following is a valuable timber tree species in Timor-Leste?",
+      "choices": [
+        "Oak",
+        "Pine",
+        "Teak",
+        "Maple"
+      ],
+      "answer": "Teak"
+    },
+    {
+      "question": "What type of forest is typically found at higher elevations in Timor-Leste?",
+      "choices": [
+        "Mangrove forest",
+        "Lowland tropical rainforest",
+        "Montane forest",
+        "Deciduous forest"
+      ],
+      "answer": "Montane forest"
+    },
+    {
+      "question": "Which animal species is known for its presence in Timor-Leste's coastal areas?",
+      "choices": [
+        "Mountain goat",
+        "Saltwater crocodile",
+        "Snow leopard",
+        "Panda"
+      ],
+      "answer": "Saltwater crocodile"
+    },
+    {
+      "question": "What is the approximate number of plant species found in Timor-Leste?",
+      "choices": [
+        "500",
+        "1,000",
+        "1,500",
+        "2,000"
+      ],
+      "answer": "1,500"
+    },
+    {
+      "question": "Which traditional practice aligns well with modern bushcraft principles?",
+      "choices": [
+        "Clear-cutting forests",
+        "Overfishing",
+        "Selective harvesting of plants",
+        "Intensive monoculture farming"
+      ],
+      "answer": "Selective harvesting of plants"
+    },
+    {
+      "question": "What is a key benefit of learning bushcraft skills in Timor-Leste?",
+      "choices": [
+        "Increased urbanization",
+        "Deeper connection to the natural world",
+        "Promotion of industrial development",
+        "Reduction in traditional knowledge"
+      ],
+      "answer": "Deeper connection to the natural world"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of bushcraft skills?",
+      "choices": [
+        "Fire-making",
+        "Shelter construction",
+        "Wildlife tracking",
+        "Computer programming"
+      ],
+      "answer": "Computer programming"
+    },
+    {
+      "question": "What type of ecosystem supports mangrove forests in Timor-Leste?",
+      "choices": [
+        "Mountain",
+        "Desert",
+        "Coastal",
+        "Tundra"
+      ],
+      "answer": "Coastal"
+    },
+    {
+      "question": "Which of the following is a traditional farming technique mentioned in the text?",
+      "choices": [
+        "Hydroponics",
+        "Vertical farming",
+        "Rotational farming",
+        "Aquaponics"
+      ],
+      "answer": "Rotational farming"
+    },
+    {
+      "question": "What is the primary threat to sandalwood in Timor-Leste?",
+      "choices": [
+        "Overexploitation",
+        "Climate change",
+        "Invasive species",
+        "Urbanization"
+      ],
+      "answer": "Overexploitation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a Leave No Trace principle adapted for Timor-Leste?",
+      "choices": [
+        "Respect local communities and their land use",
+        "Use established fire rings when available",
+        "Build permanent structures for future use",
+        "Be aware of dangerous species"
+      ],
+      "answer": "Build permanent structures for future use"
+    },
+    {
+      "question": "What is the conservation status of sandalwood in Timor-Leste?",
+      "choices": [
+        "Extinct",
+        "Least Concern",
+        "Vulnerable",
+        "Thriving"
+      ],
+      "answer": "Vulnerable"
+    },
+    {
+      "question": "Which of the following is a proper waste disposal method in bushcraft?",
+      "choices": [
+        "Burying all trash",
+        "Burning plastic waste",
+        "Packing out all trash",
+        "Leaving organic waste behind"
+      ],
+      "answer": "Packing out all trash"
+    },
+    {
+      "question": "What is the recommended action when observing wildlife in Timor-Leste?",
+      "choices": [
+        "Feed them to gain their trust",
+        "Observe from a distance",
+        "Try to pet them",
+        "Use flash photography for better pictures"
+      ],
+      "answer": "Observe from a distance"
+    },
+    {
+      "question": "Which of the following is a potential use for sandalwood in bushcraft?",
+      "choices": [
+        "Building large structures",
+        "Carving small objects",
+        "Making ropes",
+        "Creating waterproof coatings"
+      ],
+      "answer": "Carving small objects"
+    },
+    {
+      "question": "What should be considered when camping on beaches in Timor-Leste?",
+      "choices": [
+        "Building permanent shelters",
+        "Digging deep holes for waste",
+        "Avoiding sea turtle nesting sites",
+        "Collecting live coral for souvenirs"
+      ],
+      "answer": "Avoiding sea turtle nesting sites"
+    },
+    {
+      "question": "Which of the following is a proper practice when foraging in Timor-Leste?",
+      "choices": [
+        "Harvesting all edible plants in an area",
+        "Collecting endangered species for study",
+        "Taking only what is needed and leaving some behind",
+        "Introducing non-native species for diversity"
+      ],
+      "answer": "Taking only what is needed and leaving some behind"
+    },
+    {
+      "question": "What is the recommended approach to fire-making in bushcraft?",
+      "choices": [
+        "Build large fires to ward off animals",
+        "Use only fallen, dead wood and burn it completely",
+        "Cut down green trees for better fuel",
+        "Leave fires burning when leaving camp"
+      ],
+      "answer": "Use only fallen, dead wood and burn it completely"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a major ecosystem in Timor-Leste?",
+      "choices": [
+        "Coral reefs",
+        "Montane forests",
+        "Mangrove forests",
+        "Savanna grasslands"
+      ],
+      "answer": "Savanna grasslands"
+    },
+    {
+      "question": "What is the primary reason for learning about local plant and animal species in bushcraft?",
+      "choices": [
+        "To collect rare specimens",
+        "To develop new medicines",
+        "To inform decisions about resources and hazards",
+        "To create detailed scientific catalogs"
+      ],
+      "answer": "To inform decisions about resources and hazards"
+    },
+    {
+      "question": "Which of the following is a recommended practice when washing in natural areas?",
+      "choices": [
+        "Use strong chemical soaps for better cleaning",
+        "Wash directly in water sources",
+        "Use biodegradable soap away from water sources",
+        "Create permanent bathing areas"
+      ],
+      "answer": "Use biodegradable soap away from water sources"
+    },
+    {
+      "question": "What is the significance of bushcraft skills in modern Timor-Leste?",
+      "choices": [
+        "They are no longer relevant",
+        "They represent valuable cultural heritage",
+        "They are only useful for military training",
+        "They hinder economic development"
+      ],
+      "answer": "They represent valuable cultural heritage"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential benefit of promoting bushcraft in Timor-Leste?",
+      "choices": [
+        "Sustainable tourism development",
+        "Environmental conservation",
+        "Cultural preservation",
+        "Rapid industrialization"
+      ],
+      "answer": "Rapid industrialization"
+    },
+    {
+      "question": "What is the recommended action when encountering cultural artifacts during bushcraft activities?",
+      "choices": [
+        "Collect them as souvenirs",
+        "Relocate them to a museum",
+        "Leave them in place and respect their significance",
+        "Sell them to fund conservation efforts"
+      ],
+      "answer": "Leave them in place and respect their significance"
+    }
+  ]
+}

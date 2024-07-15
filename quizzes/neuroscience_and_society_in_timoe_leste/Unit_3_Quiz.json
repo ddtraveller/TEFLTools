@@ -1,0 +1,305 @@
+{
+  "title": "Neuroscience of Decision-Making",
+  "questions": [
+    {
+      "question": "Which brain structure plays a crucial role in executive function and decision-making?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Prefrontal cortex",
+        "Cerebellum"
+      ],
+      "answer": "Prefrontal cortex"
+    },
+    {
+      "question": "What neurotransmitter is primarily associated with the reward pathway in decision-making?",
+      "choices": [
+        "Serotonin",
+        "Dopamine",
+        "Norepinephrine",
+        "GABA"
+      ],
+      "answer": "Dopamine"
+    },
+    {
+      "question": "Which brain structure is most closely associated with processing emotions in decision-making?",
+      "choices": [
+        "Thalamus",
+        "Amygdala",
+        "Basal ganglia",
+        "Hypothalamus"
+      ],
+      "answer": "Amygdala"
+    },
+    {
+      "question": "What is the interdisciplinary field that studies how cultural values, practices, and beliefs shape and are shaped by the mind, brain, and genes?",
+      "choices": [
+        "Neuroanthropology",
+        "Cognitive neuroscience",
+        "Cultural psychology",
+        "Cultural neuroscience"
+      ],
+      "answer": "Cultural neuroscience"
+    },
+    {
+      "question": "Which of the following is NOT a typical objective of studying the neuroscience of decision-making?",
+      "choices": [
+        "Understanding neural mechanisms of decision-making",
+        "Exploring cultural influences on decision-making processes",
+        "Determining the best decisions for individuals to make",
+        "Examining emotional influences on decision-making"
+      ],
+      "answer": "Determining the best decisions for individuals to make"
+    },
+    {
+      "question": "What is the primary function of the reward pathway in the brain?",
+      "choices": [
+        "To process visual information",
+        "To regulate sleep cycles",
+        "To motivate behavior through positive reinforcement",
+        "To control motor functions"
+      ],
+      "answer": "To motivate behavior through positive reinforcement"
+    },
+    {
+      "question": "How do emotions typically influence decision-making processes?",
+      "choices": [
+        "They have no impact on decision-making",
+        "They always lead to better decisions",
+        "They can override rational thinking",
+        "They only affect decisions in emergency situations"
+      ],
+      "answer": "They can override rational thinking"
+    },
+    {
+      "question": "What is a key focus of cultural neuroscience in relation to decision-making?",
+      "choices": [
+        "Proving that all cultures make decisions the same way",
+        "Exploring how cultural background shapes neural pathways",
+        "Determining which culture makes the best decisions",
+        "Eliminating cultural influences on decision-making"
+      ],
+      "answer": "Exploring how cultural background shapes neural pathways"
+    },
+    {
+      "question": "In the context of the course, what is the purpose of analyzing case studies of Timorese community leadership?",
+      "choices": [
+        "To criticize Timorese leadership styles",
+        "To apply Western decision-making models to Timorese culture",
+        "To identify cultural, emotional, and neural factors influencing decision-making",
+        "To prove that all cultures make decisions in the same way"
+      ],
+      "answer": "To identify cultural, emotional, and neural factors influencing decision-making"
+    },
+    {
+      "question": "What is the primary goal of role-play exercises demonstrating cultural differences in decision-making?",
+      "choices": [
+        "To entertain the class",
+        "To prove the superiority of certain cultural decision-making styles",
+        "To practice acting skills",
+        "To illustrate and analyze how cultural factors influence decision-making processes"
+      ],
+      "answer": "To illustrate and analyze how cultural factors influence decision-making processes"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a component of the brain's reward pathway?",
+      "choices": [
+        "Nucleus accumbens",
+        "Ventral tegmental area",
+        "Cerebellum",
+        "Prefrontal cortex"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "How does cultural neuroscience suggest that culture influences decision-making?",
+      "choices": [
+        "It doesn't; decision-making is purely biological",
+        "By shaping neural pathways and cognitive processes over time",
+        "By directly controlling brain chemistry",
+        "Only through conscious, deliberate choices"
+      ],
+      "answer": "By shaping neural pathways and cognitive processes over time"
+    },
+    {
+      "question": "What is the significance of studying decision-making in the context of Timorese culture?",
+      "choices": [
+        "To prove that Timorese decision-making is inferior",
+        "To understand how cultural factors unique to Timor-Leste influence neural processes",
+        "To impose Western decision-making models on Timorese society",
+        "To show that all cultures make decisions identically"
+      ],
+      "answer": "To understand how cultural factors unique to Timor-Leste influence neural processes"
+    },
+    {
+      "question": "How might traditional Timorese beliefs potentially influence decision-making processes?",
+      "choices": [
+        "They have no impact on modern decision-making",
+        "By shaping cultural values and social norms that affect neural pathways",
+        "By directly altering brain chemistry",
+        "Only by slowing down the decision-making process"
+      ],
+      "answer": "By shaping cultural values and social norms that affect neural pathways"
+    },
+    {
+      "question": "What role does the amygdala play in decision-making?",
+      "choices": [
+        "It is responsible for all rational thought",
+        "It processes emotions that can influence decisions",
+        "It has no role in decision-making",
+        "It only activates during financial decisions"
+      ],
+      "answer": "It processes emotions that can influence decisions"
+    },
+    {
+      "question": "How might understanding the neuroscience of decision-making be applied in Timorese society?",
+      "choices": [
+        "To replace traditional decision-making processes entirely",
+        "To inform educational practices and policy-making",
+        "To prove the superiority of Western decision-making models",
+        "It has no practical applications in Timorese society"
+      ],
+      "answer": "To inform educational practices and policy-making"
+    },
+    {
+      "question": "What is the purpose of studying emotional influences on decision-making?",
+      "choices": [
+        "To eliminate emotions from the decision-making process",
+        "To understand how emotions can both help and hinder effective decisions",
+        "To prove that all decisions should be based purely on logic",
+        "To show that emotional decisions are always superior"
+      ],
+      "answer": "To understand how emotions can both help and hinder effective decisions"
+    },
+    {
+      "question": "How does dopamine function in the decision-making process?",
+      "choices": [
+        "It has no role in decision-making",
+        "It only functions during negative decisions",
+        "It plays a key role in reward and motivation",
+        "It directly makes decisions for us"
+      ],
+      "answer": "It plays a key role in reward and motivation"
+    },
+    {
+      "question": "What is a potential benefit of understanding cultural influences on decision-making in Timor-Leste?",
+      "choices": [
+        "To eliminate all cultural influences on decisions",
+        "To impose Western decision-making models",
+        "To develop more culturally appropriate and effective policies and interventions",
+        "To prove that Timorese decision-making is inferior"
+      ],
+      "answer": "To develop more culturally appropriate and effective policies and interventions"
+    },
+    {
+      "question": "How might neuroscience insights into decision-making impact community leadership in Timor-Leste?",
+      "choices": [
+        "By replacing all traditional leadership models",
+        "By providing additional perspectives to enhance leadership effectiveness",
+        "It would have no impact on leadership",
+        "By proving that scientific approaches are always superior"
+      ],
+      "answer": "By providing additional perspectives to enhance leadership effectiveness"
+    },
+    {
+      "question": "What is the significance of studying both emotional and cultural influences on decision-making?",
+      "choices": [
+        "To prove that one factor is more important than the other",
+        "To understand the complex interplay between emotions, culture, and neural processes",
+        "To show that they have no real impact on decisions",
+        "To eliminate these influences from decision-making"
+      ],
+      "answer": "To understand the complex interplay between emotions, culture, and neural processes"
+    },
+    {
+      "question": "How might understanding the neuroscience of decision-making impact educational practices in Timor-Leste?",
+      "choices": [
+        "It would have no impact on education",
+        "By completely replacing traditional teaching methods",
+        "By informing teaching strategies that align with how the brain makes decisions",
+        "By proving that Western educational models are superior"
+      ],
+      "answer": "By informing teaching strategies that align with how the brain makes decisions"
+    },
+    {
+      "question": "What is a potential challenge in applying neuroscience insights to decision-making in Timorese culture?",
+      "choices": [
+        "Neuroscience is not applicable to non-Western cultures",
+        "Balancing scientific insights with cultural sensitivity and traditional practices",
+        "Timorese brains are fundamentally different and cannot be studied",
+        "There are no challenges; neuroscience insights are universally applicable"
+      ],
+      "answer": "Balancing scientific insights with cultural sensitivity and traditional practices"
+    },
+    {
+      "question": "How does the prefrontal cortex contribute to decision-making?",
+      "choices": [
+        "It has no role in decision-making",
+        "It only processes visual information related to decisions",
+        "It is involved in planning, reasoning, and weighing consequences",
+        "It solely controls emotional responses to decisions"
+      ],
+      "answer": "It is involved in planning, reasoning, and weighing consequences"
+    },
+    {
+      "question": "What is the purpose of studying cultural neuroscience in the context of decision-making?",
+      "choices": [
+        "To prove that all cultures make decisions identically",
+        "To show that Western decision-making is superior",
+        "To understand how cultural factors shape neural processes and decision-making",
+        "To eliminate cultural influences on decision-making"
+      ],
+      "answer": "To understand how cultural factors shape neural processes and decision-making"
+    },
+    {
+      "question": "How might traditional Timorese healing practices relate to the neuroscience of decision-making?",
+      "choices": [
+        "They have no relation to neuroscience",
+        "They could provide insights into culturally-specific decision-making processes",
+        "They should be completely replaced by neuroscientific approaches",
+        "They prove that neuroscience is irrelevant in Timorese culture"
+      ],
+      "answer": "They could provide insights into culturally-specific decision-making processes"
+    },
+    {
+      "question": "What is the potential value of conducting neuroscience research on decision-making in Timor-Leste?",
+      "choices": [
+        "To prove that Timorese decision-making is inferior",
+        "To replace all traditional decision-making processes",
+        "To gain insights into culturally-specific neural processes and inform local policies",
+        "There is no value in conducting such research"
+      ],
+      "answer": "To gain insights into culturally-specific neural processes and inform local policies"
+    },
+    {
+      "question": "How might understanding the neuroscience of decision-making impact conflict resolution in Timorese communities?",
+      "choices": [
+        "It would have no impact on conflict resolution",
+        "By providing insights into the neural bases of decision-making in conflict situations",
+        "By replacing all traditional conflict resolution methods",
+        "By proving that scientific approaches are always superior in resolving conflicts"
+      ],
+      "answer": "By providing insights into the neural bases of decision-making in conflict situations"
+    },
+    {
+      "question": "What is the significance of studying both individual and collective decision-making processes in Timorese culture?",
+      "choices": [
+        "To prove that one is superior to the other",
+        "To understand the interplay between individual neural processes and cultural collective practices",
+        "To show that they are completely unrelated",
+        "To eliminate collective decision-making in favor of individual choices"
+      ],
+      "answer": "To understand the interplay between individual neural processes and cultural collective practices"
+    },
+    {
+      "question": "How might neuroscience insights into decision-making be applied in Timorese economic development strategies?",
+      "choices": [
+        "They have no relevance to economic development",
+        "By completely replacing traditional economic practices",
+        "By informing policies that consider both neural processes and cultural factors in economic decision-making",
+        "To prove that Western economic models are universally superior"
+      ],
+      "answer": "By informing policies that consider both neural processes and cultural factors in economic decision-making"
+    }
+  ]
+}

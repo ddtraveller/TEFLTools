@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Fisheries Management in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary goal of sustainable fisheries management?",
+      "choices": [
+        "Maximizing short-term profits",
+        "Maintaining fish populations for long-term use",
+        "Eliminating all commercial fishing",
+        "Increasing fish consumption"
+      ],
+      "answer": "Maintaining fish populations for long-term use"
+    },
+    {
+      "question": "Which of the following is a sustainable fishing method often used in Timor-Leste?",
+      "choices": [
+        "Dynamite fishing",
+        "Bottom trawling",
+        "Pole-and-line fishing",
+        "Electrofishing"
+      ],
+      "answer": "Pole-and-line fishing"
+    },
+    {
+      "question": "What is bycatch?",
+      "choices": [
+        "The main species targeted by fishers",
+        "Unwanted marine creatures caught during fishing",
+        "A type of fishing net",
+        "The total amount of fish caught in a season"
+      ],
+      "answer": "Unwanted marine creatures caught during fishing"
+    },
+    {
+      "question": "What is a closed season in fisheries management?",
+      "choices": [
+        "A period when all fishing is prohibited",
+        "A season when fish prices are low",
+        "A time when certain species cannot be fished to allow reproduction",
+        "The off-season for tourism in coastal areas"
+      ],
+      "answer": "A time when certain species cannot be fished to allow reproduction"
+    },
+    {
+      "question": "Which international agreement is Timor-Leste part of regarding marine conservation?",
+      "choices": [
+        "Arctic Council",
+        "Mediterranean Action Plan",
+        "Coral Triangle Initiative",
+        "Baltic Sea Action Plan"
+      ],
+      "answer": "Coral Triangle Initiative"
+    },
+    {
+      "question": "What does 'mesh size' refer to in fishing regulations?",
+      "choices": [
+        "The size of fishing boats",
+        "The openings in a fishing net",
+        "The minimum size of fish that can be caught",
+        "The distance between fishing areas"
+      ],
+      "answer": "The openings in a fishing net"
+    },
+    {
+      "question": "What is overfishing?",
+      "choices": [
+        "Catching more fish than can be sold",
+        "Using too many fishing boats in one area",
+        "Catching fish faster than they can reproduce",
+        "Fishing in international waters"
+      ],
+      "answer": "Catching fish faster than they can reproduce"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a sustainable fishing method?",
+      "choices": [
+        "Trap fishing",
+        "Bottom trawling",
+        "Pole-and-line fishing",
+        "Sustainable net fishing practices"
+      ],
+      "answer": "Bottom trawling"
+    },
+    {
+      "question": "What is a quota system in fisheries management?",
+      "choices": [
+        "A limit on the number of fishing licenses issued",
+        "A system for grading fish quality",
+        "Limits on the amount of fish that can be caught in a specific time period",
+        "A method for allocating fishing areas to different communities"
+      ],
+      "answer": "Limits on the amount of fish that can be caught in a specific time period"
+    },
+    {
+      "question": "Which type of fishery is most common in Timor-Leste?",
+      "choices": [
+        "Industrial",
+        "Artisanal",
+        "Recreational",
+        "Deep-sea"
+      ],
+      "answer": "Artisanal"
+    },
+    {
+      "question": "What is sustainable yield in the context of fisheries?",
+      "choices": [
+        "The maximum amount of fish that can be caught without depleting the population",
+        "The total weight of fish caught in a year",
+        "The profit made from selling fish",
+        "The number of fish farms in operation"
+      ],
+      "answer": "The maximum amount of fish that can be caught without depleting the population"
+    },
+    {
+      "question": "Which of the following is a key challenge in enforcing fisheries regulations in Timor-Leste?",
+      "choices": [
+        "Excessive number of enforcement officers",
+        "Lack of international cooperation",
+        "Limited resources for monitoring and patrolling",
+        "Absence of fishing communities"
+      ],
+      "answer": "Limited resources for monitoring and patrolling"
+    },
+    {
+      "question": "What role do marine protected areas play in sustainable fisheries management?",
+      "choices": [
+        "They increase fish prices",
+        "They provide safe zones for fish populations to recover",
+        "They allow unrestricted fishing",
+        "They promote industrial fishing methods"
+      ],
+      "answer": "They provide safe zones for fish populations to recover"
+    },
+    {
+      "question": "Which of the following is an important aspect of community-based fisheries management?",
+      "choices": [
+        "Excluding local communities from decision-making",
+        "Focusing solely on export markets",
+        "Incorporating traditional ecological knowledge",
+        "Promoting large-scale industrial fishing"
+      ],
+      "answer": "Incorporating traditional ecological knowledge"
+    },
+    {
+      "question": "What is the primary purpose of fisheries regulations?",
+      "choices": [
+        "To increase government revenue",
+        "To promote tourism",
+        "To ensure long-term sustainability of fish stocks",
+        "To reduce fish consumption"
+      ],
+      "answer": "To ensure long-term sustainability of fish stocks"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a sustainable fisheries management plan?",
+      "choices": [
+        "Stock assessment",
+        "Catch limits",
+        "Gear restrictions",
+        "Unlimited fishing licenses"
+      ],
+      "answer": "Unlimited fishing licenses"
+    },
+    {
+      "question": "What is the importance of monitoring fish markets in sustainable fisheries management?",
+      "choices": [
+        "To set fish prices",
+        "To assess catch composition and compliance with regulations",
+        "To promote fish consumption",
+        "To increase competition among fishers"
+      ],
+      "answer": "To assess catch composition and compliance with regulations"
+    },
+    {
+      "question": "Which of the following is a potential benefit of sustainable fishing practices for local communities?",
+      "choices": [
+        "Immediate increase in fish catch",
+        "Reduced need for fishing skills",
+        "Long-term food security",
+        "Elimination of traditional fishing methods"
+      ],
+      "answer": "Long-term food security"
+    },
+    {
+      "question": "What role does education play in sustainable fisheries management?",
+      "choices": [
+        "It is not relevant to fisheries management",
+        "It helps communities understand and support conservation efforts",
+        "It discourages people from fishing",
+        "It focuses only on scientific research"
+      ],
+      "answer": "It helps communities understand and support conservation efforts"
+    },
+    {
+      "question": "Which of the following is an example of a destructive fishing practice?",
+      "choices": [
+        "Using fish traps",
+        "Handline fishing",
+        "Cyanide fishing",
+        "Spearfishing"
+      ],
+      "answer": "Cyanide fishing"
+    },
+    {
+      "question": "What is the purpose of establishing a closed season for certain fish species?",
+      "choices": [
+        "To increase fish prices",
+        "To allow fish populations to reproduce and recover",
+        "To promote tourism in coastal areas",
+        "To reduce fishing effort permanently"
+      ],
+      "answer": "To allow fish populations to reproduce and recover"
+    },
+    {
+      "question": "Which of the following is a key consideration when developing a sustainable fisheries management plan for a local community?",
+      "choices": [
+        "Maximizing short-term profits",
+        "Ignoring traditional fishing practices",
+        "Balancing ecological sustainability with community needs",
+        "Promoting industrial fishing methods"
+      ],
+      "answer": "Balancing ecological sustainability with community needs"
+    },
+    {
+      "question": "What is the significance of mangrove ecosystems for sustainable fisheries?",
+      "choices": [
+        "They have no impact on fisheries",
+        "They provide breeding and nursery grounds for many fish species",
+        "They reduce fish populations",
+        "They are only important for tourism"
+      ],
+      "answer": "They provide breeding and nursery grounds for many fish species"
+    },
+    {
+      "question": "Which of the following is a potential negative impact of overfishing?",
+      "choices": [
+        "Increased biodiversity",
+        "Improved ecosystem health",
+        "Disruption of marine food webs",
+        "Enhanced coastal protection"
+      ],
+      "answer": "Disruption of marine food webs"
+    },
+    {
+      "question": "What is the role of scientific research in sustainable fisheries management?",
+      "choices": [
+        "It is not necessary for fisheries management",
+        "It provides data for informed decision-making",
+        "It only focuses on increasing fish catch",
+        "It aims to eliminate traditional fishing practices"
+      ],
+      "answer": "It provides data for informed decision-making"
+    },
+    {
+      "question": "Which of the following is an example of a community-based conservation initiative in fisheries management?",
+      "choices": [
+        "Government-imposed fishing bans",
+        "Large-scale industrial fishing",
+        "Locally managed marine areas",
+        "International fishing fleets"
+      ],
+      "answer": "Locally managed marine areas"
+    },
+    {
+      "question": "What is the importance of considering traditional ecological knowledge in fisheries management?",
+      "choices": [
+        "It is outdated and should be ignored",
+        "It provides valuable local insights and promotes community engagement",
+        "It only applies to ancient fishing methods",
+        "It contradicts all scientific findings"
+      ],
+      "answer": "It provides valuable local insights and promotes community engagement"
+    },
+    {
+      "question": "Which of the following is a potential benefit of implementing a quota system in fisheries?",
+      "choices": [
+        "Unlimited fishing opportunities",
+        "Preventing overfishing of specific species",
+        "Increasing competition among fishers",
+        "Promoting use of destructive fishing methods"
+      ],
+      "answer": "Preventing overfishing of specific species"
+    },
+    {
+      "question": "What role do NGOs typically play in marine conservation and sustainable fisheries in Timor-Leste?",
+      "choices": [
+        "They have no involvement in fisheries management",
+        "They focus solely on increasing fish production",
+        "They often support community-based initiatives and provide technical assistance",
+        "They promote industrial fishing methods"
+      ],
+      "answer": "They often support community-based initiatives and provide technical assistance"
+    },
+    {
+      "question": "Which of the following is an important consideration when designing marine protected areas for fisheries management?",
+      "choices": [
+        "Excluding all human activities",
+        "Focusing only on tourist attractions",
+        "Balancing conservation goals with sustainable use",
+        "Promoting intensive aquaculture"
+      ],
+      "answer": "Balancing conservation goals with sustainable use"
+    }
+  ]
+}

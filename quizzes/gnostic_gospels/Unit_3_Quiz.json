@@ -1,0 +1,305 @@
+{
+  "title": "The Gospel of Thomas",
+  "questions": [
+    {
+      "question": "What is the primary format of the Gospel of Thomas?",
+      "choices": [
+        "A narrative account of Jesus' life",
+        "A collection of sayings attributed to Jesus",
+        "A series of letters to early Christian communities",
+        "A prophetic vision of the end times"
+      ],
+      "answer": "A collection of sayings attributed to Jesus"
+    },
+    {
+      "question": "How many sayings are contained in the Gospel of Thomas?",
+      "choices": [
+        "66",
+        "114",
+        "40",
+        "150"
+      ],
+      "answer": "114"
+    },
+    {
+      "question": "Where was the Gospel of Thomas discovered?",
+      "choices": [
+        "Dead Sea Scrolls",
+        "Vatican Archives",
+        "Nag Hammadi library",
+        "Qumran Caves"
+      ],
+      "answer": "Nag Hammadi library"
+    },
+    {
+      "question": "In what language was the discovered version of the Gospel of Thomas written?",
+      "choices": [
+        "Greek",
+        "Aramaic",
+        "Hebrew",
+        "Coptic"
+      ],
+      "answer": "Coptic"
+    },
+    {
+      "question": "What term is used to describe the type of gospel that the Gospel of Thomas represents?",
+      "choices": [
+        "Narrative gospel",
+        "Epistolary gospel",
+        "Sayings gospel",
+        "Apocalyptic gospel"
+      ],
+      "answer": "Sayings gospel"
+    },
+    {
+      "question": "Which of the following is NOT a key theme in the Gospel of Thomas?",
+      "choices": [
+        "Self-knowledge",
+        "The kingdom of God as a present reality",
+        "The crucifixion and resurrection of Jesus",
+        "Transformation and spiritual awakening"
+      ],
+      "answer": "The crucifixion and resurrection of Jesus"
+    },
+    {
+      "question": "How does the Gospel of Thomas portray the kingdom of God?",
+      "choices": [
+        "As a future event",
+        "As a physical place",
+        "As a present reality",
+        "As a political kingdom"
+      ],
+      "answer": "As a present reality"
+    },
+    {
+      "question": "What is the significance of the opening statement in the Gospel of Thomas?",
+      "choices": [
+        "It establishes the text as a historical account",
+        "It claims the sayings are secret teachings from Jesus",
+        "It identifies the author as one of the twelve apostles",
+        "It dates the composition of the text"
+      ],
+      "answer": "It claims the sayings are secret teachings from Jesus"
+    },
+    {
+      "question": "Which concept is emphasized as a path to salvation in the Gospel of Thomas?",
+      "choices": [
+        "Faith alone",
+        "Good works",
+        "Self-knowledge",
+        "Ritual observance"
+      ],
+      "answer": "Self-knowledge"
+    },
+    {
+      "question": "What term is often associated with the type of knowledge emphasized in the Gospel of Thomas?",
+      "choices": [
+        "Sophia",
+        "Gnosis",
+        "Logos",
+        "Pistis"
+      ],
+      "answer": "Gnosis"
+    },
+    {
+      "question": "How does the structure of the Gospel of Thomas differ from canonical gospels?",
+      "choices": [
+        "It includes more parables",
+        "It has a clear chronological order",
+        "It lacks a narrative framework",
+        "It focuses more on Jesus' miracles"
+      ],
+      "answer": "It lacks a narrative framework"
+    },
+    {
+      "question": "What is notably absent from the Gospel of Thomas compared to canonical gospels?",
+      "choices": [
+        "Parables",
+        "Sayings of Jesus",
+        "Mention of the disciples",
+        "Passion narrative"
+      ],
+      "answer": "Passion narrative"
+    },
+    {
+      "question": "Which of the following best describes the relationship between the Gospel of Thomas and canonical gospels?",
+      "choices": [
+        "They are completely different with no overlap",
+        "They share some sayings but have significant differences",
+        "They are identical in content and structure",
+        "The Gospel of Thomas is a summary of the canonical gospels"
+      ],
+      "answer": "They share some sayings but have significant differences"
+    },
+    {
+      "question": "What is the 'Q source' in relation to the Gospel of Thomas?",
+      "choices": [
+        "Another name for the Gospel of Thomas",
+        "A hypothetical collection of sayings used by Matthew and Luke",
+        "The original Greek version of Thomas",
+        "A commentary on the Gospel of Thomas"
+      ],
+      "answer": "A hypothetical collection of sayings used by Matthew and Luke"
+    },
+    {
+      "question": "Which statement best reflects the scholarly debate about the Gospel of Thomas?",
+      "choices": [
+        "All scholars agree it predates the canonical gospels",
+        "It is universally accepted as a Gnostic text",
+        "There is debate about its date of composition and relationship to early Christianity",
+        "Scholars unanimously reject its historical value"
+      ],
+      "answer": "There is debate about its date of composition and relationship to early Christianity"
+    },
+    {
+      "question": "What does the Gospel of Thomas suggest about the nature of spiritual transformation?",
+      "choices": [
+        "It occurs through ritual observance",
+        "It involves a radical change in perspective",
+        "It is only possible after death",
+        "It requires adherence to strict moral laws"
+      ],
+      "answer": "It involves a radical change in perspective"
+    },
+    {
+      "question": "How does the Gospel of Thomas generally present Jesus?",
+      "choices": [
+        "As a political revolutionary",
+        "As a dispenser of hidden wisdom",
+        "As a miracle worker",
+        "As a suffering messiah"
+      ],
+      "answer": "As a dispenser of hidden wisdom"
+    },
+    {
+      "question": "What concept does the Gospel of Thomas emphasize regarding the divine?",
+      "choices": [
+        "The Trinity",
+        "God's wrath and judgment",
+        "The kingdom as an inner reality",
+        "The need for animal sacrifices"
+      ],
+      "answer": "The kingdom as an inner reality"
+    },
+    {
+      "question": "Which of the following parables appears in both the Gospel of Thomas and the canonical gospels?",
+      "choices": [
+        "The Prodigal Son",
+        "The Good Samaritan",
+        "The Mustard Seed",
+        "The Rich Man and Lazarus"
+      ],
+      "answer": "The Mustard Seed"
+    },
+    {
+      "question": "What does the Gospel of Thomas suggest about the role of women in spiritual matters?",
+      "choices": [
+        "Women are excluded from spiritual knowledge",
+        "Women must become male to enter the kingdom",
+        "Women have equal access to spiritual wisdom",
+        "Women are superior to men in spiritual matters"
+      ],
+      "answer": "Women have equal access to spiritual wisdom"
+    },
+    {
+      "question": "How does the Gospel of Thomas view the material world?",
+      "choices": [
+        "As inherently good and to be embraced",
+        "As neutral and unimportant",
+        "As something to be rejected or transcended",
+        "As the only reality that matters"
+      ],
+      "answer": "As something to be rejected or transcended"
+    },
+    {
+      "question": "What is the significance of the name 'Didymos Judas Thomas' in the opening of the text?",
+      "choices": [
+        "It identifies the author as the apostle Thomas",
+        "It's a pseudonym for Jesus himself",
+        "It refers to a well-known scribe of the time",
+        "It's a symbolic name representing wisdom"
+      ],
+      "answer": "It identifies the author as the apostle Thomas"
+    },
+    {
+      "question": "How does the Gospel of Thomas generally present salvation?",
+      "choices": [
+        "As achieved through faith in Jesus' death and resurrection",
+        "As attained through correct interpretation of scripture",
+        "As realized through inner spiritual knowledge and transformation",
+        "As granted only to a predestined elect"
+      ],
+      "answer": "As realized through inner spiritual knowledge and transformation"
+    },
+    {
+      "question": "What is the significance of the number 114 in relation to the Gospel of Thomas?",
+      "choices": [
+        "It's the age of the author when writing the text",
+        "It's the number of disciples mentioned in the text",
+        "It's the total number of sayings in the gospel",
+        "It's a symbolic number representing completeness"
+      ],
+      "answer": "It's the total number of sayings in the gospel"
+    },
+    {
+      "question": "Which of the following best describes the style of Jesus' sayings in the Gospel of Thomas?",
+      "choices": [
+        "Long, detailed narratives",
+        "Poetic hymns and songs",
+        "Short, often cryptic aphorisms",
+        "Systematic theological arguments"
+      ],
+      "answer": "Short, often cryptic aphorisms"
+    },
+    {
+      "question": "What is the general scholarly consensus on the original language of the Gospel of Thomas?",
+      "choices": [
+        "It was originally written in Coptic",
+        "It was originally written in Greek",
+        "It was originally written in Aramaic",
+        "There is no consensus on the original language"
+      ],
+      "answer": "It was originally written in Greek"
+    },
+    {
+      "question": "How does the Gospel of Thomas typically introduce each saying?",
+      "choices": [
+        "With a description of the setting",
+        "With the phrase 'Jesus said'",
+        "With a question from a disciple",
+        "With a reference to Old Testament scripture"
+      ],
+      "answer": "With the phrase 'Jesus said'"
+    },
+    {
+      "question": "What is the significance of the Gospel of Thomas for understanding early Christianity?",
+      "choices": [
+        "It proves that all early Christians were Gnostics",
+        "It shows the diversity of early Christian thought and literature",
+        "It disproves the authenticity of the canonical gospels",
+        "It provides a complete biography of Jesus"
+      ],
+      "answer": "It shows the diversity of early Christian thought and literature"
+    },
+    {
+      "question": "How does the Gospel of Thomas generally view the concept of time and eschatology?",
+      "choices": [
+        "It focuses on a future judgment day",
+        "It emphasizes the present moment and immediate spiritual realization",
+        "It predicts specific dates for the end times",
+        "It denies the existence of time altogether"
+      ],
+      "answer": "It emphasizes the present moment and immediate spiritual realization"
+    },
+    {
+      "question": "What is the significance of the Gospel of Thomas for contemporary spirituality?",
+      "choices": [
+        "It is irrelevant to modern religious practice",
+        "It provides a blueprint for organized church structures",
+        "It resonates with those seeking personal spiritual insight and transformation",
+        "It offers detailed predictions about the future"
+      ],
+      "answer": "It resonates with those seeking personal spiritual insight and transformation"
+    }
+  ]
+}

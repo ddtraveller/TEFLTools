@@ -1,0 +1,305 @@
+{
+  "title": "Marine Conservation Strategies in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a Marine Protected Area (MPA)?",
+      "choices": [
+        "To increase fish populations for commercial fishing",
+        "To provide recreational areas for tourists",
+        "To achieve long-term conservation of nature and ecosystem services",
+        "To restrict all human activities in marine areas"
+      ],
+      "answer": "To achieve long-term conservation of nature and ecosystem services"
+    },
+    {
+      "question": "Which of the following is an example of a Marine Protected Area in Timor-Leste?",
+      "choices": [
+        "Great Barrier Reef Marine Park",
+        "Nino Konis Santana National Park",
+        "Galapagos Marine Reserve",
+        "Coral Triangle Initiative"
+      ],
+      "answer": "Nino Konis Santana National Park"
+    },
+    {
+      "question": "What is a 'no-take zone' in the context of marine conservation?",
+      "choices": [
+        "An area where only traditional fishing methods are allowed",
+        "A zone where the removal of marine life is strictly prohibited",
+        "A region where only scientific research is permitted",
+        "An area where sustainable fishing is encouraged"
+      ],
+      "answer": "A zone where the removal of marine life is strictly prohibited"
+    },
+    {
+      "question": "What is 'Tara Bandu' in Timor-Leste?",
+      "choices": [
+        "A type of fishing net",
+        "A marine species endemic to Timor-Leste",
+        "A traditional Timorese conservation practice",
+        "A government agency responsible for marine protection"
+      ],
+      "answer": "A traditional Timorese conservation practice"
+    },
+    {
+      "question": "Which international agreement is relevant to marine conservation efforts in Timor-Leste?",
+      "choices": [
+        "Paris Agreement",
+        "Convention on Biological Diversity",
+        "Montreal Protocol",
+        "Kyoto Protocol"
+      ],
+      "answer": "Convention on Biological Diversity"
+    },
+    {
+      "question": "What is the primary goal of ecosystem-based management in marine conservation?",
+      "choices": [
+        "To maximize fish catches for economic benefit",
+        "To completely eliminate human impact on marine ecosystems",
+        "To maintain ecosystems in a healthy, productive, and resilient condition",
+        "To prioritize tourism development in coastal areas"
+      ],
+      "answer": "To maintain ecosystems in a healthy, productive, and resilient condition"
+    },
+    {
+      "question": "Which regional initiative is particularly relevant to marine conservation in Timor-Leste?",
+      "choices": [
+        "Mediterranean Action Plan",
+        "Baltic Sea Action Plan",
+        "Coral Triangle Initiative",
+        "Caribbean Challenge Initiative"
+      ],
+      "answer": "Coral Triangle Initiative"
+    },
+    {
+      "question": "What is a key benefit of community-based conservation initiatives?",
+      "choices": [
+        "They require less funding than government-led programs",
+        "They ensure local involvement and support for conservation efforts",
+        "They are always more effective than national policies",
+        "They eliminate the need for scientific research"
+      ],
+      "answer": "They ensure local involvement and support for conservation efforts"
+    },
+    {
+      "question": "What is a 'biodiversity hotspot'?",
+      "choices": [
+        "An area with a high concentration of endangered species",
+        "A region with significant biodiversity that is threatened by human activities",
+        "A location where new species are frequently discovered",
+        "An ecosystem with the highest number of species per square kilometer"
+      ],
+      "answer": "A region with significant biodiversity that is threatened by human activities"
+    },
+    {
+      "question": "Which of the following is NOT typically a type of zone found in a multi-use Marine Protected Area?",
+      "choices": [
+        "No-take zone",
+        "Sustainable use zone",
+        "Buffer zone",
+        "Unlimited exploitation zone"
+      ],
+      "answer": "Unlimited exploitation zone"
+    },
+    {
+      "question": "What does 'stakeholder engagement' refer to in marine conservation?",
+      "choices": [
+        "The process of involving people affected by conservation decisions",
+        "The financial investment of local businesses in conservation projects",
+        "The recruitment of volunteers for conservation activities",
+        "The participation of marine biologists in research projects"
+      ],
+      "answer": "The process of involving people affected by conservation decisions"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing Marine Protected Areas in Timor-Leste?",
+      "choices": [
+        "Lack of marine biodiversity",
+        "Excessive tourism pressure",
+        "Limited resources for enforcement and management",
+        "Absence of traditional fishing practices"
+      ],
+      "answer": "Limited resources for enforcement and management"
+    },
+    {
+      "question": "What is the primary goal of sustainable fisheries management?",
+      "choices": [
+        "To maximize short-term fish catches",
+        "To completely ban all fishing activities",
+        "To maintain fish populations while allowing for controlled harvesting",
+        "To promote industrial fishing methods"
+      ],
+      "answer": "To maintain fish populations while allowing for controlled harvesting"
+    },
+    {
+      "question": "Which of the following is an example of a community-based conservation initiative?",
+      "choices": [
+        "National legislation on fishing quotas",
+        "International treaties on marine protection",
+        "Local coral reef restoration projects led by villagers",
+        "Government-run marine research programs"
+      ],
+      "answer": "Local coral reef restoration projects led by villagers"
+    },
+    {
+      "question": "What role do Marine Protected Areas play in climate change mitigation?",
+      "choices": [
+        "They have no impact on climate change",
+        "They increase carbon emissions from the ocean",
+        "They help protect and enhance carbon sinks like seagrass beds",
+        "They accelerate sea level rise in protected areas"
+      ],
+      "answer": "They help protect and enhance carbon sinks like seagrass beds"
+    },
+    {
+      "question": "Which of the following is a key consideration when designing a Marine Protected Area?",
+      "choices": [
+        "Maximizing the area covered, regardless of ecological importance",
+        "Focusing solely on areas with high tourism potential",
+        "Balancing conservation goals with local community needs",
+        "Excluding all human activities from the entire protected area"
+      ],
+      "answer": "Balancing conservation goals with local community needs"
+    },
+    {
+      "question": "What is the significance of mangrove ecosystems in marine conservation?",
+      "choices": [
+        "They provide habitat for many marine species and protect coastlines",
+        "They are the primary food source for most marine mammals",
+        "They produce the majority of the ocean's oxygen",
+        "They are the main breeding grounds for tuna species"
+      ],
+      "answer": "They provide habitat for many marine species and protect coastlines"
+    },
+    {
+      "question": "How does overfishing impact marine ecosystems?",
+      "choices": [
+        "It has no significant impact on marine ecosystems",
+        "It leads to an increase in overall marine biodiversity",
+        "It can disrupt food webs and lead to ecosystem imbalances",
+        "It only affects commercially valuable fish species"
+      ],
+      "answer": "It can disrupt food webs and lead to ecosystem imbalances"
+    },
+    {
+      "question": "What is the role of scientific research in marine conservation strategies?",
+      "choices": [
+        "It is unnecessary for conservation efforts",
+        "It provides data to inform effective conservation policies and practices",
+        "It is only relevant for developed countries",
+        "It focuses exclusively on discovering new species"
+      ],
+      "answer": "It provides data to inform effective conservation policies and practices"
+    },
+    {
+      "question": "Which of the following is a potential benefit of well-managed marine tourism in Timor-Leste?",
+      "choices": [
+        "Increased pollution in coastal areas",
+        "Reduced need for marine conservation efforts",
+        "Economic incentives for local communities to protect marine resources",
+        "Elimination of traditional fishing practices"
+      ],
+      "answer": "Economic incentives for local communities to protect marine resources"
+    },
+    {
+      "question": "What is the primary goal of coral reef restoration projects?",
+      "choices": [
+        "To create artificial reefs for tourism",
+        "To increase fish populations for commercial fishing",
+        "To restore degraded reef ecosystems and enhance biodiversity",
+        "To prevent the formation of new coral reefs"
+      ],
+      "answer": "To restore degraded reef ecosystems and enhance biodiversity"
+    },
+    {
+      "question": "How can traditional ecological knowledge contribute to marine conservation in Timor-Leste?",
+      "choices": [
+        "It is irrelevant to modern conservation practices",
+        "It can provide valuable insights into sustainable resource use and local ecosystem dynamics",
+        "It only focuses on superstitions and should be disregarded",
+        "It is useful only for cultural preservation, not conservation"
+      ],
+      "answer": "It can provide valuable insights into sustainable resource use and local ecosystem dynamics"
+    },
+    {
+      "question": "What is the purpose of creating a 'marine spatial plan'?",
+      "choices": [
+        "To restrict all human activities in marine areas",
+        "To maximize fishing yields in all areas",
+        "To organize and balance different uses of marine resources in a sustainable manner",
+        "To promote industrial development in coastal regions"
+      ],
+      "answer": "To organize and balance different uses of marine resources in a sustainable manner"
+    },
+    {
+      "question": "Which of the following is NOT typically a focus of marine conservation education programs?",
+      "choices": [
+        "Raising awareness about marine biodiversity",
+        "Teaching sustainable fishing practices",
+        "Promoting the benefits of marine protected areas",
+        "Encouraging the use of single-use plastics"
+      ],
+      "answer": "Encouraging the use of single-use plastics"
+    },
+    {
+      "question": "What is the significance of seagrass beds in marine ecosystems?",
+      "choices": [
+        "They have no important ecological role",
+        "They serve as carbon sinks and provide habitat for many species",
+        "They are the primary food source for sharks",
+        "They prevent the formation of coral reefs"
+      ],
+      "answer": "They serve as carbon sinks and provide habitat for many species"
+    },
+    {
+      "question": "How can marine conservation strategies address the issue of plastic pollution?",
+      "choices": [
+        "By promoting the use of more durable plastics",
+        "By implementing beach clean-ups and reducing plastic use through education and policy",
+        "By dumping plastic waste in deeper ocean areas",
+        "By encouraging the use of biodegradable plastics in the ocean"
+      ],
+      "answer": "By implementing beach clean-ups and reducing plastic use through education and policy"
+    },
+    {
+      "question": "What is the role of international cooperation in marine conservation efforts in Timor-Leste?",
+      "choices": [
+        "It is unnecessary as Timor-Leste can manage its marine resources independently",
+        "It provides funding and expertise to support local conservation initiatives",
+        "It takes control of all marine resources away from Timor-Leste",
+        "It focuses solely on exploiting Timor-Leste's marine resources"
+      ],
+      "answer": "It provides funding and expertise to support local conservation initiatives"
+    },
+    {
+      "question": "Which of the following is a key challenge in enforcing marine conservation policies in Timor-Leste?",
+      "choices": [
+        "Excessive number of enforcement personnel",
+        "Lack of marine biodiversity to protect",
+        "Limited resources and capacity for monitoring and enforcement",
+        "Absence of international interest in Timor-Leste's marine ecosystems"
+      ],
+      "answer": "Limited resources and capacity for monitoring and enforcement"
+    },
+    {
+      "question": "What is the primary goal of sustainable fishing gear regulations?",
+      "choices": [
+        "To make fishing more difficult for local communities",
+        "To increase short-term fish catches",
+        "To minimize bycatch and habitat damage while allowing for sustainable harvesting",
+        "To promote the use of large-scale industrial fishing methods"
+      ],
+      "answer": "To minimize bycatch and habitat damage while allowing for sustainable harvesting"
+    },
+    {
+      "question": "How can marine protected areas contribute to food security in Timor-Leste?",
+      "choices": [
+        "By completely banning all forms of fishing",
+        "By allowing unrestricted fishing in all areas",
+        "By helping to maintain healthy fish populations that can support sustainable fishing",
+        "By importing all seafood from other countries"
+      ],
+      "answer": "By helping to maintain healthy fish populations that can support sustainable fishing"
+    }
+  ]
+}

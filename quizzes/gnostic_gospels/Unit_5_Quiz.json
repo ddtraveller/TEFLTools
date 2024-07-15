@@ -1,0 +1,305 @@
+{
+  "title": "The Secret Book of John",
+  "questions": [
+    {
+      "question": "What is the primary focus of the Secret Book of John?",
+      "choices": [
+        "A historical account of John the Apostle",
+        "A Gnostic creation myth and cosmology",
+        "A collection of sayings attributed to Jesus",
+        "A critique of orthodox Christianity"
+      ],
+      "answer": "A Gnostic creation myth and cosmology"
+    },
+    {
+      "question": "In the Secret Book of John, who is responsible for creating the material world?",
+      "choices": [
+        "The invisible Spirit",
+        "Sophia",
+        "Yaldabaoth",
+        "Barbelo"
+      ],
+      "answer": "Yaldabaoth"
+    },
+    {
+      "question": "What is the Pleroma in Gnostic thought?",
+      "choices": [
+        "The material world",
+        "The realm of evil spirits",
+        "The fullness of the divine realm",
+        "The human soul"
+      ],
+      "answer": "The fullness of the divine realm"
+    },
+    {
+      "question": "Who is Sophia in the Secret Book of John?",
+      "choices": [
+        "The supreme deity",
+        "The mother of Yaldabaoth",
+        "The first human",
+        "The wife of John"
+      ],
+      "answer": "The mother of Yaldabaoth"
+    },
+    {
+      "question": "What is a Demiurge in Gnostic belief?",
+      "choices": [
+        "A divine messenger",
+        "A lower divine being responsible for creating the material world",
+        "A human prophet",
+        "An angelic being"
+      ],
+      "answer": "A lower divine being responsible for creating the material world"
+    },
+    {
+      "question": "How does the Secret Book of John's creation story differ from Genesis?",
+      "choices": [
+        "It involves multiple divine beings",
+        "It describes creation in seven days",
+        "It portrays the creator as wholly good",
+        "It focuses on the creation of plants and animals"
+      ],
+      "answer": "It involves multiple divine beings"
+    },
+    {
+      "question": "What are Archons in Gnostic texts?",
+      "choices": [
+        "Divine messengers",
+        "Human rulers",
+        "Malevolent authorities in the material world",
+        "Heavenly bodies"
+      ],
+      "answer": "Malevolent authorities in the material world"
+    },
+    {
+      "question": "What is the significance of gnosis in the Secret Book of John?",
+      "choices": [
+        "It refers to scientific knowledge",
+        "It is a type of ritual practice",
+        "It is divine knowledge that leads to salvation",
+        "It is a form of political power"
+      ],
+      "answer": "It is divine knowledge that leads to salvation"
+    },
+    {
+      "question": "How is Yaldabaoth portrayed in the Secret Book of John?",
+      "choices": [
+        "As a benevolent creator",
+        "As an ignorant and arrogant being",
+        "As a wise teacher",
+        "As a human prophet"
+      ],
+      "answer": "As an ignorant and arrogant being"
+    },
+    {
+      "question": "What is the role of Barbelo in the Secret Book of John?",
+      "choices": [
+        "The first emanation from the invisible Spirit",
+        "The creator of the material world",
+        "A human disciple of John",
+        "The ruler of the Archons"
+      ],
+      "answer": "The first emanation from the invisible Spirit"
+    },
+    {
+      "question": "How does the Secret Book of John explain the existence of evil?",
+      "choices": [
+        "As a necessary balance to good",
+        "As a result of human free will",
+        "As a consequence of the material world's creation by a flawed being",
+        "As a test from the supreme deity"
+      ],
+      "answer": "As a consequence of the material world's creation by a flawed being"
+    },
+    {
+      "question": "What are Aeons in Gnostic cosmology?",
+      "choices": [
+        "Human spiritual leaders",
+        "Divine beings or emanations from the supreme deity",
+        "Evil spirits that oppose humanity",
+        "Physical planets in the universe"
+      ],
+      "answer": "Divine beings or emanations from the supreme deity"
+    },
+    {
+      "question": "How does the Secret Book of John view the material world?",
+      "choices": [
+        "As a perfect creation of a benevolent god",
+        "As an illusion to be transcended",
+        "As a flawed creation of a lower divine being",
+        "As the only true reality"
+      ],
+      "answer": "As a flawed creation of a lower divine being"
+    },
+    {
+      "question": "What is the ultimate goal for humans according to the Secret Book of John?",
+      "choices": [
+        "To accumulate material wealth",
+        "To achieve political power",
+        "To return to the Pleroma through gnosis",
+        "To multiply and populate the earth"
+      ],
+      "answer": "To return to the Pleroma through gnosis"
+    },
+    {
+      "question": "How does the Secret Book of John portray the God of the Old Testament?",
+      "choices": [
+        "As the supreme, benevolent deity",
+        "As Yaldabaoth, a lower, flawed creator",
+        "As Sophia, the divine wisdom",
+        "As Barbelo, the first emanation"
+      ],
+      "answer": "As Yaldabaoth, a lower, flawed creator"
+    },
+    {
+      "question": "What is the significance of the 'fall of Sophia' in the Secret Book of John?",
+      "choices": [
+        "It leads to the creation of the material world",
+        "It represents human sin",
+        "It describes the origin of death",
+        "It explains the creation of angels"
+      ],
+      "answer": "It leads to the creation of the material world"
+    },
+    {
+      "question": "How does the Secret Book of John view human beings?",
+      "choices": [
+        "As purely physical creatures",
+        "As spiritual beings trapped in material bodies",
+        "As perfect creations of a benevolent god",
+        "As inherently evil beings"
+      ],
+      "answer": "As spiritual beings trapped in material bodies"
+    },
+    {
+      "question": "What role does Jesus play in the Secret Book of John?",
+      "choices": [
+        "He is the creator of the world",
+        "He is a divine revealer of gnosis",
+        "He is portrayed as a purely human teacher",
+        "He is not mentioned in the text"
+      ],
+      "answer": "He is a divine revealer of gnosis"
+    },
+    {
+      "question": "How does the Secret Book of John explain the creation of humanity?",
+      "choices": [
+        "As a direct creation by the supreme deity",
+        "As an evolutionary process",
+        "As a creation by Yaldabaoth, inspired by a divine image",
+        "As a spontaneous emergence from the earth"
+      ],
+      "answer": "As a creation by Yaldabaoth, inspired by a divine image"
+    },
+    {
+      "question": "What is the significance of 'light' in the Secret Book of John?",
+      "choices": [
+        "It represents physical illumination",
+        "It symbolizes divine knowledge and truth",
+        "It refers to the sun and stars",
+        "It represents the material world"
+      ],
+      "answer": "It symbolizes divine knowledge and truth"
+    },
+    {
+      "question": "How does the Secret Book of John differ from orthodox Christian teachings?",
+      "choices": [
+        "It rejects the concept of salvation",
+        "It portrays the creator god as flawed",
+        "It denies the existence of Jesus",
+        "It emphasizes the importance of material wealth"
+      ],
+      "answer": "It portrays the creator god as flawed"
+    },
+    {
+      "question": "What is the purpose of studying the Secret Book of John in a Timorese context?",
+      "choices": [
+        "To replace traditional Timorese beliefs",
+        "To understand early Christian diversity",
+        "To promote Gnosticism as the true religion",
+        "To discredit orthodox Christianity"
+      ],
+      "answer": "To understand early Christian diversity"
+    },
+    {
+      "question": "How might the Secret Book of John's view of evil relate to Timorese understanding of suffering?",
+      "choices": [
+        "It provides a cosmic explanation for the existence of suffering",
+        "It denies the reality of suffering",
+        "It blames individuals for their own suffering",
+        "It promotes acceptance of suffering as necessary"
+      ],
+      "answer": "It provides a cosmic explanation for the existence of suffering"
+    },
+    {
+      "question": "What is the significance of 'knowledge' in the Secret Book of John?",
+      "choices": [
+        "It refers to scientific understanding",
+        "It is seen as dangerous and forbidden",
+        "It is the key to spiritual liberation",
+        "It is considered irrelevant to salvation"
+      ],
+      "answer": "It is the key to spiritual liberation"
+    },
+    {
+      "question": "How does the Secret Book of John view the relationship between spirit and matter?",
+      "choices": [
+        "As harmonious and integrated",
+        "As opposing forces",
+        "As identical concepts",
+        "As irrelevant to human existence"
+      ],
+      "answer": "As opposing forces"
+    },
+    {
+      "question": "What is the role of self-knowledge in the Secret Book of John?",
+      "choices": [
+        "It is discouraged as selfish",
+        "It is seen as a path to knowing the divine",
+        "It is considered irrelevant",
+        "It is viewed as a form of pride"
+      ],
+      "answer": "It is seen as a path to knowing the divine"
+    },
+    {
+      "question": "How does the Secret Book of John portray the concept of salvation?",
+      "choices": [
+        "As achieved through good works",
+        "As predetermined by divine will",
+        "As attained through gnosis and return to the Pleroma",
+        "As impossible for humans to achieve"
+      ],
+      "answer": "As attained through gnosis and return to the Pleroma"
+    },
+    {
+      "question": "What is the significance of the 'invisible Spirit' in the Secret Book of John?",
+      "choices": [
+        "It is the lowest form of divinity",
+        "It is the supreme, unknowable deity",
+        "It is another name for Yaldabaoth",
+        "It represents human consciousness"
+      ],
+      "answer": "It is the supreme, unknowable deity"
+    },
+    {
+      "question": "How might the study of the Secret Book of John contribute to interfaith dialogue in Timor-Leste?",
+      "choices": [
+        "By promoting Gnosticism over other faiths",
+        "By encouraging the rejection of all religious beliefs",
+        "By fostering understanding of diverse spiritual perspectives",
+        "By emphasizing the superiority of ancient texts"
+      ],
+      "answer": "By fostering understanding of diverse spiritual perspectives"
+    },
+    {
+      "question": "What is the significance of the term 'secret' in the title 'Secret Book of John'?",
+      "choices": [
+        "It implies the text was hidden from authorities",
+        "It suggests the teachings are only for a select few",
+        "It indicates the book was written in code",
+        "It means the author is unknown"
+      ],
+      "answer": "It suggests the teachings are only for a select few"
+    }
+  ]
+}

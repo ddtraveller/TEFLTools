@@ -1,0 +1,305 @@
+{
+  "title": "Lateralization of Brain Function",
+  "questions": [
+    {
+      "question": "What is brain lateralization?",
+      "choices": [
+        "The division of the brain into four lobes",
+        "The localization of functions in the right or left hemispheres of the brain",
+        "The process of brain development during childhood",
+        "The connection between neurons in different brain regions"
+      ],
+      "answer": "The localization of functions in the right or left hemispheres of the brain"
+    },
+    {
+      "question": "Which structure connects the two cerebral hemispheres?",
+      "choices": [
+        "Corpus callosum",
+        "Hippocampus",
+        "Amygdala",
+        "Cerebellum"
+      ],
+      "answer": "Corpus callosum"
+    },
+    {
+      "question": "Which hemisphere is typically associated with language processing in most people?",
+      "choices": [
+        "Left hemisphere",
+        "Right hemisphere",
+        "Both hemispheres equally",
+        "It varies randomly between individuals"
+      ],
+      "answer": "Left hemisphere"
+    },
+    {
+      "question": "What is Broca's area responsible for?",
+      "choices": [
+        "Visual processing",
+        "Emotional regulation",
+        "Speech production",
+        "Spatial awareness"
+      ],
+      "answer": "Speech production"
+    },
+    {
+      "question": "Which of the following is typically associated with right hemisphere function?",
+      "choices": [
+        "Logical reasoning",
+        "Sequential processing",
+        "Spatial awareness",
+        "Language comprehension"
+      ],
+      "answer": "Spatial awareness"
+    },
+    {
+      "question": "What is Wernicke's area primarily involved in?",
+      "choices": [
+        "Motor control",
+        "Language comprehension",
+        "Emotional processing",
+        "Mathematical calculations"
+      ],
+      "answer": "Language comprehension"
+    },
+    {
+      "question": "Which hemisphere is generally associated with holistic thinking?",
+      "choices": [
+        "Left hemisphere",
+        "Right hemisphere",
+        "Both hemispheres equally",
+        "Neither hemisphere"
+      ],
+      "answer": "Right hemisphere"
+    },
+    {
+      "question": "What is hemispheric specialization?",
+      "choices": [
+        "The idea that certain cognitive processes are predominantly associated with one brain hemisphere",
+        "The process of brain growth during adolescence",
+        "The division of the brain into different lobes",
+        "The connection between different sensory systems in the brain"
+      ],
+      "answer": "The idea that certain cognitive processes are predominantly associated with one brain hemisphere"
+    },
+    {
+      "question": "Which of the following is typically associated with left hemisphere function?",
+      "choices": [
+        "Emotional processing",
+        "Spatial awareness",
+        "Logical reasoning",
+        "Holistic thinking"
+      ],
+      "answer": "Logical reasoning"
+    },
+    {
+      "question": "What is spatial processing?",
+      "choices": [
+        "The ability to understand and manipulate visual representations of objects in space",
+        "The process of storing long-term memories",
+        "The regulation of body temperature",
+        "The production of hormones in the brain"
+      ],
+      "answer": "The ability to understand and manipulate visual representations of objects in space"
+    },
+    {
+      "question": "Which hemisphere is generally associated with creativity?",
+      "choices": [
+        "Left hemisphere",
+        "Right hemisphere",
+        "Both hemispheres equally",
+        "Neither hemisphere"
+      ],
+      "answer": "Right hemisphere"
+    },
+    {
+      "question": "What type of processing is the left hemisphere typically associated with?",
+      "choices": [
+        "Holistic",
+        "Emotional",
+        "Sequential",
+        "Spatial"
+      ],
+      "answer": "Sequential"
+    },
+    {
+      "question": "Which of the following is NOT a typical function of the right hemisphere?",
+      "choices": [
+        "Emotional processing",
+        "Spatial awareness",
+        "Language production",
+        "Face recognition"
+      ],
+      "answer": "Language production"
+    },
+    {
+      "question": "What is a dichotic listening test used to demonstrate?",
+      "choices": [
+        "Visual field preferences",
+        "Hemispheric specialization in auditory processing",
+        "Motor control lateralization",
+        "Emotional regulation"
+      ],
+      "answer": "Hemispheric specialization in auditory processing"
+    },
+    {
+      "question": "Which hemisphere is typically dominant for hand preference in right-handed individuals?",
+      "choices": [
+        "Left hemisphere",
+        "Right hemisphere",
+        "Both hemispheres equally",
+        "It varies randomly between individuals"
+      ],
+      "answer": "Left hemisphere"
+    },
+    {
+      "question": "What does the visual field test demonstrate in relation to brain lateralization?",
+      "choices": [
+        "Auditory processing differences",
+        "Motor control preferences",
+        "Hemispheric specialization in visual processing",
+        "Language lateralization"
+      ],
+      "answer": "Hemispheric specialization in visual processing"
+    },
+    {
+      "question": "Which of the following is a key idea in Iain McGilchrist's 'The Master and His Emissary'?",
+      "choices": [
+        "The brain is not lateralized at all",
+        "The left hemisphere is superior to the right",
+        "The right hemisphere is superior to the left",
+        "The two hemispheres have different, complementary roles in cognition and culture"
+      ],
+      "answer": "The two hemispheres have different, complementary roles in cognition and culture"
+    },
+    {
+      "question": "How might brain lateralization potentially influence Timorese art and culture?",
+      "choices": [
+        "It has no influence on art or culture",
+        "It may affect the way art is created and perceived",
+        "It only influences Western art and culture",
+        "It exclusively determines the content of Timorese folklore"
+      ],
+      "answer": "It may affect the way art is created and perceived"
+    },
+    {
+      "question": "What is one way to demonstrate hemispheric specialization in a classroom setting?",
+      "choices": [
+        "MRI scanning",
+        "Blood tests",
+        "Simple experiments like dichotic listening tests",
+        "Genetic testing"
+      ],
+      "answer": "Simple experiments like dichotic listening tests"
+    },
+    {
+      "question": "Which hemisphere is typically associated with processing positive emotions?",
+      "choices": [
+        "Left hemisphere",
+        "Right hemisphere",
+        "Both hemispheres equally",
+        "Neither hemisphere"
+      ],
+      "answer": "Left hemisphere"
+    },
+    {
+      "question": "What is one potential limitation of the concept of brain lateralization?",
+      "choices": [
+        "It's too complex to study",
+        "It oversimplifies the brain's actual functioning",
+        "It only applies to right-handed people",
+        "It has no relevance to human behavior"
+      ],
+      "answer": "It oversimplifies the brain's actual functioning"
+    },
+    {
+      "question": "How might understanding brain lateralization be relevant to education in Timor-Leste?",
+      "choices": [
+        "It's not relevant to education",
+        "It could inform teaching methods to engage both hemispheres",
+        "It suggests that only left-hemisphere activities should be taught",
+        "It proves that traditional education methods are superior"
+      ],
+      "answer": "It could inform teaching methods to engage both hemispheres"
+    },
+    {
+      "question": "What is one way that brain lateralization might influence decision-making?",
+      "choices": [
+        "It has no influence on decision-making",
+        "Left hemisphere dominance might lead to more logical, analytical decisions",
+        "Right hemisphere dominance always leads to better decisions",
+        "It only affects decisions about language use"
+      ],
+      "answer": "Left hemisphere dominance might lead to more logical, analytical decisions"
+    },
+    {
+      "question": "How might brain lateralization research be applied to understanding cultural differences?",
+      "choices": [
+        "It can't be applied to cultural studies",
+        "It might help explain differences in cognitive styles across cultures",
+        "It proves that some cultures are superior to others",
+        "It only applies to studying language differences"
+      ],
+      "answer": "It might help explain differences in cognitive styles across cultures"
+    },
+    {
+      "question": "What is one criticism of brain lateralization theory?",
+      "choices": [
+        "It's too well-established to be criticized",
+        "It doesn't account for individual differences",
+        "It's only applicable to non-human animals",
+        "It's too new to be properly evaluated"
+      ],
+      "answer": "It doesn't account for individual differences"
+    },
+    {
+      "question": "How might understanding brain lateralization influence approaches to mental health in Timor-Leste?",
+      "choices": [
+        "It has no relevance to mental health",
+        "It could inform holistic treatment approaches that engage both hemispheres",
+        "It suggests that only medication-based treatments are effective",
+        "It proves that traditional healing methods are superior"
+      ],
+      "answer": "It could inform holistic treatment approaches that engage both hemispheres"
+    },
+    {
+      "question": "What role does the corpus callosum play in brain lateralization?",
+      "choices": [
+        "It prevents communication between hemispheres",
+        "It allows for integration and communication between hemispheres",
+        "It determines which hemisphere will be dominant",
+        "It has no role in lateralization"
+      ],
+      "answer": "It allows for integration and communication between hemispheres"
+    },
+    {
+      "question": "How might brain lateralization research inform the preservation of Timorese languages?",
+      "choices": [
+        "It's not relevant to language preservation",
+        "It could provide insights into effective language learning and preservation strategies",
+        "It suggests that only one Timorese language should be preserved",
+        "It proves that language preservation is unnecessary"
+      ],
+      "answer": "It could provide insights into effective language learning and preservation strategies"
+    },
+    {
+      "question": "What is one way that understanding brain lateralization might influence leadership training in Timor-Leste?",
+      "choices": [
+        "It's not relevant to leadership",
+        "It could encourage development of both analytical and holistic thinking skills",
+        "It suggests that only left-hemisphere dominant individuals can be leaders",
+        "It proves that traditional leadership methods are superior"
+      ],
+      "answer": "It could encourage development of both analytical and holistic thinking skills"
+    },
+    {
+      "question": "How might brain lateralization theory be applied to conflict resolution in Timorese communities?",
+      "choices": [
+        "It has no application to conflict resolution",
+        "It could inform strategies that engage both logical and emotional processing",
+        "It suggests that conflicts can only be resolved through logical argumentation",
+        "It proves that traditional conflict resolution methods are ineffective"
+      ],
+      "answer": "It could inform strategies that engage both logical and emotional processing"
+    }
+  ]
+}
