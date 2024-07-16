@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Coffee Cultivation Practices",
+  "questions": [
+    {
+      "question": "What is agroforestry in the context of coffee production?",
+      "choices": [
+        "Planting coffee trees in a forest",
+        "Integrating trees and shrubs with coffee crops",
+        "Growing coffee indoors",
+        "Using only organic fertilizers"
+      ],
+      "answer": "Integrating trees and shrubs with coffee crops"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of shade trees in coffee production?",
+      "choices": [
+        "Protection from extreme weather",
+        "Natural pest control",
+        "Improved soil health",
+        "Faster ripening of coffee cherries"
+      ],
+      "answer": "Faster ripening of coffee cherries"
+    },
+    {
+      "question": "What is a key principle of organic farming in coffee production?",
+      "choices": [
+        "Using synthetic pesticides",
+        "Applying chemical fertilizers",
+        "Avoiding synthetic pesticides and fertilizers",
+        "Maximizing yield at all costs"
+      ],
+      "answer": "Avoiding synthetic pesticides and fertilizers"
+    },
+    {
+      "question": "Which soil conservation technique involves planting coffee trees along the natural contours of hillsides?",
+      "choices": [
+        "Terracing",
+        "Contour planting",
+        "Cover cropping",
+        "Mulching"
+      ],
+      "answer": "Contour planting"
+    },
+    {
+      "question": "What is the purpose of composting in organic coffee farming?",
+      "choices": [
+        "To increase pest resistance",
+        "To speed up coffee cherry ripening",
+        "To recycle organic matter into nutrient-rich fertilizer",
+        "To reduce water consumption"
+      ],
+      "answer": "To recycle organic matter into nutrient-rich fertilizer"
+    },
+    {
+      "question": "Which of the following is an example of a natural pest control method in organic coffee farming?",
+      "choices": [
+        "Using synthetic insecticides",
+        "Introducing predatory insects",
+        "Applying chemical herbicides",
+        "Burning surrounding vegetation"
+      ],
+      "answer": "Introducing predatory insects"
+    },
+    {
+      "question": "What is the main purpose of terracing in coffee farming?",
+      "choices": [
+        "To increase sunlight exposure",
+        "To create level platforms on steep slopes",
+        "To improve irrigation efficiency",
+        "To separate different coffee varieties"
+      ],
+      "answer": "To create level platforms on steep slopes"
+    },
+    {
+      "question": "What is polyculture in the context of sustainable coffee farming?",
+      "choices": [
+        "Growing multiple varieties of coffee",
+        "Using various types of fertilizers",
+        "Introducing other crops or plants that complement coffee production",
+        "Rotating coffee crops seasonally"
+      ],
+      "answer": "Introducing other crops or plants that complement coffee production"
+    },
+    {
+      "question": "Which irrigation system is considered efficient for water conservation in coffee farming?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is a potential benefit of sustainable coffee cultivation practices for farmers?",
+      "choices": [
+        "Lower production costs",
+        "Faster growth of coffee trees",
+        "Higher quality beans that can command premium prices",
+        "Simplified farming techniques"
+      ],
+      "answer": "Higher quality beans that can command premium prices"
+    },
+    {
+      "question": "Which certification program recognizes and rewards sustainable coffee farming practices?",
+      "choices": [
+        "ISO 9001",
+        "Fair Trade",
+        "HACCP",
+        "GMP"
+      ],
+      "answer": "Fair Trade"
+    },
+    {
+      "question": "What is a challenge faced by farmers when implementing sustainable coffee cultivation practices?",
+      "choices": [
+        "Decreased coffee quality",
+        "Initial investments in new equipment or training",
+        "Reduced yield in the long term",
+        "Increased pest problems"
+      ],
+      "answer": "Initial investments in new equipment or training"
+    },
+    {
+      "question": "How does shade-grown coffee often affect the flavor of the beans?",
+      "choices": [
+        "It results in a milder flavor",
+        "It produces more acidic beans",
+        "It allows for more complex flavor development",
+        "It creates a more bitter taste"
+      ],
+      "answer": "It allows for more complex flavor development"
+    },
+    {
+      "question": "What is the primary purpose of cover cropping in coffee farming?",
+      "choices": [
+        "To provide shade for coffee plants",
+        "To increase coffee yield",
+        "To protect the soil from erosion",
+        "To attract pollinators"
+      ],
+      "answer": "To protect the soil from erosion"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of agroforestry in coffee production?",
+      "choices": [
+        "Improved soil health",
+        "Increased biodiversity",
+        "Enhanced pest resistance",
+        "Faster maturation of coffee cherries"
+      ],
+      "answer": "Faster maturation of coffee cherries"
+    },
+    {
+      "question": "What is a key aspect of proper wastewater management in sustainable coffee farming?",
+      "choices": [
+        "Releasing wastewater into nearby streams",
+        "Using wastewater as fertilizer without treatment",
+        "Preventing pollution of local water sources",
+        "Storing wastewater indefinitely"
+      ],
+      "answer": "Preventing pollution of local water sources"
+    },
+    {
+      "question": "How does sustainable coffee cultivation contribute to climate change resilience?",
+      "choices": [
+        "By increasing carbon emissions",
+        "By promoting monoculture",
+        "By creating more diverse and resilient ecosystems",
+        "By using more chemical inputs"
+      ],
+      "answer": "By creating more diverse and resilient ecosystems"
+    },
+    {
+      "question": "What role do shade trees play in pest control for coffee plants?",
+      "choices": [
+        "They attract more pests",
+        "They provide habitat for natural predators of coffee pests",
+        "They have no effect on pest populations",
+        "They chemically repel all insects"
+      ],
+      "answer": "They provide habitat for natural predators of coffee pests"
+    },
+    {
+      "question": "Which of the following is a benefit of organic mulching in coffee farming?",
+      "choices": [
+        "Increased soil erosion",
+        "Improved water retention",
+        "Higher soil temperatures",
+        "Reduced soil fertility"
+      ],
+      "answer": "Improved water retention"
+    },
+    {
+      "question": "What is the primary goal of soil conservation techniques in coffee farming?",
+      "choices": [
+        "To increase coffee yield",
+        "To prevent soil erosion and maintain fertility",
+        "To reduce the need for irrigation",
+        "To eliminate the need for fertilizers"
+      ],
+      "answer": "To prevent soil erosion and maintain fertility"
+    },
+    {
+      "question": "How does biodiversity contribute to sustainable coffee farming?",
+      "choices": [
+        "It increases the need for pesticides",
+        "It simplifies farm management",
+        "It creates more resilient ecosystems",
+        "It reduces coffee quality"
+      ],
+      "answer": "It creates more resilient ecosystems"
+    },
+    {
+      "question": "What is a potential drawback of transitioning to organic coffee farming?",
+      "choices": [
+        "Immediate increase in yield",
+        "Higher pest resistance",
+        "Initial decrease in productivity",
+        "Simplified farm management"
+      ],
+      "answer": "Initial decrease in productivity"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a sustainable coffee cultivation practice?",
+      "choices": [
+        "Agroforestry",
+        "Organic farming",
+        "Monoculture",
+        "Water conservation"
+      ],
+      "answer": "Monoculture"
+    },
+    {
+      "question": "How does composting benefit coffee plants?",
+      "choices": [
+        "It increases soil acidity",
+        "It provides a quick release of synthetic nutrients",
+        "It improves soil structure and provides nutrients",
+        "It eliminates all pests"
+      ],
+      "answer": "It improves soil structure and provides nutrients"
+    },
+    {
+      "question": "What is the primary purpose of integrating fruit trees in a coffee agroforestry system?",
+      "choices": [
+        "To provide shade",
+        "To increase biodiversity",
+        "To offer an additional income source",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is a characteristic of sustainable coffee farms?",
+      "choices": [
+        "Heavy reliance on chemical inputs",
+        "Minimal consideration for local ecosystems",
+        "Focus on short-term yield maximization",
+        "Integration of environmental and economic sustainability"
+      ],
+      "answer": "Integration of environmental and economic sustainability"
+    },
+    {
+      "question": "What is a benefit of slower coffee cherry ripening in shade-grown systems?",
+      "choices": [
+        "Increased yield",
+        "More complex flavor development",
+        "Resistance to all pests",
+        "Reduced labor requirements"
+      ],
+      "answer": "More complex flavor development"
+    },
+    {
+      "question": "How does sustainable coffee cultivation typically impact local biodiversity?",
+      "choices": [
+        "It reduces biodiversity",
+        "It has no effect on biodiversity",
+        "It enhances and protects local biodiversity",
+        "It only increases plant biodiversity"
+      ],
+      "answer": "It enhances and protects local biodiversity"
+    },
+    {
+      "question": "What is a key consideration in implementing water recycling systems in coffee processing?",
+      "choices": [
+        "Increasing water usage",
+        "Maintaining water quality",
+        "Eliminating all water use",
+        "Using only rainwater"
+      ],
+      "answer": "Maintaining water quality"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a sustainable coffee agroforestry system?",
+      "choices": [
+        "Shade trees",
+        "Cover crops",
+        "Synthetic pesticides",
+        "Fruit trees"
+      ],
+      "answer": "Synthetic pesticides"
+    }
+  ]
+}

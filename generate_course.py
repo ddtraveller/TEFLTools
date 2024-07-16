@@ -7,6 +7,7 @@ import time
 import json
 import PyPDF2
 import tiktoken
+import shutil
 
 # Initialize the Anthropic client
 # export ANTHROPIC_API_KEY='your_api_key_here'
@@ -61,9 +62,6 @@ def truncate_to_token_limit(text: str, max_tokens: int = 199999) -> str:
 
 def generate_syllabus(truncated_info):
     """Generate a syllabus based on the project information using Claude."""
-    # Truncate project_info to fit within token limit
-    #truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)  # Leave some room for the prompt
-
     prompt = f"""Given the following project information:
 {truncated_info}
 Please do the following:
@@ -420,7 +418,7 @@ Format the output as Markdown, with clear section headers for each type of suppo
             }
         ]
     )
-    time.sleep(2)  # Pause for 2 seconds after Anthropic call
+    time.sleep(2)  # Pause for 2 seconds
     return message.content[0].text if message.content else ""
 
 def extract_learning_units(content):
@@ -431,7 +429,38 @@ def extract_learning_units(content):
         print("Syllabus structure:")
         print(re.findall(r'#{1,3} .*', content))  # Print all headings
     return [unit.strip() for unit in units]
+
+def move_files_to_tefltools(base_dir, course_name):
+    """Move generated files to the TEFLTools repository structure."""
+    tefltools_dir = "/home/ubuntu/environment/TEFLTools"
     
+    # Move syllabus (no subfolder)
+    syllabus_src = f"{base_dir}/syllabus/{course_name}.md"
+    syllabus_dst = f"{tefltools_dir}/syllabus/{course_name}.md"
+    shutil.move(syllabus_src, syllabus_dst)
+    print(f"Moved syllabus to {syllabus_dst}")
+
+    # Move lesson plans and support material
+    lesson_plans_src = f"{base_dir}/lesson_plans"
+    support_material_src = f"{base_dir}/support_material"
+    lesson_plans_dst = f"{tefltools_dir}/lesson_plans/{course_name}"
+    os.makedirs(lesson_plans_dst, exist_ok=True)
+    for item in os.listdir(lesson_plans_src):
+        shutil.move(os.path.join(lesson_plans_src, item), lesson_plans_dst)
+    if os.path.exists(support_material_src):
+        for item in os.listdir(support_material_src):
+            shutil.move(os.path.join(support_material_src, item), lesson_plans_dst)
+    print(f"Moved lesson plans and support material to {lesson_plans_dst}")
+
+    # Move Readings, activities, and quizzes
+    for folder in ['Readings', 'activities', 'quizzes']:
+        src_folder = f"{base_dir}/{folder}"
+        dst_folder = f"{tefltools_dir}/{folder}/{course_name}"
+        os.makedirs(dst_folder, exist_ok=True)
+        for item in os.listdir(src_folder):
+            shutil.move(os.path.join(src_folder, item), dst_folder)
+        print(f"Moved {folder} to {dst_folder}")
+
 def main():
     course_name = input("Enter the name of the course: ")
     cleaned_course_name = clean_name(course_name)
@@ -439,7 +468,7 @@ def main():
     base_dir = f"courses/{cleaned_course_name}"
     create_directory(f"{base_dir}/syllabus")
     create_directory(f"{base_dir}/lesson_plans")
-    create_directory(f"{base_dir}/readings")
+    create_directory(f"{base_dir}/Readings")
     create_directory(f"{base_dir}/activities")
     create_directory(f"{base_dir}/quizzes")
     create_directory(f"{base_dir}/support_material")
@@ -459,7 +488,7 @@ def main():
                 file_path = os.path.join(content_folder, filename)
                 project_info += read_file_content(file_path) + "\n\n"
                 print(f"Read content from: {file_path}")
-        truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)
+        truncated_info = truncate_to_token_limit(project_info, max_tokens=168000)
     else:
         for filename in os.listdir(content_folder):
             if filename.lower().endswith(('.pdf', '.txt', '.md')):
@@ -469,7 +498,8 @@ def main():
                 print(f"Read content from: {file_path}")
                 
         print(f"Total content size before truncation: {len(project_info)} characters")
-        truncated_info = truncate_to_token_limit(project_info, max_tokens=175000)
+        truncated_info = truncate_to_token_limit(project_info, max_tokens=168000)  # Reduced from 175000
+        print(f"Truncated content size: {len(truncated_info)} characters")
         syllabus = generate_syllabus(truncated_info)
         write_to_file(syllabus, syllabus_path)
     
@@ -488,7 +518,6 @@ def main():
                 lesson_plan = file.read()
         else:
             try:
-                
                 lesson_plan = generate_lesson_plan(unit, syllabus, truncated_info)
                 write_to_file(lesson_plan, lesson_plan_path)
                 print(f"Generated and wrote lesson plan for Unit {i}")
@@ -515,6 +544,8 @@ def main():
                 write_to_file(support_material, support_material_path)
             except Exception as e:
                 print(f"Error generating support material for Unit {i}: {str(e)}")
+                print(f"Current working directory: {os.getcwd()}")
+                print(f"Does the directory exist? {os.path.exists(os.path.dirname(support_material_path))}")
 
     for i, unit in enumerate(learning_units, 1):
         resources_path = f"{base_dir}/lesson_plans/Unit_{i}_Resources.md"
@@ -535,14 +566,14 @@ def main():
                 try:
                     if resource.startswith('[') and '](' in resource and resource.endswith(')'):
                         link_text, url = re.match(r'\[(.*?)\]\((.*?)\)', resource).groups()
-                        output_filename = f"{base_dir}/readings/{clean_name(unit_name)}_{clean_name(link_text)}.txt"
+                        output_filename = f"{base_dir}/Readings/{clean_name(unit_name)}_{clean_name(link_text)}.txt"
                         if not os.path.exists(output_filename):
                             cleaned_content = fetch_and_clean_url_content(url)
                             if cleaned_content:
                                 write_to_file(cleaned_content, output_filename)
                     else:
                         key = '_'.join(resource.split()[:3]).lower()
-                        output_filename = f"{base_dir}/readings/{clean_name(unit_name)}_additional_{clean_name(key)}.md"
+                        output_filename = f"{base_dir}/Readings/{clean_name(unit_name)}_additional_{clean_name(key)}.md"
                         if not os.path.exists(output_filename):
                             processed_content = process_additional_resource(unit_name, resource, syllabus, lesson_plans[i-1])
                             if processed_content:
@@ -551,11 +582,12 @@ def main():
                     print(f"Error processing additional resource in {unit_name}: {str(e)}")
 
     for i, lesson_plan in enumerate(lesson_plans, 1):
-        reading_path = f"{base_dir}/readings/Unit_{i}_Reading.md"
+        reading_path = f"{base_dir}/Readings/Unit_{i}_Reading.md"
         if not os.path.exists(reading_path):
             try:
                 reading = generate_reading(lesson_plan, syllabus, lesson_plans[i-1], truncated_info)
                 write_to_file(reading, reading_path)
+                print(f"Generated reading for Unit {i}")
             except Exception as e:
                 print(f"Error generating reading for Unit {i}: {str(e)}")
 
@@ -567,7 +599,7 @@ def main():
                     f"{base_dir}/syllabus/{syllabus_filename}": syllabus,
                     f"{base_dir}/lesson_plans/Unit_{i}_Lesson_Plan.md": lesson_plans[i-1] if i <= len(lesson_plans) else "No lesson plan available",
                     f"{base_dir}/lesson_plans/Unit_{i}_Resources.md": open(f"{base_dir}/lesson_plans/Unit_{i}_Resources.md", 'r').read() if os.path.exists(f"{base_dir}/lesson_plans/Unit_{i}_Resources.md") else "No resources available",
-                    f"{base_dir}/readings/Unit_{i}_Reading.md": open(f"{base_dir}/readings/Unit_{i}_Reading.md", 'r').read() if os.path.exists(f"{base_dir}/readings/Unit_{i}_Reading.md") else "No reading available"
+                    f"{base_dir}/Readings/Unit_{i}_Reading.md": open(f"{base_dir}/Readings/Unit_{i}_Reading.md", 'r').read() if os.path.exists(f"{base_dir}/Readings/Unit_{i}_Reading.md") else "No reading available"
                 }
                 quiz_json = generate_quiz(unit, context_files, truncated_info)
                 if quiz_json:
@@ -579,18 +611,20 @@ def main():
                 print(f"Error generating quiz for Unit {i}: {str(e)}")
 
     print(f"Course generation for '{course_name}' completed successfully.")
+    print(f"Number of learning units: {len(learning_units)}")
     print(f"Generated {len(lesson_plans)} lesson plans.")
     print(f"Generated {len(os.listdir(f'{base_dir}/activities'))} activity files.")
     print(f"Generated {len(os.listdir(f'{base_dir}/support_material'))} support material files.")
-    print(f"Generated {len(os.listdir(f'{base_dir}/readings'))} reading files.")
+    print(f"Generated {len(os.listdir(f'{base_dir}/Readings'))} reading files.")
     print(f"Generated {len(os.listdir(f'{base_dir}/quizzes'))} quiz files.")
 
-    print("\nQuiz generation summary:")
-    for i in range(1, len(learning_units) + 1):
-        if os.path.exists(f"{base_dir}/quizzes/Unit_{i}_Quiz.json"):
-            print(f"Quiz for Unit {i}: Generated")
-        else:
-            print(f"Quiz for Unit {i}: Not generated")
+    # Verification
+    if len(os.listdir(f'{base_dir}/Readings')) != len(learning_units):
+        print(f"Warning: Number of reading files ({len(os.listdir(f'{base_dir}/Readings'))}) does not match number of learning units ({len(learning_units)})")
+
+    # Move files to TEFLTools repository structure
+    move_files_to_tefltools(base_dir, cleaned_course_name)
+    print("Files have been moved to the TEFLTools repository structure.")
 
 if __name__ == "__main__":
     main()

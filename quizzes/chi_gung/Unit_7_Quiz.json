@@ -1,0 +1,305 @@
+{
+  "title": "Qigong for Common Health Concerns",
+  "questions": [
+    {
+      "question": "What is one of the main objectives of this learning unit?",
+      "choices": [
+        "Learn advanced Qigong techniques",
+        "Understand how to adapt Qigong for individual needs",
+        "Master meditation practices",
+        "Study the history of Qigong in China"
+      ],
+      "answer": "Understand how to adapt Qigong for individual needs"
+    },
+    {
+      "question": "Which of the following is NOT a topic covered in this learning unit?",
+      "choices": [
+        "Qigong for back pain",
+        "Exercises for digestive health",
+        "Qigong for stress relief",
+        "Qigong for cardiovascular health"
+      ],
+      "answer": "Qigong for cardiovascular health"
+    },
+    {
+      "question": "What is one of the activities mentioned in the learning unit?",
+      "choices": [
+        "Practice sequence for back health",
+        "High-intensity interval training",
+        "Group meditation session",
+        "Studying Qigong theory"
+      ],
+      "answer": "Practice sequence for back health"
+    },
+    {
+      "question": "What type of massage is mentioned as an activity in this unit?",
+      "choices": [
+        "Foot massage",
+        "Back massage",
+        "Abdominal massage",
+        "Head massage"
+      ],
+      "answer": "Abdominal massage"
+    },
+    {
+      "question": "What is the purpose of the abdominal massage technique taught in this unit?",
+      "choices": [
+        "For stress relief",
+        "For digestion",
+        "For back pain",
+        "For improving flexibility"
+      ],
+      "answer": "For digestion"
+    },
+    {
+      "question": "What is one of the required resources for the course?",
+      "choices": [
+        "Qigong textbook",
+        "Comfortable, loose-fitting clothing",
+        "Meditation cushion",
+        "Incense"
+      ],
+      "answer": "Comfortable, loose-fitting clothing"
+    },
+    {
+      "question": "What is the recommended duration for the warm-up activity in the lesson plan?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "answer": "10 minutes"
+    },
+    {
+      "question": "What is NOT mentioned as a key vocabulary term in the lesson plan?",
+      "choices": [
+        "Spinal flexion",
+        "Abdominal massage",
+        "Stress relief",
+        "Meridians"
+      ],
+      "answer": "Meridians"
+    },
+    {
+      "question": "How long is the main presentation of lesson content scheduled to last?",
+      "choices": [
+        "10 minutes",
+        "15 minutes",
+        "20 minutes",
+        "30 minutes"
+      ],
+      "answer": "20 minutes"
+    },
+    {
+      "question": "What is the total duration allocated for practice activities in the lesson plan?",
+      "choices": [
+        "15 minutes",
+        "20 minutes",
+        "25 minutes",
+        "30 minutes"
+      ],
+      "answer": "30 minutes"
+    },
+    {
+      "question": "What is one of the homework assignments given in the lesson plan?",
+      "choices": [
+        "Read a chapter on Qigong history",
+        "Practice the back health sequence daily for the next week",
+        "Teach Qigong to a family member",
+        "Write an essay on stress relief techniques"
+      ],
+      "answer": "Practice the back health sequence daily for the next week"
+    },
+    {
+      "question": "What is the purpose of the small group adaptation exercise in the lesson plan?",
+      "choices": [
+        "To practice teaching Qigong",
+        "To learn new Qigong movements",
+        "To adapt exercises for different scenarios or conditions",
+        "To compete in Qigong performance"
+      ],
+      "answer": "To adapt exercises for different scenarios or conditions"
+    },
+    {
+      "question": "What is the definition of 'spinal flexion' given in the key vocabulary?",
+      "choices": [
+        "Twisting the spine",
+        "Bending the spine forward",
+        "Bending the spine backward",
+        "Stretching the spine"
+      ],
+      "answer": "Bending the spine forward"
+    },
+    {
+      "question": "What is the definition of 'adaptation' in the context of this lesson?",
+      "choices": [
+        "Changing the environment for Qigong practice",
+        "Altering Qigong philosophy to fit modern times",
+        "Modifying an exercise to suit individual needs or limitations",
+        "Adapting to a new Qigong instructor"
+      ],
+      "answer": "Modifying an exercise to suit individual needs or limitations"
+    },
+    {
+      "question": "What is emphasized about listening to your body during Qigong practice?",
+      "choices": [
+        "It's not important",
+        "Only advanced practitioners should do it",
+        "It's crucial for adapting exercises to individual needs",
+        "It's only necessary during warm-up"
+      ],
+      "answer": "It's crucial for adapting exercises to individual needs"
+    },
+    {
+      "question": "What connection is discussed regarding stress and digestive issues?",
+      "choices": [
+        "There is no connection",
+        "Stress can improve digestion",
+        "Stress can negatively impact digestive health",
+        "Digestive issues always cause stress"
+      ],
+      "answer": "Stress can negatively impact digestive health"
+    },
+    {
+      "question": "How many basic Qigong exercises for back health are demonstrated in the lesson?",
+      "choices": [
+        "1-2",
+        "3-4",
+        "5-6",
+        "7-8"
+      ],
+      "answer": "3-4"
+    },
+    {
+      "question": "What is mentioned as a benefit of Qigong in relation to stress?",
+      "choices": [
+        "It increases stress levels",
+        "It has no effect on stress",
+        "It can activate the relaxation response",
+        "It replaces the need for sleep"
+      ],
+      "answer": "It can activate the relaxation response"
+    },
+    {
+      "question": "What is students asked to note in their journal as part of the homework?",
+      "choices": [
+        "Their daily schedule",
+        "Their favorite Qigong exercises",
+        "Changes in how their back feels",
+        "The weather conditions during practice"
+      ],
+      "answer": "Changes in how their back feels"
+    },
+    {
+      "question": "What is recommended for students to do before meals as part of their homework?",
+      "choices": [
+        "Practice standing meditation",
+        "Do a full Qigong routine",
+        "Try the abdominal massage technique",
+        "Perform back exercises"
+      ],
+      "answer": "Try the abdominal massage technique"
+    },
+    {
+      "question": "What type of music is suggested as optional in the lesson plan?",
+      "choices": [
+        "Upbeat pop music",
+        "Classical music",
+        "Relaxing background music",
+        "Traditional Chinese music"
+      ],
+      "answer": "Relaxing background music"
+    },
+    {
+      "question": "What is the purpose of the brief standing meditation in the warm-up?",
+      "choices": [
+        "To increase heart rate",
+        "To center and focus",
+        "To improve balance",
+        "To learn new Qigong moves"
+      ],
+      "answer": "To center and focus"
+    },
+    {
+      "question": "How are students instructed to practice the stress relief exercise?",
+      "choices": [
+        "Individually at home",
+        "In pairs",
+        "As a group",
+        "With a personal instructor"
+      ],
+      "answer": "As a group"
+    },
+    {
+      "question": "What is the instructor advised to do during the back health sequence practice?",
+      "choices": [
+        "Observe silently",
+        "Practice along with students",
+        "Circulate to provide individual feedback and adjustments",
+        "Lead a group discussion"
+      ],
+      "answer": "Circulate to provide individual feedback and adjustments"
+    },
+    {
+      "question": "What are students encouraged to notice during the abdominal massage practice?",
+      "choices": [
+        "The time of day",
+        "Their breathing rate",
+        "Any sensations or changes",
+        "The room temperature"
+      ],
+      "answer": "Any sensations or changes"
+    },
+    {
+      "question": "What is one of the scenarios mentioned for the small group adaptation exercise?",
+      "choices": [
+        "A professional athlete",
+        "A person with knee pain",
+        "A pregnant woman",
+        "A child"
+      ],
+      "answer": "A person with knee pain"
+    },
+    {
+      "question": "What is students asked to share during the wrap-up and review?",
+      "choices": [
+        "Their favorite part of the lesson",
+        "One new thing they learned or found interesting",
+        "Their plans for future Qigong practice",
+        "Feedback on the instructor's teaching style"
+      ],
+      "answer": "One new thing they learned or found interesting"
+    },
+    {
+      "question": "What is the main focus of this learning unit in relation to health concerns?",
+      "choices": [
+        "Treating serious medical conditions",
+        "Replacing conventional medical treatment",
+        "Addressing common health issues through Qigong",
+        "Diagnosing health problems"
+      ],
+      "answer": "Addressing common health issues through Qigong"
+    },
+    {
+      "question": "How does this unit approach the practice of Qigong for health concerns?",
+      "choices": [
+        "As a one-size-fits-all solution",
+        "As a replacement for medical advice",
+        "With an emphasis on individual adaptation",
+        "As a competitive practice"
+      ],
+      "answer": "With an emphasis on individual adaptation"
+    },
+    {
+      "question": "What is the significance of teaching abdominal massage in this unit?",
+      "choices": [
+        "It's a core Qigong technique",
+        "It helps with digestive health",
+        "It's the most advanced Qigong practice",
+        "It's only for stress relief"
+      ],
+      "answer": "It helps with digestive health"
+    }
+  ]
+}

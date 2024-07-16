@@ -1,0 +1,305 @@
+{
+  "title": "Assessment Techniques in Craniosacral Therapy",
+  "questions": [
+    {
+      "question": "What is the primary purpose of listening stations in craniosacral therapy?",
+      "choices": [
+        "To measure blood pressure",
+        "To provide consistent points of reference for evaluating craniosacral rhythm and restrictions",
+        "To assess hearing ability",
+        "To monitor heart rate"
+      ],
+      "answer": "To provide consistent points of reference for evaluating craniosacral rhythm and restrictions"
+    },
+    {
+      "question": "How many primary listening stations are typically used in craniosacral therapy?",
+      "choices": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "10"
+    },
+    {
+      "question": "What is the recommended amount of pressure to use when palpating listening stations?",
+      "choices": [
+        "1 gram",
+        "5 grams",
+        "10 grams",
+        "20 grams"
+      ],
+      "answer": "5 grams"
+    },
+    {
+      "question": "What is the typical rate of the craniosacral rhythm?",
+      "choices": [
+        "2-4 cycles per minute",
+        "6-12 cycles per minute",
+        "15-20 cycles per minute",
+        "30-40 cycles per minute"
+      ],
+      "answer": "6-12 cycles per minute"
+    },
+    {
+      "question": "Which of the following is NOT a component of assessing craniosacral rhythm?",
+      "choices": [
+        "Rate",
+        "Amplitude",
+        "Symmetry",
+        "Temperature"
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "question": "What does 'amplitude' refer to in the context of craniosacral rhythm?",
+      "choices": [
+        "The speed of the rhythm",
+        "The strength or intensity of the movement",
+        "The balance between left and right sides",
+        "The overall feel of the rhythm"
+      ],
+      "answer": "The strength or intensity of the movement"
+    },
+    {
+      "question": "Which of the following is a characteristic of a healthy craniosacral rhythm?",
+      "choices": [
+        "Irregular and asymmetrical",
+        "Fast and intense",
+        "Smooth and symmetrical",
+        "Slow and weak"
+      ],
+      "answer": "Smooth and symmetrical"
+    },
+    {
+      "question": "What type of restriction involves the bones of the craniosacral system?",
+      "choices": [
+        "Membranous",
+        "Fluid",
+        "Energetic",
+        "Osseous"
+      ],
+      "answer": "Osseous"
+    },
+    {
+      "question": "Which of the following is NOT a type of restriction in the craniosacral system?",
+      "choices": [
+        "Osseous",
+        "Membranous",
+        "Fluid",
+        "Muscular"
+      ],
+      "answer": "Muscular"
+    },
+    {
+      "question": "What does a membranous restriction affect in the craniosacral system?",
+      "choices": [
+        "The bones",
+        "The dural membrane system",
+        "The cerebrospinal fluid",
+        "The muscles"
+      ],
+      "answer": "The dural membrane system"
+    },
+    {
+      "question": "How might a restriction feel during palpation?",
+      "choices": [
+        "Soft and pliable",
+        "Warm and pulsating",
+        "Dense, tight, or 'stuck'",
+        "Hollow and empty"
+      ],
+      "answer": "Dense, tight, or 'stuck'"
+    },
+    {
+      "question": "What is the purpose of the 'arcing' technique in craniosacral assessment?",
+      "choices": [
+        "To measure the client's flexibility",
+        "To induce relaxation",
+        "To help the practitioner tune into the craniosacral rhythm and detect restrictions",
+        "To increase blood flow to the area"
+      ],
+      "answer": "To help the practitioner tune into the craniosacral rhythm and detect restrictions"
+    },
+    {
+      "question": "What is a 'still point' in craniosacral therapy?",
+      "choices": [
+        "A moment when the client falls asleep",
+        "A temporary cessation of the craniosacral rhythm",
+        "A point of maximum tension in the body",
+        "The end of the therapy session"
+      ],
+      "answer": "A temporary cessation of the craniosacral rhythm"
+    },
+    {
+      "question": "Which of the following is NOT a primary listening station?",
+      "choices": [
+        "Feet",
+        "Knees",
+        "Elbows",
+        "Sacral Base"
+      ],
+      "answer": "Elbows"
+    },
+    {
+      "question": "What does assessing the symmetry of the craniosacral rhythm involve?",
+      "choices": [
+        "Comparing the rhythm between upper and lower body",
+        "Comparing the rhythm between left and right sides of the body",
+        "Measuring the rhythm at different times of day",
+        "Comparing the client's rhythm to a standardized norm"
+      ],
+      "answer": "Comparing the rhythm between left and right sides of the body"
+    },
+    {
+      "question": "What type of restriction might feel 'boggy' during palpation?",
+      "choices": [
+        "Osseous",
+        "Membranous",
+        "Fluid",
+        "Energetic"
+      ],
+      "answer": "Fluid"
+    },
+    {
+      "question": "Which area is considered a common location for restrictions in the craniosacral system?",
+      "choices": [
+        "Wrists",
+        "Ankles",
+        "Sphenobasilar junction",
+        "Fingers"
+      ],
+      "answer": "Sphenobasilar junction"
+    },
+    {
+      "question": "What is the primary goal of assessing restrictions in craniosacral therapy?",
+      "choices": [
+        "To diagnose medical conditions",
+        "To determine the client's flexibility",
+        "To identify areas needing focused treatment",
+        "To measure overall health"
+      ],
+      "answer": "To identify areas needing focused treatment"
+    },
+    {
+      "question": "How long should a practitioner typically palpate a listening station to allow for tissue response?",
+      "choices": [
+        "5-10 seconds",
+        "30-60 seconds",
+        "2-3 minutes",
+        "5-10 minutes"
+      ],
+      "answer": "30-60 seconds"
+    },
+    {
+      "question": "What does the quality of the craniosacral rhythm refer to?",
+      "choices": [
+        "The speed of the rhythm",
+        "The strength of the rhythm",
+        "The overall feel of the rhythm (smooth, jerky, etc.)",
+        "The temperature of the tissues"
+      ],
+      "answer": "The overall feel of the rhythm (smooth, jerky, etc.)"
+    },
+    {
+      "question": "Which of the following is NOT a component of the craniosacral rhythm assessment?",
+      "choices": [
+        "Rate",
+        "Amplitude",
+        "Symmetry",
+        "Velocity"
+      ],
+      "answer": "Velocity"
+    },
+    {
+      "question": "What type of restriction might feel 'taut' or 'stringy' during palpation?",
+      "choices": [
+        "Osseous",
+        "Membranous",
+        "Fluid",
+        "Energetic"
+      ],
+      "answer": "Membranous"
+    },
+    {
+      "question": "What is the purpose of inducing a 'still point' during assessment?",
+      "choices": [
+        "To increase the craniosacral rhythm",
+        "To evaluate how the body responds and identify areas needing attention",
+        "To reduce blood flow to the brain",
+        "To induce sleep in the client"
+      ],
+      "answer": "To evaluate how the body responds and identify areas needing attention"
+    },
+    {
+      "question": "Which of the following is NOT a primary listening station in craniosacral therapy?",
+      "choices": [
+        "Thoracic Inlet",
+        "Respiratory Diaphragm",
+        "Pelvic Diaphragm",
+        "Cardiac Diaphragm"
+      ],
+      "answer": "Cardiac Diaphragm"
+    },
+    {
+      "question": "What does an energetic restriction in the craniosacral system typically feel like?",
+      "choices": [
+        "Hot and inflamed",
+        "Cold or energetically 'dull'",
+        "Pulsating rapidly",
+        "Excessively mobile"
+      ],
+      "answer": "Cold or energetically 'dull'"
+    },
+    {
+      "question": "How should a practitioner's hand position be when palpating for the craniosacral rhythm?",
+      "choices": [
+        "Firm and directive",
+        "Neutral and receptive",
+        "Constantly moving",
+        "Applying deep pressure"
+      ],
+      "answer": "Neutral and receptive"
+    },
+    {
+      "question": "What is the significance of asymmetry in the craniosacral rhythm?",
+      "choices": [
+        "It indicates optimal health",
+        "It suggests restrictions or imbalances in the system",
+        "It is a normal variation with no clinical significance",
+        "It indicates increased vitality in the dominant side"
+      ],
+      "answer": "It suggests restrictions or imbalances in the system"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of a healthy craniosacral rhythm?",
+      "choices": [
+        "Smooth",
+        "Symmetrical",
+        "Consistent",
+        "Rapid"
+      ],
+      "answer": "Rapid"
+    },
+    {
+      "question": "What is the primary purpose of assessing the craniosacral rhythm?",
+      "choices": [
+        "To diagnose specific medical conditions",
+        "To determine the client's age",
+        "To gather information about the overall health of the craniosacral system",
+        "To measure blood flow to the brain"
+      ],
+      "answer": "To gather information about the overall health of the craniosacral system"
+    },
+    {
+      "question": "How often should a practitioner reassess the craniosacral system during a treatment session?",
+      "choices": [
+        "Only at the beginning of the session",
+        "Once in the middle of the session",
+        "Continuously throughout the session",
+        "Only at the end of the session"
+      ],
+      "answer": "Continuously throughout the session"
+    }
+  ]
+}

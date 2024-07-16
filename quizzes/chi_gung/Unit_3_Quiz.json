@@ -1,0 +1,305 @@
+{
+  "title": "Qigong for Relaxation",
+  "questions": [
+    {
+      "question": "What is the primary goal of progressive relaxation?",
+      "choices": [
+        "To increase muscle tension",
+        "To induce a state of deep relaxation",
+        "To improve flexibility",
+        "To build muscle strength"
+      ],
+      "answer": "To induce a state of deep relaxation"
+    },
+    {
+      "question": "Who developed the technique of progressive relaxation?",
+      "choices": [
+        "Edmund Jacobson",
+        "Carl Jung",
+        "Sigmund Freud",
+        "B.F. Skinner"
+      ],
+      "answer": "Edmund Jacobson"
+    },
+    {
+      "question": "What is the typical sequence for progressive relaxation?",
+      "choices": [
+        "Head to toe",
+        "Toe to head",
+        "Random muscle groups",
+        "Core to extremities"
+      ],
+      "answer": "Toe to head"
+    },
+    {
+      "question": "How long should muscles be tensed during progressive relaxation?",
+      "choices": [
+        "1-2 seconds",
+        "5-10 seconds",
+        "20-30 seconds",
+        "1-2 minutes"
+      ],
+      "answer": "5-10 seconds"
+    },
+    {
+      "question": "What is visualization in the context of relaxation techniques?",
+      "choices": [
+        "Drawing pictures",
+        "Watching relaxing videos",
+        "Creating mental images",
+        "Reading illustrated books"
+      ],
+      "answer": "Creating mental images"
+    },
+    {
+      "question": "Which of the following is NOT a common theme in relaxation visualizations?",
+      "choices": [
+        "Nature scenes",
+        "Safe, peaceful places",
+        "Healing light or energy",
+        "Stressful work environments"
+      ],
+      "answer": "Stressful work environments"
+    },
+    {
+      "question": "What is the recommended duration for a visualization practice?",
+      "choices": [
+        "30 seconds to 1 minute",
+        "2-3 minutes",
+        "5-15 minutes",
+        "30-60 minutes"
+      ],
+      "answer": "5-15 minutes"
+    },
+    {
+      "question": "What is Qigong self-massage primarily used for?",
+      "choices": [
+        "Building muscle mass",
+        "Improving flexibility",
+        "Relieving tension and promoting relaxation",
+        "Increasing heart rate"
+      ],
+      "answer": "Relieving tension and promoting relaxation"
+    },
+    {
+      "question": "Which of the following is a key principle of Qigong self-massage?",
+      "choices": [
+        "Use intense pressure",
+        "Move in straight lines only",
+        "Focus on breath and intention",
+        "Massage as quickly as possible"
+      ],
+      "answer": "Focus on breath and intention"
+    },
+    {
+      "question": "What is the concept of 'qi' in Qigong?",
+      "choices": [
+        "Physical strength",
+        "Mental focus",
+        "Life energy",
+        "Emotional state"
+      ],
+      "answer": "Life energy"
+    },
+    {
+      "question": "How can Qigong self-massage be integrated into a Qigong practice?",
+      "choices": [
+        "As a warm-up or cool-down",
+        "Only at the beginning",
+        "Only at the end",
+        "It should be practiced separately"
+      ],
+      "answer": "As a warm-up or cool-down"
+    },
+    {
+      "question": "What is the purpose of partner relaxation exercises in this module?",
+      "choices": [
+        "To build muscle strength",
+        "To practice martial arts techniques",
+        "To release tension through gentle tapping/patting",
+        "To improve cardiovascular health"
+      ],
+      "answer": "To release tension through gentle tapping/patting"
+    },
+    {
+      "question": "What type of clothing is recommended for Qigong practice?",
+      "choices": [
+        "Tight-fitting exercise clothes",
+        "Formal business attire",
+        "Comfortable, loose-fitting clothing",
+        "Heavy winter clothing"
+      ],
+      "answer": "Comfortable, loose-fitting clothing"
+    },
+    {
+      "question": "What is the importance of breath awareness in Qigong relaxation techniques?",
+      "choices": [
+        "It helps increase tension",
+        "It's not important in relaxation",
+        "It enhances the relaxation response",
+        "It should be avoided during practice"
+      ],
+      "answer": "It enhances the relaxation response"
+    },
+    {
+      "question": "What are meridians in the context of Qigong and traditional Chinese medicine?",
+      "choices": [
+        "Types of exercises",
+        "Breathing techniques",
+        "Pathways of qi flow in the body",
+        "Relaxation visualizations"
+      ],
+      "answer": "Pathways of qi flow in the body"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of progressive relaxation?",
+      "choices": [
+        "Reduces physical tension",
+        "Lowers stress and anxiety",
+        "Improves sleep quality",
+        "Increases muscle mass"
+      ],
+      "answer": "Increases muscle mass"
+    },
+    {
+      "question": "What is the recommended surface for practicing progressive relaxation?",
+      "choices": [
+        "A hard floor",
+        "Standing up",
+        "A soft surface like a mat or bed",
+        "A chair"
+      ],
+      "answer": "A soft surface like a mat or bed"
+    },
+    {
+      "question": "Which sense is NOT typically engaged in visualization practices?",
+      "choices": [
+        "Sight",
+        "Sound",
+        "Smell",
+        "Taste"
+      ],
+      "answer": "Taste"
+    },
+    {
+      "question": "What is guided imagery in the context of relaxation techniques?",
+      "choices": [
+        "Looking at relaxing pictures",
+        "Following a narrated scenario",
+        "Drawing calming scenes",
+        "Watching relaxation videos"
+      ],
+      "answer": "Following a narrated scenario"
+    },
+    {
+      "question": "How can visualization techniques potentially benefit the immune system?",
+      "choices": [
+        "By increasing stress hormones",
+        "By boosting immune function",
+        "By raising blood pressure",
+        "By increasing muscle tension"
+      ],
+      "answer": "By boosting immune function"
+    },
+    {
+      "question": "What is the recommended pressure for Qigong self-massage?",
+      "choices": [
+        "As hard as possible",
+        "Gentle to moderate",
+        "Very light, barely touching",
+        "Intense and deep"
+      ],
+      "answer": "Gentle to moderate"
+    },
+    {
+      "question": "Which area is NOT typically included in basic Qigong self-massage techniques?",
+      "choices": [
+        "Face",
+        "Hands",
+        "Back",
+        "Feet"
+      ],
+      "answer": "Back"
+    },
+    {
+      "question": "What is the purpose of focusing on the feeling of relaxation after releasing tension in progressive relaxation?",
+      "choices": [
+        "To increase tension",
+        "To enhance body awareness",
+        "To induce sleep",
+        "To build muscle strength"
+      ],
+      "answer": "To enhance body awareness"
+    },
+    {
+      "question": "How often is it recommended to practice relaxation techniques for best results?",
+      "choices": [
+        "Once a month",
+        "Once a week",
+        "Daily",
+        "Only when feeling stressed"
+      ],
+      "answer": "Daily"
+    },
+    {
+      "question": "What is the primary goal of the partner relaxation exercise in this module?",
+      "choices": [
+        "To improve flexibility",
+        "To build trust",
+        "To release tension",
+        "To increase heart rate"
+      ],
+      "answer": "To release tension"
+    },
+    {
+      "question": "Which of the following is emphasized during partner relaxation exercises?",
+      "choices": [
+        "Competitive spirit",
+        "Speed of movements",
+        "Communication and respect for boundaries",
+        "Use of intense pressure"
+      ],
+      "answer": "Communication and respect for boundaries"
+    },
+    {
+      "question": "What is the recommended duration for daily progressive relaxation practice in the homework assignment?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "20 minutes",
+        "30 minutes"
+      ],
+      "answer": "10 minutes"
+    },
+    {
+      "question": "What should students record in their relaxation journal?",
+      "choices": [
+        "Only physical sensations",
+        "Only emotional states",
+        "Physical sensations, mental/emotional states, and challenges",
+        "Daily food intake"
+      ],
+      "answer": "Physical sensations, mental/emotional states, and challenges"
+    },
+    {
+      "question": "What is the purpose of teaching a relaxation technique to someone else?",
+      "choices": [
+        "To show off skills",
+        "To deepen understanding and reinforce learning",
+        "To replace professional instruction",
+        "To earn money"
+      ],
+      "answer": "To deepen understanding and reinforce learning"
+    },
+    {
+      "question": "Which of the following is NOT a type of visualization mentioned in the module?",
+      "choices": [
+        "Guided imagery",
+        "Object visualization",
+        "Process visualization",
+        "Auditory visualization"
+      ],
+      "answer": "Auditory visualization"
+    }
+  ]
+}

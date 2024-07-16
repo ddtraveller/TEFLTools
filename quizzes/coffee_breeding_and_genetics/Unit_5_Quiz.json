@@ -1,0 +1,305 @@
+{
+  "title": "Harvesting and Post-Harvest Processing",
+  "questions": [
+    {
+      "question": "What is the ideal color of ripe coffee cherries for most varieties?",
+      "choices": [
+        "Green",
+        "Yellow",
+        "Bright red",
+        "Brown"
+      ],
+      "answer": "Bright red"
+    },
+    {
+      "question": "How often should coffee cherries ideally be harvested during peak season?",
+      "choices": [
+        "Every 2-3 days",
+        "Every 7-10 days",
+        "Every 2-3 weeks",
+        "Once a month"
+      ],
+      "answer": "Every 7-10 days"
+    },
+    {
+      "question": "What is the purpose of pulping in coffee processing?",
+      "choices": [
+        "To dry the coffee beans",
+        "To remove the cherry skin and pulp",
+        "To ferment the coffee",
+        "To grade the coffee beans"
+      ],
+      "answer": "To remove the cherry skin and pulp"
+    },
+    {
+      "question": "Within how many hours after harvesting should coffee cherries ideally be pulped?",
+      "choices": [
+        "6 hours",
+        "12 hours",
+        "24 hours",
+        "48 hours"
+      ],
+      "answer": "24 hours"
+    },
+    {
+      "question": "What is the main purpose of fermentation in wet processing?",
+      "choices": [
+        "To dry the coffee beans",
+        "To remove the cherry skin",
+        "To break down remaining mucilage",
+        "To enhance the coffee flavor"
+      ],
+      "answer": "To break down remaining mucilage"
+    },
+    {
+      "question": "How long does coffee fermentation typically last?",
+      "choices": [
+        "1-2 hours",
+        "6-8 hours",
+        "12-36 hours",
+        "48-72 hours"
+      ],
+      "answer": "12-36 hours"
+    },
+    {
+      "question": "What is the target moisture content for dried coffee beans?",
+      "choices": [
+        "5-6%",
+        "8-9%",
+        "11-12%",
+        "15-16%"
+      ],
+      "answer": "11-12%"
+    },
+    {
+      "question": "What is the recommended initial thickness for spreading coffee on drying beds?",
+      "choices": [
+        "0.5-1 cm",
+        "1-2 cm",
+        "3-4 cm",
+        "5-6 cm"
+      ],
+      "answer": "1-2 cm"
+    },
+    {
+      "question": "How often should coffee be turned during the early stages of drying?",
+      "choices": [
+        "Every 10-15 minutes",
+        "Every 30-45 minutes",
+        "Every 1-2 hours",
+        "Every 3-4 hours"
+      ],
+      "answer": "Every 30-45 minutes"
+    },
+    {
+      "question": "What is the term for coffee beans still encased in their papery endocarp after pulping and fermentation?",
+      "choices": [
+        "Green coffee",
+        "Parchment coffee",
+        "Silver skin coffee",
+        "Hulled coffee"
+      ],
+      "answer": "Parchment coffee"
+    },
+    {
+      "question": "What is the main advantage of using raised beds for drying coffee?",
+      "choices": [
+        "Faster drying time",
+        "Better color development",
+        "Improved airflow",
+        "Higher yield"
+      ],
+      "answer": "Improved airflow"
+    },
+    {
+      "question": "What is the primary risk of drying coffee directly on the ground?",
+      "choices": [
+        "Overexposure to sunlight",
+        "Uneven drying",
+        "Contamination",
+        "Faster moisture loss"
+      ],
+      "answer": "Contamination"
+    },
+    {
+      "question": "What is the purpose of washing coffee after fermentation?",
+      "choices": [
+        "To start the drying process",
+        "To remove remaining mucilage and fermentation byproducts",
+        "To sort the beans by size",
+        "To enhance the coffee flavor"
+      ],
+      "answer": "To remove remaining mucilage and fermentation byproducts"
+    },
+    {
+      "question": "What is a common defect resulting from over-fermentation during wet processing?",
+      "choices": [
+        "Green beans",
+        "Ferment taste",
+        "Faded appearance",
+        "Black beans"
+      ],
+      "answer": "Ferment taste"
+    },
+    {
+      "question": "What causes the defect known as 'faded appearance' in coffee beans?",
+      "choices": [
+        "Under-fermentation",
+        "Over-washing",
+        "Over-exposure to sunlight during drying",
+        "Insufficient drying"
+      ],
+      "answer": "Over-exposure to sunlight during drying"
+    },
+    {
+      "question": "What is the main difference between wet processing and dry processing?",
+      "choices": [
+        "Wet processing uses water, dry processing doesn't",
+        "Wet processing removes the pulp before drying, dry processing doesn't",
+        "Wet processing is faster than dry processing",
+        "Wet processing produces higher quality coffee"
+      ],
+      "answer": "Wet processing removes the pulp before drying, dry processing doesn't"
+    },
+    {
+      "question": "What is the term for the slimy layer surrounding coffee beans inside the cherry?",
+      "choices": [
+        "Pulp",
+        "Parchment",
+        "Mucilage",
+        "Endocarp"
+      ],
+      "answer": "Mucilage"
+    },
+    {
+      "question": "Why is it important to protect drying coffee from rain and dew?",
+      "choices": [
+        "To speed up the drying process",
+        "To prevent mold growth",
+        "To enhance flavor development",
+        "To maintain consistent color"
+      ],
+      "answer": "To prevent mold growth"
+    },
+    {
+      "question": "What is the risk of drying coffee beans to less than 10% moisture content?",
+      "choices": [
+        "Mold growth",
+        "Fermentation",
+        "Flavor loss",
+        "Increased weight"
+      ],
+      "answer": "Flavor loss"
+    },
+    {
+      "question": "What is the purpose of calibrating pulping equipment?",
+      "choices": [
+        "To increase processing speed",
+        "To minimize damage to beans",
+        "To enhance fermentation",
+        "To improve cherry selection"
+      ],
+      "answer": "To minimize damage to beans"
+    },
+    {
+      "question": "What is the main advantage of selective picking over strip picking?",
+      "choices": [
+        "It's faster",
+        "It ensures only ripe cherries are harvested",
+        "It requires less labor",
+        "It increases yield"
+      ],
+      "answer": "It ensures only ripe cherries are harvested"
+    },
+    {
+      "question": "What is the primary factor that determines the duration of the fermentation process?",
+      "choices": [
+        "Coffee variety",
+        "Ambient temperature",
+        "Altitude of the farm",
+        "pH of the water"
+      ],
+      "answer": "Ambient temperature"
+    },
+    {
+      "question": "What is the purpose of turning coffee during the drying process?",
+      "choices": [
+        "To speed up drying",
+        "To ensure even drying and prevent mold growth",
+        "To improve flavor development",
+        "To separate defective beans"
+      ],
+      "answer": "To ensure even drying and prevent mold growth"
+    },
+    {
+      "question": "What is the main risk of under-drying coffee?",
+      "choices": [
+        "Brittle beans",
+        "Loss of flavor",
+        "Mold growth and rapid deterioration",
+        "Uneven roasting"
+      ],
+      "answer": "Mold growth and rapid deterioration"
+    },
+    {
+      "question": "What is the term for coffee cherries that float during the washing process?",
+      "choices": [
+        "Sinkers",
+        "Floaters",
+        "Lights",
+        "Defects"
+      ],
+      "answer": "Floaters"
+    },
+    {
+      "question": "What causes 'black beans' in coffee?",
+      "choices": [
+        "Over-fermentation",
+        "Under-drying",
+        "Harvesting overripe or fallen cherries",
+        "Excessive sun exposure"
+      ],
+      "answer": "Harvesting overripe or fallen cherries"
+    },
+    {
+      "question": "What is the primary purpose of using clean water in the washing process?",
+      "choices": [
+        "To speed up the process",
+        "To prevent contamination",
+        "To enhance flavor",
+        "To sort the beans"
+      ],
+      "answer": "To prevent contamination"
+    },
+    {
+      "question": "What is the recommended gradual increase in coffee layer thickness during drying?",
+      "choices": [
+        "1-2 cm to 2-3 cm",
+        "2-3 cm to 3-4 cm",
+        "3-4 cm to 4-5 cm",
+        "4-5 cm to 5-6 cm"
+      ],
+      "answer": "1-2 cm to 4-5 cm"
+    },
+    {
+      "question": "What is the main advantage of multiple harvesting passes through a coffee plantation?",
+      "choices": [
+        "It reduces labor costs",
+        "It allows cherries to be picked at peak ripeness",
+        "It prevents over-production",
+        "It reduces the risk of pest infestation"
+      ],
+      "answer": "It allows cherries to be picked at peak ripeness"
+    },
+    {
+      "question": "What is the primary purpose of the initial rapid drying phase for coffee?",
+      "choices": [
+        "To enhance flavor development",
+        "To prevent mold growth",
+        "To reduce processing time",
+        "To improve bean color"
+      ],
+      "answer": "To prevent mold growth"
+    }
+  ]
+}

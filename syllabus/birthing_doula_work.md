@@ -2,7 +2,7 @@
 
 ## Course Overview and Objectives
 
-This course aims to train birth doulas in Timor-Leste to provide emotional, physical, and informational support to women during pregnancy, childbirth, and the early postpartum period. The program is designed to respect and incorporate local cultural practices while introducing evidence-based care. By the end of this course, participants will be able to:
+This course aims to train about birth doulas provide emotional, physical, and informational support to women during pregnancy, childbirth, and the early postpartum period. The program is designed to respect and incorporate local cultural practices while introducing evidence-based care. By the end of this course, participants will be able to:
 
 1. Understand the role of a birth doula in the Timorese context
 2. Provide culturally appropriate support during pregnancy, labor, and postpartum

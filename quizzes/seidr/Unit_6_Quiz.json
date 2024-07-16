@@ -1,0 +1,305 @@
+{
+  "title": "Seidr Techniques and Practices",
+  "questions": [
+    {
+      "question": "What is the primary role of a völva in Norse society?",
+      "choices": [
+        "Warrior",
+        "Seeress",
+        "Queen",
+        "Farmer"
+      ],
+      "answer": "Seeress"
+    },
+    {
+      "question": "What is the term for the high seat used in seidr rituals?",
+      "choices": [
+        "Seidstafr",
+        "Seidhjallr",
+        "Galdr",
+        "Útiseta"
+      ],
+      "answer": "Seidhjallr"
+    },
+    {
+      "question": "Which of the following is NOT a common seidr technique?",
+      "choices": [
+        "Oracular divination",
+        "Shape-shifting",
+        "Spirit journeys",
+        "Blood sacrifice"
+      ],
+      "answer": "Blood sacrifice"
+    },
+    {
+      "question": "What is the Norse term for magical chanting or incantation?",
+      "choices": [
+        "Seidhjallr",
+        "Galdr",
+        "Hamr",
+        "Hugr"
+      ],
+      "answer": "Galdr"
+    },
+    {
+      "question": "What is the purpose of útiseta in seidr practice?",
+      "choices": [
+        "To perform rituals indoors",
+        "To seek visions or commune with spirits in nature",
+        "To challenge other practitioners",
+        "To build physical endurance"
+      ],
+      "answer": "To seek visions or commune with spirits in nature"
+    },
+    {
+      "question": "What is the significance of the staff (seidstafr) in seidr rituals?",
+      "choices": [
+        "It's used for physical support",
+        "It's a symbol of authority and a tool for channeling energy",
+        "It's purely decorative",
+        "It's used to ward off evil spirits"
+      ],
+      "answer": "It's a symbol of authority and a tool for channeling energy"
+    },
+    {
+      "question": "How many worlds are there in Norse cosmology?",
+      "choices": [
+        "Three",
+        "Seven",
+        "Nine",
+        "Twelve"
+      ],
+      "answer": "Nine"
+    },
+    {
+      "question": "What is the Norse concept of 'hamr'?",
+      "choices": [
+        "The soul",
+        "The mind",
+        "The physical form or shape",
+        "The afterlife"
+      ],
+      "answer": "The physical form or shape"
+    },
+    {
+      "question": "What is the primary purpose of shape-shifting in seidr practice?",
+      "choices": [
+        "Entertainment",
+        "Hunting",
+        "Gaining attributes and insights of the chosen form",
+        "Escaping danger"
+      ],
+      "answer": "Gaining attributes and insights of the chosen form"
+    },
+    {
+      "question": "Which of the following is NOT typically associated with inducing altered states in seidr?",
+      "choices": [
+        "Chanting",
+        "Drumming",
+        "Meditation",
+        "Dancing"
+      ],
+      "answer": "Dancing"
+    },
+    {
+      "question": "What is the Norse term for the world tree connecting the Nine Worlds?",
+      "choices": [
+        "Bifrost",
+        "Yggdrasil",
+        "Midgard",
+        "Asgard"
+      ],
+      "answer": "Yggdrasil"
+    },
+    {
+      "question": "What is the primary function of oracular seidr?",
+      "choices": [
+        "Healing",
+        "Cursing enemies",
+        "Divination and prophecy",
+        "Weather control"
+      ],
+      "answer": "Divination and prophecy"
+    },
+    {
+      "question": "Which Norse god is most closely associated with seidr practices?",
+      "choices": [
+        "Thor",
+        "Odin",
+        "Freya",
+        "Loki"
+      ],
+      "answer": "Freya"
+    },
+    {
+      "question": "What is the Norse concept of 'hugr'?",
+      "choices": [
+        "The physical body",
+        "The mind or thought",
+        "The soul",
+        "The spirit animal"
+      ],
+      "answer": "The mind or thought"
+    },
+    {
+      "question": "What is the primary purpose of spirit journeys in seidr?",
+      "choices": [
+        "Physical transportation",
+        "Entertainment",
+        "Gathering information and interacting with spirits",
+        "Escaping reality"
+      ],
+      "answer": "Gathering information and interacting with spirits"
+    },
+    {
+      "question": "Which of the following is NOT a typical reason for performing seidr?",
+      "choices": [
+        "Divination",
+        "Healing",
+        "Cursing",
+        "Agricultural improvement"
+      ],
+      "answer": "Agricultural improvement"
+    },
+    {
+      "question": "What is the significance of feathers in the preparation for a völva's ritual?",
+      "choices": [
+        "They are used as offerings",
+        "They are burned for purification",
+        "They are used to stuff the cushion on the high seat",
+        "They are worn as part of the völva's costume"
+      ],
+      "answer": "They are used to stuff the cushion on the high seat"
+    },
+    {
+      "question": "What is the primary ethical concern when studying seidr practices today?",
+      "choices": [
+        "Environmental impact",
+        "Cultural appropriation",
+        "Legal restrictions",
+        "Health risks"
+      ],
+      "answer": "Cultural appropriation"
+    },
+    {
+      "question": "Which of the following is NOT typically part of a völva's attire?",
+      "choices": [
+        "A black mantle",
+        "A staff",
+        "A sword",
+        "A charm belt"
+      ],
+      "answer": "A sword"
+    },
+    {
+      "question": "What role did drums play in seidr rituals?",
+      "choices": [
+        "They were used as weapons",
+        "They helped induce trance states",
+        "They were purely decorative",
+        "They were used to communicate over long distances"
+      ],
+      "answer": "They helped induce trance states"
+    },
+    {
+      "question": "What is the significance of the Nine Worlds in seidr practice?",
+      "choices": [
+        "They represent different levels of spiritual attainment",
+        "They are realms practitioners believe they can traverse during spirit journeys",
+        "They are physical locations for rituals",
+        "They represent different types of magic"
+      ],
+      "answer": "They are realms practitioners believe they can traverse during spirit journeys"
+    },
+    {
+      "question": "What is the primary difference between seidr and other forms of Norse magic?",
+      "choices": [
+        "Seidr is only practiced by men",
+        "Seidr focuses on divination and spirit work",
+        "Seidr is a purely physical practice",
+        "Seidr is a modern invention"
+      ],
+      "answer": "Seidr focuses on divination and spirit work"
+    },
+    {
+      "question": "What is the significance of the völva's high seat in a ritual?",
+      "choices": [
+        "It's a comfortable place to sit",
+        "It symbolizes the practitioner's ability to see beyond normal realms",
+        "It's used for physical elevation to see the audience",
+        "It's a place to store ritual tools"
+      ],
+      "answer": "It symbolizes the practitioner's ability to see beyond normal realms"
+    },
+    {
+      "question": "Which of the following is NOT a typical goal of a spirit journey in seidr?",
+      "choices": [
+        "Seeking wisdom",
+        "Healing",
+        "Influencing events in the physical world",
+        "Physical transportation"
+      ],
+      "answer": "Physical transportation"
+    },
+    {
+      "question": "What is the primary purpose of galdr in seidr practices?",
+      "choices": [
+        "To entertain the audience",
+        "To induce altered states and invoke spiritual forces",
+        "To keep time during rituals",
+        "To ward off evil spirits"
+      ],
+      "answer": "To induce altered states and invoke spiritual forces"
+    },
+    {
+      "question": "What is the significance of the charm belt worn by völvas?",
+      "choices": [
+        "It's purely decorative",
+        "It holds charms needed for predictions",
+        "It represents their status in society",
+        "It's used for self-defense"
+      ],
+      "answer": "It holds charms needed for predictions"
+    },
+    {
+      "question": "Which of the following is NOT a typical being encountered in the Nine Worlds cosmology?",
+      "choices": [
+        "Gods",
+        "Giants",
+        "Elves",
+        "Centaurs"
+      ],
+      "answer": "Centaurs"
+    },
+    {
+      "question": "What is the primary difference between hamr and hugr in Norse concepts?",
+      "choices": [
+        "Hamr is physical, hugr is mental",
+        "Hamr is for animals, hugr is for humans",
+        "Hamr is evil, hugr is good",
+        "Hamr is modern, hugr is ancient"
+      ],
+      "answer": "Hamr is physical, hugr is mental"
+    },
+    {
+      "question": "What is the primary purpose of studying seidr practices in a modern context?",
+      "choices": [
+        "To revive the religion",
+        "To gain magical powers",
+        "To understand historical and cultural perspectives",
+        "To prove the existence of supernatural phenomena"
+      ],
+      "answer": "To understand historical and cultural perspectives"
+    },
+    {
+      "question": "Which of the following is NOT a typical material used in a völva's attire?",
+      "choices": [
+        "Catskin",
+        "Lambskin",
+        "Glass beads",
+        "Silk"
+      ],
+      "answer": "Silk"
+    }
+  ]
+}

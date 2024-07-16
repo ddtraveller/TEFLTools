@@ -1,0 +1,305 @@
+{
+  "title": "Seidr Techniques and Practices",
+  "questions": [
+    {
+      "question": "What is the primary purpose of oracular seidr?",
+      "choices": [
+        "Physical healing",
+        "Weather control",
+        "Divination and gaining insight into future events",
+        "Shape-shifting"
+      ],
+      "answer": "Divination and gaining insight into future events"
+    },
+    {
+      "question": "Who were the main practitioners of seidr in Norse society?",
+      "choices": [
+        "Jarls",
+        "Volvas",
+        "Skalds",
+        "Berserkers"
+      ],
+      "answer": "Volvas"
+    },
+    {
+      "question": "What is the term for the songs used in seidr rituals?",
+      "choices": [
+        "Vardlokkur",
+        "Skaldic verses",
+        "Eddic poems",
+        "Runic chants"
+      ],
+      "answer": "Vardlokkur"
+    },
+    {
+      "question": "What was the high seat or platform used in seidr rituals called?",
+      "choices": [
+        "Seidhjallr",
+        "Volva's throne",
+        "Yggdrasil",
+        "Bifrost"
+      ],
+      "answer": "Seidhjallr"
+    },
+    {
+      "question": "In Norse tradition, what is the concept of 'hugr'?",
+      "choices": [
+        "Physical form",
+        "Mind or spirit",
+        "Magical staff",
+        "Ritual clothing"
+      ],
+      "answer": "Mind or spirit"
+    },
+    {
+      "question": "What is the Norse term for 'shape' or 'form' in the context of shape-shifting?",
+      "choices": [
+        "Hamr",
+        "Fylgja",
+        "Seidr",
+        "Galdr"
+      ],
+      "answer": "Hamr"
+    },
+    {
+      "question": "What was the primary purpose of shape-shifting and spirit journeys in seidr practice?",
+      "choices": [
+        "Physical transformation",
+        "Entertainment",
+        "Gathering information and influencing events at a distance",
+        "Hunting animals"
+      ],
+      "answer": "Gathering information and influencing events at a distance"
+    },
+    {
+      "question": "What is the Norse concept similar to a spirit animal or guardian spirit?",
+      "choices": [
+        "Hamr",
+        "Hugr",
+        "Fylgja",
+        "Seidhjallr"
+      ],
+      "answer": "Fylgja"
+    },
+    {
+      "question": "What was the primary material used to stuff the cushion on the seidr practitioner's high seat?",
+      "choices": [
+        "Wool",
+        "Hen's feathers",
+        "Straw",
+        "Goose down"
+      ],
+      "answer": "Hen's feathers"
+    },
+    {
+      "question": "What was the social status of seidr practitioners in Norse society?",
+      "choices": [
+        "Outcasts",
+        "Royalty",
+        "Respected and sometimes feared",
+        "Common laborers"
+      ],
+      "answer": "Respected and sometimes feared"
+    },
+    {
+      "question": "What was the term used to describe male practitioners of seidr, often carrying a negative connotation?",
+      "choices": [
+        "Ergi",
+        "Jarl",
+        "Skald",
+        "Berserker"
+      ],
+      "answer": "Ergi"
+    },
+    {
+      "question": "Which Norse god is most closely associated with the practice of seidr?",
+      "choices": [
+        "Thor",
+        "Odin",
+        "Loki",
+        "Freyr"
+      ],
+      "answer": "Odin"
+    },
+    {
+      "question": "What type of Norse literature provides most of our information about seidr practices?",
+      "choices": [
+        "Runic inscriptions",
+        "Legal codes",
+        "Sagas and Eddic poetry",
+        "Christian missionary accounts"
+      ],
+      "answer": "Sagas and Eddic poetry"
+    },
+    {
+      "question": "What is the name of the staff used by seidr practitioners?",
+      "choices": [
+        "Runestav",
+        "Seidstafr",
+        "Volvestav",
+        "Gandrstafr"
+      ],
+      "answer": "Seidstafr"
+    },
+    {
+      "question": "What role did drums play in seidr practices?",
+      "choices": [
+        "They were used as weapons",
+        "They were used to create altered states of consciousness",
+        "They were purely decorative",
+        "They were used to communicate over long distances"
+      ],
+      "answer": "They were used to create altered states of consciousness"
+    },
+    {
+      "question": "What is the name of the prophetess described in the Saga of Erik the Red?",
+      "choices": [
+        "Freya",
+        "Gudrid",
+        "Thorbjorg",
+        "Halldis"
+      ],
+      "answer": "Thorbjorg"
+    },
+    {
+      "question": "What was the primary function of chanting in seidr rituals?",
+      "choices": [
+        "To entertain the audience",
+        "To invoke spirits or deities and focus intent",
+        "To demonstrate the practitioner's singing ability",
+        "To keep time for dancers"
+      ],
+      "answer": "To invoke spirits or deities and focus intent"
+    },
+    {
+      "question": "What is the term for the Norse concept of fate or destiny?",
+      "choices": [
+        "Wyrd",
+        "Karma",
+        "Kismet",
+        "Moira"
+      ],
+      "answer": "Wyrd"
+    },
+    {
+      "question": "Which of the following is NOT typically associated with seidr practices?",
+      "choices": [
+        "Divination",
+        "Shape-shifting",
+        "Healing",
+        "Metallurgy"
+      ],
+      "answer": "Metallurgy"
+    },
+    {
+      "question": "What was the typical social role of volvas in Norse society?",
+      "choices": [
+        "Full-time temple priestesses",
+        "Political leaders",
+        "Itinerant seers traveling between communities",
+        "Warrior women"
+      ],
+      "answer": "Itinerant seers traveling between communities"
+    },
+    {
+      "question": "What is the name of the world tree in Norse cosmology, often associated with shamanic journeys?",
+      "choices": [
+        "Bifrost",
+        "Yggdrasil",
+        "Midgard",
+        "Asgard"
+      ],
+      "answer": "Yggdrasil"
+    },
+    {
+      "question": "What type of animal skin was often used in the clothing of seidr practitioners?",
+      "choices": [
+        "Bear",
+        "Wolf",
+        "Cat",
+        "Deer"
+      ],
+      "answer": "Cat"
+    },
+    {
+      "question": "What is the primary ethical concern when practicing or studying seidr techniques in modern times?",
+      "choices": [
+        "Environmental impact",
+        "Cultural appropriation",
+        "Legal restrictions",
+        "Physical danger"
+      ],
+      "answer": "Cultural appropriation"
+    },
+    {
+      "question": "Which of the following is NOT a common purpose of seidr in historical accounts?",
+      "choices": [
+        "Predicting the future",
+        "Cursing enemies",
+        "Healing the sick",
+        "Increasing crop yields"
+      ],
+      "answer": "Increasing crop yields"
+    },
+    {
+      "question": "What is the term for the Norse concept of luck or personal power?",
+      "choices": [
+        "Hamingja",
+        "Orlog",
+        "Seidr",
+        "Galdr"
+      ],
+      "answer": "Hamingja"
+    },
+    {
+      "question": "Which of the following is a key difference between seidr and other forms of Norse magic?",
+      "choices": [
+        "Seidr was only practiced by men",
+        "Seidr focused on divination and fate manipulation",
+        "Seidr did not involve communication with spirits",
+        "Seidr was accepted by the Christian church"
+      ],
+      "answer": "Seidr focused on divination and fate manipulation"
+    },
+    {
+      "question": "What is the name of the Norse goddess most closely associated with seidr?",
+      "choices": [
+        "Frigg",
+        "Skadi",
+        "Freyja",
+        "Hel"
+      ],
+      "answer": "Freyja"
+    },
+    {
+      "question": "What was the typical duration of a seidr ritual as described in historical sources?",
+      "choices": [
+        "A few minutes",
+        "Several hours to overnight",
+        "Several days",
+        "A month or longer"
+      ],
+      "answer": "Several hours to overnight"
+    },
+    {
+      "question": "What is the term for the Norse concept of ancestral memory or inherited wisdom?",
+      "choices": [
+        "Minni",
+        "Hugr",
+        "Hamr",
+        "Fylgja"
+      ],
+      "answer": "Minni"
+    },
+    {
+      "question": "Which of the following is NOT a common tool used in seidr practices?",
+      "choices": [
+        "Staff",
+        "Drum",
+        "Sword",
+        "Chant"
+      ],
+      "answer": "Sword"
+    }
+  ]
+}

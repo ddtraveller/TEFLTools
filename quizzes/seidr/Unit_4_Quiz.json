@@ -1,0 +1,305 @@
+{
+  "title": "Cosmology and Spirits in Northern Tradition",
+  "questions": [
+    {
+      "question": "How many worlds are there in Norse cosmology?",
+      "choices": [
+        "Seven",
+        "Nine",
+        "Ten",
+        "Twelve"
+      ],
+      "answer": "Nine"
+    },
+    {
+      "question": "What is the name of the world tree in Norse mythology?",
+      "choices": [
+        "Bifrost",
+        "Mjolnir",
+        "Yggdrasil",
+        "Gungnir"
+      ],
+      "answer": "Yggdrasil"
+    },
+    {
+      "question": "Which world is the realm of humans in Norse cosmology?",
+      "choices": [
+        "Asgard",
+        "Midgard",
+        "Vanaheim",
+        "Alfheim"
+      ],
+      "answer": "Midgard"
+    },
+    {
+      "question": "What is the name of the realm of the Aesir gods?",
+      "choices": [
+        "Vanaheim",
+        "Jotunheim",
+        "Asgard",
+        "Helheim"
+      ],
+      "answer": "Asgard"
+    },
+    {
+      "question": "Which of the following is NOT one of the Nine Worlds in Norse cosmology?",
+      "choices": [
+        "Niflheim",
+        "Muspelheim",
+        "Valhalla",
+        "Svartalfheim"
+      ],
+      "answer": "Valhalla"
+    },
+    {
+      "question": "What type of spirits are associated with specific natural features in Norse tradition?",
+      "choices": [
+        "Disir",
+        "Alfar",
+        "Landvaettir",
+        "Valkyries"
+      ],
+      "answer": "Landvaettir"
+    },
+    {
+      "question": "Which god is primarily associated with seidr magic in Norse mythology?",
+      "choices": [
+        "Thor",
+        "Odin",
+        "Freyja",
+        "Tyr"
+      ],
+      "answer": "Freyja"
+    },
+    {
+      "question": "What are the female guardian spirits associated with fate and family lineages called?",
+      "choices": [
+        "Valkyries",
+        "Norns",
+        "Disir",
+        "Volvas"
+      ],
+      "answer": "Disir"
+    },
+    {
+      "question": "Which world is associated with fire in Norse cosmology?",
+      "choices": [
+        "Niflheim",
+        "Muspelheim",
+        "Helheim",
+        "Jotunheim"
+      ],
+      "answer": "Muspelheim"
+    },
+    {
+      "question": "What is the name of the underworld ruled by Hel in Norse mythology?",
+      "choices": [
+        "Niflheim",
+        "Helheim",
+        "Svartalfheim",
+        "Vanaheim"
+      ],
+      "answer": "Helheim"
+    },
+    {
+      "question": "Which of Yggdrasil's roots extends to the realm of the frost giants?",
+      "choices": [
+        "The root in Asgard",
+        "The root in Jotunheim",
+        "The root in Niflheim",
+        "The root in Midgard"
+      ],
+      "answer": "The root in Jotunheim"
+    },
+    {
+      "question": "What creature gnaws at the roots of Yggdrasil?",
+      "choices": [
+        "Fenrir",
+        "Jormungandr",
+        "Nidhogg",
+        "Ratatoskr"
+      ],
+      "answer": "Nidhogg"
+    },
+    {
+      "question": "Which group of gods are associated with fertility and prosperity?",
+      "choices": [
+        "Aesir",
+        "Vanir",
+        "Jotnar",
+        "Alfar"
+      ],
+      "answer": "Vanir"
+    },
+    {
+      "question": "What is the name of the well located beneath one of Yggdrasil's roots?",
+      "choices": [
+        "Mimir's Well",
+        "Hvergelmir",
+        "Urd's Well",
+        "Wyrd's Well"
+      ],
+      "answer": "Urd's Well"
+    },
+    {
+      "question": "Which world is home to the light elves in Norse cosmology?",
+      "choices": [
+        "Alfheim",
+        "Svartalfheim",
+        "Vanaheim",
+        "Midgard"
+      ],
+      "answer": "Alfheim"
+    },
+    {
+      "question": "What is the primary purpose of ancestral veneration in Northern Tradition?",
+      "choices": [
+        "To gain material wealth",
+        "To receive guidance and protection",
+        "To control the weather",
+        "To predict the future"
+      ],
+      "answer": "To receive guidance and protection"
+    },
+    {
+      "question": "Which of the following is NOT a category of spirits in Norse tradition?",
+      "choices": [
+        "Gods",
+        "Ancestors",
+        "Nature spirits",
+        "Demons"
+      ],
+      "answer": "Demons"
+    },
+    {
+      "question": "What is the name of the rainbow bridge connecting Asgard and Midgard?",
+      "choices": [
+        "Yggdrasil",
+        "Bifrost",
+        "Gjallarbrú",
+        "Gjöll"
+      ],
+      "answer": "Bifrost"
+    },
+    {
+      "question": "Which of the Nine Worlds is associated with ice and mist?",
+      "choices": [
+        "Muspelheim",
+        "Niflheim",
+        "Jotunheim",
+        "Helheim"
+      ],
+      "answer": "Niflheim"
+    },
+    {
+      "question": "What type of beings inhabit Jotunheim?",
+      "choices": [
+        "Elves",
+        "Dwarves",
+        "Giants",
+        "Humans"
+      ],
+      "answer": "Giants"
+    },
+    {
+      "question": "Which Norse god is associated with thunder and protection?",
+      "choices": [
+        "Odin",
+        "Thor",
+        "Freyr",
+        "Tyr"
+      ],
+      "answer": "Thor"
+    },
+    {
+      "question": "What is the name for female practitioners of seidr?",
+      "choices": [
+        "Valkyries",
+        "Norns",
+        "Volvas",
+        "Disir"
+      ],
+      "answer": "Volvas"
+    },
+    {
+      "question": "Which of the following is a primary source for Norse mythology?",
+      "choices": [
+        "The Bible",
+        "The Iliad",
+        "The Poetic Edda",
+        "The Kalevala"
+      ],
+      "answer": "The Poetic Edda"
+    },
+    {
+      "question": "What is the significance of Yggdrasil in Norse cosmology?",
+      "choices": [
+        "It is the weapon of Thor",
+        "It connects all the Nine Worlds",
+        "It is the home of the gods",
+        "It is the source of all magic"
+      ],
+      "answer": "It connects all the Nine Worlds"
+    },
+    {
+      "question": "Which of the following is NOT a function of seidr practice?",
+      "choices": [
+        "Divination",
+        "Shapeshifting",
+        "Healing",
+        "Creating weapons"
+      ],
+      "answer": "Creating weapons"
+    },
+    {
+      "question": "What is the term for the Norse concept of fate or destiny?",
+      "choices": [
+        "Ragnarok",
+        "Wyrd",
+        "Seidr",
+        "Galdr"
+      ],
+      "answer": "Wyrd"
+    },
+    {
+      "question": "Which world is home to the dwarves and dark elves in Norse cosmology?",
+      "choices": [
+        "Alfheim",
+        "Svartalfheim",
+        "Nidavellir",
+        "Midgard"
+      ],
+      "answer": "Svartalfheim"
+    },
+    {
+      "question": "What is the name of the Norse goddess associated with love, beauty, and seidr magic?",
+      "choices": [
+        "Frigg",
+        "Sif",
+        "Freyja",
+        "Idun"
+      ],
+      "answer": "Freyja"
+    },
+    {
+      "question": "Which of the following is a key aspect of Norse ancestral veneration?",
+      "choices": [
+        "Building large temples",
+        "Human sacrifice",
+        "Performing rituals during festivals",
+        "Writing lengthy prayers"
+      ],
+      "answer": "Performing rituals during festivals"
+    },
+    {
+      "question": "What is the primary difference between the Aesir and Vanir gods?",
+      "choices": [
+        "Their physical appearance",
+        "Their associated domains and attributes",
+        "Their place of residence",
+        "Their relationship with humans"
+      ],
+      "answer": "Their associated domains and attributes"
+    }
+  ]
+}

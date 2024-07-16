@@ -1,0 +1,305 @@
+{
+  "title": "The Dural Tube and Sacrum",
+  "questions": [
+    {
+      "question": "What is the primary function of the dural tube?",
+      "choices": [
+        "To produce cerebrospinal fluid",
+        "To protect and encase the spinal cord",
+        "To connect the skull to the pelvis",
+        "To facilitate blood flow to the brain"
+      ],
+      "answer": "To protect and encase the spinal cord"
+    },
+    {
+      "question": "Which of the following is NOT a layer of the dural tube?",
+      "choices": [
+        "Dura mater",
+        "Arachnoid mater",
+        "Pia mater",
+        "Periosteum"
+      ],
+      "answer": "Periosteum"
+    },
+    {
+      "question": "Where does the dural tube attach at its lower end?",
+      "choices": [
+        "Coccyx",
+        "L5 vertebra",
+        "Sacrum",
+        "Ilium"
+      ],
+      "answer": "Sacrum"
+    },
+    {
+      "question": "What is the primary function of cerebrospinal fluid?",
+      "choices": [
+        "To lubricate joints",
+        "To cushion and protect the brain and spinal cord",
+        "To produce hormones",
+        "To regulate body temperature"
+      ],
+      "answer": "To cushion and protect the brain and spinal cord"
+    },
+    {
+      "question": "How many sacral vertebrae typically fuse to form the sacrum?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "What is the craniosacral rhythm associated with?",
+      "choices": [
+        "Heartbeat",
+        "Breathing",
+        "Cerebrospinal fluid flow",
+        "Muscle contractions"
+      ],
+      "answer": "Cerebrospinal fluid flow"
+    },
+    {
+      "question": "Which structure forms the posterior wall of the pelvis?",
+      "choices": [
+        "Ilium",
+        "Ischium",
+        "Pubis",
+        "Sacrum"
+      ],
+      "answer": "Sacrum"
+    },
+    {
+      "question": "What is the purpose of sacral decompression in craniosacral therapy?",
+      "choices": [
+        "To increase blood flow to the legs",
+        "To release restrictions and improve cerebrospinal fluid flow",
+        "To strengthen the pelvic floor muscles",
+        "To realign the vertebrae"
+      ],
+      "answer": "To release restrictions and improve cerebrospinal fluid flow"
+    },
+    {
+      "question": "Which nerve emerges from the sacral foramina?",
+      "choices": [
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Tibial nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Sciatic nerve"
+    },
+    {
+      "question": "What is the filum terminale?",
+      "choices": [
+        "A ligament connecting the sacrum to the coccyx",
+        "The end of the spinal cord",
+        "An extension of the dural tube from S2 to the coccyx",
+        "A nerve plexus in the sacral region"
+      ],
+      "answer": "An extension of the dural tube from S2 to the coccyx"
+    },
+    {
+      "question": "Which of the following is NOT a common effect of sacral restrictions?",
+      "choices": [
+        "Lower back pain",
+        "Headaches",
+        "Improved digestion",
+        "Pelvic floor tension"
+      ],
+      "answer": "Improved digestion"
+    },
+    {
+      "question": "What is the primary goal of palpating the sacrum in craniosacral therapy?",
+      "choices": [
+        "To diagnose bone fractures",
+        "To assess mobility and restrictions",
+        "To measure bone density",
+        "To evaluate muscle strength"
+      ],
+      "answer": "To assess mobility and restrictions"
+    },
+    {
+      "question": "Which structure is responsible for producing most of the cerebrospinal fluid?",
+      "choices": [
+        "Dural tube",
+        "Choroid plexus",
+        "Sacrum",
+        "Arachnoid villi"
+      ],
+      "answer": "Choroid plexus"
+    },
+    {
+      "question": "What is the significance of the sacral promontory?",
+      "choices": [
+        "It's the attachment point for the dural tube",
+        "It's a key landmark for assessing sacral position",
+        "It's where cerebrospinal fluid is produced",
+        "It's the origin of the sciatic nerve"
+      ],
+      "answer": "It's a key landmark for assessing sacral position"
+    },
+    {
+      "question": "Which of the following is a correct hand position for sacral decompression?",
+      "choices": [
+        "Hands on the lower back",
+        "One hand on the sacrum, one on the lumbar spine",
+        "Both hands cupping the sacrum",
+        "Hands on the hips"
+      ],
+      "answer": "Both hands cupping the sacrum"
+    },
+    {
+      "question": "What is the seated flexion test used to assess?",
+      "choices": [
+        "Muscle strength",
+        "Sacroiliac joint mobility",
+        "Spinal cord function",
+        "Cerebrospinal fluid production"
+      ],
+      "answer": "Sacroiliac joint mobility"
+    },
+    {
+      "question": "Which of the following is NOT a typical symptom of dural tube restriction?",
+      "choices": [
+        "Headaches",
+        "Back pain",
+        "Cognitive issues",
+        "Increased flexibility"
+      ],
+      "answer": "Increased flexibility"
+    },
+    {
+      "question": "What is the primary function of the arachnoid villi?",
+      "choices": [
+        "To produce cerebrospinal fluid",
+        "To absorb cerebrospinal fluid into the venous system",
+        "To connect the dura mater to the pia mater",
+        "To provide nutrition to the spinal cord"
+      ],
+      "answer": "To absorb cerebrospinal fluid into the venous system"
+    },
+    {
+      "question": "Which of the following best describes the relationship between the dural tube and the sacrum?",
+      "choices": [
+        "They are separate structures with no direct connection",
+        "The dural tube attaches firmly to the sacrum at its base",
+        "The sacrum encases the lower portion of the dural tube",
+        "The dural tube terminates above the sacrum"
+      ],
+      "answer": "The dural tube attaches firmly to the sacrum at its base"
+    },
+    {
+      "question": "What is the significance of the sacral hiatus in craniosacral therapy?",
+      "choices": [
+        "It's where cerebrospinal fluid is produced",
+        "It's a key area for assessing sacral mobility",
+        "It's the attachment point for the dural tube",
+        "It's where the sciatic nerve emerges"
+      ],
+      "answer": "It's a key area for assessing sacral mobility"
+    },
+    {
+      "question": "Which of the following is NOT a typical objective when assessing the sacrum?",
+      "choices": [
+        "Checking for symmetry",
+        "Evaluating mobility",
+        "Measuring bone density",
+        "Feeling for tissue texture changes"
+      ],
+      "answer": "Measuring bone density"
+    },
+    {
+      "question": "What is the primary purpose of the sacroiliac joint?",
+      "choices": [
+        "To produce synovial fluid",
+        "To allow for hip rotation",
+        "To transfer loads between the spine and lower limbs",
+        "To protect the sacral nerve roots"
+      ],
+      "answer": "To transfer loads between the spine and lower limbs"
+    },
+    {
+      "question": "Which of the following best describes the motion applied during sacral decompression?",
+      "choices": [
+        "Rapid, forceful thrusts",
+        "Gentle traction in an inferior direction",
+        "Circular mobilization",
+        "High-velocity rotations"
+      ],
+      "answer": "Gentle traction in an inferior direction"
+    },
+    {
+      "question": "What is the primary function of the pudendal nerve, which emerges from the sacral region?",
+      "choices": [
+        "To control leg movements",
+        "To regulate digestion",
+        "To innervate the external genitalia and pelvic floor",
+        "To control bladder function"
+      ],
+      "answer": "To innervate the external genitalia and pelvic floor"
+    },
+    {
+      "question": "Which of the following is a potential consequence of restricted sacral mobility?",
+      "choices": [
+        "Increased cerebrospinal fluid production",
+        "Enhanced cognitive function",
+        "Improved lower back flexibility",
+        "Altered craniosacral rhythm"
+      ],
+      "answer": "Altered craniosacral rhythm"
+    },
+    {
+      "question": "What is the primary goal of integrating craniosacral therapy with traditional Timorese healing practices?",
+      "choices": [
+        "To replace traditional methods entirely",
+        "To create a more holistic approach to healthcare",
+        "To increase the cost of treatments",
+        "To simplify the healthcare system"
+      ],
+      "answer": "To create a more holistic approach to healthcare"
+    },
+    {
+      "question": "Which of the following is an important consideration when performing sacral assessment in Timor-Leste?",
+      "choices": [
+        "Using complex medical terminology",
+        "Ignoring cultural sensitivities",
+        "Obtaining explicit consent for touching the sacral area",
+        "Applying forceful techniques"
+      ],
+      "answer": "Obtaining explicit consent for touching the sacral area"
+    },
+    {
+      "question": "What is the significance of the S2 vertebra in relation to the dural tube?",
+      "choices": [
+        "It's where the dural tube begins",
+        "It's where the dural tube typically attaches to the sacrum",
+        "It's where cerebrospinal fluid is produced",
+        "It's where the sacral plexus emerges"
+      ],
+      "answer": "It's where the dural tube typically attaches to the sacrum"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'listening stations' in craniosacral assessment?",
+      "choices": [
+        "Points where the therapist can hear internal body sounds",
+        "Locations where subtle movements and tensions can be palpated",
+        "Areas where electrical activity in the nervous system is measured",
+        "Positions where the patient describes their symptoms"
+      ],
+      "answer": "Locations where subtle movements and tensions can be palpated"
+    },
+    {
+      "question": "What is the primary purpose of keeping a practice log when learning sacral decompression techniques?",
+      "choices": [
+        "To record patient information",
+        "To track billing and payments",
+        "To note improvements in technique and sensitivity",
+        "To plan future treatment sessions"
+      ],
+      "answer": "To note improvements in technique and sensitivity"
+    }
+  ]
+}

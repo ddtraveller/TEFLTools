@@ -2,7 +2,7 @@
 
 ## Course Overview and Objectives
 
-This course aims to introduce healthcare providers in Timor-Leste to the principles and techniques of Manual Lymphatic Drainage (MLD). Participants will learn about the lymphatic system, its importance in health, and how to perform MLD techniques adapted for the Timorese context. The course will emphasize practical skills and cultural sensitivity in applying these techniques to common health issues in Timor-Leste.
+This course aims to introduce students in Timor-Leste to the principles and techniques of Manual Lymphatic Drainage (MLD). Participants will learn about the lymphatic system, its importance in health, and how to perform MLD techniques adapted for the Timorese context. The course will emphasize practical skills and cultural sensitivity in applying these techniques to common health issues in Timor-Leste.
 
 Course objectives:
 1. Understand the lymphatic system and its role in health

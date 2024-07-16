@@ -21,15 +21,7 @@
  Ai-han ne'ebé te'in maibé ai-han ne'e la iha 
  Ita sei dansa ba múzika Jah, dansa 
  Ami sei dansa ba múzika Jah, dansa, oh-oh 
- Haree fatuk hatudu besik Morrison 
- Hetan billete ki'ik hanesan $73 
- Karik Ita mós gosta 
- To'o tempu naruk, London 
- Taylor Swift 
- Departamentu Poezia tortura 
- Taylor Swift 
- Kalan-boot 
- Taylor Swift 
+
  [ Versaun 2] 
  Iha kabun nakonu, maibé sira hamlaha; 
  Ema ne'ebé hamlaha mak ema ne'ebé hirus 
@@ -48,7 +40,7 @@
 [Chorus]
 Them belly full, but we hungry
 A hungry mob is a angry mob
-A rain a fall, but the dutty tough
+A rain a fall, but the dirty tough
 A yut a yook but yood nah nuff
 You're going to dance to Jah music, dance
 We're going to dance to Jah music, dance, oh-ooh
@@ -71,15 +63,7 @@ A rain a fall, but the dirt it tough
 A pot a cook but the food nah nuff
 You're going to dance to Jah music, dance
 We're going to dance to Jah music, dance, oh-ooh
-See rock shows near Morrison
-Get tickets as low as $73
-You might also like
-So Long, London
-Taylor Swift
-The Tortured Poets Department
-Taylor Swift
-Fortnight
-Taylor Swift
+
 [Verse 2]
 A belly full, but them hungry;
 A hungry mob is a angry mob
@@ -87,8 +71,8 @@ A rain a-fall, but the dutty tough;
 A pot a-cook, but the food nah nuff
 A hungry man is a angry man;
 A rain a-fall, but the dutty tough;
-A pot a-cook, but the food na nuff
-A rain a-fall, but the dutty tough
+A pot a-cook, but the food na enuff
+A rain a-fall, but the dirty tough
 A pot a-cook, but the food na nuff
 A hungry mob is a angry mob;
 A hungry mob is a angry mob

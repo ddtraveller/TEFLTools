@@ -1,0 +1,305 @@
+{
+  "title": "Climate-Smart Coffee Production",
+  "questions": [
+    {
+      "question": "What is the projected temperature increase in Timor-Leste by 2050?",
+      "choices": [
+        "0.5-1.0°C",
+        "1.0-1.5°C",
+        "1.5-2.5°C",
+        "2.5-3.5°C"
+      ],
+      "answer": "1.5-2.5°C"
+    },
+    {
+      "question": "Which of the following is NOT a direct impact of climate change on coffee production in Timor-Leste?",
+      "choices": [
+        "Altered flowering patterns",
+        "Faster ripening of coffee cherries",
+        "Increased pest and disease pressure",
+        "Improved soil fertility"
+      ],
+      "answer": "Improved soil fertility"
+    },
+    {
+      "question": "What is the recommended shade level for Arabica coffee in Timor-Leste?",
+      "choices": [
+        "10-20%",
+        "30-50%",
+        "60-80%",
+        "90-100%"
+      ],
+      "answer": "30-50%"
+    },
+    {
+      "question": "Which of the following coffee varieties is known for its natural drought resistance?",
+      "choices": [
+        "Typica",
+        "Bourbon",
+        "Timor Hybrid",
+        "Gesha"
+      ],
+      "answer": "Timor Hybrid"
+    },
+    {
+      "question": "What is the primary benefit of mulching in coffee production?",
+      "choices": [
+        "Increases soil temperature",
+        "Promotes weed growth",
+        "Reduces soil evaporation",
+        "Accelerates coffee cherry ripening"
+      ],
+      "answer": "Reduces soil evaporation"
+    },
+    {
+      "question": "Which water conservation method is most efficient, with up to 90% efficiency compared to flood irrigation?",
+      "choices": [
+        "Sprinkler irrigation",
+        "Flood irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is the recommended thickness for applying mulch around coffee plants?",
+      "choices": [
+        "1-2 cm",
+        "3-4 cm",
+        "5-10 cm",
+        "15-20 cm"
+      ],
+      "answer": "5-10 cm"
+    },
+    {
+      "question": "Which of the following is NOT a component of a drip irrigation system?",
+      "choices": [
+        "Water source",
+        "Main line",
+        "Sprinkler heads",
+        "Drippers or emitters"
+      ],
+      "answer": "Sprinkler heads"
+    },
+    {
+      "question": "What is the primary purpose of pruning coffee trees for water efficiency?",
+      "choices": [
+        "To increase water uptake",
+        "To reduce water demand",
+        "To promote faster growth",
+        "To increase leaf surface area"
+      ],
+      "answer": "To reduce water demand"
+    },
+    {
+      "question": "Which of the following is a benefit of shade trees in coffee production?",
+      "choices": [
+        "Increases soil erosion",
+        "Reduces biodiversity",
+        "Improves soil moisture retention",
+        "Accelerates coffee ripening"
+      ],
+      "answer": "Improves soil moisture retention"
+    },
+    {
+      "question": "What is the best time to prune coffee trees for water efficiency?",
+      "choices": [
+        "During flowering",
+        "During fruit development",
+        "After harvest, before the rainy season",
+        "During the peak of the dry season"
+      ],
+      "answer": "After harvest, before the rainy season"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for rainwater harvesting in coffee farms?",
+      "choices": [
+        "Rooftop collection systems",
+        "Contour trenches on hillsides",
+        "Small check dams in seasonal streams",
+        "Deep well drilling"
+      ],
+      "answer": "Deep well drilling"
+    },
+    {
+      "question": "What is the primary challenge faced by high altitude coffee farms in Timor-Leste due to climate change?",
+      "choices": [
+        "Increased rainfall",
+        "Cooler temperatures",
+        "Becoming too warm for quality Arabica production",
+        "Reduced pest pressure"
+      ],
+      "answer": "Becoming too warm for quality Arabica production"
+    },
+    {
+      "question": "Which coffee variety is known for good drought tolerance and disease resistance?",
+      "choices": [
+        "Typica",
+        "Bourbon",
+        "Sarchimor",
+        "Gesha"
+      ],
+      "answer": "Sarchimor"
+    },
+    {
+      "question": "What is the primary benefit of contour planting in coffee farms?",
+      "choices": [
+        "Increases yield",
+        "Prevents soil erosion",
+        "Improves coffee flavor",
+        "Reduces shade"
+      ],
+      "answer": "Prevents soil erosion"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of proper shade management in coffee production?",
+      "choices": [
+        "Reduces temperature extremes",
+        "Improves soil moisture retention",
+        "Provides additional income from fruit or timber",
+        "Eliminates the need for irrigation"
+      ],
+      "answer": "Eliminates the need for irrigation"
+    },
+    {
+      "question": "What is the primary purpose of selective pruning in coffee trees?",
+      "choices": [
+        "To increase water uptake",
+        "To promote faster growth",
+        "To remove unproductive branches",
+        "To increase leaf surface area"
+      ],
+      "answer": "To remove unproductive branches"
+    },
+    {
+      "question": "Which of the following is a potential negative impact of climate change on coffee quality?",
+      "choices": [
+        "Slower ripening of cherries",
+        "Increased acidity",
+        "Faster ripening, potentially reducing quality",
+        "Improved flavor complexity"
+      ],
+      "answer": "Faster ripening, potentially reducing quality"
+    },
+    {
+      "question": "What is the primary benefit of using cover crops in coffee production?",
+      "choices": [
+        "Increases soil temperature",
+        "Reduces biodiversity",
+        "Enhances soil's water-holding capacity",
+        "Accelerates coffee cherry ripening"
+      ],
+      "answer": "Enhances soil's water-holding capacity"
+    },
+    {
+      "question": "Which of the following is NOT a recommended organic mulch material for coffee farms in Timor-Leste?",
+      "choices": [
+        "Coffee pulp",
+        "Leaf litter",
+        "Rice husks",
+        "Plastic sheets"
+      ],
+      "answer": "Plastic sheets"
+    },
+    {
+      "question": "What is the primary purpose of rejuvenation pruning in coffee trees?",
+      "choices": [
+        "To increase yield in young trees",
+        "To control tree height",
+        "To remove diseased branches",
+        "To revitalize old, unproductive trees"
+      ],
+      "answer": "To revitalize old, unproductive trees"
+    },
+    {
+      "question": "Which of the following is a native shade tree species recommended for coffee farms in Timor-Leste?",
+      "choices": [
+        "Eucalyptus",
+        "Pine",
+        "Ai-dak",
+        "Oak"
+      ],
+      "answer": "Ai-dak"
+    },
+    {
+      "question": "What is the primary benefit of implementing agroforestry systems in coffee production?",
+      "choices": [
+        "Simplifies farm management",
+        "Reduces biodiversity",
+        "Provides multiple income sources",
+        "Eliminates the need for fertilizers"
+      ],
+      "answer": "Provides multiple income sources"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for soil conservation in coffee farms?",
+      "choices": [
+        "Contour planting",
+        "Terracing",
+        "Use of cover crops",
+        "Deep tilling"
+      ],
+      "answer": "Deep tilling"
+    },
+    {
+      "question": "What is the primary purpose of topping in coffee tree pruning?",
+      "choices": [
+        "To increase yield",
+        "To control tree height",
+        "To remove diseased branches",
+        "To promote lateral growth"
+      ],
+      "answer": "To control tree height"
+    },
+    {
+      "question": "Which of the following is a potential benefit of climate change for some coffee-growing regions?",
+      "choices": [
+        "Increased pest resistance",
+        "Improved soil fertility",
+        "New areas becoming suitable for coffee cultivation",
+        "Reduced need for irrigation"
+      ],
+      "answer": "New areas becoming suitable for coffee cultivation"
+    },
+    {
+      "question": "What is the primary challenge of implementing drip irrigation systems for small-scale farmers in Timor-Leste?",
+      "choices": [
+        "Lack of water sources",
+        "Increased pest pressure",
+        "High initial investment costs",
+        "Reduced coffee quality"
+      ],
+      "answer": "High initial investment costs"
+    },
+    {
+      "question": "Which of the following is NOT a recommended strategy for adapting to climate change in coffee production?",
+      "choices": [
+        "Diversifying income sources",
+        "Implementing water conservation methods",
+        "Increasing chemical fertilizer use",
+        "Planting drought-tolerant varieties"
+      ],
+      "answer": "Increasing chemical fertilizer use"
+    },
+    {
+      "question": "What is the primary benefit of using vetiver grass along contours in coffee farms?",
+      "choices": [
+        "Improves coffee flavor",
+        "Increases yield",
+        "Reduces soil erosion",
+        "Eliminates the need for fertilizers"
+      ],
+      "answer": "Reduces soil erosion"
+    },
+    {
+      "question": "Which of the following is a potential long-term consequence of climate change for Timor-Leste's coffee industry if no adaptation measures are taken?",
+      "choices": [
+        "Increased production in all regions",
+        "Improved coffee quality",
+        "Shift in suitable growing areas",
+        "Reduced production costs"
+      ],
+      "answer": "Shift in suitable growing areas"
+    }
+  ]
+}

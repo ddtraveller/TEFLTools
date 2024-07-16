@@ -1,0 +1,305 @@
+{
+  "title": "Coffee Plant Health and Disease Management",
+  "questions": [
+    {
+      "question": "What is the scientific name of the fungus that causes coffee leaf rust?",
+      "choices": [
+        "Hypothenemus hampei",
+        "Hemileia vastatrix",
+        "Beauveria bassiana",
+        "Coffea arabica"
+      ],
+      "answer": "Hemileia vastatrix"
+    },
+    {
+      "question": "Which of the following is NOT a symptom of coffee leaf rust?",
+      "choices": [
+        "Orange-yellow powdery spots on the underside of leaves",
+        "Yellowish spots on the upper leaf surface",
+        "Leaves turning brown and falling off",
+        "White, cottony growth on coffee cherries"
+      ],
+      "answer": "White, cottony growth on coffee cherries"
+    },
+    {
+      "question": "What is the optimal temperature range for coffee leaf rust development?",
+      "choices": [
+        "15-20°C",
+        "21-25°C",
+        "26-30°C",
+        "31-35°C"
+      ],
+      "answer": "21-25°C"
+    },
+    {
+      "question": "Which insect pest is considered the most harmful in coffee production?",
+      "choices": [
+        "Coffee leaf miner",
+        "Green scale",
+        "Coffee berry borer",
+        "Root-knot nematode"
+      ],
+      "answer": "Coffee berry borer"
+    },
+    {
+      "question": "What is the scientific name of the coffee berry borer?",
+      "choices": [
+        "Hypothenemus hampei",
+        "Hemileia vastatrix",
+        "Leucoptera coffeella",
+        "Meloidogyne incognita"
+      ],
+      "answer": "Hypothenemus hampei"
+    },
+    {
+      "question": "Which part of the coffee plant does the coffee berry borer primarily damage?",
+      "choices": [
+        "Leaves",
+        "Stems",
+        "Roots",
+        "Cherries"
+      ],
+      "answer": "Cherries"
+    },
+    {
+      "question": "What is the typical size range of an adult coffee berry borer?",
+      "choices": [
+        "0.5-1 mm",
+        "1.5-2 mm",
+        "3-4 mm",
+        "5-6 mm"
+      ],
+      "answer": "1.5-2 mm"
+    },
+    {
+      "question": "Which of the following is NOT a principle of Integrated Pest Management (IPM)?",
+      "choices": [
+        "Prevention",
+        "Monitoring",
+        "Exclusive use of chemical pesticides",
+        "Evaluation"
+      ],
+      "answer": "Exclusive use of chemical pesticides"
+    },
+    {
+      "question": "What is the primary goal of cultural control methods in IPM?",
+      "choices": [
+        "To eliminate all pests",
+        "To make the environment less favorable for pests",
+        "To increase chemical pesticide effectiveness",
+        "To improve coffee flavor"
+      ],
+      "answer": "To make the environment less favorable for pests"
+    },
+    {
+      "question": "Which of the following is an example of biological control in coffee production?",
+      "choices": [
+        "Applying synthetic pesticides",
+        "Pruning coffee trees",
+        "Using entomopathogenic fungi",
+        "Harvesting ripe cherries promptly"
+      ],
+      "answer": "Using entomopathogenic fungi"
+    },
+    {
+      "question": "What is the recommended approach for chemical control in IPM strategies?",
+      "choices": [
+        "Use as the primary method of pest control",
+        "Apply preventively to all plants",
+        "Use as a last resort",
+        "Increase dosage for better effectiveness"
+      ],
+      "answer": "Use as a last resort"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of organic pest control methods?",
+      "choices": [
+        "Reduced environmental impact",
+        "Preservation of beneficial insects",
+        "Lower input costs for farmers",
+        "Immediate eradication of all pests"
+      ],
+      "answer": "Immediate eradication of all pests"
+    },
+    {
+      "question": "Which local material is commonly used in organic pesticide preparations for coffee plants?",
+      "choices": [
+        "Neem leaves",
+        "Eucalyptus oil",
+        "Citrus peels",
+        "Lavender flowers"
+      ],
+      "answer": "Neem leaves"
+    },
+    {
+      "question": "What is the purpose of adding soap to homemade organic pesticide sprays?",
+      "choices": [
+        "To improve the smell",
+        "To act as a sticker",
+        "To increase toxicity",
+        "To attract beneficial insects"
+      ],
+      "answer": "To act as a sticker"
+    },
+    {
+      "question": "How often should a neem-based organic spray typically be applied to coffee plants?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Every 7-10 days",
+        "Monthly"
+      ],
+      "answer": "Every 7-10 days"
+    },
+    {
+      "question": "What is the primary function of regular field scouting in coffee plant health management?",
+      "choices": [
+        "To harvest ripe cherries",
+        "To apply fertilizers",
+        "To monitor for pests and diseases",
+        "To prune coffee trees"
+      ],
+      "answer": "To monitor for pests and diseases"
+    },
+    {
+      "question": "Which environmental factor exacerbates coffee leaf rust problems?",
+      "choices": [
+        "Low humidity",
+        "High wind speeds",
+        "Poor air circulation",
+        "Intense sunlight"
+      ],
+      "answer": "Poor air circulation"
+    },
+    {
+      "question": "What is the potential yield loss in coffee production due to severe coffee leaf rust infestation?",
+      "choices": [
+        "Up to 10%",
+        "Up to 25%",
+        "Up to 50%",
+        "Up to 75%"
+      ],
+      "answer": "Up to 50%"
+    },
+    {
+      "question": "Which stage of the coffee berry borer's life cycle causes the most damage to coffee beans?",
+      "choices": [
+        "Egg",
+        "Larva",
+        "Pupa",
+        "Adult"
+      ],
+      "answer": "Larva"
+    },
+    {
+      "question": "What is a potential long-term consequence of repeated chemical pesticide use in coffee production?",
+      "choices": [
+        "Increased soil fertility",
+        "Improved coffee flavor",
+        "Development of pest resistance",
+        "Elimination of all pests permanently"
+      ],
+      "answer": "Development of pest resistance"
+    },
+    {
+      "question": "Which of the following is an example of a cultural control method for managing coffee berry borer?",
+      "choices": [
+        "Applying synthetic insecticides",
+        "Releasing parasitoid wasps",
+        "Regular harvesting to remove potential host material",
+        "Increasing shade cover"
+      ],
+      "answer": "Regular harvesting to remove potential host material"
+    },
+    {
+      "question": "What is the primary mode of spread for coffee leaf rust spores?",
+      "choices": [
+        "Through soil",
+        "By wind and rain",
+        "By insect vectors",
+        "Through coffee seeds"
+      ],
+      "answer": "By wind and rain"
+    },
+    {
+      "question": "Which part of the coffee plant does the coffee leaf rust fungus initially infect?",
+      "choices": [
+        "Roots",
+        "Stem",
+        "Leaves through stomata",
+        "Cherries"
+      ],
+      "answer": "Leaves through stomata"
+    },
+    {
+      "question": "What is the recommended humidity level for optimal coffee leaf rust development?",
+      "choices": [
+        ">40%",
+        ">60%",
+        ">80%",
+        ">95%"
+      ],
+      "answer": ">80%"
+    },
+    {
+      "question": "Which gender of the coffee berry borer causes the most damage to coffee cherries?",
+      "choices": [
+        "Male",
+        "Female",
+        "Both equally",
+        "Neither"
+      ],
+      "answer": "Female"
+    },
+    {
+      "question": "What is a potential benefit of implementing IPM strategies in coffee production?",
+      "choices": [
+        "Increased use of chemical pesticides",
+        "Reduced biodiversity in coffee plantations",
+        "Minimized economic, health, and environmental risks",
+        "Elimination of all natural predators"
+      ],
+      "answer": "Minimized economic, health, and environmental risks"
+    },
+    {
+      "question": "Which of the following is NOT a component of Integrated Pest Management?",
+      "choices": [
+        "Prevention",
+        "Monitoring",
+        "Exclusive reliance on one control method",
+        "Evaluation"
+      ],
+      "answer": "Exclusive reliance on one control method"
+    },
+    {
+      "question": "What is the primary purpose of pruning in coffee plant health management?",
+      "choices": [
+        "To increase yield",
+        "To improve air circulation",
+        "To enhance coffee flavor",
+        "To attract pollinators"
+      ],
+      "answer": "To improve air circulation"
+    },
+    {
+      "question": "Which of the following organisms is used as a biological control agent for coffee berry borer?",
+      "choices": [
+        "Neem tree",
+        "Garlic",
+        "Beauveria bassiana fungus",
+        "Chili pepper"
+      ],
+      "answer": "Beauveria bassiana fungus"
+    },
+    {
+      "question": "What is the main advantage of using organic pesticides in coffee production?",
+      "choices": [
+        "They are more potent than synthetic pesticides",
+        "They have a lower environmental impact",
+        "They are always cheaper than synthetic alternatives",
+        "They provide complete eradication of all pests"
+      ],
+      "answer": "They have a lower environmental impact"
+    }
+  ]
+}

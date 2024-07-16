@@ -27,7 +27,7 @@ For practical application:
 
 ## Kursu Prinsipal sira / Key Courses
 
-Repo ida-ne'e iha kursu individuál 40 resin no arkivu 2500+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste. / This repo contains over 40 individual courses and 2500+ files with course information that is regionalized for Timor Leste.
+Repo ida-ne'e iha kursu individuál 60 resin no arkivu 2500+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / This repo contains over 60 individual courses and 2500+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
 
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
@@ -95,12 +95,42 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 19. **Aramaiku Jesus no Timor Leste / Aramaic Jesus and Timor Leste**
     - This course explores the native tongue of Jesus, Aramaic, its use in his teachings and its relevance to Timor-Leste's cultural and spiritual context.
 
-20. **Mikrobioma /The Microbiome **
+20. **Mikrobioma /The Microbiome**
     - This course explores the human microbiome and its impact on health, with a focus on applications in Timor-Leste. Students will learn about the diverse microbial communities inhabiting the human body, their roles in health and disease, and how environmental and cultural factors in Timor-Leste influence the microbiome. The course aims to provide a foundation for understanding microbiome research and its potential applications in improving public health in Timor-Leste.
 
 21. **Debate Lincoln-Douglas / Lincoln-Douglas Debate**
     - This course introduces students in Timor-Leste to the fundamentals of Lincoln-Douglas debate, adapting the format to the local context. Students will develop critical thinking, public speaking, and argumentation skills while exploring ethical issues relevant to Timorese society. The course aims to empower students to engage in respectful dialogue, analyze complex topics, and articulate well-reasoned positions on matters of public importance.
 
+22. **Kafé no Genetika / Coffee Breeding and Genetics**
+    - The program focuses on sustainable farming practices, disease management, post-harvest processing, and quality control tailored to the unique environmental and cultural context of Timor-Leste.
+
+23. **Serbisu partu no doutór / Doulas and Birthing Work**
+    - Learn about how doulas provide emotional, physical, and informational support to women during pregnancy, childbirth, and the early postpartum period.
+
+24. **Tratamentu kona-ba kraniozakral / Craniosacral Therapy**
+    - This course introduces the fundamentals of craniosacral therapy, adapted for the cultural context of Timor-Leste. Students will about learn basic anatomy, physiology, and about hands-on techniques to assess and treat the craniosacral system.
+
+25. **Drenajen lymfatiku. / Lymphatic Drainage**
+    - This course aims to introduce students in Timor-Leste to the principles and techniques of Manual Lymphatic Drainage (MLD). Participants will learn about the lymphatic system, its importance in health, and about how practitioners perform MLD techniques adapted for the Timorese context.
+
+26. **Introdusaun ba Chi Gung / Introduction to Chi Gung**
+    - This course introduces the practice of Qigong to promote health and wellness in Timor-Leste. Students will learn fundamental Qigong principles and techniques adapted to the local cultural context. Basic Qigong movements and breathing exercises, and the connections between Qigong and traditional Timorese healing practices will be discussed
+
+27.  **Introdusaun ba Nei Gung / Introduction to Nei Gung**
+     - Nei Gong, an ancient Chinese practice rooted in Daoist traditions, offers a path to cultivating internal energy and achieving harmony between mind, body, and spirit. This internal energy cultivation technique has gained increasing attention in the West as people seek holistic approaches to health and personal development. 
+ 
+28. **Miranda MacPherson**
+    - This course aims to introduce participants in Timor-Leste to the practice of ego relaxation and the transformative power of grace. Drawing from Miranda Macpherson's teachings, the course will adapt concepts to the Timorese cultural context, integrating local spiritual traditions and addressing specific challenges faced by the community.
+
+29. **Chogyam Trungpa**
+    - This course aims to introduce participants to spiritual development practices while respecting Timorese cultural traditions based on the teachings of Tibetan meditation master Chogyam Trungpa.
+
+30. **Intelligence emosionál / Emotional Intelligence**    
+    - This course aims to introduce participants to the concepts of emotional intelligence and trauma-informed care, with a specific focus on their application in Timor-Leste. Participants will learn about the impact of trauma on emotional development, strategies for building emotional resilience, and culturally appropriate interventions for supporting individuals and communities affected by trauma.
+    
+31. **Kultivasaun Moris ho laran tomak iha Timor-Leste / Cultivating Wholehearted Living in Timor-Leste**
+    - This course aims to introduce participants in Timor-Leste to the concepts of Wholehearted living, focusing on cultivating courage, compassion, and connection. Participants will explore how to embrace their authentic selves, develop resilience, and foster meaningful relationships within their communities. The course will adapt Brené Brown's research on vulnerability and shame to the Timorese cultural context, emphasizing local values and traditions while addressing universal human experiences.
+    
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 

@@ -1,0 +1,305 @@
+{
+  "title": "Building Emotional Resilience",
+  "questions": [
+    {
+      "question": "What is emotional resilience?",
+      "choices": [
+        "The ability to always be happy",
+        "The capacity to avoid all stressful situations",
+        "The ability to adapt to stressful situations and cope with life's challenges",
+        "The skill of suppressing all negative emotions"
+      ],
+      "answer": "The ability to adapt to stressful situations and cope with life's challenges"
+    },
+    {
+      "question": "Which of the following is NOT a strategy for developing emotional resilience?",
+      "choices": [
+        "Mindfulness and meditation practices",
+        "Building and maintaining social connections",
+        "Avoiding all potentially stressful situations",
+        "Regular physical exercise"
+      ],
+      "answer": "Avoiding all potentially stressful situations"
+    },
+    {
+      "question": "What is the primary benefit of mindfulness practices in building resilience?",
+      "choices": [
+        "It eliminates all negative thoughts",
+        "It helps individuals become more aware of their thoughts and feelings",
+        "It guarantees success in all endeavors",
+        "It replaces the need for social support"
+      ],
+      "answer": "It helps individuals become more aware of their thoughts and feelings"
+    },
+    {
+      "question": "Which traditional Timorese practice is used for conflict resolution and promotes community resilience?",
+      "choices": [
+        "Tara Bandu",
+        "Uma Lulik",
+        "Silat",
+        "Mount Ramelau meditation"
+      ],
+      "answer": "Tara Bandu"
+    },
+    {
+      "question": "What role do Uma Lulik rituals play in Timorese culture?",
+      "choices": [
+        "They are solely for entertainment purposes",
+        "They promote emotional well-being and resilience",
+        "They are used only for agricultural practices",
+        "They have no significance in modern Timorese society"
+      ],
+      "answer": "They promote emotional well-being and resilience"
+    },
+    {
+      "question": "How does social support contribute to emotional resilience?",
+      "choices": [
+        "It eliminates the need for personal coping strategies",
+        "It provides emotional comfort and a sense of belonging",
+        "It guarantees financial stability",
+        "It replaces the need for professional mental health care"
+      ],
+      "answer": "It provides emotional comfort and a sense of belonging"
+    },
+    {
+      "question": "What is the SMART goal framework used for in building resilience?",
+      "choices": [
+        "Simplifying complex emotions",
+        "Measuring intelligence quotient",
+        "Setting achievable and relevant goals",
+        "Analyzing personality types"
+      ],
+      "answer": "Setting achievable and relevant goals"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese physical activity mentioned in the module?",
+      "choices": [
+        "Yoga",
+        "Tai Chi",
+        "Silat",
+        "Pilates"
+      ],
+      "answer": "Silat"
+    },
+    {
+      "question": "How does developing a positive self-image contribute to emotional resilience?",
+      "choices": [
+        "It eliminates all life challenges",
+        "It guarantees success in all endeavors",
+        "It helps build confidence in one's ability to handle difficult situations",
+        "It replaces the need for social support"
+      ],
+      "answer": "It helps build confidence in one's ability to handle difficult situations"
+    },
+    {
+      "question": "What is the significance of community storytelling in Timorese culture?",
+      "choices": [
+        "It is only used for children's entertainment",
+        "It contributes to collective resilience",
+        "It has no relevance in modern times",
+        "It is solely for historical documentation"
+      ],
+      "answer": "It contributes to collective resilience"
+    },
+    {
+      "question": "How can traditional Timorese healing practices be integrated into modern approaches?",
+      "choices": [
+        "By completely replacing modern medicine",
+        "By ignoring them in favor of Western practices",
+        "By combining them with modern psychological approaches",
+        "By using them only for spiritual purposes"
+      ],
+      "answer": "By combining them with modern psychological approaches"
+    },
+    {
+      "question": "What is the purpose of the social support mapping activity?",
+      "choices": [
+        "To identify weaknesses in one's personality",
+        "To create a visual representation of one's support network",
+        "To eliminate the need for professional help",
+        "To compare oneself with others"
+      ],
+      "answer": "To create a visual representation of one's support network"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of regular physical exercise in building resilience?",
+      "choices": [
+        "Improved mood",
+        "Reduced stress",
+        "Increased energy levels",
+        "Guaranteed financial success"
+      ],
+      "answer": "Guaranteed financial success"
+    },
+    {
+      "question": "What is the main purpose of the guided meditation script focusing on Mount Ramelau?",
+      "choices": [
+        "To provide a historical lesson about the mountain",
+        "To promote tourism in Timor-Leste",
+        "To connect individuals with nature and inner strength",
+        "To teach mountain climbing techniques"
+      ],
+      "answer": "To connect individuals with nature and inner strength"
+    },
+    {
+      "question": "How does setting meaningful goals contribute to emotional resilience?",
+      "choices": [
+        "It guarantees a stress-free life",
+        "It provides a sense of purpose and direction",
+        "It eliminates the need for social support",
+        "It replaces the need for mindfulness practices"
+      ],
+      "answer": "It provides a sense of purpose and direction"
+    },
+    {
+      "question": "What is the recommended approach to balancing individual growth with collective harmony in Timorese culture?",
+      "choices": [
+        "Prioritizing individual needs over community needs",
+        "Ignoring personal growth entirely",
+        "Finding a balance between personal development and community values",
+        "Focusing solely on community needs"
+      ],
+      "answer": "Finding a balance between personal development and community values"
+    },
+    {
+      "question": "Which of the following is a key component of emotional intelligence addressed in the course?",
+      "choices": [
+        "Mathematical aptitude",
+        "Physical strength",
+        "Self-awareness",
+        "Artistic talent"
+      ],
+      "answer": "Self-awareness"
+    },
+    {
+      "question": "What is the primary focus of trauma-informed care principles?",
+      "choices": [
+        "Ignoring past traumas",
+        "Focusing only on present issues",
+        "Recognizing and addressing the impact of trauma",
+        "Avoiding emotional topics altogether"
+      ],
+      "answer": "Recognizing and addressing the impact of trauma"
+    },
+    {
+      "question": "How does the course suggest adapting mindfulness exercises for Timorese culture?",
+      "choices": [
+        "By completely replacing them with traditional practices",
+        "By ignoring cultural context",
+        "By incorporating local nature imagery and sounds",
+        "By focusing only on Western meditation techniques"
+      ],
+      "answer": "By incorporating local nature imagery and sounds"
+    },
+    {
+      "question": "What is the significance of Uma Lulik in Timorese culture?",
+      "choices": [
+        "It is only a historical artifact",
+        "It serves as a community center for emotional and spiritual well-being",
+        "It is used solely for political gatherings",
+        "It has no relevance in modern Timorese society"
+      ],
+      "answer": "It serves as a community center for emotional and spiritual well-being"
+    },
+    {
+      "question": "How does the course address the impact of historical trauma in Timor-Leste?",
+      "choices": [
+        "By ignoring past events",
+        "By focusing only on individual traumas",
+        "By recognizing the effects of events like the Indonesian occupation",
+        "By dismissing the relevance of historical events"
+      ],
+      "answer": "By recognizing the effects of events like the Indonesian occupation"
+    },
+    {
+      "question": "What is the purpose of interviewing elders about traditional coping mechanisms?",
+      "choices": [
+        "To prove that modern methods are superior",
+        "To document and potentially integrate traditional wisdom",
+        "To discourage the use of traditional practices",
+        "To criticize outdated methods"
+      ],
+      "answer": "To document and potentially integrate traditional wisdom"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a core principle of trauma-informed care?",
+      "choices": [
+        "Safety",
+        "Trustworthiness",
+        "Punishment",
+        "Empowerment"
+      ],
+      "answer": "Punishment"
+    },
+    {
+      "question": "How does the course suggest integrating Timorese cultural values into emotional intelligence practices?",
+      "choices": [
+        "By completely replacing emotional intelligence concepts with Timorese practices",
+        "By ignoring cultural values in favor of Western approaches",
+        "By adapting emotional intelligence practices to include Timorese cultural elements",
+        "By focusing solely on traditional practices"
+      ],
+      "answer": "By adapting emotional intelligence practices to include Timorese cultural elements"
+    },
+    {
+      "question": "What role does spirituality play in the course's approach to emotional resilience in Timor-Leste?",
+      "choices": [
+        "It is completely ignored",
+        "It is seen as irrelevant to emotional well-being",
+        "It is recognized as an important aspect of healing and resilience",
+        "It is only addressed in historical contexts"
+      ],
+      "answer": "It is recognized as an important aspect of healing and resilience"
+    },
+    {
+      "question": "How does the course address the concept of intergenerational trauma?",
+      "choices": [
+        "By focusing only on individual experiences",
+        "By ignoring its existence",
+        "By recognizing its impact on communities and families",
+        "By dismissing it as irrelevant in modern times"
+      ],
+      "answer": "By recognizing its impact on communities and families"
+    },
+    {
+      "question": "What is the purpose of the community needs assessment activity in the course?",
+      "choices": [
+        "To criticize community practices",
+        "To impose Western mental health models",
+        "To identify local emotional support needs",
+        "To replace traditional healing methods"
+      ],
+      "answer": "To identify local emotional support needs"
+    },
+    {
+      "question": "How does the course suggest balancing modern psychological approaches with traditional Timorese practices?",
+      "choices": [
+        "By completely replacing traditional practices",
+        "By ignoring modern approaches",
+        "By integrating both approaches in a culturally sensitive manner",
+        "By keeping them entirely separate"
+      ],
+      "answer": "By integrating both approaches in a culturally sensitive manner"
+    },
+    {
+      "question": "What is the significance of the 1999 independence referendum mentioned in the course?",
+      "choices": [
+        "It is irrelevant to emotional well-being",
+        "It is only discussed as a historical event",
+        "It is recognized as a source of collective trauma",
+        "It is presented as a purely positive event"
+      ],
+      "answer": "It is recognized as a source of collective trauma"
+    },
+    {
+      "question": "How does the course address the role of traditional healers in Timor-Leste?",
+      "choices": [
+        "By dismissing their practices as superstition",
+        "By ignoring their existence",
+        "By recognizing their potential contribution to emotional well-being",
+        "By presenting them as obstacles to modern mental health care"
+      ],
+      "answer": "By recognizing their potential contribution to emotional well-being"
+    }
+  ]
+}

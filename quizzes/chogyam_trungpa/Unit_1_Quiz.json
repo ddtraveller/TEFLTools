@@ -1,0 +1,305 @@
+{
+  "title": "Foundations of Spiritual Practice",
+  "questions": [
+    {
+      "question": "What is the primary focus of spirituality?",
+      "choices": [
+        "Material possessions",
+        "Physical appearance",
+        "Human spirit or soul",
+        "Social status"
+      ],
+      "answer": "Human spirit or soul"
+    },
+    {
+      "question": "Which of the following is a key aspect of mindfulness?",
+      "choices": [
+        "Judging one's thoughts and emotions",
+        "Focusing on the future",
+        "Maintaining awareness of the present moment",
+        "Ignoring physical sensations"
+      ],
+      "answer": "Maintaining awareness of the present moment"
+    },
+    {
+      "question": "What is self-awareness in the context of spiritual practice?",
+      "choices": [
+        "Conscious knowledge of one's character and motives",
+        "Ability to predict the future",
+        "Awareness of others' thoughts",
+        "Physical self-perception"
+      ],
+      "answer": "Conscious knowledge of one's character and motives"
+    },
+    {
+      "question": "Which practice involves focusing the mind on a particular object, thought, or activity?",
+      "choices": [
+        "Sleeping",
+        "Daydreaming",
+        "Meditation",
+        "Multitasking"
+      ],
+      "answer": "Meditation"
+    },
+    {
+      "question": "What is contemplation in spiritual practice?",
+      "choices": [
+        "Rapid decision-making",
+        "Deep reflective thought",
+        "Physical exercise",
+        "Social interaction"
+      ],
+      "answer": "Deep reflective thought"
+    },
+    {
+      "question": "In Timorese culture, spirituality is often expressed through a blend of:",
+      "choices": [
+        "Buddhist and Hindu traditions",
+        "Islamic and Jewish practices",
+        "Indigenous beliefs and Catholic traditions",
+        "Shinto and Taoist rituals"
+      ],
+      "answer": "Indigenous beliefs and Catholic traditions"
+    },
+    {
+      "question": "What is one way to incorporate spiritual practices into daily life?",
+      "choices": [
+        "Ignoring routine activities",
+        "Avoiding self-reflection",
+        "Practicing mindfulness during everyday tasks",
+        "Focusing solely on material goals"
+      ],
+      "answer": "Practicing mindfulness during everyday tasks"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a benefit of mindfulness practice?",
+      "choices": [
+        "Reduced stress",
+        "Improved focus",
+        "Enhanced emotional regulation",
+        "Increased material wealth"
+      ],
+      "answer": "Increased material wealth"
+    },
+    {
+      "question": "What is the term for the traditional Timorese practice that establishes prohibitions to regulate the relationship between people and the environment?",
+      "choices": [
+        "Lulik",
+        "Tara Bandu",
+        "Animism",
+        "Syncretism"
+      ],
+      "answer": "Tara Bandu"
+    },
+    {
+      "question": "Which of the following is an example of a lulik place in Timorese spirituality?",
+      "choices": [
+        "Shopping mall",
+        "Airport",
+        "Sacred mountain",
+        "Modern office building"
+      ],
+      "answer": "Sacred mountain"
+    },
+    {
+      "question": "What is the primary purpose of journaling in spiritual practice?",
+      "choices": [
+        "To improve handwriting skills",
+        "To create a daily schedule",
+        "To reflect on personal beliefs and experiences",
+        "To plan future events"
+      ],
+      "answer": "To reflect on personal beliefs and experiences"
+    },
+    {
+      "question": "Which of the following is a common challenge in spiritual practice?",
+      "choices": [
+        "Experiencing periods of doubt",
+        "Feeling constantly enlightened",
+        "Never questioning one's beliefs",
+        "Achieving immediate perfection"
+      ],
+      "answer": "Experiencing periods of doubt"
+    },
+    {
+      "question": "What is syncretism in the context of Timorese spirituality?",
+      "choices": [
+        "Rejection of all religious beliefs",
+        "Blending of Catholic and traditional beliefs",
+        "Exclusive practice of indigenous rituals",
+        "Adoption of purely secular values"
+      ],
+      "answer": "Blending of Catholic and traditional beliefs"
+    },
+    {
+      "question": "Which of the following is NOT typically associated with ancestor veneration in Timorese culture?",
+      "choices": [
+        "Seeking guidance from deceased family members",
+        "Offering prayers to ancestors",
+        "Rejecting all connections to past generations",
+        "Honoring ancestral spirits in ceremonies"
+      ],
+      "answer": "Rejecting all connections to past generations"
+    },
+    {
+      "question": "What is the primary focus when practicing mindfulness meditation?",
+      "choices": [
+        "Planning future activities",
+        "Analyzing past events",
+        "Focusing on breath or bodily sensations",
+        "Engaging in complex visualizations"
+      ],
+      "answer": "Focusing on breath or bodily sensations"
+    },
+    {
+      "question": "Which of the following is a key aspect of self-awareness in spiritual development?",
+      "choices": [
+        "Ignoring personal flaws",
+        "Comparing oneself to others constantly",
+        "Recognizing patterns of thought and behavior",
+        "Focusing solely on physical appearance"
+      ],
+      "answer": "Recognizing patterns of thought and behavior"
+    },
+    {
+      "question": "What role does community often play in Timorese spiritual practices?",
+      "choices": [
+        "It is discouraged in favor of solitary practice",
+        "It is central to many rituals and ceremonies",
+        "It has no significance in spiritual matters",
+        "It is only important for political leaders"
+      ],
+      "answer": "It is central to many rituals and ceremonies"
+    },
+    {
+      "question": "Which of the following is an example of mindful attention in traditional Timorese crafts?",
+      "choices": [
+        "Rushing to complete a project",
+        "Multitasking while weaving",
+        "Focusing intently while weaving tais",
+        "Delegating all craft work to others"
+      ],
+      "answer": "Focusing intently while weaving tais"
+    },
+    {
+      "question": "What is the significance of sacred objects in Tara Bandu ceremonies?",
+      "choices": [
+        "They are used as weapons",
+        "They symbolize the agreement made",
+        "They are sold for profit",
+        "They have no special meaning"
+      ],
+      "answer": "They symbolize the agreement made"
+    },
+    {
+      "question": "How does Tara Bandu demonstrate the interconnectedness of spirituality and daily life in Timorese culture?",
+      "choices": [
+        "It separates spiritual practices from everyday activities",
+        "It focuses solely on individual spiritual growth",
+        "It connects spirituality, community, and environmental stewardship",
+        "It promotes materialism over spiritual values"
+      ],
+      "answer": "It connects spirituality, community, and environmental stewardship"
+    },
+    {
+      "question": "What is one way that Catholic beliefs have been integrated into Timorese spirituality?",
+      "choices": [
+        "Complete rejection of all indigenous practices",
+        "Association of Catholic saints with local spirits",
+        "Elimination of all traditional ceremonies",
+        "Exclusive focus on Vatican teachings"
+      ],
+      "answer": "Association of Catholic saints with local spirits"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a benefit of regular meditation practice?",
+      "choices": [
+        "Reduced stress",
+        "Improved emotional well-being",
+        "Enhanced cognitive function",
+        "Guaranteed financial success"
+      ],
+      "answer": "Guaranteed financial success"
+    },
+    {
+      "question": "What is the primary purpose of creating a sacred space at home in spiritual practice?",
+      "choices": [
+        "To impress visitors",
+        "To increase property value",
+        "To support personal spiritual practice",
+        "To follow a decorating trend"
+      ],
+      "answer": "To support personal spiritual practice"
+    },
+    {
+      "question": "In Timorese culture, what is the significance of lulik (sacred) places?",
+      "choices": [
+        "They are avoided at all costs",
+        "They are considered spiritually significant",
+        "They are used only for commercial purposes",
+        "They have no special meaning"
+      ],
+      "answer": "They are considered spiritually significant"
+    },
+    {
+      "question": "What is one way that spirituality is often expressed in daily Timorese life?",
+      "choices": [
+        "Ignoring all traditions",
+        "Focusing solely on material gain",
+        "Participating in morning prayers or offerings",
+        "Rejecting all forms of community involvement"
+      ],
+      "answer": "Participating in morning prayers or offerings"
+    },
+    {
+      "question": "Which of the following is a key aspect of incorporating spirituality into daily life?",
+      "choices": [
+        "Separating spiritual practices from everyday activities",
+        "Focusing only on formal rituals",
+        "Cultivating a sense of sacredness in all aspects of life",
+        "Avoiding self-reflection"
+      ],
+      "answer": "Cultivating a sense of sacredness in all aspects of life"
+    },
+    {
+      "question": "What is the primary goal of self-awareness in spiritual development?",
+      "choices": [
+        "To become perfect in all aspects of life",
+        "To compare oneself favorably to others",
+        "To recognize and understand one's thoughts, emotions, and behaviors",
+        "To achieve fame and recognition"
+      ],
+      "answer": "To recognize and understand one's thoughts, emotions, and behaviors"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a form of contemplative practice?",
+      "choices": [
+        "Journaling",
+        "Silent reflection",
+        "Engaging in meaningful conversations",
+        "Watching action movies"
+      ],
+      "answer": "Watching action movies"
+    },
+    {
+      "question": "What is the significance of persistence in spiritual practice?",
+      "choices": [
+        "It guarantees immediate enlightenment",
+        "It helps overcome challenges and deepen practice",
+        "It is unnecessary for spiritual growth",
+        "It ensures material success"
+      ],
+      "answer": "It helps overcome challenges and deepen practice"
+    },
+    {
+      "question": "How does animism relate to Timorese spiritual traditions?",
+      "choices": [
+        "It is completely rejected in favor of monotheism",
+        "It involves belief in the spiritual essence of nature and objects",
+        "It focuses solely on worshipping human-made idols",
+        "It has no connection to Timorese spirituality"
+      ],
+      "answer": "It involves belief in the spiritual essence of nature and objects"
+    }
+  ]
+}

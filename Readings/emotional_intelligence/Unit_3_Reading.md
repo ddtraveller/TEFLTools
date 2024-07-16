@@ -1,0 +1,13 @@
+Principles of Trauma-Informed Care in Timor-Leste
+
+Timor-Leste, a young nation with a history marked by conflict and violence, faces unique challenges in addressing trauma within its population. As the country continues to develop its healthcare and social services, there is a growing recognition of the need for trauma-informed care approaches that are culturally sensitive and adapted to the Timorese context. This article explores the principles of trauma-informed care and their application in Timor-Leste.
+
+Trauma-informed care is an approach that recognizes the widespread impact of trauma and understands potential paths for recovery. It seeks to actively resist re-traumatization by creating safe, trusting environments and empowering individuals. In Timor-Leste, where many citizens have experienced trauma related to the Indonesian occupation, civil unrest, and ongoing socioeconomic challenges, implementing trauma-informed care principles is crucial for effective healing and community development.
+
+The five core principles of trauma-informed care are safety, trustworthiness, choice, collaboration, and empowerment. In the Timorese context, these principles must be understood and applied with careful consideration of local cultural norms, beliefs, and practices.
+
+Safety is the foundation of trauma-informed care. In Timor-Leste, this means creating environments where individuals feel physically and emotionally secure. This can be challenging in a country where infrastructure is still developing and resources are limited. However, simple measures such as ensuring well-lit spaces, providing clear information about services, and training staff in de-escalation techniques can significantly enhance feelings of safety.
+
+Trustworthiness is particularly important in a society that has experienced betrayal and oppression. Building trust in Timor-Leste requires consistency, transparency, and respect for local customs. Healthcare providers and community workers must be clear about their roles, maintain appropriate boundaries, and follow through on commitments. Incorporating traditional healing practices alongside modern approaches can also help build trust with communities.
+
+The principle of choice is about providing options and respecting individual preferences. In Timor-Leste, where collective decision-making is often valued over individual choice, this principle must be carefully balanced with cultural norms. Offering choices in treatment or support options, while also involving family and community members when appropriate, can help empower individuals without

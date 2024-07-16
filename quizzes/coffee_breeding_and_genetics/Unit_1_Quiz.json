@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Coffee Production in Timor-Leste",
+  "questions": [
+    {
+      "question": "When was coffee first introduced to Timor-Leste?",
+      "choices": [
+        "Late 18th century",
+        "Early 19th century",
+        "Mid 19th century",
+        "Early 20th century"
+      ],
+      "answer": "Early 19th century"
+    },
+    {
+      "question": "What percentage of Timor-Leste's agricultural exports does coffee account for?",
+      "choices": [
+        "50%",
+        "65%",
+        "80%",
+        "95%"
+      ],
+      "answer": "80%"
+    },
+    {
+      "question": "Which of the following is NOT a major coffee-growing region in Timor-Leste?",
+      "choices": [
+        "Ermera",
+        "Aileu",
+        "Dili",
+        "Liquiçá"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question": "What is the Timor Hybrid?",
+      "choices": [
+        "A cross between Arabica and Robusta coffee",
+        "A genetically modified coffee variety",
+        "A blend of Typica and Bourbon coffee",
+        "A new coffee processing method"
+      ],
+      "answer": "A cross between Arabica and Robusta coffee"
+    },
+    {
+      "question": "Approximately what percentage of Timor-Leste households are involved in coffee production?",
+      "choices": [
+        "10%",
+        "25%",
+        "40%",
+        "55%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "Which coffee variety is known for its resistance to coffee leaf rust?",
+      "choices": [
+        "Typica",
+        "Bourbon",
+        "Timor Hybrid",
+        "Catimor"
+      ],
+      "answer": "Timor Hybrid"
+    },
+    {
+      "question": "What is the approximate annual coffee production in Timor-Leste?",
+      "choices": [
+        "5,000-7,000 tons",
+        "10,000-12,000 tons",
+        "15,000-18,000 tons",
+        "20,000-25,000 tons"
+      ],
+      "answer": "10,000-12,000 tons"
+    },
+    {
+      "question": "Which country is NOT a main export destination for Timorese coffee?",
+      "choices": [
+        "USA",
+        "Germany",
+        "Japan",
+        "Australia"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question": "What is the primary challenge facing coffee farmers in Timor-Leste?",
+      "choices": [
+        "Overproduction",
+        "Lack of demand",
+        "Price volatility",
+        "Excessive rainfall"
+      ],
+      "answer": "Price volatility"
+    },
+    {
+      "question": "Which coffee variety was introduced to Timor-Leste by Portuguese colonists in the 19th century?",
+      "choices": [
+        "Timor Hybrid",
+        "Typica",
+        "Bourbon",
+        "Caturra"
+      ],
+      "answer": "Typica"
+    },
+    {
+      "question": "What is the primary benefit of shade-grown coffee cultivation in Timor-Leste?",
+      "choices": [
+        "Higher yield",
+        "Faster maturation",
+        "Environmental sustainability",
+        "Resistance to pests"
+      ],
+      "answer": "Environmental sustainability"
+    },
+    {
+      "question": "In what year did Timor-Leste gain independence?",
+      "choices": [
+        "1975",
+        "1999",
+        "2002",
+        "2006"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What is the main characteristic of Bourbon coffee variety?",
+      "choices": [
+        "High caffeine content",
+        "Resistance to diseases",
+        "Sweet flavor profile",
+        "Large bean size"
+      ],
+      "answer": "Sweet flavor profile"
+    },
+    {
+      "question": "Which farming practice is commonly used in Timor-Leste's coffee production?",
+      "choices": [
+        "Monoculture",
+        "Hydroponics",
+        "Agroforestry",
+        "Intensive irrigation"
+      ],
+      "answer": "Agroforestry"
+    },
+    {
+      "question": "What is the primary role of coffee cooperatives in Timor-Leste?",
+      "choices": [
+        "Coffee roasting",
+        "Export regulation",
+        "Supporting farmers",
+        "Genetic research"
+      ],
+      "answer": "Supporting farmers"
+    },
+    {
+      "question": "Which characteristic is NOT typically associated with Typica coffee?",
+      "choices": [
+        "Clean cup",
+        "Good acidity",
+        "Floral notes",
+        "High disease resistance"
+      ],
+      "answer": "High disease resistance"
+    },
+    {
+      "question": "What percentage of non-oil GDP does coffee contribute to in Timor-Leste?",
+      "choices": [
+        "10%",
+        "25%",
+        "40%",
+        "55%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "When was the Timor Hybrid first discovered?",
+      "choices": [
+        "1900",
+        "1927",
+        "1945",
+        "1975"
+      ],
+      "answer": "1927"
+    },
+    {
+      "question": "Which of the following is a challenge in Timor-Leste's coffee industry?",
+      "choices": [
+        "Overproduction",
+        "Lack of suitable land",
+        "Aging coffee trees",
+        "Excessive mechanization"
+      ],
+      "answer": "Aging coffee trees"
+    },
+    {
+      "question": "What is the primary benefit of the Timor Hybrid for global coffee production?",
+      "choices": [
+        "Higher caffeine content",
+        "Larger bean size",
+        "Disease resistance",
+        "Faster growth rate"
+      ],
+      "answer": "Disease resistance"
+    },
+    {
+      "question": "Which district is known as the largest coffee-producing region in Timor-Leste?",
+      "choices": [
+        "Aileu",
+        "Liquiçá",
+        "Ermera",
+        "Ainaro"
+      ],
+      "answer": "Ermera"
+    },
+    {
+      "question": "What is the primary market segment for Timorese coffee internationally?",
+      "choices": [
+        "Instant coffee",
+        "Specialty coffee",
+        "Decaf coffee",
+        "Flavored coffee"
+      ],
+      "answer": "Specialty coffee"
+    },
+    {
+      "question": "Which historical period had a significant negative impact on coffee production in Timor-Leste?",
+      "choices": [
+        "Portuguese colonization",
+        "World War II",
+        "Indonesian occupation",
+        "Post-independence era"
+      ],
+      "answer": "Indonesian occupation"
+    },
+    {
+      "question": "What is the primary processing method used for coffee in Timor-Leste?",
+      "choices": [
+        "Wet processing",
+        "Dry processing",
+        "Semi-washed processing",
+        "Honey processing"
+      ],
+      "answer": "Wet processing"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of the Bourbon coffee variety?",
+      "choices": [
+        "Sweet flavor",
+        "Medium body",
+        "Crisp acidity",
+        "High disease resistance"
+      ],
+      "answer": "High disease resistance"
+    },
+    {
+      "question": "What is the average elevation range for coffee cultivation in Timor-Leste?",
+      "choices": [
+        "500-1000 meters",
+        "1000-1500 meters",
+        "1500-2000 meters",
+        "2000-2500 meters"
+      ],
+      "answer": "1000-1500 meters"
+    },
+    {
+      "question": "Which organization played a significant role in revitalizing Timor-Leste's coffee sector post-independence?",
+      "choices": [
+        "World Bank",
+        "United Nations",
+        "Cooperative Cafe Timor (CCT)",
+        "International Coffee Organization (ICO)"
+      ],
+      "answer": "Cooperative Cafe Timor (CCT)"
+    },
+    {
+      "question": "What is the primary environmental benefit of shade-grown coffee in Timor-Leste?",
+      "choices": [
+        "Increased water retention",
+        "Higher crop yield",
+        "Biodiversity preservation",
+        "Soil acidification"
+      ],
+      "answer": "Biodiversity preservation"
+    },
+    {
+      "question": "Which coffee variety is known for its elongated leaves with bronze tips when young?",
+      "choices": [
+        "Timor Hybrid",
+        "Typica",
+        "Bourbon",
+        "Catimor"
+      ],
+      "answer": "Typica"
+    },
+    {
+      "question": "What is the primary challenge in transporting coffee from rural areas in Timor-Leste?",
+      "choices": [
+        "Lack of vehicles",
+        "Poor road infrastructure",
+        "High fuel costs",
+        "Government regulations"
+      ],
+      "answer": "Poor road infrastructure"
+    }
+  ]
+}

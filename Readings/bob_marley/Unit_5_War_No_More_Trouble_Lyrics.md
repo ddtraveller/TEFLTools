@@ -25,11 +25,7 @@ To'o filozofia
  Hetan billete ki'ik liu $64 
  Karik Ita mós gosta 
  Problema família nian 
- Drake 
- Klara Bow 
- Taylor Swift 
- Ha'u-nia oan hakotu de'it ninia jogu favoritu sira 
- Taylor Swift 
+
  Funu iha parte leste 
  Funu iha parte oeste 
  Funu iha parte norte 
@@ -122,15 +118,7 @@ Will remain but a fleeting illusion to be pursued
 But never attained
 Well, everywhere is war
 Is your war
-See R&B shows near Denver
-Get tickets as low as $64
-You might also like
-Family Matters
-Drake
-Clara Bow
-Taylor Swift
-My Boy Only Breaks His Favorite Toys
-Taylor Swift
+
 War in the east
 War in the west
 War up north

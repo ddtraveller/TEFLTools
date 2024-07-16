@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Qigong",
+  "questions": [
+    {
+      "question": "What does 'Qigong' literally mean?",
+      "choices": [
+        "Energy cultivation",
+        "Gentle movement",
+        "Ancient wisdom",
+        "Healing practice"
+      ],
+      "answer": "Energy cultivation"
+    },
+    {
+      "question": "How old is the practice of Qigong estimated to be?",
+      "choices": [
+        "Around 1,000 years",
+        "Over 2,000 years",
+        "Over 4,000 years",
+        "Less than 500 years"
+      ],
+      "answer": "Over 4,000 years"
+    },
+    {
+      "question": "What is the primary focus of Qigong practice?",
+      "choices": [
+        "Building muscle strength",
+        "Cultivating and balancing life energy (qi)",
+        "Improving cardiovascular endurance",
+        "Mastering complex martial arts techniques"
+      ],
+      "answer": "Cultivating and balancing life energy (qi)"
+    },
+    {
+      "question": "Which of the following is NOT a core principle of Qigong?",
+      "choices": [
+        "Harmonizing mind, body, and spirit",
+        "Achieving balance between yin and yang energies",
+        "Maximizing physical exertion",
+        "Cultivating life energy"
+      ],
+      "answer": "Maximizing physical exertion"
+    },
+    {
+      "question": "What is the correct foot placement for the basic Qigong standing posture?",
+      "choices": [
+        "Feet together",
+        "Feet wide apart",
+        "Shoulder-width apart",
+        "One foot in front of the other"
+      ],
+      "answer": "Shoulder-width apart"
+    },
+    {
+      "question": "How should the knees be positioned in the basic standing posture?",
+      "choices": [
+        "Locked straight",
+        "Slightly bent",
+        "Deeply bent",
+        "Turned inward"
+      ],
+      "answer": "Slightly bent"
+    },
+    {
+      "question": "What is the correct pelvic position in the basic Qigong stance?",
+      "choices": [
+        "Tilted forward",
+        "Tilted backward",
+        "Neutral position with tailbone slightly tucked",
+        "Rotated to one side"
+      ],
+      "answer": "Neutral position with tailbone slightly tucked"
+    },
+    {
+      "question": "How should the spine be aligned in the basic standing posture?",
+      "choices": [
+        "Curved forward",
+        "Arched backward",
+        "Elongated, as if suspended from above",
+        "Twisted to one side"
+      ],
+      "answer": "Elongated, as if suspended from above"
+    },
+    {
+      "question": "What is the correct shoulder position in Qigong's basic stance?",
+      "choices": [
+        "Raised towards ears",
+        "Pulled back tightly",
+        "Pushed forward",
+        "Relaxed and slightly rounded forward"
+      ],
+      "answer": "Relaxed and slightly rounded forward"
+    },
+    {
+      "question": "How should the head be positioned in the basic Qigong posture?",
+      "choices": [
+        "Tilted back",
+        "Chin slightly tucked",
+        "Turned to one side",
+        "Leaning forward"
+      ],
+      "answer": "Chin slightly tucked"
+    },
+    {
+      "question": "What type of breathing is typically emphasized in Qigong practice?",
+      "choices": [
+        "Rapid, shallow breathing",
+        "Holding the breath",
+        "Deep abdominal breathing",
+        "Alternating nostril breathing"
+      ],
+      "answer": "Deep abdominal breathing"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a benefit of Qigong practice?",
+      "choices": [
+        "Increased flexibility",
+        "Improved balance",
+        "Enhanced immune function",
+        "Rapid muscle growth"
+      ],
+      "answer": "Rapid muscle growth"
+    },
+    {
+      "question": "What is the Timorese concept similar to 'qi' in Qigong?",
+      "choices": [
+        "Mana",
+        "Prana",
+        "Klamar",
+        "Chi"
+      ],
+      "answer": "Klamar"
+    },
+    {
+      "question": "How does Qigong approach health and wellness?",
+      "choices": [
+        "By focusing solely on physical symptoms",
+        "Through a holistic approach integrating body, mind, and spirit",
+        "By emphasizing pharmaceutical interventions",
+        "Through rigorous physical training"
+      ],
+      "answer": "Through a holistic approach integrating body, mind, and spirit"
+    },
+    {
+      "question": "What is the primary goal of the standing meditation in Qigong?",
+      "choices": [
+        "To build leg strength",
+        "To improve posture",
+        "To cultivate awareness and energy flow",
+        "To increase height"
+      ],
+      "answer": "To cultivate awareness and energy flow"
+    },
+    {
+      "question": "How does Qigong view the relationship between prevention and treatment of illness?",
+      "choices": [
+        "It focuses only on treatment",
+        "It emphasizes prevention over treatment",
+        "It considers only acute conditions",
+        "It disregards both prevention and treatment"
+      ],
+      "answer": "It emphasizes prevention over treatment"
+    },
+    {
+      "question": "What role does intention play in Qigong practice?",
+      "choices": [
+        "It is not important",
+        "It is used to direct and cultivate energy",
+        "It is only used in advanced practices",
+        "It is discouraged in favor of physical movement"
+      ],
+      "answer": "It is used to direct and cultivate energy"
+    },
+    {
+      "question": "How does Qigong relate to Traditional Chinese Medicine (TCM)?",
+      "choices": [
+        "They are completely unrelated",
+        "Qigong is influenced by TCM theories",
+        "Qigong replaces TCM",
+        "TCM discourages the practice of Qigong"
+      ],
+      "answer": "Qigong is influenced by TCM theories"
+    },
+    {
+      "question": "What is the significance of the 'standing like a tree' posture in Qigong?",
+      "choices": [
+        "It's a punishment for beginners",
+        "It's only used in advanced practices",
+        "It forms the foundation for many Qigong exercises",
+        "It's a resting position between exercises"
+      ],
+      "answer": "It forms the foundation for many Qigong exercises"
+    },
+    {
+      "question": "How does Qigong view the concept of balance?",
+      "choices": [
+        "As unnecessary for health",
+        "As crucial for health and well-being",
+        "As relevant only for physical fitness",
+        "As a concept unrelated to energy cultivation"
+      ],
+      "answer": "As crucial for health and well-being"
+    },
+    {
+      "question": "What is the recommended duration for the basic standing meditation practice in this module?",
+      "choices": [
+        "1-2 minutes",
+        "5-10 minutes",
+        "20-30 minutes",
+        "1 hour"
+      ],
+      "answer": "5-10 minutes"
+    },
+    {
+      "question": "How does Qigong practice typically progress?",
+      "choices": [
+        "From complex to simple movements",
+        "From fast to slow movements",
+        "From internal focus to external movements",
+        "From basic postures to more complex exercises"
+      ],
+      "answer": "From basic postures to more complex exercises"
+    },
+    {
+      "question": "What is the primary focus during the standing meditation practice?",
+      "choices": [
+        "Counting breaths",
+        "Visualizing complex images",
+        "Breath awareness and body sensations",
+        "Solving mathematical problems"
+      ],
+      "answer": "Breath awareness and body sensations"
+    },
+    {
+      "question": "How does Qigong view the relationship between humans and nature?",
+      "choices": [
+        "As separate and unrelated",
+        "As interconnected and harmonious",
+        "As adversarial",
+        "As irrelevant to practice"
+      ],
+      "answer": "As interconnected and harmonious"
+    },
+    {
+      "question": "What is the recommended frequency for practicing the standing posture as homework?",
+      "choices": [
+        "Once a week",
+        "Twice a month",
+        "Daily for 5 minutes",
+        "Only before class"
+      ],
+      "answer": "Daily for 5 minutes"
+    },
+    {
+      "question": "How should one respond to mind wandering during Qigong practice?",
+      "choices": [
+        "Stop the practice immediately",
+        "Force the mind to concentrate harder",
+        "Gently bring attention back to posture and breath",
+        "Analyze the content of the thoughts"
+      ],
+      "answer": "Gently bring attention back to posture and breath"
+    },
+    {
+      "question": "What is the significance of coordinating breath with movement in Qigong?",
+      "choices": [
+        "It has no particular importance",
+        "It enhances energy flow and body awareness",
+        "It makes the practice more physically challenging",
+        "It is only used in certain styles of Qigong"
+      ],
+      "answer": "It enhances energy flow and body awareness"
+    },
+    {
+      "question": "How does Qigong view the concept of self-healing?",
+      "choices": [
+        "As impossible without external intervention",
+        "As a key principle, empowering individuals in their health",
+        "As less important than medical treatment",
+        "As relevant only for minor ailments"
+      ],
+      "answer": "As a key principle, empowering individuals in their health"
+    },
+    {
+      "question": "What is the purpose of group discussions in the Qigong class?",
+      "choices": [
+        "To fill time between exercises",
+        "To compare physical fitness levels",
+        "To explore connections between Qigong and local traditions",
+        "To plan future social events"
+      ],
+      "answer": "To explore connections between Qigong and local traditions"
+    },
+    {
+      "question": "How does Qigong approach the concept of energy blockages?",
+      "choices": [
+        "By ignoring them",
+        "By using invasive techniques to remove them",
+        "By using gentle movements and breath to dissolve them",
+        "By considering them beneficial for health"
+      ],
+      "answer": "By using gentle movements and breath to dissolve them"
+    }
+  ]
+}

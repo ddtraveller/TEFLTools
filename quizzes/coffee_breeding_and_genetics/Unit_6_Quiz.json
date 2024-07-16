@@ -1,0 +1,305 @@
+{
+  "title": "Quality Control and Cupping",
+  "questions": [
+    {
+      "question": "What is the primary purpose of green coffee grading?",
+      "choices": [
+        "To determine the roast profile",
+        "To evaluate unroasted coffee beans for size, shape, and defects",
+        "To assess the flavor of brewed coffee",
+        "To set the market price for coffee"
+      ],
+      "answer": "To evaluate unroasted coffee beans for size, shape, and defects"
+    },
+    {
+      "question": "Which of the following is considered a primary defect in green coffee?",
+      "choices": [
+        "Slight insect damage",
+        "Broken beans",
+        "Full black beans",
+        "Uneven size"
+      ],
+      "answer": "Full black beans"
+    },
+    {
+      "question": "What is the purpose of using screens in green coffee grading?",
+      "choices": [
+        "To remove insects from the coffee",
+        "To sort beans by size",
+        "To separate different coffee varieties",
+        "To dry the coffee beans"
+      ],
+      "answer": "To sort beans by size"
+    },
+    {
+      "question": "What is the 'first crack' in coffee roasting?",
+      "choices": [
+        "The sound of beans breaking during grinding",
+        "An audible popping sound signaling the beginning of flavor development",
+        "The initial splitting of the coffee cherry",
+        "The cracking of the roaster drum"
+      ],
+      "answer": "An audible popping sound signaling the beginning of flavor development"
+    },
+    {
+      "question": "Which roast level typically highlights the bean's original characteristics?",
+      "choices": [
+        "Dark roast",
+        "Medium roast",
+        "Light roast",
+        "French roast"
+      ],
+      "answer": "Light roast"
+    },
+    {
+      "question": "What is cupping in the context of coffee?",
+      "choices": [
+        "A method of serving coffee in specialized cups",
+        "A standardized method of evaluating coffee flavor",
+        "A technique for growing coffee plants",
+        "A way of packaging roasted coffee"
+      ],
+      "answer": "A standardized method of evaluating coffee flavor"
+    },
+    {
+      "question": "What is the first step in the cupping process?",
+      "choices": [
+        "Tasting the brewed coffee",
+        "Breaking the crust",
+        "Evaluating the dry fragrance of ground coffee",
+        "Adding hot water to the grounds"
+      ],
+      "answer": "Evaluating the dry fragrance of ground coffee"
+    },
+    {
+      "question": "Why do cuppers often slurp coffee loudly during tasting?",
+      "choices": [
+        "To cool the coffee",
+        "To aerate the liquid and spread it across their palate",
+        "To impress other cuppers",
+        "To remove any remaining grounds"
+      ],
+      "answer": "To aerate the liquid and spread it across their palate"
+    },
+    {
+      "question": "What does 'acidity' refer to in coffee tasting?",
+      "choices": [
+        "The pH level of the coffee",
+        "The sour taste of over-extracted coffee",
+        "The bright, tangy quality of coffee",
+        "The amount of acid-forming bacteria in the beans"
+      ],
+      "answer": "The bright, tangy quality of coffee"
+    },
+    {
+      "question": "What tool do coffee professionals often use to describe flavors with precision?",
+      "choices": [
+        "The SCA Flavor Wheel",
+        "A pH meter",
+        "A refractometer",
+        "A coffee glossary"
+      ],
+      "answer": "The SCA Flavor Wheel"
+    },
+    {
+      "question": "What is the 'body' of coffee referring to?",
+      "choices": [
+        "The shape of the coffee bean",
+        "The weight or thickness of the coffee in the mouth",
+        "The caffeine content",
+        "The overall flavor profile"
+      ],
+      "answer": "The weight or thickness of the coffee in the mouth"
+    },
+    {
+      "question": "Which of the following is NOT typically evaluated during coffee cupping?",
+      "choices": [
+        "Aroma",
+        "Acidity",
+        "Caffeine content",
+        "Aftertaste"
+      ],
+      "answer": "Caffeine content"
+    },
+    {
+      "question": "What is the purpose of 'breaking the crust' during cupping?",
+      "choices": [
+        "To mix the coffee grounds",
+        "To cool the coffee faster",
+        "To release and evaluate aromas",
+        "To start the extraction process"
+      ],
+      "answer": "To release and evaluate aromas"
+    },
+    {
+      "question": "How can improving quality control practices benefit coffee-producing countries like Timor-Leste?",
+      "choices": [
+        "By increasing coffee consumption locally",
+        "By reducing the need for farm labor",
+        "By leading to higher prices for their coffee",
+        "By eliminating the need for certifications"
+      ],
+      "answer": "By leading to higher prices for their coffee"
+    },
+    {
+      "question": "What is a potential consequence of poor green coffee grading?",
+      "choices": [
+        "Faster roasting times",
+        "Increased caffeine content",
+        "Inconsistent roasting and poor cup quality",
+        "Higher market prices"
+      ],
+      "answer": "Inconsistent roasting and poor cup quality"
+    },
+    {
+      "question": "Which organization typically sets standards for coffee cupping protocols?",
+      "choices": [
+        "World Coffee Research",
+        "International Coffee Organization",
+        "Specialty Coffee Association (SCA)",
+        "Fairtrade International"
+      ],
+      "answer": "Specialty Coffee Association (SCA)"
+    },
+    {
+      "question": "What is the primary difference between primary and secondary defects in green coffee?",
+      "choices": [
+        "Primary defects are visible, secondary are not",
+        "Primary defects significantly impact quality, secondary have lesser impact",
+        "Primary defects occur before processing, secondary after",
+        "Primary defects affect flavor, secondary affect aroma"
+      ],
+      "answer": "Primary defects significantly impact quality, secondary have lesser impact"
+    },
+    {
+      "question": "What role does the roast profile play in coffee quality?",
+      "choices": [
+        "It determines the caffeine content",
+        "It affects the bean size",
+        "It plays a crucial role in determining the final flavor",
+        "It influences the bean's moisture content"
+      ],
+      "answer": "It plays a crucial role in determining the final flavor"
+    },
+    {
+      "question": "Why is uniform bean size important in coffee roasting?",
+      "choices": [
+        "It makes the coffee more visually appealing",
+        "It ensures even heat distribution and consistent roasting",
+        "It increases the coffee's market value",
+        "It improves the coffee's aroma"
+      ],
+      "answer": "It ensures even heat distribution and consistent roasting"
+    },
+    {
+      "question": "What is direct trade in the context of coffee sourcing?",
+      "choices": [
+        "Selling coffee directly to consumers",
+        "Trading coffee futures on the stock market",
+        "Roasters buying directly from growers, often at higher prices",
+        "Exchanging different coffee varieties between farms"
+      ],
+      "answer": "Roasters buying directly from growers, often at higher prices"
+    },
+    {
+      "question": "What distinguishes specialty coffee from commodity coffee?",
+      "choices": [
+        "Specialty coffee is always organic",
+        "Commodity coffee is always cheaper",
+        "Specialty coffee focuses on high-quality, often single-origin coffees",
+        "Commodity coffee is always sold in whole bean form"
+      ],
+      "answer": "Specialty coffee focuses on high-quality, often single-origin coffees"
+    },
+    {
+      "question": "What is the main purpose of a coffee cooperative?",
+      "choices": [
+        "To increase coffee consumption",
+        "To set global coffee prices",
+        "To provide mutual benefits for member farmers",
+        "To regulate coffee imports and exports"
+      ],
+      "answer": "To provide mutual benefits for member farmers"
+    },
+    {
+      "question": "What does Fair Trade certification aim to ensure?",
+      "choices": [
+        "The fastest shipping of coffee",
+        "The highest quality coffee",
+        "Better prices and working conditions for farmers",
+        "The most expensive coffee on the market"
+      ],
+      "answer": "Better prices and working conditions for farmers"
+    },
+    {
+      "question": "What is a key requirement for Organic coffee certification?",
+      "choices": [
+        "Coffee must be shade-grown",
+        "Coffee must be grown without synthetic pesticides or fertilizers",
+        "Coffee must be hand-picked",
+        "Coffee must be wet-processed"
+      ],
+      "answer": "Coffee must be grown without synthetic pesticides or fertilizers"
+    },
+    {
+      "question": "What is a value chain in the context of coffee production?",
+      "choices": [
+        "The nutritional value of different coffee varieties",
+        "The full range of activities required to bring coffee from production to consumer",
+        "The chain of custody for fair trade certification",
+        "The process of valuing coffee farms for sale"
+      ],
+      "answer": "The full range of activities required to bring coffee from production to consumer"
+    },
+    {
+      "question": "Which of the following is NOT typically a stage in the coffee value chain?",
+      "choices": [
+        "Production",
+        "Roasting",
+        "Genetic modification",
+        "Retail"
+      ],
+      "answer": "Genetic modification"
+    },
+    {
+      "question": "What is the primary challenge of transitioning to organic coffee production?",
+      "choices": [
+        "Increased pest problems",
+        "Higher labor costs",
+        "Reduced yield during the transition period",
+        "Difficulty finding buyers"
+      ],
+      "answer": "Reduced yield during the transition period"
+    },
+    {
+      "question": "How does cupping contribute to quality control in coffee production?",
+      "choices": [
+        "It determines the caffeine content of beans",
+        "It helps identify defects and assess overall quality",
+        "It speeds up the roasting process",
+        "It increases the market value of all evaluated coffees"
+      ],
+      "answer": "It helps identify defects and assess overall quality"
+    },
+    {
+      "question": "What is the significance of 'single-origin' in specialty coffee?",
+      "choices": [
+        "It means the coffee is from a single plant",
+        "It indicates coffee from one specific geographic location or farm",
+        "It refers to coffee that's only sold in one country",
+        "It means the coffee was processed using a single method"
+      ],
+      "answer": "It indicates coffee from one specific geographic location or farm"
+    },
+    {
+      "question": "Why is selective harvesting important for coffee quality?",
+      "choices": [
+        "It reduces the need for pesticides",
+        "It ensures only ripe cherries are picked, improving overall quality",
+        "It makes the harvesting process faster",
+        "It increases the yield of coffee plants"
+      ],
+      "answer": "It ensures only ripe cherries are picked, improving overall quality"
+    }
+  ]
+}
