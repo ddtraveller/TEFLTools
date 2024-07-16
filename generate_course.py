@@ -60,79 +60,6 @@ def truncate_to_token_limit(text: str, max_tokens: int = 199999) -> str:
         return text
     return encoding.decode(tokens[:max_tokens])
 
-def generate_syllabus(truncated_info):
-    """Generate a syllabus based on the project information using Claude."""
-    prompt = f"""Given the following project information:
-{truncated_info}
-Please do the following:
-1. Synthesize the key points and goals of the project.
-2. Localize the content for Timor Leste, considering cultural context and appropriateness
-3. Create a well-structured syllabus for a program, including:
-   - Course overview and objectives
-   - A structure that includes a sequence of learning units (these can be called weeks, modules, or units)
-   - For each learning unit, provide:
-     * Clear objectives
-     * Topics to be covered
-     * Activities or assignments
-   - Required resources (books, materials)
-   - Suggested items to cover
-   - Ideas for practical experience and community engagement
-   - Resources
-
-Format the output as Markdown, with clear headings and subheadings for each section. Use the following structure:
-
-# Course Title
-
-## Course Overview and Objectives
-
-[Course overview and objectives here]
-
-## Learning Unit 1: [Unit Title]
-- Objectives:
-  * [Objective 1]
-  * [Objective 2]
-- Topics:
-  * [Topic 1]
-  * [Topic 2]
-- Activities:
-  * [Activity 1]
-  * [Activity 2]
-
-[Continue with more learning units]
-
-## Required Resources
-
-[List resources here]
-
-## Suggested Items to Cover
-
-[List suggested items here]
-
-## Practical Experience and Community Engagement
-
-[List ideas here]
-
-## Additional Resources
-
-[List additional resources here]
-
-Ensure that each learning unit is clearly labeled and structured as shown above.
-Don't add any commentary at the top, like 'Here is a syllabus...'"""
-
-    message = client.messages.create(
-        model="claude-3-5-sonnet-20240620",
-        max_tokens=4000,
-        temperature=0.2,
-        messages=[
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ]
-    )
-    time.sleep(2)  # Pause for 2 seconds after Anthropic call
-    return message.content[0].text if message.content else ""
-
 def extract_weeks(content):
     """Extract individual weeks from the content."""
     weeks = re.findall(r'#### Week \d+:.*?(?=#### Week|\Z)', content, re.DOTALL | re.IGNORECASE)
@@ -461,6 +388,123 @@ def move_files_to_tefltools(base_dir, course_name):
             shutil.move(os.path.join(src_folder, item), dst_folder)
         print(f"Moved {folder} to {dst_folder}")
 
+def analyze_all_content(content_folder):
+    """Analyze all PDF content and determine an inclusive course topic."""
+    all_content = ""
+    for filename in os.listdir(content_folder):
+        if filename.lower().endswith('.pdf'):
+            print(f"Reading: {filename}")
+            file_path = os.path.join(content_folder, filename)
+            all_content += read_file_content(file_path) + "\n\n"
+            print(f"Read content from: {file_path}")
+
+    prompt = f"""Analyze the following content from multiple PDF files and provide a summary of the main topics and themes. This will be used to generate a course syllabus, so focus on identifying overarching themes and key areas of study:
+
+{all_content[:50000]}  # Limit to first 50000 characters to fit within token limits
+
+Based on this content, suggest an inclusive course topic that encompasses the major themes found in all the documents. Your response should be structured as follows:
+
+1. Main Course Topic: [Suggested course topic]
+2. Key Themes:
+   - [Theme 1]
+   - [Theme 2]
+   - [Theme 3]
+   ...
+3. Brief Overview: [2-3 sentences summarizing the content and its relevance to the course topic]
+"""
+
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=1000,
+        temperature=0.2,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+    time.sleep(2)  # Pause for 2 seconds after Anthropic call
+    return message.content[0].text if message.content else ""
+
+def generate_syllabus(course_topic, truncated_info):
+    """Generate a syllabus based on the analyzed course topic and project information using Claude."""
+    prompt = f"""Given the following course topic and key themes:
+{course_topic}
+
+And the following additional project information:
+{truncated_info}
+
+Please do the following:
+1. Create a well-structured syllabus for a program based on the provided course topic and themes.
+2. Localize the content for Timor Leste, considering cultural context and appropriateness.
+3. Include in the syllabus:
+   - Course title (based on the main course topic)
+   - Course overview and objectives
+   - A structure that includes a sequence of 6-8 learning units
+   - For each learning unit, provide:
+     * Clear objectives
+     * Topics to be covered
+     * Activities or assignments
+   - Required resources (books, materials)
+   - Suggested items to cover
+   - Ideas for practical experience and community engagement
+   - Additional resources
+
+Format the output as Markdown, with clear headings and subheadings for each section. Use the following structure:
+
+# [Course Title]
+
+## Course Overview and Objectives
+
+[Course overview and objectives here]
+
+## Learning Unit 1: [Unit Title]
+- Objectives:
+  * [Objective 1]
+  * [Objective 2]
+- Topics:
+  * [Topic 1]
+  * [Topic 2]
+- Activities:
+  * [Activity 1]
+  * [Activity 2]
+
+[Continue with more learning units]
+
+## Required Resources
+
+[List resources here]
+
+## Suggested Items to Cover
+
+[List suggested items here]
+
+## Practical Experience and Community Engagement
+
+[List ideas here]
+
+## Additional Resources
+
+[List additional resources here]
+
+Ensure that each learning unit is clearly labeled and structured as shown above.
+Don't add any commentary at the top, like 'Here is a syllabus...'"""
+
+    message = client.messages.create(
+        model="claude-3-5-sonnet-20240620",
+        max_tokens=4000,
+        temperature=0.2,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+    time.sleep(2)  # Pause for 2 seconds after Anthropic call
+    return message.content[0].text if message.content else ""
+
 def main():
     course_name = input("Enter the name of the course: ")
     cleaned_course_name = clean_name(course_name)
@@ -476,36 +520,34 @@ def main():
     syllabus_filename = f'{cleaned_course_name}.md'
     syllabus_path = f'{base_dir}/syllabus/{syllabus_filename}'
     content_folder = 'content'
-    project_info = ""    
     
     if os.path.exists(syllabus_path):
         print(f"Loading existing syllabus from {syllabus_path}")
         with open(syllabus_path, 'r', encoding='utf-8') as file:
             syllabus = file.read()
-        for filename in os.listdir(content_folder):
-            if filename.lower().endswith(('.pdf', '.txt', '.md')):
-                print(f"Reading: {filename}")
-                file_path = os.path.join(content_folder, filename)
-                project_info += read_file_content(file_path) + "\n\n"
-                print(f"Read content from: {file_path}")
-        truncated_info = truncate_to_token_limit(project_info, max_tokens=168000)
+        course_topic = "Existing course topic"  # Placeholder for existing courses
     else:
+        print("Analyzing all content files...")
+        course_topic = analyze_all_content(content_folder)
+        print("Course topic analysis complete.")
+        
+        print("Generating syllabus...")
+        project_info = ""
         for filename in os.listdir(content_folder):
             if filename.lower().endswith(('.pdf', '.txt', '.md')):
-                print(f"Reading: {filename}")
                 file_path = os.path.join(content_folder, filename)
                 project_info += read_file_content(file_path) + "\n\n"
-                print(f"Read content from: {file_path}")
-                
+        
         print(f"Total content size before truncation: {len(project_info)} characters")
-        truncated_info = truncate_to_token_limit(project_info, max_tokens=168000)  # Reduced from 175000
+        truncated_info = truncate_to_token_limit(project_info, max_tokens=170000)
         print(f"Truncated content size: {len(truncated_info)} characters")
-        syllabus = generate_syllabus(truncated_info)
+        
+        syllabus = generate_syllabus(course_topic, truncated_info)
         write_to_file(syllabus, syllabus_path)
+        print("Syllabus generation complete.")
     
     print("Syllabus content:")
     print(syllabus[:500])  # Print first 500 characters
-
     learning_units = extract_learning_units(syllabus)
     print(f"Extracted {len(learning_units)} learning units")
 

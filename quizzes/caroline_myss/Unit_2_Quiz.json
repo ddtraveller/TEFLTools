@@ -1,0 +1,305 @@
+{
+  "title": "The Hero's Journey in Timorese Mythology",
+  "questions": [
+    {
+      "question": "Who popularized the concept of the hero's journey?",
+      "choices": [
+        "Carl Jung",
+        "Joseph Campbell",
+        "Sigmund Freud",
+        "Claude Lévi-Strauss"
+      ],
+      "answer": "Joseph Campbell"
+    },
+    {
+      "question": "What is another term for the hero's journey?",
+      "choices": [
+        "Monomyth",
+        "Bildungsroman",
+        "Epic cycle",
+        "Mythic archetype"
+      ],
+      "answer": "Monomyth"
+    },
+    {
+      "question": "What are the three main stages of the hero's journey according to Campbell?",
+      "choices": [
+        "Beginning, Middle, End",
+        "Departure, Initiation, Return",
+        "Call, Quest, Triumph",
+        "Ordinary World, Special World, Transformed World"
+      ],
+      "answer": "Departure, Initiation, Return"
+    },
+    {
+      "question": "In Timorese myths, what often serves as the call to adventure?",
+      "choices": [
+        "Personal ambition",
+        "A crisis affecting the hero's community",
+        "A divine command",
+        "A desire for wealth"
+      ],
+      "answer": "A crisis affecting the hero's community"
+    },
+    {
+      "question": "What role do threshold guardians play in the hero's journey?",
+      "choices": [
+        "They provide magical aid to the hero",
+        "They test the hero's resolve and worthiness",
+        "They accompany the hero throughout the journey",
+        "They represent the final challenge for the hero"
+      ],
+      "answer": "They test the hero's resolve and worthiness"
+    },
+    {
+      "question": "In Timorese mythology, who often serves as the mentor figure?",
+      "choices": [
+        "Young warriors",
+        "Foreign travelers",
+        "Wise elders or ancestral spirits",
+        "Animal companions"
+      ],
+      "answer": "Wise elders or ancestral spirits"
+    },
+    {
+      "question": "What does the concept of atonement often involve in Timorese hero myths?",
+      "choices": [
+        "Defeating a powerful enemy",
+        "Making peace with ancestral spirits or nature deities",
+        "Accumulating wealth and power",
+        "Establishing a new kingdom"
+      ],
+      "answer": "Making peace with ancestral spirits or nature deities"
+    },
+    {
+      "question": "What does apotheosis represent in the hero's journey?",
+      "choices": [
+        "The hero's death",
+        "The hero achieving a godlike state",
+        "The hero's return home",
+        "The hero's greatest failure"
+      ],
+      "answer": "The hero achieving a godlike state"
+    },
+    {
+      "question": "What is the 'elixir' in the context of the hero's journey?",
+      "choices": [
+        "A magical potion",
+        "The hero's new weapon",
+        "Knowledge, power, or object that benefits the community",
+        "The hero's personal treasure"
+      ],
+      "answer": "Knowledge, power, or object that benefits the community"
+    },
+    {
+      "question": "How do Timorese hero myths often differ from Western counterparts?",
+      "choices": [
+        "They lack a clear structure",
+        "They focus more on individual glory",
+        "They emphasize communal well-being over individual achievement",
+        "They do not involve supernatural elements"
+      ],
+      "answer": "They emphasize communal well-being over individual achievement"
+    },
+    {
+      "question": "What historical influences are often incorporated into Timorese hero myths?",
+      "choices": [
+        "Ancient Greek philosophy",
+        "Medieval European chivalry",
+        "Animistic beliefs, Portuguese colonialism, and the independence struggle",
+        "Chinese Confucian values"
+      ],
+      "answer": "Animistic beliefs, Portuguese colonialism, and the independence struggle"
+    },
+    {
+      "question": "In the legend of Rai Nain, what is the initial crisis that sets off the hero's journey?",
+      "choices": [
+        "A terrible drought",
+        "An invading army",
+        "A plague of locusts",
+        "A stolen sacred object"
+      ],
+      "answer": "A terrible drought"
+    },
+    {
+      "question": "What supernatural being does Rai Nain encounter in his dream?",
+      "choices": [
+        "A fire spirit",
+        "A wise old woman",
+        "A giant snake",
+        "A mischievous spirit"
+      ],
+      "answer": "A wise old woman"
+    },
+    {
+      "question": "What is Rai Nain's ultimate goal in his journey?",
+      "choices": [
+        "To defeat a monster",
+        "To find a magical spring",
+        "To rescue a princess",
+        "To climb the highest mountain"
+      ],
+      "answer": "To find a magical spring"
+    },
+    {
+      "question": "What challenge does Rai Nain face from the fire spirit?",
+      "choices": [
+        "To solve a riddle",
+        "To fight in combat",
+        "To walk through flames",
+        "To resist temptation"
+      ],
+      "answer": "To walk through flames"
+    },
+    {
+      "question": "What is the 'elixir' that Rai Nain brings back to his village?",
+      "choices": [
+        "A magical sword",
+        "Sacred knowledge",
+        "Magical water",
+        "A rare plant"
+      ],
+      "answer": "Magical water"
+    },
+    {
+      "question": "What animal is often associated with creation myths in Timorese culture?",
+      "choices": [
+        "Eagle",
+        "Tiger",
+        "Crocodile",
+        "Elephant"
+      ],
+      "answer": "Crocodile"
+    },
+    {
+      "question": "What is the significance of 'tais' in Timorese culture?",
+      "choices": [
+        "It's a type of weapon",
+        "It's a traditional woven cloth symbolizing identity",
+        "It's a sacred animal",
+        "It's a type of ritual dance"
+      ],
+      "answer": "It's a traditional woven cloth symbolizing identity"
+    },
+    {
+      "question": "What often represents the connection to the spirit world in Timorese mythology?",
+      "choices": [
+        "Sacred trees",
+        "Rivers",
+        "Caves",
+        "Stars"
+      ],
+      "answer": "Sacred trees"
+    },
+    {
+      "question": "In Timorese mythology, mountains are often seen as:",
+      "choices": [
+        "Obstacles to be overcome",
+        "Symbols of human ambition",
+        "Dwelling places of spirits or sites of magical events",
+        "Representations of the underworld"
+      ],
+      "answer": "Dwelling places of spirits or sites of magical events"
+    },
+    {
+      "question": "What type of weapon often symbolizes bravery and protection in Timorese hero stories?",
+      "choices": [
+        "Bow and arrow",
+        "Spear",
+        "Surik sabean sword",
+        "Sling"
+      ],
+      "answer": "Surik sabean sword"
+    },
+    {
+      "question": "How does the 'Ordinary World' stage manifest in 'The Legend of Rai Nain'?",
+      "choices": [
+        "Rai Nain living a life of luxury",
+        "Rai Nain's village suffering from drought",
+        "Rai Nain as a celebrated warrior",
+        "Rai Nain studying with wise elders"
+      ],
+      "answer": "Rai Nain's village suffering from drought"
+    },
+    {
+      "question": "What represents the 'Crossing the Threshold' stage in Rai Nain's journey?",
+      "choices": [
+        "Defeating the fire spirit",
+        "Meeting the wise woman in his dream",
+        "Setting out on the journey to the mountain",
+        "Finding the magical spring"
+      ],
+      "answer": "Setting out on the journey to the mountain"
+    },
+    {
+      "question": "Which encounter represents the 'Tests, Allies, Enemies' stage in Rai Nain's journey?",
+      "choices": [
+        "The dream of the wise woman",
+        "The drought in his village",
+        "Encounters with mischievous spirits and the giant snake",
+        "Returning to the village with the water"
+      ],
+      "answer": "Encounters with mischievous spirits and the giant snake"
+    },
+    {
+      "question": "What stage of the hero's journey does Rai Nain's encounter with the fire spirit represent?",
+      "choices": [
+        "Call to Adventure",
+        "Approach to Inmost Cave",
+        "Ordeal",
+        "Return with Elixir"
+      ],
+      "answer": "Ordeal"
+    },
+    {
+      "question": "In the context of the hero's journey, what does Rai Nain's return to the village with the magical water represent?",
+      "choices": [
+        "Refusal of the Call",
+        "Resurrection",
+        "Return with Elixir",
+        "Meeting the Mentor"
+      ],
+      "answer": "Return with Elixir"
+    },
+    {
+      "question": "How does Rai Nain's journey reflect Timorese cultural values?",
+      "choices": [
+        "It emphasizes individual glory and achievement",
+        "It focuses on accumulating personal wealth",
+        "It highlights the importance of community well-being",
+        "It promotes isolation from nature and spirits"
+      ],
+      "answer": "It highlights the importance of community well-being"
+    },
+    {
+      "question": "What aspect of Timorese cosmology is reflected in Rai Nain's interactions with spirits and magical beings?",
+      "choices": [
+        "Strict monotheism",
+        "Atheistic worldview",
+        "Animistic beliefs and connection to the spirit world",
+        "Belief in a single, all-powerful deity"
+      ],
+      "answer": "Animistic beliefs and connection to the spirit world"
+    },
+    {
+      "question": "How does Rai Nain's treatment of the giant snake reflect Timorese values?",
+      "choices": [
+        "It shows the importance of violence in solving problems",
+        "It demonstrates the value of generosity and respect for nature",
+        "It emphasizes the need to dominate other creatures",
+        "It reflects a fear-based approach to the unknown"
+      ],
+      "answer": "It demonstrates the value of generosity and respect for nature"
+    },
+    {
+      "question": "What does the never-ending water in Rai Nain's container symbolize?",
+      "choices": [
+        "The hero's greed",
+        "The temporary nature of solutions",
+        "The abundance of natural resources",
+        "The lasting impact of heroic deeds"
+      ],
+      "answer": "The lasting impact of heroic deeds"
+    }
+  ]
+}

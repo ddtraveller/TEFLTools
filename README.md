@@ -130,6 +130,9 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
     
 31. **Kultivasaun Moris ho laran tomak iha Timor-Leste / Cultivating Wholehearted Living in Timor-Leste**
     - This course aims to introduce participants in Timor-Leste to the concepts of Wholehearted living, focusing on cultivating courage, compassion, and connection. Participants will explore how to embrace their authentic selves, develop resilience, and foster meaningful relationships within their communities. The course will adapt Brené Brown's research on vulnerability and shame to the Timorese cultural context, emphasizing local values and traditions while addressing universal human experiences.
+
+32. **Karoline Myss: Arketype iha Psikolojia no Kultura Timor-Leste / Caroline Myss: Archetypes in Timorese Psychology and Culture**   
+    - This course explores the concept of archetypes as fundamental patterns of human behavior and consciousness within the context of Timorese culture. Drawing from various cultural, psychological, and spiritual traditions, it examines how archetypes influence personal development, societal structures, and creative expression in Timor-Leste. The course emphasizes the universal nature of archetypes while considering their diverse manifestations across different Timorese contexts. Students will learn to identify archetypal patterns in Timorese folklore, literature, and daily life, and understand how these patterns shape individual and collective identity.
     
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
