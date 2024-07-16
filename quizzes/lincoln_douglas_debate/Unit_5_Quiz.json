@@ -1,0 +1,305 @@
+{
+  "title": "Refutation and Rebuttal",
+  "questions": [
+    {
+      "question": "What are the three types of refutation discussed in the module?",
+      "choices": [
+        "Turn, take-out, mitigate",
+        "Argue, counter, rebut",
+        "Attack, defend, neutralize",
+        "Oppose, negate, contradict"
+      ],
+      "answer": "Turn, take-out, mitigate"
+    },
+    {
+      "question": "Which type of refutation shows that an opponent's argument actually supports your side?",
+      "choices": [
+        "Turn",
+        "Take-out",
+        "Mitigate",
+        "Rebut"
+      ],
+      "answer": "Turn"
+    },
+    {
+      "question": "What does a 'take-out' refutation do?",
+      "choices": [
+        "Directly challenges the validity of an argument",
+        "Reduces the impact of an opponent's argument",
+        "Shows that the opponent's argument supports your side",
+        "Completely ignores the opponent's argument"
+      ],
+      "answer": "Directly challenges the validity of an argument"
+    },
+    {
+      "question": "What is the purpose of mitigation in refutation?",
+      "choices": [
+        "To reduce the impact of an opponent's argument",
+        "To completely negate the opponent's argument",
+        "To turn the argument in your favor",
+        "To avoid addressing the argument"
+      ],
+      "answer": "To reduce the impact of an opponent's argument"
+    },
+    {
+      "question": "Which of the following is NOT a principle of effective rebuttal?",
+      "choices": [
+        "Address key arguments",
+        "Use evidence and logic",
+        "Maintain organization",
+        "Introduce new, unrelated topics"
+      ],
+      "answer": "Introduce new, unrelated topics"
+    },
+    {
+      "question": "What is the primary purpose of a rebuttal in a debate?",
+      "choices": [
+        "To contradict or disprove another's argument",
+        "To introduce new arguments",
+        "To summarize your own arguments",
+        "To ask questions of the opponent"
+      ],
+      "answer": "To contradict or disprove another's argument"
+    },
+    {
+      "question": "In the context of debate, what does 'flowing' refer to?",
+      "choices": [
+        "Taking notes during a debate",
+        "Speaking smoothly and confidently",
+        "Moving around the debate stage",
+        "The order of speeches in a debate"
+      ],
+      "answer": "Taking notes during a debate"
+    },
+    {
+      "question": "What is the recommended time allocation for a rebuttal speech in the mini-debate activity?",
+      "choices": [
+        "2 minutes",
+        "3 minutes",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "answer": "2 minutes"
+    },
+    {
+      "question": "Which of the following is an important skill developed through refutation and rebuttal practice?",
+      "choices": [
+        "Defending one's own position",
+        "Memorizing pre-written speeches",
+        "Avoiding confrontation",
+        "Speaking as quickly as possible"
+      ],
+      "answer": "Defending one's own position"
+    },
+    {
+      "question": "What is the purpose of the 'Argument Reversal' warm-up activity?",
+      "choices": [
+        "To practice arguing both sides of an issue",
+        "To identify logical fallacies",
+        "To improve speaking speed",
+        "To memorize debate resolutions"
+      ],
+      "answer": "To practice arguing both sides of an issue"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key vocabulary term in the lesson plan?",
+      "choices": [
+        "Refutation",
+        "Turn",
+        "Take-out",
+        "Counterplan"
+      ],
+      "answer": "Counterplan"
+    },
+    {
+      "question": "What is the recommended group size for the refutation drill activity?",
+      "choices": [
+        "Small groups",
+        "Pairs",
+        "Individual",
+        "Whole class"
+      ],
+      "answer": "Small groups"
+    },
+    {
+      "question": "What is the focus of the production task in the lesson plan?",
+      "choices": [
+        "Constructing a rebuttal speech",
+        "Writing an affirmative case",
+        "Conducting cross-examination",
+        "Analyzing debate resolutions"
+      ],
+      "answer": "Constructing a rebuttal speech"
+    },
+    {
+      "question": "How long should the rebuttal speech be in the production task?",
+      "choices": [
+        "3 minutes",
+        "2 minutes",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "answer": "3 minutes"
+    },
+    {
+      "question": "What is the homework assignment given in the lesson plan?",
+      "choices": [
+        "Write a 1-page rebuttal to a given argument",
+        "Prepare an affirmative case",
+        "Research a new debate topic",
+        "Memorize key vocabulary terms"
+      ],
+      "answer": "Write a 1-page rebuttal to a given argument"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a required resource for the lesson?",
+      "choices": [
+        "Debate resolution cards",
+        "Video recording equipment",
+        "Whiteboard and markers",
+        "Timer"
+      ],
+      "answer": "Video recording equipment"
+    },
+    {
+      "question": "What is the recommended approach for connecting rebuttals to your overall case?",
+      "choices": [
+        "Show how refutations support your main arguments",
+        "Introduce entirely new arguments",
+        "Ignore your original case structure",
+        "Focus solely on attacking the opponent's case"
+      ],
+      "answer": "Show how refutations support your main arguments"
+    },
+    {
+      "question": "Which of the following best describes the purpose of cross-examination in a debate?",
+      "choices": [
+        "To clarify and challenge the opponent's arguments",
+        "To introduce new arguments",
+        "To summarize your own case",
+        "To practice public speaking"
+      ],
+      "answer": "To clarify and challenge the opponent's arguments"
+    },
+    {
+      "question": "What is the primary goal of time management in debate speeches?",
+      "choices": [
+        "To allocate appropriate time to different parts of the speech",
+        "To speak as quickly as possible",
+        "To use up all available time",
+        "To finish the speech early"
+      ],
+      "answer": "To allocate appropriate time to different parts of the speech"
+    },
+    {
+      "question": "Which of the following is an important aspect of delivery in debate?",
+      "choices": [
+        "Vocal variety and body language",
+        "Speaking in a monotone voice",
+        "Avoiding eye contact with the audience",
+        "Reading directly from notes without looking up"
+      ],
+      "answer": "Vocal variety and body language"
+    },
+    {
+      "question": "What is the purpose of analyzing persuasive speeches by Timorese leaders?",
+      "choices": [
+        "To learn effective rhetorical techniques",
+        "To memorize their speeches",
+        "To critique their political views",
+        "To practice translation skills"
+      ],
+      "answer": "To learn effective rhetorical techniques"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a component of an argument in the course content?",
+      "choices": [
+        "Emotion",
+        "Claim",
+        "Warrant",
+        "Impact"
+      ],
+      "answer": "Emotion"
+    },
+    {
+      "question": "What is the purpose of a value premise in Lincoln-Douglas debate?",
+      "choices": [
+        "To establish the fundamental principle being upheld",
+        "To provide statistical evidence",
+        "To attack the opponent's character",
+        "To introduce new arguments"
+      ],
+      "answer": "To establish the fundamental principle being upheld"
+    },
+    {
+      "question": "How does the course adapt Lincoln-Douglas debate to the Timorese context?",
+      "choices": [
+        "By using local issues and cultural values in examples and topics",
+        "By changing the fundamental structure of the debate format",
+        "By eliminating the need for evidence",
+        "By focusing only on international issues"
+      ],
+      "answer": "By using local issues and cultural values in examples and topics"
+    },
+    {
+      "question": "What is the recommended approach for selecting criteria in a debate?",
+      "choices": [
+        "Choose criteria that best support your value premise",
+        "Use the same criteria for every debate",
+        "Avoid using criteria altogether",
+        "Select criteria that contradict your value premise"
+      ],
+      "answer": "Choose criteria that best support your value premise"
+    },
+    {
+      "question": "Which of the following is an important skill in answering questions during cross-examination?",
+      "choices": [
+        "Remaining calm under pressure",
+        "Avoiding answering directly",
+        "Speaking as quickly as possible",
+        "Asking counter-questions instead of answering"
+      ],
+      "answer": "Remaining calm under pressure"
+    },
+    {
+      "question": "What is the primary goal of organizing a public debate on a local issue?",
+      "choices": [
+        "To promote civic engagement and public discourse",
+        "To determine government policy",
+        "To showcase individual debating skills",
+        "To raise funds for debate programs"
+      ],
+      "answer": "To promote civic engagement and public discourse"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a suggested item to cover in the course?",
+      "choices": [
+        "International debate competitions",
+        "Ethical considerations in debate",
+        "Adapting debate techniques for community discussions",
+        "The role of debate in promoting civic engagement"
+      ],
+      "answer": "International debate competitions"
+    },
+    {
+      "question": "What is the purpose of collaborating with local schools or youth organizations?",
+      "choices": [
+        "To introduce debate concepts to a wider audience",
+        "To recruit students for international competitions",
+        "To raise funds for debate programs",
+        "To criticize existing educational systems"
+      ],
+      "answer": "To introduce debate concepts to a wider audience"
+    },
+    {
+      "question": "Which of the following is recommended as an additional resource for the course?",
+      "choices": [
+        "Guest lectures from local community leaders",
+        "Textbooks on formal logic",
+        "Videos of international debate championships",
+        "Software for automated argument analysis"
+      ],
+      "answer": "Guest lectures from local community leaders"
+    }
+  ]
+}

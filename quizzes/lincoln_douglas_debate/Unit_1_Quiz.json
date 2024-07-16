@@ -1,0 +1,305 @@
+{
+  "title": "Foundations of Lincoln-Douglas Debate",
+  "questions": [
+    {
+      "question": "What is the primary focus of Lincoln-Douglas debate?",
+      "choices": [
+        "Scientific facts",
+        "Historical events",
+        "Philosophical and ethical issues",
+        "Mathematical proofs"
+      ],
+      "answer": "Philosophical and ethical issues"
+    },
+    {
+      "question": "Which of the following is NOT a type of resolution in Lincoln-Douglas debate?",
+      "choices": [
+        "Fact",
+        "Value",
+        "Policy",
+        "Opinion"
+      ],
+      "answer": "Opinion"
+    },
+    {
+      "question": "What is the purpose of a value premise in Lincoln-Douglas debate?",
+      "choices": [
+        "To provide statistical evidence",
+        "To establish the core ideal that should be prioritized",
+        "To outline the debate structure",
+        "To introduce the debaters"
+      ],
+      "answer": "To establish the core ideal that should be prioritized"
+    },
+    {
+      "question": "Which of the following is a component of a debate resolution?",
+      "choices": [
+        "Audience",
+        "Judge",
+        "Agent",
+        "Timer"
+      ],
+      "answer": "Agent"
+    },
+    {
+      "question": "What is the role of the criterion in Lincoln-Douglas debate?",
+      "choices": [
+        "To time the speeches",
+        "To judge the debate",
+        "To serve as a standard for achieving the value premise",
+        "To select the resolution"
+      ],
+      "answer": "To serve as a standard for achieving the value premise"
+    },
+    {
+      "question": "Which side speaks first in a Lincoln-Douglas debate?",
+      "choices": [
+        "Negative",
+        "Affirmative",
+        "Judge",
+        "Moderator"
+      ],
+      "answer": "Affirmative"
+    },
+    {
+      "question": "What is the purpose of cross-examination in Lincoln-Douglas debate?",
+      "choices": [
+        "To introduce new arguments",
+        "To ask questions of the opponent",
+        "To summarize the debate",
+        "To declare a winner"
+      ],
+      "answer": "To ask questions of the opponent"
+    },
+    {
+      "question": "Which of the following is NOT a typical skill developed through Lincoln-Douglas debate?",
+      "choices": [
+        "Logical reasoning",
+        "Ethical analysis",
+        "Persuasive speaking",
+        "Mathematical computation"
+      ],
+      "answer": "Mathematical computation"
+    },
+    {
+      "question": "What type of resolution asserts the truth or falsity of a claim?",
+      "choices": [
+        "Fact resolution",
+        "Value resolution",
+        "Policy resolution",
+        "Opinion resolution"
+      ],
+      "answer": "Fact resolution"
+    },
+    {
+      "question": "In the context of Timor-Leste, what is a potential challenge in implementing debate programs?",
+      "choices": [
+        "Excessive funding",
+        "Too many experienced debaters",
+        "Cultural norms discouraging open disagreement",
+        "Overabundance of debate resources"
+      ],
+      "answer": "Cultural norms discouraging open disagreement"
+    },
+    {
+      "question": "What is the primary goal of a rebuttal speech in Lincoln-Douglas debate?",
+      "choices": [
+        "To introduce new arguments",
+        "To refute opponent's arguments and defend one's own",
+        "To ask questions of the opponent",
+        "To summarize the entire debate"
+      ],
+      "answer": "To refute opponent's arguments and defend one's own"
+    },
+    {
+      "question": "Which historical event inspired the format of Lincoln-Douglas debate?",
+      "choices": [
+        "The American Revolution",
+        "The Civil War",
+        "The 1858 Illinois senatorial race debates",
+        "The Constitutional Convention"
+      ],
+      "answer": "The 1858 Illinois senatorial race debates"
+    },
+    {
+      "question": "What is the typical educational level of participants in Lincoln-Douglas debate?",
+      "choices": [
+        "Elementary school",
+        "Middle school",
+        "High school",
+        "University"
+      ],
+      "answer": "High school"
+    },
+    {
+      "question": "Which of the following is NOT a common value premise in Lincoln-Douglas debate?",
+      "choices": [
+        "Justice",
+        "Democracy",
+        "Human rights",
+        "Profit maximization"
+      ],
+      "answer": "Profit maximization"
+    },
+    {
+      "question": "What type of resolution proposes a course of action?",
+      "choices": [
+        "Fact resolution",
+        "Value resolution",
+        "Policy resolution",
+        "Theoretical resolution"
+      ],
+      "answer": "Policy resolution"
+    },
+    {
+      "question": "How can debate contribute to the development of democracy in Timor-Leste?",
+      "choices": [
+        "By discouraging political participation",
+        "By promoting a single viewpoint",
+        "By fostering critical thinking and civic engagement",
+        "By simplifying complex issues"
+      ],
+      "answer": "By fostering critical thinking and civic engagement"
+    },
+    {
+      "question": "What is the purpose of a constructive speech in Lincoln-Douglas debate?",
+      "choices": [
+        "To ask questions of the opponent",
+        "To present main arguments and case",
+        "To declare a winner",
+        "To time the debate"
+      ],
+      "answer": "To present main arguments and case"
+    },
+    {
+      "question": "Which of the following is a key component of a debate resolution?",
+      "choices": [
+        "Audience reaction",
+        "Judge's opinion",
+        "Topic",
+        "Time limit"
+      ],
+      "answer": "Topic"
+    },
+    {
+      "question": "What role does research play in Lincoln-Douglas debate?",
+      "choices": [
+        "It is discouraged to promote original thinking",
+        "It is only necessary for the affirmative side",
+        "It is crucial for developing informed arguments",
+        "It is only required for fact resolutions"
+      ],
+      "answer": "It is crucial for developing informed arguments"
+    },
+    {
+      "question": "How does Lincoln-Douglas debate differ from other debate formats?",
+      "choices": [
+        "It focuses solely on scientific topics",
+        "It involves teams of debaters",
+        "It emphasizes ethical and philosophical issues",
+        "It does not allow rebuttals"
+      ],
+      "answer": "It emphasizes ethical and philosophical issues"
+    },
+    {
+      "question": "What is the significance of the 'agent' in a debate resolution?",
+      "choices": [
+        "It refers to the debate judge",
+        "It identifies who should take the action or make the decision",
+        "It describes the debate venue",
+        "It specifies the time limit for speeches"
+      ],
+      "answer": "It identifies who should take the action or make the decision"
+    },
+    {
+      "question": "How can debate skills be applied outside of competitive settings?",
+      "choices": [
+        "They are not applicable outside of debates",
+        "Only in formal political discussions",
+        "In everyday decision-making and civic participation",
+        "Exclusively in academic research"
+      ],
+      "answer": "In everyday decision-making and civic participation"
+    },
+    {
+      "question": "What is the primary purpose of Lincoln-Douglas debate in an educational context?",
+      "choices": [
+        "To determine absolute truths",
+        "To win arguments at any cost",
+        "To develop critical thinking and communication skills",
+        "To memorize facts about various topics"
+      ],
+      "answer": "To develop critical thinking and communication skills"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in implementing debate programs in developing nations?",
+      "choices": [
+        "Limited resources",
+        "Language barriers",
+        "Cultural norms discouraging open disagreement",
+        "Excessive funding for debate programs"
+      ],
+      "answer": "Excessive funding for debate programs"
+    },
+    {
+      "question": "What is the role of the negative side in a Lincoln-Douglas debate?",
+      "choices": [
+        "To support the resolution",
+        "To remain neutral on the topic",
+        "To oppose the resolution",
+        "To act as a mediator"
+      ],
+      "answer": "To oppose the resolution"
+    },
+    {
+      "question": "How does the criterion relate to the value premise in Lincoln-Douglas debate?",
+      "choices": [
+        "It contradicts the value premise",
+        "It replaces the value premise",
+        "It acts as a bridge between the value and concrete arguments",
+        "It is unrelated to the value premise"
+      ],
+      "answer": "It acts as a bridge between the value and concrete arguments"
+    },
+    {
+      "question": "What type of resolution makes judgments about the worth or morality of an idea or action?",
+      "choices": [
+        "Fact resolution",
+        "Value resolution",
+        "Policy resolution",
+        "Theoretical resolution"
+      ],
+      "answer": "Value resolution"
+    },
+    {
+      "question": "How can debate contribute to conflict resolution in societies like Timor-Leste?",
+      "choices": [
+        "By encouraging physical confrontations",
+        "By promoting a single dominant viewpoint",
+        "By fostering dialogue and understanding of multiple perspectives",
+        "By avoiding discussion of controversial topics"
+      ],
+      "answer": "By fostering dialogue and understanding of multiple perspectives"
+    },
+    {
+      "question": "What is the primary goal of cross-examination in Lincoln-Douglas debate?",
+      "choices": [
+        "To introduce new arguments",
+        "To clarify and challenge the opponent's position",
+        "To summarize the debate",
+        "To declare a winner"
+      ],
+      "answer": "To clarify and challenge the opponent's position"
+    },
+    {
+      "question": "Which of the following best describes the structure of a Lincoln-Douglas debate?",
+      "choices": [
+        "A series of unstructured arguments",
+        "A single long speech from each side",
+        "A structured sequence of speeches and cross-examinations",
+        "A group discussion with no time limits"
+      ],
+      "answer": "A structured sequence of speeches and cross-examinations"
+    }
+  ]
+}

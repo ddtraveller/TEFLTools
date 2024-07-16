@@ -1,0 +1,305 @@
+{
+  "title": "Constructing Arguments in Lincoln-Douglas Debate",
+  "questions": [
+    {
+      "question": "What is the three-part model for constructing arguments in Lincoln-Douglas debate?",
+      "choices": [
+        "Premise-Conclusion-Evidence",
+        "Claim-Warrant-Impact",
+        "Thesis-Antithesis-Synthesis",
+        "Introduction-Body-Conclusion"
+      ],
+      "answer": "Claim-Warrant-Impact"
+    },
+    {
+      "question": "Which component of an argument serves as the main assertion or position being argued?",
+      "choices": [
+        "Warrant",
+        "Impact",
+        "Claim",
+        "Evidence"
+      ],
+      "answer": "Claim"
+    },
+    {
+      "question": "What is the purpose of the warrant in an argument?",
+      "choices": [
+        "To state the main position",
+        "To provide reasoning or evidence supporting the claim",
+        "To explain the consequences of the argument",
+        "To introduce counterarguments"
+      ],
+      "answer": "To provide reasoning or evidence supporting the claim"
+    },
+    {
+      "question": "The impact of an argument explains:",
+      "choices": [
+        "The evidence used",
+        "The opposing viewpoint",
+        "The significance or consequences of the argument",
+        "The historical context of the debate"
+      ],
+      "answer": "The significance or consequences of the argument"
+    },
+    {
+      "question": "Which type of evidence includes statistical data and scientific studies?",
+      "choices": [
+        "Anecdotal evidence",
+        "Expert testimony",
+        "Empirical evidence",
+        "Logical evidence"
+      ],
+      "answer": "Empirical evidence"
+    },
+    {
+      "question": "Personal stories or specific examples are classified as what type of evidence?",
+      "choices": [
+        "Empirical evidence",
+        "Anecdotal evidence",
+        "Expert testimony",
+        "Statistical evidence"
+      ],
+      "answer": "Anecdotal evidence"
+    },
+    {
+      "question": "Evidence provided by recognized authorities in a field is known as:",
+      "choices": [
+        "Empirical evidence",
+        "Anecdotal evidence",
+        "Expert testimony",
+        "Logical evidence"
+      ],
+      "answer": "Expert testimony"
+    },
+    {
+      "question": "Why is it important for debaters to anticipate counterarguments?",
+      "choices": [
+        "To extend the length of the debate",
+        "To confuse the opponent",
+        "To prepare effective rebuttals",
+        "To avoid using evidence"
+      ],
+      "answer": "To prepare effective rebuttals"
+    },
+    {
+      "question": "What is the primary purpose of using various types of evidence in a debate?",
+      "choices": [
+        "To confuse the judges",
+        "To extend the speaking time",
+        "To strengthen the argument",
+        "To avoid addressing the main issue"
+      ],
+      "answer": "To strengthen the argument"
+    },
+    {
+      "question": "In Lincoln-Douglas debate, why is the order of presenting arguments important?",
+      "choices": [
+        "It doesn't matter as long as all arguments are presented",
+        "To confuse the opponent",
+        "To fill the allotted time",
+        "It can affect the impact of the arguments"
+      ],
+      "answer": "It can affect the impact of the arguments"
+    },
+    {
+      "question": "What skill does constructing arguments in Lincoln-Douglas debate primarily develop?",
+      "choices": [
+        "Memorization",
+        "Public speaking",
+        "Critical thinking",
+        "Speed reading"
+      ],
+      "answer": "Critical thinking"
+    },
+    {
+      "question": "Why is clarity in language important when constructing arguments?",
+      "choices": [
+        "To impress the judges with complex vocabulary",
+        "To confuse the opponent",
+        "To ensure arguments are accessible and understandable",
+        "To extend the debate time"
+      ],
+      "answer": "To ensure arguments are accessible and understandable"
+    },
+    {
+      "question": "What is the benefit of using anecdotal evidence in a debate?",
+      "choices": [
+        "It provides statistical proof",
+        "It adds a human element and makes arguments more relatable",
+        "It is always more convincing than empirical evidence",
+        "It is easier to fabricate"
+      ],
+      "answer": "It adds a human element and makes arguments more relatable"
+    },
+    {
+      "question": "How should multiple arguments in a debate be connected?",
+      "choices": [
+        "They should be completely unrelated",
+        "They should contradict each other",
+        "They should be logically connected and mutually reinforcing",
+        "They should all focus on personal attacks"
+      ],
+      "answer": "They should be logically connected and mutually reinforcing"
+    },
+    {
+      "question": "What is the purpose of the claim in an argument?",
+      "choices": [
+        "To provide evidence",
+        "To state the main assertion or position",
+        "To explain the consequences",
+        "To introduce a counterargument"
+      ],
+      "answer": "To state the main assertion or position"
+    },
+    {
+      "question": "Which part of an argument bridges the gap between the claim and the impact?",
+      "choices": [
+        "The evidence",
+        "The warrant",
+        "The conclusion",
+        "The introduction"
+      ],
+      "answer": "The warrant"
+    },
+    {
+      "question": "Why is it important to use technical language appropriately in debates?",
+      "choices": [
+        "To confuse the opponent",
+        "To impress the judges",
+        "To balance precision with accessibility",
+        "To avoid addressing the main issues"
+      ],
+      "answer": "To balance precision with accessibility"
+    },
+    {
+      "question": "What is a potential drawback of relying too heavily on expert testimony?",
+      "choices": [
+        "It's always the most convincing type of evidence",
+        "It can be seen as an appeal to authority",
+        "It's the easiest type of evidence to find",
+        "It's always unbiased"
+      ],
+      "answer": "It can be seen as an appeal to authority"
+    },
+    {
+      "question": "In the context of Timor-Leste, why might anecdotal evidence be particularly powerful?",
+      "choices": [
+        "Because it's easier to fabricate",
+        "Because it reflects local experiences and cultural context",
+        "Because it's always more reliable than statistics",
+        "Because it impresses judges more than other evidence"
+      ],
+      "answer": "Because it reflects local experiences and cultural context"
+    },
+    {
+      "question": "What should debaters consider when using evidence about Timorese issues?",
+      "choices": [
+        "Only use international sources",
+        "Ignore local context",
+        "Consider cultural values and local perspectives",
+        "Avoid using any statistical data"
+      ],
+      "answer": "Consider cultural values and local perspectives"
+    },
+    {
+      "question": "Why is it important to link local Timorese issues to broader global concerns in arguments?",
+      "choices": [
+        "To ignore local issues",
+        "To show the wider relevance and impact of the argument",
+        "To confuse the opponent",
+        "To avoid discussing specific local problems"
+      ],
+      "answer": "To show the wider relevance and impact of the argument"
+    },
+    {
+      "question": "What role does emotional appeal play in constructing arguments?",
+      "choices": [
+        "It should be the only basis for arguments",
+        "It has no place in logical debate",
+        "It can be effective when balanced with logical reasoning",
+        "It is always more persuasive than facts"
+      ],
+      "answer": "It can be effective when balanced with logical reasoning"
+    },
+    {
+      "question": "How can debaters effectively use expert testimony without over-relying on it?",
+      "choices": [
+        "By using it as the only form of evidence",
+        "By fabricating expert opinions",
+        "By balancing it with other types of evidence and explaining its relevance",
+        "By ignoring expert opinions entirely"
+      ],
+      "answer": "By balancing it with other types of evidence and explaining its relevance"
+    },
+    {
+      "question": "What is a key consideration when using empirical evidence in debates about Timorese issues?",
+      "choices": [
+        "Always use the oldest data available",
+        "Only use evidence from other countries",
+        "Ensure the data is recent and relevant to the Timorese context",
+        "Avoid using any numerical data"
+      ],
+      "answer": "Ensure the data is recent and relevant to the Timorese context"
+    },
+    {
+      "question": "How can debaters address the rural-urban divide in Timor-Leste when constructing arguments?",
+      "choices": [
+        "Ignore rural perspectives entirely",
+        "Only focus on urban issues",
+        "Consider and address both rural and urban contexts in their arguments",
+        "Assume rural and urban issues are always the same"
+      ],
+      "answer": "Consider and address both rural and urban contexts in their arguments"
+    },
+    {
+      "question": "Why is it important to consider the multilingual nature of Timorese society in debate?",
+      "choices": [
+        "To exclude non-English speakers",
+        "To use as many languages as possible in one argument",
+        "To ensure arguments are accessible and relevant across language groups",
+        "To avoid using any local languages"
+      ],
+      "answer": "To ensure arguments are accessible and relevant across language groups"
+    },
+    {
+      "question": "How should debaters approach traditional customs and practices (Tara Bandu) in their arguments?",
+      "choices": [
+        "Always argue against traditional practices",
+        "Ignore them completely",
+        "Consider their significance and potential impact on the issue being debated",
+        "Only use them if they support your argument"
+      ],
+      "answer": "Consider their significance and potential impact on the issue being debated"
+    },
+    {
+      "question": "What is the importance of considering the lingering impacts of colonialism and occupation in Timorese debates?",
+      "choices": [
+        "To assign blame for current issues",
+        "To avoid discussing current problems",
+        "To understand the historical context of current issues and arguments",
+        "To promote a return to colonial rule"
+      ],
+      "answer": "To understand the historical context of current issues and arguments"
+    },
+    {
+      "question": "How can debaters effectively address the importance of community consensus in Timorese culture?",
+      "choices": [
+        "By ignoring community perspectives",
+        "By only presenting individual viewpoints",
+        "By incorporating community-based evidence and considering collective impact",
+        "By arguing against the concept of community consensus"
+      ],
+      "answer": "By incorporating community-based evidence and considering collective impact"
+    },
+    {
+      "question": "What should debaters keep in mind regarding the Catholic influence in Timor-Leste?",
+      "choices": [
+        "Ignore religious perspectives entirely",
+        "Only use religious arguments",
+        "Consider the potential influence of Catholic values on moral and ethical issues",
+        "Argue against all religious influences"
+      ],
+      "answer": "Consider the potential influence of Catholic values on moral and ethical issues"
+    }
+  ]
+}

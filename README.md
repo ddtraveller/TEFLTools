@@ -27,7 +27,7 @@ For practical application:
 
 ## Kursu Prinsipal sira / Key Courses
 
-Repo ne'e iha kursu individuál liu 40. This repo contains over 40 individual courses.
+Repo ida-ne'e iha kursu individuál 40 resin no arkivu 2500+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste. / This repo contains over 40 individual courses and 2500+ files with course information that is regionalized for Timor Leste.
 
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
@@ -97,7 +97,10 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 
 20. **Mikrobioma /The Microbiome **
     - This course explores the human microbiome and its impact on health, with a focus on applications in Timor-Leste. Students will learn about the diverse microbial communities inhabiting the human body, their roles in health and disease, and how environmental and cultural factors in Timor-Leste influence the microbiome. The course aims to provide a foundation for understanding microbiome research and its potential applications in improving public health in Timor-Leste.
-    
+
+21. **Debate Lincoln-Douglas / Lincoln-Douglas Debate**
+    - This course introduces students in Timor-Leste to the fundamentals of Lincoln-Douglas debate, adapting the format to the local context. Students will develop critical thinking, public speaking, and argumentation skills while exploring ethical issues relevant to Timorese society. The course aims to empower students to engage in respectful dialogue, analyze complex topics, and articulate well-reasoned positions on matters of public importance.
+
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 

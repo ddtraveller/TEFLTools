@@ -1,0 +1,305 @@
+{
+  "title": "Cross-Examination in Lincoln-Douglas Debate",
+  "questions": [
+    {
+      "question": "What is the primary purpose of cross-examination in Lincoln-Douglas debate?",
+      "choices": [
+        "To entertain the audience",
+        "To clarify opponent's arguments and expose weaknesses",
+        "To introduce new arguments",
+        "To practice public speaking"
+      ],
+      "answer": "To clarify opponent's arguments and expose weaknesses"
+    },
+    {
+      "question": "Which of the following is NOT an effective questioning technique in cross-examination?",
+      "choices": [
+        "Using open-ended questions",
+        "Following up on vague answers",
+        "Using argumentative or hostile questioning",
+        "Using closed questions to pin down specific points"
+      ],
+      "answer": "Using argumentative or hostile questioning"
+    },
+    {
+      "question": "What is a 'leading question' in the context of cross-examination?",
+      "choices": [
+        "A question that prompts or encourages a desired answer",
+        "The first question asked in cross-examination",
+        "A question about leadership qualities",
+        "A question that leads to a new topic"
+      ],
+      "answer": "A question that prompts or encourages a desired answer"
+    },
+    {
+      "question": "What is the recommended time for cross-examination in the lesson plan's practice activity?",
+      "choices": [
+        "2 minutes",
+        "3 minutes",
+        "5 minutes",
+        "10 minutes"
+      ],
+      "answer": "3 minutes"
+    },
+    {
+      "question": "Which of the following is an effective strategy for answering questions during cross-examination?",
+      "choices": [
+        "Providing long, detailed answers to every question",
+        "Avoiding direct answers to difficult questions",
+        "Answering directly and concisely",
+        "Arguing with the questioner"
+      ],
+      "answer": "Answering directly and concisely"
+    },
+    {
+      "question": "What is 'flowing' in the context of Lincoln-Douglas debate?",
+      "choices": [
+        "Speaking smoothly and eloquently",
+        "Taking effective notes during a debate",
+        "Moving gracefully on stage",
+        "The natural progression of arguments"
+      ],
+      "answer": "Taking effective notes during a debate"
+    },
+    {
+      "question": "What is a 'concession' in debate terms?",
+      "choices": [
+        "Winning an argument",
+        "Introducing a new point",
+        "Admitting that a point made by the opponent is valid",
+        "Concluding a speech"
+      ],
+      "answer": "Admitting that a point made by the opponent is valid"
+    },
+    {
+      "question": "Which activity is suggested in the lesson plan to practice cross-examination skills?",
+      "choices": [
+        "Writing essays",
+        "Watching debate videos",
+        "Cross-examination role play",
+        "Silent reflection"
+      ],
+      "answer": "Cross-examination role play"
+    },
+    {
+      "question": "What is the recommended approach when responding to a misunderstanding during cross-examination?",
+      "choices": [
+        "Ignore it and move on",
+        "Become defensive",
+        "Clarify the misunderstanding",
+        "Change the subject"
+      ],
+      "answer": "Clarify the misunderstanding"
+    },
+    {
+      "question": "What is the purpose of the 'Two Truths and a Lie' warm-up activity?",
+      "choices": [
+        "To practice lying convincingly",
+        "To demonstrate how questioning can reveal truth",
+        "To introduce debate topics",
+        "To assess students' knowledge of current events"
+      ],
+      "answer": "To demonstrate how questioning can reveal truth"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key component of Lincoln-Douglas debate in the course overview?",
+      "choices": [
+        "Value premises",
+        "Criteria",
+        "Visual aids",
+        "Cross-examination"
+      ],
+      "answer": "Visual aids"
+    },
+    {
+      "question": "What is the recommended approach when asking questions during cross-examination?",
+      "choices": [
+        "Ask only closed-ended questions",
+        "Use a combination of open-ended and closed questions",
+        "Ask as many questions as possible without listening to answers",
+        "Focus solely on attacking the opponent's character"
+      ],
+      "answer": "Use a combination of open-ended and closed questions"
+    },
+    {
+      "question": "What is the purpose of an 'open-ended question' in cross-examination?",
+      "choices": [
+        "To limit the opponent's response",
+        "To gather more detailed information",
+        "To confuse the opponent",
+        "To end the cross-examination quickly"
+      ],
+      "answer": "To gather more detailed information"
+    },
+    {
+      "question": "How should a debater respond when they don't know the answer to a question in cross-examination?",
+      "choices": [
+        "Make up an answer",
+        "Ignore the question and ask their own",
+        "Admit they don't know but explain their position",
+        "End the cross-examination immediately"
+      ],
+      "answer": "Admit they don't know but explain their position"
+    },
+    {
+      "question": "What is the primary goal of the homework assignment in the lesson plan?",
+      "choices": [
+        "To memorize debate terms",
+        "To analyze and learn from real debate cross-examinations",
+        "To write a full debate case",
+        "To practice public speaking"
+      ],
+      "answer": "To analyze and learn from real debate cross-examinations"
+    },
+    {
+      "question": "Which of the following is a key consideration when adapting Lincoln-Douglas debate for Timor-Leste?",
+      "choices": [
+        "Using only English language resources",
+        "Ignoring local cultural context",
+        "Connecting values to Timorese cultural context",
+        "Focusing solely on international issues"
+      ],
+      "answer": "Connecting values to Timorese cultural context"
+    },
+    {
+      "question": "What is the recommended approach when an opponent gives a vague answer during cross-examination?",
+      "choices": [
+        "Accept the answer and move on",
+        "Become angry and argumentative",
+        "Follow up to seek clarification",
+        "End the cross-examination immediately"
+      ],
+      "answer": "Follow up to seek clarification"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key skill developed through Lincoln-Douglas debate in the course overview?",
+      "choices": [
+        "Critical thinking",
+        "Public speaking",
+        "Argumentation",
+        "Mathematical reasoning"
+      ],
+      "answer": "Mathematical reasoning"
+    },
+    {
+      "question": "What is the purpose of 'redirecting to your strengths' when answering questions in cross-examination?",
+      "choices": [
+        "To avoid answering difficult questions",
+        "To confuse the opponent",
+        "To highlight the strongest aspects of your case",
+        "To extend the time of cross-examination"
+      ],
+      "answer": "To highlight the strongest aspects of your case"
+    },
+    {
+      "question": "Which of the following is a recommended strategy for time management in Lincoln-Douglas debate?",
+      "choices": [
+        "Using all available time for cross-examination",
+        "Ignoring time limits",
+        "Allocating time effectively for different speech segments",
+        "Speaking as quickly as possible"
+      ],
+      "answer": "Allocating time effectively for different speech segments"
+    },
+    {
+      "question": "What is the purpose of analyzing persuasive speeches by Timorese leaders in the course?",
+      "choices": [
+        "To criticize political figures",
+        "To learn techniques for persuasive communication",
+        "To memorize speeches",
+        "To discuss current events"
+      ],
+      "answer": "To learn techniques for persuasive communication"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a component of an argument in the course overview?",
+      "choices": [
+        "Claim",
+        "Warrant",
+        "Impact",
+        "Rebuttal"
+      ],
+      "answer": "Rebuttal"
+    },
+    {
+      "question": "What is the recommended approach for selecting criteria in Lincoln-Douglas debate?",
+      "choices": [
+        "Choose criteria randomly",
+        "Use the same criteria for every debate",
+        "Select and justify criteria appropriate to the resolution",
+        "Avoid using criteria altogether"
+      ],
+      "answer": "Select and justify criteria appropriate to the resolution"
+    },
+    {
+      "question": "Which of the following is a suggested practical experience in the course overview?",
+      "choices": [
+        "Organizing a public debate on a local issue",
+        "Writing a research paper on debate theory",
+        "Memorizing famous speeches",
+        "Studying formal logic"
+      ],
+      "answer": "Organizing a public debate on a local issue"
+    },
+    {
+      "question": "What is the purpose of the 'claim-warrant-impact' model in argumentation?",
+      "choices": [
+        "To confuse opponents",
+        "To structure logical arguments",
+        "To avoid using evidence",
+        "To extend speaking time"
+      ],
+      "answer": "To structure logical arguments"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a type of refutation in the course overview?",
+      "choices": [
+        "Turn",
+        "Take-out",
+        "Mitigate",
+        "Amplify"
+      ],
+      "answer": "Amplify"
+    },
+    {
+      "question": "What is the recommended approach for using evidence in Lincoln-Douglas debate?",
+      "choices": [
+        "Avoid using evidence altogether",
+        "Use only personal anecdotes",
+        "Incorporate various types of relevant evidence",
+        "Focus solely on statistical data"
+      ],
+      "answer": "Incorporate various types of relevant evidence"
+    },
+    {
+      "question": "Which of the following is emphasized as important for delivery in Lincoln-Douglas debate?",
+      "choices": [
+        "Speaking in a monotone voice",
+        "Avoiding eye contact",
+        "Using vocal variety and appropriate body language",
+        "Reading directly from prepared notes"
+      ],
+      "answer": "Using vocal variety and appropriate body language"
+    },
+    {
+      "question": "What is the purpose of studying the history of debate in democratic societies?",
+      "choices": [
+        "To memorize historical dates",
+        "To understand the role of debate in democracy",
+        "To learn about ancient civilizations",
+        "To practice pronunciation of difficult names"
+      ],
+      "answer": "To understand the role of debate in democracy"
+    },
+    {
+      "question": "Which of the following is suggested as an additional resource in the course overview?",
+      "choices": [
+        "Science textbooks",
+        "Fiction novels",
+        "Guest lectures from local community leaders",
+        "Music theory guides"
+      ],
+      "answer": "Guest lectures from local community leaders"
+    }
+  ]
+}

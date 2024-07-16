@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Lalleshwari and Her Historical Context",
+  "questions": [
+    {
+      "question": "In which century did Lalleshwari live?",
+      "choices": [
+        "13th century",
+        "14th century",
+        "15th century",
+        "16th century"
+      ],
+      "answer": "14th century"
+    },
+    {
+      "question": "What was the predominant religion in Kashmir during Lalleshwari's time?",
+      "choices": [
+        "Islam",
+        "Buddhism",
+        "Hinduism",
+        "Sikhism"
+      ],
+      "answer": "Hinduism"
+    },
+    {
+      "question": "Which dynasty established the first Muslim sultanate in Kashmir during Lalleshwari's time?",
+      "choices": [
+        "Lohara dynasty",
+        "Mughal dynasty",
+        "Shah Mir dynasty",
+        "Gupta dynasty"
+      ],
+      "answer": "Shah Mir dynasty"
+    },
+    {
+      "question": "What is the term for Lalleshwari's short, pithy verses?",
+      "choices": [
+        "Shlokas",
+        "Vakhs",
+        "Ghazals",
+        "Dohas"
+      ],
+      "answer": "Vakhs"
+    },
+    {
+      "question": "Which philosophical tradition formed an important backdrop to Lalleshwari's spiritual development?",
+      "choices": [
+        "Advaita Vedanta",
+        "Kashmir Shaivism",
+        "Vaishnavism",
+        "Jainism"
+      ],
+      "answer": "Kashmir Shaivism"
+    },
+    {
+      "question": "What language did Lalleshwari primarily use for her compositions?",
+      "choices": [
+        "Sanskrit",
+        "Persian",
+        "Kashmiri",
+        "Hindi"
+      ],
+      "answer": "Kashmiri"
+    },
+    {
+      "question": "Which Islamic mystical tradition was growing in influence in Kashmir during Lalleshwari's time?",
+      "choices": [
+        "Sufism",
+        "Shiism",
+        "Wahhabism",
+        "Ahmadiyya"
+      ],
+      "answer": "Sufism"
+    },
+    {
+      "question": "What was Lalleshwari's original caste background?",
+      "choices": [
+        "Kshatriya",
+        "Vaishya",
+        "Shudra",
+        "Brahmin"
+      ],
+      "answer": "Brahmin"
+    },
+    {
+      "question": "Which concept was central to Lalleshwari's philosophy?",
+      "choices": [
+        "Karma",
+        "Reincarnation",
+        "Self-realization",
+        "Predestination"
+      ],
+      "answer": "Self-realization"
+    },
+    {
+      "question": "What is the name of the Sufi saint Lalleshwari is said to have encountered?",
+      "choices": [
+        "Rumi",
+        "Sheikh Nooruddin Noorani",
+        "Kabir",
+        "Bulleh Shah"
+      ],
+      "answer": "Sheikh Nooruddin Noorani"
+    },
+    {
+      "question": "What is the term for the Hindu sages or seers often associated with Vedic hymns?",
+      "choices": [
+        "Yogis",
+        "Gurus",
+        "Rishis",
+        "Swamis"
+      ],
+      "answer": "Rishis"
+    },
+    {
+      "question": "What is the name of the doctrine of recognition in Kashmiri Shaivism?",
+      "choices": [
+        "Pratyabhijna",
+        "Advaita",
+        "Vishishtadvaita",
+        "Dvaita"
+      ],
+      "answer": "Pratyabhijna"
+    },
+    {
+      "question": "What is the term for the spiritual lineage or chain of transmission in Sufism?",
+      "choices": [
+        "Tariqa",
+        "Silsila",
+        "Zawiya",
+        "Khanqah"
+      ],
+      "answer": "Silsila"
+    },
+    {
+      "question": "Which of the following is NOT a name associated with Lalleshwari?",
+      "choices": [
+        "Lal Ded",
+        "Lalla Yogeshwari",
+        "Lalleshwari",
+        "Lalla Arifa"
+      ],
+      "answer": "Lalla Arifa"
+    },
+    {
+      "question": "What is the threefold system of Kashmiri Shaivism called?",
+      "choices": [
+        "Trika",
+        "Tantra",
+        "Yoga",
+        "Vedanta"
+      ],
+      "answer": "Trika"
+    },
+    {
+      "question": "Which of the following best describes Lalleshwari's approach to spirituality?",
+      "choices": [
+        "Strict adherence to rituals",
+        "Emphasis on scriptural study",
+        "Focus on direct spiritual experience",
+        "Promotion of asceticism"
+      ],
+      "answer": "Focus on direct spiritual experience"
+    },
+    {
+      "question": "What is the approximate year of Lalleshwari's birth?",
+      "choices": [
+        "1300",
+        "1310",
+        "1320",
+        "1330"
+      ],
+      "answer": "1320"
+    },
+    {
+      "question": "Which of the following was a major economic activity in 14th century Kashmir?",
+      "choices": [
+        "Mining",
+        "Textile production",
+        "Shipbuilding",
+        "Oil extraction"
+      ],
+      "answer": "Textile production"
+    },
+    {
+      "question": "What concept in Kashmiri Shaivism refers to vibration or pulsation?",
+      "choices": [
+        "Spanda",
+        "Shakti",
+        "Pratyabhijna",
+        "Trika"
+      ],
+      "answer": "Spanda"
+    },
+    {
+      "question": "Which of the following is a key text in Kashmiri Shaivism?",
+      "choices": [
+        "Bhagavad Gita",
+        "Yoga Sutras",
+        "Shiva Sutras",
+        "Upanishads"
+      ],
+      "answer": "Shiva Sutras"
+    },
+    {
+      "question": "What is the Sufi concept of annihilation of the ego called?",
+      "choices": [
+        "Dhikr",
+        "Fana",
+        "Baqa",
+        "Qalb"
+      ],
+      "answer": "Fana"
+    },
+    {
+      "question": "Which of the following best describes the political situation in 14th century Kashmir?",
+      "choices": [
+        "Stable Hindu rule",
+        "Mughal invasion",
+        "Transition from Hindu to Muslim rule",
+        "British colonization"
+      ],
+      "answer": "Transition from Hindu to Muslim rule"
+    },
+    {
+      "question": "What is the term for a female practitioner of yoga or a female spiritual adept?",
+      "choices": [
+        "Yogini",
+        "Rishika",
+        "Sadhvi",
+        "Devi"
+      ],
+      "answer": "Yogini"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of Lalleshwari's teachings?",
+      "choices": [
+        "Emphasis on inner spirituality",
+        "Promotion of religious harmony",
+        "Advocacy for strict caste adherence",
+        "Critique of empty rituals"
+      ],
+      "answer": "Advocacy for strict caste adherence"
+    },
+    {
+      "question": "What is the Sufi practice of remembrance of God called?",
+      "choices": [
+        "Salat",
+        "Dhikr",
+        "Zakat",
+        "Hajj"
+      ],
+      "answer": "Dhikr"
+    },
+    {
+      "question": "Which of the following best describes the religious environment of 14th century Kashmir?",
+      "choices": [
+        "Homogeneous Hindu society",
+        "Dominant Islamic culture",
+        "Interaction between Hindu and Muslim traditions",
+        "Secular state"
+      ],
+      "answer": "Interaction between Hindu and Muslim traditions"
+    },
+    {
+      "question": "What is the approximate year of Lalleshwari's death?",
+      "choices": [
+        "1380",
+        "1390",
+        "1400",
+        "1410"
+      ],
+      "answer": "1400"
+    },
+    {
+      "question": "Which of the following is a common theme in the legends about Lalleshwari?",
+      "choices": [
+        "Her political leadership",
+        "Her military conquests",
+        "Her defiance of social norms",
+        "Her wealth and luxury"
+      ],
+      "answer": "Her defiance of social norms"
+    },
+    {
+      "question": "What is the Sufi concept of Unity of Being called?",
+      "choices": [
+        "Tawhid",
+        "Wahdat al-Wujud",
+        "Ittihad",
+        "Hulul"
+      ],
+      "answer": "Wahdat al-Wujud"
+    },
+    {
+      "question": "Which of the following best describes Lalleshwari's impact on Kashmiri culture?",
+      "choices": [
+        "She introduced Islam to Kashmir",
+        "She established a new political dynasty",
+        "She contributed to the development of Kashmiri language and literature",
+        "She founded a new school of philosophy"
+      ],
+      "answer": "She contributed to the development of Kashmiri language and literature"
+    }
+  ]
+}

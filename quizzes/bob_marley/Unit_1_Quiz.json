@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Bob Marley and Reggae",
+  "questions": [
+    {
+      "question": "In what year was Bob Marley born?",
+      "choices": [
+        "1945",
+        "1950",
+        "1955",
+        "1960"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "Where was Bob Marley born?",
+      "choices": [
+        "Kingston",
+        "Trenchtown",
+        "Nine Mile, Saint Ann Parish",
+        "Montego Bay"
+      ],
+      "answer": "Nine Mile, Saint Ann Parish"
+    },
+    {
+      "question": "What was Bob Marley's father's ethnicity?",
+      "choices": [
+        "Afro-Jamaican",
+        "White English",
+        "Mixed-race Jamaican",
+        "African American"
+      ],
+      "answer": "White English"
+    },
+    {
+      "question": "At what age did Bob Marley move to Trenchtown, Kingston?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "In which year did Bob Marley form the Wailers?",
+      "choices": [
+        "1960",
+        "1963",
+        "1965",
+        "1968"
+      ],
+      "answer": "1963"
+    },
+    {
+      "question": "Which music genre preceded reggae in Jamaica?",
+      "choices": [
+        "Calypso",
+        "Soca",
+        "Ska",
+        "Mento"
+      ],
+      "answer": "Ska"
+    },
+    {
+      "question": "When did ska emerge in Jamaica?",
+      "choices": [
+        "Late 1940s",
+        "Early 1950s",
+        "Late 1950s",
+        "Early 1960s"
+      ],
+      "answer": "Late 1950s"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of ska music?",
+      "choices": [
+        "Upbeat tempo",
+        "Walking bass line",
+        "Slow, mellow rhythm",
+        "Accented guitar or piano chords on offbeat"
+      ],
+      "answer": "Slow, mellow rhythm"
+    },
+    {
+      "question": "When did reggae develop from ska?",
+      "choices": [
+        "Early 1960s",
+        "Mid 1960s",
+        "Late 1960s",
+        "Early 1970s"
+      ],
+      "answer": "Late 1960s"
+    },
+    {
+      "question": "Which of these is NOT a key characteristic of reggae music?",
+      "choices": [
+        "Slower tempo than ska",
+        "Emphasis on bassline and drums",
+        "Fast-paced, energetic rhythms",
+        "Socially conscious lyrics"
+      ],
+      "answer": "Fast-paced, energetic rhythms"
+    },
+    {
+      "question": "When did the Rastafari movement begin in Jamaica?",
+      "choices": [
+        "1920s",
+        "1930s",
+        "1940s",
+        "1950s"
+      ],
+      "answer": "1930s"
+    },
+    {
+      "question": "Which figure is considered a messiah in Rastafarianism?",
+      "choices": [
+        "Marcus Garvey",
+        "Bob Marley",
+        "Haile Selassie I",
+        "Malcolm X"
+      ],
+      "answer": "Haile Selassie I"
+    },
+    {
+      "question": "When did Bob Marley convert to Rastafarianism?",
+      "choices": [
+        "Early 1960s",
+        "Mid 1960s",
+        "Late 1960s",
+        "Early 1970s"
+      ],
+      "answer": "Mid 1960s"
+    },
+    {
+      "question": "What is the 'skank' in reggae music?",
+      "choices": [
+        "A type of dance",
+        "The characteristic guitar or keyboard rhythm emphasizing the offbeat",
+        "A vocal technique",
+        "A percussion instrument"
+      ],
+      "answer": "The characteristic guitar or keyboard rhythm emphasizing the offbeat"
+    },
+    {
+      "question": "Which of these is NOT a pioneer of reggae music?",
+      "choices": [
+        "Bob Marley & The Wailers",
+        "Toots & The Maytals",
+        "Jimmy Cliff",
+        "The Beatles"
+      ],
+      "answer": "The Beatles"
+    },
+    {
+      "question": "What is Jamaican Patois?",
+      "choices": [
+        "A type of reggae dance",
+        "A Jamaican musical instrument",
+        "Jamaican Creole language",
+        "A Rastafarian religious text"
+      ],
+      "answer": "Jamaican Creole language"
+    },
+    {
+      "question": "Which Bob Marley song is mentioned as an example of Rastafarian ideals of universal brotherhood?",
+      "choices": [
+        "No Woman, No Cry",
+        "One Love",
+        "Redemption Song",
+        "Buffalo Soldier"
+      ],
+      "answer": "One Love"
+    },
+    {
+      "question": "What year did Jamaica gain independence from British colonial rule?",
+      "choices": [
+        "1960",
+        "1962",
+        "1964",
+        "1966"
+      ],
+      "answer": "1962"
+    },
+    {
+      "question": "Which of these is NOT a key belief in Rastafarianism?",
+      "choices": [
+        "Repatriation to Africa",
+        "Use of marijuana as sacrament",
+        "Worship of Bob Marley as a deity",
+        "Haile Selassie I as a messiah figure"
+      ],
+      "answer": "Worship of Bob Marley as a deity"
+    },
+    {
+      "question": "What is the significance of dreadlocks in reggae culture?",
+      "choices": [
+        "A fashion statement",
+        "A symbol of Rastafarian influence",
+        "A requirement for reggae musicians",
+        "A tribute to Bob Marley"
+      ],
+      "answer": "A symbol of Rastafarian influence"
+    },
+    {
+      "question": "Which instrument plays a crucial role in reggae, often carrying the main melody?",
+      "choices": [
+        "Guitar",
+        "Drums",
+        "Bass guitar",
+        "Keyboard"
+      ],
+      "answer": "Bass guitar"
+    },
+    {
+      "question": "What year was Bob Marley's early hit 'Simmer Down' released?",
+      "choices": [
+        "1962",
+        "1964",
+        "1966",
+        "1968"
+      ],
+      "answer": "1964"
+    },
+    {
+      "question": "In what year was 'No Woman, No Cry' recorded?",
+      "choices": [
+        "1970",
+        "1972",
+        "1974",
+        "1976"
+      ],
+      "answer": "1974"
+    },
+    {
+      "question": "What is the term for the weak beats in a bar of music, typically the even-numbered beats?",
+      "choices": [
+        "Downbeat",
+        "Upbeat",
+        "Offbeat",
+        "Backbeat"
+      ],
+      "answer": "Offbeat"
+    },
+    {
+      "question": "Which of these best describes the lyrical themes in Bob Marley's music?",
+      "choices": [
+        "Primarily love songs",
+        "Mostly about partying and having fun",
+        "Focused on social issues and spiritual themes",
+        "Mainly instrumental compositions"
+      ],
+      "answer": "Focused on social issues and spiritual themes"
+    },
+    {
+      "question": "What is Trenchtown known for in reggae history?",
+      "choices": [
+        "The birthplace of Bob Marley",
+        "The location of the first reggae recording studio",
+        "A neighborhood significant in reggae's development",
+        "The site of Bob Marley's final concert"
+      ],
+      "answer": "A neighborhood significant in reggae's development"
+    },
+    {
+      "question": "Which of these musical styles influenced the development of ska?",
+      "choices": [
+        "Classical",
+        "Rock and roll",
+        "R&B",
+        "Hip hop"
+      ],
+      "answer": "R&B"
+    },
+    {
+      "question": "What does the concept of 'repatriation' refer to in Rastafarian ideology?",
+      "choices": [
+        "Returning to Africa",
+        "Gaining Jamaican citizenship",
+        "Converting others to Rastafarianism",
+        "Achieving financial independence"
+      ],
+      "answer": "Returning to Africa"
+    },
+    {
+      "question": "Which record label did Bob Marley sign with in 1972?",
+      "choices": [
+        "Columbia Records",
+        "Island Records",
+        "Atlantic Records",
+        "Motown Records"
+      ],
+      "answer": "Island Records"
+    },
+    {
+      "question": "How did reggae's musical characteristics reflect changes in Jamaican society?",
+      "choices": [
+        "It became faster and more upbeat",
+        "It incorporated more Western instruments",
+        "It slowed down and featured more prominent bass lines",
+        "It abandoned traditional Jamaican rhythms"
+      ],
+      "answer": "It slowed down and featured more prominent bass lines"
+    }
+  ]
+}

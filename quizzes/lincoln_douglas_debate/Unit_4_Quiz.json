@@ -1,0 +1,305 @@
+{
+  "title": "Case Construction in Lincoln-Douglas Debate",
+  "questions": [
+    {
+      "question": "What are the two main types of cases in Lincoln-Douglas debate?",
+      "choices": [
+        "Affirmative and negative",
+        "Offensive and defensive",
+        "Constructive and rebuttal",
+        "Value and criterion"
+      ],
+      "answer": "Affirmative and negative"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of an affirmative case?",
+      "choices": [
+        "Introduction",
+        "Resolution statement",
+        "Definitions",
+        "Responses to negative case"
+      ],
+      "answer": "Responses to negative case"
+    },
+    {
+      "question": "What is the purpose of the value premise in a Lincoln-Douglas debate case?",
+      "choices": [
+        "To provide evidence for arguments",
+        "To define key terms in the resolution",
+        "To present the core value or ideal being upheld",
+        "To outline the structure of the speech"
+      ],
+      "answer": "To present the core value or ideal being upheld"
+    },
+    {
+      "question": "What is the function of the criterion in a debate case?",
+      "choices": [
+        "To introduce the topic of debate",
+        "To provide a standard for measuring achievement of the value premise",
+        "To summarize the main arguments",
+        "To refute the opponent's arguments"
+      ],
+      "answer": "To provide a standard for measuring achievement of the value premise"
+    },
+    {
+      "question": "How many contentions are typically included in an affirmative case?",
+      "choices": [
+        "1",
+        "2-3",
+        "4-5",
+        "6 or more"
+      ],
+      "answer": "2-3"
+    },
+    {
+      "question": "What is the purpose of resolutional analysis in a debate case?",
+      "choices": [
+        "To provide historical context for the debate topic",
+        "To explain how the case relates to the debate resolution",
+        "To analyze the opponent's arguments",
+        "To introduce new evidence"
+      ],
+      "answer": "To explain how the case relates to the debate resolution"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of a negative case?",
+      "choices": [
+        "Introduction",
+        "Value premise and criterion",
+        "Contentions",
+        "Definitions"
+      ],
+      "answer": "Definitions"
+    },
+    {
+      "question": "What is signposting in the context of case organization?",
+      "choices": [
+        "Using visual aids during the debate",
+        "Providing clear markers to indicate the structure of the speech",
+        "Writing key points on a whiteboard",
+        "Gesturing to emphasize important arguments"
+      ],
+      "answer": "Providing clear markers to indicate the structure of the speech"
+    },
+    {
+      "question": "What is the primary purpose of the introduction in a debate case?",
+      "choices": [
+        "To present evidence",
+        "To state the resolution",
+        "To grab the audience's attention and set the tone",
+        "To refute the opponent's arguments"
+      ],
+      "answer": "To grab the audience's attention and set the tone"
+    },
+    {
+      "question": "How many contentions are typically included in a negative case?",
+      "choices": [
+        "1-2",
+        "3-4",
+        "5-6",
+        "7 or more"
+      ],
+      "answer": "1-2"
+    },
+    {
+      "question": "What is the purpose of including definitions in an affirmative case?",
+      "choices": [
+        "To increase the word count of the speech",
+        "To clarify key terms in the resolution",
+        "To introduce new arguments",
+        "To analyze the opponent's case"
+      ],
+      "answer": "To clarify key terms in the resolution"
+    },
+    {
+      "question": "Which of the following is a key strategy for case organization?",
+      "choices": [
+        "Using complex language to impress the judge",
+        "Including as many arguments as possible",
+        "Ensuring a logical flow of arguments",
+        "Avoiding the use of evidence"
+      ],
+      "answer": "Ensuring a logical flow of arguments"
+    },
+    {
+      "question": "What is the purpose of the conclusion in a debate case?",
+      "choices": [
+        "To introduce new arguments",
+        "To summarize key points and reinforce the main thesis",
+        "To define terms used in the debate",
+        "To present the value premise"
+      ],
+      "answer": "To summarize key points and reinforce the main thesis"
+    },
+    {
+      "question": "In the context of Lincoln-Douglas debate, what are contentions?",
+      "choices": [
+        "The opening statements of a debate",
+        "The main arguments or points made in a debate case",
+        "The rebuttals to the opponent's arguments",
+        "The closing remarks of a debate"
+      ],
+      "answer": "The main arguments or points made in a debate case"
+    },
+    {
+      "question": "What is the primary difference between affirmative and negative case structures?",
+      "choices": [
+        "Affirmative cases are longer",
+        "Negative cases include definitions",
+        "Affirmative cases support the resolution, while negative cases oppose it",
+        "Negative cases have more contentions"
+      ],
+      "answer": "Affirmative cases support the resolution, while negative cases oppose it"
+    },
+    {
+      "question": "What is the purpose of connecting contentions to the value premise and criterion?",
+      "choices": [
+        "To increase the complexity of the case",
+        "To meet the time requirements of the speech",
+        "To demonstrate how arguments support the overall case structure",
+        "To introduce new values into the debate"
+      ],
+      "answer": "To demonstrate how arguments support the overall case structure"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of case construction?",
+      "choices": [
+        "Value premise",
+        "Contentions",
+        "Cross-examination questions",
+        "Criterion"
+      ],
+      "answer": "Cross-examination questions"
+    },
+    {
+      "question": "What is the purpose of transitions in case organization?",
+      "choices": [
+        "To add more arguments to the case",
+        "To smoothly connect different parts of the speech",
+        "To introduce new evidence",
+        "To challenge the opponent's arguments"
+      ],
+      "answer": "To smoothly connect different parts of the speech"
+    },
+    {
+      "question": "In the context of Timorese debates, why is it important to connect values to the local cultural context?",
+      "choices": [
+        "To make the debate more complex",
+        "To avoid discussing international issues",
+        "To ensure relevance and resonance with the audience",
+        "To simplify the arguments"
+      ],
+      "answer": "To ensure relevance and resonance with the audience"
+    },
+    {
+      "question": "What is the purpose of including responses to the affirmative case in a negative case?",
+      "choices": [
+        "To fill time in the speech",
+        "To directly address and refute the opponent's arguments",
+        "To introduce new values",
+        "To restate the resolution"
+      ],
+      "answer": "To directly address and refute the opponent's arguments"
+    },
+    {
+      "question": "Why is it important to research and add evidence to support contentions?",
+      "choices": [
+        "To make the speech longer",
+        "To impress the judge with complex language",
+        "To strengthen arguments with factual support",
+        "To avoid discussing the value premise"
+      ],
+      "answer": "To strengthen arguments with factual support"
+    },
+    {
+      "question": "What is the benefit of practicing case delivery with a timer?",
+      "choices": [
+        "To speak as quickly as possible",
+        "To ensure the speech fits within the allocated time",
+        "To impress the judge with speed",
+        "To avoid using evidence"
+      ],
+      "answer": "To ensure the speech fits within the allocated time"
+    },
+    {
+      "question": "Why is it important to consider current social issues in Timor-Leste when constructing debate cases?",
+      "choices": [
+        "To avoid discussing international topics",
+        "To make the debate easier",
+        "To ensure relevance and engagement with local context",
+        "To simplify the arguments"
+      ],
+      "answer": "To ensure relevance and engagement with local context"
+    },
+    {
+      "question": "What is the purpose of peer review in case construction?",
+      "choices": [
+        "To copy other students' arguments",
+        "To avoid individual work",
+        "To receive feedback and improve the case",
+        "To determine the winner of the debate"
+      ],
+      "answer": "To receive feedback and improve the case"
+    },
+    {
+      "question": "Why is it important to adapt debate techniques for community discussions in Timor-Leste?",
+      "choices": [
+        "To make debates less formal",
+        "To avoid controversial topics",
+        "To promote civic engagement and conflict resolution",
+        "To simplify the debate format"
+      ],
+      "answer": "To promote civic engagement and conflict resolution"
+    },
+    {
+      "question": "What is the purpose of organizing a public debate on a local issue?",
+      "choices": [
+        "To entertain the community",
+        "To practice debate skills in a real-world context",
+        "To avoid discussing national issues",
+        "To replace formal education"
+      ],
+      "answer": "To practice debate skills in a real-world context"
+    },
+    {
+      "question": "Why is it beneficial to analyze persuasive speeches by Timorese leaders?",
+      "choices": [
+        "To criticize political figures",
+        "To memorize specific speeches",
+        "To learn effective rhetorical techniques in a local context",
+        "To avoid developing original arguments"
+      ],
+      "answer": "To learn effective rhetorical techniques in a local context"
+    },
+    {
+      "question": "What is the purpose of collaborating with local schools or youth organizations in debate activities?",
+      "choices": [
+        "To recruit new students",
+        "To avoid adult participation",
+        "To introduce and spread debate concepts more widely",
+        "To simplify debate topics"
+      ],
+      "answer": "To introduce and spread debate concepts more widely"
+    },
+    {
+      "question": "Why is it important to consider ethical implications when constructing debate cases?",
+      "choices": [
+        "To avoid all controversial topics",
+        "To make the debate more complex",
+        "To ensure responsible and thoughtful argumentation",
+        "To impress the judge with philosophical knowledge"
+      ],
+      "answer": "To ensure responsible and thoughtful argumentation"
+    },
+    {
+      "question": "What is the benefit of participating in a mock parliamentary debate session?",
+      "choices": [
+        "To replace actual political participation",
+        "To practice debate skills in a structured, formal setting",
+        "To avoid community-based debates",
+        "To simplify debate topics"
+      ],
+      "answer": "To practice debate skills in a structured, formal setting"
+    }
+  ]
+}
