@@ -27,7 +27,7 @@ For practical application:
 
 ## Kursu Prinsipal sira / Key Courses
 
-Repo ida-ne'e iha kursu individuál 60 resin no arkivu 2500+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / This repo contains over 60 individual courses and 2500+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
+Repo ida-ne'e iha kursu individuál 60 resin no arkivu 3200+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / This repo contains over 60 individual courses and 3200+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
 
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
