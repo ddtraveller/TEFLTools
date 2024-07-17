@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Climate Change Impacts in Timor-Leste's Urban Areas",
+  "questions": [
+    {
+      "question": "What is the projected increase in mean annual temperature for Timor-Leste by 2050?",
+      "choices": [
+        "0.2°C to 0.6°C",
+        "0.8°C to 1.6°C",
+        "2.0°C to 3.0°C",
+        "3.5°C to 4.5°C"
+      ],
+      "answer": "0.8°C to 1.6°C"
+    },
+    {
+      "question": "Which areas in Timor-Leste are expected to experience larger temperature increases?",
+      "choices": [
+        "Coastal regions",
+        "Urban centers",
+        "Inland mountainous regions",
+        "Agricultural plains"
+      ],
+      "answer": "Inland mountainous regions"
+    },
+    {
+      "question": "What is the projected change in annual rainfall for Timor-Leste?",
+      "choices": [
+        "Decrease by 5-10%",
+        "No significant change",
+        "Increase by 0-4%",
+        "Increase by 10-15%"
+      ],
+      "answer": "Increase by 0-4%"
+    },
+    {
+      "question": "What is the projected sea level rise for Timor-Leste by 2100?",
+      "choices": [
+        "0.05-0.15m",
+        "0.18-0.59m",
+        "0.75-1.2m",
+        "1.5-2.0m"
+      ],
+      "answer": "0.18-0.59m"
+    },
+    {
+      "question": "What is the urban heat island effect?",
+      "choices": [
+        "A cooling phenomenon in coastal cities",
+        "The warming of urban areas compared to surrounding rural areas",
+        "A meteorological event unique to tropical islands",
+        "The effect of air conditioning on urban temperatures"
+      ],
+      "answer": "The warming of urban areas compared to surrounding rural areas"
+    },
+    {
+      "question": "Which of the following is NOT a cause of the urban heat island effect in Timorese cities?",
+      "choices": [
+        "Dark surfaces absorbing heat",
+        "Lack of vegetation and green spaces",
+        "Heat-generating activities like traffic",
+        "Proximity to large bodies of water"
+      ],
+      "answer": "Proximity to large bodies of water"
+    },
+    {
+      "question": "What is a key factor contributing to increased urban flooding risk in Timor-Leste?",
+      "choices": [
+        "Improved drainage systems",
+        "Decreased rainfall intensity",
+        "Rapid urbanization reducing permeable surfaces",
+        "Increased vegetation cover"
+      ],
+      "answer": "Rapid urbanization reducing permeable surfaces"
+    },
+    {
+      "question": "Which areas in Timorese cities are at highest risk for landslides?",
+      "choices": [
+        "Coastal plains",
+        "City centers",
+        "Hilly areas with informal settlements",
+        "Industrial zones"
+      ],
+      "answer": "Hilly areas with informal settlements"
+    },
+    {
+      "question": "How does climate change affect water resources in Timorese cities?",
+      "choices": [
+        "Increased water availability year-round",
+        "Stress on supply systems during prolonged dry seasons",
+        "Improved water quality in all sources",
+        "Reduced demand for water in urban areas"
+      ],
+      "answer": "Stress on supply systems during prolonged dry seasons"
+    },
+    {
+      "question": "What is a potential impact of sea level rise on coastal aquifers?",
+      "choices": [
+        "Increased freshwater availability",
+        "Improved water quality",
+        "Saltwater intrusion",
+        "Enhanced groundwater recharge"
+      ],
+      "answer": "Saltwater intrusion"
+    },
+    {
+      "question": "Which infrastructure is likely to be damaged by increased flooding and landslides?",
+      "choices": [
+        "Underground bunkers",
+        "Solar panels",
+        "Roads and bridges",
+        "Wind turbines"
+      ],
+      "answer": "Roads and bridges"
+    },
+    {
+      "question": "What challenge does climate change pose for solid waste management in Timorese cities?",
+      "choices": [
+        "Increased efficiency of waste collection",
+        "Reduced waste generation",
+        "Improved landfill capacity",
+        "Complications in flood-prone areas"
+      ],
+      "answer": "Complications in flood-prone areas"
+    },
+    {
+      "question": "Which climate change impact is likely to increase energy consumption in Timorese cities?",
+      "choices": [
+        "Sea level rise",
+        "Changes in precipitation",
+        "Increased average temperatures",
+        "More frequent storms"
+      ],
+      "answer": "Increased average temperatures"
+    },
+    {
+      "question": "What is a potential consequence of more intense rainfall events in urban areas?",
+      "choices": [
+        "Improved groundwater recharge",
+        "Reduced strain on drainage systems",
+        "Increased risk of flash flooding",
+        "Lower demand for water storage"
+      ],
+      "answer": "Increased risk of flash flooding"
+    },
+    {
+      "question": "How might climate change affect rural-urban migration patterns in Timor-Leste?",
+      "choices": [
+        "Decrease migration to cities",
+        "Increase migration to rural areas",
+        "No effect on migration patterns",
+        "Potentially increase migration to cities due to rural impacts"
+      ],
+      "answer": "Potentially increase migration to cities due to rural impacts"
+    },
+    {
+      "question": "What is a potential impact of the urban heat island effect on public health?",
+      "choices": [
+        "Reduced air pollution",
+        "Decreased energy consumption",
+        "Increased heat-related health risks",
+        "Improved air quality"
+      ],
+      "answer": "Increased heat-related health risks"
+    },
+    {
+      "question": "Which group is often most vulnerable to climate change impacts in Timorese cities?",
+      "choices": [
+        "Wealthy residents",
+        "Government officials",
+        "Tourists",
+        "The urban poor"
+      ],
+      "answer": "The urban poor"
+    },
+    {
+      "question": "What is a potential impact of climate change on urban water quality?",
+      "choices": [
+        "Consistent improvement",
+        "No significant change",
+        "Contamination during flood events",
+        "Reduced treatment needs"
+      ],
+      "answer": "Contamination during flood events"
+    },
+    {
+      "question": "How might sea level rise affect coastal urban economies in Timor-Leste?",
+      "choices": [
+        "Boost tourism industry",
+        "Increase agricultural productivity",
+        "Threaten coastal infrastructure and businesses",
+        "Improve fishing conditions"
+      ],
+      "answer": "Threaten coastal infrastructure and businesses"
+    },
+    {
+      "question": "What is a potential impact of climate change on urban biodiversity in Timor-Leste?",
+      "choices": [
+        "Increased species diversity",
+        "No significant change",
+        "Loss of native species and habitats",
+        "Improved ecosystem health"
+      ],
+      "answer": "Loss of native species and habitats"
+    },
+    {
+      "question": "How might climate change affect urban food security in Timor-Leste?",
+      "choices": [
+        "Consistently improve food availability",
+        "Have no significant impact",
+        "Potentially disrupt food supply chains and increase prices",
+        "Decrease demand for food in cities"
+      ],
+      "answer": "Potentially disrupt food supply chains and increase prices"
+    },
+    {
+      "question": "What is a potential impact of increased temperatures on urban air quality?",
+      "choices": [
+        "Consistent improvement",
+        "No significant change",
+        "Exacerbation of air pollution",
+        "Reduced need for air quality monitoring"
+      ],
+      "answer": "Exacerbation of air pollution"
+    },
+    {
+      "question": "How might climate change impact urban green spaces in Timorese cities?",
+      "choices": [
+        "Consistently improve their condition",
+        "Have no significant effect",
+        "Potentially stress vegetation and increase maintenance needs",
+        "Eliminate the need for urban green spaces"
+      ],
+      "answer": "Potentially stress vegetation and increase maintenance needs"
+    },
+    {
+      "question": "What is a potential impact of climate change on urban transportation in Timor-Leste?",
+      "choices": [
+        "Consistent improvement in transportation efficiency",
+        "No significant change",
+        "Disruption due to extreme weather events and infrastructure damage",
+        "Elimination of the need for public transportation"
+      ],
+      "answer": "Disruption due to extreme weather events and infrastructure damage"
+    },
+    {
+      "question": "How might climate change affect energy demand in Timorese cities?",
+      "choices": [
+        "Consistently decrease energy demand",
+        "Have no significant impact",
+        "Increase demand, particularly for cooling",
+        "Eliminate the need for electricity in urban areas"
+      ],
+      "answer": "Increase demand, particularly for cooling"
+    },
+    {
+      "question": "What is a potential impact of climate change on urban planning in Timor-Leste?",
+      "choices": [
+        "Simplification of planning processes",
+        "No significant change in planning approaches",
+        "Increased need for climate-resilient design and adaptation strategies",
+        "Elimination of the need for urban planning"
+      ],
+      "answer": "Increased need for climate-resilient design and adaptation strategies"
+    },
+    {
+      "question": "How might climate change impact urban waste management in Timorese cities?",
+      "choices": [
+        "Consistently improve waste management efficiency",
+        "Have no significant effect",
+        "Potentially complicate collection and disposal in flood-prone areas",
+        "Eliminate the need for waste management"
+      ],
+      "answer": "Potentially complicate collection and disposal in flood-prone areas"
+    },
+    {
+      "question": "What is a potential impact of climate change on urban social dynamics in Timor-Leste?",
+      "choices": [
+        "Consistently improve social cohesion",
+        "Have no significant effect",
+        "Potentially exacerbate existing inequalities and social tensions",
+        "Eliminate all social issues in urban areas"
+      ],
+      "answer": "Potentially exacerbate existing inequalities and social tensions"
+    },
+    {
+      "question": "How might climate change affect urban economic development in Timor-Leste?",
+      "choices": [
+        "Guarantee consistent economic growth",
+        "Have no significant impact",
+        "Potentially disrupt economic activities and increase adaptation costs",
+        "Eliminate the need for economic planning"
+      ],
+      "answer": "Potentially disrupt economic activities and increase adaptation costs"
+    },
+    {
+      "question": "What is a potential impact of climate change on urban governance in Timorese cities?",
+      "choices": [
+        "Simplification of governance structures",
+        "No significant change in governance approaches",
+        "Increased need for adaptive and participatory governance models",
+        "Elimination of the need for urban governance"
+      ],
+      "answer": "Increased need for adaptive and participatory governance models"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to HTML and Web Fundamentals",
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "choices": [
+        "Hypertext Markup Language",
+        "High-Level Text Management Language",
+        "Hyperlink and Text Manipulation Language",
+        "Home Tool Markup Language"
+      ],
+      "answer": "Hypertext Markup Language"
+    },
+    {
+      "question": "Who invented the World Wide Web?",
+      "choices": [
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Steve Jobs",
+        "Mark Zuckerberg"
+      ],
+      "answer": "Tim Berners-Lee"
+    },
+    {
+      "question": "In which year was the World Wide Web invented?",
+      "choices": [
+        "1989",
+        "1995",
+        "2000",
+        "1980"
+      ],
+      "answer": "1989"
+    },
+    {
+      "question": "What is the purpose of the <!DOCTYPE html> declaration?",
+      "choices": [
+        "To tell the browser which version of HTML the page is using",
+        "To define the document type",
+        "To start the HTML document",
+        "To declare the document as a webpage"
+      ],
+      "answer": "To tell the browser which version of HTML the page is using"
+    },
+    {
+      "question": "Which tag is used to define the root of an HTML document?",
+      "choices": [
+        "<html>",
+        "<root>",
+        "<body>",
+        "<head>"
+      ],
+      "answer": "<html>"
+    },
+    {
+      "question": "What does the <head> tag contain?",
+      "choices": [
+        "Metadata about the document",
+        "Visible page content",
+        "Footer information",
+        "Navigation links"
+      ],
+      "answer": "Metadata about the document"
+    },
+    {
+      "question": "Which tag is used for the main content of the webpage?",
+      "choices": [
+        "<body>",
+        "<content>",
+        "<main>",
+        "<div>"
+      ],
+      "answer": "<body>"
+    },
+    {
+      "question": "What is the correct HTML for creating a hyperlink?",
+      "choices": [
+        "<a href=\"URL\">link text</a>",
+        "<link url=\"URL\">link text</link>",
+        "<hyperlink>URL</hyperlink>",
+        "<url>link text</url>"
+      ],
+      "answer": "<a href=\"URL\">link text</a>"
+    },
+    {
+      "question": "Which tag is used for the largest heading in HTML?",
+      "choices": [
+        "<h1>",
+        "<heading>",
+        "<h6>",
+        "<head>"
+      ],
+      "answer": "<h1>"
+    },
+    {
+      "question": "What is the correct HTML for inserting an image?",
+      "choices": [
+        "<img src=\"image.jpg\" alt=\"description\">",
+        "<image src=\"image.jpg\" alt=\"description\">",
+        "<picture src=\"image.jpg\" alt=\"description\">",
+        "<img>image.jpg</img>"
+      ],
+      "answer": "<img src=\"image.jpg\" alt=\"description\">"
+    },
+    {
+      "question": "Which HTML element is used to define an unordered list?",
+      "choices": [
+        "<ul>",
+        "<ol>",
+        "<list>",
+        "<unordered>"
+      ],
+      "answer": "<ul>"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "choices": [
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Creative Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which HTML tag is used for creating a paragraph?",
+      "choices": [
+        "<p>",
+        "<paragraph>",
+        "<text>",
+        "<para>"
+      ],
+      "answer": "<p>"
+    },
+    {
+      "question": "What is the purpose of the alt attribute in an img tag?",
+      "choices": [
+        "To provide alternative text for screen readers",
+        "To specify the image alignment",
+        "To define the image size",
+        "To add a caption to the image"
+      ],
+      "answer": "To provide alternative text for screen readers"
+    },
+    {
+      "question": "Which HTML element is used to define important text?",
+      "choices": [
+        "<strong>",
+        "<b>",
+        "<important>",
+        "<em>"
+      ],
+      "answer": "<strong>"
+    },
+    {
+      "question": "What is the correct HTML for creating a checkbox?",
+      "choices": [
+        "<input type=\"checkbox\">",
+        "<checkbox>",
+        "<check>",
+        "<input type=\"check\">"
+      ],
+      "answer": "<input type=\"checkbox\">"
+    },
+    {
+      "question": "Which HTML element is used to define a table row?",
+      "choices": [
+        "<tr>",
+        "<row>",
+        "<td>",
+        "<th>"
+      ],
+      "answer": "<tr>"
+    },
+    {
+      "question": "What does the HTML <br> element do?",
+      "choices": [
+        "Inserts a single line break",
+        "Creates a new paragraph",
+        "Adds a horizontal rule",
+        "Starts a new section"
+      ],
+      "answer": "Inserts a single line break"
+    },
+    {
+      "question": "Which HTML element is used to define a footer for a document or section?",
+      "choices": [
+        "<footer>",
+        "<bottom>",
+        "<end>",
+        "<section>"
+      ],
+      "answer": "<footer>"
+    },
+    {
+      "question": "What is the purpose of the HTML <nav> element?",
+      "choices": [
+        "To define a set of navigation links",
+        "To create a new section",
+        "To add a navigation bar",
+        "To insert a menu"
+      ],
+      "answer": "To define a set of navigation links"
+    },
+    {
+      "question": "Which HTML element is used to define the title of a webpage?",
+      "choices": [
+        "<title>",
+        "<head>",
+        "<h1>",
+        "<header>"
+      ],
+      "answer": "<title>"
+    },
+    {
+      "question": "What is the correct HTML for making a drop-down list?",
+      "choices": [
+        "<select>",
+        "<input type=\"dropdown\">",
+        "<list>",
+        "<dropdown>"
+      ],
+      "answer": "<select>"
+    },
+    {
+      "question": "Which HTML attribute is used to specify an input field should be required?",
+      "choices": [
+        "required",
+        "mandatory",
+        "important",
+        "needed"
+      ],
+      "answer": "required"
+    },
+    {
+      "question": "What is the purpose of the HTML <article> element?",
+      "choices": [
+        "To define independent, self-contained content",
+        "To create a news article",
+        "To add a blog post",
+        "To insert a magazine article"
+      ],
+      "answer": "To define independent, self-contained content"
+    },
+    {
+      "question": "Which HTML element is used to define a description list?",
+      "choices": [
+        "<dl>",
+        "<ol>",
+        "<ul>",
+        "<list>"
+      ],
+      "answer": "<dl>"
+    },
+    {
+      "question": "What does the HTML <aside> element represent?",
+      "choices": [
+        "Content aside from the content it is placed in",
+        "A sidebar navigation",
+        "Additional information at the side of a page",
+        "A section of a document"
+      ],
+      "answer": "Content aside from the content it is placed in"
+    },
+    {
+      "question": "Which HTML element is used to specify a header for a document or section?",
+      "choices": [
+        "<header>",
+        "<head>",
+        "<top>",
+        "<h1>"
+      ],
+      "answer": "<header>"
+    },
+    {
+      "question": "What is the purpose of the HTML <meta> tag?",
+      "choices": [
+        "To specify metadata about an HTML document",
+        "To define a measured value",
+        "To create a meter",
+        "To add meta-content to a page"
+      ],
+      "answer": "To specify metadata about an HTML document"
+    },
+    {
+      "question": "Which HTML element is used to define emphasized text?",
+      "choices": [
+        "<em>",
+        "<i>",
+        "<italic>",
+        "<strong>"
+      ],
+      "answer": "<em>"
+    },
+    {
+      "question": "What is the correct HTML for inserting a background image?",
+      "choices": [
+        "<body style=\"background-image:url(background.jpg)\">",
+        "<background img=\"background.jpg\">",
+        "<img src=\"background.jpg\" background>",
+        "<div background=\"background.jpg\">"
+      ],
+      "answer": "<body style=\"background-image:url(background.jpg)\">"
+    }
+  ]
+}

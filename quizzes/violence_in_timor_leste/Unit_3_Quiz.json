@@ -1,0 +1,305 @@
+{
+  "title": "Armed Groups and Gang Violence in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the primary categories of armed groups in Timor-Leste?",
+      "choices": [
+        "Political parties, religious groups, and ethnic militias",
+        "Martial arts groups, veterans' associations, and clandestine organizations",
+        "Trade unions, student organizations, and paramilitary forces",
+        "Rebel armies, terrorist cells, and drug cartels"
+      ],
+      "answer": "Martial arts groups, veterans' associations, and clandestine organizations"
+    },
+    {
+      "question": "When did Timor-Leste gain independence?",
+      "choices": [
+        "1975",
+        "1999",
+        "2002",
+        "2013"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What historical period significantly influenced the formation of many armed groups in Timor-Leste?",
+      "choices": [
+        "Portuguese colonization",
+        "Japanese occupation during World War II",
+        "Indonesian occupation (1975-1999)",
+        "UN transitional administration"
+      ],
+      "answer": "Indonesian occupation (1975-1999)"
+    },
+    {
+      "question": "Which factor is NOT mentioned as contributing to the persistence of armed group violence in Timor-Leste?",
+      "choices": [
+        "High unemployment",
+        "Unresolved land disputes",
+        "Weak state institutions",
+        "Religious conflicts"
+      ],
+      "answer": "Religious conflicts"
+    },
+    {
+      "question": "What controversial measure did the Timorese government take in 2013 to address martial arts group violence?",
+      "choices": [
+        "Mandatory registration of all martial arts practitioners",
+        "Banning three major martial arts groups",
+        "Integrating martial arts into the school curriculum",
+        "Establishing a national martial arts regulatory body"
+      ],
+      "answer": "Banning three major martial arts groups"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as one of the banned martial arts groups?",
+      "choices": [
+        "PSHT",
+        "KORK",
+        "Kera Sakti",
+        "Colimau 2000"
+      ],
+      "answer": "Colimau 2000"
+    },
+    {
+      "question": "What is a common criticism of the government's ban on certain martial arts groups?",
+      "choices": [
+        "It was too lenient and should have included more groups",
+        "It unfairly targeted specific ethnic communities",
+        "It may drive activities underground without addressing root causes",
+        "It was implemented without proper legislative approval"
+      ],
+      "answer": "It may drive activities underground without addressing root causes"
+    },
+    {
+      "question": "How do armed groups often interact with political actors in Timor-Leste?",
+      "choices": [
+        "Through formal lobbying and campaign contributions",
+        "By forming complex patronage networks exchanging support for resources",
+        "By openly running candidates in elections",
+        "Through strict separation mandated by anti-corruption laws"
+      ],
+      "answer": "By forming complex patronage networks exchanging support for resources"
+    },
+    {
+      "question": "What role did many armed groups play during the Indonesian occupation?",
+      "choices": [
+        "They supported the Indonesian military",
+        "They remained neutral in the conflict",
+        "They were part of the resistance movement",
+        "They focused solely on cultural preservation"
+      ],
+      "answer": "They were part of the resistance movement"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a type of armed group in Timor-Leste?",
+      "choices": [
+        "Martial arts groups",
+        "Veterans groups",
+        "Clandestine groups",
+        "Ethnic militias"
+      ],
+      "answer": "Ethnic militias"
+    },
+    {
+      "question": "What is a common activity associated with martial arts groups in Timor-Leste?",
+      "choices": [
+        "International sports competitions",
+        "Traditional healing practices",
+        "Training and social events, sometimes leading to violent clashes",
+        "Environmental conservation efforts"
+      ],
+      "answer": "Training and social events, sometimes leading to violent clashes"
+    },
+    {
+      "question": "What is a primary concern regarding armed groups during election periods in Timor-Leste?",
+      "choices": [
+        "They may run their own candidates",
+        "They often boycott the elections",
+        "They could be mobilized to intimidate opponents",
+        "They typically support international election observers"
+      ],
+      "answer": "They could be mobilized to intimidate opponents"
+    },
+    {
+      "question": "Which factor is mentioned as providing a ready pool of recruits for armed groups?",
+      "choices": [
+        "High levels of education",
+        "Rural to urban migration",
+        "High youth unemployment",
+        "Mandatory military service"
+      ],
+      "answer": "High youth unemployment"
+    },
+    {
+      "question": "What is described as a legacy of displacement contributing to tensions between communities?",
+      "choices": [
+        "Unresolved land disputes",
+        "Language differences",
+        "Religious conflicts",
+        "Generational gaps"
+      ],
+      "answer": "Unresolved land disputes"
+    },
+    {
+      "question": "How do armed groups sometimes fill governance gaps in Timor-Leste?",
+      "choices": [
+        "By providing security and basic services in some areas",
+        "By collecting taxes and managing local budgets",
+        "By operating their own court systems",
+        "By implementing foreign aid projects"
+      ],
+      "answer": "By providing security and basic services in some areas"
+    },
+    {
+      "question": "What is a key challenge that armed groups pose to the Timorese state?",
+      "choices": [
+        "They control the majority of natural resources",
+        "They undermine the state's monopoly on the use of force",
+        "They have formed a parallel government structure",
+        "They dominate the formal economy"
+      ],
+      "answer": "They undermine the state's monopoly on the use of force"
+    },
+    {
+      "question": "Which city is specifically mentioned as experiencing frequent street fights between rival martial arts groups?",
+      "choices": [
+        "Baucau",
+        "Suai",
+        "Dili",
+        "Maliana"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question": "What type of group is described as having roots in the clandestine resistance networks?",
+      "choices": [
+        "Trade unions",
+        "Student organizations",
+        "Veterans groups",
+        "Political parties"
+      ],
+      "answer": "Veterans groups"
+    },
+    {
+      "question": "What alternative approach to addressing armed group violence is mentioned besides banning groups?",
+      "choices": [
+        "Mass incarceration of group members",
+        "Forced relocation of groups to remote areas",
+        "Engaging groups in dialogue and promoting reconciliation",
+        "Offering financial incentives for groups to disband"
+      ],
+      "answer": "Engaging groups in dialogue and promoting reconciliation"
+    },
+    {
+      "question": "What is mentioned as a potential risk of banning martial arts groups?",
+      "choices": [
+        "Increased international sanctions",
+        "Civil war between government and group supporters",
+        "Mass emigration of youth",
+        "Infringing on freedom of association"
+      ],
+      "answer": "Infringing on freedom of association"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a root cause of armed group violence that needs addressing?",
+      "choices": [
+        "Unemployment",
+        "Land disputes",
+        "Weak governance",
+        "Ethnic tensions"
+      ],
+      "answer": "Ethnic tensions"
+    },
+    {
+      "question": "What type of programs are mentioned as efforts to address socio-economic factors driving group membership?",
+      "choices": [
+        "Mandatory military service",
+        "Youth employment and community development initiatives",
+        "Mass deportation of unemployed youth",
+        "Expansion of the prison system"
+      ],
+      "answer": "Youth employment and community development initiatives"
+    },
+    {
+      "question": "How are clandestine groups in Timor-Leste described?",
+      "choices": [
+        "As openly operating political parties",
+        "As international terrorist organizations",
+        "As groups with roots in the independence struggle that continue to operate secretively",
+        "As formal branches of the military"
+      ],
+      "answer": "As groups with roots in the independence struggle that continue to operate secretively"
+    },
+    {
+      "question": "What is described as a challenge for long-term stability in Timor-Leste regarding armed groups?",
+      "choices": [
+        "Balancing security concerns with inclusive development",
+        "Completely eliminating all forms of martial arts",
+        "Granting full autonomy to veteran groups",
+        "Integrating armed groups into the formal military structure"
+      ],
+      "answer": "Balancing security concerns with inclusive development"
+    },
+    {
+      "question": "Which period is identified as crucial for understanding the historical context of armed groups in Timor-Leste?",
+      "choices": [
+        "Portuguese colonial era",
+        "World War II",
+        "Indonesian occupation (1975-1999)",
+        "Post-2002 independence period"
+      ],
+      "answer": "Indonesian occupation (1975-1999)"
+    },
+    {
+      "question": "What is mentioned as a potential negative outcome of banning martial arts groups?",
+      "choices": [
+        "Increased tourism",
+        "Improved international relations",
+        "Pushing members towards more clandestine, potentially criminal activities",
+        "Immediate cessation of all group violence"
+      ],
+      "answer": "Pushing members towards more clandestine, potentially criminal activities"
+    },
+    {
+      "question": "What role do veterans' groups often play in Timor-Leste's political landscape?",
+      "choices": [
+        "They are legally barred from political involvement",
+        "They advocate for veterans' rights and benefits",
+        "They form the core of the current government",
+        "They exclusively focus on historical preservation"
+      ],
+      "answer": "They advocate for veterans' rights and benefits"
+    },
+    {
+      "question": "How are martial arts groups described in terms of their evolution since independence?",
+      "choices": [
+        "They have become purely sporting organizations",
+        "They have evolved into influential social and political actors",
+        "They have been fully integrated into the formal security sector",
+        "They have largely disbanded and become irrelevant"
+      ],
+      "answer": "They have evolved into influential social and political actors"
+    },
+    {
+      "question": "What is described as a key challenge in implementing the ban on certain martial arts groups?",
+      "choices": [
+        "Lack of public support",
+        "Insufficient funding",
+        "Difficulty in identifying group members and activities",
+        "International pressure against the ban"
+      ],
+      "answer": "Difficulty in identifying group members and activities"
+    },
+    {
+      "question": "What is suggested as an important element for addressing armed group violence in the long term?",
+      "choices": [
+        "Increasing military spending",
+        "Isolating Timor-Leste from regional influences",
+        "Promoting dialogue between different factions of society",
+        "Reinstating traditional monarchical rule"
+      ],
+      "answer": "Promoting dialogue between different factions of society"
+    }
+  ]
+}

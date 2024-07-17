@@ -1,0 +1,305 @@
+{
+  "title": "Articulation and Diction for Timorese Singers",
+  "questions": [
+    {
+      "question": "What are the official languages of Timor-Leste addressed in this module?",
+      "choices": [
+        "Tetum and Indonesian",
+        "Tetum and Portuguese",
+        "Portuguese and English",
+        "Tetum and English"
+      ],
+      "answer": "Tetum and Portuguese"
+    },
+    {
+      "question": "Which of the following is a unique sound in Tetum?",
+      "choices": [
+        "Rolled 'r'",
+        "Nasal vowels",
+        "Glottal stop",
+        "Aspirated 'p'"
+      ],
+      "answer": "Glottal stop"
+    },
+    {
+      "question": "What is the term for the smallest unit of sound in a language that distinguishes one word from another?",
+      "choices": [
+        "Syllable",
+        "Morpheme",
+        "Phoneme",
+        "Grapheme"
+      ],
+      "answer": "Phoneme"
+    },
+    {
+      "question": "Which vocal technique focuses on directing sound towards the front of the mouth for clarity?",
+      "choices": [
+        "Backward placement",
+        "Forward placement",
+        "Nasal placement",
+        "Throat placement"
+      ],
+      "answer": "Forward placement"
+    },
+    {
+      "question": "What is a common challenge in Timorese songs regarding consonants?",
+      "choices": [
+        "Lack of consonants",
+        "Consonant clusters",
+        "Silent consonants",
+        "Aspirated consonants"
+      ],
+      "answer": "Consonant clusters"
+    },
+    {
+      "question": "Which Portuguese genre is mentioned as an opportunity for Timorese singers to apply their diction skills?",
+      "choices": [
+        "Samba",
+        "Bossa nova",
+        "Fado",
+        "Morna"
+      ],
+      "answer": "Fado"
+    },
+    {
+      "question": "What is the purpose of using tongue twisters in vocal practice?",
+      "choices": [
+        "To improve breath control",
+        "To increase vocal range",
+        "To enhance articulation",
+        "To strengthen vocal cords"
+      ],
+      "answer": "To enhance articulation"
+    },
+    {
+      "question": "Which of the following is NOT a technique mentioned for balancing articulation with vocal tone?",
+      "choices": [
+        "Forward placement",
+        "Resonance balance",
+        "Consonant energy",
+        "Vibrato control"
+      ],
+      "answer": "Vibrato control"
+    },
+    {
+      "question": "What is the main challenge presented by Portuguese vowels for Timorese singers?",
+      "choices": [
+        "They are always open",
+        "They have closed and open variations",
+        "They are always nasal",
+        "They are always silent"
+      ],
+      "answer": "They have closed and open variations"
+    },
+    {
+      "question": "Which linguistic feature is particularly important in Portuguese but not present in Tetum?",
+      "choices": [
+        "Glottal stops",
+        "Nasal vowels",
+        "Tonal variations",
+        "Retroflex consonants"
+      ],
+      "answer": "Nasal vowels"
+    },
+    {
+      "question": "What is the recommended approach for practicing Portuguese vowel sounds?",
+      "choices": [
+        "Always practice within full sentences",
+        "Practice in isolation before incorporating into melodies",
+        "Only practice while singing full songs",
+        "Avoid practicing vowels separately"
+      ],
+      "answer": "Practice in isolation before incorporating into melodies"
+    },
+    {
+      "question": "What is the risk of over-articulation in singing?",
+      "choices": [
+        "Improved clarity",
+        "Enhanced emotional expression",
+        "Strained or unnatural sound",
+        "Increased vocal range"
+      ],
+      "answer": "Strained or unnatural sound"
+    },
+    {
+      "question": "Which exercise is recommended for improving consonant precision?",
+      "choices": [
+        "Long vowel holds",
+        "Rapid repetition of challenging consonant combinations",
+        "Slow scales",
+        "Silent meditation"
+      ],
+      "answer": "Rapid repetition of challenging consonant combinations"
+    },
+    {
+      "question": "What is the purpose of the 'ng' sound exercise mentioned in the module?",
+      "choices": [
+        "To improve breath support",
+        "To find proper placement for nasal vowels",
+        "To strengthen the soft palate",
+        "To increase vocal volume"
+      ],
+      "answer": "To find proper placement for nasal vowels"
+    },
+    {
+      "question": "Which aspect of Timorese linguistic landscape presents both challenges and opportunities for singers?",
+      "choices": [
+        "The use of only one official language",
+        "The lack of regional dialects",
+        "The blend of Tetum and Portuguese influences",
+        "The simplicity of vowel sounds"
+      ],
+      "answer": "The blend of Tetum and Portuguese influences"
+    },
+    {
+      "question": "What is the recommended technique for addressing final consonants in Portuguese?",
+      "choices": [
+        "Always drop them",
+        "Exaggerate them in practice",
+        "Ignore them completely",
+        "Replace them with vowels"
+      ],
+      "answer": "Exaggerate them in practice"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a unique sound in Portuguese?",
+      "choices": [
+        "/ʎ/ - similar to 'lli' in million",
+        "/ɲ/ - similar to Spanish 'ñ'",
+        "/x/ - similar to Scottish 'ch' in 'loch'",
+        "/ʒ/ - similar to 's' in 'measure'"
+      ],
+      "answer": "/x/ - similar to Scottish 'ch' in 'loch'"
+    },
+    {
+      "question": "What is the primary goal of articulation exercises for singers?",
+      "choices": [
+        "To increase lung capacity",
+        "To improve pitch accuracy",
+        "To enhance clarity and precision of sound production",
+        "To reduce vocal fatigue"
+      ],
+      "answer": "To enhance clarity and precision of sound production"
+    },
+    {
+      "question": "Which of the following is a recommended articulation exercise?",
+      "choices": [
+        "Holding high notes for extended periods",
+        "Lip trills with text",
+        "Singing only on vowels",
+        "Whispering lyrics"
+      ],
+      "answer": "Lip trills with text"
+    },
+    {
+      "question": "What is the significance of regional variations in Tetum pronunciation for singers?",
+      "choices": [
+        "They are irrelevant to singing",
+        "They affect the choice of pronunciation in performance",
+        "They only matter in spoken language",
+        "They should always be ignored"
+      ],
+      "answer": "They affect the choice of pronunciation in performance"
+    },
+    {
+      "question": "Which tool is recommended for observing proper articulation technique?",
+      "choices": [
+        "Stethoscope",
+        "Tuning fork",
+        "Mirror",
+        "Metronome"
+      ],
+      "answer": "Mirror"
+    },
+    {
+      "question": "What is the purpose of the 'butter' exercise mentioned in the module?",
+      "choices": [
+        "To improve vowel pronunciation",
+        "To practice the rolled 'r' in Portuguese",
+        "To enhance lip movement",
+        "To strengthen the jaw muscles"
+      ],
+      "answer": "To practice the rolled 'r' in Portuguese"
+    },
+    {
+      "question": "Which aspect of singing should be balanced with clear articulation?",
+      "choices": [
+        "Vocal volume",
+        "Breath support",
+        "Proper vocal tone",
+        "Facial expressions"
+      ],
+      "answer": "Proper vocal tone"
+    },
+    {
+      "question": "What is the recommended approach for vowel modification on high notes?",
+      "choices": [
+        "Always keep vowels pure",
+        "Make drastic changes to vowel shapes",
+        "Make slight adjustments to maintain tone",
+        "Avoid singing high notes with lyrics"
+      ],
+      "answer": "Make slight adjustments to maintain tone"
+    },
+    {
+      "question": "Which language family does Tetum belong to?",
+      "choices": [
+        "Indo-European",
+        "Sino-Tibetan",
+        "Austronesian",
+        "Afroasiatic"
+      ],
+      "answer": "Austronesian"
+    },
+    {
+      "question": "What is the recommended position of the tongue when focusing on vowel modification?",
+      "choices": [
+        "Raised and tense",
+        "Curled back",
+        "Pressed against the teeth",
+        "Relaxed and low"
+      ],
+      "answer": "Relaxed and low"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key aspect of balancing articulation with vocal tone?",
+      "choices": [
+        "Maintaining an open throat",
+        "Using quick, precise consonants",
+        "Focusing on nasal resonance",
+        "Avoiding 'chewing' on consonants"
+      ],
+      "answer": "Focusing on nasal resonance"
+    },
+    {
+      "question": "What is the primary purpose of studying articulation and diction for Timorese singers?",
+      "choices": [
+        "To sing only in foreign languages",
+        "To improve overall vocal health",
+        "To enhance clarity and expressiveness in performance",
+        "To eliminate all regional accents"
+      ],
+      "answer": "To enhance clarity and expressiveness in performance"
+    },
+    {
+      "question": "Which International Phonetic Alphabet (IPA) symbol represents the 'a' sound in the Portuguese word 'casa'?",
+      "choices": [
+        "/ɐ/",
+        "/a/",
+        "/æ/",
+        "/ɑ/"
+      ],
+      "answer": "/a/"
+    },
+    {
+      "question": "What is the recommended technique for practicing challenging words or phrases from Timorese songs?",
+      "choices": [
+        "Always sing them at full speed",
+        "Avoid them in performances",
+        "Practice slow articulation, gradually increasing speed",
+        "Only practice them in group settings"
+      ],
+      "answer": "Practice slow articulation, gradually increasing speed"
+    }
+  ]
+}

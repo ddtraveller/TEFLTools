@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Passive Cooling in Timor Leste",
+  "questions": [
+    {
+      "question": "What is the primary goal of passive cooling?",
+      "choices": [
+        "To increase energy consumption",
+        "To reduce indoor temperatures without mechanical air conditioning",
+        "To maximize heat gain in buildings",
+        "To eliminate all forms of ventilation"
+      ],
+      "answer": "To reduce indoor temperatures without mechanical air conditioning"
+    },
+    {
+      "question": "Which of the following is NOT a mechanism of heat transfer?",
+      "choices": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
+      "answer": "Evaporation"
+    },
+    {
+      "question": "What is the average annual temperature range in Timor Leste?",
+      "choices": [
+        "15-25°C",
+        "20-30°C",
+        "24-32°C",
+        "30-40°C"
+      ],
+      "answer": "24-32°C"
+    },
+    {
+      "question": "Which season in Timor Leste typically has the highest humidity?",
+      "choices": [
+        "Spring",
+        "Summer",
+        "Rainy season",
+        "Dry season"
+      ],
+      "answer": "Rainy season"
+    },
+    {
+      "question": "What is the primary benefit of elevated structures in traditional Timorese architecture?",
+      "choices": [
+        "Improved aesthetics",
+        "Increased building height",
+        "Better air circulation underneath",
+        "Resistance to earthquakes"
+      ],
+      "answer": "Better air circulation underneath"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting human thermal comfort?",
+      "choices": [
+        "Air temperature",
+        "Relative humidity",
+        "Air velocity",
+        "Building color"
+      ],
+      "answer": "Building color"
+    },
+    {
+      "question": "What is the purpose of steep roof pitches in traditional Timorese buildings?",
+      "choices": [
+        "To collect rainwater",
+        "To shed heavy rainfall quickly",
+        "To increase interior space",
+        "To improve structural stability"
+      ],
+      "answer": "To shed heavy rainfall quickly"
+    },
+    {
+      "question": "Which material is commonly used in traditional Timorese architecture for its natural insulation properties?",
+      "choices": [
+        "Concrete",
+        "Steel",
+        "Bamboo",
+        "Glass"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "What is the main advantage of using woven palm leaf walls in traditional Timorese buildings?",
+      "choices": [
+        "Structural strength",
+        "Fire resistance",
+        "Permitting air movement while providing shade",
+        "Low cost"
+      ],
+      "answer": "Permitting air movement while providing shade"
+    },
+    {
+      "question": "Which passive cooling strategy involves using materials that absorb heat during the day and release it at night?",
+      "choices": [
+        "Shading",
+        "Insulation",
+        "Thermal mass",
+        "Reflective surfaces"
+      ],
+      "answer": "Thermal mass"
+    },
+    {
+      "question": "What is the primary purpose of wide roof overhangs in traditional Timorese architecture?",
+      "choices": [
+        "To increase interior space",
+        "To collect rainwater",
+        "To protect walls and openings from sun and rain",
+        "To support additional floors"
+      ],
+      "answer": "To protect walls and openings from sun and rain"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of Timor Leste's climate?",
+      "choices": [
+        "High humidity year-round",
+        "Minimal seasonal temperature variation",
+        "Heavy snowfall in winter",
+        "Distinct rainy and dry seasons"
+      ],
+      "answer": "Heavy snowfall in winter"
+    },
+    {
+      "question": "What is the main benefit of using light-colored or reflective roofing materials in passive cooling?",
+      "choices": [
+        "Increased durability",
+        "Better water resistance",
+        "Reduced solar heat gain",
+        "Improved aesthetics"
+      ],
+      "answer": "Reduced solar heat gain"
+    },
+    {
+      "question": "Which natural ventilation strategy relies on pressure differences created by vertical spaces?",
+      "choices": [
+        "Cross-ventilation",
+        "Stack effect",
+        "Wind scoops",
+        "Courtyard design"
+      ],
+      "answer": "Stack effect"
+    },
+    {
+      "question": "What is the primary challenge of high humidity in passive cooling design?",
+      "choices": [
+        "It increases structural loads",
+        "It reduces the effectiveness of evaporative cooling",
+        "It improves thermal insulation",
+        "It enhances natural ventilation"
+      ],
+      "answer": "It reduces the effectiveness of evaporative cooling"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of traditional Timorese architecture?",
+      "choices": [
+        "Elevated structures",
+        "Steep roof pitches",
+        "Concrete walls",
+        "Open floor plans"
+      ],
+      "answer": "Concrete walls"
+    },
+    {
+      "question": "What is the main purpose of analyzing climate data in passive cooling design?",
+      "choices": [
+        "To predict future weather patterns",
+        "To determine the need for air conditioning",
+        "To inform building orientation and material choices",
+        "To calculate energy costs"
+      ],
+      "answer": "To inform building orientation and material choices"
+    },
+    {
+      "question": "Which passive cooling strategy is particularly effective in capturing and directing prevailing winds into a building?",
+      "choices": [
+        "Thermal mass",
+        "Shading devices",
+        "Wind towers",
+        "Green roofs"
+      ],
+      "answer": "Wind towers"
+    },
+    {
+      "question": "What is the primary benefit of using courtyards in passive cooling design?",
+      "choices": [
+        "Increased building footprint",
+        "Creation of microclimates and promotion of air circulation",
+        "Improved structural stability",
+        "Enhanced privacy"
+      ],
+      "answer": "Creation of microclimates and promotion of air circulation"
+    },
+    {
+      "question": "Which of the following is NOT a typical strategy for minimizing heat gain in passive cooling?",
+      "choices": [
+        "Using reflective surfaces",
+        "Implementing proper insulation",
+        "Maximizing window size on western facades",
+        "Utilizing appropriate shading devices"
+      ],
+      "answer": "Maximizing window size on western facades"
+    },
+    {
+      "question": "What is the main advantage of using natural, breathable materials in traditional Timorese buildings?",
+      "choices": [
+        "Increased structural strength",
+        "Better fire resistance",
+        "Enhanced air movement and moisture control",
+        "Lower construction costs"
+      ],
+      "answer": "Enhanced air movement and moisture control"
+    },
+    {
+      "question": "Which factor is most important to consider when designing for cross-ventilation?",
+      "choices": [
+        "Building height",
+        "Roof material",
+        "Positioning of openings",
+        "Wall thickness"
+      ],
+      "answer": "Positioning of openings"
+    },
+    {
+      "question": "What is the primary benefit of using high ceilings in passive cooling design?",
+      "choices": [
+        "Increased structural stability",
+        "Better sound insulation",
+        "Allowing hot air to rise away from occupants",
+        "Improved lighting conditions"
+      ],
+      "answer": "Allowing hot air to rise away from occupants"
+    },
+    {
+      "question": "Which of the following is NOT a typical microclimate factor to consider in Timor Leste?",
+      "choices": [
+        "Proximity to water bodies",
+        "Local topography",
+        "Urban heat island effect",
+        "Presence of permafrost"
+      ],
+      "answer": "Presence of permafrost"
+    },
+    {
+      "question": "What is the main purpose of using stone foundations in some traditional Timorese buildings?",
+      "choices": [
+        "To improve earthquake resistance",
+        "To prevent flooding",
+        "To absorb heat during the day and release it at night",
+        "To increase building height"
+      ],
+      "answer": "To absorb heat during the day and release it at night"
+    },
+    {
+      "question": "Which passive cooling strategy is most effective for reducing solar heat gain through windows?",
+      "choices": [
+        "Increasing window size",
+        "Using clear glass",
+        "Implementing external shading devices",
+        "Orienting windows to the west"
+      ],
+      "answer": "Implementing external shading devices"
+    },
+    {
+      "question": "What is the primary benefit of using vegetation for shading in passive cooling design?",
+      "choices": [
+        "Increased property value",
+        "Improved air quality and natural cooling",
+        "Enhanced structural support",
+        "Better sound insulation"
+      ],
+      "answer": "Improved air quality and natural cooling"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge for passive cooling in Timor Leste?",
+      "choices": [
+        "High humidity levels",
+        "Intense solar radiation",
+        "Limited diurnal temperature variation",
+        "Frequent snowfall"
+      ],
+      "answer": "Frequent snowfall"
+    },
+    {
+      "question": "What is the main advantage of using low-emissivity glass in modern passive cooling design?",
+      "choices": [
+        "Increased durability",
+        "Better sound insulation",
+        "Reduced heat gain while maintaining natural light",
+        "Lower cost compared to regular glass"
+      ],
+      "answer": "Reduced heat gain while maintaining natural light"
+    },
+    {
+      "question": "Which passive cooling strategy is most effective for coastal buildings in Timor Leste?",
+      "choices": [
+        "Maximizing thermal mass",
+        "Capturing sea breezes",
+        "Using dark-colored roofing materials",
+        "Minimizing window openings"
+      ],
+      "answer": "Capturing sea breezes"
+    }
+  ]
+}

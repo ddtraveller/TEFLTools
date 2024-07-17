@@ -1,0 +1,305 @@
+{
+  "title": "Natural Ventilation Strategies",
+  "questions": [
+    {
+      "question": "What creates the driving force for wind-driven ventilation?",
+      "choices": [
+        "Temperature differences",
+        "Pressure differences",
+        "Humidity differences",
+        "Density differences"
+      ],
+      "answer": "Pressure differences"
+    },
+    {
+      "question": "Which side of a building typically experiences positive pressure from wind?",
+      "choices": [
+        "Windward side",
+        "Leeward side",
+        "Northern side",
+        "Southern side"
+      ],
+      "answer": "Windward side"
+    },
+    {
+      "question": "What is the primary cause of the stack effect in buildings?",
+      "choices": [
+        "Wind pressure",
+        "Thermal buoyancy",
+        "Mechanical fans",
+        "Humidity gradients"
+      ],
+      "answer": "Thermal buoyancy"
+    },
+    {
+      "question": "In the formula ΔP = 0.04 × h × (Ti - To) for stack effect, what does 'h' represent?",
+      "choices": [
+        "Humidity",
+        "Heat transfer coefficient",
+        "Height difference between inlet and outlet",
+        "Horizontal distance"
+      ],
+      "answer": "Height difference between inlet and outlet"
+    },
+    {
+      "question": "What is the recommended size relationship between inlet and outlet openings for cross-ventilation?",
+      "choices": [
+        "Inlet should be larger than outlet",
+        "Outlet should be 25% larger than inlet",
+        "Inlet and outlet should be the same size",
+        "Outlet should be 50% smaller than inlet"
+      ],
+      "answer": "Outlet should be 25% larger than inlet"
+    },
+    {
+      "question": "What is the typical recommended total opening area for natural ventilation as a percentage of floor area?",
+      "choices": [
+        "1-3%",
+        "5-10%",
+        "15-20%",
+        "25-30%"
+      ],
+      "answer": "5-10%"
+    },
+    {
+      "question": "Which architectural feature can be used to enhance cross-ventilation by directing airflow?",
+      "choices": [
+        "Skylights",
+        "Wing walls",
+        "Crawl spaces",
+        "Roof overhangs"
+      ],
+      "answer": "Wing walls"
+    },
+    {
+      "question": "What is the primary purpose of a solar chimney in natural ventilation?",
+      "choices": [
+        "To generate electricity",
+        "To enhance stack effect",
+        "To reduce solar heat gain",
+        "To collect rainwater"
+      ],
+      "answer": "To enhance stack effect"
+    },
+    {
+      "question": "Which ventilation strategy is most effective for nighttime cooling in buildings with thermal mass?",
+      "choices": [
+        "Cross-ventilation",
+        "Stack ventilation",
+        "Wind-driven ventilation",
+        "Mechanical ventilation"
+      ],
+      "answer": "Stack ventilation"
+    },
+    {
+      "question": "What does ACH stand for in ventilation calculations?",
+      "choices": [
+        "Average Cooling Hours",
+        "Air Changes per Hour",
+        "Atmospheric Circulation Height",
+        "Airflow Coefficient Humidity"
+      ],
+      "answer": "Air Changes per Hour"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting wind-driven ventilation?",
+      "choices": [
+        "Building orientation",
+        "Surrounding topography",
+        "Indoor humidity levels",
+        "Shape of the building"
+      ],
+      "answer": "Indoor humidity levels"
+    },
+    {
+      "question": "What is the main advantage of using louvered openings in natural ventilation design?",
+      "choices": [
+        "Increased thermal insulation",
+        "Better sound insulation",
+        "Improved airflow control",
+        "Enhanced structural stability"
+      ],
+      "answer": "Improved airflow control"
+    },
+    {
+      "question": "Which principle explains why faster moving air has lower pressure in wind-driven ventilation?",
+      "choices": [
+        "Archimedes' principle",
+        "Bernoulli's principle",
+        "Pascal's law",
+        "Boyle's law"
+      ],
+      "answer": "Bernoulli's principle"
+    },
+    {
+      "question": "What is the primary purpose of transom windows in cross-ventilation design?",
+      "choices": [
+        "To provide additional daylighting",
+        "To allow for nighttime ventilation",
+        "To enhance visual aesthetics",
+        "To improve thermal insulation"
+      ],
+      "answer": "To allow for nighttime ventilation"
+    },
+    {
+      "question": "Which of the following is an advantage of buoyancy-driven ventilation over wind-driven ventilation?",
+      "choices": [
+        "It works better in low-rise buildings",
+        "It is less dependent on external wind conditions",
+        "It requires smaller openings",
+        "It provides faster air exchange rates"
+      ],
+      "answer": "It is less dependent on external wind conditions"
+    },
+    {
+      "question": "What is the main purpose of a double-skin facade in natural ventilation design?",
+      "choices": [
+        "To increase thermal insulation",
+        "To create a ventilated cavity for enhanced stack effect",
+        "To improve acoustic performance",
+        "To support climbing plants for shading"
+      ],
+      "answer": "To create a ventilated cavity for enhanced stack effect"
+    },
+    {
+      "question": "Which of the following building types is most suitable for stack ventilation?",
+      "choices": [
+        "Single-story sprawling buildings",
+        "Underground structures",
+        "Multi-story buildings with central atriums",
+        "Low-ceiling warehouses"
+      ],
+      "answer": "Multi-story buildings with central atriums"
+    },
+    {
+      "question": "What is the primary challenge of implementing natural ventilation in urban areas?",
+      "choices": [
+        "Lack of wind",
+        "Excessive humidity",
+        "Air pollution and noise",
+        "Insufficient solar radiation"
+      ],
+      "answer": "Air pollution and noise"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of natural ventilation?",
+      "choices": [
+        "Reduced energy consumption",
+        "Improved indoor air quality",
+        "Enhanced occupant connection to outdoors",
+        "Precise temperature control"
+      ],
+      "answer": "Precise temperature control"
+    },
+    {
+      "question": "What is the main purpose of conducting a site analysis before designing a natural ventilation system?",
+      "choices": [
+        "To determine soil composition",
+        "To assess prevailing winds and local climate patterns",
+        "To evaluate property values",
+        "To identify local building regulations"
+      ],
+      "answer": "To assess prevailing winds and local climate patterns"
+    },
+    {
+      "question": "Which of the following is a key consideration when combining wind-driven and buoyancy-driven ventilation?",
+      "choices": [
+        "Ensuring they always work in opposition",
+        "Maximizing the use of mechanical systems",
+        "Designing for both effects to ensure ventilation in various conditions",
+        "Prioritizing wind-driven ventilation in all cases"
+      ],
+      "answer": "Designing for both effects to ensure ventilation in various conditions"
+    },
+    {
+      "question": "What is the primary function of a wind tower in traditional Middle Eastern architecture?",
+      "choices": [
+        "To provide a lookout point",
+        "To catch and direct cool breezes into the building",
+        "To support communication antennas",
+        "To collect rainwater"
+      ],
+      "answer": "To catch and direct cool breezes into the building"
+    },
+    {
+      "question": "Which of the following is NOT a typical strategy for enhancing stack ventilation?",
+      "choices": [
+        "Increasing ceiling heights",
+        "Adding operable skylights",
+        "Installing solar chimneys",
+        "Sealing all ground floor openings"
+      ],
+      "answer": "Sealing all ground floor openings"
+    },
+    {
+      "question": "What is the main advantage of using CFD (Computational Fluid Dynamics) in natural ventilation design?",
+      "choices": [
+        "It eliminates the need for physical prototypes",
+        "It provides accurate visualization of airflow patterns",
+        "It reduces construction costs",
+        "It simplifies building code compliance"
+      ],
+      "answer": "It provides accurate visualization of airflow patterns"
+    },
+    {
+      "question": "Which climate type generally presents the greatest challenge for natural ventilation strategies?",
+      "choices": [
+        "Hot and dry",
+        "Hot and humid",
+        "Temperate",
+        "Cold"
+      ],
+      "answer": "Hot and humid"
+    },
+    {
+      "question": "What is the primary purpose of night purging in buildings with high thermal mass?",
+      "choices": [
+        "To reduce humidity levels",
+        "To flush out indoor air pollutants",
+        "To cool the building mass for daytime comfort",
+        "To prevent condensation"
+      ],
+      "answer": "To cool the building mass for daytime comfort"
+    },
+    {
+      "question": "Which of the following is a key benefit of using natural ventilation in healthcare facilities?",
+      "choices": [
+        "Precise humidity control",
+        "Reduced risk of airborne disease transmission",
+        "Lower initial construction costs",
+        "Compatibility with sterile environments"
+      ],
+      "answer": "Reduced risk of airborne disease transmission"
+    },
+    {
+      "question": "What is the main limitation of relying solely on wind-driven ventilation?",
+      "choices": [
+        "It only works during daytime",
+        "It requires large openings",
+        "It depends on consistent wind availability",
+        "It increases heating costs"
+      ],
+      "answer": "It depends on consistent wind availability"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of a naturally ventilated building envelope?",
+      "choices": [
+        "Operable windows",
+        "Trickle vents",
+        "Airtight construction",
+        "Louvered facades"
+      ],
+      "answer": "Airtight construction"
+    },
+    {
+      "question": "What is the primary role of thermal mass in natural ventilation strategies?",
+      "choices": [
+        "To generate air movement",
+        "To store and release heat, moderating temperature swings",
+        "To increase wind pressure on the building",
+        "To humidify incoming air"
+      ],
+      "answer": "To store and release heat, moderating temperature swings"
+    }
+  ]
+}

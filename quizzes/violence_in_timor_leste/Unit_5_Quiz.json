@@ -1,0 +1,305 @@
+{
+  "title": "Security Sector Reform in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the two main security institutions in Timor-Leste?",
+      "choices": [
+        "PNTL and F-FDTL",
+        "UN and NATO",
+        "FALINTIL and FRETILIN",
+        "UNMIT and UNTAET"
+      ],
+      "answer": "PNTL and F-FDTL"
+    },
+    {
+      "question": "What is the primary responsibility of the PNTL?",
+      "choices": [
+        "External defense",
+        "Internal security and law enforcement",
+        "Disaster relief",
+        "Border control"
+      ],
+      "answer": "Internal security and law enforcement"
+    },
+    {
+      "question": "When was the F-FDTL formed?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "answer": "2001"
+    },
+    {
+      "question": "What is one of the main challenges faced by the F-FDTL?",
+      "choices": [
+        "Excessive funding",
+        "Overstaffing",
+        "Defining clear role",
+        "International interference"
+      ],
+      "answer": "Defining clear role"
+    },
+    {
+      "question": "When did the UN Police training and mentoring program in Timor-Leste end?",
+      "choices": [
+        "2008",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "answer": "2012"
+    },
+    {
+      "question": "What was the purpose of screening and vetting PNTL personnel from 2006-2008?",
+      "choices": [
+        "To increase the number of officers",
+        "To remove individuals with records of human rights abuses or criminal activity",
+        "To promote senior officers",
+        "To implement new training programs"
+      ],
+      "answer": "To remove individuals with records of human rights abuses or criminal activity"
+    },
+    {
+      "question": "When was the community policing program implemented in Timor-Leste?",
+      "choices": [
+        "2000-present",
+        "2004-2008",
+        "2008-present",
+        "2012-2016"
+      ],
+      "answer": "2008-present"
+    },
+    {
+      "question": "What is one of the ongoing challenges in SSR implementation in Timor-Leste?",
+      "choices": [
+        "Excessive civilian oversight",
+        "Overfunding of security institutions",
+        "Political interference in security institutions",
+        "Lack of international support"
+      ],
+      "answer": "Political interference in security institutions"
+    },
+    {
+      "question": "What is the approximate number of officers in the PNTL?",
+      "choices": [
+        "2,000",
+        "4,000",
+        "6,000",
+        "8,000"
+      ],
+      "answer": "4,000"
+    },
+    {
+      "question": "What is the primary mission of the F-FDTL?",
+      "choices": [
+        "Internal security",
+        "Law enforcement",
+        "Defense against external threats",
+        "Community policing"
+      ],
+      "answer": "Defense against external threats"
+    },
+    {
+      "question": "What is one of the secondary roles of the F-FDTL?",
+      "choices": [
+        "Tax collection",
+        "Disaster relief",
+        "Education",
+        "Healthcare provision"
+      ],
+      "answer": "Disaster relief"
+    },
+    {
+      "question": "When was the national security policy in Timor-Leste adopted?",
+      "choices": [
+        "2008",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "answer": "2010"
+    },
+    {
+      "question": "What is one of the main goals of the community policing program in Timor-Leste?",
+      "choices": [
+        "Increasing military capabilities",
+        "Enhancing border security",
+        "Building trust between police and local communities",
+        "Expanding the size of the police force"
+      ],
+      "answer": "Building trust between police and local communities"
+    },
+    {
+      "question": "What is the name of the community-level structures established to facilitate dialogue between police and communities?",
+      "choices": [
+        "Community Police Councils (CPCs)",
+        "Local Security Committees (LSCs)",
+        "Neighborhood Watch Groups (NWGs)",
+        "Village Safety Teams (VSTs)"
+      ],
+      "answer": "Community Police Councils (CPCs)"
+    },
+    {
+      "question": "What year did Timor-Leste gain independence?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What event in 2006 led to a major setback in Timor-Leste's security sector?",
+      "choices": [
+        "Natural disaster",
+        "Economic crisis",
+        "Security crisis leading to collapse of PNTL in some areas",
+        "International intervention"
+      ],
+      "answer": "Security crisis leading to collapse of PNTL in some areas"
+    },
+    {
+      "question": "When did the PNTL resume primary policing responsibility from the UN?",
+      "choices": [
+        "2008",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "answer": "2011"
+    },
+    {
+      "question": "What law related to the security sector was adopted in Timor-Leste in 2014?",
+      "choices": [
+        "Law on Police Reform",
+        "Law on Military Operations",
+        "Law on National Security",
+        "Law on Community Policing"
+      ],
+      "answer": "Law on National Security"
+    },
+    {
+      "question": "What is one of the main challenges in implementing community policing in Timor-Leste?",
+      "choices": [
+        "Excessive community participation",
+        "Lack of crime",
+        "Resource constraints",
+        "Over-qualification of officers"
+      ],
+      "answer": "Resource constraints"
+    },
+    {
+      "question": "What is the purpose of civilian oversight mechanisms in the security sector?",
+      "choices": [
+        "To increase military spending",
+        "To ensure democratic control of security forces",
+        "To reduce community involvement",
+        "To limit international cooperation"
+      ],
+      "answer": "To ensure democratic control of security forces"
+    },
+    {
+      "question": "What is one of the ongoing issues with the delineation of roles between PNTL and F-FDTL?",
+      "choices": [
+        "Excessive cooperation",
+        "Lack of communication",
+        "Confusion or overlap in responsibilities",
+        "Competition for funding"
+      ],
+      "answer": "Confusion or overlap in responsibilities"
+    },
+    {
+      "question": "What role do martial arts groups play in Timor-Leste's security landscape?",
+      "choices": [
+        "Official law enforcement",
+        "Military reserve force",
+        "Potential source of instability",
+        "International peacekeepers"
+      ],
+      "answer": "Potential source of instability"
+    },
+    {
+      "question": "What is one way that oil and gas revenues might impact security sector development in Timor-Leste?",
+      "choices": [
+        "By reducing the need for security forces",
+        "By potentially exacerbating corruption or resource conflicts",
+        "By eliminating all security challenges",
+        "By funding complete disarmament"
+      ],
+      "answer": "By potentially exacerbating corruption or resource conflicts"
+    },
+    {
+      "question": "What is one similarity between Timor-Leste's SSR process and that of countries like Sierra Leone and Liberia?",
+      "choices": [
+        "Reliance solely on domestic resources",
+        "Focus on expanding military capabilities",
+        "Building security institutions from scratch with international support",
+        "Rapid completion of reforms within 5 years"
+      ],
+      "answer": "Building security institutions from scratch with international support"
+    },
+    {
+      "question": "What is emphasized as crucial for sustainable SSR in Timor-Leste?",
+      "choices": [
+        "Continuous international control",
+        "Increased military spending",
+        "Local ownership and domestic leadership",
+        "Reduction of civilian oversight"
+      ],
+      "answer": "Local ownership and domestic leadership"
+    },
+    {
+      "question": "When was the Secretary of State for Security established in Timor-Leste?",
+      "choices": [
+        "2002",
+        "2006",
+        "2009",
+        "2012"
+      ],
+      "answer": "2009"
+    },
+    {
+      "question": "What is one of the main units within the PNTL?",
+      "choices": [
+        "Air Force",
+        "Nuclear deterrence",
+        "Maritime patrol",
+        "Cyber warfare"
+      ],
+      "answer": "Maritime patrol"
+    },
+    {
+      "question": "What is the approximate number of personnel in the F-FDTL?",
+      "choices": [
+        "500",
+        "1,500",
+        "3,000",
+        "5,000"
+      ],
+      "answer": "1,500"
+    },
+    {
+      "question": "When did the UN peacekeeping mission depart from Timor-Leste?",
+      "choices": [
+        "2008",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "answer": "2012"
+    },
+    {
+      "question": "What type of review of the security sector was initiated in Timor-Leste in 2016?",
+      "choices": [
+        "Financial audit",
+        "Personnel evaluation",
+        "Comprehensive review",
+        "International assessment"
+      ],
+      "answer": "Comprehensive review"
+    }
+  ]
+}

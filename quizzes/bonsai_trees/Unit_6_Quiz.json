@@ -1,0 +1,305 @@
+{
+  "title": "Bonsai Care and Maintenance",
+  "questions": [
+    {
+      "question": "What is the most critical aspect of bonsai care?",
+      "choices": [
+        "Pruning",
+        "Watering",
+        "Fertilizing",
+        "Repotting"
+      ],
+      "answer": "Watering"
+    },
+    {
+      "question": "How often should bonsai trees typically be fertilized during the growing season?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Every 2-4 weeks",
+        "Monthly"
+      ],
+      "answer": "Every 2-4 weeks"
+    },
+    {
+      "question": "Which of the following is NOT a common pest that affects bonsai trees?",
+      "choices": [
+        "Spider mites",
+        "Scale insects",
+        "Aphids",
+        "Caterpillars"
+      ],
+      "answer": "Caterpillars"
+    },
+    {
+      "question": "What is the purpose of foliar feeding in bonsai care?",
+      "choices": [
+        "To increase humidity",
+        "To control pests",
+        "To allow for quick nutrient absorption",
+        "To promote root growth"
+      ],
+      "answer": "To allow for quick nutrient absorption"
+    },
+    {
+      "question": "How often is repotting typically done for bonsai trees?",
+      "choices": [
+        "Every 6 months",
+        "Annually",
+        "Every 2-5 years",
+        "Every 10 years"
+      ],
+      "answer": "Every 2-5 years"
+    },
+    {
+      "question": "What is chlorosis in bonsai trees?",
+      "choices": [
+        "Excessive growth",
+        "Yellowing of leaves due to lack of chlorophyll",
+        "Root rot",
+        "Bark peeling"
+      ],
+      "answer": "Yellowing of leaves due to lack of chlorophyll"
+    },
+    {
+      "question": "Which factor does NOT typically affect the watering frequency of bonsai trees?",
+      "choices": [
+        "Pot size",
+        "Soil composition",
+        "Tree species",
+        "Fertilizer type"
+      ],
+      "answer": "Fertilizer type"
+    },
+    {
+      "question": "What is the best time to water bonsai trees?",
+      "choices": [
+        "In the morning",
+        "At noon",
+        "In the evening",
+        "At midnight"
+      ],
+      "answer": "In the morning"
+    },
+    {
+      "question": "Which of the following is an organic pest control method for bonsai?",
+      "choices": [
+        "Chemical pesticides",
+        "Neem oil",
+        "Pruning",
+        "Overwatering"
+      ],
+      "answer": "Neem oil"
+    },
+    {
+      "question": "What is the primary purpose of regular pruning in bonsai maintenance?",
+      "choices": [
+        "To increase water uptake",
+        "To promote flowering",
+        "To maintain shape and encourage dense growth",
+        "To prevent pest infestations"
+      ],
+      "answer": "To maintain shape and encourage dense growth"
+    },
+    {
+      "question": "In Timor-Leste's climate, how do most bonsai species behave throughout the year?",
+      "choices": [
+        "They go dormant in winter",
+        "They shed leaves in summer",
+        "They continue to grow year-round",
+        "They flower only in spring"
+      ],
+      "answer": "They continue to grow year-round"
+    },
+    {
+      "question": "What is the recommended action when the top layer of soil in a bonsai pot begins to dry out?",
+      "choices": [
+        "Mist the leaves",
+        "Apply fertilizer",
+        "Water thoroughly",
+        "Prune the roots"
+      ],
+      "answer": "Water thoroughly"
+    },
+    {
+      "question": "Which of the following is NOT a sign of stress in bonsai trees?",
+      "choices": [
+        "Leaf drop",
+        "Branch dieback",
+        "Stunted growth",
+        "Increased flowering"
+      ],
+      "answer": "Increased flowering"
+    },
+    {
+      "question": "What type of fertilizer is typically recommended for bonsai trees?",
+      "choices": [
+        "High nitrogen only",
+        "High phosphorus only",
+        "Balanced NPK",
+        "No fertilizer needed"
+      ],
+      "answer": "Balanced NPK"
+    },
+    {
+      "question": "When is structural pruning of bonsai trees typically performed?",
+      "choices": [
+        "During active growth",
+        "During the dormant season",
+        "After flowering",
+        "Before repotting"
+      ],
+      "answer": "During the dormant season"
+    },
+    {
+      "question": "What is the primary purpose of root pruning in bonsai maintenance?",
+      "choices": [
+        "To encourage flowering",
+        "To increase leaf size",
+        "To maintain a compact root system",
+        "To prevent pest infestations"
+      ],
+      "answer": "To maintain a compact root system"
+    },
+    {
+      "question": "Which of the following conditions can lead to fungal diseases in bonsai?",
+      "choices": [
+        "Proper air circulation",
+        "Underwatering",
+        "High humidity",
+        "Bright sunlight"
+      ],
+      "answer": "High humidity"
+    },
+    {
+      "question": "What is the recommended water temperature for watering bonsai trees?",
+      "choices": [
+        "Ice cold",
+        "Room temperature",
+        "Hot",
+        "Boiling"
+      ],
+      "answer": "Room temperature"
+    },
+    {
+      "question": "How often should bonsai trees be inspected for pests?",
+      "choices": [
+        "Annually",
+        "Monthly",
+        "Weekly",
+        "Regularly"
+      ],
+      "answer": "Regularly"
+    },
+    {
+      "question": "What is the purpose of misting bonsai foliage?",
+      "choices": [
+        "To replace watering",
+        "To increase humidity",
+        "To apply fertilizer",
+        "To control pests"
+      ],
+      "answer": "To increase humidity"
+    },
+    {
+      "question": "Which part of the bonsai tree should be particularly checked for pests?",
+      "choices": [
+        "Trunk",
+        "Flowers",
+        "Undersides of leaves",
+        "Visible roots"
+      ],
+      "answer": "Undersides of leaves"
+    },
+    {
+      "question": "What is the main reason for reducing fertilization during the fall and winter months?",
+      "choices": [
+        "To save money",
+        "To prevent overgrowth",
+        "To match the tree's reduced growth rate",
+        "To encourage flowering"
+      ],
+      "answer": "To match the tree's reduced growth rate"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of proper bonsai maintenance?",
+      "choices": [
+        "Improved tree health",
+        "Enhanced aesthetic appeal",
+        "Increased growth rate",
+        "Longer lifespan"
+      ],
+      "answer": "Increased growth rate"
+    },
+    {
+      "question": "What should be done immediately after applying slow-release fertilizer granules to a bonsai?",
+      "choices": [
+        "Prune the tree",
+        "Water thoroughly",
+        "Apply pesticide",
+        "Repot the tree"
+      ],
+      "answer": "Water thoroughly"
+    },
+    {
+      "question": "Which of the following is a sign that a bonsai tree needs repotting?",
+      "choices": [
+        "Rapid growth",
+        "Increased flowering",
+        "Water draining slowly",
+        "Leaf color changing to dark green"
+      ],
+      "answer": "Water draining slowly"
+    },
+    {
+      "question": "What is the primary purpose of using a balanced NPK fertilizer for bonsai?",
+      "choices": [
+        "To promote only root growth",
+        "To encourage only leaf growth",
+        "To support overall tree health",
+        "To increase soil acidity"
+      ],
+      "answer": "To support overall tree health"
+    },
+    {
+      "question": "How should watering be adjusted during Timor-Leste's dry season?",
+      "choices": [
+        "Decrease frequency",
+        "Increase frequency",
+        "Stop watering entirely",
+        "No change needed"
+      ],
+      "answer": "Increase frequency"
+    },
+    {
+      "question": "What is the recommended action if fungal growth is observed on a bonsai tree?",
+      "choices": [
+        "Increase watering",
+        "Apply a fungicide",
+        "Prune all affected areas",
+        "Repot immediately"
+      ],
+      "answer": "Apply a fungicide"
+    },
+    {
+      "question": "Which of the following is NOT a factor to consider when creating a year-round care calendar for bonsai?",
+      "choices": [
+        "Watering schedule",
+        "Fertilization timing",
+        "Pruning tasks",
+        "Pot color"
+      ],
+      "answer": "Pot color"
+    },
+    {
+      "question": "What is the main purpose of allowing excess water to drain from the bonsai pot after watering?",
+      "choices": [
+        "To wash away pests",
+        "To prevent root rot",
+        "To apply liquid fertilizer",
+        "To increase humidity"
+      ],
+      "answer": "To prevent root rot"
+    }
+  ]
+}

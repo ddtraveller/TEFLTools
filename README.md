@@ -133,7 +133,19 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 
 32. **Karoline Myss: Arketype iha Psikolojia no Kultura Timor-Leste / Caroline Myss: Archetypes in Timorese Psychology and Culture**   
     - This course explores the concept of archetypes as fundamental patterns of human behavior and consciousness within the context of Timorese culture. Drawing from various cultural, psychological, and spiritual traditions, it examines how archetypes influence personal development, societal structures, and creative expression in Timor-Leste. The course emphasizes the universal nature of archetypes while considering their diverse manifestations across different Timorese contexts. Students will learn to identify archetypal patterns in Timorese folklore, literature, and daily life, and understand how these patterns shape individual and collective identity.
-    
+
+33. **Violénsia iha Timor Leste / Violence in TImor Leste** 
+    - This course examines the complex security challenges facing Timor-Leste in its post-conflict transition, with a focus on small arms control, armed group violence, and efforts to reform the security sector. Students will analyze the interplay between weapons proliferation, socioeconomic factors, and weak institutions in fueling ongoing instability. The course critically assesses government and civil society interventions aimed at reducing armed violence and building sustainable peace.
+
+34. **Livruak kona-ba Moris no Moris / The Tibetan Book of Living and Dying**
+    - This course explores the Tibetan Buddhist understanding of life, death, and what lies beyond, adapted for the cultural context of Timor Leste. It examines how confronting death can bring greater meaning to life, and provides practical and spiritual guidance for navigating the journey through living and dying. The course aims to present a comprehensive view that bridges traditional Buddhist insights with contemporary needs and perspectives on mortality in Timor Leste.
+
+35. **Sinerjetiku / Synergetics**    
+    - This course introduces students to Buckminster Fuller's comprehensive approach to global problem-solving, with a focus on applying these principles to challenges in Timor-Leste. Students will explore synergetics, design science, and systems thinking to develop innovative solutions for local and national issues. The course aims to foster critical thinking, creativity, and a holistic understanding of interconnected systems.
+
+36. **Axis Brain-Gut-Microbiota: Nutrisaun, Saude Mental, no Neuroplastiku iha Timor-Leste nia laran / The Brain-Gut-Microbiota Axis: Nutrition, Mental Health, and Neuroplasticity Across the Lifespan in Timor-Leste**    
+    - This course explores the intricate relationship between nutrition, gut microbiota, and mental health across the human lifespan, with a focus on the Timorese context. Students will examine how dietary choices influence brain function, neuroplasticity, and the development of mental health disorders through the brain-gut-microbiota axis. The course emphasizes the importance of understanding these connections for developing effective interventions and promoting overall brain health and well-being in Timor-Leste.
+
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 

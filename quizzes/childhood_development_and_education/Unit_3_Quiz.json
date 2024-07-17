@@ -1,0 +1,305 @@
+{
+  "title": "Evidence-Based Approaches to ECCD",
+  "questions": [
+    {
+      "question": "What is the primary focus of evidence-based approaches to ECCD?",
+      "choices": [
+        "Implementing traditional practices only",
+        "Using methods based on scientific research and proven effectiveness",
+        "Focusing solely on cognitive development",
+        "Applying a one-size-fits-all approach globally"
+      ],
+      "answer": "Using methods based on scientific research and proven effectiveness"
+    },
+    {
+      "question": "Which of the following best describes holistic development in ECCD?",
+      "choices": [
+        "Focusing exclusively on physical growth",
+        "Addressing only cognitive and social domains",
+        "Encompassing physical, cognitive, social, and emotional domains",
+        "Prioritizing emotional development over other areas"
+      ],
+      "answer": "Encompassing physical, cognitive, social, and emotional domains"
+    },
+    {
+      "question": "What is a key principle of the WHO's Nurturing Care Framework?",
+      "choices": [
+        "Focus solely on physical health",
+        "Prioritize academic skills over other areas",
+        "Separate care components for easier management",
+        "Address multiple interconnected aspects of child development"
+      ],
+      "answer": "Address multiple interconnected aspects of child development"
+    },
+    {
+      "question": "Which period is considered particularly crucial for brain development in ECCD?",
+      "choices": [
+        "The first 6 months after birth",
+        "From birth to age 5",
+        "The first 1000 days from conception",
+        "From ages 3 to 8"
+      ],
+      "answer": "The first 1000 days from conception"
+    },
+    {
+      "question": "What is a key benefit of involving parents and caregivers in ECCD interventions?",
+      "choices": [
+        "Reduced program costs",
+        "Improved cognitive and social-emotional development in children",
+        "Simplified program implementation",
+        "Increased government funding"
+      ],
+      "answer": "Improved cognitive and social-emotional development in children"
+    },
+    {
+      "question": "Why is cultural appropriateness important in implementing ECCD programs?",
+      "choices": [
+        "To reduce program costs",
+        "To simplify program design",
+        "To ensure interventions align with local beliefs and practices",
+        "To standardize global ECCD approaches"
+      ],
+      "answer": "To ensure interventions align with local beliefs and practices"
+    },
+    {
+      "question": "What is a potential advantage of community-based ECCD approaches?",
+      "choices": [
+        "Higher costs",
+        "Reduced need for local involvement",
+        "Increased sustainability and cultural relevance",
+        "Simplified program evaluation"
+      ],
+      "answer": "Increased sustainability and cultural relevance"
+    },
+    {
+      "question": "How does play-based learning contribute to ECCD?",
+      "choices": [
+        "It focuses solely on physical development",
+        "It supports cognitive development, social skills, and emotional regulation",
+        "It replaces the need for structured learning activities",
+        "It is only effective for children over 5 years old"
+      ],
+      "answer": "It supports cognitive development, social skills, and emotional regulation"
+    },
+    {
+      "question": "What role can technology play in evidence-based ECCD interventions?",
+      "choices": [
+        "Replace traditional teaching methods entirely",
+        "Provide parents with child development information and activity suggestions",
+        "Eliminate the need for face-to-face interactions",
+        "Standardize ECCD approaches globally"
+      ],
+      "answer": "Provide parents with child development information and activity suggestions"
+    },
+    {
+      "question": "Why is regular monitoring and evaluation important in ECCD programs?",
+      "choices": [
+        "To increase program costs",
+        "To reduce parental involvement",
+        "To identify developmental delays and improve interventions",
+        "To standardize all children's development"
+      ],
+      "answer": "To identify developmental delays and improve interventions"
+    },
+    {
+      "question": "Which of the following is a component of the WHO's Nurturing Care Framework?",
+      "choices": [
+        "Competitive education",
+        "Responsive caregiving",
+        "Strict discipline",
+        "Isolated learning environments"
+      ],
+      "answer": "Responsive caregiving"
+    },
+    {
+      "question": "What is a potential benefit of home visiting programs in ECCD?",
+      "choices": [
+        "Reduced need for parental involvement",
+        "Increased program costs",
+        "Improved parental knowledge and child outcomes",
+        "Standardized approach for all families"
+      ],
+      "answer": "Improved parental knowledge and child outcomes"
+    },
+    {
+      "question": "How can ECCD interventions be adapted for Timor-Leste?",
+      "choices": [
+        "By ignoring local traditions",
+        "By implementing only Western practices",
+        "By incorporating traditional storytelling into learning activities",
+        "By focusing solely on academic skills"
+      ],
+      "answer": "By incorporating traditional storytelling into learning activities"
+    },
+    {
+      "question": "What is a potential challenge in implementing technology-based ECCD solutions?",
+      "choices": [
+        "Too much parental involvement",
+        "Excessive government support",
+        "Issues of access and cultural appropriateness",
+        "Overly simplified content"
+      ],
+      "answer": "Issues of access and cultural appropriateness"
+    },
+    {
+      "question": "Why is exclusive breastfeeding for the first six months considered important in ECCD?",
+      "choices": [
+        "It's the most cost-effective feeding method",
+        "It supports optimal brain development and overall health",
+        "It's the easiest feeding method for all mothers",
+        "It eliminates the need for other nutritional interventions"
+      ],
+      "answer": "It supports optimal brain development and overall health"
+    },
+    {
+      "question": "What is a key consideration when adapting global ECCD practices to local contexts?",
+      "choices": [
+        "Implementing practices without modification",
+        "Ignoring local cultural norms",
+        "Balancing evidence-based approaches with cultural sensitivity",
+        "Prioritizing cost-effectiveness over effectiveness"
+      ],
+      "answer": "Balancing evidence-based approaches with cultural sensitivity"
+    },
+    {
+      "question": "How can community health workers contribute to ECCD interventions?",
+      "choices": [
+        "By replacing professional ECCD specialists",
+        "By delivering interventions as trusted local figures",
+        "By implementing standardized global programs",
+        "By focusing solely on physical health checks"
+      ],
+      "answer": "By delivering interventions as trusted local figures"
+    },
+    {
+      "question": "What is a potential benefit of using standardized assessment tools in ECCD?",
+      "choices": [
+        "Eliminating the need for individualized care",
+        "Reducing parental involvement",
+        "Early identification of developmental delays",
+        "Simplifying program implementation"
+      ],
+      "answer": "Early identification of developmental delays"
+    },
+    {
+      "question": "How can nutrition interventions in ECCD be tailored to Timor-Leste?",
+      "choices": [
+        "By importing all foods from Western countries",
+        "By ignoring local food customs",
+        "By incorporating advice on locally available nutritious foods",
+        "By focusing solely on supplement distribution"
+      ],
+      "answer": "By incorporating advice on locally available nutritious foods"
+    },
+    {
+      "question": "What is a key aspect of responsive caregiving in ECCD?",
+      "choices": [
+        "Strict adherence to fixed schedules",
+        "Minimizing physical contact with children",
+        "Responding promptly and appropriately to a child's needs",
+        "Prioritizing academic learning over emotional needs"
+      ],
+      "answer": "Responding promptly and appropriately to a child's needs"
+    },
+    {
+      "question": "How can ECCD programs address the multilingual nature of Timorese society?",
+      "choices": [
+        "By using only English in all programs",
+        "By ignoring linguistic diversity",
+        "By incorporating local languages in instruction and materials",
+        "By prohibiting the use of any language other than Tetum"
+      ],
+      "answer": "By incorporating local languages in instruction and materials"
+    },
+    {
+      "question": "What role does security and safety play in the Nurturing Care Framework?",
+      "choices": [
+        "It's considered optional in ECCD",
+        "It's only relevant for older children",
+        "It's a core component essential for child development",
+        "It's less important than academic learning"
+      ],
+      "answer": "It's a core component essential for child development"
+    },
+    {
+      "question": "How can ECCD programs effectively reach rural communities in Timor-Leste?",
+      "choices": [
+        "By focusing only on urban areas",
+        "By using a one-size-fits-all approach",
+        "By adapting programs to local contexts and leveraging community resources",
+        "By implementing only technology-based solutions"
+      ],
+      "answer": "By adapting programs to local contexts and leveraging community resources"
+    },
+    {
+      "question": "What is a potential benefit of integrating health and nutrition services with early learning opportunities?",
+      "choices": [
+        "Simplified program management",
+        "Reduced need for parental involvement",
+        "Comprehensive support for child development",
+        "Decreased program costs"
+      ],
+      "answer": "Comprehensive support for child development"
+    },
+    {
+      "question": "How can traditional Timorese child-rearing practices be incorporated into evidence-based ECCD interventions?",
+      "choices": [
+        "By completely replacing them with Western practices",
+        "By ignoring them entirely",
+        "By integrating them thoughtfully with evidence-based approaches",
+        "By implementing them without any modification"
+      ],
+      "answer": "By integrating them thoughtfully with evidence-based approaches"
+    },
+    {
+      "question": "What is a key consideration when designing ECCD programs in post-conflict settings like Timor-Leste?",
+      "choices": [
+        "Ignoring the historical context",
+        "Focusing only on academic skills",
+        "Incorporating trauma-informed care approaches",
+        "Implementing standardized global programs without adaptation"
+      ],
+      "answer": "Incorporating trauma-informed care approaches"
+    },
+    {
+      "question": "How can ECCD programs address gender disparities in Timor-Leste?",
+      "choices": [
+        "By focusing exclusively on boys",
+        "By ignoring gender differences",
+        "By promoting equal opportunities and challenging gender stereotypes",
+        "By implementing separate programs for boys and girls"
+      ],
+      "answer": "By promoting equal opportunities and challenging gender stereotypes"
+    },
+    {
+      "question": "What is a potential benefit of conducting community consultations before designing ECCD programs?",
+      "choices": [
+        "Increased program costs",
+        "Reduced need for evidence-based approaches",
+        "Better understanding of local needs and cultural context",
+        "Simplified program implementation"
+      ],
+      "answer": "Better understanding of local needs and cultural context"
+    },
+    {
+      "question": "How can ECCD programs support the preservation of Timorese cultural heritage?",
+      "choices": [
+        "By focusing only on modern practices",
+        "By ignoring cultural traditions",
+        "By incorporating traditional songs, stories, and games into the curriculum",
+        "By implementing only Western educational models"
+      ],
+      "answer": "By incorporating traditional songs, stories, and games into the curriculum"
+    },
+    {
+      "question": "What is a key aspect of creating stimulating environments for early learning?",
+      "choices": [
+        "Providing only electronic devices",
+        "Minimizing sensory experiences",
+        "Offering a variety of age-appropriate, safe materials for exploration",
+        "Focusing solely on academic materials"
+      ],
+      "answer": "Offering a variety of age-appropriate, safe materials for exploration"
+    }
+  ]
+}

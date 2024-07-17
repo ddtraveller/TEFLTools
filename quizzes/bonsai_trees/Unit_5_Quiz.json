@@ -1,0 +1,305 @@
+{
+  "title": "Advanced Shaping and Styling in Bonsai",
+  "questions": [
+    {
+      "question": "What is the purpose of creating deadwood features in bonsai?",
+      "choices": [
+        "To kill parts of the tree",
+        "To add character and age to the bonsai",
+        "To make the tree grow faster",
+        "To prevent pests and diseases"
+      ],
+      "answer": "To add character and age to the bonsai"
+    },
+    {
+      "question": "What is 'jin' in bonsai?",
+      "choices": [
+        "A type of fertilizer",
+        "A pruning technique",
+        "A deadwood technique creating the appearance of a dead branch",
+        "A style of pot"
+      ],
+      "answer": "A deadwood technique creating the appearance of a dead branch"
+    },
+    {
+      "question": "What is 'shari' in bonsai?",
+      "choices": [
+        "A type of soil",
+        "A wiring technique",
+        "A deadwood technique creating the appearance of a stripped trunk",
+        "A watering method"
+      ],
+      "answer": "A deadwood technique creating the appearance of a stripped trunk"
+    },
+    {
+      "question": "Which tool is commonly used to strip bark when creating jin?",
+      "choices": [
+        "Pruning shears",
+        "Jin pliers",
+        "Watering can",
+        "Fertilizer spreader"
+      ],
+      "answer": "Jin pliers"
+    },
+    {
+      "question": "What is typically applied to preserve deadwood features in bonsai?",
+      "choices": [
+        "Water",
+        "Fertilizer",
+        "Lime sulfur or jin seal",
+        "Paint"
+      ],
+      "answer": "Lime sulfur or jin seal"
+    },
+    {
+      "question": "What is the primary goal of leaf reduction techniques in bonsai?",
+      "choices": [
+        "To make the tree grow taller",
+        "To encourage larger leaves",
+        "To create proportionate leaves that enhance the illusion of a full-sized tree in miniature",
+        "To reduce the need for watering"
+      ],
+      "answer": "To create proportionate leaves that enhance the illusion of a full-sized tree in miniature"
+    },
+    {
+      "question": "What is defoliation in bonsai?",
+      "choices": [
+        "Adding new leaves to the tree",
+        "Removing all or most leaves during the growing season",
+        "Painting the leaves for decoration",
+        "Grafting leaves from another tree"
+      ],
+      "answer": "Removing all or most leaves during the growing season"
+    },
+    {
+      "question": "When is defoliation typically performed on deciduous trees?",
+      "choices": [
+        "Early spring",
+        "Late fall",
+        "Mid-winter",
+        "Early summer"
+      ],
+      "answer": "Early summer"
+    },
+    {
+      "question": "What is the purpose of pruning to inner growth in bonsai?",
+      "choices": [
+        "To make the tree taller",
+        "To increase leaf size",
+        "To force energy to inner buds and increase ramification",
+        "To reduce the need for watering"
+      ],
+      "answer": "To force energy to inner buds and increase ramification"
+    },
+    {
+      "question": "How does root pruning affect leaf size in bonsai?",
+      "choices": [
+        "It has no effect on leaf size",
+        "It directly increases leaf size",
+        "It can lead to smaller leaf size by restricting root growth",
+        "It causes leaves to change color"
+      ],
+      "answer": "It can lead to smaller leaf size by restricting root growth"
+    },
+    {
+      "question": "What is the recommended approach to fertilizer use for leaf reduction?",
+      "choices": [
+        "Increase nitrogen to promote larger leaves",
+        "Reduce nitrogen to limit leaf size",
+        "Stop all fertilizer use",
+        "Use only phosphorus-based fertilizers"
+      ],
+      "answer": "Reduce nitrogen to limit leaf size"
+    },
+    {
+      "question": "What is grafting in bonsai?",
+      "choices": [
+        "A watering technique",
+        "A method of painting the trunk",
+        "A process of joining parts from two plants so they grow as one",
+        "A type of bonsai pot"
+      ],
+      "answer": "A process of joining parts from two plants so they grow as one"
+    },
+    {
+      "question": "What is air layering in bonsai?",
+      "choices": [
+        "A method of suspending bonsai in the air",
+        "A technique for creating aerial roots",
+        "A way of stacking bonsai pots",
+        "A method of propagation to create new roots on a branch"
+      ],
+      "answer": "A method of propagation to create new roots on a branch"
+    },
+    {
+      "question": "What is the first step in creating shari on a bonsai trunk?",
+      "choices": [
+        "Applying lime sulfur",
+        "Carving the wood",
+        "Marking the area to be worked on",
+        "Removing all the branches"
+      ],
+      "answer": "Marking the area to be worked on"
+    },
+    {
+      "question": "Which tool is used to create taper when making jin?",
+      "choices": [
+        "Pruning shears",
+        "Knob cutters",
+        "Watering can",
+        "Chopsticks"
+      ],
+      "answer": "Knob cutters"
+    },
+    {
+      "question": "What is the purpose of using wire brushes in deadwood creation?",
+      "choices": [
+        "To clean the tools",
+        "To create texture on the deadwood",
+        "To apply fertilizer",
+        "To measure the tree's height"
+      ],
+      "answer": "To create texture on the deadwood"
+    },
+    {
+      "question": "Why is timing crucial when performing defoliation?",
+      "choices": [
+        "It affects the tree's ability to recover and produce new growth",
+        "It determines the color of the new leaves",
+        "It influences the tree's height",
+        "It changes the tree's species"
+      ],
+      "answer": "It affects the tree's ability to recover and produce new growth"
+    },
+    {
+      "question": "What is the benefit of air layering in bonsai?",
+      "choices": [
+        "It makes the tree grow faster",
+        "It creates new trees with mature characteristics",
+        "It changes the tree's species",
+        "It increases leaf size"
+      ],
+      "answer": "It creates new trees with mature characteristics"
+    },
+    {
+      "question": "What should be considered when selecting a branch for jin creation?",
+      "choices": [
+        "The branch's color",
+        "The overall design and balance of the tree",
+        "The branch's age",
+        "The number of leaves on the branch"
+      ],
+      "answer": "The overall design and balance of the tree"
+    },
+    {
+      "question": "What is the purpose of approach grafting in bonsai?",
+      "choices": [
+        "To create deadwood",
+        "To increase leaf size",
+        "To add branches where needed",
+        "To change the tree's species"
+      ],
+      "answer": "To add branches where needed"
+    },
+    {
+      "question": "What material is typically used to wrap the area in air layering?",
+      "choices": [
+        "Aluminum foil",
+        "Plastic wrap",
+        "Newspaper",
+        "Sphagnum moss"
+      ],
+      "answer": "Sphagnum moss"
+    },
+    {
+      "question": "What is the purpose of applying rooting hormone in air layering?",
+      "choices": [
+        "To kill insects",
+        "To encourage root formation",
+        "To change leaf color",
+        "To prevent fungal growth"
+      ],
+      "answer": "To encourage root formation"
+    },
+    {
+      "question": "How does reducing nitrogen in fertilizer affect bonsai?",
+      "choices": [
+        "It increases flower production",
+        "It promotes larger leaves",
+        "It limits leaf size",
+        "It changes the bark color"
+      ],
+      "answer": "It limits leaf size"
+    },
+    {
+      "question": "What is the primary purpose of creating shari on a bonsai trunk?",
+      "choices": [
+        "To kill the tree",
+        "To make the trunk grow faster",
+        "To mimic natural trunk damage and add character",
+        "To prevent insect infestations"
+      ],
+      "answer": "To mimic natural trunk damage and add character"
+    },
+    {
+      "question": "Which of the following is NOT a common method for leaf reduction in bonsai?",
+      "choices": [
+        "Defoliation",
+        "Root pruning",
+        "Trunk chopping",
+        "Fertilizer management"
+      ],
+      "answer": "Trunk chopping"
+    },
+    {
+      "question": "What is the main advantage of thread grafting in bonsai?",
+      "choices": [
+        "It creates deadwood features",
+        "It allows for precise placement of new branches",
+        "It increases the tree's height",
+        "It changes the tree's leaf color"
+      ],
+      "answer": "It allows for precise placement of new branches"
+    },
+    {
+      "question": "What should be monitored closely after performing air layering?",
+      "choices": [
+        "Leaf color",
+        "Trunk thickness",
+        "Root development",
+        "Flower production"
+      ],
+      "answer": "Root development"
+    },
+    {
+      "question": "Which technique is most useful for reducing the height of a tall bonsai trunk?",
+      "choices": [
+        "Jin creation",
+        "Leaf reduction",
+        "Air layering",
+        "Defoliation"
+      ],
+      "answer": "Air layering"
+    },
+    {
+      "question": "What is the purpose of carving grooves when creating jin?",
+      "choices": [
+        "To make the branch grow back",
+        "To allow for better water absorption",
+        "To create a more natural, weathered appearance",
+        "To prevent fungal growth"
+      ],
+      "answer": "To create a more natural, weathered appearance"
+    },
+    {
+      "question": "Which of the following is a benefit of grafting in bonsai?",
+      "choices": [
+        "It eliminates the need for watering",
+        "It can change foliage type on parts of the tree",
+        "It makes the tree immune to pests",
+        "It guarantees flower production"
+      ],
+      "answer": "It can change foliage type on parts of the tree"
+    }
+  ]
+}

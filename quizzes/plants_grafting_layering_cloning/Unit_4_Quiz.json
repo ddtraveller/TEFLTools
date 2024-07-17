@@ -1,0 +1,305 @@
+{
+  "title": "Cloning and Vegetative Propagation",
+  "questions": [
+    {
+      "question": "What is the principle that allows plant cells to regenerate into entire plants?",
+      "choices": [
+        "Photosynthesis",
+        "Totipotency",
+        "Mitosis",
+        "Germination"
+      ],
+      "answer": "Totipotency"
+    },
+    {
+      "question": "Which of the following is NOT a type of stem cutting?",
+      "choices": [
+        "Softwood",
+        "Semi-hardwood",
+        "Hardwood",
+        "Rootwood"
+      ],
+      "answer": "Rootwood"
+    },
+    {
+      "question": "Which propagation method involves taking sections of roots to develop new shoots and roots?",
+      "choices": [
+        "Stem cuttings",
+        "Leaf cuttings",
+        "Root cuttings",
+        "Air layering"
+      ],
+      "answer": "Root cuttings"
+    },
+    {
+      "question": "What is the term for the process of creating genetically identical copies of a plant?",
+      "choices": [
+        "Hybridization",
+        "Mutation",
+        "Cloning",
+        "Grafting"
+      ],
+      "answer": "Cloning"
+    },
+    {
+      "question": "Which hormone group is most commonly used to stimulate root development in cuttings?",
+      "choices": [
+        "Cytokinins",
+        "Gibberellins",
+        "Auxins",
+        "Abscisic acid"
+      ],
+      "answer": "Auxins"
+    },
+    {
+      "question": "What is the primary advantage of vegetative propagation over seed propagation?",
+      "choices": [
+        "It's always faster",
+        "It produces more diverse offspring",
+        "It ensures exact replication of desirable traits",
+        "It's easier to perform"
+      ],
+      "answer": "It ensures exact replication of desirable traits"
+    },
+    {
+      "question": "Which propagation technique is most suitable for plants with thick, fleshy leaves?",
+      "choices": [
+        "Stem cuttings",
+        "Leaf cuttings",
+        "Root cuttings",
+        "Air layering"
+      ],
+      "answer": "Leaf cuttings"
+    },
+    {
+      "question": "What is the term for roots that develop from plant parts other than the normal root system?",
+      "choices": [
+        "Taproot",
+        "Fibrous roots",
+        "Adventitious roots",
+        "Aerial roots"
+      ],
+      "answer": "Adventitious roots"
+    },
+    {
+      "question": "Which layering technique is most suitable for plants with rigid stems or those growing high off the ground?",
+      "choices": [
+        "Simple layering",
+        "Compound layering",
+        "Air layering",
+        "Trench layering"
+      ],
+      "answer": "Air layering"
+    },
+    {
+      "question": "What is the main disadvantage of vegetative propagation?",
+      "choices": [
+        "It's too slow",
+        "It's too expensive",
+        "It can perpetuate diseases from the parent plant",
+        "It doesn't work for most plant species"
+      ],
+      "answer": "It can perpetuate diseases from the parent plant"
+    },
+    {
+      "question": "Which propagation method allows for the rapid multiplication of plants and production of disease-free stock?",
+      "choices": [
+        "Stem cuttings",
+        "Leaf cuttings",
+        "Root cuttings",
+        "Tissue culture"
+      ],
+      "answer": "Tissue culture"
+    },
+    {
+      "question": "What type of stem cutting is taken from new, soft growth?",
+      "choices": [
+        "Softwood",
+        "Semi-hardwood",
+        "Hardwood",
+        "Greenwood"
+      ],
+      "answer": "Softwood"
+    },
+    {
+      "question": "Which of the following is NOT a common application of tissue culture?",
+      "choices": [
+        "Rapid multiplication of plants",
+        "Production of disease-free stock",
+        "Conservation of rare species",
+        "Increasing genetic diversity"
+      ],
+      "answer": "Increasing genetic diversity"
+    },
+    {
+      "question": "What is the term for undifferentiated tissue that forms on plant wounds?",
+      "choices": [
+        "Meristem",
+        "Cambium",
+        "Callus",
+        "Pith"
+      ],
+      "answer": "Callus"
+    },
+    {
+      "question": "Which propagation method is most suitable for plants that naturally produce suckers?",
+      "choices": [
+        "Stem cuttings",
+        "Leaf cuttings",
+        "Root cuttings",
+        "Air layering"
+      ],
+      "answer": "Root cuttings"
+    },
+    {
+      "question": "What is the primary purpose of using rooting hormone in vegetative propagation?",
+      "choices": [
+        "To increase leaf growth",
+        "To stimulate flowering",
+        "To enhance root development",
+        "To prevent diseases"
+      ],
+      "answer": "To enhance root development"
+    },
+    {
+      "question": "Which of the following is a limitation of vegetative propagation?",
+      "choices": [
+        "It's too slow",
+        "It doesn't work for woody plants",
+        "It can lead to lack of genetic diversity",
+        "It requires seeds"
+      ],
+      "answer": "It can lead to lack of genetic diversity"
+    },
+    {
+      "question": "What type of stem cutting is taken from fully matured, dormant stems?",
+      "choices": [
+        "Softwood",
+        "Semi-hardwood",
+        "Hardwood",
+        "Greenwood"
+      ],
+      "answer": "Hardwood"
+    },
+    {
+      "question": "Which propagation method involves bending a low-growing branch to the ground and covering a portion with soil?",
+      "choices": [
+        "Air layering",
+        "Simple layering",
+        "Compound layering",
+        "Tip layering"
+      ],
+      "answer": "Simple layering"
+    },
+    {
+      "question": "What is the term for plant tissue consisting of undifferentiated cells capable of cell division?",
+      "choices": [
+        "Callus",
+        "Cambium",
+        "Meristem",
+        "Parenchyma"
+      ],
+      "answer": "Meristem"
+    },
+    {
+      "question": "Which of the following plants is commonly propagated using leaf cuttings?",
+      "choices": [
+        "Oak trees",
+        "Grass",
+        "African violets",
+        "Tomatoes"
+      ],
+      "answer": "African violets"
+    },
+    {
+      "question": "What is the main advantage of using tissue culture for plant propagation?",
+      "choices": [
+        "It's the easiest method",
+        "It's the cheapest method",
+        "It allows for rapid multiplication of plants",
+        "It always produces genetically diverse offspring"
+      ],
+      "answer": "It allows for rapid multiplication of plants"
+    },
+    {
+      "question": "Which type of cutting is most commonly used for deciduous plants and some evergreens?",
+      "choices": [
+        "Softwood",
+        "Semi-hardwood",
+        "Hardwood",
+        "Leaf cuttings"
+      ],
+      "answer": "Hardwood"
+    },
+    {
+      "question": "What is the primary reason for using vegetative propagation in commercial crop production?",
+      "choices": [
+        "It's cheaper than seed propagation",
+        "It ensures uniformity in the crop",
+        "It's faster than seed propagation",
+        "It increases genetic diversity"
+      ],
+      "answer": "It ensures uniformity in the crop"
+    },
+    {
+      "question": "Which of the following is NOT a common step in the air layering process?",
+      "choices": [
+        "Wounding the stem",
+        "Applying rooting hormone",
+        "Covering with moist sphagnum moss",
+        "Burying the stem underground"
+      ],
+      "answer": "Burying the stem underground"
+    },
+    {
+      "question": "What is the term for the ability of a plant cell to regenerate into a complete plant?",
+      "choices": [
+        "Totipotency",
+        "Pluripotency",
+        "Multipotency",
+        "Omnipotency"
+      ],
+      "answer": "Totipotency"
+    },
+    {
+      "question": "Which of the following is a key advantage of vegetative propagation for hybrid plants?",
+      "choices": [
+        "It increases genetic diversity",
+        "It's faster than seed propagation",
+        "It allows propagation of plants that don't breed true from seed",
+        "It's cheaper than other methods"
+      ],
+      "answer": "It allows propagation of plants that don't breed true from seed"
+    },
+    {
+      "question": "What type of environment is typically needed for successful rooting of cuttings?",
+      "choices": [
+        "Low humidity, high light",
+        "High humidity, low light",
+        "Low humidity, low light",
+        "High humidity, high light"
+      ],
+      "answer": "High humidity, low light"
+    },
+    {
+      "question": "Which of the following is NOT a common application of vegetative propagation in conservation efforts?",
+      "choices": [
+        "Preserving rare species",
+        "Rapidly multiplying endangered plants",
+        "Maintaining genetic diversity in populations",
+        "Producing disease-free plants for reintroduction"
+      ],
+      "answer": "Maintaining genetic diversity in populations"
+    },
+    {
+      "question": "What is the primary difference between simple layering and air layering?",
+      "choices": [
+        "Simple layering is done on the ground, air layering is done on elevated branches",
+        "Simple layering uses rooting hormone, air layering doesn't",
+        "Simple layering is for herbaceous plants, air layering is for woody plants",
+        "Simple layering produces roots, air layering produces shoots"
+      ],
+      "answer": "Simple layering is done on the ground, air layering is done on elevated branches"
+    }
+  ]
+}

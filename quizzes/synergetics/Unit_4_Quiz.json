@@ -1,0 +1,305 @@
+{
+  "title": "Geodesic Structures and Sustainable Housing",
+  "questions": [
+    {
+      "question": "Who developed the concept of geodesic structures?",
+      "choices": [
+        "Frank Lloyd Wright",
+        "Le Corbusier",
+        "Buckminster Fuller",
+        "Zaha Hadid"
+      ],
+      "answer": "Buckminster Fuller"
+    },
+    {
+      "question": "What is the primary structural element used in geodesic domes?",
+      "choices": [
+        "Squares",
+        "Circles",
+        "Triangles",
+        "Hexagons"
+      ],
+      "answer": "Triangles"
+    },
+    {
+      "question": "Which of the following is NOT an advantage of geodesic domes?",
+      "choices": [
+        "Structural efficiency",
+        "Energy efficiency",
+        "Natural disaster resistance",
+        "Ease of traditional furniture placement"
+      ],
+      "answer": "Ease of traditional furniture placement"
+    },
+    {
+      "question": "What is tensegrity?",
+      "choices": [
+        "A type of roofing material",
+        "A balance between tension and compression forces",
+        "A method of insulating buildings",
+        "A traditional Timorese building technique"
+      ],
+      "answer": "A balance between tension and compression forces"
+    },
+    {
+      "question": "Which of the following is a key principle of geodesic structures?",
+      "choices": [
+        "Maximizing material use",
+        "Increasing surface area",
+        "Triangulation",
+        "Asymmetrical design"
+      ],
+      "answer": "Triangulation"
+    },
+    {
+      "question": "What is a major challenge in tropical climate housing?",
+      "choices": [
+        "Extreme cold",
+        "High temperatures and humidity",
+        "Lack of sunlight",
+        "Frequent earthquakes"
+      ],
+      "answer": "High temperatures and humidity"
+    },
+    {
+      "question": "Which design principle is important for tropical climates?",
+      "choices": [
+        "Minimizing ventilation",
+        "Maximizing direct sunlight exposure",
+        "Natural ventilation",
+        "Using dark-colored roofing materials"
+      ],
+      "answer": "Natural ventilation"
+    },
+    {
+      "question": "What is the purpose of elevating structures in tropical climates?",
+      "choices": [
+        "To provide a better view",
+        "To protect from flooding and improve ventilation",
+        "To create storage space underneath",
+        "To make the building taller"
+      ],
+      "answer": "To protect from flooding and improve ventilation"
+    },
+    {
+      "question": "Which of the following is a sustainable material commonly used in tropical housing?",
+      "choices": [
+        "Concrete",
+        "Steel",
+        "Bamboo",
+        "Plastic"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "What is Uma Lulik?",
+      "choices": [
+        "A type of geodesic dome",
+        "A traditional Timorese sacred house",
+        "A sustainable building material",
+        "A modern housing development in Timor-Leste"
+      ],
+      "answer": "A traditional Timorese sacred house"
+    },
+    {
+      "question": "Which of the following is NOT a typical material used in traditional Timorese housing?",
+      "choices": [
+        "Wood",
+        "Bamboo",
+        "Palm leaves",
+        "Concrete"
+      ],
+      "answer": "Concrete"
+    },
+    {
+      "question": "What is an advantage of using traditional building techniques?",
+      "choices": [
+        "Higher cost",
+        "Faster construction",
+        "Adaptation to local climate and culture",
+        "Increased durability"
+      ],
+      "answer": "Adaptation to local climate and culture"
+    },
+    {
+      "question": "Which of the following is a challenge in traditional housing?",
+      "choices": [
+        "Energy efficiency",
+        "Fire risk with some materials",
+        "High cost",
+        "Difficulty in sourcing materials"
+      ],
+      "answer": "Fire risk with some materials"
+    },
+    {
+      "question": "How can traditional and modern techniques be integrated in housing design?",
+      "choices": [
+        "By completely replacing traditional methods",
+        "By ignoring modern technologies",
+        "By combining traditional materials with modern structural design",
+        "By using only imported materials"
+      ],
+      "answer": "By combining traditional materials with modern structural design"
+    },
+    {
+      "question": "What is the primary benefit of using geodesic principles in housing design?",
+      "choices": [
+        "Increased material usage",
+        "Higher construction costs",
+        "Improved structural efficiency",
+        "Reduced interior space"
+      ],
+      "answer": "Improved structural efficiency"
+    },
+    {
+      "question": "Which of the following best describes the shape of a geodesic dome?",
+      "choices": [
+        "Cubic",
+        "Pyramidal",
+        "Cylindrical",
+        "Spherical or partial-spherical"
+      ],
+      "answer": "Spherical or partial-spherical"
+    },
+    {
+      "question": "What is a key advantage of geodesic domes in terms of energy efficiency?",
+      "choices": [
+        "Increased surface area",
+        "Reduced surface area for heat loss/gain",
+        "Higher heating requirements",
+        "Increased air conditioning needs"
+      ],
+      "answer": "Reduced surface area for heat loss/gain"
+    },
+    {
+      "question": "Which natural disaster are geodesic domes particularly resistant to?",
+      "choices": [
+        "Earthquakes",
+        "Floods",
+        "High winds",
+        "Volcanic eruptions"
+      ],
+      "answer": "High winds"
+    },
+    {
+      "question": "What is the concept of 'synergetic geometry' in relation to geodesic structures?",
+      "choices": [
+        "The use of only straight lines in construction",
+        "The combination of multiple geometric shapes",
+        "Whole system behavior not predicted by individual parts",
+        "The exclusive use of curved surfaces"
+      ],
+      "answer": "Whole system behavior not predicted by individual parts"
+    },
+    {
+      "question": "Which of the following is a sustainable practice in tropical housing design?",
+      "choices": [
+        "Maximizing air conditioning use",
+        "Using non-local, imported materials",
+        "Rainwater harvesting",
+        "Minimizing natural ventilation"
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "What is the purpose of using thatch in traditional tropical housing?",
+      "choices": [
+        "To increase heat gain",
+        "As a decorative element only",
+        "For natural insulation",
+        "To increase construction costs"
+      ],
+      "answer": "For natural insulation"
+    },
+    {
+      "question": "Which of the following is a benefit of using earth or adobe in construction?",
+      "choices": [
+        "High cost",
+        "Thermal mass properties",
+        "Resistance to moisture",
+        "Lightweight nature"
+      ],
+      "answer": "Thermal mass properties"
+    },
+    {
+      "question": "What is a key consideration when designing sustainable housing in Timor-Leste?",
+      "choices": [
+        "Ignoring local climate conditions",
+        "Using only imported materials",
+        "Incorporating cultural significance",
+        "Maximizing energy consumption"
+      ],
+      "answer": "Incorporating cultural significance"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing sustainable housing solutions in Timor-Leste?",
+      "choices": [
+        "Excess of skilled labor",
+        "Overabundance of modern building materials",
+        "Limited access to traditional building techniques",
+        "Balancing modern efficiency with cultural traditions"
+      ],
+      "answer": "Balancing modern efficiency with cultural traditions"
+    },
+    {
+      "question": "What role does orientation play in sustainable housing design for tropical climates?",
+      "choices": [
+        "It has no significant impact",
+        "It affects natural lighting and heat gain",
+        "It only influences aesthetic appeal",
+        "It determines the size of the building"
+      ],
+      "answer": "It affects natural lighting and heat gain"
+    },
+    {
+      "question": "Which of the following is a benefit of using recycled materials in sustainable housing?",
+      "choices": [
+        "Increased construction time",
+        "Higher costs",
+        "Reduced waste and cost-effectiveness",
+        "Lower durability"
+      ],
+      "answer": "Reduced waste and cost-effectiveness"
+    },
+    {
+      "question": "What is a key advantage of prefabrication in geodesic dome construction?",
+      "choices": [
+        "Increased on-site construction time",
+        "Higher material waste",
+        "Rapid assembly and deployment",
+        "Limited design flexibility"
+      ],
+      "answer": "Rapid assembly and deployment"
+    },
+    {
+      "question": "How can geodesic principles contribute to disaster-resistant housing in Timor-Leste?",
+      "choices": [
+        "By increasing the weight of the structure",
+        "Through improved structural integrity and wind resistance",
+        "By using more traditional building materials",
+        "By increasing the cost of construction"
+      ],
+      "answer": "Through improved structural integrity and wind resistance"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'vernacular architecture'?",
+      "choices": [
+        "Using only modern building techniques",
+        "Ignoring local climate conditions",
+        "Building styles using local materials and traditions adapted to climate and culture",
+        "Focusing solely on aesthetic appeal"
+      ],
+      "answer": "Building styles using local materials and traditions adapted to climate and culture"
+    },
+    {
+      "question": "What is a potential drawback of introducing geodesic dome housing in rural Timor-Leste communities?",
+      "choices": [
+        "Increased energy efficiency",
+        "Improved disaster resistance",
+        "Potential cultural resistance to unfamiliar designs",
+        "Lower construction costs"
+      ],
+      "answer": "Potential cultural resistance to unfamiliar designs"
+    }
+  ]
+}

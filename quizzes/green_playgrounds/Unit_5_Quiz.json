@@ -1,0 +1,305 @@
+{
+  "title": "Green Infrastructure for Coastal Resilience",
+  "questions": [
+    {
+      "question": "What is the projected sea level rise for Timor-Leste by 2100 according to the lecture notes?",
+      "choices": [
+        "0.23-0.54 m",
+        "0.39-0.77 m",
+        "0.43-0.84 m",
+        "0.59-0.97 m"
+      ],
+      "answer": "0.39-0.77 m"
+    },
+    {
+      "question": "Which of the following is NOT a mechanism of coastal flooding mentioned in the lesson?",
+      "choices": [
+        "Sea level rise",
+        "Storm surge",
+        "High tides",
+        "Tsunamis"
+      ],
+      "answer": "Tsunamis"
+    },
+    {
+      "question": "What is the current rate of global sea level rise according to the lecture notes?",
+      "choices": [
+        "1.8 mm/year",
+        "2.5 mm/year",
+        "3.6 mm/year",
+        "4.2 mm/year"
+      ],
+      "answer": "3.6 mm/year"
+    },
+    {
+      "question": "Which of the following is a benefit of living shorelines?",
+      "choices": [
+        "Increases erosion",
+        "Reduces habitat for marine species",
+        "Improves water quality through filtration",
+        "Prevents natural coastal processes"
+      ],
+      "answer": "Improves water quality through filtration"
+    },
+    {
+      "question": "What is the term for shoreline stabilization techniques using native vegetation and natural materials?",
+      "choices": [
+        "Green walls",
+        "Living shorelines",
+        "Eco-barriers",
+        "Natural breakwaters"
+      ],
+      "answer": "Living shorelines"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a restoration technique for coastal wetlands?",
+      "choices": [
+        "Hydrologic restoration",
+        "Sediment addition",
+        "Revegetation with native species",
+        "Construction of artificial reefs"
+      ],
+      "answer": "Construction of artificial reefs"
+    },
+    {
+      "question": "What is the concept of combining nature-based solutions with conventional engineering called?",
+      "choices": [
+        "Hybrid infrastructure",
+        "Eco-engineering",
+        "Green-gray infrastructure",
+        "Natural-artificial integration"
+      ],
+      "answer": "Green-gray infrastructure"
+    },
+    {
+      "question": "Which of the following is an example of green-gray infrastructure integration?",
+      "choices": [
+        "Concrete seawalls",
+        "Steel breakwaters",
+        "Vegetated levees",
+        "Asphalt coastal roads"
+      ],
+      "answer": "Vegetated levees"
+    },
+    {
+      "question": "What term is used to describe the carbon sequestered by coastal ecosystems?",
+      "choices": [
+        "Green carbon",
+        "Coastal carbon",
+        "Blue carbon",
+        "Marine carbon"
+      ],
+      "answer": "Blue carbon"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential impact of sea level rise on Timorese coastal cities?",
+      "choices": [
+        "Increased frequency of flooding events",
+        "Erosion of beaches and coastal lands",
+        "Saltwater intrusion into freshwater aquifers",
+        "Increased agricultural productivity"
+      ],
+      "answer": "Increased agricultural productivity"
+    },
+    {
+      "question": "What was the primary objective of the mangrove restoration project in Hera, Timor-Leste?",
+      "choices": [
+        "To create a tourist attraction",
+        "To restore 20 hectares of degraded mangrove forest",
+        "To build a new fishing port",
+        "To construct a seawall"
+      ],
+      "answer": "To restore 20 hectares of degraded mangrove forest"
+    },
+    {
+      "question": "Which mangrove species were chosen for the restoration project in Hera?",
+      "choices": [
+        "Avicennia marina and Bruguiera gymnorrhiza",
+        "Rhizophora mangle and Laguncularia racemosa",
+        "Rhizophora stylosa and Sonneratia alba",
+        "Ceriops tagal and Xylocarpus granatum"
+      ],
+      "answer": "Rhizophora stylosa and Sonneratia alba"
+    },
+    {
+      "question": "What was the survival rate of mangrove seedlings after three years in the Hera project?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "answer": "70%"
+    },
+    {
+      "question": "Which of the following was NOT mentioned as an outcome of the Hera mangrove restoration project?",
+      "choices": [
+        "Reduced coastal erosion",
+        "Increased fish and crab populations",
+        "Establishment of a community-managed mangrove nursery",
+        "Construction of a new seaport"
+      ],
+      "answer": "Construction of a new seaport"
+    },
+    {
+      "question": "What is the primary function of coastal wetlands in relation to coastal resilience?",
+      "choices": [
+        "To provide building materials",
+        "To act as natural sponges absorbing excess water",
+        "To generate electricity",
+        "To create new land through sedimentation"
+      ],
+      "answer": "To act as natural sponges absorbing excess water"
+    },
+    {
+      "question": "Which of the following is a key consideration when implementing green infrastructure in Timor-Leste?",
+      "choices": [
+        "Importing non-native plant species",
+        "Ignoring traditional knowledge",
+        "Using only high-tech solutions",
+        "Integration of traditional knowledge"
+      ],
+      "answer": "Integration of traditional knowledge"
+    },
+    {
+      "question": "What is the purpose of a coastal vulnerability assessment?",
+      "choices": [
+        "To determine the best locations for new coastal developments",
+        "To identify areas at highest risk from sea level rise and coastal hazards",
+        "To plan for offshore oil drilling",
+        "To design new fishing techniques"
+      ],
+      "answer": "To identify areas at highest risk from sea level rise and coastal hazards"
+    },
+    {
+      "question": "Which country implemented a national greenbelt program establishing protective mangrove forests?",
+      "choices": [
+        "Indonesia",
+        "Malaysia",
+        "Thailand",
+        "Philippines"
+      ],
+      "answer": "Philippines"
+    },
+    {
+      "question": "What is the main advantage of green infrastructure over traditional 'gray' infrastructure for coastal protection?",
+      "choices": [
+        "It's always cheaper to construct",
+        "It provides additional ecosystem services",
+        "It lasts longer without maintenance",
+        "It's more effective in extreme weather events"
+      ],
+      "answer": "It provides additional ecosystem services"
+    },
+    {
+      "question": "Which of the following is an example of a living shoreline technique?",
+      "choices": [
+        "Concrete seawall construction",
+        "Beach nourishment with vegetation planting",
+        "Offshore oil platform installation",
+        "Dredging of coastal waters"
+      ],
+      "answer": "Beach nourishment with vegetation planting"
+    },
+    {
+      "question": "What is the term for the abnormal rise in seawater level during a storm?",
+      "choices": [
+        "Tidal surge",
+        "Wave run-up",
+        "Storm surge",
+        "Coastal uplift"
+      ],
+      "answer": "Storm surge"
+    },
+    {
+      "question": "Which of the following is a benefit of coastal wetland restoration?",
+      "choices": [
+        "Increased coastal erosion",
+        "Reduced biodiversity",
+        "Improved water quality",
+        "Higher storm surge"
+      ],
+      "answer": "Improved water quality"
+    },
+    {
+      "question": "What technique was used in Vietnam's Mekong Delta to protect coastal communities?",
+      "choices": [
+        "Construction of concrete seawalls",
+        "Installation of offshore breakwaters",
+        "Mangrove restoration combined with earthen dikes",
+        "Building of elevated coastal highways"
+      ],
+      "answer": "Mangrove restoration combined with earthen dikes"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential co-benefit of coastal green infrastructure projects?",
+      "choices": [
+        "Support for local livelihoods",
+        "Carbon sequestration",
+        "Habitat provision for wildlife",
+        "Increased coastal land for development"
+      ],
+      "answer": "Increased coastal land for development"
+    },
+    {
+      "question": "What is the primary challenge in implementing living shorelines or coastal wetland restoration projects in Timor-Leste?",
+      "choices": [
+        "Lack of suitable coastal areas",
+        "Absence of native plant species",
+        "Limited community interest",
+        "Adapting techniques to local environmental conditions"
+      ],
+      "answer": "Adapting techniques to local environmental conditions"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'green-gray infrastructure integration'?",
+      "choices": [
+        "Replacing all gray infrastructure with green solutions",
+        "Painting gray infrastructure green",
+        "Combining nature-based solutions with conventional engineering",
+        "Using only eco-friendly materials in construction"
+      ],
+      "answer": "Combining nature-based solutions with conventional engineering"
+    },
+    {
+      "question": "What role does community engagement play in coastal green infrastructure projects?",
+      "choices": [
+        "It's unnecessary for project success",
+        "It only involves informing communities about the project",
+        "It's crucial for long-term project success and maintenance",
+        "It's only important for funding purposes"
+      ],
+      "answer": "It's crucial for long-term project success and maintenance"
+    },
+    {
+      "question": "Which of the following is a key consideration when selecting plant species for coastal green infrastructure in Timor-Leste?",
+      "choices": [
+        "Using fast-growing non-native species",
+        "Selecting plants based on aesthetic appeal only",
+        "Choosing species that require minimal water",
+        "Using native species adapted to local conditions"
+      ],
+      "answer": "Using native species adapted to local conditions"
+    },
+    {
+      "question": "What is the primary goal of integrating traditional knowledge into coastal protection strategies?",
+      "choices": [
+        "To replace modern scientific approaches",
+        "To reduce project costs",
+        "To enhance project effectiveness and community acceptance",
+        "To simplify project design"
+      ],
+      "answer": "To enhance project effectiveness and community acceptance"
+    },
+    {
+      "question": "Which of the following is NOT a step in developing a coastal resilience strategy as outlined in the writing exercise?",
+      "choices": [
+        "Conducting a vulnerability assessment",
+        "Proposing specific green infrastructure interventions",
+        "Outlining implementation considerations",
+        "Designing new coastal development plans"
+      ],
+      "answer": "Designing new coastal development plans"
+    }
+  ]
+}

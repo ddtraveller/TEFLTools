@@ -1,0 +1,305 @@
+{
+  "title": "Dietary Interventions for Mental Health Disorders in Timor-Leste",
+  "questions": [
+    {
+      "question": "Which diet has been associated with reduced risk of depression?",
+      "choices": [
+        "Ketogenic diet",
+        "Mediterranean diet",
+        "Atkins diet",
+        "Paleo diet"
+      ],
+      "answer": "Mediterranean diet"
+    },
+    {
+      "question": "What is the primary characteristic of the Mediterranean diet?",
+      "choices": [
+        "High consumption of red meat",
+        "Low intake of fruits and vegetables",
+        "High consumption of fruits, vegetables, whole grains, and healthy fats",
+        "Elimination of all carbohydrates"
+      ],
+      "answer": "High consumption of fruits, vegetables, whole grains, and healthy fats"
+    },
+    {
+      "question": "Which dietary approach has shown efficacy in reducing anxiety symptoms related to IBS?",
+      "choices": [
+        "High-protein diet",
+        "Low-carb diet",
+        "Low FODMAP diet",
+        "Gluten-free diet"
+      ],
+      "answer": "Low FODMAP diet"
+    },
+    {
+      "question": "What does FODMAP stand for?",
+      "choices": [
+        "Fats, Oils, Dairy, Meats, And Proteins",
+        "Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols",
+        "Fiber, Omega-3, Dairy, Minerals, And Probiotics",
+        "Food Optimized Diet for Metabolic And Psychiatric health"
+      ],
+      "answer": "Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols"
+    },
+    {
+      "question": "Which nutrient supplementation has shown promise for bipolar disorder?",
+      "choices": [
+        "Vitamin C",
+        "Iron",
+        "Omega-3 fatty acids",
+        "Calcium"
+      ],
+      "answer": "Omega-3 fatty acids"
+    },
+    {
+      "question": "Which traditional Timorese food is rich in folate?",
+      "choices": [
+        "Coconut",
+        "Papaya",
+        "Taro leaves",
+        "Rice"
+      ],
+      "answer": "Taro leaves"
+    },
+    {
+      "question": "What is the primary benefit of folate for mental health?",
+      "choices": [
+        "It improves sleep quality",
+        "It is crucial for neurotransmitter synthesis",
+        "It reduces inflammation in the brain",
+        "It increases serotonin production"
+      ],
+      "answer": "It is crucial for neurotransmitter synthesis"
+    },
+    {
+      "question": "Which nutrient in coconut may provide an alternative energy source for the brain?",
+      "choices": [
+        "Protein",
+        "Fiber",
+        "Medium-chain triglycerides",
+        "Vitamin D"
+      ],
+      "answer": "Medium-chain triglycerides"
+    },
+    {
+      "question": "What is a major challenge in implementing dietary interventions in Timor-Leste?",
+      "choices": [
+        "Overabundance of food choices",
+        "Limited access to certain foods",
+        "Lack of traditional cuisine",
+        "Excessive consumption of vegetables"
+      ],
+      "answer": "Limited access to certain foods"
+    },
+    {
+      "question": "Which initiative could increase access to fresh produce in Timor-Leste?",
+      "choices": [
+        "Building more supermarkets",
+        "Importing more foreign foods",
+        "Community gardens",
+        "Increasing meat consumption"
+      ],
+      "answer": "Community gardens"
+    },
+    {
+      "question": "What is a potential benefit of papaya for mental health?",
+      "choices": [
+        "High protein content",
+        "Rich in omega-3 fatty acids",
+        "High in antioxidants",
+        "Contains caffeine"
+      ],
+      "answer": "High in antioxidants"
+    },
+    {
+      "question": "Which factor may influence the acceptability of dietary changes in Timor-Leste?",
+      "choices": [
+        "Lack of traditional foods",
+        "Cultural food preferences",
+        "Abundance of imported foods",
+        "High rates of obesity"
+      ],
+      "answer": "Cultural food preferences"
+    },
+    {
+      "question": "What is a key consideration when developing dietary intervention plans for Timorese populations?",
+      "choices": [
+        "Eliminating all traditional foods",
+        "Focusing solely on imported foods",
+        "Incorporating evidence-based recommendations while respecting local food traditions",
+        "Promoting a strictly Western diet"
+      ],
+      "answer": "Incorporating evidence-based recommendations while respecting local food traditions"
+    },
+    {
+      "question": "Which approach is recommended when counseling Timorese patients on dietary changes?",
+      "choices": [
+        "Emphasizing drastic, immediate changes",
+        "Ignoring cultural beliefs",
+        "Recommending only expensive, imported foods",
+        "Emphasizing small, achievable changes"
+      ],
+      "answer": "Emphasizing small, achievable changes"
+    },
+    {
+      "question": "What is a potential barrier to implementing a low FODMAP diet in Timor-Leste?",
+      "choices": [
+        "Overabundance of low FODMAP foods",
+        "Limited variety in the traditional diet",
+        "Lack of carbohydrates in the typical diet",
+        "High consumption of processed foods"
+      ],
+      "answer": "Limited variety in the traditional diet"
+    },
+    {
+      "question": "Which nutrient in fish is particularly beneficial for mental health?",
+      "choices": [
+        "Vitamin C",
+        "Iron",
+        "Omega-3 fatty acids",
+        "Calcium"
+      ],
+      "answer": "Omega-3 fatty acids"
+    },
+    {
+      "question": "What is a potential challenge in promoting omega-3 consumption in Timor-Leste?",
+      "choices": [
+        "Overabundance of fish",
+        "Cultural taboos against eating fish",
+        "Limited access to fish in some areas",
+        "High cost of plant-based omega-3 sources"
+      ],
+      "answer": "Limited access to fish in some areas"
+    },
+    {
+      "question": "Which strategy could help integrate dietary interventions into mental health treatment in Timor-Leste?",
+      "choices": [
+        "Eliminating all traditional medical practices",
+        "Focusing solely on medication-based treatments",
+        "Training healthcare workers in nutritional psychiatry principles",
+        "Discouraging patients from discussing diet with healthcare providers"
+      ],
+      "answer": "Training healthcare workers in nutritional psychiatry principles"
+    },
+    {
+      "question": "What is a potential benefit of community gardens in Timor-Leste?",
+      "choices": [
+        "Increased reliance on imported foods",
+        "Reduced dietary diversity",
+        "Promotion of dietary diversity",
+        "Elimination of traditional farming practices"
+      ],
+      "answer": "Promotion of dietary diversity"
+    },
+    {
+      "question": "Which factor may contribute to the effectiveness of the Mediterranean diet for mental health?",
+      "choices": [
+        "High saturated fat content",
+        "Low fiber content",
+        "Anti-inflammatory effects",
+        "High sugar content"
+      ],
+      "answer": "Anti-inflammatory effects"
+    },
+    {
+      "question": "What is a potential benefit of taro leaves for mental health?",
+      "choices": [
+        "High caffeine content",
+        "Rich source of vitamin B12",
+        "High in saturated fat",
+        "Good source of folate"
+      ],
+      "answer": "Good source of folate"
+    },
+    {
+      "question": "Which approach is recommended when designing meal plans for Timorese patients with mental health disorders?",
+      "choices": [
+        "Completely replacing traditional dishes with Western foods",
+        "Ignoring nutritional content in favor of taste preferences",
+        "Modifying traditional dishes to increase nutrient density",
+        "Eliminating all carbohydrates from the diet"
+      ],
+      "answer": "Modifying traditional dishes to increase nutrient density"
+    },
+    {
+      "question": "What is a potential challenge in implementing dietary interventions for mental health in Timor-Leste?",
+      "choices": [
+        "Overabundance of mental health professionals",
+        "Lack of cultural stigma surrounding mental illness",
+        "Limited access to mental health services",
+        "High rates of nutrition education"
+      ],
+      "answer": "Limited access to mental health services"
+    },
+    {
+      "question": "Which nutrient in papaya may help reduce oxidative stress associated with mental health disorders?",
+      "choices": [
+        "Protein",
+        "Saturated fat",
+        "Antioxidants",
+        "Sodium"
+      ],
+      "answer": "Antioxidants"
+    },
+    {
+      "question": "What is a potential benefit of incorporating traditional Timorese foods into dietary interventions for mental health?",
+      "choices": [
+        "Increased reliance on imported foods",
+        "Reduced cultural acceptability",
+        "Improved adherence to dietary recommendations",
+        "Elimination of all traditional dietary practices"
+      ],
+      "answer": "Improved adherence to dietary recommendations"
+    },
+    {
+      "question": "Which factor should be considered when recommending omega-3 supplementation in Timor-Leste?",
+      "choices": [
+        "Universal availability of fish oil supplements",
+        "Cultural preferences for high doses of supplements",
+        "Potential limited access to supplements",
+        "High consumption of fatty fish in all regions"
+      ],
+      "answer": "Potential limited access to supplements"
+    },
+    {
+      "question": "What is a potential benefit of nutrition education programs in Timor-Leste?",
+      "choices": [
+        "Increased reliance on processed foods",
+        "Reduced awareness of traditional foods",
+        "Improved understanding of the diet-mental health connection",
+        "Promotion of restrictive dieting practices"
+      ],
+      "answer": "Improved understanding of the diet-mental health connection"
+    },
+    {
+      "question": "Which approach is recommended when addressing cultural beliefs about food and mental health in Timor-Leste?",
+      "choices": [
+        "Dismissing all traditional beliefs",
+        "Ignoring cultural context in dietary recommendations",
+        "Integrating evidence-based practices with respect for traditional beliefs",
+        "Promoting only Western nutritional concepts"
+      ],
+      "answer": "Integrating evidence-based practices with respect for traditional beliefs"
+    },
+    {
+      "question": "What is a potential challenge in promoting increased vegetable consumption in Timor-Leste?",
+      "choices": [
+        "Overabundance of vegetables",
+        "Cultural taboos against eating vegetables",
+        "Seasonal availability of certain vegetables",
+        "High cost of imported vegetables"
+      ],
+      "answer": "Seasonal availability of certain vegetables"
+    },
+    {
+      "question": "Which strategy could help improve the sustainability of dietary interventions in Timor-Leste?",
+      "choices": [
+        "Relying solely on imported foods",
+        "Ignoring local agricultural practices",
+        "Promoting monoculture farming",
+        "Encouraging cultivation of diverse, nutrient-rich local crops"
+      ],
+      "answer": "Encouraging cultivation of diverse, nutrient-rich local crops"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Culture Initiation and Maintenance",
+  "questions": [
+    {
+      "question": "What is the primary purpose of culture initiation in plant tissue culture?",
+      "choices": [
+        "To sterilize plant material",
+        "To establish plant tissues in artificial growth media",
+        "To analyze plant DNA",
+        "To create hybrid plants"
+      ],
+      "answer": "To establish plant tissues in artificial growth media"
+    },
+    {
+      "question": "What are small pieces of plant tissue used to start a culture called?",
+      "choices": [
+        "Cultures",
+        "Seedlings",
+        "Explants",
+        "Inoculants"
+      ],
+      "answer": "Explants"
+    },
+    {
+      "question": "Which of the following is NOT a common source of explants?",
+      "choices": [
+        "Leaves",
+        "Stems",
+        "Meristems",
+        "Roots"
+      ],
+      "answer": "Roots"
+    },
+    {
+      "question": "What is the most critical aspect of culture initiation?",
+      "choices": [
+        "Selecting the right growth medium",
+        "Maintaining aseptic conditions",
+        "Controlling temperature",
+        "Choosing the correct plant species"
+      ],
+      "answer": "Maintaining aseptic conditions"
+    },
+    {
+      "question": "What percentage of ethanol is typically used to sterilize tools and work surfaces in plant tissue culture?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "answer": "70%"
+    },
+    {
+      "question": "What equipment provides a sterile environment by continuously filtering the air?",
+      "choices": [
+        "Autoclave",
+        "Incubator",
+        "Laminar flow hood",
+        "Centrifuge"
+      ],
+      "answer": "Laminar flow hood"
+    },
+    {
+      "question": "Which of the following is NOT a key environmental factor in culture maintenance?",
+      "choices": [
+        "Temperature",
+        "Light",
+        "Humidity",
+        "Gravity"
+      ],
+      "answer": "Gravity"
+    },
+    {
+      "question": "What is the term for the duration of light exposure in a 24-hour cycle?",
+      "choices": [
+        "Photosynthesis",
+        "Photoperiod",
+        "Phototropism",
+        "Photomorphogenesis"
+      ],
+      "answer": "Photoperiod"
+    },
+    {
+      "question": "What is the process of transferring some or all of a culture to fresh medium called?",
+      "choices": [
+        "Subculturing",
+        "Transplanting",
+        "Inoculation",
+        "Propagation"
+      ],
+      "answer": "Subculturing"
+    },
+    {
+      "question": "Why is subculturing necessary in plant tissue culture?",
+      "choices": [
+        "To introduce genetic variations",
+        "To eliminate contamination",
+        "To replenish nutrients and provide space for growth",
+        "To induce flowering"
+      ],
+      "answer": "To replenish nutrients and provide space for growth"
+    },
+    {
+      "question": "What is a common sign of healthy growth in plant tissue cultures?",
+      "choices": [
+        "Browning of tissues",
+        "Slow growth rate",
+        "Color changes or increases in size",
+        "Wilting of leaves"
+      ],
+      "answer": "Color changes or increases in size"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of plant growth media?",
+      "choices": [
+        "Macronutrients",
+        "Micronutrients",
+        "Vitamins",
+        "Antibiotics"
+      ],
+      "answer": "Antibiotics"
+    },
+    {
+      "question": "What is the purpose of adding agar to plant tissue culture media?",
+      "choices": [
+        "To provide nutrients",
+        "To solidify the medium",
+        "To prevent contamination",
+        "To regulate pH"
+      ],
+      "answer": "To solidify the medium"
+    },
+    {
+      "question": "What type of lighting is commonly used in plant tissue culture growth chambers?",
+      "choices": [
+        "Incandescent bulbs",
+        "Fluorescent or LED lights",
+        "Natural sunlight",
+        "Infrared lamps"
+      ],
+      "answer": "Fluorescent or LED lights"
+    },
+    {
+      "question": "What is the typical temperature range for most plant tissue cultures?",
+      "choices": [
+        "15-20°C",
+        "22-28°C",
+        "30-35°C",
+        "37-40°C"
+      ],
+      "answer": "22-28°C"
+    },
+    {
+      "question": "What problem can excess humidity cause in plant tissue cultures?",
+      "choices": [
+        "Dehydration",
+        "Nutrient deficiency",
+        "Hyperhydricity",
+        "Slow growth"
+      ],
+      "answer": "Hyperhydricity"
+    },
+    {
+      "question": "What is the purpose of using plant growth regulators in tissue culture media?",
+      "choices": [
+        "To prevent contamination",
+        "To control plant growth and development",
+        "To provide essential nutrients",
+        "To adjust media pH"
+      ],
+      "answer": "To control plant growth and development"
+    },
+    {
+      "question": "Which of the following is NOT a common plant growth regulator used in tissue culture?",
+      "choices": [
+        "Auxins",
+        "Cytokinins",
+        "Gibberellins",
+        "Antibiotics"
+      ],
+      "answer": "Antibiotics"
+    },
+    {
+      "question": "What is the primary purpose of using sterile forceps or scalpels during culture initiation?",
+      "choices": [
+        "To cut the explant into smaller pieces",
+        "To measure the explant size",
+        "To transfer explants without introducing contaminants",
+        "To test the explant's viability"
+      ],
+      "answer": "To transfer explants without introducing contaminants"
+    },
+    {
+      "question": "What does PPM stand for in the context of plant tissue culture?",
+      "choices": [
+        "Plant Protection Medium",
+        "Plant Propagation Method",
+        "Plant Preservative Mixture",
+        "Photosynthetic Potential Measurement"
+      ],
+      "answer": "Plant Preservative Mixture"
+    },
+    {
+      "question": "What is the main purpose of using a growth chamber in plant tissue culture?",
+      "choices": [
+        "To sterilize equipment",
+        "To control environmental conditions",
+        "To store culture media",
+        "To observe cultures under a microscope"
+      ],
+      "answer": "To control environmental conditions"
+    },
+    {
+      "question": "What is the term for undesired changes in the genetic makeup of cultured plants?",
+      "choices": [
+        "Somaclonal variation",
+        "Genetic drift",
+        "Mutation",
+        "Hybridization"
+      ],
+      "answer": "Somaclonal variation"
+    },
+    {
+      "question": "Which plant part is often preferred for initiating cultures to maintain genetic stability?",
+      "choices": [
+        "Mature leaves",
+        "Flower petals",
+        "Shoot tips or meristems",
+        "Root segments"
+      ],
+      "answer": "Shoot tips or meristems"
+    },
+    {
+      "question": "What is the primary reason for labeling cultures with date and generation number?",
+      "choices": [
+        "To impress visitors to the lab",
+        "To track the age and lineage of cultures",
+        "To comply with government regulations",
+        "To determine the optimal harvest time"
+      ],
+      "answer": "To track the age and lineage of cultures"
+    },
+    {
+      "question": "What does the yellowing or browning of a culture often indicate?",
+      "choices": [
+        "Healthy growth",
+        "Need for subculturing",
+        "Contamination",
+        "Successful rooting"
+      ],
+      "answer": "Need for subculturing"
+    },
+    {
+      "question": "What is the purpose of using vented lids or breathable films on culture vessels?",
+      "choices": [
+        "To allow for proper gas exchange",
+        "To prevent contamination",
+        "To regulate temperature",
+        "To block out light"
+      ],
+      "answer": "To allow for proper gas exchange"
+    },
+    {
+      "question": "What is the typical frequency for subculturing most plant tissue cultures?",
+      "choices": [
+        "Every 1-2 days",
+        "Every week",
+        "Every 4-6 weeks",
+        "Every 3-4 months"
+      ],
+      "answer": "Every 4-6 weeks"
+    },
+    {
+      "question": "What is the main purpose of adding activated charcoal to some culture media?",
+      "choices": [
+        "To provide nutrients",
+        "To absorb harmful compounds",
+        "To increase media pH",
+        "To promote rooting"
+      ],
+      "answer": "To absorb harmful compounds"
+    },
+    {
+      "question": "What technique is used to rapidly multiply shoot cultures?",
+      "choices": [
+        "Embryogenesis",
+        "Callus induction",
+        "Micropropagation",
+        "Protoplast fusion"
+      ],
+      "answer": "Micropropagation"
+    },
+    {
+      "question": "What is the primary advantage of using liquid media for plant tissue culture?",
+      "choices": [
+        "Easier to prepare",
+        "Faster growth rates",
+        "Lower risk of contamination",
+        "Better for long-term storage"
+      ],
+      "answer": "Faster growth rates"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Ibn Arabi and Sufi Metaphysics",
+  "questions": [
+    {
+      "question": "In which year was Ibn Arabi born?",
+      "choices": [
+        "1150 CE",
+        "1165 CE",
+        "1180 CE",
+        "1195 CE"
+      ],
+      "answer": "1165 CE"
+    },
+    {
+      "question": "Where was Ibn Arabi born?",
+      "choices": [
+        "Damascus",
+        "Cairo",
+        "Murcia",
+        "Baghdad"
+      ],
+      "answer": "Murcia"
+    },
+    {
+      "question": "What is the Arabic term for the Unity of Being in Ibn Arabi's philosophy?",
+      "choices": [
+        "Tawhid",
+        "Tajalli",
+        "Wahdat al-Wujud",
+        "Fana"
+      ],
+      "answer": "Wahdat al-Wujud"
+    },
+    {
+      "question": "Which of the following is NOT one of Ibn Arabi's most famous works?",
+      "choices": [
+        "Fusus al-Hikam",
+        "Al-Futuhat al-Makkiyya",
+        "Kitab al-Tawasin",
+        "The Meccan Revelations"
+      ],
+      "answer": "Kitab al-Tawasin"
+    },
+    {
+      "question": "What does the concept of 'tajalli' refer to in Ibn Arabi's philosophy?",
+      "choices": [
+        "Divine punishment",
+        "Divine self-disclosure",
+        "Human perfection",
+        "Spiritual ascension"
+      ],
+      "answer": "Divine self-disclosure"
+    },
+    {
+      "question": "What is the term for the Perfect Human in Ibn Arabi's thought?",
+      "choices": [
+        "Al-Insan al-Kamil",
+        "Al-Qutb",
+        "Al-Wali",
+        "Al-Arif"
+      ],
+      "answer": "Al-Insan al-Kamil"
+    },
+    {
+      "question": "How many Divine Names are traditionally recognized in Islamic theology?",
+      "choices": [
+        "33",
+        "66",
+        "99",
+        "101"
+      ],
+      "answer": "99"
+    },
+    {
+      "question": "What is the Arabic term for 'imagination' in Ibn Arabi's philosophy?",
+      "choices": [
+        "Fikr",
+        "Khayal",
+        "Wahm",
+        "Tasawwur"
+      ],
+      "answer": "Khayal"
+    },
+    {
+      "question": "Which concept refers to the intermediate realm between the spiritual and material worlds?",
+      "choices": [
+        "Barzakh",
+        "Malakut",
+        "Jabarut",
+        "Alam al-Mithal"
+      ],
+      "answer": "Barzakh"
+    },
+    {
+      "question": "In which city did Ibn Arabi spend his final years and pass away?",
+      "choices": [
+        "Mecca",
+        "Medina",
+        "Cairo",
+        "Damascus"
+      ],
+      "answer": "Damascus"
+    },
+    {
+      "question": "What philosophical tradition influenced Islamic thought during Ibn Arabi's time?",
+      "choices": [
+        "Aristotelianism",
+        "Stoicism",
+        "Neoplatonism",
+        "Epicureanism"
+      ],
+      "answer": "Neoplatonism"
+    },
+    {
+      "question": "What is the term for the annihilation of the ego in the Divine in Sufi philosophy?",
+      "choices": [
+        "Baqa",
+        "Fana",
+        "Tajalli",
+        "Shirk"
+      ],
+      "answer": "Fana"
+    },
+    {
+      "question": "Which of the following best describes Ibn Arabi's concept of the relationship between God and creation?",
+      "choices": [
+        "Strict dualism",
+        "Pantheism",
+        "Deism",
+        "Non-dualistic manifestation"
+      ],
+      "answer": "Non-dualistic manifestation"
+    },
+    {
+      "question": "What is the primary focus of the work 'Fusus al-Hikam'?",
+      "choices": [
+        "Islamic law",
+        "Prophetic wisdom",
+        "Political theory",
+        "Cosmology"
+      ],
+      "answer": "Prophetic wisdom"
+    },
+    {
+      "question": "Which term refers to spiritual blessing or power in Sufi tradition?",
+      "choices": [
+        "Karamat",
+        "Baraka",
+        "Wilayah",
+        "Tawakkul"
+      ],
+      "answer": "Baraka"
+    },
+    {
+      "question": "What does the concept of 'perpetual creation' in Ibn Arabi's thought suggest?",
+      "choices": [
+        "The universe is static",
+        "Creation happened only once",
+        "The universe is constantly being renewed",
+        "Time is an illusion"
+      ],
+      "answer": "The universe is constantly being renewed"
+    },
+    {
+      "question": "Which Hindu philosophy bears similarities to Ibn Arabi's Wahdat al-Wujud?",
+      "choices": [
+        "Dvaita",
+        "Vishishtadvaita",
+        "Advaita Vedanta",
+        "Samkhya"
+      ],
+      "answer": "Advaita Vedanta"
+    },
+    {
+      "question": "What is the primary criticism of Ibn Arabi's philosophy by orthodox Islamic scholars?",
+      "choices": [
+        "It's too complex",
+        "It contradicts the Quran",
+        "It resembles pantheism",
+        "It ignores Islamic law"
+      ],
+      "answer": "It resembles pantheism"
+    },
+    {
+      "question": "What does Ibn Arabi mean by the 'Unity of Being'?",
+      "choices": [
+        "All religions are the same",
+        "All existence is a manifestation of the Divine",
+        "All humans are spiritually equal",
+        "The universe is made of one substance"
+      ],
+      "answer": "All existence is a manifestation of the Divine"
+    },
+    {
+      "question": "Which of the following best describes the role of the Perfect Human in Ibn Arabi's philosophy?",
+      "choices": [
+        "To rule over others",
+        "To bridge the Divine and creation",
+        "To perform miracles",
+        "To interpret religious law"
+      ],
+      "answer": "To bridge the Divine and creation"
+    },
+    {
+      "question": "What is the significance of the Divine Names in Ibn Arabi's metaphysics?",
+      "choices": [
+        "They are merely descriptive labels",
+        "They are cosmic realities through which God manifests",
+        "They are secret passwords for spiritual advancement",
+        "They are historical titles of prophets"
+      ],
+      "answer": "They are cosmic realities through which God manifests"
+    },
+    {
+      "question": "How does Ibn Arabi view the relationship between unity and multiplicity?",
+      "choices": [
+        "They are irreconcilable opposites",
+        "Unity is real, multiplicity is illusion",
+        "Multiplicity is real, unity is illusion",
+        "They are complementary aspects of reality"
+      ],
+      "answer": "They are complementary aspects of reality"
+    },
+    {
+      "question": "What is the term for the spiritual axis or pole of the age in Sufi thought?",
+      "choices": [
+        "Wali",
+        "Qutb",
+        "Shaykh",
+        "Murshid"
+      ],
+      "answer": "Qutb"
+    },
+    {
+      "question": "How does Ibn Arabi's concept of imagination differ from the common understanding?",
+      "choices": [
+        "It's purely mental",
+        "It's a form of escapism",
+        "It's a creative power bridging realms",
+        "It's a type of memory"
+      ],
+      "answer": "It's a creative power bridging realms"
+    },
+    {
+      "question": "What is the significance of the 'barzakh' in Ibn Arabi's cosmology?",
+      "choices": [
+        "It's the highest heaven",
+        "It's the lowest hell",
+        "It's an intermediate realm",
+        "It's the physical universe"
+      ],
+      "answer": "It's an intermediate realm"
+    },
+    {
+      "question": "Which of the following best describes Ibn Arabi's approach to religious diversity?",
+      "choices": [
+        "Only Islam is true",
+        "All religions are equally valid",
+        "Different religions reflect different divine aspects",
+        "Religious diversity is an illusion"
+      ],
+      "answer": "Different religions reflect different divine aspects"
+    },
+    {
+      "question": "What is the primary goal of the spiritual path according to Ibn Arabi?",
+      "choices": [
+        "Accumulating good deeds",
+        "Achieving worldly success",
+        "Realizing one's divine nature",
+        "Escaping the cycle of rebirth"
+      ],
+      "answer": "Realizing one's divine nature"
+    },
+    {
+      "question": "How does Ibn Arabi view the relationship between essence and form?",
+      "choices": [
+        "Essence is real, form is illusion",
+        "Form is real, essence is illusion",
+        "Essence and form are separate realities",
+        "Essence manifests through diverse forms"
+      ],
+      "answer": "Essence manifests through diverse forms"
+    },
+    {
+      "question": "What is the significance of prophets in Ibn Arabi's concept of the Perfect Human?",
+      "choices": [
+        "They are divine incarnations",
+        "They are exemplars of human perfection",
+        "They are supernatural beings",
+        "They are purely historical figures"
+      ],
+      "answer": "They are exemplars of human perfection"
+    },
+    {
+      "question": "How does Ibn Arabi's philosophy contribute to interfaith dialogue?",
+      "choices": [
+        "By proving Islam's superiority",
+        "By rejecting other religions",
+        "By finding common ground in mystical experiences",
+        "By promoting religious conversion"
+      ],
+      "answer": "By finding common ground in mystical experiences"
+    }
+  ]
+}

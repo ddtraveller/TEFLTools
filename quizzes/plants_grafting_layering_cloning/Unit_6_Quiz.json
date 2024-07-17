@@ -1,0 +1,305 @@
+{
+  "title": "Nursery Management for Propagation",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a mist system in a nursery?",
+      "choices": [
+        "To water mature plants",
+        "To maintain high humidity levels for cuttings or seedlings",
+        "To control pests",
+        "To regulate temperature"
+      ],
+      "answer": "To maintain high humidity levels for cuttings or seedlings"
+    },
+    {
+      "question": "Which of the following is NOT typically considered essential infrastructure in a nursery layout?",
+      "choices": [
+        "Irrigation systems",
+        "Shade structures",
+        "Work areas",
+        "Retail display area"
+      ],
+      "answer": "Retail display area"
+    },
+    {
+      "question": "What is the purpose of 'hardening off' plants in a nursery?",
+      "choices": [
+        "To increase plant size",
+        "To improve fruit production",
+        "To gradually expose plants to outdoor conditions",
+        "To eliminate weak plants"
+      ],
+      "answer": "To gradually expose plants to outdoor conditions"
+    },
+    {
+      "question": "Which pest management approach emphasizes the use of multiple strategies to minimize chemical interventions?",
+      "choices": [
+        "Chemical control",
+        "Biological warfare",
+        "Integrated Pest Management (IPM)",
+        "Crop rotation"
+      ],
+      "answer": "Integrated Pest Management (IPM)"
+    },
+    {
+      "question": "What is a humidity chamber used for in a nursery?",
+      "choices": [
+        "Storing tools",
+        "Creating a high-humidity environment for sensitive plants",
+        "Drying seeds",
+        "Composting plant waste"
+      ],
+      "answer": "Creating a high-humidity environment for sensitive plants"
+    },
+    {
+      "question": "Which of the following is a key consideration when designing a nursery layout?",
+      "choices": [
+        "Maximizing sun exposure for all plants",
+        "Creating a maze-like structure for visitors",
+        "Ensuring proper drainage and air circulation",
+        "Minimizing water availability"
+      ],
+      "answer": "Ensuring proper drainage and air circulation"
+    },
+    {
+      "question": "What is the primary difference between commercial and conservation nurseries in terms of layout?",
+      "choices": [
+        "Commercial nurseries focus on efficiency, while conservation nurseries prioritize species diversity",
+        "Conservation nurseries are always larger than commercial nurseries",
+        "Commercial nurseries only use artificial lighting",
+        "Conservation nurseries do not require irrigation systems"
+      ],
+      "answer": "Commercial nurseries focus on efficiency, while conservation nurseries prioritize species diversity"
+    },
+    {
+      "question": "Which of the following is NOT a common method of fertilization in a nursery setting?",
+      "choices": [
+        "Slow-release granular fertilizers",
+        "Liquid fertilizers",
+        "Foliar feeding",
+        "Deep soil injection"
+      ],
+      "answer": "Deep soil injection"
+    },
+    {
+      "question": "What is the main purpose of creating microclimates within a nursery?",
+      "choices": [
+        "To confuse pests",
+        "To create varied environments for different plant needs",
+        "To reduce overall energy costs",
+        "To impress visitors"
+      ],
+      "answer": "To create varied environments for different plant needs"
+    },
+    {
+      "question": "Which of the following is a key component of Integrated Pest Management (IPM)?",
+      "choices": [
+        "Exclusive use of chemical pesticides",
+        "Ignoring minor pest issues",
+        "Regular monitoring and identification of pests",
+        "Eliminating all insects from the nursery"
+      ],
+      "answer": "Regular monitoring and identification of pests"
+    },
+    {
+      "question": "What is the primary purpose of a drip irrigation system in a nursery?",
+      "choices": [
+        "To create a humid environment",
+        "To conserve water by delivering it directly to plant roots",
+        "To cool the air temperature",
+        "To apply fertilizers"
+      ],
+      "answer": "To conserve water by delivering it directly to plant roots"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in the hardening off process?",
+      "choices": [
+        "Gradual exposure to direct sunlight",
+        "Reduction in watering frequency",
+        "Exposure to temperature fluctuations",
+        "Application of growth hormones"
+      ],
+      "answer": "Application of growth hormones"
+    },
+    {
+      "question": "What is the main advantage of using beneficial insects for pest control in a nursery?",
+      "choices": [
+        "They are cheaper than chemical pesticides",
+        "They provide natural, targeted pest control without harmful chemicals",
+        "They work faster than other methods",
+        "They eliminate the need for monitoring"
+      ],
+      "answer": "They provide natural, targeted pest control without harmful chemicals"
+    },
+    {
+      "question": "Which of the following is a common challenge in maintaining optimal temperature and humidity levels in a nursery in Timor Leste?",
+      "choices": [
+        "Extreme cold",
+        "High humidity and heat",
+        "Lack of water resources",
+        "Constant snowfall"
+      ],
+      "answer": "High humidity and heat"
+    },
+    {
+      "question": "What is the primary purpose of a shade structure in a nursery?",
+      "choices": [
+        "To block all sunlight",
+        "To protect sensitive plants from excessive sunlight",
+        "To increase humidity",
+        "To support climbing plants"
+      ],
+      "answer": "To protect sensitive plants from excessive sunlight"
+    },
+    {
+      "question": "Which of the following is NOT a typical consideration when selecting rootstock for grafting in Timor Leste?",
+      "choices": [
+        "Disease resistance",
+        "Drought tolerance",
+        "Cold hardiness",
+        "Compatibility with local soil types"
+      ],
+      "answer": "Cold hardiness"
+    },
+    {
+      "question": "What is the main purpose of air circulation in a nursery?",
+      "choices": [
+        "To create wind-resistant plants",
+        "To reduce humidity and prevent fungal diseases",
+        "To distribute seeds",
+        "To keep workers cool"
+      ],
+      "answer": "To reduce humidity and prevent fungal diseases"
+    },
+    {
+      "question": "Which of the following is a key benefit of using slow-release fertilizers in a nursery?",
+      "choices": [
+        "They are cheaper than other fertilizers",
+        "They provide immediate nutrient boost",
+        "They offer consistent nutrition over time",
+        "They eliminate the need for soil testing"
+      ],
+      "answer": "They offer consistent nutrition over time"
+    },
+    {
+      "question": "What is the primary purpose of quarantine procedures for new plant material in a nursery?",
+      "choices": [
+        "To acclimate plants to the new environment",
+        "To increase plant growth rate",
+        "To prevent the introduction of pests or diseases",
+        "To sort plants by size"
+      ],
+      "answer": "To prevent the introduction of pests or diseases"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a nursery's pest management strategy?",
+      "choices": [
+        "Regular plant inspections",
+        "Use of beneficial insects",
+        "Proper plant spacing",
+        "Constant application of broad-spectrum pesticides"
+      ],
+      "answer": "Constant application of broad-spectrum pesticides"
+    },
+    {
+      "question": "What is the main advantage of using a mist system for propagation instead of manual watering?",
+      "choices": [
+        "It uses less water overall",
+        "It provides more consistent moisture levels",
+        "It's less expensive to install",
+        "It eliminates the need for humidity control"
+      ],
+      "answer": "It provides more consistent moisture levels"
+    },
+    {
+      "question": "Which of the following is a key consideration when designing a nursery layout for conservation purposes in Timor Leste?",
+      "choices": [
+        "Maximizing production of a single species",
+        "Creating separate zones for different ecosystems",
+        "Minimizing biodiversity",
+        "Focusing solely on ornamental plants"
+      ],
+      "answer": "Creating separate zones for different ecosystems"
+    },
+    {
+      "question": "What is the primary purpose of keeping nursery tools sterilized?",
+      "choices": [
+        "To make them look clean",
+        "To prevent rust",
+        "To prevent the spread of diseases between plants",
+        "To comply with aesthetic standards"
+      ],
+      "answer": "To prevent the spread of diseases between plants"
+    },
+    {
+      "question": "Which of the following is NOT a typical method for controlling temperature in a nursery?",
+      "choices": [
+        "Use of shade cloth",
+        "Evaporative cooling systems",
+        "Heating mats for root zones",
+        "Constant misting of leaves"
+      ],
+      "answer": "Constant misting of leaves"
+    },
+    {
+      "question": "What is the main purpose of creating a yearly calendar of nursery activities?",
+      "choices": [
+        "To plan vacation days for staff",
+        "To track plant growth rates",
+        "To organize and schedule key nursery operations",
+        "To predict weather patterns"
+      ],
+      "answer": "To organize and schedule key nursery operations"
+    },
+    {
+      "question": "Which of the following is a key consideration when developing a propagation protocol for endangered native species in Timor Leste?",
+      "choices": [
+        "Maximizing production speed",
+        "Using only non-native growing media",
+        "Preserving genetic diversity",
+        "Focusing on ornamental value"
+      ],
+      "answer": "Preserving genetic diversity"
+    },
+    {
+      "question": "What is the primary purpose of a basic budget in nursery management?",
+      "choices": [
+        "To impress investors",
+        "To plan for expenses and potential income",
+        "To determine plant prices",
+        "To calculate staff bonuses"
+      ],
+      "answer": "To plan for expenses and potential income"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a sustainable practice in nursery management?",
+      "choices": [
+        "Rainwater harvesting",
+        "Composting plant waste",
+        "Using only chemical pesticides",
+        "Implementing energy-efficient systems"
+      ],
+      "answer": "Using only chemical pesticides"
+    },
+    {
+      "question": "What is the main purpose of community engagement in a nursery project?",
+      "choices": [
+        "To provide free labor",
+        "To increase plant sales",
+        "To foster local support and environmental awareness",
+        "To comply with government regulations"
+      ],
+      "answer": "To foster local support and environmental awareness"
+    },
+    {
+      "question": "Which of the following is a key consideration when selecting native plant species for propagation in a Timor Leste nursery?",
+      "choices": [
+        "Choosing only fast-growing species",
+        "Focusing on species with the highest market value",
+        "Considering ecological roles and conservation needs",
+        "Selecting only plants with colorful flowers"
+      ],
+      "answer": "Considering ecological roles and conservation needs"
+    }
+  ]
+}

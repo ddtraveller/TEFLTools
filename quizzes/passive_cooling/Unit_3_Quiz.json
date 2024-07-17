@@ -1,0 +1,295 @@
+{
+  "title": "Evaporative Cooling Technologies",
+  "questions": [
+    {
+      "question": "What is the primary principle behind evaporative cooling?",
+      "choices": [
+        "Compression of air",
+        "Absorption of heat during water evaporation",
+        "Radiation of heat from surfaces",
+        "Conduction through solid materials"
+      ],
+      "answer": "Absorption of heat during water evaporation"
+    },
+    {
+      "question": "Which climate type is most suitable for direct evaporative cooling?",
+      "choices": [
+        "Hot and humid",
+        "Cold and dry",
+        "Hot and dry",
+        "Temperate and humid"
+      ],
+      "answer": "Hot and dry"
+    },
+    {
+      "question": "What is the wet-bulb temperature?",
+      "choices": [
+        "The highest temperature achievable through evaporative cooling",
+        "The lowest temperature achievable through evaporative cooling",
+        "The average temperature of water used in cooling",
+        "The temperature at which water boils in a given climate"
+      ],
+      "answer": "The lowest temperature achievable through evaporative cooling"
+    },
+    {
+      "question": "What is the main difference between direct and indirect evaporative cooling?",
+      "choices": [
+        "Direct cooling uses water, while indirect uses refrigerants",
+        "Direct cooling adds moisture to the air, while indirect does not",
+        "Direct cooling is more energy-efficient than indirect",
+        "Indirect cooling is only suitable for industrial applications"
+      ],
+      "answer": "Direct cooling adds moisture to the air, while indirect does not"
+    },
+    {
+      "question": "Which of the following is NOT a common application of evaporative cooling?",
+      "choices": [
+        "Residential air conditioning",
+        "Industrial process cooling",
+        "Greenhouse climate control",
+        "Refrigeration in supermarkets"
+      ],
+      "answer": "Refrigeration in supermarkets"
+    },
+    {
+      "question": "What is a cooling tower primarily used for?",
+      "choices": [
+        "Residential air conditioning",
+        "Cooling water for industrial processes",
+        "Dehumidifying indoor spaces",
+        "Generating electricity"
+      ],
+      "answer": "Cooling water for industrial processes"
+    },
+    {
+      "question": "How does a roof spray system contribute to building cooling?",
+      "choices": [
+        "By creating a waterproof barrier",
+        "By reflecting sunlight",
+        "By promoting evaporation on the roof surface",
+        "By increasing thermal mass"
+      ],
+      "answer": "By promoting evaporation on the roof surface"
+    },
+    {
+      "question": "What is another common name for an evaporative cooler?",
+      "choices": [
+        "Swamp cooler",
+        "Desert chiller",
+        "Mist maker",
+        "Humidity pump"
+      ],
+      "answer": "Swamp cooler"
+    },
+    {
+      "question": "Which factor does NOT affect the rate of evaporation in cooling systems?",
+      "choices": [
+        "Air temperature",
+        "Relative humidity",
+        "Air movement",
+        "Water color"
+      ],
+      "answer": "Water color"
+    },
+    {
+      "question": "What is the wet-bulb depression?",
+      "choices": [
+        "The temperature at which water condenses",
+        "The difference between dry-bulb and wet-bulb temperatures",
+        "The lowest possible humidity level",
+        "The rate of water evaporation"
+      ],
+      "answer": "The difference between dry-bulb and wet-bulb temperatures"
+    },
+    {
+      "question": "Which type of evaporative cooling system is more suitable for humid climates?",
+      "choices": [
+        "Direct evaporative cooling",
+        "Indirect evaporative cooling",
+        "Both are equally suitable",
+        "Neither is suitable for humid climates"
+      ],
+      "answer": "Indirect evaporative cooling"
+    },
+    {
+      "question": "What is a potential disadvantage of direct evaporative cooling in certain climates?",
+      "choices": [
+        "It reduces air quality",
+        "It increases energy consumption",
+        "It adds moisture to the air",
+        "It removes beneficial ions from the air"
+      ],
+      "answer": "It adds moisture to the air"
+    },
+    {
+      "question": "How does indirect evaporative cooling maintain the original humidity level of the cooled air?",
+      "choices": [
+        "By using chemical dehumidifiers",
+        "By cooling air through a heat exchanger",
+        "By freezing excess moisture",
+        "By compressing the air"
+      ],
+      "answer": "By cooling air through a heat exchanger"
+    },
+    {
+      "question": "What percentage of electricity can evaporative coolers save compared to conventional air conditioning?",
+      "choices": [
+        "Up to 25%",
+        "Up to 50%",
+        "Up to 75%",
+        "Up to 90%"
+      ],
+      "answer": "Up to 75%"
+    },
+    {
+      "question": "Which water management strategy can enhance the viability of evaporative cooling in water-scarce regions?",
+      "choices": [
+        "Increasing water pressure",
+        "Using seawater",
+        "Integration with rainwater harvesting systems",
+        "Adding chemicals to reduce evaporation"
+      ],
+      "answer": "Integration with rainwater harvesting systems"
+    },
+    {
+      "question": "What is a potential issue with water quality in evaporative cooling systems?",
+      "choices": [
+        "Water becoming too cold",
+        "Mineral buildup in the system",
+        "Increased water acidity",
+        "Depletion of dissolved oxygen"
+      ],
+      "answer": "Mineral buildup in the system"
+    },
+    {
+      "question": "How does the effectiveness of evaporative cooling change as air humidity increases?",
+      "choices": [
+        "It increases",
+        "It decreases",
+        "It remains constant",
+        "It fluctuates randomly"
+      ],
+      "answer": "It decreases"
+    },
+    {
+      "question": "Which type of climate in Timor Leste might benefit more from indirect evaporative cooling?",
+      "choices": [
+        "Inland arid regions",
+        "Coastal areas with higher humidity",
+        "Mountainous cold regions",
+        "Urban heat islands"
+      ],
+      "answer": "Coastal areas with higher humidity"
+    },
+    {
+      "question": "What is the primary environmental benefit of evaporative cooling compared to conventional air conditioning?",
+      "choices": [
+        "Reduced water consumption",
+        "Lower noise pollution",
+        "Decreased energy use and greenhouse gas emissions",
+        "Elimination of refrigerants"
+      ],
+      "answer": "Decreased energy use and greenhouse gas emissions"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a direct evaporative cooler?",
+      "choices": [
+        "Water reservoir",
+        "Porous pads",
+        "Fan",
+        "Compressor"
+      ],
+      "answer": "Compressor"
+    },
+    {
+      "question": "What role does the secondary air stream play in an indirect evaporative cooling system?",
+      "choices": [
+        "It is the air that is ultimately cooled and used",
+        "It undergoes evaporative cooling to cool the primary air stream",
+        "It provides additional moisture to the system",
+        "It removes excess heat from the compressor"
+      ],
+      "answer": "It undergoes evaporative cooling to cool the primary air stream"
+    },
+    {
+      "question": "Which factor is most critical when considering the implementation of evaporative cooling in a region?",
+      "choices": [
+        "Local cuisine preferences",
+        "Political climate",
+        "Water availability and climate conditions",
+        "Soil composition"
+      ],
+      "answer": "Water availability and climate conditions"
+    },
+    {
+      "question": "How can evaporative cooling systems be integrated with traditional Timorese building practices?",
+      "choices": [
+        "By replacing all traditional methods",
+        "By incorporating local materials in cooler designs",
+        "By ignoring traditional practices entirely",
+        "By using only imported cooling technologies"
+      ],
+      "answer": "By incorporating local materials in cooler designs"
+    },
+    {
+      "question": "What is a potential challenge of implementing evaporative cooling in schools or healthcare facilities in Timor Leste?",
+      "choices": [
+        "Excessive cooling capacity",
+        "Incompatibility with building materials",
+        "Managing water resources and quality",
+        "Increased fire risk"
+      ],
+      "answer": "Managing water resources and quality"
+    },
+    {
+      "question": "Which of the following best describes the seasonal rainfall pattern in Timor Leste?",
+      "choices": [
+        "Consistent rainfall year-round",
+        "No distinct seasons",
+        "Distinct wet and dry seasons",
+        "Monsoon climate with reverse seasons"
+      ],
+      "answer": "Distinct wet and dry seasons"
+    },
+    {
+      "question": "What is the average annual rainfall in Timor Leste?",
+      "choices": [
+        "500-1000 mm",
+        "1000-1500 mm",
+        "1500-2000 mm",
+        "2000-2500 mm"
+      ],
+      "answer": "1500-2000 mm"
+    },
+    {
+      "question": "Which water quality issue might be particularly relevant for coastal areas of Timor Leste when considering evaporative cooling?",
+      "choices": [
+        "High acidity",
+        "Excessive chlorination",
+        "Saltwater intrusion in groundwater",
+        "Radioactive contamination"
+      ],
+      "answer": "Saltwater intrusion in groundwater"
+    },
+    {
+      "question": "What type of evaporative cooling system might be most appropriate for a small, rural school in a dry inland area of Timor Leste?",
+      "choices": [
+        "Large industrial cooling tower",
+        "Complex indirect evaporative system",
+        "Simple direct evaporative cooler (swamp cooler)",
+        "Roof spray system"
+      ],
+      "answer": "Simple direct evaporative cooler (swamp cooler)"
+    },
+    {
+      "question": "How might climate change affect the viability of evaporative cooling in Timor Leste over time?",
+      "choices": [
+        "It will have no impact",
+        "It may alter temperature and humidity patterns, affecting system efficiency",
+        "It will make evaporative cooling more effective everywhere",
+        "It will only affect coastal regions"
+      ],
+      "answer": "It may alter temperature and humidity patterns, affecting system efficiency"
+    }
+  ]
+}

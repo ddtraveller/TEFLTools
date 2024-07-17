@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Bonsai and Its Cultural Significance",
+  "questions": [
+    {
+      "question": "Where did the art of bonsai originate?",
+      "choices": [
+        "Japan",
+        "China",
+        "Korea",
+        "Vietnam"
+      ],
+      "answer": "China"
+    },
+    {
+      "question": "What is the Chinese term for the practice that preceded bonsai?",
+      "choices": [
+        "Penjing",
+        "Bonsai",
+        "Ikebana",
+        "Feng Shui"
+      ],
+      "answer": "Penjing"
+    },
+    {
+      "question": "What does the term 'bonsai' literally mean in Japanese?",
+      "choices": [
+        "Miniature tree",
+        "Planted in a container",
+        "Living art",
+        "Natural beauty"
+      ],
+      "answer": "Planted in a container"
+    },
+    {
+      "question": "Which religion is closely associated with the philosophy of bonsai in Japan?",
+      "choices": [
+        "Shintoism",
+        "Confucianism",
+        "Zen Buddhism",
+        "Taoism"
+      ],
+      "answer": "Zen Buddhism"
+    },
+    {
+      "question": "What is the primary goal of bonsai cultivation?",
+      "choices": [
+        "To create the smallest tree possible",
+        "To represent nature in miniature form",
+        "To grow medicinal herbs",
+        "To decorate indoor spaces"
+      ],
+      "answer": "To represent nature in miniature form"
+    },
+    {
+      "question": "Which of the following is NOT a traditional bonsai style?",
+      "choices": [
+        "Formal Upright",
+        "Cascade",
+        "Windswept",
+        "Spiral"
+      ],
+      "answer": "Spiral"
+    },
+    {
+      "question": "What Japanese aesthetic principle is often associated with bonsai?",
+      "choices": [
+        "Wabi-sabi",
+        "Kawaii",
+        "Kintsugi",
+        "Mono no aware"
+      ],
+      "answer": "Wabi-sabi"
+    },
+    {
+      "question": "In traditional Japanese homes, where are bonsai often displayed?",
+      "choices": [
+        "Genkan",
+        "Tokonoma",
+        "Engawa",
+        "Ofuro"
+      ],
+      "answer": "Tokonoma"
+    },
+    {
+      "question": "What is the term for deadwood on the trunk of a bonsai tree?",
+      "choices": [
+        "Jin",
+        "Shari",
+        "Nebari",
+        "Apex"
+      ],
+      "answer": "Shari"
+    },
+    {
+      "question": "Which of these is NOT a key aspect of bonsai philosophy?",
+      "choices": [
+        "Patience",
+        "Long-term vision",
+        "Rapid growth",
+        "Harmony with nature"
+      ],
+      "answer": "Rapid growth"
+    },
+    {
+      "question": "What is the Japanese term for the forest-style bonsai?",
+      "choices": [
+        "Chokkan",
+        "Moyogi",
+        "Yose-ue",
+        "Bunjingi"
+      ],
+      "answer": "Yose-ue"
+    },
+    {
+      "question": "Which century did bonsai likely spread to Japan from China?",
+      "choices": [
+        "4th century",
+        "6th century",
+        "8th century",
+        "10th century"
+      ],
+      "answer": "6th century"
+    },
+    {
+      "question": "What is the term for the visible surface roots of a bonsai tree?",
+      "choices": [
+        "Nebari",
+        "Ramification",
+        "Apex",
+        "Substrate"
+      ],
+      "answer": "Nebari"
+    },
+    {
+      "question": "Which of these is NOT typically considered when evaluating a bonsai's aesthetic quality?",
+      "choices": [
+        "Proportion",
+        "Balance",
+        "Asymmetry",
+        "Weight"
+      ],
+      "answer": "Weight"
+    },
+    {
+      "question": "What does the practice of creating jin involve?",
+      "choices": [
+        "Pruning leaves",
+        "Wiring branches",
+        "Creating deadwood on branches",
+        "Repotting the tree"
+      ],
+      "answer": "Creating deadwood on branches"
+    },
+    {
+      "question": "In the context of bonsai, what does 'ramification' refer to?",
+      "choices": [
+        "Root growth",
+        "Trunk thickening",
+        "Branch division",
+        "Leaf reduction"
+      ],
+      "answer": "Branch division"
+    },
+    {
+      "question": "Which of these is NOT a common challenge in adapting bonsai practice to Timor-Leste?",
+      "choices": [
+        "Tropical climate",
+        "Limited availability of traditional species",
+        "Lack of cultural connection to trees",
+        "Need for sustainable collection practices"
+      ],
+      "answer": "Lack of cultural connection to trees"
+    },
+    {
+      "question": "What is the primary purpose of wiring in bonsai cultivation?",
+      "choices": [
+        "To provide nutrients",
+        "To shape and position branches",
+        "To protect against pests",
+        "To measure growth"
+      ],
+      "answer": "To shape and position branches"
+    },
+    {
+      "question": "Which of these is considered an advanced bonsai technique?",
+      "choices": [
+        "Basic pruning",
+        "Watering",
+        "Repotting",
+        "Grafting"
+      ],
+      "answer": "Grafting"
+    },
+    {
+      "question": "What does the term 'yamadori' refer to in bonsai practice?",
+      "choices": [
+        "A type of bonsai pot",
+        "A pruning technique",
+        "Collected wild trees",
+        "A watering schedule"
+      ],
+      "answer": "Collected wild trees"
+    },
+    {
+      "question": "Which of these factors is NOT typically considered when selecting a bonsai pot?",
+      "choices": [
+        "Color",
+        "Size",
+        "Shape",
+        "Weight"
+      ],
+      "answer": "Weight"
+    },
+    {
+      "question": "What is the purpose of defoliation in bonsai cultivation?",
+      "choices": [
+        "To encourage larger leaves",
+        "To promote leaf reduction",
+        "To prevent flowering",
+        "To reduce water needs"
+      ],
+      "answer": "To promote leaf reduction"
+    },
+    {
+      "question": "Which bonsai style mimics a tree growing on a cliff face?",
+      "choices": [
+        "Formal Upright",
+        "Slanting",
+        "Cascade",
+        "Literati"
+      ],
+      "answer": "Cascade"
+    },
+    {
+      "question": "What is the primary purpose of air layering in bonsai?",
+      "choices": [
+        "To create new roots on a branch",
+        "To increase leaf size",
+        "To create deadwood",
+        "To thicken the trunk"
+      ],
+      "answer": "To create new roots on a branch"
+    },
+    {
+      "question": "Which of these is NOT a typical component of bonsai soil mix?",
+      "choices": [
+        "Akadama",
+        "Pumice",
+        "Peat moss",
+        "Clay"
+      ],
+      "answer": "Clay"
+    },
+    {
+      "question": "What is the purpose of creating jin and shari on a bonsai?",
+      "choices": [
+        "To promote new growth",
+        "To mimic the effects of age and weathering",
+        "To prevent disease",
+        "To encourage flowering"
+      ],
+      "answer": "To mimic the effects of age and weathering"
+    },
+    {
+      "question": "Which of these is NOT a common tool used in bonsai cultivation?",
+      "choices": [
+        "Concave cutters",
+        "Wire cutters",
+        "Root rake",
+        "Pruning saw"
+      ],
+      "answer": "Pruning saw"
+    },
+    {
+      "question": "What is the primary purpose of a bonsai exhibition?",
+      "choices": [
+        "To sell bonsai trees",
+        "To exchange cultivation techniques",
+        "To display and appreciate bonsai as an art form",
+        "To compete for prizes"
+      ],
+      "answer": "To display and appreciate bonsai as an art form"
+    },
+    {
+      "question": "Which of these is NOT a typical consideration in bonsai display?",
+      "choices": [
+        "Seasonal appropriateness",
+        "Complementary accent plants",
+        "Scroll or backdrop",
+        "Number of branches"
+      ],
+      "answer": "Number of branches"
+    },
+    {
+      "question": "What is the main purpose of leaf pruning in deciduous bonsai?",
+      "choices": [
+        "To encourage larger leaves",
+        "To promote back budding",
+        "To prevent flowering",
+        "To reduce water consumption"
+      ],
+      "answer": "To promote back budding"
+    }
+  ]
+}

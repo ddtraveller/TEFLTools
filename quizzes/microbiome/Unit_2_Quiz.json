@@ -1,0 +1,305 @@
+{
+  "title": "Nutrition and Mental Health in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is nutritional neuroscience?",
+      "choices": [
+        "The study of how nutrients affect brain function and mental health",
+        "The study of how the brain processes information about food",
+        "The study of how mental health affects dietary choices",
+        "The study of neurological disorders caused by malnutrition"
+      ],
+      "answer": "The study of how nutrients affect brain function and mental health"
+    },
+    {
+      "question": "Which of the following is a key nutrient for brain health?",
+      "choices": [
+        "Omega-3 fatty acids",
+        "Sodium",
+        "Cholesterol",
+        "Fructose"
+      ],
+      "answer": "Omega-3 fatty acids"
+    },
+    {
+      "question": "What is a common nutritional deficiency in Timor-Leste that can impact brain health?",
+      "choices": [
+        "Iron deficiency anemia",
+        "Vitamin C deficiency",
+        "Calcium deficiency",
+        "Vitamin D deficiency"
+      ],
+      "answer": "Iron deficiency anemia"
+    },
+    {
+      "question": "Which traditional Timorese food is rich in antioxidants and supports cognitive function?",
+      "choices": [
+        "Moringa",
+        "White rice",
+        "Cassava",
+        "Corn"
+      ],
+      "answer": "Moringa"
+    },
+    {
+      "question": "What is a potential challenge in implementing dietary interventions for mental health in Timor-Leste?",
+      "choices": [
+        "Limited resources and food insecurity",
+        "Abundance of processed foods",
+        "Lack of traditional cuisine",
+        "Overemphasis on mental health in public policy"
+      ],
+      "answer": "Limited resources and food insecurity"
+    },
+    {
+      "question": "Which nutrient is crucial for the production of neurotransmitters that regulate mood and cognitive function?",
+      "choices": [
+        "B vitamins",
+        "Vitamin C",
+        "Vitamin K",
+        "Vitamin E"
+      ],
+      "answer": "B vitamins"
+    },
+    {
+      "question": "What is a potential benefit of coconut in the Timorese diet for brain health?",
+      "choices": [
+        "Provides medium-chain triglycerides that may enhance brain energy metabolism",
+        "High in omega-3 fatty acids",
+        "Rich source of vitamin B12",
+        "Contains high levels of antioxidants"
+      ],
+      "answer": "Provides medium-chain triglycerides that may enhance brain energy metabolism"
+    },
+    {
+      "question": "Which micronutrient deficiency in Timor-Leste can lead to cognitive impairments and mood disorders?",
+      "choices": [
+        "Iodine",
+        "Selenium",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": "Iodine"
+    },
+    {
+      "question": "What is a potential negative impact of the shift towards a Western-style diet in urban areas of Timor-Leste?",
+      "choices": [
+        "Increased inflammation and oxidative stress",
+        "Improved omega-3 fatty acid intake",
+        "Enhanced micronutrient status",
+        "Reduced risk of malnutrition"
+      ],
+      "answer": "Increased inflammation and oxidative stress"
+    },
+    {
+      "question": "Which of the following is NOT a staple food in the traditional Timorese diet?",
+      "choices": [
+        "Quinoa",
+        "Rice",
+        "Corn",
+        "Cassava"
+      ],
+      "answer": "Quinoa"
+    },
+    {
+      "question": "What role do antioxidants play in brain health?",
+      "choices": [
+        "Protect brain cells from oxidative stress",
+        "Increase the production of stress hormones",
+        "Reduce the absorption of essential nutrients",
+        "Promote inflammation in the brain"
+      ],
+      "answer": "Protect brain cells from oxidative stress"
+    },
+    {
+      "question": "Which nutrient deficiency is associated with fatigue, decreased attention span, and increased risk of depression?",
+      "choices": [
+        "Iron",
+        "Calcium",
+        "Vitamin A",
+        "Zinc"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is a potential strategy for improving omega-3 fatty acid intake in Timor-Leste?",
+      "choices": [
+        "Encouraging consumption of small fish eaten whole",
+        "Increasing consumption of white rice",
+        "Promoting the use of vegetable oils in cooking",
+        "Introducing more dairy products into the diet"
+      ],
+      "answer": "Encouraging consumption of small fish eaten whole"
+    },
+    {
+      "question": "Which of the following is a challenge in the traditional Timorese diet regarding brain health?",
+      "choices": [
+        "Limited diversity of nutrients",
+        "Excessive intake of omega-3 fatty acids",
+        "Overconsumption of antioxidants",
+        "High levels of vitamin B12"
+      ],
+      "answer": "Limited diversity of nutrients"
+    },
+    {
+      "question": "What is the importance of B12 in relation to brain health?",
+      "choices": [
+        "Crucial for the production of neurotransmitters",
+        "Primary source of energy for brain cells",
+        "Main component of myelin sheaths",
+        "Regulates blood flow to the brain"
+      ],
+      "answer": "Crucial for the production of neurotransmitters"
+    },
+    {
+      "question": "Which of the following is a recommended approach for addressing nutrition and mental health in Timor-Leste?",
+      "choices": [
+        "Educating the population about balanced diets for brain health",
+        "Completely replacing traditional foods with Western diets",
+        "Focusing solely on macronutrient intake",
+        "Discouraging the consumption of local fruits and vegetables"
+      ],
+      "answer": "Educating the population about balanced diets for brain health"
+    },
+    {
+      "question": "What is a potential benefit of promoting locally grown fruits and vegetables in Timor-Leste?",
+      "choices": [
+        "Increased intake of antioxidants",
+        "Higher consumption of saturated fats",
+        "Improved access to processed foods",
+        "Reduced dietary fiber intake"
+      ],
+      "answer": "Increased intake of antioxidants"
+    },
+    {
+      "question": "Which nutrient is important for maintaining myelin sheath integrity in the brain?",
+      "choices": [
+        "B vitamins",
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin E"
+      ],
+      "answer": "B vitamins"
+    },
+    {
+      "question": "What is a potential consequence of vitamin A deficiency in Timor-Leste?",
+      "choices": [
+        "Impaired cognitive development",
+        "Increased production of neurotransmitters",
+        "Enhanced memory function",
+        "Improved mood regulation"
+      ],
+      "answer": "Impaired cognitive development"
+    },
+    {
+      "question": "Which of the following is a good source of zinc in the Timorese diet?",
+      "choices": [
+        "Cashews",
+        "White rice",
+        "Cassava",
+        "Papaya"
+      ],
+      "answer": "Cashews"
+    },
+    {
+      "question": "What role does folate play in brain health?",
+      "choices": [
+        "Supports neurotransmitter synthesis",
+        "Provides energy for brain cells",
+        "Forms the myelin sheath",
+        "Regulates brain inflammation"
+      ],
+      "answer": "Supports neurotransmitter synthesis"
+    },
+    {
+      "question": "Which of the following is a potential benefit of sweet potatoes in the Timorese diet for brain health?",
+      "choices": [
+        "Rich source of beta-carotene",
+        "High content of omega-3 fatty acids",
+        "Significant source of vitamin B12",
+        "Primary source of protein"
+      ],
+      "answer": "Rich source of beta-carotene"
+    },
+    {
+      "question": "What is a potential impact of food insecurity on mental health in Timor-Leste?",
+      "choices": [
+        "Increased stress and anxiety",
+        "Improved cognitive function",
+        "Enhanced mood regulation",
+        "Reduced risk of depression"
+      ],
+      "answer": "Increased stress and anxiety"
+    },
+    {
+      "question": "Which of the following is NOT a recommended strategy for improving brain health through nutrition in Timor-Leste?",
+      "choices": [
+        "Eliminating all traditional foods from the diet",
+        "Promoting consumption of a variety of colorful fruits and vegetables",
+        "Encouraging intake of fish and seafood",
+        "Incorporating more legumes and nuts into meals"
+      ],
+      "answer": "Eliminating all traditional foods from the diet"
+    },
+    {
+      "question": "What is the potential role of medium-chain triglycerides (MCTs) found in coconut for brain health?",
+      "choices": [
+        "Enhance brain energy metabolism",
+        "Increase inflammation in the brain",
+        "Reduce neurotransmitter production",
+        "Impair cognitive function"
+      ],
+      "answer": "Enhance brain energy metabolism"
+    },
+    {
+      "question": "Which nutrient is important for oxygen transport to the brain?",
+      "choices": [
+        "Iron",
+        "Calcium",
+        "Potassium",
+        "Sodium"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is a potential benefit of mung beans in the Timorese diet for brain health?",
+      "choices": [
+        "Good source of protein and B vitamins",
+        "High in omega-3 fatty acids",
+        "Rich in vitamin D",
+        "Primary source of iodine"
+      ],
+      "answer": "Good source of protein and B vitamins"
+    },
+    {
+      "question": "Which of the following is a challenge in promoting brain-healthy diets in rural areas of Timor-Leste?",
+      "choices": [
+        "Limited access to diverse food sources",
+        "Overabundance of processed foods",
+        "Excessive intake of omega-3 fatty acids",
+        "High consumption of antioxidant-rich foods"
+      ],
+      "answer": "Limited access to diverse food sources"
+    },
+    {
+      "question": "What is the potential impact of chronic malnutrition on brain development in Timorese children?",
+      "choices": [
+        "Impaired cognitive development and reduced learning capacity",
+        "Enhanced memory function and improved concentration",
+        "Increased production of neurotransmitters",
+        "Accelerated brain growth and maturation"
+      ],
+      "answer": "Impaired cognitive development and reduced learning capacity"
+    },
+    {
+      "question": "Which of the following is a potential benefit of cassava leaves in the Timorese diet for brain health?",
+      "choices": [
+        "High in protein and vitamin A",
+        "Rich source of omega-3 fatty acids",
+        "Significant source of vitamin B12",
+        "Primary source of iodine"
+      ],
+      "answer": "High in protein and vitamin A"
+    }
+  ]
+}

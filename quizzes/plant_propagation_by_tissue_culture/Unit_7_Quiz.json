@@ -1,0 +1,305 @@
+{
+  "title": "Acclimatization and Transplanting",
+  "questions": [
+    {
+      "question": "What is the primary purpose of acclimatization in tissue culture?",
+      "choices": [
+        "To increase plant growth rate",
+        "To adapt plants to ex vitro conditions",
+        "To induce genetic mutations",
+        "To enhance nutrient uptake"
+      ],
+      "answer": "To adapt plants to ex vitro conditions"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of in vitro plant growth conditions?",
+      "choices": [
+        "High humidity",
+        "Low light intensity",
+        "Fluctuating temperatures",
+        "Sterile environment"
+      ],
+      "answer": "Fluctuating temperatures"
+    },
+    {
+      "question": "What is the first step in the acclimatization process?",
+      "choices": [
+        "Increasing light intensity",
+        "Reducing humidity",
+        "Removing plants from culture medium",
+        "Applying fungicides"
+      ],
+      "answer": "Removing plants from culture medium"
+    },
+    {
+      "question": "Why is it important to clean roots of agar medium during transplanting?",
+      "choices": [
+        "To promote faster root growth",
+        "To prevent contamination in soil",
+        "To increase nutrient absorption",
+        "To reduce transplant shock"
+      ],
+      "answer": "To prevent contamination in soil"
+    },
+    {
+      "question": "What is a common composition for potting mix used in transplanting tissue-cultured plants?",
+      "choices": [
+        "Sand and gravel",
+        "Clay and loam",
+        "Peat, perlite, and vermiculite",
+        "Compost and topsoil"
+      ],
+      "answer": "Peat, perlite, and vermiculite"
+    },
+    {
+      "question": "Why are tissue-cultured plants susceptible to rapid water loss when first transplanted?",
+      "choices": [
+        "They have oversized leaves",
+        "Their roots are underdeveloped",
+        "They have underdeveloped cuticles and stomata",
+        "They require more water than soil-grown plants"
+      ],
+      "answer": "They have underdeveloped cuticles and stomata"
+    },
+    {
+      "question": "What is the recommended initial relative humidity for newly transplanted tissue-cultured plants?",
+      "choices": [
+        "30-40%",
+        "50-60%",
+        "70-80%",
+        "90-100%"
+      ],
+      "answer": "90-100%"
+    },
+    {
+      "question": "How should light intensity be managed during the early stages of acclimatization?",
+      "choices": [
+        "Expose plants to full sunlight immediately",
+        "Keep plants in complete darkness",
+        "Gradually increase light levels over time",
+        "Maintain constant bright light"
+      ],
+      "answer": "Gradually increase light levels over time"
+    },
+    {
+      "question": "What is photoinhibition in the context of acclimatization?",
+      "choices": [
+        "Increased photosynthesis due to high light levels",
+        "Damage to photosynthetic apparatus due to excessive light",
+        "Lack of photosynthesis due to insufficient light",
+        "Normal photosynthetic activity in acclimatized plants"
+      ],
+      "answer": "Damage to photosynthetic apparatus due to excessive light"
+    },
+    {
+      "question": "Why is air circulation important during acclimatization?",
+      "choices": [
+        "To prevent fungal growth",
+        "To strengthen plant stems and vascular system",
+        "To increase photosynthesis rate",
+        "To reduce humidity levels"
+      ],
+      "answer": "To strengthen plant stems and vascular system"
+    },
+    {
+      "question": "What is a common method used to maintain high humidity during early acclimatization?",
+      "choices": [
+        "Using a fan",
+        "Placing plants under clear plastic domes",
+        "Spraying plants with fertilizer",
+        "Increasing soil moisture"
+      ],
+      "answer": "Placing plants under clear plastic domes"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge during acclimatization?",
+      "choices": [
+        "Wilting",
+        "Leaf necrosis",
+        "Fungal infections",
+        "Rapid stem elongation"
+      ],
+      "answer": "Rapid stem elongation"
+    },
+    {
+      "question": "What is the primary cause of wilting during acclimatization?",
+      "choices": [
+        "Overwatering",
+        "Nutrient deficiency",
+        "Inability to regulate water loss effectively",
+        "Root damage during transplanting"
+      ],
+      "answer": "Inability to regulate water loss effectively"
+    },
+    {
+      "question": "How should temperature be managed during acclimatization?",
+      "choices": [
+        "Maintain constant high temperatures",
+        "Expose plants to extreme temperature fluctuations",
+        "Gradually introduce temperature variations",
+        "Keep temperatures as low as possible"
+      ],
+      "answer": "Gradually introduce temperature variations"
+    },
+    {
+      "question": "What is the typical duration of the acclimatization process?",
+      "choices": [
+        "1-2 days",
+        "1-2 weeks",
+        "Several weeks to several months",
+        "1 year or more"
+      ],
+      "answer": "Several weeks to several months"
+    },
+    {
+      "question": "Which of the following is a benefit of successful acclimatization in commercial agriculture?",
+      "choices": [
+        "Reduced need for fertilizers",
+        "Elimination of pests and diseases",
+        "Production of genetically diverse plants",
+        "Mass production of genetically identical, disease-free plants"
+      ],
+      "answer": "Mass production of genetically identical, disease-free plants"
+    },
+    {
+      "question": "What role does acclimatization play in conservation efforts?",
+      "choices": [
+        "It increases genetic diversity in plant populations",
+        "It allows for the propagation of rare or endangered species",
+        "It reduces the need for seed banks",
+        "It eliminates the need for habitat preservation"
+      ],
+      "answer": "It allows for the propagation of rare or endangered species"
+    },
+    {
+      "question": "Why is pest and disease management crucial during acclimatization?",
+      "choices": [
+        "To promote faster growth",
+        "To enhance genetic traits",
+        "To prevent infections that could compromise plant survival",
+        "To reduce the need for fertilizers"
+      ],
+      "answer": "To prevent infections that could compromise plant survival"
+    },
+    {
+      "question": "What is the recommended method for watering newly transplanted tissue-cultured plants?",
+      "choices": [
+        "Overhead watering to simulate rainfall",
+        "Watering at the base of the plant to avoid wetting leaves",
+        "Misting leaves frequently",
+        "Submerging the entire pot in water"
+      ],
+      "answer": "Watering at the base of the plant to avoid wetting leaves"
+    },
+    {
+      "question": "Which of the following is NOT a factor to consider when designing an acclimatization protocol?",
+      "choices": [
+        "Plant species",
+        "Environmental conditions",
+        "Genetic makeup of the plant",
+        "Color of the growing container"
+      ],
+      "answer": "Color of the growing container"
+    },
+    {
+      "question": "What is the primary reason for gradually reducing humidity during acclimatization?",
+      "choices": [
+        "To promote faster growth",
+        "To encourage root development",
+        "To stimulate the development of a thicker cuticle",
+        "To increase nutrient uptake"
+      ],
+      "answer": "To stimulate the development of a thicker cuticle"
+    },
+    {
+      "question": "Which of the following is a sign of successful acclimatization?",
+      "choices": [
+        "Rapid elongation of stems",
+        "Yellowing of leaves",
+        "New growth and leaf development",
+        "Decreased root mass"
+      ],
+      "answer": "New growth and leaf development"
+    },
+    {
+      "question": "What is the purpose of using a well-draining potting mix for transplanting?",
+      "choices": [
+        "To reduce the need for watering",
+        "To provide better aeration for roots",
+        "To increase soil temperature",
+        "To enhance nutrient content"
+      ],
+      "answer": "To provide better aeration for roots"
+    },
+    {
+      "question": "Why is it important to monitor plants closely during acclimatization?",
+      "choices": [
+        "To record growth rates for research purposes",
+        "To adjust environmental conditions as needed",
+        "To determine the best time for fertilization",
+        "To decide when to sell the plants"
+      ],
+      "answer": "To adjust environmental conditions as needed"
+    },
+    {
+      "question": "What is the recommended planting depth for tissue-cultured plants during transplanting?",
+      "choices": [
+        "As deep as possible to protect roots",
+        "At the same depth as in the culture vessel",
+        "Slightly above the soil surface",
+        "It varies greatly depending on the species"
+      ],
+      "answer": "At the same depth as in the culture vessel"
+    },
+    {
+      "question": "Which of the following is NOT a typical method for reducing humidity during acclimatization?",
+      "choices": [
+        "Gradually opening vents on humidity domes",
+        "Removing plastic covers for increasing periods",
+        "Using a dehumidifier in the growing area",
+        "Increasing the temperature of the growing environment"
+      ],
+      "answer": "Increasing the temperature of the growing environment"
+    },
+    {
+      "question": "What is the primary purpose of introducing air circulation during acclimatization?",
+      "choices": [
+        "To reduce humidity levels",
+        "To prevent pest infestations",
+        "To strengthen plant structures",
+        "To increase photosynthesis rates"
+      ],
+      "answer": "To strengthen plant structures"
+    },
+    {
+      "question": "Which of the following is a potential consequence of failing to properly acclimatize tissue-cultured plants?",
+      "choices": [
+        "Increased genetic diversity",
+        "Enhanced resistance to pests",
+        "High mortality rate upon transplanting",
+        "Faster growth and development"
+      ],
+      "answer": "High mortality rate upon transplanting"
+    },
+    {
+      "question": "What role does stomatal function play in the acclimatization process?",
+      "choices": [
+        "It regulates nutrient uptake",
+        "It controls water loss and gas exchange",
+        "It determines flower color",
+        "It influences root development"
+      ],
+      "answer": "It controls water loss and gas exchange"
+    },
+    {
+      "question": "Why might fungicides be used during the acclimatization process?",
+      "choices": [
+        "To promote faster growth",
+        "To enhance leaf color",
+        "To prevent fungal infections in high humidity conditions",
+        "To improve nutrient absorption"
+      ],
+      "answer": "To prevent fungal infections in high humidity conditions"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "title": "Synergetic Approaches to Education and Community Development",
+  "questions": [
+    {
+      "question": "What is the core principle of synergy in the context of education and community development?",
+      "choices": [
+        "Individual effort is more important than collaboration",
+        "The whole is less than the sum of its parts",
+        "The interaction of multiple elements produces an effect greater than the sum of their individual effects",
+        "Synergy only applies to scientific fields, not social sciences"
+      ],
+      "answer": "The interaction of multiple elements produces an effect greater than the sum of their individual effects"
+    },
+    {
+      "question": "Which of the following best describes Fuller's concept of comprehensive anticipatory design science?",
+      "choices": [
+        "Reacting to problems as they occur",
+        "Designing solutions before crises occur",
+        "Focusing solely on current issues",
+        "Ignoring potential future challenges"
+      ],
+      "answer": "Designing solutions before crises occur"
+    },
+    {
+      "question": "What is a key benefit of community-based learning?",
+      "choices": [
+        "It isolates academic study from real-world applications",
+        "It decreases student engagement with local issues",
+        "It strengthens community ties and increases relevance of education",
+        "It focuses exclusively on theoretical knowledge"
+      ],
+      "answer": "It strengthens community ties and increases relevance of education"
+    },
+    {
+      "question": "How does capacity building contribute to community development in a synergetic approach?",
+      "choices": [
+        "By replacing all traditional knowledge with modern techniques",
+        "By focusing only on individual skills development",
+        "By ignoring existing community resources",
+        "By developing and strengthening skills, abilities, and resources needed for a community to thrive"
+      ],
+      "answer": "By developing and strengthening skills, abilities, and resources needed for a community to thrive"
+    },
+    {
+      "question": "What is a potential advantage of mobile learning platforms in Timor-Leste?",
+      "choices": [
+        "They require extensive infrastructure development",
+        "They can provide access to education in remote areas",
+        "They are too expensive for widespread adoption",
+        "They can only be used in urban areas"
+      ],
+      "answer": "They can provide access to education in remote areas"
+    },
+    {
+      "question": "Which of the following is NOT a principle of UNESCO's Guidelines on Intercultural Education?",
+      "choices": [
+        "Respect for the cultural identity of the learner",
+        "Provision of culturally appropriate and responsive quality education for all",
+        "Promotion of knowledge, attitudes, and skills that enable learners to contribute to respect and understanding",
+        "Emphasis on Western educational models over local traditions"
+      ],
+      "answer": "Emphasis on Western educational models over local traditions"
+    },
+    {
+      "question": "What is a key challenge in Timor-Leste's education system?",
+      "choices": [
+        "Excess of qualified teachers",
+        "Over-funded schools in rural areas",
+        "Language barriers due to multiple languages used",
+        "Too many higher education opportunities"
+      ],
+      "answer": "Language barriers due to multiple languages used"
+    },
+    {
+      "question": "How does systems thinking contribute to addressing educational challenges?",
+      "choices": [
+        "By focusing on isolated problems",
+        "By ignoring interconnections between issues",
+        "By considering the broader context and interconnections between various issues",
+        "By addressing only the most visible problems"
+      ],
+      "answer": "By considering the broader context and interconnections between various issues"
+    },
+    {
+      "question": "What is a potential application of synergetic thinking in Timor-Leste's agriculture?",
+      "choices": [
+        "Completely replacing traditional farming methods with industrial agriculture",
+        "Ignoring modern agricultural science",
+        "Combining traditional knowledge with modern agricultural science",
+        "Focusing solely on cash crops for export"
+      ],
+      "answer": "Combining traditional knowledge with modern agricultural science"
+    },
+    {
+      "question": "Which of Fuller's quotes best encapsulates the spirit of synergetic education?",
+      "choices": [
+        "Education is what remains after one has forgotten what one has learned in school",
+        "The best way to predict the future is to design it",
+        "Knowledge is power",
+        "The only source of knowledge is experience"
+      ],
+      "answer": "The best way to predict the future is to design it"
+    },
+    {
+      "question": "What role do community elders play in a synergetic approach to education?",
+      "choices": [
+        "They are irrelevant to modern education",
+        "They can only teach about history",
+        "They can contribute valuable traditional knowledge",
+        "They should be excluded from the education system"
+      ],
+      "answer": "They can contribute valuable traditional knowledge"
+    },
+    {
+      "question": "How does the concept of 'Spaceship Earth' relate to education in Timor-Leste?",
+      "choices": [
+        "It suggests that education should focus only on space exploration",
+        "It emphasizes the interconnectedness of global and local issues in education",
+        "It implies that Timor-Leste's education system should be identical to other countries",
+        "It has no relevance to education in Timor-Leste"
+      ],
+      "answer": "It emphasizes the interconnectedness of global and local issues in education"
+    },
+    {
+      "question": "What is a key principle of community-based learning?",
+      "choices": [
+        "Centralization of decision-making",
+        "Exclusion of local knowledge",
+        "Empowerment of local communities",
+        "Standardization of curriculum across all communities"
+      ],
+      "answer": "Empowerment of local communities"
+    },
+    {
+      "question": "How can synergetic approaches address the shortage of educational resources in Timor-Leste?",
+      "choices": [
+        "By importing all resources from developed countries",
+        "By focusing only on digital resources",
+        "By ignoring the need for resources",
+        "By optimizing and connecting existing community resources"
+      ],
+      "answer": "By optimizing and connecting existing community resources"
+    },
+    {
+      "question": "What is a potential benefit of cross-disciplinary learning in a synergetic approach?",
+      "choices": [
+        "It narrows students' perspectives",
+        "It reduces the depth of knowledge in specific subjects",
+        "It enhances problem-solving skills by connecting different domains of knowledge",
+        "It makes curriculum development easier for teachers"
+      ],
+      "answer": "It enhances problem-solving skills by connecting different domains of knowledge"
+    },
+    {
+      "question": "How does the Escuela Nueva model in Colombia exemplify synergetic education principles?",
+      "choices": [
+        "It focuses on standardized testing",
+        "It emphasizes rote learning",
+        "It promotes flexible, student-centered learning and community participation",
+        "It isolates schools from their communities"
+      ],
+      "answer": "It promotes flexible, student-centered learning and community participation"
+    },
+    {
+      "question": "What is a key feature of the PNG EQUITV program in Papua New Guinea?",
+      "choices": [
+        "It relies on constant internet connectivity",
+        "It uses outdated textbooks",
+        "It provides offline access to curriculum-aligned materials on tablet devices",
+        "It focuses only on urban areas"
+      ],
+      "answer": "It provides offline access to curriculum-aligned materials on tablet devices"
+    },
+    {
+      "question": "How can synergetic approaches help preserve cultural knowledge in Timor-Leste?",
+      "choices": [
+        "By replacing all traditional practices with modern ones",
+        "By documenting and integrating traditional knowledge into the education system",
+        "By focusing only on global knowledge",
+        "By isolating cultural knowledge from formal education"
+      ],
+      "answer": "By documenting and integrating traditional knowledge into the education system"
+    },
+    {
+      "question": "What is a potential application of Fuller's principle of 'doing more with less' in Timor-Leste's education system?",
+      "choices": [
+        "Reducing the number of schools",
+        "Cutting education budgets",
+        "Optimizing resource use through innovative design and technology",
+        "Limiting access to education"
+      ],
+      "answer": "Optimizing resource use through innovative design and technology"
+    },
+    {
+      "question": "How can mobile technology support knowledge sharing in Timor-Leste?",
+      "choices": [
+        "By replacing face-to-face interactions",
+        "By limiting access to information",
+        "By facilitating peer-to-peer learning networks and access to educational resources",
+        "By promoting only international knowledge sources"
+      ],
+      "answer": "By facilitating peer-to-peer learning networks and access to educational resources"
+    },
+    {
+      "question": "What is a key consideration when implementing new educational approaches in Timor-Leste?",
+      "choices": [
+        "Ignoring local context and culture",
+        "Focusing only on short-term results",
+        "Ethical considerations and cultural sensitivity",
+        "Implementing solutions without community input"
+      ],
+      "answer": "Ethical considerations and cultural sensitivity"
+    },
+    {
+      "question": "How does participatory action research contribute to synergetic community development?",
+      "choices": [
+        "It excludes community members from the research process",
+        "It focuses only on academic publications",
+        "It engages community members in identifying and solving local problems",
+        "It prioritizes external researchers' perspectives over local knowledge"
+      ],
+      "answer": "It engages community members in identifying and solving local problems"
+    },
+    {
+      "question": "What role can gamification play in a synergetic approach to education in Timor-Leste?",
+      "choices": [
+        "It can distract students from serious learning",
+        "It can make learning more engaging and interactive",
+        "It is irrelevant to education in developing countries",
+        "It can only be used for entertainment, not education"
+      ],
+      "answer": "It can make learning more engaging and interactive"
+    },
+    {
+      "question": "How can synergetic approaches address the high dropout rates in Timor-Leste's education system?",
+      "choices": [
+        "By making education less accessible",
+        "By focusing only on high-achieving students",
+        "By creating more relevant and engaging learning experiences connected to community needs",
+        "By implementing stricter attendance policies"
+      ],
+      "answer": "By creating more relevant and engaging learning experiences connected to community needs"
+    },
+    {
+      "question": "What is a potential benefit of integrating traditional and modern knowledge systems in education?",
+      "choices": [
+        "It can lead to confusion among students",
+        "It can create a more holistic and culturally relevant learning experience",
+        "It can completely replace the need for modern scientific knowledge",
+        "It can slow down technological progress"
+      ],
+      "answer": "It can create a more holistic and culturally relevant learning experience"
+    },
+    {
+      "question": "How can open educational resources contribute to synergetic education in Timor-Leste?",
+      "choices": [
+        "By limiting access to educational materials",
+        "By increasing the cost of education",
+        "By providing free and adaptable learning resources that can be contextualized for local needs",
+        "By promoting only Western educational content"
+      ],
+      "answer": "By providing free and adaptable learning resources that can be contextualized for local needs"
+    },
+    {
+      "question": "What is a key principle of synergetic thinking in addressing education challenges?",
+      "choices": [
+        "Focusing on short-term solutions",
+        "Ignoring the interconnectedness of issues",
+        "Considering education in isolation from other social factors",
+        "Recognizing the complex, interconnected nature of educational and social systems"
+      ],
+      "answer": "Recognizing the complex, interconnected nature of educational and social systems"
+    },
+    {
+      "question": "How can virtual reality simulations contribute to synergetic education in Timor-Leste?",
+      "choices": [
+        "By replacing all traditional learning methods",
+        "By providing immersive experiences of complex systems and structures",
+        "By isolating students from real-world contexts",
+        "By focusing only on entertainment"
+      ],
+      "answer": "By providing immersive experiences of complex systems and structures"
+    },
+    {
+      "question": "What is a potential application of synergetic thinking in addressing language barriers in Timor-Leste's education system?",
+      "choices": [
+        "Eliminating all local languages from education",
+        "Focusing only on international languages",
+        "Developing multilingual educational resources that bridge local and national languages",
+        "Ignoring language diversity in curriculum development"
+      ],
+      "answer": "Developing multilingual educational resources that bridge local and national languages"
+    }
+  ]
+}

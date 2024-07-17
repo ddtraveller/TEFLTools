@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to the Brain-Gut-Microbiota Axis",
+  "questions": [
+    {
+      "question": "What is the brain-gut-microbiota axis?",
+      "choices": [
+        "A direct neural connection between the brain and gut",
+        "The physical structure of the digestive system",
+        "A bidirectional communication system between the central nervous system, gastrointestinal tract, and gut microbiota",
+        "A type of probiotic supplement"
+      ],
+      "answer": "A bidirectional communication system between the central nervous system, gastrointestinal tract, and gut microbiota"
+    },
+    {
+      "question": "Which of the following is NOT a key player in the brain-gut-microbiota axis?",
+      "choices": [
+        "Brain",
+        "Gut",
+        "Microbiota",
+        "Liver"
+      ],
+      "answer": "Liver"
+    },
+    {
+      "question": "What is the primary neural connection between the gut and the brain?",
+      "choices": [
+        "Optic nerve",
+        "Vagus nerve",
+        "Sciatic nerve",
+        "Olfactory nerve"
+      ],
+      "answer": "Vagus nerve"
+    },
+    {
+      "question": "Which part of the brain is involved in regulating hunger and thirst?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Hypothalamus",
+        "Prefrontal cortex"
+      ],
+      "answer": "Hypothalamus"
+    },
+    {
+      "question": "What is the enteric nervous system often called?",
+      "choices": [
+        "The third brain",
+        "The second brain",
+        "The gut brain",
+        "The microbiome brain"
+      ],
+      "answer": "The second brain"
+    },
+    {
+      "question": "Which of the following is NOT a type of microorganism found in the gut microbiota?",
+      "choices": [
+        "Bacteria",
+        "Archaea",
+        "Fungi",
+        "Protozoa"
+      ],
+      "answer": "Protozoa"
+    },
+    {
+      "question": "What is the role of the gut-associated lymphoid tissue (GALT)?",
+      "choices": [
+        "To produce digestive enzymes",
+        "To absorb nutrients from food",
+        "To maintain immune homeostasis",
+        "To produce neurotransmitters"
+      ],
+      "answer": "To maintain immune homeostasis"
+    },
+    {
+      "question": "Which of the following is a microbial metabolite that can influence gut barrier function and inflammation?",
+      "choices": [
+        "Glucose",
+        "Cholesterol",
+        "Short-chain fatty acids (SCFAs)",
+        "Triglycerides"
+      ],
+      "answer": "Short-chain fatty acids (SCFAs)"
+    },
+    {
+      "question": "What is the primary function of the vagus nerve in the brain-gut-microbiota axis?",
+      "choices": [
+        "To digest food",
+        "To transmit signals between the brain and gut",
+        "To produce stomach acid",
+        "To eliminate waste from the body"
+      ],
+      "answer": "To transmit signals between the brain and gut"
+    },
+    {
+      "question": "Which hormone, produced in the gut, regulates appetite and mood?",
+      "choices": [
+        "Insulin",
+        "Cortisol",
+        "Ghrelin",
+        "Thyroxine"
+      ],
+      "answer": "Ghrelin"
+    },
+    {
+      "question": "What is the role of cytokines in the brain-gut-microbiota axis?",
+      "choices": [
+        "They digest food particles",
+        "They produce neurotransmitters",
+        "They are signaling molecules in immune responses",
+        "They regulate gut motility"
+      ],
+      "answer": "They are signaling molecules in immune responses"
+    },
+    {
+      "question": "Which neurotransmitter, important for mood regulation, can be produced by gut bacteria?",
+      "choices": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "Norepinephrine"
+      ],
+      "answer": "Serotonin"
+    },
+    {
+      "question": "What is dysbiosis?",
+      "choices": [
+        "A type of probiotic",
+        "A balanced gut microbiome",
+        "An imbalance in the microbial community in the body",
+        "A digestive enzyme"
+      ],
+      "answer": "An imbalance in the microbial community in the body"
+    },
+    {
+      "question": "Which system plays a crucial role in the stress response and is influenced by gut microbiota?",
+      "choices": [
+        "Respiratory system",
+        "Circulatory system",
+        "Hypothalamic-pituitary-adrenal (HPA) axis",
+        "Skeletal system"
+      ],
+      "answer": "Hypothalamic-pituitary-adrenal (HPA) axis"
+    },
+    {
+      "question": "What is the primary function of prebiotics?",
+      "choices": [
+        "To directly add beneficial bacteria to the gut",
+        "To promote the growth of beneficial microorganisms in the gut",
+        "To kill harmful bacteria in the gut",
+        "To produce neurotransmitters"
+      ],
+      "answer": "To promote the growth of beneficial microorganisms in the gut"
+    },
+    {
+      "question": "Which of the following best describes the concept of psychobiotics?",
+      "choices": [
+        "Antibiotics that improve mental health",
+        "Psychological treatments for gut disorders",
+        "Live microorganisms that may produce mental health benefits when ingested",
+        "Brain imaging techniques for studying gut function"
+      ],
+      "answer": "Live microorganisms that may produce mental health benefits when ingested"
+    },
+    {
+      "question": "How does the brain influence the composition of gut microbiota?",
+      "choices": [
+        "By directly producing bacteria",
+        "Through the release of digestive enzymes",
+        "By altering gut motility and secretion",
+        "By controlling food intake"
+      ],
+      "answer": "By altering gut motility and secretion"
+    },
+    {
+      "question": "What role do enteroendocrine cells play in the gut?",
+      "choices": [
+        "They produce digestive enzymes",
+        "They absorb nutrients",
+        "They produce hormones and neurotransmitters",
+        "They eliminate waste products"
+      ],
+      "answer": "They produce hormones and neurotransmitters"
+    },
+    {
+      "question": "Which of the following is NOT a way that the brain-gut-microbiota axis communicates?",
+      "choices": [
+        "Neural pathways",
+        "Endocrine pathways",
+        "Immune system interactions",
+        "Telepathic signals"
+      ],
+      "answer": "Telepathic signals"
+    },
+    {
+      "question": "What is the potential impact of chronic stress on the brain-gut-microbiota axis?",
+      "choices": [
+        "It has no effect on the axis",
+        "It only affects brain function",
+        "It can alter gut function and microbial composition",
+        "It improves communication within the axis"
+      ],
+      "answer": "It can alter gut function and microbial composition"
+    },
+    {
+      "question": "Which of the following conditions has NOT been linked to disruptions in the brain-gut-microbiota axis?",
+      "choices": [
+        "Depression",
+        "Anxiety",
+        "Autism spectrum disorders",
+        "Fractured bones"
+      ],
+      "answer": "Fractured bones"
+    },
+    {
+      "question": "How does diet influence the brain-gut-microbiota axis?",
+      "choices": [
+        "It only affects gut bacteria",
+        "It has no impact on the axis",
+        "It shapes gut microbiota composition and influences overall axis function",
+        "It only affects brain function"
+      ],
+      "answer": "It shapes gut microbiota composition and influences overall axis function"
+    },
+    {
+      "question": "What is the significance of the blood-brain barrier in the brain-gut-microbiota axis?",
+      "choices": [
+        "It prevents all communication between the gut and brain",
+        "It allows unrestricted passage of all substances between the gut and brain",
+        "It selectively allows certain microbial metabolites to influence brain function",
+        "It only exists in the gut"
+      ],
+      "answer": "It selectively allows certain microbial metabolites to influence brain function"
+    },
+    {
+      "question": "Which of the following best describes the function of the enteric nervous system?",
+      "choices": [
+        "It controls voluntary muscle movements",
+        "It regulates body temperature",
+        "It controls gut motility and secretion",
+        "It processes visual information"
+      ],
+      "answer": "It controls gut motility and secretion"
+    },
+    {
+      "question": "What is the potential benefit of understanding the brain-gut-microbiota axis for mental health treatment?",
+      "choices": [
+        "It has no relevance to mental health",
+        "It could lead to new dietary and probiotic interventions for mental health disorders",
+        "It only applies to digestive disorders",
+        "It eliminates the need for traditional psychiatric medications"
+      ],
+      "answer": "It could lead to new dietary and probiotic interventions for mental health disorders"
+    },
+    {
+      "question": "How might traditional Timorese dietary practices potentially influence the brain-gut-microbiota axis?",
+      "choices": [
+        "They have no impact on the axis",
+        "They only affect gut bacteria",
+        "They could influence gut microbiota composition and potentially affect mental health",
+        "They only impact brain function"
+      ],
+      "answer": "They could influence gut microbiota composition and potentially affect mental health"
+    },
+    {
+      "question": "What is the role of tryptophan metabolites in the brain-gut-microbiota axis?",
+      "choices": [
+        "They are waste products with no function",
+        "They are precursors to serotonin, influencing mood regulation",
+        "They only affect gut motility",
+        "They are harmful to gut bacteria"
+      ],
+      "answer": "They are precursors to serotonin, influencing mood regulation"
+    },
+    {
+      "question": "Which of the following best describes the concept of nutritional psychiatry?",
+      "choices": [
+        "The use of psychiatric medications to treat nutritional deficiencies",
+        "The study of how nutrition impacts mental health through mechanisms like the brain-gut-microbiota axis",
+        "The practice of prescribing specific diets to treat all mental health disorders",
+        "The use of brain imaging to study digestive processes"
+      ],
+      "answer": "The study of how nutrition impacts mental health through mechanisms like the brain-gut-microbiota axis"
+    },
+    {
+      "question": "What is the potential significance of fermented foods in the context of the brain-gut-microbiota axis?",
+      "choices": [
+        "They have no impact on the axis",
+        "They are harmful to gut bacteria",
+        "They may provide beneficial probiotics and support a healthy gut microbiome",
+        "They only affect brain function"
+      ],
+      "answer": "They may provide beneficial probiotics and support a healthy gut microbiome"
+    },
+    {
+      "question": "How might understanding the brain-gut-microbiota axis influence public health initiatives in Timor-Leste?",
+      "choices": [
+        "It has no relevance to public health",
+        "It could lead to dietary recommendations and interventions to improve both physical and mental health",
+        "It only applies to treating digestive disorders",
+        "It eliminates the need for traditional medical treatments"
+      ],
+      "answer": "It could lead to dietary recommendations and interventions to improve both physical and mental health"
+    }
+  ]
+}

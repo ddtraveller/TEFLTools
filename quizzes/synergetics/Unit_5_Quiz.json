@@ -1,0 +1,305 @@
+{
+  "title": "Energy Systems and Renewable Technologies in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of Timor-Leste's population has access to electricity according to the Asian Development Bank?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "answer": "70%"
+    },
+    {
+      "question": "What is the primary source of power generation in Timor-Leste?",
+      "choices": [
+        "Solar power plants",
+        "Wind farms",
+        "Hydroelectric dams",
+        "Diesel-fueled power plants"
+      ],
+      "answer": "Diesel-fueled power plants"
+    },
+    {
+      "question": "What is the average daily solar radiation in Timor-Leste?",
+      "choices": [
+        "4.0 kWh/m2",
+        "5.0 kWh/m2",
+        "6.0 kWh/m2",
+        "7.0 kWh/m2"
+      ],
+      "answer": "6.0 kWh/m2"
+    },
+    {
+      "question": "Which renewable energy source is particularly beneficial for rural electrification in Timor-Leste?",
+      "choices": [
+        "Geothermal",
+        "Solar",
+        "Wind",
+        "Tidal"
+      ],
+      "answer": "Solar"
+    },
+    {
+      "question": "What is a major challenge posed by Timor-Leste's dependence on fossil fuels?",
+      "choices": [
+        "Overproduction of energy",
+        "Exposure to price volatility in the global oil market",
+        "Excessive job creation in the fossil fuel sector",
+        "Reduced greenhouse gas emissions"
+      ],
+      "answer": "Exposure to price volatility in the global oil market"
+    },
+    {
+      "question": "Which renewable energy source could provide a stable baseload power supply in Timor-Leste?",
+      "choices": [
+        "Solar",
+        "Wind",
+        "Hydroelectric",
+        "Geothermal"
+      ],
+      "answer": "Hydroelectric"
+    },
+    {
+      "question": "What is a potential source of biomass energy in Timor-Leste?",
+      "choices": [
+        "Ocean tides",
+        "Volcanic activity",
+        "Agricultural residues",
+        "Urban waste"
+      ],
+      "answer": "Agricultural residues"
+    },
+    {
+      "question": "Which renewable energy source requires further exploration and assessment in Timor-Leste?",
+      "choices": [
+        "Solar",
+        "Wind",
+        "Hydroelectric",
+        "Geothermal"
+      ],
+      "answer": "Geothermal"
+    },
+    {
+      "question": "What is a key principle of the synergetic approach to energy system design?",
+      "choices": [
+        "Focusing on a single energy source",
+        "Ignoring local resources",
+        "Recognizing the interconnectedness of various energy sources",
+        "Prioritizing fossil fuels"
+      ],
+      "answer": "Recognizing the interconnectedness of various energy sources"
+    },
+    {
+      "question": "What type of system could provide reliable power to remote communities in Timor-Leste?",
+      "choices": [
+        "Large-scale nuclear plants",
+        "Hybrid systems combining solar, wind, and battery storage",
+        "Coal-fired power plants",
+        "Offshore oil rigs"
+      ],
+      "answer": "Hybrid systems combining solar, wind, and battery storage"
+    },
+    {
+      "question": "What is a major challenge in implementing renewable energy technologies in Timor-Leste?",
+      "choices": [
+        "Excessive technical capacity",
+        "Over-developed infrastructure",
+        "Limited upfront investment needed",
+        "Limited technical capacity"
+      ],
+      "answer": "Limited technical capacity"
+    },
+    {
+      "question": "What is a long-term benefit of transitioning to renewable energy in Timor-Leste?",
+      "choices": [
+        "Increased dependence on fossil fuels",
+        "Higher energy costs",
+        "Improved energy security",
+        "Reduced job creation"
+      ],
+      "answer": "Improved energy security"
+    },
+    {
+      "question": "What is the name of the policy that aims to increase the share of renewables in Timor-Leste's energy mix?",
+      "choices": [
+        "National Energy Policy",
+        "Renewable Energy Act",
+        "Green Power Initiative",
+        "Sustainable Energy Framework"
+      ],
+      "answer": "National Energy Policy"
+    },
+    {
+      "question": "Which sector in Timor-Leste could potentially benefit from biomass energy production?",
+      "choices": [
+        "Tourism",
+        "Manufacturing",
+        "Agriculture",
+        "Mining"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is a potential application of small-scale wind turbines in Timor-Leste?",
+      "choices": [
+        "Powering large cities",
+        "Integration into hybrid systems for remote communities",
+        "Offshore energy production",
+        "Desalination plants"
+      ],
+      "answer": "Integration into hybrid systems for remote communities"
+    },
+    {
+      "question": "Which geographical features of Timor-Leste make it suitable for hydroelectric power?",
+      "choices": [
+        "Vast deserts",
+        "Extensive flatlands",
+        "Mountainous terrain and numerous rivers",
+        "Large lakes"
+      ],
+      "answer": "Mountainous terrain and numerous rivers"
+    },
+    {
+      "question": "What is a potential environmental benefit of transitioning to renewable energy in Timor-Leste?",
+      "choices": [
+        "Increased deforestation",
+        "Higher water consumption",
+        "Reduced greenhouse gas emissions",
+        "Increased air pollution"
+      ],
+      "answer": "Reduced greenhouse gas emissions"
+    },
+    {
+      "question": "Which international entities are supporting renewable energy projects in Timor-Leste?",
+      "choices": [
+        "Oil companies",
+        "Coal mining corporations",
+        "International organizations and development partners",
+        "Nuclear power agencies"
+      ],
+      "answer": "International organizations and development partners"
+    },
+    {
+      "question": "What type of hydroelectric installations could be suitable for Timor-Leste's rivers?",
+      "choices": [
+        "Tidal barrages",
+        "Wave energy converters",
+        "Small run-of-river installations",
+        "Large-scale dams"
+      ],
+      "answer": "Small run-of-river installations"
+    },
+    {
+      "question": "What is a potential economic benefit of developing a renewable energy sector in Timor-Leste?",
+      "choices": [
+        "Increased fossil fuel exports",
+        "Job creation in the renewable sector",
+        "Higher energy import costs",
+        "Reduced agricultural productivity"
+      ],
+      "answer": "Job creation in the renewable sector"
+    },
+    {
+      "question": "Which factor makes Timor-Leste particularly vulnerable to climate change impacts?",
+      "choices": [
+        "Its landlocked location",
+        "Its status as an island nation",
+        "Its large land mass",
+        "Its cold climate"
+      ],
+      "answer": "Its status as an island nation"
+    },
+    {
+      "question": "What is a potential use for biofuels produced from biomass in Timor-Leste?",
+      "choices": [
+        "Powering satellites",
+        "Fueling aircraft",
+        "Reducing reliance on imported diesel",
+        "Heating homes in winter"
+      ],
+      "answer": "Reducing reliance on imported diesel"
+    },
+    {
+      "question": "What type of energy storage could be used to balance intermittent renewable sources in Timor-Leste?",
+      "choices": [
+        "Coal stockpiles",
+        "Natural gas reservoirs",
+        "Battery storage systems",
+        "Oil tanks"
+      ],
+      "answer": "Battery storage systems"
+    },
+    {
+      "question": "Which area of Timor-Leste is likely to have the best wind energy resources?",
+      "choices": [
+        "Underground caves",
+        "Dense forests",
+        "Coastal regions",
+        "Urban centers"
+      ],
+      "answer": "Coastal regions"
+    },
+    {
+      "question": "What is a key consideration in designing energy systems for remote communities in Timor-Leste?",
+      "choices": [
+        "Maximizing fossil fuel use",
+        "Ignoring local resources",
+        "Centralized grid connections",
+        "Integrating multiple renewable sources"
+      ],
+      "answer": "Integrating multiple renewable sources"
+    },
+    {
+      "question": "What is a potential challenge in developing large-scale solar farms in Timor-Leste?",
+      "choices": [
+        "Lack of sunlight",
+        "Excessive cloud cover",
+        "Land availability",
+        "Too much solar radiation"
+      ],
+      "answer": "Land availability"
+    },
+    {
+      "question": "Which sector consumes a large portion of Timor-Leste's budget due to energy imports?",
+      "choices": [
+        "Education",
+        "Healthcare",
+        "Fuel imports",
+        "Tourism"
+      ],
+      "answer": "Fuel imports"
+    },
+    {
+      "question": "What type of assessment is needed to determine the viability of wind energy in Timor-Leste?",
+      "choices": [
+        "Seismic surveys",
+        "Marine biology studies",
+        "Comprehensive wind resource assessments",
+        "Urban planning reviews"
+      ],
+      "answer": "Comprehensive wind resource assessments"
+    },
+    {
+      "question": "What is a potential benefit of developing geothermal energy in Timor-Leste?",
+      "choices": [
+        "Reduced water consumption",
+        "Increased biodiversity",
+        "Stable baseload power supply",
+        "Enhanced air quality"
+      ],
+      "answer": "Stable baseload power supply"
+    },
+    {
+      "question": "Which factor contributes to the high cost of grid extension in rural areas of Timor-Leste?",
+      "choices": [
+        "Flat terrain",
+        "Dense population",
+        "Mountainous landscape",
+        "Abundant roads"
+      ],
+      "answer": "Mountainous landscape"
+    }
+  ]
+}

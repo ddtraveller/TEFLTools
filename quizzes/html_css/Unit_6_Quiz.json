@@ -1,0 +1,305 @@
+{
+  "title": "Project Development and Deployment",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a wireframe in web development?",
+      "choices": [
+        "To showcase the final design of a website",
+        "To outline the basic structure and layout of each page",
+        "To test the website's functionality",
+        "To optimize the website for search engines"
+      ],
+      "answer": "To outline the basic structure and layout of each page"
+    },
+    {
+      "question": "Which of the following is NOT a key component of a project plan?",
+      "choices": [
+        "Project scope",
+        "Timeline",
+        "Resources needed",
+        "Color scheme"
+      ],
+      "answer": "Color scheme"
+    },
+    {
+      "question": "What is Git primarily used for in web development?",
+      "choices": [
+        "Database management",
+        "Version control",
+        "Web hosting",
+        "Image editing"
+      ],
+      "answer": "Version control"
+    },
+    {
+      "question": "What does the Git command 'git add' do?",
+      "choices": [
+        "Creates a new repository",
+        "Stages changes for commit",
+        "Pushes changes to a remote repository",
+        "Merges branches"
+      ],
+      "answer": "Stages changes for commit"
+    },
+    {
+      "question": "What is a repository in Git?",
+      "choices": [
+        "A backup of your project files",
+        "A storage location for a project that contains all of its files and each file's revision history",
+        "A collection of branches",
+        "A type of web hosting service"
+      ],
+      "answer": "A storage location for a project that contains all of its files and each file's revision history"
+    },
+    {
+      "question": "What is the purpose of a domain name?",
+      "choices": [
+        "To provide web hosting",
+        "To serve as the address where internet users can access a website",
+        "To encrypt website data",
+        "To optimize website performance"
+      ],
+      "answer": "To serve as the address where internet users can access a website"
+    },
+    {
+      "question": "Which of the following is NOT a type of web hosting?",
+      "choices": [
+        "Shared hosting",
+        "VPS hosting",
+        "Dedicated hosting",
+        "Git hosting"
+      ],
+      "answer": "Git hosting"
+    },
+    {
+      "question": "What does DNS stand for in the context of web hosting?",
+      "choices": [
+        "Dynamic Network System",
+        "Domain Name System",
+        "Digital Naming Service",
+        "Data Network Storage"
+      ],
+      "answer": "Domain Name System"
+    },
+    {
+      "question": "What is the main advantage of using GitHub Pages for hosting?",
+      "choices": [
+        "It offers unlimited bandwidth",
+        "It provides advanced server configurations",
+        "It's free and automatically integrated with Git repositories",
+        "It supports dynamic server-side scripting"
+      ],
+      "answer": "It's free and automatically integrated with Git repositories"
+    },
+    {
+      "question": "What is a commit in Git?",
+      "choices": [
+        "A merge conflict",
+        "A saved snapshot of changes in the repository",
+        "A branch in the repository",
+        "A remote server"
+      ],
+      "answer": "A saved snapshot of changes in the repository"
+    },
+    {
+      "question": "Which Git command is used to download changes from a remote repository?",
+      "choices": [
+        "git push",
+        "git fetch",
+        "git pull",
+        "git clone"
+      ],
+      "answer": "git pull"
+    },
+    {
+      "question": "What is the purpose of a CNAME file in GitHub Pages?",
+      "choices": [
+        "To store commit messages",
+        "To configure custom domains",
+        "To define CSS styles",
+        "To manage database connections"
+      ],
+      "answer": "To configure custom domains"
+    },
+    {
+      "question": "What does SEO stand for?",
+      "choices": [
+        "Server Engine Optimization",
+        "Search Engine Optimization",
+        "Site Engagement Optimization",
+        "Secure Encryption Online"
+      ],
+      "answer": "Search Engine Optimization"
+    },
+    {
+      "question": "Which of the following is NOT a best practice for commit messages in Git?",
+      "choices": [
+        "Use the imperative mood",
+        "Keep messages short and concise",
+        "Include detailed code snippets",
+        "Separate subject from body with a blank line"
+      ],
+      "answer": "Include detailed code snippets"
+    },
+    {
+      "question": "What is the primary purpose of responsive design in web development?",
+      "choices": [
+        "To improve website loading speed",
+        "To enhance search engine rankings",
+        "To ensure the website looks good on all device sizes",
+        "To increase website security"
+      ],
+      "answer": "To ensure the website looks good on all device sizes"
+    },
+    {
+      "question": "What does WCAG stand for in web development?",
+      "choices": [
+        "Web Content Accessibility Guidelines",
+        "World Code and Graphics",
+        "Website Creation and Generation",
+        "Web Compliance and Governance"
+      ],
+      "answer": "Web Content Accessibility Guidelines"
+    },
+    {
+      "question": "Which of the following is NOT a type of wireframe?",
+      "choices": [
+        "Low-fidelity",
+        "Mid-fidelity",
+        "High-fidelity",
+        "Ultra-fidelity"
+      ],
+      "answer": "Ultra-fidelity"
+    },
+    {
+      "question": "What is the purpose of the 'git init' command?",
+      "choices": [
+        "To initialize a new Git repository",
+        "To install Git on your computer",
+        "To create a new branch",
+        "To push changes to a remote repository"
+      ],
+      "answer": "To initialize a new Git repository"
+    },
+    {
+      "question": "Which of the following is a benefit of using version control in web development?",
+      "choices": [
+        "It automatically fixes bugs in your code",
+        "It eliminates the need for backups",
+        "It allows you to track changes and revert to previous versions",
+        "It speeds up website loading times"
+      ],
+      "answer": "It allows you to track changes and revert to previous versions"
+    },
+    {
+      "question": "What is a branch in Git?",
+      "choices": [
+        "A copy of the entire repository",
+        "A separate line of development",
+        "A type of merge conflict",
+        "A remote server"
+      ],
+      "answer": "A separate line of development"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when choosing a web hosting provider?",
+      "choices": [
+        "Server location",
+        "Bandwidth and storage",
+        "Customer support",
+        "Social media integration"
+      ],
+      "answer": "Social media integration"
+    },
+    {
+      "question": "What is the purpose of an A Record in DNS?",
+      "choices": [
+        "To specify the mail server for a domain",
+        "To map a domain name to an IP address",
+        "To create an alias for another domain name",
+        "To define the start of authority for a DNS zone"
+      ],
+      "answer": "To map a domain name to an IP address"
+    },
+    {
+      "question": "What does CI/CD stand for in the context of web development?",
+      "choices": [
+        "Code Integration/Code Deployment",
+        "Continuous Integration/Continuous Deployment",
+        "Computer Interface/Computer Design",
+        "Content Implementation/Content Distribution"
+      ],
+      "answer": "Continuous Integration/Continuous Deployment"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using GitHub Pages?",
+      "choices": [
+        "Free hosting",
+        "Automatic deployment from Git repositories",
+        "Support for server-side scripting",
+        "Custom domain support"
+      ],
+      "answer": "Support for server-side scripting"
+    },
+    {
+      "question": "What is the purpose of the 'git clone' command?",
+      "choices": [
+        "To create a copy of an existing repository",
+        "To merge two branches",
+        "To delete a repository",
+        "To rename a repository"
+      ],
+      "answer": "To create a copy of an existing repository"
+    },
+    {
+      "question": "Which of the following is a best practice for web accessibility?",
+      "choices": [
+        "Using color as the only means of conveying information",
+        "Providing text alternatives for non-text content",
+        "Using complex navigation structures",
+        "Avoiding the use of headings"
+      ],
+      "answer": "Providing text alternatives for non-text content"
+    },
+    {
+      "question": "What is the purpose of a .gitignore file?",
+      "choices": [
+        "To list files that should be committed to the repository",
+        "To specify files that Git should ignore",
+        "To define Git user credentials",
+        "To configure Git settings"
+      ],
+      "answer": "To specify files that Git should ignore"
+    },
+    {
+      "question": "Which of the following is NOT a common wireframing tool?",
+      "choices": [
+        "Balsamiq",
+        "Figma",
+        "Adobe XD",
+        "Git"
+      ],
+      "answer": "Git"
+    },
+    {
+      "question": "What is the primary purpose of using HTTPS for a website?",
+      "choices": [
+        "To improve website loading speed",
+        "To enhance search engine rankings",
+        "To secure data transmission between the server and client",
+        "To optimize images for web"
+      ],
+      "answer": "To secure data transmission between the server and client"
+    },
+    {
+      "question": "Which of the following is NOT a typical milestone in a web development project timeline?",
+      "choices": [
+        "Project kickoff",
+        "Design approval",
+        "Content creation",
+        "Server maintenance"
+      ],
+      "answer": "Server maintenance"
+    }
+  ]
+}

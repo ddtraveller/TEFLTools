@@ -1,0 +1,305 @@
+{
+  "title": "Stormwater Management through Green Infrastructure",
+  "questions": [
+    {
+      "question": "What is the primary goal of green infrastructure in urban areas?",
+      "choices": [
+        "To increase property values",
+        "To manage stormwater runoff",
+        "To create more parking spaces",
+        "To reduce air pollution"
+      ],
+      "answer": "To manage stormwater runoff"
+    },
+    {
+      "question": "Which of the following is NOT a principle of Low Impact Development (LID)?",
+      "choices": [
+        "Preserve natural features",
+        "Minimize impervious surfaces",
+        "Increase runoff velocity",
+        "Treat stormwater at the source"
+      ],
+      "answer": "Increase runoff velocity"
+    },
+    {
+      "question": "What is a bioswale?",
+      "choices": [
+        "A type of green roof",
+        "A vegetated channel for stormwater conveyance and treatment",
+        "An underground water storage tank",
+        "A permeable paving material"
+      ],
+      "answer": "A vegetated channel for stormwater conveyance and treatment"
+    },
+    {
+      "question": "Which green infrastructure technique is particularly effective for managing rooftop runoff in dense urban areas?",
+      "choices": [
+        "Permeable paving",
+        "Bioswales",
+        "Green roofs",
+        "Rain barrels"
+      ],
+      "answer": "Green roofs"
+    },
+    {
+      "question": "What is the main benefit of using permeable paving materials?",
+      "choices": [
+        "Increased surface runoff",
+        "Enhanced groundwater recharge",
+        "Higher construction costs",
+        "Reduced biodiversity"
+      ],
+      "answer": "Enhanced groundwater recharge"
+    },
+    {
+      "question": "Which of the following is a key challenge in implementing green infrastructure in Timor-Leste?",
+      "choices": [
+        "Lack of rainfall",
+        "Excess of available land",
+        "Rapid urbanization",
+        "Overabundance of existing green spaces"
+      ],
+      "answer": "Rapid urbanization"
+    },
+    {
+      "question": "What is a rain garden?",
+      "choices": [
+        "A garden that only grows during rainy seasons",
+        "A shallow depression designed to capture and filter runoff",
+        "A rooftop garden irrigated by rainwater",
+        "A water feature that simulates rainfall"
+      ],
+      "answer": "A shallow depression designed to capture and filter runoff"
+    },
+    {
+      "question": "How does urbanization typically affect the natural water cycle?",
+      "choices": [
+        "It increases groundwater recharge",
+        "It reduces surface runoff",
+        "It increases impervious surfaces",
+        "It enhances natural infiltration"
+      ],
+      "answer": "It increases impervious surfaces"
+    },
+    {
+      "question": "Which of the following is NOT a common benefit of green infrastructure?",
+      "choices": [
+        "Improved air quality",
+        "Reduced urban temperatures",
+        "Increased stormwater runoff",
+        "Enhanced property values"
+      ],
+      "answer": "Increased stormwater runoff"
+    },
+    {
+      "question": "What is the primary purpose of rainwater harvesting systems in green infrastructure?",
+      "choices": [
+        "To increase runoff",
+        "To reduce runoff and provide non-potable water",
+        "To create decorative water features",
+        "To increase water pressure in municipal systems"
+      ],
+      "answer": "To reduce runoff and provide non-potable water"
+    },
+    {
+      "question": "Which term describes the approach to land development that works with nature to manage stormwater as close to its source as possible?",
+      "choices": [
+        "Green Infrastructure",
+        "Low Impact Development",
+        "Sustainable Urbanism",
+        "Ecological Engineering"
+      ],
+      "answer": "Low Impact Development"
+    },
+    {
+      "question": "What is a key consideration when selecting plants for green infrastructure in Timor-Leste?",
+      "choices": [
+        "Using only non-native species",
+        "Choosing plants that require frequent watering",
+        "Selecting plants that can withstand both dry periods and intense rainfall",
+        "Avoiding plants with deep root systems"
+      ],
+      "answer": "Selecting plants that can withstand both dry periods and intense rainfall"
+    },
+    {
+      "question": "How does green infrastructure typically compare to traditional 'gray' infrastructure in terms of cost-effectiveness?",
+      "choices": [
+        "Green infrastructure is always more expensive",
+        "Green infrastructure is typically more cost-effective in the long term",
+        "Gray infrastructure is always cheaper",
+        "There is no cost difference between the two"
+      ],
+      "answer": "Green infrastructure is typically more cost-effective in the long term"
+    },
+    {
+      "question": "Which of the following is NOT a typical function of urban green spaces in stormwater management?",
+      "choices": [
+        "Absorbing rainfall",
+        "Filtering pollutants",
+        "Increasing runoff velocity",
+        "Promoting infiltration"
+      ],
+      "answer": "Increasing runoff velocity"
+    },
+    {
+      "question": "What role do plants play in bioswales and rain gardens?",
+      "choices": [
+        "They increase water pollution",
+        "They prevent water infiltration",
+        "They help filter pollutants and slow water flow",
+        "They have no significant impact on stormwater management"
+      ],
+      "answer": "They help filter pollutants and slow water flow"
+    },
+    {
+      "question": "Which of the following is a key principle of green infrastructure design?",
+      "choices": [
+        "Maximizing impervious surfaces",
+        "Channeling stormwater directly to water bodies",
+        "Mimicking natural processes",
+        "Removing all vegetation from urban areas"
+      ],
+      "answer": "Mimicking natural processes"
+    },
+    {
+      "question": "How can green infrastructure help address the urban heat island effect?",
+      "choices": [
+        "By increasing the use of dark, heat-absorbing materials",
+        "By removing all vegetation from urban areas",
+        "By adding more impervious surfaces",
+        "By increasing vegetation and permeable surfaces"
+      ],
+      "answer": "By increasing vegetation and permeable surfaces"
+    },
+    {
+      "question": "What is a potential challenge of implementing green roofs in Timor-Leste?",
+      "choices": [
+        "Lack of rainfall",
+        "Insufficient sunlight",
+        "Maintenance requirements in a tropical climate",
+        "Absence of suitable plant species"
+      ],
+      "answer": "Maintenance requirements in a tropical climate"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'treating stormwater at the source'?",
+      "choices": [
+        "Building large, centralized treatment plants",
+        "Implementing small-scale practices where runoff originates",
+        "Treating water only after it enters natural water bodies",
+        "Focusing solely on end-of-pipe solutions"
+      ],
+      "answer": "Implementing small-scale practices where runoff originates"
+    },
+    {
+      "question": "How does preserving natural features in urban areas contribute to stormwater management?",
+      "choices": [
+        "It increases runoff velocity",
+        "It reduces the need for artificial drainage systems",
+        "It eliminates all stormwater runoff",
+        "It increases impervious surface area"
+      ],
+      "answer": "It reduces the need for artificial drainage systems"
+    },
+    {
+      "question": "What is a key benefit of using native plants in green infrastructure projects?",
+      "choices": [
+        "They require more water and maintenance",
+        "They are more expensive than non-native species",
+        "They are better adapted to local climate conditions",
+        "They provide fewer habitat benefits for local wildlife"
+      ],
+      "answer": "They are better adapted to local climate conditions"
+    },
+    {
+      "question": "How can permeable paving materials help in stormwater management?",
+      "choices": [
+        "By increasing surface runoff",
+        "By preventing any water infiltration",
+        "By allowing water to pass through and infiltrate into the ground",
+        "By channeling all water directly to storm sewers"
+      ],
+      "answer": "By allowing water to pass through and infiltrate into the ground"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a green infrastructure technique?",
+      "choices": [
+        "Rain gardens",
+        "Bioswales",
+        "Conventional storm sewers",
+        "Green roofs"
+      ],
+      "answer": "Conventional storm sewers"
+    },
+    {
+      "question": "What is a potential co-benefit of implementing green infrastructure in urban areas?",
+      "choices": [
+        "Reduced biodiversity",
+        "Increased air pollution",
+        "Enhanced recreational spaces",
+        "Higher energy consumption"
+      ],
+      "answer": "Enhanced recreational spaces"
+    },
+    {
+      "question": "How does green infrastructure typically impact urban biodiversity?",
+      "choices": [
+        "It reduces habitat availability",
+        "It has no effect on biodiversity",
+        "It enhances habitat and supports diverse species",
+        "It only supports non-native species"
+      ],
+      "answer": "It enhances habitat and supports diverse species"
+    },
+    {
+      "question": "What role does community engagement play in successful green infrastructure implementation?",
+      "choices": [
+        "It is unnecessary for technical projects",
+        "It helps ensure projects meet local needs and gain support",
+        "It typically leads to project failure",
+        "It only increases project costs without benefits"
+      ],
+      "answer": "It helps ensure projects meet local needs and gain support"
+    },
+    {
+      "question": "How can green infrastructure help in adapting to climate change impacts in urban areas?",
+      "choices": [
+        "By increasing greenhouse gas emissions",
+        "By reducing the urban tree canopy",
+        "By managing increased rainfall and flooding risks",
+        "By promoting the use of fossil fuels"
+      ],
+      "answer": "By managing increased rainfall and flooding risks"
+    },
+    {
+      "question": "Which of the following best describes the 'sponge city' concept in relation to green infrastructure?",
+      "choices": [
+        "Cities that prohibit all forms of water usage",
+        "Urban areas designed to absorb, clean, and use rainfall in an ecologically friendly way",
+        "Cities built entirely on wetlands",
+        "Urban areas that rely solely on traditional drainage systems"
+      ],
+      "answer": "Urban areas designed to absorb, clean, and use rainfall in an ecologically friendly way"
+    },
+    {
+      "question": "What is a key consideration when implementing green infrastructure in areas with limited space?",
+      "choices": [
+        "Avoiding any form of green infrastructure",
+        "Using only large-scale solutions",
+        "Integrating multi-functional designs that maximize benefits in small areas",
+        "Focusing solely on underground storage systems"
+      ],
+      "answer": "Integrating multi-functional designs that maximize benefits in small areas"
+    },
+    {
+      "question": "How does green infrastructure typically affect the time of concentration in urban watersheds?",
+      "choices": [
+        "It significantly decreases the time of concentration",
+        "It has no effect on the time of concentration",
+        "It tends to increase the time of concentration",
+        "It eliminates the concept of time of concentration"
+      ],
+      "answer": "It tends to increase the time of concentration"
+    }
+  ]
+}

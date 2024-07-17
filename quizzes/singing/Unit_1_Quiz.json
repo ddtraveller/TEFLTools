@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Vocal Anatomy and Physiology",
+  "questions": [
+    {
+      "question": "What is the primary function of the vocal folds?",
+      "choices": [
+        "To filter air",
+        "To vibrate and produce sound",
+        "To warm up incoming air",
+        "To regulate breathing"
+      ],
+      "answer": "To vibrate and produce sound"
+    },
+    {
+      "question": "Where is the larynx located?",
+      "choices": [
+        "In the chest",
+        "In the abdomen",
+        "In the neck",
+        "In the mouth"
+      ],
+      "answer": "In the neck"
+    },
+    {
+      "question": "Which of the following is NOT a cartilage found in the larynx?",
+      "choices": [
+        "Thyroid cartilage",
+        "Cricoid cartilage",
+        "Arytenoid cartilages",
+        "Hyoid cartilage"
+      ],
+      "answer": "Hyoid cartilage"
+    },
+    {
+      "question": "What is the function of the diaphragm in singing?",
+      "choices": [
+        "To produce sound",
+        "To control pitch",
+        "To regulate airflow",
+        "To shape vowel sounds"
+      ],
+      "answer": "To regulate airflow"
+    },
+    {
+      "question": "Which breathing technique is often emphasized in vocal training?",
+      "choices": [
+        "Chest breathing",
+        "Diaphragmatic breathing",
+        "Shallow breathing",
+        "Reverse breathing"
+      ],
+      "answer": "Diaphragmatic breathing"
+    },
+    {
+      "question": "What is the term for the voice box?",
+      "choices": [
+        "Pharynx",
+        "Larynx",
+        "Trachea",
+        "Epiglottis"
+      ],
+      "answer": "Larynx"
+    },
+    {
+      "question": "Which of the following is NOT a resonating cavity for the voice?",
+      "choices": [
+        "Pharynx",
+        "Oral cavity",
+        "Nasal cavity",
+        "Stomach"
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "question": "What gives each voice its unique timbre?",
+      "choices": [
+        "The size of the lungs",
+        "The shape of the face",
+        "The process of resonance",
+        "The color of the vocal folds"
+      ],
+      "answer": "The process of resonance"
+    },
+    {
+      "question": "Which muscle separates the chest and abdominal cavities?",
+      "choices": [
+        "Intercostal muscles",
+        "Diaphragm",
+        "Abdominal muscles",
+        "Pectoralis major"
+      ],
+      "answer": "Diaphragm"
+    },
+    {
+      "question": "What is the purpose of the arytenoid cartilages?",
+      "choices": [
+        "To produce saliva",
+        "To adjust the tension of vocal folds",
+        "To filter air",
+        "To create resonance"
+      ],
+      "answer": "To adjust the tension of vocal folds"
+    },
+    {
+      "question": "Which part of the respiratory system is directly responsible for drawing air into the lungs?",
+      "choices": [
+        "Trachea",
+        "Bronchi",
+        "Diaphragm",
+        "Alveoli"
+      ],
+      "answer": "Diaphragm"
+    },
+    {
+      "question": "What is the term for the coming together of the vocal folds?",
+      "choices": [
+        "Abduction",
+        "Adduction",
+        "Reduction",
+        "Conduction"
+      ],
+      "answer": "Adduction"
+    },
+    {
+      "question": "Which of the following is a common vocal health practice?",
+      "choices": [
+        "Drinking cold water before singing",
+        "Clearing the throat frequently",
+        "Staying hydrated",
+        "Smoking to deepen the voice"
+      ],
+      "answer": "Staying hydrated"
+    },
+    {
+      "question": "What is the 'Adam's apple'?",
+      "choices": [
+        "The epiglottis",
+        "The thyroid cartilage",
+        "The cricoid cartilage",
+        "The hyoid bone"
+      ],
+      "answer": "The thyroid cartilage"
+    },
+    {
+      "question": "Which of the following is NOT part of the upper respiratory tract?",
+      "choices": [
+        "Nose",
+        "Pharynx",
+        "Larynx",
+        "Bronchi"
+      ],
+      "answer": "Bronchi"
+    },
+    {
+      "question": "What controls the pitch of the voice?",
+      "choices": [
+        "The size of the lungs",
+        "The tension and length of vocal folds",
+        "The shape of the mouth",
+        "The strength of the diaphragm"
+      ],
+      "answer": "The tension and length of vocal folds"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese vocal health remedy mentioned in the course materials?",
+      "choices": [
+        "Drinking coffee before singing",
+        "Using steam inhalation with eucalyptus leaves",
+        "Eating spicy food to clear the throat",
+        "Applying ice to the neck"
+      ],
+      "answer": "Using steam inhalation with eucalyptus leaves"
+    },
+    {
+      "question": "What is the primary muscle of respiration?",
+      "choices": [
+        "Intercostal muscles",
+        "Abdominal muscles",
+        "Diaphragm",
+        "Pectoralis major"
+      ],
+      "answer": "Diaphragm"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of diaphragmatic breathing for singers?",
+      "choices": [
+        "Improved breath support",
+        "Better tone quality",
+        "Enhanced pitch control",
+        "Increased vocal range"
+      ],
+      "answer": "Increased vocal range"
+    },
+    {
+      "question": "What is the function of the epiglottis?",
+      "choices": [
+        "To produce sound",
+        "To filter air",
+        "To prevent food from entering the trachea",
+        "To control pitch"
+      ],
+      "answer": "To prevent food from entering the trachea"
+    },
+    {
+      "question": "Which of the following is a characteristic of proper diaphragmatic breathing?",
+      "choices": [
+        "Lifting the shoulders",
+        "Expanding the upper chest",
+        "Expanding the lower ribcage and abdomen",
+        "Holding the breath for long periods"
+      ],
+      "answer": "Expanding the lower ribcage and abdomen"
+    },
+    {
+      "question": "What is the term for the separation of the vocal folds?",
+      "choices": [
+        "Abduction",
+        "Adduction",
+        "Reduction",
+        "Conduction"
+      ],
+      "answer": "Abduction"
+    },
+    {
+      "question": "Which of the following is NOT a factor that contributes to the final quality of the voice?",
+      "choices": [
+        "Size of resonating cavities",
+        "Shape of resonating cavities",
+        "Position of the tongue",
+        "Color of the eyes"
+      ],
+      "answer": "Color of the eyes"
+    },
+    {
+      "question": "What is the primary function of the lungs in vocal production?",
+      "choices": [
+        "To create sound",
+        "To provide airflow",
+        "To shape vowels",
+        "To control pitch"
+      ],
+      "answer": "To provide airflow"
+    },
+    {
+      "question": "Which of the following is a common misconception about vocal health?",
+      "choices": [
+        "Staying hydrated is beneficial",
+        "Warming up before singing is important",
+        "Whispering is good for a sore throat",
+        "Avoiding excessive throat clearing is recommended"
+      ],
+      "answer": "Whispering is good for a sore throat"
+    },
+    {
+      "question": "What is the role of the soft palate in vocal production?",
+      "choices": [
+        "To produce consonant sounds",
+        "To control airflow through the nose",
+        "To vibrate and create sound",
+        "To regulate breathing"
+      ],
+      "answer": "To control airflow through the nose"
+    },
+    {
+      "question": "Which of the following is NOT a part of the lower respiratory tract?",
+      "choices": [
+        "Trachea",
+        "Bronchi",
+        "Lungs",
+        "Larynx"
+      ],
+      "answer": "Larynx"
+    },
+    {
+      "question": "What is the term for the enrichment of vocal tone by the air-filled cavities above the larynx?",
+      "choices": [
+        "Resonance",
+        "Vibrato",
+        "Timbre",
+        "Pitch"
+      ],
+      "answer": "Resonance"
+    },
+    {
+      "question": "Which of the following is a recommended practice for vocal health?",
+      "choices": [
+        "Drinking cold water before singing",
+        "Clearing the throat frequently",
+        "Using proper warm-up techniques",
+        "Smoking to deepen the voice"
+      ],
+      "answer": "Using proper warm-up techniques"
+    },
+    {
+      "question": "What is the primary function of the intrinsic laryngeal muscles?",
+      "choices": [
+        "To control breathing",
+        "To produce saliva",
+        "To control the vocal folds",
+        "To shape the mouth for vowel sounds"
+      ],
+      "answer": "To control the vocal folds"
+    }
+  ]
+}

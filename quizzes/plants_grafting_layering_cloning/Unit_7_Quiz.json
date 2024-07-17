@@ -1,0 +1,305 @@
+{
+  "title": "Conservation and Restoration Applications",
+  "questions": [
+    {
+      "question": "What is ex situ conservation?",
+      "choices": [
+        "Preserving species in their natural habitats",
+        "Protecting endangered species outside their natural habitats",
+        "Restoring degraded ecosystems",
+        "Collecting seeds from wild populations"
+      ],
+      "answer": "Protecting endangered species outside their natural habitats"
+    },
+    {
+      "question": "Which of the following is NOT a technique for preserving genetic diversity in ex situ conservation?",
+      "choices": [
+        "Seed banking",
+        "Living collections",
+        "Tissue culture",
+        "Habitat destruction"
+      ],
+      "answer": "Habitat destruction"
+    },
+    {
+      "question": "What is the primary goal of maintaining genetic diversity in conservation efforts?",
+      "choices": [
+        "To increase plant growth rates",
+        "To produce more visually appealing plants",
+        "To allow populations to adapt to changing conditions",
+        "To reduce the need for propagation"
+      ],
+      "answer": "To allow populations to adapt to changing conditions"
+    },
+    {
+      "question": "Which propagation method is most suitable for mass production of plants for large-scale restoration projects?",
+      "choices": [
+        "Grafting",
+        "Air layering",
+        "Tissue culture",
+        "Simple layering"
+      ],
+      "answer": "Tissue culture"
+    },
+    {
+      "question": "What is a key consideration when selecting species for ecosystem restoration?",
+      "choices": [
+        "Exotic species that grow quickly",
+        "Plants with the most colorful flowers",
+        "Native species adapted to local conditions",
+        "Species that require minimal care"
+      ],
+      "answer": "Native species adapted to local conditions"
+    },
+    {
+      "question": "Which of the following is an ethical consideration in plant collection for propagation?",
+      "choices": [
+        "Collecting as many specimens as possible",
+        "Focusing on a single population for collection",
+        "Ignoring local regulations and permits",
+        "Limiting collection to ensure population viability"
+      ],
+      "answer": "Limiting collection to ensure population viability"
+    },
+    {
+      "question": "What is the purpose of cryopreservation in ex situ conservation?",
+      "choices": [
+        "To accelerate plant growth",
+        "To freeze plant tissues or seeds for long-term storage",
+        "To improve germination rates",
+        "To eliminate plant diseases"
+      ],
+      "answer": "To freeze plant tissues or seeds for long-term storage"
+    },
+    {
+      "question": "Which of the following is a benefit of using native species in restoration projects?",
+      "choices": [
+        "They always grow faster than non-native species",
+        "They are cheaper to propagate",
+        "They are adapted to local conditions and play established ecological roles",
+        "They require no maintenance after planting"
+      ],
+      "answer": "They are adapted to local conditions and play established ecological roles"
+    },
+    {
+      "question": "What is a potential risk of using only vegetative propagation for conservation of a species?",
+      "choices": [
+        "It's too slow to be effective",
+        "It may lead to reduced genetic diversity",
+        "It's too expensive for large-scale projects",
+        "It only works for herbaceous plants"
+      ],
+      "answer": "It may lead to reduced genetic diversity"
+    },
+    {
+      "question": "Why is it important to collect plant material from multiple populations for conservation?",
+      "choices": [
+        "To ensure faster growth rates",
+        "To produce more aesthetically pleasing plants",
+        "To maintain genetic diversity",
+        "To reduce propagation costs"
+      ],
+      "answer": "To maintain genetic diversity"
+    },
+    {
+      "question": "What role does tissue culture play in conservation efforts?",
+      "choices": [
+        "It allows for the production of disease-free planting material",
+        "It eliminates the need for seed banking",
+        "It replaces the need for living collections",
+        "It speeds up natural evolution"
+      ],
+      "answer": "It allows for the production of disease-free planting material"
+    },
+    {
+      "question": "Which of the following is a challenge in propagating slow-growing species like sandalwood?",
+      "choices": [
+        "They require more water than fast-growing species",
+        "They are more susceptible to pests",
+        "Their slow growth rate makes conservation efforts time-consuming",
+        "They cannot be propagated through seeds"
+      ],
+      "answer": "Their slow growth rate makes conservation efforts time-consuming"
+    },
+    {
+      "question": "What is a key benefit of integrating traditional ecological knowledge into conservation efforts?",
+      "choices": [
+        "It replaces scientific methods entirely",
+        "It always provides faster results",
+        "It can provide valuable insights into local ecosystems and species",
+        "It eliminates the need for modern propagation techniques"
+      ],
+      "answer": "It can provide valuable insights into local ecosystems and species"
+    },
+    {
+      "question": "Which of the following is NOT typically a goal of ex situ conservation?",
+      "choices": [
+        "Preserving genetic diversity",
+        "Providing backup populations for reintroduction",
+        "Allowing for controlled breeding",
+        "Maximizing economic yield from endangered species"
+      ],
+      "answer": "Maximizing economic yield from endangered species"
+    },
+    {
+      "question": "What is a potential drawback of relying solely on seed banking for conservation?",
+      "choices": [
+        "Seeds take up too much space",
+        "Some species produce seeds that can't be stored long-term",
+        "Seed banking is too expensive",
+        "Seeds always lose viability after one year"
+      ],
+      "answer": "Some species produce seeds that can't be stored long-term"
+    },
+    {
+      "question": "Why might grafting be used in the conservation of endangered tree species?",
+      "choices": [
+        "To create hybrid species",
+        "To accelerate fruit production",
+        "To propagate species that are difficult to root from cuttings",
+        "To reduce the size of mature trees"
+      ],
+      "answer": "To propagate species that are difficult to root from cuttings"
+    },
+    {
+      "question": "What is a key consideration when reintroducing propagated plants to the wild?",
+      "choices": [
+        "Ensuring the plants are from a single genetic source",
+        "Selecting the most visually appealing specimens",
+        "Matching the plants to appropriate environmental conditions",
+        "Reintroducing as many plants as possible at once"
+      ],
+      "answer": "Matching the plants to appropriate environmental conditions"
+    },
+    {
+      "question": "Which of the following best describes the concept of a 'living collection' in ex situ conservation?",
+      "choices": [
+        "A seed bank with high germination rates",
+        "A tissue culture laboratory",
+        "A collection of plants maintained in cultivation, such as in a botanical garden",
+        "A natural habitat protected from human interference"
+      ],
+      "answer": "A collection of plants maintained in cultivation, such as in a botanical garden"
+    },
+    {
+      "question": "What is a potential benefit of using micropropagation in conservation efforts?",
+      "choices": [
+        "It's the least expensive propagation method",
+        "It can produce large numbers of genetically identical plants",
+        "It works for all plant species without exception",
+        "It eliminates the need for traditional propagation methods"
+      ],
+      "answer": "It can produce large numbers of genetically identical plants"
+    },
+    {
+      "question": "Why is it important to consider the role of keystone species in ecosystem restoration?",
+      "choices": [
+        "Keystone species are always the most visually appealing",
+        "Keystone species have a disproportionate impact on their ecosystem",
+        "Keystone species are always the easiest to propagate",
+        "Keystone species require the least maintenance after planting"
+      ],
+      "answer": "Keystone species have a disproportionate impact on their ecosystem"
+    },
+    {
+      "question": "What is a potential challenge in using tissue culture for conservation of rare species?",
+      "choices": [
+        "It's too simple and doesn't require specialized knowledge",
+        "It may be difficult to develop protocols for species that haven't been cultured before",
+        "It always produces plants that are too weak to survive in the wild",
+        "It's only suitable for herbaceous plants"
+      ],
+      "answer": "It may be difficult to develop protocols for species that haven't been cultured before"
+    },
+    {
+      "question": "Which of the following is a reason to include community engagement in conservation and restoration projects?",
+      "choices": [
+        "To reduce project costs",
+        "To eliminate the need for scientific expertise",
+        "To ensure long-term support and sustainability of conservation efforts",
+        "To speed up the growth of planted species"
+      ],
+      "answer": "To ensure long-term support and sustainability of conservation efforts"
+    },
+    {
+      "question": "What is the significance of maintaining ex situ collections even for species that still exist in the wild?",
+      "choices": [
+        "Ex situ collections are always healthier than wild populations",
+        "It provides a backup in case of catastrophic loss of wild populations",
+        "Ex situ collections produce more seeds than wild populations",
+        "It eliminates the need for in situ conservation efforts"
+      ],
+      "answer": "It provides a backup in case of catastrophic loss of wild populations"
+    },
+    {
+      "question": "Which of the following is NOT typically a consideration in selecting plants for ecosystem restoration?",
+      "choices": [
+        "The plant's ability to control erosion",
+        "The plant's potential to improve soil quality",
+        "The plant's market value as an ornamental species",
+        "The plant's ability to support local wildlife"
+      ],
+      "answer": "The plant's market value as an ornamental species"
+    },
+    {
+      "question": "What is a potential risk of introducing propagated plants into restored ecosystems?",
+      "choices": [
+        "The plants might grow too slowly",
+        "The plants could become invasive if not properly managed",
+        "Propagated plants never adapt to wild conditions",
+        "Propagated plants always outcompete naturally occurring species"
+      ],
+      "answer": "The plants could become invasive if not properly managed"
+    },
+    {
+      "question": "Why is it important to document collection sites when gathering plant material for conservation?",
+      "choices": [
+        "To make future collection easier",
+        "To prevent other researchers from accessing the sites",
+        "To maintain records of genetic and environmental origins",
+        "To comply with social media posting requirements"
+      ],
+      "answer": "To maintain records of genetic and environmental origins"
+    },
+    {
+      "question": "What role does climate change play in conservation and restoration efforts?",
+      "choices": [
+        "It has no impact on plant conservation strategies",
+        "It may influence which species are prioritized for conservation",
+        "It eliminates the need for ex situ conservation",
+        "It makes all restoration efforts futile"
+      ],
+      "answer": "It may influence which species are prioritized for conservation"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'genetic rescue' in conservation?",
+      "choices": [
+        "Completely replacing a species' genome",
+        "Introducing new genetic diversity to a small, inbred population",
+        "Removing all genetic diversity to create a perfect specimen",
+        "Freezing genetic material to prevent further evolution"
+      ],
+      "answer": "Introducing new genetic diversity to a small, inbred population"
+    },
+    {
+      "question": "What is a potential benefit of using a variety of propagation methods in conservation efforts?",
+      "choices": [
+        "It increases project costs",
+        "It ensures all plants will be genetically identical",
+        "It allows for the conservation of species with different reproductive strategies",
+        "It eliminates the need for seed banking"
+      ],
+      "answer": "It allows for the conservation of species with different reproductive strategies"
+    },
+    {
+      "question": "Why might conservationists choose to propagate and reintroduce plant species that are not currently endangered?",
+      "choices": [
+        "To create new hybrid species",
+        "To boost local economies through plant sales",
+        "To preemptively protect species that may become threatened in the future",
+        "To replace all non-native species in an ecosystem"
+      ],
+      "answer": "To preemptively protect species that may become threatened in the future"
+    }
+  ]
+}

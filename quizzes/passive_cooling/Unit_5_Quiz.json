@@ -1,0 +1,305 @@
+{
+  "title": "Earth Cooling Techniques",
+  "questions": [
+    {
+      "question": "At what depth does ground temperature typically stabilize in Timor Leste?",
+      "choices": [
+        "1-2 meters",
+        "3-5 meters",
+        "7-10 meters",
+        "15-20 meters"
+      ],
+      "answer": "3-5 meters"
+    },
+    {
+      "question": "What is the typical stable ground temperature range in Timor Leste?",
+      "choices": [
+        "18-20°C",
+        "22-24°C",
+        "26-28°C",
+        "30-32°C"
+      ],
+      "answer": "22-24°C"
+    },
+    {
+      "question": "Which soil type conducts heat faster?",
+      "choices": [
+        "Clay soil",
+        "Sandy soil",
+        "Loamy soil",
+        "Peaty soil"
+      ],
+      "answer": "Sandy soil"
+    },
+    {
+      "question": "What is earth berming?",
+      "choices": [
+        "Digging holes in the earth for cooling",
+        "Using earth piled up against exterior walls",
+        "Creating underground water reservoirs",
+        "Planting trees around a building"
+      ],
+      "answer": "Using earth piled up against exterior walls"
+    },
+    {
+      "question": "Which is NOT a benefit of earth berming?",
+      "choices": [
+        "Reduced heat gain/loss",
+        "Temperature stabilization",
+        "Increased natural lighting",
+        "Noise reduction"
+      ],
+      "answer": "Increased natural lighting"
+    },
+    {
+      "question": "What is an earth-air heat exchanger?",
+      "choices": [
+        "A system of underground pipes for air circulation",
+        "A type of air conditioner",
+        "A solar panel system",
+        "A geothermal power plant"
+      ],
+      "answer": "A system of underground pipes for air circulation"
+    },
+    {
+      "question": "What is the typical pipe diameter range for earth-air heat exchangers?",
+      "choices": [
+        "1-5 cm",
+        "10-30 cm",
+        "50-70 cm",
+        "100-150 cm"
+      ],
+      "answer": "10-30 cm"
+    },
+    {
+      "question": "What is the usual burial depth for earth-air heat exchanger pipes?",
+      "choices": [
+        "0.5-1 meter",
+        "1.5-3 meters",
+        "4-6 meters",
+        "8-10 meters"
+      ],
+      "answer": "1.5-3 meters"
+    },
+    {
+      "question": "Which factor does NOT affect the performance of an earth-air heat exchanger?",
+      "choices": [
+        "Temperature difference between ambient air and ground",
+        "Air velocity in pipes",
+        "Surface area of pipes",
+        "Color of the building's exterior"
+      ],
+      "answer": "Color of the building's exterior"
+    },
+    {
+      "question": "What is a potential maintenance issue for earth-air heat exchangers?",
+      "choices": [
+        "Frequent pipe replacement",
+        "Moisture accumulation and mold growth",
+        "Soil erosion around pipes",
+        "Overheating of the system"
+      ],
+      "answer": "Moisture accumulation and mold growth"
+    },
+    {
+      "question": "Which type of earth-sheltered building has a central open courtyard?",
+      "choices": [
+        "Elevational",
+        "Penetrational",
+        "Atrium",
+        "Subterranean"
+      ],
+      "answer": "Atrium"
+    },
+    {
+      "question": "What is the primary purpose of using earth cooling techniques in building design?",
+      "choices": [
+        "To increase structural stability",
+        "To reduce energy consumption for cooling",
+        "To improve acoustic properties",
+        "To enhance natural lighting"
+      ],
+      "answer": "To reduce energy consumption for cooling"
+    },
+    {
+      "question": "How does vegetation cover affect ground temperature?",
+      "choices": [
+        "It increases surface heating",
+        "It has no effect on ground temperature",
+        "It reduces surface heating through shading and transpiration",
+        "It increases ground temperature fluctuations"
+      ],
+      "answer": "It reduces surface heating through shading and transpiration"
+    },
+    {
+      "question": "What is the geothermal gradient?",
+      "choices": [
+        "The rate at which temperature increases with depth in the Earth's crust",
+        "The difference between surface and underground temperatures",
+        "The cooling capacity of the earth",
+        "The rate of heat transfer in soil"
+      ],
+      "answer": "The rate at which temperature increases with depth in the Earth's crust"
+    },
+    {
+      "question": "Which material is NOT commonly used for earth-air heat exchanger pipes?",
+      "choices": [
+        "PVC",
+        "Concrete",
+        "Wood",
+        "Metal"
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question": "What is thermal mass in the context of earth cooling?",
+      "choices": [
+        "The total weight of the earth used in berming",
+        "The ability of a material to absorb and store heat energy",
+        "The insulation value of soil",
+        "The depth at which ground temperature stabilizes"
+      ],
+      "answer": "The ability of a material to absorb and store heat energy"
+    },
+    {
+      "question": "How does soil moisture content affect its thermal properties?",
+      "choices": [
+        "It decreases thermal conductivity",
+        "It has no effect on thermal properties",
+        "It increases thermal conductivity",
+        "It only affects heat capacity, not conductivity"
+      ],
+      "answer": "It increases thermal conductivity"
+    },
+    {
+      "question": "What is the main challenge in designing fully underground structures?",
+      "choices": [
+        "Structural integrity",
+        "Ventilation and daylighting",
+        "Cost of excavation",
+        "Soil contamination"
+      ],
+      "answer": "Ventilation and daylighting"
+    },
+    {
+      "question": "How do earth cooling techniques contribute to building resilience?",
+      "choices": [
+        "By improving structural strength",
+        "By providing protection from extreme temperatures",
+        "By increasing water resistance",
+        "By enhancing fire resistance"
+      ],
+      "answer": "By providing protection from extreme temperatures"
+    },
+    {
+      "question": "What is the primary function of condensate drainage in an earth-air heat exchanger?",
+      "choices": [
+        "To increase cooling efficiency",
+        "To prevent water accumulation in pipes",
+        "To humidify the air",
+        "To clean the pipes"
+      ],
+      "answer": "To prevent water accumulation in pipes"
+    },
+    {
+      "question": "Which factor is most crucial in determining the cooling potential of earth-air heat exchangers?",
+      "choices": [
+        "Pipe material",
+        "Soil type",
+        "Temperature difference between air and ground",
+        "Depth of installation"
+      ],
+      "answer": "Temperature difference between air and ground"
+    },
+    {
+      "question": "What is the main advantage of earth berming over fully underground structures?",
+      "choices": [
+        "Better insulation",
+        "Easier construction",
+        "Improved natural lighting potential",
+        "Lower cost"
+      ],
+      "answer": "Improved natural lighting potential"
+    },
+    {
+      "question": "How does surface albedo affect ground temperature?",
+      "choices": [
+        "It has no effect on ground temperature",
+        "Higher albedo leads to cooler ground temperatures",
+        "Higher albedo leads to warmer ground temperatures",
+        "It only affects air temperature, not ground temperature"
+      ],
+      "answer": "Higher albedo leads to cooler ground temperatures"
+    },
+    {
+      "question": "What is the typical length range for earth-air heat exchanger pipes?",
+      "choices": [
+        "5-15 meters",
+        "30-100 meters",
+        "150-300 meters",
+        "500-1000 meters"
+      ],
+      "answer": "30-100 meters"
+    },
+    {
+      "question": "Which of the following is NOT a common type of earth-sheltered building?",
+      "choices": [
+        "Elevational",
+        "Penetrational",
+        "Subterranean",
+        "Suspended"
+      ],
+      "answer": "Suspended"
+    },
+    {
+      "question": "What is the primary reason for using filtration systems in earth-air heat exchangers?",
+      "choices": [
+        "To increase air flow",
+        "To improve cooling efficiency",
+        "To maintain air quality and prevent contamination",
+        "To reduce noise"
+      ],
+      "answer": "To maintain air quality and prevent contamination"
+    },
+    {
+      "question": "How does an earth-air heat exchanger typically perform in winter?",
+      "choices": [
+        "It cools the air",
+        "It has no effect on air temperature",
+        "It pre-heats the air",
+        "It dehumidifies the air"
+      ],
+      "answer": "It pre-heats the air"
+    },
+    {
+      "question": "What is the main disadvantage of using concrete pipes for earth-air heat exchangers?",
+      "choices": [
+        "Poor thermal conductivity",
+        "High cost",
+        "Susceptibility to cracking",
+        "Difficulty in installation"
+      ],
+      "answer": "Susceptibility to cracking"
+    },
+    {
+      "question": "How does the thermal conductivity of limestone compare to sandy loam in Timor Leste?",
+      "choices": [
+        "Limestone has lower thermal conductivity",
+        "They have similar thermal conductivity",
+        "Limestone has higher thermal conductivity",
+        "The comparison depends on moisture content"
+      ],
+      "answer": "Limestone has higher thermal conductivity"
+    },
+    {
+      "question": "What is the primary consideration when sizing an earth-air heat exchanger?",
+      "choices": [
+        "Building aesthetics",
+        "Soil pH",
+        "Cooling load of the building",
+        "Local building codes"
+      ],
+      "answer": "Cooling load of the building"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Neuroplasticity and Brain Development",
+  "questions": [
+    {
+      "question": "What is neuroplasticity?",
+      "choices": [
+        "The brain's ability to produce new neurons",
+        "The brain's ability to change and adapt as a result of experience",
+        "The process of eliminating unnecessary neural connections",
+        "The brain's resistance to neuropathological damage"
+      ],
+      "answer": "The brain's ability to change and adapt as a result of experience"
+    },
+    {
+      "question": "Which of the following is NOT a type of neuroplasticity?",
+      "choices": [
+        "Structural plasticity",
+        "Functional plasticity",
+        "Cognitive plasticity",
+        "Synaptic plasticity"
+      ],
+      "answer": "Cognitive plasticity"
+    },
+    {
+      "question": "What is synaptic pruning?",
+      "choices": [
+        "The formation of new neural connections",
+        "The strengthening of existing synapses",
+        "The process of eliminating unnecessary neural connections",
+        "The growth of new neurons in the hippocampus"
+      ],
+      "answer": "The process of eliminating unnecessary neural connections"
+    },
+    {
+      "question": "Which of the following is a critical period for brain development?",
+      "choices": [
+        "Middle age",
+        "Retirement",
+        "Adolescence",
+        "Late adulthood"
+      ],
+      "answer": "Adolescence"
+    },
+    {
+      "question": "What is environmental enrichment in the context of brain development?",
+      "choices": [
+        "Exposure to pollutants that stimulate brain growth",
+        "Exposure to stimulating environments that promote brain development and plasticity",
+        "The process of removing toxins from the brain's environment",
+        "The natural degradation of neural pathways due to aging"
+      ],
+      "answer": "Exposure to stimulating environments that promote brain development and plasticity"
+    },
+    {
+      "question": "What is cognitive reserve?",
+      "choices": [
+        "The brain's ability to store unlimited information",
+        "The brain's resilience to neuropathological damage",
+        "The process of creating backup memories",
+        "The maximum cognitive capacity of an individual"
+      ],
+      "answer": "The brain's resilience to neuropathological damage"
+    },
+    {
+      "question": "During which trimester of pregnancy does rapid neuron production occur?",
+      "choices": [
+        "First trimester",
+        "Second trimester",
+        "Third trimester",
+        "Fourth trimester"
+      ],
+      "answer": "Second trimester"
+    },
+    {
+      "question": "What brain region undergoes significant changes during adolescence?",
+      "choices": [
+        "Cerebellum",
+        "Hippocampus",
+        "Prefrontal cortex",
+        "Amygdala"
+      ],
+      "answer": "Prefrontal cortex"
+    },
+    {
+      "question": "Which of the following is NOT an environmental factor affecting brain plasticity in Timor-Leste?",
+      "choices": [
+        "Nutrition",
+        "Stress",
+        "Education",
+        "Air pollution"
+      ],
+      "answer": "Air pollution"
+    },
+    {
+      "question": "What is Hebbian plasticity?",
+      "choices": [
+        "The formation of new neurons",
+        "The principle that neurons that fire together, wire together",
+        "The elimination of unused neural connections",
+        "The brain's ability to recover from injury"
+      ],
+      "answer": "The principle that neurons that fire together, wire together"
+    },
+    {
+      "question": "Which of the following is an example of structural plasticity?",
+      "choices": [
+        "Changes in patterns of neural activation",
+        "Strengthening of existing synapses",
+        "Formation of new synapses",
+        "Recruitment of alternative neural pathways"
+      ],
+      "answer": "Formation of new synapses"
+    },
+    {
+      "question": "What is the primary function of long-term potentiation (LTP)?",
+      "choices": [
+        "Weakening of synapses due to lack of stimulation",
+        "Elimination of unused connections",
+        "Strengthening of synapses through repeated stimulation",
+        "Formation of new neurons in the hippocampus"
+      ],
+      "answer": "Strengthening of synapses through repeated stimulation"
+    },
+    {
+      "question": "Which of the following is NOT a critical period for brain development?",
+      "choices": [
+        "Prenatal development",
+        "Early childhood",
+        "Adolescence",
+        "Middle adulthood"
+      ],
+      "answer": "Middle adulthood"
+    },
+    {
+      "question": "What is the primary challenge to brain development in Timor-Leste related to nutrition?",
+      "choices": [
+        "Overconsumption of calories",
+        "Excessive intake of micronutrients",
+        "Potential deficiencies in essential nutrients",
+        "Allergies to traditional foods"
+      ],
+      "answer": "Potential deficiencies in essential nutrients"
+    },
+    {
+      "question": "How does chronic stress affect brain plasticity?",
+      "choices": [
+        "It enhances neurogenesis",
+        "It promotes synaptic pruning",
+        "It impairs neuroplasticity and cognitive function",
+        "It increases myelination of neurons"
+      ],
+      "answer": "It impairs neuroplasticity and cognitive function"
+    },
+    {
+      "question": "What role does education play in promoting cognitive development?",
+      "choices": [
+        "It reduces neuroplasticity",
+        "It promotes cognitive decline",
+        "It enhances cognitive reserve",
+        "It accelerates brain aging"
+      ],
+      "answer": "It enhances cognitive reserve"
+    },
+    {
+      "question": "Which of the following is a potential benefit of traditional communal living in Timor-Leste for brain development?",
+      "choices": [
+        "Reduced social interactions",
+        "Increased exposure to diverse experiences and knowledge",
+        "Limited access to education",
+        "Decreased emotional support"
+      ],
+      "answer": "Increased exposure to diverse experiences and knowledge"
+    },
+    {
+      "question": "What is the significance of neurogenesis in adult brains?",
+      "choices": [
+        "It only occurs in childhood",
+        "It demonstrates the brain's continued plasticity in adulthood",
+        "It leads to a decrease in cognitive function",
+        "It is a sign of brain disease"
+      ],
+      "answer": "It demonstrates the brain's continued plasticity in adulthood"
+    },
+    {
+      "question": "Which of the following micronutrients is particularly important for brain development?",
+      "choices": [
+        "Sodium",
+        "Chlorine",
+        "Iodine",
+        "Fluoride"
+      ],
+      "answer": "Iodine"
+    },
+    {
+      "question": "What is the primary function of synaptic pruning in brain development?",
+      "choices": [
+        "To increase the number of neural connections",
+        "To strengthen all existing synapses",
+        "To eliminate unnecessary connections and increase efficiency",
+        "To prevent the formation of new neurons"
+      ],
+      "answer": "To eliminate unnecessary connections and increase efficiency"
+    },
+    {
+      "question": "How might multilingualism impact brain development in Timor-Leste?",
+      "choices": [
+        "It could lead to language confusion and cognitive decline",
+        "It may enhance cognitive flexibility and executive function",
+        "It has no significant impact on brain development",
+        "It slows down language acquisition in children"
+      ],
+      "answer": "It may enhance cognitive flexibility and executive function"
+    },
+    {
+      "question": "What is the role of storytelling in traditional Timorese culture in relation to brain development?",
+      "choices": [
+        "It has no impact on cognitive development",
+        "It may promote language development and social cognition",
+        "It hinders the development of reading skills",
+        "It reduces creativity and imagination"
+      ],
+      "answer": "It may promote language development and social cognition"
+    },
+    {
+      "question": "Which of the following is NOT a potential intervention to support healthy brain development in Timorese children?",
+      "choices": [
+        "Implementing early childhood education programs",
+        "Providing nutritional supplements to pregnant women",
+        "Reducing access to traditional cultural practices",
+        "Offering stress reduction programs for families"
+      ],
+      "answer": "Reducing access to traditional cultural practices"
+    },
+    {
+      "question": "What is the significance of the 'critical period' concept in brain development?",
+      "choices": [
+        "It suggests that brain development only occurs during specific time windows",
+        "It indicates that the brain is particularly sensitive to certain types of input during specific periods",
+        "It proves that brain development stops after adolescence",
+        "It shows that all individuals develop at the same rate"
+      ],
+      "answer": "It indicates that the brain is particularly sensitive to certain types of input during specific periods"
+    },
+    {
+      "question": "How does post-conflict trauma potentially affect brain development in Timor-Leste?",
+      "choices": [
+        "It has no significant impact on brain development",
+        "It may lead to chronic stress, affecting brain structure and function",
+        "It enhances cognitive resilience in all individuals",
+        "It accelerates brain maturation in children"
+      ],
+      "answer": "It may lead to chronic stress, affecting brain structure and function"
+    },
+    {
+      "question": "What is the potential impact of limited access to diverse, nutrient-rich foods on brain development in rural Timor-Leste?",
+      "choices": [
+        "It has no significant impact on brain development",
+        "It may lead to micronutrient deficiencies affecting cognitive development",
+        "It enhances the brain's ability to function with limited resources",
+        "It promotes the development of alternative neural pathways"
+      ],
+      "answer": "It may lead to micronutrient deficiencies affecting cognitive development"
+    },
+    {
+      "question": "How might understanding neuroplasticity change the approach to education in Timor-Leste?",
+      "choices": [
+        "It suggests that education is unnecessary after childhood",
+        "It indicates that learning potential is fixed at birth",
+        "It emphasizes the importance of lifelong learning and diverse experiences",
+        "It proves that traditional teaching methods are always best"
+      ],
+      "answer": "It emphasizes the importance of lifelong learning and diverse experiences"
+    },
+    {
+      "question": "What is the significance of environmental enrichment for brain development?",
+      "choices": [
+        "It is only important during early childhood",
+        "It can promote brain plasticity and cognitive function throughout life",
+        "It is harmful to brain development in adults",
+        "It has no impact on cognitive reserve"
+      ],
+      "answer": "It can promote brain plasticity and cognitive function throughout life"
+    },
+    {
+      "question": "How does physical activity potentially influence brain plasticity?",
+      "choices": [
+        "It has no effect on brain plasticity",
+        "It reduces neurogenesis in the hippocampus",
+        "It may enhance neuroplasticity and cognitive function",
+        "It decreases blood flow to the brain"
+      ],
+      "answer": "It may enhance neuroplasticity and cognitive function"
+    },
+    {
+      "question": "What is the potential impact of chronic malnutrition on brain development in Timor-Leste?",
+      "choices": [
+        "It has no long-term effects on brain function",
+        "It may lead to impaired cognitive development and reduced plasticity",
+        "It enhances the brain's ability to function with limited resources",
+        "It accelerates brain maturation in children"
+      ],
+      "answer": "It may lead to impaired cognitive development and reduced plasticity"
+    }
+  ]
+}

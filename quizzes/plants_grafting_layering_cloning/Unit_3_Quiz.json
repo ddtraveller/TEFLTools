@@ -1,0 +1,305 @@
+{
+  "title": "Advanced Grafting Techniques",
+  "questions": [
+    {
+      "question": "What is the main advantage of approach grafting?",
+      "choices": [
+        "It's faster than other grafting methods",
+        "It's useful for difficult-to-graft species",
+        "It requires less skill than other methods",
+        "It's only used for fruit trees"
+      ],
+      "answer": "It's useful for difficult-to-graft species"
+    },
+    {
+      "question": "In approach grafting, when are the original roots or tops severed?",
+      "choices": [
+        "Immediately after joining the plants",
+        "Before joining the plants",
+        "Gradually, once the union is established",
+        "Never, both parts remain intact"
+      ],
+      "answer": "Gradually, once the union is established"
+    },
+    {
+      "question": "What is the primary purpose of bridge grafting?",
+      "choices": [
+        "To create new plant varieties",
+        "To repair damaged trees",
+        "To increase fruit production",
+        "To propagate rare species"
+      ],
+      "answer": "To repair damaged trees"
+    },
+    {
+      "question": "When is the best time to perform bridge grafting?",
+      "choices": [
+        "In the fall, as leaves are dropping",
+        "In the winter, during dormancy",
+        "In the spring, as buds begin to swell",
+        "In the summer, during peak growth"
+      ],
+      "answer": "In the spring, as buds begin to swell"
+    },
+    {
+      "question": "What is a key consideration when grafting for disease resistance?",
+      "choices": [
+        "Using the fastest-growing rootstock",
+        "Selecting rootstocks with known resistance to local pathogens",
+        "Always using non-native species as rootstock",
+        "Grafting only during the full moon"
+      ],
+      "answer": "Selecting rootstocks with known resistance to local pathogens"
+    },
+    {
+      "question": "Which of the following is NOT a common consideration for climate adaptation grafting?",
+      "choices": [
+        "Drought tolerance",
+        "Salinity resistance",
+        "Flower color",
+        "Temperature extremes tolerance"
+      ],
+      "answer": "Flower color"
+    },
+    {
+      "question": "What is a potential risk of grafting for climate adaptation in Timor Leste?",
+      "choices": [
+        "Introducing invasive species",
+        "Reducing genetic diversity",
+        "Increasing water consumption",
+        "Slowing plant growth rates"
+      ],
+      "answer": "Introducing invasive species"
+    },
+    {
+      "question": "What is inarching?",
+      "choices": [
+        "A type of bridge grafting",
+        "A form of approach grafting for established plants",
+        "A method of air layering",
+        "A technique for grafting annual plants"
+      ],
+      "answer": "A form of approach grafting for established plants"
+    },
+    {
+      "question": "Which of the following is a critical factor for successful approach grafting?",
+      "choices": [
+        "Using only exotic species",
+        "Performing the graft underwater",
+        "Ensuring cambium contact between plants",
+        "Grafting only during a full moon"
+      ],
+      "answer": "Ensuring cambium contact between plants"
+    },
+    {
+      "question": "What is a common application of approach grafting in Timor Leste?",
+      "choices": [
+        "Creating bonsai trees",
+        "Joining canopy species in agroforestry systems",
+        "Propagating annual crops",
+        "Developing new flower varieties"
+      ],
+      "answer": "Joining canopy species in agroforestry systems"
+    },
+    {
+      "question": "What is the main purpose of scion preconditioning?",
+      "choices": [
+        "To increase scion size",
+        "To improve grafting success rates",
+        "To change the scion's genetic makeup",
+        "To reduce the need for rootstock"
+      ],
+      "answer": "To improve grafting success rates"
+    },
+    {
+      "question": "Which of the following is NOT a common method of scion preconditioning?",
+      "choices": [
+        "Girdling",
+        "Etiolation",
+        "Fertilization",
+        "Bending"
+      ],
+      "answer": "Fertilization"
+    },
+    {
+      "question": "What is a potential consequence of poor cambium alignment in grafting?",
+      "choices": [
+        "Increased fruit production",
+        "Faster growth rate",
+        "Poor graft union",
+        "Improved disease resistance"
+      ],
+      "answer": "Poor graft union"
+    },
+    {
+      "question": "Which of the following is a sign of graft incompatibility?",
+      "choices": [
+        "Rapid growth at the graft union",
+        "Early leaf emergence",
+        "Delayed failure of the graft",
+        "Increased fruit production"
+      ],
+      "answer": "Delayed failure of the graft"
+    },
+    {
+      "question": "How can disease transmission through grafting be prevented?",
+      "choices": [
+        "Using older scion wood",
+        "Grafting during rainy seasons",
+        "Using certified disease-free plant material",
+        "Avoiding all native species"
+      ],
+      "answer": "Using certified disease-free plant material"
+    },
+    {
+      "question": "What is the primary function of grafting tape?",
+      "choices": [
+        "To provide nutrients to the graft",
+        "To secure the graft union",
+        "To prevent sunburn on the scion",
+        "To attract beneficial insects"
+      ],
+      "answer": "To secure the graft union"
+    },
+    {
+      "question": "Which environmental factor is most critical to control immediately after grafting?",
+      "choices": [
+        "Light intensity",
+        "Soil pH",
+        "Humidity",
+        "Wind speed"
+      ],
+      "answer": "Humidity"
+    },
+    {
+      "question": "What is the main advantage of using local species for rootstock in Timor Leste?",
+      "choices": [
+        "They are cheaper to obtain",
+        "They are already adapted to local conditions",
+        "They grow faster than non-native species",
+        "They produce larger fruits"
+      ],
+      "answer": "They are already adapted to local conditions"
+    },
+    {
+      "question": "Which of the following is NOT a common application of advanced grafting in Timor Leste?",
+      "choices": [
+        "Improving coffee plant resilience",
+        "Repairing storm-damaged fruit trees",
+        "Creating new ornamental flower varieties",
+        "Enhancing drought tolerance in food crops"
+      ],
+      "answer": "Creating new ornamental flower varieties"
+    },
+    {
+      "question": "What is the primary purpose of using grafting wax?",
+      "choices": [
+        "To provide nutrients to the graft",
+        "To prevent desiccation of the graft union",
+        "To attract pollinators",
+        "To increase the growth rate of the scion"
+      ],
+      "answer": "To prevent desiccation of the graft union"
+    },
+    {
+      "question": "Which of the following tools is essential for precision in grafting?",
+      "choices": [
+        "Power drill",
+        "Grafting knife",
+        "Watering can",
+        "Pruning saw"
+      ],
+      "answer": "Grafting knife"
+    },
+    {
+      "question": "What is the main benefit of using approach grafting for rare or endangered species?",
+      "choices": [
+        "It's faster than other methods",
+        "It requires less skill",
+        "It has a higher success rate for difficult species",
+        "It produces more genetically diverse offspring"
+      ],
+      "answer": "It has a higher success rate for difficult species"
+    },
+    {
+      "question": "In bridge grafting, where are the scions typically inserted?",
+      "choices": [
+        "Only above the damaged area",
+        "Only below the damaged area",
+        "Both above and below the damaged area",
+        "Directly into the damaged area"
+      ],
+      "answer": "Both above and below the damaged area"
+    },
+    {
+      "question": "What is a potential ethical concern when using advanced grafting techniques on native species?",
+      "choices": [
+        "Increasing biodiversity",
+        "Improving crop yields",
+        "Altering natural ecosystems",
+        "Reducing pesticide use"
+      ],
+      "answer": "Altering natural ecosystems"
+    },
+    {
+      "question": "Which of the following is NOT a common reason for graft failure?",
+      "choices": [
+        "Poor cambium alignment",
+        "Incompatibility between scion and rootstock",
+        "Using grafting tape",
+        "Environmental stress"
+      ],
+      "answer": "Using grafting tape"
+    },
+    {
+      "question": "What role does the cambium play in grafting?",
+      "choices": [
+        "It provides water to the graft",
+        "It's the site where the graft union forms",
+        "It produces fruits",
+        "It protects against diseases"
+      ],
+      "answer": "It's the site where the graft union forms"
+    },
+    {
+      "question": "Which of the following species in Timor Leste could benefit from approach grafting for improving root systems?",
+      "choices": [
+        "Rice",
+        "Sandalwood",
+        "Cassava",
+        "Bamboo"
+      ],
+      "answer": "Sandalwood"
+    },
+    {
+      "question": "What is a potential benefit of using grafting to improve coffee plants in Timor Leste?",
+      "choices": [
+        "Increasing bean size",
+        "Changing coffee flavor",
+        "Enhancing resistance to leaf rust",
+        "Reducing caffeine content"
+      ],
+      "answer": "Enhancing resistance to leaf rust"
+    },
+    {
+      "question": "Which of the following is a key consideration when selecting rootstock for climate adaptation?",
+      "choices": [
+        "Fruit color",
+        "Leaf shape",
+        "Drought tolerance",
+        "Flower size"
+      ],
+      "answer": "Drought tolerance"
+    },
+    {
+      "question": "What is the primary goal of grafting for conservation purposes?",
+      "choices": [
+        "Increasing crop yields",
+        "Creating new species",
+        "Preserving genetic diversity",
+        "Improving fruit flavor"
+      ],
+      "answer": "Preserving genetic diversity"
+    }
+  ]
+}

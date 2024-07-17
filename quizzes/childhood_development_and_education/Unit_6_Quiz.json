@@ -1,0 +1,305 @@
+{
+  "title": "Capacity Building for ECCD Educators in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of ECCD educators in Timor-Leste have only primary education or less?",
+      "choices": [
+        "30%",
+        "40%",
+        "50%",
+        "60%"
+      ],
+      "answer": "50%"
+    },
+    {
+      "question": "What is the average monthly salary for ECCD educators in Timor-Leste?",
+      "choices": [
+        "$100",
+        "$150",
+        "$200",
+        "$250"
+      ],
+      "answer": "$150"
+    },
+    {
+      "question": "What is the annual turnover rate for ECCD educators in Timor-Leste?",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "What percentage of ECCD educators in Timor-Leste work in urban areas?",
+      "choices": [
+        "40%",
+        "50%",
+        "60%",
+        "70%"
+      ],
+      "answer": "60%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge faced by ECCD educators in Timor-Leste?",
+      "choices": [
+        "Low salaries",
+        "Limited access to training opportunities",
+        "Lack of standardized curriculum",
+        "Oversupply of qualified educators"
+      ],
+      "answer": "Oversupply of qualified educators"
+    },
+    {
+      "question": "What percentage of ECCD educators in Timor-Leste have university degrees in education or related fields?",
+      "choices": [
+        "5%",
+        "15%",
+        "25%",
+        "35%"
+      ],
+      "answer": "5%"
+    },
+    {
+      "question": "Which organization partners with the Ministry of Education to focus on ECCD training in 10 priority districts?",
+      "choices": [
+        "WHO",
+        "UNICEF",
+        "UNESCO",
+        "World Bank"
+      ],
+      "answer": "UNICEF"
+    },
+    {
+      "question": "What percentage of new educators are covered by mentoring programs in urban centers?",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "answer": "20%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a best practice from global research for ECCD educator training?",
+      "choices": [
+        "Continuous professional development",
+        "Practice-based learning",
+        "Focus on reflective practice",
+        "Standardized international curriculum"
+      ],
+      "answer": "Standardized international curriculum"
+    },
+    {
+      "question": "What is the gender distribution of ECCD educators in Timor-Leste?",
+      "choices": [
+        "60% female, 40% male",
+        "65% female, 35% male",
+        "70% female, 30% male",
+        "75% female, 25% male"
+      ],
+      "answer": "75% female, 25% male"
+    },
+    {
+      "question": "Which of the following is a key component of capacity building efforts for ECCD educators in Timor-Leste?",
+      "choices": [
+        "Mandatory overseas training",
+        "Exclusive focus on university-level education",
+        "Mentoring programs",
+        "Standardized testing of educators"
+      ],
+      "answer": "Mentoring programs"
+    },
+    {
+      "question": "What is the primary goal of reflective practice in ECCD educator development?",
+      "choices": [
+        "To increase educator salaries",
+        "To promote continuous improvement",
+        "To standardize teaching methods",
+        "To reduce workload"
+      ],
+      "answer": "To promote continuous improvement"
+    },
+    {
+      "question": "Which of the following is an emerging trend in capacity building for ECCD educators in Timor-Leste?",
+      "choices": [
+        "Mandatory international certifications",
+        "Use of technology for distance learning",
+        "Elimination of in-person training",
+        "Focus on single-language instruction"
+      ],
+      "answer": "Use of technology for distance learning"
+    },
+    {
+      "question": "What percentage of municipalities have implemented peer learning circles for ECCD educators?",
+      "choices": [
+        "20%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a focus area for leadership training of ECCD educators?",
+      "choices": [
+        "Program management",
+        "Community engagement",
+        "Advocacy for early childhood education",
+        "Financial investment strategies"
+      ],
+      "answer": "Financial investment strategies"
+    },
+    {
+      "question": "What is a major challenge in retaining qualified ECCD educators in Timor-Leste?",
+      "choices": [
+        "Oversupply of educators",
+        "Lack of interest in the field",
+        "Difficulty in rural areas",
+        "Strict immigration policies"
+      ],
+      "answer": "Difficulty in rural areas"
+    },
+    {
+      "question": "Which international organization is mentioned as providing technical assistance for ECCD capacity building in Timor-Leste?",
+      "choices": [
+        "UNICEF",
+        "NATO",
+        "IMF",
+        "WTO"
+      ],
+      "answer": "UNICEF"
+    },
+    {
+      "question": "What is the approximate number of ECCD educators in Timor-Leste as of 2021?",
+      "choices": [
+        "1,500",
+        "2,000",
+        "2,500",
+        "3,000"
+      ],
+      "answer": "2,500"
+    },
+    {
+      "question": "Which of the following is emphasized as important for ECCD educators in Timor-Leste due to linguistic diversity?",
+      "choices": [
+        "English-only instruction",
+        "Multilingual teaching strategies",
+        "Sign language proficiency",
+        "Latin language focus"
+      ],
+      "answer": "Multilingual teaching strategies"
+    },
+    {
+      "question": "What percentage of ECCD educators are reached by Ministry of Education annual summer workshops?",
+      "choices": [
+        "20%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": "40%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic covered in in-service training programs for ECCD educators?",
+      "choices": [
+        "Child-centered teaching methods",
+        "Classroom management",
+        "Early literacy development",
+        "Advanced mathematics"
+      ],
+      "answer": "Advanced mathematics"
+    },
+    {
+      "question": "What is a key benefit of mentoring programs for ECCD educators in Timor-Leste?",
+      "choices": [
+        "Guaranteed salary increases",
+        "Tailored professional development",
+        "Automatic promotion to administrative roles",
+        "Exemption from further training requirements"
+      ],
+      "answer": "Tailored professional development"
+    },
+    {
+      "question": "Which of the following is a focus of capacity building initiatives for creating sustainable ECCD systems?",
+      "choices": [
+        "Developing leadership skills among educators",
+        "Reducing the number of ECCD centers",
+        "Centralizing all decision-making",
+        "Eliminating local cultural practices"
+      ],
+      "answer": "Developing leadership skills among educators"
+    },
+    {
+      "question": "What percentage of ECCD educators in Timor-Leste have post-secondary diplomas in education?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge in building capacity for ECCD educators in Timor-Leste?",
+      "choices": [
+        "Limited resources",
+        "Geographical barriers",
+        "Need for culturally appropriate materials",
+        "Excessive government funding"
+      ],
+      "answer": "Excessive government funding"
+    },
+    {
+      "question": "What is emphasized as a valuable tool for professional growth among ECCD educators in Timor-Leste?",
+      "choices": [
+        "Competitive examinations",
+        "Reflective practice",
+        "Mandatory research publications",
+        "Political activism"
+      ],
+      "answer": "Reflective practice"
+    },
+    {
+      "question": "Which of the following is mentioned as a focus of training for ECCD educators in creating stimulating learning environments?",
+      "choices": [
+        "Expensive educational toys",
+        "Complex technological setups",
+        "Age-appropriate activities",
+        "Rigid classroom structures"
+      ],
+      "answer": "Age-appropriate activities"
+    },
+    {
+      "question": "What percentage of ECCD educators are reached by NGO-led training programs in Timor-Leste?",
+      "choices": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a component of a comprehensive professional development plan for ECCD educators?",
+      "choices": [
+        "Needs assessment strategy",
+        "Learning objectives",
+        "Evaluation mechanisms",
+        "Mandatory overseas internships"
+      ],
+      "answer": "Mandatory overseas internships"
+    },
+    {
+      "question": "What is emphasized as important for professional development programs to incorporate alongside evidence-based ECCD strategies?",
+      "choices": [
+        "Western educational philosophies only",
+        "Standardized international curricula",
+        "Local knowledge and practices",
+        "Political ideologies"
+      ],
+      "answer": "Local knowledge and practices"
+    }
+  ]
+}

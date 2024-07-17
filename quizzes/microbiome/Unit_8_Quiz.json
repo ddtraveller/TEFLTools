@@ -1,0 +1,305 @@
+{
+  "title": "Epigenetics, Nutritional Programming, and Lifestyle Psychiatry in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is epigenetics?",
+      "choices": [
+        "The study of changes in DNA sequence",
+        "The study of heritable changes in gene expression without DNA sequence changes",
+        "The study of genetic mutations",
+        "The study of protein synthesis"
+      ],
+      "answer": "The study of heritable changes in gene expression without DNA sequence changes"
+    },
+    {
+      "question": "Which of the following is NOT a primary epigenetic mechanism?",
+      "choices": [
+        "DNA methylation",
+        "Histone modification",
+        "Non-coding RNA",
+        "Gene deletion"
+      ],
+      "answer": "Gene deletion"
+    },
+    {
+      "question": "What is nutritional programming?",
+      "choices": [
+        "A computer program for tracking nutrition",
+        "The concept that early nutrition can have long-lasting health effects",
+        "A method for calculating daily caloric needs",
+        "A diet plan for weight loss"
+      ],
+      "answer": "The concept that early nutrition can have long-lasting health effects"
+    },
+    {
+      "question": "Which period is considered especially critical for nutritional programming?",
+      "choices": [
+        "Adolescence",
+        "Middle age",
+        "The first 1000 days of life",
+        "Retirement"
+      ],
+      "answer": "The first 1000 days of life"
+    },
+    {
+      "question": "What is lifestyle psychiatry?",
+      "choices": [
+        "An approach emphasizing medication for mental health",
+        "An approach focusing on hospitalization for mental health treatment",
+        "An approach emphasizing diet, exercise, sleep, and stress management for mental health",
+        "An approach that disregards environmental factors in mental health"
+      ],
+      "answer": "An approach emphasizing diet, exercise, sleep, and stress management for mental health"
+    },
+    {
+      "question": "How might maternal malnutrition during pregnancy affect the child in Timor-Leste?",
+      "choices": [
+        "It has no long-term effects",
+        "It may predispose the child to mental health issues later in life",
+        "It only affects physical growth",
+        "It improves the child's immune system"
+      ],
+      "answer": "It may predispose the child to mental health issues later in life"
+    },
+    {
+      "question": "Which traditional Timorese food is mentioned as potentially influencing epigenetic processes?",
+      "choices": [
+        "Rice",
+        "Beef",
+        "Cassava",
+        "Wheat"
+      ],
+      "answer": "Cassava"
+    },
+    {
+      "question": "What is tebe dai in the context of Timorese culture?",
+      "choices": [
+        "A traditional food",
+        "A traditional dance",
+        "A religious ceremony",
+        "A type of medication"
+      ],
+      "answer": "A traditional dance"
+    },
+    {
+      "question": "Which nutrient found in spinach can affect DNA methylation patterns?",
+      "choices": [
+        "Vitamin C",
+        "Iron",
+        "Folate",
+        "Calcium"
+      ],
+      "answer": "Folate"
+    },
+    {
+      "question": "What is a major challenge in implementing new mental health approaches in Timor-Leste?",
+      "choices": [
+        "Excessive funding",
+        "Too many mental health professionals",
+        "Limited healthcare infrastructure",
+        "Overabundance of resources"
+      ],
+      "answer": "Limited healthcare infrastructure"
+    },
+    {
+      "question": "How can community health workers contribute to mental health care in Timor-Leste?",
+      "choices": [
+        "By prescribing medication",
+        "By performing surgery",
+        "By incorporating basic principles of lifestyle psychiatry into their practice",
+        "By ignoring mental health issues"
+      ],
+      "answer": "By incorporating basic principles of lifestyle psychiatry into their practice"
+    },
+    {
+      "question": "What is DNA methylation?",
+      "choices": [
+        "The removal of methyl groups from DNA",
+        "The addition of methyl groups to DNA molecules",
+        "The breaking of DNA strands",
+        "The replication of DNA"
+      ],
+      "answer": "The addition of methyl groups to DNA molecules"
+    },
+    {
+      "question": "How can histone modifications affect gene expression?",
+      "choices": [
+        "By changing the DNA sequence",
+        "By altering how tightly DNA is wrapped around histone proteins",
+        "By deleting genes",
+        "By adding new genes"
+      ],
+      "answer": "By altering how tightly DNA is wrapped around histone proteins"
+    },
+    {
+      "question": "What is a potential benefit of promoting traditional Timorese foods for mental health?",
+      "choices": [
+        "It's more expensive",
+        "It's less culturally appropriate",
+        "It may contain bioactive compounds that influence epigenetic processes",
+        "It has no nutritional value"
+      ],
+      "answer": "It may contain bioactive compounds that influence epigenetic processes"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a critical period for nutritional programming?",
+      "choices": [
+        "Prenatal period",
+        "Early infancy",
+        "Middle age",
+        "Childhood and adolescence"
+      ],
+      "answer": "Middle age"
+    },
+    {
+      "question": "What role can traditional Timorese spiritual practices play in lifestyle psychiatry?",
+      "choices": [
+        "They should be completely disregarded",
+        "They can be incorporated as stress management tools",
+        "They are only relevant for religious purposes",
+        "They have no impact on mental health"
+      ],
+      "answer": "They can be incorporated as stress management tools"
+    },
+    {
+      "question": "How might epigenetic mechanisms contribute to mental health issues in Timor-Leste?",
+      "choices": [
+        "They have no impact on mental health",
+        "They may play a role in intergenerational transmission of mental health vulnerabilities",
+        "They only affect physical health",
+        "They automatically improve mental health"
+      ],
+      "answer": "They may play a role in intergenerational transmission of mental health vulnerabilities"
+    },
+    {
+      "question": "What is a potential advantage of lifestyle psychiatry approaches in Timor-Leste?",
+      "choices": [
+        "They require expensive medication",
+        "They align well with traditional Timorese holistic views of health",
+        "They ignore cultural context",
+        "They focus solely on individual therapy"
+      ],
+      "answer": "They align well with traditional Timorese holistic views of health"
+    },
+    {
+      "question": "What type of public health campaign could help improve mental health outcomes in Timor-Leste?",
+      "choices": [
+        "Campaigns promoting Western fast food",
+        "Campaigns discouraging physical activity",
+        "Campaigns educating about the long-term impacts of nutrition on mental health",
+        "Campaigns promoting sleep deprivation"
+      ],
+      "answer": "Campaigns educating about the long-term impacts of nutrition on mental health"
+    },
+    {
+      "question": "Which environmental factor is NOT mentioned as potentially influencing epigenetics in Timor-Leste?",
+      "choices": [
+        "Nutrition",
+        "Stress",
+        "Social experiences",
+        "Extraterrestrial contact"
+      ],
+      "answer": "Extraterrestrial contact"
+    },
+    {
+      "question": "What is a potential challenge in implementing epigenetic-based interventions in Timor-Leste?",
+      "choices": [
+        "Too much funding",
+        "Excessive number of trained professionals",
+        "Widespread poverty",
+        "Over-developed healthcare infrastructure"
+      ],
+      "answer": "Widespread poverty"
+    },
+    {
+      "question": "How can understanding epigenetics benefit mental health care in Timor-Leste?",
+      "choices": [
+        "It can help develop more effective, culturally appropriate strategies",
+        "It makes mental health care unnecessary",
+        "It only benefits physical health",
+        "It has no practical applications"
+      ],
+      "answer": "It can help develop more effective, culturally appropriate strategies"
+    },
+    {
+      "question": "What role can community ties play in disseminating information about epigenetics and nutritional programming?",
+      "choices": [
+        "They hinder information spread",
+        "They have no impact",
+        "They can be leveraged to effectively spread information",
+        "They only spread misinformation"
+      ],
+      "answer": "They can be leveraged to effectively spread information"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a traditional Timorese food that may influence epigenetic processes?",
+      "choices": [
+        "Cassava",
+        "Sweet potatoes",
+        "Leafy greens",
+        "Hamburgers"
+      ],
+      "answer": "Hamburgers"
+    },
+    {
+      "question": "What is a potential benefit of incorporating mindfulness practices derived from Timorese spiritual traditions?",
+      "choices": [
+        "It may be an effective stress management tool",
+        "It has no impact on mental health",
+        "It replaces all other forms of mental health treatment",
+        "It only benefits physical health"
+      ],
+      "answer": "It may be an effective stress management tool"
+    },
+    {
+      "question": "How might climate change potentially impact epigenetics and mental health in Timor-Leste?",
+      "choices": [
+        "It has no impact",
+        "It could influence epigenetic patterns related to stress and adaptation",
+        "It only affects physical health",
+        "It automatically improves mental health"
+      ],
+      "answer": "It could influence epigenetic patterns related to stress and adaptation"
+    },
+    {
+      "question": "What is the potential role of non-coding RNA in epigenetics?",
+      "choices": [
+        "It has no role in epigenetics",
+        "It directly changes the DNA sequence",
+        "It regulates gene expression",
+        "It only affects protein synthesis"
+      ],
+      "answer": "It regulates gene expression"
+    },
+    {
+      "question": "How might promoting consumption of nutrient-dense traditional foods during pregnancy impact population mental health in Timor-Leste?",
+      "choices": [
+        "It would have no impact",
+        "It could have far-reaching positive effects",
+        "It would only affect physical health",
+        "It would negatively impact mental health"
+      ],
+      "answer": "It could have far-reaching positive effects"
+    },
+    {
+      "question": "What is a potential ethical consideration in implementing epigenetic-based interventions in Timorese communities?",
+      "choices": [
+        "There are no ethical considerations",
+        "Respecting cultural beliefs while introducing new scientific concepts",
+        "Ignoring local traditions completely",
+        "Implementing interventions without community consent"
+      ],
+      "answer": "Respecting cultural beliefs while introducing new scientific concepts"
+    },
+    {
+      "question": "How can lifestyle factors like sleep and stress management influence gene expression?",
+      "choices": [
+        "They have no impact on gene expression",
+        "They can alter epigenetic markers, potentially affecting gene expression",
+        "They directly change the DNA sequence",
+        "They only affect physical appearance"
+      ],
+      "answer": "They can alter epigenetic markers, potentially affecting gene expression"
+    }
+  ]
+}

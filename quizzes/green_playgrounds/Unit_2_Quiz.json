@@ -1,0 +1,305 @@
+{
+  "title": "Green Infrastructure Principles and Practices",
+  "questions": [
+    {
+      "question": "What is the primary goal of green infrastructure?",
+      "choices": [
+        "To increase urban development",
+        "To protect, restore, or mimic the natural water cycle",
+        "To replace all traditional infrastructure",
+        "To reduce vegetation in urban areas"
+      ],
+      "answer": "To protect, restore, or mimic the natural water cycle"
+    },
+    {
+      "question": "Which of the following is NOT a key benefit of green infrastructure?",
+      "choices": [
+        "Stormwater management",
+        "Climate resilience",
+        "Increased carbon emissions",
+        "Improved air quality"
+      ],
+      "answer": "Increased carbon emissions"
+    },
+    {
+      "question": "What is a bioswale?",
+      "choices": [
+        "A type of green roof",
+        "A vegetated, shallow, landscaped depression",
+        "A permeable paving system",
+        "An underground water storage tank"
+      ],
+      "answer": "A vegetated, shallow, landscaped depression"
+    },
+    {
+      "question": "Which of the following is a key feature of rain gardens?",
+      "choices": [
+        "Concrete lining",
+        "Deep water storage",
+        "Native vegetation",
+        "Impermeable soil"
+      ],
+      "answer": "Native vegetation"
+    },
+    {
+      "question": "What is the main function of permeable paving?",
+      "choices": [
+        "To increase runoff",
+        "To allow rainwater infiltration",
+        "To create a heat island effect",
+        "To prevent plant growth"
+      ],
+      "answer": "To allow rainwater infiltration"
+    },
+    {
+      "question": "Which type of green roof typically requires less maintenance?",
+      "choices": [
+        "Intensive green roof",
+        "Extensive green roof",
+        "Vertical green roof",
+        "Hybrid green roof"
+      ],
+      "answer": "Extensive green roof"
+    },
+    {
+      "question": "What is evapotranspiration?",
+      "choices": [
+        "The process of water freezing in soil",
+        "The combined process of evaporation and transpiration",
+        "The movement of water through pipes",
+        "The absorption of water by concrete"
+      ],
+      "answer": "The combined process of evaporation and transpiration"
+    },
+    {
+      "question": "Which of the following is a key consideration when adapting green infrastructure to Timor-Leste?",
+      "choices": [
+        "Designing for snow loads",
+        "Using non-native plant species",
+        "Planning for high-intensity rainfall events",
+        "Focusing on cold-weather resilience"
+      ],
+      "answer": "Planning for high-intensity rainfall events"
+    },
+    {
+      "question": "What is infiltration in the context of green infrastructure?",
+      "choices": [
+        "The process of water evaporating from plants",
+        "The movement of water through pipes",
+        "The process by which water enters the soil",
+        "The removal of pollutants from the air"
+      ],
+      "answer": "The process by which water enters the soil"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of a rain garden?",
+      "choices": [
+        "Native plants",
+        "Ponding area",
+        "Impermeable liner",
+        "Mulch layer"
+      ],
+      "answer": "Impermeable liner"
+    },
+    {
+      "question": "What is the primary difference between green infrastructure and traditional 'gray' infrastructure?",
+      "choices": [
+        "Green infrastructure is more expensive",
+        "Gray infrastructure uses more vegetation",
+        "Green infrastructure works with nature rather than against it",
+        "Gray infrastructure is more environmentally friendly"
+      ],
+      "answer": "Green infrastructure works with nature rather than against it"
+    },
+    {
+      "question": "Which of the following is a social benefit of green infrastructure?",
+      "choices": [
+        "Increased carbon emissions",
+        "Reduced biodiversity",
+        "Creation of recreational spaces",
+        "Higher water treatment costs"
+      ],
+      "answer": "Creation of recreational spaces"
+    },
+    {
+      "question": "What role do plants play in green infrastructure systems?",
+      "choices": [
+        "They increase stormwater runoff",
+        "They act as living sponges, absorbing and filtering water",
+        "They prevent groundwater recharge",
+        "They increase the urban heat island effect"
+      ],
+      "answer": "They act as living sponges, absorbing and filtering water"
+    },
+    {
+      "question": "Which of the following is a key principle of green infrastructure design?",
+      "choices": [
+        "Quickly channeling water away from urban areas",
+        "Maximizing impervious surfaces",
+        "Slowing down, spreading out, and soaking in water",
+        "Reducing vegetation in urban spaces"
+      ],
+      "answer": "Slowing down, spreading out, and soaking in water"
+    },
+    {
+      "question": "What is a potential challenge in implementing green infrastructure in Timor-Leste?",
+      "choices": [
+        "Lack of rainfall",
+        "Excessive cold weather",
+        "Adapting designs to handle both intense rainfall and dry periods",
+        "Abundance of existing green spaces"
+      ],
+      "answer": "Adapting designs to handle both intense rainfall and dry periods"
+    },
+    {
+      "question": "Which of the following is NOT a typical function of urban tree canopy in green infrastructure?",
+      "choices": [
+        "Intercepting rainfall",
+        "Providing shade",
+        "Improving air quality",
+        "Increasing stormwater runoff"
+      ],
+      "answer": "Increasing stormwater runoff"
+    },
+    {
+      "question": "What is a key consideration in plant selection for green infrastructure in Timor-Leste?",
+      "choices": [
+        "Using non-native species exclusively",
+        "Selecting plants that require high maintenance",
+        "Choosing plants that can withstand both heavy rain and dry periods",
+        "Focusing on cold-weather tolerant species"
+      ],
+      "answer": "Choosing plants that can withstand both heavy rain and dry periods"
+    },
+    {
+      "question": "Which of the following is a benefit of incorporating green roofs in urban areas?",
+      "choices": [
+        "Increasing the urban heat island effect",
+        "Reducing building insulation",
+        "Capturing rainwater and reducing runoff",
+        "Eliminating the need for stormwater management"
+      ],
+      "answer": "Capturing rainwater and reducing runoff"
+    },
+    {
+      "question": "What is the primary function of a bioswale?",
+      "choices": [
+        "To increase water runoff speed",
+        "To capture, treat, and infiltrate stormwater runoff",
+        "To prevent plant growth in urban areas",
+        "To replace traditional sewage systems"
+      ],
+      "answer": "To capture, treat, and infiltrate stormwater runoff"
+    },
+    {
+      "question": "Which of the following is NOT typically a type of permeable paving?",
+      "choices": [
+        "Pervious concrete",
+        "Porous asphalt",
+        "Permeable interlocking pavers",
+        "Standard asphalt"
+      ],
+      "answer": "Standard asphalt"
+    },
+    {
+      "question": "What is a key environmental benefit of green infrastructure?",
+      "choices": [
+        "Increased water pollution",
+        "Reduced biodiversity",
+        "Improved air quality",
+        "Higher energy consumption"
+      ],
+      "answer": "Improved air quality"
+    },
+    {
+      "question": "How does green infrastructure contribute to climate resilience?",
+      "choices": [
+        "By increasing greenhouse gas emissions",
+        "By reducing flood risk and mitigating urban heat island effect",
+        "By promoting the use of fossil fuels",
+        "By eliminating all vegetation in urban areas"
+      ],
+      "answer": "By reducing flood risk and mitigating urban heat island effect"
+    },
+    {
+      "question": "What role does soil play in green infrastructure systems?",
+      "choices": [
+        "It prevents water infiltration",
+        "It increases surface runoff",
+        "It acts as a natural water filter and storage medium",
+        "It contributes to water pollution"
+      ],
+      "answer": "It acts as a natural water filter and storage medium"
+    },
+    {
+      "question": "Which of the following is a key consideration in the maintenance of green infrastructure in Timor-Leste?",
+      "choices": [
+        "Ensuring high-maintenance designs",
+        "Ignoring local climate conditions",
+        "Developing low-maintenance designs suitable for local resources",
+        "Relying entirely on imported materials and expertise"
+      ],
+      "answer": "Developing low-maintenance designs suitable for local resources"
+    },
+    {
+      "question": "How can green infrastructure be integrated with urban agriculture initiatives?",
+      "choices": [
+        "By replacing all agricultural areas with concrete",
+        "By designing multi-functional spaces that manage water and produce food",
+        "By eliminating green spaces in cities",
+        "By increasing the use of chemical fertilizers"
+      ],
+      "answer": "By designing multi-functional spaces that manage water and produce food"
+    },
+    {
+      "question": "What is a potential economic benefit of implementing green infrastructure?",
+      "choices": [
+        "Increased water treatment costs",
+        "Higher energy consumption",
+        "Enhanced property values in surrounding areas",
+        "Reduced job opportunities"
+      ],
+      "answer": "Enhanced property values in surrounding areas"
+    },
+    {
+      "question": "Which of the following best describes the relationship between green infrastructure and biodiversity?",
+      "choices": [
+        "Green infrastructure typically reduces urban biodiversity",
+        "Green infrastructure has no impact on biodiversity",
+        "Green infrastructure can enhance biodiversity by creating habitats",
+        "Green infrastructure and biodiversity are unrelated concepts"
+      ],
+      "answer": "Green infrastructure can enhance biodiversity by creating habitats"
+    },
+    {
+      "question": "What role does community engagement play in the success of green infrastructure projects?",
+      "choices": [
+        "It is unnecessary for project implementation",
+        "It only involves government officials",
+        "It is crucial for maintenance and appreciation of the systems",
+        "It reduces the effectiveness of green infrastructure"
+      ],
+      "answer": "It is crucial for maintenance and appreciation of the systems"
+    },
+    {
+      "question": "How does green infrastructure compare to traditional gray infrastructure in terms of cost-effectiveness?",
+      "choices": [
+        "Green infrastructure is always more expensive",
+        "Gray infrastructure is always more cost-effective",
+        "Green infrastructure can be more cost-effective over the long term",
+        "Cost is not a factor in choosing between green and gray infrastructure"
+      ],
+      "answer": "Green infrastructure can be more cost-effective over the long term"
+    },
+    {
+      "question": "Which of the following professionals would typically NOT be involved in green infrastructure planning?",
+      "choices": [
+        "Urban planners",
+        "Landscape architects",
+        "Ecologists",
+        "Deep-sea marine biologists"
+      ],
+      "answer": "Deep-sea marine biologists"
+    }
+  ]
+}

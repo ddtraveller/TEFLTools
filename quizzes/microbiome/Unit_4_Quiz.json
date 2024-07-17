@@ -1,0 +1,305 @@
+{
+  "title": "Ultra-processed Foods and Gut Microbiota in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary characteristic of ultra-processed foods?",
+      "choices": [
+        "They are always organic",
+        "They are made predominantly from whole foods",
+        "They are industrial formulations with extensive use of additives",
+        "They are always imported from other countries"
+      ],
+      "answer": "They are industrial formulations with extensive use of additives"
+    },
+    {
+      "question": "Which of the following is NOT an example of an ultra-processed food commonly found in Timor-Leste?",
+      "choices": [
+        "Instant noodles",
+        "Carbonated soft drinks",
+        "Fresh corn and mung bean stew",
+        "Packaged snacks"
+      ],
+      "answer": "Fresh corn and mung bean stew"
+    },
+    {
+      "question": "What is the NOVA classification system used for?",
+      "choices": [
+        "Categorizing different types of processed foods",
+        "Ranking the nutritional value of foods",
+        "Determining the shelf life of products",
+        "Classifying food additives"
+      ],
+      "answer": "Categorizing different types of processed foods"
+    },
+    {
+      "question": "How do ultra-processed foods typically affect gut microbiota?",
+      "choices": [
+        "They increase microbial diversity",
+        "They reduce microbial diversity",
+        "They have no effect on gut microbiota",
+        "They only affect harmful bacteria"
+      ],
+      "answer": "They reduce microbial diversity"
+    },
+    {
+      "question": "What is dysbiosis?",
+      "choices": [
+        "A type of probiotic supplement",
+        "A balanced gut microbial community",
+        "An imbalance in the gut microbial community associated with disease states",
+        "A method of food processing"
+      ],
+      "answer": "An imbalance in the gut microbial community associated with disease states"
+    },
+    {
+      "question": "Which factor is contributing to increased ultra-processed food consumption in Timor-Leste?",
+      "choices": [
+        "Government regulations promoting traditional foods",
+        "Decreasing urbanization",
+        "Aggressive marketing strategies",
+        "Declining availability of imported foods"
+      ],
+      "answer": "Aggressive marketing strategies"
+    },
+    {
+      "question": "What is a potential consequence of increased ultra-processed food consumption in Timor-Leste?",
+      "choices": [
+        "Improved food security",
+        "Enhanced traditional dietary patterns",
+        "Rising rates of obesity and non-communicable diseases",
+        "Increased microbial diversity in the gut"
+      ],
+      "answer": "Rising rates of obesity and non-communicable diseases"
+    },
+    {
+      "question": "How does the fiber content of ultra-processed foods typically compare to traditional Timorese cuisine?",
+      "choices": [
+        "Ultra-processed foods are higher in fiber",
+        "Ultra-processed foods are lower in fiber",
+        "They have the same fiber content",
+        "Fiber content is not relevant to ultra-processed foods"
+      ],
+      "answer": "Ultra-processed foods are lower in fiber"
+    },
+    {
+      "question": "What role does dietary fiber play in gut health?",
+      "choices": [
+        "It serves as a food source for beneficial gut bacteria",
+        "It kills harmful bacteria in the gut",
+        "It has no effect on gut microbiota",
+        "It increases the pH of the gut"
+      ],
+      "answer": "It serves as a food source for beneficial gut bacteria"
+    },
+    {
+      "question": "Which of the following is NOT a common additive in ultra-processed foods?",
+      "choices": [
+        "Preservatives",
+        "Emulsifiers",
+        "Artificial sweeteners",
+        "Whole grain flour"
+      ],
+      "answer": "Whole grain flour"
+    },
+    {
+      "question": "What is nutrient density?",
+      "choices": [
+        "The weight of a food item",
+        "The ratio of nutrients to calories in a food item",
+        "The number of ingredients in a food product",
+        "The shelf life of a food product"
+      ],
+      "answer": "The ratio of nutrients to calories in a food item"
+    },
+    {
+      "question": "How might the increased consumption of ultra-processed foods impact Timor-Leste's agricultural sector?",
+      "choices": [
+        "It will likely boost local agriculture",
+        "It may lead to a decline in demand for local produce",
+        "It will have no impact on agriculture",
+        "It will increase the diversity of crops grown"
+      ],
+      "answer": "It may lead to a decline in demand for local produce"
+    },
+    {
+      "question": "What is a potential strategy for reducing ultra-processed food consumption in Timor-Leste?",
+      "choices": [
+        "Increasing imports of ultra-processed foods",
+        "Promoting traditional Timorese foods as healthier alternatives",
+        "Removing all regulations on food marketing",
+        "Discouraging local food production"
+      ],
+      "answer": "Promoting traditional Timorese foods as healthier alternatives"
+    },
+    {
+      "question": "Which health issue is NOT typically associated with high consumption of ultra-processed foods?",
+      "choices": [
+        "Obesity",
+        "Type 2 diabetes",
+        "Improved gut health",
+        "Cardiovascular diseases"
+      ],
+      "answer": "Improved gut health"
+    },
+    {
+      "question": "What is a characteristic of traditional Timorese diets that supports gut health?",
+      "choices": [
+        "High in ultra-processed foods",
+        "Low in plant-based foods",
+        "Rich in dietary fiber",
+        "Exclusively meat-based"
+      ],
+      "answer": "Rich in dietary fiber"
+    },
+    {
+      "question": "Which policy intervention could help reduce ultra-processed food consumption?",
+      "choices": [
+        "Removing all food labeling requirements",
+        "Increasing taxes on fresh produce",
+        "Promoting ultra-processed foods in schools",
+        "Implementing taxes on sugary beverages"
+      ],
+      "answer": "Implementing taxes on sugary beverages"
+    },
+    {
+      "question": "What is a potential challenge in reducing ultra-processed food consumption in Timor-Leste?",
+      "choices": [
+        "Lack of traditional food options",
+        "Overabundance of nutrition education",
+        "Perceived convenience and modernity of ultra-processed foods",
+        "Government bans on all processed foods"
+      ],
+      "answer": "Perceived convenience and modernity of ultra-processed foods"
+    },
+    {
+      "question": "How might ultra-processed foods affect the nutritional status of vulnerable populations in Timor-Leste?",
+      "choices": [
+        "They will likely improve overall nutrition",
+        "They may exacerbate existing issues of malnutrition",
+        "They have no impact on nutritional status",
+        "They only affect adult populations"
+      ],
+      "answer": "They may exacerbate existing issues of malnutrition"
+    },
+    {
+      "question": "What is a key difference between traditional Timorese dishes and ultra-processed alternatives?",
+      "choices": [
+        "Traditional dishes are always more expensive",
+        "Ultra-processed foods are always healthier",
+        "Traditional dishes typically offer more nutrients and fiber",
+        "There are no significant differences"
+      ],
+      "answer": "Traditional dishes typically offer more nutrients and fiber"
+    },
+    {
+      "question": "Which factor is NOT contributing to the shift towards ultra-processed foods in Timor-Leste?",
+      "choices": [
+        "Increased availability",
+        "Affordability",
+        "Government promotion of traditional foods",
+        "Changing taste preferences"
+      ],
+      "answer": "Government promotion of traditional foods"
+    },
+    {
+      "question": "What role does the gut microbiota play in human health?",
+      "choices": [
+        "It only affects digestion",
+        "It has no significant impact on health",
+        "It influences digestion, immunity, and even mental well-being",
+        "It only affects skin health"
+      ],
+      "answer": "It influences digestion, immunity, and even mental well-being"
+    },
+    {
+      "question": "How might education programs address the issue of ultra-processed food consumption in Timor-Leste?",
+      "choices": [
+        "By promoting ultra-processed foods as healthy options",
+        "By ignoring the issue entirely",
+        "By focusing solely on imported foods",
+        "By raising awareness about the risks and promoting healthier alternatives"
+      ],
+      "answer": "By raising awareness about the risks and promoting healthier alternatives"
+    },
+    {
+      "question": "What is a potential economic impact of increased ultra-processed food consumption in Timor-Leste?",
+      "choices": [
+        "Strengthened local food systems",
+        "Reduced healthcare costs",
+        "Increased dependence on food imports",
+        "Improved agricultural diversity"
+      ],
+      "answer": "Increased dependence on food imports"
+    },
+    {
+      "question": "Which of the following is a characteristic of a healthy gut microbiota?",
+      "choices": [
+        "Low microbial diversity",
+        "Dominance of a single bacterial species",
+        "High microbial diversity",
+        "Absence of all bacteria"
+      ],
+      "answer": "High microbial diversity"
+    },
+    {
+      "question": "How do artificial sweeteners in ultra-processed foods potentially affect gut microbiota?",
+      "choices": [
+        "They have no effect on gut microbiota",
+        "They always improve gut health",
+        "They may disrupt the balance of gut microbiota",
+        "They only affect the taste of food"
+      ],
+      "answer": "They may disrupt the balance of gut microbiota"
+    },
+    {
+      "question": "What is a potential long-term consequence of altered gut microbiota due to ultra-processed food consumption?",
+      "choices": [
+        "Improved immune function",
+        "Reduced risk of chronic diseases",
+        "Increased susceptibility to various health issues",
+        "No long-term effects"
+      ],
+      "answer": "Increased susceptibility to various health issues"
+    },
+    {
+      "question": "Which approach would be most effective in promoting healthier food choices in Timor-Leste?",
+      "choices": [
+        "Banning all processed foods",
+        "Ignoring dietary changes in the population",
+        "A multifaceted approach including education, policy, and promotion of traditional foods",
+        "Focusing solely on imported health foods"
+      ],
+      "answer": "A multifaceted approach including education, policy, and promotion of traditional foods"
+    },
+    {
+      "question": "What role can local communities play in addressing the issue of ultra-processed food consumption?",
+      "choices": [
+        "They have no role to play",
+        "Only government agencies can address this issue",
+        "They can participate in and lead community-based education and food programs",
+        "They should promote ultra-processed foods"
+      ],
+      "answer": "They can participate in and lead community-based education and food programs"
+    },
+    {
+      "question": "How might the food industry be engaged to address the issue of ultra-processed foods in Timor-Leste?",
+      "choices": [
+        "By encouraging them to produce more ultra-processed foods",
+        "By completely banning all food industry operations",
+        "By incentivizing the production of healthier, minimally processed options",
+        "By ignoring the food industry's role entirely"
+      ],
+      "answer": "By incentivizing the production of healthier, minimally processed options"
+    },
+    {
+      "question": "What is a potential benefit of preserving traditional Timorese dietary patterns?",
+      "choices": [
+        "Increased consumption of ultra-processed foods",
+        "Reduced agricultural diversity",
+        "Maintenance of a healthier gut microbiota",
+        "Higher rates of obesity"
+      ],
+      "answer": "Maintenance of a healthier gut microbiota"
+    }
+  ]
+}

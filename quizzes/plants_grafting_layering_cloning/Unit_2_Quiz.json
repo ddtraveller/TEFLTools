@@ -1,0 +1,305 @@
+{
+  "title": "Grafting Fundamentals",
+  "questions": [
+    {
+      "question": "What is the primary function of the cambium layer in grafting?",
+      "choices": [
+        "To provide nutrients to the plant",
+        "To produce new wood and bark cells",
+        "To protect the plant from diseases",
+        "To store water for the plant"
+      ],
+      "answer": "To produce new wood and bark cells"
+    },
+    {
+      "question": "Which type of grafting has the highest success rate?",
+      "choices": [
+        "Intraspecific grafting",
+        "Interspecific grafting",
+        "Intergeneric grafting",
+        "Cross-kingdom grafting"
+      ],
+      "answer": "Intraspecific grafting"
+    },
+    {
+      "question": "What is the purpose of the rootstock in grafting?",
+      "choices": [
+        "To provide desired fruit characteristics",
+        "To control flower color",
+        "To provide the root system and foundation",
+        "To determine the shape of the leaves"
+      ],
+      "answer": "To provide the root system and foundation"
+    },
+    {
+      "question": "Which grafting technique is best for thick rootstocks (2-10 cm diameter)?",
+      "choices": [
+        "Whip and tongue graft",
+        "Side veneer graft",
+        "Cleft graft",
+        "Approach graft"
+      ],
+      "answer": "Cleft graft"
+    },
+    {
+      "question": "What is the ideal temperature range for post-grafting care?",
+      "choices": [
+        "10-15°C (50-59°F)",
+        "15-20°C (59-68°F)",
+        "21-27°C (70-80°F)",
+        "28-35°C (82-95°F)"
+      ],
+      "answer": "21-27°C (70-80°F)"
+    },
+    {
+      "question": "Which of the following is NOT a criterion for selecting rootstock?",
+      "choices": [
+        "Disease resistance",
+        "Adaptability to local soil conditions",
+        "Fruit quality",
+        "Desired tree size and vigor"
+      ],
+      "answer": "Fruit quality"
+    },
+    {
+      "question": "What is the purpose of grafting tape or rubber bands in post-grafting care?",
+      "choices": [
+        "To provide nutrients to the graft union",
+        "To prevent desiccation and pathogen entry",
+        "To stimulate growth hormones",
+        "To change the color of the graft"
+      ],
+      "answer": "To prevent desiccation and pathogen entry"
+    },
+    {
+      "question": "Which grafting technique is best for rootstocks and scions of equal diameter (0.5-2 cm)?",
+      "choices": [
+        "Cleft graft",
+        "Whip and tongue graft",
+        "Side veneer graft",
+        "Bridge graft"
+      ],
+      "answer": "Whip and tongue graft"
+    },
+    {
+      "question": "What is the recommended humidity level for post-grafting care?",
+      "choices": [
+        "30-40%",
+        "50-60%",
+        "70-75%",
+        "80-90%"
+      ],
+      "answer": "80-90%"
+    },
+    {
+      "question": "When is the best time to collect scion wood?",
+      "choices": [
+        "During active growth",
+        "During flowering",
+        "During dormancy",
+        "During fruit set"
+      ],
+      "answer": "During dormancy"
+    },
+    {
+      "question": "What is the primary purpose of the scion in grafting?",
+      "choices": [
+        "To provide the root system",
+        "To determine the size of the plant",
+        "To contribute desired characteristics like fruit quality",
+        "To increase disease resistance"
+      ],
+      "answer": "To contribute desired characteristics like fruit quality"
+    },
+    {
+      "question": "Which of the following is NOT a step in graft union formation?",
+      "choices": [
+        "Alignment of cambium layers",
+        "Production of callus tissue",
+        "Differentiation of new vascular tissue",
+        "Development of new root hairs"
+      ],
+      "answer": "Development of new root hairs"
+    },
+    {
+      "question": "What is the purpose of making a tongue cut in the whip and tongue graft?",
+      "choices": [
+        "To increase the surface area for union",
+        "To allow for water drainage",
+        "To make the graft more flexible",
+        "To promote faster healing"
+      ],
+      "answer": "To increase the surface area for union"
+    },
+    {
+      "question": "How many buds should typically be present on a scion?",
+      "choices": [
+        "1-2",
+        "3-5",
+        "6-8",
+        "9-10"
+      ],
+      "answer": "3-5"
+    },
+    {
+      "question": "What is the main advantage of the side veneer graft?",
+      "choices": [
+        "It's best for thick rootstocks",
+        "It's ideal for rootstocks and scions of equal diameter",
+        "It's suitable for rootstocks significantly larger than scions",
+        "It's the easiest technique for beginners"
+      ],
+      "answer": "It's suitable for rootstocks significantly larger than scions"
+    },
+    {
+      "question": "Why is it important to remove rootstock sprouts promptly after grafting?",
+      "choices": [
+        "They may compete with the scion for nutrients",
+        "They can introduce diseases",
+        "They improve the graft union",
+        "They help balance the plant's growth"
+      ],
+      "answer": "They may compete with the scion for nutrients"
+    },
+    {
+      "question": "What is the primary reason for providing shade to newly grafted plants?",
+      "choices": [
+        "To promote faster growth",
+        "To reduce transpiration",
+        "To prevent sunburn",
+        "To encourage root development"
+      ],
+      "answer": "To reduce transpiration"
+    },
+    {
+      "question": "Which of the following is NOT a common application of grafting?",
+      "choices": [
+        "Changing the variety of an established tree",
+        "Creating multi-variety fruit trees",
+        "Increasing the genetic diversity of a species",
+        "Restoring damaged trees"
+      ],
+      "answer": "Increasing the genetic diversity of a species"
+    },
+    {
+      "question": "What is the main purpose of grafting wax?",
+      "choices": [
+        "To provide nutrients to the graft union",
+        "To seal the union and protect it from moisture loss",
+        "To stimulate callus formation",
+        "To prevent insect infestations"
+      ],
+      "answer": "To seal the union and protect it from moisture loss"
+    },
+    {
+      "question": "How long does it typically take for a graft union to heal?",
+      "choices": [
+        "A few days",
+        "1-2 weeks",
+        "Several weeks",
+        "Several months"
+      ],
+      "answer": "Several weeks"
+    },
+    {
+      "question": "What is the primary reason for using disease-resistant rootstock?",
+      "choices": [
+        "To improve fruit flavor",
+        "To increase yield",
+        "To protect the entire plant from soil-borne diseases",
+        "To enhance drought tolerance"
+      ],
+      "answer": "To protect the entire plant from soil-borne diseases"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting graft compatibility?",
+      "choices": [
+        "Genetic similarity",
+        "Growth rates",
+        "Vascular anatomy",
+        "Leaf shape"
+      ],
+      "answer": "Leaf shape"
+    },
+    {
+      "question": "What is the main advantage of interspecific grafting over intraspecific grafting?",
+      "choices": [
+        "Higher success rate",
+        "Easier to perform",
+        "Allows for combining traits from different species",
+        "Produces more vigorous plants"
+      ],
+      "answer": "Allows for combining traits from different species"
+    },
+    {
+      "question": "Why is it important to use clean, sharp tools when grafting?",
+      "choices": [
+        "To make the process faster",
+        "To prevent the introduction of pathogens",
+        "To improve the aesthetic appearance of the graft",
+        "To reduce plant stress"
+      ],
+      "answer": "To prevent the introduction of pathogens"
+    },
+    {
+      "question": "What is the primary reason for gradually reducing humidity and increasing light exposure after grafting?",
+      "choices": [
+        "To encourage faster growth",
+        "To harden off the plant",
+        "To improve fruit set",
+        "To prevent fungal growth"
+      ],
+      "answer": "To harden off the plant"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of grafting in fruit tree production?",
+      "choices": [
+        "Combining disease resistance with high-quality fruit",
+        "Controlling tree size",
+        "Speeding up the breeding process",
+        "Improving soil quality"
+      ],
+      "answer": "Improving soil quality"
+    },
+    {
+      "question": "What is the main purpose of making angled cuts in the whip and tongue graft?",
+      "choices": [
+        "To allow for better water uptake",
+        "To increase the surface area for cambium contact",
+        "To make the graft more flexible",
+        "To reduce the risk of disease"
+      ],
+      "answer": "To increase the surface area for cambium contact"
+    },
+    {
+      "question": "Why is it important to match the diameter of the rootstock and scion in some grafting techniques?",
+      "choices": [
+        "To improve the aesthetic appearance",
+        "To ensure proper alignment of cambium layers",
+        "To increase the growth rate",
+        "To reduce the risk of graft rejection"
+      ],
+      "answer": "To ensure proper alignment of cambium layers"
+    },
+    {
+      "question": "What is the primary reason for wrapping a graft union?",
+      "choices": [
+        "To provide nutrients",
+        "To protect against pests",
+        "To hold components together and prevent drying",
+        "To stimulate growth hormones"
+      ],
+      "answer": "To hold components together and prevent drying"
+    },
+    {
+      "question": "Which of the following is NOT a common reason for grafting?",
+      "choices": [
+        "To propagate plants that are difficult to root from cuttings",
+        "To create dwarf fruit trees",
+        "To increase genetic diversity in a population",
+        "To repair damaged trees"
+      ],
+      "answer": "To increase genetic diversity in a population"
+    }
+  ]
+}

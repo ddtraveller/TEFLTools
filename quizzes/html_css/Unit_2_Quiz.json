@@ -1,0 +1,305 @@
+{
+  "title": "Advanced HTML and Document Structure",
+  "questions": [
+    {
+      "question": "What is the primary purpose of semantic HTML?",
+      "choices": [
+        "To make websites look visually appealing",
+        "To convey the meaning of content, not just its appearance",
+        "To improve website loading speed",
+        "To add animations to web pages"
+      ],
+      "answer": "To convey the meaning of content, not just its appearance"
+    },
+    {
+      "question": "Which HTML5 element is used for the main content of a document?",
+      "choices": [
+        "<content>",
+        "<body>",
+        "<main>",
+        "<article>"
+      ],
+      "answer": "<main>"
+    },
+    {
+      "question": "What does the 'alt' attribute provide for images?",
+      "choices": [
+        "A caption that appears below the image",
+        "An alternative text description for users who cannot see the image",
+        "A link to a larger version of the image",
+        "The image's file size"
+      ],
+      "answer": "An alternative text description for users who cannot see the image"
+    },
+    {
+      "question": "Which HTML5 input type is specifically designed for email addresses?",
+      "choices": [
+        "type='mail'",
+        "type='address'",
+        "type='email'",
+        "type='e-mail'"
+      ],
+      "answer": "type='email'"
+    },
+    {
+      "question": "What does WCAG stand for?",
+      "choices": [
+        "Web Content Accessibility Guidelines",
+        "World Consortium for Accessible Graphics",
+        "Web Compliance and Governance",
+        "Website Creation and Generation"
+      ],
+      "answer": "Web Content Accessibility Guidelines"
+    },
+    {
+      "question": "Which HTML5 element is used for navigation links?",
+      "choices": [
+        "<navbar>",
+        "<menu>",
+        "<navigation>",
+        "<nav>"
+      ],
+      "answer": "<nav>"
+    },
+    {
+      "question": "What is the purpose of the 'required' attribute in HTML forms?",
+      "choices": [
+        "To make a field read-only",
+        "To specify that a field must be filled out before the form can be submitted",
+        "To set a maximum length for input",
+        "To apply custom styling to a form field"
+      ],
+      "answer": "To specify that a field must be filled out before the form can be submitted"
+    },
+    {
+      "question": "Which of the following is NOT one of the four main principles of WCAG?",
+      "choices": [
+        "Perceivable",
+        "Operable",
+        "Understandable",
+        "Aesthetic"
+      ],
+      "answer": "Aesthetic"
+    },
+    {
+      "question": "What does ARIA stand for in web accessibility?",
+      "choices": [
+        "Accessible Rich Internet Applications",
+        "Advanced Responsive Interface Attributes",
+        "Automated Readability Index Assessment",
+        "Alternative Rendering for Internet Access"
+      ],
+      "answer": "Accessible Rich Internet Applications"
+    },
+    {
+      "question": "Which HTML5 element is used for content that is tangentially related to the content around it?",
+      "choices": [
+        "<sidebar>",
+        "<aside>",
+        "<related>",
+        "<tangent>"
+      ],
+      "answer": "<aside>"
+    },
+    {
+      "question": "What is the purpose of the 'pattern' attribute in HTML forms?",
+      "choices": [
+        "To apply a visual pattern to the form",
+        "To specify a regular expression that the input must match",
+        "To create a pattern lock for form submission",
+        "To generate a unique pattern for each form submission"
+      ],
+      "answer": "To specify a regular expression that the input must match"
+    },
+    {
+      "question": "Which HTML5 element is used for self-contained compositions like blog posts or news articles?",
+      "choices": [
+        "<post>",
+        "<content>",
+        "<article>",
+        "<composition>"
+      ],
+      "answer": "<article>"
+    },
+    {
+      "question": "What is the primary benefit of using semantic HTML for search engines?",
+      "choices": [
+        "It makes the website load faster",
+        "It improves the visual design of the website",
+        "It provides context and meaning to the content",
+        "It increases the number of pages on the website"
+      ],
+      "answer": "It provides context and meaning to the content"
+    },
+    {
+      "question": "Which HTML5 input type is used for telephone numbers?",
+      "choices": [
+        "type='phone'",
+        "type='number'",
+        "type='tel'",
+        "type='telephone'"
+      ],
+      "answer": "type='tel'"
+    },
+    {
+      "question": "What is the purpose of the <header> element in HTML5?",
+      "choices": [
+        "To define a section of navigation links",
+        "To contain introductory content or navigational aids",
+        "To specify the main content of the document",
+        "To create a header image for the website"
+      ],
+      "answer": "To contain introductory content or navigational aids"
+    },
+    {
+      "question": "Which attribute is used to associate a label with a form input in HTML?",
+      "choices": [
+        "for",
+        "id",
+        "name",
+        "label"
+      ],
+      "answer": "for"
+    },
+    {
+      "question": "What is the purpose of the <footer> element in HTML5?",
+      "choices": [
+        "To create a sticky footer that always stays at the bottom of the page",
+        "To contain concluding content for its nearest sectioning content or sectioning root ancestor",
+        "To add a decorative footer image to the page",
+        "To specify the font to be used in the footer text"
+      ],
+      "answer": "To contain concluding content for its nearest sectioning content or sectioning root ancestor"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using semantic HTML?",
+      "choices": [
+        "Improved accessibility",
+        "Better SEO",
+        "Increased page loading speed",
+        "Clearer code structure"
+      ],
+      "answer": "Increased page loading speed"
+    },
+    {
+      "question": "What is the purpose of the 'aria-label' attribute?",
+      "choices": [
+        "To add a visible label to an element",
+        "To provide a text alternative for background images",
+        "To create a label for form inputs",
+        "To provide a text description for elements that don't have visible text"
+      ],
+      "answer": "To provide a text description for elements that don't have visible text"
+    },
+    {
+      "question": "Which HTML5 element is used to define a standalone section of a document?",
+      "choices": [
+        "<div>",
+        "<article>",
+        "<section>",
+        "<content>"
+      ],
+      "answer": "<section>"
+    },
+    {
+      "question": "What is the purpose of using heading tags (h1-h6) in a logical hierarchy?",
+      "choices": [
+        "To make the text larger and more visually appealing",
+        "To improve the website's loading speed",
+        "To create a clear document outline for users and assistive technologies",
+        "To increase the keyword density for SEO"
+      ],
+      "answer": "To create a clear document outline for users and assistive technologies"
+    },
+    {
+      "question": "Which HTML5 input type automatically validates that the input is a valid URL?",
+      "choices": [
+        "type='link'",
+        "type='web'",
+        "type='url'",
+        "type='href'"
+      ],
+      "answer": "type='url'"
+    },
+    {
+      "question": "What is the primary purpose of the 'role' attribute in HTML?",
+      "choices": [
+        "To assign CSS styles to an element",
+        "To specify the importance of an element",
+        "To define the function of an element for accessibility purposes",
+        "To determine the order of elements in the DOM"
+      ],
+      "answer": "To define the function of an element for accessibility purposes"
+    },
+    {
+      "question": "Which of the following is NOT a semantic HTML5 element?",
+      "choices": [
+        "<nav>",
+        "<header>",
+        "<div>",
+        "<footer>"
+      ],
+      "answer": "<div>"
+    },
+    {
+      "question": "What does the 'autocomplete' attribute do in HTML forms?",
+      "choices": [
+        "Automatically submits the form when all fields are filled",
+        "Suggests input based on the user's previous entries",
+        "Checks the spelling of user input",
+        "Completes the form with random data for testing"
+      ],
+      "answer": "Suggests input based on the user's previous entries"
+    },
+    {
+      "question": "Which principle of WCAG ensures that user interface components and navigation must be operable?",
+      "choices": [
+        "Perceivable",
+        "Operable",
+        "Understandable",
+        "Robust"
+      ],
+      "answer": "Operable"
+    },
+    {
+      "question": "What is the purpose of the <figure> and <figcaption> elements in HTML5?",
+      "choices": [
+        "To create decorative borders around images",
+        "To group media content with its caption",
+        "To apply filters to images",
+        "To create slideshows of multiple images"
+      ],
+      "answer": "To group media content with its caption"
+    },
+    {
+      "question": "Which HTML5 input type is used for selecting a date and time?",
+      "choices": [
+        "type='datetime'",
+        "type='calendar'",
+        "type='datetime-local'",
+        "type='timestamp'"
+      ],
+      "answer": "type='datetime-local'"
+    },
+    {
+      "question": "What is the purpose of the 'tabindex' attribute in HTML?",
+      "choices": [
+        "To create tabbed navigation",
+        "To specify the order of elements when navigating with the Tab key",
+        "To set the number of spaces for indentation in the code",
+        "To create a table of contents for the page"
+      ],
+      "answer": "To specify the order of elements when navigating with the Tab key"
+    },
+    {
+      "question": "Which of the following is a benefit of using HTML5 form validation attributes?",
+      "choices": [
+        "It eliminates the need for server-side validation",
+        "It makes the form visually appealing",
+        "It reduces the need for JavaScript validation and provides a more consistent user experience",
+        "It automatically encrypts the form data"
+      ],
+      "answer": "It reduces the need for JavaScript validation and provides a more consistent user experience"
+    }
+  ]
+}

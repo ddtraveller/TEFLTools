@@ -1,0 +1,305 @@
+{
+  "title": "Micropropagation Techniques",
+  "questions": [
+    {
+      "question": "Which micropropagation technique is best suited for producing virus-free plants?",
+      "choices": [
+        "Callus culture",
+        "Somatic embryogenesis",
+        "Meristem culture",
+        "Organogenesis"
+      ],
+      "answer": "Meristem culture"
+    },
+    {
+      "question": "What is the main advantage of shoot tip culture?",
+      "choices": [
+        "High genetic variation",
+        "Rapid multiplication of plants",
+        "Elimination of all pathogens",
+        "Formation of undifferentiated cell masses"
+      ],
+      "answer": "Rapid multiplication of plants"
+    },
+    {
+      "question": "Which plant hormone is commonly used to induce callus formation?",
+      "choices": [
+        "Gibberellic acid",
+        "Abscisic acid",
+        "2,4-Dichlorophenoxyacetic acid (2,4-D)",
+        "Ethylene"
+      ],
+      "answer": "2,4-Dichlorophenoxyacetic acid (2,4-D)"
+    },
+    {
+      "question": "What is the primary purpose of somatic embryogenesis?",
+      "choices": [
+        "Virus elimination",
+        "Mass propagation",
+        "Genetic transformation",
+        "Root induction"
+      ],
+      "answer": "Mass propagation"
+    },
+    {
+      "question": "Which of the following is NOT a common application of micropropagation in agriculture?",
+      "choices": [
+        "Production of disease-free plants",
+        "Rapid multiplication of elite varieties",
+        "Increasing genetic diversity in crops",
+        "Year-round production of seasonal crops"
+      ],
+      "answer": "Increasing genetic diversity in crops"
+    },
+    {
+      "question": "What is the term for the ability of a single plant cell to develop into a complete plant?",
+      "choices": [
+        "Pluripotency",
+        "Totipotency",
+        "Multipotency",
+        "Unipotency"
+      ],
+      "answer": "Totipotency"
+    },
+    {
+      "question": "Which micropropagation technique is most likely to result in somaclonal variation?",
+      "choices": [
+        "Meristem culture",
+        "Shoot tip culture",
+        "Callus culture",
+        "Direct organogenesis"
+      ],
+      "answer": "Callus culture"
+    },
+    {
+      "question": "What is the main difference between shoot tip culture and meristem culture?",
+      "choices": [
+        "The size of the explant used",
+        "The type of growth medium",
+        "The plant species it can be applied to",
+        "The resulting plant's genetic makeup"
+      ],
+      "answer": "The size of the explant used"
+    },
+    {
+      "question": "Which of the following is a potential challenge in implementing tissue culture facilities in rural areas of Timor Leste?",
+      "choices": [
+        "Lack of electricity",
+        "Insufficient water supply",
+        "Limited access to sterile equipment",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary purpose of using cytokinins in shoot tip culture media?",
+      "choices": [
+        "To induce root formation",
+        "To promote shoot multiplication",
+        "To initiate callus formation",
+        "To stimulate embryo development"
+      ],
+      "answer": "To promote shoot multiplication"
+    },
+    {
+      "question": "Which micropropagation technique has been successfully used for the conservation of sandalwood (Santalum album) in Timor Leste?",
+      "choices": [
+        "Somatic embryogenesis",
+        "Callus culture",
+        "Axillary bud proliferation",
+        "Protoplast culture"
+      ],
+      "answer": "Axillary bud proliferation"
+    },
+    {
+      "question": "What is the main advantage of somatic embryogenesis over other micropropagation techniques?",
+      "choices": [
+        "It always produces virus-free plants",
+        "It has a high multiplication rate",
+        "It preserves genetic diversity",
+        "It requires less specialized equipment"
+      ],
+      "answer": "It has a high multiplication rate"
+    },
+    {
+      "question": "Which of the following is NOT a typical stage in somatic embryogenesis?",
+      "choices": [
+        "Induction of embryogenic cells",
+        "Development of somatic embryos",
+        "Callus proliferation",
+        "Maturation of embryos"
+      ],
+      "answer": "Callus proliferation"
+    },
+    {
+      "question": "What is the primary purpose of using auxins in rooting media for micropropagated shoots?",
+      "choices": [
+        "To induce shoot formation",
+        "To promote cell division",
+        "To stimulate root initiation",
+        "To enhance chlorophyll production"
+      ],
+      "answer": "To stimulate root initiation"
+    },
+    {
+      "question": "Which of the following is a critical step in the acclimatization of tissue-cultured plants?",
+      "choices": [
+        "Increasing light intensity",
+        "Reducing humidity gradually",
+        "Applying high doses of fertilizer",
+        "Maintaining sterile conditions"
+      ],
+      "answer": "Reducing humidity gradually"
+    },
+    {
+      "question": "What is the main advantage of using micropropagation for endangered species conservation?",
+      "choices": [
+        "It increases genetic diversity",
+        "It produces plants that are more resistant to diseases",
+        "It allows for rapid multiplication of limited genetic stock",
+        "It eliminates the need for seed banks"
+      ],
+      "answer": "It allows for rapid multiplication of limited genetic stock"
+    },
+    {
+      "question": "Which of the following crops has benefited significantly from somatic embryogenesis in commercial production?",
+      "choices": [
+        "Wheat",
+        "Rice",
+        "Oil palm",
+        "Soybean"
+      ],
+      "answer": "Oil palm"
+    },
+    {
+      "question": "What is the primary reason for using a laminar flow hood in micropropagation?",
+      "choices": [
+        "To regulate temperature",
+        "To control humidity",
+        "To maintain sterile conditions",
+        "To provide proper lighting"
+      ],
+      "answer": "To maintain sterile conditions"
+    },
+    {
+      "question": "Which of the following is NOT a common component of plant tissue culture media?",
+      "choices": [
+        "Sucrose",
+        "Mineral salts",
+        "Antibiotics",
+        "Agar"
+      ],
+      "answer": "Antibiotics"
+    },
+    {
+      "question": "What is the main purpose of adding activated charcoal to tissue culture media?",
+      "choices": [
+        "To provide a carbon source",
+        "To adsorb inhibitory compounds",
+        "To increase media pH",
+        "To promote bacterial growth"
+      ],
+      "answer": "To adsorb inhibitory compounds"
+    },
+    {
+      "question": "Which micropropagation technique is most suitable for plants that are difficult to root?",
+      "choices": [
+        "Shoot tip culture",
+        "Meristem culture",
+        "Somatic embryogenesis",
+        "Callus culture"
+      ],
+      "answer": "Somatic embryogenesis"
+    },
+    {
+      "question": "What is the primary advantage of using micropropagation for ornamental plant production?",
+      "choices": [
+        "Increased genetic diversity",
+        "Lower production costs",
+        "Year-round production capability",
+        "Elimination of all pests and diseases"
+      ],
+      "answer": "Year-round production capability"
+    },
+    {
+      "question": "Which of the following is a potential ethical concern related to plant biotechnology in traditional agricultural systems?",
+      "choices": [
+        "Loss of traditional knowledge",
+        "Increased crop yields",
+        "Improved nutritional content",
+        "Enhanced disease resistance"
+      ],
+      "answer": "Loss of traditional knowledge"
+    },
+    {
+      "question": "What is the main difference between direct and indirect organogenesis?",
+      "choices": [
+        "The type of explant used",
+        "The presence or absence of a callus phase",
+        "The resulting plant's genetic makeup",
+        "The duration of the culture period"
+      ],
+      "answer": "The presence or absence of a callus phase"
+    },
+    {
+      "question": "Which of the following is NOT a common application of micropropagation in Timor Leste's context?",
+      "choices": [
+        "Conservation of native plant species",
+        "Rapid propagation of elite crop varieties",
+        "Production of genetically modified organisms",
+        "Year-round production of seasonal crops"
+      ],
+      "answer": "Production of genetically modified organisms"
+    },
+    {
+      "question": "What is the primary purpose of using plant growth regulators in tissue culture media?",
+      "choices": [
+        "To provide essential nutrients",
+        "To control morphogenesis",
+        "To prevent contamination",
+        "To solidify the medium"
+      ],
+      "answer": "To control morphogenesis"
+    },
+    {
+      "question": "Which of the following is a potential advantage of using micropropagation for coffee production in Timor Leste?",
+      "choices": [
+        "Elimination of the need for fertilizers",
+        "Production of caffeine-free varieties",
+        "Rapid multiplication of disease-resistant clones",
+        "Increased tolerance to drought conditions"
+      ],
+      "answer": "Rapid multiplication of disease-resistant clones"
+    },
+    {
+      "question": "What is the main challenge in acclimatizing tissue-cultured plants to field conditions in Timor Leste's climate?",
+      "choices": [
+        "High humidity",
+        "Low light intensity",
+        "Extreme temperature fluctuations",
+        "Soil-borne pathogens"
+      ],
+      "answer": "Extreme temperature fluctuations"
+    },
+    {
+      "question": "Which of the following is NOT a common sterilization agent used in plant tissue culture?",
+      "choices": [
+        "Ethanol",
+        "Sodium hypochlorite",
+        "Mercuric chloride",
+        "Hydrochloric acid"
+      ],
+      "answer": "Hydrochloric acid"
+    },
+    {
+      "question": "What is the primary purpose of subculturing in micropropagation?",
+      "choices": [
+        "To eliminate contamination",
+        "To induce genetic variation",
+        "To maintain culture viability and proliferation",
+        "To initiate root formation"
+      ],
+      "answer": "To maintain culture viability and proliferation"
+    }
+  ]
+}

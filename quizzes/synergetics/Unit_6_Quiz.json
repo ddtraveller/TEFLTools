@@ -1,0 +1,305 @@
+{
+  "title": "Transportation and Communication Networks in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of Timor-Leste's road network is paved?",
+      "choices": [
+        "25%",
+        "43%",
+        "57%",
+        "75%"
+      ],
+      "answer": "43%"
+    },
+    {
+      "question": "Which of the following is NOT a major challenge for Timor-Leste's road network?",
+      "choices": [
+        "Mountainous terrain",
+        "Seasonal flooding",
+        "Limited maintenance resources",
+        "Excessive traffic congestion"
+      ],
+      "answer": "Excessive traffic congestion"
+    },
+    {
+      "question": "What is the approximate mobile phone penetration rate in Timor-Leste?",
+      "choices": [
+        "50%",
+        "65%",
+        "80%",
+        "95%"
+      ],
+      "answer": "80%"
+    },
+    {
+      "question": "Which of the following is NOT a major mobile network provider in Timor-Leste?",
+      "choices": [
+        "Timor Telecom",
+        "Telemor",
+        "Telkomcel",
+        "Vodafone"
+      ],
+      "answer": "Vodafone"
+    },
+    {
+      "question": "What is the approximate internet penetration rate in Timor-Leste?",
+      "choices": [
+        "10%",
+        "30%",
+        "50%",
+        "70%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "Which type of public transportation is commonly used in urban areas of Timor-Leste?",
+      "choices": [
+        "Subway systems",
+        "Trams",
+        "Mikrolet (minibuses)",
+        "High-speed rail"
+      ],
+      "answer": "Mikrolet (minibuses)"
+    },
+    {
+      "question": "What is the term for small trucks used for rural transport in Timor-Leste?",
+      "choices": [
+        "Anggunas",
+        "Ojeks",
+        "Mikrolets",
+        "Tuk-tuks"
+      ],
+      "answer": "Anggunas"
+    },
+    {
+      "question": "Which of the following is a major challenge for rural connectivity in Timor-Leste?",
+      "choices": [
+        "Oversaturation of mobile networks",
+        "Excessive internet speeds",
+        "Power supply challenges for maintaining communication infrastructure",
+        "Too many competing internet service providers"
+      ],
+      "answer": "Power supply challenges for maintaining communication infrastructure"
+    },
+    {
+      "question": "Which sustainable transportation solution from another developing country involves aerial ropeways?",
+      "choices": [
+        "Uganda",
+        "Bangladesh",
+        "Colombia",
+        "Ghana"
+      ],
+      "answer": "Colombia"
+    },
+    {
+      "question": "What type of bicycles were developed as a sustainable transportation solution in Ghana?",
+      "choices": [
+        "Steel bicycles",
+        "Aluminum bicycles",
+        "Carbon fiber bicycles",
+        "Bamboo bicycles"
+      ],
+      "answer": "Bamboo bicycles"
+    },
+    {
+      "question": "Which sector is NOT mentioned as being impacted by improved connectivity in Timor-Leste?",
+      "choices": [
+        "Education",
+        "Healthcare",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "answer": "Manufacturing"
+    },
+    {
+      "question": "What is the total length of Timor-Leste's road network?",
+      "choices": [
+        "Approximately 3,000 km",
+        "Approximately 6,040 km",
+        "Approximately 9,000 km",
+        "Approximately 12,000 km"
+      ],
+      "answer": "Approximately 6,040 km"
+    },
+    {
+      "question": "Which of the following is a key challenge for rural transportation in Timor-Leste?",
+      "choices": [
+        "Excessive traffic congestion",
+        "Too many paved roads",
+        "Limited access during rainy season",
+        "Overabundance of public transportation options"
+      ],
+      "answer": "Limited access during rainy season"
+    },
+    {
+      "question": "What type of internet connection do many areas in Timor-Leste rely on?",
+      "choices": [
+        "Fiber optic broadband",
+        "Satellite internet",
+        "Mobile internet",
+        "Dial-up connections"
+      ],
+      "answer": "Mobile internet"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential application of sustainable transportation solutions in Timor-Leste?",
+      "choices": [
+        "Adapting motorcycle ambulances for remote healthcare access",
+        "Implementing bicycle sharing programs in urban areas",
+        "Developing high-speed rail networks",
+        "Exploring solar-powered boat transportation for coastal communities"
+      ],
+      "answer": "Developing high-speed rail networks"
+    },
+    {
+      "question": "What is a major challenge for expanding communication networks in rural Timor-Leste?",
+      "choices": [
+        "Lack of demand for services",
+        "Oversaturation of existing networks",
+        "High cost of connectivity relative to income",
+        "Excessive government regulation"
+      ],
+      "answer": "High cost of connectivity relative to income"
+    },
+    {
+      "question": "Which of the following is an example of how improved connectivity can impact healthcare in Timor-Leste?",
+      "choices": [
+        "Reduced need for medical professionals",
+        "Elimination of all rural health clinics",
+        "Faster emergency response times",
+        "Increased cost of medical treatments"
+      ],
+      "answer": "Faster emergency response times"
+    },
+    {
+      "question": "What role can renewable energy play in improving connectivity in remote areas of Timor-Leste?",
+      "choices": [
+        "It has no relevance to connectivity",
+        "It can power communication infrastructure in areas with limited electricity",
+        "It can replace the need for communication networks entirely",
+        "It can only be used for transportation, not communication"
+      ],
+      "answer": "It can power communication infrastructure in areas with limited electricity"
+    },
+    {
+      "question": "Which of the following is a potential unintended consequence of rapidly improving connectivity in rural areas?",
+      "choices": [
+        "Decreased agricultural productivity",
+        "Improved access to education",
+        "Potential disruption of traditional social structures",
+        "Reduced need for healthcare services"
+      ],
+      "answer": "Potential disruption of traditional social structures"
+    },
+    {
+      "question": "What is the term for motorcycle taxis commonly used in cities of Timor-Leste?",
+      "choices": [
+        "Anggunas",
+        "Mikrolets",
+        "Ojeks",
+        "Tuk-tuks"
+      ],
+      "answer": "Ojeks"
+    },
+    {
+      "question": "Which of the following best describes the state of 4G/LTE coverage in Timor-Leste?",
+      "choices": [
+        "Widespread coverage across the entire country",
+        "Limited coverage, mainly in urban areas",
+        "No 4G/LTE coverage at all",
+        "Full coverage in both urban and rural areas"
+      ],
+      "answer": "Limited coverage, mainly in urban areas"
+    },
+    {
+      "question": "What is a key challenge for maintaining communication infrastructure in rural Timor-Leste?",
+      "choices": [
+        "Excessive demand overloading the systems",
+        "Lack of skilled technicians",
+        "Power supply challenges",
+        "Too much competition among service providers"
+      ],
+      "answer": "Power supply challenges"
+    },
+    {
+      "question": "Which sector is mentioned as potentially benefiting from improved market access due to better connectivity?",
+      "choices": [
+        "Heavy industry",
+        "Agriculture",
+        "Oil and gas",
+        "Automotive manufacturing"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What type of transportation solution was developed in Uganda for rural healthcare access?",
+      "choices": [
+        "Helicopter ambulances",
+        "High-speed trains",
+        "Rural motorcycle ambulances",
+        "Drone medical supply delivery"
+      ],
+      "answer": "Rural motorcycle ambulances"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential impact of improved transportation and communication networks on education in Timor-Leste?",
+      "choices": [
+        "Improved access to schools",
+        "Distance learning opportunities",
+        "Elimination of the need for physical schools",
+        "Better distribution of educational materials"
+      ],
+      "answer": "Elimination of the need for physical schools"
+    },
+    {
+      "question": "What is a key challenge for digital literacy in rural Timor-Leste?",
+      "choices": [
+        "Overexposure to digital technologies",
+        "Lack of interest in digital tools",
+        "Limited access to digital devices and internet",
+        "Too many competing digital platforms"
+      ],
+      "answer": "Limited access to digital devices and internet"
+    },
+    {
+      "question": "Which of the following is an example of how improved connectivity can impact disaster response in Timor-Leste?",
+      "choices": [
+        "Eliminating the need for disaster preparedness",
+        "Better coordination and resource distribution",
+        "Increasing the frequency of natural disasters",
+        "Reducing the role of emergency services"
+      ],
+      "answer": "Better coordination and resource distribution"
+    },
+    {
+      "question": "What type of transportation is suggested for coastal communities in Timor-Leste, inspired by solutions from other countries?",
+      "choices": [
+        "High-speed ferries",
+        "Underwater tunnels",
+        "Solar-powered boat transportation",
+        "Hovercraft"
+      ],
+      "answer": "Solar-powered boat transportation"
+    },
+    {
+      "question": "Which of the following is a suggested community-based solution for improving rural connectivity?",
+      "choices": [
+        "Privatizing all communication networks",
+        "Eliminating traditional communication methods",
+        "Developing community-based road maintenance programs",
+        "Restricting access to modern technologies"
+      ],
+      "answer": "Developing community-based road maintenance programs"
+    },
+    {
+      "question": "What is the primary mode of inter-city travel in Timor-Leste?",
+      "choices": [
+        "High-speed rail",
+        "Domestic flights",
+        "Privately operated minibuses and shared taxis",
+        "Personal automobiles"
+      ],
+      "answer": "Privately operated minibuses and shared taxis"
+    }
+  ]
+}

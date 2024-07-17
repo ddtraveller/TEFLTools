@@ -1,0 +1,305 @@
+{
+  "title": "Community Engagement and Participatory Design for Green Infrastructure",
+  "questions": [
+    {
+      "question": "What is the primary benefit of community engagement in green infrastructure projects?",
+      "choices": [
+        "Reduced project costs",
+        "Faster implementation",
+        "Increased project buy-in and support",
+        "Simplified design process"
+      ],
+      "answer": "Increased project buy-in and support"
+    },
+    {
+      "question": "Which of the following is NOT a participatory design method mentioned in the module?",
+      "choices": [
+        "Community asset mapping",
+        "Design charrettes",
+        "Photovoice",
+        "Focus groups"
+      ],
+      "answer": "Focus groups"
+    },
+    {
+      "question": "What is the main purpose of community asset mapping?",
+      "choices": [
+        "To identify community leaders",
+        "To create a visual inventory of community strengths and resources",
+        "To determine property values",
+        "To plan evacuation routes"
+      ],
+      "answer": "To create a visual inventory of community strengths and resources"
+    },
+    {
+      "question": "What is a design charrette?",
+      "choices": [
+        "A type of green infrastructure",
+        "A community voting system",
+        "An intensive, multi-day collaborative design workshop",
+        "A digital mapping tool"
+      ],
+      "answer": "An intensive, multi-day collaborative design workshop"
+    },
+    {
+      "question": "In the context of green infrastructure, what does Photovoice involve?",
+      "choices": [
+        "Professional photographers documenting projects",
+        "Community members photographing their environment",
+        "Using voice recognition software for design",
+        "Creating photo ID cards for project participants"
+      ],
+      "answer": "Community members photographing their environment"
+    },
+    {
+      "question": "What is participatory budgeting?",
+      "choices": [
+        "A method for reducing project costs",
+        "A way for community members to allocate part of a public budget",
+        "A financial planning tool for municipalities",
+        "A system for tracking individual contributions to projects"
+      ],
+      "answer": "A way for community members to allocate part of a public budget"
+    },
+    {
+      "question": "Which of the following is a benefit of using digital engagement tools?",
+      "choices": [
+        "They are more cost-effective than in-person methods",
+        "They guarantee 100% community participation",
+        "They reach a wider audience",
+        "They eliminate the need for other forms of engagement"
+      ],
+      "answer": "They reach a wider audience"
+    },
+    {
+      "question": "Why is it important to consider social equity in green infrastructure planning?",
+      "choices": [
+        "To comply with legal requirements",
+        "To ensure fair distribution of benefits and burdens",
+        "To reduce project costs",
+        "To speed up the approval process"
+      ],
+      "answer": "To ensure fair distribution of benefits and burdens"
+    },
+    {
+      "question": "What is a potential challenge when addressing language barriers in community engagement?",
+      "choices": [
+        "Increased project costs",
+        "Longer timelines for engagement",
+        "Reduced participation from certain groups",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is green gentrification?",
+      "choices": [
+        "The process of making buildings more energy-efficient",
+        "The displacement of residents due to increased property values from green infrastructure",
+        "The practice of only using native plants in landscaping",
+        "A method for funding green infrastructure projects"
+      ],
+      "answer": "The displacement of residents due to increased property values from green infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT a typical goal of community engagement in green infrastructure projects?",
+      "choices": [
+        "Integrating local knowledge",
+        "Building community capacity",
+        "Ensuring equitable outcomes",
+        "Reducing project costs"
+      ],
+      "answer": "Reducing project costs"
+    },
+    {
+      "question": "What does NIMBY stand for in the context of community projects?",
+      "choices": [
+        "Now I Must Build Yours",
+        "Not In My Back Yard",
+        "Neighborhood Improvement Must Be Yielding",
+        "New Infrastructure Means Better Yields"
+      ],
+      "answer": "Not In My Back Yard"
+    },
+    {
+      "question": "Which of the following is a key principle of participatory design?",
+      "choices": [
+        "Experts should make all final decisions",
+        "Community members are passive recipients of information",
+        "All stakeholders are actively involved in the design process",
+        "Design should be completed before community engagement begins"
+      ],
+      "answer": "All stakeholders are actively involved in the design process"
+    },
+    {
+      "question": "What is a potential benefit of integrating traditional knowledge in green infrastructure projects?",
+      "choices": [
+        "It can lead to more culturally appropriate and sustainable solutions",
+        "It always reduces project costs",
+        "It eliminates the need for modern technology",
+        "It guarantees project success"
+      ],
+      "answer": "It can lead to more culturally appropriate and sustainable solutions"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a vulnerable population in community engagement efforts?",
+      "choices": [
+        "Low-income residents",
+        "Elderly individuals",
+        "People with disabilities",
+        "Local government officials"
+      ],
+      "answer": "Local government officials"
+    },
+    {
+      "question": "What is the primary purpose of a stakeholder analysis in community engagement?",
+      "choices": [
+        "To determine project funding sources",
+        "To identify and understand different groups affected by the project",
+        "To select the best green infrastructure technologies",
+        "To comply with legal requirements"
+      ],
+      "answer": "To identify and understand different groups affected by the project"
+    },
+    {
+      "question": "Which of the following is a potential challenge in maintaining long-term community engagement?",
+      "choices": [
+        "Volunteer fatigue",
+        "Changing community demographics",
+        "Shifting project priorities",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What role does transparency play in community engagement for green infrastructure projects?",
+      "choices": [
+        "It is not important as long as the project is completed",
+        "It helps build trust and credibility with the community",
+        "It is only necessary for government-funded projects",
+        "It can lead to increased opposition to projects"
+      ],
+      "answer": "It helps build trust and credibility with the community"
+    },
+    {
+      "question": "Which of the following is a benefit of using multiple engagement methods in a single project?",
+      "choices": [
+        "It always reduces project costs",
+        "It ensures that all community members participate",
+        "It allows for diverse forms of input and participation",
+        "It simplifies the engagement process"
+      ],
+      "answer": "It allows for diverse forms of input and participation"
+    },
+    {
+      "question": "What is the primary goal of creating educational materials about green infrastructure for schools?",
+      "choices": [
+        "To recruit future project managers",
+        "To reduce project costs",
+        "To build long-term community awareness and support",
+        "To comply with educational mandates"
+      ],
+      "answer": "To build long-term community awareness and support"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of a community engagement strategy?",
+      "choices": [
+        "Stakeholder analysis",
+        "Timeline for engagement activities",
+        "Selection of engagement methods",
+        "Detailed technical specifications for green infrastructure"
+      ],
+      "answer": "Detailed technical specifications for green infrastructure"
+    },
+    {
+      "question": "What is a potential benefit of partnering with local environmental NGOs for green infrastructure projects?",
+      "choices": [
+        "They can provide additional funding",
+        "They can help with community outreach and education",
+        "They can take over project management",
+        "They can guarantee project approval"
+      ],
+      "answer": "They can help with community outreach and education"
+    },
+    {
+      "question": "Which of the following is a key consideration when organizing community workshops for green infrastructure projects?",
+      "choices": [
+        "Ensuring all technical details are presented",
+        "Limiting attendance to reduce costs",
+        "Providing multiple opportunities for participation to accommodate different schedules",
+        "Using technical jargon to impress participants"
+      ],
+      "answer": "Providing multiple opportunities for participation to accommodate different schedules"
+    },
+    {
+      "question": "What is the primary purpose of creating a demonstration project, such as a rain garden on campus?",
+      "choices": [
+        "To complete the project quickly",
+        "To showcase the benefits and appearance of green infrastructure",
+        "To provide employment opportunities",
+        "To increase property values"
+      ],
+      "answer": "To showcase the benefits and appearance of green infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT typically a benefit of community engagement in green infrastructure projects?",
+      "choices": [
+        "Increased project support",
+        "Integration of local knowledge",
+        "Guaranteed project funding",
+        "Enhanced project sustainability"
+      ],
+      "answer": "Guaranteed project funding"
+    },
+    {
+      "question": "What is a potential challenge of using virtual reality simulations for community engagement?",
+      "choices": [
+        "They are too realistic",
+        "They may exclude those without access to necessary technology",
+        "They always increase project costs",
+        "They are not effective for design visualization"
+      ],
+      "answer": "They may exclude those without access to necessary technology"
+    },
+    {
+      "question": "Which of the following is a key principle in addressing social equity in green infrastructure planning?",
+      "choices": [
+        "Focusing solely on areas with the highest property values",
+        "Ignoring cultural differences to ensure uniformity",
+        "Ensuring fair distribution of green infrastructure across neighborhoods",
+        "Prioritizing quick implementation over community input"
+      ],
+      "answer": "Ensuring fair distribution of green infrastructure across neighborhoods"
+    },
+    {
+      "question": "What is the primary purpose of conducting a mock community design workshop in an educational setting?",
+      "choices": [
+        "To replace actual community engagement",
+        "To practice facilitation skills and understand the process",
+        "To design real projects without community input",
+        "To eliminate the need for professional designers"
+      ],
+      "answer": "To practice facilitation skills and understand the process"
+    },
+    {
+      "question": "Which of the following is NOT typically a role of local government in community engagement for green infrastructure?",
+      "choices": [
+        "Providing resources and support for engagement activities",
+        "Ensuring compliance with regulations and policies",
+        "Making all final decisions without community input",
+        "Facilitating collaboration between different stakeholders"
+      ],
+      "answer": "Making all final decisions without community input"
+    },
+    {
+      "question": "What is a key consideration when developing educational materials on green infrastructure for schools?",
+      "choices": [
+        "Using highly technical language",
+        "Focusing only on adult learners",
+        "Adapting content to different age groups and learning styles",
+        "Avoiding hands-on activities"
+      ],
+      "answer": "Adapting content to different age groups and learning styles"
+    }
+  ]
+}

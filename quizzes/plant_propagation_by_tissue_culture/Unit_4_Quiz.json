@@ -1,0 +1,305 @@
+{
+  "title": "Explant Selection and Preparation",
+  "questions": [
+    {
+      "question": "What is an explant in plant tissue culture?",
+      "choices": [
+        "A piece of tissue taken from a parent plant to initiate a culture",
+        "A sterilizing agent used in surface sterilization",
+        "A type of growth medium",
+        "A specialized container for plant cultures"
+      ],
+      "answer": "A piece of tissue taken from a parent plant to initiate a culture"
+    },
+    {
+      "question": "Which type of tissue is often preferred for explants due to its high regenerative capacity?",
+      "choices": [
+        "Mature leaf tissue",
+        "Root tissue",
+        "Meristematic tissue",
+        "Woody stem tissue"
+      ],
+      "answer": "Meristematic tissue"
+    },
+    {
+      "question": "Why are younger tissues generally more responsive in culture than older tissues?",
+      "choices": [
+        "They contain more water",
+        "They have a higher proportion of undifferentiated cells",
+        "They are easier to sterilize",
+        "They grow faster in artificial environments"
+      ],
+      "answer": "They have a higher proportion of undifferentiated cells"
+    },
+    {
+      "question": "What is the primary purpose of surface sterilization in explant preparation?",
+      "choices": [
+        "To kill the plant cells",
+        "To remove microorganisms from the surface",
+        "To increase the growth rate",
+        "To change the plant's genetic makeup"
+      ],
+      "answer": "To remove microorganisms from the surface"
+    },
+    {
+      "question": "Which of the following is typically used as the main sterilizing agent in surface sterilization?",
+      "choices": [
+        "Ethanol",
+        "Bleach solution",
+        "Distilled water",
+        "Growth hormones"
+      ],
+      "answer": "Bleach solution"
+    },
+    {
+      "question": "What is the typical concentration of bleach solution used for surface sterilization?",
+      "choices": [
+        "1%",
+        "5%",
+        "10%",
+        "50%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "Why is it important to rinse explants with sterile distilled water after bleach treatment?",
+      "choices": [
+        "To rehydrate the tissue",
+        "To remove traces of the sterilizing agent",
+        "To stimulate cell division",
+        "To lower the pH of the tissue"
+      ],
+      "answer": "To remove traces of the sterilizing agent"
+    },
+    {
+      "question": "What is the typical size range for prepared explants?",
+      "choices": [
+        "0.1-0.5 mm",
+        "0.5-1 cm",
+        "5-10 cm",
+        "20-30 cm"
+      ],
+      "answer": "0.5-1 cm"
+    },
+    {
+      "question": "Which of the following is NOT a factor to consider when selecting an explant?",
+      "choices": [
+        "Plant species and cultivar",
+        "Age of the parent plant",
+        "Color of the plant",
+        "Type of tissue"
+      ],
+      "answer": "Color of the plant"
+    },
+    {
+      "question": "What is the purpose of using 70% ethanol in the surface sterilization process?",
+      "choices": [
+        "To kill all microorganisms",
+        "To remove surface contaminants and increase effectiveness of subsequent steps",
+        "To preserve the explant tissue",
+        "To stimulate cell division"
+      ],
+      "answer": "To remove surface contaminants and increase effectiveness of subsequent steps"
+    },
+    {
+      "question": "Which environment is typically used for the final preparation of explants?",
+      "choices": [
+        "Open air laboratory bench",
+        "Greenhouse",
+        "Laminar flow hood",
+        "Autoclave"
+      ],
+      "answer": "Laminar flow hood"
+    },
+    {
+      "question": "What is aseptic technique in the context of explant preparation?",
+      "choices": [
+        "A method to increase plant growth",
+        "A way to genetically modify plants",
+        "Procedures to maintain sterility and prevent contamination",
+        "A technique to induce flowering in culture"
+      ],
+      "answer": "Procedures to maintain sterility and prevent contamination"
+    },
+    {
+      "question": "Why are meristematic tissues often preferred for explants?",
+      "choices": [
+        "They are easier to sterilize",
+        "They contain actively dividing cells that are not yet fully differentiated",
+        "They are more resistant to disease",
+        "They produce more chlorophyll"
+      ],
+      "answer": "They contain actively dividing cells that are not yet fully differentiated"
+    },
+    {
+      "question": "What is the first step in the surface sterilization process?",
+      "choices": [
+        "Soaking in bleach solution",
+        "Rinsing with sterile water",
+        "Washing in running water",
+        "Treating with ethanol"
+      ],
+      "answer": "Washing in running water"
+    },
+    {
+      "question": "Which of the following is a potential consequence of inadequate surface sterilization?",
+      "choices": [
+        "Explant growth is accelerated",
+        "Culture medium becomes contaminated",
+        "Plant develops new genetic traits",
+        "Explant size increases"
+      ],
+      "answer": "Culture medium becomes contaminated"
+    },
+    {
+      "question": "What is the typical duration of the bleach solution soak in surface sterilization?",
+      "choices": [
+        "30 seconds",
+        "1-2 minutes",
+        "10-20 minutes",
+        "1 hour"
+      ],
+      "answer": "10-20 minutes"
+    },
+    {
+      "question": "Why is it important to use sharp, sterile instruments when cutting explants?",
+      "choices": [
+        "To minimize tissue damage",
+        "To increase the explant size",
+        "To change the plant's genetic makeup",
+        "To speed up the sterilization process"
+      ],
+      "answer": "To minimize tissue damage"
+    },
+    {
+      "question": "Which of the following is NOT a common source of explants for crop plants?",
+      "choices": [
+        "Shoot tips",
+        "Axillary buds",
+        "Mature fruits",
+        "Nodal segments"
+      ],
+      "answer": "Mature fruits"
+    },
+    {
+      "question": "What is the main advantage of using shoot tips as explants?",
+      "choices": [
+        "They are easier to sterilize",
+        "They contain meristematic tissue",
+        "They are larger in size",
+        "They have a lower water content"
+      ],
+      "answer": "They contain meristematic tissue"
+    },
+    {
+      "question": "Why might seasonal changes affect explant selection?",
+      "choices": [
+        "Plants grow faster in certain seasons",
+        "Sterilization is more effective in warm weather",
+        "The availability and condition of certain tissues may vary with seasons",
+        "Culture media work better in specific seasons"
+      ],
+      "answer": "The availability and condition of certain tissues may vary with seasons"
+    },
+    {
+      "question": "What is the purpose of removing visibly damaged or discolored tissue during explant preparation?",
+      "choices": [
+        "To improve the appearance of the culture",
+        "To reduce the risk of contamination and improve culture success",
+        "To make the explant smaller",
+        "To stimulate faster growth"
+      ],
+      "answer": "To reduce the risk of contamination and improve culture success"
+    },
+    {
+      "question": "Which of the following is a potential alternative sterilization agent to bleach?",
+      "choices": [
+        "Tap water",
+        "Vinegar",
+        "Hydrogen peroxide",
+        "Cooking oil"
+      ],
+      "answer": "Hydrogen peroxide"
+    },
+    {
+      "question": "Why is it important to minimize the time between cutting the explant and placing it on culture medium?",
+      "choices": [
+        "To prevent the medium from drying out",
+        "To reduce the chance of contamination and desiccation",
+        "To ensure the explant doesn't grow too large",
+        "To maintain the temperature of the explant"
+      ],
+      "answer": "To reduce the chance of contamination and desiccation"
+    },
+    {
+      "question": "What is the concept of totipotency in relation to explant selection?",
+      "choices": [
+        "The ability of plants to grow in any direction",
+        "The capacity of plant cells to regenerate an entire plant",
+        "The tendency of explants to become contaminated",
+        "The process of plant cell division"
+      ],
+      "answer": "The capacity of plant cells to regenerate an entire plant"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in explant preparation for wild plant species?",
+      "choices": [
+        "Higher levels of endogenous contamination",
+        "Seasonal availability of suitable tissue",
+        "Lack of information on optimal sterilization protocols",
+        "Excessive uniformity in genetic makeup"
+      ],
+      "answer": "Excessive uniformity in genetic makeup"
+    },
+    {
+      "question": "Why are embryos often easier to sterilize compared to other plant parts?",
+      "choices": [
+        "They are naturally sterile",
+        "They are protected within the seed coat",
+        "They have a waxy surface",
+        "They produce antibiotics"
+      ],
+      "answer": "They are protected within the seed coat"
+    },
+    {
+      "question": "What is the main disadvantage of using mercuric chloride as a sterilization agent?",
+      "choices": [
+        "It is not effective against bacteria",
+        "It is too expensive",
+        "It is highly toxic",
+        "It causes rapid plant growth"
+      ],
+      "answer": "It is highly toxic"
+    },
+    {
+      "question": "Why might you avoid using underground parts of root crops as explants?",
+      "choices": [
+        "They are too large",
+        "They are more likely to carry soil-borne contaminants",
+        "They lack meristematic tissue",
+        "They are not genetically stable"
+      ],
+      "answer": "They are more likely to carry soil-borne contaminants"
+    },
+    {
+      "question": "What is the primary reason for using nodal segments as explants?",
+      "choices": [
+        "They are easy to sterilize",
+        "They contain axillary buds with meristematic tissue",
+        "They are available year-round",
+        "They are larger than other explant types"
+      ],
+      "answer": "They contain axillary buds with meristematic tissue"
+    },
+    {
+      "question": "Which of the following is a potential consequence of over-sterilization?",
+      "choices": [
+        "Increased contamination",
+        "Faster explant growth",
+        "Damage to plant tissues",
+        "Improved nutrient uptake"
+      ],
+      "answer": "Damage to plant tissues"
+    }
+  ]
+}

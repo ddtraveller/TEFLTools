@@ -1,0 +1,305 @@
+{
+  "title": "Sterile Techniques and Laboratory Safety",
+  "questions": [
+    {
+      "question": "What is the primary purpose of aseptic technique?",
+      "choices": [
+        "To increase plant growth",
+        "To prevent contamination from microorganisms",
+        "To sterilize growth media",
+        "To calibrate laboratory equipment"
+      ],
+      "answer": "To prevent contamination from microorganisms"
+    },
+    {
+      "question": "Which of the following is NOT a common source of contamination in a laboratory setting?",
+      "choices": [
+        "Air particles",
+        "Unsterile equipment",
+        "Sterilized growth media",
+        "Human skin"
+      ],
+      "answer": "Sterilized growth media"
+    },
+    {
+      "question": "What is the recommended concentration of ethanol for quick surface sterilization?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "90%"
+      ],
+      "answer": "70%"
+    },
+    {
+      "question": "What is the primary function of a laminar flow hood?",
+      "choices": [
+        "To increase air circulation in the lab",
+        "To provide a sterile work area through constant, unidirectional airflow",
+        "To remove odors from the laboratory",
+        "To regulate temperature in the work area"
+      ],
+      "answer": "To provide a sterile work area through constant, unidirectional airflow"
+    },
+    {
+      "question": "Which of the following is NOT a proper step in handwashing technique?",
+      "choices": [
+        "Wet hands with clean running water",
+        "Apply soap and lather well",
+        "Scrub all surfaces for at least 20 seconds",
+        "Dry hands with a reusable cloth towel"
+      ],
+      "answer": "Dry hands with a reusable cloth towel"
+    },
+    {
+      "question": "What type of filter is typically used in a laminar flow hood?",
+      "choices": [
+        "HEPA filter",
+        "Charcoal filter",
+        "UV filter",
+        "Membrane filter"
+      ],
+      "answer": "HEPA filter"
+    },
+    {
+      "question": "What is the typical temperature used for autoclaving?",
+      "choices": [
+        "100°C",
+        "121°C",
+        "135°C",
+        "150°C"
+      ],
+      "answer": "121°C"
+    },
+    {
+      "question": "Which of the following is NOT a proper way to dispose of contaminated liquid waste?",
+      "choices": [
+        "Autoclaving before disposal",
+        "Chemical disinfection",
+        "Pouring down the sink without treatment",
+        "Incineration"
+      ],
+      "answer": "Pouring down the sink without treatment"
+    },
+    {
+      "question": "What is the recommended concentration of bleach solution for effective sterilization?",
+      "choices": [
+        "1%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "Which of the following is NOT a common type of contaminant in plant tissue culture?",
+      "choices": [
+        "Bacteria",
+        "Fungi",
+        "Viruses",
+        "Protozoa"
+      ],
+      "answer": "Protozoa"
+    },
+    {
+      "question": "What is the primary purpose of wearing gloves in the laboratory?",
+      "choices": [
+        "To keep hands warm",
+        "To improve grip on glassware",
+        "To prevent contamination of samples and protect hands",
+        "To absorb spills"
+      ],
+      "answer": "To prevent contamination of samples and protect hands"
+    },
+    {
+      "question": "Which of the following is a proper technique for putting on laboratory gloves?",
+      "choices": [
+        "Touching the outside of the glove with bare hands",
+        "Blowing into the gloves to expand them",
+        "Touching only the cuff when putting on gloves",
+        "Reusing gloves from previous experiments"
+      ],
+      "answer": "Touching only the cuff when putting on gloves"
+    },
+    {
+      "question": "What is the purpose of a bunsen burner in aseptic technique?",
+      "choices": [
+        "To heat growth media",
+        "To create a sterile zone around the work area",
+        "To dispose of contaminated materials",
+        "To sterilize glassware"
+      ],
+      "answer": "To create a sterile zone around the work area"
+    },
+    {
+      "question": "Which of the following is NOT a proper laboratory safety procedure?",
+      "choices": [
+        "Wearing closed-toe shoes",
+        "Eating lunch at your workbench",
+        "Tying back long hair",
+        "Using personal protective equipment"
+      ],
+      "answer": "Eating lunch at your workbench"
+    },
+    {
+      "question": "What is the primary advantage of using an autoclave for sterilization?",
+      "choices": [
+        "It's faster than other methods",
+        "It's effective against all types of microorganisms",
+        "It's cheaper than chemical sterilization",
+        "It can be used on all types of materials"
+      ],
+      "answer": "It's effective against all types of microorganisms"
+    },
+    {
+      "question": "What is the correct order for putting on personal protective equipment (PPE)?",
+      "choices": [
+        "Gloves, gown, mask, goggles",
+        "Mask, goggles, gown, gloves",
+        "Gown, mask, goggles, gloves",
+        "Goggles, gloves, gown, mask"
+      ],
+      "answer": "Gown, mask, goggles, gloves"
+    },
+    {
+      "question": "Which of the following is NOT a proper way to maintain a sterile field?",
+      "choices": [
+        "Keeping sterile items above waist level",
+        "Avoiding reaching across a sterile field",
+        "Considering items at the edge of a sterile field as contaminated",
+        "Talking, coughing, or sneezing over a sterile field"
+      ],
+      "answer": "Talking, coughing, or sneezing over a sterile field"
+    },
+    {
+      "question": "What is the purpose of using 70% ethanol instead of 100% ethanol for sterilization?",
+      "choices": [
+        "It's less expensive",
+        "It evaporates more slowly, allowing more contact time",
+        "It's less flammable",
+        "It's more effective at killing microorganisms"
+      ],
+      "answer": "It evaporates more slowly, allowing more contact time"
+    },
+    {
+      "question": "Which of the following is a proper technique for flame sterilizing an inoculating loop?",
+      "choices": [
+        "Heating until the loop turns red-hot",
+        "Passing the loop quickly through the flame once",
+        "Dipping the loop in alcohol before flaming",
+        "Cooling the loop in sterile water after flaming"
+      ],
+      "answer": "Heating until the loop turns red-hot"
+    },
+    {
+      "question": "What is the primary purpose of a biological safety cabinet?",
+      "choices": [
+        "To store hazardous chemicals",
+        "To protect the worker and the environment from harmful agents",
+        "To increase air circulation in the lab",
+        "To sterilize laboratory equipment"
+      ],
+      "answer": "To protect the worker and the environment from harmful agents"
+    },
+    {
+      "question": "Which of the following is NOT a proper way to prevent contamination when pipetting?",
+      "choices": [
+        "Using sterile pipette tips",
+        "Avoiding touching the pipette tip to non-sterile surfaces",
+        "Pipetting by mouth for better control",
+        "Discarding pipette tips after each use"
+      ],
+      "answer": "Pipetting by mouth for better control"
+    },
+    {
+      "question": "What is the recommended minimum time for handwashing in a laboratory setting?",
+      "choices": [
+        "10 seconds",
+        "20 seconds",
+        "30 seconds",
+        "60 seconds"
+      ],
+      "answer": "20 seconds"
+    },
+    {
+      "question": "Which of the following is a proper technique for removing contaminated gloves?",
+      "choices": [
+        "Pulling from the fingertips",
+        "Removing both gloves at once",
+        "Grasping the outer edge near the wrist and peeling away",
+        "Using your teeth to pull them off"
+      ],
+      "answer": "Grasping the outer edge near the wrist and peeling away"
+    },
+    {
+      "question": "What is the primary purpose of using sterile paper towels in aseptic technique?",
+      "choices": [
+        "To clean up spills",
+        "To create a sterile work surface",
+        "To dry hands after washing",
+        "To wrap sterilized equipment"
+      ],
+      "answer": "To create a sterile work surface"
+    },
+    {
+      "question": "Which of the following is NOT a proper way to maintain the sterility of a culture medium?",
+      "choices": [
+        "Keeping the container closed when not in use",
+        "Flaming the neck of the container before and after use",
+        "Using sterile instruments to remove medium",
+        "Leaving the container open to allow air circulation"
+      ],
+      "answer": "Leaving the container open to allow air circulation"
+    },
+    {
+      "question": "What is the primary purpose of using a disinfectant foot bath at the entrance of a laboratory?",
+      "choices": [
+        "To clean shoes",
+        "To prevent slips and falls",
+        "To reduce the introduction of contaminants from footwear",
+        "To improve the smell of the laboratory"
+      ],
+      "answer": "To reduce the introduction of contaminants from footwear"
+    },
+    {
+      "question": "Which of the following is a proper technique for sterilizing scissors or forceps between uses?",
+      "choices": [
+        "Wiping with a paper towel",
+        "Rinsing with tap water",
+        "Dipping in 70% ethanol and flaming",
+        "Using the same instrument for all samples to avoid contamination"
+      ],
+      "answer": "Dipping in 70% ethanol and flaming"
+    },
+    {
+      "question": "What is the primary purpose of using a sterile drape in aseptic technique?",
+      "choices": [
+        "To absorb spills",
+        "To create a sterile field for working",
+        "To protect the work surface from heat damage",
+        "To improve the appearance of the work area"
+      ],
+      "answer": "To create a sterile field for working"
+    },
+    {
+      "question": "Which of the following is NOT a proper way to maintain the sterility of a stock solution?",
+      "choices": [
+        "Using sterile pipettes for each transfer",
+        "Storing in a sealed, sterile container",
+        "Aliquoting into smaller volumes to minimize repeated access",
+        "Keeping at room temperature on the lab bench for easy access"
+      ],
+      "answer": "Keeping at room temperature on the lab bench for easy access"
+    },
+    {
+      "question": "What is the primary purpose of using a sterile spreader in microbiology?",
+      "choices": [
+        "To measure the volume of liquid in a petri dish",
+        "To evenly distribute microorganisms on the surface of agar",
+        "To create wells in agar plates",
+        "To remove excess moisture from agar surfaces"
+      ],
+      "answer": "To evenly distribute microorganisms on the surface of agar"
+    }
+  ]
+}

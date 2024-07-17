@@ -1,0 +1,295 @@
+{
+  "title": "Developmental Origins of the Brain-Gut-Microbiota System",
+  "questions": [
+    {
+      "question": "When does the development of the brain-gut-microbiota axis begin?",
+      "choices": [
+        "At birth",
+        "During infancy",
+        "Before birth",
+        "During childhood"
+      ],
+      "answer": "Before birth"
+    },
+    {
+      "question": "Which of the following is NOT a key prenatal factor influencing the brain-gut-microbiota axis?",
+      "choices": [
+        "Maternal diet",
+        "Maternal stress",
+        "Maternal microbiome",
+        "Maternal exercise routine"
+      ],
+      "answer": "Maternal exercise routine"
+    },
+    {
+      "question": "What is the recommended duration for exclusive breastfeeding according to the World Health Organization?",
+      "choices": [
+        "3 months",
+        "4 months",
+        "6 months",
+        "12 months"
+      ],
+      "answer": "6 months"
+    },
+    {
+      "question": "Which of the following is a consequence of early-life microbiota disruption?",
+      "choices": [
+        "Increased resistance to allergies",
+        "Lower susceptibility to obesity",
+        "Enhanced immune system function",
+        "Higher risk of metabolic disorders"
+      ],
+      "answer": "Higher risk of metabolic disorders"
+    },
+    {
+      "question": "What is the primary difference in initial gut microbiome composition between infants born vaginally and those born via cesarean section?",
+      "choices": [
+        "Vaginally born infants have more skin bacteria",
+        "Cesarean born infants have more maternal vaginal bacteria",
+        "Vaginally born infants have more maternal vaginal and fecal bacteria",
+        "There is no significant difference"
+      ],
+      "answer": "Vaginally born infants have more maternal vaginal and fecal bacteria"
+    },
+    {
+      "question": "Which component of breast milk supports the growth of beneficial gut bacteria?",
+      "choices": [
+        "Proteins",
+        "Fats",
+        "Prebiotics",
+        "Vitamins"
+      ],
+      "answer": "Prebiotics"
+    },
+    {
+      "question": "What is the term for the process of introducing solid foods to an infant's diet?",
+      "choices": [
+        "Weaning",
+        "Complementary feeding",
+        "Solid introduction",
+        "Food diversification"
+      ],
+      "answer": "Complementary feeding"
+    },
+    {
+      "question": "Which of the following is NOT a factor influencing early-life microbiota development?",
+      "choices": [
+        "Mode of delivery",
+        "Feeding practices",
+        "Antibiotic exposure",
+        "Parental education level"
+      ],
+      "answer": "Parental education level"
+    },
+    {
+      "question": "What is the typical age range for the stabilization of gut microbiota in children?",
+      "choices": [
+        "0-6 months",
+        "6-12 months",
+        "1-2 years",
+        "2-5 years"
+      ],
+      "answer": "2-5 years"
+    },
+    {
+      "question": "Which of the following best describes the brain-gut-microbiota axis?",
+      "choices": [
+        "A one-way communication system from the brain to the gut",
+        "A bidirectional communication network linking the central nervous system, gastrointestinal tract, and gut microbiota",
+        "A system solely responsible for digestion",
+        "A network connecting the brain to the immune system"
+      ],
+      "answer": "A bidirectional communication network linking the central nervous system, gastrointestinal tract, and gut microbiota"
+    },
+    {
+      "question": "What is a potential long-term consequence of disruptions in the early-life brain-gut-microbiota system?",
+      "choices": [
+        "Improved cognitive function",
+        "Enhanced physical growth",
+        "Increased risk of neurological conditions",
+        "Better stress management"
+      ],
+      "answer": "Increased risk of neurological conditions"
+    },
+    {
+      "question": "Which of the following is a challenge to optimal early-life nutrition in Timor-Leste?",
+      "choices": [
+        "Excessive food availability",
+        "Overemphasis on breastfeeding",
+        "Limited resources for adequate complementary feeding",
+        "Too much focus on traditional practices"
+      ],
+      "answer": "Limited resources for adequate complementary feeding"
+    },
+    {
+      "question": "What role does maternal stress play in the development of the fetal brain-gut-microbiota axis?",
+      "choices": [
+        "It has no significant impact",
+        "It enhances fetal neurodevelopment",
+        "It alters the maternal microbiome and may affect fetal neurodevelopment",
+        "It improves the diversity of the fetal gut microbiome"
+      ],
+      "answer": "It alters the maternal microbiome and may affect fetal neurodevelopment"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of breastfeeding for gut microbiota development?",
+      "choices": [
+        "Transfer of beneficial bacteria",
+        "Provision of human milk oligosaccharides",
+        "Support for immune system development",
+        "Introduction of diverse solid foods"
+      ],
+      "answer": "Introduction of diverse solid foods"
+    },
+    {
+      "question": "What is the primary source of microbes for initial gut colonization in vaginally born infants?",
+      "choices": [
+        "Hospital environment",
+        "Maternal skin",
+        "Maternal vaginal and fecal microbiota",
+        "Breast milk"
+      ],
+      "answer": "Maternal vaginal and fecal microbiota"
+    },
+    {
+      "question": "Which period is considered critical for the establishment of the core microbiome in infants?",
+      "choices": [
+        "Prenatal period",
+        "Birth to 6 months",
+        "6 months to 1 year",
+        "1 year to 2 years"
+      ],
+      "answer": "Birth to 6 months"
+    },
+    {
+      "question": "What is the potential impact of antibiotic use during pregnancy on the fetal brain-gut-microbiota axis?",
+      "choices": [
+        "It has no impact",
+        "It enhances the diversity of the fetal microbiome",
+        "It may disrupt the normal colonization of the fetal gut",
+        "It improves fetal brain development"
+      ],
+      "answer": "It may disrupt the normal colonization of the fetal gut"
+    },
+    {
+      "question": "Which of the following is a strategy to promote breastfeeding in Timor-Leste?",
+      "choices": [
+        "Discouraging traditional practices",
+        "Promoting formula feeding",
+        "Community education programs",
+        "Limiting support for working mothers"
+      ],
+      "answer": "Community education programs"
+    },
+    {
+      "question": "What is the role of human milk oligosaccharides (HMOs) in breast milk?",
+      "choices": [
+        "They provide calories for the infant",
+        "They support the growth of beneficial gut bacteria",
+        "They enhance the flavor of breast milk",
+        "They inhibit the growth of all bacteria in the infant gut"
+      ],
+      "answer": "They support the growth of beneficial gut bacteria"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'vertical transmission' in the context of the maternal microbiome?",
+      "choices": [
+        "The transfer of stress from mother to fetus",
+        "The passage of nutrients through the placenta",
+        "The transfer of microbes from mother to infant",
+        "The inheritance of genetic traits"
+      ],
+      "answer": "The transfer of microbes from mother to infant"
+    },
+    {
+      "question": "What is a potential consequence of cesarean section delivery on an infant's gut microbiome?",
+      "choices": [
+        "Enhanced diversity of beneficial bacteria",
+        "Delayed colonization by maternal microbes",
+        "Improved immune system development",
+        "Reduced risk of allergies"
+      ],
+      "answer": "Delayed colonization by maternal microbes"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of the gut microbiome in exclusively breastfed infants?",
+      "choices": [
+        "High diversity of bacterial species",
+        "Predominance of Bifidobacterium species",
+        "Presence of beneficial Lactobacillus species",
+        "Lower pH in the gut environment"
+      ],
+      "answer": "High diversity of bacterial species"
+    },
+    {
+      "question": "What is the significance of the 'first 1000 days' concept in relation to the brain-gut-microbiota axis?",
+      "choices": [
+        "It refers to the lifespan of gut bacteria",
+        "It's the period of most rapid brain growth",
+        "It's the critical period for establishing lifelong health, including gut microbiome composition",
+        "It's the time frame for completing toilet training"
+      ],
+      "answer": "It's the critical period for establishing lifelong health, including gut microbiome composition"
+    },
+    {
+      "question": "Which of the following environmental factors can influence early-life microbiota development?",
+      "choices": [
+        "Climate of the region",
+        "Presence of pets in the household",
+        "Color of the nursery",
+        "Parents' professions"
+      ],
+      "answer": "Presence of pets in the household"
+    },
+    {
+      "question": "What is a potential consequence of early-life microbiota disruption on mental health?",
+      "choices": [
+        "Increased resilience to stress",
+        "Enhanced cognitive abilities",
+        "Potential impact on neurodevelopment and behavior",
+        "Improved emotional regulation"
+      ],
+      "answer": "Potential impact on neurodevelopment and behavior"
+    },
+    {
+      "question": "Which of the following best describes the relationship between maternal diet during pregnancy and fetal gut colonization?",
+      "choices": [
+        "Maternal diet has no impact on fetal gut colonization",
+        "A high-fat maternal diet promotes beneficial fetal gut bacteria",
+        "A diet rich in fiber and prebiotics is associated with a more diverse fetal gut microbiome",
+        "Maternal protein intake is the only dietary factor affecting fetal gut colonization"
+      ],
+      "answer": "A diet rich in fiber and prebiotics is associated with a more diverse fetal gut microbiome"
+    },
+    {
+      "question": "What is the primary challenge to breastfeeding practices in Timor-Leste, according to the module?",
+      "choices": [
+        "Lack of breast milk production",
+        "Cultural taboos against breastfeeding",
+        "Work-related challenges for mothers",
+        "Preference for formula feeding"
+      ],
+      "answer": "Work-related challenges for mothers"
+    },
+    {
+      "question": "Which of the following is a correct statement about the development of the brain-gut-microbiota axis?",
+      "choices": [
+        "It is fully developed at birth",
+        "It only develops during childhood",
+        "It begins before birth and continues to evolve throughout early life",
+        "It is solely determined by genetic factors"
+      ],
+      "answer": "It begins before birth and continues to evolve throughout early life"
+    },
+    {
+      "question": "What is the potential impact of maternal malnutrition in Timor-Leste on infant brain-gut-microbiota axis development?",
+      "choices": [
+        "It has no significant impact",
+        "It may lead to suboptimal development of the brain-gut-microbiota system",
+        "It enhances the development of the infant's immune system",
+        "It promotes a more diverse infant gut microbiome"
+      ],
+      "answer": "It may lead to suboptimal development of the brain-gut-microbiota system"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "title": "Introduction to ECCD in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of children aged 3-5 years were enrolled in pre-school education in Timor-Leste as of 2020?",
+      "choices": [
+        "10%",
+        "20%",
+        "35%",
+        "50%"
+      ],
+      "answer": "20%"
+    },
+    {
+      "question": "What is the urban-rural disparity in ECCD enrollment rates in Timor-Leste?",
+      "choices": [
+        "35% urban vs. 15% rural",
+        "50% urban vs. 25% rural",
+        "20% urban vs. 10% rural",
+        "40% urban vs. 30% rural"
+      ],
+      "answer": "35% urban vs. 15% rural"
+    },
+    {
+      "question": "Which of the following is NOT a type of ECCD program available in Timor-Leste?",
+      "choices": [
+        "Center-based preschools",
+        "Community-based playgroups",
+        "Home-based parenting programs",
+        "Online virtual preschools"
+      ],
+      "answer": "Online virtual preschools"
+    },
+    {
+      "question": "What is the goal for pre-primary education in Timor-Leste's National Education Strategic Plan?",
+      "choices": [
+        "Achieve 50% enrollment by 2025",
+        "Achieve universal pre-primary education by 2030",
+        "Establish 1000 new preschools by 2025",
+        "Train 5000 new ECCD teachers by 2030"
+      ],
+      "answer": "Achieve universal pre-primary education by 2030"
+    },
+    {
+      "question": "According to the module, what is the potential return on investment for every $1 invested in ECCD?",
+      "choices": [
+        "Up to $5",
+        "Up to $10",
+        "Up to $17",
+        "Up to $25"
+      ],
+      "answer": "Up to $17"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of ECCD for national development in Timor-Leste?",
+      "choices": [
+        "Long-term economic benefits",
+        "Social cohesion and peacebuilding",
+        "Breaking the cycle of poverty",
+        "Immediate increase in GDP"
+      ],
+      "answer": "Immediate increase in GDP"
+    },
+    {
+      "question": "What is the primary challenge related to language in ECCD programs in Timor-Leste?",
+      "choices": [
+        "Lack of qualified translators",
+        "Balancing Tetum, Portuguese, and local languages",
+        "Absence of written languages",
+        "Resistance to learning multiple languages"
+      ],
+      "answer": "Balancing Tetum, Portuguese, and local languages"
+    },
+    {
+      "question": "Which health issue is mentioned as significantly affecting child development in Timor-Leste?",
+      "choices": [
+        "Obesity",
+        "Diabetes",
+        "Stunting and malnutrition",
+        "Asthma"
+      ],
+      "answer": "Stunting and malnutrition"
+    },
+    {
+      "question": "What opportunity for ECCD in Timor-Leste is mentioned regarding traditional practices?",
+      "choices": [
+        "Eliminating all traditional practices",
+        "Integrating traditional child-rearing practices into formal ECCD programs",
+        "Using only traditional practices in ECCD",
+        "Studying traditional practices without implementation"
+      ],
+      "answer": "Integrating traditional child-rearing practices into formal ECCD programs"
+    },
+    {
+      "question": "What percentage of Timor-Leste's total population was under 5 years old in 2020?",
+      "choices": [
+        "5.5%",
+        "9.5%",
+        "13.5%",
+        "17.5%"
+      ],
+      "answer": "13.5%"
+    },
+    {
+      "question": "What was the stunting rate for children under 5 in Timor-Leste in 2020?",
+      "choices": [
+        "27.1%",
+        "37.1%",
+        "47.1%",
+        "57.1%"
+      ],
+      "answer": "47.1%"
+    },
+    {
+      "question": "What percentage of the total education budget was allocated to pre-primary education in Timor-Leste in 2019?",
+      "choices": [
+        "0.5%",
+        "1.5%",
+        "2.5%",
+        "3.5%"
+      ],
+      "answer": "0.5%"
+    },
+    {
+      "question": "What was the pupil-teacher ratio in pre-primary education in Timor-Leste in 2019?",
+      "choices": [
+        "20:1",
+        "25:1",
+        "30:1",
+        "35:1"
+      ],
+      "answer": "30:1"
+    },
+    {
+      "question": "What percentage of ECCD teachers in Timor-Leste had the required qualifications in 2018?",
+      "choices": [
+        "25%",
+        "35%",
+        "45%",
+        "55%"
+      ],
+      "answer": "35%"
+    },
+    {
+      "question": "What is the Tetum term for Early Childhood Care and Development?",
+      "choices": [
+        "Eskola Pre-primária",
+        "Kuidadu no Dezenvolvimentu Labarik Kiik-oan",
+        "Dezenvolvimentu labarik",
+        "Hanorin oan"
+      ],
+      "answer": "Kuidadu no Dezenvolvimentu Labarik Kiik-oan"
+    },
+    {
+      "question": "What is the Tetum term for play-based learning?",
+      "choices": [
+        "Aprende liu husi halimar",
+        "Preparasaun ba eskola",
+        "Nutrisaun",
+        "Hanorin oan"
+      ],
+      "answer": "Aprende liu husi halimar"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a type of ECCD program in Timor-Leste?",
+      "choices": [
+        "Center-based preschools",
+        "Community-based playgroups",
+        "Home-based parenting programs",
+        "Workplace childcare centers"
+      ],
+      "answer": "Workplace childcare centers"
+    },
+    {
+      "question": "What is the primary goal of ECCD initiatives in Timor-Leste?",
+      "choices": [
+        "To increase literacy rates",
+        "To promote holistic development",
+        "To prepare children for formal schooling",
+        "To reduce childhood obesity"
+      ],
+      "answer": "To promote holistic development"
+    },
+    {
+      "question": "Which age group does ECCD in Timor-Leste primarily focus on?",
+      "choices": [
+        "Birth to 5 years",
+        "Birth to 8 years",
+        "3 to 8 years",
+        "5 to 10 years"
+      ],
+      "answer": "Birth to 8 years"
+    },
+    {
+      "question": "What role can ECCD centers play in promoting social cohesion in Timor-Leste?",
+      "choices": [
+        "Serve as platforms for community integration",
+        "Provide employment for local residents",
+        "Offer adult education classes",
+        "Distribute food to families in need"
+      ],
+      "answer": "Serve as platforms for community integration"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge for ECCD in Timor-Leste?",
+      "choices": [
+        "Limited resources and infrastructure",
+        "Multilingual environment",
+        "High rates of stunting and malnutrition",
+        "Lack of parental interest in education"
+      ],
+      "answer": "Lack of parental interest in education"
+    },
+    {
+      "question": "What approach does Timor-Leste's National Education Strategic Plan emphasize for ECCD?",
+      "choices": [
+        "Single-sector focus",
+        "Multi-sectoral approach",
+        "Private sector-led initiatives",
+        "International organization management"
+      ],
+      "answer": "Multi-sectoral approach"
+    },
+    {
+      "question": "What is the significance of the 2015 policy mentioned in the module?",
+      "choices": [
+        "Introduction of compulsory preschool education",
+        "Approval of the Early Childhood Education and Development Policy",
+        "Establishment of a national ECCD curriculum",
+        "Creation of a separate ministry for ECCD"
+      ],
+      "answer": "Approval of the Early Childhood Education and Development Policy"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential long-term benefit of ECCD investment?",
+      "choices": [
+        "Improved school readiness",
+        "Better educational outcomes",
+        "Higher future earning potential",
+        "Reduced crime rates"
+      ],
+      "answer": "Reduced crime rates"
+    },
+    {
+      "question": "What is suggested as a way to address the challenge of limited resources in rural areas?",
+      "choices": [
+        "Focusing only on urban development",
+        "Implementing community-based ECCD initiatives",
+        "Relocating rural populations to urban centers",
+        "Reducing the scope of ECCD programs"
+      ],
+      "answer": "Implementing community-based ECCD initiatives"
+    },
+    {
+      "question": "Which aspect of child development is particularly affected by high rates of stunting in Timor-Leste?",
+      "choices": [
+        "Social skills",
+        "Language acquisition",
+        "Physical growth and cognitive development",
+        "Artistic abilities"
+      ],
+      "answer": "Physical growth and cognitive development"
+    },
+    {
+      "question": "What is emphasized as crucial for ensuring the effectiveness of ECCD programs in Timor-Leste?",
+      "choices": [
+        "International funding",
+        "Political support",
+        "Monitoring and evaluation",
+        "Media coverage"
+      ],
+      "answer": "Monitoring and evaluation"
+    },
+    {
+      "question": "Which of the following is described as a strength that can support community-based ECCD initiatives in Timor-Leste?",
+      "choices": [
+        "Advanced technological infrastructure",
+        "High literacy rates",
+        "Strong community structures",
+        "Abundant financial resources"
+      ],
+      "answer": "Strong community structures"
+    },
+    {
+      "question": "What is suggested as a way to address the challenge of a multilingual environment in ECCD programs?",
+      "choices": [
+        "Using only English in all ECCD programs",
+        "Ignoring local languages in favor of official languages",
+        "Developing materials and training in multiple languages",
+        "Delaying language education until primary school"
+      ],
+      "answer": "Developing materials and training in multiple languages"
+    }
+  ]
+}

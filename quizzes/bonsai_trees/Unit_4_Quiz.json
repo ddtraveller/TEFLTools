@@ -1,0 +1,305 @@
+{
+  "title": "Basic Bonsai Techniques",
+  "questions": [
+    {
+      "question": "What is the primary purpose of structural pruning in bonsai?",
+      "choices": [
+        "To encourage fine branching",
+        "To establish the basic shape and structure of the bonsai",
+        "To maintain the tree's silhouette",
+        "To remove dead leaves"
+      ],
+      "answer": "To establish the basic shape and structure of the bonsai"
+    },
+    {
+      "question": "Which tool is best suited for removing larger branches flush with the trunk in bonsai?",
+      "choices": [
+        "Pruning shears",
+        "Concave cutters",
+        "Wire cutters",
+        "Root hooks"
+      ],
+      "answer": "Concave cutters"
+    },
+    {
+      "question": "What is the recommended angle for applying wire to bonsai branches?",
+      "choices": [
+        "30 degrees",
+        "45 degrees",
+        "60 degrees",
+        "90 degrees"
+      ],
+      "answer": "45 degrees"
+    },
+    {
+      "question": "How often should young, vigorously growing bonsai trees typically be repotted?",
+      "choices": [
+        "Every 6 months",
+        "Every 1-2 years",
+        "Every 3-4 years",
+        "Every 5-6 years"
+      ],
+      "answer": "Every 1-2 years"
+    },
+    {
+      "question": "What is the term for the visible surface roots at the base of a bonsai tree?",
+      "choices": [
+        "Nebari",
+        "Tachiagari",
+        "Jin",
+        "Shari"
+      ],
+      "answer": "Nebari"
+    },
+    {
+      "question": "What is the purpose of maintenance pruning in bonsai?",
+      "choices": [
+        "To establish the tree's basic structure",
+        "To encourage thick branch growth",
+        "To maintain the bonsai's shape and encourage fine branching",
+        "To remove the tree from its pot"
+      ],
+      "answer": "To maintain the bonsai's shape and encourage fine branching"
+    },
+    {
+      "question": "What is the recommended wire thickness for bonsai branches?",
+      "choices": [
+        "1/2 the thickness of the branch",
+        "1/3 the thickness of the branch",
+        "Equal to the thickness of the branch",
+        "Twice the thickness of the branch"
+      ],
+      "answer": "1/3 the thickness of the branch"
+    },
+    {
+      "question": "Which of the following is NOT a sign that a bonsai needs repotting?",
+      "choices": [
+        "Water drains slowly",
+        "Roots circling the bottom of the pot",
+        "Reduced vigor or yellowing leaves",
+        "Increased flower production"
+      ],
+      "answer": "Increased flower production"
+    },
+    {
+      "question": "What is the maximum recommended amount of root mass to remove during root pruning?",
+      "choices": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": "1/3"
+    },
+    {
+      "question": "Which technique is used to create deadwood features on bonsai?",
+      "choices": [
+        "Jin",
+        "Nebari",
+        "Tachiagari",
+        "Ramification"
+      ],
+      "answer": "Jin"
+    },
+    {
+      "question": "What is the purpose of using chopsticks during the repotting process?",
+      "choices": [
+        "To measure the depth of the pot",
+        "To create drainage holes",
+        "To work soil into the root system",
+        "To prune leaves"
+      ],
+      "answer": "To work soil into the root system"
+    },
+    {
+      "question": "Which of the following is a characteristic of Casuarina equisetifolia that makes it suitable for bonsai?",
+      "choices": [
+        "Large, broad leaves",
+        "Slow growth rate",
+        "Naturally windswept appearance",
+        "Inability to tolerate pruning"
+      ],
+      "answer": "Naturally windswept appearance"
+    },
+    {
+      "question": "What bonsai style is Casuarina equisetifolia particularly well-suited for?",
+      "choices": [
+        "Formal upright",
+        "Cascade",
+        "Literati (bunjin)",
+        "Root-over-rock"
+      ],
+      "answer": "Literati (bunjin)"
+    },
+    {
+      "question": "Which of the following is NOT a primary objective of structural pruning?",
+      "choices": [
+        "Create the primary branch structure",
+        "Establish the trunk line and taper",
+        "Remove branches that don't fit the desired style",
+        "Encourage back-budding"
+      ],
+      "answer": "Encourage back-budding"
+    },
+    {
+      "question": "What is the recommended action for new shoots on deciduous bonsai trees during maintenance pruning?",
+      "choices": [
+        "Remove them entirely",
+        "Allow them to grow freely",
+        "Trim them back to 2-3 leaves",
+        "Wire them immediately"
+      ],
+      "answer": "Trim them back to 2-3 leaves"
+    },
+    {
+      "question": "Which type of wire is generally recommended for deciduous bonsai trees?",
+      "choices": [
+        "Copper wire",
+        "Anodized aluminum wire",
+        "Steel wire",
+        "Plastic-coated wire"
+      ],
+      "answer": "Anodized aluminum wire"
+    },
+    {
+      "question": "What is the purpose of extending wire to the next larger branch or trunk when wiring bonsai?",
+      "choices": [
+        "To create more interesting branch patterns",
+        "To use less wire overall",
+        "To provide stability for the wired branch",
+        "To encourage faster growth"
+      ],
+      "answer": "To provide stability for the wired branch"
+    },
+    {
+      "question": "Which of the following is a correct principle for shaping bonsai branches?",
+      "choices": [
+        "Upper branches should be thicker with more horizontal movement",
+        "Lower branches should be thinner with more upward movement",
+        "All branches should have the same thickness and movement",
+        "Lower branches should be thicker with more horizontal movement"
+      ],
+      "answer": "Lower branches should be thicker with more horizontal movement"
+    },
+    {
+      "question": "What is the recommended pot size for repotting a bonsai?",
+      "choices": [
+        "Much larger than the root mass",
+        "Exactly the same size as the root mass",
+        "Slightly larger than the root mass",
+        "Much smaller than the root mass"
+      ],
+      "answer": "Slightly larger than the root mass"
+    },
+    {
+      "question": "What should be done immediately after repotting a bonsai?",
+      "choices": [
+        "Place it in full sun",
+        "Water it thoroughly",
+        "Apply fertilizer",
+        "Prune heavily"
+      ],
+      "answer": "Water it thoroughly"
+    },
+    {
+      "question": "Which of the following is a characteristic of Schleichera oleosa that makes it suitable for bonsai?",
+      "choices": [
+        "Rapid growth rate",
+        "Single, simple leaves",
+        "Develops interesting bark texture with age",
+        "Intolerance to pruning"
+      ],
+      "answer": "Develops interesting bark texture with age"
+    },
+    {
+      "question": "What is a key consideration when working with Schleichera oleosa as a bonsai?",
+      "choices": [
+        "It requires frequent repotting",
+        "It needs constant wiring",
+        "Patience is required due to slow growth",
+        "It cannot be shaped into formal styles"
+      ],
+      "answer": "Patience is required due to slow growth"
+    },
+    {
+      "question": "Which bonsai style is Pterocarpus indicus particularly well-suited for?",
+      "choices": [
+        "Broom style",
+        "Cascade style",
+        "Root-over-rock style",
+        "Literati style"
+      ],
+      "answer": "Root-over-rock style"
+    },
+    {
+      "question": "What is a key characteristic of Pterocarpus indicus that affects its bonsai cultivation?",
+      "choices": [
+        "It naturally maintains a compact form",
+        "It requires minimal pruning",
+        "It develops a thick trunk and spreading canopy",
+        "It is intolerant of root pruning"
+      ],
+      "answer": "It develops a thick trunk and spreading canopy"
+    },
+    {
+      "question": "What is the purpose of creating jin in bonsai?",
+      "choices": [
+        "To encourage new leaf growth",
+        "To create the appearance of deadwood",
+        "To improve water absorption",
+        "To prevent insect infestations"
+      ],
+      "answer": "To create the appearance of deadwood"
+    },
+    {
+      "question": "What technique is used to enhance the nebari of a bonsai over time?",
+      "choices": [
+        "Constant wiring",
+        "Heavy fertilization",
+        "Ground-layering",
+        "Defoliation"
+      ],
+      "answer": "Ground-layering"
+    },
+    {
+      "question": "What is the recommended action for protecting a bonsai after repotting?",
+      "choices": [
+        "Place it in full sun to stimulate growth",
+        "Protect it from strong winds and direct sunlight",
+        "Prune it heavily to reduce stress on roots",
+        "Apply a thick layer of fertilizer"
+      ],
+      "answer": "Protect it from strong winds and direct sunlight"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice when wiring bonsai branches?",
+      "choices": [
+        "Applying wire at a 45-degree angle",
+        "Leaving space between coils for branch growth",
+        "Crossing or overlapping wires",
+        "Extending wire to the next larger branch for stability"
+      ],
+      "answer": "Crossing or overlapping wires"
+    },
+    {
+      "question": "What is the primary purpose of using a root hook during the repotting process?",
+      "choices": [
+        "To create holes for drainage",
+        "To measure the depth of the pot",
+        "To gently comb out the roots",
+        "To apply wire to the trunk"
+      ],
+      "answer": "To gently comb out the roots"
+    },
+    {
+      "question": "Which of the following is a correct principle for bonsai branch development?",
+      "choices": [
+        "Encourage vertical growth for all branches",
+        "Maintain equal thickness for all branches",
+        "Create movement in three dimensions",
+        "Avoid bending branches after wiring"
+      ],
+      "answer": "Create movement in three dimensions"
+    }
+  ]
+}

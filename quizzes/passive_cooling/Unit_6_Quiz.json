@@ -1,0 +1,305 @@
+{
+  "title": "Integration of Passive and Mechanical Systems",
+  "questions": [
+    {
+      "question": "What is the primary goal of integrating passive and mechanical cooling systems?",
+      "choices": [
+        "To increase energy consumption",
+        "To optimize thermal comfort while minimizing energy use",
+        "To eliminate the need for windows",
+        "To make buildings more expensive"
+      ],
+      "answer": "To optimize thermal comfort while minimizing energy use"
+    },
+    {
+      "question": "What is another term for the integration of passive and mechanical systems?",
+      "choices": [
+        "Mixed-mode ventilation",
+        "Dual-core cooling",
+        "Hybrid heating",
+        "Passive-active fusion"
+      ],
+      "answer": "Mixed-mode ventilation"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of a passive cooling strategy?",
+      "choices": [
+        "Natural ventilation pathways",
+        "Thermal mass",
+        "Shading devices",
+        "Mechanical chillers"
+      ],
+      "answer": "Mechanical chillers"
+    },
+    {
+      "question": "What is the 'switchover temperature' in a mixed-mode cooling system?",
+      "choices": [
+        "The temperature at which the building catches fire",
+        "The ideal indoor temperature",
+        "The outdoor temperature at which the system transitions from natural ventilation to mechanical cooling",
+        "The temperature at which windows automatically open"
+      ],
+      "answer": "The outdoor temperature at which the system transitions from natural ventilation to mechanical cooling"
+    },
+    {
+      "question": "According to the module, how much energy can mixed-mode buildings save on cooling compared to fully air-conditioned spaces?",
+      "choices": [
+        "10-20%",
+        "30-50%",
+        "60-80%",
+        "90-100%"
+      ],
+      "answer": "30-50%"
+    },
+    {
+      "question": "Which of the following is a benefit of allowing occupants to open windows in a mixed-mode building?",
+      "choices": [
+        "Increased energy consumption",
+        "Reduced fire safety",
+        "Improved occupant satisfaction and productivity",
+        "Lower construction costs"
+      ],
+      "answer": "Improved occupant satisfaction and productivity"
+    },
+    {
+      "question": "In a tropical climate like Timor-Leste, what might be used to protect windows from intense solar radiation?",
+      "choices": [
+        "Refrigeration units",
+        "Deep overhangs or external shading devices",
+        "Thick curtains",
+        "Solar panels"
+      ],
+      "answer": "Deep overhangs or external shading devices"
+    },
+    {
+      "question": "What role does thermal mass play in a mixed-mode cooling system?",
+      "choices": [
+        "It generates electricity",
+        "It absorbs heat during the day and releases it at night",
+        "It creates a barrier against sound",
+        "It filters the air"
+      ],
+      "answer": "It absorbs heat during the day and releases it at night"
+    },
+    {
+      "question": "Which of the following is NOT a typical function of a Building Management System (BMS) in a mixed-mode cooling strategy?",
+      "choices": [
+        "Monitoring indoor and outdoor conditions",
+        "Deciding when to open windows for natural ventilation",
+        "Engaging mechanical cooling based on various factors",
+        "Controlling the building's structural integrity"
+      ],
+      "answer": "Controlling the building's structural integrity"
+    },
+    {
+      "question": "What tool is crucial for simulating the performance of different configurations in mixed-mode cooling design?",
+      "choices": [
+        "A thermometer",
+        "A wind tunnel",
+        "Energy modeling software",
+        "A humidity gauge"
+      ],
+      "answer": "Energy modeling software"
+    },
+    {
+      "question": "Which of the following is a challenge when implementing mixed-mode cooling in tropical climates?",
+      "choices": [
+        "Lack of sunlight",
+        "Excessive heating demands",
+        "High cooling demands year-round",
+        "Frequent snowfall"
+      ],
+      "answer": "High cooling demands year-round"
+    },
+    {
+      "question": "What type of mechanical system might be used to enhance the perception of cooling in a mixed-mode building?",
+      "choices": [
+        "Heaters",
+        "Ceiling fans",
+        "Dehumidifiers",
+        "Air purifiers"
+      ],
+      "answer": "Ceiling fans"
+    },
+    {
+      "question": "Which of the following is an example of a low-energy mechanical cooling system that could be integrated with passive strategies?",
+      "choices": [
+        "Gas-powered air conditioning",
+        "Coal-fired cooling towers",
+        "Chilled water system",
+        "Steam-driven ventilation"
+      ],
+      "answer": "Chilled water system"
+    },
+    {
+      "question": "What approach is necessary when designing integrated passive and mechanical systems?",
+      "choices": [
+        "Focusing solely on mechanical systems",
+        "Ignoring local climate data",
+        "A holistic approach considering all elements from the early stages",
+        "Prioritizing aesthetics over functionality"
+      ],
+      "answer": "A holistic approach considering all elements from the early stages"
+    },
+    {
+      "question": "Which factor does NOT typically influence the decision to switch between passive and mechanical modes in a mixed-mode system?",
+      "choices": [
+        "Temperature",
+        "Humidity",
+        "Occupancy patterns",
+        "Building color"
+      ],
+      "answer": "Building color"
+    },
+    {
+      "question": "What is a potential benefit of using locally available materials like bamboo in passive cooling strategies?",
+      "choices": [
+        "Increased energy consumption",
+        "Higher construction costs",
+        "Improved thermal properties and sustainability",
+        "Reduced building lifespan"
+      ],
+      "answer": "Improved thermal properties and sustainability"
+    },
+    {
+      "question": "Which of the following is NOT a typical passive cooling strategy?",
+      "choices": [
+        "Cross-ventilation",
+        "Thermal mass",
+        "Mechanical refrigeration",
+        "Cool roofs"
+      ],
+      "answer": "Mechanical refrigeration"
+    },
+    {
+      "question": "What role do operable windows play in a mixed-mode cooling system?",
+      "choices": [
+        "They provide a view only",
+        "They allow for natural ventilation when conditions are favorable",
+        "They increase the building's structural strength",
+        "They generate electricity"
+      ],
+      "answer": "They allow for natural ventilation when conditions are favorable"
+    },
+    {
+      "question": "Which of the following is a benefit of using cool roofs in a mixed-mode cooling strategy?",
+      "choices": [
+        "Increased heat absorption",
+        "Improved sound insulation",
+        "Reduced solar heat gain",
+        "Enhanced Wi-Fi signal"
+      ],
+      "answer": "Reduced solar heat gain"
+    },
+    {
+      "question": "What is the primary purpose of a Building Management System (BMS) in a mixed-mode cooling strategy?",
+      "choices": [
+        "To increase energy consumption",
+        "To manage the interplay between passive and active modes",
+        "To control the building's color scheme",
+        "To regulate the number of occupants"
+      ],
+      "answer": "To manage the interplay between passive and active modes"
+    },
+    {
+      "question": "Which of the following is NOT a typical consideration when designing a mixed-mode cooling system?",
+      "choices": [
+        "Local climate data",
+        "Building use patterns",
+        "Occupant preferences",
+        "Building age"
+      ],
+      "answer": "Building age"
+    },
+    {
+      "question": "What is a potential challenge of implementing mixed-mode cooling in public buildings like libraries?",
+      "choices": [
+        "Lack of windows",
+        "Varying occupancy patterns",
+        "Absence of electricity",
+        "Excessive indoor plant life"
+      ],
+      "answer": "Varying occupancy patterns"
+    },
+    {
+      "question": "Which of the following is a benefit of using thermal mass in a mixed-mode cooling system?",
+      "choices": [
+        "It generates electricity",
+        "It filters the air",
+        "It stabilizes indoor temperatures",
+        "It increases humidity"
+      ],
+      "answer": "It stabilizes indoor temperatures"
+    },
+    {
+      "question": "What role does energy modeling software play in the design of mixed-mode cooling systems?",
+      "choices": [
+        "It controls the building's temperature",
+        "It simulates the performance of different configurations",
+        "It generates electricity for the building",
+        "It manages the building's occupancy"
+      ],
+      "answer": "It simulates the performance of different configurations"
+    },
+    {
+      "question": "Which of the following is NOT a typical sensor used in a mixed-mode cooling system?",
+      "choices": [
+        "Temperature sensor",
+        "Humidity sensor",
+        "Occupancy sensor",
+        "Seismic sensor"
+      ],
+      "answer": "Seismic sensor"
+    },
+    {
+      "question": "What is the primary advantage of using locally available materials in passive cooling strategies?",
+      "choices": [
+        "Higher costs",
+        "Increased energy consumption",
+        "Improved sustainability and cultural appropriateness",
+        "Reduced building lifespan"
+      ],
+      "answer": "Improved sustainability and cultural appropriateness"
+    },
+    {
+      "question": "Which of the following is a potential challenge when implementing mixed-mode cooling in Timor-Leste?",
+      "choices": [
+        "Lack of sunlight",
+        "Excessive cold",
+        "High humidity and temperature",
+        "Frequent snowfall"
+      ],
+      "answer": "High humidity and temperature"
+    },
+    {
+      "question": "What is the primary goal of night cooling in a mixed-mode system?",
+      "choices": [
+        "To increase daytime temperatures",
+        "To reduce the building's energy consumption during peak hours",
+        "To improve visibility at night",
+        "To increase humidity levels"
+      ],
+      "answer": "To reduce the building's energy consumption during peak hours"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of mixed-mode cooling systems?",
+      "choices": [
+        "Reduced energy consumption",
+        "Improved occupant comfort",
+        "Increased building resilience",
+        "Elimination of all mechanical systems"
+      ],
+      "answer": "Elimination of all mechanical systems"
+    },
+    {
+      "question": "What role does building orientation play in mixed-mode cooling strategies?",
+      "choices": [
+        "It determines the building's color",
+        "It affects the capture of prevailing breezes and solar gain",
+        "It controls the building's height",
+        "It determines the number of windows"
+      ],
+      "answer": "It affects the capture of prevailing breezes and solar gain"
+    }
+  ]
+}

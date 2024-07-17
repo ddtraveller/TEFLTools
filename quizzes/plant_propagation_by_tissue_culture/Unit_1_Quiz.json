@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Plant Biotechnology and Tissue Culture",
+  "questions": [
+    {
+      "question": "What is plant biotechnology?",
+      "choices": [
+        "The study of plant diseases",
+        "The use of biological systems to modify plants or agricultural processes",
+        "The cultivation of plants in greenhouses",
+        "The genetic modification of animals for agricultural use"
+      ],
+      "answer": "The use of biological systems to modify plants or agricultural processes"
+    },
+    {
+      "question": "Which principle is plant tissue culture based on?",
+      "choices": [
+        "Photosynthesis",
+        "Totipotency",
+        "Genetic drift",
+        "Natural selection"
+      ],
+      "answer": "Totipotency"
+    },
+    {
+      "question": "What is micropropagation?",
+      "choices": [
+        "The study of microscopic plant structures",
+        "The rapid multiplication of plants using tissue culture techniques",
+        "The use of microorganisms to improve soil quality",
+        "The propagation of plants using microscopic seeds"
+      ],
+      "answer": "The rapid multiplication of plants using tissue culture techniques"
+    },
+    {
+      "question": "Which of the following is NOT a type of plant tissue culture?",
+      "choices": [
+        "Meristem culture",
+        "Embryo culture",
+        "Photosynthetic culture",
+        "Callus culture"
+      ],
+      "answer": "Photosynthetic culture"
+    },
+    {
+      "question": "What is an explant in tissue culture?",
+      "choices": [
+        "A piece of tissue taken from a plant for culture initiation",
+        "A type of growth medium",
+        "A sterilization technique",
+        "A genetically modified plant"
+      ],
+      "answer": "A piece of tissue taken from a plant for culture initiation"
+    },
+    {
+      "question": "What does 'in vitro' mean in the context of tissue culture?",
+      "choices": [
+        "Inside the plant",
+        "In a greenhouse",
+        "In a glass or laboratory vessel",
+        "In the field"
+      ],
+      "answer": "In a glass or laboratory vessel"
+    },
+    {
+      "question": "Which of the following is an advantage of tissue culture over traditional propagation methods?",
+      "choices": [
+        "Lower cost",
+        "No need for specialized equipment",
+        "Production of disease-free plants",
+        "Reduced genetic diversity"
+      ],
+      "answer": "Production of disease-free plants"
+    },
+    {
+      "question": "What is the primary purpose of meristem culture?",
+      "choices": [
+        "To produce genetically modified plants",
+        "To eliminate viruses from plants",
+        "To increase genetic diversity",
+        "To study root development"
+      ],
+      "answer": "To eliminate viruses from plants"
+    },
+    {
+      "question": "Which of the following is a potential application of tissue culture in Timor Leste?",
+      "choices": [
+        "Oil extraction",
+        "Rapid multiplication of disease-free planting material",
+        "Livestock breeding",
+        "Soil analysis"
+      ],
+      "answer": "Rapid multiplication of disease-free planting material"
+    },
+    {
+      "question": "What is somatic embryogenesis?",
+      "choices": [
+        "The development of embryos from vegetative cells",
+        "The fusion of gametes to form an embryo",
+        "The study of embryo anatomy",
+        "The transplantation of embryos between species"
+      ],
+      "answer": "The development of embryos from vegetative cells"
+    },
+    {
+      "question": "Which of the following is NOT a common application of plant biotechnology?",
+      "choices": [
+        "Developing disease-resistant crops",
+        "Improving nutritional content of foods",
+        "Increasing pesticide use",
+        "Conserving rare plant species"
+      ],
+      "answer": "Increasing pesticide use"
+    },
+    {
+      "question": "What is the main purpose of callus culture?",
+      "choices": [
+        "To produce flowers",
+        "To study undifferentiated cell growth",
+        "To eliminate viruses",
+        "To increase root development"
+      ],
+      "answer": "To study undifferentiated cell growth"
+    },
+    {
+      "question": "Which of the following is a potential economic benefit of tissue culture for Timor Leste?",
+      "choices": [
+        "Increased reliance on imported plants",
+        "Reduced agricultural productivity",
+        "Creation of employment in tissue culture laboratories",
+        "Decreased biodiversity"
+      ],
+      "answer": "Creation of employment in tissue culture laboratories"
+    },
+    {
+      "question": "What is the primary purpose of embryo culture?",
+      "choices": [
+        "To produce genetically modified organisms",
+        "To overcome seed dormancy or embryo abortion",
+        "To study leaf development",
+        "To increase fruit size"
+      ],
+      "answer": "To overcome seed dormancy or embryo abortion"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of plant tissue culture media?",
+      "choices": [
+        "Minerals",
+        "Vitamins",
+        "Soil",
+        "Plant growth regulators"
+      ],
+      "answer": "Soil"
+    },
+    {
+      "question": "What is the main advantage of protoplast culture?",
+      "choices": [
+        "Easier sterilization",
+        "Faster growth rates",
+        "Potential for genetic manipulation at the cellular level",
+        "Increased resistance to diseases"
+      ],
+      "answer": "Potential for genetic manipulation at the cellular level"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing tissue culture in Timor Leste?",
+      "choices": [
+        "Excess of trained personnel",
+        "Too much funding available",
+        "Limited infrastructure and resources",
+        "Overproduction of crops"
+      ],
+      "answer": "Limited infrastructure and resources"
+    },
+    {
+      "question": "What is the primary purpose of phytoremediation in plant biotechnology?",
+      "choices": [
+        "To increase crop yields",
+        "To produce pharmaceuticals",
+        "To clean up contaminated soils using plants",
+        "To improve plant aesthetics"
+      ],
+      "answer": "To clean up contaminated soils using plants"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in the plant tissue culture process?",
+      "choices": [
+        "Sterilization of explants",
+        "Preparation of growth media",
+        "Open-air cultivation",
+        "Acclimatization of plantlets"
+      ],
+      "answer": "Open-air cultivation"
+    },
+    {
+      "question": "What is the main purpose of using plant growth regulators in tissue culture media?",
+      "choices": [
+        "To provide nutrients",
+        "To control contamination",
+        "To regulate growth and development",
+        "To increase media viscosity"
+      ],
+      "answer": "To regulate growth and development"
+    },
+    {
+      "question": "Which of the following is a potential application of tissue culture for conservation in Timor Leste?",
+      "choices": [
+        "Increasing pesticide use",
+        "Preserving endangered plant species",
+        "Promoting monoculture farming",
+        "Increasing deforestation"
+      ],
+      "answer": "Preserving endangered plant species"
+    },
+    {
+      "question": "What is somaclonal variation?",
+      "choices": [
+        "A type of plant disease",
+        "A sterilization technique",
+        "Genetic variation in plants derived from tissue culture",
+        "A method of seed propagation"
+      ],
+      "answer": "Genetic variation in plants derived from tissue culture"
+    },
+    {
+      "question": "Which of the following is NOT a typical application of cell suspension culture?",
+      "choices": [
+        "Production of secondary metabolites",
+        "Study of cell-to-cell interactions",
+        "Large-scale propagation of whole plants",
+        "Selection of stress-tolerant cell lines"
+      ],
+      "answer": "Large-scale propagation of whole plants"
+    },
+    {
+      "question": "What is the main advantage of using tissue culture for crop improvement?",
+      "choices": [
+        "It requires less time than traditional breeding methods",
+        "It doesn't require any specialized equipment",
+        "It always produces genetically modified organisms",
+        "It eliminates the need for field trials"
+      ],
+      "answer": "It requires less time than traditional breeding methods"
+    },
+    {
+      "question": "Which of the following crops could potentially benefit from tissue culture in Timor Leste?",
+      "choices": [
+        "Wheat",
+        "Rice",
+        "Coffee",
+        "Soybean"
+      ],
+      "answer": "Coffee"
+    },
+    {
+      "question": "What is the primary purpose of acclimatization in the tissue culture process?",
+      "choices": [
+        "To increase genetic diversity",
+        "To eliminate pathogens",
+        "To adapt plants to ex vitro conditions",
+        "To induce flowering"
+      ],
+      "answer": "To adapt plants to ex vitro conditions"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of using tissue culture for plant propagation?",
+      "choices": [
+        "Year-round production",
+        "Increased genetic diversity",
+        "Rapid multiplication",
+        "Production of disease-free plants"
+      ],
+      "answer": "Increased genetic diversity"
+    },
+    {
+      "question": "What is the main purpose of using antibiotics in tissue culture media?",
+      "choices": [
+        "To promote plant growth",
+        "To prevent bacterial contamination",
+        "To induce mutations",
+        "To improve nutrient uptake"
+      ],
+      "answer": "To prevent bacterial contamination"
+    },
+    {
+      "question": "Which of the following is a potential environmental impact of introducing tissue-cultured plants on a large scale?",
+      "choices": [
+        "Increased genetic diversity in wild populations",
+        "Reduced need for chemical pesticides",
+        "Potential displacement of native species",
+        "Improved soil quality"
+      ],
+      "answer": "Potential displacement of native species"
+    },
+    {
+      "question": "What is the main advantage of using meristem culture for virus elimination?",
+      "choices": [
+        "It's faster than other methods",
+        "It doesn't require specialized equipment",
+        "Meristematic tissue often lacks viruses",
+        "It also eliminates bacterial pathogens"
+      ],
+      "answer": "Meristematic tissue often lacks viruses"
+    }
+  ]
+}

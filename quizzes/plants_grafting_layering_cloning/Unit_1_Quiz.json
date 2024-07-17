@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Plant Propagation in Timor Leste",
+  "questions": [
+    {
+      "question": "Which biodiversity hotspot is Timor Leste a part of?",
+      "choices": [
+        "Sundaland",
+        "Wallacea",
+        "Philippines",
+        "New Guinea"
+      ],
+      "answer": "Wallacea"
+    },
+    {
+      "question": "Approximately how many plant species have been recorded in Timor Leste?",
+      "choices": [
+        "500",
+        "1,000",
+        "1,500",
+        "2,000"
+      ],
+      "answer": "1,500"
+    },
+    {
+      "question": "Which of the following is NOT a major ecosystem found in Timor Leste?",
+      "choices": [
+        "Tropical rainforests",
+        "Monsoon forests",
+        "Mangroves",
+        "Tundra"
+      ],
+      "answer": "Tundra"
+    },
+    {
+      "question": "What is the dominant type of agriculture in Timor Leste?",
+      "choices": [
+        "Commercial agriculture",
+        "Subsistence agriculture",
+        "Plantation agriculture",
+        "Intensive agriculture"
+      ],
+      "answer": "Subsistence agriculture"
+    },
+    {
+      "question": "Which of the following is NOT a main subsistence crop in Timor Leste?",
+      "choices": [
+        "Maize",
+        "Cassava",
+        "Sweet potato",
+        "Wheat"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What is a major challenge facing agricultural systems in Timor Leste?",
+      "choices": [
+        "Overproduction",
+        "Soil erosion and degradation",
+        "Excessive rainfall",
+        "Overuse of pesticides"
+      ],
+      "answer": "Soil erosion and degradation"
+    },
+    {
+      "question": "What is an advantage of sexual propagation in plants?",
+      "choices": [
+        "Genetic uniformity",
+        "Faster maturity",
+        "Genetic diversity",
+        "Preservation of desirable traits"
+      ],
+      "answer": "Genetic diversity"
+    },
+    {
+      "question": "Which of the following is NOT a method of asexual propagation?",
+      "choices": [
+        "Cuttings",
+        "Grafting",
+        "Layering",
+        "Pollination"
+      ],
+      "answer": "Pollination"
+    },
+    {
+      "question": "What is a disadvantage of asexual propagation?",
+      "choices": [
+        "Genetic uniformity",
+        "Faster maturity",
+        "Preservation of desirable traits",
+        "Limited genetic diversity"
+      ],
+      "answer": "Limited genetic diversity"
+    },
+    {
+      "question": "Why is preserving native plant species important for Timor Leste?",
+      "choices": [
+        "To increase crop yields",
+        "To conserve genetic diversity",
+        "To promote monoculture",
+        "To reduce biodiversity"
+      ],
+      "answer": "To conserve genetic diversity"
+    },
+    {
+      "question": "What is a benefit of native plants being adapted to local conditions?",
+      "choices": [
+        "They require more water",
+        "They are more susceptible to pests",
+        "They are often more resilient to local pests and diseases",
+        "They grow faster than non-native species"
+      ],
+      "answer": "They are often more resilient to local pests and diseases"
+    },
+    {
+      "question": "What is the term for the root system and lower part of the stem onto which another variety is grafted?",
+      "choices": [
+        "Scion",
+        "Rootstock",
+        "Cutting",
+        "Layer"
+      ],
+      "answer": "Rootstock"
+    },
+    {
+      "question": "What is the detached living portion of a plant joined to a stock in grafting called?",
+      "choices": [
+        "Rootstock",
+        "Cutting",
+        "Scion",
+        "Layer"
+      ],
+      "answer": "Scion"
+    },
+    {
+      "question": "Which of the following is a cash crop in Timor Leste?",
+      "choices": [
+        "Maize",
+        "Cassava",
+        "Coffee",
+        "Sweet potato"
+      ],
+      "answer": "Coffee"
+    },
+    {
+      "question": "What is agroforestry?",
+      "choices": [
+        "A type of monoculture farming",
+        "A land use management system combining trees with crops or livestock",
+        "A method of harvesting timber",
+        "A technique for propagating forest species"
+      ],
+      "answer": "A land use management system combining trees with crops or livestock"
+    },
+    {
+      "question": "Which native tree species of Timor Leste is known for its aromatic wood and has been historically overexploited?",
+      "choices": [
+        "White Gum",
+        "Candlenut",
+        "Sandalwood",
+        "Mountain Gum"
+      ],
+      "answer": "Sandalwood"
+    },
+    {
+      "question": "Which Eucalyptus species is endemic to Timor and nearby islands?",
+      "choices": [
+        "Eucalyptus globulus",
+        "Eucalyptus urophylla",
+        "Eucalyptus camaldulensis",
+        "Eucalyptus deglupta"
+      ],
+      "answer": "Eucalyptus urophylla"
+    },
+    {
+      "question": "What is a potential use for the Candlenut tree (Aleurites moluccana) in Timor Leste?",
+      "choices": [
+        "Timber production",
+        "Fruit cultivation",
+        "Biodiesel production",
+        "Rubber tapping"
+      ],
+      "answer": "Biodiesel production"
+    },
+    {
+      "question": "Which native tree species is particularly important for high-altitude reforestation in Timor Leste?",
+      "choices": [
+        "Sandalwood",
+        "White Gum",
+        "Candlenut",
+        "Timorese Mountain Gum"
+      ],
+      "answer": "Timorese Mountain Gum"
+    },
+    {
+      "question": "What is a potential benefit of using advanced propagation techniques for native plant species in Timor Leste?",
+      "choices": [
+        "Increased use of chemical fertilizers",
+        "Reduction in crop diversity",
+        "Preservation of unique genetic traits",
+        "Promotion of monoculture farming"
+      ],
+      "answer": "Preservation of unique genetic traits"
+    },
+    {
+      "question": "How can plant propagation contribute to climate change adaptation in Timor Leste?",
+      "choices": [
+        "By increasing the use of fossil fuels",
+        "By promoting deforestation",
+        "By developing and distributing climate-resilient plant varieties",
+        "By encouraging the use of non-native species"
+      ],
+      "answer": "By developing and distributing climate-resilient plant varieties"
+    },
+    {
+      "question": "What is a potential cultural benefit of preserving native plant species through propagation in Timor Leste?",
+      "choices": [
+        "Abandonment of traditional practices",
+        "Preservation of plants used in traditional medicine",
+        "Increased reliance on imported medicines",
+        "Reduction in plant-based cultural ceremonies"
+      ],
+      "answer": "Preservation of plants used in traditional medicine"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in Timor Leste's agricultural sector?",
+      "choices": [
+        "Limited access to improved varieties",
+        "Climate variability",
+        "Overproduction of crops",
+        "Soil degradation"
+      ],
+      "answer": "Overproduction of crops"
+    },
+    {
+      "question": "What is a key advantage of vegetative propagation for native plant species in Timor Leste?",
+      "choices": [
+        "Increased genetic diversity",
+        "Faster evolution of new traits",
+        "Preservation of desirable traits",
+        "Higher susceptibility to diseases"
+      ],
+      "answer": "Preservation of desirable traits"
+    },
+    {
+      "question": "Which propagation method involves joining a scion to a rootstock?",
+      "choices": [
+        "Cutting",
+        "Layering",
+        "Division",
+        "Grafting"
+      ],
+      "answer": "Grafting"
+    },
+    {
+      "question": "What is micropropagation in the context of plant propagation?",
+      "choices": [
+        "Propagation using microscopic seeds",
+        "Tissue culture techniques",
+        "Propagation of microorganisms",
+        "Use of microscopes in plant breeding"
+      ],
+      "answer": "Tissue culture techniques"
+    },
+    {
+      "question": "Which of the following is a potential economic opportunity from preserving and propagating native plant species in Timor Leste?",
+      "choices": [
+        "Increased importation of foreign plant species",
+        "Development of the herbal medicine market",
+        "Reduction in agricultural diversity",
+        "Expansion of monoculture farming"
+      ],
+      "answer": "Development of the herbal medicine market"
+    },
+    {
+      "question": "What role can improved plant propagation techniques play in addressing soil erosion in Timor Leste?",
+      "choices": [
+        "Increase the use of chemical fertilizers",
+        "Promote bare soil cultivation",
+        "Support the growth of deep-rooted native plants for soil stabilization",
+        "Encourage monoculture farming"
+      ],
+      "answer": "Support the growth of deep-rooted native plants for soil stabilization"
+    },
+    {
+      "question": "Which of the following is NOT a typical ecosystem service provided by native plant species in Timor Leste?",
+      "choices": [
+        "Carbon sequestration",
+        "Soil erosion control",
+        "Habitat for wildlife",
+        "Increased greenhouse gas emissions"
+      ],
+      "answer": "Increased greenhouse gas emissions"
+    },
+    {
+      "question": "What is a potential benefit of combining grafting techniques with native plant species in Timor Leste?",
+      "choices": [
+        "Reduced adaptability to local conditions",
+        "Increased susceptibility to pests",
+        "Improved fruit quality while maintaining local adaptations",
+        "Decreased genetic diversity"
+      ],
+      "answer": "Improved fruit quality while maintaining local adaptations"
+    }
+  ]
+}

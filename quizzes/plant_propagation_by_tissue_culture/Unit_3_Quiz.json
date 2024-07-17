@@ -1,0 +1,305 @@
+{
+  "title": "Plant Growth Media Preparation",
+  "questions": [
+    {
+      "question": "What is the most widely used formulation in plant tissue culture?",
+      "choices": [
+        "Hoagland's solution",
+        "Murashige and Skoog (MS) medium",
+        "Gamborg's B5 medium",
+        "White's medium"
+      ],
+      "answer": "Murashige and Skoog (MS) medium"
+    },
+    {
+      "question": "Which of the following is NOT a macronutrient typically found in plant growth media?",
+      "choices": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Zinc"
+      ],
+      "answer": "Zinc"
+    },
+    {
+      "question": "What is the primary purpose of adding sucrose to plant growth media?",
+      "choices": [
+        "To adjust pH",
+        "To provide a carbon source",
+        "To prevent contamination",
+        "To solidify the medium"
+      ],
+      "answer": "To provide a carbon source"
+    },
+    {
+      "question": "Which compound is commonly used to solidify plant growth media?",
+      "choices": [
+        "Gelatin",
+        "Pectin",
+        "Agar",
+        "Starch"
+      ],
+      "answer": "Agar"
+    },
+    {
+      "question": "What is the optimal pH range for most plant species in MS medium?",
+      "choices": [
+        "4.0 - 4.5",
+        "5.5 - 5.8",
+        "6.5 - 7.0",
+        "7.5 - 8.0"
+      ],
+      "answer": "5.5 - 5.8"
+    },
+    {
+      "question": "Which method is most commonly used to sterilize plant growth media?",
+      "choices": [
+        "UV radiation",
+        "Filtration",
+        "Autoclaving",
+        "Chemical disinfection"
+      ],
+      "answer": "Autoclaving"
+    },
+    {
+      "question": "What temperature is typically used for autoclaving plant growth media?",
+      "choices": [
+        "100°C",
+        "121°C",
+        "135°C",
+        "150°C"
+      ],
+      "answer": "121°C"
+    },
+    {
+      "question": "Which of the following is a micronutrient in plant growth media?",
+      "choices": [
+        "Nitrogen",
+        "Phosphorus",
+        "Calcium",
+        "Iron"
+      ],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is the primary function of EDTA in MS medium?",
+      "choices": [
+        "pH buffer",
+        "Chelating agent",
+        "Carbon source",
+        "Gelling agent"
+      ],
+      "answer": "Chelating agent"
+    },
+    {
+      "question": "Which vitamin is typically NOT included in MS medium?",
+      "choices": [
+        "Thiamine",
+        "Pyridoxine",
+        "Nicotinic acid",
+        "Vitamin C"
+      ],
+      "answer": "Vitamin C"
+    },
+    {
+      "question": "What is the purpose of using a laminar flow hood when preparing plant growth media?",
+      "choices": [
+        "To accelerate cooling of the media",
+        "To maintain sterility",
+        "To adjust pH",
+        "To mix components thoroughly"
+      ],
+      "answer": "To maintain sterility"
+    },
+    {
+      "question": "Which local alternative can serve as a source of plant growth regulators and vitamins?",
+      "choices": [
+        "Cassava starch",
+        "Coconut water",
+        "Banana pulp",
+        "Moringa leaves"
+      ],
+      "answer": "Coconut water"
+    },
+    {
+      "question": "What is the typical duration for autoclaving plant growth media?",
+      "choices": [
+        "5-10 minutes",
+        "15-20 minutes",
+        "30-35 minutes",
+        "45-60 minutes"
+      ],
+      "answer": "15-20 minutes"
+    },
+    {
+      "question": "Which of the following is NOT a common issue in media preparation?",
+      "choices": [
+        "Contamination",
+        "Incorrect pH",
+        "Media not solidifying",
+        "Excessive plant growth"
+      ],
+      "answer": "Excessive plant growth"
+    },
+    {
+      "question": "What is the primary role of potassium in plant growth media?",
+      "choices": [
+        "Photosynthesis",
+        "Cell wall formation",
+        "Enzyme activation and osmotic regulation",
+        "Nitrogen fixation"
+      ],
+      "answer": "Enzyme activation and osmotic regulation"
+    },
+    {
+      "question": "Which component of MS medium is responsible for maintaining iron in a soluble form?",
+      "choices": [
+        "Citric acid",
+        "EDTA",
+        "Ascorbic acid",
+        "Boric acid"
+      ],
+      "answer": "EDTA"
+    },
+    {
+      "question": "What is the purpose of adding myo-inositol to plant growth media?",
+      "choices": [
+        "As a carbon source",
+        "For cell membrane formation",
+        "As a vitamin supplement",
+        "To adjust osmotic potential"
+      ],
+      "answer": "As a vitamin supplement"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in media preparation?",
+      "choices": [
+        "pH adjustment",
+        "Addition of gelling agent",
+        "Sterilization",
+        "Centrifugation"
+      ],
+      "answer": "Centrifugation"
+    },
+    {
+      "question": "What is the primary role of calcium in plant growth media?",
+      "choices": [
+        "Energy transfer",
+        "Chlorophyll production",
+        "Cell wall formation and membrane stability",
+        "Nitrogen metabolism"
+      ],
+      "answer": "Cell wall formation and membrane stability"
+    },
+    {
+      "question": "Which of the following is a potential local alternative to agar as a gelling agent?",
+      "choices": [
+        "Coconut water",
+        "Banana pulp",
+        "Cassava starch",
+        "Moringa leaf extract"
+      ],
+      "answer": "Cassava starch"
+    },
+    {
+      "question": "What is the purpose of adding glycine to MS medium?",
+      "choices": [
+        "As a pH buffer",
+        "For protein synthesis",
+        "As a gelling agent",
+        "To prevent oxidation"
+      ],
+      "answer": "For protein synthesis"
+    },
+    {
+      "question": "Which of the following is NOT a common reason for media discoloration?",
+      "choices": [
+        "Caramelization of sugars",
+        "Oxidation of iron",
+        "Microbial contamination",
+        "Excessive vitamin content"
+      ],
+      "answer": "Excessive vitamin content"
+    },
+    {
+      "question": "What is the primary role of magnesium in plant growth media?",
+      "choices": [
+        "Cell wall formation",
+        "Chlorophyll molecule component",
+        "Nitrogen fixation",
+        "Osmotic regulation"
+      ],
+      "answer": "Chlorophyll molecule component"
+    },
+    {
+      "question": "Which of the following is NOT a typical macronutrient in MS medium?",
+      "choices": [
+        "Ammonium nitrate",
+        "Potassium nitrate",
+        "Calcium chloride",
+        "Boric acid"
+      ],
+      "answer": "Boric acid"
+    },
+    {
+      "question": "What is the purpose of adding nicotinic acid to plant growth media?",
+      "choices": [
+        "As a carbon source",
+        "For chlorophyll synthesis",
+        "As an enzyme cofactor",
+        "To adjust pH"
+      ],
+      "answer": "As an enzyme cofactor"
+    },
+    {
+      "question": "Which of the following is a potential risk of using non-sterile media in plant tissue culture?",
+      "choices": [
+        "Excessive plant growth",
+        "Nutrient deficiency",
+        "Microbial contamination",
+        "Media solidification"
+      ],
+      "answer": "Microbial contamination"
+    },
+    {
+      "question": "What is the primary role of boron in plant growth media?",
+      "choices": [
+        "Photosynthesis",
+        "Cell wall formation",
+        "Protein synthesis",
+        "Energy transfer"
+      ],
+      "answer": "Cell wall formation"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of vitamin stock solution for MS medium?",
+      "choices": [
+        "Thiamine",
+        "Pyridoxine",
+        "Nicotinic acid",
+        "Folic acid"
+      ],
+      "answer": "Folic acid"
+    },
+    {
+      "question": "What is the primary purpose of adding copper to plant growth media?",
+      "choices": [
+        "As a macronutrient",
+        "For chlorophyll synthesis",
+        "As an enzyme cofactor",
+        "To adjust pH"
+      ],
+      "answer": "As an enzyme cofactor"
+    },
+    {
+      "question": "Which of the following is a potential advantage of using local alternatives in media preparation?",
+      "choices": [
+        "Increased standardization",
+        "Improved sterility",
+        "Reduced costs",
+        "Enhanced nutrient uptake"
+      ],
+      "answer": "Reduced costs"
+    }
+  ]
+}

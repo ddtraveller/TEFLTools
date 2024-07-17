@@ -1,0 +1,295 @@
+{
+  "title": "Rootstock and Scion Selection",
+  "questions": [
+    {
+      "question": "What is the primary function of a rootstock in grafted plants?",
+      "choices": [
+        "To produce fruit",
+        "To form the root system",
+        "To provide flowers",
+        "To determine leaf shape"
+      ],
+      "answer": "To form the root system"
+    },
+    {
+      "question": "Which of the following is NOT a key characteristic to consider when selecting rootstock for Timor Leste?",
+      "choices": [
+        "Adaptation to local soil conditions",
+        "Drought tolerance",
+        "Cold hardiness",
+        "Disease resistance"
+      ],
+      "answer": "Cold hardiness"
+    },
+    {
+      "question": "What is the primary purpose of the scion in grafted plants?",
+      "choices": [
+        "To absorb water and nutrients",
+        "To provide disease resistance",
+        "To determine fruit or flower characteristics",
+        "To control tree size"
+      ],
+      "answer": "To determine fruit or flower characteristics"
+    },
+    {
+      "question": "Which factor is most important for ensuring compatibility between rootstock and scion?",
+      "choices": [
+        "Similar leaf shape",
+        "Matching flower color",
+        "Genetic relatedness",
+        "Equal growth rates"
+      ],
+      "answer": "Genetic relatedness"
+    },
+    {
+      "question": "What is the cambium in relation to grafting?",
+      "choices": [
+        "The outer bark of the tree",
+        "The layer of actively dividing cells between wood and bark",
+        "The central core of the stem",
+        "The area where roots emerge from the stem"
+      ],
+      "answer": "The layer of actively dividing cells between wood and bark"
+    },
+    {
+      "question": "How does a dwarfing rootstock affect the grafted tree?",
+      "choices": [
+        "Increases overall tree size",
+        "Reduces tree size",
+        "Enhances fruit production",
+        "Improves disease resistance"
+      ],
+      "answer": "Reduces tree size"
+    },
+    {
+      "question": "Which of the following is NOT typically influenced by rootstock selection?",
+      "choices": [
+        "Fruit flavor",
+        "Tree size",
+        "Drought tolerance",
+        "Flower color"
+      ],
+      "answer": "Flower color"
+    },
+    {
+      "question": "What is a potential consequence of mismatched growth rates between rootstock and scion?",
+      "choices": [
+        "Improved fruit quality",
+        "Enhanced disease resistance",
+        "Overgrowth or undergrowth at graft union",
+        "Increased drought tolerance"
+      ],
+      "answer": "Overgrowth or undergrowth at graft union"
+    },
+    {
+      "question": "Which soil type is predominantly found in Timor Leste?",
+      "choices": [
+        "Sandy loam",
+        "Clay and limestone-derived soils",
+        "Peat moss",
+        "Volcanic ash"
+      ],
+      "answer": "Clay and limestone-derived soils"
+    },
+    {
+      "question": "What is the typical pH range of soils in Timor Leste?",
+      "choices": [
+        "4.5-5.5 (acidic)",
+        "6.0-7.0 (neutral)",
+        "7.5-8.5 (alkaline)",
+        "9.0-10.0 (highly alkaline)"
+      ],
+      "answer": "7.5-8.5 (alkaline)"
+    },
+    {
+      "question": "Which rootstock trait is important for adaptation to Timor Leste's soil conditions?",
+      "choices": [
+        "Shallow root systems",
+        "Tolerance to high acidity",
+        "Efficient nutrient uptake in low-fertility soils",
+        "Preference for waterlogged conditions"
+      ],
+      "answer": "Efficient nutrient uptake in low-fertility soils"
+    },
+    {
+      "question": "What is a key characteristic of drought-tolerant rootstocks?",
+      "choices": [
+        "Shallow root systems",
+        "High water requirements",
+        "Extensive root systems",
+        "Rapid leaf shedding"
+      ],
+      "answer": "Extensive root systems"
+    },
+    {
+      "question": "Which of the following is an example of a drought-tolerant citrus rootstock?",
+      "choices": [
+        "Swingle citrumelo",
+        "Flying Dragon",
+        "Troyer citrange",
+        "Trifoliate orange"
+      ],
+      "answer": "Swingle citrumelo"
+    },
+    {
+      "question": "What is a common soil-borne disease affecting fruit trees in Timor Leste?",
+      "choices": [
+        "Apple scab",
+        "Phytophthora root rot",
+        "Powdery mildew",
+        "Fire blight"
+      ],
+      "answer": "Phytophthora root rot"
+    },
+    {
+      "question": "Which type of grafting combination typically has the highest compatibility?",
+      "choices": [
+        "Intraspecific (same species)",
+        "Interspecific (same genus)",
+        "Intergeneric (different genera)",
+        "Interfamilial (different families)"
+      ],
+      "answer": "Intraspecific (same species)"
+    },
+    {
+      "question": "What is an example of a compatible rootstock-scion combination for mangoes in Timor Leste?",
+      "choices": [
+        "Carabao scion on apple rootstock",
+        "Carabao scion on Kensington rootstock",
+        "Kensington scion on avocado rootstock",
+        "Kensington scion on citrus rootstock"
+      ],
+      "answer": "Carabao scion on Kensington rootstock"
+    },
+    {
+      "question": "What is the role of the cambium in graft union formation?",
+      "choices": [
+        "To provide nutrients to the scion",
+        "To form new roots",
+        "To facilitate the fusion of rootstock and scion tissues",
+        "To produce fruit"
+      ],
+      "answer": "To facilitate the fusion of rootstock and scion tissues"
+    },
+    {
+      "question": "Which grafting technique is particularly useful for ensuring proper cambium alignment?",
+      "choices": [
+        "Approach grafting",
+        "Whip and tongue grafting",
+        "Bud grafting",
+        "Bark grafting"
+      ],
+      "answer": "Whip and tongue grafting"
+    },
+    {
+      "question": "What is a potential advantage of using vigor-inducing rootstocks?",
+      "choices": [
+        "Easier harvesting",
+        "Higher planting density",
+        "Faster establishment",
+        "Reduced water requirements"
+      ],
+      "answer": "Faster establishment"
+    },
+    {
+      "question": "How can rootstock selection affect fruit quality?",
+      "choices": [
+        "By determining fruit color",
+        "By influencing sugar content and acidity",
+        "By controlling seed number",
+        "By altering fruit shape"
+      ],
+      "answer": "By influencing sugar content and acidity"
+    },
+    {
+      "question": "What is precocity in the context of rootstock influence?",
+      "choices": [
+        "Resistance to pests",
+        "Early bearing of fruit",
+        "Increased fruit size",
+        "Enhanced root growth"
+      ],
+      "answer": "Early bearing of fruit"
+    },
+    {
+      "question": "Which rootstock characteristic can help improve cold tolerance in citrus trees?",
+      "choices": [
+        "Using Rangpur lime rootstock",
+        "Using Flying Dragon rootstock",
+        "Using Cleopatra mandarin rootstock",
+        "Using sour orange rootstock"
+      ],
+      "answer": "Using Cleopatra mandarin rootstock"
+    },
+    {
+      "question": "What is a potential risk of introducing non-native rootstock species to Timor Leste?",
+      "choices": [
+        "Decreased fruit quality",
+        "Reduced drought tolerance",
+        "Ecological disruption",
+        "Increased labor costs"
+      ],
+      "answer": "Ecological disruption"
+    },
+    {
+      "question": "How might climate change affect rootstock selection criteria in Timor Leste?",
+      "choices": [
+        "Increased focus on cold hardiness",
+        "Greater emphasis on drought tolerance",
+        "Preference for shallow-rooted varieties",
+        "Prioritizing early fruiting characteristics"
+      ],
+      "answer": "Greater emphasis on drought tolerance"
+    },
+    {
+      "question": "What role does the rootstock play in managing soil-borne diseases?",
+      "choices": [
+        "It produces antibiotics to kill pathogens",
+        "It can possess genetic resistance to specific pathogens",
+        "It attracts beneficial soil microorganisms",
+        "It changes the soil pH to inhibit pathogen growth"
+      ],
+      "answer": "It can possess genetic resistance to specific pathogens"
+    },
+    {
+      "question": "Which of the following is an advantage of using clonal rootstocks?",
+      "choices": [
+        "Increased genetic diversity",
+        "Better adaptation to varied soil types",
+        "Consistent performance across grafted trees",
+        "Lower cost of production"
+      ],
+      "answer": "Consistent performance across grafted trees"
+    },
+    {
+      "question": "What is a potential drawback of using highly dwarfing rootstocks?",
+      "choices": [
+        "Increased susceptibility to drought",
+        "Lower fruit quality",
+        "Delayed fruiting",
+        "Reduced disease resistance"
+      ],
+      "answer": "Increased susceptibility to drought"
+    },
+    {
+      "question": "How can rootstock selection impact the marketability of fruit crops?",
+      "choices": [
+        "By determining fruit color",
+        "By influencing harvest timing",
+        "By affecting fruit size and quality",
+        "By changing the variety name"
+      ],
+      "answer": "By affecting fruit size and quality"
+    },
+    {
+      "question": "What is the primary purpose of evaluating rootstock performance in local orchards?",
+      "choices": [
+        "To increase genetic diversity",
+        "To determine optimal planting distances",
+        "To assess adaptation to local conditions",
+        "To set fruit prices"
+      ],
+      "answer": "To assess adaptation to local conditions"
+    }
+  ]
+}

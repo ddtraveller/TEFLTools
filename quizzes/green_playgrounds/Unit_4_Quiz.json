@@ -1,0 +1,305 @@
+{
+  "title": "Designing Resilient Urban Parks and Public Spaces",
+  "questions": [
+    {
+      "question": "Which of the following is a key strategy for managing stormwater runoff in urban parks?",
+      "choices": [
+        "Increasing impermeable surfaces",
+        "Installing bioswales",
+        "Removing all vegetation",
+        "Creating more concrete channels"
+      ],
+      "answer": "Installing bioswales"
+    },
+    {
+      "question": "What is the primary function of a rain garden in park design?",
+      "choices": [
+        "To provide a decorative water feature",
+        "To increase property values",
+        "To collect and filter rainwater",
+        "To create a habitat for fish"
+      ],
+      "answer": "To collect and filter rainwater"
+    },
+    {
+      "question": "Which of the following best describes the urban heat island effect?",
+      "choices": [
+        "A cooling effect caused by urban vegetation",
+        "The tendency of urban areas to be significantly warmer than surrounding rural areas",
+        "A phenomenon where cities experience more rainfall",
+        "The effect of ocean currents on coastal cities"
+      ],
+      "answer": "The tendency of urban areas to be significantly warmer than surrounding rural areas"
+    },
+    {
+      "question": "How do large shade trees contribute to resilient park design?",
+      "choices": [
+        "By increasing urban runoff",
+        "By reducing ambient temperatures",
+        "By eliminating all undergrowth",
+        "By attracting more vehicle traffic"
+      ],
+      "answer": "By reducing ambient temperatures"
+    },
+    {
+      "question": "What is a key benefit of using permeable paving in urban parks?",
+      "choices": [
+        "It's cheaper than traditional paving",
+        "It allows water to infiltrate into the ground",
+        "It's more durable in extreme temperatures",
+        "It requires less maintenance"
+      ],
+      "answer": "It allows water to infiltrate into the ground"
+    },
+    {
+      "question": "Which of the following is an example of an ecosystem service provided by urban parks?",
+      "choices": [
+        "Increased carbon emissions",
+        "Higher energy consumption",
+        "Air purification",
+        "Soil degradation"
+      ],
+      "answer": "Air purification"
+    },
+    {
+      "question": "What is the primary purpose of incorporating native plant species in park design?",
+      "choices": [
+        "To reduce maintenance costs",
+        "To support local biodiversity",
+        "To increase property values",
+        "To create a uniform landscape"
+      ],
+      "answer": "To support local biodiversity"
+    },
+    {
+      "question": "Which park feature can help mitigate the urban heat island effect through evaporation?",
+      "choices": [
+        "Concrete pathways",
+        "Metal benches",
+        "Water fountains",
+        "Parking lots"
+      ],
+      "answer": "Water fountains"
+    },
+    {
+      "question": "What is a key benefit of green roofs in urban park buildings?",
+      "choices": [
+        "They increase energy consumption",
+        "They reduce runoff and provide insulation",
+        "They eliminate the need for regular maintenance",
+        "They prevent plant growth on the roof"
+      ],
+      "answer": "They reduce runoff and provide insulation"
+    },
+    {
+      "question": "Which of the following is a characteristic of a bioswale?",
+      "choices": [
+        "A deep, concrete-lined channel",
+        "A vegetated channel designed to filter runoff",
+        "An underground water storage tank",
+        "A raised planter box for ornamental plants"
+      ],
+      "answer": "A vegetated channel designed to filter runoff"
+    },
+    {
+      "question": "What is the primary goal of creating diverse habitats in urban parks?",
+      "choices": [
+        "To increase maintenance requirements",
+        "To support a wide range of flora and fauna",
+        "To eliminate all non-native species",
+        "To create a uniform landscape appearance"
+      ],
+      "answer": "To support a wide range of flora and fauna"
+    },
+    {
+      "question": "Which of the following is an example of a multi-functional design approach in park planning?",
+      "choices": [
+        "Creating separate areas for each park function",
+        "Using a bioswale as both a nature trail and stormwater management feature",
+        "Removing all water features to focus on land-based activities",
+        "Paving all surfaces for ease of maintenance"
+      ],
+      "answer": "Using a bioswale as both a nature trail and stormwater management feature"
+    },
+    {
+      "question": "What is a key consideration when selecting plants for a rain garden?",
+      "choices": [
+        "Choosing plants that require constant watering",
+        "Selecting only non-native ornamental species",
+        "Opting for plants that can tolerate both wet and dry conditions",
+        "Avoiding plants that attract wildlife"
+      ],
+      "answer": "Opting for plants that can tolerate both wet and dry conditions"
+    },
+    {
+      "question": "How can urban parks contribute to carbon sequestration?",
+      "choices": [
+        "By removing all vegetation",
+        "By planting and maintaining large trees",
+        "By increasing paved surfaces",
+        "By encouraging more vehicle traffic"
+      ],
+      "answer": "By planting and maintaining large trees"
+    },
+    {
+      "question": "What is a potential challenge of maintaining green infrastructure in urban parks?",
+      "choices": [
+        "Reduced need for regular inspections",
+        "Higher initial installation costs",
+        "Increased water consumption",
+        "Less need for specialized knowledge"
+      ],
+      "answer": "Higher initial installation costs"
+    },
+    {
+      "question": "Which of the following is a benefit of using native plants in urban park design?",
+      "choices": [
+        "They require more water and fertilizer",
+        "They are more susceptible to local pests",
+        "They are adapted to local climate conditions",
+        "They need frequent replacement"
+      ],
+      "answer": "They are adapted to local climate conditions"
+    },
+    {
+      "question": "What role do constructed wetlands play in resilient park design?",
+      "choices": [
+        "They increase urban runoff",
+        "They mimic natural wetlands to treat and store water",
+        "They provide space for more buildings",
+        "They eliminate all aquatic habitats"
+      ],
+      "answer": "They mimic natural wetlands to treat and store water"
+    },
+    {
+      "question": "How can park design address social equity issues related to the urban heat island effect?",
+      "choices": [
+        "By concentrating cooling features in wealthy neighborhoods",
+        "By removing trees from low-income areas",
+        "By distributing green spaces and cooling features equitably across the city",
+        "By charging entrance fees to all parks"
+      ],
+      "answer": "By distributing green spaces and cooling features equitably across the city"
+    },
+    {
+      "question": "What is a key benefit of incorporating educational signage about green infrastructure in parks?",
+      "choices": [
+        "It increases maintenance costs",
+        "It discourages public use of the park",
+        "It raises awareness about environmental issues and solutions",
+        "It reduces the aesthetic appeal of the park"
+      ],
+      "answer": "It raises awareness about environmental issues and solutions"
+    },
+    {
+      "question": "Which of the following is an example of a nature-based solution for flood management in parks?",
+      "choices": [
+        "Building higher concrete walls",
+        "Creating more impermeable surfaces",
+        "Designing terraced river banks",
+        "Removing all water features"
+      ],
+      "answer": "Designing terraced river banks"
+    },
+    {
+      "question": "What is a key consideration when designing for biodiversity in urban parks?",
+      "choices": [
+        "Creating a single, uniform habitat type",
+        "Removing all non-native species immediately",
+        "Incorporating varied vegetation structures",
+        "Eliminating all water sources"
+      ],
+      "answer": "Incorporating varied vegetation structures"
+    },
+    {
+      "question": "How can urban parks contribute to pollination support?",
+      "choices": [
+        "By removing all flowering plants",
+        "By increasing pesticide use",
+        "By creating butterfly gardens with nectar and host plants",
+        "By paving all green spaces"
+      ],
+      "answer": "By creating butterfly gardens with nectar and host plants"
+    },
+    {
+      "question": "What is a benefit of using integrated pest management in park maintenance?",
+      "choices": [
+        "It increases chemical use",
+        "It eliminates all insects from the park",
+        "It minimizes chemical use while managing pests",
+        "It requires less planning and monitoring"
+      ],
+      "answer": "It minimizes chemical use while managing pests"
+    },
+    {
+      "question": "Which of the following is a strategy for creating cool urban spaces in parks?",
+      "choices": [
+        "Removing all vegetation",
+        "Increasing dark, heat-absorbing surfaces",
+        "Installing light-colored paving materials",
+        "Eliminating all water features"
+      ],
+      "answer": "Installing light-colored paving materials"
+    },
+    {
+      "question": "What is a key benefit of designing multi-functional spaces in urban parks?",
+      "choices": [
+        "It reduces the overall usability of the park",
+        "It increases maintenance costs",
+        "It combines recreation with ecosystem services",
+        "It eliminates the need for green infrastructure"
+      ],
+      "answer": "It combines recreation with ecosystem services"
+    },
+    {
+      "question": "How can urban parks contribute to mental health benefits for city residents?",
+      "choices": [
+        "By removing all natural elements",
+        "By increasing noise pollution",
+        "By providing access to nature and green spaces",
+        "By eliminating all recreational facilities"
+      ],
+      "answer": "By providing access to nature and green spaces"
+    },
+    {
+      "question": "What is a key consideration when designing wildlife corridors in urban parks?",
+      "choices": [
+        "Ensuring they are completely isolated from human activity",
+        "Making them as narrow as possible",
+        "Creating connectivity between different habitat areas",
+        "Using only non-native plant species"
+      ],
+      "answer": "Creating connectivity between different habitat areas"
+    },
+    {
+      "question": "Which of the following is a strategy for reducing light pollution in urban parks?",
+      "choices": [
+        "Installing more bright lights",
+        "Using upward-facing floodlights",
+        "Implementing dark sky-compliant lighting",
+        "Eliminating all nighttime lighting"
+      ],
+      "answer": "Implementing dark sky-compliant lighting"
+    },
+    {
+      "question": "What is a benefit of incorporating green roofs on park buildings?",
+      "choices": [
+        "They increase energy consumption",
+        "They provide additional habitat for urban wildlife",
+        "They eliminate the need for regular maintenance",
+        "They increase stormwater runoff"
+      ],
+      "answer": "They provide additional habitat for urban wildlife"
+    },
+    {
+      "question": "How can urban parks contribute to air quality improvement?",
+      "choices": [
+        "By removing all vegetation",
+        "By increasing vehicle traffic",
+        "Through the photosynthesis process of plants",
+        "By paving all green spaces"
+      ],
+      "answer": "Through the photosynthesis process of plants"
+    }
+  ]
+}

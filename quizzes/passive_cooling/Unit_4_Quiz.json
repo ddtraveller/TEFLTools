@@ -1,0 +1,305 @@
+{
+  "title": "Building Envelope Design for Passive Cooling",
+  "questions": [
+    {
+      "question": "What is the primary function of the building envelope in passive cooling?",
+      "choices": [
+        "To generate electricity",
+        "To filter air pollutants",
+        "To mitigate heat gain and promote natural cooling",
+        "To increase indoor humidity"
+      ],
+      "answer": "To mitigate heat gain and promote natural cooling"
+    },
+    {
+      "question": "Which of the following is NOT a component of the building envelope?",
+      "choices": [
+        "Walls",
+        "Roof",
+        "Windows",
+        "HVAC system"
+      ],
+      "answer": "HVAC system"
+    },
+    {
+      "question": "What does the solar azimuth angle represent?",
+      "choices": [
+        "The vertical angle of the sun above the horizon",
+        "The horizontal angle of the sun's position relative to true north",
+        "The intensity of solar radiation",
+        "The time of day"
+      ],
+      "answer": "The horizontal angle of the sun's position relative to true north"
+    },
+    {
+      "question": "Which type of shading device is most effective for east and west-facing facades?",
+      "choices": [
+        "Horizontal overhangs",
+        "Vertical fins",
+        "Egg-crate shading",
+        "Green roofs"
+      ],
+      "answer": "Vertical fins"
+    },
+    {
+      "question": "What is the primary benefit of using materials with high thermal mass in passive cooling?",
+      "choices": [
+        "They reflect more sunlight",
+        "They absorb and store heat during the day, releasing it at night",
+        "They increase natural ventilation",
+        "They reduce humidity"
+      ],
+      "answer": "They absorb and store heat during the day, releasing it at night"
+    },
+    {
+      "question": "What is albedo in the context of cool roofs?",
+      "choices": [
+        "The ability to absorb heat",
+        "The proportion of solar radiation reflected by a surface",
+        "The rate of heat transfer",
+        "The insulation value"
+      ],
+      "answer": "The proportion of solar radiation reflected by a surface"
+    },
+    {
+      "question": "Which of the following is NOT a traditional building material in Timor Leste?",
+      "choices": [
+        "Bamboo",
+        "Palm leaves",
+        "Adobe",
+        "Fiberglass"
+      ],
+      "answer": "Fiberglass"
+    },
+    {
+      "question": "What is the primary purpose of night cooling in passive design?",
+      "choices": [
+        "To increase daytime temperatures",
+        "To reduce peak cooling loads",
+        "To improve air quality",
+        "To increase humidity"
+      ],
+      "answer": "To reduce peak cooling loads"
+    },
+    {
+      "question": "Which ventilation strategy relies on temperature differences to move air?",
+      "choices": [
+        "Cross-ventilation",
+        "Mechanical ventilation",
+        "Stack effect ventilation",
+        "Forced-air ventilation"
+      ],
+      "answer": "Stack effect ventilation"
+    },
+    {
+      "question": "What is emissivity in the context of building materials?",
+      "choices": [
+        "The ability to reflect light",
+        "The ability to absorb heat",
+        "The ability to emit thermal radiation",
+        "The ability to conduct electricity"
+      ],
+      "answer": "The ability to emit thermal radiation"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of cool roofs?",
+      "choices": [
+        "Reduced heat gain",
+        "Lower cooling energy costs",
+        "Increased natural ventilation",
+        "Extended roof lifespan"
+      ],
+      "answer": "Increased natural ventilation"
+    },
+    {
+      "question": "What is the primary advantage of using compressed earth blocks over traditional adobe?",
+      "choices": [
+        "Lower cost",
+        "Improved durability",
+        "Better insulation",
+        "Faster construction"
+      ],
+      "answer": "Improved durability"
+    },
+    {
+      "question": "Which of the following is NOT a consideration when designing with thermal mass?",
+      "choices": [
+        "Placing thermal mass inside the insulated building envelope",
+        "Exposing thermal mass to direct sunlight in winter",
+        "Using light-colored surfaces to reflect sunlight onto thermal mass",
+        "Isolating thermal mass from the indoor environment"
+      ],
+      "answer": "Isolating thermal mass from the indoor environment"
+    },
+    {
+      "question": "What is the primary purpose of louvers in passive cooling design?",
+      "choices": [
+        "To increase thermal mass",
+        "To provide adjustable shading",
+        "To improve structural stability",
+        "To collect rainwater"
+      ],
+      "answer": "To provide adjustable shading"
+    },
+    {
+      "question": "Which of the following materials typically has the highest thermal mass?",
+      "choices": [
+        "Wood",
+        "Concrete",
+        "Fiberglass insulation",
+        "Aluminum"
+      ],
+      "answer": "Concrete"
+    },
+    {
+      "question": "What is the primary benefit of green roofs in passive cooling?",
+      "choices": [
+        "They increase solar reflection",
+        "They provide additional living space",
+        "They absorb and evaporate water, cooling the building",
+        "They improve structural integrity"
+      ],
+      "answer": "They absorb and evaporate water, cooling the building"
+    },
+    {
+      "question": "Which of the following is NOT a type of cool wall strategy?",
+      "choices": [
+        "Light-colored exterior paints",
+        "Reflective coatings",
+        "Green walls",
+        "Thick concrete walls"
+      ],
+      "answer": "Thick concrete walls"
+    },
+    {
+      "question": "What is the primary advantage of using bamboo in building construction in Timor Leste?",
+      "choices": [
+        "It's fireproof",
+        "It has a high strength-to-weight ratio",
+        "It's impervious to insects",
+        "It's non-biodegradable"
+      ],
+      "answer": "It has a high strength-to-weight ratio"
+    },
+    {
+      "question": "Which of the following is NOT a factor to consider when selecting materials for passive cooling?",
+      "choices": [
+        "Thermal conductivity",
+        "Heat capacity",
+        "Density",
+        "Electrical resistance"
+      ],
+      "answer": "Electrical resistance"
+    },
+    {
+      "question": "What is the primary purpose of an overhang on a south-facing façade in the northern hemisphere?",
+      "choices": [
+        "To block high-angle summer sun while allowing winter sunlight",
+        "To increase solar gain in summer",
+        "To provide additional outdoor space",
+        "To collect rainwater"
+      ],
+      "answer": "To block high-angle summer sun while allowing winter sunlight"
+    },
+    {
+      "question": "Which ventilation strategy relies on openings on opposite sides of a space?",
+      "choices": [
+        "Stack ventilation",
+        "Cross-ventilation",
+        "Mechanical ventilation",
+        "Displacement ventilation"
+      ],
+      "answer": "Cross-ventilation"
+    },
+    {
+      "question": "What is the primary benefit of using light-colored surfaces in passive cooling design?",
+      "choices": [
+        "They absorb more heat",
+        "They reflect more solar radiation",
+        "They increase thermal mass",
+        "They improve air circulation"
+      ],
+      "answer": "They reflect more solar radiation"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using local materials in building construction?",
+      "choices": [
+        "Reduced transportation costs",
+        "Lower environmental impact",
+        "Better adaptation to local climate",
+        "Increased structural strength"
+      ],
+      "answer": "Increased structural strength"
+    },
+    {
+      "question": "What is the primary purpose of night purge ventilation?",
+      "choices": [
+        "To increase daytime temperatures",
+        "To remove accumulated heat from the building at night",
+        "To improve indoor air quality",
+        "To reduce humidity"
+      ],
+      "answer": "To remove accumulated heat from the building at night"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of an effective cool roof material?",
+      "choices": [
+        "High solar reflectance",
+        "High thermal emittance",
+        "Low cost",
+        "High thermal mass"
+      ],
+      "answer": "High thermal mass"
+    },
+    {
+      "question": "What is the primary advantage of using rammed earth in building construction?",
+      "choices": [
+        "It's lightweight",
+        "It has high thermal mass",
+        "It's waterproof",
+        "It's highly flexible"
+      ],
+      "answer": "It has high thermal mass"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of traditional Timorese architecture?",
+      "choices": [
+        "Use of natural ventilation",
+        "Incorporation of shading devices",
+        "Use of high thermal mass materials",
+        "Reliance on mechanical cooling systems"
+      ],
+      "answer": "Reliance on mechanical cooling systems"
+    },
+    {
+      "question": "What is the primary purpose of a cool wall coating?",
+      "choices": [
+        "To increase wall strength",
+        "To reduce heat absorption",
+        "To improve sound insulation",
+        "To prevent water penetration"
+      ],
+      "answer": "To reduce heat absorption"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using compressed earth blocks in construction?",
+      "choices": [
+        "Low environmental impact",
+        "Good thermal mass properties",
+        "Local material availability",
+        "High tensile strength"
+      ],
+      "answer": "High tensile strength"
+    },
+    {
+      "question": "What is the primary advantage of using a green wall in passive cooling design?",
+      "choices": [
+        "It increases the building's structural integrity",
+        "It provides additional insulation and evaporative cooling",
+        "It generates electricity",
+        "It improves indoor air circulation"
+      ],
+      "answer": "It provides additional insulation and evaporative cooling"
+    }
+  ]
+}

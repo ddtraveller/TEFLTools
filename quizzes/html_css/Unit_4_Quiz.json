@@ -1,0 +1,305 @@
+{
+  "title": "Advanced CSS and Layout Techniques",
+  "questions": [
+    {
+      "question": "What is the primary purpose of CSS Flexbox?",
+      "choices": [
+        "To create two-dimensional layouts",
+        "To handle one-dimensional layouts efficiently",
+        "To replace media queries",
+        "To create animations"
+      ],
+      "answer": "To handle one-dimensional layouts efficiently"
+    },
+    {
+      "question": "Which CSS property is used to define a flex container?",
+      "choices": [
+        "display: flexbox;",
+        "display: flex;",
+        "flex: container;",
+        "flex-display: on;"
+      ],
+      "answer": "display: flex;"
+    },
+    {
+      "question": "What does CSS Grid excel at compared to Flexbox?",
+      "choices": [
+        "One-dimensional layouts",
+        "Two-dimensional layouts",
+        "Animations",
+        "Typography"
+      ],
+      "answer": "Two-dimensional layouts"
+    },
+    {
+      "question": "Which property is used to define the main axis in Flexbox?",
+      "choices": [
+        "flex-direction",
+        "justify-content",
+        "align-items",
+        "flex-wrap"
+      ],
+      "answer": "flex-direction"
+    },
+    {
+      "question": "What is the purpose of media queries in responsive design?",
+      "choices": [
+        "To create animations",
+        "To apply different styles based on device characteristics",
+        "To improve SEO",
+        "To compress images"
+      ],
+      "answer": "To apply different styles based on device characteristics"
+    },
+    {
+      "question": "What is a breakpoint in responsive design?",
+      "choices": [
+        "A point where the code stops executing",
+        "A point where the layout changes to accommodate different screen sizes",
+        "A point where the website crashes",
+        "A point where animations begin"
+      ],
+      "answer": "A point where the layout changes to accommodate different screen sizes"
+    },
+    {
+      "question": "Which unit is commonly used in CSS Grid to distribute available space proportionally?",
+      "choices": [
+        "px",
+        "em",
+        "fr",
+        "%"
+      ],
+      "answer": "fr"
+    },
+    {
+      "question": "What is the mobile-first approach in responsive design?",
+      "choices": [
+        "Designing for desktop first and then adapting for mobile",
+        "Designing for mobile devices first and then enhancing for larger screens",
+        "Creating separate websites for mobile and desktop",
+        "Using only mobile-specific CSS properties"
+      ],
+      "answer": "Designing for mobile devices first and then enhancing for larger screens"
+    },
+    {
+      "question": "Which Flexbox property is used to align items along the cross axis?",
+      "choices": [
+        "justify-content",
+        "align-items",
+        "flex-wrap",
+        "flex-direction"
+      ],
+      "answer": "align-items"
+    },
+    {
+      "question": "What is the purpose of the 'grid-template-columns' property in CSS Grid?",
+      "choices": [
+        "To define the height of grid rows",
+        "To specify the number and size of grid columns",
+        "To set the gap between grid items",
+        "To align items within grid cells"
+      ],
+      "answer": "To specify the number and size of grid columns"
+    },
+    {
+      "question": "Which CSS framework is mentioned in the module content as an example?",
+      "choices": [
+        "Foundation",
+        "Bulma",
+        "Tailwind",
+        "Bootstrap"
+      ],
+      "answer": "Bootstrap"
+    },
+    {
+      "question": "What is the benefit of using CSS frameworks?",
+      "choices": [
+        "They provide pre-written JavaScript",
+        "They eliminate the need for custom CSS",
+        "They offer standardized, reusable components and layout systems",
+        "They automatically create responsive designs without any coding"
+      ],
+      "answer": "They offer standardized, reusable components and layout systems"
+    },
+    {
+      "question": "Which property is used to control whether flex items wrap to new lines?",
+      "choices": [
+        "flex-wrap",
+        "flex-flow",
+        "flex-direction",
+        "justify-content"
+      ],
+      "answer": "flex-wrap"
+    },
+    {
+      "question": "In CSS Grid, what does the 'fr' unit stand for?",
+      "choices": [
+        "Fixed ratio",
+        "Fractional unit",
+        "Flexible range",
+        "Frame rate"
+      ],
+      "answer": "Fractional unit"
+    },
+    {
+      "question": "What is the purpose of the 'justify-content' property in Flexbox?",
+      "choices": [
+        "To align items vertically",
+        "To align items along the main axis",
+        "To wrap items to new lines",
+        "To change the direction of the flex container"
+      ],
+      "answer": "To align items along the main axis"
+    },
+    {
+      "question": "Which CSS Grid property is used to place items within specific grid cells?",
+      "choices": [
+        "grid-area",
+        "grid-column and grid-row",
+        "grid-template",
+        "grid-gap"
+      ],
+      "answer": "grid-column and grid-row"
+    },
+    {
+      "question": "What is a key advantage of using CSS Grid for page layouts?",
+      "choices": [
+        "It only works for one-dimensional layouts",
+        "It requires less HTML markup",
+        "It allows for complex, asymmetrical layouts",
+        "It's supported by older browsers better than Flexbox"
+      ],
+      "answer": "It allows for complex, asymmetrical layouts"
+    },
+    {
+      "question": "Which approach is recommended for optimizing websites for mobile devices?",
+      "choices": [
+        "Desktop-first",
+        "Mobile-first",
+        "Tablet-first",
+        "Print-first"
+      ],
+      "answer": "Mobile-first"
+    },
+    {
+      "question": "What is the primary purpose of using media queries?",
+      "choices": [
+        "To improve website loading speed",
+        "To create responsive layouts",
+        "To add animations to websites",
+        "To compress images"
+      ],
+      "answer": "To create responsive layouts"
+    },
+    {
+      "question": "Which Flexbox property allows you to change the order of flex items?",
+      "choices": [
+        "flex-order",
+        "order",
+        "flex-sequence",
+        "item-order"
+      ],
+      "answer": "order"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "choices": [
+        "Computer Style Sheets",
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which property is used to create gaps between grid items in CSS Grid?",
+      "choices": [
+        "grid-gap",
+        "grid-spacing",
+        "item-gap",
+        "grid-margin"
+      ],
+      "answer": "grid-gap"
+    },
+    {
+      "question": "What is the purpose of the 'flex-grow' property in Flexbox?",
+      "choices": [
+        "To shrink flex items",
+        "To wrap flex items",
+        "To grow flex items if necessary",
+        "To change the direction of flex items"
+      ],
+      "answer": "To grow flex items if necessary"
+    },
+    {
+      "question": "Which CSS property is used to make an image responsive?",
+      "choices": [
+        "max-width: 100%;",
+        "width: responsive;",
+        "image-size: fluid;",
+        "responsive: true;"
+      ],
+      "answer": "max-width: 100%;"
+    },
+    {
+      "question": "What is the purpose of the 'align-self' property in Flexbox?",
+      "choices": [
+        "To align all items in the flex container",
+        "To override the container's align-items value for specific flex items",
+        "To change the direction of the flex container",
+        "To wrap flex items to a new line"
+      ],
+      "answer": "To override the container's align-items value for specific flex items"
+    },
+    {
+      "question": "Which unit is NOT typically used in responsive design?",
+      "choices": [
+        "em",
+        "rem",
+        "px",
+        "pt"
+      ],
+      "answer": "pt"
+    },
+    {
+      "question": "What is the purpose of the 'flex-basis' property in Flexbox?",
+      "choices": [
+        "To set the initial main size of a flex item",
+        "To define the direction of flex items",
+        "To control the wrapping of flex items",
+        "To align items on the cross axis"
+      ],
+      "answer": "To set the initial main size of a flex item"
+    },
+    {
+      "question": "Which CSS Grid property is used to create named grid areas?",
+      "choices": [
+        "grid-template-areas",
+        "grid-areas",
+        "grid-names",
+        "grid-template-names"
+      ],
+      "answer": "grid-template-areas"
+    },
+    {
+      "question": "What is the purpose of the 'flex-shrink' property in Flexbox?",
+      "choices": [
+        "To grow flex items",
+        "To wrap flex items",
+        "To define how much a flex item will shrink relative to other items",
+        "To change the direction of flex items"
+      ],
+      "answer": "To define how much a flex item will shrink relative to other items"
+    },
+    {
+      "question": "Which CSS property is used to hide an element on small screens in responsive design?",
+      "choices": [
+        "display: none;",
+        "visibility: hidden;",
+        "opacity: 0;",
+        "show: false;"
+      ],
+      "answer": "display: none;"
+    }
+  ]
+}
