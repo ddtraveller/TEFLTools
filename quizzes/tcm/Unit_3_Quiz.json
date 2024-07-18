@@ -1,0 +1,305 @@
+{
+  "title": "Acupuncture and Acupressure for Pain Relief",
+  "questions": [
+    {
+      "question": "What is the fundamental concept that acupuncture and acupressure are based on?",
+      "choices": [
+        "Blood circulation",
+        "Nerve stimulation",
+        "Qi flow through meridians",
+        "Muscle relaxation"
+      ],
+      "answer": "Qi flow through meridians"
+    },
+    {
+      "question": "How many primary meridians are identified in Traditional Chinese Medicine?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": "12"
+    },
+    {
+      "question": "What is the main difference between acupuncture and acupressure?",
+      "choices": [
+        "Acupuncture uses needles, while acupressure uses pressure",
+        "Acupuncture is for pain, while acupressure is for relaxation",
+        "Acupuncture affects qi, while acupressure affects blood flow",
+        "Acupuncture is ancient, while acupressure is modern"
+      ],
+      "answer": "Acupuncture uses needles, while acupressure uses pressure"
+    },
+    {
+      "question": "What is the term for the sensation often experienced when an acupoint is correctly stimulated?",
+      "choices": [
+        "Qi surge",
+        "De qi",
+        "Meridian flush",
+        "Acupoint release"
+      ],
+      "answer": "De qi"
+    },
+    {
+      "question": "Which acupoint is renowned for its ability to alleviate headaches and facial pain?",
+      "choices": [
+        "ST36",
+        "LI4",
+        "SP6",
+        "GB20"
+      ],
+      "answer": "LI4"
+    },
+    {
+      "question": "Where is the Stomach 36 (ST36) acupoint located?",
+      "choices": [
+        "On the face",
+        "Below the knee",
+        "On the wrist",
+        "On the lower back"
+      ],
+      "answer": "Below the knee"
+    },
+    {
+      "question": "What is a common contraindication for acupressure during pregnancy?",
+      "choices": [
+        "Points on the hands",
+        "Points on the feet",
+        "Points on the lower abdomen",
+        "Points on the head"
+      ],
+      "answer": "Points on the lower abdomen"
+    },
+    {
+      "question": "According to TCM theory, what causes pain?",
+      "choices": [
+        "Excess heat in the body",
+        "Blockages or imbalances in qi flow",
+        "Weak muscles and joints",
+        "Inflammation of nerve endings"
+      ],
+      "answer": "Blockages or imbalances in qi flow"
+    },
+    {
+      "question": "What is one proposed mechanism for how acupuncture and acupressure may relieve pain?",
+      "choices": [
+        "By increasing blood pressure",
+        "By stimulating the release of endorphins",
+        "By decreasing oxygen in tissues",
+        "By hardening muscle fibers"
+      ],
+      "answer": "By stimulating the release of endorphins"
+    },
+    {
+      "question": "Which of the following is NOT a typical sensation associated with 'de qi'?",
+      "choices": [
+        "Dull ache",
+        "Tingling",
+        "Heaviness",
+        "Sharp pain"
+      ],
+      "answer": "Sharp pain"
+    },
+    {
+      "question": "How long should pressure typically be applied to an acupoint in acupressure?",
+      "choices": [
+        "1-2 seconds",
+        "5-10 seconds",
+        "30 seconds to 2 minutes",
+        "5-10 minutes"
+      ],
+      "answer": "30 seconds to 2 minutes"
+    },
+    {
+      "question": "What is the recommended frequency for applying acupressure for chronic conditions?",
+      "choices": [
+        "Once a week",
+        "Once or twice daily",
+        "Every hour",
+        "Three times a week"
+      ],
+      "answer": "Once or twice daily"
+    },
+    {
+      "question": "Which part of the hand is typically used to apply pressure in acupressure?",
+      "choices": [
+        "The knuckles",
+        "The palm",
+        "The pad of the thumb or middle finger",
+        "The fingernails"
+      ],
+      "answer": "The pad of the thumb or middle finger"
+    },
+    {
+      "question": "What is the primary goal of stimulating acupoints?",
+      "choices": [
+        "To increase muscle mass",
+        "To remove blockages and restore qi flow",
+        "To reduce blood flow to the area",
+        "To create scar tissue"
+      ],
+      "answer": "To remove blockages and restore qi flow"
+    },
+    {
+      "question": "Which of the following conditions has shown promising results in acupuncture research?",
+      "choices": [
+        "Chronic low back pain",
+        "Alzheimer's disease",
+        "Skin cancer",
+        "Broken bones"
+      ],
+      "answer": "Chronic low back pain"
+    },
+    {
+      "question": "What is an advantage of acupressure over acupuncture?",
+      "choices": [
+        "It's more effective for severe pain",
+        "It can be easily learned for self-care",
+        "It works faster",
+        "It's more widely accepted in Western medicine"
+      ],
+      "answer": "It can be easily learned for self-care"
+    },
+    {
+      "question": "How are meridians believed to connect different parts of the body?",
+      "choices": [
+        "Through the nervous system",
+        "Through the lymphatic system",
+        "By connecting the surface to internal organs",
+        "Through the skeletal structure"
+      ],
+      "answer": "By connecting the surface to internal organs"
+    },
+    {
+      "question": "What should be avoided when applying acupressure?",
+      "choices": [
+        "Breathing deeply",
+        "Closing your eyes",
+        "Applying pressure to open wounds",
+        "Using circular motions"
+      ],
+      "answer": "Applying pressure to open wounds"
+    },
+    {
+      "question": "Which of the following is NOT a primary meridian in TCM?",
+      "choices": [
+        "Lung Meridian",
+        "Heart Meridian",
+        "Brain Meridian",
+        "Liver Meridian"
+      ],
+      "answer": "Brain Meridian"
+    },
+    {
+      "question": "What is the significance of the 'de qi' sensation in acupuncture and acupressure?",
+      "choices": [
+        "It indicates that the treatment is too intense",
+        "It signals that the body's healing responses are being activated",
+        "It means the wrong point is being stimulated",
+        "It suggests that the treatment should be stopped immediately"
+      ],
+      "answer": "It signals that the body's healing responses are being activated"
+    },
+    {
+      "question": "Which acupoint is associated with digestive issues and boosting overall energy?",
+      "choices": [
+        "LI4",
+        "ST36",
+        "GB20",
+        "SP6"
+      ],
+      "answer": "ST36"
+    },
+    {
+      "question": "What is a potential risk of acupuncture for individuals taking blood thinners?",
+      "choices": [
+        "Increased blood pressure",
+        "Excessive bleeding",
+        "Rapid heart rate",
+        "Muscle spasms"
+      ],
+      "answer": "Excessive bleeding"
+    },
+    {
+      "question": "How does TCM explain the connection between stimulating an acupoint and affecting internal organs?",
+      "choices": [
+        "Through the circulatory system",
+        "Through the meridian system",
+        "Through the lymphatic system",
+        "Through the nervous system"
+      ],
+      "answer": "Through the meridian system"
+    },
+    {
+      "question": "What is the recommended approach for treating complex or chronic conditions with acupressure?",
+      "choices": [
+        "Self-treatment is always sufficient",
+        "Consult with a qualified practitioner",
+        "Apply pressure for longer durations",
+        "Use multiple points simultaneously"
+      ],
+      "answer": "Consult with a qualified practitioner"
+    },
+    {
+      "question": "Which of the following is a benefit of integrating acupressure with traditional massage techniques?",
+      "choices": [
+        "It reduces the effectiveness of both therapies",
+        "It allows for a more holistic approach to healing",
+        "It eliminates the need for other forms of treatment",
+        "It speeds up the massage process"
+      ],
+      "answer": "It allows for a more holistic approach to healing"
+    },
+    {
+      "question": "What is the current trend regarding acupuncture and acupressure in Western healthcare settings?",
+      "choices": [
+        "They are being completely replaced by modern medicine",
+        "They are gaining recognition as part of multidisciplinary approaches",
+        "They are only used for psychological conditions",
+        "They are being discouraged by medical professionals"
+      ],
+      "answer": "They are gaining recognition as part of multidisciplinary approaches"
+    },
+    {
+      "question": "Which of the following best describes the relationship between acupoints and meridians?",
+      "choices": [
+        "Acupoints are separate from meridians",
+        "Acupoints are located along meridians",
+        "Meridians flow between acupoints",
+        "Acupoints create meridians when stimulated"
+      ],
+      "answer": "Acupoints are located along meridians"
+    },
+    {
+      "question": "What is the primary difference between the effects of acupuncture on acute versus chronic pain conditions?",
+      "choices": [
+        "Acupuncture only works for acute pain",
+        "Chronic pain requires more frequent treatments",
+        "Acute pain responds faster to treatment",
+        "There is no difference in treatment approach"
+      ],
+      "answer": "Chronic pain requires more frequent treatments"
+    },
+    {
+      "question": "Which of the following is NOT a typical precaution for acupressure self-care?",
+      "choices": [
+        "Avoid applying pressure to bruised areas",
+        "Use gentle pressure if you have a heart condition",
+        "Apply firm pressure to all points for maximum effect",
+        "Consult a healthcare provider if you have a serious medical condition"
+      ],
+      "answer": "Apply firm pressure to all points for maximum effect"
+    },
+    {
+      "question": "How does acupressure potentially modulate pain according to current research?",
+      "choices": [
+        "By increasing inflammation",
+        "By constricting blood vessels",
+        "By modulating the nervous system",
+        "By hardening connective tissues"
+      ],
+      "answer": "By modulating the nervous system"
+    }
+  ]
+}

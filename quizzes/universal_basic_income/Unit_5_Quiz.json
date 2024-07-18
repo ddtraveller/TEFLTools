@@ -1,0 +1,305 @@
+{
+  "title": "Fiscal and Economic Implications of UBI in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the approximate population of Timor-Leste used in UBI cost calculations?",
+      "choices": [
+        "1 million",
+        "1.3 million",
+        "2 million",
+        "2.5 million"
+      ],
+      "answer": "1.3 million"
+    },
+    {
+      "question": "What is Timor-Leste's approximate GDP as of 2020?",
+      "choices": [
+        "$1.5 billion",
+        "$1.9 billion",
+        "$2.5 billion",
+        "$3 billion"
+      ],
+      "answer": "$1.9 billion"
+    },
+    {
+      "question": "What is the primary source of government revenue in Timor-Leste?",
+      "choices": [
+        "Tourism",
+        "Agriculture",
+        "Oil and gas sector",
+        "Manufacturing"
+      ],
+      "answer": "Oil and gas sector"
+    },
+    {
+      "question": "What is the name of Timor-Leste's sovereign wealth fund?",
+      "choices": [
+        "National Investment Fund",
+        "Timor-Leste Development Fund",
+        "Petroleum Fund",
+        "Oil and Gas Reserve Fund"
+      ],
+      "answer": "Petroleum Fund"
+    },
+    {
+      "question": "Approximately how much would a monthly UBI of $100 per person cost annually in Timor-Leste?",
+      "choices": [
+        "$780 million",
+        "$1.56 billion",
+        "$2.34 billion",
+        "$3.12 billion"
+      ],
+      "answer": "$1.56 billion"
+    },
+    {
+      "question": "What percentage of Timor-Leste's GDP would a $100 monthly UBI represent?",
+      "choices": [
+        "41%",
+        "62%",
+        "82%",
+        "103%"
+      ],
+      "answer": "82%"
+    },
+    {
+      "question": "What is the approximate balance of Timor-Leste's Petroleum Fund as of 2021?",
+      "choices": [
+        "$10 billion",
+        "$15 billion",
+        "$19 billion",
+        "$25 billion"
+      ],
+      "answer": "$19 billion"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential funding source for UBI in Timor-Leste?",
+      "choices": [
+        "Restructuring the current social protection system",
+        "Implementing new taxation methods",
+        "Diversifying the economy",
+        "Foreign aid"
+      ],
+      "answer": "Foreign aid"
+    },
+    {
+      "question": "What economic phenomenon might be exacerbated by using oil revenues to fund UBI?",
+      "choices": [
+        "Hyperinflation",
+        "Dutch disease",
+        "Stagflation",
+        "Phillips curve"
+      ],
+      "answer": "Dutch disease"
+    },
+    {
+      "question": "What is the poverty rate in Timor-Leste according to the 2014 data provided?",
+      "choices": [
+        "28.7%",
+        "41.8%",
+        "63.5%",
+        "73.7%"
+      ],
+      "answer": "41.8%"
+    },
+    {
+      "question": "What percentage of Timor-Leste's labor force is employed in agriculture?",
+      "choices": [
+        "19.7%",
+        "41%",
+        "46%",
+        "63.5%"
+      ],
+      "answer": "41%"
+    },
+    {
+      "question": "What is the Gini coefficient for Timor-Leste according to the 2014 data?",
+      "choices": [
+        "19.7",
+        "28.7",
+        "41.8",
+        "63.5"
+      ],
+      "answer": "28.7"
+    },
+    {
+      "question": "Which sector contributes the most to Timor-Leste's GDP?",
+      "choices": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Oil and gas"
+      ],
+      "answer": "Services"
+    },
+    {
+      "question": "What is the estimated sustainable income (ESI) from the Petroleum Fund?",
+      "choices": [
+        "$347 million",
+        "$447 million",
+        "$547 million",
+        "$647 million"
+      ],
+      "answer": "$547 million"
+    },
+    {
+      "question": "What percentage of Timor-Leste's government revenue comes from oil/gas?",
+      "choices": [
+        "26.3%",
+        "41.8%",
+        "63.5%",
+        "73.7%"
+      ],
+      "answer": "73.7%"
+    },
+    {
+      "question": "What is the primary concern regarding inflation if UBI is implemented in Timor-Leste?",
+      "choices": [
+        "Deflation due to increased savings",
+        "Price increases due to higher demand",
+        "Currency devaluation",
+        "Wage-price spiral"
+      ],
+      "answer": "Price increases due to higher demand"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential macroeconomic effect of UBI in Timor-Leste?",
+      "choices": [
+        "Changes in consumption patterns",
+        "Increased foreign direct investment",
+        "Potential inflation",
+        "Impacts on savings and investment"
+      ],
+      "answer": "Increased foreign direct investment"
+    },
+    {
+      "question": "What is the main challenge of using the Petroleum Fund to finance UBI?",
+      "choices": [
+        "Legal restrictions on fund usage",
+        "Insufficient fund balance",
+        "Long-term sustainability concerns",
+        "Public opposition to using the fund"
+      ],
+      "answer": "Long-term sustainability concerns"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential opportunity of implementing UBI in Timor-Leste?",
+      "choices": [
+        "Immediate elimination of poverty",
+        "Guaranteed economic diversification",
+        "Encouragement of entrepreneurship",
+        "Elimination of all other social programs"
+      ],
+      "answer": "Encouragement of entrepreneurship"
+    },
+    {
+      "question": "What is the primary administrative challenge for implementing UBI in Timor-Leste?",
+      "choices": [
+        "Lack of citizen identification system",
+        "Distributing payments effectively, especially in rural areas",
+        "Opposition from current welfare program administrators",
+        "High cost of setting up a new government department"
+      ],
+      "answer": "Distributing payments effectively, especially in rural areas"
+    },
+    {
+      "question": "What is the potential impact of UBI on Timor-Leste's labor market?",
+      "choices": [
+        "Guaranteed full employment",
+        "Elimination of the informal sector",
+        "Possible changes in work incentives and wage negotiations",
+        "Immediate shift to a knowledge-based economy"
+      ],
+      "answer": "Possible changes in work incentives and wage negotiations"
+    },
+    {
+      "question": "Which economic indicator showed a negative trend in 2020 due to COVID-19?",
+      "choices": [
+        "GDP growth rate",
+        "Inflation rate",
+        "Unemployment rate",
+        "Government revenue"
+      ],
+      "answer": "GDP growth rate"
+    },
+    {
+      "question": "What is the potential advantage of UBI over targeted welfare programs in Timor-Leste?",
+      "choices": [
+        "Lower overall cost",
+        "Easier to implement in rural areas",
+        "Reduced administrative costs and potential for corruption",
+        "Guaranteed elimination of poverty"
+      ],
+      "answer": "Reduced administrative costs and potential for corruption"
+    },
+    {
+      "question": "What is the main concern regarding the 'Dutch disease' in the context of UBI implementation?",
+      "choices": [
+        "Increased dependence on imports",
+        "Reduced competitiveness of non-resource sectors",
+        "Overreliance on foreign aid",
+        "Rapid depletion of oil reserves"
+      ],
+      "answer": "Reduced competitiveness of non-resource sectors"
+    },
+    {
+      "question": "What is the potential impact of UBI on Timor-Leste's informal economy?",
+      "choices": [
+        "Immediate formalization of all informal businesses",
+        "Complete elimination of informal economic activities",
+        "Potential changes in participation rates and overall activity",
+        "No impact on the informal sector"
+      ],
+      "answer": "Potential changes in participation rates and overall activity"
+    },
+    {
+      "question": "Which sector employs the largest percentage of Timor-Leste's labor force?",
+      "choices": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Oil and gas"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is the primary reason for considering UBI implementation in Timor-Leste?",
+      "choices": [
+        "To increase government control over the economy",
+        "To attract foreign investment",
+        "To address poverty and income inequality",
+        "To reduce dependence on oil and gas revenues"
+      ],
+      "answer": "To address poverty and income inequality"
+    },
+    {
+      "question": "What is the potential impact of UBI on Timor-Leste's efforts towards economic diversification?",
+      "choices": [
+        "Guaranteed success in diversifying the economy",
+        "No impact on economic diversification efforts",
+        "Potential positive or negative outcomes depending on implementation",
+        "Immediate shift away from oil and gas dependence"
+      ],
+      "answer": "Potential positive or negative outcomes depending on implementation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key economic indicator for Timor-Leste?",
+      "choices": [
+        "GDP per capita",
+        "Inflation rate",
+        "Unemployment rate",
+        "Foreign exchange reserves"
+      ],
+      "answer": "Foreign exchange reserves"
+    },
+    {
+      "question": "What is the primary challenge in using new taxation methods to fund UBI in Timor-Leste?",
+      "choices": [
+        "Lack of legal framework for taxation",
+        "Limited tax base due to high poverty rates",
+        "Opposition from international organizations",
+        "Inability to collect taxes in rural areas"
+      ],
+      "answer": "Limited tax base due to high poverty rates"
+    }
+  ]
+}

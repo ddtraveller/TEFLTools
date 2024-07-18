@@ -1,0 +1,305 @@
+{
+  "title": "Dosing and Treatment Protocols for Red and Near-Infrared Light Therapy",
+  "questions": [
+    {
+      "question": "What is the typical wavelength range for red light therapy?",
+      "choices": [
+        "400-450 nm",
+        "520-570 nm",
+        "620-660 nm",
+        "810-850 nm"
+      ],
+      "answer": "620-660 nm"
+    },
+    {
+      "question": "Which wavelength range is most suitable for treating deeper tissues like muscles and internal organs?",
+      "choices": [
+        "400-450 nm",
+        "520-570 nm",
+        "620-660 nm",
+        "810-850 nm"
+      ],
+      "answer": "810-850 nm"
+    },
+    {
+      "question": "What unit is typically used to measure power density in light therapy?",
+      "choices": [
+        "W/cm²",
+        "mW/cm²",
+        "J/cm²",
+        "nm/cm²"
+      ],
+      "answer": "mW/cm²"
+    },
+    {
+      "question": "Which formula is used to calculate the dose in light therapy?",
+      "choices": [
+        "Dose (J/cm²) = Power Density (mW/cm²) × Time (s) × 0.001",
+        "Dose (J/cm²) = Power Density (mW/cm²) / Time (s) × 0.001",
+        "Dose (J/cm²) = Power Density (mW/cm²) + Time (s) × 0.001",
+        "Dose (J/cm²) = Power Density (mW/cm²) × Time (s) / 0.001"
+      ],
+      "answer": "Dose (J/cm²) = Power Density (mW/cm²) × Time (s) × 0.001"
+    },
+    {
+      "question": "What is the typical dose range for treating skin conditions with light therapy?",
+      "choices": [
+        "1-3 J/cm²",
+        "3-15 J/cm²",
+        "20-40 J/cm²",
+        "50-100 J/cm²"
+      ],
+      "answer": "3-15 J/cm²"
+    },
+    {
+      "question": "What is the term used to describe the phenomenon where too little or too much light therapy can be ineffective or harmful?",
+      "choices": [
+        "Photobiomodulation",
+        "Biphasic dose response",
+        "Irradiance threshold",
+        "Fluence saturation"
+      ],
+      "answer": "Biphasic dose response"
+    },
+    {
+      "question": "Which factor does NOT directly affect the dose in light therapy?",
+      "choices": [
+        "Wavelength",
+        "Power density",
+        "Time",
+        "Patient's age"
+      ],
+      "answer": "Patient's age"
+    },
+    {
+      "question": "What is the recommended dose range for treating deeper tissues with light therapy?",
+      "choices": [
+        "1-5 J/cm²",
+        "5-10 J/cm²",
+        "10-60 J/cm²",
+        "70-100 J/cm²"
+      ],
+      "answer": "10-60 J/cm²"
+    },
+    {
+      "question": "How does melanin content in darker skin types affect light therapy treatments?",
+      "choices": [
+        "It requires lower doses",
+        "It requires higher doses or longer treatment times",
+        "It has no effect on treatment",
+        "It prevents light therapy from being effective"
+      ],
+      "answer": "It requires higher doses or longer treatment times"
+    },
+    {
+      "question": "What is the typical power density range for most light therapy applications?",
+      "choices": [
+        "1-10 mW/cm²",
+        "10-100 mW/cm²",
+        "100-500 mW/cm²",
+        "500-1000 mW/cm²"
+      ],
+      "answer": "10-100 mW/cm²"
+    },
+    {
+      "question": "Which of the following is NOT a factor affecting dose in light therapy?",
+      "choices": [
+        "Wavelength",
+        "Power density",
+        "Time",
+        "Room temperature"
+      ],
+      "answer": "Room temperature"
+    },
+    {
+      "question": "What does J/cm² represent in light therapy dosing?",
+      "choices": [
+        "Joules per square centimeter",
+        "Jitters per square centimeter",
+        "Joints per square centimeter",
+        "Jumps per square centimeter"
+      ],
+      "answer": "Joules per square centimeter"
+    },
+    {
+      "question": "Which of the following is a potential consequence of overdosing in light therapy?",
+      "choices": [
+        "Enhanced therapeutic effects",
+        "Faster healing",
+        "Diminished effects or potential harm",
+        "Increased cellular energy production"
+      ],
+      "answer": "Diminished effects or potential harm"
+    },
+    {
+      "question": "What is the recommended frequency of treatments for acute conditions?",
+      "choices": [
+        "Once a month",
+        "Once a week",
+        "2-3 times per week",
+        "Daily or every other day"
+      ],
+      "answer": "Daily or every other day"
+    },
+    {
+      "question": "Which scale is often used to guide protocol adjustments based on skin type?",
+      "choices": [
+        "Glasgow scale",
+        "Fitzpatrick scale",
+        "Richter scale",
+        "Mohs scale"
+      ],
+      "answer": "Fitzpatrick scale"
+    },
+    {
+      "question": "What is the primary purpose of using different wavelengths in light therapy?",
+      "choices": [
+        "To create a visually appealing treatment",
+        "To penetrate tissues at varying depths",
+        "To reduce treatment time",
+        "To lower the cost of treatment"
+      ],
+      "answer": "To penetrate tissues at varying depths"
+    },
+    {
+      "question": "Which of the following is NOT a typical consideration when customizing light therapy protocols?",
+      "choices": [
+        "Patient's skin type",
+        "Specific health condition being treated",
+        "Patient's educational background",
+        "Presence of inflammation or edema"
+      ],
+      "answer": "Patient's educational background"
+    },
+    {
+      "question": "What is the recommended approach for treating chronic conditions with light therapy?",
+      "choices": [
+        "High-intensity, short-duration treatments",
+        "Low-intensity, long-duration treatments",
+        "2-3 times per week, tapering to maintenance",
+        "Once a month, increasing frequency over time"
+      ],
+      "answer": "2-3 times per week, tapering to maintenance"
+    },
+    {
+      "question": "Which of the following is a crucial safety consideration in light therapy?",
+      "choices": [
+        "Using protective eyewear",
+        "Applying sunscreen before treatment",
+        "Drinking plenty of water during treatment",
+        "Exercising immediately after treatment"
+      ],
+      "answer": "Using protective eyewear"
+    },
+    {
+      "question": "What is the primary reason for avoiding light therapy treatment over the thyroid gland?",
+      "choices": [
+        "It can cause skin irritation",
+        "It may interfere with thyroid function",
+        "It reduces the effectiveness of the treatment",
+        "It can lead to overheating of the neck area"
+      ],
+      "answer": "It may interfere with thyroid function"
+    },
+    {
+      "question": "Which of the following best describes the relationship between power density and treatment time?",
+      "choices": [
+        "Higher power density always requires longer treatment times",
+        "Lower power density always requires shorter treatment times",
+        "Higher power density generally allows for shorter treatment times",
+        "Power density and treatment time are unrelated"
+      ],
+      "answer": "Higher power density generally allows for shorter treatment times"
+    },
+    {
+      "question": "What is the primary goal of customizing light therapy protocols?",
+      "choices": [
+        "To reduce treatment costs",
+        "To maximize treatment benefits for individual patients",
+        "To standardize treatments across all conditions",
+        "To simplify the treatment process for practitioners"
+      ],
+      "answer": "To maximize treatment benefits for individual patients"
+    },
+    {
+      "question": "Which of the following is NOT a typical application of red light therapy?",
+      "choices": [
+        "Wound healing",
+        "Pain management",
+        "Skin rejuvenation",
+        "X-ray imaging"
+      ],
+      "answer": "X-ray imaging"
+    },
+    {
+      "question": "What is the recommended course of action when a patient shows no response to initial light therapy treatments?",
+      "choices": [
+        "Immediately discontinue treatment",
+        "Double the dose for faster results",
+        "Reassess and adjust the treatment protocol",
+        "Switch to a completely different therapy"
+      ],
+      "answer": "Reassess and adjust the treatment protocol"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'treatment frequency' in light therapy?",
+      "choices": [
+        "The wavelength of light used in treatment",
+        "The number of light pulses per second",
+        "How often treatments are administered",
+        "The intensity of the light used"
+      ],
+      "answer": "How often treatments are administered"
+    },
+    {
+      "question": "What is the primary reason for monitoring patient response in light therapy?",
+      "choices": [
+        "To ensure the device is functioning properly",
+        "To adjust the protocol for optimal results",
+        "To compare results with other patients",
+        "To determine the cost-effectiveness of treatment"
+      ],
+      "answer": "To adjust the protocol for optimal results"
+    },
+    {
+      "question": "Which of the following is a potential challenge when implementing light therapy in rural areas of Timor-Leste?",
+      "choices": [
+        "Excessive sunlight interfering with treatments",
+        "Limited electricity supply",
+        "Overabundance of trained practitioners",
+        "Too many available light therapy devices"
+      ],
+      "answer": "Limited electricity supply"
+    },
+    {
+      "question": "What is the primary consideration when treating patients with photosensitizing medications?",
+      "choices": [
+        "Increasing the dose to counteract medication effects",
+        "Using only blue light wavelengths",
+        "Avoiding treatment altogether",
+        "Exercising caution and potentially adjusting protocols"
+      ],
+      "answer": "Exercising caution and potentially adjusting protocols"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of red light therapy?",
+      "choices": [
+        "Improved wound healing",
+        "Reduced inflammation",
+        "Increased muscle strength",
+        "Instant weight loss"
+      ],
+      "answer": "Instant weight loss"
+    },
+    {
+      "question": "What is the recommended approach for educating patients about light therapy in Timor-Leste?",
+      "choices": [
+        "Using complex medical terminology",
+        "Providing information only in English",
+        "Creating materials in local languages like Tetum",
+        "Avoiding any explanation of the treatment process"
+      ],
+      "answer": "Creating materials in local languages like Tetum"
+    }
+  ]
+}

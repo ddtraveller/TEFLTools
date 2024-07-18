@@ -146,6 +146,24 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 36. **Axis Brain-Gut-Microbiota: Nutrisaun, Saude Mental, no Neuroplastiku iha Timor-Leste nia laran / The Brain-Gut-Microbiota Axis: Nutrition, Mental Health, and Neuroplasticity Across the Lifespan in Timor-Leste**    
     - This course explores the intricate relationship between nutrition, gut microbiota, and mental health across the human lifespan, with a focus on the Timorese context. Students will examine how dietary choices influence brain function, neuroplasticity, and the development of mental health disorders through the brain-gut-microbiota axis. The course emphasizes the importance of understanding these connections for developing effective interventions and promoting overall brain health and well-being in Timor-Leste.
 
+37. **Mestre Enerjia Moris / Masters of the Living Energy**
+    - This course explores the mystical traditions and shamanic practices of the Andean Q'ero people, adapting these concepts to the cultural context of Timor-Leste. Students will learn about energy work, shamanic initiations, and indigenous wisdom while drawing parallels to Timorese spiritual traditions. The course aims to bridge indigenous and modern worldviews, fostering personal transformation through adapted Andean spiritual techniques.
+
+38. **Terapia Red Light / Red Light Therapy**
+    - This course explores the scientific principles and practical applications of red and near-infrared light therapy, tailored for the context of Timor-Leste. Students will learn about the biological effects of specific light wavelengths on cellular function, optimal dosing strategies, and the potential health benefits relevant to the Timorese population. The course emphasizes proper device selection, treatment protocols, and safety considerations while addressing local health challenges and cultural practices.
+
+39. **Yoga Vasishta Sara**
+    - This course explores the profound spiritual and philosophical teachings of the Yoga Vasishta, adapting its timeless wisdom to the cultural context of Timor Leste. Students will examine non-dualistic philosophy, the nature of consciousness and reality, and practical methods for self-inquiry and self-realization. The course aims to provide students with a deep understanding of Yoga Vasishta's teachings and their relevance to contemporary life in Timor Leste, fostering personal growth and spiritual development.
+
+40. **Medisina tradisionál Xina nian / TCM**
+    - This course explores holistic approaches to pain management through the lens of Traditional Chinese Medicine (TCM), adapted for the cultural context of Timor-Leste. Students will learn fundamental TCM concepts, various treatment modalities, and self-care practices that address pain by promoting overall balance and wellness in the body, mind, and spirit. The course emphasizes personalized approaches based on individual needs and constitution types, integrating ancient wisdom with modern understanding of health and pain management while respecting local Timorese healing traditions.
+
+41. **Rendimentu Baziku Universal / Universal Basic Income**
+    - This course examines the concept of Universal Basic Income (UBI) from an economic and policy perspective, with a focus on its potential application in Timor-Leste. Students will explore the role of UBI in addressing income inequality, poverty, and gaps in existing social safety nets within the Timorese context. The course compares UBI to current transfer programs, analyzes its potential distributional and fiscal impacts, and evaluates its effects on labor markets and social welfare in Timor-Leste.
+
+42. **Orasaun nia laran / The Heart of Prayer**
+    - This course explores the fundamental nature of being, consciousness, and divinity through the lens of prayer and meditation, with a focus on Timorese cultural and spiritual traditions. Students will examine teachings from various spiritual traditions, including Catholicism and indigenous Timorese beliefs, to understand the relationship between individual existence and infinite being. The course emphasizes practical approaches to realizing one's true nature and experiencing unity with the divine within the context of Timorese society.
+
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 
@@ -433,3 +451,90 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 73. Zen Mind Beginner Mind. (No author or date provided)  
 74. 101 Chicken Keeping Hacks. (No author or date provided) 
 75. 40 Projects for Building Your Backyard Farmstead. (No author or date provided)
+
+## Course Syllabi
+
+- English_Language
+- Fiction_Writing
+- Food_Inovation_and_Sustainability
+- Holistic_Healing_Arts_and_Practices
+- Medical_Herbalism
+- Practical_English
+- Regenerative_Living_a_Permaculture_Approach
+- Software_Development_for_Timor_Leste
+- accupressure
+- aquaculture
+- aramaic_jesus
+- bamboo
+- beekeeping_in_Timor_Leste
+- birthing_doula_work
+- bonsai_trees
+- brene_brown
+- caroline_myss
+- chi_gung
+- chidikash_gita
+- childhood_development_and_education
+- chogyam_trungpa
+- clean_cooking_offgrid
+- coffee_breeding_and_genetics
+- coffee_fermentation
+- constitutional_law_in_timor_leste
+- craniosacral_therapy
+- cross_cultural_music_appreciation
+- development_opportunities_with_indonesia
+- developmental_economics
+- divine_feminine
+- drawing
+- emotional_intelligence
+- female_empowerment
+- gen_syllabus
+- genai
+- gnostic_gospels
+- gospel_of_mary
+- green_playgrounds
+- guide_to_teaching_english
+- html_css
+- indigenous_religion
+- lalla_yogeshwari
+- lincoln_douglas_debate
+- lymphatic_drainage
+- marine_biology
+- masters of the living energy
+- microbiome
+- miranda_macpherson
+- mother_goddesses
+- mountain_agroforestry
+- nei_gung
+- neuroscience_and_society_in_timoe_leste
+- offgrid_water_desalinization
+- operating_manual_for_planet_earth
+- passive_cooling
+- permaculture_design
+- plant_propagation_by_tissue_culture
+- plants_grafting_layering_cloning
+- playwriting
+- polyvagal_theory
+- potato_farming_with_salt_water
+- python_game_making
+- python_tutorial
+- red light therapy
+- reiki
+- saline_agriculture
+- seidr
+- sexual_health_education
+- singing
+- sound_healing
+- sufi_poets
+- sustainable_local_architecture
+- synergetics
+- tarot
+- tcm
+- the_heart_of_prayer
+- the_microbiome
+- tibetan_book_of_living_and_dying
+- universal basic income
+- violence_in_timor_leste
+- weaving
+- wilderness_survival
+- womens_studies
+- yoga vastishta sara

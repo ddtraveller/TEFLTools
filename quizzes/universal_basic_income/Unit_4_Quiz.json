@@ -1,0 +1,305 @@
+{
+  "title": "UBI vs. Existing Transfer Programs in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is a key feature of Universal Basic Income (UBI) that distinguishes it from existing transfer programs in Timor-Leste?",
+      "choices": [
+        "It is means-tested",
+        "It is conditional on work requirements",
+        "It is provided to all citizens or residents",
+        "It is only given to the elderly"
+      ],
+      "answer": "It is provided to all citizens or residents"
+    },
+    {
+      "question": "Which of the following is an existing social welfare program in Timor-Leste?",
+      "choices": [
+        "Bolsa da Mãe",
+        "Oportunidades",
+        "Progresa",
+        "Familias en Acción"
+      ],
+      "answer": "Bolsa da Mãe"
+    },
+    {
+      "question": "What percentage of Timor-Leste's population was estimated to be living in poverty as of 2014?",
+      "choices": [
+        "21.8%",
+        "31.8%",
+        "41.8%",
+        "51.8%"
+      ],
+      "answer": "41.8%"
+    },
+    {
+      "question": "Which of the following is a potential advantage of UBI over existing programs in Timor-Leste?",
+      "choices": [
+        "Higher administrative costs",
+        "More complex eligibility criteria",
+        "Reduced stigma associated with receiving benefits",
+        "Increased targeting accuracy"
+      ],
+      "answer": "Reduced stigma associated with receiving benefits"
+    },
+    {
+      "question": "What is a major challenge in implementing UBI in Timor-Leste?",
+      "choices": [
+        "Lack of political support",
+        "High fiscal cost",
+        "Opposition from current benefit recipients",
+        "Technological limitations"
+      ],
+      "answer": "High fiscal cost"
+    },
+    {
+      "question": "What percentage of Timor-Leste's state budget came from oil and gas revenues in 2019?",
+      "choices": [
+        "49%",
+        "69%",
+        "89%",
+        "99%"
+      ],
+      "answer": "89%"
+    },
+    {
+      "question": "Which of the following is a characteristic of the Bolsa da Mãe program in Timor-Leste?",
+      "choices": [
+        "It is unconditional",
+        "It targets all citizens",
+        "It requires school attendance for children",
+        "It provides a fixed amount regardless of family size"
+      ],
+      "answer": "It requires school attendance for children"
+    },
+    {
+      "question": "What is the estimated percentage of informal employment in Timor-Leste?",
+      "choices": [
+        "30-40%",
+        "50-60%",
+        "70-80%",
+        "90-100%"
+      ],
+      "answer": "70-80%"
+    },
+    {
+      "question": "How might UBI affect labor market participation in Timor-Leste?",
+      "choices": [
+        "It would definitely increase formal employment",
+        "It would have no effect on employment",
+        "It might reduce incentives for formal employment",
+        "It would eliminate informal employment"
+      ],
+      "answer": "It might reduce incentives for formal employment"
+    },
+    {
+      "question": "What is a potential benefit of UBI in addressing poverty in rural areas of Timor-Leste?",
+      "choices": [
+        "It would eliminate the need for agriculture",
+        "It could provide capital for small-scale investments",
+        "It would force rural residents to move to urban areas",
+        "It would only benefit large landowners"
+      ],
+      "answer": "It could provide capital for small-scale investments"
+    },
+    {
+      "question": "What is Timor-Leste's Gini coefficient as of 2014?",
+      "choices": [
+        "18.7",
+        "28.7",
+        "38.7",
+        "48.7"
+      ],
+      "answer": "28.7"
+    },
+    {
+      "question": "Which of the following is NOT a current social welfare program in Timor-Leste?",
+      "choices": [
+        "Elderly Pension",
+        "Disability Pension",
+        "Veterans' Pension",
+        "Universal Child Benefit"
+      ],
+      "answer": "Universal Child Benefit"
+    },
+    {
+      "question": "What is a potential advantage of UBI in terms of administrative efficiency?",
+      "choices": [
+        "Increased need for means-testing",
+        "More complex eligibility criteria",
+        "Reduced bureaucracy in determining eligibility",
+        "Higher administrative costs"
+      ],
+      "answer": "Reduced bureaucracy in determining eligibility"
+    },
+    {
+      "question": "What was Timor-Leste's GDP per capita in 2019?",
+      "choices": [
+        "$560",
+        "$1,060",
+        "$1,560",
+        "$2,060"
+      ],
+      "answer": "$1,560"
+    },
+    {
+      "question": "How might UBI impact income inequality in Timor-Leste?",
+      "choices": [
+        "It would have no effect on inequality",
+        "It would increase inequality",
+        "It could potentially reduce inequality over time",
+        "It would only benefit the wealthy"
+      ],
+      "answer": "It could potentially reduce inequality over time"
+    },
+    {
+      "question": "What is a potential challenge in implementing UBI in rural areas of Timor-Leste?",
+      "choices": [
+        "Rural residents don't need financial support",
+        "Limited formal banking infrastructure",
+        "UBI is only designed for urban areas",
+        "Rural areas have better existing welfare programs"
+      ],
+      "answer": "Limited formal banking infrastructure"
+    },
+    {
+      "question": "What was Timor-Leste's labor force participation rate in 2019?",
+      "choices": [
+        "42.9%",
+        "52.9%",
+        "62.9%",
+        "72.9%"
+      ],
+      "answer": "62.9%"
+    },
+    {
+      "question": "How might UBI affect rural-urban migration patterns in Timor-Leste?",
+      "choices": [
+        "It would have no effect on migration",
+        "It would force everyone to move to urban areas",
+        "It could potentially reduce rural-urban migration",
+        "It would eliminate all rural populations"
+      ],
+      "answer": "It could potentially reduce rural-urban migration"
+    },
+    {
+      "question": "What percentage of GDP did Timor-Leste spend on social protection in 2015?",
+      "choices": [
+        "2.1%",
+        "4.1%",
+        "6.1%",
+        "8.1%"
+      ],
+      "answer": "6.1%"
+    },
+    {
+      "question": "Which of the following is a potential funding mechanism for UBI in Timor-Leste?",
+      "choices": [
+        "Increased foreign aid",
+        "Redirecting funds from existing social programs",
+        "Eliminating all government spending",
+        "Borrowing from international banks"
+      ],
+      "answer": "Redirecting funds from existing social programs"
+    },
+    {
+      "question": "What is a potential advantage of UBI over targeted programs in terms of coverage?",
+      "choices": [
+        "It would cover fewer people",
+        "It would only cover the employed",
+        "It would eliminate the risk of exclusion errors",
+        "It would have the same coverage as targeted programs"
+      ],
+      "answer": "It would eliminate the risk of exclusion errors"
+    },
+    {
+      "question": "How might UBI impact the informal economy in Timor-Leste?",
+      "choices": [
+        "It would immediately eliminate the informal economy",
+        "It would have no effect on the informal economy",
+        "It could potentially stimulate economic activity in the informal sector",
+        "It would criminalize all informal economic activity"
+      ],
+      "answer": "It could potentially stimulate economic activity in the informal sector"
+    },
+    {
+      "question": "What is a potential challenge in transitioning from existing programs to UBI in Timor-Leste?",
+      "choices": [
+        "Existing programs are more efficient",
+        "UBI is too simple to implement",
+        "Managing the transition for current benefit recipients",
+        "UBI would be immediately accepted by everyone"
+      ],
+      "answer": "Managing the transition for current benefit recipients"
+    },
+    {
+      "question": "How might UBI affect gender equality in Timor-Leste?",
+      "choices": [
+        "It would have no effect on gender equality",
+        "It would worsen gender inequality",
+        "It could potentially improve women's economic independence",
+        "It would only benefit men"
+      ],
+      "answer": "It could potentially improve women's economic independence"
+    },
+    {
+      "question": "What is a potential risk of replacing all existing targeted programs with UBI in Timor-Leste?",
+      "choices": [
+        "Increased administrative costs",
+        "Loss of specific support for vulnerable groups",
+        "Higher poverty rates",
+        "Reduced economic growth"
+      ],
+      "answer": "Loss of specific support for vulnerable groups"
+    },
+    {
+      "question": "How might UBI impact education in Timor-Leste?",
+      "choices": [
+        "It would have no effect on education",
+        "It would eliminate the need for formal education",
+        "It could potentially increase school attendance",
+        "It would only benefit students in urban areas"
+      ],
+      "answer": "It could potentially increase school attendance"
+    },
+    {
+      "question": "What is a potential advantage of UBI in terms of social cohesion in Timor-Leste?",
+      "choices": [
+        "It would create more social divisions",
+        "It would only benefit certain ethnic groups",
+        "It could promote social cohesion by treating all citizens equally",
+        "It would have no effect on social relationships"
+      ],
+      "answer": "It could promote social cohesion by treating all citizens equally"
+    },
+    {
+      "question": "How might UBI affect entrepreneurship in Timor-Leste?",
+      "choices": [
+        "It would discourage all forms of entrepreneurship",
+        "It would only benefit large corporations",
+        "It could potentially provide capital for small business creation",
+        "It would have no effect on entrepreneurship"
+      ],
+      "answer": "It could potentially provide capital for small business creation"
+    },
+    {
+      "question": "What is a potential challenge in implementing UBI through digital payments in Timor-Leste?",
+      "choices": [
+        "Digital payments are illegal in Timor-Leste",
+        "Limited access to digital technology in rural areas",
+        "UBI cannot be distributed digitally",
+        "Digital payments are too expensive"
+      ],
+      "answer": "Limited access to digital technology in rural areas"
+    },
+    {
+      "question": "How might UBI impact health outcomes in Timor-Leste?",
+      "choices": [
+        "It would have no effect on health",
+        "It would worsen health outcomes",
+        "It could potentially improve access to healthcare and nutrition",
+        "It would only benefit those with pre-existing health conditions"
+      ],
+      "answer": "It could potentially improve access to healthcare and nutrition"
+    }
+  ]
+}

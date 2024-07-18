@@ -1,0 +1,305 @@
+{
+  "title": "Herbal Medicine and Nutrition in Pain Management",
+  "questions": [
+    {
+      "question": "Which of the following is a key principle of TCM herbal formulation?",
+      "choices": [
+        "Treating symptoms in isolation",
+        "Using single herbs for maximum potency",
+        "Synergistic effects of combining herbs",
+        "Standardizing dosages for all patients"
+      ],
+      "answer": "Synergistic effects of combining herbs"
+    },
+    {
+      "question": "What is the primary function of Dang Gui (Angelica sinensis) in TCM?",
+      "choices": [
+        "Blood tonic and analgesic",
+        "Digestive aid",
+        "Expectorant",
+        "Sedative"
+      ],
+      "answer": "Blood tonic and analgesic"
+    },
+    {
+      "question": "Which local Timorese plant is considered equivalent to turmeric in pain-relieving properties?",
+      "choices": [
+        "Ai-dila",
+        "Ai-dak",
+        "Ai-kafe",
+        "Kinur"
+      ],
+      "answer": "Kinur"
+    },
+    {
+      "question": "In TCM dietary therapy, what type of foods are recommended for a Fire Constitution?",
+      "choices": [
+        "Warming and stimulating",
+        "Cooling and calming",
+        "Neutral and grounding",
+        "Spicy and energizing"
+      ],
+      "answer": "Cooling and calming"
+    },
+    {
+      "question": "What is the main difference between TCM and traditional Timorese herbal practices?",
+      "choices": [
+        "Use of local plants",
+        "Emphasis on balance",
+        "TCM's systematic theory vs. traditional empirical knowledge",
+        "Holistic approach to health"
+      ],
+      "answer": "TCM's systematic theory vs. traditional empirical knowledge"
+    },
+    {
+      "question": "Which herb is known for its strong analgesic properties in TCM?",
+      "choices": [
+        "Dang Gui",
+        "Chuan Xiong",
+        "Yan Hu Suo",
+        "Ru Xiang"
+      ],
+      "answer": "Yan Hu Suo"
+    },
+    {
+      "question": "What is the primary focus of dietary recommendations for an Air Constitution?",
+      "choices": [
+        "Cooling and calming foods",
+        "Warming, grounding, and moistening foods",
+        "Spicy and stimulating foods",
+        "Raw and cleansing foods"
+      ],
+      "answer": "Warming, grounding, and moistening foods"
+    },
+    {
+      "question": "Which of the following is considered a cooling food in TCM?",
+      "choices": [
+        "Ginger",
+        "Cinnamon",
+        "Watermelon",
+        "Lamb"
+      ],
+      "answer": "Watermelon"
+    },
+    {
+      "question": "What is the main principle behind TCM food energetics?",
+      "choices": [
+        "Calorie counting",
+        "Macronutrient balance",
+        "Categorizing foods as warming, cooling, or neutral",
+        "Eliminating all processed foods"
+      ],
+      "answer": "Categorizing foods as warming, cooling, or neutral"
+    },
+    {
+      "question": "Which constitution type in TCM is associated with being cool, heavy, and slow?",
+      "choices": [
+        "Air",
+        "Fire",
+        "Water",
+        "Earth"
+      ],
+      "answer": "Water"
+    },
+    {
+      "question": "What is the recommended dietary focus for a Water Constitution?",
+      "choices": [
+        "Cooling and calming foods",
+        "Warming, light, and stimulating foods",
+        "Heavy and grounding foods",
+        "Raw and cleansing foods"
+      ],
+      "answer": "Warming, light, and stimulating foods"
+    },
+    {
+      "question": "Which local Timorese plant is known for its analgesic and stimulant properties?",
+      "choices": [
+        "Ai-dila",
+        "Ai-dak",
+        "Ai-kafe",
+        "Ai-lia"
+      ],
+      "answer": "Ai-kafe"
+    },
+    {
+      "question": "What is the primary purpose of using neutral foods in TCM dietary therapy?",
+      "choices": [
+        "To increase metabolism",
+        "To reduce inflammation",
+        "To balance the body's temperature",
+        "To promote detoxification"
+      ],
+      "answer": "To balance the body's temperature"
+    },
+    {
+      "question": "Which TCM diagnostic method is not typically used in traditional Timorese healing practices?",
+      "choices": [
+        "Observation",
+        "Questioning",
+        "Tongue and pulse diagnosis",
+        "Palpation"
+      ],
+      "answer": "Tongue and pulse diagnosis"
+    },
+    {
+      "question": "What is the main goal of integrating TCM with Timorese herbal traditions?",
+      "choices": [
+        "To replace local practices entirely",
+        "To create a more effective, culturally appropriate healing system",
+        "To promote TCM as superior to local traditions",
+        "To simplify herbal medicine practices"
+      ],
+      "answer": "To create a more effective, culturally appropriate healing system"
+    },
+    {
+      "question": "Which of the following is a key principle in TCM dietary therapy for pain management?",
+      "choices": [
+        "Eliminating all animal products",
+        "Consuming only raw foods",
+        "Addressing underlying imbalances through nutrition",
+        "Following a strict calorie-restricted diet"
+      ],
+      "answer": "Addressing underlying imbalances through nutrition"
+    },
+    {
+      "question": "What is the primary function of Chuan Xiong in TCM pain management?",
+      "choices": [
+        "Blood-moving and pain-relieving",
+        "Sedative and muscle relaxant",
+        "Digestive aid and anti-inflammatory",
+        "Immune booster and antioxidant"
+      ],
+      "answer": "Blood-moving and pain-relieving"
+    },
+    {
+      "question": "Which of the following is considered a warming food in TCM?",
+      "choices": [
+        "Cucumber",
+        "Mint",
+        "Ginger",
+        "Watermelon"
+      ],
+      "answer": "Ginger"
+    },
+    {
+      "question": "What is the main advantage of using herbal medicine for pain relief according to TCM?",
+      "choices": [
+        "Instant pain relief",
+        "No side effects",
+        "Potential for fewer side effects compared to some pharmaceuticals",
+        "Guaranteed cure for all types of pain"
+      ],
+      "answer": "Potential for fewer side effects compared to some pharmaceuticals"
+    },
+    {
+      "question": "Which concept is fundamental to TCM dietary therapy?",
+      "choices": [
+        "Calorie counting",
+        "Yin-Yang balance",
+        "Elimination of all carbohydrates",
+        "High-protein diets"
+      ],
+      "answer": "Yin-Yang balance"
+    },
+    {
+      "question": "What type of foods are generally considered Yin in TCM?",
+      "choices": [
+        "Spicy and stimulating",
+        "Warming and energizing",
+        "Cooling and nourishing",
+        "Neutral and bland"
+      ],
+      "answer": "Cooling and nourishing"
+    },
+    {
+      "question": "Which of the following is NOT a common ingredient in the pain-relieving herbal tea recipe provided?",
+      "choices": [
+        "Ginger",
+        "Turmeric",
+        "Cinnamon",
+        "Lemongrass"
+      ],
+      "answer": "Lemongrass"
+    },
+    {
+      "question": "What is the recommended frequency for drinking the pain-relieving herbal tea?",
+      "choices": [
+        "Once a week",
+        "Three times a day",
+        "1-2 cups daily",
+        "Only when in severe pain"
+      ],
+      "answer": "1-2 cups daily"
+    },
+    {
+      "question": "Which of the following is a key consideration when using herbal remedies for pain relief?",
+      "choices": [
+        "Herbs are always safe and have no side effects",
+        "Herbal remedies should be used under the guidance of a qualified practitioner",
+        "Herbs can replace all conventional pain medications",
+        "The more herbs used, the more effective the treatment"
+      ],
+      "answer": "Herbal remedies should be used under the guidance of a qualified practitioner"
+    },
+    {
+      "question": "What type of diet has shown promise in reducing chronic pain associated with conditions like arthritis?",
+      "choices": [
+        "High-protein diet",
+        "Ketogenic diet",
+        "Anti-inflammatory diet",
+        "Low-carb diet"
+      ],
+      "answer": "Anti-inflammatory diet"
+    },
+    {
+      "question": "Which of the following is NOT a recommended food for an anti-inflammatory diet?",
+      "choices": [
+        "Fatty fish",
+        "Berries",
+        "Leafy greens",
+        "Processed meats"
+      ],
+      "answer": "Processed meats"
+    },
+    {
+      "question": "What is the primary role of nutrition in TCM pain management?",
+      "choices": [
+        "To provide quick pain relief",
+        "To support the body's natural healing processes",
+        "To replace all other forms of treatment",
+        "To induce rapid weight loss"
+      ],
+      "answer": "To support the body's natural healing processes"
+    },
+    {
+      "question": "Which of the following is a key principle in adapting TCM practices to Timorese culture?",
+      "choices": [
+        "Completely replacing local traditions",
+        "Ignoring local healing practices",
+        "Identifying local herbs with similar properties to TCM herbs",
+        "Promoting TCM as superior to all other healing systems"
+      ],
+      "answer": "Identifying local herbs with similar properties to TCM herbs"
+    },
+    {
+      "question": "What is the recommended approach for using herbal medicine and nutrition in pain management?",
+      "choices": [
+        "As a complete replacement for conventional medical care",
+        "Only when conventional treatments have failed",
+        "As a complement to conventional medical care",
+        "Without informing your primary healthcare provider"
+      ],
+      "answer": "As a complement to conventional medical care"
+    },
+    {
+      "question": "Which of the following best describes the TCM approach to pain management?",
+      "choices": [
+        "Treating symptoms in isolation",
+        "Focusing solely on physical pain",
+        "Addressing the root cause and overall body balance",
+        "Relying exclusively on pharmaceutical interventions"
+      ],
+      "answer": "Addressing the root cause and overall body balance"
+    }
+  ]
+}

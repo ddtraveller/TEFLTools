@@ -1,0 +1,305 @@
+{
+  "title": "TCM Diagnosis and Assessment",
+  "questions": [
+    {
+      "question": "What are the Four Pillars of TCM diagnosis?",
+      "choices": [
+        "Observation, Auscultation/Olfaction, Inquiry, Palpation",
+        "Inspection, Listening, Questioning, Feeling",
+        "Looking, Smelling, Asking, Touching",
+        "Examination, Analysis, Consultation, Treatment"
+      ],
+      "answer": "Observation, Auscultation/Olfaction, Inquiry, Palpation"
+    },
+    {
+      "question": "Which of the following is NOT one of the main constitution types in TCM?",
+      "choices": [
+        "Air",
+        "Fire",
+        "Water",
+        "Earth"
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question": "What does a pale tongue typically indicate in TCM diagnosis?",
+      "choices": [
+        "Excess heat",
+        "Blood stasis",
+        "Deficiency of qi or blood",
+        "Dampness"
+      ],
+      "answer": "Deficiency of qi or blood"
+    },
+    {
+      "question": "Which pulse quality might indicate an internal condition or excess in TCM?",
+      "choices": [
+        "Floating",
+        "Sinking",
+        "Slippery",
+        "Wiry"
+      ],
+      "answer": "Sinking"
+    },
+    {
+      "question": "What does the Chinese term '望 wàng' refer to in TCM diagnosis?",
+      "choices": [
+        "Inquiry",
+        "Palpation",
+        "Observation",
+        "Auscultation"
+      ],
+      "answer": "Observation"
+    },
+    {
+      "question": "Which constitution type is associated with a tendency towards anxiety and erratic energy?",
+      "choices": [
+        "Air",
+        "Fire",
+        "Water",
+        "Earth"
+      ],
+      "answer": "Air"
+    },
+    {
+      "question": "What might a thick white coating on the tongue indicate?",
+      "choices": [
+        "Heat in the body",
+        "Cold or damp in the stomach",
+        "Blood deficiency",
+        "Liver qi stagnation"
+      ],
+      "answer": "Cold or damp in the stomach"
+    },
+    {
+      "question": "Which pulse quality is often associated with pregnancy or phlegm in TCM?",
+      "choices": [
+        "Wiry",
+        "Floating",
+        "Slippery",
+        "Thin"
+      ],
+      "answer": "Slippery"
+    },
+    {
+      "question": "What does the term '聞 wén' encompass in TCM diagnosis?",
+      "choices": [
+        "Visual inspection",
+        "Pulse taking",
+        "Questioning the patient",
+        "Listening and smelling"
+      ],
+      "answer": "Listening and smelling"
+    },
+    {
+      "question": "Which constitution type is most likely to be prone to inflammatory conditions?",
+      "choices": [
+        "Air",
+        "Fire",
+        "Water",
+        "Earth"
+      ],
+      "answer": "Fire"
+    },
+    {
+      "question": "What might a purple tongue indicate in TCM diagnosis?",
+      "choices": [
+        "Qi deficiency",
+        "Blood stasis",
+        "Dampness",
+        "External cold"
+      ],
+      "answer": "Blood stasis"
+    },
+    {
+      "question": "Which of the following is NOT typically assessed in pulse diagnosis?",
+      "choices": [
+        "Rate",
+        "Depth",
+        "Temperature",
+        "Strength"
+      ],
+      "answer": "Temperature"
+    },
+    {
+      "question": "What does a wiry pulse often indicate in TCM?",
+      "choices": [
+        "Qi deficiency",
+        "Blood stasis",
+        "Liver qi stagnation",
+        "Dampness"
+      ],
+      "answer": "Liver qi stagnation"
+    },
+    {
+      "question": "Which constitution type is associated with calmness and good endurance?",
+      "choices": [
+        "Air",
+        "Fire",
+        "Water",
+        "Earth"
+      ],
+      "answer": "Water"
+    },
+    {
+      "question": "What might a red tongue with a yellow coating suggest?",
+      "choices": [
+        "Cold in the body",
+        "Qi deficiency",
+        "Heat or inflammation",
+        "Blood stasis"
+      ],
+      "answer": "Heat or inflammation"
+    },
+    {
+      "question": "Which aspect of tongue diagnosis does NOT typically provide diagnostic information?",
+      "choices": [
+        "Color",
+        "Coating",
+        "Shape",
+        "Taste"
+      ],
+      "answer": "Taste"
+    },
+    {
+      "question": "What does the term '切 qiè' refer to in TCM diagnosis?",
+      "choices": [
+        "Observation",
+        "Auscultation",
+        "Inquiry",
+        "Palpation"
+      ],
+      "answer": "Palpation"
+    },
+    {
+      "question": "Which constitution type is most likely to have a rounded body shape?",
+      "choices": [
+        "Air",
+        "Fire",
+        "Water",
+        "Earth"
+      ],
+      "answer": "Water"
+    },
+    {
+      "question": "What might a thin, cracked tongue indicate?",
+      "choices": [
+        "Excess dampness",
+        "Yin deficiency",
+        "Qi stagnation",
+        "External cold"
+      ],
+      "answer": "Yin deficiency"
+    },
+    {
+      "question": "Which pulse quality might indicate an external condition or qi deficiency?",
+      "choices": [
+        "Floating",
+        "Sinking",
+        "Slippery",
+        "Wiry"
+      ],
+      "answer": "Floating"
+    },
+    {
+      "question": "What is the primary goal of TCM diagnosis?",
+      "choices": [
+        "To identify specific diseases",
+        "To prescribe herbal remedies",
+        "To understand patterns of disharmony",
+        "To perform acupuncture"
+      ],
+      "answer": "To understand patterns of disharmony"
+    },
+    {
+      "question": "Which of the following is NOT typically considered in TCM constitutional analysis?",
+      "choices": [
+        "Body shape",
+        "Personality traits",
+        "Health tendencies",
+        "Blood type"
+      ],
+      "answer": "Blood type"
+    },
+    {
+      "question": "What might a weak, quiet voice indicate in TCM diagnosis?",
+      "choices": [
+        "Excess heat",
+        "Qi deficiency",
+        "Blood stasis",
+        "Liver qi stagnation"
+      ],
+      "answer": "Qi deficiency"
+    },
+    {
+      "question": "Which aspect of health is NOT typically inquired about in TCM diagnosis?",
+      "choices": [
+        "Sleep patterns",
+        "Emotional states",
+        "Appetite",
+        "Genetic history"
+      ],
+      "answer": "Genetic history"
+    },
+    {
+      "question": "What does a rapid pulse typically indicate in TCM?",
+      "choices": [
+        "Cold in the body",
+        "Heat in the body",
+        "Qi deficiency",
+        "Blood stasis"
+      ],
+      "answer": "Heat in the body"
+    },
+    {
+      "question": "Which constitution type is most likely to have a thin, tall body frame?",
+      "choices": [
+        "Air",
+        "Fire",
+        "Water",
+        "Earth"
+      ],
+      "answer": "Air"
+    },
+    {
+      "question": "What might strong body odors suggest in TCM diagnosis?",
+      "choices": [
+        "Qi deficiency",
+        "Blood stasis",
+        "Excess heat or dampness",
+        "Yin deficiency"
+      ],
+      "answer": "Excess heat or dampness"
+    },
+    {
+      "question": "How many positions are typically used for pulse diagnosis on each wrist?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "Three"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic assessed in pulse diagnosis?",
+      "choices": [
+        "Rate",
+        "Depth",
+        "Color",
+        "Strength"
+      ],
+      "answer": "Color"
+    },
+    {
+      "question": "What might a swollen tongue indicate in TCM diagnosis?",
+      "choices": [
+        "Qi deficiency",
+        "Blood stasis",
+        "Dampness",
+        "External wind"
+      ],
+      "answer": "Dampness"
+    }
+  ]
+}

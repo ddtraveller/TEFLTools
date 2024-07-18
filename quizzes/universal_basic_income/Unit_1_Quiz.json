@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Universal Basic Income",
+  "questions": [
+    {
+      "question": "What is the primary characteristic of Universal Basic Income?",
+      "choices": [
+        "It is means-tested",
+        "It is given only to the unemployed",
+        "It is universal and unconditional",
+        "It varies based on income level"
+      ],
+      "answer": "It is universal and unconditional"
+    },
+    {
+      "question": "Which of the following is NOT a key characteristic of UBI?",
+      "choices": [
+        "Regular payments",
+        "Cash-based",
+        "Individual-based",
+        "Means-tested"
+      ],
+      "answer": "Means-tested"
+    },
+    {
+      "question": "Who proposed the concept of a 'citizen's dividend' in the 18th century?",
+      "choices": [
+        "Milton Friedman",
+        "Thomas Paine",
+        "Charles Fourier",
+        "Martin Luther King Jr."
+      ],
+      "answer": "Thomas Paine"
+    },
+    {
+      "question": "What economic concept did Milton Friedman propose that is related to UBI?",
+      "choices": [
+        "Progressive taxation",
+        "Negative income tax",
+        "Flat tax rate",
+        "Universal credit"
+      ],
+      "answer": "Negative income tax"
+    },
+    {
+      "question": "Which country implemented the Alaska Permanent Fund Dividend?",
+      "choices": [
+        "Canada",
+        "Norway",
+        "United States",
+        "Finland"
+      ],
+      "answer": "United States"
+    },
+    {
+      "question": "What is one of the main factors driving current interest in UBI?",
+      "choices": [
+        "Decreasing population growth",
+        "Concerns about automation and job displacement",
+        "Increasing birth rates",
+        "Declining interest in social welfare"
+      ],
+      "answer": "Concerns about automation and job displacement"
+    },
+    {
+      "question": "Which country conducted a UBI experiment from 2017 to 2018?",
+      "choices": [
+        "Sweden",
+        "Germany",
+        "Finland",
+        "France"
+      ],
+      "answer": "Finland"
+    },
+    {
+      "question": "What organization is running a long-term UBI trial in rural Kenya?",
+      "choices": [
+        "World Bank",
+        "UNICEF",
+        "GiveDirectly",
+        "Oxfam"
+      ],
+      "answer": "GiveDirectly"
+    },
+    {
+      "question": "What is a potential benefit of UBI?",
+      "choices": [
+        "Increased administrative costs",
+        "Higher unemployment rates",
+        "Reduced economic inequality",
+        "Lower entrepreneurship rates"
+      ],
+      "answer": "Reduced economic inequality"
+    },
+    {
+      "question": "What is a major criticism of UBI?",
+      "choices": [
+        "It's too targeted",
+        "It's too expensive to implement",
+        "It increases poverty",
+        "It's too complex to administer"
+      ],
+      "answer": "It's too expensive to implement"
+    },
+    {
+      "question": "How might UBI impact entrepreneurship?",
+      "choices": [
+        "It could discourage new businesses",
+        "It might provide a financial cushion for startups",
+        "It would have no effect",
+        "It would only benefit large corporations"
+      ],
+      "answer": "It might provide a financial cushion for startups"
+    },
+    {
+      "question": "What is the primary goal of UBI?",
+      "choices": [
+        "To replace all other social programs",
+        "To provide a financial foundation for every citizen",
+        "To increase government control over personal finances",
+        "To eliminate all forms of work"
+      ],
+      "answer": "To provide a financial foundation for every citizen"
+    },
+    {
+      "question": "Which of the following is NOT a core principle of UBI?",
+      "choices": [
+        "Poverty reduction",
+        "Economic security",
+        "Social justice",
+        "Wealth redistribution"
+      ],
+      "answer": "Wealth redistribution"
+    },
+    {
+      "question": "What distinguishes UBI from traditional welfare programs?",
+      "choices": [
+        "It's only given to the employed",
+        "It's means-tested",
+        "It's given to everyone without conditions",
+        "It's only available to citizens"
+      ],
+      "answer": "It's given to everyone without conditions"
+    },
+    {
+      "question": "How might UBI affect the labor market?",
+      "choices": [
+        "It would eliminate all jobs",
+        "It might reduce the pressure to accept low-wage jobs",
+        "It would force everyone to work more hours",
+        "It would only benefit high-income earners"
+      ],
+      "answer": "It might reduce the pressure to accept low-wage jobs"
+    },
+    {
+      "question": "What is a potential challenge of implementing UBI in Timor-Leste?",
+      "choices": [
+        "Overpopulation",
+        "Lack of natural resources",
+        "Infrastructure for cash distribution",
+        "Excessive wealth"
+      ],
+      "answer": "Infrastructure for cash distribution"
+    },
+    {
+      "question": "How might UBI impact income inequality?",
+      "choices": [
+        "It would have no effect",
+        "It could potentially reduce income inequality",
+        "It would definitely increase income inequality",
+        "It only affects middle-income earners"
+      ],
+      "answer": "It could potentially reduce income inequality"
+    },
+    {
+      "question": "What is the main argument against UBI reducing work incentives?",
+      "choices": [
+        "UBI payments are too low to live on",
+        "Evidence from pilot programs doesn't strongly support this claim",
+        "Work is always preferable to receiving payments",
+        "UBI is only given to those who work"
+      ],
+      "answer": "Evidence from pilot programs doesn't strongly support this claim"
+    },
+    {
+      "question": "How might UBI affect existing social programs?",
+      "choices": [
+        "It would have no impact",
+        "It could potentially replace some programs",
+        "It would definitely eliminate all other programs",
+        "It would only affect healthcare programs"
+      ],
+      "answer": "It could potentially replace some programs"
+    },
+    {
+      "question": "What is a potential economic effect of UBI?",
+      "choices": [
+        "Guaranteed deflation",
+        "Increased consumer spending",
+        "Reduced GDP",
+        "Elimination of all taxes"
+      ],
+      "answer": "Increased consumer spending"
+    },
+    {
+      "question": "How might UBI impact rural vs. urban populations in Timor-Leste?",
+      "choices": [
+        "It would only benefit urban populations",
+        "It would have no differential impact",
+        "It could potentially have different effects on rural and urban areas",
+        "It would only be implemented in rural areas"
+      ],
+      "answer": "It could potentially have different effects on rural and urban areas"
+    },
+    {
+      "question": "What role could Timor-Leste's oil and gas revenues play in UBI?",
+      "choices": [
+        "They are irrelevant to UBI",
+        "They could potentially be a funding source",
+        "They would be eliminated by UBI",
+        "They would increase due to UBI"
+      ],
+      "answer": "They could potentially be a funding source"
+    },
+    {
+      "question": "How might UBI affect traditional social structures in Timor-Leste?",
+      "choices": [
+        "It would have no impact",
+        "It could potentially alter family dynamics and social relationships",
+        "It would strengthen all traditional structures",
+        "It would only affect government structures"
+      ],
+      "answer": "It could potentially alter family dynamics and social relationships"
+    },
+    {
+      "question": "What is a potential health-related benefit of UBI?",
+      "choices": [
+        "It would cure all diseases",
+        "It could lead to improved health outcomes due to reduced stress",
+        "It would replace all healthcare systems",
+        "It would only benefit those with pre-existing conditions"
+      ],
+      "answer": "It could lead to improved health outcomes due to reduced stress"
+    },
+    {
+      "question": "How might UBI impact education in Timor-Leste?",
+      "choices": [
+        "It would have no effect on education",
+        "It could potentially increase educational attainment",
+        "It would eliminate the need for formal education",
+        "It would only benefit higher education"
+      ],
+      "answer": "It could potentially increase educational attainment"
+    },
+    {
+      "question": "What is a key difference between UBI and targeted social welfare programs?",
+      "choices": [
+        "UBI is more expensive to administer",
+        "UBI is given to everyone, while targeted programs are means-tested",
+        "UBI is only for the unemployed",
+        "UBI is paid in goods, not cash"
+      ],
+      "answer": "UBI is given to everyone, while targeted programs are means-tested"
+    },
+    {
+      "question": "How might UBI affect inflation in Timor-Leste?",
+      "choices": [
+        "It would have no effect on inflation",
+        "It could potentially lead to some inflationary pressure",
+        "It would definitely cause hyperinflation",
+        "It would cause severe deflation"
+      ],
+      "answer": "It could potentially lead to some inflationary pressure"
+    },
+    {
+      "question": "What is a potential effect of UBI on poverty in Timor-Leste?",
+      "choices": [
+        "It would have no effect on poverty",
+        "It could potentially reduce poverty rates",
+        "It would eliminate all poverty immediately",
+        "It would only affect urban poverty"
+      ],
+      "answer": "It could potentially reduce poverty rates"
+    },
+    {
+      "question": "How might UBI impact gender equality in Timor-Leste?",
+      "choices": [
+        "It would have no effect on gender issues",
+        "It could potentially promote financial independence for women",
+        "It would only benefit men",
+        "It would eliminate all gender differences"
+      ],
+      "answer": "It could potentially promote financial independence for women"
+    },
+    {
+      "question": "What is a key consideration in designing a UBI program for Timor-Leste?",
+      "choices": [
+        "Ignoring local economic conditions",
+        "Copying exactly from other countries",
+        "Tailoring the program to Timor-Leste's unique circumstances",
+        "Implementing it only in the capital city"
+      ],
+      "answer": "Tailoring the program to Timor-Leste's unique circumstances"
+    }
+  ]
+}

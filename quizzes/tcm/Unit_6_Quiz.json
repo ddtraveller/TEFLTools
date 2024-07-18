@@ -1,0 +1,305 @@
+{
+  "title": "Lifestyle Modifications and Self-Care in TCM",
+  "questions": [
+    {
+      "question": "According to TCM, what is the optimal time to go to bed?",
+      "choices": [
+        "Between 7 PM and 9 PM",
+        "Between 9 PM and 11 PM",
+        "Between 11 PM and 1 AM",
+        "Between 1 AM and 3 AM"
+      ],
+      "answer": "Between 9 PM and 11 PM"
+    },
+    {
+      "question": "Which of the following is NOT a key component of TCM self-care practices?",
+      "choices": [
+        "Proper sleep and rest",
+        "Gentle exercise",
+        "High-intensity workouts",
+        "Balanced daily routines"
+      ],
+      "answer": "High-intensity workouts"
+    },
+    {
+      "question": "What is the recommended wake-up time according to TCM principles?",
+      "choices": [
+        "Between 3 AM and 5 AM",
+        "Between 5 AM and 7 AM",
+        "Between 7 AM and 9 AM",
+        "Between 9 AM and 11 AM"
+      ],
+      "answer": "Between 5 AM and 7 AM"
+    },
+    {
+      "question": "Which of the following exercises is emphasized in TCM for promoting Qi circulation?",
+      "choices": [
+        "Weight lifting",
+        "High-intensity interval training",
+        "Tai Chi",
+        "Sprinting"
+      ],
+      "answer": "Tai Chi"
+    },
+    {
+      "question": "What is the purpose of aligning sleep patterns with natural rhythms in TCM?",
+      "choices": [
+        "To increase productivity",
+        "To balance Yin and Yang energies",
+        "To reduce appetite",
+        "To improve social relationships"
+      ],
+      "answer": "To balance Yin and Yang energies"
+    },
+    {
+      "question": "Which of the following is a recommended morning ritual in TCM?",
+      "choices": [
+        "Drinking coffee",
+        "Eating a large breakfast",
+        "Oil pulling",
+        "Checking emails"
+      ],
+      "answer": "Oil pulling"
+    },
+    {
+      "question": "According to TCM, when is the digestive fire strongest?",
+      "choices": [
+        "Breakfast time",
+        "Lunch time",
+        "Dinner time",
+        "Midnight"
+      ],
+      "answer": "Lunch time"
+    },
+    {
+      "question": "Which self-care technique involves applying pressure to specific points on the body?",
+      "choices": [
+        "Acupuncture",
+        "Self-acupressure",
+        "Cupping",
+        "Moxibustion"
+      ],
+      "answer": "Self-acupressure"
+    },
+    {
+      "question": "What is the TCM perspective on late-night eating?",
+      "choices": [
+        "It boosts metabolism",
+        "It improves sleep quality",
+        "It disrupts sleep and digestion",
+        "It has no significant impact"
+      ],
+      "answer": "It disrupts sleep and digestion"
+    },
+    {
+      "question": "Which herbal teas are often recommended in TCM for promoting relaxation and improving sleep quality?",
+      "choices": [
+        "Green tea and black tea",
+        "Chamomile and lavender",
+        "Oolong and pu-erh",
+        "Yerba mate and guayusa"
+      ],
+      "answer": "Chamomile and lavender"
+    },
+    {
+      "question": "What is the primary goal of mindfulness and meditation practices in TCM?",
+      "choices": [
+        "To increase physical strength",
+        "To improve memory",
+        "To calm the mind and reduce stress",
+        "To enhance psychic abilities"
+      ],
+      "answer": "To calm the mind and reduce stress"
+    },
+    {
+      "question": "How does TCM approach nutrition?",
+      "choices": [
+        "By counting calories",
+        "By focusing on macronutrients",
+        "By considering the energetic properties of foods",
+        "By eliminating all carbohydrates"
+      ],
+      "answer": "By considering the energetic properties of foods"
+    },
+    {
+      "question": "Which foods are recommended for individuals with cold constitutions in TCM?",
+      "choices": [
+        "Cucumber and watermelon",
+        "Ginger and cinnamon",
+        "Tofu and soy milk",
+        "Lettuce and celery"
+      ],
+      "answer": "Ginger and cinnamon"
+    },
+    {
+      "question": "What is the TCM approach to addressing health issues?",
+      "choices": [
+        "Treating symptoms only",
+        "Addressing the root causes",
+        "Ignoring minor issues",
+        "Focusing solely on medication"
+      ],
+      "answer": "Addressing the root causes"
+    },
+    {
+      "question": "Which of the following is NOT a benefit associated with regular meditation in TCM?",
+      "choices": [
+        "Reduced inflammation",
+        "Improved immune function",
+        "Better pain management",
+        "Increased muscle mass"
+      ],
+      "answer": "Increased muscle mass"
+    },
+    {
+      "question": "What is the concept of the organ clock in TCM?",
+      "choices": [
+        "A physical clock in each organ",
+        "The lifespan of organs",
+        "Peak times of activity for different organs",
+        "The rate of cellular division in organs"
+      ],
+      "answer": "Peak times of activity for different organs"
+    },
+    {
+      "question": "Which exercise form combines slow movements with deep breathing and meditation?",
+      "choices": [
+        "Pilates",
+        "Zumba",
+        "Qi Gong",
+        "Crossfit"
+      ],
+      "answer": "Qi Gong"
+    },
+    {
+      "question": "What is the TCM perspective on the relationship between lifestyle and health?",
+      "choices": [
+        "Lifestyle has no impact on health",
+        "Lifestyle is the sole determinant of health",
+        "Lifestyle modifications can prevent illness and maintain balance",
+        "Lifestyle only affects mental health, not physical health"
+      ],
+      "answer": "Lifestyle modifications can prevent illness and maintain balance"
+    },
+    {
+      "question": "Which of the following is a recommended evening ritual in TCM?",
+      "choices": [
+        "Vigorous exercise",
+        "Eating a large meal",
+        "Gentle stretching",
+        "Watching action movies"
+      ],
+      "answer": "Gentle stretching"
+    },
+    {
+      "question": "What is the TCM approach to exercise for individuals with chronic pain?",
+      "choices": [
+        "High-impact aerobics",
+        "Weightlifting",
+        "Gentle, flowing movements",
+        "Avoiding all physical activity"
+      ],
+      "answer": "Gentle, flowing movements"
+    },
+    {
+      "question": "According to TCM, what is the best time for the largest meal of the day?",
+      "choices": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Midnight snack"
+      ],
+      "answer": "Lunch"
+    },
+    {
+      "question": "Which of the following is NOT a typical self-care practice in TCM?",
+      "choices": [
+        "Tongue scraping",
+        "Self-massage",
+        "Extreme fasting",
+        "Herbal tea consumption"
+      ],
+      "answer": "Extreme fasting"
+    },
+    {
+      "question": "What is the primary goal of TCM lifestyle modifications?",
+      "choices": [
+        "To increase longevity",
+        "To maintain balance within the body",
+        "To improve athletic performance",
+        "To reduce medical expenses"
+      ],
+      "answer": "To maintain balance within the body"
+    },
+    {
+      "question": "How does TCM view the relationship between body, mind, and spirit?",
+      "choices": [
+        "As separate entities",
+        "As interconnected aspects that require harmony",
+        "As irrelevant to health",
+        "As competing forces"
+      ],
+      "answer": "As interconnected aspects that require harmony"
+    },
+    {
+      "question": "Which of the following is considered a cooling food in TCM?",
+      "choices": [
+        "Ginger",
+        "Cinnamon",
+        "Watermelon",
+        "Chili peppers"
+      ],
+      "answer": "Watermelon"
+    },
+    {
+      "question": "What is the TCM perspective on the use of electronic devices before bedtime?",
+      "choices": [
+        "It improves sleep quality",
+        "It has no effect on sleep",
+        "It should be avoided",
+        "It enhances dream recall"
+      ],
+      "answer": "It should be avoided"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of implementing TCM lifestyle modifications?",
+      "choices": [
+        "Improved overall well-being",
+        "Better management of chronic conditions",
+        "Reduced reliance on medical interventions",
+        "Immediate cure of all ailments"
+      ],
+      "answer": "Immediate cure of all ailments"
+    },
+    {
+      "question": "What is the TCM approach to managing stress?",
+      "choices": [
+        "Ignoring it completely",
+        "Using only pharmaceutical interventions",
+        "Incorporating relaxation techniques and meditation",
+        "Increasing work hours to distract from stress"
+      ],
+      "answer": "Incorporating relaxation techniques and meditation"
+    },
+    {
+      "question": "According to TCM, what is the relationship between diet and individual constitution?",
+      "choices": [
+        "Diet has no impact on constitution",
+        "Everyone should follow the same diet",
+        "Dietary choices should be tailored to individual needs",
+        "Constitution determines food allergies only"
+      ],
+      "answer": "Dietary choices should be tailored to individual needs"
+    },
+    {
+      "question": "What is the TCM perspective on the importance of consistent daily routines?",
+      "choices": [
+        "They are unnecessary",
+        "They are essential for maintaining health",
+        "They only matter for children",
+        "They are harmful to creativity"
+      ],
+      "answer": "They are essential for maintaining health"
+    }
+  ]
+}

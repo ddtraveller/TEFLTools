@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Red and Near-Infrared Light Therapy",
+  "questions": [
+    {
+      "question": "What is the wavelength range typically used in red light therapy?",
+      "choices": [
+        "400-500 nm",
+        "500-600 nm",
+        "620-700 nm",
+        "700-800 nm"
+      ],
+      "answer": "620-700 nm"
+    },
+    {
+      "question": "Which wavelength range is typically used in near-infrared light therapy?",
+      "choices": [
+        "500-600 nm",
+        "600-700 nm",
+        "700-1100 nm",
+        "1100-1500 nm"
+      ],
+      "answer": "700-1100 nm"
+    },
+    {
+      "question": "What is another term for red and near-infrared light therapy?",
+      "choices": [
+        "Photosynthesis",
+        "Photobiomodulation",
+        "Photodynamic therapy",
+        "Photoelectric effect"
+      ],
+      "answer": "Photobiomodulation"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum includes visible light?",
+      "choices": [
+        "380-700 nm",
+        "700-1100 nm",
+        "1100-1500 nm",
+        "1500-2000 nm"
+      ],
+      "answer": "380-700 nm"
+    },
+    {
+      "question": "What is the relationship between wavelength and energy in the electromagnetic spectrum?",
+      "choices": [
+        "Directly proportional",
+        "Inversely proportional",
+        "No relationship",
+        "Exponential relationship"
+      ],
+      "answer": "Inversely proportional"
+    },
+    {
+      "question": "Who was awarded the Nobel Prize in 1903 for treating lupus vulgaris with UV light?",
+      "choices": [
+        "Albert Einstein",
+        "Marie Curie",
+        "Niels Ryberg Finsen",
+        "Louis Pasteur"
+      ],
+      "answer": "Niels Ryberg Finsen"
+    },
+    {
+      "question": "In which decade did Endre Mester discover that low-level laser therapy could stimulate hair growth in mice?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "answer": "1960s"
+    },
+    {
+      "question": "Which organization experimented with LED light for plant growth in space in the 1990s?",
+      "choices": [
+        "ESA",
+        "NASA",
+        "JAXA",
+        "Roscosmos"
+      ],
+      "answer": "NASA"
+    },
+    {
+      "question": "What is heliotherapy?",
+      "choices": [
+        "Treatment using helium gas",
+        "Therapy involving helicopters",
+        "The therapeutic use of sunlight",
+        "A type of heat therapy"
+      ],
+      "answer": "The therapeutic use of sunlight"
+    },
+    {
+      "question": "Which of the following is NOT a common application of red and near-infrared light therapy?",
+      "choices": [
+        "Skin health",
+        "Wound healing",
+        "X-ray imaging",
+        "Pain management"
+      ],
+      "answer": "X-ray imaging"
+    },
+    {
+      "question": "What is a potential application of light therapy in Timor-Leste's agricultural sector?",
+      "choices": [
+        "Increasing crop yields",
+        "Treating musculoskeletal disorders in farmers",
+        "Purifying water",
+        "Generating electricity"
+      ],
+      "answer": "Treating musculoskeletal disorders in farmers"
+    },
+    {
+      "question": "Which of the following is a key advantage of LED technology in light therapy?",
+      "choices": [
+        "Higher power output",
+        "Deeper tissue penetration",
+        "More affordable and accessible",
+        "Ability to produce X-rays"
+      ],
+      "answer": "More affordable and accessible"
+    },
+    {
+      "question": "What is the primary difference between LED and laser devices in light therapy?",
+      "choices": [
+        "Wavelength range",
+        "Power output",
+        "Treatment area size",
+        "Coherence of light"
+      ],
+      "answer": "Coherence of light"
+    },
+    {
+      "question": "Which of the following is NOT a type of electromagnetic radiation?",
+      "choices": [
+        "Radio waves",
+        "Microwaves",
+        "Sound waves",
+        "Gamma rays"
+      ],
+      "answer": "Sound waves"
+    },
+    {
+      "question": "What is the term for the number of waves that pass a fixed point in a given time?",
+      "choices": [
+        "Wavelength",
+        "Amplitude",
+        "Frequency",
+        "Energy"
+      ],
+      "answer": "Frequency"
+    },
+    {
+      "question": "Which ancient civilizations used sunlight for healing purposes?",
+      "choices": [
+        "Mayans and Aztecs",
+        "Chinese and Japanese",
+        "Egyptians, Greeks, and Romans",
+        "Incas and Olmecs"
+      ],
+      "answer": "Egyptians, Greeks, and Romans"
+    },
+    {
+      "question": "What is a potential application of light therapy in addressing mental health in Timor-Leste?",
+      "choices": [
+        "Treating PTSD in post-conflict populations",
+        "Improving agricultural techniques",
+        "Enhancing telecommunication systems",
+        "Purifying drinking water"
+      ],
+      "answer": "Treating PTSD in post-conflict populations"
+    },
+    {
+      "question": "Which of the following is a potential challenge in implementing light therapy in Timor-Leste?",
+      "choices": [
+        "Excessive sunlight exposure",
+        "Limited access to electricity",
+        "Lack of skin pigmentation in the population",
+        "Abundance of LED manufacturing facilities"
+      ],
+      "answer": "Limited access to electricity"
+    },
+    {
+      "question": "What is the primary mechanism by which red and near-infrared light therapy affects cells?",
+      "choices": [
+        "By destroying harmful bacteria",
+        "By stimulating cellular energy production",
+        "By blocking pain receptors",
+        "By inducing genetic mutations"
+      ],
+      "answer": "By stimulating cellular energy production"
+    },
+    {
+      "question": "Which of the following is NOT a typical effect of red and near-infrared light therapy?",
+      "choices": [
+        "Reduced inflammation",
+        "Increased collagen production",
+        "Improved wound healing",
+        "Increased oxidative stress"
+      ],
+      "answer": "Increased oxidative stress"
+    },
+    {
+      "question": "What is the term for the use of light in the treatment of physical or mental illness?",
+      "choices": [
+        "Photosynthesis",
+        "Phototherapy",
+        "Phototropism",
+        "Photoperiodism"
+      ],
+      "answer": "Phototherapy"
+    },
+    {
+      "question": "Which of the following best describes a LED?",
+      "choices": [
+        "A type of incandescent bulb",
+        "A gas-filled tube that produces light",
+        "A semiconductor device that emits light",
+        "A type of fluorescent lamp"
+      ],
+      "answer": "A semiconductor device that emits light"
+    },
+    {
+      "question": "What is the biphasic dose response in the context of light therapy?",
+      "choices": [
+        "The body's response to two different types of light",
+        "The effect of light on both plants and animals",
+        "Different effects at low vs. high light exposure levels",
+        "The response to light therapy over two distinct phases of treatment"
+      ],
+      "answer": "Different effects at low vs. high light exposure levels"
+    },
+    {
+      "question": "Which of the following is a potential application of light therapy in Timor-Leste's healthcare system?",
+      "choices": [
+        "Replacing all traditional medicine practices",
+        "Treating tropical skin conditions",
+        "Eliminating the need for pharmaceutical drugs",
+        "Providing a substitute for surgery in all cases"
+      ],
+      "answer": "Treating tropical skin conditions"
+    },
+    {
+      "question": "What is a key consideration when introducing light therapy in a developing country like Timor-Leste?",
+      "choices": [
+        "Ensuring it completely replaces traditional practices",
+        "Focusing only on its use in urban areas",
+        "Integrating it with existing cultural and traditional healing practices",
+        "Using only the most expensive, high-end devices"
+      ],
+      "answer": "Integrating it with existing cultural and traditional healing practices"
+    },
+    {
+      "question": "Which of the following is NOT a typical application of red and near-infrared light therapy in sports medicine?",
+      "choices": [
+        "Accelerating muscle recovery",
+        "Reducing exercise-induced muscle damage",
+        "Improving cardiovascular endurance",
+        "Treating sports-related injuries"
+      ],
+      "answer": "Improving cardiovascular endurance"
+    },
+    {
+      "question": "What is a potential benefit of using light therapy for wound healing in resource-limited healthcare settings?",
+      "choices": [
+        "It requires no electricity",
+        "It can be administered by untrained personnel",
+        "It may reduce the need for certain medications",
+        "It eliminates the need for proper wound cleaning"
+      ],
+      "answer": "It may reduce the need for certain medications"
+    },
+    {
+      "question": "Which of the following best describes the penetration depth of near-infrared light compared to red light?",
+      "choices": [
+        "Near-infrared light penetrates less deeply",
+        "Near-infrared light penetrates more deeply",
+        "Both penetrate to the same depth",
+        "Penetration depth is unrelated to wavelength"
+      ],
+      "answer": "Near-infrared light penetrates more deeply"
+    },
+    {
+      "question": "What is a potential application of light therapy in dental care?",
+      "choices": [
+        "Whitening teeth",
+        "Promoting healing after oral surgeries",
+        "Straightening misaligned teeth",
+        "Diagnosing cavities"
+      ],
+      "answer": "Promoting healing after oral surgeries"
+    },
+    {
+      "question": "Which of the following is a correct statement about the future of light therapy?",
+      "choices": [
+        "Its use will likely decrease as newer technologies emerge",
+        "It will completely replace all other forms of medical treatment",
+        "Ongoing research may uncover new applications and benefits",
+        "Its effectiveness has been fully explored and no new discoveries are expected"
+      ],
+      "answer": "Ongoing research may uncover new applications and benefits"
+    }
+  ]
+}

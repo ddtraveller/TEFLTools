@@ -1,0 +1,295 @@
+{
+  "title": "Labor Market Effects of UBI in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the two competing effects on labor supply when implementing UBI?",
+      "choices": [
+        "Income effect and substitution effect",
+        "Demand effect and supply effect",
+        "Formal effect and informal effect",
+        "Entrepreneurial effect and employment effect"
+      ],
+      "answer": "Income effect and substitution effect"
+    },
+    {
+      "question": "Which of the following best describes the 'income effect' of UBI on labor supply?",
+      "choices": [
+        "Individuals may choose to work more as their basic needs are met",
+        "Individuals may choose to work less as their basic needs are met",
+        "Employers may offer higher wages to attract workers",
+        "The demand for labor increases in the formal sector"
+      ],
+      "answer": "Individuals may choose to work less as their basic needs are met"
+    },
+    {
+      "question": "What is the 'substitution effect' of UBI on labor supply?",
+      "choices": [
+        "Workers substitute formal employment for informal employment",
+        "Employers substitute capital for labor",
+        "Work becomes more attractive as individuals keep more of their earnings",
+        "UBI substitutes for other social welfare programs"
+      ],
+      "answer": "Work becomes more attractive as individuals keep more of their earnings"
+    },
+    {
+      "question": "How might UBI affect labor demand in Timor-Leste?",
+      "choices": [
+        "It would definitely decrease labor demand",
+        "It would have no effect on labor demand",
+        "It might increase demand due to increased consumer spending",
+        "It would only affect labor demand in the public sector"
+      ],
+      "answer": "It might increase demand due to increased consumer spending"
+    },
+    {
+      "question": "What characterizes Timor-Leste's current labor market?",
+      "choices": [
+        "A large formal sector with minimal informal employment",
+        "Equal distribution between formal and informal sectors",
+        "A large informal sector and limited formal private sector jobs",
+        "Predominantly public sector employment"
+      ],
+      "answer": "A large informal sector and limited formal private sector jobs"
+    },
+    {
+      "question": "How might UBI affect the transition between formal and informal employment in Timor-Leste?",
+      "choices": [
+        "It would have no effect on sector transitions",
+        "It might encourage transitions from informal to formal employment",
+        "It would definitely cause all informal workers to seek formal employment",
+        "It would force all formal workers into the informal sector"
+      ],
+      "answer": "It might encourage transitions from informal to formal employment"
+    },
+    {
+      "question": "What potential effect could UBI have on entrepreneurship in Timor-Leste?",
+      "choices": [
+        "It would discourage all forms of entrepreneurship",
+        "It might encourage more risk-taking and business creation",
+        "It would only support large-scale businesses",
+        "It would have no effect on entrepreneurial activities"
+      ],
+      "answer": "It might encourage more risk-taking and business creation"
+    },
+    {
+      "question": "How might UBI impact informal microenterprises in Timor-Leste?",
+      "choices": [
+        "It would force all microenterprises to close",
+        "It would have no effect on microenterprises",
+        "It could provide capital for expansion or formalization",
+        "It would only benefit large corporations"
+      ],
+      "answer": "It could provide capital for expansion or formalization"
+    },
+    {
+      "question": "What is a potential challenge of implementing UBI in Timor-Leste's labor market?",
+      "choices": [
+        "It might lead to a significant increase in unemployment",
+        "It could cause rapid inflation in the formal sector",
+        "It might initially reduce labor supply in low-wage jobs",
+        "It would eliminate all informal sector activities"
+      ],
+      "answer": "It might initially reduce labor supply in low-wage jobs"
+    },
+    {
+      "question": "How might UBI affect wage negotiations in Timor-Leste?",
+      "choices": [
+        "It would have no effect on wage negotiations",
+        "Employers might offer lower wages, knowing workers have a basic income",
+        "It would eliminate the need for wage negotiations",
+        "It would only affect public sector wage negotiations"
+      ],
+      "answer": "Employers might offer lower wages, knowing workers have a basic income"
+    },
+    {
+      "question": "What potential effect could UBI have on labor migration in Timor-Leste?",
+      "choices": [
+        "It would have no effect on migration patterns",
+        "It might reduce rural-to-urban migration",
+        "It would force all workers to migrate to urban areas",
+        "It would only affect international migration"
+      ],
+      "answer": "It might reduce rural-to-urban migration"
+    },
+    {
+      "question": "How might UBI impact seasonal employment in Timor-Leste's agricultural sector?",
+      "choices": [
+        "It would eliminate all seasonal employment",
+        "It would have no effect on seasonal work",
+        "It might provide income stability during off-seasons",
+        "It would force all agricultural workers into year-round employment"
+      ],
+      "answer": "It might provide income stability during off-seasons"
+    },
+    {
+      "question": "What effect might UBI have on youth unemployment in Timor-Leste?",
+      "choices": [
+        "It would eliminate youth unemployment entirely",
+        "It might enable young people to pursue education or training",
+        "It would force all young people into immediate employment",
+        "It would have no effect on youth unemployment"
+      ],
+      "answer": "It might enable young people to pursue education or training"
+    },
+    {
+      "question": "How could UBI affect gender dynamics in Timor-Leste's labor market?",
+      "choices": [
+        "It would have no effect on gender dynamics",
+        "It might increase women's labor force participation",
+        "It would force all women out of the labor market",
+        "It would only benefit male workers"
+      ],
+      "answer": "It might increase women's labor force participation"
+    },
+    {
+      "question": "What potential effect could UBI have on working conditions in Timor-Leste?",
+      "choices": [
+        "It would have no effect on working conditions",
+        "It might improve conditions as workers have more bargaining power",
+        "It would worsen conditions in all sectors",
+        "It would only affect working conditions in the public sector"
+      ],
+      "answer": "It might improve conditions as workers have more bargaining power"
+    },
+    {
+      "question": "How might UBI impact the gig economy in Timor-Leste?",
+      "choices": [
+        "It would eliminate the gig economy entirely",
+        "It might enable more people to engage in gig work",
+        "It would force all workers into traditional employment",
+        "It would have no effect on the gig economy"
+      ],
+      "answer": "It might enable more people to engage in gig work"
+    },
+    {
+      "question": "What effect could UBI have on labor productivity in Timor-Leste?",
+      "choices": [
+        "It would definitely decrease productivity in all sectors",
+        "It might increase productivity as workers are less stressed",
+        "It would have no effect on productivity",
+        "It would only affect productivity in the informal sector"
+      ],
+      "answer": "It might increase productivity as workers are less stressed"
+    },
+    {
+      "question": "How might UBI affect the bargaining power of workers in Timor-Leste?",
+      "choices": [
+        "It would eliminate the need for worker bargaining",
+        "It might increase workers' bargaining power",
+        "It would decrease workers' bargaining power in all sectors",
+        "It would only affect bargaining power in the public sector"
+      ],
+      "answer": "It might increase workers' bargaining power"
+    },
+    {
+      "question": "What potential effect could UBI have on skills development in Timor-Leste?",
+      "choices": [
+        "It would discourage all forms of skills development",
+        "It might enable workers to invest in their own skills",
+        "It would only support skills development in the formal sector",
+        "It would have no effect on skills development"
+      ],
+      "answer": "It might enable workers to invest in their own skills"
+    },
+    {
+      "question": "How might UBI impact labor force participation rates in Timor-Leste?",
+      "choices": [
+        "It would definitely increase participation rates across all demographics",
+        "It would definitely decrease participation rates across all demographics",
+        "It might have varied effects on different demographic groups",
+        "It would have no effect on labor force participation rates"
+      ],
+      "answer": "It might have varied effects on different demographic groups"
+    },
+    {
+      "question": "What potential effect could UBI have on job satisfaction in Timor-Leste?",
+      "choices": [
+        "It would decrease job satisfaction in all sectors",
+        "It might increase job satisfaction as workers have more choice",
+        "It would have no effect on job satisfaction",
+        "It would only affect job satisfaction in the public sector"
+      ],
+      "answer": "It might increase job satisfaction as workers have more choice"
+    },
+    {
+      "question": "How might UBI affect the transition from education to employment in Timor-Leste?",
+      "choices": [
+        "It would force all students to immediately enter the workforce",
+        "It might allow for a more gradual and considered transition",
+        "It would eliminate the need for higher education",
+        "It would have no effect on the education-to-employment transition"
+      ],
+      "answer": "It might allow for a more gradual and considered transition"
+    },
+    {
+      "question": "What potential effect could UBI have on workplace innovation in Timor-Leste?",
+      "choices": [
+        "It would discourage all forms of workplace innovation",
+        "It might encourage innovation as workers feel more secure",
+        "It would only support innovation in large corporations",
+        "It would have no effect on workplace innovation"
+      ],
+      "answer": "It might encourage innovation as workers feel more secure"
+    },
+    {
+      "question": "How might UBI impact labor market flexibility in Timor-Leste?",
+      "choices": [
+        "It would make the labor market completely rigid",
+        "It might increase flexibility as workers have a safety net",
+        "It would only affect flexibility in the informal sector",
+        "It would have no effect on labor market flexibility"
+      ],
+      "answer": "It might increase flexibility as workers have a safety net"
+    },
+    {
+      "question": "What potential effect could UBI have on income inequality in Timor-Leste's labor market?",
+      "choices": [
+        "It would eliminate all income inequality",
+        "It might reduce income inequality to some extent",
+        "It would definitely increase income inequality",
+        "It would have no effect on income inequality"
+      ],
+      "answer": "It might reduce income inequality to some extent"
+    },
+    {
+      "question": "How might UBI affect labor unions in Timor-Leste?",
+      "choices": [
+        "It would eliminate the need for labor unions",
+        "It might change the focus of union activities",
+        "It would strengthen all labor unions equally",
+        "It would have no effect on labor unions"
+      ],
+      "answer": "It might change the focus of union activities"
+    },
+    {
+      "question": "What potential effect could UBI have on job security in Timor-Leste?",
+      "choices": [
+        "It would eliminate all job security concerns",
+        "It might reduce anxiety about job loss",
+        "It would increase job insecurity in all sectors",
+        "It would only affect job security in the public sector"
+      ],
+      "answer": "It might reduce anxiety about job loss"
+    },
+    {
+      "question": "How might UBI impact labor market entry for disadvantaged groups in Timor-Leste?",
+      "choices": [
+        "It would create barriers for all disadvantaged groups",
+        "It might facilitate easier entry into the labor market",
+        "It would force all disadvantaged groups into informal work",
+        "It would have no effect on labor market entry for these groups"
+      ],
+      "answer": "It might facilitate easier entry into the labor market"
+    },
+    {
+      "question": "What potential effect could UBI have on occupational mobility in Timor-Leste?",
+      "choices": [
+        "It would eliminate all occupational mobility",
+        "It might increase occupational mobility",
+        "It would force everyone to change occupations regularly",
+        "It would have no effect on occupational mobility"
+      ],
+      "answer": "It might increase occupational mobility"
+    }
+  ]
+}

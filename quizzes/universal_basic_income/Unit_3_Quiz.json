@@ -1,0 +1,305 @@
+{
+  "title": "Timor-Leste's Current Social Welfare System",
+  "questions": [
+    {
+      "question": "What is the name of the conditional cash transfer program in Timor-Leste that targets poor households with children?",
+      "choices": [
+        "Mother's Purse",
+        "Bolsa da Mãe",
+        "Child Benefit Program",
+        "Family Support Scheme"
+      ],
+      "answer": "Bolsa da Mãe"
+    },
+    {
+      "question": "What is the monthly payment amount per child in the Bolsa da Mãe program?",
+      "choices": [
+        "$3",
+        "$5",
+        "$10",
+        "$15"
+      ],
+      "answer": "$5"
+    },
+    {
+      "question": "How many children per household can receive benefits under the Bolsa da Mãe program?",
+      "choices": [
+        "Up to 2",
+        "Up to 3",
+        "Up to 4",
+        "No limit"
+      ],
+      "answer": "Up to 3"
+    },
+    {
+      "question": "Approximately how many households were covered by the Bolsa da Mãe program as of 2021?",
+      "choices": [
+        "25,000",
+        "40,000",
+        "55,000",
+        "70,000"
+      ],
+      "answer": "55,000"
+    },
+    {
+      "question": "What is the eligibility age for the Old Age Pension in Timor-Leste?",
+      "choices": [
+        "55 years and older",
+        "60 years and older",
+        "65 years and older",
+        "70 years and older"
+      ],
+      "answer": "60 years and older"
+    },
+    {
+      "question": "What is the monthly payment amount for the Old Age and Disability Pension?",
+      "choices": [
+        "$20",
+        "$25",
+        "$30",
+        "$35"
+      ],
+      "answer": "$30"
+    },
+    {
+      "question": "Approximately how many beneficiaries does the Old Age and Disability Pension reach?",
+      "choices": [
+        "50,000",
+        "75,000",
+        "95,000",
+        "120,000"
+      ],
+      "answer": "95,000"
+    },
+    {
+      "question": "What is the primary purpose of the Veterans' Pension in Timor-Leste?",
+      "choices": [
+        "To support all elderly citizens",
+        "To provide for disabled individuals",
+        "To support veterans of the independence struggle and their families",
+        "To assist unemployed adults"
+      ],
+      "answer": "To support veterans of the independence struggle and their families"
+    },
+    {
+      "question": "What is the range of monthly payments for the Veterans' Pension?",
+      "choices": [
+        "$100 to $300",
+        "$200 to $400",
+        "$276 to $575",
+        "$500 to $1000"
+      ],
+      "answer": "$276 to $575"
+    },
+    {
+      "question": "Approximately how many beneficiaries does the Veterans' Pension cover?",
+      "choices": [
+        "10,000",
+        "20,000",
+        "30,000",
+        "40,000"
+      ],
+      "answer": "30,000"
+    },
+    {
+      "question": "What percentage of Bolsa da Mãe beneficiaries are women?",
+      "choices": [
+        "60%",
+        "70%",
+        "80%",
+        "90%"
+      ],
+      "answer": "80%"
+    },
+    {
+      "question": "What was the overall poverty rate reduction in Timor-Leste between 2007 and 2014?",
+      "choices": [
+        "5.6%",
+        "8.6%",
+        "10.6%",
+        "12.6%"
+      ],
+      "answer": "8.6%"
+    },
+    {
+      "question": "What percentage reduction in extreme poverty was observed among Bolsa da Mãe beneficiaries?",
+      "choices": [
+        "5%",
+        "9%",
+        "13%",
+        "17%"
+      ],
+      "answer": "9%"
+    },
+    {
+      "question": "What was the increase in school enrollment for children benefiting from the Bolsa da Mãe program?",
+      "choices": [
+        "8%",
+        "13%",
+        "18%",
+        "23%"
+      ],
+      "answer": "13%"
+    },
+    {
+      "question": "What percentage reduction in poverty was observed among elderly households receiving the Old Age Pension?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "What is the difference in social protection coverage rates between urban and rural areas in Timor-Leste?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "10%"
+    },
+    {
+      "question": "Which region of Timor-Leste has the lowest coverage of social protection programs?",
+      "choices": [
+        "Dili",
+        "Baucau",
+        "Oecusse",
+        "Viqueque"
+      ],
+      "answer": "Oecusse"
+    },
+    {
+      "question": "What is the estimated exclusion error rate (eligible families not receiving benefits) for the Bolsa da Mãe program?",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "What is the estimated inclusion error rate (non-eligible families receiving benefits) for the Bolsa da Mãe program?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "What percentage of the government budget is allocated to social protection spending in Timor-Leste?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "What is a major challenge in verifying eligibility for social protection programs in Timor-Leste?",
+      "choices": [
+        "Lack of birth certificates",
+        "High mobility of population",
+        "Verifying household income and composition",
+        "Language barriers"
+      ],
+      "answer": "Verifying household income and composition"
+    },
+    {
+      "question": "Which of the following is NOT a major challenge in implementing social protection programs in Timor-Leste?",
+      "choices": [
+        "Limited administrative capacity",
+        "Poor infrastructure in rural areas",
+        "Financial constraints",
+        "Overpopulation"
+      ],
+      "answer": "Overpopulation"
+    },
+    {
+      "question": "What is the primary source of funding for Timor-Leste's social protection programs?",
+      "choices": [
+        "International aid",
+        "Income tax revenue",
+        "Oil and gas revenues",
+        "Agricultural exports"
+      ],
+      "answer": "Oil and gas revenues"
+    },
+    {
+      "question": "Which social protection program in Timor-Leste has conditions attached to receiving benefits?",
+      "choices": [
+        "Old Age Pension",
+        "Veterans' Pension",
+        "Bolsa da Mãe",
+        "Disability Pension"
+      ],
+      "answer": "Bolsa da Mãe"
+    },
+    {
+      "question": "What percentage of Veterans' Pension beneficiaries are men?",
+      "choices": [
+        "75%",
+        "85%",
+        "90%",
+        "95%"
+      ],
+      "answer": "95%"
+    },
+    {
+      "question": "Which district in Timor-Leste was used as a case study for the Bolsa da Mãe program implementation?",
+      "choices": [
+        "Dili",
+        "Baucau",
+        "Ermera",
+        "Lautem"
+      ],
+      "answer": "Ermera"
+    },
+    {
+      "question": "What was the increase in school enrollment among beneficiary children in the Ermera district case study?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "What is the ratio of social workers to households in the Ermera district case study?",
+      "choices": [
+        "1 per 500 households",
+        "1 per 1,000 households",
+        "1 per 1,500 households",
+        "1 per 2,000 households"
+      ],
+      "answer": "1 per 1,500 households"
+    },
+    {
+      "question": "What innovative partnership was developed in Ermera to assist with benefit distribution?",
+      "choices": [
+        "Partnership with local schools",
+        "Partnership with coffee cooperatives",
+        "Partnership with religious organizations",
+        "Partnership with mobile phone companies"
+      ],
+      "answer": "Partnership with coffee cooperatives"
+    },
+    {
+      "question": "What is a major challenge in implementing the Bolsa da Mãe program in Ermera?",
+      "choices": [
+        "Lack of eligible families",
+        "Oversupply of social workers",
+        "High illiteracy rates among beneficiaries",
+        "Excessive urbanization"
+      ],
+      "answer": "High illiteracy rates among beneficiaries"
+    }
+  ]
+}

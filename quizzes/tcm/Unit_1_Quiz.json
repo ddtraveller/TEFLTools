@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to TCM and Pain Management",
+  "questions": [
+    {
+      "question": "What are the two complementary opposites that form the core of TCM philosophy?",
+      "choices": [
+        "Hot and Cold",
+        "Yin and Yang",
+        "Light and Dark",
+        "Positive and Negative"
+      ],
+      "answer": "Yin and Yang"
+    },
+    {
+      "question": "Which of the following is NOT one of the Five Elements in TCM?",
+      "choices": [
+        "Wood",
+        "Fire",
+        "Air",
+        "Metal"
+      ],
+      "answer": "Air"
+    },
+    {
+      "question": "What is Qi in Traditional Chinese Medicine?",
+      "choices": [
+        "A type of herbal medicine",
+        "The vital energy that flows through the body",
+        "A diagnostic technique",
+        "A form of meditation"
+      ],
+      "answer": "The vital energy that flows through the body"
+    },
+    {
+      "question": "Which of the following is a primary cause of pain according to TCM?",
+      "choices": [
+        "Qi stagnation",
+        "Excess happiness",
+        "Overhydration",
+        "Excessive sleep"
+      ],
+      "answer": "Qi stagnation"
+    },
+    {
+      "question": "What are the pathways through which Qi flows in the body called?",
+      "choices": [
+        "Arteries",
+        "Veins",
+        "Meridians",
+        "Capillaries"
+      ],
+      "answer": "Meridians"
+    },
+    {
+      "question": "In TCM, what is the relationship between Qi and Blood?",
+      "choices": [
+        "They are unrelated concepts",
+        "Qi controls Blood; Blood nourishes Qi",
+        "Blood controls Qi; Qi nourishes Blood",
+        "They are the same thing"
+      ],
+      "answer": "Qi controls Blood; Blood nourishes Qi"
+    },
+    {
+      "question": "Which element is associated with the liver in the Five Elements theory?",
+      "choices": [
+        "Wood",
+        "Fire",
+        "Earth",
+        "Metal"
+      ],
+      "answer": "Wood"
+    },
+    {
+      "question": "What type of pain is typically associated with Blood stasis in TCM?",
+      "choices": [
+        "Moving, dull pain",
+        "Fixed, sharp pain",
+        "Burning sensation",
+        "Tingling pain"
+      ],
+      "answer": "Fixed, sharp pain"
+    },
+    {
+      "question": "Which external factor is said to cause contraction and stiffness in TCM?",
+      "choices": [
+        "Wind",
+        "Heat",
+        "Cold",
+        "Dampness"
+      ],
+      "answer": "Cold"
+    },
+    {
+      "question": "What is the primary aim of acupuncture in TCM?",
+      "choices": [
+        "To increase blood pressure",
+        "To regulate the flow of Qi and blood",
+        "To induce sleep",
+        "To reduce appetite"
+      ],
+      "answer": "To regulate the flow of Qi and blood"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic associated with Yang?",
+      "choices": [
+        "Active",
+        "Warm",
+        "Dark",
+        "External"
+      ],
+      "answer": "Dark"
+    },
+    {
+      "question": "In TCM, what is believed to happen when there is an imbalance between Yin and Yang?",
+      "choices": [
+        "Improved health",
+        "Increased longevity",
+        "Illness and pain",
+        "Enhanced immune function"
+      ],
+      "answer": "Illness and pain"
+    },
+    {
+      "question": "Which emotion is associated with the Wood element in TCM?",
+      "choices": [
+        "Joy",
+        "Anger",
+        "Worry",
+        "Fear"
+      ],
+      "answer": "Anger"
+    },
+    {
+      "question": "What is the TCM concept of blood stasis?",
+      "choices": [
+        "Normal blood circulation",
+        "Increased blood production",
+        "Impeded blood flow",
+        "Blood loss"
+      ],
+      "answer": "Impeded blood flow"
+    },
+    {
+      "question": "Which of the following is a key principle in TCM's approach to pain management?",
+      "choices": [
+        "Focusing solely on symptoms",
+        "Ignoring the patient's emotional state",
+        "Using only pharmaceutical interventions",
+        "Identifying underlying imbalances"
+      ],
+      "answer": "Identifying underlying imbalances"
+    },
+    {
+      "question": "What is the significance of the Five Elements interacting through promotion and control cycles?",
+      "choices": [
+        "It determines a person's personality",
+        "It creates a complex system of relationships within the body",
+        "It predicts future health issues",
+        "It has no significance in TCM"
+      ],
+      "answer": "It creates a complex system of relationships within the body"
+    },
+    {
+      "question": "How does TCM view the concept of blood compared to Western medicine?",
+      "choices": [
+        "As only a physical substance",
+        "As unimportant in health",
+        "As a vital essence closely related to Qi",
+        "As separate from the body's energy systems"
+      ],
+      "answer": "As a vital essence closely related to Qi"
+    },
+    {
+      "question": "Which TCM therapy aims to stimulate specific points along the meridians?",
+      "choices": [
+        "Herbal medicine",
+        "Acupuncture",
+        "Dietary therapy",
+        "Qigong"
+      ],
+      "answer": "Acupuncture"
+    },
+    {
+      "question": "What is a key characteristic of TCM's approach to treatment?",
+      "choices": [
+        "One-size-fits-all treatments",
+        "Focus on short-term symptom relief",
+        "Individualized treatment plans",
+        "Exclusive use of surgical interventions"
+      ],
+      "answer": "Individualized treatment plans"
+    },
+    {
+      "question": "In TCM, what is believed to cause Qi stagnation?",
+      "choices": [
+        "Excessive exercise",
+        "Emotional stress or physical trauma",
+        "Overeating",
+        "Too much sleep"
+      ],
+      "answer": "Emotional stress or physical trauma"
+    },
+    {
+      "question": "Which element is associated with the heart in the Five Elements theory?",
+      "choices": [
+        "Wood",
+        "Fire",
+        "Earth",
+        "Water"
+      ],
+      "answer": "Fire"
+    },
+    {
+      "question": "What type of pain does TCM associate with Qi stagnation?",
+      "choices": [
+        "Sharp, localized pain",
+        "Burning sensation",
+        "Distending pain that may move around",
+        "Constant, severe pain"
+      ],
+      "answer": "Distending pain that may move around"
+    },
+    {
+      "question": "How does TCM view the relationship between the mind and body in pain management?",
+      "choices": [
+        "As separate entities",
+        "As interconnected systems",
+        "As irrelevant to each other",
+        "As opposing forces"
+      ],
+      "answer": "As interconnected systems"
+    },
+    {
+      "question": "Which of the following is NOT typically part of a TCM treatment plan for pain?",
+      "choices": [
+        "Herbal remedies",
+        "Acupuncture",
+        "Dietary recommendations",
+        "Surgery"
+      ],
+      "answer": "Surgery"
+    },
+    {
+      "question": "What is the primary goal of TCM in treating pain?",
+      "choices": [
+        "To mask symptoms",
+        "To restore balance and harmony in the body",
+        "To provide temporary relief",
+        "To replace Western medical treatments"
+      ],
+      "answer": "To restore balance and harmony in the body"
+    },
+    {
+      "question": "Which of the following is a characteristic of Yin in TCM?",
+      "choices": [
+        "Active",
+        "Warm",
+        "Light",
+        "Cool"
+      ],
+      "answer": "Cool"
+    },
+    {
+      "question": "What does TCM consider when developing a pain management plan?",
+      "choices": [
+        "Only the location of pain",
+        "Only the intensity of pain",
+        "The patient's overall constitution, emotional state, and environmental factors",
+        "Only the duration of pain"
+      ],
+      "answer": "The patient's overall constitution, emotional state, and environmental factors"
+    },
+    {
+      "question": "In TCM, what is believed to happen when the flow of Qi is disrupted?",
+      "choices": [
+        "Improved health",
+        "Increased energy",
+        "Pain and illness",
+        "Enhanced circulation"
+      ],
+      "answer": "Pain and illness"
+    },
+    {
+      "question": "Which element is associated with the lungs in the Five Elements theory?",
+      "choices": [
+        "Wood",
+        "Fire",
+        "Earth",
+        "Metal"
+      ],
+      "answer": "Metal"
+    },
+    {
+      "question": "How does TCM view the use of its techniques alongside Western medicine?",
+      "choices": [
+        "As incompatible",
+        "As a replacement for Western medicine",
+        "As potentially complementary",
+        "As irrelevant to modern healthcare"
+      ],
+      "answer": "As potentially complementary"
+    }
+  ]
+}

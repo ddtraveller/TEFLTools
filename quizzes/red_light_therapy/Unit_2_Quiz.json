@@ -1,0 +1,305 @@
+{
+  "title": "Biological Mechanisms of Light Therapy",
+  "questions": [
+    {
+      "question": "What is the primary cellular organelle targeted by red and near-infrared light therapy?",
+      "choices": [
+        "Nucleus",
+        "Endoplasmic reticulum",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which enzyme in the mitochondrial electron transport chain acts as the primary photoacceptor for light therapy?",
+      "choices": [
+        "ATP synthase",
+        "NADH dehydrogenase",
+        "Cytochrome b-c1 complex",
+        "Cytochrome c oxidase"
+      ],
+      "answer": "Cytochrome c oxidase"
+    },
+    {
+      "question": "What is the primary energy currency produced by mitochondria that is increased during light therapy?",
+      "choices": [
+        "ADP",
+        "ATP",
+        "GTP",
+        "NADH"
+      ],
+      "answer": "ATP"
+    },
+    {
+      "question": "Which wavelength range is typically used for red light therapy?",
+      "choices": [
+        "400-450 nm",
+        "500-550 nm",
+        "630-660 nm",
+        "900-950 nm"
+      ],
+      "answer": "630-660 nm"
+    },
+    {
+      "question": "What is the term for the use of light to stimulate, heal, and regenerate tissue?",
+      "choices": [
+        "Photosynthesis",
+        "Photobiomodulation",
+        "Photodynamic therapy",
+        "Photoperiodism"
+      ],
+      "answer": "Photobiomodulation"
+    },
+    {
+      "question": "How does light therapy initially affect the production of Reactive Oxygen Species (ROS)?",
+      "choices": [
+        "It immediately decreases ROS production",
+        "It has no effect on ROS production",
+        "It causes a temporary increase in ROS production",
+        "It permanently increases ROS production"
+      ],
+      "answer": "It causes a temporary increase in ROS production"
+    },
+    {
+      "question": "What is the effect of light therapy on Nitric Oxide (NO) bound to cytochrome c oxidase?",
+      "choices": [
+        "It increases NO production",
+        "It has no effect on NO",
+        "It dissociates NO from cytochrome c oxidase",
+        "It permanently binds NO to cytochrome c oxidase"
+      ],
+      "answer": "It dissociates NO from cytochrome c oxidase"
+    },
+    {
+      "question": "Which of the following is NOT a direct effect of light therapy on cellular function?",
+      "choices": [
+        "Increased ATP production",
+        "Enhanced proton gradient in mitochondria",
+        "Increased DNA replication",
+        "Improved oxygen consumption"
+      ],
+      "answer": "Increased DNA replication"
+    },
+    {
+      "question": "What is the term for the process by which a mild stressor (like temporary ROS increase) triggers protective mechanisms in cells?",
+      "choices": [
+        "Apoptosis",
+        "Necrosis",
+        "Hormesis",
+        "Autophagy"
+      ],
+      "answer": "Hormesis"
+    },
+    {
+      "question": "How does light therapy affect pro-inflammatory cytokines?",
+      "choices": [
+        "It increases their production",
+        "It has no effect on them",
+        "It reduces their production",
+        "It changes their structure"
+      ],
+      "answer": "It reduces their production"
+    },
+    {
+      "question": "Which of the following transcription factors is activated by light therapy and regulates immune response and cell survival?",
+      "choices": [
+        "AP-1",
+        "NF-κB",
+        "HIF-1",
+        "p53"
+      ],
+      "answer": "NF-κB"
+    },
+    {
+      "question": "What type of proteins, involved in cellular stress response, are upregulated by light therapy?",
+      "choices": [
+        "Histones",
+        "Hemoglobins",
+        "Heat shock proteins",
+        "Hormones"
+      ],
+      "answer": "Heat shock proteins"
+    },
+    {
+      "question": "Which growth factor, important for blood vessel formation, is increased by light therapy?",
+      "choices": [
+        "IGF-1",
+        "TGF-β",
+        "EGF",
+        "VEGF"
+      ],
+      "answer": "VEGF"
+    },
+    {
+      "question": "What is retrograde mitochondrial signaling in the context of light therapy?",
+      "choices": [
+        "Signaling from the nucleus to mitochondria",
+        "Signaling between different mitochondria",
+        "Signaling from mitochondria to the nucleus",
+        "Signaling within the mitochondrial matrix"
+      ],
+      "answer": "Signaling from mitochondria to the nucleus"
+    },
+    {
+      "question": "Which of the following is a potential application of light therapy in Timor-Leste?",
+      "choices": [
+        "Treating sunburn",
+        "Enhancing photosynthesis in plants",
+        "Supporting recovery from malnutrition",
+        "Purifying drinking water"
+      ],
+      "answer": "Supporting recovery from malnutrition"
+    },
+    {
+      "question": "How might light therapy potentially benefit patients with malaria?",
+      "choices": [
+        "By directly killing the malaria parasite",
+        "By enhancing mitochondrial function in infected cells",
+        "By increasing mosquito resistance",
+        "By altering the genetic code of red blood cells"
+      ],
+      "answer": "By enhancing mitochondrial function in infected cells"
+    },
+    {
+      "question": "What is a potential challenge in implementing light therapy in Timor-Leste?",
+      "choices": [
+        "Excessive sunlight exposure",
+        "Lack of electricity in rural areas",
+        "Cultural resistance to Western medicine",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which cellular process is NOT directly enhanced by light therapy?",
+      "choices": [
+        "ATP production",
+        "Protein synthesis",
+        "Cell division",
+        "Antioxidant response"
+      ],
+      "answer": "Cell division"
+    },
+    {
+      "question": "What is the primary mechanism by which light therapy reduces inflammation?",
+      "choices": [
+        "By increasing pro-inflammatory cytokines",
+        "By decreasing blood flow",
+        "By modulating NO levels and reducing pro-inflammatory mediators",
+        "By inducing fever"
+      ],
+      "answer": "By modulating NO levels and reducing pro-inflammatory mediators"
+    },
+    {
+      "question": "How does light therapy affect collagen production?",
+      "choices": [
+        "It has no effect on collagen production",
+        "It decreases collagen production",
+        "It increases collagen production",
+        "It alters the structure of existing collagen"
+      ],
+      "answer": "It increases collagen production"
+    },
+    {
+      "question": "Which of the following is NOT a typical wavelength range used in light therapy?",
+      "choices": [
+        "630-660 nm (red light)",
+        "810-850 nm (near-infrared light)",
+        "350-400 nm (ultraviolet light)",
+        "980-1064 nm (infrared light)"
+      ],
+      "answer": "350-400 nm (ultraviolet light)"
+    },
+    {
+      "question": "What is the effect of light therapy on oxygen consumption in cells?",
+      "choices": [
+        "It decreases oxygen consumption",
+        "It has no effect on oxygen consumption",
+        "It increases oxygen consumption",
+        "It alternates between increasing and decreasing oxygen consumption"
+      ],
+      "answer": "It increases oxygen consumption"
+    },
+    {
+      "question": "How might light therapy potentially benefit wound healing?",
+      "choices": [
+        "By decreasing blood flow to the wound",
+        "By increasing inflammation",
+        "By enhancing collagen production and modulating inflammation",
+        "By creating a protective barrier over the wound"
+      ],
+      "answer": "By enhancing collagen production and modulating inflammation"
+    },
+    {
+      "question": "What is the primary difference between red light and near-infrared light in terms of tissue penetration?",
+      "choices": [
+        "Red light penetrates deeper than near-infrared light",
+        "Near-infrared light penetrates deeper than red light",
+        "Both penetrate to the same depth",
+        "Neither can penetrate human tissue"
+      ],
+      "answer": "Near-infrared light penetrates deeper than red light"
+    },
+    {
+      "question": "Which of the following is a potential application of light therapy in treating tuberculosis?",
+      "choices": [
+        "Directly killing the tuberculosis bacteria",
+        "Enhancing the effectiveness of antibiotics",
+        "Supporting immune function and reducing inflammation",
+        "Preventing the spread of tuberculosis through air"
+      ],
+      "answer": "Supporting immune function and reducing inflammation"
+    },
+    {
+      "question": "How does light therapy affect the electron transport chain in mitochondria?",
+      "choices": [
+        "It slows down electron transport",
+        "It has no effect on electron transport",
+        "It increases the rate of electron transport",
+        "It reverses the direction of electron flow"
+      ],
+      "answer": "It increases the rate of electron transport"
+    },
+    {
+      "question": "What is the potential role of light therapy in addressing oxidative stress?",
+      "choices": [
+        "It increases oxidative stress permanently",
+        "It has no effect on oxidative stress",
+        "It reduces oxidative stress by enhancing antioxidant responses",
+        "It eliminates all free radicals in the body"
+      ],
+      "answer": "It reduces oxidative stress by enhancing antioxidant responses"
+    },
+    {
+      "question": "How might light therapy be integrated into traditional Timorese healing practices?",
+      "choices": [
+        "By replacing all traditional treatments",
+        "As a complementary therapy alongside traditional methods",
+        "By using it only in hospitals",
+        "It cannot be integrated with traditional practices"
+      ],
+      "answer": "As a complementary therapy alongside traditional methods"
+    },
+    {
+      "question": "What consideration is important when designing light therapy devices for use in Timor-Leste?",
+      "choices": [
+        "Making them as complex as possible",
+        "Ensuring they only work with high-voltage electricity",
+        "Designing them to be portable and durable for rural use",
+        "Manufacturing them with expensive, rare materials"
+      ],
+      "answer": "Designing them to be portable and durable for rural use"
+    },
+    {
+      "question": "How does light therapy potentially affect the immune system?",
+      "choices": [
+        "It suppresses the immune system completely",
+        "It has no effect on the immune system",
+        "It can modulate immune function and enhance certain immune responses",
+        "It only affects the innate immune system"
+      ],
+      "answer": "It can modulate immune function and enhance certain immune responses"
+    }
+  ]
+}

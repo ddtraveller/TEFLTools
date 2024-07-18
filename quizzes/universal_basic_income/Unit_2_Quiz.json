@@ -1,0 +1,305 @@
+{
+  "title": "Economic Theory and UBI",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a key economic theory supporting UBI?",
+      "choices": [
+        "Reduction of poverty and inequality",
+        "Increased economic security and risk-taking",
+        "Simplification of welfare systems",
+        "Guaranteed full employment"
+      ],
+      "answer": "Guaranteed full employment"
+    },
+    {
+      "question": "What is a potential critique of UBI from an economic perspective?",
+      "choices": [
+        "Increased labor supply",
+        "Deflationary pressures",
+        "Potential reduction in labor supply",
+        "Increased complexity of welfare systems"
+      ],
+      "answer": "Potential reduction in labor supply"
+    },
+    {
+      "question": "How might UBI affect equity in society?",
+      "choices": [
+        "By providing unequal benefits to different income groups",
+        "By ensuring equal treatment of all citizens",
+        "By increasing the stigma associated with welfare",
+        "By creating more complex eligibility criteria"
+      ],
+      "answer": "By ensuring equal treatment of all citizens"
+    },
+    {
+      "question": "What is the income effect in relation to UBI?",
+      "choices": [
+        "Increased income may lead to reduced work hours",
+        "Increased income may lead to increased work hours",
+        "Decreased income may lead to reduced work hours",
+        "Decreased income may lead to increased work hours"
+      ],
+      "answer": "Increased income may lead to reduced work hours"
+    },
+    {
+      "question": "Which of the following is a potential positive impact of UBI on efficiency?",
+      "choices": [
+        "Increased welfare traps",
+        "Higher marginal tax rates",
+        "Improved labor market efficiency through better job matching",
+        "More complex administration of social programs"
+      ],
+      "answer": "Improved labor market efficiency through better job matching"
+    },
+    {
+      "question": "What is a potential fiscal sustainability concern related to UBI?",
+      "choices": [
+        "Decreased government expenditure",
+        "Reduced taxation requirements",
+        "High costs of implementation, especially in developing countries",
+        "Automatic budget balancing"
+      ],
+      "answer": "High costs of implementation, especially in developing countries"
+    },
+    {
+      "question": "How might UBI affect entrepreneurship according to some economic theories?",
+      "choices": [
+        "It would discourage all forms of entrepreneurship",
+        "It could encourage entrepreneurship by providing a financial safety net",
+        "It would only benefit large corporations",
+        "It would have no effect on entrepreneurship"
+      ],
+      "answer": "It could encourage entrepreneurship by providing a financial safety net"
+    },
+    {
+      "question": "What is the substitution effect in the context of UBI?",
+      "choices": [
+        "Higher effective wages may encourage more work",
+        "Lower effective wages may encourage more work",
+        "Higher effective wages may discourage work",
+        "It has no relation to work incentives"
+      ],
+      "answer": "Higher effective wages may encourage more work"
+    },
+    {
+      "question": "How might UBI impact mental accounting and spending patterns?",
+      "choices": [
+        "It would have no effect on spending patterns",
+        "It would lead to decreased spending on necessities",
+        "It may lead to better financial planning due to regular, predictable income",
+        "It would only affect luxury goods purchases"
+      ],
+      "answer": "It may lead to better financial planning due to regular, predictable income"
+    },
+    {
+      "question": "What is a potential unintended consequence of UBI mentioned in the module?",
+      "choices": [
+        "Increased complexity in tax systems",
+        "Risk of moral hazard and potential misuse of funds",
+        "Guaranteed full employment",
+        "Elimination of all other social programs"
+      ],
+      "answer": "Risk of moral hazard and potential misuse of funds"
+    },
+    {
+      "question": "How might UBI affect long-term decision making according to behavioral economics?",
+      "choices": [
+        "It would have no effect on long-term planning",
+        "It may discourage investments in education",
+        "It could encourage long-term planning and investments in human capital",
+        "It would only affect short-term consumption decisions"
+      ],
+      "answer": "It could encourage long-term planning and investments in human capital"
+    },
+    {
+      "question": "What is a potential impact of UBI on social welfare?",
+      "choices": [
+        "Guaranteed elimination of all social problems",
+        "Potential improvements in health outcomes and social cohesion",
+        "Increased crime rates and social unrest",
+        "No effect on overall social welfare"
+      ],
+      "answer": "Potential improvements in health outcomes and social cohesion"
+    },
+    {
+      "question": "How might UBI affect income inequality?",
+      "choices": [
+        "It would have no effect on income inequality",
+        "It would increase income inequality in all cases",
+        "It could potentially reduce income inequality by providing proportionally larger benefits to lower-income individuals",
+        "It would only benefit the wealthy"
+      ],
+      "answer": "It could potentially reduce income inequality by providing proportionally larger benefits to lower-income individuals"
+    },
+    {
+      "question": "What is a potential effect of UBI on labor market flexibility?",
+      "choices": [
+        "It would make the labor market completely inflexible",
+        "It may increase labor market flexibility and worker bargaining power",
+        "It would only benefit employers",
+        "It would eliminate all part-time work"
+      ],
+      "answer": "It may increase labor market flexibility and worker bargaining power"
+    },
+    {
+      "question": "How might UBI impact welfare traps?",
+      "choices": [
+        "It would create more welfare traps",
+        "It would have no effect on welfare traps",
+        "It could eliminate welfare traps by providing a universal benefit",
+        "It would only affect certain types of welfare traps"
+      ],
+      "answer": "It could eliminate welfare traps by providing a universal benefit"
+    },
+    {
+      "question": "What is a potential inflationary concern related to UBI?",
+      "choices": [
+        "Decreased money supply leading to deflation",
+        "Increased money supply could lead to higher prices",
+        "It would have no effect on inflation",
+        "It would cause immediate hyperinflation"
+      ],
+      "answer": "Increased money supply could lead to higher prices"
+    },
+    {
+      "question": "How might UBI affect the stigma associated with traditional welfare programs?",
+      "choices": [
+        "It would increase stigma for all recipients",
+        "It would have no effect on stigma",
+        "It may reduce stigma due to its universal nature",
+        "It would only reduce stigma for certain groups"
+      ],
+      "answer": "It may reduce stigma due to its universal nature"
+    },
+    {
+      "question": "What is a potential effect of UBI on administrative costs of social programs?",
+      "choices": [
+        "It would significantly increase administrative costs",
+        "It would have no effect on administrative costs",
+        "It could reduce administrative costs by simplifying the system",
+        "It would only affect administrative costs in certain sectors"
+      ],
+      "answer": "It could reduce administrative costs by simplifying the system"
+    },
+    {
+      "question": "How might UBI impact investments in education according to the module?",
+      "choices": [
+        "It would discourage all educational investments",
+        "It would have no effect on education",
+        "It could lead to increased investments in education and skills development",
+        "It would only affect primary education"
+      ],
+      "answer": "It could lead to increased investments in education and skills development"
+    },
+    {
+      "question": "What is a potential impact of UBI on job matching in the labor market?",
+      "choices": [
+        "It would make job matching impossible",
+        "It would have no effect on job matching",
+        "It could lead to better job matching by reducing the fear of job loss",
+        "It would only affect certain industries"
+      ],
+      "answer": "It could lead to better job matching by reducing the fear of job loss"
+    },
+    {
+      "question": "How might UBI affect the informal sector in developing economies like Timor-Leste?",
+      "choices": [
+        "It would eliminate the informal sector entirely",
+        "It would have no effect on the informal sector",
+        "It could potentially reduce reliance on informal work by providing a basic income",
+        "It would only affect the formal sector"
+      ],
+      "answer": "It could potentially reduce reliance on informal work by providing a basic income"
+    },
+    {
+      "question": "What is a potential effect of UBI on economic diversification in resource-dependent economies?",
+      "choices": [
+        "It would prevent any economic diversification",
+        "It would have no effect on economic diversification",
+        "It could potentially encourage diversification by providing income security for risk-taking",
+        "It would only affect the resource sector"
+      ],
+      "answer": "It could potentially encourage diversification by providing income security for risk-taking"
+    },
+    {
+      "question": "How might UBI impact the bargaining power of workers?",
+      "choices": [
+        "It would eliminate all worker bargaining power",
+        "It would have no effect on worker bargaining power",
+        "It could potentially increase worker bargaining power by providing a financial safety net",
+        "It would only affect certain types of workers"
+      ],
+      "answer": "It could potentially increase worker bargaining power by providing a financial safety net"
+    },
+    {
+      "question": "What is a potential effect of UBI on preventative healthcare?",
+      "choices": [
+        "It would discourage all preventative healthcare",
+        "It would have no effect on healthcare decisions",
+        "It may lead to better health outcomes through increased preventative care",
+        "It would only affect emergency healthcare"
+      ],
+      "answer": "It may lead to better health outcomes through increased preventative care"
+    },
+    {
+      "question": "How might UBI affect the gender pay gap?",
+      "choices": [
+        "It would widen the gender pay gap in all cases",
+        "It would have no effect on the gender pay gap",
+        "It could potentially reduce the gender pay gap by providing equal benefits to all",
+        "It would only affect certain industries"
+      ],
+      "answer": "It could potentially reduce the gender pay gap by providing equal benefits to all"
+    },
+    {
+      "question": "What is a potential effect of UBI on economic resilience during crises?",
+      "choices": [
+        "It would make economies more vulnerable to crises",
+        "It would have no effect on economic resilience",
+        "It could potentially increase economic resilience by providing a stable income floor",
+        "It would only affect certain sectors during crises"
+      ],
+      "answer": "It could potentially increase economic resilience by providing a stable income floor"
+    },
+    {
+      "question": "How might UBI impact intergenerational poverty?",
+      "choices": [
+        "It would exacerbate intergenerational poverty in all cases",
+        "It would have no effect on intergenerational poverty",
+        "It could potentially reduce intergenerational poverty by providing resources for education and development",
+        "It would only affect certain demographic groups"
+      ],
+      "answer": "It could potentially reduce intergenerational poverty by providing resources for education and development"
+    },
+    {
+      "question": "What is a potential effect of UBI on rural-urban migration in developing countries?",
+      "choices": [
+        "It would stop all rural-urban migration",
+        "It would have no effect on migration patterns",
+        "It could potentially reduce pressure for rural-urban migration by providing income in rural areas",
+        "It would only affect international migration"
+      ],
+      "answer": "It could potentially reduce pressure for rural-urban migration by providing income in rural areas"
+    },
+    {
+      "question": "How might UBI affect the gig economy and freelance work?",
+      "choices": [
+        "It would eliminate all gig economy and freelance work",
+        "It would have no effect on non-traditional work arrangements",
+        "It could potentially provide more security for gig workers and freelancers",
+        "It would only affect traditional employment"
+      ],
+      "answer": "It could potentially provide more security for gig workers and freelancers"
+    },
+    {
+      "question": "What is a potential effect of UBI on consumer spending patterns?",
+      "choices": [
+        "It would lead to decreased overall consumer spending",
+        "It would have no effect on consumer spending",
+        "It could potentially lead to more stable and predictable consumer spending patterns",
+        "It would only affect luxury goods purchases"
+      ],
+      "answer": "It could potentially lead to more stable and predictable consumer spending patterns"
+    }
+  ]
+}

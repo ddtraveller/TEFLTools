@@ -1,0 +1,305 @@
+{
+  "title": "Health Benefits and Applications of Light Therapy",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a primary area where light therapy has shown efficacy?",
+      "choices": [
+        "Skin health",
+        "Wound healing",
+        "Bone fractures",
+        "Pain management"
+      ],
+      "answer": "Bone fractures"
+    },
+    {
+      "question": "What wavelengths of light are typically used in light therapy for skin health?",
+      "choices": [
+        "Ultraviolet and infrared",
+        "Red and near-infrared",
+        "Blue and green",
+        "Yellow and orange"
+      ],
+      "answer": "Red and near-infrared"
+    },
+    {
+      "question": "How does light therapy accelerate wound healing?",
+      "choices": [
+        "By increasing cellular energy production",
+        "By decreasing blood flow to the affected area",
+        "By reducing collagen synthesis",
+        "By slowing down cell division"
+      ],
+      "answer": "By increasing cellular energy production"
+    },
+    {
+      "question": "Which skin condition has NOT been shown to benefit from light therapy?",
+      "choices": [
+        "Psoriasis",
+        "Eczema",
+        "Melanoma",
+        "Burns"
+      ],
+      "answer": "Melanoma"
+    },
+    {
+      "question": "What is the mechanism by which light therapy helps in pain management for musculoskeletal conditions?",
+      "choices": [
+        "By increasing inflammation",
+        "By reducing blood flow",
+        "By modulating inflammatory pathways",
+        "By breaking down collagen"
+      ],
+      "answer": "By modulating inflammatory pathways"
+    },
+    {
+      "question": "Which of the following is NOT a reported benefit of light therapy for athletes?",
+      "choices": [
+        "Accelerated muscle recovery",
+        "Reduced exercise-induced muscle soreness",
+        "Increased muscle mass",
+        "Improved mobility"
+      ],
+      "answer": "Increased muscle mass"
+    },
+    {
+      "question": "In neurological applications, how does light therapy potentially benefit brain tissue?",
+      "choices": [
+        "By increasing skull thickness",
+        "By reducing cerebral blood flow",
+        "By providing neuroprotective effects",
+        "By destroying damaged neurons"
+      ],
+      "answer": "By providing neuroprotective effects"
+    },
+    {
+      "question": "Which psychological disorder has been successfully treated with light therapy?",
+      "choices": [
+        "Schizophrenia",
+        "Seasonal Affective Disorder (SAD)",
+        "Obsessive-Compulsive Disorder (OCD)",
+        "Bipolar Disorder"
+      ],
+      "answer": "Seasonal Affective Disorder (SAD)"
+    },
+    {
+      "question": "How might light therapy potentially help in treating tropical diseases in Timor-Leste?",
+      "choices": [
+        "By cooling the body temperature",
+        "By enhancing the body's immune response",
+        "By directly killing mosquitoes",
+        "By altering the genetic makeup of parasites"
+      ],
+      "answer": "By enhancing the body's immune response"
+    },
+    {
+      "question": "In dental care, light therapy has shown promise in:",
+      "choices": [
+        "Whitening teeth",
+        "Growing new teeth",
+        "Reducing pain and inflammation after oral surgeries",
+        "Curing cavities"
+      ],
+      "answer": "Reducing pain and inflammation after oral surgeries"
+    },
+    {
+      "question": "Which ophthalmological condition is being investigated for light therapy treatment?",
+      "choices": [
+        "Cataracts",
+        "Color blindness",
+        "Macular degeneration",
+        "Astigmatism"
+      ],
+      "answer": "Macular degeneration"
+    },
+    {
+      "question": "What is a key advantage of light therapy compared to many pharmaceutical interventions?",
+      "choices": [
+        "It's more expensive",
+        "It has a higher risk profile",
+        "It produces fewer side effects",
+        "It works faster"
+      ],
+      "answer": "It produces fewer side effects"
+    },
+    {
+      "question": "What is crucial to ensure safety and maximize therapeutic benefits in light therapy?",
+      "choices": [
+        "Self-administration at home",
+        "Combining with multiple medications",
+        "Proper administration by trained professionals",
+        "Using the highest intensity possible"
+      ],
+      "answer": "Proper administration by trained professionals"
+    },
+    {
+      "question": "What is the scientific term for light therapy?",
+      "choices": [
+        "Photosynthesis",
+        "Photobiomodulation",
+        "Photodynamic therapy",
+        "Photoperiodism"
+      ],
+      "answer": "Photobiomodulation"
+    },
+    {
+      "question": "Which of the following is NOT a mechanism by which light therapy promotes wound healing?",
+      "choices": [
+        "Increased ATP production",
+        "Enhanced collagen synthesis",
+        "Stimulated angiogenesis",
+        "Reduced cellular metabolism"
+      ],
+      "answer": "Reduced cellular metabolism"
+    },
+    {
+      "question": "How does light therapy potentially help in treating neurodegenerative diseases like Alzheimer's?",
+      "choices": [
+        "By removing amyloid plaques",
+        "By increasing brain size",
+        "By stimulating neurogenesis",
+        "By reducing cerebrospinal fluid"
+      ],
+      "answer": "By stimulating neurogenesis"
+    },
+    {
+      "question": "Which of the following is a potential application of light therapy in oncology?",
+      "choices": [
+        "Directly killing cancer cells",
+        "Replacing chemotherapy entirely",
+        "Reducing side effects of traditional cancer treatments",
+        "Preventing all types of cancer"
+      ],
+      "answer": "Reducing side effects of traditional cancer treatments"
+    },
+    {
+      "question": "What is a key factor in the development of more effective light therapy devices?",
+      "choices": [
+        "Making them larger in size",
+        "Increasing their weight",
+        "Delivering precise wavelengths and dosages",
+        "Using only visible light spectrum"
+      ],
+      "answer": "Delivering precise wavelengths and dosages"
+    },
+    {
+      "question": "How does light therapy potentially help in treating depression?",
+      "choices": [
+        "By increasing melatonin production",
+        "By regulating circadian rhythms",
+        "By reducing serotonin levels",
+        "By increasing cortisol production"
+      ],
+      "answer": "By regulating circadian rhythms"
+    },
+    {
+      "question": "Which of the following is NOT a reported benefit of light therapy for skin health?",
+      "choices": [
+        "Reduced healing time for cuts",
+        "Improved scar appearance",
+        "Increased skin pigmentation",
+        "Reduced inflammation in chronic skin conditions"
+      ],
+      "answer": "Increased skin pigmentation"
+    },
+    {
+      "question": "In the context of musculoskeletal conditions, how does light therapy contribute to tissue repair?",
+      "choices": [
+        "By breaking down muscle fibers",
+        "By reducing blood flow to the area",
+        "By stimulating collagen production",
+        "By increasing inflammation"
+      ],
+      "answer": "By stimulating collagen production"
+    },
+    {
+      "question": "What is a potential benefit of light therapy in stroke rehabilitation?",
+      "choices": [
+        "Immediate reversal of paralysis",
+        "Complete restoration of lost memories",
+        "Reduction of neuroinflammation",
+        "Elimination of the need for physical therapy"
+      ],
+      "answer": "Reduction of neuroinflammation"
+    },
+    {
+      "question": "How might light therapy be beneficial in treating diabetic foot ulcers?",
+      "choices": [
+        "By increasing blood sugar levels",
+        "By promoting faster wound closure",
+        "By hardening the skin",
+        "By reducing circulation to the feet"
+      ],
+      "answer": "By promoting faster wound closure"
+    },
+    {
+      "question": "Which of the following is a correct statement about the penetration of light in tissue?",
+      "choices": [
+        "All wavelengths penetrate equally",
+        "Near-infrared light penetrates deeper than red light",
+        "Only ultraviolet light can penetrate the skin",
+        "Blue light penetrates deepest into tissue"
+      ],
+      "answer": "Near-infrared light penetrates deeper than red light"
+    },
+    {
+      "question": "What is a potential application of light therapy in agriculture relevant to Timor-Leste?",
+      "choices": [
+        "Increasing crop yield",
+        "Treating plant diseases",
+        "Repelling pests",
+        "Desalinating water"
+      ],
+      "answer": "Treating plant diseases"
+    },
+    {
+      "question": "How might light therapy complement traditional Timorese healing practices?",
+      "choices": [
+        "By replacing all traditional methods",
+        "By enhancing wound healing in conjunction with herbal remedies",
+        "By eliminating the need for spiritual healing",
+        "By making traditional practices obsolete"
+      ],
+      "answer": "By enhancing wound healing in conjunction with herbal remedies"
+    },
+    {
+      "question": "What is a potential challenge in implementing light therapy in rural areas of Timor-Leste?",
+      "choices": [
+        "Excessive sunlight",
+        "Limited access to electricity",
+        "Cultural resistance to all forms of technology",
+        "Abundance of trained professionals"
+      ],
+      "answer": "Limited access to electricity"
+    },
+    {
+      "question": "Which of the following is NOT a typical parameter considered in light therapy dosing?",
+      "choices": [
+        "Wavelength",
+        "Power density",
+        "Treatment duration",
+        "Patient's hair color"
+      ],
+      "answer": "Patient's hair color"
+    },
+    {
+      "question": "What is the biphasic dose response in light therapy?",
+      "choices": [
+        "Light always has a positive effect regardless of dose",
+        "Higher doses always produce better results",
+        "Low doses stimulate and high doses inhibit biological activity",
+        "The therapy only works on two specific body parts"
+      ],
+      "answer": "Low doses stimulate and high doses inhibit biological activity"
+    },
+    {
+      "question": "How might light therapy potentially benefit patients with malaria in Timor-Leste?",
+      "choices": [
+        "By directly killing mosquitoes",
+        "By making human blood unpalatable to mosquitoes",
+        "By potentially reducing parasite load",
+        "By increasing the effectiveness of mosquito nets"
+      ],
+      "answer": "By potentially reducing parasite load"
+    }
+  ]
+}

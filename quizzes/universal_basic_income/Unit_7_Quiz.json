@@ -1,0 +1,305 @@
+{
+  "title": "Policy Design and Implementation Challenges for UBI in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is a key consideration when determining the payment amount for UBI in Timor-Leste?",
+      "choices": [
+        "Global average UBI payments",
+        "The country's poverty line",
+        "The highest salary in the country",
+        "The price of oil"
+      ],
+      "answer": "The country's poverty line"
+    },
+    {
+      "question": "Which of the following is a potential funding mechanism for UBI in Timor-Leste?",
+      "choices": [
+        "Increasing foreign debt",
+        "Selling natural resources to neighboring countries",
+        "Restructuring existing social protection programs",
+        "Implementing a flat tax rate for all citizens"
+      ],
+      "answer": "Restructuring existing social protection programs"
+    },
+    {
+      "question": "What is a major challenge for UBI implementation in rural areas of Timor-Leste?",
+      "choices": [
+        "Limited banking infrastructure",
+        "Overpopulation",
+        "High internet connectivity",
+        "Excessive wealth"
+      ],
+      "answer": "Limited banking infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key performance indicator for monitoring UBI in Timor-Leste?",
+      "choices": [
+        "Changes in poverty headcount ratio",
+        "Local economic activity",
+        "School enrollment rates",
+        "Number of luxury car sales"
+      ],
+      "answer": "Number of luxury car sales"
+    },
+    {
+      "question": "What is a potential alternative payment method suggested for areas with limited banking infrastructure?",
+      "choices": [
+        "Cryptocurrency",
+        "Gold coins",
+        "Mobile money solutions",
+        "Bartering system"
+      ],
+      "answer": "Mobile money solutions"
+    },
+    {
+      "question": "Which fund is mentioned as a potential source for UBI funding in Timor-Leste?",
+      "choices": [
+        "Education Fund",
+        "Petroleum Fund",
+        "Agricultural Development Fund",
+        "Tourism Revenue Fund"
+      ],
+      "answer": "Petroleum Fund"
+    },
+    {
+      "question": "What is a suggested strategy for providing financial education alongside UBI implementation?",
+      "choices": [
+        "Mandatory university courses",
+        "Television advertisements only",
+        "Partnerships with schools and community organizations",
+        "Distributing complex financial textbooks"
+      ],
+      "answer": "Partnerships with schools and community organizations"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential eligibility criterion for UBI in Timor-Leste?",
+      "choices": [
+        "Age",
+        "Residency requirements",
+        "Income level",
+        "Citizenship status"
+      ],
+      "answer": "Income level"
+    },
+    {
+      "question": "What is a suggested method for data collection in monitoring and evaluating UBI in Timor-Leste?",
+      "choices": [
+        "Annual national census",
+        "Social media surveys",
+        "Household surveys",
+        "Mandatory daily reporting by recipients"
+      ],
+      "answer": "Household surveys"
+    },
+    {
+      "question": "Which existing program in Timor-Leste is mentioned as potentially providing valuable insights for UBI implementation?",
+      "choices": [
+        "Bolsa da Mãe",
+        "Timor-Leste Pension Scheme",
+        "National Health Insurance",
+        "Free Education Initiative"
+      ],
+      "answer": "Bolsa da Mãe"
+    },
+    {
+      "question": "What is a suggested approach for UBI implementation in Timor-Leste given its limited resources?",
+      "choices": [
+        "Immediate full population coverage",
+        "Phased approach starting with specific groups",
+        "Implementation only in urban areas",
+        "Random selection of recipients"
+      ],
+      "answer": "Phased approach starting with specific groups"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential impact of UBI on traditional social structures in Timorese communities?",
+      "choices": [
+        "Strengthening of clan-based systems",
+        "Dissolution of family units",
+        "Potential changes in support systems",
+        "Reinforcement of feudal hierarchies"
+      ],
+      "answer": "Potential changes in support systems"
+    },
+    {
+      "question": "What is suggested as a strategy to address the challenge of low literacy rates in relation to UBI implementation?",
+      "choices": [
+        "Excluding illiterate populations",
+        "Using only written communications",
+        "Providing simplified, visual educational materials",
+        "Requiring literacy tests for eligibility"
+      ],
+      "answer": "Providing simplified, visual educational materials"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential economic impact measure for UBI in Timor-Leste?",
+      "choices": [
+        "Changes in formal employment",
+        "Local economic activity",
+        "Business creation rates",
+        "Stock market performance"
+      ],
+      "answer": "Stock market performance"
+    },
+    {
+      "question": "What is suggested as a way to ensure long-term sustainability of UBI funding in Timor-Leste?",
+      "choices": [
+        "Increasing foreign aid dependence",
+        "Establishing a sovereign wealth fund",
+        "Privatizing all public services",
+        "Implementing a flat tax rate"
+      ],
+      "answer": "Establishing a sovereign wealth fund"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential gender implication of UBI in Timor-Leste?",
+      "choices": [
+        "Reinforcing traditional gender roles",
+        "Excluding women from the program",
+        "Potential for promoting gender equality",
+        "Mandatory employment for women"
+      ],
+      "answer": "Potential for promoting gender equality"
+    },
+    {
+      "question": "What type of evaluation design is suggested for assessing the long-term impacts of UBI in Timor-Leste?",
+      "choices": [
+        "Cross-sectional studies",
+        "One-time surveys",
+        "Longitudinal studies",
+        "Anecdotal evidence collection"
+      ],
+      "answer": "Longitudinal studies"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key element to include in a policy brief on UBI implementation for Timor-Leste?",
+      "choices": [
+        "Clearly stated policy objectives",
+        "Proposed funding mechanisms",
+        "Outline of monitoring and evaluation approach",
+        "Detailed biographies of policymakers"
+      ],
+      "answer": "Detailed biographies of policymakers"
+    },
+    {
+      "question": "What is suggested as a strategy to address the challenge of limited banking infrastructure in rural areas?",
+      "choices": [
+        "Ignoring rural populations",
+        "Building a bank in every village",
+        "Partnerships with local stores for cash disbursements",
+        "Requiring rural residents to travel to cities for payments"
+      ],
+      "answer": "Partnerships with local stores for cash disbursements"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential benefit of linking UBI payments to social objectives, as seen in Brazil's Bolsa Família program?",
+      "choices": [
+        "Reduced administrative costs",
+        "Improved school enrollment and attendance",
+        "Increased government control over citizens",
+        "Higher tax revenues"
+      ],
+      "answer": "Improved school enrollment and attendance"
+    },
+    {
+      "question": "What is suggested as a way to empower women through UBI in Timor-Leste?",
+      "choices": [
+        "Excluding men from the program",
+        "Providing lower payments to women",
+        "Considering a payment structure that prioritizes women recipients",
+        "Requiring women to seek male approval for spending"
+      ],
+      "answer": "Considering a payment structure that prioritizes women recipients"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a step in the UBI implementation roadmap for Timor-Leste?",
+      "choices": [
+        "Policy Design",
+        "Stakeholder Consultation",
+        "Pilot Program",
+        "Mandatory Employment Program"
+      ],
+      "answer": "Mandatory Employment Program"
+    },
+    {
+      "question": "What is suggested as a strategy for community engagement in UBI implementation?",
+      "choices": [
+        "Top-down government mandates",
+        "Engaging local leaders and civil society organizations",
+        "Excluding community input",
+        "Implementing the program in secret"
+      ],
+      "answer": "Engaging local leaders and civil society organizations"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential obstacle to UBI implementation in Timor-Leste?",
+      "choices": [
+        "Excessive wealth among the population",
+        "Too many banks in rural areas",
+        "Volatility of oil and gas revenues",
+        "Overly developed digital infrastructure"
+      ],
+      "answer": "Volatility of oil and gas revenues"
+    },
+    {
+      "question": "What is suggested as a way to tailor UBI implementation to the different needs of rural and urban populations?",
+      "choices": [
+        "Implementing UBI only in urban areas",
+        "Providing higher payments to urban residents",
+        "Developing separate strategies for rural and urban areas",
+        "Forcing rural residents to move to cities"
+      ],
+      "answer": "Developing separate strategies for rural and urban areas"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential innovative solution for payment distribution in areas with limited banking infrastructure?",
+      "choices": [
+        "Carrier pigeons",
+        "Blockchain-based digital currencies",
+        "Door-to-door cash delivery",
+        "Bartering system"
+      ],
+      "answer": "Blockchain-based digital currencies"
+    },
+    {
+      "question": "What is suggested as a way to ensure UBI doesn't create disincentives for formal employment?",
+      "choices": [
+        "Making UBI conditional on employment",
+        "Providing extremely low UBI payments",
+        "Carefully designing the policy to complement work incentives",
+        "Eliminating all other social programs"
+      ],
+      "answer": "Carefully designing the policy to complement work incentives"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential social impact to monitor in UBI implementation?",
+      "choices": [
+        "Changes in school enrollment rates",
+        "Healthcare utilization",
+        "Poverty reduction",
+        "Increase in luxury goods ownership"
+      ],
+      "answer": "Increase in luxury goods ownership"
+    },
+    {
+      "question": "What is suggested as a way to address the challenge of providing UBI information in a multi-lingual context?",
+      "choices": [
+        "Using only English for all communications",
+        "Ignoring linguistic diversity",
+        "Providing materials in Tetum, Portuguese, and local languages",
+        "Requiring all recipients to learn a single language"
+      ],
+      "answer": "Providing materials in Tetum, Portuguese, and local languages"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential benefit of UBI for entrepreneurship in Timor-Leste?",
+      "choices": [
+        "Guaranteed high profits for new businesses",
+        "Elimination of all business regulations",
+        "Providing a financial safety net for potential entrepreneurs",
+        "Mandatory business creation for all recipients"
+      ],
+      "answer": "Providing a financial safety net for potential entrepreneurs"
+    }
+  ]
+}

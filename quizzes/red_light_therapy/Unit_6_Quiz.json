@@ -1,0 +1,305 @@
+{
+  "title": "Safety Considerations and Contraindications in Light Therapy",
+  "questions": [
+    {
+      "question": "What is the primary reason for using protective eyewear during light therapy?",
+      "choices": [
+        "To prevent skin irritation",
+        "To avoid temporary visual disturbances",
+        "To enhance the therapeutic effect",
+        "To protect against UV radiation"
+      ],
+      "answer": "To avoid temporary visual disturbances"
+    },
+    {
+      "question": "Which of the following is a common side effect of light therapy in individuals with sensitive skin?",
+      "choices": [
+        "Permanent scarring",
+        "Hair loss",
+        "Mild skin irritation or redness",
+        "Hyperpigmentation"
+      ],
+      "answer": "Mild skin irritation or redness"
+    },
+    {
+      "question": "What is the biphasic dose response in light therapy?",
+      "choices": [
+        "A response that occurs in two separate treatment sessions",
+        "A phenomenon where low doses stimulate beneficial effects, while higher doses may inhibit these effects",
+        "A reaction that only affects bipolar patients",
+        "A response that requires two different wavelengths of light"
+      ],
+      "answer": "A phenomenon where low doses stimulate beneficial effects, while higher doses may inhibit these effects"
+    },
+    {
+      "question": "Which of the following is an absolute contraindication for light therapy?",
+      "choices": [
+        "Mild sunburn",
+        "Recent eye surgery",
+        "Pregnancy",
+        "Chronic pain"
+      ],
+      "answer": "Recent eye surgery"
+    },
+    {
+      "question": "Why is pregnancy considered a precaution for light therapy?",
+      "choices": [
+        "It always causes harm to the fetus",
+        "It interferes with prenatal vitamins",
+        "There is limited research on its effects on fetal development",
+        "It can induce premature labor"
+      ],
+      "answer": "There is limited research on its effects on fetal development"
+    },
+    {
+      "question": "What is the main concern with photosensitizing medications in relation to light therapy?",
+      "choices": [
+        "They reduce the effectiveness of the treatment",
+        "They can lead to severe skin reactions when combined with light therapy",
+        "They cause the light therapy device to malfunction",
+        "They alter the wavelength of the light used in therapy"
+      ],
+      "answer": "They can lead to severe skin reactions when combined with light therapy"
+    },
+    {
+      "question": "Which of the following is NOT a typical symptom reported after light therapy sessions?",
+      "choices": [
+        "Headaches",
+        "Dizziness",
+        "Nausea",
+        "Fatigue"
+      ],
+      "answer": "Nausea"
+    },
+    {
+      "question": "Why is it important to clean the treatment area before light therapy?",
+      "choices": [
+        "To increase the penetration of light",
+        "To remove substances that might interact with the light",
+        "To improve patient comfort",
+        "To reduce treatment time"
+      ],
+      "answer": "To remove substances that might interact with the light"
+    },
+    {
+      "question": "What is the recommended approach for introducing light therapy to patients with sensitive skin?",
+      "choices": [
+        "Start with high intensity treatments",
+        "Use only red light wavelengths",
+        "Begin with lower intensity and gradually increase",
+        "Apply a protective cream before treatment"
+      ],
+      "answer": "Begin with lower intensity and gradually increase"
+    },
+    {
+      "question": "Which of the following is a cultural consideration when providing light therapy in Timor-Leste?",
+      "choices": [
+        "Ignoring local healing practices",
+        "Using only English for patient communication",
+        "Respecting gender norms in treatment settings",
+        "Requiring all patients to wear Western clothing"
+      ],
+      "answer": "Respecting gender norms in treatment settings"
+    },
+    {
+      "question": "What is the primary reason for conducting a comprehensive medication review before starting light therapy?",
+      "choices": [
+        "To ensure the patient is taking all necessary supplements",
+        "To identify potential photosensitizing medications",
+        "To determine the patient's overall health status",
+        "To adjust the light therapy wavelength based on medications"
+      ],
+      "answer": "To identify potential photosensitizing medications"
+    },
+    {
+      "question": "Which of the following is NOT a typical use for light therapy?",
+      "choices": [
+        "Pain management",
+        "Wound healing",
+        "Mood disorders",
+        "X-ray imaging"
+      ],
+      "answer": "X-ray imaging"
+    },
+    {
+      "question": "What is the recommended course of action if a patient experiences persistent headaches after light therapy?",
+      "choices": [
+        "Increase the treatment duration",
+        "Switch to a different wavelength",
+        "Discontinue treatment and consult a healthcare professional",
+        "Administer pain medication before each session"
+      ],
+      "answer": "Discontinue treatment and consult a healthcare professional"
+    },
+    {
+      "question": "Why is it important to develop educational materials in local languages like Tetum in Timor-Leste?",
+      "choices": [
+        "To promote English language learning",
+        "To ensure patients fully understand the treatment and risks",
+        "To comply with international regulations",
+        "To make the treatment seem more exotic"
+      ],
+      "answer": "To ensure patients fully understand the treatment and risks"
+    },
+    {
+      "question": "What is the primary concern with using light therapy on patients with a history of skin cancer?",
+      "choices": [
+        "It may cause sunburn",
+        "It could potentially stimulate cancer cell growth",
+        "It interferes with chemotherapy",
+        "It alters skin pigmentation"
+      ],
+      "answer": "It could potentially stimulate cancer cell growth"
+    },
+    {
+      "question": "Which of the following is a key component of practitioner training for light therapy?",
+      "choices": [
+        "Advanced surgical techniques",
+        "Pharmacology",
+        "Proper dosing protocols",
+        "Radiography"
+      ],
+      "answer": "Proper dosing protocols"
+    },
+    {
+      "question": "What is the recommended frequency for cleaning light therapy devices?",
+      "choices": [
+        "Once a month",
+        "After each use",
+        "Annually",
+        "Only when visibly dirty"
+      ],
+      "answer": "After each use"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of light therapy?",
+      "choices": [
+        "Improved wound healing",
+        "Reduced inflammation",
+        "Increased bone density",
+        "Enhanced cellular energy production"
+      ],
+      "answer": "Increased bone density"
+    },
+    {
+      "question": "What should be done if a patient insists on removing protective eyewear during treatment?",
+      "choices": [
+        "Allow it if they sign a waiver",
+        "Continue the treatment without eyewear",
+        "Explain the risks and refuse to continue without proper protection",
+        "Reduce the light intensity"
+      ],
+      "answer": "Explain the risks and refuse to continue without proper protection"
+    },
+    {
+      "question": "Which of the following is a potential risk of overuse of light therapy?",
+      "choices": [
+        "Addiction to light",
+        "Permanent skin discoloration",
+        "Diminished therapeutic benefits",
+        "Increased risk of cataracts"
+      ],
+      "answer": "Diminished therapeutic benefits"
+    },
+    {
+      "question": "What is the primary purpose of obtaining informed consent before light therapy?",
+      "choices": [
+        "To protect the practitioner from legal action",
+        "To ensure the patient understands the treatment and its risks",
+        "To comply with insurance requirements",
+        "To document the patient's medical history"
+      ],
+      "answer": "To ensure the patient understands the treatment and its risks"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a pre-treatment screening for light therapy?",
+      "choices": [
+        "Medication review",
+        "Skin type assessment",
+        "Blood type determination",
+        "Medical history evaluation"
+      ],
+      "answer": "Blood type determination"
+    },
+    {
+      "question": "What is the recommended course of action if a patient experiences mild skin irritation after their first light therapy session?",
+      "choices": [
+        "Immediately discontinue all future treatments",
+        "Increase the intensity for the next session",
+        "Assess the reaction and consider adjusting the treatment parameters",
+        "Apply a steroid cream before the next session"
+      ],
+      "answer": "Assess the reaction and consider adjusting the treatment parameters"
+    },
+    {
+      "question": "Which of the following is a key consideration when integrating light therapy with traditional Timorese healing practices?",
+      "choices": [
+        "Completely replacing traditional methods",
+        "Ignoring local beliefs about healing",
+        "Respecting and incorporating local healing concepts",
+        "Using only modern scientific explanations"
+      ],
+      "answer": "Respecting and incorporating local healing concepts"
+    },
+    {
+      "question": "What is the primary reason for monitoring patients during light therapy treatments?",
+      "choices": [
+        "To ensure they don't fall asleep",
+        "To observe for any adverse reactions",
+        "To engage in conversation",
+        "To adjust room temperature"
+      ],
+      "answer": "To observe for any adverse reactions"
+    },
+    {
+      "question": "Which of the following is NOT a typical post-treatment care instruction for light therapy?",
+      "choices": [
+        "Avoid sun exposure for 24 hours",
+        "Stay hydrated",
+        "Report any unusual symptoms",
+        "Apply ice to the treated area"
+      ],
+      "answer": "Apply ice to the treated area"
+    },
+    {
+      "question": "What is the recommended approach for addressing language barriers in light therapy practice?",
+      "choices": [
+        "Only treat patients who speak the practitioner's language",
+        "Use online translation tools during consultations",
+        "Develop materials in local languages and use interpreters when necessary",
+        "Require patients to bring their own translators"
+      ],
+      "answer": "Develop materials in local languages and use interpreters when necessary"
+    },
+    {
+      "question": "Which of the following is a key factor in ensuring consistent and safe performance of light therapy devices?",
+      "choices": [
+        "Using the devices only once a week",
+        "Regular maintenance and cleaning according to manufacturer guidelines",
+        "Storing devices in direct sunlight",
+        "Modifying devices to increase power output"
+      ],
+      "answer": "Regular maintenance and cleaning according to manufacturer guidelines"
+    },
+    {
+      "question": "What is the primary reason for conducting follow-up assessments after light therapy treatments?",
+      "choices": [
+        "To schedule additional treatments",
+        "To collect payment",
+        "To monitor treatment efficacy and any delayed reactions",
+        "To provide patients with promotional materials"
+      ],
+      "answer": "To monitor treatment efficacy and any delayed reactions"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a safety checklist for light therapy practitioners?",
+      "choices": [
+        "Verify patient has completed health screening questionnaire",
+        "Check light therapy device for any damage or malfunction",
+        "Ensure treatment room is clean and well-ventilated",
+        "Confirm patient's zodiac sign"
+      ],
+      "answer": "Confirm patient's zodiac sign"
+    }
+  ]
+}

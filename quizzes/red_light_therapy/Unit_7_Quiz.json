@@ -1,0 +1,305 @@
+{
+  "title": "Light Penetration and Tissue Interactions",
+  "questions": [
+    {
+      "question": "Which of the following tissues typically has the highest scattering of light?",
+      "choices": [
+        "Muscle",
+        "Bone",
+        "Fat",
+        "Dermis"
+      ],
+      "answer": "Fat"
+    },
+    {
+      "question": "What is the primary pigment responsible for light absorption in the skin?",
+      "choices": [
+        "Hemoglobin",
+        "Melanin",
+        "Carotene",
+        "Bilirubin"
+      ],
+      "answer": "Melanin"
+    },
+    {
+      "question": "Which wavelength range typically penetrates deepest into biological tissues?",
+      "choices": [
+        "400-500 nm (blue light)",
+        "600-700 nm (red light)",
+        "800-1000 nm (near-infrared)",
+        "1100-1200 nm (mid-infrared)"
+      ],
+      "answer": "800-1000 nm (near-infrared)"
+    },
+    {
+      "question": "What is the term for the process by which light energy is taken up by matter?",
+      "choices": [
+        "Reflection",
+        "Scattering",
+        "Absorption",
+        "Refraction"
+      ],
+      "answer": "Absorption"
+    },
+    {
+      "question": "Which of the following is NOT a major factor affecting light penetration in tissues?",
+      "choices": [
+        "Wavelength",
+        "Power density",
+        "Treatment duration",
+        "Patient's age"
+      ],
+      "answer": "Patient's age"
+    },
+    {
+      "question": "What is the primary challenge when applying light therapy to darker skin types?",
+      "choices": [
+        "Increased reflection",
+        "Reduced absorption",
+        "Higher scattering",
+        "Increased melanin absorption"
+      ],
+      "answer": "Increased melanin absorption"
+    },
+    {
+      "question": "Which tissue layer is primarily responsible for scattering light in the skin?",
+      "choices": [
+        "Stratum corneum",
+        "Epidermis",
+        "Dermis",
+        "Hypodermis"
+      ],
+      "answer": "Dermis"
+    },
+    {
+      "question": "What strategy can be used to enhance light penetration in darker skin types?",
+      "choices": [
+        "Decreasing power density",
+        "Shortening treatment duration",
+        "Using shorter wavelengths",
+        "Increasing power density"
+      ],
+      "answer": "Increasing power density"
+    },
+    {
+      "question": "Which of the following is a potential benefit of using pulsed light instead of continuous wave light?",
+      "choices": [
+        "Lower energy consumption",
+        "Improved penetration depth",
+        "Reduced treatment time",
+        "Increased patient comfort"
+      ],
+      "answer": "Improved penetration depth"
+    },
+    {
+      "question": "What is the primary optical property of bone that affects light penetration?",
+      "choices": [
+        "High absorption",
+        "Low scattering",
+        "High scattering",
+        "High transmission"
+      ],
+      "answer": "High scattering"
+    },
+    {
+      "question": "Which of the following best describes the optical properties of muscle tissue?",
+      "choices": [
+        "High absorption, low scattering",
+        "Low absorption, high scattering",
+        "Moderate absorption, moderate scattering",
+        "High absorption, high scattering"
+      ],
+      "answer": "Moderate absorption, moderate scattering"
+    },
+    {
+      "question": "What is the term for the depth at which light intensity falls to 37% of its original value?",
+      "choices": [
+        "Absorption depth",
+        "Scattering length",
+        "Penetration depth",
+        "Optical thickness"
+      ],
+      "answer": "Penetration depth"
+    },
+    {
+      "question": "Which of the following is NOT a common strategy for enhancing light penetration?",
+      "choices": [
+        "Applying pressure to the treatment area",
+        "Using coupling gels",
+        "Increasing melanin content",
+        "Targeting from multiple angles"
+      ],
+      "answer": "Increasing melanin content"
+    },
+    {
+      "question": "What type of melanin is primarily responsible for brown-black pigmentation?",
+      "choices": [
+        "Eumelanin",
+        "Pheomelanin",
+        "Neuromelanin",
+        "Oxymelanin"
+      ],
+      "answer": "Eumelanin"
+    },
+    {
+      "question": "Which of the following best describes the absorption spectrum of melanin?",
+      "choices": [
+        "Absorbs only in the UV range",
+        "Absorbs equally across all wavelengths",
+        "Higher absorption in shorter wavelengths, decreasing in longer wavelengths",
+        "Higher absorption in longer wavelengths, decreasing in shorter wavelengths"
+      ],
+      "answer": "Higher absorption in shorter wavelengths, decreasing in longer wavelengths"
+    },
+    {
+      "question": "What is the primary benefit of using near-infrared wavelengths (800-1000 nm) in light therapy?",
+      "choices": [
+        "Higher absorption by water",
+        "Increased scattering in tissues",
+        "Deeper penetration into tissues",
+        "Greater absorption by melanin"
+      ],
+      "answer": "Deeper penetration into tissues"
+    },
+    {
+      "question": "Which of the following is a potential risk of using higher power densities to enhance penetration in darker skin types?",
+      "choices": [
+        "Reduced efficacy",
+        "Increased treatment time",
+        "Overheating of superficial layers",
+        "Decreased melanin production"
+      ],
+      "answer": "Overheating of superficial layers"
+    },
+    {
+      "question": "What is the primary role of the stratum corneum in light penetration?",
+      "choices": [
+        "Absorption of light",
+        "Scattering of light",
+        "Reflection of light",
+        "Transmission of light"
+      ],
+      "answer": "Reflection of light"
+    },
+    {
+      "question": "Which of the following best describes the optical properties of adipose tissue (fat)?",
+      "choices": [
+        "High absorption, low scattering",
+        "Low absorption, high scattering",
+        "High absorption, high scattering",
+        "Low absorption, low scattering"
+      ],
+      "answer": "Low absorption, high scattering"
+    },
+    {
+      "question": "What is the primary challenge in treating deep tissues with light therapy?",
+      "choices": [
+        "Increased absorption by superficial layers",
+        "Reduced scattering in deep tissues",
+        "Higher melanin content in deep tissues",
+        "Increased reflection at tissue interfaces"
+      ],
+      "answer": "Increased absorption by superficial layers"
+    },
+    {
+      "question": "Which of the following is NOT a common application of light therapy in Timor-Leste, as mentioned in the module?",
+      "choices": [
+        "Wound healing",
+        "Pain management",
+        "Treatment of tropical diseases",
+        "Cosmetic skin whitening"
+      ],
+      "answer": "Cosmetic skin whitening"
+    },
+    {
+      "question": "What is the primary reason for adjusting treatment protocols based on skin type?",
+      "choices": [
+        "To account for differences in tissue thickness",
+        "To compensate for variations in melanin content",
+        "To address cultural preferences",
+        "To optimize treatment cost"
+      ],
+      "answer": "To compensate for variations in melanin content"
+    },
+    {
+      "question": "Which of the following best describes the relationship between wavelength and penetration depth?",
+      "choices": [
+        "Shorter wavelengths penetrate deeper",
+        "Longer wavelengths penetrate deeper",
+        "Wavelength has no effect on penetration depth",
+        "Mid-range wavelengths penetrate deepest"
+      ],
+      "answer": "Longer wavelengths penetrate deeper"
+    },
+    {
+      "question": "What is the primary benefit of using multiple wavelengths in a single treatment session?",
+      "choices": [
+        "Reduced treatment time",
+        "Lower power requirements",
+        "Comprehensive treatment of different tissue depths",
+        "Increased patient comfort"
+      ],
+      "answer": "Comprehensive treatment of different tissue depths"
+    },
+    {
+      "question": "Which of the following is a potential application of light therapy in agriculture, as mentioned in the module?",
+      "choices": [
+        "Increasing crop yield",
+        "Pest control",
+        "Food preservation",
+        "Soil sterilization"
+      ],
+      "answer": "Food preservation"
+    },
+    {
+      "question": "What is the primary consideration when integrating light therapy with traditional Timorese medicine?",
+      "choices": [
+        "Cost-effectiveness",
+        "Treatment efficacy",
+        "Cultural sensitivity",
+        "Regulatory compliance"
+      ],
+      "answer": "Cultural sensitivity"
+    },
+    {
+      "question": "Which of the following is NOT a suggested strategy for implementing light therapy in resource-limited settings like Timor-Leste?",
+      "choices": [
+        "Using solar-powered devices",
+        "Developing mobile treatment units",
+        "Training community health workers",
+        "Importing high-end equipment"
+      ],
+      "answer": "Importing high-end equipment"
+    },
+    {
+      "question": "What is the primary purpose of conducting small-scale research projects on light therapy in Timor-Leste?",
+      "choices": [
+        "To meet academic requirements",
+        "To attract international funding",
+        "To address local health issues",
+        "To promote tourism"
+      ],
+      "answer": "To address local health issues"
+    },
+    {
+      "question": "Which of the following best describes the Fitzpatrick Skin Type scale for the Timorese population?",
+      "choices": [
+        "Primarily Types I and II",
+        "Primarily Types III and IV",
+        "Primarily Types IV and V",
+        "Primarily Types V and VI"
+      ],
+      "answer": "Primarily Types IV and V"
+    },
+    {
+      "question": "What is the recommended approach when starting light therapy treatments for patients with darker skin types?",
+      "choices": [
+        "Use maximum power settings",
+        "Start with standard protocols",
+        "Begin with lower settings and adjust based on response",
+        "Use only near-infrared wavelengths"
+      ],
+      "answer": "Begin with lower settings and adjust based on response"
+    }
+  ]
+}

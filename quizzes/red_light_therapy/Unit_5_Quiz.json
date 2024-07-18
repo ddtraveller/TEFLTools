@@ -1,0 +1,305 @@
+{
+  "title": "Device Selection and Usage Guidelines for Light Therapy",
+  "questions": [
+    {
+      "question": "What is the main difference between LED and laser devices in light therapy?",
+      "choices": [
+        "LED devices emit coherent light, while lasers emit non-coherent light",
+        "LED devices cover a broader area, while lasers produce a narrow, focused beam",
+        "LED devices have higher power density compared to lasers",
+        "Laser devices are more suitable for home use than LED devices"
+      ],
+      "answer": "LED devices cover a broader area, while lasers produce a narrow, focused beam"
+    },
+    {
+      "question": "Which of the following is typically true about LED devices compared to laser devices?",
+      "choices": [
+        "Higher power density",
+        "More expensive",
+        "More suitable for home use",
+        "Deeper tissue penetration"
+      ],
+      "answer": "More suitable for home use"
+    },
+    {
+      "question": "What is the typical wavelength range for red light therapy?",
+      "choices": [
+        "450-500 nm",
+        "530-570 nm",
+        "630-660 nm",
+        "810-850 nm"
+      ],
+      "answer": "630-660 nm"
+    },
+    {
+      "question": "Which wavelength range is associated with deep tissue penetration and muscle recovery?",
+      "choices": [
+        "450-500 nm",
+        "530-570 nm",
+        "630-660 nm",
+        "810-850 nm"
+      ],
+      "answer": "810-850 nm"
+    },
+    {
+      "question": "What unit is typically used to measure the power output of light therapy devices?",
+      "choices": [
+        "Watts (W)",
+        "Joules (J)",
+        "Lumens (lm)",
+        "Candela (cd)"
+      ],
+      "answer": "Watts (W)"
+    },
+    {
+      "question": "Which factor is most important when considering the treatment of larger body areas?",
+      "choices": [
+        "Wavelength",
+        "Power output",
+        "Treatment area size",
+        "Battery life"
+      ],
+      "answer": "Treatment area size"
+    },
+    {
+      "question": "What is a potential advantage of battery-powered light therapy devices in Timor-Leste?",
+      "choices": [
+        "Higher power output",
+        "Larger treatment area",
+        "Resilience to power outages",
+        "Lower cost"
+      ],
+      "answer": "Resilience to power outages"
+    },
+    {
+      "question": "Which environmental factor in Timor-Leste could potentially reduce the lifespan of light therapy devices?",
+      "choices": [
+        "Low humidity",
+        "Cool temperatures",
+        "High altitude",
+        "High humidity"
+      ],
+      "answer": "High humidity"
+    },
+    {
+      "question": "What is an important safety precaution when using light therapy devices?",
+      "choices": [
+        "Always look directly into the light source",
+        "Use the device on open wounds",
+        "Wear appropriate eye protection",
+        "Increase power settings for faster results"
+      ],
+      "answer": "Wear appropriate eye protection"
+    },
+    {
+      "question": "Which of the following is NOT a typical factor to consider when selecting a light therapy device?",
+      "choices": [
+        "Power output",
+        "Wavelength options",
+        "Treatment area size",
+        "Device color"
+      ],
+      "answer": "Device color"
+    },
+    {
+      "question": "What unit is used to measure the dose of light therapy treatment?",
+      "choices": [
+        "Watts (W)",
+        "Joules (J)",
+        "Lumens (lm)",
+        "Hertz (Hz)"
+      ],
+      "answer": "Joules (J)"
+    },
+    {
+      "question": "Which of the following is a potential risk of overdosing with light therapy?",
+      "choices": [
+        "Increased effectiveness",
+        "Faster healing",
+        "Adverse effects",
+        "Extended battery life"
+      ],
+      "answer": "Adverse effects"
+    },
+    {
+      "question": "What is the recommended approach when starting light therapy treatments?",
+      "choices": [
+        "Begin with the highest dose possible",
+        "Start with lower doses and gradually increase",
+        "Use the same dose for all patients",
+        "Alternate between high and low doses"
+      ],
+      "answer": "Start with lower doses and gradually increase"
+    },
+    {
+      "question": "Which of the following is important for maintaining the effectiveness of light therapy devices?",
+      "choices": [
+        "Exposing the device to sunlight regularly",
+        "Submerging the device in water for cleaning",
+        "Regular cleaning of the light-emitting surface",
+        "Storing the device at high temperatures"
+      ],
+      "answer": "Regular cleaning of the light-emitting surface"
+    },
+    {
+      "question": "What tool can be used to verify that a light therapy device is delivering the intended therapeutic dose?",
+      "choices": [
+        "Thermometer",
+        "Light meter",
+        "pH meter",
+        "Pressure gauge"
+      ],
+      "answer": "Light meter"
+    },
+    {
+      "question": "Which of the following is a contraindication for light therapy?",
+      "choices": [
+        "Dry skin",
+        "Muscle soreness",
+        "Use of photosensitizing medications",
+        "Mild joint pain"
+      ],
+      "answer": "Use of photosensitizing medications"
+    },
+    {
+      "question": "What is the primary advantage of LED panels over handheld devices?",
+      "choices": [
+        "Higher power output",
+        "Deeper tissue penetration",
+        "Ability to treat larger areas",
+        "Lower cost"
+      ],
+      "answer": "Ability to treat larger areas"
+    },
+    {
+      "question": "Which factor is most important when considering light therapy devices for use in rural areas with limited electricity access?",
+      "choices": [
+        "High power output",
+        "Large treatment area",
+        "Battery operation or solar power capability",
+        "Multiple wavelength options"
+      ],
+      "answer": "Battery operation or solar power capability"
+    },
+    {
+      "question": "What is the purpose of using a combination of red and near-infrared light in therapy?",
+      "choices": [
+        "To reduce treatment time",
+        "To increase device lifespan",
+        "To target both surface and deep tissues",
+        "To minimize power consumption"
+      ],
+      "answer": "To target both surface and deep tissues"
+    },
+    {
+      "question": "Which of the following is NOT a typical application for red light therapy?",
+      "choices": [
+        "Skin rejuvenation",
+        "Wound healing",
+        "Teeth whitening",
+        "Anti-aging treatments"
+      ],
+      "answer": "Teeth whitening"
+    },
+    {
+      "question": "What does higher power density in a light therapy device allow for?",
+      "choices": [
+        "Longer battery life",
+        "Shorter treatment times",
+        "Larger treatment areas",
+        "More wavelength options"
+      ],
+      "answer": "Shorter treatment times"
+    },
+    {
+      "question": "Which of the following is a key consideration when introducing light therapy in Timorese communities?",
+      "choices": [
+        "Ensuring devices are as technologically advanced as possible",
+        "Using only imported maintenance services",
+        "Addressing potential cultural acceptability issues",
+        "Focusing solely on clinical settings for treatments"
+      ],
+      "answer": "Addressing potential cultural acceptability issues"
+    },
+    {
+      "question": "What is an important step in preparing for a light therapy treatment?",
+      "choices": [
+        "Applying thick lotion to the treatment area",
+        "Consuming caffeine before treatment",
+        "Cleaning the treatment area",
+        "Exposing the area to sunlight first"
+      ],
+      "answer": "Cleaning the treatment area"
+    },
+    {
+      "question": "Which of the following would be most beneficial for a mobile clinic in Timor-Leste?",
+      "choices": [
+        "A large, stationary LED panel",
+        "A high-powered laser device",
+        "A portable, battery-operated LED device",
+        "A mains-powered, multi-wavelength system"
+      ],
+      "answer": "A portable, battery-operated LED device"
+    },
+    {
+      "question": "What is the primary concern when using light therapy devices in areas with frequent power outages?",
+      "choices": [
+        "Overheating of the device",
+        "Inconsistent treatment schedules",
+        "Increased power output",
+        "Faster battery drain"
+      ],
+      "answer": "Inconsistent treatment schedules"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of using LED devices for light therapy?",
+      "choices": [
+        "Lower risk of tissue damage",
+        "More affordable than lasers",
+        "Suitable for home use",
+        "Higher power density than lasers"
+      ],
+      "answer": "Higher power density than lasers"
+    },
+    {
+      "question": "What is an important consideration when selecting light therapy devices for use in Timor-Leste's humid climate?",
+      "choices": [
+        "Choosing devices with the highest power output",
+        "Opting for devices with minimal ventilation",
+        "Selecting devices with good moisture resistance",
+        "Preferring mains-powered over battery-operated devices"
+      ],
+      "answer": "Selecting devices with good moisture resistance"
+    },
+    {
+      "question": "Which of the following is a key advantage of laser devices in light therapy?",
+      "choices": [
+        "Lower cost",
+        "Broader treatment area",
+        "Higher power density",
+        "Safer for home use"
+      ],
+      "answer": "Higher power density"
+    },
+    {
+      "question": "What should be done if a patient experiences discomfort during light therapy treatment?",
+      "choices": [
+        "Increase the power output",
+        "Extend the treatment time",
+        "Ignore it and continue the treatment",
+        "Stop the treatment and reassess"
+      ],
+      "answer": "Stop the treatment and reassess"
+    },
+    {
+      "question": "Which factor is most important when considering the long-term use of light therapy devices in remote areas?",
+      "choices": [
+        "The color of the device",
+        "The brand name",
+        "The availability of replacement parts or servicing",
+        "The weight of the device"
+      ],
+      "answer": "The availability of replacement parts or servicing"
+    }
+  ]
+}

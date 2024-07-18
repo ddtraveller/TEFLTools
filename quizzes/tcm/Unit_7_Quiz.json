@@ -1,0 +1,305 @@
+{
+  "title": "Integrative Approaches and Community Application",
+  "questions": [
+    {
+      "question": "What is the primary goal of integrative medicine?",
+      "choices": [
+        "To replace conventional medicine entirely",
+        "To address the whole person - body, mind, and spirit",
+        "To focus solely on alternative therapies",
+        "To reduce healthcare costs"
+      ],
+      "answer": "To address the whole person - body, mind, and spirit"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a component of integrative medicine?",
+      "choices": [
+        "Acupuncture",
+        "Herbal medicine",
+        "Surgery",
+        "Mind-body techniques"
+      ],
+      "answer": "Surgery"
+    },
+    {
+      "question": "What is a key strength of integrative medicine when applied to community health programs?",
+      "choices": [
+        "Its high cost",
+        "Its reliance on advanced technology",
+        "Its adaptability to different cultural contexts",
+        "Its focus on pharmaceutical interventions"
+      ],
+      "answer": "Its adaptability to different cultural contexts"
+    },
+    {
+      "question": "In the context of integrative medicine, what does 'collaborative care' refer to?",
+      "choices": [
+        "Patients collaborating with each other",
+        "Healthcare providers from various disciplines working together",
+        "Hospitals collaborating with insurance companies",
+        "Researchers collaborating on clinical trials"
+      ],
+      "answer": "Healthcare providers from various disciplines working together"
+    },
+    {
+      "question": "When adapting TCM concepts for a Timorese community, what approach is recommended?",
+      "choices": [
+        "Using complex medical terminology",
+        "Ignoring local cultural beliefs",
+        "Using analogies from Timorese culture",
+        "Focusing only on Western medical concepts"
+      ],
+      "answer": "Using analogies from Timorese culture"
+    },
+    {
+      "question": "What is cultural competence in healthcare?",
+      "choices": [
+        "The ability to speak multiple languages",
+        "The ability to understand, communicate with, and effectively interact with people across cultures",
+        "The ability to diagnose culture-specific diseases",
+        "The ability to perform traditional healing rituals"
+      ],
+      "answer": "The ability to understand, communicate with, and effectively interact with people across cultures"
+    },
+    {
+      "question": "Why is understanding cultural beliefs about pain important in integrative pain management?",
+      "choices": [
+        "To reinforce stereotypes",
+        "To develop more effective, culturally appropriate strategies",
+        "To ignore traditional treatments",
+        "To promote only Western pain management techniques"
+      ],
+      "answer": "To develop more effective, culturally appropriate strategies"
+    },
+    {
+      "question": "What is a key characteristic of community-based interventions in healthcare?",
+      "choices": [
+        "They are designed without community input",
+        "They focus only on individual health",
+        "They are designed with and for the participation of specific communities",
+        "They prioritize cost-cutting over health outcomes"
+      ],
+      "answer": "They are designed with and for the participation of specific communities"
+    },
+    {
+      "question": "What is health literacy?",
+      "choices": [
+        "The ability to read medical textbooks",
+        "The ability to write prescriptions",
+        "The ability to obtain, process, and understand basic health information",
+        "The ability to perform complex medical procedures"
+      ],
+      "answer": "The ability to obtain, process, and understand basic health information"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential challenge in implementing integrative approaches in community settings?",
+      "choices": [
+        "Resistance from traditional healthcare systems",
+        "Lack of evidence for certain complementary therapies",
+        "Need for additional training for healthcare providers",
+        "Excessive funding and resources"
+      ],
+      "answer": "Excessive funding and resources"
+    },
+    {
+      "question": "What is the Tetum term for 'Qi' in TCM?",
+      "choices": [
+        "Dalan energia",
+        "Forsa moris",
+        "Balansa natureza",
+        "Fatin energia"
+      ],
+      "answer": "Forsa moris"
+    },
+    {
+      "question": "Which of the following is a key principle of integrative medicine?",
+      "choices": [
+        "Focusing solely on physical symptoms",
+        "Emphasizing the therapeutic relationship",
+        "Prioritizing pharmaceutical interventions",
+        "Ignoring patient preferences"
+      ],
+      "answer": "Emphasizing the therapeutic relationship"
+    },
+    {
+      "question": "In the context of adapting TCM for Timor-Leste, what is recommended regarding herbal remedies?",
+      "choices": [
+        "Always import Chinese herbs",
+        "Avoid using any herbal remedies",
+        "Use local herbs and remedies when possible",
+        "Only use Western pharmaceuticals"
+      ],
+      "answer": "Use local herbs and remedies when possible"
+    },
+    {
+      "question": "What role can local healers play in integrating TCM into Timorese healthcare?",
+      "choices": [
+        "They should be completely replaced by TCM practitioners",
+        "They can collaborate with TCM practitioners",
+        "They should only practice Western medicine",
+        "They have no role in integrated healthcare"
+      ],
+      "answer": "They can collaborate with TCM practitioners"
+    },
+    {
+      "question": "What is the purpose of using culturally appropriate analogies when explaining TCM concepts?",
+      "choices": [
+        "To confuse patients",
+        "To make ideas more accessible and relatable",
+        "To replace local beliefs entirely",
+        "To promote Chinese culture"
+      ],
+      "answer": "To make ideas more accessible and relatable"
+    },
+    {
+      "question": "Which of the following is an example of a collaborative care model?",
+      "choices": [
+        "A single doctor working alone",
+        "Patients self-diagnosing using the internet",
+        "A team of healthcare providers from different disciplines working together",
+        "A hospital focusing only on emergency care"
+      ],
+      "answer": "A team of healthcare providers from different disciplines working together"
+    },
+    {
+      "question": "What is the Tetum term for 'Yin-Yang' in TCM?",
+      "choices": [
+        "Forsa moris",
+        "Dalan energia",
+        "Balansa natureza",
+        "Lima elementu natureza"
+      ],
+      "answer": "Balansa natureza"
+    },
+    {
+      "question": "When designing a community workshop on holistic pain management in Timor-Leste, what should be included?",
+      "choices": [
+        "Only Western pain management techniques",
+        "Only traditional Timorese remedies",
+        "A combination of TCM principles, local remedies, and Western techniques",
+        "Exclusively Chinese herbal medicine"
+      ],
+      "answer": "A combination of TCM principles, local remedies, and Western techniques"
+    },
+    {
+      "question": "What is a potential benefit of integrating TCM with Western medicine in community health programs?",
+      "choices": [
+        "Increased healthcare costs",
+        "Reduced patient satisfaction",
+        "Improved patient outcomes",
+        "Less comprehensive care"
+      ],
+      "answer": "Improved patient outcomes"
+    },
+    {
+      "question": "How can health literacy be improved in a culturally sensitive manner?",
+      "choices": [
+        "By using complex medical jargon",
+        "By ignoring local cultural beliefs",
+        "By using visual aids, storytelling, or community theater",
+        "By focusing only on written materials"
+      ],
+      "answer": "By using visual aids, storytelling, or community theater"
+    },
+    {
+      "question": "What is the importance of understanding local perceptions of pain when implementing TCM pain management techniques?",
+      "choices": [
+        "To reinforce pain as a necessary part of life",
+        "To develop more effective and culturally appropriate interventions",
+        "To promote only TCM techniques",
+        "To discourage the use of any pain management techniques"
+      ],
+      "answer": "To develop more effective and culturally appropriate interventions"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of integrative medicine?",
+      "choices": [
+        "Improved patient outcomes",
+        "Enhanced patient satisfaction",
+        "Potential cost savings",
+        "Guaranteed cure for all diseases"
+      ],
+      "answer": "Guaranteed cure for all diseases"
+    },
+    {
+      "question": "What is the recommended approach for training local practitioners in TCM techniques?",
+      "choices": [
+        "Sending all local practitioners to China for training",
+        "Replacing local practitioners with Chinese experts",
+        "Adapting TCM training to local contexts and resources",
+        "Focusing only on Western medical training"
+      ],
+      "answer": "Adapting TCM training to local contexts and resources"
+    },
+    {
+      "question": "What is the significance of incorporating familiar rituals or practices when integrating TCM into local healthcare?",
+      "choices": [
+        "To replace TCM concepts entirely",
+        "To make the treatment more expensive",
+        "To bridge TCM and local healing traditions",
+        "To confuse patients about different healthcare approaches"
+      ],
+      "answer": "To bridge TCM and local healing traditions"
+    },
+    {
+      "question": "Which of the following is a key consideration when adapting TCM dietary advice to Timor-Leste?",
+      "choices": [
+        "Importing all foods from China",
+        "Ignoring local food preferences",
+        "Adapting advice to local food availability",
+        "Promoting a Western diet exclusively"
+      ],
+      "answer": "Adapting advice to local food availability"
+    },
+    {
+      "question": "What is the purpose of shadowing local traditional healers, as mentioned in the practical experience section?",
+      "choices": [
+        "To replace their practices with TCM",
+        "To observe their practices and integrate relevant aspects",
+        "To criticize their methods",
+        "To promote only Western medicine"
+      ],
+      "answer": "To observe their practices and integrate relevant aspects"
+    },
+    {
+      "question": "What is the main goal of organizing community health fairs to demonstrate TCM techniques?",
+      "choices": [
+        "To replace all local healing practices",
+        "To promote only Chinese culture",
+        "To educate the community about integrative approaches to health",
+        "To sell TCM products"
+      ],
+      "answer": "To educate the community about integrative approaches to health"
+    },
+    {
+      "question": "When considering touch-based therapies in Timor-Leste, what is a key factor to consider?",
+      "choices": [
+        "Ignoring local customs about physical contact",
+        "Cultural considerations regarding touch",
+        "Implementing all therapies exactly as practiced in China",
+        "Avoiding touch-based therapies entirely"
+      ],
+      "answer": "Cultural considerations regarding touch"
+    },
+    {
+      "question": "What is the purpose of adapting Qi Gong and Tai Chi for Timorese practitioners?",
+      "choices": [
+        "To make the practices less effective",
+        "To completely change the fundamental principles",
+        "To make the practices more culturally appropriate and accessible",
+        "To eliminate all local movement practices"
+      ],
+      "answer": "To make the practices more culturally appropriate and accessible"
+    },
+    {
+      "question": "What is the significance of researching TCM approaches to common pain conditions in Timor-Leste?",
+      "choices": [
+        "To prove TCM is superior to all other approaches",
+        "To develop evidence-based, culturally appropriate treatments",
+        "To discourage the use of local healing practices",
+        "To promote Chinese tourism to Timor-Leste"
+      ],
+      "answer": "To develop evidence-based, culturally appropriate treatments"
+    }
+  ]
+}
