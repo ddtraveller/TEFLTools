@@ -166,6 +166,37 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
+## Online/Offline English Exam for Progress Tracking
+
+Lista ezame ne'e iha HTML no mós fail json ne'ebé hamutuk halo ezame. 
+Ezame Profisiensia Ingles ne'e hanesan avaliasaun komprehensivu ida-ne'ebé dezeña atu avalia abilidade lian oin-oin iha área vokabularia no gramátika. 
+Ida ne'e fornese dezempeñu detalladu ida breakdown ba estudante sira-nia área forsa no fraku. 
+Teste ne'e dezeña atu hala'o iha inísiu no remata servisu voluntáriu hodi hetan ideia kona-ba progresu estudante nian. 
+Teste ne'e entrega pergunta opsaun oioin 20 husi pakote liu 100. 
+
+The exam folder contains an HTML and a json file that together deliver an exam.
+The English Proficiency Exam is a comprehensive assessment designed to evaluate a wide range of language skills across both vocabulary and grammar domains. 
+It delivers a detailed performance breakdown of students areas of strength and weakness.
+The test is designed to be run at the begining and end of a volunteer stay to get an idea of student progress.
+The test delivers 20 random multiple choice questions out of a pool of over 100.
+
+Ezame bele halo iha ne'e / The exam can be taken here;
+https://content.go-tl.com/exam.html
+
+Ezame ne'e bele download husi gitub iha ne'e, no mós hala'o iha fatin lokál / The exam can be downloaded from github here, and run locally as well;
+https://github.com/ddtraveller/TEFLTools/tree/main/exam/exam.html
+https://github.com/ddtraveller/TEFLTools/tree/main/exam/questions.json
+
+Atu hala'o lokál hahú servisu web lokál ida uza komandu liña komandu husi diresaun ne'ebé arkivu ezame ne'e lokaliza / To run locally start up a local web server using a command line command from the directory where the exam file is located:
+```
+python -m http.server 8000
+```
+
+Navigasaun ba URL ne'e iha navegador / Navigate to this URL in a browser;
+```
+http://localhost:8000/exam.html
+```
+
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 
 
 https://www.youtube.com/watch?v=5hKWLY1lZrs
