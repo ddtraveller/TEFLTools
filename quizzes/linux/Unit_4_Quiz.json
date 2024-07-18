@@ -1,0 +1,305 @@
+{
+  "title": "User and Group Management",
+  "questions": [
+    {
+      "question": "What is the purpose of the useradd command?",
+      "choices": [
+        "To delete a user account",
+        "To modify an existing user account",
+        "To create a new user account",
+        "To change a user's password"
+      ],
+      "answer": "To create a new user account"
+    },
+    {
+      "question": "Which file contains essential information about each user, including their username, UID, and home directory?",
+      "choices": [
+        "/etc/shadow",
+        "/etc/passwd",
+        "/etc/group",
+        "/etc/users"
+      ],
+      "answer": "/etc/passwd"
+    },
+    {
+      "question": "What is the primary purpose of groups in Linux?",
+      "choices": [
+        "To organize files",
+        "To share permissions among multiple users",
+        "To create backups",
+        "To manage system processes"
+      ],
+      "answer": "To share permissions among multiple users"
+    },
+    {
+      "question": "Which command is used to modify an existing user account?",
+      "choices": [
+        "usermod",
+        "useradd",
+        "userdel",
+        "passwd"
+      ],
+      "answer": "usermod"
+    },
+    {
+      "question": "What does the -m option do when used with the useradd command?",
+      "choices": [
+        "Modifies the user's group",
+        "Creates a home directory for the user",
+        "Sets the user's password",
+        "Deletes the user's mail spool"
+      ],
+      "answer": "Creates a home directory for the user"
+    },
+    {
+      "question": "Which file stores group information in Linux?",
+      "choices": [
+        "/etc/groups",
+        "/etc/passwd",
+        "/etc/shadow",
+        "/etc/group"
+      ],
+      "answer": "/etc/group"
+    },
+    {
+      "question": "What is the purpose of the sudo command?",
+      "choices": [
+        "To switch user accounts",
+        "To create new groups",
+        "To execute commands with elevated privileges",
+        "To modify user passwords"
+      ],
+      "answer": "To execute commands with elevated privileges"
+    },
+    {
+      "question": "Which command is used to set or change user passwords?",
+      "choices": [
+        "passwd",
+        "userpass",
+        "setpass",
+        "chpass"
+      ],
+      "answer": "passwd"
+    },
+    {
+      "question": "What does UID stand for in the context of Linux user management?",
+      "choices": [
+        "User Interface Design",
+        "Unique Identifier",
+        "User ID",
+        "Unix Integrated Development"
+      ],
+      "answer": "User ID"
+    },
+    {
+      "question": "Which command is used to delete a user account?",
+      "choices": [
+        "userdel",
+        "rmuser",
+        "deleteuser",
+        "usermod -d"
+      ],
+      "answer": "userdel"
+    },
+    {
+      "question": "What is the purpose of the visudo command?",
+      "choices": [
+        "To view system logs",
+        "To edit the sudoers file safely",
+        "To change user visibility settings",
+        "To visualize user login history"
+      ],
+      "answer": "To edit the sudoers file safely"
+    },
+    {
+      "question": "Which option of usermod is used to add a user to a supplementary group without removing them from other groups?",
+      "choices": [
+        "-G",
+        "-a -G",
+        "-g",
+        "-s"
+      ],
+      "answer": "-a -G"
+    },
+    {
+      "question": "What does GID stand for in the context of Linux group management?",
+      "choices": [
+        "Group Interface Design",
+        "Global Identifier",
+        "Group ID",
+        "General Input Device"
+      ],
+      "answer": "Group ID"
+    },
+    {
+      "question": "Which command is used to create a new group?",
+      "choices": [
+        "groupadd",
+        "addgroup",
+        "newgroup",
+        "creategroup"
+      ],
+      "answer": "groupadd"
+    },
+    {
+      "question": "What is the purpose of the /etc/shadow file?",
+      "choices": [
+        "To store user account information",
+        "To store encrypted user passwords",
+        "To define user groups",
+        "To configure system shadows"
+      ],
+      "answer": "To store encrypted user passwords"
+    },
+    {
+      "question": "Which field in the /etc/passwd file specifies the user's default shell?",
+      "choices": [
+        "The third field",
+        "The fifth field",
+        "The sixth field",
+        "The seventh field"
+      ],
+      "answer": "The seventh field"
+    },
+    {
+      "question": "What is the recommended way to edit the sudoers file?",
+      "choices": [
+        "Using a standard text editor",
+        "Using the visudo command",
+        "Editing /etc/sudoers directly",
+        "Using the sudoedit command"
+      ],
+      "answer": "Using the visudo command"
+    },
+    {
+      "question": "Which option of the userdel command removes the user's home directory and mail spool?",
+      "choices": [
+        "-r",
+        "-h",
+        "-m",
+        "-d"
+      ],
+      "answer": "-r"
+    },
+    {
+      "question": "What is the purpose of the 'wheel' group in many Linux distributions?",
+      "choices": [
+        "To manage disk partitions",
+        "To control system time",
+        "To grant sudo access",
+        "To manage network interfaces"
+      ],
+      "answer": "To grant sudo access"
+    },
+    {
+      "question": "Which command can be used to change a user's primary group?",
+      "choices": [
+        "chgrp",
+        "usermod -g",
+        "groupmod",
+        "setgroup"
+      ],
+      "answer": "usermod -g"
+    },
+    {
+      "question": "What does the GECOS field in /etc/passwd typically contain?",
+      "choices": [
+        "Encrypted password",
+        "Home directory path",
+        "User's full name and other details",
+        "Default shell"
+      ],
+      "answer": "User's full name and other details"
+    },
+    {
+      "question": "Which command can be used to view all groups a user belongs to?",
+      "choices": [
+        "groups",
+        "usergroups",
+        "getgroups",
+        "listgroups"
+      ],
+      "answer": "groups"
+    },
+    {
+      "question": "What is the purpose of the 'sticky bit' on a directory?",
+      "choices": [
+        "To make the directory immutable",
+        "To allow only the owner to delete files",
+        "To execute the directory as a program",
+        "To hide the directory contents"
+      ],
+      "answer": "To allow only the owner to delete files"
+    },
+    {
+      "question": "Which file should be edited to change the default settings for new user accounts?",
+      "choices": [
+        "/etc/default/useradd",
+        "/etc/skel",
+        "/etc/passwd",
+        "/etc/newuser.conf"
+      ],
+      "answer": "/etc/default/useradd"
+    },
+    {
+      "question": "What is the purpose of the /etc/skel directory?",
+      "choices": [
+        "To store system skeleton files",
+        "To define user account structures",
+        "To provide template files for new user home directories",
+        "To store temporary user files"
+      ],
+      "answer": "To provide template files for new user home directories"
+    },
+    {
+      "question": "Which command can be used to lock a user account?",
+      "choices": [
+        "userlock",
+        "passwd -l",
+        "accountlock",
+        "usermod --lock"
+      ],
+      "answer": "passwd -l"
+    },
+    {
+      "question": "What does the 'sudoers' file control?",
+      "choices": [
+        "System update schedules",
+        "User login times",
+        "Sudo access and permissions",
+        "System backup configurations"
+      ],
+      "answer": "Sudo access and permissions"
+    },
+    {
+      "question": "Which command can be used to change a user's login name?",
+      "choices": [
+        "usermod -l",
+        "chname",
+        "rename",
+        "passwd -r"
+      ],
+      "answer": "usermod -l"
+    },
+    {
+      "question": "What is the purpose of the 'nologin' shell?",
+      "choices": [
+        "To provide a minimal login environment",
+        "To prevent interactive login for service accounts",
+        "To log all user actions",
+        "To create a new login session"
+      ],
+      "answer": "To prevent interactive login for service accounts"
+    },
+    {
+      "question": "Which command can be used to set an expiration date for a user account?",
+      "choices": [
+        "usermod -e",
+        "expireuser",
+        "setexpiry",
+        "passwd -x"
+      ],
+      "answer": "usermod -e"
+    }
+  ]
+}

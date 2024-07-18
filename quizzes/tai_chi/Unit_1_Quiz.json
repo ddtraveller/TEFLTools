@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Internal Energy Arts",
+  "questions": [
+    {
+      "question": "What is the central concept in Chinese philosophy and medicine that is fundamental to internal energy arts?",
+      "choices": [
+        "Yin-yang",
+        "Qi",
+        "Tao",
+        "Feng shui"
+      ],
+      "answer": "Qi"
+    },
+    {
+      "question": "Which of the following best describes the concept of yin-yang?",
+      "choices": [
+        "Good versus evil",
+        "Light versus darkness",
+        "Complementary, interconnected opposites",
+        "Male versus female"
+      ],
+      "answer": "Complementary, interconnected opposites"
+    },
+    {
+      "question": "During which Chinese dynasty did tai chi originate?",
+      "choices": [
+        "Tang Dynasty",
+        "Song Dynasty",
+        "Ming Dynasty",
+        "Chen Dynasty"
+      ],
+      "answer": "Chen Dynasty"
+    },
+    {
+      "question": "Who is credited with developing tai chi?",
+      "choices": [
+        "Confucius",
+        "Lao Tzu",
+        "Chen Wangting",
+        "Sun Tzu"
+      ],
+      "answer": "Chen Wangting"
+    },
+    {
+      "question": "What is the primary focus of qi gong practice?",
+      "choices": [
+        "Martial arts techniques",
+        "Cultivating and balancing qi",
+        "Competitive sports",
+        "Weight loss"
+      ],
+      "answer": "Cultivating and balancing qi"
+    },
+    {
+      "question": "Which of the following is NOT considered a major style of tai chi?",
+      "choices": [
+        "Chen",
+        "Yang",
+        "Wu",
+        "Ling"
+      ],
+      "answer": "Ling"
+    },
+    {
+      "question": "What is the meaning of 'tai chi' in English?",
+      "choices": [
+        "Supreme ultimate",
+        "Gentle exercise",
+        "Flowing water",
+        "Internal energy"
+      ],
+      "answer": "Supreme ultimate"
+    },
+    {
+      "question": "How old is the practice of qi gong estimated to be?",
+      "choices": [
+        "About 1,000 years",
+        "About 2,000 years",
+        "About 3,000 years",
+        "Over 4,000 years"
+      ],
+      "answer": "Over 4,000 years"
+    },
+    {
+      "question": "Which of the following is a key principle in tai chi practice?",
+      "choices": [
+        "Rapid, forceful movements",
+        "Holding the breath",
+        "Relaxation (Song)",
+        "Competitive spirit"
+      ],
+      "answer": "Relaxation (Song)"
+    },
+    {
+      "question": "What is the name of the standing meditation posture often practiced in internal energy arts?",
+      "choices": [
+        "Mountain pose",
+        "Warrior stance",
+        "Embracing the tree",
+        "Lotus position"
+      ],
+      "answer": "Embracing the tree"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a physical benefit of tai chi practice?",
+      "choices": [
+        "Improved balance",
+        "Increased flexibility",
+        "Enhanced strength",
+        "Rapid muscle growth"
+      ],
+      "answer": "Rapid muscle growth"
+    },
+    {
+      "question": "What is the primary focus of the 'microcosmic orbit meditation' in internal energy arts?",
+      "choices": [
+        "Planetary alignment",
+        "Circulating qi through specific energy pathways",
+        "Astral projection",
+        "Time travel"
+      ],
+      "answer": "Circulating qi through specific energy pathways"
+    },
+    {
+      "question": "Which of the following best describes the movement style in tai chi?",
+      "choices": [
+        "Quick and jerky",
+        "Slow and flowing",
+        "Rigid and static",
+        "Erratic and unpredictable"
+      ],
+      "answer": "Slow and flowing"
+    },
+    {
+      "question": "What is the term for the energy channels through which qi is believed to flow in the body?",
+      "choices": [
+        "Chakras",
+        "Meridians",
+        "Nadis",
+        "Synapses"
+      ],
+      "answer": "Meridians"
+    },
+    {
+      "question": "Which philosophical text is often associated with the principles of tai chi and qi gong?",
+      "choices": [
+        "The Analects",
+        "The Art of War",
+        "Tao Te Ching",
+        "I Ching"
+      ],
+      "answer": "Tao Te Ching"
+    },
+    {
+      "question": "What is the primary purpose of the 'lower dantian' in internal energy arts practice?",
+      "choices": [
+        "Digestion",
+        "Respiration",
+        "Energy storage and cultivation",
+        "Blood circulation"
+      ],
+      "answer": "Energy storage and cultivation"
+    },
+    {
+      "question": "Which of the following is a key difference between tai chi and qi gong?",
+      "choices": [
+        "Tai chi involves movement, while qi gong is always static",
+        "Qi gong is older than tai chi",
+        "Tai chi has martial applications, while qi gong does not",
+        "Qi gong is only for health, while tai chi is only for self-defense"
+      ],
+      "answer": "Tai chi has martial applications, while qi gong does not"
+    },
+    {
+      "question": "What type of breathing is typically emphasized in internal energy arts practice?",
+      "choices": [
+        "Chest breathing",
+        "Diaphragmatic breathing",
+        "Rapid, shallow breathing",
+        "Breath holding"
+      ],
+      "answer": "Diaphragmatic breathing"
+    },
+    {
+      "question": "Which of the following is NOT a common category of qi gong practice?",
+      "choices": [
+        "Medical qi gong",
+        "Martial qi gong",
+        "Spiritual qi gong",
+        "Competitive qi gong"
+      ],
+      "answer": "Competitive qi gong"
+    },
+    {
+      "question": "What is the primary goal of 'rooting' in tai chi practice?",
+      "choices": [
+        "Growing taller",
+        "Improving flexibility",
+        "Establishing a stable connection with the ground",
+        "Increasing speed"
+      ],
+      "answer": "Establishing a stable connection with the ground"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'wu wei' in relation to internal energy arts?",
+      "choices": [
+        "Forceful action",
+        "Non-action or effortless action",
+        "Rapid movement",
+        "Competitive spirit"
+      ],
+      "answer": "Non-action or effortless action"
+    },
+    {
+      "question": "What is the significance of the 'dan tian' in internal energy arts?",
+      "choices": [
+        "It's a type of martial arts weapon",
+        "It's a meditation technique",
+        "It's an energy center in the body",
+        "It's a breathing exercise"
+      ],
+      "answer": "It's an energy center in the body"
+    },
+    {
+      "question": "Which of the following is a key principle in the practice of 'push hands' in tai chi?",
+      "choices": [
+        "Using maximum force",
+        "Resisting your partner's movements",
+        "Yielding and redirecting force",
+        "Moving as quickly as possible"
+      ],
+      "answer": "Yielding and redirecting force"
+    },
+    {
+      "question": "What is the primary purpose of the 'silk reeling' exercises in Chen style tai chi?",
+      "choices": [
+        "To improve flexibility",
+        "To develop spiral energy and connected movement",
+        "To increase punching power",
+        "To practice high kicks"
+      ],
+      "answer": "To develop spiral energy and connected movement"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a mental benefit of internal energy arts practice?",
+      "choices": [
+        "Reduced stress",
+        "Improved focus",
+        "Enhanced memory",
+        "Increased aggression"
+      ],
+      "answer": "Increased aggression"
+    },
+    {
+      "question": "What is the significance of the 'five elements' theory in traditional Chinese medicine and internal energy arts?",
+      "choices": [
+        "It's a system for classifying chemical elements",
+        "It describes the building blocks of the physical world and their interactions",
+        "It's a nutritional guide for healthy eating",
+        "It's a system for predicting the weather"
+      ],
+      "answer": "It describes the building blocks of the physical world and their interactions"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'jing' in internal energy arts?",
+      "choices": [
+        "Physical strength or essence",
+        "Mental clarity",
+        "Spiritual enlightenment",
+        "Emotional balance"
+      ],
+      "answer": "Physical strength or essence"
+    },
+    {
+      "question": "What is the primary focus of 'neigong' practices in internal energy arts?",
+      "choices": [
+        "External martial arts techniques",
+        "Internal energy cultivation",
+        "Physical flexibility",
+        "Competitive sports"
+      ],
+      "answer": "Internal energy cultivation"
+    },
+    {
+      "question": "Which of the following is a key principle in the practice of 'zhan zhuang' or standing meditation?",
+      "choices": [
+        "Moving quickly between postures",
+        "Holding tension in the muscles",
+        "Maintaining a relaxed, aligned posture for extended periods",
+        "Practicing advanced martial arts techniques"
+      ],
+      "answer": "Maintaining a relaxed, aligned posture for extended periods"
+    },
+    {
+      "question": "What is the significance of the 'bagua' symbol in internal energy arts?",
+      "choices": [
+        "It's a type of martial arts weapon",
+        "It represents the eight trigrams used in Taoist cosmology",
+        "It's a meditation technique",
+        "It's a type of breathing exercise"
+      ],
+      "answer": "It represents the eight trigrams used in Taoist cosmology"
+    }
+  ]
+}

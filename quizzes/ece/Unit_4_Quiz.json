@@ -1,0 +1,305 @@
+{
+  "title": "Challenges for Vulnerable Populations in Accessing Child Care",
+  "questions": [
+    {
+      "question": "What is one of the most significant hurdles for vulnerable populations in rural areas of Timor-Leste?",
+      "choices": [
+        "Lack of internet access",
+        "Geographic barriers to accessing child care services",
+        "Shortage of food supplies",
+        "High crime rates"
+      ],
+      "answer": "Geographic barriers to accessing child care services"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a vulnerable population in the context of child care access in Timor-Leste?",
+      "choices": [
+        "Low-income families",
+        "Single-parent households",
+        "Rural communities",
+        "University students"
+      ],
+      "answer": "University students"
+    },
+    {
+      "question": "What percentage of Timor-Leste's population lived below the poverty line according to 2014 data?",
+      "choices": [
+        "21.8%",
+        "31.8%",
+        "41.8%",
+        "51.8%"
+      ],
+      "answer": "41.8%"
+    },
+    {
+      "question": "What percentage of children under 5 were attending early childhood education programs in Timor-Leste according to 2016 data?",
+      "choices": [
+        "7%",
+        "17%",
+        "27%",
+        "37%"
+      ],
+      "answer": "17%"
+    },
+    {
+      "question": "Which of the following is a financial challenge for low-income families seeking child care?",
+      "choices": [
+        "High property taxes",
+        "Cost of school uniforms",
+        "Expensive textbooks",
+        "Transportation costs"
+      ],
+      "answer": "Transportation costs"
+    },
+    {
+      "question": "What percentage of Timor-Leste's population was rural in 2020?",
+      "choices": [
+        "49.4%",
+        "59.4%",
+        "69.4%",
+        "79.4%"
+      ],
+      "answer": "69.4%"
+    },
+    {
+      "question": "How many official languages does Timor-Leste have?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "What are the official languages of Timor-Leste?",
+      "choices": [
+        "Tetum and English",
+        "Portuguese and English",
+        "Tetum and Portuguese",
+        "Fataluku and Tetum"
+      ],
+      "answer": "Tetum and Portuguese"
+    },
+    {
+      "question": "How many indigenous languages are spoken in Timor-Leste?",
+      "choices": [
+        "12",
+        "22",
+        "32",
+        "42"
+      ],
+      "answer": "32"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge specific to rural areas in Timor-Leste?",
+      "choices": [
+        "Limited public transportation options",
+        "Poor road conditions",
+        "Long distances between villages and child care centers",
+        "Lack of electricity"
+      ],
+      "answer": "Lack of electricity"
+    },
+    {
+      "question": "What is one impact of geographic barriers on child care access in rural areas?",
+      "choices": [
+        "Increased enrollment in child care centers",
+        "Higher quality of care provided",
+        "Reduced ability to respond to emergencies",
+        "More diverse educational programs"
+      ],
+      "answer": "Reduced ability to respond to emergencies"
+    },
+    {
+      "question": "Which of the following is a cultural barrier for minority groups seeking child care?",
+      "choices": [
+        "Lack of outdoor play areas",
+        "Limited availability of care providers fluent in minority languages",
+        "Excessive use of technology in child care settings",
+        "Strict dress codes for children"
+      ],
+      "answer": "Limited availability of care providers fluent in minority languages"
+    },
+    {
+      "question": "What is one way financial challenges impact child care decisions for low-income families?",
+      "choices": [
+        "Choosing higher-quality, more expensive care options",
+        "Enrolling children in multiple care centers",
+        "Choosing lower-quality, informal care options",
+        "Hiring private tutors for early education"
+      ],
+      "answer": "Choosing lower-quality, informal care options"
+    },
+    {
+      "question": "What is cultural competence in the context of child care?",
+      "choices": [
+        "The ability to speak multiple languages",
+        "Knowledge of international child care policies",
+        "The ability to understand and effectively interact with people across cultures",
+        "Expertise in child psychology"
+      ],
+      "answer": "The ability to understand and effectively interact with people across cultures"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a vulnerable group in the context of child care access in Timor-Leste?",
+      "choices": [
+        "Linguistic minorities",
+        "Rural communities",
+        "Elderly population",
+        "Low-income families"
+      ],
+      "answer": "Elderly population"
+    },
+    {
+      "question": "What is one potential consequence of linguistic barriers in early childhood care?",
+      "choices": [
+        "Improved multilingual skills for children",
+        "Enhanced parent-provider communication",
+        "Negative impact on child development and school readiness",
+        "Increased enrollment in language immersion programs"
+      ],
+      "answer": "Negative impact on child development and school readiness"
+    },
+    {
+      "question": "Which of the following is a suggested solution for addressing geographic barriers to child care access?",
+      "choices": [
+        "Building more highways",
+        "Providing helicopter transportation",
+        "Implementing mobile child care services",
+        "Relocating rural populations to urban areas"
+      ],
+      "answer": "Implementing mobile child care services"
+    },
+    {
+      "question": "What is one way that financial constraints affect child care access for vulnerable populations?",
+      "choices": [
+        "Increased government funding for child care centers",
+        "Higher salaries for child care workers",
+        "Child care costs consuming a large percentage of family income",
+        "More affordable private child care options"
+      ],
+      "answer": "Child care costs consuming a large percentage of family income"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a strategy used by families to cope with child care challenges?",
+      "choices": [
+        "Relying on family members for care",
+        "Choosing lower-quality, informal care options",
+        "Foregoing employment opportunities",
+        "Enrolling in online child care programs"
+      ],
+      "answer": "Enrolling in online child care programs"
+    },
+    {
+      "question": "What is one challenge in implementing culturally sensitive care in child care settings?",
+      "choices": [
+        "Excessive funding for cultural programs",
+        "Lack of interest from families",
+        "Difficulties in training and implementing culturally appropriate practices",
+        "Overemphasis on cultural activities at the expense of academic learning"
+      ],
+      "answer": "Difficulties in training and implementing culturally appropriate practices"
+    },
+    {
+      "question": "Which of the following is a suggested approach to address challenges faced by vulnerable populations in accessing child care?",
+      "choices": [
+        "Reducing the number of child care centers",
+        "Increasing the cost of child care services",
+        "Promoting cultural competence among child care providers",
+        "Eliminating government subsidies for child care"
+      ],
+      "answer": "Promoting cultural competence among child care providers"
+    },
+    {
+      "question": "What is one potential impact of improved child care access for vulnerable populations in Timor-Leste?",
+      "choices": [
+        "Decreased economic growth",
+        "Reduced cultural diversity",
+        "Contribution to broader economic and social development",
+        "Increased rural to urban migration"
+      ],
+      "answer": "Contribution to broader economic and social development"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a component of a comprehensive resource guide for vulnerable families seeking child care?",
+      "choices": [
+        "Information on financial assistance programs",
+        "List of available child care services",
+        "Transportation resources",
+        "International child care exchange programs"
+      ],
+      "answer": "International child care exchange programs"
+    },
+    {
+      "question": "What is one challenge faced by immigrant or refugee families in accessing child care?",
+      "choices": [
+        "Preferential treatment in child care enrollment",
+        "Unfamiliarity with local systems",
+        "Exemption from child care fees",
+        "Mandatory enrollment in specialized programs"
+      ],
+      "answer": "Unfamiliarity with local systems"
+    },
+    {
+      "question": "Which of the following is a suggested community-based solution to address child care challenges?",
+      "choices": [
+        "Mandatory home-schooling programs",
+        "Elimination of all child care subsidies",
+        "Cooperative child care arrangements",
+        "Compulsory child care enrollment for all families"
+      ],
+      "answer": "Cooperative child care arrangements"
+    },
+    {
+      "question": "What is one way that geographic barriers impact child care staffing in rural areas?",
+      "choices": [
+        "Oversupply of qualified child care workers",
+        "Difficulties in staffing and supplying rural centers",
+        "Higher wages for rural child care workers",
+        "Increased professional development opportunities"
+      ],
+      "answer": "Difficulties in staffing and supplying rural centers"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as an additional financial burden for families seeking child care?",
+      "choices": [
+        "Transportation costs",
+        "Supplies and materials",
+        "Opportunity cost of lost work time",
+        "Mandatory insurance fees"
+      ],
+      "answer": "Mandatory insurance fees"
+    },
+    {
+      "question": "What is one potential long-term impact of linguistic barriers in early childhood care?",
+      "choices": [
+        "Enhanced multilingual skills",
+        "Improved academic performance",
+        "Negative effects on future educational outcomes",
+        "Increased cultural awareness"
+      ],
+      "answer": "Negative effects on future educational outcomes"
+    },
+    {
+      "question": "Which of the following is a suggested policy intervention to improve child care access for vulnerable populations?",
+      "choices": [
+        "Reducing the number of licensed child care providers",
+        "Increasing child care costs to improve quality",
+        "Expanding child care services in rural areas",
+        "Limiting child care subsidies to urban areas only"
+      ],
+      "answer": "Expanding child care services in rural areas"
+    },
+    {
+      "question": "What is one challenge in balancing quality standards with cultural sensitivity in child care settings?",
+      "choices": [
+        "Excessive focus on academic achievement",
+        "Lack of interest in cultural practices",
+        "Potential conflicts between standardized practices and cultural norms",
+        "Overemphasis on physical activities"
+      ],
+      "answer": "Potential conflicts between standardized practices and cultural norms"
+    }
+  ]
+}

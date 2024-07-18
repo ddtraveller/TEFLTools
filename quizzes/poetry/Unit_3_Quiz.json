@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Format Poems",
+  "questions": [
+    {
+      "question": "What is the primary characteristic of format poems?",
+      "choices": [
+        "They have no structure",
+        "They adhere to specific rules and patterns",
+        "They are always written in free verse",
+        "They must rhyme"
+      ],
+      "answer": "They adhere to specific rules and patterns"
+    },
+    {
+      "question": "How many lines does a traditional haiku have?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "What is the typical syllable pattern of a traditional Japanese haiku?",
+      "choices": [
+        "5-7-5",
+        "7-5-7",
+        "3-5-3",
+        "4-6-4"
+      ],
+      "answer": "5-7-5"
+    },
+    {
+      "question": "What is the main focus of haiku poetry?",
+      "choices": [
+        "Urban life",
+        "Technology",
+        "Nature",
+        "Politics"
+      ],
+      "answer": "Nature"
+    },
+    {
+      "question": "In an acrostic poem, what is significant about the first letter of each line?",
+      "choices": [
+        "They form a rhyme scheme",
+        "They spell out a word or phrase vertically",
+        "They must be in alphabetical order",
+        "They represent different parts of speech"
+      ],
+      "answer": "They spell out a word or phrase vertically"
+    },
+    {
+      "question": "Who developed the cinquain form of poetry?",
+      "choices": [
+        "Matsuo Bashō",
+        "William Shakespeare",
+        "Adelaide Crapsey",
+        "Robert Frost"
+      ],
+      "answer": "Adelaide Crapsey"
+    },
+    {
+      "question": "How many lines does a cinquain have?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5"
+    },
+    {
+      "question": "What is the syllable pattern for a cinquain?",
+      "choices": [
+        "2-4-6-8-2",
+        "5-7-5-7-7",
+        "1-2-3-4-5",
+        "3-6-9-12-3"
+      ],
+      "answer": "2-4-6-8-2"
+    },
+    {
+      "question": "Which of these is NOT a common type of format poem discussed in the module?",
+      "choices": [
+        "Haiku",
+        "Acrostic",
+        "Cinquain",
+        "Sonnet"
+      ],
+      "answer": "Sonnet"
+    },
+    {
+      "question": "What is the purpose of constraints in format poems?",
+      "choices": [
+        "To limit creativity",
+        "To make poetry writing easier",
+        "To enhance creativity by providing a framework",
+        "To discourage novice poets"
+      ],
+      "answer": "To enhance creativity by providing a framework"
+    },
+    {
+      "question": "Which country did haiku originate from?",
+      "choices": [
+        "China",
+        "Korea",
+        "Japan",
+        "Vietnam"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question": "What is a key characteristic of haiku poetry?",
+      "choices": [
+        "Complex metaphors",
+        "Lengthy descriptions",
+        "Capturing a specific moment or image",
+        "Political commentary"
+      ],
+      "answer": "Capturing a specific moment or image"
+    },
+    {
+      "question": "In modern English-language haiku, what aspect is often modified?",
+      "choices": [
+        "The focus on nature",
+        "The three-line structure",
+        "The strict 5-7-5 syllable count",
+        "The use of imagery"
+      ],
+      "answer": "The strict 5-7-5 syllable count"
+    },
+    {
+      "question": "What is a benefit of using acrostic poems in education?",
+      "choices": [
+        "They are always rhyming",
+        "They allow for hidden messages or themes",
+        "They are the easiest poems to write",
+        "They require no planning"
+      ],
+      "answer": "They allow for hidden messages or themes"
+    },
+    {
+      "question": "What shape does a cinquain typically create on the page?",
+      "choices": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Diamond"
+      ],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which skill is particularly developed through writing cinquains?",
+      "choices": [
+        "Rhyming",
+        "Alliteration",
+        "Concise word selection",
+        "Extended metaphors"
+      ],
+      "answer": "Concise word selection"
+    },
+    {
+      "question": "What is a common use of format poems in education?",
+      "choices": [
+        "To teach advanced literary theory",
+        "To develop concise writing skills",
+        "To discourage creative thinking",
+        "To focus solely on rhyme schemes"
+      ],
+      "answer": "To develop concise writing skills"
+    },
+    {
+      "question": "For language learners, what specific skill can format poems help practice?",
+      "choices": [
+        "Pronunciation",
+        "Grammar rules",
+        "Syllable counting",
+        "Verb conjugation"
+      ],
+      "answer": "Syllable counting"
+    },
+    {
+      "question": "What does the structure of format poems encourage poets to do?",
+      "choices": [
+        "Write longer poems",
+        "Use more complex vocabulary",
+        "Focus on the essence of their subject",
+        "Avoid using imagery"
+      ],
+      "answer": "Focus on the essence of their subject"
+    },
+    {
+      "question": "Which of these is NOT a typical characteristic of haiku?",
+      "choices": [
+        "Focus on nature",
+        "Brevity",
+        "Capturing a moment",
+        "Complex rhyme schemes"
+      ],
+      "answer": "Complex rhyme schemes"
+    },
+    {
+      "question": "In an acrostic poem, what determines the number of lines?",
+      "choices": [
+        "The poet's preference",
+        "A strict rule of 5 lines",
+        "The number of letters in the vertical word or phrase",
+        "The subject matter of the poem"
+      ],
+      "answer": "The number of letters in the vertical word or phrase"
+    },
+    {
+      "question": "What century was the cinquain developed in?",
+      "choices": [
+        "18th century",
+        "19th century",
+        "20th century",
+        "21st century"
+      ],
+      "answer": "20th century"
+    },
+    {
+      "question": "Which of these format poems typically has the fewest lines?",
+      "choices": [
+        "Haiku",
+        "Acrostic",
+        "Cinquain",
+        "Sonnet"
+      ],
+      "answer": "Haiku"
+    },
+    {
+      "question": "What is a key difference between format poems and free verse?",
+      "choices": [
+        "Format poems are always shorter",
+        "Format poems follow specific structures or rules",
+        "Free verse is not considered real poetry",
+        "Format poems cannot express emotions"
+      ],
+      "answer": "Format poems follow specific structures or rules"
+    },
+    {
+      "question": "Which of these is a common theme in haiku poetry?",
+      "choices": [
+        "Urban landscapes",
+        "Technological advancements",
+        "Seasonal changes",
+        "Political ideologies"
+      ],
+      "answer": "Seasonal changes"
+    },
+    {
+      "question": "What skill does creating acrostic poems particularly develop?",
+      "choices": [
+        "Rhyming ability",
+        "Vocabulary and word choice",
+        "Metaphor creation",
+        "Sentence structure"
+      ],
+      "answer": "Vocabulary and word choice"
+    },
+    {
+      "question": "What is the primary challenge when writing a cinquain?",
+      "choices": [
+        "Finding rhyming words",
+        "Creating a narrative arc",
+        "Fitting ideas into the syllable pattern",
+        "Using alliteration in every line"
+      ],
+      "answer": "Fitting ideas into the syllable pattern"
+    },
+    {
+      "question": "Which format poem is most likely to contain a hidden message?",
+      "choices": [
+        "Haiku",
+        "Acrostic",
+        "Cinquain",
+        "Tanka"
+      ],
+      "answer": "Acrostic"
+    },
+    {
+      "question": "What is a benefit of teaching format poems to students?",
+      "choices": [
+        "It discourages creativity",
+        "It focuses only on rhyming",
+        "It provides structured practice in language skills",
+        "It requires advanced literary knowledge"
+      ],
+      "answer": "It provides structured practice in language skills"
+    },
+    {
+      "question": "Which of these is NOT typically a goal when writing a haiku?",
+      "choices": [
+        "Capturing a moment in time",
+        "Creating a vivid image",
+        "Telling a complete story",
+        "Focusing on nature"
+      ],
+      "answer": "Telling a complete story"
+    }
+  ]
+}

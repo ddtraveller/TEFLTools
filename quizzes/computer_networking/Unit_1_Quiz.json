@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Computer Networks",
+  "questions": [
+    {
+      "question": "What is a computer network?",
+      "choices": [
+        "A single computer with multiple programs",
+        "A group of interconnected devices that can communicate and share resources",
+        "A collection of software applications",
+        "A type of computer operating system"
+      ],
+      "answer": "A group of interconnected devices that can communicate and share resources"
+    },
+    {
+      "question": "Which of the following is NOT a key component of a network?",
+      "choices": [
+        "Nodes",
+        "Connections",
+        "Protocols",
+        "Databases"
+      ],
+      "answer": "Databases"
+    },
+    {
+      "question": "What type of network typically covers a city or large campus?",
+      "choices": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "answer": "MAN"
+    },
+    {
+      "question": "Which network topology connects all devices to a single cable?",
+      "choices": [
+        "Star",
+        "Ring",
+        "Bus",
+        "Mesh"
+      ],
+      "answer": "Bus"
+    },
+    {
+      "question": "What is the main advantage of a star topology?",
+      "choices": [
+        "Lowest cost implementation",
+        "Fastest data transfer speeds",
+        "Failure of one connection doesn't affect others",
+        "Easiest to expand indefinitely"
+      ],
+      "answer": "Failure of one connection doesn't affect others"
+    },
+    {
+      "question": "Which network type is best suited for connecting multiple countries?",
+      "choices": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "answer": "WAN"
+    },
+    {
+      "question": "What is a potential disadvantage of a ring topology?",
+      "choices": [
+        "High implementation cost",
+        "Difficult to add new devices",
+        "Slow data transfer speeds",
+        "Failure of one device can affect the entire network"
+      ],
+      "answer": "Failure of one device can affect the entire network"
+    },
+    {
+      "question": "Which of the following is an example of a WAN?",
+      "choices": [
+        "A home network",
+        "A school computer lab",
+        "The Internet",
+        "An office network in a single building"
+      ],
+      "answer": "The Internet"
+    },
+    {
+      "question": "What is the primary purpose of a network protocol?",
+      "choices": [
+        "To increase network speed",
+        "To provide a set of rules for communication between devices",
+        "To physically connect devices",
+        "To store network data"
+      ],
+      "answer": "To provide a set of rules for communication between devices"
+    },
+    {
+      "question": "In the context of networks, what is a node?",
+      "choices": [
+        "A type of cable",
+        "A network security measure",
+        "Any device connected to the network",
+        "A software application"
+      ],
+      "answer": "Any device connected to the network"
+    },
+    {
+      "question": "Which network type would be most appropriate for connecting computers within a single office?",
+      "choices": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "answer": "LAN"
+    },
+    {
+      "question": "What is a potential advantage of implementing a bus topology?",
+      "choices": [
+        "Highest security",
+        "Easiest to troubleshoot",
+        "Simple and inexpensive to implement",
+        "Best performance under heavy load"
+      ],
+      "answer": "Simple and inexpensive to implement"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of a LAN?",
+      "choices": [
+        "Limited geographical area",
+        "High-speed connections",
+        "Privately owned and managed",
+        "Spans multiple countries"
+      ],
+      "answer": "Spans multiple countries"
+    },
+    {
+      "question": "What is the main function of a router in a network?",
+      "choices": [
+        "To provide wireless connectivity",
+        "To forward data packets between computer networks",
+        "To store network data",
+        "To encrypt network traffic"
+      ],
+      "answer": "To forward data packets between computer networks"
+    },
+    {
+      "question": "Which network topology is most resilient to single cable failures?",
+      "choices": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Line"
+      ],
+      "answer": "Star"
+    },
+    {
+      "question": "What is the typical maximum range of a LAN?",
+      "choices": [
+        "1 km",
+        "10 km",
+        "50 km",
+        "100 km"
+      ],
+      "answer": "1 km"
+    },
+    {
+      "question": "Which of the following is a potential application of a MAN in Dili, Timor-Leste?",
+      "choices": [
+        "Connecting two computers in a home",
+        "Linking university campuses across the city",
+        "Connecting to websites hosted in other countries",
+        "Networking within a single government building"
+      ],
+      "answer": "Linking university campuses across the city"
+    },
+    {
+      "question": "What is a key advantage of a WAN over a LAN?",
+      "choices": [
+        "Higher data transfer speeds",
+        "Lower implementation costs",
+        "Ability to connect geographically distant locations",
+        "Easier maintenance and troubleshooting"
+      ],
+      "answer": "Ability to connect geographically distant locations"
+    },
+    {
+      "question": "Which network type would be most suitable for connecting all government buildings in Timor-Leste?",
+      "choices": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "answer": "WAN"
+    },
+    {
+      "question": "What is a potential disadvantage of a bus topology?",
+      "choices": [
+        "High implementation cost",
+        "Difficult to add new devices",
+        "Vulnerable to cable failures",
+        "Poor performance under light load"
+      ],
+      "answer": "Vulnerable to cable failures"
+    },
+    {
+      "question": "Which of the following is NOT a common application of networks in Timor-Leste's development?",
+      "choices": [
+        "Improving agricultural information systems",
+        "Enabling telemedicine initiatives",
+        "Supporting space exploration programs",
+        "Enhancing e-governance initiatives"
+      ],
+      "answer": "Supporting space exploration programs"
+    },
+    {
+      "question": "What is the primary difference between a MAN and a WAN?",
+      "choices": [
+        "Speed of data transfer",
+        "Types of devices connected",
+        "Geographical coverage",
+        "Ownership of the network"
+      ],
+      "answer": "Geographical coverage"
+    },
+    {
+      "question": "Which network topology provides equal access for all devices?",
+      "choices": [
+        "Bus",
+        "Star",
+        "Ring",
+        "Mesh"
+      ],
+      "answer": "Ring"
+    },
+    {
+      "question": "What is a key challenge in expanding network infrastructure in rural areas of Timor-Leste?",
+      "choices": [
+        "Overcrowding of existing networks",
+        "Lack of demand for internet services",
+        "Varied geographical terrain",
+        "Excessive government regulation"
+      ],
+      "answer": "Varied geographical terrain"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of a WAN?",
+      "choices": [
+        "Spans a large geographical area",
+        "Often uses public communication infrastructure",
+        "Typically slower than LANs",
+        "Limited to a single organization's use"
+      ],
+      "answer": "Limited to a single organization's use"
+    },
+    {
+      "question": "What is the main advantage of a ring topology?",
+      "choices": [
+        "Lowest implementation cost",
+        "Easiest to troubleshoot",
+        "Performs well under heavy load",
+        "Most secure against external threats"
+      ],
+      "answer": "Performs well under heavy load"
+    },
+    {
+      "question": "Which of the following would be considered a node in a network?",
+      "choices": [
+        "A network cable",
+        "A software protocol",
+        "A printer connected to the network",
+        "The electricity powering the devices"
+      ],
+      "answer": "A printer connected to the network"
+    },
+    {
+      "question": "What is a potential benefit of improved networking infrastructure for education in Timor-Leste?",
+      "choices": [
+        "Reduced need for teachers",
+        "Elimination of physical schools",
+        "Access to online learning resources",
+        "Increased cost of education"
+      ],
+      "answer": "Access to online learning resources"
+    },
+    {
+      "question": "Which network type is most likely to use public communication infrastructure?",
+      "choices": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "answer": "WAN"
+    },
+    {
+      "question": "What is the main function of a switch in a network?",
+      "choices": [
+        "To provide internet access",
+        "To connect multiple devices and forward data to the correct destination",
+        "To store network data",
+        "To encrypt network traffic"
+      ],
+      "answer": "To connect multiple devices and forward data to the correct destination"
+    }
+  ]
+}

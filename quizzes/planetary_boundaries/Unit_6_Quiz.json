@@ -1,0 +1,305 @@
+{
+  "title": "Atmospheric Aerosol Loading and Ozone Depletion",
+  "questions": [
+    {
+      "question": "What is the size range of atmospheric aerosols?",
+      "choices": [
+        "0.001 to 100 micrometers in diameter",
+        "1 to 1000 micrometers in diameter",
+        "0.1 to 10 micrometers in diameter",
+        "10 to 1000 micrometers in diameter"
+      ],
+      "answer": "0.001 to 100 micrometers in diameter"
+    },
+    {
+      "question": "Which of the following is NOT a natural source of atmospheric aerosols?",
+      "choices": [
+        "Volcanic eruptions",
+        "Dust storms",
+        "Sea spray",
+        "Vehicle emissions"
+      ],
+      "answer": "Vehicle emissions"
+    },
+    {
+      "question": "What is the primary function of the ozone layer?",
+      "choices": [
+        "To regulate global temperatures",
+        "To absorb carbon dioxide",
+        "To absorb most of the Sun's ultraviolet radiation",
+        "To create precipitation"
+      ],
+      "answer": "To absorb most of the Sun's ultraviolet radiation"
+    },
+    {
+      "question": "Where is the ozone layer located?",
+      "choices": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "answer": "Stratosphere"
+    },
+    {
+      "question": "What was the primary cause of ozone depletion?",
+      "choices": [
+        "Carbon dioxide emissions",
+        "Methane emissions",
+        "Chlorofluorocarbons (CFCs)",
+        "Nitrogen oxides"
+      ],
+      "answer": "Chlorofluorocarbons (CFCs)"
+    },
+    {
+      "question": "Which international agreement addressed ozone depletion?",
+      "choices": [
+        "Kyoto Protocol",
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Geneva Convention"
+      ],
+      "answer": "Montreal Protocol"
+    },
+    {
+      "question": "What is the most dangerous category of particulate matter?",
+      "choices": [
+        "PM10",
+        "PM2.5",
+        "PM1.0",
+        "PM0.1"
+      ],
+      "answer": "PM2.5"
+    },
+    {
+      "question": "Which of the following is a cooling effect of aerosols on climate?",
+      "choices": [
+        "Absorbing solar radiation",
+        "Increasing greenhouse gas concentrations",
+        "Scattering sunlight back to space",
+        "Reducing cloud cover"
+      ],
+      "answer": "Scattering sunlight back to space"
+    },
+    {
+      "question": "What is the expected timeline for the ozone layer to recover to 1980 levels?",
+      "choices": [
+        "2020-2030",
+        "2030-2040",
+        "2040-2050",
+        "2050-2070"
+      ],
+      "answer": "2050-2070"
+    },
+    {
+      "question": "Which of the following is a major source of air pollution in Timor-Leste?",
+      "choices": [
+        "Nuclear power plants",
+        "Large-scale industrial complexes",
+        "Biomass burning",
+        "Extensive use of air conditioning"
+      ],
+      "answer": "Biomass burning"
+    },
+    {
+      "question": "What is the indirect effect of aerosols on climate?",
+      "choices": [
+        "Absorbing infrared radiation",
+        "Increasing surface albedo",
+        "Acting as cloud condensation nuclei",
+        "Depleting stratospheric ozone"
+      ],
+      "answer": "Acting as cloud condensation nuclei"
+    },
+    {
+      "question": "Which health effect is NOT typically associated with exposure to high levels of particulate matter?",
+      "choices": [
+        "Respiratory issues",
+        "Cardiovascular problems",
+        "Bone fractures",
+        "Eye irritation"
+      ],
+      "answer": "Bone fractures"
+    },
+    {
+      "question": "What is the chemical formula for ozone?",
+      "choices": [
+        "O2",
+        "O3",
+        "CO2",
+        "H2O"
+      ],
+      "answer": "O3"
+    },
+    {
+      "question": "Which of the following is a challenge in air quality monitoring in Timor-Leste?",
+      "choices": [
+        "Excessive number of monitoring stations",
+        "Over-regulation of air quality standards",
+        "Lack of consistent, long-term data",
+        "Too much international interference"
+      ],
+      "answer": "Lack of consistent, long-term data"
+    },
+    {
+      "question": "What is the primary cause of the Antarctic ozone hole?",
+      "choices": [
+        "Increased solar activity",
+        "Volcanic eruptions",
+        "Deforestation",
+        "Chemical reactions involving CFCs"
+      ],
+      "answer": "Chemical reactions involving CFCs"
+    },
+    {
+      "question": "Which group is NOT considered particularly vulnerable to air pollution effects?",
+      "choices": [
+        "Children",
+        "Elderly",
+        "Professional athletes",
+        "People with pre-existing health conditions"
+      ],
+      "answer": "Professional athletes"
+    },
+    {
+      "question": "What role do chlorine atoms play in ozone depletion?",
+      "choices": [
+        "They create ozone molecules",
+        "They act as a catalyst in destroying ozone",
+        "They block ultraviolet radiation",
+        "They have no effect on ozone"
+      ],
+      "answer": "They act as a catalyst in destroying ozone"
+    },
+    {
+      "question": "Which of the following is NOT a typical use of CFCs before their phase-out?",
+      "choices": [
+        "Refrigerants",
+        "Aerosol propellants",
+        "Solvents",
+        "Fuel additives"
+      ],
+      "answer": "Fuel additives"
+    },
+    {
+      "question": "What is the primary economic impact of poor air quality?",
+      "choices": [
+        "Increased tourism",
+        "Higher agricultural yields",
+        "Reduced healthcare costs",
+        "Lost productivity due to illness"
+      ],
+      "answer": "Lost productivity due to illness"
+    },
+    {
+      "question": "Which of the following best describes the current status of global ozone levels?",
+      "choices": [
+        "Rapidly declining",
+        "Stable since 2000 with slow recovery",
+        "Fully recovered to pre-1980 levels",
+        "Fluctuating unpredictably"
+      ],
+      "answer": "Stable since 2000 with slow recovery"
+    },
+    {
+      "question": "What is the main source of vehicle-related air pollution in Timor-Leste?",
+      "choices": [
+        "Electric vehicles",
+        "Modern fuel-efficient cars",
+        "Older vehicles with poor emission controls",
+        "High-speed trains"
+      ],
+      "answer": "Older vehicles with poor emission controls"
+    },
+    {
+      "question": "Which of the following is a potential opportunity for improving air quality monitoring in Timor-Leste?",
+      "choices": [
+        "Reducing the number of monitoring stations",
+        "Ignoring international air quality standards",
+        "Implementing low-cost sensor networks",
+        "Focusing solely on indoor air quality"
+      ],
+      "answer": "Implementing low-cost sensor networks"
+    },
+    {
+      "question": "What is the primary health concern associated with increased UV radiation due to ozone depletion?",
+      "choices": [
+        "Liver damage",
+        "Skin cancer",
+        "Hearing loss",
+        "Alzheimer's disease"
+      ],
+      "answer": "Skin cancer"
+    },
+    {
+      "question": "Which of the following best describes the interaction between aerosols and climate change?",
+      "choices": [
+        "Aerosols always accelerate global warming",
+        "Aerosols have no effect on climate",
+        "Aerosols' effects are well-understood and easily modeled",
+        "Aerosols add complexity and uncertainty to climate models"
+      ],
+      "answer": "Aerosols add complexity and uncertainty to climate models"
+    },
+    {
+      "question": "What is the primary source of indoor air pollution in many Timorese households?",
+      "choices": [
+        "Air fresheners",
+        "Biomass burning for cooking",
+        "Off-gassing from new furniture",
+        "Radon gas"
+      ],
+      "answer": "Biomass burning for cooking"
+    },
+    {
+      "question": "Which season is associated with the formation of the Antarctic ozone hole?",
+      "choices": [
+        "Summer",
+        "Fall",
+        "Winter",
+        "Spring"
+      ],
+      "answer": "Spring"
+    },
+    {
+      "question": "What is the primary challenge in addressing transboundary air pollution in Southeast Asia?",
+      "choices": [
+        "Lack of technology",
+        "Insufficient funding",
+        "Coordination between multiple countries",
+        "Public opposition to air quality measures"
+      ],
+      "answer": "Coordination between multiple countries"
+    },
+    {
+      "question": "Which of the following is NOT a typical recommendation for improving personal air quality?",
+      "choices": [
+        "Using air purifiers",
+        "Improving ventilation",
+        "Burning incense regularly",
+        "Avoiding smoking indoors"
+      ],
+      "answer": "Burning incense regularly"
+    },
+    {
+      "question": "What role do aerosols play in cloud formation?",
+      "choices": [
+        "They prevent cloud formation",
+        "They act as cloud condensation nuclei",
+        "They cause clouds to dissipate faster",
+        "They have no effect on cloud formation"
+      ],
+      "answer": "They act as cloud condensation nuclei"
+    },
+    {
+      "question": "Which international organization provides global ambient air quality guidelines?",
+      "choices": [
+        "UNESCO",
+        "World Bank",
+        "World Health Organization (WHO)",
+        "International Monetary Fund (IMF)"
+      ],
+      "answer": "World Health Organization (WHO)"
+    }
+  ]
+}

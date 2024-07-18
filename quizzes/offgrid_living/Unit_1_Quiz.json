@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Off-Grid Living in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary definition of off-grid living?",
+      "choices": [
+        "Living without internet access",
+        "A lifestyle independent of public utilities, especially electricity and water supply",
+        "Residing in remote mountain areas",
+        "Using only renewable energy sources"
+      ],
+      "answer": "A lifestyle independent of public utilities, especially electricity and water supply"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of off-grid living?",
+      "choices": [
+        "Self-sufficiency",
+        "Reduced environmental impact",
+        "Resource conservation",
+        "Maximizing energy consumption"
+      ],
+      "answer": "Maximizing energy consumption"
+    },
+    {
+      "question": "What is the total land area of Timor-Leste?",
+      "choices": [
+        "10,874 sq km",
+        "14,874 sq km",
+        "18,874 sq km",
+        "22,874 sq km"
+      ],
+      "answer": "14,874 sq km"
+    },
+    {
+      "question": "What percentage of Timor-Leste's land area is considered arable?",
+      "choices": [
+        "5.1%",
+        "10.1%",
+        "15.1%",
+        "20.1%"
+      ],
+      "answer": "10.1%"
+    },
+    {
+      "question": "What is the highest point in Timor-Leste?",
+      "choices": [
+        "Mount Ramelau",
+        "Foho Tatamailau",
+        "Mount Matebian",
+        "Pico do Timor"
+      ],
+      "answer": "Foho Tatamailau"
+    },
+    {
+      "question": "What is the average annual rainfall in Timor-Leste?",
+      "choices": [
+        "500-1,000 mm",
+        "1,000-1,500 mm",
+        "1,500-2,000 mm",
+        "2,000-2,500 mm"
+      ],
+      "answer": "1,500-2,000 mm"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a natural resource of Timor-Leste?",
+      "choices": [
+        "Oil and natural gas",
+        "Gold",
+        "Diamonds",
+        "Sandalwood"
+      ],
+      "answer": "Diamonds"
+    },
+    {
+      "question": "What type of climate does Timor-Leste have?",
+      "choices": [
+        "Temperate",
+        "Tropical",
+        "Arid",
+        "Mediterranean"
+      ],
+      "answer": "Tropical"
+    },
+    {
+      "question": "Which traditional agricultural practice is used in mountainous regions of Timor-Leste?",
+      "choices": [
+        "Slash-and-burn agriculture",
+        "Terraced farming",
+        "Monoculture",
+        "Hydroponics"
+      ],
+      "answer": "Terraced farming"
+    },
+    {
+      "question": "What is a traditional Timorese practice for pest control in agriculture?",
+      "choices": [
+        "Use of chemical pesticides",
+        "Genetic modification of crops",
+        "Natural pest control methods",
+        "Crop abandonment"
+      ],
+      "answer": "Natural pest control methods"
+    },
+    {
+      "question": "Which water management technique is traditionally used in Timor-Leste?",
+      "choices": [
+        "Desalination plants",
+        "Rainwater harvesting",
+        "Groundwater pumping",
+        "Cloud seeding"
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "What is a traditional Timorese practice for forest conservation?",
+      "choices": [
+        "Clear-cutting",
+        "Sacred groves and protected areas",
+        "Intensive logging",
+        "Burning forests for agriculture"
+      ],
+      "answer": "Sacred groves and protected areas"
+    },
+    {
+      "question": "Which environmental challenge is NOT mentioned as a major issue in Timor-Leste?",
+      "choices": [
+        "Deforestation",
+        "Soil erosion",
+        "Water scarcity",
+        "Air pollution"
+      ],
+      "answer": "Air pollution"
+    },
+    {
+      "question": "What is the primary driver of deforestation in Timor-Leste?",
+      "choices": [
+        "Urbanization",
+        "Industrial development",
+        "Slash-and-burn agriculture and demand for fuelwood",
+        "Tourism"
+      ],
+      "answer": "Slash-and-burn agriculture and demand for fuelwood"
+    },
+    {
+      "question": "Which renewable energy source has the most potential in Timor-Leste due to its abundance?",
+      "choices": [
+        "Wind energy",
+        "Geothermal energy",
+        "Solar energy",
+        "Tidal energy"
+      ],
+      "answer": "Solar energy"
+    },
+    {
+      "question": "What is the temperature range in Timor-Leste?",
+      "choices": [
+        "15-25°C",
+        "18-28°C",
+        "21-33°C",
+        "25-35°C"
+      ],
+      "answer": "21-33°C"
+    },
+    {
+      "question": "Which traditional practice in Timor-Leste contributes to sustainable forest management?",
+      "choices": [
+        "Intensive logging",
+        "Slash-and-burn agriculture",
+        "Sustainable harvesting of non-timber forest products",
+        "Clearing forests for cattle ranching"
+      ],
+      "answer": "Sustainable harvesting of non-timber forest products"
+    },
+    {
+      "question": "What is a key benefit of integrating traditional ecological knowledge with modern off-grid technologies?",
+      "choices": [
+        "Increased dependence on fossil fuels",
+        "Reduced community involvement",
+        "Preservation of cultural heritage while addressing environmental challenges",
+        "Rapid urbanization"
+      ],
+      "answer": "Preservation of cultural heritage while addressing environmental challenges"
+    },
+    {
+      "question": "Which agricultural practice is mentioned as a traditional method for maintaining soil fertility?",
+      "choices": [
+        "Heavy use of chemical fertilizers",
+        "Monoculture farming",
+        "Crop rotation and intercropping",
+        "Deep plowing"
+      ],
+      "answer": "Crop rotation and intercropping"
+    },
+    {
+      "question": "What is the primary purpose of mapping community resources in the context of off-grid living?",
+      "choices": [
+        "To increase tourism",
+        "To design tailored off-grid solutions",
+        "To promote urbanization",
+        "To encourage mining activities"
+      ],
+      "answer": "To design tailored off-grid solutions"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a traditional sustainable practice in Timorese culture?",
+      "choices": [
+        "Terraced farming",
+        "Use of medicinal plants",
+        "Spring protection and management",
+        "Industrial fishing"
+      ],
+      "answer": "Industrial fishing"
+    },
+    {
+      "question": "What is the significance of sacred groves in Timorese culture?",
+      "choices": [
+        "They are sites for industrial development",
+        "They help preserve biodiversity",
+        "They are used for large-scale agriculture",
+        "They are locations for mining operations"
+      ],
+      "answer": "They help preserve biodiversity"
+    },
+    {
+      "question": "How can off-grid living contribute to Timor-Leste's broader development goals?",
+      "choices": [
+        "By increasing dependence on imported fossil fuels",
+        "By promoting rapid urbanization",
+        "By contributing to environmental conservation and sustainable economic growth",
+        "By encouraging large-scale industrial agriculture"
+      ],
+      "answer": "By contributing to environmental conservation and sustainable economic growth"
+    },
+    {
+      "question": "What is a potential economic benefit of promoting off-grid living in rural Timor-Leste?",
+      "choices": [
+        "Increased reliance on foreign aid",
+        "Rapid industrialization",
+        "Empowerment of local communities through self-sufficiency",
+        "Centralization of resources in urban areas"
+      ],
+      "answer": "Empowerment of local communities through self-sufficiency"
+    },
+    {
+      "question": "Which factor makes Timor-Leste particularly suitable for off-grid solar energy solutions?",
+      "choices": [
+        "Frequent cloudy weather",
+        "Abundant sunshine throughout the year",
+        "High latitude",
+        "Constant rainfall"
+      ],
+      "answer": "Abundant sunshine throughout the year"
+    },
+    {
+      "question": "What role do traditional medicinal plants play in off-grid living in Timor-Leste?",
+      "choices": [
+        "They are used for decorative purposes only",
+        "They contribute to healthcare practices less dependent on modern infrastructure",
+        "They are primarily exported for profit",
+        "They have no significant role in off-grid living"
+      ],
+      "answer": "They contribute to healthcare practices less dependent on modern infrastructure"
+    },
+    {
+      "question": "How can rainwater harvesting address environmental challenges in Timor-Leste?",
+      "choices": [
+        "By increasing soil erosion",
+        "By promoting deforestation",
+        "By mitigating water scarcity issues",
+        "By encouraging the use of fossil fuels"
+      ],
+      "answer": "By mitigating water scarcity issues"
+    },
+    {
+      "question": "What is the primary challenge in implementing off-grid solutions in Timor-Leste?",
+      "choices": [
+        "Lack of natural resources",
+        "Overpopulation",
+        "Limited infrastructure in rural areas",
+        "Excessive rainfall"
+      ],
+      "answer": "Limited infrastructure in rural areas"
+    },
+    {
+      "question": "How does off-grid living align with Timor-Leste's development needs?",
+      "choices": [
+        "It promotes rapid urbanization",
+        "It increases dependence on imported goods",
+        "It offers sustainable solutions for rural development",
+        "It encourages large-scale industrial agriculture"
+      ],
+      "answer": "It offers sustainable solutions for rural development"
+    },
+    {
+      "question": "What is the significance of agroforestry systems in Timorese traditional practices?",
+      "choices": [
+        "They promote monoculture farming",
+        "They contribute to deforestation",
+        "They demonstrate effective land management techniques",
+        "They increase reliance on chemical fertilizers"
+      ],
+      "answer": "They demonstrate effective land management techniques"
+    }
+  ]
+}

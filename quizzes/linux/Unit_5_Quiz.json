@@ -1,0 +1,305 @@
+{
+  "title": "System Logging and Monitoring",
+  "questions": [
+    {
+      "question": "What is the primary purpose of system logging?",
+      "choices": [
+        "To increase system performance",
+        "To record system events and activities",
+        "To encrypt sensitive data",
+        "To compress unused files"
+      ],
+      "answer": "To record system events and activities"
+    },
+    {
+      "question": "Which protocol is commonly used for message logging in Linux systems?",
+      "choices": [
+        "HTTP",
+        "FTP",
+        "Syslog",
+        "SMTP"
+      ],
+      "answer": "Syslog"
+    },
+    {
+      "question": "What is journald?",
+      "choices": [
+        "A text editor for log files",
+        "A system service that collects and stores logging data",
+        "A network monitoring tool",
+        "A log rotation utility"
+      ],
+      "answer": "A system service that collects and stores logging data"
+    },
+    {
+      "question": "Which directory typically contains log files in Linux systems?",
+      "choices": [
+        "/etc/log/",
+        "/var/log/",
+        "/usr/log/",
+        "/home/log/"
+      ],
+      "answer": "/var/log/"
+    },
+    {
+      "question": "What command is used to query and display logs from journald?",
+      "choices": [
+        "logview",
+        "tailf",
+        "journalctl",
+        "syslogd"
+      ],
+      "answer": "journalctl"
+    },
+    {
+      "question": "Which tool is commonly used for searching text using patterns in log files?",
+      "choices": [
+        "find",
+        "locate",
+        "grep",
+        "awk"
+      ],
+      "answer": "grep"
+    },
+    {
+      "question": "What does the '-i' option do when used with grep?",
+      "choices": [
+        "Inverts the match",
+        "Performs a case-insensitive search",
+        "Displays line numbers",
+        "Searches recursively"
+      ],
+      "answer": "Performs a case-insensitive search"
+    },
+    {
+      "question": "Which tool is best suited for extracting specific fields from log entries?",
+      "choices": [
+        "sed",
+        "grep",
+        "awk",
+        "cat"
+      ],
+      "answer": "awk"
+    },
+    {
+      "question": "What is the primary function of the 'sed' command?",
+      "choices": [
+        "System monitoring",
+        "Stream editing for filtering and transforming text",
+        "Secure file deletion",
+        "Setting up network connections"
+      ],
+      "answer": "Stream editing for filtering and transforming text"
+    },
+    {
+      "question": "Which tool provides an interactive process viewer in Linux?",
+      "choices": [
+        "ps",
+        "ls",
+        "top",
+        "df"
+      ],
+      "answer": "top"
+    },
+    {
+      "question": "What information does 'htop' typically display?",
+      "choices": [
+        "Network traffic",
+        "Disk usage",
+        "CPU and memory usage",
+        "User login history"
+      ],
+      "answer": "CPU and memory usage"
+    },
+    {
+      "question": "Which tool is specifically designed for monitoring I/O usage information for processes?",
+      "choices": [
+        "iotop",
+        "vmstat",
+        "netstat",
+        "iostat"
+      ],
+      "answer": "iotop"
+    },
+    {
+      "question": "What type of information does 'vmstat' provide?",
+      "choices": [
+        "Virtual machine statistics",
+        "Video memory usage",
+        "System performance including processes, memory, and CPU activity",
+        "Voltage measurements for hardware components"
+      ],
+      "answer": "System performance including processes, memory, and CPU activity"
+    },
+    {
+      "question": "What is log rotation?",
+      "choices": [
+        "A method of encrypting log files",
+        "The process of archiving and renewing log files",
+        "A technique for compressing log data",
+        "A way to transmit logs to a remote server"
+      ],
+      "answer": "The process of archiving and renewing log files"
+    },
+    {
+      "question": "Which utility is commonly used for managing log rotation in Linux?",
+      "choices": [
+        "rotatelogs",
+        "logrotate",
+        "rotatelog",
+        "logarchive"
+      ],
+      "answer": "logrotate"
+    },
+    {
+      "question": "What is the purpose of setting up custom logging for applications?",
+      "choices": [
+        "To reduce system resource usage",
+        "To encrypt application data",
+        "To capture specific information relevant to the application",
+        "To improve application performance"
+      ],
+      "answer": "To capture specific information relevant to the application"
+    },
+    {
+      "question": "Which command would you use to view the last 50 log entries from journald?",
+      "choices": [
+        "tail -n 50 /var/log/journal",
+        "journalctl -n 50",
+        "grep -n 50 /var/log/syslog",
+        "less -n 50 /var/log/messages"
+      ],
+      "answer": "journalctl -n 50"
+    },
+    {
+      "question": "What is the significance of the '/var/log/auth.log' file?",
+      "choices": [
+        "It contains information about system shutdowns",
+        "It logs authentication and authorization events",
+        "It records network connection attempts",
+        "It stores information about hardware changes"
+      ],
+      "answer": "It logs authentication and authorization events"
+    },
+    {
+      "question": "Which command would you use to monitor a log file in real-time?",
+      "choices": [
+        "cat -f logfile",
+        "less logfile",
+        "tail -f logfile",
+        "grep -r logfile"
+      ],
+      "answer": "tail -f logfile"
+    },
+    {
+      "question": "What is the primary advantage of using journald over traditional syslog?",
+      "choices": [
+        "It uses less disk space",
+        "It provides better encryption",
+        "It offers structured logging and powerful querying capabilities",
+        "It is compatible with older Linux distributions"
+      ],
+      "answer": "It offers structured logging and powerful querying capabilities"
+    },
+    {
+      "question": "Which of the following is NOT a common use case for system logging?",
+      "choices": [
+        "Troubleshooting system issues",
+        "Security auditing",
+        "Performance optimization",
+        "User data backup"
+      ],
+      "answer": "User data backup"
+    },
+    {
+      "question": "What does the 'load average' in top or htop represent?",
+      "choices": [
+        "The average CPU temperature",
+        "The average number of processes waiting for CPU time",
+        "The average network traffic",
+        "The average disk I/O operations"
+      ],
+      "answer": "The average number of processes waiting for CPU time"
+    },
+    {
+      "question": "Which command would you use to search for failed SSH login attempts in the auth.log file?",
+      "choices": [
+        "find /var/log/auth.log -name \"Failed password\"",
+        "less /var/log/auth.log | grep \"Failed password\"",
+        "grep \"Failed password\" /var/log/auth.log",
+        "awk '/Failed password/' /var/log/auth.log"
+      ],
+      "answer": "grep \"Failed password\" /var/log/auth.log"
+    },
+    {
+      "question": "What is the purpose of using 'awk' with log files?",
+      "choices": [
+        "To compress log files",
+        "To encrypt sensitive log data",
+        "To filter and transform log entries",
+        "To transmit logs to a remote server"
+      ],
+      "answer": "To filter and transform log entries"
+    },
+    {
+      "question": "Which port is typically used by the syslog protocol for UDP communication?",
+      "choices": [
+        "22",
+        "80",
+        "443",
+        "514"
+      ],
+      "answer": "514"
+    },
+    {
+      "question": "What is the main advantage of centralized logging?",
+      "choices": [
+        "It reduces the total amount of log data",
+        "It improves system performance",
+        "It allows for aggregation and analysis of logs from multiple systems",
+        "It automatically fixes issues found in logs"
+      ],
+      "answer": "It allows for aggregation and analysis of logs from multiple systems"
+    },
+    {
+      "question": "Which of the following is a best practice for system logging?",
+      "choices": [
+        "Storing all logs indefinitely",
+        "Disabling logging for better performance",
+        "Implementing log rotation to manage disk space",
+        "Granting all users access to all log files"
+      ],
+      "answer": "Implementing log rotation to manage disk space"
+    },
+    {
+      "question": "What type of information is typically NOT found in system logs?",
+      "choices": [
+        "User login attempts",
+        "Application errors",
+        "System startup and shutdown events",
+        "User's personal documents content"
+      ],
+      "answer": "User's personal documents content"
+    },
+    {
+      "question": "Which command would you use to view the memory usage of all running processes?",
+      "choices": [
+        "free",
+        "top",
+        "ps aux",
+        "meminfo"
+      ],
+      "answer": "ps aux"
+    },
+    {
+      "question": "What is the primary purpose of log analysis in the context of security?",
+      "choices": [
+        "To improve system performance",
+        "To detect and investigate potential security incidents",
+        "To forecast future system upgrades",
+        "To automate system backups"
+      ],
+      "answer": "To detect and investigate potential security incidents"
+    }
+  ]
+}

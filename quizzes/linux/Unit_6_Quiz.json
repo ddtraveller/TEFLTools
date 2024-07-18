@@ -1,0 +1,305 @@
+{
+  "title": "Shell Scripting Basics",
+  "questions": [
+    {
+      "question": "What is the purpose of the shebang (#!) at the beginning of a shell script?",
+      "choices": [
+        "To comment out the first line",
+        "To specify the interpreter to be used",
+        "To indicate the script's version",
+        "To mark the file as executable"
+      ],
+      "answer": "To specify the interpreter to be used"
+    },
+    {
+      "question": "Which command is used to make a shell script executable?",
+      "choices": [
+        "chmod +x script.sh",
+        "execute script.sh",
+        "run script.sh",
+        "bash script.sh"
+      ],
+      "answer": "chmod +x script.sh"
+    },
+    {
+      "question": "How do you declare a variable in a shell script?",
+      "choices": [
+        "var = value",
+        "var := value",
+        "var=value",
+        "$var = value"
+      ],
+      "answer": "var=value"
+    },
+    {
+      "question": "Which symbol is used to access the value of a variable in a shell script?",
+      "choices": [
+        "#",
+        "$",
+        "@",
+        "!"
+      ],
+      "answer": "$"
+    },
+    {
+      "question": "What does the special variable $0 represent in a shell script?",
+      "choices": [
+        "The first command-line argument",
+        "The script's name",
+        "The number of arguments",
+        "The last command's exit status"
+      ],
+      "answer": "The script's name"
+    },
+    {
+      "question": "Which command is used to read user input in a shell script?",
+      "choices": [
+        "input",
+        "get",
+        "scan",
+        "read"
+      ],
+      "answer": "read"
+    },
+    {
+      "question": "What is the correct syntax for an if statement in bash?",
+      "choices": [
+        "if (condition) then",
+        "if [condition]",
+        "if condition",
+        "if [ condition ]"
+      ],
+      "answer": "if [ condition ]"
+    },
+    {
+      "question": "Which keyword is used to start a for loop in bash?",
+      "choices": [
+        "for",
+        "loop",
+        "start",
+        "begin"
+      ],
+      "answer": "for"
+    },
+    {
+      "question": "What symbol is used for command substitution in modern shell scripts?",
+      "choices": [
+        "``",
+        "()",
+        "[]",
+        "$()"
+      ],
+      "answer": "$()"
+    },
+    {
+      "question": "Which symbol is used for piping the output of one command to another?",
+      "choices": [
+        ">",
+        "<",
+        "|",
+        "&"
+      ],
+      "answer": "|"
+    },
+    {
+      "question": "What does the -f option test for in an if statement condition?",
+      "choices": [
+        "If a file exists",
+        "If a file is readable",
+        "If a file is writable",
+        "If a file is executable"
+      ],
+      "answer": "If a file exists"
+    },
+    {
+      "question": "Which command is used to display the current system uptime?",
+      "choices": [
+        "uptime",
+        "systime",
+        "runtime",
+        "timeup"
+      ],
+      "answer": "uptime"
+    },
+    {
+      "question": "What does the command 'df -h' display?",
+      "choices": [
+        "Directory contents",
+        "Disk usage in human-readable format",
+        "System processes",
+        "Network connections"
+      ],
+      "answer": "Disk usage in human-readable format"
+    },
+    {
+      "question": "Which command lists currently logged-in users?",
+      "choices": [
+        "users",
+        "who",
+        "logged",
+        "active"
+      ],
+      "answer": "who"
+    },
+    {
+      "question": "What does the special variable $# represent in a shell script?",
+      "choices": [
+        "The script's name",
+        "The last argument",
+        "The number of arguments",
+        "The exit status of the last command"
+      ],
+      "answer": "The number of arguments"
+    },
+    {
+      "question": "Which command is used to compress files using gzip?",
+      "choices": [
+        "zip",
+        "compress",
+        "gzip",
+        "pack"
+      ],
+      "answer": "gzip"
+    },
+    {
+      "question": "What is the purpose of the 'tar' command in Linux?",
+      "choices": [
+        "To compress files",
+        "To archive files and directories",
+        "To encrypt files",
+        "To transfer files over the network"
+      ],
+      "answer": "To archive files and directories"
+    },
+    {
+      "question": "Which operator is used for string comparison in bash?",
+      "choices": [
+        "==",
+        "=",
+        "eq",
+        "equals"
+      ],
+      "answer": "="
+    },
+    {
+      "question": "What does the -d option test for in an if statement condition?",
+      "choices": [
+        "If a file exists",
+        "If a directory exists",
+        "If a device exists",
+        "If a date is valid"
+      ],
+      "answer": "If a directory exists"
+    },
+    {
+      "question": "Which command is used to find the number of lines in a file?",
+      "choices": [
+        "lines",
+        "count",
+        "wc -l",
+        "nl"
+      ],
+      "answer": "wc -l"
+    },
+    {
+      "question": "What does the 'shift' command do in a shell script?",
+      "choices": [
+        "Moves all variables to the left",
+        "Shifts bits in a number",
+        "Shifts positional parameters",
+        "Changes the current directory"
+      ],
+      "answer": "Shifts positional parameters"
+    },
+    {
+      "question": "Which symbol is used to execute a script in the current shell environment?",
+      "choices": [
+        "./",
+        "sh",
+        ".",
+        "source"
+      ],
+      "answer": "."
+    },
+    {
+      "question": "What is the purpose of the 'set -e' command in a shell script?",
+      "choices": [
+        "To set environment variables",
+        "To enable error handling",
+        "To set the script's exit status",
+        "To enable debugging mode"
+      ],
+      "answer": "To enable error handling"
+    },
+    {
+      "question": "Which command is used to print the current working directory?",
+      "choices": [
+        "pwd",
+        "cwd",
+        "dir",
+        "present"
+      ],
+      "answer": "pwd"
+    },
+    {
+      "question": "What does the '2>' operator do in a shell command?",
+      "choices": [
+        "Redirects standard output",
+        "Redirects standard error",
+        "Appends to a file",
+        "Creates a new file"
+      ],
+      "answer": "Redirects standard error"
+    },
+    {
+      "question": "Which command is used to sort the lines of a text file?",
+      "choices": [
+        "order",
+        "arrange",
+        "sort",
+        "organize"
+      ],
+      "answer": "sort"
+    },
+    {
+      "question": "What does the 'grep' command do?",
+      "choices": [
+        "Compresses files",
+        "Searches for patterns in text",
+        "Removes files",
+        "Generates random numbers"
+      ],
+      "answer": "Searches for patterns in text"
+    },
+    {
+      "question": "Which operator is used for arithmetic operations in shell scripts?",
+      "choices": [
+        "$[]",
+        "(())",
+        "expr",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of the 'getopts' command in shell scripts?",
+      "choices": [
+        "To get system options",
+        "To parse command-line options",
+        "To set script options",
+        "To get file permissions"
+      ],
+      "answer": "To parse command-line options"
+    },
+    {
+      "question": "Which command is used to remove a directory and its contents recursively?",
+      "choices": [
+        "rm -r",
+        "rmdir",
+        "delete -r",
+        "remove -all"
+      ],
+      "answer": "rm -r"
+    }
+  ]
+}

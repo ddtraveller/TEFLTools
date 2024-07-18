@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Earth System Science and Planetary Boundaries",
+  "questions": [
+    {
+      "question": "What is Earth System Science?",
+      "choices": [
+        "The study of Earth's geology only",
+        "An interdisciplinary field studying Earth as an integrated system",
+        "The study of Earth's atmosphere exclusively",
+        "A branch of astronomy focused on Earth"
+      ],
+      "answer": "An interdisciplinary field studying Earth as an integrated system"
+    },
+    {
+      "question": "Which of the following is NOT one of the major components of the Earth system?",
+      "choices": [
+        "Atmosphere",
+        "Hydrosphere",
+        "Lithosphere",
+        "Technosphere"
+      ],
+      "answer": "Technosphere"
+    },
+    {
+      "question": "What term describes the proposed geological epoch marking significant human impact on Earth's geology and ecosystems?",
+      "choices": [
+        "Holocene",
+        "Pleistocene",
+        "Anthropocene",
+        "Quaternary"
+      ],
+      "answer": "Anthropocene"
+    },
+    {
+      "question": "How many planetary boundaries are identified in the framework developed by Johan Rockström and colleagues?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": "9"
+    },
+    {
+      "question": "Which of the following is NOT one of the nine planetary boundaries?",
+      "choices": [
+        "Climate change",
+        "Ocean acidification",
+        "Stratospheric ozone depletion",
+        "Volcanic activity"
+      ],
+      "answer": "Volcanic activity"
+    },
+    {
+      "question": "What does the term 'biosphere' refer to in Earth System Science?",
+      "choices": [
+        "The solid Earth including the crust and mantle",
+        "All water on Earth in liquid, solid, and gaseous forms",
+        "The layer of gases surrounding the Earth",
+        "All living organisms and their interactions with the environment"
+      ],
+      "answer": "All living organisms and their interactions with the environment"
+    },
+    {
+      "question": "Which of the following is an example of a feedback process in the Earth system?",
+      "choices": [
+        "Photosynthesis",
+        "Plate tectonics",
+        "Ice-albedo feedback",
+        "Volcanic eruptions"
+      ],
+      "answer": "Ice-albedo feedback"
+    },
+    {
+      "question": "What is the primary purpose of the planetary boundaries framework?",
+      "choices": [
+        "To predict future geological events",
+        "To define a safe operating space for humanity",
+        "To measure the age of the Earth",
+        "To classify different types of ecosystems"
+      ],
+      "answer": "To define a safe operating space for humanity"
+    },
+    {
+      "question": "Which of the following is considered evidence for the Anthropocene?",
+      "choices": [
+        "The formation of the Moon",
+        "The evolution of humans",
+        "The presence of artificial materials in sediments",
+        "The emergence of photosynthesis"
+      ],
+      "answer": "The presence of artificial materials in sediments"
+    },
+    {
+      "question": "What does the term 'resilience' mean in the context of Earth systems?",
+      "choices": [
+        "The ability of a system to resist any change",
+        "The speed at which a system returns to its original state",
+        "The capacity of a system to absorb disturbances while maintaining function",
+        "The tendency of a system to become more complex over time"
+      ],
+      "answer": "The capacity of a system to absorb disturbances while maintaining function"
+    },
+    {
+      "question": "Which of the following planetary boundaries is most directly related to agriculture?",
+      "choices": [
+        "Stratospheric ozone depletion",
+        "Biogeochemical flows (nitrogen and phosphorus cycles)",
+        "Ocean acidification",
+        "Atmospheric aerosol loading"
+      ],
+      "answer": "Biogeochemical flows (nitrogen and phosphorus cycles)"
+    },
+    {
+      "question": "What is a 'tipping point' in Earth System Science?",
+      "choices": [
+        "The point at which the Earth's rotation changes direction",
+        "A critical threshold beyond which rapid and potentially irreversible changes occur",
+        "The maximum temperature the Earth can sustain",
+        "The point at which all ice on Earth melts"
+      ],
+      "answer": "A critical threshold beyond which rapid and potentially irreversible changes occur"
+    },
+    {
+      "question": "Which component of the Earth system includes glaciers and sea ice?",
+      "choices": [
+        "Atmosphere",
+        "Hydrosphere",
+        "Cryosphere",
+        "Geosphere"
+      ],
+      "answer": "Cryosphere"
+    },
+    {
+      "question": "What is the primary driver of climate change according to the planetary boundaries framework?",
+      "choices": [
+        "Natural solar cycles",
+        "Volcanic eruptions",
+        "Human-induced greenhouse gas emissions",
+        "Changes in Earth's orbit"
+      ],
+      "answer": "Human-induced greenhouse gas emissions"
+    },
+    {
+      "question": "Which of the following is an example of land system change?",
+      "choices": [
+        "Increase in atmospheric CO2",
+        "Ocean acidification",
+        "Deforestation",
+        "Ozone depletion"
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question": "What does the planetary boundary of 'novel entities' refer to?",
+      "choices": [
+        "New species discovered by scientists",
+        "Artificial intelligence and robotics",
+        "Chemical pollution, plastics, and other human-made substances",
+        "Extraterrestrial life forms"
+      ],
+      "answer": "Chemical pollution, plastics, and other human-made substances"
+    },
+    {
+      "question": "Which of the following is NOT a major cause of biodiversity loss?",
+      "choices": [
+        "Habitat destruction",
+        "Climate change",
+        "Overexploitation of species",
+        "Increased protected areas"
+      ],
+      "answer": "Increased protected areas"
+    },
+    {
+      "question": "What is the primary concern with exceeding the freshwater use boundary?",
+      "choices": [
+        "Increased rainfall globally",
+        "Rising sea levels",
+        "Water scarcity and ecosystem collapse",
+        "Formation of new rivers and lakes"
+      ],
+      "answer": "Water scarcity and ecosystem collapse"
+    },
+    {
+      "question": "Which Earth system process is most directly affected by the depletion of stratospheric ozone?",
+      "choices": [
+        "Carbon cycle",
+        "Water cycle",
+        "Nitrogen cycle",
+        "UV radiation protection"
+      ],
+      "answer": "UV radiation protection"
+    },
+    {
+      "question": "What is the primary concern with ocean acidification?",
+      "choices": [
+        "Increased fish populations",
+        "Higher sea levels",
+        "Damage to coral reefs and marine ecosystems",
+        "More frequent tsunamis"
+      ],
+      "answer": "Damage to coral reefs and marine ecosystems"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'Earth as an integrated system'?",
+      "choices": [
+        "Earth's components function independently of each other",
+        "Only the atmosphere and hydrosphere interact",
+        "All Earth's components interact through various processes",
+        "The Earth is a closed system with no external influences"
+      ],
+      "answer": "All Earth's components interact through various processes"
+    },
+    {
+      "question": "What role does the biosphere play in the carbon cycle?",
+      "choices": [
+        "It has no significant impact on the carbon cycle",
+        "It only releases carbon into the atmosphere",
+        "It only absorbs carbon from the atmosphere",
+        "It both absorbs and releases carbon, influencing atmospheric CO2 levels"
+      ],
+      "answer": "It both absorbs and releases carbon, influencing atmospheric CO2 levels"
+    },
+    {
+      "question": "Which of the following is a potential consequence of exceeding multiple planetary boundaries?",
+      "choices": [
+        "Increased global stability",
+        "Rapid cooling of the Earth",
+        "Abrupt and irreversible environmental changes",
+        "Uniform climate conditions worldwide"
+      ],
+      "answer": "Abrupt and irreversible environmental changes"
+    },
+    {
+      "question": "What is the primary goal of studying Earth System Science in the context of Timor-Leste?",
+      "choices": [
+        "To increase oil production",
+        "To understand and address local and global environmental challenges",
+        "To predict earthquakes",
+        "To improve fishing techniques"
+      ],
+      "answer": "To understand and address local and global environmental challenges"
+    },
+    {
+      "question": "How might climate change impact Timor-Leste according to Earth System Science principles?",
+      "choices": [
+        "It will have no significant impact",
+        "It will only affect marine ecosystems",
+        "It may lead to sea-level rise and changes in precipitation patterns",
+        "It will result in colder temperatures year-round"
+      ],
+      "answer": "It may lead to sea-level rise and changes in precipitation patterns"
+    },
+    {
+      "question": "Which of the following is an example of how the hydrosphere interacts with the geosphere?",
+      "choices": [
+        "Photosynthesis in plants",
+        "Formation of clouds",
+        "Erosion of rocks by rivers",
+        "Growth of coral reefs"
+      ],
+      "answer": "Erosion of rocks by rivers"
+    },
+    {
+      "question": "What is the significance of studying local environmental changes in Timor-Leste within the context of Earth System Science?",
+      "choices": [
+        "It has no relevance to global processes",
+        "It helps understand how local changes connect to global Earth system processes",
+        "It only matters for tourism development",
+        "It is solely for academic purposes with no practical applications"
+      ],
+      "answer": "It helps understand how local changes connect to global Earth system processes"
+    },
+    {
+      "question": "Which of the following activities in Timor-Leste could contribute to exceeding the land system change planetary boundary?",
+      "choices": [
+        "Sustainable fishing practices",
+        "Reforestation projects",
+        "Slash-and-burn agriculture",
+        "Establishment of marine protected areas"
+      ],
+      "answer": "Slash-and-burn agriculture"
+    },
+    {
+      "question": "How can traditional ecological knowledge in Timor-Leste contribute to Earth System Science?",
+      "choices": [
+        "It is irrelevant to scientific understanding",
+        "It can provide long-term observations of local environmental changes",
+        "It only applies to agricultural practices",
+        "It contradicts all modern scientific knowledge"
+      ],
+      "answer": "It can provide long-term observations of local environmental changes"
+    },
+    {
+      "question": "What role does the atmosphere play in Earth's energy balance?",
+      "choices": [
+        "It has no effect on Earth's energy balance",
+        "It only traps heat, causing continuous warming",
+        "It regulates the amount of solar radiation reaching and leaving Earth's surface",
+        "It only reflects solar radiation back into space"
+      ],
+      "answer": "It regulates the amount of solar radiation reaching and leaving Earth's surface"
+    }
+  ]
+}

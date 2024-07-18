@@ -1,0 +1,305 @@
+{
+  "title": "Network Configuration and Security",
+  "questions": [
+    {
+      "question": "Which command is used to view network interfaces in Linux?",
+      "choices": [
+        "ip link show",
+        "ifconfig",
+        "netstat",
+        "route"
+      ],
+      "answer": "ip link show"
+    },
+    {
+      "question": "What is the purpose of the subnet mask in IP addressing?",
+      "choices": [
+        "To identify the network portion of an IP address",
+        "To encrypt network traffic",
+        "To assign a unique identifier to each device",
+        "To block unwanted traffic"
+      ],
+      "answer": "To identify the network portion of an IP address"
+    },
+    {
+      "question": "Which tool is a dynamic firewall manager for Linux?",
+      "choices": [
+        "iptables",
+        "firewalld",
+        "ufw",
+        "nftables"
+      ],
+      "answer": "firewalld"
+    },
+    {
+      "question": "What is the main advantage of using SSH key-based authentication over password authentication?",
+      "choices": [
+        "It's faster to set up",
+        "It allows for easier password sharing",
+        "It's more secure and resistant to brute-force attacks",
+        "It doesn't require any configuration on the server"
+      ],
+      "answer": "It's more secure and resistant to brute-force attacks"
+    },
+    {
+      "question": "Which file is typically used to store the public keys for SSH authentication?",
+      "choices": [
+        "~/.ssh/id_rsa",
+        "~/.ssh/known_hosts",
+        "~/.ssh/authorized_keys",
+        "~/.ssh/config"
+      ],
+      "answer": "~/.ssh/authorized_keys"
+    },
+    {
+      "question": "What is the purpose of the 'nmcli' command in Linux?",
+      "choices": [
+        "To configure network interfaces",
+        "To manage NetworkManager connections",
+        "To monitor network traffic",
+        "To scan for wireless networks"
+      ],
+      "answer": "To manage NetworkManager connections"
+    },
+    {
+      "question": "Which iptables chain is used for incoming traffic to the local system?",
+      "choices": [
+        "INPUT",
+        "OUTPUT",
+        "FORWARD",
+        "PREROUTING"
+      ],
+      "answer": "INPUT"
+    },
+    {
+      "question": "What does the '-A' option do in an iptables command?",
+      "choices": [
+        "Adds a new rule to the end of the chain",
+        "Applies the rule immediately",
+        "Allows all traffic",
+        "Authenticates the user"
+      ],
+      "answer": "Adds a new rule to the end of the chain"
+    },
+    {
+      "question": "Which command is used to generate an SSH key pair?",
+      "choices": [
+        "ssh-keygen",
+        "ssh-copy-id",
+        "ssh-add",
+        "ssh-agent"
+      ],
+      "answer": "ssh-keygen"
+    },
+    {
+      "question": "What is the default port for SSH connections?",
+      "choices": [
+        "21",
+        "22",
+        "23",
+        "25"
+      ],
+      "answer": "22"
+    },
+    {
+      "question": "Which file is used to configure the SSH daemon on a Linux system?",
+      "choices": [
+        "/etc/ssh/ssh_config",
+        "/etc/ssh/sshd_config",
+        "/etc/sshd.conf",
+        "/etc/ssh/config"
+      ],
+      "answer": "/etc/ssh/sshd_config"
+    },
+    {
+      "question": "What does DHCP stand for in networking?",
+      "choices": [
+        "Dynamic Host Configuration Protocol",
+        "Domain Host Control Protocol",
+        "Distributed Host Computing Process",
+        "Direct Host Connection Protocol"
+      ],
+      "answer": "Dynamic Host Configuration Protocol"
+    },
+    {
+      "question": "Which command is used to view the routing table in Linux?",
+      "choices": [
+        "route",
+        "ip route show",
+        "netstat -r",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of a gateway in networking?",
+      "choices": [
+        "To connect different networks",
+        "To assign IP addresses",
+        "To encrypt network traffic",
+        "To block unwanted traffic"
+      ],
+      "answer": "To connect different networks"
+    },
+    {
+      "question": "Which firewalld command is used to add a service to a zone?",
+      "choices": [
+        "firewall-cmd --zone=public --add-service=http",
+        "firewall-cmd --add-service http --zone public",
+        "firewall-cmd --service http --add-zone public",
+        "firewall-cmd --public-zone --service-add http"
+      ],
+      "answer": "firewall-cmd --zone=public --add-service=http"
+    },
+    {
+      "question": "What is the purpose of the 'conntrack' module in iptables?",
+      "choices": [
+        "To track connection states",
+        "To compress network traffic",
+        "To encrypt packets",
+        "To route traffic between interfaces"
+      ],
+      "answer": "To track connection states"
+    },
+    {
+      "question": "Which command is used to copy an SSH public key to a remote server?",
+      "choices": [
+        "ssh-copy-id",
+        "scp",
+        "ssh-keygen",
+        "ssh-agent"
+      ],
+      "answer": "ssh-copy-id"
+    },
+    {
+      "question": "What is the purpose of the 'AllowUsers' directive in the SSH daemon configuration?",
+      "choices": [
+        "To specify which users are allowed to connect via SSH",
+        "To allow all users to connect without a password",
+        "To enable user creation via SSH",
+        "To allow users to change their passwords via SSH"
+      ],
+      "answer": "To specify which users are allowed to connect via SSH"
+    },
+    {
+      "question": "Which iptables table is used for network address translation (NAT)?",
+      "choices": [
+        "filter",
+        "nat",
+        "mangle",
+        "raw"
+      ],
+      "answer": "nat"
+    },
+    {
+      "question": "What does the '-p' option specify in an iptables rule?",
+      "choices": [
+        "The protocol",
+        "The port",
+        "The policy",
+        "The priority"
+      ],
+      "answer": "The protocol"
+    },
+    {
+      "question": "Which command is used to reload firewalld configuration?",
+      "choices": [
+        "firewall-cmd --reload",
+        "systemctl restart firewalld",
+        "firewalld --update",
+        "service firewalld reload"
+      ],
+      "answer": "firewall-cmd --reload"
+    },
+    {
+      "question": "What is the purpose of the 'PermitRootLogin' directive in the SSH configuration?",
+      "choices": [
+        "To allow or disallow direct root login via SSH",
+        "To permit root to create new user accounts",
+        "To allow root to change system configurations",
+        "To enable root access to all files on the system"
+      ],
+      "answer": "To allow or disallow direct root login via SSH"
+    },
+    {
+      "question": "Which command is used to view active network connections in Linux?",
+      "choices": [
+        "netstat",
+        "ifconfig",
+        "ip addr",
+        "route"
+      ],
+      "answer": "netstat"
+    },
+    {
+      "question": "What is the purpose of the 'DROP' policy in iptables?",
+      "choices": [
+        "To silently discard packets",
+        "To return an error message to the sender",
+        "To forward packets to another chain",
+        "To accept all packets"
+      ],
+      "answer": "To silently discard packets"
+    },
+    {
+      "question": "Which file contains the list of known SSH host keys?",
+      "choices": [
+        "~/.ssh/known_hosts",
+        "~/.ssh/authorized_keys",
+        "~/.ssh/id_rsa.pub",
+        "~/.ssh/config"
+      ],
+      "answer": "~/.ssh/known_hosts"
+    },
+    {
+      "question": "What is the purpose of the 'PubkeyAuthentication' directive in the SSH configuration?",
+      "choices": [
+        "To enable or disable public key authentication",
+        "To specify the location of public keys",
+        "To generate new public keys",
+        "To publish the server's public key"
+      ],
+      "answer": "To enable or disable public key authentication"
+    },
+    {
+      "question": "Which command is used to view the current iptables rules?",
+      "choices": [
+        "iptables -L",
+        "iptables --list",
+        "iptables -show",
+        "iptables --view"
+      ],
+      "answer": "iptables -L"
+    },
+    {
+      "question": "What is the purpose of the 'Port' directive in the SSH daemon configuration?",
+      "choices": [
+        "To specify the port on which SSH should listen",
+        "To forward traffic to a specific port",
+        "To block a specific port",
+        "To scan for open ports"
+      ],
+      "answer": "To specify the port on which SSH should listen"
+    },
+    {
+      "question": "Which firewalld command is used to list all available zones?",
+      "choices": [
+        "firewall-cmd --get-zones",
+        "firewall-cmd --list-zones",
+        "firewall-cmd --show-zones",
+        "firewall-cmd --zones"
+      ],
+      "answer": "firewall-cmd --get-zones"
+    },
+    {
+      "question": "What is the purpose of the 'StrictModes' directive in the SSH configuration?",
+      "choices": [
+        "To check file permissions and ownership of the user's files",
+        "To enforce strict password policies",
+        "To limit the number of concurrent connections",
+        "To restrict SSH access to specific IP addresses"
+      ],
+      "answer": "To check file permissions and ownership of the user's files"
+    }
+  ]
+}

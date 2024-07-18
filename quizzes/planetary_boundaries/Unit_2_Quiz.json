@@ -1,0 +1,305 @@
+{
+  "title": "Climate Change and Ocean Acidification",
+  "questions": [
+    {
+      "question": "What is the primary driver of global warming and climate change?",
+      "choices": [
+        "Natural volcanic activity",
+        "Solar radiation fluctuations",
+        "Enhanced greenhouse effect",
+        "Plate tectonics"
+      ],
+      "answer": "Enhanced greenhouse effect"
+    },
+    {
+      "question": "Which of the following is NOT a key greenhouse gas?",
+      "choices": [
+        "Carbon dioxide",
+        "Methane",
+        "Water vapor",
+        "Oxygen"
+      ],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What percentage of CO2 released into the atmosphere is absorbed by the oceans each year?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "How much has the pH of surface ocean waters decreased since the beginning of the industrial era?",
+      "choices": [
+        "0.1 units",
+        "0.5 units",
+        "1.0 units",
+        "2.0 units"
+      ],
+      "answer": "0.1 units"
+    },
+    {
+      "question": "What is the primary cause of ocean acidification?",
+      "choices": [
+        "Increased water temperature",
+        "Plastic pollution",
+        "Absorption of CO2 by seawater",
+        "Overfishing"
+      ],
+      "answer": "Absorption of CO2 by seawater"
+    },
+    {
+      "question": "Which marine organisms are particularly vulnerable to ocean acidification?",
+      "choices": [
+        "Jellyfish",
+        "Sharks",
+        "Calcifying organisms (e.g., corals, mollusks)",
+        "Seaweed"
+      ],
+      "answer": "Calcifying organisms (e.g., corals, mollusks)"
+    },
+    {
+      "question": "How does ocean acidification affect coral reefs?",
+      "choices": [
+        "It increases coral growth rates",
+        "It makes it harder for corals to form and maintain their structures",
+        "It has no effect on coral reefs",
+        "It increases coral resistance to bleaching"
+      ],
+      "answer": "It makes it harder for corals to form and maintain their structures"
+    },
+    {
+      "question": "Which of the following is NOT a consequence of sea-level rise?",
+      "choices": [
+        "Coastal flooding",
+        "Saltwater intrusion into freshwater aquifers",
+        "Increased fish populations",
+        "Coastal erosion"
+      ],
+      "answer": "Increased fish populations"
+    },
+    {
+      "question": "How are sea levels in Timor-Leste changing compared to the global average?",
+      "choices": [
+        "Rising faster",
+        "Rising slower",
+        "Falling",
+        "Remaining stable"
+      ],
+      "answer": "Rising faster"
+    },
+    {
+      "question": "What is the primary cause of sea-level rise?",
+      "choices": [
+        "Increased rainfall",
+        "Thermal expansion of oceans and melting land-based ice",
+        "Tectonic plate movement",
+        "Increased evaporation"
+      ],
+      "answer": "Thermal expansion of oceans and melting land-based ice"
+    },
+    {
+      "question": "Which of the following is a potential impact of climate change on agriculture in Timor-Leste?",
+      "choices": [
+        "Increased crop yields",
+        "More predictable rainfall patterns",
+        "Longer growing seasons",
+        "More intense dry seasons"
+      ],
+      "answer": "More intense dry seasons"
+    },
+    {
+      "question": "What role do coral reefs play in coastal protection?",
+      "choices": [
+        "They increase wave energy",
+        "They absorb pollutants",
+        "They protect coastlines from storm surges",
+        "They have no effect on coastal protection"
+      ],
+      "answer": "They protect coastlines from storm surges"
+    },
+    {
+      "question": "How does climate change affect extreme weather events?",
+      "choices": [
+        "It decreases their frequency and intensity",
+        "It has no effect on extreme weather events",
+        "It increases their frequency and intensity",
+        "It only affects hurricanes"
+      ],
+      "answer": "It increases their frequency and intensity"
+    },
+    {
+      "question": "What is the carbon cycle?",
+      "choices": [
+        "The process of photosynthesis",
+        "The exchange of carbon among Earth's spheres",
+        "The burning of fossil fuels",
+        "The formation of carbonic acid in oceans"
+      ],
+      "answer": "The exchange of carbon among Earth's spheres"
+    },
+    {
+      "question": "Which human activity contributes most significantly to increased atmospheric CO2?",
+      "choices": [
+        "Agriculture",
+        "Deforestation",
+        "Burning of fossil fuels",
+        "Waste management"
+      ],
+      "answer": "Burning of fossil fuels"
+    },
+    {
+      "question": "What is the greenhouse effect?",
+      "choices": [
+        "The warming of Earth's surface due to gases trapping heat in the atmosphere",
+        "The cooling of Earth's surface due to reflection of solar radiation",
+        "The process of photosynthesis in plants",
+        "The formation of greenhouse gases in the atmosphere"
+      ],
+      "answer": "The warming of Earth's surface due to gases trapping heat in the atmosphere"
+    },
+    {
+      "question": "How does deforestation contribute to climate change?",
+      "choices": [
+        "It increases oxygen production",
+        "It reduces carbon sequestration",
+        "It cools the Earth's surface",
+        "It has no effect on climate change"
+      ],
+      "answer": "It reduces carbon sequestration"
+    },
+    {
+      "question": "What is the primary cause of coral bleaching?",
+      "choices": [
+        "Ocean acidification",
+        "Overfishing",
+        "Increased ocean temperatures",
+        "Plastic pollution"
+      ],
+      "answer": "Increased ocean temperatures"
+    },
+    {
+      "question": "How does climate change affect biodiversity?",
+      "choices": [
+        "It has no effect on biodiversity",
+        "It always increases biodiversity",
+        "It can lead to species extinctions and ecosystem disruptions",
+        "It only affects marine biodiversity"
+      ],
+      "answer": "It can lead to species extinctions and ecosystem disruptions"
+    },
+    {
+      "question": "What is the relationship between climate change and ocean acidification?",
+      "choices": [
+        "They are unrelated processes",
+        "Climate change causes ocean acidification",
+        "Ocean acidification causes climate change",
+        "They are both caused by increased atmospheric CO2"
+      ],
+      "answer": "They are both caused by increased atmospheric CO2"
+    },
+    {
+      "question": "How does saltwater intrusion affect coastal communities?",
+      "choices": [
+        "It improves soil fertility",
+        "It contaminates freshwater resources",
+        "It increases fish populations",
+        "It has no effect on coastal communities"
+      ],
+      "answer": "It contaminates freshwater resources"
+    },
+    {
+      "question": "What is the primary goal of calculating personal carbon footprints?",
+      "choices": [
+        "To increase carbon emissions",
+        "To understand and reduce individual contributions to climate change",
+        "To compare oneself to others",
+        "To justify high-emission lifestyles"
+      ],
+      "answer": "To understand and reduce individual contributions to climate change"
+    },
+    {
+      "question": "Which of the following is NOT a strategy for reducing personal carbon footprints?",
+      "choices": [
+        "Using energy-efficient appliances",
+        "Reducing meat consumption",
+        "Choosing sustainable transportation options",
+        "Increasing use of single-use plastics"
+      ],
+      "answer": "Increasing use of single-use plastics"
+    },
+    {
+      "question": "How does climate change affect rainfall patterns in Timor-Leste?",
+      "choices": [
+        "It leads to more predictable rainfall",
+        "It causes more intense dry seasons and unpredictable wet seasons",
+        "It has no effect on rainfall patterns",
+        "It increases rainfall year-round"
+      ],
+      "answer": "It causes more intense dry seasons and unpredictable wet seasons"
+    },
+    {
+      "question": "What role do mangrove forests play in climate change adaptation?",
+      "choices": [
+        "They increase coastal erosion",
+        "They have no effect on climate change adaptation",
+        "They protect coastlines and sequester carbon",
+        "They contribute to ocean acidification"
+      ],
+      "answer": "They protect coastlines and sequester carbon"
+    },
+    {
+      "question": "Which of the following is a potential impact of climate change on fisheries in Timor-Leste?",
+      "choices": [
+        "Increased fish populations",
+        "More stable fish populations",
+        "Shifts in species distribution",
+        "No effect on fisheries"
+      ],
+      "answer": "Shifts in species distribution"
+    },
+    {
+      "question": "What is the primary goal of Timor-Leste's National Adaptation Programme of Action (NAPA)?",
+      "choices": [
+        "To increase fossil fuel production",
+        "To ignore climate change impacts",
+        "To propose adaptation measures for climate change impacts",
+        "To promote deforestation"
+      ],
+      "answer": "To propose adaptation measures for climate change impacts"
+    },
+    {
+      "question": "How can traditional ecological knowledge contribute to climate change adaptation in Timor-Leste?",
+      "choices": [
+        "It has no relevance to climate change adaptation",
+        "It can provide insights into sustainable practices and local ecosystem dynamics",
+        "It always contradicts scientific knowledge",
+        "It only applies to agriculture"
+      ],
+      "answer": "It can provide insights into sustainable practices and local ecosystem dynamics"
+    },
+    {
+      "question": "What is the primary challenge in transitioning to renewable energy sources in Timor-Leste?",
+      "choices": [
+        "Lack of sunlight and wind resources",
+        "Abundance of fossil fuels",
+        "Limited infrastructure and investment",
+        "Opposition from the public"
+      ],
+      "answer": "Limited infrastructure and investment"
+    },
+    {
+      "question": "How does climate change affect human health in Timor-Leste?",
+      "choices": [
+        "It has no effect on human health",
+        "It only affects mental health",
+        "It can lead to increased risk of vector-borne diseases and heat-related illnesses",
+        "It always improves health outcomes"
+      ],
+      "answer": "It can lead to increased risk of vector-borne diseases and heat-related illnesses"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Tai Chi Forms",
+  "questions": [
+    {
+      "question": "Which style of tai chi is characterized by large, slow, and graceful movements?",
+      "choices": [
+        "Chen style",
+        "Wu style",
+        "Yang style",
+        "Sun style"
+      ],
+      "answer": "Yang style"
+    },
+    {
+      "question": "What is the primary characteristic of movement in tai chi forms?",
+      "choices": [
+        "Sharp and staccato",
+        "Fast and aggressive",
+        "Continuous and flowing",
+        "Rigid and structured"
+      ],
+      "answer": "Continuous and flowing"
+    },
+    {
+      "question": "Which of the following is NOT one of the basic tai chi movements mentioned in the module?",
+      "choices": [
+        "Ward off",
+        "Roll back",
+        "Press",
+        "Kick"
+      ],
+      "answer": "Kick"
+    },
+    {
+      "question": "What is the defensive movement in tai chi that deflects incoming force?",
+      "choices": [
+        "Press",
+        "Push",
+        "Roll back",
+        "Ward off"
+      ],
+      "answer": "Ward off"
+    },
+    {
+      "question": "Which movement in tai chi involves yielding and redirecting incoming force?",
+      "choices": [
+        "Ward off",
+        "Roll back",
+        "Press",
+        "Push"
+      ],
+      "answer": "Roll back"
+    },
+    {
+      "question": "What is the primary focus of the 'press' movement in tai chi?",
+      "choices": [
+        "Deflecting force",
+        "Yielding to force",
+        "Applying gentle pressure",
+        "Expressing aggressive force"
+      ],
+      "answer": "Applying gentle pressure"
+    },
+    {
+      "question": "How is the 'push' movement typically performed in tai chi?",
+      "choices": [
+        "With one hand at waist level",
+        "With both hands moving forward",
+        "With a sharp, sudden motion",
+        "With a high kick"
+      ],
+      "answer": "With both hands moving forward"
+    },
+    {
+      "question": "What does the continuous, flowing movement in tai chi reflect?",
+      "choices": [
+        "Aggressive combat techniques",
+        "Uninterrupted energy circulation",
+        "Rapid muscle contractions",
+        "Disconnected postures"
+      ],
+      "answer": "Uninterrupted energy circulation"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of practicing tai chi forms?",
+      "choices": [
+        "Improved balance",
+        "Enhanced flexibility",
+        "Increased aggression",
+        "Reduced stress"
+      ],
+      "answer": "Increased aggression"
+    },
+    {
+      "question": "What makes tai chi accessible to people of all ages and fitness levels?",
+      "choices": [
+        "Its high-impact nature",
+        "Its focus on rapid movements",
+        "Its gentle nature",
+        "Its emphasis on strength training"
+      ],
+      "answer": "Its gentle nature"
+    },
+    {
+      "question": "In tai chi practice, what should be coordinated with movement?",
+      "choices": [
+        "Breath",
+        "Music",
+        "Verbal commands",
+        "Eye movements"
+      ],
+      "answer": "Breath"
+    },
+    {
+      "question": "What should remain focused and calm throughout the tai chi sequence?",
+      "choices": [
+        "The muscles",
+        "The breath",
+        "The mind",
+        "The voice"
+      ],
+      "answer": "The mind"
+    },
+    {
+      "question": "How are tai chi movements often described in terms of flow?",
+      "choices": [
+        "Like a rushing river",
+        "Like a stagnant pond",
+        "Like water in a stream",
+        "Like a waterfall"
+      ],
+      "answer": "Like water in a stream"
+    },
+    {
+      "question": "What is the recommended daily practice time for the basic tai chi movements in this module?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "20 minutes",
+        "30 minutes"
+      ],
+      "answer": "10 minutes"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key principle of tai chi that can be applied to daily life?",
+      "choices": [
+        "Maintaining good posture",
+        "Practicing mindful breathing",
+        "Moving with awareness",
+        "Increasing speed of movements"
+      ],
+      "answer": "Increasing speed of movements"
+    },
+    {
+      "question": "What is the primary purpose of the 'ward off' movement in tai chi?",
+      "choices": [
+        "To attack an opponent",
+        "To create a protective barrier",
+        "To improve flexibility",
+        "To increase speed"
+      ],
+      "answer": "To create a protective barrier"
+    },
+    {
+      "question": "How should the elbows be positioned during the 'ward off' movement?",
+      "choices": [
+        "Fully extended",
+        "Locked straight",
+        "Slightly bent",
+        "Raised above the shoulders"
+      ],
+      "answer": "Slightly bent"
+    },
+    {
+      "question": "During the 'roll back' movement, where do the hands typically draw back to?",
+      "choices": [
+        "Above the head",
+        "Towards the hip",
+        "Behind the back",
+        "Straight out in front"
+      ],
+      "answer": "Towards the hip"
+    },
+    {
+      "question": "In the 'press' movement, where is one hand typically positioned?",
+      "choices": [
+        "At shoulder level",
+        "At knee level",
+        "At chest level",
+        "Above the head"
+      ],
+      "answer": "At chest level"
+    },
+    {
+      "question": "What should you visualize when performing the 'push' movement?",
+      "choices": [
+        "Pulling a rope",
+        "Lifting a weight",
+        "Pushing a heavy object",
+        "Throwing a ball"
+      ],
+      "answer": "Pushing a heavy object"
+    },
+    {
+      "question": "What is the recommended focus during tai chi walking practice?",
+      "choices": [
+        "Speed and agility",
+        "Weight shifting and balance",
+        "High knee lifts",
+        "Arm swinging"
+      ],
+      "answer": "Weight shifting and balance"
+    },
+    {
+      "question": "What type of clothing is recommended for tai chi practice?",
+      "choices": [
+        "Tight-fitting exercise clothes",
+        "Heavy, warm clothing",
+        "Comfortable, loose-fitting clothing",
+        "Traditional Chinese robes"
+      ],
+      "answer": "Comfortable, loose-fitting clothing"
+    },
+    {
+      "question": "What kind of shoes are suitable for tai chi practice?",
+      "choices": [
+        "High heels",
+        "Running shoes with thick soles",
+        "Flat, comfortable shoes",
+        "Heavy boots"
+      ],
+      "answer": "Flat, comfortable shoes"
+    },
+    {
+      "question": "What is the purpose of practicing tai chi movements in slow motion?",
+      "choices": [
+        "To increase heart rate",
+        "To build muscle strength",
+        "To focus on smooth transitions",
+        "To improve reaction time"
+      ],
+      "answer": "To focus on smooth transitions"
+    },
+    {
+      "question": "How should the shoulders be positioned during tai chi practice?",
+      "choices": [
+        "Tense and raised",
+        "Relaxed",
+        "Pulled back",
+        "Pushed forward"
+      ],
+      "answer": "Relaxed"
+    },
+    {
+      "question": "What is the recommended surface for practicing tai chi?",
+      "choices": [
+        "Soft, cushioned surface",
+        "Rough, uneven ground",
+        "Smooth, level surface",
+        "Sloped surface"
+      ],
+      "answer": "Smooth, level surface"
+    },
+    {
+      "question": "How can tai chi principles be applied to handling stress in daily life?",
+      "choices": [
+        "By reacting quickly and aggressively",
+        "By tensing the body",
+        "By using defensive and yielding approaches",
+        "By ignoring the source of stress"
+      ],
+      "answer": "By using defensive and yielding approaches"
+    },
+    {
+      "question": "What is the recommended approach to learning tai chi movements?",
+      "choices": [
+        "Practicing alone without guidance",
+        "Mirroring the instructor and receiving feedback",
+        "Watching videos without practicing",
+        "Focusing on speed rather than form"
+      ],
+      "answer": "Mirroring the instructor and receiving feedback"
+    },
+    {
+      "question": "What is the purpose of partner practice in learning tai chi movements?",
+      "choices": [
+        "To compete with each other",
+        "To practice combat techniques",
+        "To provide feedback and observe",
+        "To increase the speed of movements"
+      ],
+      "answer": "To provide feedback and observe"
+    },
+    {
+      "question": "How should breathing be coordinated with tai chi movements?",
+      "choices": [
+        "Hold breath during movements",
+        "Breathe rapidly and shallowly",
+        "Breathe naturally and coordinate with movements",
+        "Breathe only through the mouth"
+      ],
+      "answer": "Breathe naturally and coordinate with movements"
+    }
+  ]
+}

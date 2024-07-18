@@ -1,0 +1,305 @@
+{
+  "title": "Biodiversity Loss and Land System Change in Timor-Leste",
+  "questions": [
+    {
+      "question": "Which of the following is an endemic species to Timor-Leste?",
+      "choices": [
+        "Bengal Tiger",
+        "Timor Monitor Lizard",
+        "Komodo Dragon",
+        "Sumatran Rhinoceros"
+      ],
+      "answer": "Timor Monitor Lizard"
+    },
+    {
+      "question": "What is the primary cause of habitat destruction in Timor-Leste?",
+      "choices": [
+        "Urbanization",
+        "Mining",
+        "Deforestation for agriculture",
+        "Industrial pollution"
+      ],
+      "answer": "Deforestation for agriculture"
+    },
+    {
+      "question": "Which ecosystem service is provided by mangroves in Timor-Leste?",
+      "choices": [
+        "Carbon sequestration",
+        "Pollination",
+        "Freshwater purification",
+        "Coastal protection"
+      ],
+      "answer": "Coastal protection"
+    },
+    {
+      "question": "What is the estimated annual deforestation rate in Timor-Leste as of 2020?",
+      "choices": [
+        "0.5%",
+        "1.2%",
+        "2.5%",
+        "3.7%"
+      ],
+      "answer": "1.2%"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese conservation practice?",
+      "choices": [
+        "Tara Bandu",
+        "Slash and burn",
+        "Monoculture farming",
+        "Intensive fishing"
+      ],
+      "answer": "Tara Bandu"
+    },
+    {
+      "question": "What is the name of Timor-Leste's national park that covers both terrestrial and marine ecosystems?",
+      "choices": [
+        "Komodo National Park",
+        "Nino Konis Santana National Park",
+        "Gunung Leuser National Park",
+        "Ujung Kulon National Park"
+      ],
+      "answer": "Nino Konis Santana National Park"
+    },
+    {
+      "question": "Which of the following is NOT a level of biodiversity?",
+      "choices": [
+        "Genetic diversity",
+        "Species diversity",
+        "Ecosystem diversity",
+        "Cultural diversity"
+      ],
+      "answer": "Cultural diversity"
+    },
+    {
+      "question": "What is the primary threat to coral reefs in Timor-Leste?",
+      "choices": [
+        "Ocean acidification",
+        "Overfishing",
+        "Plastic pollution",
+        "Oil spills"
+      ],
+      "answer": "Ocean acidification"
+    },
+    {
+      "question": "Which agricultural practice can help mitigate biodiversity loss?",
+      "choices": [
+        "Monoculture farming",
+        "Intensive pesticide use",
+        "Agroforestry",
+        "Slash and burn agriculture"
+      ],
+      "answer": "Agroforestry"
+    },
+    {
+      "question": "What percentage of Timor-Leste's original forest cover is estimated to have been lost over the past century?",
+      "choices": [
+        "25%",
+        "40%",
+        "50%",
+        "75%"
+      ],
+      "answer": "50%"
+    },
+    {
+      "question": "Which of the following is a consequence of mangrove destruction in Timor-Leste?",
+      "choices": [
+        "Increased fish populations",
+        "Better coastal protection",
+        "Reduced natural barriers against storms",
+        "Improved water quality"
+      ],
+      "answer": "Reduced natural barriers against storms"
+    },
+    {
+      "question": "What is the primary driver of agricultural expansion in Timor-Leste?",
+      "choices": [
+        "Export demand",
+        "Population growth",
+        "Biofuel production",
+        "Industrial development"
+      ],
+      "answer": "Population growth"
+    },
+    {
+      "question": "Which of the following is NOT a direct impact of deforestation in Timor-Leste?",
+      "choices": [
+        "Soil erosion",
+        "Loss of habitat",
+        "Increased biodiversity",
+        "Disruption of water cycles"
+      ],
+      "answer": "Increased biodiversity"
+    },
+    {
+      "question": "What role do endemic species play in Timor-Leste's ecosystems?",
+      "choices": [
+        "They are unimportant to ecosystem function",
+        "They represent irreplaceable components of global biodiversity",
+        "They are all invasive species",
+        "They contribute to ecosystem instability"
+      ],
+      "answer": "They represent irreplaceable components of global biodiversity"
+    },
+    {
+      "question": "Which of the following is a challenge in managing protected areas in Timor-Leste?",
+      "choices": [
+        "Excess funding",
+        "Overabundance of trained personnel",
+        "Limited resources and capacity",
+        "Lack of biodiversity"
+      ],
+      "answer": "Limited resources and capacity"
+    },
+    {
+      "question": "What is the primary benefit of community-based conservation initiatives in Timor-Leste?",
+      "choices": [
+        "Increased government control",
+        "Reduced community involvement",
+        "Enhanced local ownership and responsibility",
+        "Faster economic development"
+      ],
+      "answer": "Enhanced local ownership and responsibility"
+    },
+    {
+      "question": "Which ecosystem in Timor-Leste is known for its high marine biodiversity?",
+      "choices": [
+        "Montane forests",
+        "Coral reefs",
+        "Rice paddies",
+        "Urban areas"
+      ],
+      "answer": "Coral reefs"
+    },
+    {
+      "question": "What is a potential impact of climate change on Timor-Leste's biodiversity?",
+      "choices": [
+        "Increased species diversity",
+        "Improved habitat conditions",
+        "Altered habitat conditions pushing species beyond tolerance limits",
+        "Reduced frequency of droughts"
+      ],
+      "answer": "Altered habitat conditions pushing species beyond tolerance limits"
+    },
+    {
+      "question": "Which of the following is NOT a sustainable agriculture practice mentioned in the module?",
+      "choices": [
+        "Integrated pest management",
+        "Crop diversification",
+        "Intensive monoculture",
+        "Conservation agriculture techniques"
+      ],
+      "answer": "Intensive monoculture"
+    },
+    {
+      "question": "What is the significance of Timor-Leste's isolation in terms of biodiversity?",
+      "choices": [
+        "It has led to fewer species",
+        "It has contributed to the evolution of unique species",
+        "It has made the ecosystem more resilient to change",
+        "It has reduced genetic diversity"
+      ],
+      "answer": "It has contributed to the evolution of unique species"
+    },
+    {
+      "question": "Which of the following is a regulating ecosystem service provided by forests in Timor-Leste?",
+      "choices": [
+        "Timber production",
+        "Water cycle regulation",
+        "Cultural significance",
+        "Food provision"
+      ],
+      "answer": "Water cycle regulation"
+    },
+    {
+      "question": "What is the primary concern with agricultural intensification in Timor-Leste?",
+      "choices": [
+        "Decreased food production",
+        "Increased biodiversity",
+        "Conversion of natural habitats to monocultures",
+        "Reduced use of pesticides"
+      ],
+      "answer": "Conversion of natural habitats to monocultures"
+    },
+    {
+      "question": "Which of the following is a potential consequence of biodiversity loss in Timor-Leste?",
+      "choices": [
+        "Improved ecosystem resilience",
+        "Enhanced food security",
+        "Reduced capacity for ecosystem services",
+        "Increased economic stability"
+      ],
+      "answer": "Reduced capacity for ecosystem services"
+    },
+    {
+      "question": "What role do coral reefs play in Timor-Leste's coastal ecosystems?",
+      "choices": [
+        "They provide timber resources",
+        "They serve as nurseries for fish populations",
+        "They prevent soil erosion",
+        "They regulate freshwater supply"
+      ],
+      "answer": "They serve as nurseries for fish populations"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key ecosystem in Timor-Leste?",
+      "choices": [
+        "Tropical forests",
+        "Mangroves",
+        "Coral reefs",
+        "Tundra"
+      ],
+      "answer": "Tundra"
+    },
+    {
+      "question": "What is the primary challenge for montane species in Timor-Leste facing climate change?",
+      "choices": [
+        "Increased competition from lowland species",
+        "Limited ability to migrate to more suitable areas",
+        "Faster adaptation to new conditions",
+        "Improved access to resources"
+      ],
+      "answer": "Limited ability to migrate to more suitable areas"
+    },
+    {
+      "question": "Which of the following is a potential benefit of ecotourism in Timor-Leste?",
+      "choices": [
+        "Increased deforestation",
+        "Reduced community engagement",
+        "Economic incentives for conservation",
+        "Overexploitation of natural resources"
+      ],
+      "answer": "Economic incentives for conservation"
+    },
+    {
+      "question": "What is the primary goal of establishing protected areas in Timor-Leste?",
+      "choices": [
+        "To increase agricultural production",
+        "To promote urbanization",
+        "To conserve biodiversity and ecosystems",
+        "To exploit natural resources"
+      ],
+      "answer": "To conserve biodiversity and ecosystems"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a threat to Timor-Leste's biodiversity?",
+      "choices": [
+        "Habitat destruction",
+        "Climate change",
+        "Invasive species",
+        "Volcanic eruptions"
+      ],
+      "answer": "Volcanic eruptions"
+    },
+    {
+      "question": "What is the significance of traditional ecological knowledge in Timor-Leste's conservation efforts?",
+      "choices": [
+        "It is considered outdated and irrelevant",
+        "It helps in understanding and managing local ecosystems",
+        "It promotes unsustainable practices",
+        "It focuses solely on economic development"
+      ],
+      "answer": "It helps in understanding and managing local ecosystems"
+    }
+  ]
+}

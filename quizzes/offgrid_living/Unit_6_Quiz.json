@@ -1,0 +1,305 @@
+{
+  "title": "Financial Independence and Community Resilience",
+  "questions": [
+    {
+      "question": "What is a key strategy for achieving financial independence in off-grid living?",
+      "choices": [
+        "Increasing consumer spending",
+        "Significant expense reduction",
+        "Relying on external systems",
+        "Maximizing utility bills"
+      ],
+      "answer": "Significant expense reduction"
+    },
+    {
+      "question": "Which of the following is NOT typically a way to reduce expenses in off-grid living?",
+      "choices": [
+        "Implementing energy conservation techniques",
+        "Developing DIY and repair skills",
+        "Growing and preserving food",
+        "Subscribing to multiple streaming services"
+      ],
+      "answer": "Subscribing to multiple streaming services"
+    },
+    {
+      "question": "What is a time-banking system based on?",
+      "choices": [
+        "Traditional currency exchange",
+        "Barter of goods",
+        "Reciprocity using time as currency",
+        "Stock market investments"
+      ],
+      "answer": "Reciprocity using time as currency"
+    },
+    {
+      "question": "In a community-supported agriculture (CSA) model, what do consumers typically do?",
+      "choices": [
+        "Work on the farm full-time",
+        "Subscribe to the harvest of a local farm",
+        "Import produce from other countries",
+        "Manage the farm's finances"
+      ],
+      "answer": "Subscribe to the harvest of a local farm"
+    },
+    {
+      "question": "Which of the following is an example of a value-added product for off-grid income generation?",
+      "choices": [
+        "Raw vegetables",
+        "Unprocessed grains",
+        "Homemade jam",
+        "Tap water"
+      ],
+      "answer": "Homemade jam"
+    },
+    {
+      "question": "What is a key aspect of community resilience?",
+      "choices": [
+        "Individual isolation",
+        "Dependence on external resources",
+        "Competitive resource hoarding",
+        "Collaborative problem-solving"
+      ],
+      "answer": "Collaborative problem-solving"
+    },
+    {
+      "question": "Which renewable energy source is mentioned as a way to reduce utility bills in off-grid living?",
+      "choices": [
+        "Coal",
+        "Natural gas",
+        "Solar power",
+        "Nuclear energy"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "question": "What is a benefit of developing DIY and repair skills in off-grid living?",
+      "choices": [
+        "Increased reliance on external services",
+        "Higher maintenance costs",
+        "Reduced self-sufficiency",
+        "Lower expenses and increased self-reliance"
+      ],
+      "answer": "Lower expenses and increased self-reliance"
+    },
+    {
+      "question": "In a time-banking system, how is one member's hour of work typically valued compared to another's?",
+      "choices": [
+        "Based on market rates for their skills",
+        "Valued equally regardless of the task",
+        "Determined by the community leader",
+        "Calculated based on the difficulty of the task"
+      ],
+      "answer": "Valued equally regardless of the task"
+    },
+    {
+      "question": "What is a potential service-based income opportunity for off-grid living?",
+      "choices": [
+        "Corporate consulting",
+        "Stock trading",
+        "Offering workshops on sustainable living techniques",
+        "Managing a large retail store"
+      ],
+      "answer": "Offering workshops on sustainable living techniques"
+    },
+    {
+      "question": "What does CSA stand for in the context of this module?",
+      "choices": [
+        "Community Service Association",
+        "Corporate Sustainability Alliance",
+        "Community-Supported Agriculture",
+        "Centralized Solar Array"
+      ],
+      "answer": "Community-Supported Agriculture"
+    },
+    {
+      "question": "Which of the following is an example of a community project that promotes self-reliance?",
+      "choices": [
+        "Building a shopping mall",
+        "Establishing a community garden",
+        "Creating a fast-food chain",
+        "Developing a social media platform"
+      ],
+      "answer": "Establishing a community garden"
+    },
+    {
+      "question": "What is a key benefit of growing your own food in off-grid living?",
+      "choices": [
+        "Increased dependence on grocery stores",
+        "Higher food costs",
+        "Reduced grocery bills and fresh produce supply",
+        "Less control over food quality"
+      ],
+      "answer": "Reduced grocery bills and fresh produce supply"
+    },
+    {
+      "question": "Which traditional Timorese practice is mentioned as an example of community cooperation?",
+      "choices": [
+        "Fetosaa-umane",
+        "Hula dancing",
+        "Sumo wrestling",
+        "Flamenco"
+      ],
+      "answer": "Fetosaa-umane"
+    },
+    {
+      "question": "What is a potential challenge of implementing a time-banking system?",
+      "choices": [
+        "Too much community engagement",
+        "Overabundance of skills",
+        "Difficulty in tracking exchanges",
+        "Excessive financial profits"
+      ],
+      "answer": "Difficulty in tracking exchanges"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a way to preserve food in off-grid living?",
+      "choices": [
+        "Solar drying",
+        "Fermentation",
+        "Canning",
+        "Freeze-drying"
+      ],
+      "answer": "Freeze-drying"
+    },
+    {
+      "question": "What is a key consideration when planning crop varieties for a small-scale CSA in Timor-Leste?",
+      "choices": [
+        "International export potential",
+        "Seasonal considerations",
+        "Genetically modified options",
+        "Maximizing use of chemical fertilizers"
+      ],
+      "answer": "Seasonal considerations"
+    },
+    {
+      "question": "Which of the following is an example of a passive solar design principle for tropical climates?",
+      "choices": [
+        "Using dark-colored roofing materials",
+        "Minimizing natural ventilation",
+        "Proper orientation of buildings",
+        "Maximizing west-facing windows"
+      ],
+      "answer": "Proper orientation of buildings"
+    },
+    {
+      "question": "What is a potential benefit of upcycling in off-grid living?",
+      "choices": [
+        "Increased waste production",
+        "Higher consumer spending",
+        "Creating new items from discarded materials",
+        "Dependence on manufactured goods"
+      ],
+      "answer": "Creating new items from discarded materials"
+    },
+    {
+      "question": "Which water conservation technique is mentioned for off-grid living?",
+      "choices": [
+        "Increasing water usage",
+        "Installing high-flow fixtures",
+        "Rainwater harvesting",
+        "Using only bottled water"
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "What is a potential eco-tourism opportunity for off-grid communities?",
+      "choices": [
+        "Building large resorts",
+        "Offering guided nature walks",
+        "Promoting international air travel",
+        "Establishing fast-food franchises"
+      ],
+      "answer": "Offering guided nature walks"
+    },
+    {
+      "question": "Which of the following is a key component of financial independence in off-grid living?",
+      "choices": [
+        "Maximizing debt",
+        "Relying solely on one income source",
+        "Creating sustainable means of meeting one's needs",
+        "Increasing dependence on external systems"
+      ],
+      "answer": "Creating sustainable means of meeting one's needs"
+    },
+    {
+      "question": "What is a benefit of implementing greywater recycling in off-grid living?",
+      "choices": [
+        "Increased water consumption",
+        "Higher water bills",
+        "Water conservation for garden use",
+        "Reduced plant growth"
+      ],
+      "answer": "Water conservation for garden use"
+    },
+    {
+      "question": "Which of the following is an example of a skill-sharing event in a community?",
+      "choices": [
+        "Competitive sports tournament",
+        "Political debate",
+        "Workshop on traditional crafts",
+        "Fashion show"
+      ],
+      "answer": "Workshop on traditional crafts"
+    },
+    {
+      "question": "What is a key consideration when pricing handmade goods for local markets?",
+      "choices": [
+        "Always pricing higher than mass-produced alternatives",
+        "Ignoring production costs",
+        "Considering local economic conditions",
+        "Setting prices based on international markets"
+      ],
+      "answer": "Considering local economic conditions"
+    },
+    {
+      "question": "Which of the following is a potential benefit of a community tool library?",
+      "choices": [
+        "Increased individual tool ownership",
+        "Higher community expenses",
+        "Shared resources and reduced individual costs",
+        "Less interaction among community members"
+      ],
+      "answer": "Shared resources and reduced individual costs"
+    },
+    {
+      "question": "What is a key aspect of financial planning for off-grid living in Timor-Leste?",
+      "choices": [
+        "Focusing solely on short-term gains",
+        "Ignoring climate change impacts",
+        "Considering potential adaptations to environmental changes",
+        "Relying entirely on government support"
+      ],
+      "answer": "Considering potential adaptations to environmental changes"
+    },
+    {
+      "question": "Which of the following is a potential challenge in developing a local currency system?",
+      "choices": [
+        "Too much economic stability",
+        "Overabundance of traditional currency",
+        "Ensuring widespread acceptance and trust",
+        "Decreased community interaction"
+      ],
+      "answer": "Ensuring widespread acceptance and trust"
+    },
+    {
+      "question": "What is a key benefit of vertical gardening in off-grid living?",
+      "choices": [
+        "Increased land use",
+        "Higher water consumption",
+        "Maximizing space in small areas",
+        "Reduced crop diversity"
+      ],
+      "answer": "Maximizing space in small areas"
+    },
+    {
+      "question": "Which of the following is an example of a value-added service in off-grid communities?",
+      "choices": [
+        "Selling raw materials",
+        "Offering permaculture design consultations",
+        "Exporting unprocessed goods",
+        "Promoting mass tourism"
+      ],
+      "answer": "Offering permaculture design consultations"
+    }
+  ]
+}

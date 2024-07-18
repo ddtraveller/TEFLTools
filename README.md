@@ -27,7 +27,8 @@ For practical application:
 
 ## Kursu Prinsipal sira / Key Courses
 
-Repo ida-ne'e iha kursu individuál 80 resin no arkivu 4200+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / This repo contains over 80 individual courses and 4200+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
+Repo ida-ne'e iha kursu individuál 95 resin no arkivu 4600+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / 
+This repo contains over 95 individual courses and 4600+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
 
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
@@ -110,13 +111,13 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 24. **Tratamentu kona-ba kraniozakral / Craniosacral Therapy**
     - This course introduces the fundamentals of craniosacral therapy, adapted for the cultural context of Timor-Leste. Students will about learn basic anatomy, physiology, and about hands-on techniques to assess and treat the craniosacral system.
 
-25. **Drenajen lymfatiku. / Lymphatic Drainage**
+25. **Drenajen lymfatiku / Lymphatic Drainage**
     - This course aims to introduce students in Timor-Leste to the principles and techniques of Manual Lymphatic Drainage (MLD). Participants will learn about the lymphatic system, its importance in health, and about how practitioners perform MLD techniques adapted for the Timorese context.
 
 26. **Introdusaun ba Chi Gung / Introduction to Chi Gung**
     - This course introduces the practice of Qigong to promote health and wellness in Timor-Leste. Students will learn fundamental Qigong principles and techniques adapted to the local cultural context. Basic Qigong movements and breathing exercises, and the connections between Qigong and traditional Timorese healing practices will be discussed
 
-27.  **Introdusaun ba Nei Gung / Introduction to Nei Gung**
+27. **Introdusaun ba Nei Gung / Introduction to Nei Gung**
      - Nei Gong, an ancient Chinese practice rooted in Daoist traditions, offers a path to cultivating internal energy and achieving harmony between mind, body, and spirit. This internal energy cultivation technique has gained increasing attention in the West as people seek holistic approaches to health and personal development. 
  
 28. **Miranda MacPherson**
@@ -134,7 +135,7 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 32. **Karoline Myss: Arketype iha Psikolojia no Kultura Timor-Leste / Caroline Myss: Archetypes in Timorese Psychology and Culture**   
     - This course explores the concept of archetypes as fundamental patterns of human behavior and consciousness within the context of Timorese culture. Drawing from various cultural, psychological, and spiritual traditions, it examines how archetypes influence personal development, societal structures, and creative expression in Timor-Leste. The course emphasizes the universal nature of archetypes while considering their diverse manifestations across different Timorese contexts. Students will learn to identify archetypal patterns in Timorese folklore, literature, and daily life, and understand how these patterns shape individual and collective identity.
 
-33. **Violénsia iha Timor Leste / Violence in TImor Leste** 
+33. **Violénsia iha Timor Leste / Violence in Timor Leste** 
     - This course examines the complex security challenges facing Timor-Leste in its post-conflict transition, with a focus on small arms control, armed group violence, and efforts to reform the security sector. Students will analyze the interplay between weapons proliferation, socioeconomic factors, and weak institutions in fueling ongoing instability. The course critically assesses government and civil society interventions aimed at reducing armed violence and building sustainable peace.
 
 34. **Livruak kona-ba Moris no Moris / The Tibetan Book of Living and Dying**
@@ -162,9 +163,25 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
     - This course examines the concept of Universal Basic Income (UBI) from an economic and policy perspective, with a focus on its potential application in Timor-Leste. Students will explore the role of UBI in addressing income inequality, poverty, and gaps in existing social safety nets within the Timorese context. The course compares UBI to current transfer programs, analyzes its potential distributional and fiscal impacts, and evaluates its effects on labor markets and social welfare in Timor-Leste.
 
 42. **Orasaun nia laran / The Heart of Prayer**
-    - This course explores the fundamental nature of being, consciousness, and divinity through the lens of prayer and meditation, with a focus on Timorese cultural and spiritual traditions. Students will examine teachings from various spiritual traditions, including Catholicism and indigenous Timorese beliefs, to understand the relationship between individual existence and infinite being. The course emphasizes practical approaches to realizing one's true nature and experiencing unity with the divine within the context of Timorese society.
+    - This course, based on Rupert Spira's book of the same name, explores the fundamental nature of being, consciousness, and divinity through the lens of prayer and meditation, with a focus on Timorese cultural and spiritual traditions. Students will examine teachings from various spiritual traditions, including Catholicism and indigenous Timorese beliefs, to understand the relationship between individual existence and infinite being. The course emphasizes practical approaches to realizing one's true nature and experiencing unity with the divine within the context of Timorese society.
+    
 43. **Lian, Edukasaun no Dezenvolvimentu Nasional iha Sosiedade Multilingual: Perspetiva Timor-Leste / Language, Education and National Development in Multilingual Societies: A Timor-Leste Perspective**
     - From Kristy Sword Gusmao's work, this course examines the complex relationships between language, education, and national development in multilingual societies, with a focus on Timor-Leste as a case study. Students will explore challenges and strategies for implementing mother tongue-based multilingual education, the role of school facilities and resources in supporting student learning, and approaches to preserving linguistic and cultural diversity while promoting national unity through education policy. 
+
+44. **Sistema Administrasaun no Komandu Lina Fundamental / Linux System Administration and Command Line Fundamentals**
+    - This course provides a comprehensive introduction to Linux operating systems, focusing on core concepts, command line skills, and system administration fundamentals. Students will learn about the Linux kernel, user space, and key system components while developing practical skills in navigating the file system, managing processes and users, and performing essential administrative tasks. The course emphasizes hands-on experience with common utilities and shell scripting to prepare students for real-world Linux environments in Timor Leste.    
+
+45. **Fundamentals of Computer Networking and Internet Technologies for Timor-Leste / Fundamentals of Computer Networking and Internet Technologies for Timor-Leste**
+    - This course provides a comprehensive introduction to computer networking concepts tailored for students in Timor-Leste. It covers both local and wide area networks, exploring the layered architecture of networks, various networking technologies, and the protocols that enable communication between devices. The course also delves into Internet technologies, addressing schemes, and basic network security principles, providing students with a solid foundation in modern networking practices relevant to Timor-Leste's developing technological landscape.
+
+46. **Kualidade Kuidadu Labarik no Asesu iha Rural no Urbanu Timor-Leste. / Child Care Quality and Access in Rural and Urban Timor-Leste**
+    - This course examines differences in child care quality, availability, and affordability between rural and urban areas of Timor-Leste, with a focus on structural quality indicators like child-to-adult ratios. It explores how factors such as child care subsidies, costs, and family characteristics impact access to quality care, particularly for vulnerable populations. The content highlights the need for policies to ensure equitable access to high-quality early care and education across Timor-Leste. Students will gain an understanding of the unique challenges and opportunities for improving child care in both rural and urban contexts in Timor-Leste.
+
+47. **Sistema Rai Siensia no Fronteira Planetaria iha Timor-Leste / Earth System Science and Planetary Boundaries in Timor-Leste**
+    - This course explores the concept of planetary boundaries as a framework for understanding the limits of Earth's capacity to sustain human development, with a focus on Timor-Leste's unique environmental challenges and opportunities. Students will examine critical Earth system processes, their current status, and the risks associated with exceeding safe thresholds. The course emphasizes the interconnected nature of Earth's systems and the need for an integrated approach to global and local sustainability challenges.
+
+48. **Fundamentál Tai Chi no Arte Enerjetika Internal ba Saude no Ben-estar iha Timor-Leste. / Fundamentals of Tai Chi and Internal Energy Arts for Health and Wellbeing in Timor-Leste**
+    - This course introduces students in Timor-Leste to the principles and practices of tai chi and related internal energy arts. It emphasizes a holistic approach to health and wellbeing through the cultivation of internal energy (qi), proper body mechanics, and mind-body integration. The course is adapted to be culturally appropriate and relevant to the Timorese context, incorporating local health perspectives and traditional practices where applicable.
     
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
@@ -528,6 +545,8 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - developmental_economics
 - divine_feminine
 - drawing
+- Earth System Science and Planetary Boundaries in Timor-Leste
+- ECE
 - emotional_intelligence
 - female_empowerment
 - gen_syllabus
@@ -535,12 +554,15 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - gnostic_gospels
 - gospel_of_mary
 - green_playgrounds
+- green_tara
 - guide_to_teaching_english
 - html_css
 - indigenous_religion
+- krshna
 - lalla_yogeshwari
 - Language, Education and National Development in Multilingual Societies: A Timor-Leste Perspective ==> kristy_sword_gusmao
 - lincoln_douglas_debate
+- linux
 - lymphatic_drainage
 - marine_biology
 - masters of the living energy
@@ -550,6 +572,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - mountain_agroforestry
 - nei_gung
 - neuroscience_and_society_in_timoe_leste
+- offgrid_living
 - offgrid_water_desalinization
 - operating_manual_for_planet_earth
 - passive_cooling
@@ -557,6 +580,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - plant_propagation_by_tissue_culture
 - plants_grafting_layering_cloning
 - playwriting
+- poetry
 - polyvagal_theory
 - potato_farming_with_salt_water
 - python_game_making
@@ -566,6 +590,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - saline_agriculture
 - seidr
 - sexual_health_education
+- shakti
 - singing
 - sound_healing
 - sufi_poets

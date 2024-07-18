@@ -1,0 +1,295 @@
+{
+  "title": "Novel Entities and Chemical Pollution in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are novel entities in the context of planetary boundaries?",
+      "choices": [
+        "Natural substances found only in Timor-Leste",
+        "Synthetic substances or naturally occurring elements mobilized by human activities",
+        "New species of plants and animals",
+        "Traditional ecological knowledge systems"
+      ],
+      "answer": "Synthetic substances or naturally occurring elements mobilized by human activities"
+    },
+    {
+      "question": "Which of the following is NOT an example of a novel entity?",
+      "choices": [
+        "Plastics",
+        "Artificial chemicals",
+        "Heavy metals in new forms/locations",
+        "Naturally occurring minerals in their original state"
+      ],
+      "answer": "Naturally occurring minerals in their original state"
+    },
+    {
+      "question": "What is a key characteristic of persistent organic pollutants (POPs)?",
+      "choices": [
+        "They decompose quickly in the environment",
+        "They do not accumulate in living organisms",
+        "They persist in the environment and bioaccumulate in food chains",
+        "They are only found in industrial areas"
+      ],
+      "answer": "They persist in the environment and bioaccumulate in food chains"
+    },
+    {
+      "question": "Which of the following is a common POP found in Timor-Leste?",
+      "choices": [
+        "Oxygen",
+        "Carbon dioxide",
+        "DDT",
+        "Nitrogen"
+      ],
+      "answer": "DDT"
+    },
+    {
+      "question": "What is a major source of heavy metal contamination in Timor-Leste?",
+      "choices": [
+        "Organic farming practices",
+        "Renewable energy production",
+        "Mining and industrial processes",
+        "Ecotourism activities"
+      ],
+      "answer": "Mining and industrial processes"
+    },
+    {
+      "question": "What are microplastics?",
+      "choices": [
+        "Large plastic debris found on beaches",
+        "Plastic particles less than 5mm in size",
+        "Biodegradable plastics",
+        "Plastic recycling facilities"
+      ],
+      "answer": "Plastic particles less than 5mm in size"
+    },
+    {
+      "question": "Which sector in Timor-Leste is particularly affected by persistent organic pollutants?",
+      "choices": [
+        "Tourism",
+        "Technology",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is a major challenge in waste management for Timor-Leste?",
+      "choices": [
+        "Excess funding for waste management systems",
+        "Too many recycling facilities",
+        "Limited formal waste collection and disposal systems",
+        "Overabundance of trained waste management professionals"
+      ],
+      "answer": "Limited formal waste collection and disposal systems"
+    },
+    {
+      "question": "How does plastic pollution primarily affect Timor-Leste's marine environments?",
+      "choices": [
+        "It improves marine biodiversity",
+        "It provides new habitats for marine life",
+        "It degrades ecosystems and threatens marine life",
+        "It has no significant impact on marine environments"
+      ],
+      "answer": "It degrades ecosystems and threatens marine life"
+    },
+    {
+      "question": "What is bioaccumulation?",
+      "choices": [
+        "The process of recycling organic waste",
+        "The gradual accumulation of substances in an organism",
+        "The breakdown of plastics in the ocean",
+        "The natural purification of water in rivers"
+      ],
+      "answer": "The gradual accumulation of substances in an organism"
+    },
+    {
+      "question": "Which of the following is NOT a common heavy metal contaminant in Timor-Leste?",
+      "choices": [
+        "Lead",
+        "Mercury",
+        "Cadmium",
+        "Helium"
+      ],
+      "answer": "Helium"
+    },
+    {
+      "question": "What is a potential long-term consequence of persistent organic pollutants in Timor-Leste?",
+      "choices": [
+        "Increased agricultural productivity",
+        "Improved human health outcomes",
+        "Long-term environmental contamination and health issues",
+        "Enhanced biodiversity in affected areas"
+      ],
+      "answer": "Long-term environmental contamination and health issues"
+    },
+    {
+      "question": "Which economic sectors in Timor-Leste are most likely to be affected by marine plastic pollution?",
+      "choices": [
+        "Manufacturing and technology",
+        "Fishing and tourism",
+        "Mining and forestry",
+        "Agriculture and livestock"
+      ],
+      "answer": "Fishing and tourism"
+    },
+    {
+      "question": "What is a circular economy?",
+      "choices": [
+        "An economy based on circular reasoning",
+        "A system aimed at eliminating waste and continual use of resources",
+        "An economy focused solely on recycling",
+        "A financial system using only coins"
+      ],
+      "answer": "A system aimed at eliminating waste and continual use of resources"
+    },
+    {
+      "question": "Which international agreement is relevant to managing persistent organic pollutants in Timor-Leste?",
+      "choices": [
+        "Paris Agreement",
+        "Montreal Protocol",
+        "Stockholm Convention",
+        "Kyoto Protocol"
+      ],
+      "answer": "Stockholm Convention"
+    },
+    {
+      "question": "What is a major source of plastic pollution in Timor-Leste's marine environments?",
+      "choices": [
+        "Submarine volcanic activity",
+        "Natural decomposition of marine organisms",
+        "Improper waste disposal and coastal activities",
+        "Excessive marine protected areas"
+      ],
+      "answer": "Improper waste disposal and coastal activities"
+    },
+    {
+      "question": "Which ecosystem in Timor-Leste is particularly vulnerable to chemical pollution?",
+      "choices": [
+        "Desert ecosystems",
+        "Alpine tundra",
+        "Coral reefs",
+        "Temperate forests"
+      ],
+      "answer": "Coral reefs"
+    },
+    {
+      "question": "What role can traditional ecological knowledge play in addressing waste management in Timor-Leste?",
+      "choices": [
+        "It has no relevance to modern waste management",
+        "It can provide insights into sustainable practices and local solutions",
+        "It only applies to agricultural practices",
+        "It is primarily used for cultural ceremonies"
+      ],
+      "answer": "It can provide insights into sustainable practices and local solutions"
+    },
+    {
+      "question": "What is a potential health impact of heavy metal contamination in water sources?",
+      "choices": [
+        "Improved immune system function",
+        "Enhanced cognitive abilities",
+        "Neurological damage and kidney problems",
+        "Increased life expectancy"
+      ],
+      "answer": "Neurological damage and kidney problems"
+    },
+    {
+      "question": "Which of the following is NOT a suggested solution for waste management challenges in Timor-Leste?",
+      "choices": [
+        "Improved waste collection infrastructure",
+        "Implementation of recycling programs",
+        "Public education campaigns",
+        "Increasing the production of single-use plastics"
+      ],
+      "answer": "Increasing the production of single-use plastics"
+    },
+    {
+      "question": "What is the primary concern with microplastics in marine environments?",
+      "choices": [
+        "They improve water quality",
+        "They provide food for marine animals",
+        "They can be ingested by marine life and enter the food chain",
+        "They help in the formation of new islands"
+      ],
+      "answer": "They can be ingested by marine life and enter the food chain"
+    },
+    {
+      "question": "How does rapid urbanization in Timor-Leste contribute to chemical pollution?",
+      "choices": [
+        "It decreases the overall population",
+        "It leads to more efficient waste management",
+        "It increases waste generation and improper disposal",
+        "It promotes the use of biodegradable materials"
+      ],
+      "answer": "It increases waste generation and improper disposal"
+    },
+    {
+      "question": "What is a potential economic opportunity arising from addressing plastic pollution in Timor-Leste?",
+      "choices": [
+        "Increased production of plastic goods",
+        "Development of recycling industries and eco-friendly alternatives",
+        "Expansion of landfill sites",
+        "Exporting waste to neighboring countries"
+      ],
+      "answer": "Development of recycling industries and eco-friendly alternatives"
+    },
+    {
+      "question": "Which of the following is an example of a community-based initiative to address chemical pollution?",
+      "choices": [
+        "Building more factories",
+        "Organizing beach cleanups and waste audits",
+        "Promoting the use of single-use plastics",
+        "Encouraging the use of chemical fertilizers"
+      ],
+      "answer": "Organizing beach cleanups and waste audits"
+    },
+    {
+      "question": "What role does international cooperation play in addressing chemical pollution in Timor-Leste?",
+      "choices": [
+        "It has no impact on local pollution issues",
+        "It only provides financial aid",
+        "It can provide technical support, funding, and access to global expertise",
+        "It focuses solely on diplomatic relations"
+      ],
+      "answer": "It can provide technical support, funding, and access to global expertise"
+    },
+    {
+      "question": "Which of the following is NOT a direct impact of chemical pollution on Timor-Leste's ecosystems?",
+      "choices": [
+        "Degradation of coral reefs",
+        "Stress on mangrove forests",
+        "Increased biodiversity in polluted areas",
+        "Threats to seagrass beds"
+      ],
+      "answer": "Increased biodiversity in polluted areas"
+    },
+    {
+      "question": "What is a key challenge in implementing effective waste management in rural areas of Timor-Leste?",
+      "choices": [
+        "Excess funding for waste management",
+        "Too many waste management facilities",
+        "Geographical challenges for waste collection",
+        "Overabundance of trained personnel"
+      ],
+      "answer": "Geographical challenges for waste collection"
+    },
+    {
+      "question": "How can the adoption of circular economy principles benefit Timor-Leste in terms of chemical pollution?",
+      "choices": [
+        "By increasing the production of synthetic materials",
+        "By promoting the use of single-use products",
+        "By minimizing waste generation and promoting resource reuse",
+        "By encouraging the import of more chemicals"
+      ],
+      "answer": "By minimizing waste generation and promoting resource reuse"
+    },
+    {
+      "question": "What is a potential consequence of bioaccumulation of pollutants in Timor-Leste's food chains?",
+      "choices": [
+        "Increased nutritional value of food",
+        "Health risks for humans consuming contaminated food",
+        "Improved ecosystem balance",
+        "Decreased need for agricultural pesticides"
+      ],
+      "answer": "Health risks for humans consuming contaminated food"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "File System Navigation and Management",
+  "questions": [
+    {
+      "question": "What is the root directory in Linux denoted by?",
+      "choices": [
+        "/",
+        "\\",
+        "root",
+        "$"
+      ],
+      "answer": "/"
+    },
+    {
+      "question": "Which command is used to change directories in Linux?",
+      "choices": [
+        "cd",
+        "chdir",
+        "mv",
+        "pwd"
+      ],
+      "answer": "cd"
+    },
+    {
+      "question": "What does the 'pwd' command do?",
+      "choices": [
+        "Print Working Directory",
+        "Password",
+        "Power Down",
+        "Previous Working Directory"
+      ],
+      "answer": "Print Working Directory"
+    },
+    {
+      "question": "Which command is used to list directory contents?",
+      "choices": [
+        "ls",
+        "list",
+        "dir",
+        "show"
+      ],
+      "answer": "ls"
+    },
+    {
+      "question": "What command is used to copy files or directories?",
+      "choices": [
+        "cp",
+        "copy",
+        "mv",
+        "rcp"
+      ],
+      "answer": "cp"
+    },
+    {
+      "question": "Which command is used to move or rename files?",
+      "choices": [
+        "mv",
+        "move",
+        "rn",
+        "cp"
+      ],
+      "answer": "mv"
+    },
+    {
+      "question": "What command is used to remove files or directories?",
+      "choices": [
+        "rm",
+        "remove",
+        "del",
+        "erase"
+      ],
+      "answer": "rm"
+    },
+    {
+      "question": "Which command creates a new directory?",
+      "choices": [
+        "mkdir",
+        "newdir",
+        "createdir",
+        "md"
+      ],
+      "answer": "mkdir"
+    },
+    {
+      "question": "What does the 'touch' command do?",
+      "choices": [
+        "Create empty files or update timestamps",
+        "Move files",
+        "Delete files",
+        "Change file permissions"
+      ],
+      "answer": "Create empty files or update timestamps"
+    },
+    {
+      "question": "Which directory typically contains user-specific files and settings?",
+      "choices": [
+        "/home",
+        "/root",
+        "/usr",
+        "/etc"
+      ],
+      "answer": "/home"
+    },
+    {
+      "question": "Where are system-wide configuration files usually stored?",
+      "choices": [
+        "/etc",
+        "/var",
+        "/conf",
+        "/sys"
+      ],
+      "answer": "/etc"
+    },
+    {
+      "question": "Which directory is designated for temporary files?",
+      "choices": [
+        "/tmp",
+        "/temp",
+        "/var",
+        "/cache"
+      ],
+      "answer": "/tmp"
+    },
+    {
+      "question": "What command is used to change file permissions?",
+      "choices": [
+        "chmod",
+        "chperm",
+        "perm",
+        "setmod"
+      ],
+      "answer": "chmod"
+    },
+    {
+      "question": "Which command changes the ownership of a file or directory?",
+      "choices": [
+        "chown",
+        "chmod",
+        "own",
+        "setowner"
+      ],
+      "answer": "chown"
+    },
+    {
+      "question": "What does 'rwxr-xr-x' represent in file permissions?",
+      "choices": [
+        "Read, write, execute for owner; read and execute for group and others",
+        "Read and write for all",
+        "Read, write, execute for all",
+        "Read only for all"
+      ],
+      "answer": "Read, write, execute for owner; read and execute for group and others"
+    },
+    {
+      "question": "Which option with 'ls' command shows detailed file information including permissions?",
+      "choices": [
+        "-l",
+        "-a",
+        "-h",
+        "-r"
+      ],
+      "answer": "-l"
+    },
+    {
+      "question": "What type of path starts from the root directory?",
+      "choices": [
+        "Absolute path",
+        "Relative path",
+        "Hidden path",
+        "Symbolic path"
+      ],
+      "answer": "Absolute path"
+    },
+    {
+      "question": "Which symbol represents the parent directory in a relative path?",
+      "choices": [
+        "..",
+        ".",
+        "~",
+        "/"
+      ],
+      "answer": ".."
+    },
+    {
+      "question": "What does the tilde (~) typically represent in file paths?",
+      "choices": [
+        "User's home directory",
+        "Root directory",
+        "Current directory",
+        "Parent directory"
+      ],
+      "answer": "User's home directory"
+    },
+    {
+      "question": "Which command would you use to recursively copy a directory?",
+      "choices": [
+        "cp -r",
+        "cp -a",
+        "copy -r",
+        "mv -r"
+      ],
+      "answer": "cp -r"
+    },
+    {
+      "question": "What does 'chmod 755 script.sh' do?",
+      "choices": [
+        "Gives read, write, execute to owner; read and execute to group and others",
+        "Gives full permissions to everyone",
+        "Removes all permissions",
+        "Gives read-only access to all"
+      ],
+      "answer": "Gives read, write, execute to owner; read and execute to group and others"
+    },
+    {
+      "question": "Which directory typically contains log files?",
+      "choices": [
+        "/var/log",
+        "/log",
+        "/etc/log",
+        "/usr/log"
+      ],
+      "answer": "/var/log"
+    },
+    {
+      "question": "What does the command 'ls -a' do?",
+      "choices": [
+        "Shows all files, including hidden ones",
+        "Shows only directories",
+        "Shows files in alphabetical order",
+        "Shows files with their sizes"
+      ],
+      "answer": "Shows all files, including hidden ones"
+    },
+    {
+      "question": "Which command is used to display the contents of a text file?",
+      "choices": [
+        "cat",
+        "show",
+        "display",
+        "print"
+      ],
+      "answer": "cat"
+    },
+    {
+      "question": "What does 'chmod u+x file.sh' do?",
+      "choices": [
+        "Adds execute permission for the owner",
+        "Removes execute permission for the owner",
+        "Adds execute permission for all users",
+        "Changes the owner of the file"
+      ],
+      "answer": "Adds execute permission for the owner"
+    },
+    {
+      "question": "Which directory typically contains user programs and data?",
+      "choices": [
+        "/usr",
+        "/home",
+        "/bin",
+        "/opt"
+      ],
+      "answer": "/usr"
+    },
+    {
+      "question": "What command would you use to find files by name?",
+      "choices": [
+        "find",
+        "search",
+        "locate",
+        "grep"
+      ],
+      "answer": "find"
+    },
+    {
+      "question": "Which command creates a symbolic link?",
+      "choices": [
+        "ln -s",
+        "link -s",
+        "symlink",
+        "mklink"
+      ],
+      "answer": "ln -s"
+    },
+    {
+      "question": "What does the command 'du' do?",
+      "choices": [
+        "Estimates file and directory space usage",
+        "Displays disk usage",
+        "Deletes unused files",
+        "Duplicates files"
+      ],
+      "answer": "Estimates file and directory space usage"
+    },
+    {
+      "question": "Which command is used to compare the contents of two files?",
+      "choices": [
+        "diff",
+        "cmp",
+        "comp",
+        "fc"
+      ],
+      "answer": "diff"
+    }
+  ]
+}

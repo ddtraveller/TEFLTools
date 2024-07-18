@@ -1,0 +1,305 @@
+{
+  "title": "Process Management in Linux",
+  "questions": [
+    {
+      "question": "What is a process in Linux?",
+      "choices": [
+        "A file on the hard drive",
+        "An instance of a running program",
+        "A user account",
+        "A hardware component"
+      ],
+      "answer": "An instance of a running program"
+    },
+    {
+      "question": "Which command provides a snapshot of current processes?",
+      "choices": [
+        "ls",
+        "top",
+        "ps",
+        "proc"
+      ],
+      "answer": "ps"
+    },
+    {
+      "question": "What does PID stand for?",
+      "choices": [
+        "Process Identification",
+        "Program ID",
+        "Process ID",
+        "Personal Identifier"
+      ],
+      "answer": "Process ID"
+    },
+    {
+      "question": "Which PID is always assigned to the init process?",
+      "choices": [
+        "0",
+        "1",
+        "100",
+        "-1"
+      ],
+      "answer": "1"
+    },
+    {
+      "question": "What command provides a real-time, dynamic view of system processes?",
+      "choices": [
+        "ps",
+        "ls",
+        "top",
+        "find"
+      ],
+      "answer": "top"
+    },
+    {
+      "question": "Which of the following is NOT a process state in Linux?",
+      "choices": [
+        "Running",
+        "Sleeping",
+        "Stopped",
+        "Active"
+      ],
+      "answer": "Active"
+    },
+    {
+      "question": "What command is used to list current jobs associated with the terminal?",
+      "choices": [
+        "ps",
+        "jobs",
+        "top",
+        "list"
+      ],
+      "answer": "jobs"
+    },
+    {
+      "question": "Which command moves a suspended foreground process to the background?",
+      "choices": [
+        "fg",
+        "bg",
+        "push",
+        "move"
+      ],
+      "answer": "bg"
+    },
+    {
+      "question": "What does the 'nice' command do?",
+      "choices": [
+        "Terminates a process politely",
+        "Starts a process with modified scheduling priority",
+        "Renames a process",
+        "Sends a friendly message to another user"
+      ],
+      "answer": "Starts a process with modified scheduling priority"
+    },
+    {
+      "question": "What is a zombie process?",
+      "choices": [
+        "A process that consumes a lot of CPU",
+        "A process that has completed execution but still has an entry in the process table",
+        "A process that runs at night",
+        "A process that infects other processes"
+      ],
+      "answer": "A process that has completed execution but still has an entry in the process table"
+    },
+    {
+      "question": "Which command is an enhanced alternative to 'top'?",
+      "choices": [
+        "super-top",
+        "mega-top",
+        "htop",
+        "xtop"
+      ],
+      "answer": "htop"
+    },
+    {
+      "question": "What does PPID stand for?",
+      "choices": [
+        "Primary Process ID",
+        "Parent Process ID",
+        "Previous Process ID",
+        "Permanent Process ID"
+      ],
+      "answer": "Parent Process ID"
+    },
+    {
+      "question": "Which command is used to change the priority of a running process?",
+      "choices": [
+        "nice",
+        "renice",
+        "priority",
+        "change-nice"
+      ],
+      "answer": "renice"
+    },
+    {
+      "question": "What is the default update interval for the 'top' command?",
+      "choices": [
+        "1 second",
+        "3 seconds",
+        "5 seconds",
+        "10 seconds"
+      ],
+      "answer": "3 seconds"
+    },
+    {
+      "question": "Which symbol is used to run a command in the background?",
+      "choices": [
+        "&",
+        "#",
+        "@",
+        "!"
+      ],
+      "answer": "&"
+    },
+    {
+      "question": "What is the range of nice values in Linux?",
+      "choices": [
+        "-20 to 19",
+        "0 to 39",
+        "-10 to 10",
+        "1 to 100"
+      ],
+      "answer": "-20 to 19"
+    },
+    {
+      "question": "Which command brings a background process to the foreground?",
+      "choices": [
+        "bg",
+        "fg",
+        "bring",
+        "front"
+      ],
+      "answer": "fg"
+    },
+    {
+      "question": "What does UID represent in process attributes?",
+      "choices": [
+        "Unique Identifier",
+        "User ID",
+        "Unix ID",
+        "Update ID"
+      ],
+      "answer": "User ID"
+    },
+    {
+      "question": "Which option for 'ps' shows all processes for all users?",
+      "choices": [
+        "-a",
+        "-u",
+        "-x",
+        "aux"
+      ],
+      "answer": "aux"
+    },
+    {
+      "question": "What type of process has control of the terminal?",
+      "choices": [
+        "Background process",
+        "Foreground process",
+        "Zombie process",
+        "Sleeping process"
+      ],
+      "answer": "Foreground process"
+    },
+    {
+      "question": "Which key is typically used to quit the 'top' command?",
+      "choices": [
+        "q",
+        "x",
+        "esc",
+        "ctrl+c"
+      ],
+      "answer": "q"
+    },
+    {
+      "question": "What does a lower nice value indicate?",
+      "choices": [
+        "Lower priority",
+        "Higher priority",
+        "Longer runtime",
+        "More memory usage"
+      ],
+      "answer": "Higher priority"
+    },
+    {
+      "question": "Which filesystem in Linux provides information about processes?",
+      "choices": [
+        "/etc",
+        "/var",
+        "/proc",
+        "/sys"
+      ],
+      "answer": "/proc"
+    },
+    {
+      "question": "What command can be used to kill a process from within 'top'?",
+      "choices": [
+        "k",
+        "x",
+        "d",
+        "t"
+      ],
+      "answer": "k"
+    },
+    {
+      "question": "Which state is a process in when it's waiting for a resource or event?",
+      "choices": [
+        "Running",
+        "Sleeping",
+        "Stopped",
+        "Zombie"
+      ],
+      "answer": "Sleeping"
+    },
+    {
+      "question": "What does the 'ps -ef' command do?",
+      "choices": [
+        "Shows only error processes",
+        "Provides a full-format listing of processes",
+        "Filters processes by name",
+        "Displays processes sorted by efficiency"
+      ],
+      "answer": "Provides a full-format listing of processes"
+    },
+    {
+      "question": "Which feature of 'htop' is not available in 'top'?",
+      "choices": [
+        "Sorting processes",
+        "Killing processes",
+        "Mouse support",
+        "Displaying CPU usage"
+      ],
+      "answer": "Mouse support"
+    },
+    {
+      "question": "What is the purpose of job control in Linux?",
+      "choices": [
+        "To create new jobs",
+        "To manage foreground and background processes",
+        "To schedule jobs for later execution",
+        "To assign jobs to specific users"
+      ],
+      "answer": "To manage foreground and background processes"
+    },
+    {
+      "question": "Which command shows processes for a specific user?",
+      "choices": [
+        "ps -u username",
+        "top -u username",
+        "user -p username",
+        "proc -u username"
+      ],
+      "answer": "ps -u username"
+    },
+    {
+      "question": "What is the default nice value for processes in Linux?",
+      "choices": [
+        "-10",
+        "0",
+        "10",
+        "20"
+      ],
+      "answer": "0"
+    }
+  ]
+}

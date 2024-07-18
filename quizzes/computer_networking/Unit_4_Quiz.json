@@ -1,0 +1,305 @@
+{
+  "title": "Physical Media and Connectivity",
+  "questions": [
+    {
+      "question": "Which type of cable consists of two insulated copper wires twisted together?",
+      "choices": [
+        "Coaxial cable",
+        "Fiber optic cable",
+        "Twisted pair cable",
+        "Ribbon cable"
+      ],
+      "answer": "Twisted pair cable"
+    },
+    {
+      "question": "What is the main advantage of fiber optic cables over other types of network cables?",
+      "choices": [
+        "Lower cost",
+        "Easier installation",
+        "Higher bandwidth",
+        "Better flexibility"
+      ],
+      "answer": "Higher bandwidth"
+    },
+    {
+      "question": "Which of the following is NOT a common category of twisted pair cable?",
+      "choices": [
+        "Cat5e",
+        "Cat6",
+        "Cat7",
+        "Cat9"
+      ],
+      "answer": "Cat9"
+    },
+    {
+      "question": "What is the primary purpose of the metallic shield in a coaxial cable?",
+      "choices": [
+        "To increase bandwidth",
+        "To reduce electromagnetic interference",
+        "To improve flexibility",
+        "To decrease cost"
+      ],
+      "answer": "To reduce electromagnetic interference"
+    },
+    {
+      "question": "Which type of cable uses pulses of light to transmit data?",
+      "choices": [
+        "Twisted pair",
+        "Coaxial",
+        "Fiber optic",
+        "Ethernet"
+      ],
+      "answer": "Fiber optic"
+    },
+    {
+      "question": "What are the two main types of fiber optic cables?",
+      "choices": [
+        "Thick and thin",
+        "Single-mode and multi-mode",
+        "Copper and aluminum",
+        "Shielded and unshielded"
+      ],
+      "answer": "Single-mode and multi-mode"
+    },
+    {
+      "question": "Which wireless technology is based on the IEEE 802.11 standards?",
+      "choices": [
+        "Bluetooth",
+        "Wi-Fi",
+        "NFC",
+        "Zigbee"
+      ],
+      "answer": "Wi-Fi"
+    },
+    {
+      "question": "What are the two common frequency bands used by Wi-Fi?",
+      "choices": [
+        "2.4 GHz and 5 GHz",
+        "900 MHz and 1.8 GHz",
+        "3.5 GHz and 6 GHz",
+        "1.2 GHz and 3.6 GHz"
+      ],
+      "answer": "2.4 GHz and 5 GHz"
+    },
+    {
+      "question": "Which generation of cellular network technology introduced high-speed mobile broadband?",
+      "choices": [
+        "2G",
+        "3G",
+        "4G",
+        "5G"
+      ],
+      "answer": "4G"
+    },
+    {
+      "question": "What is the typical indoor range of a Wi-Fi network?",
+      "choices": [
+        "10-20 meters",
+        "30-50 meters",
+        "100-150 meters",
+        "500-1000 meters"
+      ],
+      "answer": "30-50 meters"
+    },
+    {
+      "question": "Which connectivity option is most likely to be available in remote areas of Timor-Leste?",
+      "choices": [
+        "Fiber-to-the-home",
+        "DSL",
+        "Cable internet",
+        "Satellite internet"
+      ],
+      "answer": "Satellite internet"
+    },
+    {
+      "question": "What is a disadvantage of satellite internet compared to other options?",
+      "choices": [
+        "Lower bandwidth",
+        "Higher latency",
+        "More expensive equipment",
+        "Limited global coverage"
+      ],
+      "answer": "Higher latency"
+    },
+    {
+      "question": "Which type of internet connection typically offers the highest speeds in urban areas of Timor-Leste?",
+      "choices": [
+        "DSL",
+        "Fiber-to-the-home",
+        "3G mobile broadband",
+        "Dial-up"
+      ],
+      "answer": "Fiber-to-the-home"
+    },
+    {
+      "question": "What does FTTH stand for in the context of internet connectivity?",
+      "choices": [
+        "Fiber To The Home",
+        "Fast Transfer Through Hub",
+        "File Transfer To Host",
+        "Frequency Tuning To Harmonize"
+      ],
+      "answer": "Fiber To The Home"
+    },
+    {
+      "question": "Which factor does NOT typically affect Wi-Fi signal strength?",
+      "choices": [
+        "Walls",
+        "Distance from router",
+        "Electronic devices",
+        "Color of the router"
+      ],
+      "answer": "Color of the router"
+    },
+    {
+      "question": "What is the main advantage of using twisted pair cables in networking?",
+      "choices": [
+        "Highest bandwidth",
+        "Longest distance capability",
+        "Lowest cost and easy installation",
+        "Best shielding against interference"
+      ],
+      "answer": "Lowest cost and easy installation"
+    },
+    {
+      "question": "Which type of cable is most commonly used for cable television connections?",
+      "choices": [
+        "Twisted pair",
+        "Coaxial",
+        "Fiber optic",
+        "Flat ribbon"
+      ],
+      "answer": "Coaxial"
+    },
+    {
+      "question": "What is the primary benefit of using fiber optic cables for long-distance communication?",
+      "choices": [
+        "Lower cost",
+        "Easier repair",
+        "Lower signal loss",
+        "Better flexibility"
+      ],
+      "answer": "Lower signal loss"
+    },
+    {
+      "question": "Which wireless technology is most suitable for creating a personal area network (PAN)?",
+      "choices": [
+        "Wi-Fi",
+        "Bluetooth",
+        "5G",
+        "Satellite"
+      ],
+      "answer": "Bluetooth"
+    },
+    {
+      "question": "What is the main challenge in deploying fiber optic networks in rural areas?",
+      "choices": [
+        "Signal interference",
+        "Limited bandwidth",
+        "High installation costs",
+        "Frequent cable breaks"
+      ],
+      "answer": "High installation costs"
+    },
+    {
+      "question": "Which factor is most likely to affect the performance of a satellite internet connection?",
+      "choices": [
+        "Time of day",
+        "Weather conditions",
+        "Number of connected devices",
+        "Color of the satellite dish"
+      ],
+      "answer": "Weather conditions"
+    },
+    {
+      "question": "What is the primary advantage of 5G networks over 4G?",
+      "choices": [
+        "Wider coverage area",
+        "Lower power consumption",
+        "Higher data rates and lower latency",
+        "Simpler network architecture"
+      ],
+      "answer": "Higher data rates and lower latency"
+    },
+    {
+      "question": "Which type of internet connection is most likely to be affected by line-of-sight issues?",
+      "choices": [
+        "DSL",
+        "Fiber optic",
+        "Fixed wireless",
+        "Cable"
+      ],
+      "answer": "Fixed wireless"
+    },
+    {
+      "question": "What is the main advantage of using cellular networks for internet connectivity?",
+      "choices": [
+        "Highest speeds",
+        "Lowest latency",
+        "Wide coverage and mobility",
+        "Unlimited data plans"
+      ],
+      "answer": "Wide coverage and mobility"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in expanding internet access in Timor-Leste?",
+      "choices": [
+        "Mountainous terrain",
+        "Limited infrastructure",
+        "High population density",
+        "Economic constraints"
+      ],
+      "answer": "High population density"
+    },
+    {
+      "question": "What is the primary purpose of a Wi-Fi analyzer app?",
+      "choices": [
+        "To improve Wi-Fi speed",
+        "To measure signal strength in different locations",
+        "To block unauthorized access",
+        "To reduce power consumption"
+      ],
+      "answer": "To measure signal strength in different locations"
+    },
+    {
+      "question": "Which type of cable is most resistant to electromagnetic interference?",
+      "choices": [
+        "Unshielded twisted pair",
+        "Shielded twisted pair",
+        "Coaxial",
+        "Fiber optic"
+      ],
+      "answer": "Fiber optic"
+    },
+    {
+      "question": "What does ISP stand for in the context of internet connectivity?",
+      "choices": [
+        "Internet Service Provider",
+        "Internal System Protocol",
+        "Integrated Signal Processor",
+        "International Standard Practice"
+      ],
+      "answer": "Internet Service Provider"
+    },
+    {
+      "question": "Which of the following is a potential disadvantage of wireless networks compared to wired networks?",
+      "choices": [
+        "Lower bandwidth",
+        "Higher latency",
+        "More susceptible to interference",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the main benefit of using DSL for internet connectivity?",
+      "choices": [
+        "Highest speeds",
+        "Uses existing telephone lines",
+        "Immune to weather conditions",
+        "Unlimited data caps"
+      ],
+      "answer": "Uses existing telephone lines"
+    }
+  ]
+}

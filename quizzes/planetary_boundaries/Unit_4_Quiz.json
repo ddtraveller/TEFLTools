@@ -1,0 +1,305 @@
+{
+  "title": "Biogeochemical Flows: Nitrogen and Phosphorus Cycles",
+  "questions": [
+    {
+      "question": "Which process converts atmospheric nitrogen into a form usable by plants?",
+      "choices": [
+        "Nitrogen fixation",
+        "Denitrification",
+        "Nitrification",
+        "Ammonification"
+      ],
+      "answer": "Nitrogen fixation"
+    },
+    {
+      "question": "What is the primary source of phosphorus in ecosystems?",
+      "choices": [
+        "Atmospheric deposition",
+        "Weathering of rocks",
+        "Industrial production",
+        "Volcanic eruptions"
+      ],
+      "answer": "Weathering of rocks"
+    },
+    {
+      "question": "Which of the following is NOT a consequence of altered nutrient cycles?",
+      "choices": [
+        "Eutrophication",
+        "Soil degradation",
+        "Increased biodiversity",
+        "Air pollution"
+      ],
+      "answer": "Increased biodiversity"
+    },
+    {
+      "question": "What is the Haber-Bosch process used for?",
+      "choices": [
+        "Phosphorus mining",
+        "Industrial nitrogen fixation",
+        "Denitrification",
+        "Soil remediation"
+      ],
+      "answer": "Industrial nitrogen fixation"
+    },
+    {
+      "question": "Which bacteria are responsible for converting ammonia to nitrite in the nitrogen cycle?",
+      "choices": [
+        "Nitrosomonas",
+        "Nitrobacter",
+        "Rhizobium",
+        "Azotobacter"
+      ],
+      "answer": "Nitrosomonas"
+    },
+    {
+      "question": "What is the term for the excessive richness of nutrients in a body of water?",
+      "choices": [
+        "Acidification",
+        "Salinization",
+        "Eutrophication",
+        "Sedimentation"
+      ],
+      "answer": "Eutrophication"
+    },
+    {
+      "question": "Which of the following is a consequence of eutrophication?",
+      "choices": [
+        "Increased water clarity",
+        "Higher oxygen levels in water",
+        "Algal blooms",
+        "Improved fish populations"
+      ],
+      "answer": "Algal blooms"
+    },
+    {
+      "question": "What is the primary form of nitrogen absorbed by plants from the soil?",
+      "choices": [
+        "N2",
+        "NH3",
+        "NO3-",
+        "N2O"
+      ],
+      "answer": "NO3-"
+    },
+    {
+      "question": "Which process returns nitrogen to the atmosphere from nitrates in the soil?",
+      "choices": [
+        "Nitrification",
+        "Ammonification",
+        "Denitrification",
+        "Assimilation"
+      ],
+      "answer": "Denitrification"
+    },
+    {
+      "question": "What is the main difference between the nitrogen and phosphorus cycles?",
+      "choices": [
+        "Nitrogen has no atmospheric component",
+        "Phosphorus has no atmospheric component",
+        "Nitrogen is not used by plants",
+        "Phosphorus is not found in rocks"
+      ],
+      "answer": "Phosphorus has no atmospheric component"
+    },
+    {
+      "question": "Which of the following is a sustainable nutrient management practice?",
+      "choices": [
+        "Increasing fertilizer application rates",
+        "Removing buffer zones near waterways",
+        "Using precision agriculture techniques",
+        "Promoting monoculture farming"
+      ],
+      "answer": "Using precision agriculture techniques"
+    },
+    {
+      "question": "What is the role of legumes in the nitrogen cycle?",
+      "choices": [
+        "They fix atmospheric nitrogen",
+        "They increase soil acidity",
+        "They prevent denitrification",
+        "They accelerate phosphorus weathering"
+      ],
+      "answer": "They fix atmospheric nitrogen"
+    },
+    {
+      "question": "Which of the following is a potential long-term consequence of excessive fertilizer use?",
+      "choices": [
+        "Increased soil fertility",
+        "Reduced water pollution",
+        "Soil acidification",
+        "Enhanced biodiversity"
+      ],
+      "answer": "Soil acidification"
+    },
+    {
+      "question": "What is the primary source of phosphorus for agricultural use?",
+      "choices": [
+        "Atmospheric deposition",
+        "Biological fixation",
+        "Phosphate rock mining",
+        "Ocean sediments"
+      ],
+      "answer": "Phosphate rock mining"
+    },
+    {
+      "question": "Which of the following is NOT a component of the phosphorus cycle?",
+      "choices": [
+        "Weathering of rocks",
+        "Uptake by plants",
+        "Atmospheric fixation",
+        "Sedimentation in water bodies"
+      ],
+      "answer": "Atmospheric fixation"
+    },
+    {
+      "question": "What is the term for the process by which plants absorb nutrients from the soil?",
+      "choices": [
+        "Assimilation",
+        "Fixation",
+        "Mineralization",
+        "Volatilization"
+      ],
+      "answer": "Assimilation"
+    },
+    {
+      "question": "Which of the following is a consequence of disrupted nutrient cycles on biodiversity?",
+      "choices": [
+        "Increased species richness",
+        "Altered plant community compositions",
+        "Enhanced ecosystem stability",
+        "Reduced invasive species"
+      ],
+      "answer": "Altered plant community compositions"
+    },
+    {
+      "question": "What role do denitrifying bacteria play in the nitrogen cycle?",
+      "choices": [
+        "Convert N2 to NH3",
+        "Convert NO3- to N2",
+        "Convert NH4+ to NO3-",
+        "Fix atmospheric nitrogen"
+      ],
+      "answer": "Convert NO3- to N2"
+    },
+    {
+      "question": "Which of the following is a challenge in sustainable nutrient management for developing countries like Timor-Leste?",
+      "choices": [
+        "Excess availability of soil testing facilities",
+        "Overproduction of food",
+        "Balancing food security with environmental protection",
+        "Declining population growth"
+      ],
+      "answer": "Balancing food security with environmental protection"
+    },
+    {
+      "question": "What is the primary driver of increased nitrogen input into the global ecosystem?",
+      "choices": [
+        "Volcanic eruptions",
+        "Industrial nitrogen fixation",
+        "Lightning strikes",
+        "Biological nitrogen fixation"
+      ],
+      "answer": "Industrial nitrogen fixation"
+    },
+    {
+      "question": "Which of the following is NOT a sustainable agriculture practice for nutrient management?",
+      "choices": [
+        "Cover cropping",
+        "Intercropping",
+        "Continuous monoculture",
+        "Crop rotation"
+      ],
+      "answer": "Continuous monoculture"
+    },
+    {
+      "question": "What is the term for the area in a water body with low oxygen levels due to eutrophication?",
+      "choices": [
+        "Dead zone",
+        "Bloom zone",
+        "Nutrient zone",
+        "Hypoxic zone"
+      ],
+      "answer": "Dead zone"
+    },
+    {
+      "question": "Which of the following best describes the phosphorus cycle?",
+      "choices": [
+        "A gaseous cycle with significant atmospheric components",
+        "A sedimentary cycle with long-term geological processes",
+        "A cycle primarily driven by microbial activities",
+        "A cycle with rapid turnover between atmosphere and biosphere"
+      ],
+      "answer": "A sedimentary cycle with long-term geological processes"
+    },
+    {
+      "question": "What is the primary form of phosphorus absorbed by plants?",
+      "choices": [
+        "Elemental phosphorus (P)",
+        "Phosphate (PO4^3-)",
+        "Phosphine (PH3)",
+        "Phosphorus pentoxide (P2O5)"
+      ],
+      "answer": "Phosphate (PO4^3-)"
+    },
+    {
+      "question": "Which of the following is a potential environmental impact of excess nitrogen in the atmosphere?",
+      "choices": [
+        "Ozone layer depletion",
+        "Increased greenhouse effect",
+        "Formation of acid rain",
+        "Reduction in atmospheric pressure"
+      ],
+      "answer": "Formation of acid rain"
+    },
+    {
+      "question": "What is the role of buffer zones along waterways in nutrient management?",
+      "choices": [
+        "Increase fertilizer efficiency",
+        "Promote algal growth",
+        "Prevent nutrient leaching into water bodies",
+        "Accelerate water evaporation"
+      ],
+      "answer": "Prevent nutrient leaching into water bodies"
+    },
+    {
+      "question": "Which of the following is a characteristic of organic farming practices in relation to nutrient cycles?",
+      "choices": [
+        "Heavy reliance on synthetic fertilizers",
+        "Emphasis on monoculture cropping",
+        "Use of compost and natural fertilizers",
+        "Disregard for soil microorganism health"
+      ],
+      "answer": "Use of compost and natural fertilizers"
+    },
+    {
+      "question": "What is the primary goal of nutrient budgeting in agriculture?",
+      "choices": [
+        "Maximize fertilizer application",
+        "Reduce crop yields",
+        "Optimize nutrient use efficiency",
+        "Increase nutrient runoff"
+      ],
+      "answer": "Optimize nutrient use efficiency"
+    },
+    {
+      "question": "Which of the following is NOT a component of the nitrogen cycle?",
+      "choices": [
+        "Nitrogen fixation",
+        "Nitrification",
+        "Denitrification",
+        "Phosphorylation"
+      ],
+      "answer": "Phosphorylation"
+    },
+    {
+      "question": "What is the term for the process by which nitrogen gas (N2) is converted into ammonia (NH3)?",
+      "choices": [
+        "Ammonification",
+        "Nitrification",
+        "Nitrogen fixation",
+        "Assimilation"
+      ],
+      "answer": "Nitrogen fixation"
+    }
+  ]
+}

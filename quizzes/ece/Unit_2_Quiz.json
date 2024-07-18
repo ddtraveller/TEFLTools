@@ -1,0 +1,305 @@
+{
+  "title": "Measuring Child Care Quality in Timor-Leste",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a structural quality indicator in child care settings?",
+      "choices": [
+        "Child-to-adult ratios",
+        "Group sizes",
+        "Teacher qualifications",
+        "Teacher-child interactions"
+      ],
+      "answer": "Teacher-child interactions"
+    },
+    {
+      "question": "What is the recommended child-to-adult ratio for infants (0-12 months) in child care settings?",
+      "choices": [
+        "3:1 or 4:1",
+        "5:1 or 6:1",
+        "7:1 or 8:1",
+        "10:1 or 12:1"
+      ],
+      "answer": "3:1 or 4:1"
+    },
+    {
+      "question": "Which of the following is a process quality indicator in child care settings?",
+      "choices": [
+        "Physical environment",
+        "Group size",
+        "Emotional support",
+        "Teacher qualifications"
+      ],
+      "answer": "Emotional support"
+    },
+    {
+      "question": "What is the recommended group size for preschoolers (3-5 years) in child care settings?",
+      "choices": [
+        "6-8 children",
+        "10-12 children",
+        "16-20 children",
+        "24-30 children"
+      ],
+      "answer": "16-20 children"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing quality measurement tools in Timor-Leste?",
+      "choices": [
+        "Excess of qualified assessors",
+        "Cultural appropriateness",
+        "Abundance of resources",
+        "Uniform language across the country"
+      ],
+      "answer": "Cultural appropriateness"
+    },
+    {
+      "question": "What does ECERS-R stand for?",
+      "choices": [
+        "Early Childhood Education Rating System-Revised",
+        "Early Childhood Environment Rating Scale-Revised",
+        "Early Care and Education Rating Scale-Revised",
+        "Early Childhood Evaluation and Reporting System-Revised"
+      ],
+      "answer": "Early Childhood Environment Rating Scale-Revised"
+    },
+    {
+      "question": "Which of the following is NOT a domain assessed by the CLASS tool?",
+      "choices": [
+        "Emotional support",
+        "Classroom organization",
+        "Instructional support",
+        "Physical environment"
+      ],
+      "answer": "Physical environment"
+    },
+    {
+      "question": "What is a key challenge in measuring quality in rural areas of Timor-Leste?",
+      "choices": [
+        "Excess of qualified assessors",
+        "Overabundance of resources",
+        "Transportation difficulties",
+        "High-speed internet access"
+      ],
+      "answer": "Transportation difficulties"
+    },
+    {
+      "question": "Which of the following is an effort to adapt quality measurement approaches in Timor-Leste?",
+      "choices": [
+        "Ignoring local cultural practices",
+        "Developing more complex assessment tools",
+        "Relying solely on international assessors",
+        "Incorporating local cultural practices"
+      ],
+      "answer": "Incorporating local cultural practices"
+    },
+    {
+      "question": "What is a key consideration when adapting quality measurement tools for Timor-Leste?",
+      "choices": [
+        "Ensuring they are identical to Western tools",
+        "Making them as complex as possible",
+        "Reflecting Timorese values and practices",
+        "Focusing only on structural quality indicators"
+      ],
+      "answer": "Reflecting Timorese values and practices"
+    },
+    {
+      "question": "Which of the following is a structural quality indicator?",
+      "choices": [
+        "Teacher-child interactions",
+        "Emotional support",
+        "Instructional support",
+        "Physical environment"
+      ],
+      "answer": "Physical environment"
+    },
+    {
+      "question": "What is a key challenge in implementing quality standards in Timor-Leste's child care sector?",
+      "choices": [
+        "Excess funding",
+        "Too many qualified assessors",
+        "Limited resources",
+        "Uniform language across the country"
+      ],
+      "answer": "Limited resources"
+    },
+    {
+      "question": "Which of the following is NOT a component of process quality in child care settings?",
+      "choices": [
+        "Teacher-child interactions",
+        "Emotional support",
+        "Instructional support",
+        "Group size"
+      ],
+      "answer": "Group size"
+    },
+    {
+      "question": "What is being explored to facilitate quality assessment in remote areas of Timor-Leste?",
+      "choices": [
+        "Hiring more international assessors",
+        "Using technology like mobile apps",
+        "Ignoring remote areas in quality assessment",
+        "Implementing stricter structural quality standards"
+      ],
+      "answer": "Using technology like mobile apps"
+    },
+    {
+      "question": "Which of the following is a key aspect of emotional support in process quality?",
+      "choices": [
+        "Group size",
+        "Teacher qualifications",
+        "Physical environment",
+        "Responsiveness to children's needs"
+      ],
+      "answer": "Responsiveness to children's needs"
+    },
+    {
+      "question": "What is a challenge in adapting Western quality measures to Timor-Leste?",
+      "choices": [
+        "Timorese children learn too quickly",
+        "Western measures are always culturally appropriate",
+        "Notions of individual praise may not align with Timorese values",
+        "Timorese child care centers have too many resources"
+      ],
+      "answer": "Notions of individual praise may not align with Timorese values"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of instructional support in process quality?",
+      "choices": [
+        "Concept development",
+        "Quality of feedback",
+        "Language modeling",
+        "Child-to-adult ratios"
+      ],
+      "answer": "Child-to-adult ratios"
+    },
+    {
+      "question": "What is a key consideration in developing locally created quality measures for Timor-Leste?",
+      "choices": [
+        "Ensuring they are identical to Western measures",
+        "Ignoring Timorese cultural values",
+        "Reflecting Timorese cultural values and practices",
+        "Focusing only on structural quality indicators"
+      ],
+      "answer": "Reflecting Timorese cultural values and practices"
+    },
+    {
+      "question": "Which of the following is a challenge in training quality assessors in Timor-Leste?",
+      "choices": [
+        "Too many qualified trainers",
+        "Excess funding for training programs",
+        "Developing a cadre of qualified local assessors",
+        "Oversupply of assessment tools"
+      ],
+      "answer": "Developing a cadre of qualified local assessors"
+    },
+    {
+      "question": "What is a key aspect of classroom organization in process quality?",
+      "choices": [
+        "Teacher qualifications",
+        "Group size",
+        "Behavior management",
+        "Physical environment"
+      ],
+      "answer": "Behavior management"
+    },
+    {
+      "question": "Which of the following is NOT a typical adaptation of quality measurement approaches for Timor-Leste?",
+      "choices": [
+        "Incorporating local cultural practices",
+        "Developing simplified tools",
+        "Building local capacity",
+        "Increasing complexity of assessment tools"
+      ],
+      "answer": "Increasing complexity of assessment tools"
+    },
+    {
+      "question": "What is a key challenge in assessing quality in rural areas of Timor-Leste?",
+      "choices": [
+        "Excess of qualified local assessors",
+        "Overabundance of resources",
+        "Lack of qualified local assessors",
+        "Advanced transportation infrastructure"
+      ],
+      "answer": "Lack of qualified local assessors"
+    },
+    {
+      "question": "Which of the following is a key consideration in adapting quality measurement tools for Timor-Leste?",
+      "choices": [
+        "Ensuring they are identical to Western tools",
+        "Ignoring local resource limitations",
+        "Focusing only on structural quality",
+        "Considering local resource limitations"
+      ],
+      "answer": "Considering local resource limitations"
+    },
+    {
+      "question": "What is a potential benefit of developing locally created quality measures for Timor-Leste?",
+      "choices": [
+        "They will be identical to Western measures",
+        "They will ignore Timorese cultural values",
+        "They will better reflect local values and practices",
+        "They will focus only on structural quality indicators"
+      ],
+      "answer": "They will better reflect local values and practices"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in implementing quality measurement in Timor-Leste's child care sector?",
+      "choices": [
+        "Cultural appropriateness",
+        "Resource limitations",
+        "Training requirements",
+        "Excess of qualified assessors"
+      ],
+      "answer": "Excess of qualified assessors"
+    },
+    {
+      "question": "What is a key aspect of teacher-child interactions in process quality?",
+      "choices": [
+        "Group size",
+        "Physical environment",
+        "Language stimulation",
+        "Teacher qualifications"
+      ],
+      "answer": "Language stimulation"
+    },
+    {
+      "question": "Which of the following is a potential adaptation of quality measurement approaches for rural areas in Timor-Leste?",
+      "choices": [
+        "Increasing complexity of assessment tools",
+        "Ignoring rural areas in quality assessment",
+        "Developing simplified versions of quality rating scales",
+        "Focusing only on structural quality indicators"
+      ],
+      "answer": "Developing simplified versions of quality rating scales"
+    },
+    {
+      "question": "What is a key challenge in adapting international quality standards to Timor-Leste?",
+      "choices": [
+        "Timorese standards are already perfect",
+        "International standards are always culturally appropriate",
+        "Ensuring relevance to Timorese cultural context",
+        "Timor-Leste has too many resources"
+      ],
+      "answer": "Ensuring relevance to Timorese cultural context"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of emotional support in process quality?",
+      "choices": [
+        "Positive climate",
+        "Teacher sensitivity",
+        "Regard for child perspectives",
+        "Group size"
+      ],
+      "answer": "Group size"
+    },
+    {
+      "question": "What is a key consideration in developing training programs for quality assessors in Timor-Leste?",
+      "choices": [
+        "Ensuring they are identical to Western training programs",
+        "Ignoring local cultural context",
+        "Adapting to local cultural and linguistic diversity",
+        "Focusing only on structural quality indicators"
+      ],
+      "answer": "Adapting to local cultural and linguistic diversity"
+    }
+  ]
+}

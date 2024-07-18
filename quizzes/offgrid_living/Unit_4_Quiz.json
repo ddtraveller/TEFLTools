@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Agriculture and Food Security in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of Timor-Leste's population relies on farming for their livelihoods?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "answer": "70%"
+    },
+    {
+      "question": "What is the local term for slash-and-burn agriculture in Timor-Leste?",
+      "choices": [
+        "Swidden",
+        "Tavy",
+        "Milpa",
+        "Chitemene"
+      ],
+      "answer": "Swidden"
+    },
+    {
+      "question": "Which of the following is NOT a traditional farming practice in Timor-Leste?",
+      "choices": [
+        "Slash-and-burn agriculture",
+        "Crop rotation",
+        "Intercropping",
+        "Hydroponics"
+      ],
+      "answer": "Hydroponics"
+    },
+    {
+      "question": "What is the primary environmental impact of slash-and-burn agriculture?",
+      "choices": [
+        "Water pollution",
+        "Air pollution",
+        "Deforestation",
+        "Soil salinization"
+      ],
+      "answer": "Deforestation"
+    },
+    {
+      "question": "What are 'sacred groves' in the context of Timorese agriculture?",
+      "choices": [
+        "Areas where only sacred crops are grown",
+        "Forest areas protected for spiritual or cultural reasons",
+        "Ceremonial planting grounds",
+        "Ancient agricultural terraces"
+      ],
+      "answer": "Forest areas protected for spiritual or cultural reasons"
+    },
+    {
+      "question": "Which agricultural approach mimics natural ecosystems?",
+      "choices": [
+        "Monoculture",
+        "Hydroponics",
+        "Permaculture",
+        "Intensive farming"
+      ],
+      "answer": "Permaculture"
+    },
+    {
+      "question": "What is polyculture in agriculture?",
+      "choices": [
+        "Growing multiple crop species in the same space",
+        "Using multiple types of fertilizers",
+        "Rotating crops seasonally",
+        "Cultivating genetically modified crops"
+      ],
+      "answer": "Growing multiple crop species in the same space"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of composting?",
+      "choices": [
+        "Improves soil structure",
+        "Increases soil fertility",
+        "Reduces need for chemical fertilizers",
+        "Eliminates all plant diseases"
+      ],
+      "answer": "Eliminates all plant diseases"
+    },
+    {
+      "question": "What is integrated pest management (IPM)?",
+      "choices": [
+        "Using only chemical pesticides",
+        "Introducing predatory insects to control pests",
+        "A comprehensive approach combining various pest control methods",
+        "Genetically modifying crops to resist pests"
+      ],
+      "answer": "A comprehensive approach combining various pest control methods"
+    },
+    {
+      "question": "Which practice involves integrating trees and shrubs into crop and animal farming systems?",
+      "choices": [
+        "Monoculture",
+        "Hydroponics",
+        "Agroforestry",
+        "Aquaponics"
+      ],
+      "answer": "Agroforestry"
+    },
+    {
+      "question": "Why is seed saving important for sustainable agriculture in Timor-Leste?",
+      "choices": [
+        "It increases crop yields",
+        "It preserves crop diversity and reduces dependence on imported seeds",
+        "It eliminates the need for fertilizers",
+        "It prevents all crop diseases"
+      ],
+      "answer": "It preserves crop diversity and reduces dependence on imported seeds"
+    },
+    {
+      "question": "What is a major challenge to implementing sustainable agriculture practices in Timor-Leste?",
+      "choices": [
+        "Excess rainfall",
+        "Overabundance of agricultural land",
+        "Limited access to education and resources in rural areas",
+        "Too many agricultural experts"
+      ],
+      "answer": "Limited access to education and resources in rural areas"
+    },
+    {
+      "question": "Which crop is NOT mentioned as a local variety in Timor-Leste?",
+      "choices": [
+        "Ai-farina (Cassava)",
+        "Batar (Corn)",
+        "Hare (Rice)",
+        "Trigo (Wheat)"
+      ],
+      "answer": "Trigo (Wheat)"
+    },
+    {
+      "question": "What is the primary benefit of crop rotation?",
+      "choices": [
+        "Increased use of pesticides",
+        "Improved soil health",
+        "Higher water consumption",
+        "Reduced crop diversity"
+      ],
+      "answer": "Improved soil health"
+    },
+    {
+      "question": "Which of the following is a natural pest control ingredient mentioned in the module?",
+      "choices": [
+        "Synthetic pyrethroids",
+        "Neem oil",
+        "Glyphosate",
+        "Chlorpyrifos"
+      ],
+      "answer": "Neem oil"
+    },
+    {
+      "question": "What is the recommended ratio for diluting garlic-chili spray before applying to plants?",
+      "choices": [
+        "1:2",
+        "1:3",
+        "1:4",
+        "1:5"
+      ],
+      "answer": "1:5"
+    },
+    {
+      "question": "Which of the following is considered a 'green' (nitrogen-rich) material for composting?",
+      "choices": [
+        "Dry leaves",
+        "Sawdust",
+        "Fresh grass clippings",
+        "Shredded paper"
+      ],
+      "answer": "Fresh grass clippings"
+    },
+    {
+      "question": "How often should compost be turned for optimal decomposition?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Every 1-2 weeks",
+        "Monthly"
+      ],
+      "answer": "Every 1-2 weeks"
+    },
+    {
+      "question": "What is the typical time frame for compost to be ready for use?",
+      "choices": [
+        "1-2 weeks",
+        "1-2 months",
+        "3-6 months",
+        "1-2 years"
+      ],
+      "answer": "3-6 months"
+    },
+    {
+      "question": "Which permaculture principle emphasizes the importance of observing natural systems before designing?",
+      "choices": [
+        "Produce no waste",
+        "Observe and interact",
+        "Use and value diversity",
+        "Integrate rather than segregate"
+      ],
+      "answer": "Observe and interact"
+    },
+    {
+      "question": "What is a swale in the context of permaculture water management?",
+      "choices": [
+        "A deep well for irrigation",
+        "A water storage tank",
+        "A contour-following ditch for water harvesting",
+        "A type of sprinkler system"
+      ],
+      "answer": "A contour-following ditch for water harvesting"
+    },
+    {
+      "question": "Which farming practice involves growing crops among trees?",
+      "choices": [
+        "Monoculture",
+        "Hydroponics",
+        "Agroforestry",
+        "Aquaponics"
+      ],
+      "answer": "Agroforestry"
+    },
+    {
+      "question": "What is the primary purpose of mulching in sustainable agriculture?",
+      "choices": [
+        "To increase soil temperature",
+        "To prevent plant growth",
+        "To conserve soil moisture and suppress weeds",
+        "To attract pests"
+      ],
+      "answer": "To conserve soil moisture and suppress weeds"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of polyculture?",
+      "choices": [
+        "Natural pest control",
+        "Improved pollination",
+        "Increased overall yield",
+        "Simplified harvest process"
+      ],
+      "answer": "Simplified harvest process"
+    },
+    {
+      "question": "What is the 'Three Sisters' method of polyculture?",
+      "choices": [
+        "Growing rice, wheat, and barley together",
+        "Planting corn, beans, and squash in the same plot",
+        "Rotating between three different crop families",
+        "Using three types of fertilizers simultaneously"
+      ],
+      "answer": "Planting corn, beans, and squash in the same plot"
+    },
+    {
+      "question": "Which climate-related challenge is particularly relevant to agriculture in Timor-Leste?",
+      "choices": [
+        "Excessive rainfall",
+        "Frequent hurricanes",
+        "Prolonged droughts",
+        "Early frost"
+      ],
+      "answer": "Prolonged droughts"
+    },
+    {
+      "question": "What is the primary goal of sustainable agriculture in Timor-Leste?",
+      "choices": [
+        "Maximizing short-term profits",
+        "Increasing chemical fertilizer use",
+        "Ensuring long-term food security while preserving natural resources",
+        "Promoting monoculture farming"
+      ],
+      "answer": "Ensuring long-term food security while preserving natural resources"
+    },
+    {
+      "question": "Which traditional Timorese crop is a type of legume?",
+      "choices": [
+        "Batar (Corn)",
+        "Hare (Rice)",
+        "Fore-mungu (Mung bean)",
+        "Fehuk ropa (Sweet potato)"
+      ],
+      "answer": "Fore-mungu (Mung bean)"
+    },
+    {
+      "question": "What is vermicomposting?",
+      "choices": [
+        "Composting using high heat",
+        "Composting with worms",
+        "Composting in sealed containers",
+        "Composting only green materials"
+      ],
+      "answer": "Composting with worms"
+    },
+    {
+      "question": "Which of the following is a key principle of permaculture design?",
+      "choices": [
+        "Maximize waste production",
+        "Use and value renewable resources",
+        "Focus on short-term gains",
+        "Promote monoculture"
+      ],
+      "answer": "Use and value renewable resources"
+    }
+  ]
+}

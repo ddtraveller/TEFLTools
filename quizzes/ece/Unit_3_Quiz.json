@@ -1,0 +1,295 @@
+{
+  "title": "Child Care Affordability and Subsidies in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the typical range for center-based child care costs per month in urban areas of Timor-Leste?",
+      "choices": [
+        "$50-$100",
+        "$100-$150",
+        "$150-$200",
+        "$200-$250"
+      ],
+      "answer": "$150-$200"
+    },
+    {
+      "question": "Which of the following is NOT a factor influencing cost differences between rural and urban child care in Timor-Leste?",
+      "choices": [
+        "Higher operating costs in urban areas",
+        "Higher staff salaries in urban centers",
+        "Greater competition in rural areas",
+        "Limited availability of formal care options in rural areas"
+      ],
+      "answer": "Greater competition in rural areas"
+    },
+    {
+      "question": "What is the income threshold for eligibility in Timor-Leste's income-based child care subsidy program?",
+      "choices": [
+        "Families earning less than $200/month",
+        "Families earning less than $300/month",
+        "Families earning less than $400/month",
+        "Families earning less than $500/month"
+      ],
+      "answer": "Families earning less than $300/month"
+    },
+    {
+      "question": "What percentage of child care costs can be covered by the income-based subsidy program in Timor-Leste?",
+      "choices": [
+        "Up to 25%",
+        "Up to 50%",
+        "Up to 75%",
+        "Up to 100%"
+      ],
+      "answer": "Up to 50%"
+    },
+    {
+      "question": "Which of the following is a challenge with current subsidy programs in Timor-Leste?",
+      "choices": [
+        "Excessive funding",
+        "Simple application processes",
+        "High awareness among eligible families",
+        "Limited funding and reach"
+      ],
+      "answer": "Limited funding and reach"
+    },
+    {
+      "question": "What percentage of startup costs can be covered by rural child care center grants in Timor-Leste?",
+      "choices": [
+        "Up to 25%",
+        "Up to 50%",
+        "Up to 75%",
+        "Up to 100%"
+      ],
+      "answer": "Up to 75%"
+    },
+    {
+      "question": "Which of the following is NOT a common family strategy for dealing with high child care costs in Timor-Leste?",
+      "choices": [
+        "Relying on extended family for care",
+        "Reducing work hours",
+        "Choosing lower-quality, more affordable care options",
+        "Increasing household income through additional employment"
+      ],
+      "answer": "Increasing household income through additional employment"
+    },
+    {
+      "question": "What is a potential long-term consequence of high child care costs in Timor-Leste?",
+      "choices": [
+        "Increased women's workforce participation",
+        "Improved family economic stability",
+        "Decreased women's workforce participation",
+        "Enhanced child development outcomes"
+      ],
+      "answer": "Decreased women's workforce participation"
+    },
+    {
+      "question": "Which factor influences family decisions about child care in Timor-Leste?",
+      "choices": [
+        "Availability of public transportation",
+        "Cultural attitudes towards maternal employment",
+        "Number of shopping centers in the area",
+        "Availability of adult education programs"
+      ],
+      "answer": "Cultural attitudes towards maternal employment"
+    },
+    {
+      "question": "What is the average percentage of income spent on child care in Timor-Leste?",
+      "choices": [
+        "10-15%",
+        "15-20%",
+        "20-25%",
+        "25-30%"
+      ],
+      "answer": "25-30%"
+    },
+    {
+      "question": "How does Timor-Leste's average percentage of income spent on child care compare to the OECD average?",
+      "choices": [
+        "It is about the same",
+        "It is slightly lower",
+        "It is slightly higher",
+        "It is more than double"
+      ],
+      "answer": "It is more than double"
+    },
+    {
+      "question": "Which of the following countries has the lowest average percentage of income spent on child care, according to the comparative data provided?",
+      "choices": [
+        "Timor-Leste",
+        "Indonesia",
+        "Philippines",
+        "Australia"
+      ],
+      "answer": "Australia"
+    },
+    {
+      "question": "What type of subsidy system does Timor-Leste currently use for child care?",
+      "choices": [
+        "Universal basic income",
+        "Flat-rate subsidy",
+        "Means-tested subsidy",
+        "Tax credit system"
+      ],
+      "answer": "Means-tested subsidy"
+    },
+    {
+      "question": "Which group is given priority access in Timor-Leste's child care subsidy system?",
+      "choices": [
+        "Children of government employees",
+        "Children from wealthy families",
+        "Children from disadvantaged backgrounds",
+        "Children of foreign diplomats"
+      ],
+      "answer": "Children from disadvantaged backgrounds"
+    },
+    {
+      "question": "What is a potential unintended consequence of expanding child care subsidies in Timor-Leste?",
+      "choices": [
+        "Decreased demand for child care services",
+        "Increased quality of care",
+        "Reduced family income",
+        "Potential compromise in quality if providers cut costs to keep fees low"
+      ],
+      "answer": "Potential compromise in quality if providers cut costs to keep fees low"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor contributing to the overall cost of child care in Timor-Leste?",
+      "choices": [
+        "Staff qualifications",
+        "Facility costs",
+        "Government regulations",
+        "International exchange rates"
+      ],
+      "answer": "International exchange rates"
+    },
+    {
+      "question": "What is a potential impact of high child care costs on family planning in Timor-Leste?",
+      "choices": [
+        "Increased birth rates",
+        "Deciding to have fewer children",
+        "Preference for male children",
+        "Increased adoption rates"
+      ],
+      "answer": "Deciding to have fewer children"
+    },
+    {
+      "question": "Which of the following is a challenge in the current child care subsidy system in Timor-Leste?",
+      "choices": [
+        "Oversubscription to subsidy programs",
+        "Lack of government interest",
+        "Complex application processes",
+        "Excessive funding"
+      ],
+      "answer": "Complex application processes"
+    },
+    {
+      "question": "What is a suggested improvement for the child care subsidy system in Timor-Leste?",
+      "choices": [
+        "Reducing the number of eligible families",
+        "Increasing the complexity of the application process",
+        "Expanding outreach efforts to ensure all eligible families are aware of programs",
+        "Focusing solely on urban areas"
+      ],
+      "answer": "Expanding outreach efforts to ensure all eligible families are aware of programs"
+    },
+    {
+      "question": "Which type of child care arrangement is often less expensive but potentially less reliable in Timor-Leste?",
+      "choices": [
+        "Center-based care",
+        "Informal care by relatives or neighbors",
+        "International au pairs",
+        "Corporate-sponsored daycare"
+      ],
+      "answer": "Informal care by relatives or neighbors"
+    },
+    {
+      "question": "What is a potential economic impact of high child care costs on Timorese families?",
+      "choices": [
+        "Increased savings",
+        "Higher rates of entrepreneurship",
+        "Reduced family income and economic stability",
+        "Improved work-life balance"
+      ],
+      "answer": "Reduced family income and economic stability"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a type of government subsidy for child care in Timor-Leste?",
+      "choices": [
+        "Income-based sliding scale subsidies",
+        "Priority access for vulnerable groups",
+        "Subsidies for center-based care in underserved areas",
+        "Universal free child care for all families"
+      ],
+      "answer": "Universal free child care for all families"
+    },
+    {
+      "question": "What is a potential consequence of parents delaying their return to work due to high child care costs?",
+      "choices": [
+        "Increased workforce productivity",
+        "Higher family incomes",
+        "Reduced women's workforce participation",
+        "Improved child development outcomes"
+      ],
+      "answer": "Reduced women's workforce participation"
+    },
+    {
+      "question": "Which of the following is a recommendation for improving child care affordability in Timor-Leste?",
+      "choices": [
+        "Reducing government involvement in child care",
+        "Increasing investment in early childhood education",
+        "Eliminating all subsidy programs",
+        "Focusing solely on urban child care centers"
+      ],
+      "answer": "Increasing investment in early childhood education"
+    },
+    {
+      "question": "What is the primary goal of the rural child care center grants in Timor-Leste?",
+      "choices": [
+        "To increase urban migration",
+        "To encourage the establishment of formal child care centers in rural regions",
+        "To reduce the quality of rural child care",
+        "To eliminate informal care arrangements"
+      ],
+      "answer": "To encourage the establishment of formal child care centers in rural regions"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor influencing family decisions about child care in Timor-Leste?",
+      "choices": [
+        "Availability of extended family support",
+        "Cultural attitudes towards maternal employment",
+        "Quality and accessibility of available care options",
+        "Political affiliation of the family"
+      ],
+      "answer": "Political affiliation of the family"
+    },
+    {
+      "question": "What is a potential risk of focusing solely on affordability in child care policy?",
+      "choices": [
+        "Increased demand for child care services",
+        "Improved child development outcomes",
+        "Quality may be compromised if providers cut costs to keep fees low",
+        "Higher staff qualifications"
+      ],
+      "answer": "Quality may be compromised if providers cut costs to keep fees low"
+    },
+    {
+      "question": "Which of the following is a suggested component of a comprehensive national child care strategy for Timor-Leste?",
+      "choices": [
+        "Focusing exclusively on urban needs",
+        "Eliminating all subsidies",
+        "Addressing both urban and rural needs",
+        "Promoting informal care arrangements only"
+      ],
+      "answer": "Addressing both urban and rural needs"
+    },
+    {
+      "question": "What is the primary purpose of means-testing in Timor-Leste's child care subsidy system?",
+      "choices": [
+        "To increase government revenue",
+        "To ensure only wealthy families receive subsidies",
+        "To determine eligibility based on family income",
+        "To promote private child care providers"
+      ],
+      "answer": "To determine eligibility based on family income"
+    }
+  ]
+}

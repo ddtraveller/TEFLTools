@@ -1,0 +1,305 @@
+{
+  "title": "Freshwater Use and Global Hydrological Cycle",
+  "questions": [
+    {
+      "question": "What percentage of Earth's water is freshwater?",
+      "choices": [
+        "0.5%",
+        "2.5%",
+        "5%",
+        "10%"
+      ],
+      "answer": "2.5%"
+    },
+    {
+      "question": "Which of the following is NOT a main component of the water cycle?",
+      "choices": [
+        "Evaporation",
+        "Transpiration",
+        "Precipitation",
+        "Photosynthesis"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What percentage of Earth's freshwater is locked in ice caps and glaciers?",
+      "choices": [
+        "30.1%",
+        "50.2%",
+        "68.7%",
+        "80.5%"
+      ],
+      "answer": "68.7%"
+    },
+    {
+      "question": "Which process involves the release of water vapor from plants into the atmosphere?",
+      "choices": [
+        "Evaporation",
+        "Transpiration",
+        "Condensation",
+        "Infiltration"
+      ],
+      "answer": "Transpiration"
+    },
+    {
+      "question": "What is the primary mechanism for transporting water from the atmosphere back to Earth's surface?",
+      "choices": [
+        "Evaporation",
+        "Condensation",
+        "Precipitation",
+        "Infiltration"
+      ],
+      "answer": "Precipitation"
+    },
+    {
+      "question": "What is the term for an underground layer of water-bearing permeable rock or sediment?",
+      "choices": [
+        "Watershed",
+        "Aquifer",
+        "Reservoir",
+        "Wetland"
+      ],
+      "answer": "Aquifer"
+    },
+    {
+      "question": "Which human activity typically increases runoff and decreases infiltration?",
+      "choices": [
+        "Reforestation",
+        "Urbanization",
+        "Wetland restoration",
+        "Permaculture"
+      ],
+      "answer": "Urbanization"
+    },
+    {
+      "question": "What is the main cause of seasonal water scarcity in Timor-Leste?",
+      "choices": [
+        "Overpopulation",
+        "Industrial pollution",
+        "Seasonal variability in rainfall",
+        "Excessive irrigation"
+      ],
+      "answer": "Seasonal variability in rainfall"
+    },
+    {
+      "question": "Which of the following is NOT a common water quality issue in Timor-Leste?",
+      "choices": [
+        "Fecal contamination",
+        "Salinity in coastal areas",
+        "Sedimentation in rivers",
+        "Industrial chemical pollution"
+      ],
+      "answer": "Industrial chemical pollution"
+    },
+    {
+      "question": "What is the term for the holistic approach to managing water resources that considers all aspects of the water cycle and human interactions?",
+      "choices": [
+        "Integrated Water Resource Management (IWRM)",
+        "Sustainable Water Utilization (SWU)",
+        "Comprehensive Hydrological Planning (CHP)",
+        "Total Water Cycle Management (TWCM)"
+      ],
+      "answer": "Integrated Water Resource Management (IWRM)"
+    },
+    {
+      "question": "Which irrigation system is typically the most water-efficient?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is the purpose of a first flush diverter in a rainwater harvesting system?",
+      "choices": [
+        "To increase water pressure",
+        "To remove initial contaminated runoff",
+        "To filter out large debris",
+        "To regulate water flow"
+      ],
+      "answer": "To remove initial contaminated runoff"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of rainwater harvesting in Timor-Leste?",
+      "choices": [
+        "Reduces demand on groundwater",
+        "Provides water during dry season",
+        "Eliminates the need for water treatment",
+        "Can be implemented at household level"
+      ],
+      "answer": "Eliminates the need for water treatment"
+    },
+    {
+      "question": "What percentage of Earth's water is in the oceans?",
+      "choices": [
+        "71%",
+        "87.5%",
+        "97.5%",
+        "99.9%"
+      ],
+      "answer": "97.5%"
+    },
+    {
+      "question": "Which of the following best describes water scarcity?",
+      "choices": [
+        "The complete absence of water in a region",
+        "The lack of sufficient available water resources to meet water needs within a region",
+        "The presence of only saltwater in a region",
+        "The overabundance of water leading to flooding"
+      ],
+      "answer": "The lack of sufficient available water resources to meet water needs within a region"
+    },
+    {
+      "question": "What is the process by which water vapor in the air changes into liquid water?",
+      "choices": [
+        "Evaporation",
+        "Transpiration",
+        "Condensation",
+        "Precipitation"
+      ],
+      "answer": "Condensation"
+    },
+    {
+      "question": "Which of the following is a consequence of deforestation on the water cycle?",
+      "choices": [
+        "Increased transpiration",
+        "Decreased runoff",
+        "Increased water retention in soils",
+        "Increased erosion and sedimentation"
+      ],
+      "answer": "Increased erosion and sedimentation"
+    },
+    {
+      "question": "What is the term for an area of land that drains water, sediment, and dissolved materials to a common outlet?",
+      "choices": [
+        "Aquifer",
+        "Watershed",
+        "Floodplain",
+        "Estuary"
+      ],
+      "answer": "Watershed"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a basic rainwater harvesting system?",
+      "choices": [
+        "Catchment area",
+        "Storage tank",
+        "Desalination unit",
+        "Filtration system"
+      ],
+      "answer": "Desalination unit"
+    },
+    {
+      "question": "What is the primary driver of evaporation in the water cycle?",
+      "choices": [
+        "Wind",
+        "Solar energy",
+        "Gravity",
+        "Atmospheric pressure"
+      ],
+      "answer": "Solar energy"
+    },
+    {
+      "question": "Which of the following best describes greywater?",
+      "choices": [
+        "Untreated sewage",
+        "Rainwater collected from roofs",
+        "Wastewater from sinks, showers, and washing machines",
+        "Treated drinking water"
+      ],
+      "answer": "Wastewater from sinks, showers, and washing machines"
+    },
+    {
+      "question": "What is the main purpose of conducting a water audit?",
+      "choices": [
+        "To increase water prices",
+        "To assess water use patterns and identify conservation opportunities",
+        "To determine water quality",
+        "To measure rainfall patterns"
+      ],
+      "answer": "To assess water use patterns and identify conservation opportunities"
+    },
+    {
+      "question": "Which of the following is a potential impact of climate change on the water cycle?",
+      "choices": [
+        "Decreased variability in precipitation patterns",
+        "Reduced evaporation rates",
+        "More frequent and intense extreme weather events",
+        "Slower melting of glaciers and ice caps"
+      ],
+      "answer": "More frequent and intense extreme weather events"
+    },
+    {
+      "question": "What is the term for the intrusion of saltwater into freshwater aquifers in coastal areas?",
+      "choices": [
+        "Salinization",
+        "Eutrophication",
+        "Sedimentation",
+        "Acidification"
+      ],
+      "answer": "Salinization"
+    },
+    {
+      "question": "Which of the following is NOT a common method for water conservation in agriculture?",
+      "choices": [
+        "Drip irrigation",
+        "Flood irrigation",
+        "Drought-resistant crops",
+        "Mulching"
+      ],
+      "answer": "Flood irrigation"
+    },
+    {
+      "question": "What is the primary goal of sustainable water management?",
+      "choices": [
+        "To maximize water extraction",
+        "To eliminate all human use of water",
+        "To balance social, economic, and environmental needs",
+        "To increase water prices"
+      ],
+      "answer": "To balance social, economic, and environmental needs"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'virtual water'?",
+      "choices": [
+        "Water that exists only in computer simulations",
+        "The amount of water used in the production of a good or service",
+        "Water that has been chemically altered",
+        "The theoretical maximum amount of water a region can hold"
+      ],
+      "answer": "The amount of water used in the production of a good or service"
+    },
+    {
+      "question": "What percentage of global freshwater use is typically attributed to agriculture?",
+      "choices": [
+        "10-20%",
+        "30-40%",
+        "50-60%",
+        "70-80%"
+      ],
+      "answer": "70-80%"
+    },
+    {
+      "question": "Which of the following is a potential negative consequence of excessive groundwater extraction?",
+      "choices": [
+        "Increased soil fertility",
+        "Land subsidence",
+        "Reduced surface water pollution",
+        "Improved aquifer recharge rates"
+      ],
+      "answer": "Land subsidence"
+    },
+    {
+      "question": "What is the term for the ability of a water resource system to maintain desired ecosystem services in the face of variability and change?",
+      "choices": [
+        "Water resilience",
+        "Hydrological stability",
+        "Aquatic adaptability",
+        "Ecosystem fluidity"
+      ],
+      "answer": "Water resilience"
+    }
+  ]
+}

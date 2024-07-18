@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Building Techniques in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is a key feature of traditional Timorese architecture that contributes to sustainability?",
+      "choices": [
+        "Concrete foundations",
+        "Raised floors",
+        "Glass windows",
+        "Metal roofing"
+      ],
+      "answer": "Raised floors"
+    },
+    {
+      "question": "Which of the following is a common sustainable feature in traditional Timorese houses?",
+      "choices": [
+        "Air conditioning",
+        "Thatched roofs",
+        "Solar panels",
+        "Brick walls"
+      ],
+      "answer": "Thatched roofs"
+    },
+    {
+      "question": "What is the primary benefit of using bamboo in construction?",
+      "choices": [
+        "It's fireproof",
+        "It's non-renewable",
+        "It's fast-growing and renewable",
+        "It's impervious to pests"
+      ],
+      "answer": "It's fast-growing and renewable"
+    },
+    {
+      "question": "Which earth-building technique involves compacting earth in forms?",
+      "choices": [
+        "Adobe",
+        "Cob",
+        "Rammed earth",
+        "Wattle and daub"
+      ],
+      "answer": "Rammed earth"
+    },
+    {
+      "question": "What is a key benefit of using reclaimed materials in construction?",
+      "choices": [
+        "Increased cost",
+        "Reduced durability",
+        "Reduced waste and environmental impact",
+        "Faster construction time"
+      ],
+      "answer": "Reduced waste and environmental impact"
+    },
+    {
+      "question": "In passive solar design for tropical climates, what is the primary goal?",
+      "choices": [
+        "Maximizing heat gain",
+        "Minimizing heat gain",
+        "Increasing humidity",
+        "Reducing air circulation"
+      ],
+      "answer": "Minimizing heat gain"
+    },
+    {
+      "question": "What is the purpose of deep overhangs in tropical building design?",
+      "choices": [
+        "To collect rainwater",
+        "To provide shade",
+        "To support solar panels",
+        "To increase wind resistance"
+      ],
+      "answer": "To provide shade"
+    },
+    {
+      "question": "Which ventilation strategy relies on openings on opposite walls?",
+      "choices": [
+        "Stack effect",
+        "Cross-ventilation",
+        "Mechanical ventilation",
+        "Radiant cooling"
+      ],
+      "answer": "Cross-ventilation"
+    },
+    {
+      "question": "What is the main purpose of using thermal mass in tropical building design?",
+      "choices": [
+        "To heat the building",
+        "To cool the building",
+        "To increase humidity",
+        "To generate electricity"
+      ],
+      "answer": "To cool the building"
+    },
+    {
+      "question": "Which traditional Timorese house type is typically used for extended families?",
+      "choices": [
+        "Uma lulik",
+        "Uma lisan",
+        "Uma modern",
+        "Uma kbiit"
+      ],
+      "answer": "Uma lisan"
+    },
+    {
+      "question": "What is a key characteristic of adobe bricks?",
+      "choices": [
+        "They are fired in a kiln",
+        "They are made of plastic",
+        "They are sun-dried",
+        "They contain cement"
+      ],
+      "answer": "They are sun-dried"
+    },
+    {
+      "question": "Which of the following is NOT a common material used in traditional Timorese construction?",
+      "choices": [
+        "Bamboo",
+        "Palm leaves",
+        "Concrete",
+        "Wood"
+      ],
+      "answer": "Concrete"
+    },
+    {
+      "question": "What is the primary benefit of raised floors in traditional Timorese houses?",
+      "choices": [
+        "Aesthetic appeal",
+        "Increased storage space",
+        "Better ventilation and protection from moisture",
+        "Improved earthquake resistance"
+      ],
+      "answer": "Better ventilation and protection from moisture"
+    },
+    {
+      "question": "Which sustainable building technique involves hand-sculpting earth walls?",
+      "choices": [
+        "Adobe",
+        "Rammed earth",
+        "Cob",
+        "Wattle and daub"
+      ],
+      "answer": "Cob"
+    },
+    {
+      "question": "What is a key consideration when using reclaimed materials in construction?",
+      "choices": [
+        "They must be painted",
+        "They should be from the same source",
+        "They must be free from hazardous substances",
+        "They should only be used for decorative purposes"
+      ],
+      "answer": "They must be free from hazardous substances"
+    },
+    {
+      "question": "In passive solar design, what is the purpose of night flushing?",
+      "choices": [
+        "To increase humidity",
+        "To release stored heat",
+        "To generate electricity",
+        "To collect rainwater"
+      ],
+      "answer": "To release stored heat"
+    },
+    {
+      "question": "Which of the following is a benefit of using bamboo in construction?",
+      "choices": [
+        "It's fireproof",
+        "It's resistant to earthquakes",
+        "It never needs treatment",
+        "It's impervious to pests"
+      ],
+      "answer": "It's resistant to earthquakes"
+    },
+    {
+      "question": "What is the primary function of a wind scoop in building design?",
+      "choices": [
+        "To generate electricity",
+        "To collect rainwater",
+        "To enhance air circulation",
+        "To provide shade"
+      ],
+      "answer": "To enhance air circulation"
+    },
+    {
+      "question": "Which of the following is NOT a typical sustainable feature of traditional Timorese architecture?",
+      "choices": [
+        "Natural ventilation",
+        "Use of local materials",
+        "Air conditioning",
+        "Adaptability to local climate"
+      ],
+      "answer": "Air conditioning"
+    },
+    {
+      "question": "What is the recommended harvesting age for bamboo used in construction?",
+      "choices": [
+        "1-2 years",
+        "2-3 years",
+        "4-5 years",
+        "6-7 years"
+      ],
+      "answer": "4-5 years"
+    },
+    {
+      "question": "Which of the following is a benefit of using earth as a building material?",
+      "choices": [
+        "It's waterproof",
+        "It has excellent thermal mass properties",
+        "It's transparent",
+        "It's highly flexible"
+      ],
+      "answer": "It has excellent thermal mass properties"
+    },
+    {
+      "question": "What is the primary challenge of using reclaimed materials in construction?",
+      "choices": [
+        "They are too expensive",
+        "They may require additional treatment or preparation",
+        "They are not durable",
+        "They are not aesthetically pleasing"
+      ],
+      "answer": "They may require additional treatment or preparation"
+    },
+    {
+      "question": "In passive solar design for tropical climates, how should buildings ideally be oriented?",
+      "choices": [
+        "To maximize sun exposure on long sides",
+        "To minimize sun exposure on long sides",
+        "With no consideration for sun exposure",
+        "To face the prevailing winds"
+      ],
+      "answer": "To minimize sun exposure on long sides"
+    },
+    {
+      "question": "What is the purpose of a solar chimney in building design?",
+      "choices": [
+        "To generate electricity",
+        "To heat water",
+        "To enhance air circulation",
+        "To provide natural lighting"
+      ],
+      "answer": "To enhance air circulation"
+    },
+    {
+      "question": "Which of the following is NOT a typical material used in adobe brick production?",
+      "choices": [
+        "Clay",
+        "Sand",
+        "Straw",
+        "Cement"
+      ],
+      "answer": "Cement"
+    },
+    {
+      "question": "What is a key benefit of using local materials in construction?",
+      "choices": [
+        "They are always cheaper",
+        "They support local economies",
+        "They are more durable",
+        "They are easier to transport"
+      ],
+      "answer": "They support local economies"
+    },
+    {
+      "question": "Which of the following is a characteristic of sustainable bamboo harvesting?",
+      "choices": [
+        "Cutting all culms in a clump",
+        "Harvesting during the wet season",
+        "Leaving at least 1/3 of the culms in each clump",
+        "Only using young bamboo shoots"
+      ],
+      "answer": "Leaving at least 1/3 of the culms in each clump"
+    },
+    {
+      "question": "What is the primary purpose of a courtyard in tropical building design?",
+      "choices": [
+        "To provide additional living space",
+        "To promote air circulation",
+        "To grow food",
+        "To collect rainwater"
+      ],
+      "answer": "To promote air circulation"
+    },
+    {
+      "question": "Which of the following is NOT a typical sustainable feature of an uma lulik (sacred house)?",
+      "choices": [
+        "Raised floor",
+        "Thatched roof",
+        "Natural ventilation",
+        "Concrete foundation"
+      ],
+      "answer": "Concrete foundation"
+    },
+    {
+      "question": "What is a key consideration when designing for natural ventilation in Timor-Leste?",
+      "choices": [
+        "Minimizing openings to prevent heat gain",
+        "Using mechanical systems to supplement airflow",
+        "Aligning openings with prevailing wind patterns",
+        "Sealing the building envelope completely"
+      ],
+      "answer": "Aligning openings with prevailing wind patterns"
+    }
+  ]
+}

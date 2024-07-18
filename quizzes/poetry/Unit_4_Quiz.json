@@ -1,0 +1,305 @@
+{
+  "title": "Tailoring Poetry Instruction to Student Needs",
+  "questions": [
+    {
+      "question": "What are the three main categories of learning styles mentioned in the module?",
+      "choices": [
+        "Visual, auditory, and kinesthetic",
+        "Reading, writing, and speaking",
+        "Logical, emotional, and physical",
+        "Verbal, mathematical, and spatial"
+      ],
+      "answer": "Visual, auditory, and kinesthetic"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of visual learners?",
+      "choices": [
+        "Prefer diagrams and charts",
+        "Learn best through seeing information",
+        "Often good at visualizing concepts",
+        "Prefer discussions and verbal explanations"
+      ],
+      "answer": "Prefer discussions and verbal explanations"
+    },
+    {
+      "question": "What is a recommended strategy for teaching poetry to auditory learners?",
+      "choices": [
+        "Provide written instructions for activities",
+        "Use graphic organizers for poem structure",
+        "Read poems aloud frequently",
+        "Incorporate visual art in poetry lessons"
+      ],
+      "answer": "Read poems aloud frequently"
+    },
+    {
+      "question": "Which strategy is particularly effective for kinesthetic learners?",
+      "choices": [
+        "Providing written instructions",
+        "Using diagrams and charts",
+        "Incorporating movement in poetry recitation",
+        "Focusing on silent reading"
+      ],
+      "answer": "Incorporating movement in poetry recitation"
+    },
+    {
+      "question": "What is differentiation in the context of poetry instruction?",
+      "choices": [
+        "Teaching only advanced students",
+        "Focusing on one learning style",
+        "Tailoring instruction to meet individual students' needs",
+        "Separating students by ability level"
+      ],
+      "answer": "Tailoring instruction to meet individual students' needs"
+    },
+    {
+      "question": "Which of the following is NOT one of the key aspects of differentiation mentioned in the module?",
+      "choices": [
+        "Content",
+        "Process",
+        "Product",
+        "Personality"
+      ],
+      "answer": "Personality"
+    },
+    {
+      "question": "What is scaffolding in poetry instruction?",
+      "choices": [
+        "Building physical structures for poetry performances",
+        "Providing temporary support to help students achieve a learning goal",
+        "Organizing poems by complexity",
+        "Creating a hierarchy of poetic forms"
+      ],
+      "answer": "Providing temporary support to help students achieve a learning goal"
+    },
+    {
+      "question": "Which of the following is an example of scaffolding in poetry instruction?",
+      "choices": [
+        "Giving all students the same complex poem",
+        "Providing sentence starters for poem lines",
+        "Focusing only on free verse poetry",
+        "Assigning the same writing task to all students"
+      ],
+      "answer": "Providing sentence starters for poem lines"
+    },
+    {
+      "question": "What is a recommended strategy for beginner-level poetry instruction?",
+      "choices": [
+        "Focus on complex poetic forms",
+        "Emphasize unfamiliar vocabulary",
+        "Focus on simple format poems like acrostics",
+        "Encourage free-form experimental writing"
+      ],
+      "answer": "Focus on simple format poems like acrostics"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor to consider when assessing student abilities in poetry?",
+      "choices": [
+        "Language proficiency",
+        "Prior experience with poetry",
+        "Athletic ability",
+        "Writing skills"
+      ],
+      "answer": "Athletic ability"
+    },
+    {
+      "question": "What is an effective method for assessing student readiness for poetry writing?",
+      "choices": [
+        "Standardized testing",
+        "Informal observations",
+        "Graded essays",
+        "Timed writing exercises"
+      ],
+      "answer": "Informal observations"
+    },
+    {
+      "question": "Which of the following is an example of differentiating content in poetry instruction?",
+      "choices": [
+        "Using the same poem for all students",
+        "Providing poems of varying complexity",
+        "Focusing only on one poetic form",
+        "Assigning the same writing task to all students"
+      ],
+      "answer": "Providing poems of varying complexity"
+    },
+    {
+      "question": "What is an example of differentiating process in poetry instruction?",
+      "choices": [
+        "Using only visual aids",
+        "Providing the same instructions to all students",
+        "Using flexible grouping",
+        "Assigning the same homework to everyone"
+      ],
+      "answer": "Using flexible grouping"
+    },
+    {
+      "question": "Which of the following is an example of differentiating product in poetry instruction?",
+      "choices": [
+        "Requiring all students to write a sonnet",
+        "Offering multiple ways to present poems",
+        "Using only written assessments",
+        "Grading all poems using the same rubric"
+      ],
+      "answer": "Offering multiple ways to present poems"
+    },
+    {
+      "question": "What is the purpose of using word banks in poetry instruction?",
+      "choices": [
+        "To limit creativity",
+        "To provide vocabulary support",
+        "To make poems longer",
+        "To confuse students"
+      ],
+      "answer": "To provide vocabulary support"
+    },
+    {
+      "question": "Which poetic form is suggested as appropriate for beginner-level students?",
+      "choices": [
+        "Sonnet",
+        "Villanelle",
+        "Cinquain",
+        "Epic poem"
+      ],
+      "answer": "Cinquain"
+    },
+    {
+      "question": "What is recommended for advanced-level poetry instruction?",
+      "choices": [
+        "Stick to simple formats",
+        "Avoid peer feedback",
+        "Explore experimental forms and free verse",
+        "Focus only on traditional forms"
+      ],
+      "answer": "Explore experimental forms and free verse"
+    },
+    {
+      "question": "How can technology support differentiated poetry instruction?",
+      "choices": [
+        "By replacing teacher instruction",
+        "By providing personalized learning experiences",
+        "By eliminating the need for writing",
+        "By focusing only on digital poetry"
+      ],
+      "answer": "By providing personalized learning experiences"
+    },
+    {
+      "question": "What is the benefit of offering choice in poetry topics or formats?",
+      "choices": [
+        "It simplifies grading",
+        "It reduces the teacher's workload",
+        "It increases student engagement and motivation",
+        "It ensures all students write the same type of poem"
+      ],
+      "answer": "It increases student engagement and motivation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a way to make poetry accessible to struggling readers?",
+      "choices": [
+        "Providing simpler vocabulary",
+        "Offering shorter poems",
+        "Using only complex poetic forms",
+        "Incorporating visual aids"
+      ],
+      "answer": "Using only complex poetic forms"
+    },
+    {
+      "question": "What is the purpose of using graphic organizers in poetry instruction?",
+      "choices": [
+        "To replace reading poems",
+        "To help students visualize poem structure and themes",
+        "To eliminate the need for writing",
+        "To make grading easier"
+      ],
+      "answer": "To help students visualize poem structure and themes"
+    },
+    {
+      "question": "Which activity is suggested to benefit kinesthetic learners in poetry instruction?",
+      "choices": [
+        "Silent reading",
+        "Writing essays about poems",
+        "Creating tableaux vivants to represent scenes from poems",
+        "Memorizing poetry definitions"
+      ],
+      "answer": "Creating tableaux vivants to represent scenes from poems"
+    },
+    {
+      "question": "What is the gradual release of responsibility model in scaffolding?",
+      "choices": [
+        "Giving students full responsibility from the start",
+        "Never allowing students to work independently",
+        "Gradually removing support as students gain skills and confidence",
+        "Maintaining the same level of support throughout the learning process"
+      ],
+      "answer": "Gradually removing support as students gain skills and confidence"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a way to incorporate movement in poetry instruction?",
+      "choices": [
+        "Poetry recitation contests",
+        "Creating tableaux vivants",
+        "Choreographing movements to accompany spoken word",
+        "Sitting still and reading silently"
+      ],
+      "answer": "Sitting still and reading silently"
+    },
+    {
+      "question": "What is the benefit of using multilingual resources in poetry instruction?",
+      "choices": [
+        "It complicates the learning process",
+        "It excludes monolingual students",
+        "It supports language learners and promotes inclusivity",
+        "It reduces the focus on poetry"
+      ],
+      "answer": "It supports language learners and promotes inclusivity"
+    },
+    {
+      "question": "Which assessment method is suggested as an alternative to written tests in poetry instruction?",
+      "choices": [
+        "Multiple-choice quizzes only",
+        "Standardized tests",
+        "Oral presentations",
+        "Timed writing exercises"
+      ],
+      "answer": "Oral presentations"
+    },
+    {
+      "question": "What is the purpose of using templates in scaffolded poetry instruction?",
+      "choices": [
+        "To limit creativity",
+        "To provide structure for specific poem forms",
+        "To make all poems look the same",
+        "To replace original writing"
+      ],
+      "answer": "To provide structure for specific poem forms"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of tailoring poetry instruction to student needs?",
+      "choices": [
+        "Increased student engagement",
+        "Development of essential literacy skills",
+        "Fostering a love of poetry",
+        "Simplifying the teacher's job"
+      ],
+      "answer": "Simplifying the teacher's job"
+    },
+    {
+      "question": "What is the recommended approach for teaching traditional Timorese poetic forms?",
+      "choices": [
+        "Ignore them in favor of international forms",
+        "Teach them only to advanced students",
+        "Develop strategies specific to local forms",
+        "Replace them with modern forms"
+      ],
+      "answer": "Develop strategies specific to local forms"
+    },
+    {
+      "question": "How can cultural background influence a student's approach to poetry?",
+      "choices": [
+        "It has no impact on poetry learning",
+        "It only affects language choice",
+        "It can influence learning style and poetic preferences",
+        "It should be ignored in poetry instruction"
+      ],
+      "answer": "It can influence learning style and poetic preferences"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Network Models and Protocols",
+  "questions": [
+    {
+      "question": "Which layer of the OSI model is responsible for routing and switching?",
+      "choices": [
+        "Data Link Layer",
+        "Network Layer",
+        "Transport Layer",
+        "Session Layer"
+      ],
+      "answer": "Network Layer"
+    },
+    {
+      "question": "What is the primary function of the Transport Layer in the OSI model?",
+      "choices": [
+        "Routing data packets",
+        "Encrypting data",
+        "Providing end-to-end error recovery and flow control",
+        "Establishing physical connections"
+      ],
+      "answer": "Providing end-to-end error recovery and flow control"
+    },
+    {
+      "question": "Which protocol operates at the Application layer of both OSI and TCP/IP models?",
+      "choices": [
+        "TCP",
+        "IP",
+        "HTTP",
+        "Ethernet"
+      ],
+      "answer": "HTTP"
+    },
+    {
+      "question": "What is encapsulation in the context of network models?",
+      "choices": [
+        "The process of compressing data",
+        "The process of adding protocol information to data as it moves down the network layers",
+        "The process of encrypting data for secure transmission",
+        "The process of converting data into binary format"
+      ],
+      "answer": "The process of adding protocol information to data as it moves down the network layers"
+    },
+    {
+      "question": "How many layers does the TCP/IP model have?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": "4"
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for data encryption?",
+      "choices": [
+        "Network Layer",
+        "Transport Layer",
+        "Session Layer",
+        "Presentation Layer"
+      ],
+      "answer": "Presentation Layer"
+    },
+    {
+      "question": "What is the primary purpose of the File Transfer Protocol (FTP)?",
+      "choices": [
+        "Sending emails",
+        "Transferring files between computers",
+        "Browsing web pages",
+        "Managing network routing"
+      ],
+      "answer": "Transferring files between computers"
+    },
+    {
+      "question": "Which layer of the TCP/IP model combines the functions of the OSI model's Session, Presentation, and Application layers?",
+      "choices": [
+        "Network Access Layer",
+        "Internet Layer",
+        "Transport Layer",
+        "Application Layer"
+      ],
+      "answer": "Application Layer"
+    },
+    {
+      "question": "What does SMTP stand for?",
+      "choices": [
+        "Simple Mail Transfer Protocol",
+        "Secure Message Transmission Protocol",
+        "System Mail Transport Protocol",
+        "Standard Message Transfer Protocol"
+      ],
+      "answer": "Simple Mail Transfer Protocol"
+    },
+    {
+      "question": "Which layer of the OSI model deals with the physical connection between devices?",
+      "choices": [
+        "Physical Layer",
+        "Data Link Layer",
+        "Network Layer",
+        "Transport Layer"
+      ],
+      "answer": "Physical Layer"
+    },
+    {
+      "question": "What is the main difference between the OSI and TCP/IP models?",
+      "choices": [
+        "OSI is theoretical, while TCP/IP is practical and widely used",
+        "TCP/IP has more layers than OSI",
+        "OSI is used only for internet communication",
+        "TCP/IP is older than OSI"
+      ],
+      "answer": "OSI is theoretical, while TCP/IP is practical and widely used"
+    },
+    {
+      "question": "Which protocol is responsible for addressing and routing data packets in the TCP/IP model?",
+      "choices": [
+        "HTTP",
+        "FTP",
+        "IP",
+        "TCP"
+      ],
+      "answer": "IP"
+    },
+    {
+      "question": "What is the purpose of the Session Layer in the OSI model?",
+      "choices": [
+        "To encrypt data",
+        "To establish, manage, and terminate connections between applications",
+        "To route data packets",
+        "To provide physical transmission of data"
+      ],
+      "answer": "To establish, manage, and terminate connections between applications"
+    },
+    {
+      "question": "Which layer of the TCP/IP model is equivalent to the Network layer of the OSI model?",
+      "choices": [
+        "Network Access Layer",
+        "Internet Layer",
+        "Transport Layer",
+        "Application Layer"
+      ],
+      "answer": "Internet Layer"
+    },
+    {
+      "question": "What is the main function of the Data Link Layer in the OSI model?",
+      "choices": [
+        "To provide routing and switching",
+        "To establish end-to-end connections",
+        "To provide node-to-node data transfer and error detection",
+        "To manage application-level protocols"
+      ],
+      "answer": "To provide node-to-node data transfer and error detection"
+    },
+    {
+      "question": "Which protocol is used for sending email messages between servers?",
+      "choices": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "TCP"
+      ],
+      "answer": "SMTP"
+    },
+    {
+      "question": "What is the primary purpose of the Hypertext Transfer Protocol (HTTP)?",
+      "choices": [
+        "Transferring files between computers",
+        "Sending email messages",
+        "Transmitting web pages over the internet",
+        "Managing network routing"
+      ],
+      "answer": "Transmitting web pages over the internet"
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for formatting and encrypting data?",
+      "choices": [
+        "Network Layer",
+        "Transport Layer",
+        "Session Layer",
+        "Presentation Layer"
+      ],
+      "answer": "Presentation Layer"
+    },
+    {
+      "question": "What is a protocol in the context of networking?",
+      "choices": [
+        "A type of network cable",
+        "A set of rules that govern how data is transmitted between devices",
+        "A software application for managing networks",
+        "A hardware device for connecting networks"
+      ],
+      "answer": "A set of rules that govern how data is transmitted between devices"
+    },
+    {
+      "question": "Which layer of the TCP/IP model handles the physical infrastructure and how data is sent over the network?",
+      "choices": [
+        "Network Access Layer",
+        "Internet Layer",
+        "Transport Layer",
+        "Application Layer"
+      ],
+      "answer": "Network Access Layer"
+    },
+    {
+      "question": "What is the main advantage of using a layered model like OSI or TCP/IP?",
+      "choices": [
+        "It makes networks faster",
+        "It reduces the cost of networking equipment",
+        "It simplifies network design and troubleshooting",
+        "It increases network security"
+      ],
+      "answer": "It simplifies network design and troubleshooting"
+    },
+    {
+      "question": "Which protocol ensures reliable, ordered delivery of data packets?",
+      "choices": [
+        "IP",
+        "HTTP",
+        "FTP",
+        "TCP"
+      ],
+      "answer": "TCP"
+    },
+    {
+      "question": "What is the purpose of the Network Layer in the OSI model?",
+      "choices": [
+        "To provide end-to-end error recovery",
+        "To manage addressing, tracking, and determining the best path for data transfer",
+        "To establish connections between applications",
+        "To handle data encryption and compression"
+      ],
+      "answer": "To manage addressing, tracking, and determining the best path for data transfer"
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for providing network services directly to end-users or applications?",
+      "choices": [
+        "Session Layer",
+        "Presentation Layer",
+        "Application Layer",
+        "Transport Layer"
+      ],
+      "answer": "Application Layer"
+    },
+    {
+      "question": "What is the main function of the Internet Layer in the TCP/IP model?",
+      "choices": [
+        "To manage application-level protocols",
+        "To provide reliable data transmission",
+        "To handle addressing and routing of data packets",
+        "To establish physical connections between devices"
+      ],
+      "answer": "To handle addressing and routing of data packets"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of the TCP/IP model?",
+      "choices": [
+        "It has fewer layers than the OSI model",
+        "It is widely used in real-world networking",
+        "It combines several OSI layers into single layers",
+        "It is more theoretical than practical"
+      ],
+      "answer": "It is more theoretical than practical"
+    },
+    {
+      "question": "What is the primary purpose of the Transport Layer in the TCP/IP model?",
+      "choices": [
+        "To manage physical connections",
+        "To handle routing of data packets",
+        "To ensure reliable data transmission",
+        "To provide application-level services"
+      ],
+      "answer": "To ensure reliable data transmission"
+    },
+    {
+      "question": "Which protocol is commonly used for secure web browsing?",
+      "choices": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "HTTPS"
+      ],
+      "answer": "HTTPS"
+    },
+    {
+      "question": "What is the main function of the Physical Layer in the OSI model?",
+      "choices": [
+        "To provide logical addressing",
+        "To manage data encryption",
+        "To handle the physical transmission of raw bits over a physical medium",
+        "To establish end-to-end connections"
+      ],
+      "answer": "To handle the physical transmission of raw bits over a physical medium"
+    },
+    {
+      "question": "Which layer of the OSI model is responsible for breaking data into frames?",
+      "choices": [
+        "Physical Layer",
+        "Data Link Layer",
+        "Network Layer",
+        "Transport Layer"
+      ],
+      "answer": "Data Link Layer"
+    }
+  ]
+}

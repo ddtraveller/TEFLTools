@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Linux and the Command Line",
+  "questions": [
+    {
+      "question": "Who created the Linux kernel in 1991?",
+      "choices": [
+        "Richard Stallman",
+        "Linus Torvalds",
+        "Ken Thompson",
+        "Dennis Ritchie"
+      ],
+      "answer": "Linus Torvalds"
+    },
+    {
+      "question": "What does the acronym CLI stand for in the context of Linux?",
+      "choices": [
+        "Common Language Interface",
+        "Command Line Interface",
+        "Computer Logic Interpreter",
+        "Central Linux Integration"
+      ],
+      "answer": "Command Line Interface"
+    },
+    {
+      "question": "Which of the following is NOT one of the four essential freedoms of open source software?",
+      "choices": [
+        "Freedom to run the program for any purpose",
+        "Freedom to study and modify the source code",
+        "Freedom to sell the software for profit",
+        "Freedom to distribute modified versions"
+      ],
+      "answer": "Freedom to sell the software for profit"
+    },
+    {
+      "question": "What is a Linux distribution?",
+      "choices": [
+        "A specific version of the Linux kernel",
+        "A collection of software built on top of the Linux kernel",
+        "A type of Linux file system",
+        "A Linux-based web browser"
+      ],
+      "answer": "A collection of software built on top of the Linux kernel"
+    },
+    {
+      "question": "Which command is used to print the current working directory in Linux?",
+      "choices": [
+        "pwd",
+        "cd",
+        "ls",
+        "dir"
+      ],
+      "answer": "pwd"
+    },
+    {
+      "question": "What is the primary advantage of using the command line interface over a graphical user interface?",
+      "choices": [
+        "It's more visually appealing",
+        "It's easier for beginners to use",
+        "It offers greater efficiency and scriptability",
+        "It requires less system resources"
+      ],
+      "answer": "It offers greater efficiency and scriptability"
+    },
+    {
+      "question": "Which Linux design principle states that programs should have a single, well-defined purpose?",
+      "choices": [
+        "Modularity",
+        "Everything is a file",
+        "Do one thing and do it well",
+        "Plain text for data storage"
+      ],
+      "answer": "Do one thing and do it well"
+    },
+    {
+      "question": "What is the default shell in most Linux distributions?",
+      "choices": [
+        "Zsh",
+        "Fish",
+        "Bash",
+        "Tcsh"
+      ],
+      "answer": "Bash"
+    },
+    {
+      "question": "Which command is used to create a new directory in Linux?",
+      "choices": [
+        "newdir",
+        "md",
+        "create",
+        "mkdir"
+      ],
+      "answer": "mkdir"
+    },
+    {
+      "question": "What does the 'ls -la' command do?",
+      "choices": [
+        "Lists all files, including hidden ones, in long format",
+        "Lists only directory contents",
+        "Lists files sorted by size",
+        "Lists files with their creation date"
+      ],
+      "answer": "Lists all files, including hidden ones, in long format"
+    },
+    {
+      "question": "Which project provided essential tools for a complete Linux operating system?",
+      "choices": [
+        "BSD",
+        "MINIX",
+        "GNU",
+        "X11"
+      ],
+      "answer": "GNU"
+    },
+    {
+      "question": "What is the purpose of the 'touch' command in Linux?",
+      "choices": [
+        "To create an empty file or update file timestamps",
+        "To modify file permissions",
+        "To open a file for editing",
+        "To print file contents"
+      ],
+      "answer": "To create an empty file or update file timestamps"
+    },
+    {
+      "question": "Which Linux distribution is known for its user-friendly interface and is often recommended for beginners?",
+      "choices": [
+        "Arch Linux",
+        "Gentoo",
+        "Ubuntu",
+        "Slackware"
+      ],
+      "answer": "Ubuntu"
+    },
+    {
+      "question": "What does the 'rm -r' command do?",
+      "choices": [
+        "Removes only empty directories",
+        "Removes files and directories recursively",
+        "Renames multiple files",
+        "Removes only read-only files"
+      ],
+      "answer": "Removes files and directories recursively"
+    },
+    {
+      "question": "Which command is used to change directories in Linux?",
+      "choices": [
+        "chdir",
+        "md",
+        "goto",
+        "cd"
+      ],
+      "answer": "cd"
+    },
+    {
+      "question": "What is the significance of the '/' directory in Linux?",
+      "choices": [
+        "It's the user's home directory",
+        "It's the root directory of the file system",
+        "It's where temporary files are stored",
+        "It's the directory for system binaries"
+      ],
+      "answer": "It's the root directory of the file system"
+    },
+    {
+      "question": "Which command is used to copy files or directories in Linux?",
+      "choices": [
+        "cpy",
+        "copy",
+        "cp",
+        "mv"
+      ],
+      "answer": "cp"
+    },
+    {
+      "question": "What is the purpose of the 'man' command in Linux?",
+      "choices": [
+        "To manage user accounts",
+        "To display system manual pages",
+        "To manipulate text files",
+        "To monitor system resources"
+      ],
+      "answer": "To display system manual pages"
+    },
+    {
+      "question": "Which of the following is NOT a common use case for Linux in Timor Leste?",
+      "choices": [
+        "Government initiatives for open-source adoption",
+        "Educational institutions using Linux for cost-effective computing",
+        "NGOs leveraging Linux for sustainable IT solutions",
+        "Large-scale commercial software development"
+      ],
+      "answer": "Large-scale commercial software development"
+    },
+    {
+      "question": "What does the 'sudo' command do in Linux?",
+      "choices": [
+        "Shuts down the system",
+        "Switches user accounts",
+        "Executes a command with superuser privileges",
+        "Scans for system updates"
+      ],
+      "answer": "Executes a command with superuser privileges"
+    },
+    {
+      "question": "Which command is used to move or rename files in Linux?",
+      "choices": [
+        "mv",
+        "rn",
+        "move",
+        "rename"
+      ],
+      "answer": "mv"
+    },
+    {
+      "question": "What is the purpose of the 'grep' command in Linux?",
+      "choices": [
+        "To compress files",
+        "To search text using patterns",
+        "To graph system performance",
+        "To group files together"
+      ],
+      "answer": "To search text using patterns"
+    },
+    {
+      "question": "Which Linux distribution is known for its enterprise focus and compatibility with Red Hat Enterprise Linux?",
+      "choices": [
+        "Ubuntu",
+        "Fedora",
+        "CentOS",
+        "Debian"
+      ],
+      "answer": "CentOS"
+    },
+    {
+      "question": "What does the 'chmod' command do in Linux?",
+      "choices": [
+        "Changes file ownership",
+        "Changes file permissions",
+        "Changes file timestamps",
+        "Changes file names"
+      ],
+      "answer": "Changes file permissions"
+    },
+    {
+      "question": "Which of the following is a key advantage of Linux in countries like Timor Leste?",
+      "choices": [
+        "Exclusive support from major tech companies",
+        "Ability to run on older hardware",
+        "Built-in language translation for all applications",
+        "Automatic internet connectivity"
+      ],
+      "answer": "Ability to run on older hardware"
+    },
+    {
+      "question": "What is the purpose of the 'cat' command in Linux?",
+      "choices": [
+        "To categorize files",
+        "To catch and delete viruses",
+        "To display file contents",
+        "To create archive files"
+      ],
+      "answer": "To display file contents"
+    },
+    {
+      "question": "Which command is used to display system information in Linux?",
+      "choices": [
+        "sysinfo",
+        "uname",
+        "info",
+        "system"
+      ],
+      "answer": "uname"
+    },
+    {
+      "question": "What does the 'whoami' command do in Linux?",
+      "choices": [
+        "Displays the current user's name",
+        "Shows system uptime",
+        "Prints the Linux distribution name",
+        "Lists all user accounts on the system"
+      ],
+      "answer": "Displays the current user's name"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of the Linux command line interface?",
+      "choices": [
+        "Case sensitivity",
+        "Use of graphical elements",
+        "Ability to chain commands",
+        "Access to system documentation via man pages"
+      ],
+      "answer": "Use of graphical elements"
+    },
+    {
+      "question": "What is the primary purpose of a Linux distribution's package manager?",
+      "choices": [
+        "To create backups of the system",
+        "To manage the installation and removal of software",
+        "To optimize system performance",
+        "To configure network settings"
+      ],
+      "answer": "To manage the installation and removal of software"
+    }
+  ]
+}

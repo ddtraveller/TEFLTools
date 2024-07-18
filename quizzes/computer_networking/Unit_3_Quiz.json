@@ -1,0 +1,305 @@
+{
+  "title": "Network Devices and Their Functions",
+  "questions": [
+    {
+      "question": "Which network device operates at the physical layer (Layer 1) of the OSI model?",
+      "choices": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Gateway"
+      ],
+      "answer": "Hub"
+    },
+    {
+      "question": "What is the main function of a hub in a network?",
+      "choices": [
+        "To broadcast data to all connected devices",
+        "To route data between different networks",
+        "To filter data based on MAC addresses",
+        "To translate between different network protocols"
+      ],
+      "answer": "To broadcast data to all connected devices"
+    },
+    {
+      "question": "Which of the following is a limitation of using hubs?",
+      "choices": [
+        "High cost",
+        "Complex configuration",
+        "Data collisions",
+        "Limited range"
+      ],
+      "answer": "Data collisions"
+    },
+    {
+      "question": "At which OSI layer does a switch operate?",
+      "choices": [
+        "Physical Layer",
+        "Data Link Layer",
+        "Network Layer",
+        "Transport Layer"
+      ],
+      "answer": "Data Link Layer"
+    },
+    {
+      "question": "What type of address does a switch use to forward data?",
+      "choices": [
+        "IP address",
+        "MAC address",
+        "Port number",
+        "Domain name"
+      ],
+      "answer": "MAC address"
+    },
+    {
+      "question": "How does a switch learn MAC addresses?",
+      "choices": [
+        "By manual configuration",
+        "By examining the source address of incoming frames",
+        "By querying connected devices",
+        "By downloading address tables from the router"
+      ],
+      "answer": "By examining the source address of incoming frames"
+    },
+    {
+      "question": "What is a key benefit of using switches over hubs?",
+      "choices": [
+        "Lower cost",
+        "Simpler configuration",
+        "Reduced network congestion",
+        "Wider network coverage"
+      ],
+      "answer": "Reduced network congestion"
+    },
+    {
+      "question": "At which OSI layer does a router operate?",
+      "choices": [
+        "Physical Layer",
+        "Data Link Layer",
+        "Network Layer",
+        "Transport Layer"
+      ],
+      "answer": "Network Layer"
+    },
+    {
+      "question": "What type of address does a router use to make forwarding decisions?",
+      "choices": [
+        "MAC address",
+        "IP address",
+        "Port number",
+        "Domain name"
+      ],
+      "answer": "IP address"
+    },
+    {
+      "question": "What is the primary function of a router?",
+      "choices": [
+        "To connect different networks and direct traffic between them",
+        "To broadcast data to all connected devices",
+        "To create separate collision domains for each port",
+        "To amplify network signals"
+      ],
+      "answer": "To connect different networks and direct traffic between them"
+    },
+    {
+      "question": "What information is typically contained in a router's routing table?",
+      "choices": [
+        "MAC addresses of connected devices",
+        "List of authorized users",
+        "Network destinations and metrics",
+        "Software version and license information"
+      ],
+      "answer": "Network destinations and metrics"
+    },
+    {
+      "question": "Which of the following is NOT a common function of a router?",
+      "choices": [
+        "Network Address Translation (NAT)",
+        "Firewall capabilities",
+        "Broadcasting data to all ports",
+        "Determining the best path for data"
+      ],
+      "answer": "Broadcasting data to all ports"
+    },
+    {
+      "question": "What is a gateway in networking terms?",
+      "choices": [
+        "A device that connects networks with different protocols",
+        "A device that amplifies network signals",
+        "A device that encrypts all network traffic",
+        "A device that stores network configuration data"
+      ],
+      "answer": "A device that connects networks with different protocols"
+    },
+    {
+      "question": "Which device creates separate collision domains for each port?",
+      "choices": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "answer": "Switch"
+    },
+    {
+      "question": "What is the main purpose of a repeater in a network?",
+      "choices": [
+        "To extend the range of a network",
+        "To filter network traffic",
+        "To assign IP addresses",
+        "To encrypt data transmissions"
+      ],
+      "answer": "To extend the range of a network"
+    },
+    {
+      "question": "Which network device maintains a MAC address table?",
+      "choices": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "answer": "Switch"
+    },
+    {
+      "question": "What is a collision domain?",
+      "choices": [
+        "A group of devices that share the same IP address",
+        "A network segment where data collisions can occur",
+        "A secure area of the network",
+        "A group of interconnected routers"
+      ],
+      "answer": "A network segment where data collisions can occur"
+    },
+    {
+      "question": "Which of the following devices operates at the highest OSI layer?",
+      "choices": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "answer": "Router"
+    },
+    {
+      "question": "What is the primary function of Network Address Translation (NAT)?",
+      "choices": [
+        "To encrypt network traffic",
+        "To assign IP addresses automatically",
+        "To allow multiple devices to share a single public IP address",
+        "To route traffic between different networks"
+      ],
+      "answer": "To allow multiple devices to share a single public IP address"
+    },
+    {
+      "question": "Which device would you use to connect a local network to the internet?",
+      "choices": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "answer": "Router"
+    },
+    {
+      "question": "What is the main advantage of a switch over a hub?",
+      "choices": [
+        "Lower cost",
+        "Easier configuration",
+        "Intelligent data forwarding",
+        "Wider network coverage"
+      ],
+      "answer": "Intelligent data forwarding"
+    },
+    {
+      "question": "Which network device is most suitable for creating separate broadcast domains?",
+      "choices": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Repeater"
+      ],
+      "answer": "Router"
+    },
+    {
+      "question": "What is the purpose of a firewall in a network?",
+      "choices": [
+        "To boost network speed",
+        "To provide wireless access",
+        "To monitor and control network traffic based on security rules",
+        "To assign IP addresses to devices"
+      ],
+      "answer": "To monitor and control network traffic based on security rules"
+    },
+    {
+      "question": "Which device would you use to provide wireless access to a wired network?",
+      "choices": [
+        "Hub",
+        "Switch",
+        "Router",
+        "Wireless Access Point"
+      ],
+      "answer": "Wireless Access Point"
+    },
+    {
+      "question": "What is the function of Network-Attached Storage (NAS) in a network?",
+      "choices": [
+        "To route traffic between networks",
+        "To provide centralized file storage",
+        "To encrypt all network communications",
+        "To assign IP addresses to devices"
+      ],
+      "answer": "To provide centralized file storage"
+    },
+    {
+      "question": "Which routing protocol is commonly used for exchanging routing information between autonomous systems on the Internet?",
+      "choices": [
+        "OSPF",
+        "RIP",
+        "BGP",
+        "EIGRP"
+      ],
+      "answer": "BGP"
+    },
+    {
+      "question": "What is the main difference between a hub and a switch?",
+      "choices": [
+        "A hub is more expensive",
+        "A switch creates separate collision domains",
+        "A hub operates at a higher OSI layer",
+        "A switch can only connect two devices"
+      ],
+      "answer": "A switch creates separate collision domains"
+    },
+    {
+      "question": "Which of the following is true about routers?",
+      "choices": [
+        "They operate at the Data Link Layer",
+        "They use MAC addresses for forwarding decisions",
+        "They can connect networks with different protocols",
+        "They broadcast data to all connected devices"
+      ],
+      "answer": "They can connect networks with different protocols"
+    },
+    {
+      "question": "What is the purpose of OSPF (Open Shortest Path First) in networking?",
+      "choices": [
+        "To encrypt network traffic",
+        "To assign IP addresses",
+        "To route traffic within an autonomous system",
+        "To provide wireless access"
+      ],
+      "answer": "To route traffic within an autonomous system"
+    },
+    {
+      "question": "Which device would you use to segment a large network into smaller, more manageable parts?",
+      "choices": [
+        "Hub",
+        "Repeater",
+        "Switch",
+        "Router"
+      ],
+      "answer": "Router"
+    }
+  ]
+}

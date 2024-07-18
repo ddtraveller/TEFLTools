@@ -1,0 +1,305 @@
+{
+  "title": "Water Management and Conservation",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a first flush diverter in a rainwater harvesting system?",
+      "choices": [
+        "To increase water pressure",
+        "To filter out large debris",
+        "To divert initial contaminated runoff",
+        "To regulate water flow"
+      ],
+      "answer": "To divert initial contaminated runoff"
+    },
+    {
+      "question": "Which of the following is NOT a component of a typical rainwater harvesting system?",
+      "choices": [
+        "Catchment area",
+        "Gutters",
+        "Desalination unit",
+        "Storage tank"
+      ],
+      "answer": "Desalination unit"
+    },
+    {
+      "question": "What is the correct order of layers in a bio-sand filter, from bottom to top?",
+      "choices": [
+        "Fine sand, coarse sand, gravel",
+        "Gravel, coarse sand, fine sand",
+        "Coarse sand, fine sand, gravel",
+        "Fine sand, gravel, coarse sand"
+      ],
+      "answer": "Gravel, coarse sand, fine sand"
+    },
+    {
+      "question": "Which water purification method involves exposing water in clear plastic bottles to sunlight?",
+      "choices": [
+        "Bio-sand filtration",
+        "Solar disinfection (SODIS)",
+        "Ceramic filtration",
+        "Reverse osmosis"
+      ],
+      "answer": "Solar disinfection (SODIS)"
+    },
+    {
+      "question": "What is greywater?",
+      "choices": [
+        "Rainwater collected from roofs",
+        "Wastewater from toilets",
+        "Wastewater from household uses excluding toilet waste",
+        "Purified drinking water"
+      ],
+      "answer": "Wastewater from household uses excluding toilet waste"
+    },
+    {
+      "question": "Which season in Timor-Leste typically experiences water scarcity?",
+      "choices": [
+        "Wet season",
+        "Dry season",
+        "Monsoon season",
+        "Spring season"
+      ],
+      "answer": "Dry season"
+    },
+    {
+      "question": "What is the main advantage of rainwater harvesting in rural areas of Timor-Leste?",
+      "choices": [
+        "It improves soil fertility",
+        "It provides a decentralized water source",
+        "It increases rainfall",
+        "It prevents floods"
+      ],
+      "answer": "It provides a decentralized water source"
+    },
+    {
+      "question": "How does mulching contribute to water conservation in gardens?",
+      "choices": [
+        "By increasing water runoff",
+        "By promoting faster evaporation",
+        "By reducing soil moisture retention",
+        "By reducing evaporation from soil"
+      ],
+      "answer": "By reducing evaporation from soil"
+    },
+    {
+      "question": "What is the recommended time to water gardens to reduce evaporation?",
+      "choices": [
+        "Midday",
+        "Early afternoon",
+        "Early morning or late evening",
+        "Midnight"
+      ],
+      "answer": "Early morning or late evening"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of implementing rainwater harvesting systems in Timor-Leste?",
+      "choices": [
+        "Reducing dependence on centralized water infrastructure",
+        "Mitigating effects of drought",
+        "Increasing soil salinity",
+        "Reducing soil erosion"
+      ],
+      "answer": "Increasing soil salinity"
+    },
+    {
+      "question": "What is the primary function of the biological layer in a bio-sand filter?",
+      "choices": [
+        "To add minerals to the water",
+        "To enhance the removal of harmful microorganisms",
+        "To increase water pressure",
+        "To improve water taste"
+      ],
+      "answer": "To enhance the removal of harmful microorganisms"
+    },
+    {
+      "question": "Which irrigation method is most water-efficient for agriculture?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is the primary challenge in water management during Timor-Leste's wet season?",
+      "choices": [
+        "Water scarcity",
+        "Excessive evaporation",
+        "Managing excess water and preventing flooding",
+        "Saltwater intrusion"
+      ],
+      "answer": "Managing excess water and preventing flooding"
+    },
+    {
+      "question": "Which factor is used to calculate potential rainwater harvest along with roof area and annual rainfall?",
+      "choices": [
+        "Temperature",
+        "Wind speed",
+        "Humidity",
+        "Efficiency factor"
+      ],
+      "answer": "Efficiency factor"
+    },
+    {
+      "question": "What is the main advantage of ceramic filters for water purification?",
+      "choices": [
+        "They require electricity to operate",
+        "They are disposable after one use",
+        "They can be locally produced and are long-lasting",
+        "They add essential minerals to water"
+      ],
+      "answer": "They can be locally produced and are long-lasting"
+    },
+    {
+      "question": "Which of the following is NOT a recommended water conservation technique for households?",
+      "choices": [
+        "Fixing leaky faucets",
+        "Installing water-efficient fixtures",
+        "Using a hose instead of a broom for cleaning outdoor areas",
+        "Collecting rainwater for garden use"
+      ],
+      "answer": "Using a hose instead of a broom for cleaning outdoor areas"
+    },
+    {
+      "question": "What is the typical duration of the dry season in Timor-Leste?",
+      "choices": [
+        "January to June",
+        "May to October",
+        "November to April",
+        "July to December"
+      ],
+      "answer": "May to October"
+    },
+    {
+      "question": "Which of the following is a key consideration when designing a rainwater harvesting system?",
+      "choices": [
+        "Maximizing water temperature",
+        "Ensuring the system is visible from the street",
+        "Storage capacity based on dry season duration",
+        "Using the most expensive materials available"
+      ],
+      "answer": "Storage capacity based on dry season duration"
+    },
+    {
+      "question": "What is the primary purpose of water quality testing in rainwater harvesting systems?",
+      "choices": [
+        "To determine water temperature",
+        "To measure water pressure",
+        "To ensure water safety for consumption",
+        "To calculate water volume"
+      ],
+      "answer": "To ensure water safety for consumption"
+    },
+    {
+      "question": "Which of the following is NOT a typical application for recycled greywater?",
+      "choices": [
+        "Garden irrigation",
+        "Toilet flushing",
+        "Drinking water",
+        "Car washing"
+      ],
+      "answer": "Drinking water"
+    },
+    {
+      "question": "What is the recommended maintenance frequency for cleaning the diffuser plate in a bio-sand filter?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Yearly"
+      ],
+      "answer": "Weekly"
+    },
+    {
+      "question": "Which of the following is a potential risk of improper water purification?",
+      "choices": [
+        "Increased water hardness",
+        "Changes in water color",
+        "Waterborne diseases",
+        "Higher water pressure"
+      ],
+      "answer": "Waterborne diseases"
+    },
+    {
+      "question": "What role do government policies play in promoting water conservation?",
+      "choices": [
+        "They have no impact on water conservation",
+        "They can incentivize water-saving practices",
+        "They only affect industrial water use",
+        "They focus solely on increasing water supply"
+      ],
+      "answer": "They can incentivize water-saving practices"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of water conservation in Timor-Leste?",
+      "choices": [
+        "Reduced strain on water infrastructure",
+        "Increased water availability during dry seasons",
+        "Lower household water bills",
+        "Increased water pollution"
+      ],
+      "answer": "Increased water pollution"
+    },
+    {
+      "question": "What is the primary function of gutters in a rainwater harvesting system?",
+      "choices": [
+        "To purify the water",
+        "To store the water",
+        "To channel water from the catchment area",
+        "To regulate water pressure"
+      ],
+      "answer": "To channel water from the catchment area"
+    },
+    {
+      "question": "Which of the following is a sustainable water management practice in agriculture?",
+      "choices": [
+        "Overwatering crops to ensure maximum yield",
+        "Using chemical fertilizers to increase water retention",
+        "Selecting crops based on their water requirements",
+        "Encouraging rapid water runoff from fields"
+      ],
+      "answer": "Selecting crops based on their water requirements"
+    },
+    {
+      "question": "What is the main challenge in implementing water conservation strategies in Timor-Leste?",
+      "choices": [
+        "Excess water availability",
+        "Lack of suitable technology",
+        "Cultural and social barriers",
+        "Absence of water sources"
+      ],
+      "answer": "Cultural and social barriers"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a bio-sand filter?",
+      "choices": [
+        "Gravel layer",
+        "Fine sand layer",
+        "Activated carbon layer",
+        "Diffuser plate"
+      ],
+      "answer": "Activated carbon layer"
+    },
+    {
+      "question": "What is the primary purpose of mulching in water conservation?",
+      "choices": [
+        "To increase water runoff",
+        "To improve soil water retention",
+        "To promote faster evaporation",
+        "To increase soil temperature"
+      ],
+      "answer": "To improve soil water retention"
+    },
+    {
+      "question": "Which of the following is a potential impact of climate change on water availability in Timor-Leste?",
+      "choices": [
+        "Increased year-round rainfall",
+        "More frequent and severe droughts",
+        "Decreased seasonal variability",
+        "Reduced evaporation rates"
+      ],
+      "answer": "More frequent and severe droughts"
+    }
+  ]
+}

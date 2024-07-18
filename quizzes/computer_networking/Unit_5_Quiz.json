@@ -1,0 +1,305 @@
+{
+  "title": "IP Addressing and Subnetting",
+  "questions": [
+    {
+      "question": "What is the primary purpose of an IP address?",
+      "choices": [
+        "To encrypt data packets",
+        "To uniquely identify devices on a network",
+        "To compress network traffic",
+        "To measure network speed"
+      ],
+      "answer": "To uniquely identify devices on a network"
+    },
+    {
+      "question": "How many bits are in an IPv4 address?",
+      "choices": [
+        "16 bits",
+        "32 bits",
+        "64 bits",
+        "128 bits"
+      ],
+      "answer": "32 bits"
+    },
+    {
+      "question": "Which of the following is a valid IPv4 address?",
+      "choices": [
+        "192.168.1.256",
+        "172.16.0.1",
+        "10.0.0.300",
+        "256.0.0.1"
+      ],
+      "answer": "172.16.0.1"
+    },
+    {
+      "question": "What is the primary reason for the development of IPv6?",
+      "choices": [
+        "To increase internet speed",
+        "To address IPv4 address exhaustion",
+        "To improve network security",
+        "To reduce network latency"
+      ],
+      "answer": "To address IPv4 address exhaustion"
+    },
+    {
+      "question": "How many bits are in an IPv6 address?",
+      "choices": [
+        "64 bits",
+        "96 bits",
+        "128 bits",
+        "256 bits"
+      ],
+      "answer": "128 bits"
+    },
+    {
+      "question": "Which notation is used to represent IPv6 addresses?",
+      "choices": [
+        "Dotted decimal",
+        "Hexadecimal",
+        "Octal",
+        "Binary"
+      ],
+      "answer": "Hexadecimal"
+    },
+    {
+      "question": "What is the range of the first octet in a Class A IPv4 address?",
+      "choices": [
+        "0-127",
+        "128-191",
+        "192-223",
+        "224-239"
+      ],
+      "answer": "0-127"
+    },
+    {
+      "question": "What is the default subnet mask for a Class B network?",
+      "choices": [
+        "255.0.0.0",
+        "255.255.0.0",
+        "255.255.255.0",
+        "255.255.255.255"
+      ],
+      "answer": "255.255.0.0"
+    },
+    {
+      "question": "Which IP address class is reserved for multicast addresses?",
+      "choices": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class D"
+      ],
+      "answer": "Class D"
+    },
+    {
+      "question": "What does CIDR stand for?",
+      "choices": [
+        "Classful Inter-Domain Routing",
+        "Classless Internet Domain Routing",
+        "Classless Inter-Domain Routing",
+        "Classified Internet Data Routing"
+      ],
+      "answer": "Classless Inter-Domain Routing"
+    },
+    {
+      "question": "In CIDR notation, what does the '/24' in '192.168.1.0/24' represent?",
+      "choices": [
+        "The number of available host addresses",
+        "The number of subnets",
+        "The number of bits in the network portion of the address",
+        "The class of the IP address"
+      ],
+      "answer": "The number of bits in the network portion of the address"
+    },
+    {
+      "question": "What is the primary purpose of subnetting?",
+      "choices": [
+        "To increase the total number of available IP addresses",
+        "To divide large networks into smaller, more manageable subnetworks",
+        "To encrypt network traffic",
+        "To increase network speed"
+      ],
+      "answer": "To divide large networks into smaller, more manageable subnetworks"
+    },
+    {
+      "question": "Which part of an IP address does subnetting affect?",
+      "choices": [
+        "Only the network portion",
+        "Only the host portion",
+        "Both the network and host portions",
+        "Neither the network nor the host portion"
+      ],
+      "answer": "Both the network and host portions"
+    },
+    {
+      "question": "What is the subnet mask for a /28 CIDR network?",
+      "choices": [
+        "255.255.255.0",
+        "255.255.255.240",
+        "255.255.255.248",
+        "255.255.255.252"
+      ],
+      "answer": "255.255.255.240"
+    },
+    {
+      "question": "How many usable host addresses are available in a /30 subnet?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "Which of the following is a private IP address range?",
+      "choices": [
+        "10.0.0.0 to 10.255.255.255",
+        "172.16.0.0 to 172.31.255.255",
+        "192.168.0.0 to 192.168.255.255",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of a subnet mask?",
+      "choices": [
+        "To encrypt network traffic",
+        "To determine which portion of an IP address refers to the network and which to the host",
+        "To increase network speed",
+        "To assign IP addresses dynamically"
+      ],
+      "answer": "To determine which portion of an IP address refers to the network and which to the host"
+    },
+    {
+      "question": "In IPv6, what is the equivalent of the IPv4 address 127.0.0.1?",
+      "choices": [
+        "::1",
+        "0:0:0:0:0:0:0:1",
+        "1111:1111:1111:1111:1111:1111:1111:1111",
+        "fe80::1"
+      ],
+      "answer": "::1"
+    },
+    {
+      "question": "What is the maximum number of hosts in a /23 network?",
+      "choices": [
+        "254",
+        "510",
+        "512",
+        "1022"
+      ],
+      "answer": "510"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of subnetting?",
+      "choices": [
+        "Improved network performance",
+        "Enhanced security",
+        "More efficient use of IP addresses",
+        "Increased total number of available IP addresses"
+      ],
+      "answer": "Increased total number of available IP addresses"
+    },
+    {
+      "question": "What is the network address of the subnet that includes the IP address 192.168.5.130/26?",
+      "choices": [
+        "192.168.5.0",
+        "192.168.5.64",
+        "192.168.5.128",
+        "192.168.5.192"
+      ],
+      "answer": "192.168.5.128"
+    },
+    {
+      "question": "Which of the following is true about the loopback address in IPv4?",
+      "choices": [
+        "It is 127.0.0.1",
+        "It is used to test the network interface",
+        "It is not routable on the internet",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the broadcast address for the network 172.16.20.0/23?",
+      "choices": [
+        "172.16.20.255",
+        "172.16.21.255",
+        "172.16.22.255",
+        "172.16.23.255"
+      ],
+      "answer": "172.16.21.255"
+    },
+    {
+      "question": "Which of the following is NOT a valid IPv6 address representation?",
+      "choices": [
+        "2001:db8::1",
+        "2001:0db8:0000:0000:0000:0000:0000:0001",
+        "2001:db8:0:0:0:0:0:1",
+        "2001::db8::1"
+      ],
+      "answer": "2001::db8::1"
+    },
+    {
+      "question": "What is the primary advantage of CIDR over classful addressing?",
+      "choices": [
+        "It allows for more flexible allocation of IP addresses",
+        "It increases the total number of available IP addresses",
+        "It improves network security",
+        "It reduces network latency"
+      ],
+      "answer": "It allows for more flexible allocation of IP addresses"
+    },
+    {
+      "question": "Which of the following is true about the relationship between subnet masks and CIDR notation?",
+      "choices": [
+        "They are completely unrelated concepts",
+        "CIDR notation replaces subnet masks entirely",
+        "CIDR notation is a more compact way to represent subnet masks",
+        "Subnet masks can only be represented in dotted decimal notation"
+      ],
+      "answer": "CIDR notation is a more compact way to represent subnet masks"
+    },
+    {
+      "question": "What is the purpose of the Network Address Translation (NAT) in relation to IP addressing?",
+      "choices": [
+        "To encrypt network traffic",
+        "To allow multiple devices to share a single public IP address",
+        "To increase network speed",
+        "To assign IP addresses dynamically"
+      ],
+      "answer": "To allow multiple devices to share a single public IP address"
+    },
+    {
+      "question": "Which of the following is a characteristic of a Class C IP address?",
+      "choices": [
+        "The first octet is between 192 and 223",
+        "It has a default subnet mask of 255.255.0.0",
+        "It is commonly used for large networks",
+        "It allows for more than 16 million host addresses"
+      ],
+      "answer": "The first octet is between 192 and 223"
+    },
+    {
+      "question": "What is the primary difference between public and private IP addresses?",
+      "choices": [
+        "Public IP addresses are faster than private IP addresses",
+        "Private IP addresses are routable on the internet, while public IP addresses are not",
+        "Public IP addresses are globally unique, while private IP addresses can be reused in different networks",
+        "Private IP addresses use IPv6, while public IP addresses use IPv4"
+      ],
+      "answer": "Public IP addresses are globally unique, while private IP addresses can be reused in different networks"
+    },
+    {
+      "question": "In the context of IP addressing, what does APIPA stand for?",
+      "choices": [
+        "Advanced Protocol for Internet Protocol Addressing",
+        "Automatic Private IP Addressing",
+        "Address Protocol for Internet Protocol Authentication",
+        "Automated Public IP Address Assignment"
+      ],
+      "answer": "Automatic Private IP Addressing"
+    }
+  ]
+}

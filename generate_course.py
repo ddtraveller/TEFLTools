@@ -8,6 +8,8 @@ import json
 import PyPDF2
 import tiktoken
 import shutil
+import zipfile
+import xml.etree.ElementTree as ET
 
 # Initialize the Anthropic client
 # export ANTHROPIC_API_KEY='your_api_key_here'
@@ -24,8 +26,23 @@ def create_directory(path):
     os.makedirs(path, exist_ok=True)
     print(f"Created directory: {path}")
 
+def read_docx(path):
+    """Read text from a .docx file."""
+    document = zipfile.ZipFile(path)
+    xml_content = document.read('word/document.xml')
+    document.close()
+    tree = ET.XML(xml_content)
+    
+    paragraphs = []
+    for paragraph in tree.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}p'):
+        texts = [node.text for node in paragraph.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}t') if node.text]
+        if texts:
+            paragraphs.append(''.join(texts))
+    
+    return '\n\n'.join(paragraphs)
+
 def read_file_content(file_path):
-    """Read content from PDF, TXT, or MD files."""
+    """Read content from PDF, TXT, MD, or DOCX files."""
     _, ext = os.path.splitext(file_path)
     ext = ext.lower()
 
@@ -36,6 +53,12 @@ def read_file_content(file_path):
     elif ext in ['.txt', '.md']:
         with open(file_path, 'r', encoding='utf-8') as file:
             return file.read()
+    elif ext == '.docx':
+        try:
+            return read_docx(file_path)
+        except Exception as e:
+            print(f"Error processing {file_path}: {str(e)}")
+            return ""
     else:
         print(f"Unsupported file format: {file_path}")
         return ""
@@ -534,7 +557,7 @@ def main():
         print("Generating syllabus...")
         project_info = ""
         for filename in os.listdir(content_folder):
-            if filename.lower().endswith(('.pdf', '.txt', '.md')):
+            if filename.lower().endswith(('.pdf', '.txt', '.md', '.docx')):
                 file_path = os.path.join(content_folder, filename)
                 project_info += read_file_content(file_path) + "\n\n"
         

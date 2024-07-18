@@ -1,0 +1,305 @@
+{
+  "title": "Network Security Basics",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a firewall in network security?",
+      "choices": [
+        "To encrypt data",
+        "To monitor and control network traffic",
+        "To detect malware",
+        "To manage user passwords"
+      ],
+      "answer": "To monitor and control network traffic"
+    },
+    {
+      "question": "Which of the following is NOT a common type of malware?",
+      "choices": [
+        "Virus",
+        "Worm",
+        "Trojan",
+        "Firewall"
+      ],
+      "answer": "Firewall"
+    },
+    {
+      "question": "What does SSL/TLS stand for?",
+      "choices": [
+        "Secure Socket Layer/Transport Layer Security",
+        "System Security Lock/Transfer Layer Safety",
+        "Secure System Link/Transmission Layer Service",
+        "Socket Security Level/Transport Layer System"
+      ],
+      "answer": "Secure Socket Layer/Transport Layer Security"
+    },
+    {
+      "question": "Which type of attack aims to make a system or network unavailable by overwhelming it with traffic?",
+      "choices": [
+        "Phishing",
+        "Man-in-the-Middle",
+        "Denial of Service (DoS)",
+        "SQL Injection"
+      ],
+      "answer": "Denial of Service (DoS)"
+    },
+    {
+      "question": "What is the main difference between symmetric and asymmetric encryption?",
+      "choices": [
+        "Symmetric encryption is faster",
+        "Asymmetric encryption uses only one key",
+        "Symmetric encryption uses a public and private key pair",
+        "Asymmetric encryption uses different keys for encryption and decryption"
+      ],
+      "answer": "Asymmetric encryption uses different keys for encryption and decryption"
+    },
+    {
+      "question": "Which of the following is a best practice for password security?",
+      "choices": [
+        "Using the same password for multiple accounts",
+        "Sharing passwords with trusted colleagues",
+        "Using complex, unique passwords for each account",
+        "Changing passwords only when required by the system"
+      ],
+      "answer": "Using complex, unique passwords for each account"
+    },
+    {
+      "question": "What is phishing primarily designed to do?",
+      "choices": [
+        "Overwhelm network resources",
+        "Trick users into revealing sensitive information",
+        "Encrypt data for ransom",
+        "Spread to other computers automatically"
+      ],
+      "answer": "Trick users into revealing sensitive information"
+    },
+    {
+      "question": "Which protocol is used to secure web browsing?",
+      "choices": [
+        "HTTP",
+        "FTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "answer": "HTTPS"
+    },
+    {
+      "question": "What is the purpose of an Intrusion Detection System (IDS)?",
+      "choices": [
+        "To prevent unauthorized access",
+        "To monitor network traffic for suspicious activity",
+        "To encrypt network communications",
+        "To manage user authentication"
+      ],
+      "answer": "To monitor network traffic for suspicious activity"
+    },
+    {
+      "question": "Which of the following is NOT typically a function of antivirus software?",
+      "choices": [
+        "Scanning files for known malware signatures",
+        "Performing behavioral analysis",
+        "Encrypting network traffic",
+        "Quarantining suspicious files"
+      ],
+      "answer": "Encrypting network traffic"
+    },
+    {
+      "question": "What is the main purpose of network segmentation in security?",
+      "choices": [
+        "To increase network speed",
+        "To reduce the attack surface and contain breaches",
+        "To simplify network management",
+        "To improve user experience"
+      ],
+      "answer": "To reduce the attack surface and contain breaches"
+    },
+    {
+      "question": "Which of the following is a characteristic of a worm?",
+      "choices": [
+        "It requires user interaction to spread",
+        "It attaches itself to legitimate files",
+        "It can self-replicate and spread without user interaction",
+        "It always encrypts data for ransom"
+      ],
+      "answer": "It can self-replicate and spread without user interaction"
+    },
+    {
+      "question": "What is the primary goal of encryption in network security?",
+      "choices": [
+        "To speed up data transmission",
+        "To compress data",
+        "To protect data confidentiality",
+        "To detect malware"
+      ],
+      "answer": "To protect data confidentiality"
+    },
+    {
+      "question": "Which of the following is NOT a common method used in social engineering attacks?",
+      "choices": [
+        "Pretexting",
+        "Baiting",
+        "Tailgating",
+        "Packet sniffing"
+      ],
+      "answer": "Packet sniffing"
+    },
+    {
+      "question": "What is the purpose of a VPN in network security?",
+      "choices": [
+        "To increase internet speed",
+        "To provide a secure, encrypted connection over a public network",
+        "To detect and remove malware",
+        "To manage network traffic"
+      ],
+      "answer": "To provide a secure, encrypted connection over a public network"
+    },
+    {
+      "question": "Which of the following is a key principle of the 'defense in depth' strategy?",
+      "choices": [
+        "Using a single, powerful security solution",
+        "Relying solely on employee training",
+        "Implementing multiple layers of security controls",
+        "Focusing only on perimeter defense"
+      ],
+      "answer": "Implementing multiple layers of security controls"
+    },
+    {
+      "question": "What is the main difference between an Intrusion Detection System (IDS) and an Intrusion Prevention System (IPS)?",
+      "choices": [
+        "IDS is software-based, while IPS is hardware-based",
+        "IDS only detects threats, while IPS can also block them",
+        "IPS is outdated technology, while IDS is more modern",
+        "IDS works at the application layer, while IPS works at the network layer"
+      ],
+      "answer": "IDS only detects threats, while IPS can also block them"
+    },
+    {
+      "question": "What is the purpose of multi-factor authentication?",
+      "choices": [
+        "To simplify the login process",
+        "To eliminate the need for passwords",
+        "To add additional layers of security beyond just a password",
+        "To increase network speed"
+      ],
+      "answer": "To add additional layers of security beyond just a password"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a security policy?",
+      "choices": [
+        "Acceptable use guidelines",
+        "Incident response procedures",
+        "Network speed optimization",
+        "Data classification standards"
+      ],
+      "answer": "Network speed optimization"
+    },
+    {
+      "question": "What is the primary purpose of patch management in network security?",
+      "choices": [
+        "To improve system performance",
+        "To add new features to software",
+        "To fix known vulnerabilities and security issues",
+        "To customize software for specific users"
+      ],
+      "answer": "To fix known vulnerabilities and security issues"
+    },
+    {
+      "question": "Which of the following best describes a 'zero-day vulnerability'?",
+      "choices": [
+        "A vulnerability that has existed for zero days",
+        "A vulnerability known to the vendor but not yet patched",
+        "A vulnerability that causes zero damage",
+        "A vulnerability that affects zero users"
+      ],
+      "answer": "A vulnerability known to the vendor but not yet patched"
+    },
+    {
+      "question": "What is the main purpose of network segmentation?",
+      "choices": [
+        "To increase network speed",
+        "To reduce the cost of network infrastructure",
+        "To limit the spread of security breaches within a network",
+        "To simplify network management"
+      ],
+      "answer": "To limit the spread of security breaches within a network"
+    },
+    {
+      "question": "Which of the following is a characteristic of a Trojan horse in cybersecurity?",
+      "choices": [
+        "It always encrypts files for ransom",
+        "It disguises itself as legitimate software",
+        "It spreads automatically to other computers",
+        "It is easily detectable by basic antivirus software"
+      ],
+      "answer": "It disguises itself as legitimate software"
+    },
+    {
+      "question": "What is the primary function of a Web Application Firewall (WAF)?",
+      "choices": [
+        "To accelerate web page loading",
+        "To filter and monitor HTTP traffic",
+        "To manage database connections",
+        "To optimize server performance"
+      ],
+      "answer": "To filter and monitor HTTP traffic"
+    },
+    {
+      "question": "Which of the following is NOT typically considered a benefit of using HTTPS?",
+      "choices": [
+        "Data integrity",
+        "Authentication",
+        "Faster page loading",
+        "Confidentiality"
+      ],
+      "answer": "Faster page loading"
+    },
+    {
+      "question": "What is the main purpose of a security audit?",
+      "choices": [
+        "To improve system performance",
+        "To identify and assess vulnerabilities in an organization's security posture",
+        "To train employees on new software",
+        "To increase network bandwidth"
+      ],
+      "answer": "To identify and assess vulnerabilities in an organization's security posture"
+    },
+    {
+      "question": "Which of the following is a key principle of the 'least privilege' concept in security?",
+      "choices": [
+        "Granting users all possible permissions",
+        "Regularly changing all user passwords",
+        "Giving users only the access rights they need to perform their job",
+        "Implementing the strictest security measures for all users"
+      ],
+      "answer": "Giving users only the access rights they need to perform their job"
+    },
+    {
+      "question": "What is the primary goal of a security awareness training program?",
+      "choices": [
+        "To replace technical security measures",
+        "To teach employees advanced hacking techniques",
+        "To educate users about security risks and best practices",
+        "To reduce the organization's IT budget"
+      ],
+      "answer": "To educate users about security risks and best practices"
+    },
+    {
+      "question": "Which of the following is NOT typically a function of a Security Information and Event Management (SIEM) system?",
+      "choices": [
+        "Log collection and analysis",
+        "Real-time monitoring of security events",
+        "Automatic patching of vulnerabilities",
+        "Correlation of security events from multiple sources"
+      ],
+      "answer": "Automatic patching of vulnerabilities"
+    },
+    {
+      "question": "What is the main purpose of data loss prevention (DLP) tools?",
+      "choices": [
+        "To encrypt all data transmissions",
+        "To prevent unauthorized access or transfer of sensitive data",
+        "To compress data for efficient storage",
+        "To accelerate data processing"
+      ],
+      "answer": "To prevent unauthorized access or transfer of sensitive data"
+    }
+  ]
+}

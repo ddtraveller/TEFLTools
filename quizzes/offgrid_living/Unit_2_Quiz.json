@@ -1,0 +1,305 @@
+{
+  "title": "Renewable Energy Systems in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the average solar radiation Timor-Leste receives per day?",
+      "choices": [
+        "3-4 kWh/m2",
+        "4-5 kWh/m2",
+        "5.5 kWh/m2",
+        "7-8 kWh/m2"
+      ],
+      "answer": "5.5 kWh/m2"
+    },
+    {
+      "question": "Which of the following is NOT a main component of a solar power system?",
+      "choices": [
+        "Solar panels",
+        "Batteries",
+        "Inverter",
+        "Generator"
+      ],
+      "answer": "Generator"
+    },
+    {
+      "question": "What type of current do solar panels initially produce?",
+      "choices": [
+        "Alternating Current (AC)",
+        "Direct Current (DC)",
+        "Fluctuating Current (FC)",
+        "Modulated Current (MC)"
+      ],
+      "answer": "Direct Current (DC)"
+    },
+    {
+      "question": "Which renewable energy source is particularly suitable for mountainous regions in Timor-Leste?",
+      "choices": [
+        "Solar power",
+        "Wind power",
+        "Micro-hydro power",
+        "Geothermal power"
+      ],
+      "answer": "Micro-hydro power"
+    },
+    {
+      "question": "What is the primary function of a charge controller in a solar power system?",
+      "choices": [
+        "Convert DC to AC",
+        "Store energy",
+        "Regulate voltage and current to batteries",
+        "Generate electricity from sunlight"
+      ],
+      "answer": "Regulate voltage and current to batteries"
+    },
+    {
+      "question": "Which agricultural waste can be used for biomass energy production in Timor-Leste?",
+      "choices": [
+        "Coffee husks",
+        "Rice straw",
+        "Coconut shells",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary advantage of micro-hydro power over solar power?",
+      "choices": [
+        "Lower installation cost",
+        "Higher energy output",
+        "Consistent power output",
+        "Easier maintenance"
+      ],
+      "answer": "Consistent power output"
+    },
+    {
+      "question": "Which of the following is an energy conservation technique mentioned in the module?",
+      "choices": [
+        "Using incandescent light bulbs",
+        "Keeping windows open at all times",
+        "Implementing passive cooling techniques",
+        "Running appliances at maximum power"
+      ],
+      "answer": "Implementing passive cooling techniques"
+    },
+    {
+      "question": "What is the purpose of an inverter in a solar power system?",
+      "choices": [
+        "To store energy",
+        "To convert DC to AC",
+        "To generate electricity from sunlight",
+        "To regulate battery charging"
+      ],
+      "answer": "To convert DC to AC"
+    },
+    {
+      "question": "Which factor is NOT typically considered when sizing a solar power system?",
+      "choices": [
+        "Daily energy consumption",
+        "Peak sun hours",
+        "System losses",
+        "Local wildlife patterns"
+      ],
+      "answer": "Local wildlife patterns"
+    },
+    {
+      "question": "What is a potential challenge in implementing micro-hydro projects in Timor-Leste?",
+      "choices": [
+        "Lack of water resources",
+        "Environmental concerns",
+        "Excessive energy production",
+        "High maintenance costs"
+      ],
+      "answer": "Environmental concerns"
+    },
+    {
+      "question": "Which of the following is a benefit of biomass energy production in Timor-Leste?",
+      "choices": [
+        "Reduces agricultural productivity",
+        "Increases deforestation",
+        "Helps manage waste",
+        "Requires complex technology"
+      ],
+      "answer": "Helps manage waste"
+    },
+    {
+      "question": "What is the approximate population of Timor-Leste?",
+      "choices": [
+        "500,000",
+        "1 million",
+        "1.3 million",
+        "2 million"
+      ],
+      "answer": "1.3 million"
+    },
+    {
+      "question": "Which type of renewable energy is most promising for Timor-Leste according to the module?",
+      "choices": [
+        "Wind power",
+        "Solar power",
+        "Geothermal power",
+        "Tidal power"
+      ],
+      "answer": "Solar power"
+    },
+    {
+      "question": "What is a key advantage of implementing renewable energy systems in rural areas of Timor-Leste?",
+      "choices": [
+        "Lower installation costs",
+        "Higher energy output",
+        "Providing electricity where grid connection is challenging",
+        "Easier maintenance"
+      ],
+      "answer": "Providing electricity where grid connection is challenging"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a component of a solar power system?",
+      "choices": [
+        "Solar panels",
+        "Charge controller",
+        "Battery bank",
+        "Transformer"
+      ],
+      "answer": "Transformer"
+    },
+    {
+      "question": "What is the primary source of biomass energy in Timor-Leste?",
+      "choices": [
+        "Forest wood",
+        "Agricultural waste",
+        "Municipal solid waste",
+        "Algae"
+      ],
+      "answer": "Agricultural waste"
+    },
+    {
+      "question": "Which of the following is a long-term benefit of renewable energy adoption in Timor-Leste?",
+      "choices": [
+        "Increased dependence on fossil fuels",
+        "Reduced economic development",
+        "Decreased job creation",
+        "Reduced dependence on imported fossil fuels"
+      ],
+      "answer": "Reduced dependence on imported fossil fuels"
+    },
+    {
+      "question": "What role does energy conservation play in the development of renewable energy systems?",
+      "choices": [
+        "It increases overall energy demand",
+        "It makes renewable energy systems less effective",
+        "It maximizes the benefits of renewable technologies",
+        "It has no impact on renewable energy systems"
+      ],
+      "answer": "It maximizes the benefits of renewable technologies"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge in developing renewable energy systems in Timor-Leste?",
+      "choices": [
+        "Initial investment costs",
+        "Technical expertise",
+        "Infrastructure limitations",
+        "Public opposition"
+      ],
+      "answer": "Public opposition"
+    },
+    {
+      "question": "What is the primary advantage of solar power systems in remote areas of Timor-Leste?",
+      "choices": [
+        "Lower installation costs",
+        "Higher energy output",
+        "Easier maintenance",
+        "Feasibility where grid connection is difficult"
+      ],
+      "answer": "Feasibility where grid connection is difficult"
+    },
+    {
+      "question": "Which of the following is a potential application of biomass energy in Timor-Leste?",
+      "choices": [
+        "Transportation fuel",
+        "Cooking fuel",
+        "Industrial heating",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the main advantage of Timor-Leste adopting renewable energy systems?",
+      "choices": [
+        "Increased fossil fuel consumption",
+        "Reduced environmental impact",
+        "Higher energy costs",
+        "Decreased energy security"
+      ],
+      "answer": "Reduced environmental impact"
+    },
+    {
+      "question": "Which sector in Timor-Leste provides opportunities for biomass energy production?",
+      "choices": [
+        "Mining",
+        "Tourism",
+        "Agriculture",
+        "Manufacturing"
+      ],
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is the primary function of a battery bank in a solar power system?",
+      "choices": [
+        "Generate electricity",
+        "Convert DC to AC",
+        "Store energy for use when sunlight is unavailable",
+        "Regulate voltage"
+      ],
+      "answer": "Store energy for use when sunlight is unavailable"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of renewable energy adoption in Timor-Leste?",
+      "choices": [
+        "Improved energy access",
+        "Economic growth stimulation",
+        "Contribution to climate change mitigation",
+        "Increased urbanization"
+      ],
+      "answer": "Increased urbanization"
+    },
+    {
+      "question": "What is the primary advantage of micro-hydro power systems?",
+      "choices": [
+        "Low installation costs",
+        "High energy output",
+        "Consistent power supply",
+        "Easy relocation"
+      ],
+      "answer": "Consistent power supply"
+    },
+    {
+      "question": "Which of the following is a key success factor for implementing renewable energy systems in Timor-Leste?",
+      "choices": [
+        "Abundant fossil fuel reserves",
+        "High population density",
+        "Government and international support",
+        "Advanced existing energy infrastructure"
+      ],
+      "answer": "Government and international support"
+    },
+    {
+      "question": "What is the main environmental benefit of using biomass energy in Timor-Leste?",
+      "choices": [
+        "Increased biodiversity",
+        "Reduced deforestation",
+        "Improved air quality",
+        "Enhanced soil fertility"
+      ],
+      "answer": "Reduced deforestation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential application of solar power in Timor-Leste?",
+      "choices": [
+        "Lighting",
+        "Phone charging",
+        "Powering small businesses",
+        "Desalination"
+      ],
+      "answer": "Desalination"
+    }
+  ]
+}
