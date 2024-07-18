@@ -27,7 +27,7 @@ For practical application:
 
 ## Kursu Prinsipal sira / Key Courses
 
-Repo ida-ne'e iha kursu individuál 60 resin no arkivu 3200+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / This repo contains over 60 individual courses and 3200+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
+Repo ida-ne'e iha kursu individuál 80 resin no arkivu 4200+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / This repo contains over 80 individual courses and 4200+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
 
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
@@ -358,6 +358,7 @@ In scripts/Timor_Today is an html file for a fake news website. It might be fun 
 - Access support media: https://tefl.go-tl.com/
 - Explore local resources: [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
 - Join our community: [Discord, Tetun Learners!](https://discord.gg/DaBJG2Gn)
+- YouTube channel: [Tecknologi Populer](https://www.youtube.com/@TeknologiPopuler)
 
 ## Project Commitment
 

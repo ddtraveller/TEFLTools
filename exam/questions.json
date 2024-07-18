@@ -1,0 +1,1445 @@
+[
+  {
+    "id": 1,
+    "text": "Which sentence uses the past perfect tense correctly?",
+    "options": [
+      "I had finished my homework before dinner.",
+      "I have finished my homework before dinner.",
+      "I finished my homework before dinner.",
+      "I was finishing my homework before dinner."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Past Perfect Tense"
+  },
+  {
+    "id": 2,
+    "text": "What is the meaning of the word 'ubiquitous'?",
+    "options": [
+      "Rare",
+      "Everywhere",
+      "Unique",
+      "Ancient"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 3,
+    "text": "Choose the correct form of the verb: 'If I _____ rich, I would buy a yacht.'",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Conditional Sentences"
+  },
+  {
+    "id": 4,
+    "text": "Which word is a synonym for 'benevolent'?",
+    "options": [
+      "Kind",
+      "Cruel",
+      "Indifferent",
+      "Selfish"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Synonyms"
+  },
+  {
+    "id": 5,
+    "text": "Identify the sentence with correct subject-verb agreement:",
+    "options": [
+      "The team are playing well.",
+      "The team is playing well.",
+      "The team were playing well.",
+      "The team have been playing well."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 6,
+    "text": "What does the idiom 'to be on cloud nine' mean?",
+    "options": [
+      "To be very happy",
+      "To be confused",
+      "To be in trouble",
+      "To be sick"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 7,
+    "text": "Which sentence demonstrates correct use of the present perfect tense?",
+    "options": [
+      "I have been to Paris last year.",
+      "I have been to Paris three times.",
+      "I have gone to Paris yesterday.",
+      "I have been going to Paris next month."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Present Perfect Tense"
+  },
+  {
+    "id": 8,
+    "text": "Choose the correct spelling:",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Accomodete"
+    ],
+    "correctAnswer": 2,
+    "category": "Vocabulary",
+    "subCategory": "Spelling"
+  },
+  {
+    "id": 9,
+    "text": "Which sentence uses the passive voice correctly?",
+    "options": [
+      "The book was reading by John.",
+      "John was reading the book.",
+      "The book was read by John.",
+      "By John, the book was reading."
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Passive Voice"
+  },
+  {
+    "id": 10,
+    "text": "What is the meaning of the prefix 'mono-'?",
+    "options": [
+      "Many",
+      "One",
+      "Half",
+      "Double"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 11,
+    "text": "Choose the correct relative pronoun: 'The book _____ I lent you is overdue.'",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correctAnswer": 3,
+    "category": "Grammar",
+    "subCategory": "Relative Pronouns"
+  },
+  {
+    "id": 12,
+    "text": "What is an antonym for 'verbose'?",
+    "options": [
+      "Concise",
+      "Lengthy",
+      "Wordy",
+      "Loquacious"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Antonyms"
+  },
+  {
+    "id": 13,
+    "text": "Identify the sentence with correct parallel structure:",
+    "options": [
+      "He likes swimming, to hike, and riding bikes.",
+      "He likes swimming, hiking, and biking.",
+      "He likes to swim, hiking, and to ride bikes.",
+      "He likes swimming, to hike, and to ride bikes."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Parallel Structure"
+  },
+  {
+    "id": 14,
+    "text": "What does the idiom 'to break the ice' mean?",
+    "options": [
+      "To start a conversation in a social situation",
+      "To solve a difficult problem",
+      "To end a relationship",
+      "To damage something fragile"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 15,
+    "text": "Which sentence uses the future perfect tense correctly?",
+    "options": [
+      "I will have finished my homework by 8 PM.",
+      "I will finish my homework by 8 PM.",
+      "I have finished my homework by 8 PM.",
+      "I am finishing my homework by 8 PM."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Future Perfect Tense"
+  },
+  {
+    "id": 16,
+    "text": "What is the meaning of the word 'ephemeral'?",
+    "options": [
+      "Lasting for a very short time",
+      "Extremely important",
+      "Occurring every day",
+      "Highly effective"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 17,
+    "text": "Which sentence contains a split infinitive?",
+    "options": [
+      "To boldly go where no one has gone before.",
+      "To go boldly where no one has gone before.",
+      "Boldly to go where no one has gone before.",
+      "To go where no one has boldly gone before."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Infinitives"
+  },
+  {
+    "id": 18,
+    "text": "Choose the correct form: 'Neither John nor his brothers _____ coming to the party.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 19,
+    "text": "What does the suffix '-phobia' mean?",
+    "options": [
+      "Love of",
+      "Fear of",
+      "Study of",
+      "Against"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 20,
+    "text": "Identify the sentence with correct use of the semicolon:",
+    "options": [
+      "I love cooking; and baking.",
+      "I love cooking; I also enjoy baking.",
+      "I love cooking; because it's relaxing.",
+      "I love; cooking and baking."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Punctuation"
+  },
+  {
+    "id": 21,
+    "text": "Which sentence uses the present continuous tense correctly?",
+    "options": [
+      "I am go to the store.",
+      "I going to the store.",
+      "I am going to the store.",
+      "I go to the store."
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Present Continuous Tense"
+  },
+  {
+    "id": 22,
+    "text": "What is the meaning of the word 'paradigm'?",
+    "options": [
+      "A typical example or pattern",
+      "A paradox or contradiction",
+      "A paragraph in a text",
+      "A parable or story"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 23,
+    "text": "Choose the correct form of the adjective: 'This is the _____ day of my life.'",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "gooder"
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Adjective Forms"
+  },
+  {
+    "id": 24,
+    "text": "Which word is a homophone of 'there'?",
+    "options": [
+      "Their",
+      "They're",
+      "Here",
+      "Where"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Homophones"
+  },
+  {
+    "id": 25,
+    "text": "Identify the sentence with correct use of the apostrophe:",
+    "options": [
+      "The dog's are barking loudly.",
+      "The dogs are barking loud'ly.",
+      "The dog's bowl is empty.",
+      "The dog's bowl's are empty."
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Apostrophe Usage"
+  },
+  {
+    "id": 26,
+    "text": "What does the idiom 'to be on thin ice' mean?",
+    "options": [
+      "To be very cold",
+      "To be in a dangerous situation",
+      "To be an excellent ice skater",
+      "To be easily broken"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 27,
+    "text": "Which sentence demonstrates correct use of the past continuous tense?",
+    "options": [
+      "I was walk to school when it started raining.",
+      "I walking to school when it started raining.",
+      "I was walking to school when it started raining.",
+      "I were walking to school when it started raining."
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Past Continuous Tense"
+  },
+  {
+    "id": 28,
+    "text": "What is the meaning of the prefix 'auto-'?",
+    "options": [
+      "Other",
+      "Self",
+      "Together",
+      "Against"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 29,
+    "text": "Choose the correct form: 'Neither of the cakes _____ fresh.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 30,
+    "text": "What is an antonym for 'benign'?",
+    "options": [
+      "Malignant",
+      "Gentle",
+      "Kind",
+      "Harmless"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Antonyms"
+  },
+  {
+    "id": 31,
+    "text": "Which sentence uses the correct comparative form?",
+    "options": [
+      "This book is more better than that one.",
+      "This book is betterer than that one.",
+      "This book is better than that one.",
+      "This book is more good than that one."
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Comparative Adjectives"
+  },
+  {
+    "id": 32,
+    "text": "What does the phrase 'to beat around the bush' mean?",
+    "options": [
+      "To win a fight easily",
+      "To avoid discussing something directly",
+      "To search thoroughly",
+      "To make a loud noise"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 33,
+    "text": "Identify the sentence with correct use of the colon:",
+    "options": [
+      "I need: eggs, milk, and bread.",
+      "I need three items from the store: eggs, milk, and bread.",
+      "I need three items from the store eggs: milk, and bread.",
+      "I: need three items from the store: eggs, milk, and bread."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Punctuation"
+  },
+  {
+    "id": 34,
+    "text": "Which word is spelled correctly?",
+    "options": [
+      "Accommadate",
+      "Accomodate",
+      "Accommodate",
+      "Acommodate"
+    ],
+    "correctAnswer": 2,
+    "category": "Vocabulary",
+    "subCategory": "Spelling"
+  },
+  {
+    "id": 35,
+    "text": "Choose the correct form of the verb: 'If I _____ you, I would accept the job offer.'",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Conditional Sentences"
+  },
+  {
+    "id": 36,
+    "text": "What is the meaning of the word 'quintessential'?",
+    "options": [
+      "Representing the most perfect example",
+      "Extremely large in size",
+      "Occurring every five years",
+      "Having five elements"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 37,
+    "text": "Which sentence demonstrates correct use of the present perfect continuous tense?",
+    "options": [
+      "I have been studying English for two years.",
+      "I have studied English for two years.",
+      "I am studying English for two years.",
+      "I studied English for two years."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Present Perfect Continuous Tense"
+  },
+  {
+    "id": 38,
+    "text": "What does the suffix '-ology' mean?",
+    "options": [
+      "The study of",
+      "The fear of",
+      "The love of",
+      "The practice of"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 39,
+    "text": "Identify the sentence with correct parallel structure:",
+    "options": [
+      "She enjoys hiking, swimming, and to ride bicycles.",
+      "She enjoys hiking, swimming, and riding bicycles.",
+      "She enjoys to hike, to swim, and riding bicycles.",
+      "She enjoys hiking, to swim, and to ride bicycles."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Parallel Structure"
+  },
+  {
+    "id": 40,
+    "text": "What does the idiom 'to be worth one's salt' mean?",
+    "options": [
+      "To be very expensive",
+      "To be competent and deserving of one's pay",
+      "To be overly critical",
+      "To be very thirsty"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 41,
+    "text": "Which sentence uses the past perfect continuous tense correctly?",
+    "options": [
+      "I had been studying for three hours when she called.",
+      "I have been studying for three hours when she called.",
+      "I was studying for three hours when she called.",
+      "I studied for three hours when she called."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Past Perfect Continuous Tense"
+  },
+  {
+    "id": 42,
+    "text": "What is the meaning of the word 'surreptitious'?",
+    "options": [
+      "Open and honest",
+      "Loud and noisy",
+      "Secret and stealthy",
+      "Bright and colorful"
+    ],
+    "correctAnswer": 2,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 43,
+    "text": "Choose the correct form: 'The committee _____ divided on this issue.'",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 44,
+    "text": "Which word is a synonym for 'lethargic'?",
+    "options": [
+      "Energetic",
+      "Sluggish",
+      "Excited",
+      "Vibrant"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Synonyms"
+  },
+  {
+    "id": 45,
+    "text": "Identify the sentence with correct use of the semicolon:",
+    "options": [
+      "I love to read; and write.",
+      "I love to read; however, I don't have much time for it.",
+      "I love to read; because it's relaxing.",
+      "I love; to read and write."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Punctuation"
+  },
+  {
+    "id": 46,
+    "text": "What does the idiom 'to be in hot water' mean?",
+    "options": [
+      "To be very warm",
+      "To be in trouble",
+      "To be excited",
+      "To be in a hurry"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 47,
+    "text": "Which sentence demonstrates correct use of the future continuous tense?",
+    "options": [
+      "I will study English next year.",
+      "I will be studying English this time next year.",
+      "I will have studied English by next year.",
+      "I am studying English next year."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Future Continuous Tense"
+  },
+  {
+    "id": 48,
+    "text": "What is the meaning of the prefix 'pseudo-'?",
+    "options": [
+      "True",
+      "False",
+      "Before",
+      "After"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 49,
+    "text": "Choose the correct relative pronoun: 'The woman _____ car was stolen reported it to the police.'",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Relative Pronouns"
+  },
+  {
+    "id": 50,
+    "text": "What is an antonym for 'frugal'?",
+    "options": [
+      "Economical",
+      "Thrifty",
+      "Extravagant",
+      "Careful"
+    ],
+    "correctAnswer": 2,
+    "category": "Vocabulary",
+    "subCategory": "Antonyms"
+  },
+  {
+    "id": 51,
+    "text": "Which sentence uses the correct form of the comparative adjective?",
+    "options": [
+      "This problem is more easier than the last one.",
+      "This problem is easiest than the last one.",
+      "This problem is more easy than the last one.",
+      "This problem is easier than the last one."
+    ],
+    "correctAnswer": 3,
+    "category": "Grammar",
+    "subCategory": "Comparative Adjectives"
+  },
+  {
+    "id": 52,
+    "text": "What does the phrase 'to let the cat out of the bag' mean?",
+    "options": [
+      "To release a pet",
+      "To reveal a secret accidentally",
+      "To solve a difficult problem",
+      "To escape from a dangerous situation"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 53,
+    "text": "Identify the sentence with correct subject-verb agreement:",
+    "options": [
+      "Either of the solutions work well.",
+      "Either of the solutions works well.",
+      "Either of the solutions are working well.",
+      "Either of the solutions is working well."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 54,
+    "text": "Which word is spelled correctly?",
+    "options": [
+      "Millenia",
+      "Millenium",
+      "Milennium",
+      "Millennium"
+    ],
+    "correctAnswer": 3,
+    "category": "Vocabulary",
+    "subCategory": "Spelling"
+  },
+  {
+    "id": 55,
+    "text": "Choose the correct form of the verb: 'If she _____ earlier, she wouldn't have missed the train.'",
+    "options": [
+      "left",
+      "had left",
+      "would leave",
+      "would have left"
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Conditional Sentences"
+  },
+  {
+    "id": 56,
+    "text": "What is the meaning of the word 'ephemeral'?",
+    "options": [
+      "Lasting for a very short time",
+      "Extremely important",
+      "Occurring every day",
+      "Highly effective"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 57,
+    "text": "Which sentence demonstrates correct use of the past perfect tense?",
+    "options": [
+      "I have finished my homework before dinner.",
+      "I had finished my homework before dinner.",
+      "I finished my homework before dinner.",
+      "I was finishing my homework before dinner."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Past Perfect Tense"
+  },
+  {
+    "id": 58,
+    "text": "What does the suffix '-phile' mean?",
+    "options": [
+      "Fear of",
+      "Love of",
+      "Study of",
+      "Against"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 59,
+    "text": "Identify the sentence with correct parallel structure:",
+    "options": [
+      "He likes to swim, running, and to ride bikes.",
+      "He likes swimming, running, and biking.",
+      "He likes to swim, to run, and riding bikes.",
+      "He likes swimming, to run, and to ride bikes."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Parallel Structure"
+  },
+  {
+    "id": 60,
+    "text": "What does the idiom 'to bite off more than you can chew' mean?",
+    "options": [
+      "To eat too much",
+      "To take on more responsibility than you can handle",
+      "To speak without thinking",
+      "To be very hungry"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 61,
+    "text": "Which sentence uses the present perfect tense correctly?",
+    "options": [
+      "I have gone to Paris last year.",
+      "I have been to Paris three times.",
+      "I have go to Paris every summer.",
+      "I have went to Paris recently."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Present Perfect Tense"
+  },
+  {
+    "id": 62,
+    "text": "What is a synonym for 'amalgamate'?",
+    "options": [
+      "Separate",
+      "Combine",
+      "Destroy",
+      "Analyze"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Synonyms"
+  },
+  {
+    "id": 63,
+    "text": "Choose the correct form: 'Mathematics _____ my favorite subject in school.'",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 64,
+    "text": "Which word is an example of onomatopoeia?",
+    "options": [
+      "Loud",
+      "Crash",
+      "Fast",
+      "Smooth"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Figures of Speech"
+  },
+  {
+    "id": 65,
+    "text": "Identify the sentence with correct use of the apostrophe:",
+    "options": [
+      "The childrens' toys were scattered on the floor.",
+      "The children's toys were scattered on the floor.",
+      "The childrens toys' were scattered on the floor.",
+      "The children toys were scattered on the floor."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Apostrophe Usage"
+  },
+  {
+    "id": 66,
+    "text": "What does the phrase 'to pull someone's leg' mean?",
+    "options": [
+      "To help someone walk",
+      "To joke with someone or trick them playfully",
+      "To annoy someone",
+      "To ask someone for help"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 67,
+    "text": "Which sentence demonstrates correct use of the passive voice?",
+    "options": [
+      "The cat chased the mouse.",
+      "The mouse was being chased by the cat.",
+      "The mouse chased by the cat.",
+      "The cat was chasing the mouse."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Passive Voice"
+  },
+  {
+    "id": 68,
+    "text": "What is the meaning of the root 'chron-'?",
+    "options": [
+      "Color",
+      "Time",
+      "Space",
+      "Sound"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Root Words"
+  },
+  {
+    "id": 69,
+    "text": "Choose the correct form of the verb: 'Each of the students _____ required to submit a paper.'",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 70,
+    "text": "What is an antonym for 'benevolent'?",
+    "options": [
+      "Kind",
+      "Generous",
+      "Malevolent",
+      "Charitable"
+    ],
+    "correctAnswer": 2,
+    "category": "Vocabulary",
+    "subCategory": "Antonyms"
+  },
+  {
+    "id": 71,
+    "text": "Which sentence uses the future perfect tense correctly?",
+    "options": [
+      "I will have finished my project by next week.",
+      "I will finish my project by next week.",
+      "I have finished my project by next week.",
+      "I will be finishing my project by next week."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Future Perfect Tense"
+  },
+  {
+    "id": 72,
+    "text": "What does the idiom 'to be on the fence' mean?",
+    "options": [
+      "To be in a difficult situation",
+      "To be undecided about something",
+      "To be in a high position",
+      "To be very excited"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 73,
+    "text": "Identify the sentence with correct use of the dash:",
+    "options": [
+      "I need several items - milk, bread, and eggs - from the store.",
+      "I need several items - milk, bread, and eggs from the store.",
+      "I need several items milk - bread, and eggs - from the store.",
+      "I - need several items - milk, bread, and eggs from the store."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Punctuation"
+  },
+  {
+    "id": 74,
+    "text": "Which word is spelled correctly?",
+    "options": [
+      "Occurence",
+      "Ocurrence",
+      "Occurrence",
+      "Occurance"
+    ],
+    "correctAnswer": 2,
+    "category": "Vocabulary",
+    "subCategory": "Spelling"
+  },
+  {
+    "id": 75,
+    "text": "Choose the correct form: 'If I _____ you, I would accept the job offer.'",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Conditional Sentences"
+  },
+  {
+    "id": 76,
+    "text": "What is the meaning of the word 'ubiquitous'?",
+    "options": [
+      "Rare and uncommon",
+      "Present everywhere",
+      "Unique and special",
+      "Hidden and concealed"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+{
+    "id": 77,
+    "text": "Which sentence demonstrates correct use of the gerund?",
+    "options": [
+      "I enjoy to swim in the ocean.",
+      "I enjoy swimming in the ocean.",
+      "I enjoy swim in the ocean.",
+      "I enjoying swim in the ocean."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Gerunds"
+  },
+  {
+    "id": 78,
+    "text": "What does the prefix 'bio-' mean?",
+    "options": [
+      "Water",
+      "Life",
+      "Earth",
+      "Air"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 79,
+    "text": "Choose the correct form of the verb: 'The jury _____ deliberating for hours.'",
+    "options": [
+      "is",
+      "are",
+      "has been",
+      "have been"
+    ],
+    "correctAnswer": 2,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 80,
+    "text": "What is a synonym for 'eloquent'?",
+    "options": [
+      "Articulate",
+      "Silent",
+      "Clumsy",
+      "Awkward"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Synonyms"
+  },
+  {
+    "id": 81,
+    "text": "Identify the sentence with correct use of the semicolon and colon:",
+    "options": [
+      "I have three favorite foods; pizza, sushi, and tacos.",
+      "I have three favorite foods: pizza, sushi, and tacos.",
+      "I have three favorite foods; pizza: sushi, and tacos.",
+      "I have three favorite foods: pizza; sushi, and tacos."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Punctuation"
+  },
+  {
+    "id": 82,
+    "text": "What does the idiom 'to be under the weather' mean?",
+    "options": [
+      "To be slightly ill",
+      "To be outdoors",
+      "To be very happy",
+      "To be confused"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 83,
+    "text": "Which sentence uses the past participle correctly?",
+    "options": [
+      "I have went to the store.",
+      "I have gone to the store.",
+      "I have goed to the store.",
+      "I have going to the store."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Past Participles"
+  },
+  {
+    "id": 84,
+    "text": "What is the meaning of the suffix '-phobia'?",
+    "options": [
+      "Love of",
+      "Fear of",
+      "Study of",
+      "Lack of"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 85,
+    "text": "Choose the correct form: 'Neither of the restaurants _____ good reviews.'",
+    "options": [
+      "has",
+      "have",
+      "is having",
+      "are having"
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 86,
+    "text": "What is an antonym for 'opaque'?",
+    "options": [
+      "Transparent",
+      "Cloudy",
+      "Dense",
+      "Dark"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Antonyms"
+  },
+  {
+    "id": 87,
+    "text": "Which sentence demonstrates correct use of the present perfect continuous tense?",
+    "options": [
+      "I am studying English for five years.",
+      "I have been studying English for five years.",
+      "I have studied English for five years.",
+      "I study English for five years."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Present Perfect Continuous Tense"
+  },
+  {
+    "id": 88,
+    "text": "What does the phrase 'to kill two birds with one stone' mean?",
+    "options": [
+      "To be very efficient",
+      "To accomplish two tasks with a single action",
+      "To be very strong",
+      "To cause harm to animals"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 89,
+    "text": "Identify the sentence with correct use of the apostrophe for possession:",
+    "options": [
+      "The dogs' bowl is empty.",
+      "The dog's bowls' are empty.",
+      "The dogs bowls are empty.",
+      "The dog's bowls are empty."
+    ],
+    "correctAnswer": 3,
+    "category": "Grammar",
+    "subCategory": "Apostrophe Usage"
+  },
+  {
+    "id": 90,
+    "text": "Which word is spelled correctly?",
+    "options": [
+      "Conscientious",
+      "Consciencious",
+      "Consientious",
+      "Concientious"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Spelling"
+  },
+  {
+    "id": 91,
+    "text": "Choose the correct form of the verb: 'If she _____ harder, she would have passed the exam.'",
+    "options": [
+      "studied",
+      "had studied",
+      "would study",
+      "would have studied"
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Conditional Sentences"
+  },
+  {
+    "id": 92,
+    "text": "What is the meaning of the word 'verbose'?",
+    "options": [
+      "Using more words than necessary",
+      "Very quiet",
+      "Extremely fast",
+      "Highly effective"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 93,
+    "text": "Which sentence demonstrates correct use of the past perfect tense?",
+    "options": [
+      "I had already eaten when she arrived.",
+      "I have already eaten when she arrived.",
+      "I already ate when she arrived.",
+      "I was already eating when she arrived."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Past Perfect Tense"
+  },
+  {
+    "id": 94,
+    "text": "What does the root 'therm-' mean?",
+    "options": [
+      "Water",
+      "Heat",
+      "Light",
+      "Sound"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Root Words"
+  },
+  {
+    "id": 95,
+    "text": "Identify the sentence with correct parallel structure:",
+    "options": [
+      "She likes cooking, to dance, and singing.",
+      "She likes cooking, dancing, and singing.",
+      "She likes to cook, dance, and to sing.",
+      "She likes cooking, dance, and sings."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Parallel Structure"
+  },
+  {
+    "id": 96,
+    "text": "What does the idiom 'to break the ice' mean?",
+    "options": [
+      "To damage something frozen",
+      "To start a conversation in a social situation",
+      "To solve a difficult problem",
+      "To cool down a drink"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 97,
+    "text": "Which sentence uses the correct comparative form?",
+    "options": [
+      "This book is more interesting than that one.",
+      "This book is interestinger than that one.",
+      "This book is more interesting as that one.",
+      "This book is interesting than that one."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Comparative Adjectives"
+  },
+  {
+    "id": 98,
+    "text": "What is a synonym for 'ambiguous'?",
+    "options": [
+      "Clear",
+      "Vague",
+      "Certain",
+      "Definite"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Synonyms"
+  },
+  {
+    "id": 99,
+    "text": "Choose the correct relative pronoun: 'The movie _____ we saw last night was excellent.'",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correctAnswer": 3,
+    "category": "Grammar",
+    "subCategory": "Relative Pronouns"
+  },
+  {
+    "id": 100,
+    "text": "What is the meaning of the prefix 'mono-'?",
+    "options": [
+      "Many",
+      "One",
+      "Half",
+      "Double"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 101,
+    "text": "Identify the sentence with correct use of the colon:",
+    "options": [
+      "There are three primary colors: red, blue, and yellow.",
+      "There are three primary colors, red, blue, and yellow.",
+      "There are three primary colors; red, blue, and yellow.",
+      "There are: three primary colors red, blue, and yellow."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Punctuation"
+  },
+  {
+    "id": 102,
+    "text": "What does the phrase 'to be a piece of cake' mean?",
+    "options": [
+      "To be very sweet",
+      "To be very easy",
+      "To be incomplete",
+      "To be very difficult"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 103,
+    "text": "Which sentence demonstrates correct use of the passive voice?",
+    "options": [
+      "The letter was written by John.",
+      "John written the letter.",
+      "The letter wrote by John.",
+      "John was writing the letter."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Passive Voice"
+  },
+  {
+    "id": 104,
+    "text": "What is an antonym for 'frugal'?",
+    "options": [
+      "Economical",
+      "Thrifty",
+      "Extravagant",
+      "Careful"
+    ],
+    "correctAnswer": 2,
+    "category": "Vocabulary",
+    "subCategory": "Antonyms"
+  },
+  {
+    "id": 105,
+    "text": "Choose the correct form of the verb: 'Each of the players _____ a chance to score.'",
+    "options": [
+      "have",
+      "has",
+      "are having",
+      "is having"
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Subject-Verb Agreement"
+  },
+  {
+    "id": 106,
+    "text": "What is the meaning of the word 'epitome'?",
+    "options": [
+      "A perfect example of something",
+      "A type of musical instrument",
+      "A medical procedure",
+      "A rare species of plant"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Advanced Words"
+  },
+  {
+    "id": 107,
+    "text": "Which sentence uses the future perfect continuous tense correctly?",
+    "options": [
+      "I will have been studying for three hours by the time you arrive.",
+      "I will be studying for three hours by the time you arrive.",
+      "I will study for three hours by the time you arrive.",
+      "I have been studying for three hours by the time you arrive."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Future Perfect Continuous Tense"
+  },
+  {
+    "id": 108,
+    "text": "What does the suffix '-icide' mean?",
+    "options": [
+      "Related to",
+      "Killer of",
+      "Study of",
+      "Fear of"
+    ],
+    "correctAnswer": 1,
+    "category": "Vocabulary",
+    "subCategory": "Prefixes and Suffixes"
+  },
+  {
+    "id": 109,
+    "text": "Identify the sentence with correct use of the dash:",
+    "options": [
+      "My favorite fruits - apples, oranges, and bananas - are all sweet.",
+      "My favorite fruits - apples, oranges, and bananas are all sweet.",
+      "My favorite fruits apples - oranges, and bananas - are all sweet.",
+      "My - favorite fruits apples, oranges, and bananas - are all sweet."
+    ],
+    "correctAnswer": 0,
+    "category": "Grammar",
+    "subCategory": "Punctuation"
+  },
+  {
+    "id": 110,
+    "text": "What does the idiom 'to cost an arm and a leg' mean?",
+    "options": [
+      "To be very expensive",
+      "To be physically demanding",
+      "To cause injury",
+      "To be very time-consuming"
+    ],
+    "correctAnswer": 0,
+    "category": "Vocabulary",
+    "subCategory": "Idioms"
+  },
+  {
+    "id": 111,
+    "text": "Which sentence contains a split infinitive?",
+    "options": [
+      "She decided quickly to leave the party.",
+      "She decided to quickly leave the party.",
+      "She quickly decided to leave the party.",
+      "To leave the party quickly was her decision."
+    ],
+    "correctAnswer": 1,
+    "category": "Grammar",
+    "subCategory": "Infinitives"
+  }  
+]

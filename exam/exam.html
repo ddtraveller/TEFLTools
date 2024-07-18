@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Proficiency Exam</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+        .question {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        button {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #result {
+            margin-top: 20px;
+        }
+        .correct {
+            color: green;
+        }
+        .incorrect {
+            color: red;
+        }
+        .feedback-section {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+        .feedback-item {
+            margin-bottom: 10px;
+        }
+        .progress-bar {
+            width: 100%;
+            background-color: #e0e0e0;
+            padding: 3px;
+            border-radius: 3px;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+        }
+        .progress-bar-fill {
+            display: block;
+            height: 22px;
+            background-color: #659cef;
+            border-radius: 3px;
+            transition: width 500ms ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>English Proficiency Exam</h1>
+        <div id="exam"></div>
+        <button onclick="submitExam()">Submit Exam</button>
+        <div id="result"></div>
+    </div>
+
+    <script>
+        let questions = [];
+        let selectedQuestions = [];
+
+        // Fetch questions from JSON file
+        fetch('questions.json')
+            .then(response => response.json())
+            .then(data => {
+                questions = data;
+                loadExam();
+            })
+            .catch(error => console.error('Error:', error));
+
+        function loadExam() {
+            const examDiv = document.getElementById('exam');
+            selectedQuestions = _.sampleSize(questions, 20); // Select 20 random questions
+
+            selectedQuestions.forEach((question, index) => {
+                const questionDiv = document.createElement('div');
+                questionDiv.className = 'question';
+                questionDiv.innerHTML = `
+                    <p><strong>Question ${index + 1}:</strong> ${question.text}</p>
+                    ${question.options.map((option, i) => `
+                        <label>
+                            <input type="radio" name="q${index}" value="${i}">
+                            ${option}
+                        </label><br>
+                    `).join('')}
+                `;
+                examDiv.appendChild(questionDiv);
+            });
+        }
+
+        function submitExam() {
+            let score = 0;
+            const resultDiv = document.getElementById('result');
+            const feedbackData = {};
+
+            selectedQuestions.forEach((question, index) => {
+                const selectedAnswer = document.querySelector(`input[name="q${index}"]:checked`);
+                const questionDiv = document.querySelectorAll('.question')[index];
+                const correctAnswerIndex = question.correctAnswer;
+                const correctAnswerText = question.options[correctAnswerIndex];
+
+                if (selectedAnswer) {
+                    const selectedIndex = parseInt(selectedAnswer.value);
+                    if (selectedIndex === correctAnswerIndex) {
+                        score++;
+                        questionDiv.classList.add('correct');
+                        updateFeedback(feedbackData, question.category, question.subCategory, true);
+                    } else {
+                        questionDiv.classList.add('incorrect');
+                        updateFeedback(feedbackData, question.category, question.subCategory, false);
+                    }
+                } else {
+                    questionDiv.classList.add('incorrect');
+                    updateFeedback(feedbackData, question.category, question.subCategory, false);
+                }
+
+                // Display correct answer
+                const correctAnswerPara = document.createElement('p');
+                correctAnswerPara.innerHTML = `<strong>Correct Answer:</strong> ${correctAnswerText}`;
+                questionDiv.appendChild(correctAnswerPara);
+            });
+
+            const percentage = (score / selectedQuestions.length) * 100;
+            let feedback = `<h2>Exam Results</h2>`;
+            feedback += `<p>Your score: ${score} out of ${selectedQuestions.length} (${percentage.toFixed(2)}%)</p>`;
+            
+            feedback += generateDetailedFeedback(feedbackData);
+
+            resultDiv.innerHTML = feedback;
+
+            // Disable all inputs after submission
+            document.querySelectorAll('input[type="radio"]').forEach(input => input.disabled = true);
+            document.querySelector('button').disabled = true;
+        }
+
+        function updateFeedback(feedbackData, category, subCategory, isCorrect) {
+            if (!feedbackData[category]) {
+                feedbackData[category] = {};
+            }
+            if (!feedbackData[category][subCategory]) {
+                feedbackData[category][subCategory] = { correct: 0, total: 0 };
+            }
+            feedbackData[category][subCategory].total++;
+            if (isCorrect) {
+                feedbackData[category][subCategory].correct++;
+            }
+        }
+
+        function generateDetailedFeedback(feedbackData) {
+            let feedback = '<div class="feedback-section">';
+            feedback += '<h3>Detailed Performance Breakdown</h3>';
+
+            for (const category in feedbackData) {
+                feedback += `<h4>${category}</h4>`;
+                for (const subCategory in feedbackData[category]) {
+                    const { correct, total } = feedbackData[category][subCategory];
+                    const percentage = (correct / total) * 100;
+                    feedback += `<div class="feedback-item">
+                        <strong>${subCategory}:</strong> ${correct}/${total} correct (${percentage.toFixed(1)}%)
+                        <div class="progress-bar">
+                            <span class="progress-bar-fill" style="width:${percentage}%;"></span>
+                        </div>
+                    </div>`;
+                }
+            }
+
+            feedback += '</div>';
+            return feedback;
+        }
+    </script>
+</body>
+</html>
