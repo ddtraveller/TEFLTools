@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Housing for Urban Timorese Communities",
+  "questions": [
+    {
+      "question": "What is the traditional Timorese sacred house called?",
+      "choices": [
+        "Uma lulik",
+        "Fale",
+        "Bale",
+        "Wharenui"
+      ],
+      "answer": "Uma lulik"
+    },
+    {
+      "question": "Which of the following is NOT a common feature of traditional Timorese housing?",
+      "choices": [
+        "Steep, pitched roof",
+        "Concrete foundation",
+        "Elevated floors",
+        "Woven bamboo walls"
+      ],
+      "answer": "Concrete foundation"
+    },
+    {
+      "question": "What is a primary challenge of rapid urbanization in Timor-Leste?",
+      "choices": [
+        "Housing shortages",
+        "Excess housing supply",
+        "Decreasing population",
+        "Rural overpopulation"
+      ],
+      "answer": "Housing shortages"
+    },
+    {
+      "question": "Which of the following is a sustainable building technique appropriate for Timor-Leste's climate?",
+      "choices": [
+        "Thick concrete walls",
+        "Small, sealed windows",
+        "Passive cooling strategies",
+        "Dark-colored roofs"
+      ],
+      "answer": "Passive cooling strategies"
+    },
+    {
+      "question": "What is a key consideration when designing culturally-appropriate urban housing in Timor-Leste?",
+      "choices": [
+        "Incorporating Western-style layouts",
+        "Using only imported materials",
+        "Providing space for traditional activities",
+        "Minimizing outdoor living areas"
+      ],
+      "answer": "Providing space for traditional activities"
+    },
+    {
+      "question": "Which material is commonly used in traditional Timorese construction and is considered sustainable?",
+      "choices": [
+        "Steel",
+        "Concrete",
+        "Bamboo",
+        "Plastic"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "What is a benefit of raised floors in traditional Timorese housing?",
+      "choices": [
+        "Increased heating efficiency",
+        "Better sound insulation",
+        "Improved ventilation",
+        "Enhanced earthquake resistance"
+      ],
+      "answer": "Improved ventilation"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in urban Timorese housing?",
+      "choices": [
+        "Land tenure issues",
+        "Overcrowding",
+        "Excess of affordable housing",
+        "Loss of cultural identity"
+      ],
+      "answer": "Excess of affordable housing"
+    },
+    {
+      "question": "What is a sustainable water conservation method suitable for urban housing in Timor-Leste?",
+      "choices": [
+        "Increased water importation",
+        "Rainwater harvesting",
+        "Deep well drilling",
+        "Desalination plants"
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "Which design strategy helps reduce solar heat gain in tropical climates?",
+      "choices": [
+        "Large south-facing windows",
+        "Dark-colored exterior walls",
+        "Proper building orientation",
+        "Flat, unshaded roofs"
+      ],
+      "answer": "Proper building orientation"
+    },
+    {
+      "question": "What is a key function of the uma lulik in Timorese culture?",
+      "choices": [
+        "Daily living quarters",
+        "Agricultural storage",
+        "Ceremonial and spiritual purposes",
+        "Commercial activities"
+      ],
+      "answer": "Ceremonial and spiritual purposes"
+    },
+    {
+      "question": "Which of the following is a sustainable energy solution for urban housing in Timor-Leste?",
+      "choices": [
+        "Coal-fired power plants",
+        "Nuclear energy",
+        "Solar panels",
+        "Increased use of diesel generators"
+      ],
+      "answer": "Solar panels"
+    },
+    {
+      "question": "What type of roof design is common in traditional Timorese housing?",
+      "choices": [
+        "Flat roof",
+        "Steep, pitched roof",
+        "Dome-shaped roof",
+        "Green roof"
+      ],
+      "answer": "Steep, pitched roof"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using local materials in construction?",
+      "choices": [
+        "Reduced transportation costs",
+        "Support for local economies",
+        "Lower environmental impact",
+        "Increased reliance on imports"
+      ],
+      "answer": "Increased reliance on imports"
+    },
+    {
+      "question": "What is a key challenge in maintaining cultural identity in urban Timorese housing?",
+      "choices": [
+        "Overuse of traditional materials",
+        "Excessive focus on ceremonial spaces",
+        "Adoption of Western-style housing designs",
+        "Strict adherence to traditional layouts"
+      ],
+      "answer": "Adoption of Western-style housing designs"
+    },
+    {
+      "question": "Which passive cooling strategy relies on the movement of hot air upwards?",
+      "choices": [
+        "Cross-ventilation",
+        "Stack effect",
+        "Thermal mass",
+        "Evaporative cooling"
+      ],
+      "answer": "Stack effect"
+    },
+    {
+      "question": "What is a sustainable alternative to concrete blocks in Timorese construction?",
+      "choices": [
+        "Plastic bricks",
+        "Steel panels",
+        "Earth blocks",
+        "Asbestos sheets"
+      ],
+      "answer": "Earth blocks"
+    },
+    {
+      "question": "Which feature of traditional Timorese housing helps protect against flooding?",
+      "choices": [
+        "Concrete foundations",
+        "Elevated floors",
+        "Thatched roofs",
+        "Adobe walls"
+      ],
+      "answer": "Elevated floors"
+    },
+    {
+      "question": "What is a key consideration in designing for extended family living in urban Timorese housing?",
+      "choices": [
+        "Minimizing shared spaces",
+        "Prioritizing individual privacy",
+        "Flexible layouts",
+        "Separate entrances for each family member"
+      ],
+      "answer": "Flexible layouts"
+    },
+    {
+      "question": "Which of the following is NOT a typical material used in traditional Timorese binding techniques?",
+      "choices": [
+        "Rattan",
+        "Plant fibers",
+        "Metal nails",
+        "Bamboo strips"
+      ],
+      "answer": "Metal nails"
+    },
+    {
+      "question": "What is a benefit of using light-colored roofs in tropical urban housing?",
+      "choices": [
+        "Increased heat absorption",
+        "Better camouflage",
+        "Reduced heat island effect",
+        "Improved structural integrity"
+      ],
+      "answer": "Reduced heat island effect"
+    },
+    {
+      "question": "Which of the following is a sustainable approach to urban development in Timor-Leste?",
+      "choices": [
+        "Rapid clearance of informal settlements",
+        "Exclusive use of imported building materials",
+        "Integration of traditional and modern design elements",
+        "Prioritizing high-rise developments"
+      ],
+      "answer": "Integration of traditional and modern design elements"
+    },
+    {
+      "question": "What role do overhangs play in sustainable tropical housing design?",
+      "choices": [
+        "Increase solar heat gain",
+        "Provide shade and reduce heat absorption",
+        "Improve structural stability",
+        "Enhance interior lighting"
+      ],
+      "answer": "Provide shade and reduce heat absorption"
+    },
+    {
+      "question": "Which of the following is NOT a typical challenge in urban land tenure in Timor-Leste?",
+      "choices": [
+        "Unclear ownership rights",
+        "Risk of forced evictions",
+        "Excessive land availability",
+        "Informal settlements"
+      ],
+      "answer": "Excessive land availability"
+    },
+    {
+      "question": "What is a benefit of incorporating communal spaces in urban Timorese housing developments?",
+      "choices": [
+        "Reduced construction costs",
+        "Increased privacy",
+        "Preservation of social ties",
+        "Simplified waste management"
+      ],
+      "answer": "Preservation of social ties"
+    },
+    {
+      "question": "Which sustainable building technique helps moderate temperature swings between day and night?",
+      "choices": [
+        "Use of thermal mass",
+        "Installation of air conditioning",
+        "Increased window size",
+        "Use of lightweight materials"
+      ],
+      "answer": "Use of thermal mass"
+    },
+    {
+      "question": "What is a key consideration in adapting traditional Timorese housing designs for urban settings?",
+      "choices": [
+        "Eliminating all traditional elements",
+        "Increasing building height",
+        "Balancing cultural needs with modern urban requirements",
+        "Focusing solely on cost reduction"
+      ],
+      "answer": "Balancing cultural needs with modern urban requirements"
+    },
+    {
+      "question": "Which of the following is a sustainable approach to managing greywater in urban Timorese housing?",
+      "choices": [
+        "Direct discharge into waterways",
+        "Recycling for irrigation purposes",
+        "Mixing with drinking water",
+        "Underground storage without treatment"
+      ],
+      "answer": "Recycling for irrigation purposes"
+    },
+    {
+      "question": "What is a potential benefit of using compressed earth blocks in urban Timorese construction?",
+      "choices": [
+        "Increased import dependence",
+        "Higher embodied energy",
+        "Good thermal mass properties",
+        "Resistance to local climate conditions"
+      ],
+      "answer": "Good thermal mass properties"
+    },
+    {
+      "question": "Which of the following best describes the ideal approach to sustainable urban housing in Timor-Leste?",
+      "choices": [
+        "Exclusive use of traditional building methods",
+        "Complete adoption of Western housing styles",
+        "Integration of traditional wisdom with modern sustainable techniques",
+        "Focus solely on cost-effective mass housing"
+      ],
+      "answer": "Integration of traditional wisdom with modern sustainable techniques"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Song Structure and Performance",
+  "questions": [
+    {
+      "question": "What is the primary function of a verse in a song?",
+      "choices": [
+        "To provide the catchiest part of the song",
+        "To tell the story or convey the main message",
+        "To contrast with the chorus and bridge",
+        "To repeat the same lyrics multiple times"
+      ],
+      "answer": "To tell the story or convey the main message"
+    },
+    {
+      "question": "Which part of a song typically contains the main hook or message and repeats both lyrically and melodically?",
+      "choices": [
+        "Verse",
+        "Chorus",
+        "Bridge",
+        "Intro"
+      ],
+      "answer": "Chorus"
+    },
+    {
+      "question": "What is the primary purpose of a bridge in a song?",
+      "choices": [
+        "To repeat the main message",
+        "To provide contrast and break up repetition",
+        "To introduce the song",
+        "To end the song"
+      ],
+      "answer": "To provide contrast and break up repetition"
+    },
+    {
+      "question": "Which of the following is NOT typically a characteristic of a chorus?",
+      "choices": [
+        "Repeating lyrics",
+        "Catchy melody",
+        "Changing lyrics with each repetition",
+        "Contains the main message of the song"
+      ],
+      "answer": "Changing lyrics with each repetition"
+    },
+    {
+      "question": "What is the correct order of a common song structure?",
+      "choices": [
+        "Chorus - Verse - Bridge - Chorus",
+        "Intro - Verse - Chorus - Verse - Chorus - Bridge - Chorus",
+        "Verse - Chorus - Verse - Bridge - Chorus",
+        "Bridge - Verse - Chorus - Verse - Chorus"
+      ],
+      "answer": "Intro - Verse - Chorus - Verse - Chorus - Bridge - Chorus"
+    },
+    {
+      "question": "Which aspect of performance involves mastering one's instrument or voice, ensuring accurate pitch, rhythm, and timing?",
+      "choices": [
+        "Emotional expression",
+        "Stage presence",
+        "Technical proficiency",
+        "Song structure"
+      ],
+      "answer": "Technical proficiency"
+    },
+    {
+      "question": "What does 'stage presence' refer to in a musical performance?",
+      "choices": [
+        "The ability to play an instrument well",
+        "The ability to sing in tune",
+        "The ability to command attention and engage an audience",
+        "The ability to write complex song structures"
+      ],
+      "answer": "The ability to command attention and engage an audience"
+    },
+    {
+      "question": "Which of the following is NOT typically considered part of good stage presence?",
+      "choices": [
+        "Making eye contact with the audience",
+        "Using confident, purposeful movements",
+        "Staring at your instrument throughout the performance",
+        "Smiling and showing enjoyment"
+      ],
+      "answer": "Staring at your instrument throughout the performance"
+    },
+    {
+      "question": "What is the recommended posture for performing with a guitar?",
+      "choices": [
+        "Slouching to appear relaxed",
+        "Standing with feet together",
+        "Standing with feet shoulder-width apart and back straight",
+        "Sitting down for the entire performance"
+      ],
+      "answer": "Standing with feet shoulder-width apart and back straight"
+    },
+    {
+      "question": "How should a performer ideally handle making a mistake during a live performance?",
+      "choices": [
+        "Stop the song and start over",
+        "Apologize to the audience immediately",
+        "Keep playing and maintain a positive expression",
+        "Leave the stage"
+      ],
+      "answer": "Keep playing and maintain a positive expression"
+    },
+    {
+      "question": "What is the primary purpose of analyzing song structure?",
+      "choices": [
+        "To make songs longer",
+        "To understand how different parts of a song work together",
+        "To copy other musicians' work",
+        "To avoid using choruses in songs"
+      ],
+      "answer": "To understand how different parts of a song work together"
+    },
+    {
+      "question": "Which of the following is NOT typically a part of basic song structure?",
+      "choices": [
+        "Verse",
+        "Chorus",
+        "Bridge",
+        "Coda"
+      ],
+      "answer": "Coda"
+    },
+    {
+      "question": "What is the main difference between a verse and a chorus in terms of lyrics?",
+      "choices": [
+        "Verses are longer than choruses",
+        "Chorus lyrics change each time, verse lyrics repeat",
+        "Verse lyrics change each time, chorus lyrics repeat",
+        "There is no difference in lyrics between verse and chorus"
+      ],
+      "answer": "Verse lyrics change each time, chorus lyrics repeat"
+    },
+    {
+      "question": "Which part of a song is often described as the most memorable or catchy?",
+      "choices": [
+        "Verse",
+        "Chorus",
+        "Bridge",
+        "Intro"
+      ],
+      "answer": "Chorus"
+    },
+    {
+      "question": "What is the purpose of a pre-chorus in a song?",
+      "choices": [
+        "To end the song",
+        "To introduce the verse",
+        "To build anticipation for the chorus",
+        "To replace the bridge"
+      ],
+      "answer": "To build anticipation for the chorus"
+    },
+    {
+      "question": "In terms of performance, what does 'emotional expression' refer to?",
+      "choices": [
+        "Playing as loudly as possible",
+        "Conveying the feelings and intentions behind the music",
+        "Crying during the performance",
+        "Using complex musical techniques"
+      ],
+      "answer": "Conveying the feelings and intentions behind the music"
+    },
+    {
+      "question": "Which of the following is NOT typically considered part of technical proficiency for a guitarist?",
+      "choices": [
+        "Clean chord transitions",
+        "Consistent strumming patterns",
+        "Accurate timing",
+        "Elaborate stage costumes"
+      ],
+      "answer": "Elaborate stage costumes"
+    },
+    {
+      "question": "What is the recommended approach for eye contact during a performance?",
+      "choices": [
+        "Stare at one person throughout the entire performance",
+        "Close your eyes to concentrate on the music",
+        "Scan the audience, making brief eye contact with individuals",
+        "Look at the ceiling to avoid stage fright"
+      ],
+      "answer": "Scan the audience, making brief eye contact with individuals"
+    },
+    {
+      "question": "Which of the following is a key aspect of preparing for a performance?",
+      "choices": [
+        "Memorizing only the chorus of the song",
+        "Practicing only the day before the performance",
+        "Focusing on smooth transitions between song sections",
+        "Avoiding any rehearsal to keep the performance spontaneous"
+      ],
+      "answer": "Focusing on smooth transitions between song sections"
+    },
+    {
+      "question": "What is the purpose of creating a visual representation (like a flowchart) of a song's structure?",
+      "choices": [
+        "To make the song look more complex",
+        "To help understand and remember the song's organization",
+        "To confuse other musicians",
+        "To replace sheet music"
+      ],
+      "answer": "To help understand and remember the song's organization"
+    },
+    {
+      "question": "In the context of Timorese music, what is important to consider when analyzing song structure?",
+      "choices": [
+        "Ignoring local musical traditions",
+        "Assuming all Timorese songs follow Western pop structures",
+        "Recognizing unique local instruments, rhythms, and vocal techniques",
+        "Only studying songs written in the last 10 years"
+      ],
+      "answer": "Recognizing unique local instruments, rhythms, and vocal techniques"
+    },
+    {
+      "question": "What is the significance of live performance in the modern music industry?",
+      "choices": [
+        "It's becoming obsolete due to digital production",
+        "It offers a unique and irreplaceable experience of raw energy and authenticity",
+        "It's only important for classical music",
+        "It's less important than studio recordings"
+      ],
+      "answer": "It offers a unique and irreplaceable experience of raw energy and authenticity"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of a bridge in a song?",
+      "choices": [
+        "Contrasting with verse and chorus",
+        "Having a different chord progression",
+        "Occurring multiple times throughout the song",
+        "Providing a break from repetition"
+      ],
+      "answer": "Occurring multiple times throughout the song"
+    },
+    {
+      "question": "What is the primary purpose of practicing stage presence?",
+      "choices": [
+        "To show off to other musicians",
+        "To distract from musical mistakes",
+        "To engage the audience and enhance the overall performance",
+        "To make the performance longer"
+      ],
+      "answer": "To engage the audience and enhance the overall performance"
+    },
+    {
+      "question": "Which of the following is a recommended way to improve stage presence?",
+      "choices": [
+        "Avoiding eye contact with the audience",
+        "Practicing confident movements and expressions",
+        "Memorizing complex dance routines",
+        "Wearing sunglasses to avoid seeing the audience"
+      ],
+      "answer": "Practicing confident movements and expressions"
+    },
+    {
+      "question": "What is the importance of understanding song structure for a performer?",
+      "choices": [
+        "It allows for better memorization and navigation of the song",
+        "It's not important for performers, only for composers",
+        "It helps in choosing stage outfits",
+        "It's only relevant for classical music"
+      ],
+      "answer": "It allows for better memorization and navigation of the song"
+    },
+    {
+      "question": "How can understanding song structure influence a guitarist's approach to learning new songs?",
+      "choices": [
+        "It makes learning unnecessary",
+        "It helps in identifying patterns and predicting chord progressions",
+        "It's only useful for writing original songs",
+        "It has no impact on learning songs"
+      ],
+      "answer": "It helps in identifying patterns and predicting chord progressions"
+    },
+    {
+      "question": "What is the significance of the chorus in most popular songs?",
+      "choices": [
+        "It's the least important part of the song",
+        "It contains the main message and is designed to be memorable",
+        "It's only used in certain genres of music",
+        "It's always the quietest part of the song"
+      ],
+      "answer": "It contains the main message and is designed to be memorable"
+    },
+    {
+      "question": "How does emotional expression in performance differ from technical proficiency?",
+      "choices": [
+        "Emotional expression is not important in music",
+        "Technical proficiency is about accuracy, while emotional expression conveys feeling",
+        "They are the same thing",
+        "Emotional expression is only relevant in sad songs"
+      ],
+      "answer": "Technical proficiency is about accuracy, while emotional expression conveys feeling"
+    },
+    {
+      "question": "What is the benefit of collaborating with traditional Timorese musicians?",
+      "choices": [
+        "It's not beneficial for learning guitar",
+        "It provides insights into local musical traditions and techniques",
+        "It's only useful for learning about history",
+        "It helps in writing English pop songs"
+      ],
+      "answer": "It provides insights into local musical traditions and techniques"
+    }
+  ]
+}

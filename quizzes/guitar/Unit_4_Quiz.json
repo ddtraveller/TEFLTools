@@ -1,0 +1,305 @@
+{
+  "title": "Fingerpicking Basics",
+  "questions": [
+    {
+      "question": "What is the primary purpose of fingerpicking in guitar playing?",
+      "choices": [
+        "To create louder sounds",
+        "To play individual strings with fingertips or fingernails",
+        "To simplify chord progressions",
+        "To replace the need for a guitar pick"
+      ],
+      "answer": "To play individual strings with fingertips or fingernails"
+    },
+    {
+      "question": "Which finger is typically assigned to the 3rd string in standard fingerpicking?",
+      "choices": [
+        "Thumb (p)",
+        "Index (i)",
+        "Middle (m)",
+        "Ring (a)"
+      ],
+      "answer": "Index (i)"
+    },
+    {
+      "question": "What does the 'p' stand for in fingerpicking notation?",
+      "choices": [
+        "Pinky",
+        "Pointer",
+        "Pulgar (thumb)",
+        "Palm"
+      ],
+      "answer": "Pulgar (thumb)"
+    },
+    {
+      "question": "Which strings are typically played by the thumb in fingerpicking?",
+      "choices": [
+        "1st, 2nd, and 3rd strings",
+        "2nd, 3rd, and 4th strings",
+        "4th, 5th, and 6th strings",
+        "5th and 6th strings only"
+      ],
+      "answer": "4th, 5th, and 6th strings"
+    },
+    {
+      "question": "What is an alternating bass pattern in fingerpicking?",
+      "choices": [
+        "Playing the same bass note repeatedly",
+        "Alternating between two bass strings with the thumb",
+        "Using the index and middle fingers on bass strings",
+        "Changing the bass note for each chord"
+      ],
+      "answer": "Alternating between two bass strings with the thumb"
+    },
+    {
+      "question": "Which fingers are typically used in a basic p, i, m, a fingerpicking pattern?",
+      "choices": [
+        "Pinky, index, middle, and ring",
+        "Thumb, index, middle, and ring",
+        "Thumb, index, middle, and pinky",
+        "Palm, index, middle, and ring"
+      ],
+      "answer": "Thumb, index, middle, and ring"
+    },
+    {
+      "question": "What is the benefit of consistent finger assignments in fingerpicking?",
+      "choices": [
+        "It allows for faster strumming",
+        "It develops muscle memory and improves accuracy",
+        "It reduces the need for practice",
+        "It makes all songs sound the same"
+      ],
+      "answer": "It develops muscle memory and improves accuracy"
+    },
+    {
+      "question": "When practicing the alternating bass pattern on an A chord, which strings are typically alternated?",
+      "choices": [
+        "1st and 2nd strings",
+        "3rd and 4th strings",
+        "4th and 5th strings",
+        "6th and 4th strings"
+      ],
+      "answer": "6th and 4th strings"
+    },
+    {
+      "question": "What is the recommended starting point for practicing a new fingerpicking pattern?",
+      "choices": [
+        "Complex chord progressions",
+        "Open strings",
+        "Barre chords",
+        "Advanced songs"
+      ],
+      "answer": "Open strings"
+    },
+    {
+      "question": "How does fingerpicking differ from strumming in terms of sound production?",
+      "choices": [
+        "Fingerpicking is always louder",
+        "Strumming allows for more precise note selection",
+        "Fingerpicking allows for simultaneous bass, harmony, and melody",
+        "There is no difference in sound production"
+      ],
+      "answer": "Fingerpicking allows for simultaneous bass, harmony, and melody"
+    },
+    {
+      "question": "What is a common challenge for beginners when learning fingerpicking?",
+      "choices": [
+        "Playing too loudly",
+        "Maintaining a steady rhythm while coordinating multiple fingers",
+        "Understanding music theory",
+        "Memorizing chord shapes"
+      ],
+      "answer": "Maintaining a steady rhythm while coordinating multiple fingers"
+    },
+    {
+      "question": "Which genre is NOT typically associated with extensive use of fingerpicking?",
+      "choices": [
+        "Folk",
+        "Classical",
+        "Heavy Metal",
+        "Country"
+      ],
+      "answer": "Heavy Metal"
+    },
+    {
+      "question": "What is the purpose of the alternating bass in fingerpicking?",
+      "choices": [
+        "To create a melody",
+        "To provide a steady rhythm and harmonic foundation",
+        "To make the guitar sound like a drum",
+        "To simplify chord changes"
+      ],
+      "answer": "To provide a steady rhythm and harmonic foundation"
+    },
+    {
+      "question": "When applying fingerpicking to a D chord, which strings are typically used for the alternating bass?",
+      "choices": [
+        "6th and 5th strings",
+        "5th and 4th strings",
+        "4th and 3rd strings",
+        "3rd and 2nd strings"
+      ],
+      "answer": "4th and 3rd strings"
+    },
+    {
+      "question": "What is the recommended hand position for fingerpicking?",
+      "choices": [
+        "Flat against the guitar body",
+        "Relaxed and slightly arched with a slightly bent wrist",
+        "Tightly clenched with straight fingers",
+        "As far from the strings as possible"
+      ],
+      "answer": "Relaxed and slightly arched with a slightly bent wrist"
+    },
+    {
+      "question": "Which finger is typically assigned to the 1st (thinnest) string in standard fingerpicking?",
+      "choices": [
+        "Thumb (p)",
+        "Index (i)",
+        "Middle (m)",
+        "Ring (a)"
+      ],
+      "answer": "Ring (a)"
+    },
+    {
+      "question": "What does developing finger independence through fingerpicking help with?",
+      "choices": [
+        "Playing faster solos",
+        "Improved overall guitar playing skills",
+        "Reduced need for practice",
+        "Ability to play without looking at the fretboard"
+      ],
+      "answer": "Improved overall guitar playing skills"
+    },
+    {
+      "question": "What is a benefit of using fingerpicking over a pick?",
+      "choices": [
+        "It always produces a louder sound",
+        "It allows for more variation in tone and volume within a pattern",
+        "It is easier for beginners",
+        "It requires less practice"
+      ],
+      "answer": "It allows for more variation in tone and volume within a pattern"
+    },
+    {
+      "question": "What type of musical effect can be created with fingerpicking arpeggios?",
+      "choices": [
+        "Percussive rhythms",
+        "Distorted sounds",
+        "Flowing, harp-like effects",
+        "Heavy bass lines"
+      ],
+      "answer": "Flowing, harp-like effects"
+    },
+    {
+      "question": "In the context of this module, what does 'i' stand for in finger notation?",
+      "choices": [
+        "Intermediate",
+        "Index finger",
+        "Inside",
+        "Indice (Spanish for index)"
+      ],
+      "answer": "Indice (Spanish for index)"
+    },
+    {
+      "question": "What is the recommended way to start practicing a new fingerpicking pattern?",
+      "choices": [
+        "At full speed with complex chords",
+        "Slowly on open strings, then progressing to simple chords",
+        "By watching professional performances",
+        "By starting with the most difficult songs"
+      ],
+      "answer": "Slowly on open strings, then progressing to simple chords"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of mastering fingerpicking?",
+      "choices": [
+        "Ability to play bass, harmony, and melody simultaneously",
+        "Increased control over dynamics and tone",
+        "Elimination of the need for a band or accompaniment",
+        "Enhanced expressiveness in playing"
+      ],
+      "answer": "Elimination of the need for a band or accompaniment"
+    },
+    {
+      "question": "What is the primary role of the thumb in basic fingerpicking patterns?",
+      "choices": [
+        "Playing melody notes",
+        "Strumming all strings",
+        "Playing bass notes and creating rhythmic foundation",
+        "Muting unwanted string noise"
+      ],
+      "answer": "Playing bass notes and creating rhythmic foundation"
+    },
+    {
+      "question": "How can fingerpicking enhance a guitarist's connection to the instrument?",
+      "choices": [
+        "By requiring more expensive guitars",
+        "By allowing for more personal and emotive performances",
+        "By making all songs sound the same",
+        "By eliminating the need for music theory knowledge"
+      ],
+      "answer": "By allowing for more personal and emotive performances"
+    },
+    {
+      "question": "What is a key advantage of fingerpicking over strumming when it comes to chord voicings?",
+      "choices": [
+        "Fingerpicking always sounds louder",
+        "Strumming allows for more complex chords",
+        "Fingerpicking allows for articulation of individual notes within a chord",
+        "Fingerpicking eliminates the need for chord knowledge"
+      ],
+      "answer": "Fingerpicking allows for articulation of individual notes within a chord"
+    },
+    {
+      "question": "In the context of Timorese guitar playing, how might fingerpicking be incorporated?",
+      "choices": [
+        "It cannot be used in Timorese music",
+        "By applying fingerpicking techniques to traditional Timorese melodies",
+        "By completely replacing traditional playing styles",
+        "Only in modern Timorese pop music"
+      ],
+      "answer": "By applying fingerpicking techniques to traditional Timorese melodies"
+    },
+    {
+      "question": "What is the purpose of practicing fingerpicking patterns on open strings first?",
+      "choices": [
+        "To avoid learning chords",
+        "To focus on right-hand technique without left-hand complications",
+        "Because it sounds better than using chords",
+        "To build calluses on the fingertips"
+      ],
+      "answer": "To focus on right-hand technique without left-hand complications"
+    },
+    {
+      "question": "Which of the following is a correct sequence for a basic fingerpicking pattern?",
+      "choices": [
+        "p, m, i, a",
+        "i, m, a, p",
+        "p, i, m, a",
+        "a, m, i, p"
+      ],
+      "answer": "p, i, m, a"
+    },
+    {
+      "question": "What is the recommended daily practice time for the p, i, m, a fingerpicking pattern in this module?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "30 minutes"
+      ],
+      "answer": "15 minutes"
+    },
+    {
+      "question": "What is the primary goal of the alternating bass exercise in the practice activities?",
+      "choices": [
+        "To learn new chords",
+        "To improve strumming technique",
+        "To practice the alternating bass pattern on A, D, and E chords",
+        "To compose new songs"
+      ],
+      "answer": "To practice the alternating bass pattern on A, D, and E chords"
+    }
+  ]
+}

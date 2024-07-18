@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to the Guitar",
+  "questions": [
+    {
+      "question": "What is the main resonating chamber of the guitar called?",
+      "choices": [
+        "Neck",
+        "Body",
+        "Headstock",
+        "Bridge"
+      ],
+      "answer": "Body"
+    },
+    {
+      "question": "Which part of the guitar contains the fretboard and frets?",
+      "choices": [
+        "Body",
+        "Headstock",
+        "Neck",
+        "Bridge"
+      ],
+      "answer": "Neck"
+    },
+    {
+      "question": "Where are the tuning machines located on a guitar?",
+      "choices": [
+        "Body",
+        "Neck",
+        "Headstock",
+        "Bridge"
+      ],
+      "answer": "Headstock"
+    },
+    {
+      "question": "What is the purpose of frets on a guitar?",
+      "choices": [
+        "To amplify the sound",
+        "To divide the neck into semitone intervals",
+        "To anchor the strings",
+        "To adjust string tension"
+      ],
+      "answer": "To divide the neck into semitone intervals"
+    },
+    {
+      "question": "How many strings does a standard guitar typically have?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6"
+    },
+    {
+      "question": "What is the standard tuning for a guitar from lowest to highest string?",
+      "choices": [
+        "A D G C E A",
+        "E A D G B E",
+        "D G C F A D",
+        "G C F A D G"
+      ],
+      "answer": "E A D G B E"
+    },
+    {
+      "question": "What is the purpose of the bridge on a guitar?",
+      "choices": [
+        "To adjust string tension",
+        "To amplify the sound",
+        "To anchor the strings and transfer vibrations",
+        "To divide the neck into semitone intervals"
+      ],
+      "answer": "To anchor the strings and transfer vibrations"
+    },
+    {
+      "question": "What is the function of the soundhole on an acoustic guitar?",
+      "choices": [
+        "To adjust string tension",
+        "To anchor the strings",
+        "To divide the neck into semitone intervals",
+        "To help project sound outward"
+      ],
+      "answer": "To help project sound outward"
+    },
+    {
+      "question": "When sitting with a guitar, where should the body of the guitar rest for right-handed players?",
+      "choices": [
+        "Left thigh",
+        "Right thigh",
+        "Left shoulder",
+        "Right shoulder"
+      ],
+      "answer": "Right thigh"
+    },
+    {
+      "question": "What is the correct angle for holding the guitar neck when seated?",
+      "choices": [
+        "Parallel to the ground",
+        "At a slight downward angle",
+        "At a slight upward angle",
+        "Perpendicular to the ground"
+      ],
+      "answer": "At a slight upward angle"
+    },
+    {
+      "question": "When standing with a guitar, what accessory is essential for maintaining proper posture?",
+      "choices": [
+        "Capo",
+        "Strap",
+        "Pick",
+        "Tuner"
+      ],
+      "answer": "Strap"
+    },
+    {
+      "question": "Where should the thumb of the fretting hand (typically left hand) be positioned?",
+      "choices": [
+        "On the fretboard",
+        "Behind the neck",
+        "On the body of the guitar",
+        "On the headstock"
+      ],
+      "answer": "Behind the neck"
+    },
+    {
+      "question": "How should the fingers of the fretting hand be positioned when pressing strings?",
+      "choices": [
+        "Flat against the strings",
+        "Using the pads of the fingers",
+        "Using the fingertips",
+        "Resting on top of the strings"
+      ],
+      "answer": "Using the fingertips"
+    },
+    {
+      "question": "Where should the strumming/picking hand typically rest when not playing?",
+      "choices": [
+        "On the neck",
+        "On the strings",
+        "On the body near the bridge",
+        "On the headstock"
+      ],
+      "answer": "On the body near the bridge"
+    },
+    {
+      "question": "What is the proper wrist position for both hands when playing guitar?",
+      "choices": [
+        "Bent sharply",
+        "Twisted to the side",
+        "Straight and relaxed",
+        "Angled upwards"
+      ],
+      "answer": "Straight and relaxed"
+    },
+    {
+      "question": "Which traditional Timorese instrument is mentioned as having similarities to the guitar?",
+      "choices": [
+        "Djembe",
+        "Sitar",
+        "Kakalo'ut",
+        "Didgeridoo"
+      ],
+      "answer": "Kakalo'ut"
+    },
+    {
+      "question": "What is the purpose of the truss rod in a guitar neck?",
+      "choices": [
+        "To amplify sound",
+        "To adjust string height",
+        "To reinforce and stabilize the neck",
+        "To create vibrato effects"
+      ],
+      "answer": "To reinforce and stabilize the neck"
+    },
+    {
+      "question": "Which wood is NOT typically used for guitar bodies?",
+      "choices": [
+        "Spruce",
+        "Mahogany",
+        "Rosewood",
+        "Pine"
+      ],
+      "answer": "Pine"
+    },
+    {
+      "question": "What is the typical shape of a classical guitar's body compared to an acoustic guitar?",
+      "choices": [
+        "Larger and rounder",
+        "Smaller and more angular",
+        "Identical to acoustic",
+        "Square-shaped"
+      ],
+      "answer": "Smaller and more angular"
+    },
+    {
+      "question": "Which part of the guitar is responsible for keeping the strings at the correct height above the fretboard?",
+      "choices": [
+        "Nut",
+        "Bridge",
+        "Tuning pegs",
+        "Truss rod"
+      ],
+      "answer": "Bridge"
+    },
+    {
+      "question": "What is the purpose of a capo?",
+      "choices": [
+        "To tune the strings",
+        "To change the key of the guitar without retuning",
+        "To amplify the sound",
+        "To protect the fretboard"
+      ],
+      "answer": "To change the key of the guitar without retuning"
+    },
+    {
+      "question": "Which finger is typically not used in fingerpicking techniques?",
+      "choices": [
+        "Thumb",
+        "Index",
+        "Middle",
+        "Pinky"
+      ],
+      "answer": "Pinky"
+    },
+    {
+      "question": "What is the name of the thin piece of material used to strum or pluck guitar strings?",
+      "choices": [
+        "Plectrum",
+        "Striker",
+        "Thimble",
+        "Strummer"
+      ],
+      "answer": "Plectrum"
+    },
+    {
+      "question": "Which of these is NOT a common type of acoustic guitar body shape?",
+      "choices": [
+        "Dreadnought",
+        "Concert",
+        "Jumbo",
+        "Telecaster"
+      ],
+      "answer": "Telecaster"
+    },
+    {
+      "question": "What is the purpose of the nut on a guitar?",
+      "choices": [
+        "To secure the strings at the bridge",
+        "To adjust the truss rod",
+        "To space the strings correctly at the top of the fretboard",
+        "To amplify the sound"
+      ],
+      "answer": "To space the strings correctly at the top of the fretboard"
+    },
+    {
+      "question": "Which part of the guitar is most responsible for its overall tone?",
+      "choices": [
+        "Headstock",
+        "Neck",
+        "Body",
+        "Tuning pegs"
+      ],
+      "answer": "Body"
+    },
+    {
+      "question": "What is the recommended position for the elbow of the strumming arm?",
+      "choices": [
+        "Tucked tightly against the body",
+        "Extended far from the body",
+        "Resting on the guitar body",
+        "Slightly away from the body for freedom of movement"
+      ],
+      "answer": "Slightly away from the body for freedom of movement"
+    },
+    {
+      "question": "Which of these is NOT a benefit of proper guitar posture?",
+      "choices": [
+        "Reduced risk of injury",
+        "Improved playing efficiency",
+        "Better sound projection",
+        "Faster string vibration"
+      ],
+      "answer": "Faster string vibration"
+    },
+    {
+      "question": "What is the primary function of the saddle on a guitar?",
+      "choices": [
+        "To secure the strings at the headstock",
+        "To transfer string vibrations to the body",
+        "To adjust the truss rod",
+        "To protect the body from pick scratches"
+      ],
+      "answer": "To transfer string vibrations to the body"
+    },
+    {
+      "question": "Which of these materials is commonly used for guitar picks?",
+      "choices": [
+        "Glass",
+        "Celluloid",
+        "Rubber",
+        "Cotton"
+      ],
+      "answer": "Celluloid"
+    }
+  ]
+}

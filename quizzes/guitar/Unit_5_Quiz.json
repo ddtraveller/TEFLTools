@@ -1,0 +1,305 @@
+{
+  "title": "Rhythm and Timing",
+  "questions": [
+    {
+      "question": "What does a time signature specify?",
+      "choices": [
+        "The key of the song",
+        "The tempo of the music",
+        "The number of beats per measure and the note value of one beat",
+        "The instruments used in the piece"
+      ],
+      "answer": "The number of beats per measure and the note value of one beat"
+    },
+    {
+      "question": "In a time signature, what does the top number represent?",
+      "choices": [
+        "The note value that gets one beat",
+        "The number of measures in the song",
+        "The number of beats per measure",
+        "The tempo of the song"
+      ],
+      "answer": "The number of beats per measure"
+    },
+    {
+      "question": "What is the common name for 4/4 time?",
+      "choices": [
+        "Waltz time",
+        "Common time",
+        "March time",
+        "Compound time"
+      ],
+      "answer": "Common time"
+    },
+    {
+      "question": "How many beats are there in a measure of 3/4 time?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": "3"
+    },
+    {
+      "question": "Which beat is typically emphasized in 3/4 time?",
+      "choices": [
+        "The first beat",
+        "The second beat",
+        "The third beat",
+        "All beats equally"
+      ],
+      "answer": "The first beat"
+    },
+    {
+      "question": "What is the downbeat?",
+      "choices": [
+        "The weakest beat in a measure",
+        "The last beat of a measure",
+        "The first and strongest beat of a measure",
+        "A beat played softly"
+      ],
+      "answer": "The first and strongest beat of a measure"
+    },
+    {
+      "question": "What is syncopation?",
+      "choices": [
+        "Playing all notes with equal emphasis",
+        "Placing emphasis on weak beats or off-beats",
+        "Playing only on the strong beats",
+        "Slowing down the tempo"
+      ],
+      "answer": "Placing emphasis on weak beats or off-beats"
+    },
+    {
+      "question": "Which of these is NOT a common time signature?",
+      "choices": [
+        "4/4",
+        "3/4",
+        "2/4",
+        "5/5"
+      ],
+      "answer": "5/5"
+    },
+    {
+      "question": "What is rubato?",
+      "choices": [
+        "A type of guitar",
+        "A rhythmic pattern",
+        "The slight speeding up or slowing down of tempo for emotional effect",
+        "A time signature"
+      ],
+      "answer": "The slight speeding up or slowing down of tempo for emotional effect"
+    },
+    {
+      "question": "What are polyrhythms?",
+      "choices": [
+        "Simple rhythms played on multiple instruments",
+        "The simultaneous use of two or more conflicting rhythms",
+        "Rhythms that only use one time signature",
+        "Rhythms played at a very fast tempo"
+      ],
+      "answer": "The simultaneous use of two or more conflicting rhythms"
+    },
+    {
+      "question": "In Indian classical music, what are complex rhythmic cycles called?",
+      "choices": [
+        "Ragas",
+        "Talas",
+        "Swaras",
+        "Gharanas"
+      ],
+      "answer": "Talas"
+    },
+    {
+      "question": "What is the purpose of a metronome?",
+      "choices": [
+        "To change the key of a song",
+        "To record music",
+        "To maintain a steady tempo",
+        "To amplify sound"
+      ],
+      "answer": "To maintain a steady tempo"
+    },
+    {
+      "question": "What is the term for the note value that gets one beat in a time signature?",
+      "choices": [
+        "Measure note",
+        "Beat note",
+        "Time note",
+        "Signature note"
+      ],
+      "answer": "Beat note"
+    },
+    {
+      "question": "Which genre of music often uses complex polyrhythms?",
+      "choices": [
+        "Classical Western music",
+        "Simple folk tunes",
+        "African music",
+        "Early rock and roll"
+      ],
+      "answer": "African music"
+    },
+    {
+      "question": "What is swing in music?",
+      "choices": [
+        "A type of dance",
+        "A genre of jazz",
+        "Altering the duration of notes to create a bouncing feel",
+        "Playing all notes exactly as written"
+      ],
+      "answer": "Altering the duration of notes to create a bouncing feel"
+    },
+    {
+      "question": "What is the upbeat in music?",
+      "choices": [
+        "The strongest beat in a measure",
+        "The first beat of a measure",
+        "Any non-accented beat, particularly the last beat before a downbeat",
+        "A beat played very loudly"
+      ],
+      "answer": "Any non-accented beat, particularly the last beat before a downbeat"
+    },
+    {
+      "question": "In 4/4 time, which beats are typically emphasized?",
+      "choices": [
+        "1 and 2",
+        "2 and 4",
+        "1 and 3",
+        "3 and 4"
+      ],
+      "answer": "1 and 3"
+    },
+    {
+      "question": "What is the primary function of rhythm in music?",
+      "choices": [
+        "To create melody",
+        "To establish harmony",
+        "To organize time and create a sense of movement",
+        "To determine the key of a song"
+      ],
+      "answer": "To organize time and create a sense of movement"
+    },
+    {
+      "question": "What does 'keeping time' mean in music?",
+      "choices": [
+        "Writing down the duration of a song",
+        "Maintaining a consistent tempo",
+        "Changing time signatures frequently",
+        "Playing as fast as possible"
+      ],
+      "answer": "Maintaining a consistent tempo"
+    },
+    {
+      "question": "Which of these is NOT a common way to count beats in 4/4 time?",
+      "choices": [
+        "1, 2, 3, 4",
+        "1, and, 2, and, 3, and, 4, and",
+        "1, e, and, a, 2, e, and, a",
+        "1, 2, 3, 4, 5"
+      ],
+      "answer": "1, 2, 3, 4, 5"
+    },
+    {
+      "question": "What is the term for a repeated rhythmic pattern in music?",
+      "choices": [
+        "Tempo",
+        "Meter",
+        "Ostinato",
+        "Rubato"
+      ],
+      "answer": "Ostinato"
+    },
+    {
+      "question": "In musical notation, what does a dot after a note do to its duration?",
+      "choices": [
+        "Shortens it by half",
+        "Doubles it",
+        "Extends it by half its original value",
+        "Makes it staccato"
+      ],
+      "answer": "Extends it by half its original value"
+    },
+    {
+      "question": "What is the purpose of a tie in musical notation?",
+      "choices": [
+        "To indicate a change in tempo",
+        "To connect two notes of the same pitch, adding their durations",
+        "To show a change in dynamics",
+        "To mark the end of a phrase"
+      ],
+      "answer": "To connect two notes of the same pitch, adding their durations"
+    },
+    {
+      "question": "What is the term for a temporary shift from the main meter of a piece?",
+      "choices": [
+        "Syncopation",
+        "Hemiola",
+        "Rubato",
+        "Ostinato"
+      ],
+      "answer": "Hemiola"
+    },
+    {
+      "question": "In 6/8 time, how many beats are typically felt in each measure?",
+      "choices": [
+        "6",
+        "8",
+        "2",
+        "3"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "What is the term for the speed of the underlying beat in music?",
+      "choices": [
+        "Rhythm",
+        "Meter",
+        "Tempo",
+        "Time signature"
+      ],
+      "answer": "Tempo"
+    },
+    {
+      "question": "Which of these time signatures is considered compound time?",
+      "choices": [
+        "4/4",
+        "3/4",
+        "2/4",
+        "6/8"
+      ],
+      "answer": "6/8"
+    },
+    {
+      "question": "What is the main difference between simple and compound time signatures?",
+      "choices": [
+        "The number of beats per measure",
+        "The tempo of the music",
+        "Whether the beat divides into two or three",
+        "The instruments used"
+      ],
+      "answer": "Whether the beat divides into two or three"
+    },
+    {
+      "question": "What is a polyrhythm?",
+      "choices": [
+        "A rhythm that uses only one time signature",
+        "The simultaneous use of two or more rhythms that are not readily perceived as deriving from one another",
+        "A rhythm that changes tempo frequently",
+        "A rhythm that only uses whole notes"
+      ],
+      "answer": "The simultaneous use of two or more rhythms that are not readily perceived as deriving from one another"
+    },
+    {
+      "question": "In music notation, what does 'alla breve' or 'cut time' mean?",
+      "choices": [
+        "Play very slowly",
+        "Play in 3/4 time",
+        "Play in 2/2 time instead of 4/4",
+        "Play without a time signature"
+      ],
+      "answer": "Play in 2/2 time instead of 4/4"
+    }
+  ]
+}

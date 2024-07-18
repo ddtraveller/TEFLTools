@@ -1,0 +1,305 @@
+{
+  "title": "Urban Agriculture and Traditional Ecological Knowledge",
+  "questions": [
+    {
+      "question": "What is the primary advantage of urban agriculture in terms of food security?",
+      "choices": [
+        "Increasing food exports",
+        "Reducing dependence on distant food sources",
+        "Eliminating the need for rural agriculture",
+        "Lowering food prices globally"
+      ],
+      "answer": "Reducing dependence on distant food sources"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese agricultural practice?",
+      "choices": [
+        "Monoculture farming",
+        "Hydroponics",
+        "Shifting cultivation",
+        "Intensive livestock farming"
+      ],
+      "answer": "Shifting cultivation"
+    },
+    {
+      "question": "What is the Timorese term for traditional shifting cultivation?",
+      "choices": [
+        "Lulik",
+        "To'os",
+        "Tara bandu",
+        "Matan-dook"
+      ],
+      "answer": "To'os"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in implementing urban agriculture?",
+      "choices": [
+        "Land access and tenure issues",
+        "Water scarcity",
+        "Soil contamination",
+        "Excess rainfall"
+      ],
+      "answer": "Excess rainfall"
+    },
+    {
+      "question": "What is the term for the traditional Timorese practice of setting prohibitions on natural resource use?",
+      "choices": [
+        "Lulik",
+        "To'os",
+        "Tara bandu",
+        "Matan-dook"
+      ],
+      "answer": "Tara bandu"
+    },
+    {
+      "question": "Which of the following is a benefit of intercropping in urban agriculture?",
+      "choices": [
+        "Increased use of pesticides",
+        "Simplified harvest schedules",
+        "Improved soil fertility",
+        "Reduced crop diversity"
+      ],
+      "answer": "Improved soil fertility"
+    },
+    {
+      "question": "What role do sacred groves play in traditional Timorese land management?",
+      "choices": [
+        "Industrial agriculture sites",
+        "Protected areas with cultural and ecological significance",
+        "Locations for modern urban development",
+        "Areas designated for mining activities"
+      ],
+      "answer": "Protected areas with cultural and ecological significance"
+    },
+    {
+      "question": "Which of the following is a common medicinal plant in Timor-Leste?",
+      "choices": [
+        "Eucalyptus",
+        "Noni",
+        "Ginseng",
+        "Echinacea"
+      ],
+      "answer": "Noni"
+    },
+    {
+      "question": "What is the primary goal of permaculture in urban agriculture?",
+      "choices": [
+        "Maximizing crop yields through intensive farming",
+        "Mimicking natural ecosystems for sustainable food production",
+        "Promoting the use of synthetic fertilizers",
+        "Encouraging monoculture practices"
+      ],
+      "answer": "Mimicking natural ecosystems for sustainable food production"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of urban agriculture in Timor-Leste?",
+      "choices": [
+        "Improved food security",
+        "Cultural preservation",
+        "Environmental sustainability",
+        "Increased fossil fuel consumption"
+      ],
+      "answer": "Increased fossil fuel consumption"
+    },
+    {
+      "question": "What is a potential solution for addressing soil contamination in urban agriculture?",
+      "choices": [
+        "Ignoring the contamination",
+        "Using raised beds or container gardening",
+        "Increasing the use of chemical fertilizers",
+        "Paving over contaminated areas"
+      ],
+      "answer": "Using raised beds or container gardening"
+    },
+    {
+      "question": "Which of the following is a strategy for small-scale urban food production?",
+      "choices": [
+        "Large-scale mechanized farming",
+        "Rooftop gardens",
+        "Extensive cattle ranching",
+        "Offshore aquaculture"
+      ],
+      "answer": "Rooftop gardens"
+    },
+    {
+      "question": "What is the term for traditional healers in Timorese culture?",
+      "choices": [
+        "Lulik",
+        "To'os",
+        "Tara bandu",
+        "Matan-dook"
+      ],
+      "answer": "Matan-dook"
+    },
+    {
+      "question": "Which of the following is a common crop combination in Timorese intercropping?",
+      "choices": [
+        "Wheat and barley",
+        "Rice and soybeans",
+        "Maize, beans, and squash",
+        "Cotton and peanuts"
+      ],
+      "answer": "Maize, beans, and squash"
+    },
+    {
+      "question": "What is a potential environmental benefit of urban agriculture?",
+      "choices": [
+        "Increasing the urban heat island effect",
+        "Reducing air quality",
+        "Decreasing biodiversity",
+        "Improving urban water management"
+      ],
+      "answer": "Improving urban water management"
+    },
+    {
+      "question": "Which of the following is a challenge in adapting shifting cultivation to urban contexts?",
+      "choices": [
+        "Excess land availability",
+        "Limited space for fallow periods",
+        "Overabundance of water resources",
+        "Lack of suitable crops"
+      ],
+      "answer": "Limited space for fallow periods"
+    },
+    {
+      "question": "What is a potential cultural benefit of urban agriculture in Timor-Leste?",
+      "choices": [
+        "Abandonment of traditional practices",
+        "Increased reliance on imported foods",
+        "Strengthening community bonds through shared gardening practices",
+        "Promotion of Western agricultural methods"
+      ],
+      "answer": "Strengthening community bonds through shared gardening practices"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of traditional Timorese intercropping?",
+      "choices": [
+        "Maize",
+        "Beans",
+        "Squash",
+        "Rice"
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question": "What is a potential solution for water scarcity in urban agriculture projects?",
+      "choices": [
+        "Increasing water consumption",
+        "Rainwater harvesting",
+        "Draining local water bodies",
+        "Importing water from other regions"
+      ],
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "Which of the following is a way to integrate cultural elements in urban garden design?",
+      "choices": [
+        "Removing all native plants",
+        "Using only modern materials",
+        "Incorporating sacred plants and spaces",
+        "Prohibiting community gatherings"
+      ],
+      "answer": "Incorporating sacred plants and spaces"
+    },
+    {
+      "question": "What is the typical cultivation cycle in Timorese shifting cultivation?",
+      "choices": [
+        "1 year cultivation, 10 years fallow",
+        "2-3 years cultivation, 4-7 years fallow",
+        "5 years cultivation, 2 years fallow",
+        "Continuous cultivation with no fallow period"
+      ],
+      "answer": "2-3 years cultivation, 4-7 years fallow"
+    },
+    {
+      "question": "Which of the following is NOT a common crop in traditional Timorese agriculture?",
+      "choices": [
+        "Maize",
+        "Cassava",
+        "Wheat",
+        "Sweet potatoes"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What is a potential benefit of incorporating traditional ecological knowledge in urban agriculture?",
+      "choices": [
+        "Increased use of synthetic pesticides",
+        "Reduced crop diversity",
+        "Enhanced resilience to environmental stresses",
+        "Elimination of traditional farming practices"
+      ],
+      "answer": "Enhanced resilience to environmental stresses"
+    },
+    {
+      "question": "Which of the following is a policy challenge for urban agriculture in Timor-Leste?",
+      "choices": [
+        "Excessive support from urban planners",
+        "Lack of zoning restrictions",
+        "Overabundance of available land",
+        "Need for supportive urban planning policies"
+      ],
+      "answer": "Need for supportive urban planning policies"
+    },
+    {
+      "question": "What is the primary purpose of sacred groves in Timorese culture?",
+      "choices": [
+        "Industrial development",
+        "Commercial agriculture",
+        "Cultural and ecological preservation",
+        "Urban expansion"
+      ],
+      "answer": "Cultural and ecological preservation"
+    },
+    {
+      "question": "Which of the following is a strategy for addressing land access issues in urban agriculture?",
+      "choices": [
+        "Ignoring land rights",
+        "Promoting large-scale land acquisition",
+        "Developing community allotments and shared gardens",
+        "Encouraging urban sprawl"
+      ],
+      "answer": "Developing community allotments and shared gardens"
+    },
+    {
+      "question": "What role can elders play in urban agriculture projects in Timor-Leste?",
+      "choices": [
+        "Discouraging youth participation",
+        "Promoting modern farming techniques exclusively",
+        "Sharing traditional agricultural knowledge",
+        "Advocating for the abandonment of traditional practices"
+      ],
+      "answer": "Sharing traditional agricultural knowledge"
+    },
+    {
+      "question": "Which of the following is a potential economic benefit of urban agriculture?",
+      "choices": [
+        "Increased unemployment",
+        "Reduced local food production",
+        "Creation of new job opportunities",
+        "Higher food import costs"
+      ],
+      "answer": "Creation of new job opportunities"
+    },
+    {
+      "question": "What is a key principle of permaculture that aligns with traditional Timorese agriculture?",
+      "choices": [
+        "Maximizing the use of synthetic inputs",
+        "Promoting monoculture practices",
+        "Mimicking natural ecosystems",
+        "Encouraging soil degradation"
+      ],
+      "answer": "Mimicking natural ecosystems"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit of intercropping?",
+      "choices": [
+        "Improved soil fertility",
+        "Natural pest control",
+        "Increased water consumption",
+        "Maximized land use"
+      ],
+      "answer": "Increased water consumption"
+    }
+  ]
+}

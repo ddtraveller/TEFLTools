@@ -27,8 +27,8 @@ For practical application:
 
 ## Kursu Prinsipal sira / Key Courses
 
-Repo ida-ne'e iha kursu individuál 95 resin no arkivu 4600+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / 
-This repo contains over 95 individual courses and 4600+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
+Repo ida-ne'e iha kursu individuál 100 resin no arkivu 5000+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / 
+This repo contains over 100 individual courses and 5000+ files with course information that is regionalized for Timor Leste and with a focus on female empowerment.
 
 Kursu hotu-hotu rejionalizadu ba Timor-Leste no inkluzivu ba matenek lokál aliña ho peskiza modernu no prátika di'ak sira, kria esperiénsia aprendizajen úniku ida-ne'ebé respeita kultura lokál no introdús abilidade foun sira.
 
@@ -191,6 +191,10 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
     
 51. **Komprehensivu Apoiu no Resposta Emerjensia iha Timor-Leste / Comprehensive First Aid and Emergency Response in Timor-Leste**
     - This course provides comprehensive training in first aid and emergency response techniques, tailored for the context of Timor-Leste. Students will learn essential skills to assess and respond to various medical emergencies, with a focus on conditions and scenarios relevant to Timor-Leste's environment and healthcare landscape. The course combines theoretical knowledge with practical skills, emphasizing both conventional and alternative approaches to first aid. Upon completion, students will be equipped to provide immediate care in emergency situations, promote community health, and contribute to disaster preparedness efforts in Timor-Leste.
+    
+52. **Konesimentu Indigenu no Dezenvolvimentu Urbanu Sustentavel iha Timor-Leste / Indigenous Knowledge and Sustainable Urban Design in Timor-Leste**
+    - This course explores the integration of Indigenous Timorese knowledge, cultural values, and intergenerational perspectives into sustainable urban design and planning in Timor-Leste. Students will examine innovative approaches to creating culturally-appropriate housing, public spaces, and community developments for Indigenous populations in urban areas of Timor-Leste. The course highlights the importance of engaging Indigenous elders and incorporating traditional ecological knowledge to create more equitable, sustainable, and culturally-rich urban environments in the Timorese context.
+
 
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
@@ -568,6 +572,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - green_playgrounds
 - green_tara
 - guide_to_teaching_english
+- guitar
 - html_css
 - indigenous_religion
 - krshna

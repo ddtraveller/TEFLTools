@@ -1,0 +1,305 @@
+{
+  "title": "Reading Chord Charts and Tablature",
+  "questions": [
+    {
+      "question": "What do vertical lines represent in a chord chart?",
+      "choices": [
+        "Frets",
+        "Strings",
+        "Fingers",
+        "Measures"
+      ],
+      "answer": "Strings"
+    },
+    {
+      "question": "In tablature, what do the six horizontal lines represent?",
+      "choices": [
+        "Frets",
+        "Measures",
+        "Guitar strings",
+        "Finger positions"
+      ],
+      "answer": "Guitar strings"
+    },
+    {
+      "question": "What does an 'X' above a string in a chord chart indicate?",
+      "choices": [
+        "Play the open string",
+        "Use your index finger",
+        "Don't play that string",
+        "Bend the string"
+      ],
+      "answer": "Don't play that string"
+    },
+    {
+      "question": "What does a '0' in tablature represent?",
+      "choices": [
+        "First fret",
+        "Open string",
+        "Don't play the string",
+        "Use your thumb"
+      ],
+      "answer": "Open string"
+    },
+    {
+      "question": "Which finger is typically represented by the number 1 in chord charts?",
+      "choices": [
+        "Thumb",
+        "Index finger",
+        "Middle finger",
+        "Ring finger"
+      ],
+      "answer": "Index finger"
+    },
+    {
+      "question": "What does a thick horizontal line across multiple strings in a chord chart typically indicate?",
+      "choices": [
+        "Open strings",
+        "Muted strings",
+        "A barre chord",
+        "Hammer-on"
+      ],
+      "answer": "A barre chord"
+    },
+    {
+      "question": "In tablature, which string is represented by the top line?",
+      "choices": [
+        "Low E string",
+        "A string",
+        "G string",
+        "High E string"
+      ],
+      "answer": "High E string"
+    },
+    {
+      "question": "What information is typically NOT provided by chord charts?",
+      "choices": [
+        "Finger placement",
+        "String numbers",
+        "Fret numbers",
+        "Rhythm and duration"
+      ],
+      "answer": "Rhythm and duration"
+    },
+    {
+      "question": "What does 'h' commonly represent in tablature?",
+      "choices": [
+        "Harmonic",
+        "Hammer-on",
+        "Hold",
+        "High note"
+      ],
+      "answer": "Hammer-on"
+    },
+    {
+      "question": "How are open strings typically indicated in chord charts?",
+      "choices": [
+        "With an X",
+        "With a 0",
+        "With a circle",
+        "With a dash"
+      ],
+      "answer": "With a circle"
+    },
+    {
+      "question": "What is a key advantage of tablature over standard notation for guitarists?",
+      "choices": [
+        "It shows exact pitches",
+        "It indicates finger placement directly",
+        "It provides more rhythmic information",
+        "It's more compact"
+      ],
+      "answer": "It indicates finger placement directly"
+    },
+    {
+      "question": "Which of the following is NOT typically shown in basic tablature?",
+      "choices": [
+        "Fret numbers",
+        "String numbers",
+        "Time signatures",
+        "Open strings"
+      ],
+      "answer": "Time signatures"
+    },
+    {
+      "question": "What does a curved line across some strings in a chord chart usually indicate?",
+      "choices": [
+        "A slide",
+        "A half barre",
+        "A bend",
+        "A hammer-on"
+      ],
+      "answer": "A half barre"
+    },
+    {
+      "question": "In tablature, how are simultaneously played notes typically represented?",
+      "choices": [
+        "With brackets",
+        "With slashes",
+        "Stacked vertically",
+        "With asterisks"
+      ],
+      "answer": "Stacked vertically"
+    },
+    {
+      "question": "What does 'p' commonly represent in tablature?",
+      "choices": [
+        "Play",
+        "Pause",
+        "Pull-off",
+        "Pinch harmonic"
+      ],
+      "answer": "Pull-off"
+    },
+    {
+      "question": "How are muted strings typically indicated in chord charts?",
+      "choices": [
+        "With a circle",
+        "With an X",
+        "With a 0",
+        "With a dash"
+      ],
+      "answer": "With an X"
+    },
+    {
+      "question": "What is a limitation of tablature compared to standard notation?",
+      "choices": [
+        "It doesn't show which strings to play",
+        "It can't represent complex chords",
+        "It often lacks precise rhythmic notation",
+        "It's more difficult to read"
+      ],
+      "answer": "It often lacks precise rhythmic notation"
+    },
+    {
+      "question": "Which string is typically represented by the bottom line in tablature?",
+      "choices": [
+        "High E string",
+        "B string",
+        "A string",
+        "Low E string"
+      ],
+      "answer": "Low E string"
+    },
+    {
+      "question": "What does a forward slash (/) typically represent in tablature?",
+      "choices": [
+        "Slide up",
+        "Slide down",
+        "Bend",
+        "Vibrato"
+      ],
+      "answer": "Slide up"
+    },
+    {
+      "question": "How are optional notes typically shown in chord charts?",
+      "choices": [
+        "In bold",
+        "In italics",
+        "In parentheses",
+        "With an asterisk"
+      ],
+      "answer": "In parentheses"
+    },
+    {
+      "question": "What is the main purpose of chord charts?",
+      "choices": [
+        "To show melodies",
+        "To indicate rhythm",
+        "To represent chord structures",
+        "To display scales"
+      ],
+      "answer": "To represent chord structures"
+    },
+    {
+      "question": "In a standard guitar tuning, which string is represented by the second line from the top in tablature?",
+      "choices": [
+        "E string",
+        "B string",
+        "G string",
+        "D string"
+      ],
+      "answer": "B string"
+    },
+    {
+      "question": "What does a backslash (\\) typically represent in tablature?",
+      "choices": [
+        "Slide up",
+        "Slide down",
+        "Bend",
+        "Release bend"
+      ],
+      "answer": "Slide down"
+    },
+    {
+      "question": "How are fret numbers typically represented in chord charts?",
+      "choices": [
+        "Roman numerals",
+        "Letters",
+        "Arabic numerals",
+        "Symbols"
+      ],
+      "answer": "Arabic numerals"
+    },
+    {
+      "question": "What is a key advantage of chord charts over standard notation for beginners?",
+      "choices": [
+        "They show exact timing",
+        "They indicate dynamics",
+        "They provide a visual guide for finger placement",
+        "They show note names"
+      ],
+      "answer": "They provide a visual guide for finger placement"
+    },
+    {
+      "question": "In tablature, how is a bend typically indicated?",
+      "choices": [
+        "b",
+        "^",
+        "~",
+        "/"
+      ],
+      "answer": "b"
+    },
+    {
+      "question": "What does the letter 'T' often represent when placed above tablature?",
+      "choices": [
+        "Trill",
+        "Tap",
+        "Tremolo",
+        "Tie"
+      ],
+      "answer": "Tap"
+    },
+    {
+      "question": "How are string numbers typically ordered in chord charts and tablature?",
+      "choices": [
+        "Thickest to thinnest",
+        "Thinnest to thickest",
+        "Alphabetically",
+        "Randomly"
+      ],
+      "answer": "Thinnest to thickest"
+    },
+    {
+      "question": "What is a common way to indicate a slide in tablature?",
+      "choices": [
+        "Curved line between notes",
+        "Straight line between notes",
+        "Dotted line between notes",
+        "Wavy line between notes"
+      ],
+      "answer": "Straight line between notes"
+    },
+    {
+      "question": "In chord charts, what do horizontal lines typically represent?",
+      "choices": [
+        "Strings",
+        "Measures",
+        "Frets",
+        "Fingers"
+      ],
+      "answer": "Frets"
+    }
+  ]
+}

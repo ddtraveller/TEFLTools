@@ -1,0 +1,305 @@
+{
+  "title": "Timorese Cultural Values and Urban Planning",
+  "questions": [
+    {
+      "question": "What is the central structure in traditional Timorese communities that serves as the spiritual and social center?",
+      "choices": [
+        "Knua",
+        "Uma lulik",
+        "Lisan",
+        "Tara bandu"
+      ],
+      "answer": "Uma lulik"
+    },
+    {
+      "question": "Which Timorese concept refers to clan-based hamlets or traditional settlements?",
+      "choices": [
+        "Uma kain",
+        "Rai na'in",
+        "Knua",
+        "Lia nain"
+      ],
+      "answer": "Knua"
+    },
+    {
+      "question": "What is the term for customary law in Timorese society?",
+      "choices": [
+        "Tara bandu",
+        "Lisan",
+        "Uma lulik",
+        "Rai na'in"
+      ],
+      "answer": "Lisan"
+    },
+    {
+      "question": "Who are considered the spiritual land owners or custodians in Timorese tradition?",
+      "choices": [
+        "Lia nain",
+        "Uma kain",
+        "Knua",
+        "Rai na'in"
+      ],
+      "answer": "Rai na'in"
+    },
+    {
+      "question": "What is the traditional Timorese ritual for environmental protection and resource management?",
+      "choices": [
+        "Tara bandu",
+        "Lisan",
+        "Uma lulik",
+        "Knua"
+      ],
+      "answer": "Tara bandu"
+    },
+    {
+      "question": "Which term refers to the extended family networks in Timorese society?",
+      "choices": [
+        "Lia nain",
+        "Uma kain",
+        "Knua",
+        "Rai na'in"
+      ],
+      "answer": "Uma kain"
+    },
+    {
+      "question": "What is the role of lia nain in Timorese communities?",
+      "choices": [
+        "Spiritual land custodians",
+        "Extended family members",
+        "Traditional leaders",
+        "Sacred house builders"
+      ],
+      "answer": "Traditional leaders"
+    },
+    {
+      "question": "In traditional Timorese settlements, what is typically at the center of spatial organization?",
+      "choices": [
+        "Market place",
+        "Chief's house",
+        "Uma lulik",
+        "Agricultural fields"
+      ],
+      "answer": "Uma lulik"
+    },
+    {
+      "question": "Which concept in Timorese culture distinguishes between sacred and profane spaces?",
+      "choices": [
+        "Knua and Uma kain",
+        "Lisan and Tara bandu",
+        "Rai na'in and Lia nain",
+        "Lulik and Sau"
+      ],
+      "answer": "Lulik and Sau"
+    },
+    {
+      "question": "What is a key challenge in integrating cultural values into urban planning in Timor-Leste?",
+      "choices": [
+        "Lack of cultural diversity",
+        "Absence of traditional structures",
+        "Rapid pace of urbanization conflicting with traditional decision-making",
+        "Unwillingness of elders to participate"
+      ],
+      "answer": "Rapid pace of urbanization conflicting with traditional decision-making"
+    },
+    {
+      "question": "Which element of the uma lulik is believed to connect the earthly realm to the spiritual world?",
+      "choices": [
+        "The roof",
+        "The central post (kakuluk)",
+        "The elevated floor",
+        "The entrance"
+      ],
+      "answer": "The central post (kakuluk)"
+    },
+    {
+      "question": "What is the typical orientation of a traditional uma lulik?",
+      "choices": [
+        "North-South",
+        "East-West",
+        "Northeast-Southwest",
+        "Northwest-Southeast"
+      ],
+      "answer": "East-West"
+    },
+    {
+      "question": "How can the concept of knua inform urban planning in Timor-Leste?",
+      "choices": [
+        "By creating high-rise apartment buildings",
+        "By designing neighborhoods that foster strong community bonds",
+        "By eliminating all traditional elements from city design",
+        "By separating residential areas from commercial zones"
+      ],
+      "answer": "By designing neighborhoods that foster strong community bonds"
+    },
+    {
+      "question": "What role can lisan play in urban governance structures?",
+      "choices": [
+        "Replace all modern legal systems",
+        "Be completely ignored in urban areas",
+        "Inform mechanisms for community consultation and dispute resolution",
+        "Only apply to rural areas"
+      ],
+      "answer": "Inform mechanisms for community consultation and dispute resolution"
+    },
+    {
+      "question": "How might the concept of rai na'in be incorporated into urban land use planning?",
+      "choices": [
+        "By ignoring all traditional land claims",
+        "By consulting spiritual leaders on matters of urban expansion",
+        "By prohibiting all new construction",
+        "By only allowing foreign ownership of land"
+      ],
+      "answer": "By consulting spiritual leaders on matters of urban expansion"
+    },
+    {
+      "question": "What is an example of how tara bandu principles could be applied in urban settings?",
+      "choices": [
+        "Banning all traditional practices",
+        "Developing community-led environmental initiatives",
+        "Encouraging unrestricted resource exploitation",
+        "Removing all green spaces from cities"
+      ],
+      "answer": "Developing community-led environmental initiatives"
+    },
+    {
+      "question": "In the development of the Tasi Tolu area near Dili, what was a key consideration?",
+      "choices": [
+        "Ignoring all local input",
+        "Maximizing profit without regard for tradition",
+        "Respecting sacred sites and traditional land use patterns",
+        "Building only modern, Western-style structures"
+      ],
+      "answer": "Respecting sacred sites and traditional land use patterns"
+    },
+    {
+      "question": "What is a challenge in applying Timorese cultural values to urban planning across the country?",
+      "choices": [
+        "Lack of any cultural traditions",
+        "Uniformity of customs across all regions",
+        "Diversity of cultural traditions across different regions",
+        "Universal agreement on all urban design principles"
+      ],
+      "answer": "Diversity of cultural traditions across different regions"
+    },
+    {
+      "question": "What innovative approach are urban planners in Timor-Leste using to bridge traditional and modern practices?",
+      "choices": [
+        "Completely abandoning all modern urban planning techniques",
+        "Ignoring all traditional input",
+        "Using cultural mapping techniques to identify significant heritage sites",
+        "Building cities identical to Western models"
+      ],
+      "answer": "Using cultural mapping techniques to identify significant heritage sites"
+    },
+    {
+      "question": "How can the uma lulik concept inspire modern urban design?",
+      "choices": [
+        "By building sacred houses in every city block",
+        "By creating community centers that serve as focal points for cultural practices",
+        "By prohibiting all modern architecture",
+        "By isolating communities from each other"
+      ],
+      "answer": "By creating community centers that serve as focal points for cultural practices"
+    },
+    {
+      "question": "What is the significance of the elevated floor in traditional uma lulik design?",
+      "choices": [
+        "It provides storage space",
+        "It separates the sacred space from the profane ground",
+        "It allows for better ventilation",
+        "It is purely decorative"
+      ],
+      "answer": "It separates the sacred space from the profane ground"
+    },
+    {
+      "question": "How does the knua model reflect Timorese social structure?",
+      "choices": [
+        "It ignores all social hierarchies",
+        "It promotes individual isolation",
+        "It reflects social hierarchy and kinship structures",
+        "It encourages competition between families"
+      ],
+      "answer": "It reflects social hierarchy and kinship structures"
+    },
+    {
+      "question": "What aspect of lisan could be particularly relevant to urban resource management?",
+      "choices": [
+        "Its focus on individual ownership",
+        "Its disregard for environmental concerns",
+        "Its mechanisms for conflict resolution",
+        "Its promotion of rapid, uncontrolled development"
+      ],
+      "answer": "Its mechanisms for conflict resolution"
+    },
+    {
+      "question": "How might acknowledging rai na'in affect urban expansion projects?",
+      "choices": [
+        "It would have no effect on planning",
+        "It would lead to more culturally sensitive approaches to land use",
+        "It would prohibit all urban expansion",
+        "It would only allow foreign developers to build"
+      ],
+      "answer": "It would lead to more culturally sensitive approaches to land use"
+    },
+    {
+      "question": "What is a potential urban application of tara bandu principles?",
+      "choices": [
+        "Unrestricted logging in city parks",
+        "Banning all traditional practices in cities",
+        "Developing sustainable waste management programs",
+        "Encouraging unlimited water consumption"
+      ],
+      "answer": "Developing sustainable waste management programs"
+    },
+    {
+      "question": "In Dili's urban development, how have traditional elements been incorporated?",
+      "choices": [
+        "By demolishing all old buildings",
+        "By banning traditional architecture",
+        "By incorporating traditional architectural elements into public buildings",
+        "By creating exact replicas of rural villages"
+      ],
+      "answer": "By incorporating traditional architectural elements into public buildings"
+    },
+    {
+      "question": "What is a key consideration when adapting knua concepts to urban density?",
+      "choices": [
+        "Completely abandoning the concept in cities",
+        "Building exact replicas of rural knua in urban areas",
+        "Balancing traditional spatial organization with urban space constraints",
+        "Ignoring all modern urban planning principles"
+      ],
+      "answer": "Balancing traditional spatial organization with urban space constraints"
+    },
+    {
+      "question": "How can participatory planning processes incorporate Timorese cultural values?",
+      "choices": [
+        "By excluding all community members from the process",
+        "By only consulting with foreign experts",
+        "By engaging elders and community leaders in the planning process",
+        "By ignoring all traditional input"
+      ],
+      "answer": "By engaging elders and community leaders in the planning process"
+    },
+    {
+      "question": "What role can cultural mapping play in urban planning in Timor-Leste?",
+      "choices": [
+        "It can help identify significant heritage sites within urban areas",
+        "It is used to erase all cultural landmarks",
+        "It only focuses on modern developments",
+        "It is irrelevant to urban planning"
+      ],
+      "answer": "It can help identify significant heritage sites within urban areas"
+    },
+    {
+      "question": "How might traditional Timorese concepts of gender-specific spaces be reinterpreted in modern urban design?",
+      "choices": [
+        "By creating strict gender segregation in all public spaces",
+        "By ignoring gender considerations entirely",
+        "By designing flexible spaces that can accommodate both traditional and modern gender roles",
+        "By banning all gender-specific spaces"
+      ],
+      "answer": "By designing flexible spaces that can accommodate both traditional and modern gender roles"
+    }
+  ]
+}

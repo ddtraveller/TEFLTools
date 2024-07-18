@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Indigenous Knowledge and Sustainable Urban Design",
+  "questions": [
+    {
+      "question": "What is Indigenous knowledge?",
+      "choices": [
+        "Modern scientific research",
+        "Traditional knowledge, practices, and beliefs of Indigenous peoples",
+        "Urban planning techniques",
+        "Architectural design principles"
+      ],
+      "answer": "Traditional knowledge, practices, and beliefs of Indigenous peoples"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of sustainable urban design?",
+      "choices": [
+        "Energy efficiency",
+        "Water conservation",
+        "Maximizing urban sprawl",
+        "Preservation of cultural heritage"
+      ],
+      "answer": "Maximizing urban sprawl"
+    },
+    {
+      "question": "When was Dili established as the administrative center of Timor-Leste?",
+      "choices": [
+        "1515",
+        "1769",
+        "1975",
+        "2002"
+      ],
+      "answer": "1769"
+    },
+    {
+      "question": "What is Uma Lulik?",
+      "choices": [
+        "A traditional Timorese dish",
+        "A sacred house in Timorese culture",
+        "A type of sustainable building material",
+        "A government building in Dili"
+      ],
+      "answer": "A sacred house in Timorese culture"
+    },
+    {
+      "question": "Which period saw rapid urbanization and population displacement in Timor-Leste?",
+      "choices": [
+        "Portuguese Colonial Period",
+        "Indonesian Occupation",
+        "Post-Independence",
+        "Pre-colonial Period"
+      ],
+      "answer": "Indonesian Occupation"
+    },
+    {
+      "question": "What is a challenge in Timorese urban contexts?",
+      "choices": [
+        "Excess urban planning capacity",
+        "Slow population growth",
+        "Limited urban planning capacity",
+        "Abundance of formal settlements"
+      ],
+      "answer": "Limited urban planning capacity"
+    },
+    {
+      "question": "How can Indigenous knowledge contribute to sustainable urban design?",
+      "choices": [
+        "By promoting rapid industrialization",
+        "By ignoring local environmental conditions",
+        "By incorporating traditional ecological knowledge into urban planning",
+        "By focusing solely on modern technology"
+      ],
+      "answer": "By incorporating traditional ecological knowledge into urban planning"
+    },
+    {
+      "question": "What is an opportunity in Timorese urban contexts?",
+      "choices": [
+        "Ignoring cultural heritage",
+        "Developing culturally appropriate housing solutions",
+        "Promoting car-dependent cities",
+        "Centralizing decision-making processes"
+      ],
+      "answer": "Developing culturally appropriate housing solutions"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese building material?",
+      "choices": [
+        "Concrete",
+        "Steel",
+        "Bamboo",
+        "Plastic"
+      ],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "What is the significance of integrating Indigenous cultural sites in urban areas?",
+      "choices": [
+        "It reduces urban development potential",
+        "It preserves cultural heritage and identity",
+        "It decreases tourism opportunities",
+        "It simplifies urban planning processes"
+      ],
+      "answer": "It preserves cultural heritage and identity"
+    },
+    {
+      "question": "Which period marks the beginning of Timor-Leste's independence and reconstruction efforts?",
+      "choices": [
+        "1975",
+        "1999",
+        "2002",
+        "2011"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What is a key challenge in preserving Uma Lulik in urban areas?",
+      "choices": [
+        "Lack of cultural significance",
+        "Excess land availability",
+        "Land pressure and changing social dynamics",
+        "Overabundance of traditional materials"
+      ],
+      "answer": "Land pressure and changing social dynamics"
+    },
+    {
+      "question": "How can urban agriculture be integrated into Timorese cities?",
+      "choices": [
+        "By replacing all parks with farms",
+        "By ignoring traditional ecological knowledge",
+        "By respecting traditional ecological knowledge and practices",
+        "By importing foreign agricultural techniques"
+      ],
+      "answer": "By respecting traditional ecological knowledge and practices"
+    },
+    {
+      "question": "What role should elders play in urban development decisions in Timor-Leste?",
+      "choices": [
+        "No role at all",
+        "Provide input on traditional knowledge and cultural values",
+        "Make all decisions independently",
+        "Focus only on modern development techniques"
+      ],
+      "answer": "Provide input on traditional knowledge and cultural values"
+    },
+    {
+      "question": "Which of the following is NOT a feature of sustainable urban design?",
+      "choices": [
+        "Energy efficiency",
+        "Water conservation",
+        "Unlimited resource consumption",
+        "Green spaces and biodiversity"
+      ],
+      "answer": "Unlimited resource consumption"
+    },
+    {
+      "question": "What is the primary goal of incorporating Indigenous knowledge into urban planning?",
+      "choices": [
+        "To slow down urban development",
+        "To create more culturally responsive and sustainable cities",
+        "To eliminate modern technology",
+        "To reduce urban population growth"
+      ],
+      "answer": "To create more culturally responsive and sustainable cities"
+    },
+    {
+      "question": "Which period in Timorese history saw the introduction of European architectural styles?",
+      "choices": [
+        "Pre-colonial Period",
+        "Portuguese Colonial Period",
+        "Indonesian Occupation",
+        "Post-Independence"
+      ],
+      "answer": "Portuguese Colonial Period"
+    },
+    {
+      "question": "What is a key principle of sustainable urban design?",
+      "choices": [
+        "Maximizing energy consumption",
+        "Ignoring cultural heritage",
+        "Social equity and inclusivity",
+        "Promoting individual car ownership"
+      ],
+      "answer": "Social equity and inclusivity"
+    },
+    {
+      "question": "How can traditional Timorese building techniques contribute to sustainable urban design?",
+      "choices": [
+        "By increasing reliance on imported materials",
+        "By ignoring local climate conditions",
+        "By using locally sourced, sustainable materials",
+        "By promoting energy-intensive construction methods"
+      ],
+      "answer": "By using locally sourced, sustainable materials"
+    },
+    {
+      "question": "What is a challenge in preserving cultural heritage sites in rapidly developing urban areas of Timor-Leste?",
+      "choices": [
+        "Excess funding for preservation",
+        "Lack of urban growth",
+        "Balancing development needs with preservation",
+        "Overabundance of preservation experts"
+      ],
+      "answer": "Balancing development needs with preservation"
+    },
+    {
+      "question": "Which of the following is an example of incorporating Indigenous knowledge into urban design?",
+      "choices": [
+        "Replacing all traditional buildings with modern structures",
+        "Ignoring local environmental conditions",
+        "Designing public spaces that reflect Timorese identity",
+        "Promoting car-centric urban planning"
+      ],
+      "answer": "Designing public spaces that reflect Timorese identity"
+    },
+    {
+      "question": "What is a potential conflict between Indigenous land management practices and modern urban development needs in Timor-Leste?",
+      "choices": [
+        "Indigenous practices promote urban sprawl",
+        "Traditional land use may clash with high-density development",
+        "Indigenous practices increase pollution",
+        "Traditional methods require more energy consumption"
+      ],
+      "answer": "Traditional land use may clash with high-density development"
+    },
+    {
+      "question": "How can urban planners ensure that development in Timor-Leste is more equitable and inclusive of Indigenous communities?",
+      "choices": [
+        "By excluding Indigenous communities from the planning process",
+        "By focusing solely on modern development techniques",
+        "By engaging Indigenous communities in participatory planning processes",
+        "By ignoring traditional knowledge and practices"
+      ],
+      "answer": "By engaging Indigenous communities in participatory planning processes"
+    },
+    {
+      "question": "What is the significance of the 1999 period in Timorese urban history?",
+      "choices": [
+        "The establishment of Dili as the capital",
+        "The beginning of Portuguese colonization",
+        "Destruction following the independence referendum",
+        "The start of rapid economic growth"
+      ],
+      "answer": "Destruction following the independence referendum"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese construction technique?",
+      "choices": [
+        "Steel frame construction",
+        "Concrete slab foundations",
+        "Post-and-beam framing",
+        "Glass curtain walls"
+      ],
+      "answer": "Post-and-beam framing"
+    },
+    {
+      "question": "What role can Indigenous knowledge play in addressing climate change vulnerability in Timorese cities?",
+      "choices": [
+        "It has no relevance to climate change issues",
+        "It can provide insights into local climate patterns and adaptation strategies",
+        "It promotes increased carbon emissions",
+        "It focuses only on traditional religious practices"
+      ],
+      "answer": "It can provide insights into local climate patterns and adaptation strategies"
+    },
+    {
+      "question": "How can urban design in Timor-Leste promote social cohesion?",
+      "choices": [
+        "By segregating different communities",
+        "By ignoring traditional social structures",
+        "By creating public spaces that accommodate traditional gatherings and ceremonies",
+        "By promoting individual-focused development"
+      ],
+      "answer": "By creating public spaces that accommodate traditional gatherings and ceremonies"
+    },
+    {
+      "question": "What is a key consideration when integrating Indigenous knowledge into modern urban planning in Timor-Leste?",
+      "choices": [
+        "Completely replacing modern techniques with traditional methods",
+        "Ignoring technological advancements",
+        "Balancing traditional wisdom with contemporary urban needs",
+        "Focusing solely on economic development"
+      ],
+      "answer": "Balancing traditional wisdom with contemporary urban needs"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of traditional Timorese settlements?",
+      "choices": [
+        "Dispersed hamlets in mountainous regions",
+        "Coastal trading settlements",
+        "High-rise apartment buildings",
+        "Settlements centered around Uma Lulik"
+      ],
+      "answer": "High-rise apartment buildings"
+    },
+    {
+      "question": "How can Indigenous knowledge inform sustainable water management in Timorese cities?",
+      "choices": [
+        "By promoting water waste",
+        "By ignoring local water sources",
+        "By incorporating traditional water conservation techniques",
+        "By increasing reliance on imported water"
+      ],
+      "answer": "By incorporating traditional water conservation techniques"
+    }
+  ]
+}
