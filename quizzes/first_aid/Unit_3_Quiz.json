@@ -1,0 +1,305 @@
+{
+  "title": "Basic Life Support and CPR",
+  "questions": [
+    {
+      "question": "What is the correct order for the CAB approach in CPR?",
+      "choices": [
+        "Compressions, Airway, Breathing",
+        "Circulation, Airway, Breathing",
+        "Chest, Airway, Breath",
+        "Cardio, Airway, Blood"
+      ],
+      "answer": "Compressions, Airway, Breathing"
+    },
+    {
+      "question": "What is the recommended compression rate for adult CPR?",
+      "choices": [
+        "80-100 per minute",
+        "100-120 per minute",
+        "120-140 per minute",
+        "140-160 per minute"
+      ],
+      "answer": "100-120 per minute"
+    },
+    {
+      "question": "What is the proper compression depth for adult CPR?",
+      "choices": [
+        "At least 1 inch (2.5 cm)",
+        "At least 1.5 inches (3.8 cm)",
+        "At least 2 inches (5 cm)",
+        "At least 2.5 inches (6.3 cm)"
+      ],
+      "answer": "At least 2 inches (5 cm)"
+    },
+    {
+      "question": "Which of the following is NOT a link in the chain of survival?",
+      "choices": [
+        "Early recognition and call for help",
+        "Immediate high-quality CPR",
+        "Rapid defibrillation",
+        "Immediate transportation to hospital"
+      ],
+      "answer": "Immediate transportation to hospital"
+    },
+    {
+      "question": "What is the correct hand placement for adult CPR?",
+      "choices": [
+        "Center of the chest, on the upper half of the breastbone",
+        "Center of the chest, on the lower half of the breastbone",
+        "Left side of the chest, over the heart",
+        "Right side of the chest, below the collarbone"
+      ],
+      "answer": "Center of the chest, on the lower half of the breastbone"
+    },
+    {
+      "question": "How many rescue breaths should be given after every 30 compressions?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "question": "What is the recommended compression depth for infant CPR?",
+      "choices": [
+        "About 1 inch",
+        "About 1.5 inches",
+        "About 2 inches",
+        "About 2.5 inches"
+      ],
+      "answer": "About 1.5 inches"
+    },
+    {
+      "question": "What is the universal sign for choking?",
+      "choices": [
+        "Hands on the throat",
+        "Hands on the chest",
+        "Hands on the head",
+        "Hands waving in the air"
+      ],
+      "answer": "Hands on the throat"
+    },
+    {
+      "question": "What technique is used to open the airway before rescue breathing?",
+      "choices": [
+        "Chin-tuck head-lift",
+        "Head-tilt chin-lift",
+        "Jaw-thrust maneuver",
+        "Neck extension"
+      ],
+      "answer": "Head-tilt chin-lift"
+    },
+    {
+      "question": "What is the primary technique used to dislodge airway obstructions in conscious adults?",
+      "choices": [
+        "Back blows",
+        "Chest thrusts",
+        "Heimlich maneuver",
+        "Finger sweeps"
+      ],
+      "answer": "Heimlich maneuver"
+    },
+    {
+      "question": "What does AED stand for?",
+      "choices": [
+        "Automated Emergency Defibrillator",
+        "Automatic External Defibrillator",
+        "Automated External Defibrillator",
+        "Advanced Emergency Device"
+      ],
+      "answer": "Automated External Defibrillator"
+    },
+    {
+      "question": "When using an AED, where should the pads be placed on an adult?",
+      "choices": [
+        "Both on the chest",
+        "One on the chest, one on the back",
+        "One on the upper right chest, one on the lower left side",
+        "One on each arm"
+      ],
+      "answer": "One on the upper right chest, one on the lower left side"
+    },
+    {
+      "question": "What is the correct technique for infant choking management?",
+      "choices": [
+        "Heimlich maneuver",
+        "Back blows and chest thrusts",
+        "Abdominal thrusts only",
+        "Chest compressions only"
+      ],
+      "answer": "Back blows and chest thrusts"
+    },
+    {
+      "question": "How long should each rescue breath last?",
+      "choices": [
+        "0.5 seconds",
+        "1 second",
+        "2 seconds",
+        "3 seconds"
+      ],
+      "answer": "1 second"
+    },
+    {
+      "question": "What is the recommended action if you are unwilling or unable to perform rescue breaths?",
+      "choices": [
+        "Do not perform CPR",
+        "Perform compression-only CPR",
+        "Only use an AED",
+        "Wait for professional help"
+      ],
+      "answer": "Perform compression-only CPR"
+    },
+    {
+      "question": "What is the purpose of allowing full chest recoil between compressions?",
+      "choices": [
+        "To rest the rescuer's arms",
+        "To allow the heart to refill with blood",
+        "To check for signs of life",
+        "To prepare for rescue breaths"
+      ],
+      "answer": "To allow the heart to refill with blood"
+    },
+    {
+      "question": "What is the correct finger placement for infant CPR?",
+      "choices": [
+        "Two fingers on the center of the chest, just below the nipple line",
+        "Two hands on the center of the chest",
+        "One hand on the center of the chest",
+        "Two fingers on the left side of the chest"
+      ],
+      "answer": "Two fingers on the center of the chest, just below the nipple line"
+    },
+    {
+      "question": "What should you do before using an AED on a person with a wet chest?",
+      "choices": [
+        "Do not use the AED",
+        "Use the AED immediately",
+        "Wipe the chest dry",
+        "Remove the person's clothing"
+      ],
+      "answer": "Wipe the chest dry"
+    },
+    {
+      "question": "What is the first step in the Heimlich maneuver?",
+      "choices": [
+        "Give back blows",
+        "Call for help",
+        "Stand behind the person and wrap your arms around their waist",
+        "Perform chest compressions"
+      ],
+      "answer": "Stand behind the person and wrap your arms around their waist"
+    },
+    {
+      "question": "How often should CPR and BLS skills be refreshed through training?",
+      "choices": [
+        "Every 6 months",
+        "Every year",
+        "Every 2 years",
+        "Every 5 years"
+      ],
+      "answer": "Every 2 years"
+    },
+    {
+      "question": "What is the primary goal of CPR?",
+      "choices": [
+        "To restart the heart",
+        "To clear the airway",
+        "To maintain blood flow and oxygenation to vital organs",
+        "To wake the person up"
+      ],
+      "answer": "To maintain blood flow and oxygenation to vital organs"
+    },
+    {
+      "question": "What should you do if an AED advises 'no shock'?",
+      "choices": [
+        "Stop CPR and wait for help",
+        "Continue CPR immediately",
+        "Check for a pulse",
+        "Administer rescue breaths only"
+      ],
+      "answer": "Continue CPR immediately"
+    },
+    {
+      "question": "What is the correct ratio of compressions to breaths in adult CPR?",
+      "choices": [
+        "15:2",
+        "30:2",
+        "50:2",
+        "100:2"
+      ],
+      "answer": "30:2"
+    },
+    {
+      "question": "Which of the following is a sign that CPR is needed?",
+      "choices": [
+        "Person is breathing normally",
+        "Person is coughing",
+        "Person is unresponsive and not breathing normally",
+        "Person is complaining of chest pain"
+      ],
+      "answer": "Person is unresponsive and not breathing normally"
+    },
+    {
+      "question": "What should you do before beginning chest compressions?",
+      "choices": [
+        "Give two rescue breaths",
+        "Check for a pulse for 10 seconds",
+        "Call for emergency help",
+        "Remove any clothing from the chest area"
+      ],
+      "answer": "Call for emergency help"
+    },
+    {
+      "question": "What is the purpose of an AED?",
+      "choices": [
+        "To restart breathing",
+        "To analyze heart rhythm and deliver a shock if necessary",
+        "To pump blood manually",
+        "To administer medication"
+      ],
+      "answer": "To analyze heart rhythm and deliver a shock if necessary"
+    },
+    {
+      "question": "What should you do if you're alone and find an unresponsive adult?",
+      "choices": [
+        "Start CPR immediately",
+        "Call for emergency help, then start CPR",
+        "Look for an AED first",
+        "Perform rescue breaths only"
+      ],
+      "answer": "Call for emergency help, then start CPR"
+    },
+    {
+      "question": "Which of the following is NOT a step in using an AED?",
+      "choices": [
+        "Turn on the AED",
+        "Attach the pads to the bare chest",
+        "Perform chest compressions while the AED analyzes",
+        "Clear everyone away before delivering a shock"
+      ],
+      "answer": "Perform chest compressions while the AED analyzes"
+    },
+    {
+      "question": "What is the recommended method for checking responsiveness?",
+      "choices": [
+        "Shout at the person",
+        "Shake the person vigorously",
+        "Tap the shoulders and shout 'Are you okay?'",
+        "Check for a pulse"
+      ],
+      "answer": "Tap the shoulders and shout 'Are you okay?'"
+    },
+    {
+      "question": "In Timor-Leste, what is the national emergency number?",
+      "choices": [
+        "911",
+        "999",
+        "112",
+        "000"
+      ],
+      "answer": "112"
+    }
+  ]
+}

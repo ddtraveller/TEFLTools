@@ -1,0 +1,295 @@
+{
+  "title": "Environmental Emergencies and Illnesses in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary difference between heat exhaustion and heat stroke?",
+      "choices": [
+        "Heat exhaustion is more severe than heat stroke",
+        "Heat stroke is characterized by a lack of sweating, while heat exhaustion involves heavy sweating",
+        "Heat exhaustion only occurs in humid climates",
+        "Heat stroke is easily treatable without medical intervention"
+      ],
+      "answer": "Heat stroke is characterized by a lack of sweating, while heat exhaustion involves heavy sweating"
+    },
+    {
+      "question": "Which of the following is NOT a symptom of heat exhaustion?",
+      "choices": [
+        "Heavy sweating",
+        "Fast, weak pulse",
+        "Hot, dry skin",
+        "Muscle cramps"
+      ],
+      "answer": "Hot, dry skin"
+    },
+    {
+      "question": "What is the first step in treating a victim of heat stroke?",
+      "choices": [
+        "Give them water to drink",
+        "Apply a heating pad",
+        "Call emergency services immediately",
+        "Encourage them to exercise"
+      ],
+      "answer": "Call emergency services immediately"
+    },
+    {
+      "question": "Which factor contributes to the risk of heat-related illnesses in Timor-Leste?",
+      "choices": [
+        "Low humidity",
+        "Widespread use of air conditioning",
+        "Limited outdoor labor",
+        "High humidity"
+      ],
+      "answer": "High humidity"
+    },
+    {
+      "question": "What is the correct order of the drowning process?",
+      "choices": [
+        "Surprise, Unconsciousness, Involuntary breath holding, Hypoxic convulsions, Clinical death",
+        "Involuntary breath holding, Surprise, Unconsciousness, Clinical death, Hypoxic convulsions",
+        "Surprise, Involuntary breath holding, Unconsciousness, Hypoxic convulsions, Clinical death",
+        "Unconsciousness, Surprise, Involuntary breath holding, Hypoxic convulsions, Clinical death"
+      ],
+      "answer": "Surprise, Involuntary breath holding, Unconsciousness, Hypoxic convulsions, Clinical death"
+    },
+    {
+      "question": "What is the first priority in a water rescue situation?",
+      "choices": [
+        "Remove victim from water",
+        "Begin rescue breathing",
+        "Ensure rescuer safety",
+        "Start CPR"
+      ],
+      "answer": "Ensure rescuer safety"
+    },
+    {
+      "question": "Which of the following is a water-related risk specific to Timor-Leste?",
+      "choices": [
+        "Excessive chlorination in public pools",
+        "Presence of lifeguards at all beaches",
+        "Strong currents in coastal areas",
+        "Abundance of indoor swimming facilities"
+      ],
+      "answer": "Strong currents in coastal areas"
+    },
+    {
+      "question": "What is the scientific name of the Timor Island Pit Viper?",
+      "choices": [
+        "Naja kaouthia",
+        "Trimeresurus insularis",
+        "Bungarus candidus",
+        "Ophiophagus hannah"
+      ],
+      "answer": "Trimeresurus insularis"
+    },
+    {
+      "question": "Which action should NOT be taken when providing first aid for a snake bite?",
+      "choices": [
+        "Keep the victim calm and still",
+        "Remove any constricting items",
+        "Attempt to suck out the venom",
+        "Immobilize the affected limb"
+      ],
+      "answer": "Attempt to suck out the venom"
+    },
+    {
+      "question": "What is the correct first aid procedure for insect stings?",
+      "choices": [
+        "Apply heat to the affected area",
+        "Encourage the victim to exercise the affected limb",
+        "Remove the stinger if present and apply a cold compress",
+        "Tightly bandage the entire limb"
+      ],
+      "answer": "Remove the stinger if present and apply a cold compress"
+    },
+    {
+      "question": "Which of the following is NOT a vector-borne disease common in Timor-Leste?",
+      "choices": [
+        "Malaria",
+        "Dengue fever",
+        "Lyme disease",
+        "Chikungunya"
+      ],
+      "answer": "Lyme disease"
+    },
+    {
+      "question": "What is the primary vector for transmitting malaria and dengue fever in Timor-Leste?",
+      "choices": [
+        "Ticks",
+        "Mosquitoes",
+        "Fleas",
+        "Flies"
+      ],
+      "answer": "Mosquitoes"
+    },
+    {
+      "question": "Which preventive measure is NOT effective against vector-borne diseases in Timor-Leste?",
+      "choices": [
+        "Using mosquito nets",
+        "Applying insect repellent",
+        "Eliminating standing water",
+        "Taking daily antibiotics"
+      ],
+      "answer": "Taking daily antibiotics"
+    },
+    {
+      "question": "What is the emergency number for the national ambulance service in Timor-Leste?",
+      "choices": [
+        "911",
+        "999",
+        "110",
+        "112"
+      ],
+      "answer": "110"
+    },
+    {
+      "question": "Which traditional Timorese approach to treating environmental illnesses is emphasized in the course?",
+      "choices": [
+        "Ignoring traditional remedies entirely",
+        "Relying solely on traditional remedies",
+        "Integrating traditional knowledge with modern first aid practices",
+        "Using only imported Western medicines"
+      ],
+      "answer": "Integrating traditional knowledge with modern first aid practices"
+    },
+    {
+      "question": "What is a key challenge in providing prompt medical care for snake bite victims in rural areas of Timor-Leste?",
+      "choices": [
+        "Abundance of hospitals",
+        "Lack of traditional healers",
+        "Limited healthcare infrastructure",
+        "Oversupply of antivenom"
+      ],
+      "answer": "Limited healthcare infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT a recommended action for treating heat exhaustion?",
+      "choices": [
+        "Move to a cool place",
+        "Loosen clothing",
+        "Apply warm, dry cloths to the body",
+        "Sip water"
+      ],
+      "answer": "Apply warm, dry cloths to the body"
+    },
+    {
+      "question": "What is the recommended first aid for a drowning victim once they are removed from the water?",
+      "choices": [
+        "Induce vomiting",
+        "Check for breathing and begin rescue breathing if necessary",
+        "Immediately start chest compressions",
+        "Place in recovery position and wait for help"
+      ],
+      "answer": "Check for breathing and begin rescue breathing if necessary"
+    },
+    {
+      "question": "Which of the following is a correct step in providing first aid for a snake bite in Timor-Leste?",
+      "choices": [
+        "Apply a tourniquet above the bite",
+        "Attempt to capture the snake for identification",
+        "Mark the edge of the swelling and note the time",
+        "Encourage the victim to walk to seek help"
+      ],
+      "answer": "Mark the edge of the swelling and note the time"
+    },
+    {
+      "question": "What is the primary purpose of using a pressure bandage in some snake bite cases?",
+      "choices": [
+        "To stop bleeding",
+        "To reduce pain",
+        "To slow the spread of venom through the lymphatic system",
+        "To induce swelling for easier venom extraction"
+      ],
+      "answer": "To slow the spread of venom through the lymphatic system"
+    },
+    {
+      "question": "Which of the following is NOT a common symptom of malaria?",
+      "choices": [
+        "High fever",
+        "Severe headaches",
+        "Body aches",
+        "Skin rash"
+      ],
+      "answer": "Skin rash"
+    },
+    {
+      "question": "What is the recommended method for preventing mosquito breeding in Timor-Leste?",
+      "choices": [
+        "Increasing use of pesticides",
+        "Eliminating standing water",
+        "Planting more trees",
+        "Encouraging bird populations"
+      ],
+      "answer": "Eliminating standing water"
+    },
+    {
+      "question": "Which of the following is a key component of public health education efforts in Timor-Leste?",
+      "choices": [
+        "Focusing solely on urban areas",
+        "Using only English-language materials",
+        "Developing culturally appropriate educational materials in Tetum",
+        "Discouraging the use of traditional remedies entirely"
+      ],
+      "answer": "Developing culturally appropriate educational materials in Tetum"
+    },
+    {
+      "question": "What is the primary language used for creating public health materials in Timor-Leste?",
+      "choices": [
+        "English",
+        "Portuguese",
+        "Tetum",
+        "Indonesian"
+      ],
+      "answer": "Tetum"
+    },
+    {
+      "question": "Which of the following is NOT a recommended action when creating a first aid guide for environmental emergencies in Timor-Leste?",
+      "choices": [
+        "Include clear, step-by-step instructions",
+        "Use illustrations or diagrams",
+        "Write in complex medical terminology",
+        "Indicate when to seek professional medical help"
+      ],
+      "answer": "Write in complex medical terminology"
+    },
+    {
+      "question": "What is the recommended first aid for heat stroke in Timor-Leste?",
+      "choices": [
+        "Give the person a warm bath",
+        "Encourage them to drink large amounts of water quickly",
+        "Move them to a cooler place and lower body temperature with cool cloths",
+        "Advise them to continue their activities but at a slower pace"
+      ],
+      "answer": "Move them to a cooler place and lower body temperature with cool cloths"
+    },
+    {
+      "question": "Which of the following is a correct step in providing first aid for an insect sting in Timor-Leste?",
+      "choices": [
+        "Apply heat to the affected area",
+        "Encourage vigorous scratching to remove venom",
+        "Use a credit card to scrape out the stinger",
+        "Apply a tight bandage around the entire limb"
+      ],
+      "answer": "Use a credit card to scrape out the stinger"
+    },
+    {
+      "question": "What is the primary goal of integrating traditional and modern first aid approaches in Timor-Leste?",
+      "choices": [
+        "To completely replace modern medicine",
+        "To discredit traditional practices",
+        "To provide culturally acceptable and effective care",
+        "To reduce the need for medical training"
+      ],
+      "answer": "To provide culturally acceptable and effective care"
+    },
+    {
+      "question": "Which of the following is a correct action when encountering a potential drowning victim in Timor-Leste?",
+      "choices": [
+        "Immediately jump into the water to save them",
+        "Throw them a flotation device if available",
+        "Wait for professional help to arrive",
+        "Encourage them to swim harder"
+      ],
+      "answer": "Throw them a flotation device if available"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Coconut Biology and Cultivation Practices",
+  "questions": [
+    {
+      "question": "What type of root system does the coconut palm have?",
+      "choices": [
+        "Tap root system",
+        "Fibrous root system",
+        "Adventitious root system",
+        "Aerial root system"
+      ],
+      "answer": "Fibrous root system"
+    },
+    {
+      "question": "How far can coconut palm roots extend horizontally?",
+      "choices": [
+        "Up to 10 meters",
+        "Up to 20 meters",
+        "Up to 30 meters",
+        "Up to 40 meters"
+      ],
+      "answer": "Up to 30 meters"
+    },
+    {
+      "question": "What is the typical height range of a mature coconut palm?",
+      "choices": [
+        "5-10 meters",
+        "10-15 meters",
+        "15-20 meters",
+        "20-30 meters"
+      ],
+      "answer": "20-30 meters"
+    },
+    {
+      "question": "How many green fronds does a healthy adult coconut palm typically have?",
+      "choices": [
+        "10-15",
+        "15-20",
+        "25-35",
+        "40-50"
+      ],
+      "answer": "25-35"
+    },
+    {
+      "question": "What is the typical length of a coconut palm frond?",
+      "choices": [
+        "1-2 meters",
+        "2-3 meters",
+        "3-4 meters",
+        "4-6 meters"
+      ],
+      "answer": "4-6 meters"
+    },
+    {
+      "question": "What term describes a plant that has both male and female flowers on the same inflorescence?",
+      "choices": [
+        "Dioecious",
+        "Monoecious",
+        "Hermaphroditic",
+        "Polygamous"
+      ],
+      "answer": "Monoecious"
+    },
+    {
+      "question": "How long does it take for a coconut fruit to develop from flowering to maturity?",
+      "choices": [
+        "3-4 months",
+        "6-8 months",
+        "12-14 months",
+        "18-20 months"
+      ],
+      "answer": "12-14 months"
+    },
+    {
+      "question": "What is the optimal temperature range for coconut palm growth?",
+      "choices": [
+        "10-20°C",
+        "20-30°C",
+        "30-40°C",
+        "40-50°C"
+      ],
+      "answer": "20-30°C"
+    },
+    {
+      "question": "What is the ideal annual rainfall range for coconut palms?",
+      "choices": [
+        "500-1000 mm",
+        "1000-1500 mm",
+        "1500-2500 mm",
+        "2500-3500 mm"
+      ],
+      "answer": "1500-2500 mm"
+    },
+    {
+      "question": "What is the preferred soil pH range for coconut palms?",
+      "choices": [
+        "3.5-5.0",
+        "5.5-7.0",
+        "7.5-8.5",
+        "8.5-9.5"
+      ],
+      "answer": "5.5-7.0"
+    },
+    {
+      "question": "Which soil type is most preferred for coconut cultivation?",
+      "choices": [
+        "Heavy clay",
+        "Pure sand",
+        "Sandy loam to clay loam",
+        "Rocky soil"
+      ],
+      "answer": "Sandy loam to clay loam"
+    },
+    {
+      "question": "What is the recommended spacing between coconut palms in a plantation?",
+      "choices": [
+        "3-5 meters",
+        "5-7 meters",
+        "7-9 meters",
+        "10-12 meters"
+      ],
+      "answer": "7-9 meters"
+    },
+    {
+      "question": "Which irrigation method is most water-efficient for coconut plantations?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "How much compost is typically applied per coconut palm annually?",
+      "choices": [
+        "1-5 kg",
+        "5-10 kg",
+        "10-20 kg",
+        "20-30 kg"
+      ],
+      "answer": "10-20 kg"
+    },
+    {
+      "question": "Which part of the coconut fruit is known as the mesocarp?",
+      "choices": [
+        "The hard shell",
+        "The white meat",
+        "The fibrous husk",
+        "The liquid endosperm"
+      ],
+      "answer": "The fibrous husk"
+    },
+    {
+      "question": "What is the primary function of the coconut's fibrous root system?",
+      "choices": [
+        "Photosynthesis",
+        "Nutrient storage",
+        "Anchorage and nutrient absorption",
+        "Water storage"
+      ],
+      "answer": "Anchorage and nutrient absorption"
+    },
+    {
+      "question": "Which of the following is NOT a common intercrop in coconut plantations?",
+      "choices": [
+        "Cacao",
+        "Banana",
+        "Wheat",
+        "Pineapple"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What is the main benefit of mulching in coconut cultivation?",
+      "choices": [
+        "Increases soil acidity",
+        "Promotes weed growth",
+        "Conserves soil moisture",
+        "Attracts pests"
+      ],
+      "answer": "Conserves soil moisture"
+    },
+    {
+      "question": "Which part of the coconut palm continuously produces new roots?",
+      "choices": [
+        "The trunk",
+        "The fronds",
+        "The basal stem tissue",
+        "The inflorescence"
+      ],
+      "answer": "The basal stem tissue"
+    },
+    {
+      "question": "What is the primary function of the coconut's endosperm?",
+      "choices": [
+        "Photosynthesis",
+        "Water storage",
+        "Nutrient provision for the embryo",
+        "Protection from predators"
+      ],
+      "answer": "Nutrient provision for the embryo"
+    },
+    {
+      "question": "Which of the following is a benefit of intercropping in coconut plantations?",
+      "choices": [
+        "Decreased land use efficiency",
+        "Reduced biodiversity",
+        "Increased pest problems",
+        "Additional income streams"
+      ],
+      "answer": "Additional income streams"
+    },
+    {
+      "question": "What is the recommended planting depth for coconut seedlings?",
+      "choices": [
+        "1/3 of the nut buried",
+        "1/2 of the nut buried",
+        "2/3 of the nut buried",
+        "Fully buried"
+      ],
+      "answer": "2/3 of the nut buried"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of coconut palm trunks?",
+      "choices": [
+        "Unbranched",
+        "Covered with leaf scars",
+        "Uniform diameter",
+        "Presence of cambium layer"
+      ],
+      "answer": "Presence of cambium layer"
+    },
+    {
+      "question": "What is the primary purpose of contour planting in coconut cultivation?",
+      "choices": [
+        "To increase yield",
+        "To prevent erosion",
+        "To improve irrigation",
+        "To attract pollinators"
+      ],
+      "answer": "To prevent erosion"
+    },
+    {
+      "question": "Which part of the coconut fruit allows it to be dispersed by ocean currents?",
+      "choices": [
+        "Endocarp",
+        "Mesocarp",
+        "Exocarp",
+        "Endosperm"
+      ],
+      "answer": "Exocarp"
+    },
+    {
+      "question": "What is the main advantage of using organic fertilization methods in coconut cultivation?",
+      "choices": [
+        "Faster nutrient uptake",
+        "Higher yield in the short term",
+        "Improved soil structure and health",
+        "Reduced water requirements"
+      ],
+      "answer": "Improved soil structure and health"
+    },
+    {
+      "question": "Which of the following is a sustainable practice for managing soil fertility in coconut plantations?",
+      "choices": [
+        "Continuous monocropping",
+        "Heavy use of synthetic fertilizers",
+        "Green manuring",
+        "Deep tilling"
+      ],
+      "answer": "Green manuring"
+    },
+    {
+      "question": "What is the primary function of the coconut's hard endocarp (shell)?",
+      "choices": [
+        "Photosynthesis",
+        "Nutrient storage",
+        "Protection of the seed",
+        "Water absorption"
+      ],
+      "answer": "Protection of the seed"
+    },
+    {
+      "question": "Which of the following is NOT a typical climate requirement for coconut palms?",
+      "choices": [
+        "High humidity",
+        "Abundant sunlight",
+        "Frost tolerance",
+        "Moderate to high rainfall"
+      ],
+      "answer": "Frost tolerance"
+    },
+    {
+      "question": "What is the recommended planting pattern for coconut palms in a plantation?",
+      "choices": [
+        "Square pattern",
+        "Rectangular pattern",
+        "Triangular pattern",
+        "Random pattern"
+      ],
+      "answer": "Triangular pattern"
+    }
+  ]
+}

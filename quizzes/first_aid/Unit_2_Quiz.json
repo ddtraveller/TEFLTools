@@ -1,0 +1,305 @@
+{
+  "title": "Assessing Emergency Situations",
+  "questions": [
+    {
+      "question": "What is the primary purpose of a scene safety assessment?",
+      "choices": [
+        "To identify the number of casualties",
+        "To determine the cause of the emergency",
+        "To identify and mitigate potential hazards",
+        "To establish communication with emergency services"
+      ],
+      "answer": "To identify and mitigate potential hazards"
+    },
+    {
+      "question": "Which of the following is NOT a step in conducting a scene safety assessment?",
+      "choices": [
+        "Approach with caution",
+        "Look for immediate dangers",
+        "Determine the number of patients",
+        "Administer first aid immediately"
+      ],
+      "answer": "Administer first aid immediately"
+    },
+    {
+      "question": "What does the acronym ABCDE stand for in the primary survey?",
+      "choices": [
+        "Assess, Breathe, Compress, Diagnose, Evacuate",
+        "Airway, Breathing, Circulation, Disability, Exposure",
+        "Alert, Bandage, Check, Defibrillate, Elevate",
+        "Approach, Breathe, Compress, Dress, Evaluate"
+      ],
+      "answer": "Airway, Breathing, Circulation, Disability, Exposure"
+    },
+    {
+      "question": "What is the main difference between a primary and secondary survey?",
+      "choices": [
+        "Primary is for adults, secondary for children",
+        "Primary is quick and focuses on life-threatening conditions, secondary is more detailed",
+        "Primary is done by professionals, secondary by bystanders",
+        "Primary is for trauma, secondary for medical emergencies"
+      ],
+      "answer": "Primary is quick and focuses on life-threatening conditions, secondary is more detailed"
+    },
+    {
+      "question": "What does START stand for in the context of triage?",
+      "choices": [
+        "Simple Treatment And Rapid Transport",
+        "Systematic Triage And Rapid Treatment",
+        "Simple Triage And Rapid Treatment",
+        "Systematic Treatment And Rapid Transport"
+      ],
+      "answer": "Simple Triage And Rapid Treatment"
+    },
+    {
+      "question": "Which color is used to designate patients requiring immediate care in the START triage system?",
+      "choices": [
+        "Green",
+        "Yellow",
+        "Red",
+        "Black"
+      ],
+      "answer": "Red"
+    },
+    {
+      "question": "What are the 'Three P's' of first aid?",
+      "choices": [
+        "Preserve, Protect, Provide",
+        "Prevent, Promote, Prioritize",
+        "Preserve life, Prevent further injury, Promote recovery",
+        "Prepare, Perform, Progress"
+      ],
+      "answer": "Preserve life, Prevent further injury, Promote recovery"
+    },
+    {
+      "question": "In the context of Timor-Leste, which of the following is NOT mentioned as a common hazard during scene safety assessment?",
+      "choices": [
+        "Unstable structures",
+        "Wildlife",
+        "Environmental hazards",
+        "Volcanic eruptions"
+      ],
+      "answer": "Volcanic eruptions"
+    },
+    {
+      "question": "What does the 'D' in the AVPU scale stand for?",
+      "choices": [
+        "Drowsy",
+        "Disabled",
+        "Disoriented",
+        "Deceased"
+      ],
+      "answer": "Disabled"
+    },
+    {
+      "question": "Which of the following is NOT a category in the START triage method?",
+      "choices": [
+        "Immediate",
+        "Delayed",
+        "Critical",
+        "Minor"
+      ],
+      "answer": "Critical"
+    },
+    {
+      "question": "What is the recommended maximum time to complete a primary survey?",
+      "choices": [
+        "30 seconds",
+        "60-90 seconds",
+        "2-3 minutes",
+        "5 minutes"
+      ],
+      "answer": "60-90 seconds"
+    },
+    {
+      "question": "Which of the following is NOT typically included in a secondary survey?",
+      "choices": [
+        "Head-to-toe examination",
+        "Vital signs check",
+        "Patient history",
+        "Administering medication"
+      ],
+      "answer": "Administering medication"
+    },
+    {
+      "question": "What does SAMPLE stand for in patient history gathering?",
+      "choices": [
+        "Signs, Allergies, Medications, Past medical history, Last meal, Events leading to injury/illness",
+        "Symptoms, Age, Medical conditions, Prescriptions, Lifestyle, Environment",
+        "Severity, Allergies, Medications, Pain level, Location of injury, Extent of damage",
+        "Situation, Assessment, Management, Plan, Logistics, Evacuation"
+      ],
+      "answer": "Signs, Allergies, Medications, Past medical history, Last meal, Events leading to injury/illness"
+    },
+    {
+      "question": "In triage, what does the color green typically indicate?",
+      "choices": [
+        "Immediate care needed",
+        "Delayed care acceptable",
+        "Minor injuries, can wait for care",
+        "Deceased"
+      ],
+      "answer": "Minor injuries, can wait for care"
+    },
+    {
+      "question": "Which of the following is NOT a step in conducting a scene safety assessment?",
+      "choices": [
+        "Look for signs of danger",
+        "Listen for unusual sounds",
+        "Smell for unusual odors",
+        "Taste the air for contaminants"
+      ],
+      "answer": "Taste the air for contaminants"
+    },
+    {
+      "question": "What is the primary goal of triage in a mass casualty incident?",
+      "choices": [
+        "To treat all patients equally",
+        "To identify the cause of the incident",
+        "To maximize the number of survivors",
+        "To evacuate all patients immediately"
+      ],
+      "answer": "To maximize the number of survivors"
+    },
+    {
+      "question": "Which of the following is a cultural consideration mentioned for emergency assessment in Timor-Leste?",
+      "choices": [
+        "Avoiding eye contact with patients",
+        "Prioritizing treatment based on social status",
+        "Sensitivity around handling the deceased",
+        "Refusing to treat patients of the opposite gender"
+      ],
+      "answer": "Sensitivity around handling the deceased"
+    },
+    {
+      "question": "What is the correct order for checking ABCs in a primary survey?",
+      "choices": [
+        "Airway, Breathing, Circulation",
+        "Assess, Bandage, Compress",
+        "Alert, Breathe, Compress",
+        "Approach, Breathe, Check"
+      ],
+      "answer": "Airway, Breathing, Circulation"
+    },
+    {
+      "question": "In the START triage method, what is the first step when approaching a group of patients?",
+      "choices": [
+        "Check for pulse in all patients",
+        "Assess breathing in all patients",
+        "Direct all walking wounded to a designated area",
+        "Begin CPR on the nearest patient"
+      ],
+      "answer": "Direct all walking wounded to a designated area"
+    },
+    {
+      "question": "What does the 'U' in the AVPU scale stand for?",
+      "choices": [
+        "Unconscious",
+        "Unresponsive",
+        "Unstable",
+        "Uncertain"
+      ],
+      "answer": "Unresponsive"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a potential language barrier in emergency assessment in Timor-Leste?",
+      "choices": [
+        "Multiple local dialects",
+        "Limited English proficiency",
+        "Use of Portuguese in official settings",
+        "Sign language for the deaf community"
+      ],
+      "answer": "Sign language for the deaf community"
+    },
+    {
+      "question": "What is the recommended method for opening an airway in a trauma patient?",
+      "choices": [
+        "Head-tilt chin-lift",
+        "Jaw thrust",
+        "Finger sweep",
+        "Heimlich maneuver"
+      ],
+      "answer": "Jaw thrust"
+    },
+    {
+      "question": "In a mass casualty incident, which patients are typically tagged as 'Yellow' in the START triage system?",
+      "choices": [
+        "Patients with minor injuries",
+        "Patients requiring immediate life-saving interventions",
+        "Patients with serious injuries but stable vital signs",
+        "Patients with no signs of life"
+      ],
+      "answer": "Patients with serious injuries but stable vital signs"
+    },
+    {
+      "question": "What is the purpose of exposing the patient during the primary survey?",
+      "choices": [
+        "To cool the patient down",
+        "To check for additional injuries",
+        "To prepare for CPR",
+        "To make the patient more comfortable"
+      ],
+      "answer": "To check for additional injuries"
+    },
+    {
+      "question": "Which of the following is NOT a recommended action during a scene safety assessment?",
+      "choices": [
+        "Identify potential escape routes",
+        "Assess the stability of surrounding structures",
+        "Begin treating patients immediately",
+        "Determine if personal protective equipment is needed"
+      ],
+      "answer": "Begin treating patients immediately"
+    },
+    {
+      "question": "What does 'Bele rona ha'u?' mean in Tetum?",
+      "choices": [
+        "Where does it hurt?",
+        "Can you hear me?",
+        "Can you move your arms?",
+        "Is there heavy bleeding?"
+      ],
+      "answer": "Can you hear me?"
+    },
+    {
+      "question": "Which of the following is NOT one of the 'Three P's' of first aid?",
+      "choices": [
+        "Preserve life",
+        "Prevent further injury",
+        "Promote recovery",
+        "Provide comfort"
+      ],
+      "answer": "Provide comfort"
+    },
+    {
+      "question": "What is the primary purpose of the secondary survey?",
+      "choices": [
+        "To identify immediate life threats",
+        "To perform CPR",
+        "To conduct a more thorough head-to-toe examination",
+        "To evacuate the patient"
+      ],
+      "answer": "To conduct a more thorough head-to-toe examination"
+    },
+    {
+      "question": "In the context of Timor-Leste, which of the following is mentioned as a potential challenge in implementing the START triage method?",
+      "choices": [
+        "Lack of color-coded tags",
+        "Limited medical resources affecting triage decisions",
+        "Inability to categorize patients",
+        "Excessive number of trained personnel"
+      ],
+      "answer": "Limited medical resources affecting triage decisions"
+    },
+    {
+      "question": "What is the correct sequence for the AVPU scale?",
+      "choices": [
+        "Alert, Vocal, Pain, Unresponsive",
+        "Awake, Verbal, Physical, Unconscious",
+        "Active, Vocal, Passive, Unaware",
+        "Aware, Visible, Palpable, Unable"
+      ],
+      "answer": "Alert, Vocal, Pain, Unresponsive"
+    }
+  ]
+}

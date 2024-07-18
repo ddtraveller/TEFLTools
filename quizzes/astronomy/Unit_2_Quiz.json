@@ -1,0 +1,305 @@
+{
+  "title": "The Electromagnetic Spectrum",
+  "questions": [
+    {
+      "question": "What is the relationship between wavelength and frequency in electromagnetic waves?",
+      "choices": [
+        "As wavelength increases, frequency increases",
+        "As wavelength decreases, frequency decreases",
+        "As wavelength increases, frequency decreases",
+        "Wavelength and frequency are unrelated"
+      ],
+      "answer": "As wavelength increases, frequency decreases"
+    },
+    {
+      "question": "Which region of the electromagnetic spectrum has the longest wavelengths?",
+      "choices": [
+        "Gamma rays",
+        "X-rays",
+        "Visible light",
+        "Radio waves"
+      ],
+      "answer": "Radio waves"
+    },
+    {
+      "question": "What is the speed of all electromagnetic waves in a vacuum?",
+      "choices": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "100,000 km/s",
+        "It varies depending on the type of wave"
+      ],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum is visible to the human eye?",
+      "choices": [
+        "Infrared",
+        "Ultraviolet",
+        "Visible light",
+        "Microwaves"
+      ],
+      "answer": "Visible light"
+    },
+    {
+      "question": "What phenomenon occurs when white light passes through a prism?",
+      "choices": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Absorption"
+      ],
+      "answer": "Dispersion"
+    },
+    {
+      "question": "Which type of electromagnetic radiation is associated with heat?",
+      "choices": [
+        "X-rays",
+        "Gamma rays",
+        "Infrared",
+        "Ultraviolet"
+      ],
+      "answer": "Infrared"
+    },
+    {
+      "question": "What is the main reason for using space-based telescopes?",
+      "choices": [
+        "They are cheaper to operate",
+        "They can observe wavelengths blocked by Earth's atmosphere",
+        "They provide clearer images of visible light",
+        "They are easier to maintain"
+      ],
+      "answer": "They can observe wavelengths blocked by Earth's atmosphere"
+    },
+    {
+      "question": "Which type of electromagnetic radiation is used in medical X-ray imaging?",
+      "choices": [
+        "Radio waves",
+        "Microwaves",
+        "X-rays",
+        "Gamma rays"
+      ],
+      "answer": "X-rays"
+    },
+    {
+      "question": "What is atmospheric opacity?",
+      "choices": [
+        "The clarity of the atmosphere",
+        "The atmosphere's ability to block certain wavelengths",
+        "The density of the atmosphere",
+        "The color of the sky"
+      ],
+      "answer": "The atmosphere's ability to block certain wavelengths"
+    },
+    {
+      "question": "Which region of the electromagnetic spectrum is used in radio astronomy?",
+      "choices": [
+        "Visible light",
+        "X-rays",
+        "Radio waves",
+        "Gamma rays"
+      ],
+      "answer": "Radio waves"
+    },
+    {
+      "question": "What type of radiation is emitted by the most energetic objects in the universe?",
+      "choices": [
+        "Radio waves",
+        "Infrared",
+        "X-rays",
+        "Gamma rays"
+      ],
+      "answer": "Gamma rays"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum is used in thermal imaging?",
+      "choices": [
+        "Ultraviolet",
+        "Infrared",
+        "Microwaves",
+        "Visible light"
+      ],
+      "answer": "Infrared"
+    },
+    {
+      "question": "What is the primary use of microwaves in everyday life?",
+      "choices": [
+        "Communication",
+        "Cooking",
+        "Medical imaging",
+        "Sterilization"
+      ],
+      "answer": "Cooking"
+    },
+    {
+      "question": "Which type of electromagnetic radiation has the highest energy?",
+      "choices": [
+        "Radio waves",
+        "Visible light",
+        "X-rays",
+        "Gamma rays"
+      ],
+      "answer": "Gamma rays"
+    },
+    {
+      "question": "What is the main advantage of radio waves in astronomical observations?",
+      "choices": [
+        "They can penetrate cosmic dust clouds",
+        "They provide the highest resolution images",
+        "They are the easiest to detect",
+        "They reveal the hottest objects in the universe"
+      ],
+      "answer": "They can penetrate cosmic dust clouds"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum is used to study cool objects like brown dwarfs?",
+      "choices": [
+        "Gamma rays",
+        "X-rays",
+        "Visible light",
+        "Infrared"
+      ],
+      "answer": "Infrared"
+    },
+    {
+      "question": "What is the primary use of ultraviolet radiation in practical applications?",
+      "choices": [
+        "Cooking",
+        "Communication",
+        "Sterilization",
+        "Heating"
+      ],
+      "answer": "Sterilization"
+    },
+    {
+      "question": "Which space telescope is designed to observe X-rays?",
+      "choices": [
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "Spitzer Space Telescope",
+        "James Webb Space Telescope"
+      ],
+      "answer": "Chandra X-ray Observatory"
+    },
+    {
+      "question": "What is the primary component of electromagnetic waves?",
+      "choices": [
+        "Sound waves",
+        "Water waves",
+        "Electric and magnetic fields",
+        "Gravitational waves"
+      ],
+      "answer": "Electric and magnetic fields"
+    },
+    {
+      "question": "Which color of visible light has the longest wavelength?",
+      "choices": [
+        "Violet",
+        "Green",
+        "Blue",
+        "Red"
+      ],
+      "answer": "Red"
+    },
+    {
+      "question": "What is the primary use of gamma rays in medical applications?",
+      "choices": [
+        "Diagnostic imaging",
+        "Cancer treatment",
+        "Bone density scans",
+        "Blood analysis"
+      ],
+      "answer": "Cancer treatment"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum is used in radar systems?",
+      "choices": [
+        "Radio waves",
+        "Microwaves",
+        "Infrared",
+        "X-rays"
+      ],
+      "answer": "Microwaves"
+    },
+    {
+      "question": "What phenomenon is responsible for sunburns?",
+      "choices": [
+        "Infrared radiation",
+        "Visible light",
+        "Ultraviolet radiation",
+        "X-rays"
+      ],
+      "answer": "Ultraviolet radiation"
+    },
+    {
+      "question": "Which type of electromagnetic radiation is used to study the cosmic microwave background?",
+      "choices": [
+        "Gamma rays",
+        "X-rays",
+        "Microwaves",
+        "Radio waves"
+      ],
+      "answer": "Microwaves"
+    },
+    {
+      "question": "What is the primary advantage of infrared astronomy?",
+      "choices": [
+        "It can detect the hottest objects in the universe",
+        "It can see through cosmic dust",
+        "It provides the highest resolution images",
+        "It is not affected by atmospheric turbulence"
+      ],
+      "answer": "It can see through cosmic dust"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum is most strongly absorbed by the ozone layer?",
+      "choices": [
+        "Visible light",
+        "Infrared",
+        "Ultraviolet",
+        "Radio waves"
+      ],
+      "answer": "Ultraviolet"
+    },
+    {
+      "question": "What type of electromagnetic radiation is used in fiber optic communications?",
+      "choices": [
+        "Radio waves",
+        "Microwaves",
+        "Infrared",
+        "X-rays"
+      ],
+      "answer": "Infrared"
+    },
+    {
+      "question": "Which region of the electromagnetic spectrum is best for studying the most energetic events in the universe, like gamma-ray bursts?",
+      "choices": [
+        "Radio waves",
+        "Visible light",
+        "X-rays",
+        "Gamma rays"
+      ],
+      "answer": "Gamma rays"
+    },
+    {
+      "question": "What is the primary use of radio waves in astronomy?",
+      "choices": [
+        "Studying hot stars",
+        "Detecting planets",
+        "Observing cool gas and radio galaxies",
+        "Measuring stellar temperatures"
+      ],
+      "answer": "Observing cool gas and radio galaxies"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum is least affected by atmospheric absorption?",
+      "choices": [
+        "Ultraviolet",
+        "X-rays",
+        "Visible light",
+        "Gamma rays"
+      ],
+      "answer": "Visible light"
+    }
+  ]
+}

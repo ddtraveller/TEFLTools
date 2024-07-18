@@ -1,0 +1,305 @@
+{
+  "title": "Quality Control and Post-Harvest Handling in Mushroom Production",
+  "questions": [
+    {
+      "question": "What is the optimal storage temperature for most cultivated mushrooms?",
+      "choices": [
+        "5°C to 7°C",
+        "0°C to 2°C",
+        "-2°C to 0°C",
+        "3°C to 5°C"
+      ],
+      "answer": "0°C to 2°C"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for harvesting mushrooms?",
+      "choices": [
+        "Using clean, sharp tools",
+        "Harvesting when caps are fully open and spores are released",
+        "Gently handling to avoid bruising",
+        "Placing harvested mushrooms in clean containers"
+      ],
+      "answer": "Harvesting when caps are fully open and spores are released"
+    },
+    {
+      "question": "What is the recommended relative humidity for storing most cultivated mushrooms?",
+      "choices": [
+        "70-75%",
+        "80-85%",
+        "90-95%",
+        "98-100%"
+      ],
+      "answer": "90-95%"
+    },
+    {
+      "question": "Which packaging material is most suitable for mushrooms?",
+      "choices": [
+        "Airtight plastic containers",
+        "Breathable packaging (e.g., perforated plastic bags)",
+        "Vacuum-sealed bags",
+        "Aluminum foil"
+      ],
+      "answer": "Breathable packaging (e.g., perforated plastic bags)"
+    },
+    {
+      "question": "What is the primary purpose of cooling mushrooms immediately after harvest?",
+      "choices": [
+        "To improve flavor",
+        "To increase weight",
+        "To remove field heat and slow metabolic processes",
+        "To kill potential pathogens"
+      ],
+      "answer": "To remove field heat and slow metabolic processes"
+    },
+    {
+      "question": "Which of the following is NOT a common potential contaminant in mushroom production?",
+      "choices": [
+        "Bacterial pathogens",
+        "Fungal contaminants",
+        "Chemical residues",
+        "Viral infections"
+      ],
+      "answer": "Viral infections"
+    },
+    {
+      "question": "What is the expected shelf life of button mushrooms under optimal storage conditions?",
+      "choices": [
+        "3-5 days",
+        "7-10 days",
+        "14-21 days",
+        "30-45 days"
+      ],
+      "answer": "7-10 days"
+    },
+    {
+      "question": "Which harvesting method is typically recommended for shiitake mushrooms grown on logs?",
+      "choices": [
+        "Cutting with scissors",
+        "Pulling straight up",
+        "Twisting off at the base",
+        "Using a specialized harvesting machine"
+      ],
+      "answer": "Twisting off at the base"
+    },
+    {
+      "question": "What is the purpose of implementing a lot numbering system in mushroom production?",
+      "choices": [
+        "To increase sales",
+        "To improve flavor",
+        "To enhance traceability",
+        "To speed up harvesting"
+      ],
+      "answer": "To enhance traceability"
+    },
+    {
+      "question": "Which of the following is NOT a recommended practice for personal hygiene in mushroom handling?",
+      "choices": [
+        "Proper handwashing",
+        "Wearing clean clothing",
+        "Using hair coverings",
+        "Applying hand lotion frequently"
+      ],
+      "answer": "Applying hand lotion frequently"
+    },
+    {
+      "question": "What is the primary purpose of grading standards in mushroom production?",
+      "choices": [
+        "To increase production volume",
+        "To categorize mushrooms based on quality attributes",
+        "To determine pricing",
+        "To improve growing conditions"
+      ],
+      "answer": "To categorize mushrooms based on quality attributes"
+    },
+    {
+      "question": "Which of the following is NOT a typical criterion for visual inspection of mushrooms?",
+      "choices": [
+        "Size and shape uniformity",
+        "Color and texture",
+        "Absence of blemishes",
+        "Weight of individual mushrooms"
+      ],
+      "answer": "Weight of individual mushrooms"
+    },
+    {
+      "question": "What is the recommended timeframe for cooling mushrooms after harvest?",
+      "choices": [
+        "Within 1 hour",
+        "Within 4 hours",
+        "Within 12 hours",
+        "Within 24 hours"
+      ],
+      "answer": "Within 1 hour"
+    },
+    {
+      "question": "Which of the following is a key component of a quality control checklist for mushroom producers?",
+      "choices": [
+        "Daily weather reports",
+        "Market price fluctuations",
+        "Regular monitoring of storage temperature and humidity",
+        "Soil pH levels in nearby fields"
+      ],
+      "answer": "Regular monitoring of storage temperature and humidity"
+    },
+    {
+      "question": "What is the primary purpose of maintaining harvest records in mushroom production?",
+      "choices": [
+        "To comply with tax regulations",
+        "To track production data and identify trends",
+        "To impress potential investors",
+        "To determine employee bonuses"
+      ],
+      "answer": "To track production data and identify trends"
+    },
+    {
+      "question": "Which of the following is NOT a recommended method for cooling mushrooms after harvest?",
+      "choices": [
+        "Forced-air cooling",
+        "Hydro-cooling",
+        "Room cooling",
+        "Direct contact with ice"
+      ],
+      "answer": "Direct contact with ice"
+    },
+    {
+      "question": "What is the main reason for avoiding overfilling containers during mushroom harvesting?",
+      "choices": [
+        "To make containers easier to carry",
+        "To prevent crushing and bruising",
+        "To allow for better air circulation",
+        "To make visual inspection easier"
+      ],
+      "answer": "To prevent crushing and bruising"
+    },
+    {
+      "question": "Which of the following is a key consideration when implementing food safety practices in mushroom production?",
+      "choices": [
+        "Using non-food grade sanitizers for better cleaning",
+        "Handling mushrooms when ill to build immunity",
+        "Implementing a cleaning schedule for all equipment and surfaces",
+        "Maximizing humidity in storage areas to prevent contamination"
+      ],
+      "answer": "Implementing a cleaning schedule for all equipment and surfaces"
+    },
+    {
+      "question": "What is the purpose of continuous improvement processes in mushroom quality control?",
+      "choices": [
+        "To increase production costs",
+        "To reduce labor requirements",
+        "To maintain the status quo",
+        "To incorporate new research and technologies"
+      ],
+      "answer": "To incorporate new research and technologies"
+    },
+    {
+      "question": "Which of the following is NOT typically included in mushroom labeling for traceability?",
+      "choices": [
+        "Harvest date",
+        "Producer information",
+        "Species name",
+        "Nutritional content"
+      ],
+      "answer": "Nutritional content"
+    },
+    {
+      "question": "What is the primary purpose of maintaining a 'cold chain' in mushroom post-harvest handling?",
+      "choices": [
+        "To improve mushroom flavor",
+        "To increase mushroom weight",
+        "To preserve quality and extend shelf life",
+        "To kill potential pathogens"
+      ],
+      "answer": "To preserve quality and extend shelf life"
+    },
+    {
+      "question": "Which of the following is a recommended practice for storing harvested mushrooms?",
+      "choices": [
+        "Storing different mushroom species together",
+        "Using airtight containers to prevent moisture loss",
+        "Maintaining high storage temperatures to speed up maturation",
+        "Packaging similar sizes and qualities together"
+      ],
+      "answer": "Packaging similar sizes and qualities together"
+    },
+    {
+      "question": "What is the main purpose of using hygrometers in mushroom storage areas?",
+      "choices": [
+        "To measure light levels",
+        "To monitor humidity levels",
+        "To control temperature",
+        "To detect airborne contaminants"
+      ],
+      "answer": "To monitor humidity levels"
+    },
+    {
+      "question": "Which of the following is NOT a typical factor affecting mushroom shelf life?",
+      "choices": [
+        "Storage temperature",
+        "Relative humidity",
+        "Handling practices",
+        "Soil pH during cultivation"
+      ],
+      "answer": "Soil pH during cultivation"
+    },
+    {
+      "question": "What is the recommended practice for handling mushrooms when signs of contamination are observed?",
+      "choices": [
+        "Wash the mushrooms thoroughly before packaging",
+        "Mix them with uncontaminated mushrooms to hide the issue",
+        "Remove and dispose of the contaminated mushrooms immediately",
+        "Store them separately at a higher temperature"
+      ],
+      "answer": "Remove and dispose of the contaminated mushrooms immediately"
+    },
+    {
+      "question": "Which of the following is a key component of a traceability system in mushroom production?",
+      "choices": [
+        "Using a single large batch number for all production",
+        "Changing lot numbers frequently to confuse competitors",
+        "Implementing a clear lot numbering system",
+        "Avoiding any form of product labeling"
+      ],
+      "answer": "Implementing a clear lot numbering system"
+    },
+    {
+      "question": "What is the primary purpose of staff training in mushroom quality control?",
+      "choices": [
+        "To reduce labor costs",
+        "To increase production speed",
+        "To ensure consistent application of quality standards",
+        "To comply with union regulations"
+      ],
+      "answer": "To ensure consistent application of quality standards"
+    },
+    {
+      "question": "Which of the following is NOT a typical criterion for grading mushrooms?",
+      "choices": [
+        "Size uniformity",
+        "Color consistency",
+        "Absence of blemishes",
+        "Weight of the entire harvest batch"
+      ],
+      "answer": "Weight of the entire harvest batch"
+    },
+    {
+      "question": "What is the main reason for monitoring customer feedback in mushroom quality control?",
+      "choices": [
+        "To adjust pricing strategies",
+        "To identify areas for improvement in quality",
+        "To compare sales with competitors",
+        "To determine marketing strategies"
+      ],
+      "answer": "To identify areas for improvement in quality"
+    },
+    {
+      "question": "Which of the following is a recommended practice for cleaning equipment in mushroom production?",
+      "choices": [
+        "Using household cleaning products",
+        "Cleaning only when visibly dirty",
+        "Using food-grade sanitizers",
+        "Avoiding water to prevent moisture issues"
+      ],
+      "answer": "Using food-grade sanitizers"
+    }
+  ]
+}

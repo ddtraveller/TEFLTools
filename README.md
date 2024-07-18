@@ -180,9 +180,18 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 47. **Sistema Rai Siensia no Fronteira Planetaria iha Timor-Leste / Earth System Science and Planetary Boundaries in Timor-Leste**
     - This course explores the concept of planetary boundaries as a framework for understanding the limits of Earth's capacity to sustain human development, with a focus on Timor-Leste's unique environmental challenges and opportunities. Students will examine critical Earth system processes, their current status, and the risks associated with exceeding safe thresholds. The course emphasizes the interconnected nature of Earth's systems and the need for an integrated approach to global and local sustainability challenges.
 
-48. **Fundamentál Tai Chi no Arte Enerjetika Internal ba Saude no Ben-estar iha Timor-Leste. / Fundamentals of Tai Chi and Internal Energy Arts for Health and Wellbeing in Timor-Leste**
+48. **Fundamentál Tai Chi no Arte Enerjetika Internal ba Saude no Ben-estar iha Timor-Leste / Fundamentals of Tai Chi and Internal Energy Arts for Health and Wellbeing in Timor-Leste**
     - This course introduces students in Timor-Leste to the principles and practices of tai chi and related internal energy arts. It emphasizes a holistic approach to health and wellbeing through the cultivation of internal energy (qi), proper body mechanics, and mind-body integration. The course is adapted to be culturally appropriate and relevant to the Timorese context, incorporating local health perspectives and traditional practices where applicable.
+
+49. **Myofascial Anatomy and Movement Integration for Timor-Leste / Myofascial Anatomy and Movement Integration for Timor-Leste**
+    - This course examines the body's myofascial system as an interconnected whole, moving beyond isolated muscle function to explore myofascial continuities and meridians in the context of Timor-Leste. It introduces the Anatomy Trains concept as a framework for understanding how myofascial connections influence posture, movement, and manual therapy approaches. The course integrates anatomical knowledge with practical applications for assessment and treatment, emphasizing cultural relevance and appropriateness for Timor-Leste.
+
+50. **Introdusaun ba Anatomiu Umanu no Fisiolojia ba traballador Saude Timor Leste / Introduction to Human Anatomy and Physiology**
+    - This course provides an introduction to human anatomy and physiology tailored for healthcare workers in Timor Leste. It covers the structural organization of the human body from the chemical level to organ systems, with a focus on applications relevant to healthcare in Timor Leste. The course integrates clinical examples to demonstrate the relevance of anatomy and physiology to health and disease in the local context.
     
+51. **Komprehensivu Apoiu no Resposta Emerjensia iha Timor-Leste / Comprehensive First Aid and Emergency Response in Timor-Leste**
+    - This course provides comprehensive training in first aid and emergency response techniques, tailored for the context of Timor-Leste. Students will learn essential skills to assess and respond to various medical emergencies, with a focus on conditions and scenarios relevant to Timor-Leste's environment and healthcare landscape. The course combines theoretical knowledge with practical skills, emphasizing both conventional and alternative approaches to first aid. Upon completion, students will be equipped to provide immediate care in emergency situations, promote community health, and contribute to disaster preparedness efforts in Timor-Leste.
+
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Online/Offline English Exam for Progress Tracking
@@ -514,6 +523,8 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 
 ## Course Syllabi
 
+- Anatomy
+- Astronomy
 - English_Language
 - Fiction_Writing
 - Food_Inovation_and_Sustainability
@@ -549,6 +560,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - ECE
 - emotional_intelligence
 - female_empowerment
+- First Aid
 - gen_syllabus
 - genai
 - gnostic_gospels
@@ -570,6 +582,8 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - miranda_macpherson
 - mother_goddesses
 - mountain_agroforestry
+- Mushrooms
+- Myofascial Anatomy
 - nei_gung
 - neuroscience_and_society_in_timoe_leste
 - offgrid_living
@@ -594,6 +608,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - singing
 - sound_healing
 - sufi_poets
+- Sustainable Coconut Production and Value Chain Management in Timor-Leste
 - sustainable_local_architecture
 - synergetics
 - tarot

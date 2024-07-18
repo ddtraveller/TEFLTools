@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Anatomy and Physiology",
+  "questions": [
+    {
+      "question": "What is the study of the structure of body parts and their relationships to one another?",
+      "choices": [
+        "Physiology",
+        "Anatomy",
+        "Biology",
+        "Histology"
+      ],
+      "answer": "Anatomy"
+    },
+    {
+      "question": "Which of the following is NOT a level of structural organization in the human body?",
+      "choices": [
+        "Chemical level",
+        "Cellular level",
+        "Molecular level",
+        "Organ system level"
+      ],
+      "answer": "Molecular level"
+    },
+    {
+      "question": "What is homeostasis?",
+      "choices": [
+        "The study of disease",
+        "The maintenance of a stable internal environment",
+        "The process of cell division",
+        "The breakdown of nutrients for energy"
+      ],
+      "answer": "The maintenance of a stable internal environment"
+    },
+    {
+      "question": "Which term describes the front of the body?",
+      "choices": [
+        "Posterior",
+        "Anterior",
+        "Medial",
+        "Lateral"
+      ],
+      "answer": "Anterior"
+    },
+    {
+      "question": "What plane divides the body into left and right portions?",
+      "choices": [
+        "Coronal plane",
+        "Transverse plane",
+        "Sagittal plane",
+        "Frontal plane"
+      ],
+      "answer": "Sagittal plane"
+    },
+    {
+      "question": "Which of the following is an example of an organ system?",
+      "choices": [
+        "Heart",
+        "Epithelial tissue",
+        "Cardiovascular system",
+        "Neuron"
+      ],
+      "answer": "Cardiovascular system"
+    },
+    {
+      "question": "What is the basic unit of life?",
+      "choices": [
+        "Atom",
+        "Molecule",
+        "Cell",
+        "Tissue"
+      ],
+      "answer": "Cell"
+    },
+    {
+      "question": "Which feedback mechanism is most common in maintaining homeostasis?",
+      "choices": [
+        "Positive feedback",
+        "Negative feedback",
+        "Neutral feedback",
+        "Reverse feedback"
+      ],
+      "answer": "Negative feedback"
+    },
+    {
+      "question": "What term describes a position closer to the midline of the body?",
+      "choices": [
+        "Lateral",
+        "Medial",
+        "Proximal",
+        "Distal"
+      ],
+      "answer": "Medial"
+    },
+    {
+      "question": "Which plane separates the front from the back of the body?",
+      "choices": [
+        "Sagittal plane",
+        "Transverse plane",
+        "Coronal plane",
+        "Horizontal plane"
+      ],
+      "answer": "Coronal plane"
+    },
+    {
+      "question": "What is the study of the function of body parts and the body as a whole?",
+      "choices": [
+        "Anatomy",
+        "Physiology",
+        "Histology",
+        "Pathology"
+      ],
+      "answer": "Physiology"
+    },
+    {
+      "question": "Which of the following is NOT one of the four main tissue types?",
+      "choices": [
+        "Epithelial",
+        "Connective",
+        "Muscular",
+        "Osseous"
+      ],
+      "answer": "Osseous"
+    },
+    {
+      "question": "What term describes a position farther from the point of attachment or origin?",
+      "choices": [
+        "Proximal",
+        "Distal",
+        "Superficial",
+        "Deep"
+      ],
+      "answer": "Distal"
+    },
+    {
+      "question": "Which of the following is an example of positive feedback in the body?",
+      "choices": [
+        "Blood pressure regulation",
+        "Body temperature regulation",
+        "Blood clotting",
+        "Blood glucose regulation"
+      ],
+      "answer": "Blood clotting"
+    },
+    {
+      "question": "What term describes a position above or toward the head?",
+      "choices": [
+        "Inferior",
+        "Superior",
+        "Anterior",
+        "Posterior"
+      ],
+      "answer": "Superior"
+    },
+    {
+      "question": "Which level of structural organization is composed of two or more tissue types?",
+      "choices": [
+        "Cellular level",
+        "Tissue level",
+        "Organ level",
+        "Organ system level"
+      ],
+      "answer": "Organ level"
+    },
+    {
+      "question": "What is the standard reference position used in anatomy?",
+      "choices": [
+        "Supine position",
+        "Prone position",
+        "Anatomical position",
+        "Fowler's position"
+      ],
+      "answer": "Anatomical position"
+    },
+    {
+      "question": "Which of the following is NOT a body cavity?",
+      "choices": [
+        "Cranial cavity",
+        "Thoracic cavity",
+        "Abdominal cavity",
+        "Muscular cavity"
+      ],
+      "answer": "Muscular cavity"
+    },
+    {
+      "question": "What term describes structures closer to the surface of the body?",
+      "choices": [
+        "Deep",
+        "Superficial",
+        "Medial",
+        "Proximal"
+      ],
+      "answer": "Superficial"
+    },
+    {
+      "question": "Which of the following is an example of homeostasis?",
+      "choices": [
+        "Digestion of food",
+        "Growth of bones",
+        "Regulation of body temperature",
+        "Development of muscles"
+      ],
+      "answer": "Regulation of body temperature"
+    },
+    {
+      "question": "What plane divides the body into superior and inferior portions?",
+      "choices": [
+        "Sagittal plane",
+        "Coronal plane",
+        "Transverse plane",
+        "Vertical plane"
+      ],
+      "answer": "Transverse plane"
+    },
+    {
+      "question": "Which term describes a position below or toward the feet?",
+      "choices": [
+        "Superior",
+        "Inferior",
+        "Anterior",
+        "Posterior"
+      ],
+      "answer": "Inferior"
+    },
+    {
+      "question": "What is the correct order of structural organization from simplest to most complex?",
+      "choices": [
+        "Chemical, cellular, tissue, organ, organ system",
+        "Cellular, chemical, tissue, organ, organ system",
+        "Tissue, cellular, chemical, organ, organ system",
+        "Chemical, tissue, cellular, organ, organ system"
+      ],
+      "answer": "Chemical, cellular, tissue, organ, organ system"
+    },
+    {
+      "question": "Which of the following is NOT a directional term used in anatomy?",
+      "choices": [
+        "Proximal",
+        "Distal",
+        "Vertical",
+        "Lateral"
+      ],
+      "answer": "Vertical"
+    },
+    {
+      "question": "What is the primary function of negative feedback in the body?",
+      "choices": [
+        "To amplify changes in the body",
+        "To maintain homeostasis",
+        "To increase body temperature",
+        "To decrease blood pressure"
+      ],
+      "answer": "To maintain homeostasis"
+    },
+    {
+      "question": "Which of the following is an example of an organ?",
+      "choices": [
+        "Nervous system",
+        "Epithelial tissue",
+        "Heart",
+        "Red blood cell"
+      ],
+      "answer": "Heart"
+    },
+    {
+      "question": "What term describes the back of the body?",
+      "choices": [
+        "Anterior",
+        "Posterior",
+        "Medial",
+        "Lateral"
+      ],
+      "answer": "Posterior"
+    },
+    {
+      "question": "Which of the following is NOT a component of the chemical level of organization?",
+      "choices": [
+        "Atoms",
+        "Molecules",
+        "Cells",
+        "Ions"
+      ],
+      "answer": "Cells"
+    },
+    {
+      "question": "What is the primary advantage of using standardized anatomical terminology?",
+      "choices": [
+        "It makes anatomy easier to learn",
+        "It allows for precise descriptions of body locations",
+        "It simplifies complex physiological processes",
+        "It reduces the need for medical imaging"
+      ],
+      "answer": "It allows for precise descriptions of body locations"
+    },
+    {
+      "question": "Which of the following best describes the relationship between anatomy and physiology?",
+      "choices": [
+        "They are completely separate fields of study",
+        "Anatomy is a subset of physiology",
+        "Physiology is a subset of anatomy",
+        "They are interrelated and complementary disciplines"
+      ],
+      "answer": "They are interrelated and complementary disciplines"
+    }
+  ]
+}

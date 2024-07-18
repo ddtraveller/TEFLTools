@@ -1,0 +1,305 @@
+{
+  "title": "Space-Based Instruments and Technologies",
+  "questions": [
+    {
+      "question": "Which type of space telescope is designed to observe visible light?",
+      "choices": [
+        "Radio telescope",
+        "X-ray telescope",
+        "Optical telescope",
+        "Gamma-ray telescope"
+      ],
+      "answer": "Optical telescope"
+    },
+    {
+      "question": "What is the main advantage of space-based telescopes over ground-based telescopes?",
+      "choices": [
+        "They are cheaper to build and maintain",
+        "They avoid atmospheric distortion and absorption",
+        "They can be easily repaired",
+        "They have a wider field of view"
+      ],
+      "answer": "They avoid atmospheric distortion and absorption"
+    },
+    {
+      "question": "Which space telescope is known for observing X-rays from high-energy phenomena?",
+      "choices": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory",
+        "Spitzer Space Telescope"
+      ],
+      "answer": "Chandra X-ray Observatory"
+    },
+    {
+      "question": "What is the primary function of a spectrometer in a space telescope?",
+      "choices": [
+        "To focus light onto the detector",
+        "To separate light into component wavelengths",
+        "To measure the intensity of light",
+        "To cool the telescope's instruments"
+      ],
+      "answer": "To separate light into component wavelengths"
+    },
+    {
+      "question": "What is a CCD in the context of space telescopes?",
+      "choices": [
+        "Cosmic Cooling Device",
+        "Charge-Coupled Device",
+        "Celestial Coordinate Detector",
+        "Chromatic Correction Diaphragm"
+      ],
+      "answer": "Charge-Coupled Device"
+    },
+    {
+      "question": "Which of the following is NOT a major challenge in operating space-based instruments?",
+      "choices": [
+        "Launching and deployment",
+        "Maintenance and repairs",
+        "Thermal control",
+        "Atmospheric turbulence"
+      ],
+      "answer": "Atmospheric turbulence"
+    },
+    {
+      "question": "What type of telescope is best suited for studying cold molecular clouds and the early universe?",
+      "choices": [
+        "Optical telescope",
+        "X-ray telescope",
+        "Radio telescope",
+        "Ultraviolet telescope"
+      ],
+      "answer": "Radio telescope"
+    },
+    {
+      "question": "Why do some space telescope detectors require cryogenic cooling?",
+      "choices": [
+        "To prevent overheating from solar radiation",
+        "To reduce thermal noise and improve sensitivity",
+        "To maintain structural integrity in the vacuum of space",
+        "To prevent condensation on optical surfaces"
+      ],
+      "answer": "To reduce thermal noise and improve sensitivity"
+    },
+    {
+      "question": "What is a key advantage of X-ray telescopes being in space?",
+      "choices": [
+        "X-rays can be easily detected on Earth's surface",
+        "Space-based X-ray telescopes are cheaper to build",
+        "X-rays don't penetrate Earth's atmosphere",
+        "X-ray telescopes work better in Earth's magnetic field"
+      ],
+      "answer": "X-rays don't penetrate Earth's atmosphere"
+    },
+    {
+      "question": "Which component of a space telescope collects and focuses light?",
+      "choices": [
+        "Secondary mirror",
+        "Primary mirror",
+        "Spectrometer",
+        "Photometer"
+      ],
+      "answer": "Primary mirror"
+    },
+    {
+      "question": "What is the main function of a photometer in a space telescope?",
+      "choices": [
+        "To capture images of celestial objects",
+        "To measure the intensity of light",
+        "To analyze the chemical composition of stars",
+        "To control the telescope's temperature"
+      ],
+      "answer": "To measure the intensity of light"
+    },
+    {
+      "question": "Which of the following is NOT a type of electromagnetic radiation typically observed by space telescopes?",
+      "choices": [
+        "Visible light",
+        "X-rays",
+        "Radio waves",
+        "Sound waves"
+      ],
+      "answer": "Sound waves"
+    },
+    {
+      "question": "What is a major challenge in data transmission for space-based instruments?",
+      "choices": [
+        "Limited bandwidth",
+        "Interference from Earth's radio signals",
+        "The speed of light delay",
+        "Encryption of sensitive data"
+      ],
+      "answer": "Limited bandwidth"
+    },
+    {
+      "question": "Which space telescope is designed to observe primarily in the infrared spectrum?",
+      "choices": [
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "James Webb Space Telescope",
+        "Fermi Gamma-ray Space Telescope"
+      ],
+      "answer": "James Webb Space Telescope"
+    },
+    {
+      "question": "What is the purpose of a sunshield on a space telescope like the James Webb Space Telescope?",
+      "choices": [
+        "To generate power for the telescope",
+        "To protect against micrometeoroid impacts",
+        "To reduce temperatures and allow for infrared observations",
+        "To improve communication with Earth"
+      ],
+      "answer": "To reduce temperatures and allow for infrared observations"
+    },
+    {
+      "question": "Which of the following is NOT a typical scientific instrument found on a space telescope?",
+      "choices": [
+        "CCD camera",
+        "Spectrometer",
+        "Photometer",
+        "Seismometer"
+      ],
+      "answer": "Seismometer"
+    },
+    {
+      "question": "What is the main advantage of using interferometry with space-based radio telescopes?",
+      "choices": [
+        "It reduces the cost of launching multiple satellites",
+        "It allows for the creation of larger virtual telescopes",
+        "It eliminates the need for large dish antennas",
+        "It improves the telescope's ability to detect visible light"
+      ],
+      "answer": "It allows for the creation of larger virtual telescopes"
+    },
+    {
+      "question": "Which of the following phenomena is best studied using an X-ray space telescope?",
+      "choices": [
+        "Planetary atmospheres",
+        "Interstellar dust clouds",
+        "Black hole accretion disks",
+        "Low-mass brown dwarfs"
+      ],
+      "answer": "Black hole accretion disks"
+    },
+    {
+      "question": "What is a key difference between optical and radio space telescopes?",
+      "choices": [
+        "Optical telescopes use mirrors, while radio telescopes use lenses",
+        "Radio telescopes can operate on Earth's surface, while optical telescopes cannot",
+        "Optical telescopes detect shorter wavelengths than radio telescopes",
+        "Radio telescopes require cryogenic cooling, while optical telescopes do not"
+      ],
+      "answer": "Optical telescopes detect shorter wavelengths than radio telescopes"
+    },
+    {
+      "question": "Why are space-based telescopes particularly useful for ultraviolet astronomy?",
+      "choices": [
+        "Ultraviolet light is easier to detect in space",
+        "Earth's atmosphere blocks most ultraviolet radiation",
+        "Ultraviolet telescopes are cheaper to launch",
+        "Ultraviolet light is only emitted by objects in space"
+      ],
+      "answer": "Earth's atmosphere blocks most ultraviolet radiation"
+    },
+    {
+      "question": "What is the primary purpose of grazing incidence mirrors in X-ray telescopes?",
+      "choices": [
+        "To cool the telescope's instruments",
+        "To focus X-rays onto the detector",
+        "To protect against radiation damage",
+        "To generate power for the telescope"
+      ],
+      "answer": "To focus X-rays onto the detector"
+    },
+    {
+      "question": "Which of the following is NOT a typical objective of space-based astronomy?",
+      "choices": [
+        "Studying the early universe",
+        "Detecting exoplanets",
+        "Mapping Earth's surface",
+        "Observing high-energy phenomena"
+      ],
+      "answer": "Mapping Earth's surface"
+    },
+    {
+      "question": "What is a major advantage of using CCDs in space telescopes?",
+      "choices": [
+        "They are immune to radiation damage",
+        "They have high sensitivity and efficiency",
+        "They do not require power to operate",
+        "They can detect all types of electromagnetic radiation"
+      ],
+      "answer": "They have high sensitivity and efficiency"
+    },
+    {
+      "question": "Which of the following is a key challenge in the thermal control of space telescopes?",
+      "choices": [
+        "Maintaining a constant temperature in the changing environment of space",
+        "Preventing overheating from Earth's atmosphere",
+        "Dealing with the greenhouse effect inside the telescope",
+        "Managing heat generated by ground-based control systems"
+      ],
+      "answer": "Maintaining a constant temperature in the changing environment of space"
+    },
+    {
+      "question": "What is the main purpose of a coronagraph in a space telescope?",
+      "choices": [
+        "To measure the sun's corona",
+        "To block out the bright light of stars for exoplanet detection",
+        "To analyze the chemical composition of planetary atmospheres",
+        "To correct for atmospheric distortion"
+      ],
+      "answer": "To block out the bright light of stars for exoplanet detection"
+    },
+    {
+      "question": "Which space telescope was specifically designed to survey the entire sky in infrared light?",
+      "choices": [
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "WISE (Wide-field Infrared Survey Explorer)",
+        "Fermi Gamma-ray Space Telescope"
+      ],
+      "answer": "WISE (Wide-field Infrared Survey Explorer)"
+    },
+    {
+      "question": "What is the primary advantage of having a large primary mirror in a space telescope?",
+      "choices": [
+        "It makes the telescope more stable in orbit",
+        "It allows the telescope to collect more light and see fainter objects",
+        "It reduces the need for complex instruments",
+        "It makes the telescope easier to launch"
+      ],
+      "answer": "It allows the telescope to collect more light and see fainter objects"
+    },
+    {
+      "question": "Which of the following is NOT a common method for cooling instruments on space telescopes?",
+      "choices": [
+        "Passive radiative cooling",
+        "Cryogenic cooling with liquid helium",
+        "Thermoelectric cooling",
+        "Atmospheric convection cooling"
+      ],
+      "answer": "Atmospheric convection cooling"
+    },
+    {
+      "question": "What is the main purpose of adaptive optics in space telescopes?",
+      "choices": [
+        "To adjust the telescope's orbit",
+        "To correct for atmospheric distortion",
+        "To protect against micrometeoroid impacts",
+        "To improve data transmission to Earth"
+      ],
+      "answer": "To correct for atmospheric distortion"
+    },
+    {
+      "question": "Which of the following space telescopes is primarily designed to study dark energy and dark matter?",
+      "choices": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Euclid Space Telescope",
+        "Kepler Space Telescope"
+      ],
+      "answer": "Euclid Space Telescope"
+    }
+  ]
+}

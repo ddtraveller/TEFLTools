@@ -1,0 +1,305 @@
+{
+  "title": "Reproductive and Endocrine Systems",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a function of the testes?",
+      "choices": [
+        "Produce sperm",
+        "Secrete testosterone",
+        "Store mature sperm",
+        "Regulate body temperature"
+      ],
+      "answer": "Regulate body temperature"
+    },
+    {
+      "question": "Where does fertilization typically occur in the female reproductive system?",
+      "choices": [
+        "Uterus",
+        "Ovaries",
+        "Fallopian tubes",
+        "Cervix"
+      ],
+      "answer": "Fallopian tubes"
+    },
+    {
+      "question": "Which hormone triggers ovulation?",
+      "choices": [
+        "Estrogen",
+        "Progesterone",
+        "Follicle-stimulating hormone (FSH)",
+        "Luteinizing hormone (LH)"
+      ],
+      "answer": "Luteinizing hormone (LH)"
+    },
+    {
+      "question": "What is the primary function of the corpus luteum?",
+      "choices": [
+        "Produce estrogen",
+        "Produce progesterone",
+        "Stimulate follicle growth",
+        "Trigger menstruation"
+      ],
+      "answer": "Produce progesterone"
+    },
+    {
+      "question": "Which of the following is NOT a phase of the menstrual cycle?",
+      "choices": [
+        "Follicular phase",
+        "Luteal phase",
+        "Ovulatory phase",
+        "Implantation phase"
+      ],
+      "answer": "Implantation phase"
+    },
+    {
+      "question": "What is the function of the epididymis in the male reproductive system?",
+      "choices": [
+        "Produce sperm",
+        "Store and mature sperm",
+        "Produce testosterone",
+        "Facilitate ejaculation"
+      ],
+      "answer": "Store and mature sperm"
+    },
+    {
+      "question": "Which endocrine gland is often referred to as the 'master gland'?",
+      "choices": [
+        "Thyroid",
+        "Adrenal",
+        "Pituitary",
+        "Pancreas"
+      ],
+      "answer": "Pituitary"
+    },
+    {
+      "question": "What is the primary male sex hormone?",
+      "choices": [
+        "Estrogen",
+        "Progesterone",
+        "Testosterone",
+        "Cortisol"
+      ],
+      "answer": "Testosterone"
+    },
+    {
+      "question": "Which of the following is NOT a function of estrogen?",
+      "choices": [
+        "Promote development of female secondary sex characteristics",
+        "Regulate the menstrual cycle",
+        "Stimulate sperm production",
+        "Maintain bone density"
+      ],
+      "answer": "Stimulate sperm production"
+    },
+    {
+      "question": "What is the process of egg cell development called?",
+      "choices": [
+        "Spermatogenesis",
+        "Oogenesis",
+        "Fertilization",
+        "Ovulation"
+      ],
+      "answer": "Oogenesis"
+    },
+    {
+      "question": "Which hormone is responsible for stimulating milk production in lactating women?",
+      "choices": [
+        "Estrogen",
+        "Progesterone",
+        "Oxytocin",
+        "Prolactin"
+      ],
+      "answer": "Prolactin"
+    },
+    {
+      "question": "What is the function of the seminal vesicles?",
+      "choices": [
+        "Produce sperm",
+        "Store sperm",
+        "Produce fructose-rich fluid for sperm nutrition",
+        "Produce testosterone"
+      ],
+      "answer": "Produce fructose-rich fluid for sperm nutrition"
+    },
+    {
+      "question": "Which of the following is NOT a function of the uterus?",
+      "choices": [
+        "Site of fetal development",
+        "Production of female gametes",
+        "Facilitates delivery of the baby",
+        "Provides nutrients to the developing fetus"
+      ],
+      "answer": "Production of female gametes"
+    },
+    {
+      "question": "What is the primary function of follicle-stimulating hormone (FSH) in females?",
+      "choices": [
+        "Trigger ovulation",
+        "Stimulate follicle growth",
+        "Maintain the corpus luteum",
+        "Initiate menstruation"
+      ],
+      "answer": "Stimulate follicle growth"
+    },
+    {
+      "question": "Which endocrine gland produces hormones that regulate metabolism?",
+      "choices": [
+        "Pituitary",
+        "Thyroid",
+        "Adrenal",
+        "Pancreas"
+      ],
+      "answer": "Thyroid"
+    },
+    {
+      "question": "What is the term for the release of an egg from the ovary?",
+      "choices": [
+        "Menstruation",
+        "Fertilization",
+        "Ovulation",
+        "Implantation"
+      ],
+      "answer": "Ovulation"
+    },
+    {
+      "question": "Which of the following is NOT a function of the endocrine system?",
+      "choices": [
+        "Regulate metabolism",
+        "Control blood pressure",
+        "Produce antibodies",
+        "Influence growth and development"
+      ],
+      "answer": "Produce antibodies"
+    },
+    {
+      "question": "What is the primary function of progesterone during pregnancy?",
+      "choices": [
+        "Stimulate uterine contractions",
+        "Maintain the uterine lining",
+        "Promote fetal brain development",
+        "Initiate labor"
+      ],
+      "answer": "Maintain the uterine lining"
+    },
+    {
+      "question": "Which of the following is a secondary sex characteristic in males?",
+      "choices": [
+        "Ovulation",
+        "Menstruation",
+        "Deepening of the voice",
+        "Breast development"
+      ],
+      "answer": "Deepening of the voice"
+    },
+    {
+      "question": "What is the function of gonadotropin-releasing hormone (GnRH)?",
+      "choices": [
+        "Stimulate testosterone production",
+        "Trigger ovulation",
+        "Stimulate the pituitary to release FSH and LH",
+        "Regulate menstruation"
+      ],
+      "answer": "Stimulate the pituitary to release FSH and LH"
+    },
+    {
+      "question": "Which of the following is NOT a part of the female external genitalia?",
+      "choices": [
+        "Labia majora",
+        "Clitoris",
+        "Cervix",
+        "Vulva"
+      ],
+      "answer": "Cervix"
+    },
+    {
+      "question": "What is the function of the prostate gland?",
+      "choices": [
+        "Produce sperm",
+        "Store sperm",
+        "Produce alkaline fluid to neutralize vaginal acidity",
+        "Regulate testosterone levels"
+      ],
+      "answer": "Produce alkaline fluid to neutralize vaginal acidity"
+    },
+    {
+      "question": "Which hormone is responsible for the development of the endometrium during the menstrual cycle?",
+      "choices": [
+        "Testosterone",
+        "Estrogen",
+        "Progesterone",
+        "Cortisol"
+      ],
+      "answer": "Estrogen"
+    },
+    {
+      "question": "What is the term for the fusion of sperm and egg?",
+      "choices": [
+        "Implantation",
+        "Ovulation",
+        "Fertilization",
+        "Gestation"
+      ],
+      "answer": "Fertilization"
+    },
+    {
+      "question": "Which of the following is NOT a function of the placenta during pregnancy?",
+      "choices": [
+        "Produce hormones",
+        "Exchange nutrients and waste",
+        "Protect the fetus from infections",
+        "Produce eggs"
+      ],
+      "answer": "Produce eggs"
+    },
+    {
+      "question": "What is the primary function of luteinizing hormone (LH) in males?",
+      "choices": [
+        "Stimulate sperm production",
+        "Stimulate testosterone production",
+        "Regulate the menstrual cycle",
+        "Promote egg maturation"
+      ],
+      "answer": "Stimulate testosterone production"
+    },
+    {
+      "question": "Which of the following is NOT a common symptom of menopause?",
+      "choices": [
+        "Hot flashes",
+        "Irregular periods",
+        "Increased fertility",
+        "Mood changes"
+      ],
+      "answer": "Increased fertility"
+    },
+    {
+      "question": "What is the function of inhibin in the male reproductive system?",
+      "choices": [
+        "Stimulate sperm production",
+        "Inhibit FSH production",
+        "Promote testosterone synthesis",
+        "Trigger puberty"
+      ],
+      "answer": "Inhibit FSH production"
+    },
+    {
+      "question": "Which of the following hormones is NOT produced by the adrenal glands?",
+      "choices": [
+        "Cortisol",
+        "Adrenaline",
+        "Aldosterone",
+        "Thyroxine"
+      ],
+      "answer": "Thyroxine"
+    },
+    {
+      "question": "What is the primary function of the corpus cavernosum in the penis?",
+      "choices": [
+        "Produce sperm",
+        "Store sperm",
+        "Enable erection",
+        "Produce testosterone"
+      ],
+      "answer": "Enable erection"
+    }
+  ]
+}

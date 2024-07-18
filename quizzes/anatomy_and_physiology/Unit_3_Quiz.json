@@ -1,0 +1,305 @@
+{
+  "title": "Integumentary and Skeletal Systems Quiz",
+  "questions": [
+    {
+      "question": "Which layer of the skin contains melanocytes?",
+      "choices": [
+        "Dermis",
+        "Hypodermis",
+        "Epidermis",
+        "Subcutaneous layer"
+      ],
+      "answer": "Epidermis"
+    },
+    {
+      "question": "What is the primary function of melanin in the skin?",
+      "choices": [
+        "Temperature regulation",
+        "Protection against UV radiation",
+        "Vitamin D synthesis",
+        "Sensory perception"
+      ],
+      "answer": "Protection against UV radiation"
+    },
+    {
+      "question": "Which of the following is NOT a function of the skeletal system?",
+      "choices": [
+        "Support",
+        "Protection",
+        "Movement",
+        "Digestion"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "question": "What type of tissue makes up the majority of the dermis?",
+      "choices": [
+        "Epithelial tissue",
+        "Muscle tissue",
+        "Connective tissue",
+        "Nervous tissue"
+      ],
+      "answer": "Connective tissue"
+    },
+    {
+      "question": "Which bone tissue type forms the dense outer layer of bones?",
+      "choices": [
+        "Spongy bone",
+        "Compact bone",
+        "Red bone marrow",
+        "Yellow bone marrow"
+      ],
+      "answer": "Compact bone"
+    },
+    {
+      "question": "What is the name of the tough membrane covering the outer surface of bones?",
+      "choices": [
+        "Periosteum",
+        "Perichondrium",
+        "Endosteum",
+        "Synovium"
+      ],
+      "answer": "Periosteum"
+    },
+    {
+      "question": "Which of the following is NOT a layer of the epidermis?",
+      "choices": [
+        "Stratum basale",
+        "Stratum spinosum",
+        "Stratum lucidum",
+        "Stratum adiposum"
+      ],
+      "answer": "Stratum adiposum"
+    },
+    {
+      "question": "What type of joint allows for the most movement?",
+      "choices": [
+        "Fibrous joint",
+        "Cartilaginous joint",
+        "Synovial joint",
+        "Suture joint"
+      ],
+      "answer": "Synovial joint"
+    },
+    {
+      "question": "Which of the following is NOT a function of the integumentary system?",
+      "choices": [
+        "Protection",
+        "Temperature regulation",
+        "Vitamin D synthesis",
+        "Blood cell production"
+      ],
+      "answer": "Blood cell production"
+    },
+    {
+      "question": "What is the primary cell type in the epidermis?",
+      "choices": [
+        "Melanocytes",
+        "Keratinocytes",
+        "Langerhans cells",
+        "Merkel cells"
+      ],
+      "answer": "Keratinocytes"
+    },
+    {
+      "question": "Which part of a long bone contains yellow bone marrow?",
+      "choices": [
+        "Epiphysis",
+        "Diaphysis",
+        "Metaphysis",
+        "Articular cartilage"
+      ],
+      "answer": "Diaphysis"
+    },
+    {
+      "question": "What is the normal pH range of human skin?",
+      "choices": [
+        "2.5-4.5",
+        "4.5-6.5",
+        "6.5-8.5",
+        "8.5-10.5"
+      ],
+      "answer": "4.5-6.5"
+    },
+    {
+      "question": "Which of the following is NOT a type of synovial joint?",
+      "choices": [
+        "Ball and socket",
+        "Hinge",
+        "Pivot",
+        "Suture"
+      ],
+      "answer": "Suture"
+    },
+    {
+      "question": "What is the main protein that makes up most of the epidermis?",
+      "choices": [
+        "Collagen",
+        "Elastin",
+        "Keratin",
+        "Melanin"
+      ],
+      "answer": "Keratin"
+    },
+    {
+      "question": "Which of the following is NOT a function of bones?",
+      "choices": [
+        "Mineral storage",
+        "Blood cell production",
+        "Hormone production",
+        "Neurotransmitter synthesis"
+      ],
+      "answer": "Neurotransmitter synthesis"
+    },
+    {
+      "question": "What type of gland produces sebum?",
+      "choices": [
+        "Eccrine gland",
+        "Apocrine gland",
+        "Sebaceous gland",
+        "Meibomian gland"
+      ],
+      "answer": "Sebaceous gland"
+    },
+    {
+      "question": "Which of the following is part of the axial skeleton?",
+      "choices": [
+        "Humerus",
+        "Femur",
+        "Vertebral column",
+        "Tibia"
+      ],
+      "answer": "Vertebral column"
+    },
+    {
+      "question": "What is the primary function of the subcutaneous layer of skin?",
+      "choices": [
+        "UV protection",
+        "Sensation",
+        "Insulation",
+        "Vitamin D synthesis"
+      ],
+      "answer": "Insulation"
+    },
+    {
+      "question": "Which cells in the skin are responsible for the immune response?",
+      "choices": [
+        "Melanocytes",
+        "Keratinocytes",
+        "Langerhans cells",
+        "Merkel cells"
+      ],
+      "answer": "Langerhans cells"
+    },
+    {
+      "question": "What type of movement brings a limb closer to the body's midline?",
+      "choices": [
+        "Abduction",
+        "Adduction",
+        "Rotation",
+        "Circumduction"
+      ],
+      "answer": "Adduction"
+    },
+    {
+      "question": "Which of the following is NOT a function of synovial fluid?",
+      "choices": [
+        "Lubrication",
+        "Shock absorption",
+        "Nutrient delivery",
+        "Blood cell production"
+      ],
+      "answer": "Blood cell production"
+    },
+    {
+      "question": "What is the term for the expanded ends of long bones?",
+      "choices": [
+        "Diaphysis",
+        "Epiphysis",
+        "Metaphysis",
+        "Apophysis"
+      ],
+      "answer": "Epiphysis"
+    },
+    {
+      "question": "Which of the following is NOT a type of bone cell?",
+      "choices": [
+        "Osteoblasts",
+        "Osteocytes",
+        "Osteoclasts",
+        "Osteofibrils"
+      ],
+      "answer": "Osteofibrils"
+    },
+    {
+      "question": "What is the primary function of eccrine sweat glands?",
+      "choices": [
+        "Thermoregulation",
+        "Pheromone production",
+        "Oil secretion",
+        "Immune defense"
+      ],
+      "answer": "Thermoregulation"
+    },
+    {
+      "question": "Which of the following is NOT a type of skin receptor?",
+      "choices": [
+        "Meissner's corpuscles",
+        "Pacinian corpuscles",
+        "Ruffini endings",
+        "Golgi corpuscles"
+      ],
+      "answer": "Golgi corpuscles"
+    },
+    {
+      "question": "What is the term for the process of bone remodeling?",
+      "choices": [
+        "Ossification",
+        "Calcification",
+        "Osteogenesis",
+        "Osteolysis"
+      ],
+      "answer": "Osteogenesis"
+    },
+    {
+      "question": "Which vitamin is synthesized in the skin upon exposure to UV light?",
+      "choices": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the primary function of red bone marrow?",
+      "choices": [
+        "Fat storage",
+        "Mineral storage",
+        "Blood cell production",
+        "Hormone production"
+      ],
+      "answer": "Blood cell production"
+    },
+    {
+      "question": "Which of the following is NOT a function of hair?",
+      "choices": [
+        "Protection",
+        "Sensation",
+        "Temperature regulation",
+        "Digestion"
+      ],
+      "answer": "Digestion"
+    },
+    {
+      "question": "What type of joint is found between the vertebrae?",
+      "choices": [
+        "Synovial joint",
+        "Fibrous joint",
+        "Cartilaginous joint",
+        "Ball and socket joint"
+      ],
+      "answer": "Cartilaginous joint"
+    }
+  ]
+}

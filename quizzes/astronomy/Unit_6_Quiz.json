@@ -1,0 +1,305 @@
+{
+  "title": "Cosmology and the Early Universe",
+  "questions": [
+    {
+      "question": "What is the prevailing theory explaining the origin and evolution of the universe?",
+      "choices": [
+        "Steady State Theory",
+        "Big Bang Theory",
+        "Oscillating Universe Theory",
+        "Multiverse Theory"
+      ],
+      "answer": "Big Bang Theory"
+    },
+    {
+      "question": "Approximately how old is the universe according to current estimates?",
+      "choices": [
+        "4.5 billion years",
+        "10 billion years",
+        "13.8 billion years",
+        "20 billion years"
+      ],
+      "answer": "13.8 billion years"
+    },
+    {
+      "question": "Who first proposed the concept of an expanding universe in the 1920s?",
+      "choices": [
+        "Edwin Hubble",
+        "Georges Lemaître",
+        "Albert Einstein",
+        "Alexander Friedmann"
+      ],
+      "answer": "Georges Lemaître"
+    },
+    {
+      "question": "What observation provided crucial evidence for the expanding universe?",
+      "choices": [
+        "Galactic redshifts",
+        "Cosmic microwave background radiation",
+        "Abundance of helium",
+        "Gravitational waves"
+      ],
+      "answer": "Galactic redshifts"
+    },
+    {
+      "question": "What is Hubble's Law?",
+      "choices": [
+        "The universe is expanding at a constant rate",
+        "Galaxies are moving away from us faster the farther away they are",
+        "The speed of light is constant in all reference frames",
+        "The total mass-energy of the universe is constant"
+      ],
+      "answer": "Galaxies are moving away from us faster the farther away they are"
+    },
+    {
+      "question": "What is the cosmic microwave background (CMB) radiation?",
+      "choices": [
+        "Radiation emitted by distant galaxies",
+        "The oldest light in the universe",
+        "Radiation from the sun",
+        "Radio waves from interstellar gas"
+      ],
+      "answer": "The oldest light in the universe"
+    },
+    {
+      "question": "When was the cosmic microwave background radiation discovered?",
+      "choices": [
+        "1905",
+        "1929",
+        "1964",
+        "1998"
+      ],
+      "answer": "1964"
+    },
+    {
+      "question": "Who accidentally discovered the cosmic microwave background radiation?",
+      "choices": [
+        "Edwin Hubble and Georges Lemaître",
+        "Albert Einstein and Niels Bohr",
+        "Arno Penzias and Robert Wilson",
+        "Stephen Hawking and Roger Penrose"
+      ],
+      "answer": "Arno Penzias and Robert Wilson"
+    },
+    {
+      "question": "What does the cosmic microwave background radiation represent?",
+      "choices": [
+        "The current temperature of space",
+        "Radiation from the Big Bang",
+        "Light from the first stars",
+        "Energy released by dark matter"
+      ],
+      "answer": "Radiation from the Big Bang"
+    },
+    {
+      "question": "What is the approximate temperature of the cosmic microwave background radiation?",
+      "choices": [
+        "0 Kelvin",
+        "2.7 Kelvin",
+        "273 Kelvin",
+        "5778 Kelvin"
+      ],
+      "answer": "2.7 Kelvin"
+    },
+    {
+      "question": "What is Big Bang nucleosynthesis?",
+      "choices": [
+        "The formation of heavy elements in stars",
+        "The creation of light elements in the early universe",
+        "The process of galaxy formation",
+        "The synthesis of dark matter"
+      ],
+      "answer": "The creation of light elements in the early universe"
+    },
+    {
+      "question": "Which light elements were primarily produced during Big Bang nucleosynthesis?",
+      "choices": [
+        "Carbon, nitrogen, and oxygen",
+        "Iron, nickel, and cobalt",
+        "Hydrogen, helium, and trace amounts of lithium",
+        "Gold, silver, and platinum"
+      ],
+      "answer": "Hydrogen, helium, and trace amounts of lithium"
+    },
+    {
+      "question": "What does the large-scale structure of the universe resemble?",
+      "choices": [
+        "A uniform distribution of galaxies",
+        "A cosmic web of filaments, clusters, and voids",
+        "A series of concentric spheres",
+        "A random scattering of galaxies"
+      ],
+      "answer": "A cosmic web of filaments, clusters, and voids"
+    },
+    {
+      "question": "What is dark matter?",
+      "choices": [
+        "Matter that emits no light",
+        "Black holes",
+        "Interstellar dust",
+        "Antimatter"
+      ],
+      "answer": "Matter that emits no light"
+    },
+    {
+      "question": "What evidence supports the existence of dark matter?",
+      "choices": [
+        "Direct observation through telescopes",
+        "Galactic rotation curves and gravitational lensing",
+        "Chemical analysis of interstellar gas",
+        "Radiation from black holes"
+      ],
+      "answer": "Galactic rotation curves and gravitational lensing"
+    },
+    {
+      "question": "Approximately what percentage of the universe's matter is thought to be dark matter?",
+      "choices": [
+        "15%",
+        "50%",
+        "85%",
+        "99%"
+      ],
+      "answer": "85%"
+    },
+    {
+      "question": "What is dark energy?",
+      "choices": [
+        "Energy emitted by black holes",
+        "A form of radiation not visible to telescopes",
+        "A mysterious force causing the accelerated expansion of the universe",
+        "The energy contained within dark matter"
+      ],
+      "answer": "A mysterious force causing the accelerated expansion of the universe"
+    },
+    {
+      "question": "When was the accelerating expansion of the universe discovered?",
+      "choices": [
+        "1920s",
+        "1960s",
+        "Late 1990s",
+        "2015"
+      ],
+      "answer": "Late 1990s"
+    },
+    {
+      "question": "What observation led to the discovery of the universe's accelerating expansion?",
+      "choices": [
+        "Cosmic microwave background radiation",
+        "Distant supernovae",
+        "Galactic redshifts",
+        "Gravitational waves"
+      ],
+      "answer": "Distant supernovae"
+    },
+    {
+      "question": "Approximately what percentage of the universe's total energy content is estimated to be dark energy?",
+      "choices": [
+        "5%",
+        "27%",
+        "68%",
+        "95%"
+      ],
+      "answer": "68%"
+    },
+    {
+      "question": "What is the 'Big Freeze' scenario?",
+      "choices": [
+        "The universe will eventually stop expanding",
+        "All matter will freeze at absolute zero",
+        "The universe will expand forever, becoming cold and dark",
+        "Galaxies will freeze in their current positions"
+      ],
+      "answer": "The universe will expand forever, becoming cold and dark"
+    },
+    {
+      "question": "What is the 'Big Crunch' scenario?",
+      "choices": [
+        "The universe will collapse back on itself",
+        "All matter will be consumed by black holes",
+        "Galaxies will collide and merge into one super-galaxy",
+        "The expansion of the universe will suddenly stop"
+      ],
+      "answer": "The universe will collapse back on itself"
+    },
+    {
+      "question": "What is cosmic inflation theory?",
+      "choices": [
+        "A theory explaining the current acceleration of the universe",
+        "A model of how galaxies increase in size",
+        "A theory proposing a period of rapid expansion in the very early universe",
+        "An economic model applied to cosmic resources"
+      ],
+      "answer": "A theory proposing a period of rapid expansion in the very early universe"
+    },
+    {
+      "question": "What does cosmic inflation theory attempt to explain?",
+      "choices": [
+        "The formation of black holes",
+        "The uniformity of the CMB and the flatness of space",
+        "The abundance of heavy elements in the universe",
+        "The existence of dark matter"
+      ],
+      "answer": "The uniformity of the CMB and the flatness of space"
+    },
+    {
+      "question": "What is the significance of the cosmic microwave background's uniformity?",
+      "choices": [
+        "It proves the universe is static",
+        "It suggests the universe was once much smaller and hotter",
+        "It indicates the presence of alien civilizations",
+        "It disproves the Big Bang theory"
+      ],
+      "answer": "It suggests the universe was once much smaller and hotter"
+    },
+    {
+      "question": "What does the 'flatness' of space refer to in cosmology?",
+      "choices": [
+        "The two-dimensional nature of the universe",
+        "The smooth texture of the cosmic microwave background",
+        "The balance between the universe's expansion rate and its matter/energy content",
+        "The uniform distribution of galaxies"
+      ],
+      "answer": "The balance between the universe's expansion rate and its matter/energy content"
+    },
+    {
+      "question": "What is the primary way astronomers detect dark matter?",
+      "choices": [
+        "Through direct observation with optical telescopes",
+        "By measuring its gravitational effects on visible matter",
+        "Using special dark matter detectors on Earth",
+        "By analyzing the chemical composition of stars"
+      ],
+      "answer": "By measuring its gravitational effects on visible matter"
+    },
+    {
+      "question": "What is the current understanding of the composition of the universe?",
+      "choices": [
+        "Mostly ordinary matter with some dark matter",
+        "Equal parts ordinary matter, dark matter, and dark energy",
+        "Mostly dark energy, with significant dark matter and a small amount of ordinary matter",
+        "Entirely composed of ordinary matter"
+      ],
+      "answer": "Mostly dark energy, with significant dark matter and a small amount of ordinary matter"
+    },
+    {
+      "question": "What is the significance of the Hubble constant?",
+      "choices": [
+        "It determines the age of the Earth",
+        "It measures the rate of the universe's expansion",
+        "It calculates the mass of the Milky Way",
+        "It predicts the frequency of supernovae"
+      ],
+      "answer": "It measures the rate of the universe's expansion"
+    },
+    {
+      "question": "What is the 'horizon problem' in cosmology?",
+      "choices": [
+        "The difficulty in observing distant galaxies",
+        "The apparent uniformity of the CMB across regions that should not have been in causal contact",
+        "The limit of our ability to see beyond the cosmic horizon",
+        "The problem of determining the edge of the observable universe"
+      ],
+      "answer": "The apparent uniformity of the CMB across regions that should not have been in causal contact"
+    }
+  ]
+}

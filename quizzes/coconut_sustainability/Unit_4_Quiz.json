@@ -1,0 +1,305 @@
+{
+  "title": "Coconut Processing Technologies and Product Applications",
+  "questions": [
+    {
+      "question": "What is copra?",
+      "choices": [
+        "Fresh coconut water",
+        "Dried coconut kernel",
+        "Coconut oil",
+        "Coconut husk"
+      ],
+      "answer": "Dried coconut kernel"
+    },
+    {
+      "question": "Which method of coconut oil extraction typically produces the highest quality oil with the most nutrients preserved?",
+      "choices": [
+        "Hot-pressed method",
+        "Cold-pressed method",
+        "Solvent extraction",
+        "Fermentation method"
+      ],
+      "answer": "Cold-pressed method"
+    },
+    {
+      "question": "What is the main advantage of centrifugal extraction for coconut oil production?",
+      "choices": [
+        "It requires less energy",
+        "It produces more oil",
+        "It can produce high-quality oil without heat or chemicals",
+        "It is the fastest method"
+      ],
+      "answer": "It can produce high-quality oil without heat or chemicals"
+    },
+    {
+      "question": "Which part of the coconut is used to produce activated carbon?",
+      "choices": [
+        "Husk",
+        "Meat",
+        "Shell",
+        "Water"
+      ],
+      "answer": "Shell"
+    },
+    {
+      "question": "What is the primary use of coconut flour?",
+      "choices": [
+        "Oil extraction",
+        "Gluten-free baking",
+        "Animal feed",
+        "Biodiesel production"
+      ],
+      "answer": "Gluten-free baking"
+    },
+    {
+      "question": "Which processing technique is commonly used to extend the shelf life of coconut water?",
+      "choices": [
+        "Fermentation",
+        "Dehydration",
+        "Ultra-high temperature (UHT) processing",
+        "Freezing"
+      ],
+      "answer": "Ultra-high temperature (UHT) processing"
+    },
+    {
+      "question": "What is the main difference between traditional and modern coconut dehusking methods?",
+      "choices": [
+        "Traditional methods use water, modern methods are dry",
+        "Traditional methods are manual, modern methods use machines",
+        "Traditional methods are faster",
+        "There is no significant difference"
+      ],
+      "answer": "Traditional methods are manual, modern methods use machines"
+    },
+    {
+      "question": "Which coconut product is often used as a dairy alternative?",
+      "choices": [
+        "Coconut oil",
+        "Coconut water",
+        "Coconut milk",
+        "Coconut flour"
+      ],
+      "answer": "Coconut milk"
+    },
+    {
+      "question": "What is the primary advantage of virgin coconut oil (VCO) over regular coconut oil?",
+      "choices": [
+        "It has a longer shelf life",
+        "It is cheaper to produce",
+        "It retains more natural flavor and nutrients",
+        "It has a higher smoke point"
+      ],
+      "answer": "It retains more natural flavor and nutrients"
+    },
+    {
+      "question": "Which coconut processing method involves allowing coconut milk to ferment before oil extraction?",
+      "choices": [
+        "Cold-pressed method",
+        "Hot-pressed method",
+        "Centrifugal extraction",
+        "Fermentation method"
+      ],
+      "answer": "Fermentation method"
+    },
+    {
+      "question": "What is the main purpose of homogenization in coconut milk production?",
+      "choices": [
+        "To increase shelf life",
+        "To improve flavor",
+        "To prevent separation",
+        "To reduce fat content"
+      ],
+      "answer": "To prevent separation"
+    },
+    {
+      "question": "Which coconut product is primarily used for water filtration and air purification?",
+      "choices": [
+        "Coconut oil",
+        "Coconut flour",
+        "Desiccated coconut",
+        "Activated carbon"
+      ],
+      "answer": "Activated carbon"
+    },
+    {
+      "question": "What is the first step in traditional copra production?",
+      "choices": [
+        "Drying the coconut meat",
+        "Cracking the coconut",
+        "Removing the husk",
+        "Extracting the oil"
+      ],
+      "answer": "Removing the husk"
+    },
+    {
+      "question": "Which method of coconut oil extraction typically has the highest oil yield?",
+      "choices": [
+        "Cold-pressed method",
+        "Hot-pressed method",
+        "Fermentation method",
+        "Centrifugal extraction"
+      ],
+      "answer": "Hot-pressed method"
+    },
+    {
+      "question": "What is the main disadvantage of traditional coconut oil extraction methods?",
+      "choices": [
+        "Lower oil quality",
+        "Higher cost",
+        "Lower oil yield",
+        "Environmental pollution"
+      ],
+      "answer": "Lower oil yield"
+    },
+    {
+      "question": "Which coconut product is often used as a natural sports drink?",
+      "choices": [
+        "Coconut milk",
+        "Coconut oil",
+        "Coconut water",
+        "Coconut cream"
+      ],
+      "answer": "Coconut water"
+    },
+    {
+      "question": "What is the primary advantage of spray-drying coconut milk?",
+      "choices": [
+        "Improved flavor",
+        "Increased nutrient content",
+        "Easier storage and transportation",
+        "Lower production cost"
+      ],
+      "answer": "Easier storage and transportation"
+    },
+    {
+      "question": "Which part of the coconut is typically discarded in most processing operations?",
+      "choices": [
+        "Meat",
+        "Water",
+        "Shell",
+        "Husk"
+      ],
+      "answer": "Husk"
+    },
+    {
+      "question": "What is the main difference between desiccated coconut and coconut flour?",
+      "choices": [
+        "Desiccated coconut is sweeter",
+        "Coconut flour is made from defatted coconut meat",
+        "Desiccated coconut has higher oil content",
+        "Coconut flour is not edible"
+      ],
+      "answer": "Coconut flour is made from defatted coconut meat"
+    },
+    {
+      "question": "Which coconut processing technology has significantly reduced labor requirements in large-scale operations?",
+      "choices": [
+        "Manual grating",
+        "Sun drying",
+        "Mechanical dehusking machines",
+        "Traditional oil presses"
+      ],
+      "answer": "Mechanical dehusking machines"
+    },
+    {
+      "question": "What is the primary purpose of carbonization in activated carbon production?",
+      "choices": [
+        "To increase porosity",
+        "To remove impurities",
+        "To create a carbon structure",
+        "To improve adsorption capacity"
+      ],
+      "answer": "To create a carbon structure"
+    },
+    {
+      "question": "Which coconut product is often used as a thickening agent in cooking?",
+      "choices": [
+        "Coconut water",
+        "Coconut oil",
+        "Coconut flour",
+        "Activated carbon"
+      ],
+      "answer": "Coconut flour"
+    },
+    {
+      "question": "What is the main advantage of aseptic packaging for coconut water?",
+      "choices": [
+        "Improved flavor",
+        "Lower cost",
+        "Long-term storage without refrigeration",
+        "Increased nutrient content"
+      ],
+      "answer": "Long-term storage without refrigeration"
+    },
+    {
+      "question": "Which coconut processing method is most suitable for small-scale, rural production?",
+      "choices": [
+        "Centrifugal extraction",
+        "UHT processing",
+        "Traditional hot-pressed method",
+        "Mechanical dehusking"
+      ],
+      "answer": "Traditional hot-pressed method"
+    },
+    {
+      "question": "What is the primary difference between virgin coconut oil and regular coconut oil?",
+      "choices": [
+        "Virgin coconut oil is extracted from fresh coconuts",
+        "Regular coconut oil has a higher smoke point",
+        "Virgin coconut oil has more saturated fat",
+        "Regular coconut oil is more expensive"
+      ],
+      "answer": "Virgin coconut oil is extracted from fresh coconuts"
+    },
+    {
+      "question": "Which process is used to ensure consistent particle size in coconut flour production?",
+      "choices": [
+        "Grinding",
+        "Drying",
+        "Defatting",
+        "Sifting"
+      ],
+      "answer": "Sifting"
+    },
+    {
+      "question": "What is the main challenge in preserving coconut water for commercial distribution?",
+      "choices": [
+        "High acidity",
+        "Low nutrient content",
+        "Susceptibility to microbial growth",
+        "Poor flavor retention"
+      ],
+      "answer": "Susceptibility to microbial growth"
+    },
+    {
+      "question": "Which coconut product has seen significant growth due to increasing demand for natural, healthy beverages?",
+      "choices": [
+        "Coconut oil",
+        "Coconut flour",
+        "Coconut water",
+        "Desiccated coconut"
+      ],
+      "answer": "Coconut water"
+    },
+    {
+      "question": "What is the primary purpose of adding stabilizers in coconut milk production?",
+      "choices": [
+        "To improve flavor",
+        "To increase shelf life",
+        "To prevent separation",
+        "To reduce fat content"
+      ],
+      "answer": "To prevent separation"
+    },
+    {
+      "question": "Which coconut processing technology is most energy-intensive?",
+      "choices": [
+        "Sun drying of copra",
+        "Cold-pressing for oil extraction",
+        "UHT processing of coconut water",
+        "Manual grating of coconut meat"
+      ],
+      "answer": "UHT processing of coconut water"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Circular Economy Approaches for Coconut Waste Valorization",
+  "questions": [
+    {
+      "question": "What is the primary goal of circular economy in the context of coconut production?",
+      "choices": [
+        "Increasing coconut yield",
+        "Eliminating waste and maximizing resource efficiency",
+        "Reducing labor costs",
+        "Expanding export markets"
+      ],
+      "answer": "Eliminating waste and maximizing resource efficiency"
+    },
+    {
+      "question": "Which part of the coconut is used to produce coir fibers?",
+      "choices": [
+        "Shell",
+        "Husk",
+        "Meat",
+        "Water"
+      ],
+      "answer": "Husk"
+    },
+    {
+      "question": "What is biochar?",
+      "choices": [
+        "A type of coconut oil",
+        "A charcoal-like substance produced through pyrolysis",
+        "A coconut-based fertilizer",
+        "A byproduct of coconut water processing"
+      ],
+      "answer": "A charcoal-like substance produced through pyrolysis"
+    },
+    {
+      "question": "Which industry uses coir fibers for seat cushions and insulation?",
+      "choices": [
+        "Construction",
+        "Textile",
+        "Automotive",
+        "Food processing"
+      ],
+      "answer": "Automotive"
+    },
+    {
+      "question": "What is a primary application of activated carbon produced from coconut shells?",
+      "choices": [
+        "Fuel production",
+        "Water purification",
+        "Food coloring",
+        "Textile manufacturing"
+      ],
+      "answer": "Water purification"
+    },
+    {
+      "question": "How does biochar contribute to sustainable agriculture?",
+      "choices": [
+        "By increasing the need for chemical fertilizers",
+        "By improving soil fertility and sequestering carbon",
+        "By accelerating crop growth cycles",
+        "By eliminating the need for irrigation"
+      ],
+      "answer": "By improving soil fertility and sequestering carbon"
+    },
+    {
+      "question": "What is upcycling in the context of coconut waste?",
+      "choices": [
+        "Burning coconut waste for energy",
+        "Transforming waste into higher-value products like handicrafts",
+        "Composting coconut husks",
+        "Exporting raw coconut waste"
+      ],
+      "answer": "Transforming waste into higher-value products like handicrafts"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of circular economy?",
+      "choices": [
+        "Design out waste and pollution",
+        "Keep products and materials in use",
+        "Regenerate natural systems",
+        "Maximize resource extraction"
+      ],
+      "answer": "Maximize resource extraction"
+    },
+    {
+      "question": "What is a geotextile made from coir fibers used for?",
+      "choices": [
+        "Clothing production",
+        "Erosion control",
+        "Food packaging",
+        "Building insulation"
+      ],
+      "answer": "Erosion control"
+    },
+    {
+      "question": "How does biochar improve soil quality?",
+      "choices": [
+        "By increasing soil acidity",
+        "By reducing water retention",
+        "By enhancing nutrient availability and microbial activity",
+        "By compacting the soil structure"
+      ],
+      "answer": "By enhancing nutrient availability and microbial activity"
+    },
+    {
+      "question": "What is pyrolysis in the context of biochar production?",
+      "choices": [
+        "A fermentation process",
+        "A thermal decomposition process in the absence of oxygen",
+        "A chemical extraction method",
+        "A mechanical grinding process"
+      ],
+      "answer": "A thermal decomposition process in the absence of oxygen"
+    },
+    {
+      "question": "Which of the following is a benefit of implementing circular economy practices in coconut production?",
+      "choices": [
+        "Increased waste generation",
+        "Reduced need for raw materials",
+        "Higher production costs",
+        "Decreased product quality"
+      ],
+      "answer": "Reduced need for raw materials"
+    },
+    {
+      "question": "What role do government policies play in promoting circular economy approaches in the coconut industry?",
+      "choices": [
+        "They have no impact on circular economy implementation",
+        "They can provide incentives and regulatory frameworks to support adoption",
+        "They exclusively focus on increasing coconut production",
+        "They discourage innovation in waste management"
+      ],
+      "answer": "They can provide incentives and regulatory frameworks to support adoption"
+    },
+    {
+      "question": "How does the circular economy model in coconut production contribute to economic development?",
+      "choices": [
+        "By reducing employment opportunities",
+        "By creating new value chains and income streams",
+        "By increasing reliance on imported goods",
+        "By centralizing production in urban areas"
+      ],
+      "answer": "By creating new value chains and income streams"
+    },
+    {
+      "question": "What is a closed-loop system in the context of coconut production?",
+      "choices": [
+        "A system where coconuts are grown indoors",
+        "A system where all waste is either reused or recycled",
+        "A system that only produces coconut oil",
+        "A system that excludes small-scale farmers"
+      ],
+      "answer": "A system where all waste is either reused or recycled"
+    },
+    {
+      "question": "Which industry benefits from the use of coconut-based activated carbon?",
+      "choices": [
+        "Textile manufacturing",
+        "Automotive production",
+        "Pharmaceutical industry",
+        "Mining"
+      ],
+      "answer": "Pharmaceutical industry"
+    },
+    {
+      "question": "What is the primary environmental benefit of using coconut husks as mulch?",
+      "choices": [
+        "It increases soil erosion",
+        "It improves water retention and soil structure",
+        "It accelerates plant growth",
+        "It eliminates the need for fertilizers"
+      ],
+      "answer": "It improves water retention and soil structure"
+    },
+    {
+      "question": "How does the circular economy approach in coconut production impact rural communities?",
+      "choices": [
+        "It reduces job opportunities",
+        "It increases dependence on external inputs",
+        "It creates new income sources and job opportunities",
+        "It has no significant impact on rural economies"
+      ],
+      "answer": "It creates new income sources and job opportunities"
+    },
+    {
+      "question": "What is a challenge in implementing circular economy practices in small-scale coconut farming?",
+      "choices": [
+        "Overproduction of coconuts",
+        "Lack of access to technology and knowledge",
+        "Excessive government regulation",
+        "Decreased demand for coconut products"
+      ],
+      "answer": "Lack of access to technology and knowledge"
+    },
+    {
+      "question": "How does the use of coconut-based biochar contribute to carbon sequestration?",
+      "choices": [
+        "By releasing carbon into the atmosphere",
+        "By storing carbon in the soil for long periods",
+        "By increasing the use of fossil fuels",
+        "By accelerating plant decomposition"
+      ],
+      "answer": "By storing carbon in the soil for long periods"
+    },
+    {
+      "question": "What is the role of innovation in circular economy approaches for coconut production?",
+      "choices": [
+        "It is not necessary for circular economy implementation",
+        "It focuses solely on increasing coconut yield",
+        "It drives the development of new waste valorization technologies",
+        "It aims to replace traditional farming practices entirely"
+      ],
+      "answer": "It drives the development of new waste valorization technologies"
+    },
+    {
+      "question": "Which of the following is an example of upcycling coconut waste?",
+      "choices": [
+        "Using coconut husks as fuel",
+        "Composting coconut shells",
+        "Creating decorative items from coconut shells",
+        "Discarding coconut waste in landfills"
+      ],
+      "answer": "Creating decorative items from coconut shells"
+    },
+    {
+      "question": "How does the circular economy model in coconut production contribute to food security?",
+      "choices": [
+        "By reducing coconut production",
+        "By improving soil fertility and crop yields",
+        "By eliminating the need for coconut farming",
+        "By increasing food imports"
+      ],
+      "answer": "By improving soil fertility and crop yields"
+    },
+    {
+      "question": "What is a potential export opportunity for coconut waste-derived products?",
+      "choices": [
+        "Raw coconut husks",
+        "Unprocessed coconut shells",
+        "Activated carbon for water filtration",
+        "Fresh coconuts"
+      ],
+      "answer": "Activated carbon for water filtration"
+    },
+    {
+      "question": "How does the circular economy approach affect the competitiveness of the coconut industry?",
+      "choices": [
+        "It reduces the industry's ability to compete globally",
+        "It has no impact on competitiveness",
+        "It enhances competitiveness through sustainability and innovation",
+        "It limits production capacity"
+      ],
+      "answer": "It enhances competitiveness through sustainability and innovation"
+    },
+    {
+      "question": "What is the significance of integrated coconut processing facilities in the circular economy model?",
+      "choices": [
+        "They focus solely on coconut oil production",
+        "They maximize resource efficiency by incorporating waste valorization technologies",
+        "They eliminate the need for small-scale farmers",
+        "They increase waste generation"
+      ],
+      "answer": "They maximize resource efficiency by incorporating waste valorization technologies"
+    },
+    {
+      "question": "How does the circular economy approach in coconut production align with sustainable development goals?",
+      "choices": [
+        "It contradicts sustainable development principles",
+        "It focuses only on economic growth",
+        "It addresses environmental, economic, and social sustainability",
+        "It is irrelevant to sustainable development"
+      ],
+      "answer": "It addresses environmental, economic, and social sustainability"
+    },
+    {
+      "question": "What role does traditional knowledge play in circular economy approaches for coconut production?",
+      "choices": [
+        "It is completely replaced by modern technologies",
+        "It can be integrated with modern practices for sustainable solutions",
+        "It is irrelevant in circular economy models",
+        "It hinders the implementation of circular economy practices"
+      ],
+      "answer": "It can be integrated with modern practices for sustainable solutions"
+    },
+    {
+      "question": "How does the circular economy model impact the need for chemical fertilizers in coconut farming?",
+      "choices": [
+        "It increases the reliance on chemical fertilizers",
+        "It has no effect on fertilizer use",
+        "It reduces the need for chemical fertilizers through natural soil enhancement",
+        "It completely eliminates the use of all fertilizers"
+      ],
+      "answer": "It reduces the need for chemical fertilizers through natural soil enhancement"
+    },
+    {
+      "question": "What is a key consideration in designing a circular economy model for a coconut processing facility?",
+      "choices": [
+        "Maximizing waste generation",
+        "Focusing only on coconut oil production",
+        "Integrating waste valorization into all stages of processing",
+        "Centralizing production in urban areas"
+      ],
+      "answer": "Integrating waste valorization into all stages of processing"
+    }
+  ]
+}

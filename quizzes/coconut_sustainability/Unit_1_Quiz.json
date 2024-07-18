@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Coconut Production in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of Timor-Leste's workforce is employed in agriculture?",
+      "choices": [
+        "17%",
+        "40%",
+        "64%",
+        "80%"
+      ],
+      "answer": "64%"
+    },
+    {
+      "question": "Which of the following is NOT one of the main crops in Timor-Leste?",
+      "choices": [
+        "Coffee",
+        "Rice",
+        "Maize",
+        "Wheat"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What is the approximate annual coconut production in Timor-Leste?",
+      "choices": [
+        "20,000 tons",
+        "40,000 tons",
+        "60,000 tons",
+        "80,000 tons"
+      ],
+      "answer": "40,000 tons"
+    },
+    {
+      "question": "How many hectares are currently under coconut cultivation in Timor-Leste?",
+      "choices": [
+        "8,000 hectares",
+        "14,000 hectares",
+        "20,000 hectares",
+        "30,000 hectares"
+      ],
+      "answer": "14,000 hectares"
+    },
+    {
+      "question": "Which of the following is a tall coconut variety grown in Timor-Leste?",
+      "choices": [
+        "Malayan Yellow Dwarf",
+        "East Timor Tall",
+        "MATAG Hybrid",
+        "West African Dwarf"
+      ],
+      "answer": "East Timor Tall"
+    },
+    {
+      "question": "What is the primary export crop of Timor-Leste?",
+      "choices": [
+        "Coconuts",
+        "Rice",
+        "Coffee",
+        "Maize"
+      ],
+      "answer": "Coffee"
+    },
+    {
+      "question": "Which district is the largest producer of coconuts in Timor-Leste?",
+      "choices": [
+        "Baucau",
+        "Viqueque",
+        "Manatuto",
+        "Lautem"
+      ],
+      "answer": "Manatuto"
+    },
+    {
+      "question": "What is copra?",
+      "choices": [
+        "A type of coconut palm",
+        "Coconut water",
+        "Dried coconut kernel",
+        "Coconut oil"
+      ],
+      "answer": "Dried coconut kernel"
+    },
+    {
+      "question": "Which period saw a decline in coconut production due to conflict in Timor-Leste?",
+      "choices": [
+        "Pre-colonial era",
+        "Portuguese colonial period",
+        "Indonesian occupation",
+        "Post-independence"
+      ],
+      "answer": "Indonesian occupation"
+    },
+    {
+      "question": "What is the average farm size for smallholder coconut farmers in Timor-Leste?",
+      "choices": [
+        "0.5-1 hectare",
+        "1-2 hectares",
+        "3-4 hectares",
+        "5-6 hectares"
+      ],
+      "answer": "1-2 hectares"
+    },
+    {
+      "question": "Which coconut variety is known for early bearing and smaller size?",
+      "choices": [
+        "East Timor Tall",
+        "Malayan Yellow Dwarf",
+        "MATAG Hybrid",
+        "West African Tall"
+      ],
+      "answer": "Malayan Yellow Dwarf"
+    },
+    {
+      "question": "What percentage of coconut producers in Timor-Leste are smallholder farmers?",
+      "choices": [
+        "50%",
+        "75%",
+        "85%",
+        "95%"
+      ],
+      "answer": "95%"
+    },
+    {
+      "question": "Which of the following is NOT a major challenge facing the coconut industry in Timor-Leste?",
+      "choices": [
+        "Aging palm populations",
+        "Limited access to improved varieties",
+        "Overproduction",
+        "Lack of processing facilities"
+      ],
+      "answer": "Overproduction"
+    },
+    {
+      "question": "What is the primary use of copra in Timor-Leste?",
+      "choices": [
+        "Animal feed",
+        "Biofuel production",
+        "Coconut oil extraction",
+        "Fertilizer"
+      ],
+      "answer": "Coconut oil extraction"
+    },
+    {
+      "question": "Which pest is a significant threat to coconut production in Timor-Leste?",
+      "choices": [
+        "Brontispa longissima",
+        "Rhynchophorus ferrugineus",
+        "Oryctes rhinoceros",
+        "Aceria guerreronis"
+      ],
+      "answer": "Brontispa longissima"
+    },
+    {
+      "question": "What is the average yield of coconuts per hectare in Timor-Leste?",
+      "choices": [
+        "1.5 tons",
+        "2.86 tons",
+        "4.2 tons",
+        "5.5 tons"
+      ],
+      "answer": "2.86 tons"
+    },
+    {
+      "question": "Which of the following is a characteristic of the MATAG hybrid coconut variety?",
+      "choices": [
+        "Very tall growth",
+        "Low yield potential",
+        "Combines early bearing of dwarf with high yield of tall",
+        "Poor adaptability to various conditions"
+      ],
+      "answer": "Combines early bearing of dwarf with high yield of tall"
+    },
+    {
+      "question": "What percentage of Timor-Leste's total land area is arable?",
+      "choices": [
+        "5.5%",
+        "10.1%",
+        "15.3%",
+        "20.7%"
+      ],
+      "answer": "10.1%"
+    },
+    {
+      "question": "Which of the following is NOT a main product of coconut production in Timor-Leste?",
+      "choices": [
+        "Fresh coconuts",
+        "Copra",
+        "Coconut oil",
+        "Coconut flour"
+      ],
+      "answer": "Coconut flour"
+    },
+    {
+      "question": "What is the approximate lifespan of a tall coconut variety?",
+      "choices": [
+        "20-30 years",
+        "40-50 years",
+        "60-80 years",
+        "100-120 years"
+      ],
+      "answer": "60-80 years"
+    },
+    {
+      "question": "Which district in Timor-Leste is known for its focus on fresh coconut production?",
+      "choices": [
+        "Manatuto",
+        "Baucau",
+        "Viqueque",
+        "Lautem"
+      ],
+      "answer": "Baucau"
+    },
+    {
+      "question": "What is the value of coconut oil exports from Timor-Leste in 2020?",
+      "choices": [
+        "$0.5 million",
+        "$1.2 million",
+        "$2.5 million",
+        "$3.8 million"
+      ],
+      "answer": "$1.2 million"
+    },
+    {
+      "question": "Which of the following is a sustainable approach being promoted for coconut farming in Timor-Leste?",
+      "choices": [
+        "Monoculture plantations",
+        "Agroforestry systems",
+        "Intensive chemical fertilization",
+        "Clear-cutting forests for expansion"
+      ],
+      "answer": "Agroforestry systems"
+    },
+    {
+      "question": "What percentage of coconut palms in Timor-Leste are over 50 years old?",
+      "choices": [
+        "30%",
+        "45%",
+        "60%",
+        "75%"
+      ],
+      "answer": "60%"
+    },
+    {
+      "question": "Which of the following is NOT a main export destination for Timorese coconut products?",
+      "choices": [
+        "Indonesia",
+        "Singapore",
+        "Australia",
+        "Japan"
+      ],
+      "answer": "Japan"
+    },
+    {
+      "question": "What is the average number of nuts produced per year by a Malayan Yellow Dwarf coconut palm?",
+      "choices": [
+        "40-60",
+        "60-80",
+        "80-100",
+        "100-120"
+      ],
+      "answer": "80-100"
+    },
+    {
+      "question": "Which period marked the expansion of coconut plantations in Timor-Leste?",
+      "choices": [
+        "Pre-colonial era",
+        "Portuguese colonial period",
+        "Indonesian occupation",
+        "Post-independence"
+      ],
+      "answer": "Portuguese colonial period"
+    },
+    {
+      "question": "What is the approximate height of a mature East Timor Tall coconut palm?",
+      "choices": [
+        "5-10 meters",
+        "10-15 meters",
+        "20-30 meters",
+        "35-40 meters"
+      ],
+      "answer": "20-30 meters"
+    },
+    {
+      "question": "Which of the following is a potential impact of climate change on Timor-Leste's coconut industry?",
+      "choices": [
+        "Increased productivity in all regions",
+        "Reduced pest infestations",
+        "Rising sea levels affecting coastal plantations",
+        "Longer fruiting seasons"
+      ],
+      "answer": "Rising sea levels affecting coastal plantations"
+    },
+    {
+      "question": "What is the average copra content per nut for the East Timor Tall variety?",
+      "choices": [
+        "100-150 grams",
+        "150-200 grams",
+        "200-250 grams",
+        "250-300 grams"
+      ],
+      "answer": "250-300 grams"
+    }
+  ]
+}

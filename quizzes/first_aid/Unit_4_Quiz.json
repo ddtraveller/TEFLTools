@@ -1,0 +1,304 @@
+{
+  "title": "Wound Care and Bleeding Control",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a common type of wound?",
+      "choices": [
+        "Abrasion",
+        "Laceration",
+        "Puncture",
+        "Contusion"
+      ],
+      "answer": "Contusion"
+    },
+    {
+      "question": "What is the first step in wound cleaning?",
+      "choices": [
+        "Apply antiseptic solution",
+        "Wash hands or use disposable gloves",
+        "Remove visible debris with tweezers",
+        "Apply direct pressure"
+      ],
+      "answer": "Wash hands or use disposable gloves"
+    },
+    {
+      "question": "Which technique is considered a last resort for controlling severe limb bleeding?",
+      "choices": [
+        "Direct pressure",
+        "Elevation",
+        "Pressure points",
+        "Tourniquet"
+      ],
+      "answer": "Tourniquet"
+    },
+    {
+      "question": "What is the recommended duration for maintaining direct pressure on a bleeding wound?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "30 minutes"
+      ],
+      "answer": "15 minutes"
+    },
+    {
+      "question": "Which of the following is a sign of wound infection?",
+      "choices": [
+        "Decreased redness",
+        "Reduced swelling",
+        "Pus drainage",
+        "Rapid healing"
+      ],
+      "answer": "Pus drainage"
+    },
+    {
+      "question": "What type of wound is characterized by skin being scraped or rubbed against a rough surface?",
+      "choices": [
+        "Laceration",
+        "Puncture",
+        "Avulsion",
+        "Abrasion"
+      ],
+      "answer": "Abrasion"
+    },
+    {
+      "question": "Which artery is used as a pressure point for controlling bleeding in arm injuries?",
+      "choices": [
+        "Femoral",
+        "Brachial",
+        "Carotid",
+        "Radial"
+      ],
+      "answer": "Brachial"
+    },
+    {
+      "question": "What is the primary purpose of elevating an injured limb?",
+      "choices": [
+        "To reduce pain",
+        "To improve circulation",
+        "To reduce blood flow to the wound",
+        "To prevent infection"
+      ],
+      "answer": "To reduce blood flow to the wound"
+    },
+    {
+      "question": "Which of the following wounds is most likely to require stitches?",
+      "choices": [
+        "Superficial abrasion",
+        "Small puncture wound",
+        "Deep laceration",
+        "Minor burn"
+      ],
+      "answer": "Deep laceration"
+    },
+    {
+      "question": "What is the recommended method for cleaning around a wound?",
+      "choices": [
+        "Circular motions from the edge to the center",
+        "Circular motions from the center outward",
+        "Back and forth motions across the wound",
+        "Random dabbing motions"
+      ],
+      "answer": "Circular motions from the center outward"
+    },
+    {
+      "question": "Which of the following is NOT a recommended step in wound cleaning?",
+      "choices": [
+        "Rinsing with clean water",
+        "Using mild soap",
+        "Applying alcohol directly to the wound",
+        "Using tweezers to remove debris"
+      ],
+      "answer": "Applying alcohol directly to the wound"
+    },
+    {
+      "question": "What type of wound is characterized by skin or tissue being partially or completely torn away?",
+      "choices": [
+        "Abrasion",
+        "Laceration",
+        "Puncture",
+        "Avulsion"
+      ],
+      "answer": "Avulsion"
+    },
+    {
+      "question": "Which of the following is a potential complication of improper tourniquet use?",
+      "choices": [
+        "Increased bleeding",
+        "Tissue damage",
+        "Improved circulation",
+        "Faster healing"
+      ],
+      "answer": "Tissue damage"
+    },
+    {
+      "question": "What is the primary purpose of applying an antiseptic solution to a wound?",
+      "choices": [
+        "To stop bleeding",
+        "To reduce pain",
+        "To prevent infection",
+        "To promote faster healing"
+      ],
+      "answer": "To prevent infection"
+    },
+    {
+      "question": "Which of the following wounds is most prone to infection?",
+      "choices": [
+        "Clean cut from a sharp knife",
+        "Scrape from falling on pavement",
+        "Puncture from stepping on a nail",
+        "Paper cut"
+      ],
+      "answer": "Puncture from stepping on a nail"
+    },
+    {
+      "question": "What is the recommended action if blood soaks through a dressing during direct pressure?",
+      "choices": [
+        "Remove the original dressing and replace it",
+        "Add more layers without removing the original dressing",
+        "Loosen the dressing to allow air circulation",
+        "Stop applying pressure immediately"
+      ],
+      "answer": "Add more layers without removing the original dressing"
+    },
+    {
+      "question": "Which of the following is NOT a sign that a wound requires immediate medical attention?",
+      "choices": [
+        "Severe bleeding that won't stop",
+        "Signs of infection",
+        "Superficial abrasion",
+        "Deep puncture wound"
+      ],
+      "answer": "Superficial abrasion"
+    },
+    {
+      "question": "What is the primary purpose of a wound dressing?",
+      "choices": [
+        "To stop bleeding",
+        "To reduce pain",
+        "To protect the wound and promote healing",
+        "To prevent scarring"
+      ],
+      "answer": "To protect the wound and promote healing"
+    },
+    {
+      "question": "Which of the following is a proper technique for applying a tourniquet?",
+      "choices": [
+        "Apply directly over the wound",
+        "Apply 2-3 inches below the wound",
+        "Apply 2-3 inches above the wound",
+        "Apply on a joint"
+      ],
+      "answer": "Apply 2-3 inches above the wound"
+    },
+    {
+      "question": "What should you do if you suspect a wound contains glass or other debris?",
+      "choices": [
+        "Attempt to remove it with your fingers",
+        "Ignore it and apply a dressing",
+        "Flush it out with high-pressure water",
+        "Seek professional medical help"
+      ],
+      "answer": "Seek professional medical help"
+    },
+    {
+      "question": "Which of the following is NOT a recommended material for an improvised bandage in an emergency?",
+      "clean cloth",
+        "Paper towel",
+        "Sterile gauze",
+        "Adhesive tape"
+      ],
+      "answer": "Paper towel"
+    },
+    {
+      "question": "What is the primary concern with animal bite wounds?",
+      "choices": [
+        "Excessive bleeding",
+        "Risk of rabies and other infections",
+        "Cosmetic appearance",
+        "Difficulty in applying pressure"
+      ],
+      "answer": "Risk of rabies and other infections"
+    },
+    {
+      "question": "Which of the following is a proper way to clean tweezers before using them to remove debris from a wound?",
+      "choices": [
+        "Rinse with water",
+        "Wipe with a clean cloth",
+        "Clean with alcohol",
+        "Use without cleaning"
+      ],
+      "answer": "Clean with alcohol"
+    },
+    {
+      "question": "What is the recommended action for a severely bleeding wound that does not respond to direct pressure?",
+      "choices": [
+        "Apply a tourniquet",
+        "Elevate the wound",
+        "Apply pressure to a pressure point",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT a common cause of puncture wounds in Timor-Leste?",
+      "choices": [
+        "Stepping on nails",
+        "Fish hook injuries",
+        "Dog bites",
+        "Skiing accidents"
+      ],
+      "answer": "Skiing accidents"
+    },
+    {
+      "question": "What is the primary purpose of using sterile gauze in wound care?",
+      "choices": [
+        "To stop bleeding",
+        "To reduce pain",
+        "To prevent infection",
+        "To speed up healing"
+      ],
+      "answer": "To prevent infection"
+    },
+    {
+      "question": "Which of the following is a potential complication of an improperly cleaned wound?",
+      "choices": [
+        "Faster healing",
+        "Reduced scarring",
+        "Tetanus infection",
+        "Improved flexibility"
+      ],
+      "answer": "Tetanus infection"
+    },
+    {
+      "question": "What is the recommended action if a patient shows signs of shock after a severe injury?",
+      "choices": [
+        "Elevate their head",
+        "Give them water to drink",
+        "Lay them flat and elevate their legs",
+        "Encourage them to walk around"
+      ],
+      "answer": "Lay them flat and elevate their legs"
+    },
+    {
+      "question": "Which of the following is NOT a recommended improvised wound care material in Timor-Leste?",
+      "choices": [
+        "Honey",
+        "Aloe vera",
+        "Coconut oil",
+        "Tobacco leaves"
+      ],
+      "answer": "Tobacco leaves"
+    },
+    {
+      "question": "What is the primary purpose of using banana leaves in traditional wound care in Timor-Leste?",
+      "choices": [
+        "As an antiseptic",
+        "To stop bleeding",
+        "As a sterile covering for large wounds",
+        "To reduce pain"
+      ],
+      "answer": "As a sterile covering for large wounds"
+    }
+  ]
+}

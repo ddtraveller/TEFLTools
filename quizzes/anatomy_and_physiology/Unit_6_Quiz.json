@@ -1,0 +1,305 @@
+{
+  "title": "Digestive and Urinary Systems",
+  "questions": [
+    {
+      "question": "Which organ is responsible for most nutrient absorption in the digestive system?",
+      "choices": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Esophagus"
+      ],
+      "answer": "Small intestine"
+    },
+    {
+      "question": "What is the functional unit of the kidney called?",
+      "choices": [
+        "Nephron",
+        "Glomerulus",
+        "Tubule",
+        "Cortex"
+      ],
+      "answer": "Nephron"
+    },
+    {
+      "question": "Which of the following is NOT a function of the liver?",
+      "choices": [
+        "Producing bile",
+        "Detoxifying blood",
+        "Storing nutrients",
+        "Secreting digestive enzymes"
+      ],
+      "answer": "Secreting digestive enzymes"
+    },
+    {
+      "question": "What is the process of wave-like muscle contractions that moves food through the digestive tract?",
+      "choices": [
+        "Peristalsis",
+        "Absorption",
+        "Secretion",
+        "Filtration"
+      ],
+      "answer": "Peristalsis"
+    },
+    {
+      "question": "Which part of the nephron is responsible for initial blood filtration?",
+      "choices": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Glomerulus",
+        "Collecting duct"
+      ],
+      "answer": "Glomerulus"
+    },
+    {
+      "question": "What is the main function of the gallbladder?",
+      "choices": [
+        "Produce digestive enzymes",
+        "Store and concentrate bile",
+        "Filter blood",
+        "Absorb nutrients"
+      ],
+      "answer": "Store and concentrate bile"
+    },
+    {
+      "question": "Which of the following is NOT a stage of digestion?",
+      "choices": [
+        "Ingestion",
+        "Propulsion",
+        "Absorption",
+        "Circulation"
+      ],
+      "answer": "Circulation"
+    },
+    {
+      "question": "What is the primary function of the large intestine?",
+      "choices": [
+        "Nutrient absorption",
+        "Water absorption",
+        "Protein digestion",
+        "Fat emulsification"
+      ],
+      "answer": "Water absorption"
+    },
+    {
+      "question": "Which hormone plays a crucial role in regulating water reabsorption in the kidneys?",
+      "choices": [
+        "Insulin",
+        "Glucagon",
+        "Antidiuretic hormone (ADH)",
+        "Thyroxine"
+      ],
+      "answer": "Antidiuretic hormone (ADH)"
+    },
+    {
+      "question": "What is the main function of the pancreas in digestion?",
+      "choices": [
+        "Storing bile",
+        "Producing stomach acid",
+        "Secreting digestive enzymes",
+        "Absorbing vitamins"
+      ],
+      "answer": "Secreting digestive enzymes"
+    },
+    {
+      "question": "Which part of the digestive system is responsible for the initial breakdown of carbohydrates?",
+      "choices": [
+        "Stomach",
+        "Small intestine",
+        "Mouth",
+        "Large intestine"
+      ],
+      "answer": "Mouth"
+    },
+    {
+      "question": "What is the primary waste product excreted by the kidneys?",
+      "choices": [
+        "Glucose",
+        "Urea",
+        "Bile",
+        "Insulin"
+      ],
+      "answer": "Urea"
+    },
+    {
+      "question": "Which of the following is NOT a function of the urinary system?",
+      "choices": [
+        "Regulating blood pressure",
+        "Maintaining fluid balance",
+        "Producing digestive enzymes",
+        "Removing metabolic waste"
+      ],
+      "answer": "Producing digestive enzymes"
+    },
+    {
+      "question": "What is the process by which useful substances are returned to the blood in the nephron?",
+      "choices": [
+        "Filtration",
+        "Secretion",
+        "Reabsorption",
+        "Excretion"
+      ],
+      "answer": "Reabsorption"
+    },
+    {
+      "question": "Which organ connects the mouth to the stomach?",
+      "choices": [
+        "Pharynx",
+        "Esophagus",
+        "Trachea",
+        "Duodenum"
+      ],
+      "answer": "Esophagus"
+    },
+    {
+      "question": "What is the main function of villi in the small intestine?",
+      "choices": [
+        "Produce digestive enzymes",
+        "Increase surface area for absorption",
+        "Store waste products",
+        "Regulate pH levels"
+      ],
+      "answer": "Increase surface area for absorption"
+    },
+    {
+      "question": "Which of the following is NOT a component of the urinary system?",
+      "choices": [
+        "Kidneys",
+        "Ureters",
+        "Bladder",
+        "Liver"
+      ],
+      "answer": "Liver"
+    },
+    {
+      "question": "What is the role of hydrochloric acid in the stomach?",
+      "choices": [
+        "To neutralize bile",
+        "To activate digestive enzymes",
+        "To absorb vitamins",
+        "To store nutrients"
+      ],
+      "answer": "To activate digestive enzymes"
+    },
+    {
+      "question": "Which part of the nephron is responsible for concentrating urine?",
+      "choices": [
+        "Glomerulus",
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Bowman's capsule"
+      ],
+      "answer": "Loop of Henle"
+    },
+    {
+      "question": "What is the primary function of the renin-angiotensin-aldosterone system?",
+      "choices": [
+        "Digestion of proteins",
+        "Regulation of blood pressure",
+        "Production of bile",
+        "Absorption of water in the intestines"
+      ],
+      "answer": "Regulation of blood pressure"
+    },
+    {
+      "question": "Which of the following is NOT absorbed in the small intestine?",
+      "choices": [
+        "Amino acids",
+        "Glucose",
+        "Fatty acids",
+        "Cellulose"
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "question": "What is the normal pH range of urine?",
+      "choices": [
+        "1-3",
+        "4.5-8",
+        "9-11",
+        "12-14"
+      ],
+      "answer": "4.5-8"
+    },
+    {
+      "question": "Which organ produces bile?",
+      "choices": [
+        "Pancreas",
+        "Gallbladder",
+        "Liver",
+        "Spleen"
+      ],
+      "answer": "Liver"
+    },
+    {
+      "question": "What is the main function of the collecting duct in the nephron?",
+      "choices": [
+        "Initial filtration of blood",
+        "Reabsorption of water",
+        "Secretion of creatinine",
+        "Production of erythropoietin"
+      ],
+      "answer": "Reabsorption of water"
+    },
+    {
+      "question": "Which of the following is NOT a function of the digestive system?",
+      "choices": [
+        "Mechanical breakdown of food",
+        "Chemical digestion of nutrients",
+        "Absorption of water and electrolytes",
+        "Production of red blood cells"
+      ],
+      "answer": "Production of red blood cells"
+    },
+    {
+      "question": "What is the primary site of protein digestion?",
+      "choices": [
+        "Mouth",
+        "Esophagus",
+        "Stomach",
+        "Large intestine"
+      ],
+      "answer": "Stomach"
+    },
+    {
+      "question": "Which hormone stimulates the release of sodium in the kidneys?",
+      "choices": [
+        "Insulin",
+        "Glucagon",
+        "Aldosterone",
+        "Calcitonin"
+      ],
+      "answer": "Aldosterone"
+    },
+    {
+      "question": "What is the function of the microvilli in the small intestine?",
+      "choices": [
+        "To produce mucus",
+        "To increase surface area for absorption",
+        "To secrete digestive enzymes",
+        "To propel food along the intestine"
+      ],
+      "answer": "To increase surface area for absorption"
+    },
+    {
+      "question": "Which of the following is NOT a component of the digestive system?",
+      "choices": [
+        "Salivary glands",
+        "Pancreas",
+        "Gallbladder",
+        "Adrenal glands"
+      ],
+      "answer": "Adrenal glands"
+    },
+    {
+      "question": "What is the primary function of the juxtaglomerular apparatus in the kidney?",
+      "choices": [
+        "Filtration of blood",
+        "Regulation of blood pressure",
+        "Secretion of erythropoietin",
+        "Production of vitamin D"
+      ],
+      "answer": "Regulation of blood pressure"
+    }
+  ]
+}

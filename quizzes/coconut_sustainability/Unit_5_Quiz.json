@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Practices in Coconut Farming and Processing",
+  "questions": [
+    {
+      "question": "What is the main goal of sustainable agriculture in coconut farming?",
+      "choices": [
+        "Maximize short-term profits",
+        "Increase use of synthetic inputs",
+        "Ensure long-term viability while minimizing environmental impact",
+        "Reduce crop diversity"
+      ],
+      "answer": "Ensure long-term viability while minimizing environmental impact"
+    },
+    {
+      "question": "Which of the following is NOT a principle of organic coconut farming?",
+      "choices": [
+        "Soil fertility management through natural processes",
+        "Prohibition of synthetic pesticides and fertilizers",
+        "Promotion of biodiversity",
+        "Extensive use of chemical herbicides"
+      ],
+      "answer": "Extensive use of chemical herbicides"
+    },
+    {
+      "question": "What is a common challenge in implementing crop rotation in coconut plantations?",
+      "choices": [
+        "Coconut palms are annual crops",
+        "Coconut palms are perennial crops",
+        "Lack of suitable rotation crops",
+        "Excessive soil nutrients"
+      ],
+      "answer": "Coconut palms are perennial crops"
+    },
+    {
+      "question": "Which of the following is a benefit of intercropping in coconut plantations?",
+      "choices": [
+        "Increased pest pressure",
+        "Reduced soil fertility",
+        "Income diversification",
+        "Higher water consumption"
+      ],
+      "answer": "Income diversification"
+    },
+    {
+      "question": "What is Integrated Pest Management (IPM)?",
+      "choices": [
+        "Exclusive use of chemical pesticides",
+        "An ecosystem-based approach combining various pest control methods",
+        "Allowing pests to control themselves naturally",
+        "Introducing invasive species to control pests"
+      ],
+      "answer": "An ecosystem-based approach combining various pest control methods"
+    },
+    {
+      "question": "Which of the following is NOT a common pest in coconut farming?",
+      "choices": [
+        "Rhinoceros beetle",
+        "Coconut leaf beetle",
+        "Red palm weevil",
+        "Colorado potato beetle"
+      ],
+      "answer": "Colorado potato beetle"
+    },
+    {
+      "question": "What is a biological control method for the rhinoceros beetle?",
+      "choices": [
+        "Use of synthetic pesticides",
+        "Planting trap crops",
+        "Application of Oryctes virus",
+        "Burning of infected trees"
+      ],
+      "answer": "Application of Oryctes virus"
+    },
+    {
+      "question": "Which cultural practice helps prevent pest infestations in coconut plantations?",
+      "choices": [
+        "Overcrowding of trees",
+        "Excessive irrigation",
+        "Proper sanitation and removal of breeding sites",
+        "Continuous monocropping"
+      ],
+      "answer": "Proper sanitation and removal of breeding sites"
+    },
+    {
+      "question": "What is a benefit of using compost in coconut farming?",
+      "choices": [
+        "Increases soil acidity",
+        "Reduces soil organic matter",
+        "Improves soil structure and fertility",
+        "Promotes pest proliferation"
+      ],
+      "answer": "Improves soil structure and fertility"
+    },
+    {
+      "question": "Which of the following is an energy-efficient processing technology for coconut oil extraction?",
+      "choices": [
+        "Open-fire boiling",
+        "Sun drying followed by manual pressing",
+        "Cold-pressed virgin coconut oil extraction",
+        "Prolonged fermentation"
+      ],
+      "answer": "Cold-pressed virgin coconut oil extraction"
+    },
+    {
+      "question": "What is a sustainable packaging practice in the coconut industry?",
+      "choices": [
+        "Increased use of single-use plastics",
+        "Use of biodegradable materials",
+        "Air-freighting individual coconuts",
+        "Overpackaging for aesthetic appeal"
+      ],
+      "answer": "Use of biodegradable materials"
+    },
+    {
+      "question": "How does mulching contribute to sustainable coconut farming?",
+      "choices": [
+        "Increases water evaporation",
+        "Promotes weed growth",
+        "Reduces soil moisture retention",
+        "Conserves water and suppresses weeds"
+      ],
+      "answer": "Conserves water and suppresses weeds"
+    },
+    {
+      "question": "What is a challenge in transitioning to organic coconut farming?",
+      "choices": [
+        "Immediate increase in yields",
+        "Reduced labor requirements",
+        "Potential initial yield reductions",
+        "Simplified pest management"
+      ],
+      "answer": "Potential initial yield reductions"
+    },
+    {
+      "question": "Which of the following is a sustainable use for coconut husks?",
+      "choices": [
+        "Landfill material",
+        "Production of coir fiber",
+        "Burning for energy",
+        "Synthetic fabric production"
+      ],
+      "answer": "Production of coir fiber"
+    },
+    {
+      "question": "What role do legumes play when intercropped with coconuts?",
+      "choices": [
+        "Deplete soil nitrogen",
+        "Increase pest pressure",
+        "Fix nitrogen in the soil",
+        "Reduce biodiversity"
+      ],
+      "answer": "Fix nitrogen in the soil"
+    },
+    {
+      "question": "Which irrigation method is considered more sustainable for coconut farming?",
+      "choices": [
+        "Flood irrigation",
+        "Sprinkler irrigation",
+        "Drip irrigation",
+        "Furrow irrigation"
+      ],
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "What is a benefit of sustainable coconut farming for consumers?",
+      "choices": [
+        "Lower quality products",
+        "Higher pesticide residues",
+        "Access to environmentally friendly products",
+        "Reduced product variety"
+      ],
+      "answer": "Access to environmentally friendly products"
+    },
+    {
+      "question": "How can coconut shells be sustainably utilized?",
+      "choices": [
+        "As landfill material",
+        "Burned as waste",
+        "Transformed into activated carbon",
+        "Ground into animal feed"
+      ],
+      "answer": "Transformed into activated carbon"
+    },
+    {
+      "question": "What is a key principle of organic fertilization in coconut farming?",
+      "choices": [
+        "Heavy use of synthetic fertilizers",
+        "Reliance on chemical nutrient sources",
+        "Use of natural composts and green manures",
+        "Avoiding all forms of fertilization"
+      ],
+      "answer": "Use of natural composts and green manures"
+    },
+    {
+      "question": "Which practice helps maintain biodiversity in coconut plantations?",
+      "choices": [
+        "Monocropping",
+        "Extensive pesticide use",
+        "Intercropping with native plants",
+        "Removing all undergrowth"
+      ],
+      "answer": "Intercropping with native plants"
+    },
+    {
+      "question": "What is a sustainable approach to managing coconut plantation waste?",
+      "choices": [
+        "Burning all organic matter",
+        "Dumping in water bodies",
+        "Using husks and fronds as mulch",
+        "Exporting waste to other countries"
+      ],
+      "answer": "Using husks and fronds as mulch"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of adopting sustainable practices in coconut farming?",
+      "choices": [
+        "Improved soil health",
+        "Higher long-term yields",
+        "Reduced environmental impact",
+        "Immediate increase in profits"
+      ],
+      "answer": "Immediate increase in profits"
+    },
+    {
+      "question": "What is a sustainable method for controlling the coconut leaf beetle?",
+      "choices": [
+        "Widespread use of broad-spectrum insecticides",
+        "Introduction of invasive predator species",
+        "Use of predatory earwigs",
+        "Defoliating all affected trees"
+      ],
+      "answer": "Use of predatory earwigs"
+    },
+    {
+      "question": "How does sustainable coconut farming contribute to water conservation?",
+      "choices": [
+        "By increasing water use",
+        "Through improved soil water retention",
+        "By promoting rapid runoff",
+        "Through extensive irrigation"
+      ],
+      "answer": "Through improved soil water retention"
+    },
+    {
+      "question": "What is a challenge in implementing sustainable practices in small-scale coconut farms?",
+      "choices": [
+        "Excess of financial resources",
+        "Too much technical knowledge",
+        "Lack of access to resources and knowledge",
+        "Overabundance of organic inputs"
+      ],
+      "answer": "Lack of access to resources and knowledge"
+    },
+    {
+      "question": "Which of the following is a sustainable transportation practice in the coconut industry?",
+      "choices": [
+        "Individual packaging for each coconut",
+        "Air freight for all products",
+        "Optimizing logistics for reduced carbon emissions",
+        "Using only large trucks for all transportation"
+      ],
+      "answer": "Optimizing logistics for reduced carbon emissions"
+    },
+    {
+      "question": "What role do governments and NGOs play in promoting sustainable coconut farming?",
+      "choices": [
+        "Discouraging organic practices",
+        "Promoting increased use of pesticides",
+        "Providing training and support for sustainable methods",
+        "Advocating for intensive monoculture"
+      ],
+      "answer": "Providing training and support for sustainable methods"
+    },
+    {
+      "question": "Which of the following is a sustainable pest management technique in coconut farming?",
+      "choices": [
+        "Continuous application of broad-spectrum pesticides",
+        "Introducing non-native predators",
+        "Using pheromone traps for monitoring and mass trapping",
+        "Removing all vegetation except coconut trees"
+      ],
+      "answer": "Using pheromone traps for monitoring and mass trapping"
+    },
+    {
+      "question": "What is a benefit of sustainable coconut processing for the environment?",
+      "choices": [
+        "Increased energy consumption",
+        "Higher waste production",
+        "Reduced chemical pollution",
+        "Greater water usage"
+      ],
+      "answer": "Reduced chemical pollution"
+    },
+    {
+      "question": "How does organic coconut farming impact soil health?",
+      "choices": [
+        "It depletes soil nutrients",
+        "It increases soil erosion",
+        "It improves soil structure and biodiversity",
+        "It leads to soil acidification"
+      ],
+      "answer": "It improves soil structure and biodiversity"
+    }
+  ]
+}

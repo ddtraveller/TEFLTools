@@ -1,0 +1,305 @@
+{
+  "title": "Applications of Mushrooms in Food, Pharmaceuticals, and Ecosystem Restoration",
+  "questions": [
+    {
+      "question": "What is mycoremediation?",
+      "choices": [
+        "The use of fungi to degrade or sequester contaminants in the environment",
+        "The cultivation of mushrooms for food production",
+        "The extraction of medicinal compounds from mushrooms",
+        "The genetic modification of mushrooms for improved yields"
+      ],
+      "answer": "The use of fungi to degrade or sequester contaminants in the environment"
+    },
+    {
+      "question": "Which of the following is NOT a mechanism by which mushrooms can remediate pollutants?",
+      "choices": [
+        "Enzymatic degradation",
+        "Bioaccumulation",
+        "Photosynthesis",
+        "Volatilization"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is a nutraceutical?",
+      "choices": [
+        "A pharmaceutical drug derived from mushrooms",
+        "A food-derived product that provides health benefits in addition to its basic nutritional value",
+        "A type of mushroom cultivation technique",
+        "A method for extracting bioactive compounds from fungi"
+      ],
+      "answer": "A food-derived product that provides health benefits in addition to its basic nutritional value"
+    },
+    {
+      "question": "Which mushroom species has been successfully used to clean up oil spills?",
+      "choices": [
+        "Agaricus bisporus",
+        "Lentinus edodes",
+        "Pleurotus ostreatus",
+        "Ganoderma lucidum"
+      ],
+      "answer": "Pleurotus ostreatus"
+    },
+    {
+      "question": "What is bioaccumulation in the context of mycoremediation?",
+      "choices": [
+        "The breakdown of pollutants by fungal enzymes",
+        "The gradual accumulation of substances in an organism",
+        "The production of mushroom fruiting bodies",
+        "The spread of mushroom spores in the environment"
+      ],
+      "answer": "The gradual accumulation of substances in an organism"
+    },
+    {
+      "question": "Which of the following is a value-added mushroom product?",
+      "choices": [
+        "Fresh shiitake mushrooms",
+        "Mushroom-based meat substitute",
+        "Mushroom compost",
+        "Wild foraged chanterelles"
+      ],
+      "answer": "Mushroom-based meat substitute"
+    },
+    {
+      "question": "What is the primary benefit of using mushrooms for environmental remediation?",
+      "choices": [
+        "It's faster than traditional chemical methods",
+        "It's more expensive, ensuring thorough cleanup",
+        "It's a sustainable and eco-friendly approach",
+        "It completely eliminates all types of pollutants"
+      ],
+      "answer": "It's a sustainable and eco-friendly approach"
+    },
+    {
+      "question": "Which bioactive compound found in shiitake mushrooms has demonstrated immune-boosting effects?",
+      "choices": [
+        "Terpenes",
+        "Alkaloids",
+        "Beta-glucans",
+        "Flavonoids"
+      ],
+      "answer": "Beta-glucans"
+    },
+    {
+      "question": "What is spawn in mushroom cultivation?",
+      "choices": [
+        "The fruiting body of the mushroom",
+        "The mushroom equivalent of plant seeds",
+        "The substrate on which mushrooms grow",
+        "The spores released by mature mushrooms"
+      ],
+      "answer": "The mushroom equivalent of plant seeds"
+    },
+    {
+      "question": "Which of the following is NOT a traditional culinary application of mushrooms?",
+      "choices": [
+        "Sautéing",
+        "Grilling",
+        "Fermenting",
+        "Juicing"
+      ],
+      "answer": "Juicing"
+    },
+    {
+      "question": "What is the primary challenge in developing a mushroom-based pharmaceutical industry in Timor-Leste?",
+      "choices": [
+        "Lack of native medicinal mushroom species",
+        "Insufficient demand for mushroom-based medicines",
+        "Establishing research partnerships and regulatory frameworks",
+        "Overabundance of synthetic alternatives"
+      ],
+      "answer": "Establishing research partnerships and regulatory frameworks"
+    },
+    {
+      "question": "Which environmental issue in Timor-Leste could potentially be addressed using mycoremediation?",
+      "choices": [
+        "Deforestation",
+        "Soil contamination from mining activities",
+        "Overfishing",
+        "Air pollution from vehicle emissions"
+      ],
+      "answer": "Soil contamination from mining activities"
+    },
+    {
+      "question": "What is enzymatic degradation in the context of mycoremediation?",
+      "choices": [
+        "The breakdown of fungal cells over time",
+        "The process of mushroom decomposition",
+        "The breakdown of complex molecules by enzymes produced by fungi",
+        "The natural decay of pollutants without intervention"
+      ],
+      "answer": "The breakdown of complex molecules by enzymes produced by fungi"
+    },
+    {
+      "question": "Which of the following is a potential application of mushrooms in the pharmaceutical industry?",
+      "choices": [
+        "Development of new plastics",
+        "Creation of biofuels",
+        "Production of antibiotics",
+        "Manufacturing of synthetic fibers"
+      ],
+      "answer": "Production of antibiotics"
+    },
+    {
+      "question": "What is a polypore mushroom?",
+      "choices": [
+        "A mushroom that can only grow on trees",
+        "A mushroom with a stem and cap structure",
+        "A fungus that forms large fruiting bodies with pores or tubes on the underside",
+        "A type of hallucinogenic mushroom"
+      ],
+      "answer": "A fungus that forms large fruiting bodies with pores or tubes on the underside"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of incorporating mushrooms into the diet?",
+      "choices": [
+        "High protein content",
+        "Rich source of vitamins and minerals",
+        "Low calorie content",
+        "High carbohydrate content"
+      ],
+      "answer": "High carbohydrate content"
+    },
+    {
+      "question": "What is the primary advantage of using native mushroom species for mycoremediation in Timor-Leste?",
+      "choices": [
+        "They are more effective than non-native species",
+        "They are already adapted to the local environment",
+        "They grow faster than introduced species",
+        "They are more resistant to pests and diseases"
+      ],
+      "answer": "They are already adapted to the local environment"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing mycoremediation projects?",
+      "choices": [
+        "Mushrooms grow too quickly",
+        "The process is too expensive",
+        "Ensuring proper growth conditions in contaminated areas",
+        "Mushrooms are too effective and remove beneficial compounds"
+      ],
+      "answer": "Ensuring proper growth conditions in contaminated areas"
+    },
+    {
+      "question": "What is the role of substrate in mushroom cultivation?",
+      "choices": [
+        "It provides nutrients for mushroom growth",
+        "It helps control pests and diseases",
+        "It enhances the flavor of the mushrooms",
+        "It accelerates the fruiting process"
+      ],
+      "answer": "It provides nutrients for mushroom growth"
+    },
+    {
+      "question": "Which of the following is a potential economic benefit of developing mushroom-based industries in Timor-Leste?",
+      "choices": [
+        "Reduced dependence on imported foods",
+        "Increased tourism due to mushroom festivals",
+        "Creation of new job opportunities in cultivation and processing",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary difference between a pharmaceutical and a nutraceutical mushroom product?",
+      "choices": [
+        "Pharmaceuticals are more expensive",
+        "Nutraceuticals are only available in pill form",
+        "Pharmaceuticals require a prescription, while nutraceuticals are considered food supplements",
+        "Nutraceuticals are more potent than pharmaceuticals"
+      ],
+      "answer": "Pharmaceuticals require a prescription, while nutraceuticals are considered food supplements"
+    },
+    {
+      "question": "Which of the following is NOT a common substrate material for mushroom cultivation in Timor-Leste?",
+      "choices": [
+        "Coffee husks",
+        "Coconut coir",
+        "Rice straw",
+        "Pine sawdust"
+      ],
+      "answer": "Pine sawdust"
+    },
+    {
+      "question": "What is the primary advantage of using mushroom-based meat alternatives?",
+      "choices": [
+        "They are always cheaper than real meat",
+        "They provide a sustainable protein source with lower environmental impact",
+        "They contain more protein than animal meat",
+        "They are more widely available than animal meat"
+      ],
+      "answer": "They provide a sustainable protein source with lower environmental impact"
+    },
+    {
+      "question": "Which of the following is a potential application of mushrooms in ecosystem restoration?",
+      "choices": [
+        "Reforestation",
+        "Soil erosion control",
+        "Water purification",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary challenge in developing mushroom-based pharmaceuticals?",
+      "choices": [
+        "Lack of bioactive compounds in mushrooms",
+        "Difficulty in cultivating medicinal mushroom species",
+        "Rigorous testing and regulatory approval processes",
+        "Low consumer interest in mushroom-based medicines"
+      ],
+      "answer": "Rigorous testing and regulatory approval processes"
+    },
+    {
+      "question": "Which of the following is NOT a common method for preparing mushroom-based nutraceuticals?",
+      "choices": [
+        "Drying and powdering",
+        "Alcohol extraction",
+        "Fermentation",
+        "Genetic modification"
+      ],
+      "answer": "Genetic modification"
+    },
+    {
+      "question": "What is the primary benefit of using locally available materials for mushroom substrate in Timor-Leste?",
+      "choices": [
+        "It improves the flavor of the mushrooms",
+        "It reduces production costs and supports local agriculture",
+        "It accelerates mushroom growth",
+        "It eliminates the need for sterilization"
+      ],
+      "answer": "It reduces production costs and supports local agriculture"
+    },
+    {
+      "question": "Which of the following is a potential challenge in promoting mushroom consumption in Timor-Leste?",
+      "choices": [
+        "Lack of culinary tradition involving mushrooms",
+        "Religious or cultural taboos against mushroom consumption",
+        "Concerns about mushroom toxicity",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the primary advantage of integrating mushroom cultivation with existing agricultural practices?",
+      "choices": [
+        "It reduces the need for fertilizers",
+        "It improves soil quality",
+        "It provides additional income streams for farmers",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT a common application of mushroom extracts in the food industry?",
+      "choices": [
+        "Natural food coloring",
+        "Flavor enhancers",
+        "Preservatives",
+        "Emulsifiers"
+      ],
+      "answer": "Emulsifiers"
+    }
+  ]
+}

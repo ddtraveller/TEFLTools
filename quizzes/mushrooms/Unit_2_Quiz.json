@@ -1,0 +1,305 @@
+{
+  "title": "Nutritional and Medicinal Properties of Edible Mushrooms",
+  "questions": [
+    {
+      "question": "What percentage of dry weight typically represents the protein content in mushrooms?",
+      "choices": [
+        "5-10%",
+        "20-30%",
+        "40-50%",
+        "60-70%"
+      ],
+      "answer": "20-30%"
+    },
+    {
+      "question": "Which of the following is NOT a primary carbohydrate found in mushrooms?",
+      "choices": [
+        "Chitin",
+        "Hemicellulose",
+        "β-glucans",
+        "Sucrose"
+      ],
+      "answer": "Sucrose"
+    },
+    {
+      "question": "What is the typical fat content range in mushrooms by dry weight?",
+      "choices": [
+        "2-6%",
+        "10-15%",
+        "20-25%",
+        "30-35%"
+      ],
+      "answer": "2-6%"
+    },
+    {
+      "question": "Which vitamin can some mushroom species produce when exposed to UV light?",
+      "choices": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Which bioactive compound in mushrooms is most studied for its immune-modulating effects?",
+      "choices": [
+        "Terpenoids",
+        "β-glucans",
+        "Lectins",
+        "Phenolic compounds"
+      ],
+      "answer": "β-glucans"
+    },
+    {
+      "question": "What type of fatty acids are predominantly found in mushrooms?",
+      "choices": [
+        "Saturated fatty acids",
+        "Trans fatty acids",
+        "Unsaturated fatty acids",
+        "Medium-chain fatty acids"
+      ],
+      "answer": "Unsaturated fatty acids"
+    },
+    {
+      "question": "Which mineral is mushrooms particularly rich in?",
+      "choices": [
+        "Calcium",
+        "Iron",
+        "Selenium",
+        "Zinc"
+      ],
+      "answer": "Selenium"
+    },
+    {
+      "question": "What is the primary function of lectins found in mushrooms?",
+      "choices": [
+        "Energy storage",
+        "Structural support",
+        "Binding to specific carbohydrates",
+        "Photosynthesis"
+      ],
+      "answer": "Binding to specific carbohydrates"
+    },
+    {
+      "question": "Which mushroom is commonly used in traditional Timorese medicine for longevity and overall health?",
+      "choices": [
+        "Button mushroom",
+        "Shiitake",
+        "Ganoderma lucidum (reishi)",
+        "Portobello"
+      ],
+      "answer": "Ganoderma lucidum (reishi)"
+    },
+    {
+      "question": "What is a common traditional preparation method for medicinal mushrooms in Timor-Leste?",
+      "choices": [
+        "Frying",
+        "Decoction",
+        "Fermentation",
+        "Freezing"
+      ],
+      "answer": "Decoction"
+    },
+    {
+      "question": "Which amino acid is particularly abundant in mushroom proteins?",
+      "choices": [
+        "Tryptophan",
+        "Leucine",
+        "Histidine",
+        "Methionine"
+      ],
+      "answer": "Leucine"
+    },
+    {
+      "question": "What type of compound in mushrooms acts as a potent antioxidant?",
+      "choices": [
+        "Polysaccharides",
+        "Terpenoids",
+        "Phenolic compounds",
+        "Lectins"
+      ],
+      "answer": "Phenolic compounds"
+    },
+    {
+      "question": "Which B vitamin is notably high in mushrooms?",
+      "choices": [
+        "Thiamine",
+        "Riboflavin",
+        "Cobalamin",
+        "Biotin"
+      ],
+      "answer": "Riboflavin"
+    },
+    {
+      "question": "What is the primary carbohydrate storage compound in mushrooms?",
+      "choices": [
+        "Starch",
+        "Cellulose",
+        "Glycogen",
+        "Inulin"
+      ],
+      "answer": "Glycogen"
+    },
+    {
+      "question": "Which mushroom compound has shown potential in regulating blood pressure and cholesterol?",
+      "choices": [
+        "Polysaccharides",
+        "Terpenoids",
+        "Lectins",
+        "β-glucans"
+      ],
+      "answer": "Terpenoids"
+    },
+    {
+      "question": "What is the primary role of chitin in mushrooms?",
+      "choices": [
+        "Energy storage",
+        "Structural support",
+        "Enzyme production",
+        "Hormone regulation"
+      ],
+      "answer": "Structural support"
+    },
+    {
+      "question": "Which mushroom is traditionally believed to improve circulation in Timor-Leste?",
+      "choices": [
+        "Shiitake",
+        "Oyster mushroom",
+        "Auricularia auricula-judae (wood ear)",
+        "Enoki"
+      ],
+      "answer": "Auricularia auricula-judae (wood ear)"
+    },
+    {
+      "question": "What is a potential application of mushroom β-glucans in modern medicine?",
+      "choices": [
+        "Antibiotic production",
+        "Cancer therapy",
+        "Hormone replacement",
+        "Bone density improvement"
+      ],
+      "answer": "Cancer therapy"
+    },
+    {
+      "question": "Which of the following is NOT a common reported health benefit of traditional mushroom use in Timor-Leste?",
+      "choices": [
+        "Immune system support",
+        "Improved digestion",
+        "Enhanced energy",
+        "Improved eyesight"
+      ],
+      "answer": "Improved eyesight"
+    },
+    {
+      "question": "What type of diet are mushrooms particularly suitable for due to their low simple sugar content?",
+      "choices": [
+        "High-protein diet",
+        "Low-fat diet",
+        "Low-carb diet",
+        "High-fiber diet"
+      ],
+      "answer": "Low-carb diet"
+    },
+    {
+      "question": "Which compound in Ganoderma lucidum (reishi) has demonstrated anti-inflammatory properties?",
+      "choices": [
+        "Ganoderic acids",
+        "Lentinan",
+        "Ergosterol",
+        "Chitin"
+      ],
+      "answer": "Ganoderic acids"
+    },
+    {
+      "question": "What is the primary benefit of the high fiber content in mushrooms?",
+      "choices": [
+        "Increased muscle mass",
+        "Improved bone density",
+        "Enhanced digestive health",
+        "Better skin elasticity"
+      ],
+      "answer": "Enhanced digestive health"
+    },
+    {
+      "question": "Which of the following is a potential application of mushroom lectins?",
+      "choices": [
+        "Sunscreen production",
+        "Antitumor therapy",
+        "Hair growth stimulation",
+        "Teeth whitening"
+      ],
+      "answer": "Antitumor therapy"
+    },
+    {
+      "question": "What is the primary reason mushrooms are considered a good protein source for vegetarians and vegans?",
+      "choices": [
+        "High protein content",
+        "Complete amino acid profile",
+        "Easy digestibility",
+        "Low calorie content"
+      ],
+      "answer": "Complete amino acid profile"
+    },
+    {
+      "question": "Which traditional preparation method involves soaking mushrooms in alcohol to extract compounds?",
+      "choices": [
+        "Decoction",
+        "Tincture",
+        "Powder",
+        "Infusion"
+      ],
+      "answer": "Tincture"
+    },
+    {
+      "question": "What role do phenolic compounds in mushrooms play in human health?",
+      "choices": [
+        "Blood clotting",
+        "Antioxidant activity",
+        "Hormone production",
+        "Bone formation"
+      ],
+      "answer": "Antioxidant activity"
+    },
+    {
+      "question": "Which of the following is NOT a common use of medicinal mushrooms in traditional Timorese medicine?",
+      "choices": [
+        "Treating respiratory conditions",
+        "Improving liver function",
+        "Enhancing memory",
+        "Supporting kidney health"
+      ],
+      "answer": "Enhancing memory"
+    },
+    {
+      "question": "What is the primary benefit of the low fat content in mushrooms?",
+      "choices": [
+        "Improved taste",
+        "Longer shelf life",
+        "Lower calorie content",
+        "Better texture"
+      ],
+      "answer": "Lower calorie content"
+    },
+    {
+      "question": "Which mushroom compound has shown potential in regulating the immune system?",
+      "choices": [
+        "Chitin",
+        "Ergosterol",
+        "Lectins",
+        "Hemicellulose"
+      ],
+      "answer": "Lectins"
+    },
+    {
+      "question": "What is a potential benefit of mushrooms' high selenium content?",
+      "choices": [
+        "Improved night vision",
+        "Enhanced antioxidant activity",
+        "Increased muscle strength",
+        "Better calcium absorption"
+      ],
+      "answer": "Enhanced antioxidant activity"
+    }
+  ]
+}

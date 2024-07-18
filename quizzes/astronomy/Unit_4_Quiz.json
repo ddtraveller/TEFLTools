@@ -1,0 +1,305 @@
+{
+  "title": "Solar System Exploration from Space",
+  "questions": [
+    {
+      "question": "Which mission conducted a 'grand tour' of the outer planets?",
+      "choices": [
+        "Cassini",
+        "New Horizons",
+        "Voyager",
+        "OSIRIS-REx"
+      ],
+      "answer": "Voyager"
+    },
+    {
+      "question": "What did the Voyager mission reveal about Jupiter's moon Io?",
+      "choices": [
+        "It has a subsurface ocean",
+        "It is volcanic",
+        "It has a thick atmosphere",
+        "It has a magnetic field"
+      ],
+      "answer": "It is volcanic"
+    },
+    {
+      "question": "Which mission spent over a decade studying the Saturnian system?",
+      "choices": [
+        "Voyager",
+        "New Horizons",
+        "Cassini",
+        "Juno"
+      ],
+      "answer": "Cassini"
+    },
+    {
+      "question": "What did the Cassini mission discover on Saturn's moon Titan?",
+      "choices": [
+        "Volcanic activity",
+        "Hydrocarbon lakes",
+        "Oxygen atmosphere",
+        "Ice geysers"
+      ],
+      "answer": "Hydrocarbon lakes"
+    },
+    {
+      "question": "Which moon of Saturn was found to have geysers of water ice erupting from its south pole?",
+      "choices": [
+        "Titan",
+        "Rhea",
+        "Enceladus",
+        "Mimas"
+      ],
+      "answer": "Enceladus"
+    },
+    {
+      "question": "What celestial body did the New Horizons mission study in detail in 2015?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Pluto"
+      ],
+      "answer": "Pluto"
+    },
+    {
+      "question": "What unexpected feature was discovered on Pluto by New Horizons?",
+      "choices": [
+        "Active volcanoes",
+        "Liquid water oceans",
+        "Geological activity",
+        "Dense atmosphere"
+      ],
+      "answer": "Geological activity"
+    },
+    {
+      "question": "Which mission successfully landed a probe on a comet?",
+      "choices": [
+        "Rosetta",
+        "OSIRIS-REx",
+        "Dawn",
+        "Stardust"
+      ],
+      "answer": "Rosetta"
+    },
+    {
+      "question": "What is the name of the comet studied by the Rosetta mission?",
+      "choices": [
+        "Halley's Comet",
+        "Hale-Bopp",
+        "67P/Churyumov-Gerasimenko",
+        "Tempel 1"
+      ],
+      "answer": "67P/Churyumov-Gerasimenko"
+    },
+    {
+      "question": "What is the primary objective of the OSIRIS-REx mission?",
+      "choices": [
+        "Study Jupiter's atmosphere",
+        "Land on Mars",
+        "Return samples from an asteroid",
+        "Search for exoplanets"
+      ],
+      "answer": "Return samples from an asteroid"
+    },
+    {
+      "question": "Which asteroid is the target of the OSIRIS-REx mission?",
+      "choices": [
+        "Ceres",
+        "Vesta",
+        "Bennu",
+        "Eros"
+      ],
+      "answer": "Bennu"
+    },
+    {
+      "question": "What is the transit method used for in exoplanet research?",
+      "choices": [
+        "Measuring a star's temperature",
+        "Detecting planets passing in front of stars",
+        "Analyzing planetary atmospheres",
+        "Determining stellar composition"
+      ],
+      "answer": "Detecting planets passing in front of stars"
+    },
+    {
+      "question": "Which space telescope used the transit method to discover thousands of exoplanets?",
+      "choices": [
+        "Hubble",
+        "Spitzer",
+        "Kepler",
+        "James Webb"
+      ],
+      "answer": "Kepler"
+    },
+    {
+      "question": "What does the radial velocity method measure to detect exoplanets?",
+      "choices": [
+        "Star's brightness",
+        "Star's color",
+        "Star's wobble",
+        "Star's size"
+      ],
+      "answer": "Star's wobble"
+    },
+    {
+      "question": "Which of these is an advantage of space-based observations over ground-based ones?",
+      "choices": [
+        "Lower cost",
+        "Easier maintenance",
+        "No atmospheric interference",
+        "Higher resolution"
+      ],
+      "answer": "No atmospheric interference"
+    },
+    {
+      "question": "What type of exoplanets did the Kepler mission reveal to be prevalent?",
+      "choices": [
+        "Gas giants",
+        "Super-Earths and mini-Neptunes",
+        "Earth-sized rocky planets",
+        "Ice giants"
+      ],
+      "answer": "Super-Earths and mini-Neptunes"
+    },
+    {
+      "question": "What is the primary focus of the TESS mission?",
+      "choices": [
+        "Studying black holes",
+        "Mapping the Milky Way",
+        "Finding Earth-sized planets in habitable zones",
+        "Analyzing stellar compositions"
+      ],
+      "answer": "Finding Earth-sized planets in habitable zones"
+    },
+    {
+      "question": "Which of these is NOT a major discovery from the Voyager missions?",
+      "choices": [
+        "Jupiter's active moons",
+        "Neptune's Great Dark Spot",
+        "Saturn's complex ring system",
+        "Mars' polar ice caps"
+      ],
+      "answer": "Mars' polar ice caps"
+    },
+    {
+      "question": "What did the Cassini-Huygens mission reveal about Enceladus?",
+      "choices": [
+        "It has a thick atmosphere",
+        "It has a subsurface ocean",
+        "It has active volcanoes",
+        "It has a strong magnetic field"
+      ],
+      "answer": "It has a subsurface ocean"
+    },
+    {
+      "question": "What unexpected feature did New Horizons discover on Pluto?",
+      "choices": [
+        "Liquid water oceans",
+        "Active volcanoes",
+        "A nitrogen ice plain",
+        "A dense atmosphere"
+      ],
+      "answer": "A nitrogen ice plain"
+    },
+    {
+      "question": "Why is studying comets and asteroids important for understanding Earth?",
+      "choices": [
+        "They affect Earth's climate",
+        "They provide insights into early solar system formation",
+        "They are potential future colonies",
+        "They influence Earth's magnetic field"
+      ],
+      "answer": "They provide insights into early solar system formation"
+    },
+    {
+      "question": "What is a limitation of the transit method for detecting exoplanets?",
+      "choices": [
+        "It can only detect large planets",
+        "It requires the planet's orbit to align with our line of sight",
+        "It can't provide information about the planet's mass",
+        "It only works for nearby stars"
+      ],
+      "answer": "It requires the planet's orbit to align with our line of sight"
+    },
+    {
+      "question": "Which space telescope is designed to survey the 200,000 brightest stars near Earth?",
+      "choices": [
+        "Kepler",
+        "Hubble",
+        "TESS",
+        "James Webb"
+      ],
+      "answer": "TESS"
+    },
+    {
+      "question": "What type of planets is the radial velocity method most effective at detecting?",
+      "choices": [
+        "Earth-sized planets",
+        "Massive planets close to their stars",
+        "Planets in wide orbits",
+        "Gas giants in the habitable zone"
+      ],
+      "answer": "Massive planets close to their stars"
+    },
+    {
+      "question": "What did the Cassini mission discover about Titan's surface?",
+      "choices": [
+        "It has active volcanoes",
+        "It has liquid water oceans",
+        "It has hydrocarbon lakes",
+        "It has a rocky surface similar to Mars"
+      ],
+      "answer": "It has hydrocarbon lakes"
+    },
+    {
+      "question": "Which mission provided evidence for a possible subsurface ocean on Pluto?",
+      "choices": [
+        "Voyager",
+        "Cassini",
+        "New Horizons",
+        "Juno"
+      ],
+      "answer": "New Horizons"
+    },
+    {
+      "question": "What is the significance of studying small bodies like comets and asteroids?",
+      "choices": [
+        "They are potential sources of valuable minerals",
+        "They could be used as refueling stations for spacecraft",
+        "They provide insights into early solar system formation",
+        "They are candidates for future human colonization"
+      ],
+      "answer": "They provide insights into early solar system formation"
+    },
+    {
+      "question": "What advantage do space-based telescopes have over ground-based ones for exoplanet detection?",
+      "choices": [
+        "They can observe 24/7",
+        "They are free from atmospheric interference",
+        "They can be easily upgraded",
+        "They are less expensive to operate"
+      ],
+      "answer": "They are free from atmospheric interference"
+    },
+    {
+      "question": "Which of these is NOT a method commonly used for exoplanet detection from space?",
+      "choices": [
+        "Transit method",
+        "Radial velocity method",
+        "Direct imaging",
+        "Seismic analysis"
+      ],
+      "answer": "Seismic analysis"
+    },
+    {
+      "question": "What did the Rosetta mission reveal about comets?",
+      "choices": [
+        "They are composed entirely of ice",
+        "They have complex surface features and compositions",
+        "They are remnants of ancient planets",
+        "They have strong magnetic fields"
+      ],
+      "answer": "They have complex surface features and compositions"
+    }
+  ]
+}

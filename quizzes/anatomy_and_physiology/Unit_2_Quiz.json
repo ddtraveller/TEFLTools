@@ -1,0 +1,305 @@
+{
+  "title": "Cells and Tissues",
+  "questions": [
+    {
+      "question": "Which organelle is often referred to as the 'powerhouse' of the cell?",
+      "choices": [
+        "Nucleus",
+        "Mitochondria",
+        "Endoplasmic reticulum",
+        "Golgi apparatus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "What is the primary function of the cell membrane?",
+      "choices": [
+        "Energy production",
+        "Protein synthesis",
+        "Selective permeability",
+        "Genetic storage"
+      ],
+      "answer": "Selective permeability"
+    },
+    {
+      "question": "Which of the following is NOT a type of epithelial tissue?",
+      "choices": [
+        "Squamous",
+        "Cuboidal",
+        "Columnar",
+        "Adipose"
+      ],
+      "answer": "Adipose"
+    },
+    {
+      "question": "What is the main function of connective tissue?",
+      "choices": [
+        "Contraction",
+        "Signal transmission",
+        "Support and connection",
+        "Secretion"
+      ],
+      "answer": "Support and connection"
+    },
+    {
+      "question": "Which type of muscle tissue is found in the walls of blood vessels?",
+      "choices": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Striated muscle"
+      ],
+      "answer": "Smooth muscle"
+    },
+    {
+      "question": "What is the primary function of nervous tissue?",
+      "choices": [
+        "Energy storage",
+        "Structural support",
+        "Electrical signal transmission",
+        "Hormone production"
+      ],
+      "answer": "Electrical signal transmission"
+    },
+    {
+      "question": "Which organelle is responsible for modifying, packaging, and distributing proteins?",
+      "choices": [
+        "Ribosome",
+        "Lysosome",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "answer": "Golgi apparatus"
+    },
+    {
+      "question": "What type of transport does not require energy expenditure by the cell?",
+      "choices": [
+        "Active transport",
+        "Endocytosis",
+        "Exocytosis",
+        "Passive transport"
+      ],
+      "answer": "Passive transport"
+    },
+    {
+      "question": "Which of the following is a function of epithelial tissue?",
+      "choices": [
+        "Energy production",
+        "Blood cell formation",
+        "Protection and secretion",
+        "Nerve impulse conduction"
+      ],
+      "answer": "Protection and secretion"
+    },
+    {
+      "question": "What is the structural and functional unit of nervous tissue?",
+      "choices": [
+        "Myocyte",
+        "Neuron",
+        "Osteocyte",
+        "Adipocyte"
+      ],
+      "answer": "Neuron"
+    },
+    {
+      "question": "Which organelle contains digestive enzymes for breaking down cellular waste?",
+      "choices": [
+        "Ribosome",
+        "Mitochondria",
+        "Lysosome",
+        "Nucleus"
+      ],
+      "answer": "Lysosome"
+    },
+    {
+      "question": "What is the primary component of the cell membrane?",
+      "choices": [
+        "Carbohydrates",
+        "Proteins",
+        "Phospholipids",
+        "Nucleic acids"
+      ],
+      "answer": "Phospholipids"
+    },
+    {
+      "question": "Which tissue type is characterized by a large amount of extracellular matrix?",
+      "choices": [
+        "Epithelial tissue",
+        "Connective tissue",
+        "Muscle tissue",
+        "Nervous tissue"
+      ],
+      "answer": "Connective tissue"
+    },
+    {
+      "question": "What is the main function of the rough endoplasmic reticulum?",
+      "choices": [
+        "Lipid synthesis",
+        "Protein synthesis",
+        "Carbohydrate storage",
+        "Cell division"
+      ],
+      "answer": "Protein synthesis"
+    },
+    {
+      "question": "Which of the following is NOT a type of connective tissue?",
+      "choices": [
+        "Blood",
+        "Bone",
+        "Cartilage",
+        "Columnar"
+      ],
+      "answer": "Columnar"
+    },
+    {
+      "question": "What is the process by which substances are moved into a cell against their concentration gradient?",
+      "choices": [
+        "Diffusion",
+        "Osmosis",
+        "Active transport",
+        "Facilitated diffusion"
+      ],
+      "answer": "Active transport"
+    },
+    {
+      "question": "Which organelle is responsible for producing ATP through cellular respiration?",
+      "choices": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "What type of epithelial tissue is found lining the air sacs (alveoli) of the lungs?",
+      "choices": [
+        "Stratified squamous",
+        "Simple squamous",
+        "Simple columnar",
+        "Transitional"
+      ],
+      "answer": "Simple squamous"
+    },
+    {
+      "question": "Which of the following is a characteristic of cardiac muscle tissue?",
+      "choices": [
+        "Voluntary control",
+        "Multinucleated cells",
+        "Intercalated discs",
+        "Lack of striations"
+      ],
+      "answer": "Intercalated discs"
+    },
+    {
+      "question": "What is the primary function of adipose tissue?",
+      "choices": [
+        "Energy storage",
+        "Structural support",
+        "Gas exchange",
+        "Hormone production"
+      ],
+      "answer": "Energy storage"
+    },
+    {
+      "question": "Which organelle is responsible for detoxifying harmful substances in the cell?",
+      "choices": [
+        "Lysosome",
+        "Peroxisome",
+        "Ribosome",
+        "Nucleus"
+      ],
+      "answer": "Peroxisome"
+    },
+    {
+      "question": "What type of tissue forms tendons and ligaments?",
+      "choices": [
+        "Loose connective tissue",
+        "Dense regular connective tissue",
+        "Adipose tissue",
+        "Cartilage"
+      ],
+      "answer": "Dense regular connective tissue"
+    },
+    {
+      "question": "Which of the following is NOT a function of the cell membrane?",
+      "choices": [
+        "Regulating what enters and exits the cell",
+        "Providing structural support",
+        "Facilitating cell-to-cell communication",
+        "Synthesizing proteins"
+      ],
+      "answer": "Synthesizing proteins"
+    },
+    {
+      "question": "What is the name for the supporting cells in nervous tissue?",
+      "choices": [
+        "Myocytes",
+        "Fibroblasts",
+        "Neuroglia",
+        "Osteocytes"
+      ],
+      "answer": "Neuroglia"
+    },
+    {
+      "question": "Which of the following is a characteristic of simple epithelial tissue?",
+      "choices": [
+        "Multiple cell layers",
+        "Single cell layer",
+        "Lack of basement membrane",
+        "No direct contact with underlying connective tissue"
+      ],
+      "answer": "Single cell layer"
+    },
+    {
+      "question": "What is the primary function of the smooth endoplasmic reticulum?",
+      "choices": [
+        "Protein synthesis",
+        "Lipid synthesis",
+        "Energy production",
+        "Genetic storage"
+      ],
+      "answer": "Lipid synthesis"
+    },
+    {
+      "question": "Which type of muscle tissue is under voluntary control?",
+      "choices": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Visceral muscle"
+      ],
+      "answer": "Skeletal muscle"
+    },
+    {
+      "question": "What is the process by which large particles are taken into a cell by enclosing them in a vesicle?",
+      "choices": [
+        "Exocytosis",
+        "Osmosis",
+        "Diffusion",
+        "Endocytosis"
+      ],
+      "answer": "Endocytosis"
+    },
+    {
+      "question": "Which of the following is NOT a component of the cytoskeleton?",
+      "choices": [
+        "Microfilaments",
+        "Intermediate filaments",
+        "Microtubules",
+        "Ribosomes"
+      ],
+      "answer": "Ribosomes"
+    },
+    {
+      "question": "What type of tissue is blood classified as?",
+      "choices": [
+        "Epithelial tissue",
+        "Connective tissue",
+        "Muscle tissue",
+        "Nervous tissue"
+      ],
+      "answer": "Connective tissue"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to First Aid and Emergency Response in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the 'Three P's' of first aid?",
+      "choices": [
+        "Protect, Prevent, Promote",
+        "Preserve, Prevent, Promote",
+        "Prepare, Provide, Protect",
+        "Preserve, Protect, Provide"
+      ],
+      "answer": "Preserve, Prevent, Promote"
+    },
+    {
+      "question": "Which of the following is NOT one of the official languages of Timor-Leste mentioned in the module?",
+      "choices": [
+        "Tetum",
+        "Portuguese",
+        "English",
+        "Indonesian"
+      ],
+      "answer": "Indonesian"
+    },
+    {
+      "question": "What is the primary role of first responders in Timor-Leste's healthcare system?",
+      "choices": [
+        "To replace professional medical care",
+        "To provide immediate life-saving interventions",
+        "To diagnose complex medical conditions",
+        "To prescribe medications"
+      ],
+      "answer": "To provide immediate life-saving interventions"
+    },
+    {
+      "question": "Which level of Timor-Leste's healthcare system includes health posts and mobile clinics?",
+      "choices": [
+        "National level",
+        "District level",
+        "Community level",
+        "Regional level"
+      ],
+      "answer": "Community level"
+    },
+    {
+      "question": "What is a key challenge in emergency response in Timor-Leste?",
+      "choices": [
+        "Excess of ambulance services",
+        "Over-staffed medical facilities",
+        "Limited access to healthcare in rural areas",
+        "Too many trained medical professionals"
+      ],
+      "answer": "Limited access to healthcare in rural areas"
+    },
+    {
+      "question": "What is the importance of cultural sensitivity in providing first aid in Timor-Leste?",
+      "choices": [
+        "It is not important in emergency situations",
+        "It helps in respecting local customs and beliefs",
+        "It is only relevant for foreign aid workers",
+        "It slows down the provision of care"
+      ],
+      "answer": "It helps in respecting local customs and beliefs"
+    },
+    {
+      "question": "What is the term for laws that protect those who provide emergency assistance from legal liability?",
+      "choices": [
+        "Good Samaritan laws",
+        "Emergency Protection Acts",
+        "First Aid Immunity Statutes",
+        "Medical Assistance Shields"
+      ],
+      "answer": "Good Samaritan laws"
+    },
+    {
+      "question": "Which of the following is a key ethical consideration when providing first aid in Timor-Leste?",
+      "choices": [
+        "Ignoring traditional healing practices",
+        "Maintaining patient confidentiality",
+        "Providing care only to those who can pay",
+        "Sharing patient information on social media"
+      ],
+      "answer": "Maintaining patient confidentiality"
+    },
+    {
+      "question": "What is the primary purpose of triage in mass casualty incidents?",
+      "choices": [
+        "To treat the most severely injured first",
+        "To evacuate all patients immediately",
+        "To prioritize patients based on severity and resources",
+        "To identify the cause of the incident"
+      ],
+      "answer": "To prioritize patients based on severity and resources"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a common health challenge in Timor-Leste?",
+      "choices": [
+        "Road accidents",
+        "Tropical diseases",
+        "Natural disasters",
+        "Obesity epidemic"
+      ],
+      "answer": "Obesity epidemic"
+    },
+    {
+      "question": "What is the recommended approach to integrating traditional healing practices in first aid?",
+      "choices": [
+        "Completely replace modern techniques with traditional ones",
+        "Ignore traditional practices entirely",
+        "Integrate when appropriate and safe",
+        "Use traditional practices only for minor injuries"
+      ],
+      "answer": "Integrate when appropriate and safe"
+    },
+    {
+      "question": "What is the first step in the 'Three P's' of first aid?",
+      "choices": [
+        "Promote recovery",
+        "Prevent further injury",
+        "Preserve life",
+        "Provide comfort"
+      ],
+      "answer": "Preserve life"
+    },
+    {
+      "question": "Which of the following is a key component of preserving life in first aid?",
+      "choices": [
+        "Administering pain medication",
+        "Performing CPR if necessary",
+        "Applying a splint to fractures",
+        "Providing psychological counseling"
+      ],
+      "answer": "Performing CPR if necessary"
+    },
+    {
+      "question": "What is the primary role of the Ministry of Health in Timor-Leste's healthcare system?",
+      "choices": [
+        "Providing direct patient care",
+        "Overseeing policy and major hospitals",
+        "Training all first responders",
+        "Managing community health centers"
+      ],
+      "answer": "Overseeing policy and major hospitals"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge in Timor-Leste's emergency response system?",
+      "choices": [
+        "Limited ambulance services",
+        "Poor road infrastructure",
+        "Shortage of trained medical professionals",
+        "Excessive bureaucracy in hospitals"
+      ],
+      "answer": "Excessive bureaucracy in hospitals"
+    },
+    {
+      "question": "What is the importance of obtaining consent before providing first aid?",
+      "choices": [
+        "It is a legal requirement in all situations",
+        "It respects the patient's autonomy and rights",
+        "It protects the first aider from all liability",
+        "It is only necessary for major interventions"
+      ],
+      "answer": "It respects the patient's autonomy and rights"
+    },
+    {
+      "question": "How should first aiders in Timor-Leste deal with language barriers?",
+      "choices": [
+        "Only provide care to those who speak their language",
+        "Use only English as a universal language",
+        "Be prepared to communicate in multiple languages, including Tetum and Portuguese",
+        "Rely solely on hand gestures and body language"
+      ],
+      "answer": "Be prepared to communicate in multiple languages, including Tetum and Portuguese"
+    },
+    {
+      "question": "What is the recommended approach when dealing with an unconscious patient in terms of consent?",
+      "choices": [
+        "Wait for them to regain consciousness before providing care",
+        "Assume implied consent and provide necessary care",
+        "Only provide care if a family member is present to give consent",
+        "Do not provide any care without explicit consent"
+      ],
+      "answer": "Assume implied consent and provide necessary care"
+    },
+    {
+      "question": "Which of the following is a key aspect of promoting recovery in first aid?",
+      "choices": [
+        "Performing complex medical procedures",
+        "Providing comfort and reassurance",
+        "Administering prescription medications",
+        "Conducting detailed medical examinations"
+      ],
+      "answer": "Providing comfort and reassurance"
+    },
+    {
+      "question": "What is the significance of community health workers in Timor-Leste's healthcare system?",
+      "choices": [
+        "They replace the need for hospitals",
+        "They provide specialized surgical care",
+        "They serve as a crucial link between communities and the healthcare system",
+        "They are responsible for national health policy"
+      ],
+      "answer": "They serve as a crucial link between communities and the healthcare system"
+    },
+    {
+      "question": "How should first aiders approach the use of locally available materials for first aid in Timor-Leste?",
+      "choices": [
+        "Avoid using any local materials",
+        "Use them only as a last resort",
+        "Improvise and adapt using safe, locally available resources",
+        "Wait for professional medical supplies to arrive"
+      ],
+      "answer": "Improvise and adapt using safe, locally available resources"
+    },
+    {
+      "question": "What is the primary purpose of first aid education in Timor-Leste communities?",
+      "choices": [
+        "To replace the need for professional medical care",
+        "To improve immediate response capabilities and health outcomes",
+        "To provide employment opportunities in healthcare",
+        "To reduce government healthcare spending"
+      ],
+      "answer": "To improve immediate response capabilities and health outcomes"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a component of the 'Prevent further injury' principle in first aid?",
+      "choices": [
+        "Immobilizing fractures",
+        "Controlling bleeding",
+        "Preventing shock",
+        "Administering antibiotics"
+      ],
+      "answer": "Administering antibiotics"
+    },
+    {
+      "question": "What is the recommended approach to gender considerations in providing first aid in Timor-Leste?",
+      "choices": [
+        "Ignore gender differences entirely",
+        "Only provide care to individuals of the same gender",
+        "Be aware of and respect cultural norms regarding gender",
+        "Segregate all first aid training by gender"
+      ],
+      "answer": "Be aware of and respect cultural norms regarding gender"
+    },
+    {
+      "question": "Which level of Timor-Leste's healthcare system includes district hospitals?",
+      "choices": [
+        "National level",
+        "District level",
+        "Community level",
+        "Regional level"
+      ],
+      "answer": "District level"
+    },
+    {
+      "question": "What is the importance of scene safety assessment in first aid?",
+      "choices": [
+        "It is only relevant for professional first responders",
+        "It ensures the safety of the first aider and prevents additional casualties",
+        "It is a legal requirement before providing care",
+        "It determines the severity of the patient's condition"
+      ],
+      "answer": "It ensures the safety of the first aider and prevents additional casualties"
+    },
+    {
+      "question": "How should first aiders in Timor-Leste approach the integration of modern and traditional healing practices?",
+      "choices": [
+        "Rely solely on modern techniques",
+        "Use only traditional methods",
+        "Find a balance that respects both approaches when safe and appropriate",
+        "Alternate between modern and traditional techniques randomly"
+      ],
+      "answer": "Find a balance that respects both approaches when safe and appropriate"
+    },
+    {
+      "question": "What is the primary purpose of monitoring vital signs in first aid?",
+      "choices": [
+        "To diagnose specific medical conditions",
+        "To determine the patient's age",
+        "To assess the patient's overall condition and track changes",
+        "To decide on medication dosages"
+      ],
+      "answer": "To assess the patient's overall condition and track changes"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key challenge in providing emergency care in rural areas of Timor-Leste?",
+      "choices": [
+        "Limited access to medical supplies",
+        "Poor road infrastructure",
+        "Lack of trained personnel",
+        "Excessive number of hospitals"
+      ],
+      "answer": "Excessive number of hospitals"
+    },
+    {
+      "question": "What is the recommended approach to confidentiality when providing first aid in a small community setting in Timor-Leste?",
+      "choices": [
+        "Share all information openly to raise awareness",
+        "Maintain patient privacy and confidentiality as much as possible",
+        "Only discuss the case with community leaders",
+        "Confidentiality is not important in emergency situations"
+      ],
+      "answer": "Maintain patient privacy and confidentiality as much as possible"
+    }
+  ]
+}

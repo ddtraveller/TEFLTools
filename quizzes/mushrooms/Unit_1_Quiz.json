@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Mushroom Biodiversity in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the primary role of mushrooms in Timor-Leste's ecosystems?",
+      "choices": [
+        "Predators",
+        "Decomposers",
+        "Primary producers",
+        "Pollinators"
+      ],
+      "answer": "Decomposers"
+    },
+    {
+      "question": "Which of the following is NOT a major mushroom phylum mentioned in the module?",
+      "choices": [
+        "Basidiomycota",
+        "Ascomycota",
+        "Zygomycota",
+        "Polyporaceae"
+      ],
+      "answer": "Zygomycota"
+    },
+    {
+      "question": "What is the underground network of thread-like structures in fungi called?",
+      "choices": [
+        "Hyphae",
+        "Mycelium",
+        "Rhizome",
+        "Stroma"
+      ],
+      "answer": "Mycelium"
+    },
+    {
+      "question": "Which of the following is a native mushroom species in Timor-Leste?",
+      "choices": [
+        "Agaricus bisporus",
+        "Pleurotus ostreatus",
+        "Schizophyllum commune",
+        "Lentinus edodes"
+      ],
+      "answer": "Schizophyllum commune"
+    },
+    {
+      "question": "What is the primary benefit of mycorrhizal associations for plants?",
+      "choices": [
+        "Increased photosynthesis",
+        "Enhanced nutrient and water uptake",
+        "Protection from herbivores",
+        "Faster growth rate"
+      ],
+      "answer": "Enhanced nutrient and water uptake"
+    },
+    {
+      "question": "Which part of the mushroom is responsible for spore production?",
+      "choices": [
+        "Mycelium",
+        "Stem",
+        "Cap",
+        "Fruiting body"
+      ],
+      "answer": "Fruiting body"
+    },
+    {
+      "question": "What is the ecological role of Ganoderma species in tropical forests?",
+      "choices": [
+        "Nitrogen fixation",
+        "Pollination",
+        "Decomposition of fallen logs",
+        "Predation of insects"
+      ],
+      "answer": "Decomposition of fallen logs"
+    },
+    {
+      "question": "Which of the following is an introduced mushroom species in Timor-Leste?",
+      "choices": [
+        "Auricularia auricula-judae",
+        "Lentinus sajor-caju",
+        "Pleurotus ostreatus",
+        "Schizophyllum commune"
+      ],
+      "answer": "Pleurotus ostreatus"
+    },
+    {
+      "question": "What is the primary function of the mycelium in soil formation?",
+      "choices": [
+        "Photosynthesis",
+        "Binding soil particles",
+        "Attracting pollinators",
+        "Producing oxygen"
+      ],
+      "answer": "Binding soil particles"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of the wood ear fungus (Auricularia auricula-judae)?",
+      "choices": [
+        "Ear-shaped",
+        "Gelatinous texture",
+        "Grows on dead or dying elder trees",
+        "Bright red color"
+      ],
+      "answer": "Bright red color"
+    },
+    {
+      "question": "What is the primary ecological role of saprophytic mushrooms?",
+      "choices": [
+        "Photosynthesis",
+        "Decomposition of dead organic matter",
+        "Pollination",
+        "Predation"
+      ],
+      "answer": "Decomposition of dead organic matter"
+    },
+    {
+      "question": "Which of the following is a potential threat to mushroom biodiversity in Timor-Leste?",
+      "choices": [
+        "Increased rainfall",
+        "Reforestation efforts",
+        "Climate change",
+        "Decreased agricultural activity"
+      ],
+      "answer": "Climate change"
+    },
+    {
+      "question": "What is the purpose of making a spore print in mushroom identification?",
+      "choices": [
+        "To determine the age of the mushroom",
+        "To assess the mushroom's edibility",
+        "To observe the color and pattern of spores",
+        "To measure the mushroom's growth rate"
+      ],
+      "answer": "To observe the color and pattern of spores"
+    },
+    {
+      "question": "Which of the following is NOT a typical component of a mushroom's structure?",
+      "choices": [
+        "Cap (pileus)",
+        "Gills (lamellae)",
+        "Stem (stipe)",
+        "Leaves"
+      ],
+      "answer": "Leaves"
+    },
+    {
+      "question": "What is the primary role of mushrooms in nutrient cycling?",
+      "choices": [
+        "Producing oxygen",
+        "Fixing nitrogen",
+        "Breaking down organic matter and releasing nutrients",
+        "Absorbing carbon dioxide"
+      ],
+      "answer": "Breaking down organic matter and releasing nutrients"
+    },
+    {
+      "question": "Which family of mushrooms includes button mushrooms and parasol mushrooms?",
+      "choices": [
+        "Polyporaceae",
+        "Boletaceae",
+        "Agaricaceae",
+        "Russulaceae"
+      ],
+      "answer": "Agaricaceae"
+    },
+    {
+      "question": "What is the primary benefit of mushroom mycelium for soil in Timor-Leste's steep, mountainous terrain?",
+      "choices": [
+        "Increasing soil acidity",
+        "Preventing erosion",
+        "Attracting pollinators",
+        "Repelling pests"
+      ],
+      "answer": "Preventing erosion"
+    },
+    {
+      "question": "Which of the following is a correct step in the life cycle of a mushroom?",
+      "choices": [
+        "Fruiting body formation before mycelium growth",
+        "Spore production before fruiting body formation",
+        "Mycelium growth before spore germination",
+        "Spore germination before mycelium growth"
+      ],
+      "answer": "Spore germination before mycelium growth"
+    },
+    {
+      "question": "What is the primary function of the gills or pores in a mushroom?",
+      "choices": [
+        "Photosynthesis",
+        "Water absorption",
+        "Spore production",
+        "Nutrient storage"
+      ],
+      "answer": "Spore production"
+    },
+    {
+      "question": "Which of the following is NOT a typical habitat for mushrooms in Timor-Leste?",
+      "choices": [
+        "Coastal mangroves",
+        "Mountainous forests",
+        "Desert sand dunes",
+        "Agricultural areas"
+      ],
+      "answer": "Desert sand dunes"
+    },
+    {
+      "question": "What is the primary role of Termitomyces fungi in termite colonies?",
+      "choices": [
+        "Protecting the colony from predators",
+        "Serving as a food source",
+        "Regulating temperature",
+        "Producing antibiotics"
+      ],
+      "answer": "Serving as a food source"
+    },
+    {
+      "question": "Which of the following is a correct method for sustainable mushroom harvesting?",
+      "choices": [
+        "Collecting all mushrooms in an area",
+        "Using plastic bags for collection",
+        "Removing the entire mycelium network",
+        "Using baskets or paper bags to allow spore dispersal"
+      ],
+      "answer": "Using baskets or paper bags to allow spore dispersal"
+    },
+    {
+      "question": "What is the primary cultural significance of mushrooms in Timor-Leste?",
+      "choices": [
+        "Religious symbols",
+        "Currency",
+        "Traditional uses in cuisine and medicine",
+        "Decorative art"
+      ],
+      "answer": "Traditional uses in cuisine and medicine"
+    },
+    {
+      "question": "Which of the following is NOT a typical ecological function of mushrooms in Timor-Leste's forests?",
+      "choices": [
+        "Decomposition",
+        "Mycorrhizal associations",
+        "Photosynthesis",
+        "Food source for wildlife"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "What is the primary advantage of spore-based reproduction in mushrooms?",
+      "choices": [
+        "Faster growth rate",
+        "Larger offspring",
+        "Ability to colonize new areas rapidly",
+        "Resistance to diseases"
+      ],
+      "answer": "Ability to colonize new areas rapidly"
+    },
+    {
+      "question": "Which of the following mushroom species is known for its pink to brown cap and decurrent gills?",
+      "choices": [
+        "Schizophyllum commune",
+        "Auricularia auricula-judae",
+        "Lentinus sajor-caju",
+        "Agaricus bisporus"
+      ],
+      "answer": "Lentinus sajor-caju"
+    },
+    {
+      "question": "What is the primary role of Boletus species in Dipterocarp forests?",
+      "choices": [
+        "Decomposition of leaf litter",
+        "Mycorrhizal association with tree roots",
+        "Predation of insects",
+        "Production of antibiotics"
+      ],
+      "answer": "Mycorrhizal association with tree roots"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature used in mushroom identification?",
+      "choices": [
+        "Cap shape",
+        "Gill structure",
+        "Stem characteristics",
+        "Leaf arrangement"
+      ],
+      "answer": "Leaf arrangement"
+    },
+    {
+      "question": "What is the primary concern regarding the introduction of non-native mushroom species for cultivation in Timor-Leste?",
+      "choices": [
+        "Increased biodiversity",
+        "Improved soil fertility",
+        "Potential impact on native ecosystems",
+        "Higher crop yields"
+      ],
+      "answer": "Potential impact on native ecosystems"
+    },
+    {
+      "question": "Which of the following is a correct step in making a spore print?",
+      "choices": [
+        "Exposing the cap to direct sunlight",
+        "Placing the cap gill-side up on paper",
+        "Covering the cap with a bowl to prevent air currents",
+        "Leaving the print for less than an hour"
+      ],
+      "answer": "Covering the cap with a bowl to prevent air currents"
+    }
+  ]
+}

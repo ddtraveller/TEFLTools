@@ -1,0 +1,305 @@
+{
+  "title": "Sustainable Cultivation Techniques",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a common low-tech cultivation method for mushrooms?",
+      "choices": [
+        "Log cultivation",
+        "Bag cultivation",
+        "Indoor cultivation",
+        "Hydroponic cultivation"
+      ],
+      "answer": "Hydroponic cultivation"
+    },
+    {
+      "question": "What is a prevalent agricultural waste material in Timor-Leste that can be used for mushroom substrate?",
+      "choices": [
+        "Rice husks",
+        "Wheat straw",
+        "Coffee husks",
+        "Corn stalks"
+      ],
+      "answer": "Coffee husks"
+    },
+    {
+      "question": "Which of the following is NOT a common substrate material for mushroom cultivation in Timor-Leste?",
+      "choices": [
+        "Coffee husks",
+        "Coconut coir",
+        "Sawdust",
+        "Peat moss"
+      ],
+      "answer": "Peat moss"
+    },
+    {
+      "question": "What is the term for the material on which mushroom mycelium grows?",
+      "choices": [
+        "Spawn",
+        "Substrate",
+        "Mycelium",
+        "Fruiting body"
+      ],
+      "answer": "Substrate"
+    },
+    {
+      "question": "Which of the following is used to introduce mushroom mycelium into a prepared substrate?",
+      "choices": [
+        "Spores",
+        "Fruiting bodies",
+        "Spawn",
+        "Hyphae"
+      ],
+      "answer": "Spawn"
+    },
+    {
+      "question": "What is the process of introducing mushroom spawn into a prepared substrate called?",
+      "choices": [
+        "Colonization",
+        "Fruiting",
+        "Inoculation",
+        "Pasteurization"
+      ],
+      "answer": "Inoculation"
+    },
+    {
+      "question": "Which of the following is NOT a common type of spawn used in mushroom cultivation?",
+      "choices": [
+        "Grain spawn",
+        "Sawdust spawn",
+        "Liquid spawn",
+        "Stem spawn"
+      ],
+      "answer": "Stem spawn"
+    },
+    {
+      "question": "What is the vegetative part of a fungus, consisting of a network of fine white filaments?",
+      "choices": [
+        "Spawn",
+        "Substrate",
+        "Mycelium",
+        "Fruiting body"
+      ],
+      "answer": "Mycelium"
+    },
+    {
+      "question": "Which heat treatment process is used to reduce harmful microorganisms in substrate?",
+      "choices": [
+        "Sterilization",
+        "Pasteurization",
+        "Fermentation",
+        "Dehydration"
+      ],
+      "answer": "Pasteurization"
+    },
+    {
+      "question": "What is the stage when mushrooms develop from the mycelium called?",
+      "choices": [
+        "Inoculation",
+        "Colonization",
+        "Fruiting",
+        "Harvesting"
+      ],
+      "answer": "Fruiting"
+    },
+    {
+      "question": "Which of the following is NOT a common method for sterilizing substrate?",
+      "choices": [
+        "Pressure cooking",
+        "Steam pasteurization",
+        "Cold water lime bath",
+        "UV radiation"
+      ],
+      "answer": "UV radiation"
+    },
+    {
+      "question": "What is the ideal pH range for most mushroom substrates?",
+      "choices": [
+        "4.0-5.5",
+        "5.5-6.5",
+        "6.0-7.5",
+        "7.5-9.0"
+      ],
+      "answer": "6.0-7.5"
+    },
+    {
+      "question": "Which material is often used to adjust the pH of mushroom substrate?",
+      "choices": [
+        "Salt",
+        "Sugar",
+        "Lime",
+        "Vinegar"
+      ],
+      "answer": "Lime"
+    },
+    {
+      "question": "What is the purpose of adding gypsum to mushroom substrate?",
+      "choices": [
+        "To increase nitrogen content",
+        "To improve substrate structure",
+        "To lower pH",
+        "To prevent contamination"
+      ],
+      "answer": "To improve substrate structure"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of using locally available materials for substrate?",
+      "choices": [
+        "Reduced cultivation costs",
+        "Addressing waste management issues",
+        "Increased yield",
+        "Promoting sustainable agriculture"
+      ],
+      "answer": "Increased yield"
+    },
+    {
+      "question": "What is the primary advantage of indoor shelf cultivation?",
+      "choices": [
+        "Lower initial investment",
+        "Faster colonization",
+        "Better control over environmental factors",
+        "Higher resistance to contamination"
+      ],
+      "answer": "Better control over environmental factors"
+    },
+    {
+      "question": "Which cultivation method is most suitable for wood-loving species like shiitake?",
+      "choices": [
+        "Bag cultivation",
+        "Log cultivation",
+        "Indoor shelf cultivation",
+        "Hydroponic cultivation"
+      ],
+      "answer": "Log cultivation"
+    },
+    {
+      "question": "What is the main advantage of using coffee husks as a substrate material?",
+      "choices": [
+        "High protein content",
+        "Neutral pH",
+        "Abundance as agricultural waste",
+        "Resistance to contamination"
+      ],
+      "answer": "Abundance as agricultural waste"
+    },
+    {
+      "question": "Which of the following is NOT a common supplementation material for mushroom substrate?",
+      "choices": [
+        "Rice bran",
+        "Wheat bran",
+        "Corn meal",
+        "Fish meal"
+      ],
+      "answer": "Fish meal"
+    },
+    {
+      "question": "What is the purpose of the colonization period in mushroom cultivation?",
+      "choices": [
+        "To allow fruiting bodies to develop",
+        "To allow mycelium to fully grow throughout the substrate",
+        "To sterilize the substrate",
+        "To increase substrate nutrient content"
+      ],
+      "answer": "To allow mycelium to fully grow throughout the substrate"
+    },
+    {
+      "question": "Which factor is NOT critical to monitor during mushroom cultivation?",
+      "choices": [
+        "Temperature",
+        "Humidity",
+        "Light intensity",
+        "Soil pH"
+      ],
+      "answer": "Soil pH"
+    },
+    {
+      "question": "What is the primary purpose of creating air exchange in mushroom cultivation?",
+      "choices": [
+        "To increase temperature",
+        "To reduce humidity",
+        "To remove CO2 and provide fresh oxygen",
+        "To prevent contamination"
+      ],
+      "answer": "To remove CO2 and provide fresh oxygen"
+    },
+    {
+      "question": "Which of the following is a sign of bacterial contamination in mushroom substrate?",
+      "choices": [
+        "Green or blue mold",
+        "Black spots",
+        "Sour or fermented smell",
+        "Yellow discoloration"
+      ],
+      "answer": "Sour or fermented smell"
+    },
+    {
+      "question": "What is the recommended action if contamination is observed in a mushroom cultivation container?",
+      "choices": [
+        "Increase temperature",
+        "Add more spawn",
+        "Isolate the container immediately",
+        "Apply fungicide"
+      ],
+      "answer": "Isolate the container immediately"
+    },
+    {
+      "question": "Which of the following is NOT a common challenge in mushroom cultivation in Timor-Leste?",
+      "choices": [
+        "Limited access to sterile environments",
+        "High ambient temperatures",
+        "Lack of cold storage facilities",
+        "Excessive rainfall"
+      ],
+      "answer": "Excessive rainfall"
+    },
+    {
+      "question": "What is the primary advantage of using coconut coir in mushroom substrate?",
+      "choices": [
+        "High nitrogen content",
+        "Excellent water retention properties",
+        "Natural resistance to contamination",
+        "High cellulose content"
+      ],
+      "answer": "Excellent water retention properties"
+    },
+    {
+      "question": "Which of the following is NOT a common method for inoculating logs in mushroom cultivation?",
+      "choices": [
+        "Plug spawn",
+        "Sawdust spawn",
+        "Liquid spawn injection",
+        "Spore slurry"
+      ],
+      "answer": "Spore slurry"
+    },
+    {
+      "question": "What is the primary purpose of the cold water lime bath method in substrate preparation?",
+      "choices": [
+        "To increase substrate pH",
+        "To add nutrients",
+        "To create an environment inhospitable to contaminants",
+        "To soften the substrate materials"
+      ],
+      "answer": "To create an environment inhospitable to contaminants"
+    },
+    {
+      "question": "Which of the following is NOT a typical step in preparing mushroom substrate?",
+      "choices": [
+        "Mixing materials in appropriate ratios",
+        "Adjusting moisture content",
+        "Balancing pH level",
+        "Adding chemical fertilizers"
+      ],
+      "answer": "Adding chemical fertilizers"
+    },
+    {
+      "question": "What is the recommended moisture content for most mushroom substrates?",
+      "choices": [
+        "40-50%",
+        "55-65%",
+        "65-75%",
+        "80-90%"
+      ],
+      "answer": "65-75%"
+    }
+  ]
+}

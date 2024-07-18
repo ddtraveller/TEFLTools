@@ -1,0 +1,305 @@
+{
+  "title": "Disaster Preparedness and Response in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the most frequent natural disaster in Timor-Leste?",
+      "choices": [
+        "Earthquakes",
+        "Floods",
+        "Droughts",
+        "Tsunamis"
+      ],
+      "answer": "Floods"
+    },
+    {
+      "question": "Which season typically brings the highest risk of floods in Timor-Leste?",
+      "choices": [
+        "Dry season",
+        "Monsoon season",
+        "Spring",
+        "Autumn"
+      ],
+      "answer": "Monsoon season"
+    },
+    {
+      "question": "What is the second most common disaster in Timor-Leste after floods?",
+      "choices": [
+        "Earthquakes",
+        "Landslides",
+        "Droughts",
+        "Volcanic eruptions"
+      ],
+      "answer": "Landslides"
+    },
+    {
+      "question": "Which government body is responsible for coordinating disaster preparedness and response efforts in Timor-Leste?",
+      "choices": [
+        "National Disaster Management Directorate (NDMD)",
+        "Timor-Leste Emergency Response Agency",
+        "Ministry of Natural Disasters",
+        "National Crisis Center"
+      ],
+      "answer": "National Disaster Management Directorate (NDMD)"
+    },
+    {
+      "question": "What is the primary cause of landslides in Timor-Leste?",
+      "choices": [
+        "Earthquakes",
+        "Heavy rainfall and unstable soil conditions",
+        "Deforestation",
+        "Coastal erosion"
+      ],
+      "answer": "Heavy rainfall and unstable soil conditions"
+    },
+    {
+      "question": "Which of the following is NOT a principle of psychological first aid?",
+      "choices": [
+        "Promote safety",
+        "Promote calm",
+        "Promote dependency",
+        "Promote hope"
+      ],
+      "answer": "Promote dependency"
+    },
+    {
+      "question": "What is the recommended minimum duration for emergency food and water supplies in a household disaster preparedness kit?",
+      "choices": [
+        "1 day",
+        "3 days",
+        "1 week",
+        "1 month"
+      ],
+      "answer": "3 days"
+    },
+    {
+      "question": "Which search pattern involves team members forming a line and moving forward together?",
+      "choices": [
+        "Grid search",
+        "Spiral search",
+        "Line search",
+        "Zigzag search"
+      ],
+      "answer": "Line search"
+    },
+    {
+      "question": "What is the primary purpose of a community vulnerability assessment?",
+      "choices": [
+        "To identify potential disaster risks and community weaknesses",
+        "To determine the population of a community",
+        "To assess the economic status of community members",
+        "To plan community events"
+      ],
+      "answer": "To identify potential disaster risks and community weaknesses"
+    },
+    {
+      "question": "Which of the following is NOT a common element of an effective evacuation plan?",
+      "choices": [
+        "Clear chain of command",
+        "Multiple evacuation routes",
+        "Designated safe assembly points",
+        "Mandatory evacuation for all residents"
+      ],
+      "answer": "Mandatory evacuation for all residents"
+    },
+    {
+      "question": "What is the primary goal of disaster risk reduction (DRR)?",
+      "choices": [
+        "To eliminate all natural disasters",
+        "To reduce the impact of disasters through systematic efforts",
+        "To increase government funding for disaster response",
+        "To relocate all communities away from disaster-prone areas"
+      ],
+      "answer": "To reduce the impact of disasters through systematic efforts"
+    },
+    {
+      "question": "Which of the following is a key challenge in implementing evacuation plans in rural areas of Timor-Leste?",
+      "choices": [
+        "Overcrowded urban centers",
+        "Limited infrastructure and accessibility",
+        "High population density",
+        "Lack of open spaces for assembly points"
+      ],
+      "answer": "Limited infrastructure and accessibility"
+    },
+    {
+      "question": "What is the primary purpose of a community-based early warning system for floods and landslides?",
+      "choices": [
+        "To predict long-term weather patterns",
+        "To alert communities of imminent danger and trigger evacuation",
+        "To measure rainfall amounts",
+        "To assess property damage after a disaster"
+      ],
+      "answer": "To alert communities of imminent danger and trigger evacuation"
+    },
+    {
+      "question": "Which of the following is NOT a typical sign of psychological trauma following a disaster?",
+      "choices": [
+        "Anxiety",
+        "Difficulty concentrating",
+        "Increased appetite",
+        "Mood swings"
+      ],
+      "answer": "Increased appetite"
+    },
+    {
+      "question": "What is the primary purpose of conducting regular disaster response drills?",
+      "choices": [
+        "To entertain community members",
+        "To test and improve emergency procedures",
+        "To increase tourism in the area",
+        "To provide employment opportunities"
+      ],
+      "answer": "To test and improve emergency procedures"
+    },
+    {
+      "question": "Which of the following is a key component of climate change adaptation in disaster preparedness?",
+      "choices": [
+        "Ignoring long-term climate projections",
+        "Focusing solely on immediate disaster response",
+        "Developing climate-resilient infrastructure",
+        "Reducing community involvement in preparedness efforts"
+      ],
+      "answer": "Developing climate-resilient infrastructure"
+    },
+    {
+      "question": "What is the primary benefit of integrating traditional knowledge into modern disaster preparedness strategies?",
+      "choices": [
+        "It replaces the need for scientific data",
+        "It increases funding from international donors",
+        "It enhances the relevance and effectiveness of preparedness efforts",
+        "It eliminates the need for technology in disaster response"
+      ],
+      "answer": "It enhances the relevance and effectiveness of preparedness efforts"
+    },
+    {
+      "question": "Which of the following is NOT a recommended item in a household disaster preparedness kit?",
+      "choices": [
+        "First aid kit",
+        "Battery-powered radio",
+        "Perishable food items",
+        "Local maps"
+      ],
+      "answer": "Perishable food items"
+    },
+    {
+      "question": "What is the primary purpose of psychological first aid in disaster response?",
+      "choices": [
+        "To diagnose mental health disorders",
+        "To provide long-term psychotherapy",
+        "To offer immediate emotional support and practical assistance",
+        "To prescribe medication for trauma"
+      ],
+      "answer": "To offer immediate emotional support and practical assistance"
+    },
+    {
+      "question": "Which of the following is a key challenge in disaster response in Timor-Leste?",
+      "choices": [
+        "Excessive funding for disaster management",
+        "Over-preparedness of communities",
+        "Limited resources and capacity constraints",
+        "Too many trained disaster response personnel"
+      ],
+      "answer": "Limited resources and capacity constraints"
+    },
+    {
+      "question": "What is the primary goal of pre-positioning emergency supplies in disaster-prone areas?",
+      "choices": [
+        "To create jobs in local communities",
+        "To reduce transportation costs",
+        "To ensure rapid access to essential resources during emergencies",
+        "To promote tourism in these areas"
+      ],
+      "answer": "To ensure rapid access to essential resources during emergencies"
+    },
+    {
+      "question": "Which of the following is NOT a typical impact of recurring disasters on communities in Timor-Leste?",
+      "choices": [
+        "Economic instability",
+        "Displacement of populations",
+        "Improved infrastructure",
+        "Food insecurity"
+      ],
+      "answer": "Improved infrastructure"
+    },
+    {
+      "question": "What is the primary purpose of conducting a resource inventory as part of a community disaster preparedness plan?",
+      "choices": [
+        "To increase community wealth",
+        "To identify available assets and gaps in preparedness",
+        "To determine property values",
+        "To plan community celebrations"
+      ],
+      "answer": "To identify available assets and gaps in preparedness"
+    },
+    {
+      "question": "Which of the following is a key consideration when identifying safe assembly points for evacuation?",
+      "choices": [
+        "Proximity to hazard zones",
+        "Limited accessibility",
+        "Small, enclosed spaces",
+        "Elevation and distance from potential hazards"
+      ],
+      "answer": "Elevation and distance from potential hazards"
+    },
+    {
+      "question": "What is the primary purpose of implementing a buddy system during community evacuations?",
+      "choices": [
+        "To promote social interaction",
+        "To reduce evacuation costs",
+        "To ensure no one is left behind",
+        "To increase evacuation speed"
+      ],
+      "answer": "To ensure no one is left behind"
+    },
+    {
+      "question": "Which of the following is NOT a typical role of community leaders in disaster preparedness and response?",
+      "choices": [
+        "Disseminating warning information",
+        "Coordinating local response efforts",
+        "Providing technical expertise on infrastructure design",
+        "Identifying vulnerable community members"
+      ],
+      "answer": "Providing technical expertise on infrastructure design"
+    },
+    {
+      "question": "What is the primary benefit of incorporating disaster preparedness education into school curricula in Timor-Leste?",
+      "choices": [
+        "To reduce school attendance",
+        "To create employment for teachers",
+        "To build a culture of preparedness from a young age",
+        "To increase school funding"
+      ],
+      "answer": "To build a culture of preparedness from a young age"
+    },
+    {
+      "question": "Which of the following is a key component of effective risk communication during a disaster?",
+      "choices": [
+        "Using complex technical language",
+        "Providing information only in English",
+        "Using multiple communication channels",
+        "Limiting information to prevent panic"
+      ],
+      "answer": "Using multiple communication channels"
+    },
+    {
+      "question": "What is the primary purpose of conducting post-disaster needs assessments?",
+      "choices": [
+        "To assign blame for the disaster",
+        "To plan future community events",
+        "To inform recovery and reconstruction efforts",
+        "To promote tourism in affected areas"
+      ],
+      "answer": "To inform recovery and reconstruction efforts"
+    },
+    {
+      "question": "Which of the following is NOT a typical strategy for promoting community resilience to disasters?",
+      "choices": [
+        "Diversifying livelihoods",
+        "Strengthening social networks",
+        "Encouraging dependency on external aid",
+        "Improving local infrastructure"
+      ],
+      "answer": "Encouraging dependency on external aid"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Muscular and Nervous Systems Quiz",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a type of muscle tissue?",
+      "choices": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Connective muscle"
+      ],
+      "answer": "Connective muscle"
+    },
+    {
+      "question": "What is the basic functional unit of muscle contraction?",
+      "choices": [
+        "Myofibril",
+        "Sarcomere",
+        "Muscle fiber",
+        "Actin filament"
+      ],
+      "answer": "Sarcomere"
+    },
+    {
+      "question": "Which theory explains muscle contraction?",
+      "choices": [
+        "Sliding filament theory",
+        "Muscle pump theory",
+        "Contractile fiber theory",
+        "Elastic recoil theory"
+      ],
+      "answer": "Sliding filament theory"
+    },
+    {
+      "question": "What is the role of calcium in muscle contraction?",
+      "choices": [
+        "It provides energy for contraction",
+        "It binds to troponin, exposing actin binding sites",
+        "It forms the thick filaments in sarcomeres",
+        "It lubricates the muscle fibers for smooth movement"
+      ],
+      "answer": "It binds to troponin, exposing actin binding sites"
+    },
+    {
+      "question": "What is the primary function of ATP in muscle contraction?",
+      "choices": [
+        "To bind calcium ions",
+        "To form actin filaments",
+        "To provide energy for myosin head movement",
+        "To stimulate neurotransmitter release"
+      ],
+      "answer": "To provide energy for myosin head movement"
+    },
+    {
+      "question": "Which part of the nervous system includes the brain and spinal cord?",
+      "choices": [
+        "Peripheral nervous system",
+        "Somatic nervous system",
+        "Autonomic nervous system",
+        "Central nervous system"
+      ],
+      "answer": "Central nervous system"
+    },
+    {
+      "question": "What is the correct order of parts in a neuron from signal reception to transmission?",
+      "choices": [
+        "Axon, cell body, dendrites",
+        "Dendrites, cell body, axon",
+        "Cell body, dendrites, axon",
+        "Axon, dendrites, cell body"
+      ],
+      "answer": "Dendrites, cell body, axon"
+    },
+    {
+      "question": "What is the term for the junction between two neurons?",
+      "choices": [
+        "Axon terminal",
+        "Synapse",
+        "Node of Ranvier",
+        "Neuromuscular junction"
+      ],
+      "answer": "Synapse"
+    },
+    {
+      "question": "Which of the following is NOT a stage in the transmission of a nerve impulse?",
+      "choices": [
+        "Resting potential",
+        "Depolarization",
+        "Action potential",
+        "Hyperpolarization"
+      ],
+      "answer": "Hyperpolarization"
+    },
+    {
+      "question": "What is the primary neurotransmitter at the neuromuscular junction?",
+      "choices": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "Norepinephrine"
+      ],
+      "answer": "Acetylcholine"
+    },
+    {
+      "question": "What is a motor unit?",
+      "choices": [
+        "A single muscle fiber",
+        "A group of muscle fibers innervated by one motor neuron",
+        "The neuromuscular junction",
+        "A bundle of actin and myosin filaments"
+      ],
+      "answer": "A group of muscle fibers innervated by one motor neuron"
+    },
+    {
+      "question": "Which of the following is an example of a reflex arc?",
+      "choices": [
+        "Blinking when something approaches your eye",
+        "Deciding to lift your arm",
+        "Feeling hungry when you smell food",
+        "Remembering a past event"
+      ],
+      "answer": "Blinking when something approaches your eye"
+    },
+    {
+      "question": "What is the correct sequence of events in a reflex arc?",
+      "choices": [
+        "Stimulus, motor neuron, interneuron, sensory neuron, response",
+        "Stimulus, sensory neuron, interneuron, motor neuron, response",
+        "Response, motor neuron, interneuron, sensory neuron, stimulus",
+        "Interneuron, sensory neuron, stimulus, motor neuron, response"
+      ],
+      "answer": "Stimulus, sensory neuron, interneuron, motor neuron, response"
+    },
+    {
+      "question": "Which type of muscle tissue is found in the walls of blood vessels?",
+      "choices": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Striated muscle"
+      ],
+      "answer": "Smooth muscle"
+    },
+    {
+      "question": "What is the function of myelin in the nervous system?",
+      "choices": [
+        "To generate action potentials",
+        "To insulate axons and speed up signal transmission",
+        "To produce neurotransmitters",
+        "To connect neurons at synapses"
+      ],
+      "answer": "To insulate axons and speed up signal transmission"
+    },
+    {
+      "question": "Which part of a skeletal muscle attaches it to a bone?",
+      "choices": [
+        "Fascia",
+        "Tendon",
+        "Ligament",
+        "Epimysium"
+      ],
+      "answer": "Tendon"
+    },
+    {
+      "question": "What is the role of interneurons in the nervous system?",
+      "choices": [
+        "To connect sensory and motor neurons",
+        "To transmit signals from the CNS to muscles",
+        "To receive sensory information from the environment",
+        "To produce hormones for the endocrine system"
+      ],
+      "answer": "To connect sensory and motor neurons"
+    },
+    {
+      "question": "Which of the following is NOT a component of the peripheral nervous system?",
+      "choices": [
+        "Cranial nerves",
+        "Spinal nerves",
+        "Ganglia",
+        "Cerebellum"
+      ],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "What is the function of the sarcoplasmic reticulum in muscle cells?",
+      "choices": [
+        "To store and release calcium ions",
+        "To generate ATP for muscle contraction",
+        "To form the thick filaments of sarcomeres",
+        "To produce muscle proteins"
+      ],
+      "answer": "To store and release calcium ions"
+    },
+    {
+      "question": "Which of the following best describes the all-or-none principle of muscle fiber contraction?",
+      "choices": [
+        "A muscle fiber either contracts fully or not at all",
+        "All muscle fibers in a muscle must contract together",
+        "Muscles can only contract or relax, with no in-between state",
+        "Muscle contraction requires both nervous and hormonal stimulation"
+      ],
+      "answer": "A muscle fiber either contracts fully or not at all"
+    },
+    {
+      "question": "What is the function of neurotransmitters at a synapse?",
+      "choices": [
+        "To provide energy for signal transmission",
+        "To insulate the synaptic cleft",
+        "To transmit signals between neurons",
+        "To produce action potentials"
+      ],
+      "answer": "To transmit signals between neurons"
+    },
+    {
+      "question": "Which of the following is a characteristic of skeletal muscle tissue?",
+      "choices": [
+        "Involuntary control",
+        "Lack of striations",
+        "Single nucleus per cell",
+        "Voluntary control"
+      ],
+      "answer": "Voluntary control"
+    },
+    {
+      "question": "What is the role of the motor end plate in neuromuscular transmission?",
+      "choices": [
+        "To generate action potentials in the muscle fiber",
+        "To synthesize acetylcholine",
+        "To receive neurotransmitters from the motor neuron",
+        "To pump calcium ions into the sarcoplasmic reticulum"
+      ],
+      "answer": "To receive neurotransmitters from the motor neuron"
+    },
+    {
+      "question": "Which of the following is NOT a function of the nervous system?",
+      "choices": [
+        "Regulating body temperature",
+        "Controlling muscle contractions",
+        "Processing sensory information",
+        "Producing red blood cells"
+      ],
+      "answer": "Producing red blood cells"
+    },
+    {
+      "question": "What is the primary difference between the somatic and autonomic nervous systems?",
+      "choices": [
+        "The somatic system controls voluntary actions, while the autonomic system controls involuntary actions",
+        "The somatic system is part of the CNS, while the autonomic system is part of the PNS",
+        "The somatic system uses only chemical synapses, while the autonomic system uses only electrical synapses",
+        "The somatic system affects only muscles, while the autonomic system affects only glands"
+      ],
+      "answer": "The somatic system controls voluntary actions, while the autonomic system controls involuntary actions"
+    },
+    {
+      "question": "Which of the following is a correct statement about muscle fatigue?",
+      "choices": [
+        "It is caused by an excess of oxygen in the muscle tissue",
+        "It results from the accumulation of lactic acid and depletion of ATP",
+        "It only occurs in skeletal muscles, not in cardiac or smooth muscles",
+        "It is prevented by increasing the speed of muscle contractions"
+      ],
+      "answer": "It results from the accumulation of lactic acid and depletion of ATP"
+    },
+    {
+      "question": "What is the function of Schwann cells in the nervous system?",
+      "choices": [
+        "To produce neurotransmitters",
+        "To form the myelin sheath around axons",
+        "To generate action potentials",
+        "To connect neurons at synapses"
+      ],
+      "answer": "To form the myelin sheath around axons"
+    },
+    {
+      "question": "Which of the following best describes the process of synaptic transmission?",
+      "choices": [
+        "The direct transfer of electrical signals between neurons",
+        "The release of hormones into the bloodstream",
+        "The conversion of electrical signals to chemical signals and back to electrical signals",
+        "The movement of ions across the cell membrane"
+      ],
+      "answer": "The conversion of electrical signals to chemical signals and back to electrical signals"
+    },
+    {
+      "question": "What is the primary function of motor neurons?",
+      "choices": [
+        "To transmit signals from sensory receptors to the CNS",
+        "To process and integrate information within the CNS",
+        "To transmit signals from the CNS to effector organs like muscles",
+        "To produce and secrete neurotransmitters"
+      ],
+      "answer": "To transmit signals from the CNS to effector organs like muscles"
+    },
+    {
+      "question": "Which of the following is NOT a component of a sarcomere?",
+      "choices": [
+        "Actin filaments",
+        "Myosin filaments",
+        "Z lines",
+        "Neurotransmitters"
+      ],
+      "answer": "Neurotransmitters"
+    }
+  ]
+}

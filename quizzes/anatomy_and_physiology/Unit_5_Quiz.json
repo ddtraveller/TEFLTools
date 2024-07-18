@@ -1,0 +1,305 @@
+{
+  "title": "Cardiovascular and Respiratory Systems",
+  "questions": [
+    {
+      "question": "Which of the following is NOT a chamber of the heart?",
+      "choices": [
+        "Right atrium",
+        "Left ventricle",
+        "Pulmonary chamber",
+        "Left atrium"
+      ],
+      "answer": "Pulmonary chamber"
+    },
+    {
+      "question": "What is the function of the sinoatrial (SA) node?",
+      "choices": [
+        "To pump blood out of the heart",
+        "To act as the heart's natural pacemaker",
+        "To separate the atria from the ventricles",
+        "To prevent backflow of blood in veins"
+      ],
+      "answer": "To act as the heart's natural pacemaker"
+    },
+    {
+      "question": "Which blood vessels have the thinnest walls?",
+      "choices": [
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Arterioles"
+      ],
+      "answer": "Capillaries"
+    },
+    {
+      "question": "What is the primary function of alveoli in the lungs?",
+      "choices": [
+        "To produce surfactant",
+        "To filter air entering the lungs",
+        "To facilitate gas exchange",
+        "To warm and humidify inhaled air"
+      ],
+      "answer": "To facilitate gas exchange"
+    },
+    {
+      "question": "During which phase of the cardiac cycle do the ventricles contract?",
+      "choices": [
+        "Atrial systole",
+        "Ventricular systole",
+        "Atrial diastole",
+        "Ventricular diastole"
+      ],
+      "answer": "Ventricular systole"
+    },
+    {
+      "question": "Which of the following is NOT a component of the respiratory system?",
+      "choices": [
+        "Trachea",
+        "Bronchi",
+        "Alveoli",
+        "Nephrons"
+      ],
+      "answer": "Nephrons"
+    },
+    {
+      "question": "What is the main function of the pulmonary circulation?",
+      "choices": [
+        "To deliver oxygenated blood to body tissues",
+        "To remove carbon dioxide from the blood",
+        "To regulate blood pressure",
+        "To filter blood through the kidneys"
+      ],
+      "answer": "To remove carbon dioxide from the blood"
+    },
+    {
+      "question": "Which of the following best describes the process of inhalation?",
+      "choices": [
+        "Diaphragm relaxes, lung volume decreases",
+        "Diaphragm contracts, lung volume increases",
+        "Intercostal muscles relax, ribs move downward",
+        "Air is forcefully pushed out of the lungs"
+      ],
+      "answer": "Diaphragm contracts, lung volume increases"
+    },
+    {
+      "question": "What is the primary function of hemoglobin in red blood cells?",
+      "choices": [
+        "To fight infections",
+        "To clot blood",
+        "To transport oxygen",
+        "To produce antibodies"
+      ],
+      "answer": "To transport oxygen"
+    },
+    {
+      "question": "Which of the following is a characteristic of veins?",
+      "choices": [
+        "Thick, elastic walls",
+        "Carry oxygenated blood (except pulmonary veins)",
+        "Have valves to prevent backflow",
+        "High blood pressure"
+      ],
+      "answer": "Have valves to prevent backflow"
+    },
+    {
+      "question": "What is the tidal volume?",
+      "choices": [
+        "The maximum amount of air that can be exhaled after maximum inhalation",
+        "The amount of air remaining in the lungs after maximum exhalation",
+        "The amount of air moved into or out of the lungs during normal breathing",
+        "The total lung capacity minus the residual volume"
+      ],
+      "answer": "The amount of air moved into or out of the lungs during normal breathing"
+    },
+    {
+      "question": "Which of the following is NOT a function of the cardiovascular system?",
+      "choices": [
+        "Transport of nutrients",
+        "Removal of waste products",
+        "Gas exchange in tissues",
+        "Production of digestive enzymes"
+      ],
+      "answer": "Production of digestive enzymes"
+    },
+    {
+      "question": "What is the correct sequence of blood flow through the heart?",
+      "choices": [
+        "Right atrium → right ventricle → lungs → left atrium → left ventricle",
+        "Left atrium → left ventricle → lungs → right atrium → right ventricle",
+        "Right ventricle → right atrium → lungs → left ventricle → left atrium",
+        "Left ventricle → left atrium → lungs → right ventricle → right atrium"
+      ],
+      "answer": "Right atrium → right ventricle → lungs → left atrium → left ventricle"
+    },
+    {
+      "question": "Which of the following is a function of the respiratory system?",
+      "choices": [
+        "Pumping blood throughout the body",
+        "Filtering blood to remove waste products",
+        "Facilitating gas exchange between air and blood",
+        "Producing hormones to regulate metabolism"
+      ],
+      "answer": "Facilitating gas exchange between air and blood"
+    },
+    {
+      "question": "What is the primary driving force for gas exchange in the alveoli?",
+      "choices": [
+        "Active transport",
+        "Facilitated diffusion",
+        "Concentration gradients",
+        "Osmotic pressure"
+      ],
+      "answer": "Concentration gradients"
+    },
+    {
+      "question": "Which of the following is NOT a component of the cardiac conduction system?",
+      "choices": [
+        "Sinoatrial node",
+        "Atrioventricular node",
+        "Bundle of His",
+        "Hepatic portal vein"
+      ],
+      "answer": "Hepatic portal vein"
+    },
+    {
+      "question": "What is the function of the mitral valve in the heart?",
+      "choices": [
+        "To prevent backflow from the right ventricle to the right atrium",
+        "To prevent backflow from the left ventricle to the left atrium",
+        "To regulate blood flow into the pulmonary artery",
+        "To control blood flow into the aorta"
+      ],
+      "answer": "To prevent backflow from the left ventricle to the left atrium"
+    },
+    {
+      "question": "Which of the following is a characteristic of arteries?",
+      "choices": [
+        "Thin walls with valves",
+        "Carry deoxygenated blood (except pulmonary arteries)",
+        "Low blood pressure",
+        "Thick, elastic walls to withstand high pressure"
+      ],
+      "answer": "Thick, elastic walls to withstand high pressure"
+    },
+    {
+      "question": "What is the primary function of the diaphragm in respiration?",
+      "choices": [
+        "To produce surfactant",
+        "To warm and humidify inhaled air",
+        "To change the volume of the thoracic cavity",
+        "To filter air entering the lungs"
+      ],
+      "answer": "To change the volume of the thoracic cavity"
+    },
+    {
+      "question": "Which of the following is NOT a vital sign typically measured to assess cardiovascular and respiratory function?",
+      "choices": [
+        "Heart rate",
+        "Blood pressure",
+        "Respiratory rate",
+        "Bone density"
+      ],
+      "answer": "Bone density"
+    },
+    {
+      "question": "What is the main function of the pulmonary artery?",
+      "choices": [
+        "To carry oxygenated blood from the lungs to the heart",
+        "To carry deoxygenated blood from the heart to the lungs",
+        "To distribute oxygenated blood to body tissues",
+        "To return deoxygenated blood from body tissues to the heart"
+      ],
+      "answer": "To carry deoxygenated blood from the heart to the lungs"
+    },
+    {
+      "question": "Which of the following best describes the process of external respiration?",
+      "choices": [
+        "The exchange of gases between alveoli and capillaries",
+        "The exchange of gases between capillaries and body tissues",
+        "The process of inhalation and exhalation",
+        "The production of ATP in mitochondria"
+      ],
+      "answer": "The exchange of gases between alveoli and capillaries"
+    },
+    {
+      "question": "What is the function of the aortic valve?",
+      "choices": [
+        "To prevent backflow from the aorta into the left ventricle",
+        "To regulate blood flow between the right atrium and right ventricle",
+        "To control blood flow into the pulmonary artery",
+        "To separate the left and right sides of the heart"
+      ],
+      "answer": "To prevent backflow from the aorta into the left ventricle"
+    },
+    {
+      "question": "Which of the following is a characteristic of the alveolar-capillary membrane?",
+      "choices": [
+        "Thick and muscular",
+        "Impermeable to gases",
+        "Extremely thin to allow rapid diffusion",
+        "Actively pumps gases across the membrane"
+      ],
+      "answer": "Extremely thin to allow rapid diffusion"
+    },
+    {
+      "question": "What is the primary function of red blood cells?",
+      "choices": [
+        "To fight infections",
+        "To transport oxygen",
+        "To produce antibodies",
+        "To initiate blood clotting"
+      ],
+      "answer": "To transport oxygen"
+    },
+    {
+      "question": "Which of the following is NOT a factor that affects the rate of diffusion in the alveoli?",
+      "choices": [
+        "Surface area of the alveolar-capillary membrane",
+        "Concentration gradient of gases",
+        "Thickness of the alveolar-capillary membrane",
+        "Blood type of the individual"
+      ],
+      "answer": "Blood type of the individual"
+    },
+    {
+      "question": "What is the primary function of the coronary arteries?",
+      "choices": [
+        "To remove deoxygenated blood from the heart",
+        "To supply oxygenated blood to the heart muscle",
+        "To regulate blood pressure in the aorta",
+        "To filter blood before it enters the heart"
+      ],
+      "answer": "To supply oxygenated blood to the heart muscle"
+    },
+    {
+      "question": "Which of the following is a normal adult resting respiratory rate?",
+      "choices": [
+        "5-10 breaths per minute",
+        "12-20 breaths per minute",
+        "30-40 breaths per minute",
+        "50-60 breaths per minute"
+      ],
+      "answer": "12-20 breaths per minute"
+    },
+    {
+      "question": "What is the primary function of the bundle of His in the heart?",
+      "choices": [
+        "To initiate the heartbeat",
+        "To delay electrical impulses between atria and ventricles",
+        "To rapidly conduct impulses through the ventricles",
+        "To prevent backflow of blood in the heart"
+      ],
+      "answer": "To rapidly conduct impulses through the ventricles"
+    },
+    {
+      "question": "Which of the following is NOT a normal physiological response to exercise?",
+      "choices": [
+        "Increased heart rate",
+        "Increased respiratory rate",
+        "Decreased blood flow to active muscles",
+        "Increased stroke volume"
+      ],
+      "answer": "Decreased blood flow to active muscles"
+    }
+  ]
+}

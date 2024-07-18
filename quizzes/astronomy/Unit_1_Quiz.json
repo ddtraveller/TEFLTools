@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Space-Based Astronomy",
+  "questions": [
+    {
+      "question": "What is the primary advantage of space-based astronomy over ground-based astronomy?",
+      "choices": [
+        "Lower cost of operation",
+        "Unobstructed view of the universe",
+        "Easier maintenance of equipment",
+        "Ability to use larger telescopes"
+      ],
+      "answer": "Unobstructed view of the universe"
+    },
+    {
+      "question": "Which space telescope, launched in 1990, marked a turning point in space-based astronomy?",
+      "choices": [
+        "Chandra X-ray Observatory",
+        "James Webb Space Telescope",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope"
+      ],
+      "answer": "Hubble Space Telescope"
+    },
+    {
+      "question": "What is a major limitation of ground-based astronomy?",
+      "choices": [
+        "Atmospheric interference",
+        "Limited field of view",
+        "Inability to observe visible light",
+        "Excessive heat generation"
+      ],
+      "answer": "Atmospheric interference"
+    },
+    {
+      "question": "Which part of the electromagnetic spectrum is largely blocked by Earth's atmosphere?",
+      "choices": [
+        "Radio waves",
+        "Visible light",
+        "X-rays",
+        "Microwaves"
+      ],
+      "answer": "X-rays"
+    },
+    {
+      "question": "What advantage does space-based astronomy offer in terms of observation time?",
+      "choices": [
+        "Shorter observation periods",
+        "Continuous observations without day/night interruptions",
+        "Ability to observe only during nighttime",
+        "Faster data processing"
+      ],
+      "answer": "Continuous observations without day/night interruptions"
+    },
+    {
+      "question": "Which space telescope is specifically designed to study the high-energy universe?",
+      "choices": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory",
+        "Kepler Space Telescope"
+      ],
+      "answer": "Chandra X-ray Observatory"
+    },
+    {
+      "question": "What is a key feature of the James Webb Space Telescope?",
+      "choices": [
+        "Its ability to observe in X-rays",
+        "Its location in low Earth orbit",
+        "Its infrared capabilities",
+        "Its small, compact design"
+      ],
+      "answer": "Its infrared capabilities"
+    },
+    {
+      "question": "When did the first astronomical observations from space begin?",
+      "choices": [
+        "1920s",
+        "1940s",
+        "1960s",
+        "1980s"
+      ],
+      "answer": "1940s"
+    },
+    {
+      "question": "What phenomenon did space-based observations help confirm about the universe's expansion?",
+      "choices": [
+        "It is slowing down",
+        "It is accelerating",
+        "It is constant",
+        "It is reversing"
+      ],
+      "answer": "It is accelerating"
+    },
+    {
+      "question": "Which of the following is NOT a major advantage of space-based astronomy?",
+      "choices": [
+        "Access to full electromagnetic spectrum",
+        "Clearer, sharper images",
+        "Ability to use much larger mirrors",
+        "No atmospheric distortion"
+      ],
+      "answer": "Ability to use much larger mirrors"
+    },
+    {
+      "question": "What type of celestial objects were largely unknown before the advent of space astronomy?",
+      "choices": [
+        "Planets",
+        "Stars",
+        "Gamma-ray bursts",
+        "Comets"
+      ],
+      "answer": "Gamma-ray bursts"
+    },
+    {
+      "question": "Which space telescope was crucial in determining the age and expansion rate of the universe?",
+      "choices": [
+        "Spitzer Space Telescope",
+        "Chandra X-ray Observatory",
+        "Hubble Space Telescope",
+        "Kepler Space Telescope"
+      ],
+      "answer": "Hubble Space Telescope"
+    },
+    {
+      "question": "What is a potential future development in space-based astronomy?",
+      "choices": [
+        "Ground-based interferometry",
+        "Space-based interferometry",
+        "Atmospheric correction technology",
+        "Larger ground-based telescopes"
+      ],
+      "answer": "Space-based interferometry"
+    },
+    {
+      "question": "Which of the following is NOT a typical objective of modern space telescopes?",
+      "choices": [
+        "Studying dark energy",
+        "Detecting gravitational waves",
+        "Searching for biosignatures on exoplanets",
+        "Monitoring Earth's weather patterns"
+      ],
+      "answer": "Monitoring Earth's weather patterns"
+    },
+    {
+      "question": "What was the name of the first international satellite for astronomy?",
+      "choices": [
+        "Sputnik 1",
+        "Explorer 1",
+        "Ariel 1",
+        "Vanguard 1"
+      ],
+      "answer": "Ariel 1"
+    },
+    {
+      "question": "Which space telescope is designed to study the early universe?",
+      "choices": [
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "James Webb Space Telescope",
+        "Fermi Gamma-ray Space Telescope"
+      ],
+      "answer": "James Webb Space Telescope"
+    },
+    {
+      "question": "What is a major challenge for maintaining space telescopes?",
+      "choices": [
+        "Frequent lens cleaning",
+        "Difficulty in repairs and upgrades",
+        "Rapid battery depletion",
+        "Overheating due to sunlight exposure"
+      ],
+      "answer": "Difficulty in repairs and upgrades"
+    },
+    {
+      "question": "Which of the following is NOT a type of electromagnetic radiation observed by space telescopes?",
+      "choices": [
+        "Infrared",
+        "X-rays",
+        "Gamma rays",
+        "Sound waves"
+      ],
+      "answer": "Sound waves"
+    },
+    {
+      "question": "What phenomenon do space telescopes allow astronomers to study that was difficult with ground-based telescopes?",
+      "choices": [
+        "Lunar phases",
+        "Solar eclipses",
+        "Exoplanet atmospheres",
+        "Meteor showers"
+      ],
+      "answer": "Exoplanet atmospheres"
+    },
+    {
+      "question": "Which space telescope was specifically designed to search for exoplanets?",
+      "choices": [
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory",
+        "Kepler Space Telescope",
+        "Spitzer Space Telescope"
+      ],
+      "answer": "Kepler Space Telescope"
+    },
+    {
+      "question": "What is the primary mirror of the James Webb Space Telescope made of?",
+      "choices": [
+        "Glass",
+        "Aluminum",
+        "Beryllium",
+        "Silicon"
+      ],
+      "answer": "Beryllium"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of space-based astronomy for studying variable phenomena?",
+      "choices": [
+        "Continuous observation capabilities",
+        "No interference from weather",
+        "Ability to observe during daytime",
+        "Better resolution of small-scale features"
+      ],
+      "answer": "Better resolution of small-scale features"
+    },
+    {
+      "question": "What type of light pollution affects ground-based astronomy but not space-based astronomy?",
+      "choices": [
+        "Radio interference",
+        "Artificial light from urban areas",
+        "Natural airglow",
+        "Cosmic background radiation"
+      ],
+      "answer": "Artificial light from urban areas"
+    },
+    {
+      "question": "Which space telescope was the first to be serviced in orbit by astronauts?",
+      "choices": [
+        "Chandra X-ray Observatory",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "Compton Gamma Ray Observatory"
+      ],
+      "answer": "Hubble Space Telescope"
+    },
+    {
+      "question": "What is the main advantage of infrared astronomy from space?",
+      "choices": [
+        "Ability to see through cosmic dust",
+        "Higher resolution of visible light images",
+        "Detection of high-energy particles",
+        "Measurement of stellar magnetic fields"
+      ],
+      "answer": "Ability to see through cosmic dust"
+    },
+    {
+      "question": "Which of the following is NOT a typical orbit for space telescopes?",
+      "choices": [
+        "Low Earth orbit",
+        "Geosynchronous orbit",
+        "Lagrange points",
+        "Interplanetary orbit"
+      ],
+      "answer": "Interplanetary orbit"
+    },
+    {
+      "question": "What was a major discovery made possible by the Hubble Space Telescope?",
+      "choices": [
+        "The existence of black holes",
+        "The accelerating expansion of the universe",
+        "The composition of Mars' atmosphere",
+        "The internal structure of the Sun"
+      ],
+      "answer": "The accelerating expansion of the universe"
+    },
+    {
+      "question": "Which space telescope is designed to study the most energetic events in the universe?",
+      "choices": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory",
+        "Fermi Gamma-ray Space Telescope"
+      ],
+      "answer": "Fermi Gamma-ray Space Telescope"
+    },
+    {
+      "question": "What is the primary challenge in launching and maintaining large space telescopes?",
+      "choices": [
+        "Fuel consumption",
+        "Data transmission",
+        "Cost and complexity",
+        "Solar radiation damage"
+      ],
+      "answer": "Cost and complexity"
+    },
+    {
+      "question": "Which of the following is a key advantage of space-based telescopes in studying exoplanets?",
+      "choices": [
+        "Ability to directly image exoplanet surfaces",
+        "Uninterrupted observation of transit events",
+        "Capacity to communicate with potential alien life",
+        "Measurement of exoplanet magnetic fields"
+      ],
+      "answer": "Uninterrupted observation of transit events"
+    }
+  ]
+}

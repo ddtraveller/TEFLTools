@@ -1,0 +1,305 @@
+{
+  "title": "Stellar Astrophysics and Galactic Structure",
+  "questions": [
+    {
+      "question": "What is the primary fuel for nuclear fusion in main sequence stars?",
+      "choices": [
+        "Helium",
+        "Carbon",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "Which of the following best describes a protostar?",
+      "choices": [
+        "A fully formed star on the main sequence",
+        "A collapsing cloud of gas and dust that will become a star",
+        "The remnant core of a dead star",
+        "A type of black hole"
+      ],
+      "answer": "A collapsing cloud of gas and dust that will become a star"
+    },
+    {
+      "question": "What is the name of the supermassive black hole at the center of the Milky Way?",
+      "choices": [
+        "Andromeda A*",
+        "Cygnus X-1",
+        "Sagittarius A*",
+        "Centaurus A"
+      ],
+      "answer": "Sagittarius A*"
+    },
+    {
+      "question": "Which type of star is characterized by its extremely high density and small size?",
+      "choices": [
+        "Red giant",
+        "White dwarf",
+        "Blue supergiant",
+        "Yellow dwarf"
+      ],
+      "answer": "White dwarf"
+    },
+    {
+      "question": "What is the primary factor determining a star's lifetime?",
+      "choices": [
+        "Its color",
+        "Its temperature",
+        "Its mass",
+        "Its distance from Earth"
+      ],
+      "answer": "Its mass"
+    },
+    {
+      "question": "Which region of the Milky Way contains the oldest stars?",
+      "choices": [
+        "The spiral arms",
+        "The galactic center",
+        "The galactic halo",
+        "The disk"
+      ],
+      "answer": "The galactic halo"
+    },
+    {
+      "question": "What is the fate of a low to medium-mass star like our Sun?",
+      "choices": [
+        "It will become a black hole",
+        "It will explode as a supernova",
+        "It will become a white dwarf",
+        "It will become a neutron star"
+      ],
+      "answer": "It will become a white dwarf"
+    },
+    {
+      "question": "What is the main source of energy in stars?",
+      "choices": [
+        "Chemical reactions",
+        "Nuclear fusion",
+        "Gravitational contraction",
+        "Radioactive decay"
+      ],
+      "answer": "Nuclear fusion"
+    },
+    {
+      "question": "Which of the following is NOT a component of the Milky Way galaxy?",
+      "choices": [
+        "Spiral arms",
+        "Galactic halo",
+        "Galactic disk",
+        "Galactic rings"
+      ],
+      "answer": "Galactic rings"
+    },
+    {
+      "question": "What is the approximate diameter of the Milky Way's disk?",
+      "choices": [
+        "10,000 light-years",
+        "50,000 light-years",
+        "100,000 light-years",
+        "1,000,000 light-years"
+      ],
+      "answer": "100,000 light-years"
+    },
+    {
+      "question": "Which of the following best describes a red giant star?",
+      "choices": [
+        "A small, dense star at the end of its life",
+        "A massive star that has depleted its core hydrogen",
+        "A star in the process of forming",
+        "A star that has just entered the main sequence"
+      ],
+      "answer": "A massive star that has depleted its core hydrogen"
+    },
+    {
+      "question": "What is the primary composition of interstellar gas clouds where stars form?",
+      "choices": [
+        "Helium and carbon",
+        "Oxygen and nitrogen",
+        "Hydrogen and helium",
+        "Iron and nickel"
+      ],
+      "answer": "Hydrogen and helium"
+    },
+    {
+      "question": "Which of the following is true about globular clusters?",
+      "choices": [
+        "They are regions of active star formation",
+        "They are found primarily in the galactic disk",
+        "They contain mostly young, metal-rich stars",
+        "They are dense groups of old stars in the galactic halo"
+      ],
+      "answer": "They are dense groups of old stars in the galactic halo"
+    },
+    {
+      "question": "What is the main difference between a neutron star and a black hole?",
+      "choices": [
+        "Neutron stars are much larger",
+        "Black holes have a solid surface",
+        "Neutron stars have a detectable surface, while black holes do not",
+        "Black holes are less massive than neutron stars"
+      ],
+      "answer": "Neutron stars have a detectable surface, while black holes do not"
+    },
+    {
+      "question": "Which phase of stellar evolution is characterized by the fusion of helium into carbon?",
+      "choices": [
+        "Main sequence",
+        "Red giant",
+        "White dwarf",
+        "Protostar"
+      ],
+      "answer": "Red giant"
+    },
+    {
+      "question": "What is the primary driver of a star's evolution off the main sequence?",
+      "choices": [
+        "Increase in stellar rotation",
+        "Depletion of core hydrogen",
+        "Collision with another star",
+        "Sudden increase in mass"
+      ],
+      "answer": "Depletion of core hydrogen"
+    },
+    {
+      "question": "Which of the following best describes the structure of the Milky Way?",
+      "choices": [
+        "Elliptical galaxy",
+        "Irregular galaxy",
+        "Barred spiral galaxy",
+        "Dwarf galaxy"
+      ],
+      "answer": "Barred spiral galaxy"
+    },
+    {
+      "question": "What is the approximate mass of the supermassive black hole at the center of the Milky Way?",
+      "choices": [
+        "4 thousand solar masses",
+        "4 million solar masses",
+        "4 billion solar masses",
+        "4 trillion solar masses"
+      ],
+      "answer": "4 million solar masses"
+    },
+    {
+      "question": "Which of the following is NOT a stage in the life cycle of a sun-like star?",
+      "choices": [
+        "Main sequence",
+        "Red giant",
+        "Supernova",
+        "White dwarf"
+      ],
+      "answer": "Supernova"
+    },
+    {
+      "question": "What is the primary composition of a white dwarf?",
+      "choices": [
+        "Hydrogen and helium",
+        "Carbon and oxygen",
+        "Iron and nickel",
+        "Neutrons"
+      ],
+      "answer": "Carbon and oxygen"
+    },
+    {
+      "question": "Which region of the Milky Way has the highest rate of star formation?",
+      "choices": [
+        "The galactic halo",
+        "The galactic bulge",
+        "The spiral arms",
+        "The space between spiral arms"
+      ],
+      "answer": "The spiral arms"
+    },
+    {
+      "question": "What is the main factor that determines whether a star will end its life as a white dwarf or a neutron star?",
+      "choices": [
+        "Its initial mass",
+        "Its age",
+        "Its temperature",
+        "Its chemical composition"
+      ],
+      "answer": "Its initial mass"
+    },
+    {
+      "question": "Which of the following best describes the concept of hydrostatic equilibrium in stars?",
+      "choices": [
+        "The balance between gravity and rotation",
+        "The balance between gravity and outward pressure",
+        "The balance between fusion and fission",
+        "The balance between magnetic fields and radiation"
+      ],
+      "answer": "The balance between gravity and outward pressure"
+    },
+    {
+      "question": "What is the approximate thickness of the Milky Way's disk?",
+      "choices": [
+        "100 light-years",
+        "1,000 light-years",
+        "10,000 light-years",
+        "100,000 light-years"
+      ],
+      "answer": "1,000 light-years"
+    },
+    {
+      "question": "Which of the following is true about Population II stars?",
+      "choices": [
+        "They are young, metal-rich stars",
+        "They are found primarily in the galactic disk",
+        "They are old, metal-poor stars",
+        "They are the most massive stars in the galaxy"
+      ],
+      "answer": "They are old, metal-poor stars"
+    },
+    {
+      "question": "What is the primary role of dark matter in galactic structure?",
+      "choices": [
+        "It provides the material for star formation",
+        "It generates the galaxy's magnetic field",
+        "It contributes to the galaxy's gravitational field",
+        "It powers the supermassive black hole at the galactic center"
+      ],
+      "answer": "It contributes to the galaxy's gravitational field"
+    },
+    {
+      "question": "Which of the following best describes a planetary nebula?",
+      "choices": [
+        "A region where planets form",
+        "The expanding outer layers of a dying low-mass star",
+        "A type of galaxy",
+        "A cloud of gas surrounding a newly formed star"
+      ],
+      "answer": "The expanding outer layers of a dying low-mass star"
+    },
+    {
+      "question": "What is the approximate position of our Sun within the Milky Way?",
+      "choices": [
+        "At the galactic center",
+        "In the galactic halo",
+        "About halfway between the center and edge of the disk",
+        "At the very edge of the galactic disk"
+      ],
+      "answer": "About halfway between the center and edge of the disk"
+    },
+    {
+      "question": "Which of the following is NOT a product of stellar nucleosynthesis?",
+      "choices": [
+        "Carbon",
+        "Oxygen",
+        "Iron",
+        "Uranium"
+      ],
+      "answer": "Uranium"
+    },
+    {
+      "question": "What is the primary difference between Population I and Population II stars?",
+      "choices": [
+        "Their mass",
+        "Their age and metal content",
+        "Their temperature",
+        "Their location in the galaxy"
+      ],
+      "answer": "Their age and metal content"
+    }
+  ]
+}

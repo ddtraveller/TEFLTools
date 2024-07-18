@@ -1,0 +1,305 @@
+{
+  "title": "Environmental and Economic Impacts of the Coconut Industry",
+  "questions": [
+    {
+      "question": "What is the primary purpose of conducting a Life Cycle Assessment (LCA) for coconut products?",
+      "choices": [
+        "To increase coconut production",
+        "To evaluate environmental impacts throughout a product's life",
+        "To determine the market price of coconuts",
+        "To assess the nutritional value of coconuts"
+      ],
+      "answer": "To evaluate environmental impacts throughout a product's life"
+    },
+    {
+      "question": "Which of the following is NOT a stage typically included in a Life Cycle Assessment?",
+      "choices": [
+        "Raw material extraction",
+        "Production",
+        "Marketing",
+        "Disposal"
+      ],
+      "answer": "Marketing"
+    },
+    {
+      "question": "What is the average carbon sequestration rate for coconut palms per hectare per year?",
+      "choices": [
+        "1-5 tons CO2",
+        "8-32 tons CO2",
+        "50-100 tons CO2",
+        "200-500 tons CO2"
+      ],
+      "answer": "8-32 tons CO2"
+    },
+    {
+      "question": "Which factor does NOT affect the carbon sequestration rate of coconut plantations?",
+      "choices": [
+        "Age of plantation",
+        "Planting density",
+        "Soil type",
+        "Coconut variety"
+      ],
+      "answer": "Coconut variety"
+    },
+    {
+      "question": "What is a potential negative environmental impact of intensive coconut monoculture?",
+      "choices": [
+        "Increased biodiversity",
+        "Soil enrichment",
+        "Carbon sequestration",
+        "Soil depletion"
+      ],
+      "answer": "Soil depletion"
+    },
+    {
+      "question": "Which of the following is a key economic benefit of the coconut industry for rural communities in Timor-Leste?",
+      "choices": [
+        "Reduced food security",
+        "Increased urbanization",
+        "Diversification of farm income",
+        "Decreased employment opportunities"
+      ],
+      "answer": "Diversification of farm income"
+    },
+    {
+      "question": "What is a major challenge faced by coconut farmers in Timor-Leste?",
+      "choices": [
+        "Oversupply of coconuts in the global market",
+        "Price volatility in the global market",
+        "Lack of demand for coconut products",
+        "Overabundance of modern farming techniques"
+      ],
+      "answer": "Price volatility in the global market"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a coconut product in the module?",
+      "choices": [
+        "Coconut oil",
+        "Coconut water",
+        "Coconut husks",
+        "Coconut milk"
+      ],
+      "answer": "Coconut milk"
+    },
+    {
+      "question": "What is a potential strategy to improve the economic benefits of coconut farming while minimizing environmental impacts?",
+      "choices": [
+        "Increasing chemical fertilizer use",
+        "Promoting monoculture practices",
+        "Adopting agroforestry systems",
+        "Focusing solely on copra production"
+      ],
+      "answer": "Adopting agroforestry systems"
+    },
+    {
+      "question": "Which certification could help coconut farmers access premium markets?",
+      "choices": [
+        "ISO 9001",
+        "Organic and fair-trade",
+        "HACCP",
+        "GMP"
+      ],
+      "answer": "Organic and fair-trade"
+    },
+    {
+      "question": "What is the typical lifespan of a productive coconut palm?",
+      "choices": [
+        "20-30 years",
+        "40-50 years",
+        "60-80 years",
+        "100-120 years"
+      ],
+      "answer": "60-80 years"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a form of carbon storage in coconut plantations?",
+      "choices": [
+        "Above-ground biomass",
+        "Below-ground biomass",
+        "Soil organic matter",
+        "Coconut water"
+      ],
+      "answer": "Coconut water"
+    },
+    {
+      "question": "What is a key environmental concern in coconut processing, particularly for oil extraction?",
+      "choices": [
+        "Water pollution",
+        "Air pollution",
+        "Energy intensity",
+        "Noise pollution"
+      ],
+      "answer": "Energy intensity"
+    },
+    {
+      "question": "Which of the following is a potential benefit of forming coconut farmer cooperatives?",
+      "choices": [
+        "Decreased production efficiency",
+        "Reduced bargaining power",
+        "Increased access to resources",
+        "Limited market opportunities"
+      ],
+      "answer": "Increased access to resources"
+    },
+    {
+      "question": "What is a major challenge for aging coconut plantations in Timor-Leste?",
+      "choices": [
+        "Overproduction",
+        "Need for rejuvenation",
+        "Excessive carbon sequestration",
+        "Rapid growth rates"
+      ],
+      "answer": "Need for rejuvenation"
+    },
+    {
+      "question": "Which government support is crucial for the long-term success of the coconut industry in Timor-Leste?",
+      "choices": [
+        "Increasing import tariffs",
+        "Restricting coconut exports",
+        "Providing extension services",
+        "Promoting monoculture practices"
+      ],
+      "answer": "Providing extension services"
+    },
+    {
+      "question": "What is a potential benefit of integrating coconut palms with other crops?",
+      "choices": [
+        "Simplified pest management",
+        "Increased soil erosion",
+        "Enhanced biodiversity",
+        "Reduced water retention"
+      ],
+      "answer": "Enhanced biodiversity"
+    },
+    {
+      "question": "Which factor is NOT mentioned as affecting the environmental footprint of coconut production in Timor-Leste?",
+      "choices": [
+        "Water usage",
+        "Soil degradation",
+        "Carbon emissions from transportation",
+        "Pesticide use"
+      ],
+      "answer": "Pesticide use"
+    },
+    {
+      "question": "What is a potential economic benefit of developing value-added coconut products?",
+      "choices": [
+        "Reduced labor requirements",
+        "Simplified supply chains",
+        "Increased income stability",
+        "Decreased market demand"
+      ],
+      "answer": "Increased income stability"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a use for coconut husks?",
+      "choices": [
+        "Handicrafts",
+        "Fuel",
+        "Soil amendment",
+        "Building material"
+      ],
+      "answer": "Building material"
+    },
+    {
+      "question": "What role do coconut palms play in climate change mitigation?",
+      "choices": [
+        "Increasing greenhouse gas emissions",
+        "Absorbing and storing atmospheric carbon dioxide",
+        "Accelerating soil erosion",
+        "Reducing biodiversity"
+      ],
+      "answer": "Absorbing and storing atmospheric carbon dioxide"
+    },
+    {
+      "question": "Which factor is mentioned as hindering the growth potential of Timor-Leste's coconut industry?",
+      "choices": [
+        "Overproduction of coconuts",
+        "Excessive foreign investment",
+        "Limited access to modern farming techniques",
+        "Overabundance of processing facilities"
+      ],
+      "answer": "Limited access to modern farming techniques"
+    },
+    {
+      "question": "What is a potential benefit of promoting organic coconut farming in Timor-Leste?",
+      "choices": [
+        "Increased use of chemical inputs",
+        "Access to premium markets",
+        "Simplified pest management",
+        "Reduced labor requirements"
+      ],
+      "answer": "Access to premium markets"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a stage in the coconut product life cycle?",
+      "choices": [
+        "Cultivation",
+        "Processing",
+        "Distribution",
+        "Recycling"
+      ],
+      "answer": "Recycling"
+    },
+    {
+      "question": "What is a potential environmental benefit of efficient coconut processing technologies?",
+      "choices": [
+        "Increased water consumption",
+        "Higher energy use",
+        "Reduced waste generation",
+        "Greater soil erosion"
+      ],
+      "answer": "Reduced waste generation"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a way to improve the sustainability of coconut farming in Timor-Leste?",
+      "choices": [
+        "Adopting agroforestry systems",
+        "Implementing organic farming practices",
+        "Increasing chemical fertilizer use",
+        "Improving soil health"
+      ],
+      "answer": "Increasing chemical fertilizer use"
+    },
+    {
+      "question": "What is a potential economic challenge for coconut farmers in Timor-Leste?",
+      "choices": [
+        "Oversupply of labor",
+        "Excessive government subsidies",
+        "Limited access to international markets",
+        "Overproduction of value-added products"
+      ],
+      "answer": "Limited access to international markets"
+    },
+    {
+      "question": "Which of the following is a potential benefit of coconut-based agroforestry systems?",
+      "choices": [
+        "Simplified crop management",
+        "Increased pest vulnerability",
+        "Improved soil health",
+        "Reduced crop diversity"
+      ],
+      "answer": "Improved soil health"
+    },
+    {
+      "question": "What role do cooperatives play in the coconut industry of Timor-Leste?",
+      "choices": [
+        "Decreasing farmer incomes",
+        "Limiting market access",
+        "Pooling resources and improving efficiency",
+        "Promoting monoculture practices"
+      ],
+      "answer": "Pooling resources and improving efficiency"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor affecting the carbon sequestration potential of coconut plantations in Timor-Leste?",
+      "choices": [
+        "Climate change",
+        "Planting density",
+        "Soil type",
+        "Coconut variety"
+      ],
+      "answer": "Coconut variety"
+    }
+  ]
+}
