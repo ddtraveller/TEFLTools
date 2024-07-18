@@ -163,7 +163,9 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 
 42. **Orasaun nia laran / The Heart of Prayer**
     - This course explores the fundamental nature of being, consciousness, and divinity through the lens of prayer and meditation, with a focus on Timorese cultural and spiritual traditions. Students will examine teachings from various spiritual traditions, including Catholicism and indigenous Timorese beliefs, to understand the relationship between individual existence and infinite being. The course emphasizes practical approaches to realizing one's true nature and experiencing unity with the divine within the context of Timorese society.
-
+43. **Lian, Edukasaun no Dezenvolvimentu Nasional iha Sosiedade Multilingual: Perspetiva Timor-Leste / Language, Education and National Development in Multilingual Societies: A Timor-Leste Perspective**
+    - From Kristy Sword Gusmao's work, this course examines the complex relationships between language, education, and national development in multilingual societies, with a focus on Timor-Leste as a case study. Students will explore challenges and strategies for implementing mother tongue-based multilingual education, the role of school facilities and resources in supporting student learning, and approaches to preserving linguistic and cultural diversity while promoting national unity through education policy. 
+    
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
 ## Online/Offline English Exam for Progress Tracking
@@ -537,6 +539,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - html_css
 - indigenous_religion
 - lalla_yogeshwari
+- Language, Education and National Development in Multilingual Societies: A Timor-Leste Perspective ==> kristy_sword_gusmao
 - lincoln_douglas_debate
 - lymphatic_drainage
 - marine_biology

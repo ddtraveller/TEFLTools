@@ -1,0 +1,305 @@
+{
+  "title": "Mother Tongue-Based Multilingual Education in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the official languages of Timor-Leste?",
+      "choices": [
+        "Tetum and Indonesian",
+        "Portuguese and English",
+        "Tetum and Portuguese",
+        "English and Indonesian"
+      ],
+      "answer": "Tetum and Portuguese"
+    },
+    {
+      "question": "How many indigenous languages are spoken in Timor-Leste?",
+      "choices": [
+        "Over 10",
+        "Over 20",
+        "Over 30",
+        "Over 40"
+      ],
+      "answer": "Over 30"
+    },
+    {
+      "question": "What does MTBMLE stand for?",
+      "choices": [
+        "Multilingual Teaching-Based Language Education",
+        "Mother Tongue-Based Multilingual Education",
+        "Multicultural Teaching for Bilingual Language Exposure",
+        "Modern Techniques for Bilingual Language Education"
+      ],
+      "answer": "Mother Tongue-Based Multilingual Education"
+    },
+    {
+      "question": "What is the primary medium of instruction in early years of schooling in MTBMLE?",
+      "choices": [
+        "English",
+        "Portuguese",
+        "Tetum",
+        "The student's mother tongue"
+      ],
+      "answer": "The student's mother tongue"
+    },
+    {
+      "question": "Which of the following is NOT a core principle of MTBMLE?",
+      "choices": [
+        "Start with the language the child knows best",
+        "Develop strong foundation in the mother tongue before introducing additional languages",
+        "Immediately introduce all official languages simultaneously",
+        "Use mother tongue as a bridge to learning additional languages"
+      ],
+      "answer": "Immediately introduce all official languages simultaneously"
+    },
+    {
+      "question": "What is one of the cognitive benefits of MTBMLE?",
+      "choices": [
+        "Decreased metalinguistic awareness",
+        "Slower second language acquisition",
+        "Improved cognitive development",
+        "Reduced cultural identity"
+      ],
+      "answer": "Improved cognitive development"
+    },
+    {
+      "question": "Which of the following is a challenge in implementing MTBMLE in Timor-Leste?",
+      "choices": [
+        "Excessive funding for materials and teacher training",
+        "Lack of linguistic diversity",
+        "Political support for indigenous languages",
+        "Limited qualified teachers proficient in multiple languages"
+      ],
+      "answer": "Limited qualified teachers proficient in multiple languages"
+    },
+    {
+      "question": "What is one strategy for implementing MTBMLE in Timor-Leste?",
+      "choices": [
+        "Eliminating all indigenous languages from the curriculum",
+        "Focusing solely on Portuguese language instruction",
+        "Creating materials in local languages",
+        "Discouraging community involvement in education"
+      ],
+      "answer": "Creating materials in local languages"
+    },
+    {
+      "question": "How can MTBMLE impact national unity in Timor-Leste?",
+      "choices": [
+        "By eliminating all linguistic diversity",
+        "By promoting only Portuguese language use",
+        "By balancing linguistic diversity with national identity",
+        "By discouraging the use of indigenous languages"
+      ],
+      "answer": "By balancing linguistic diversity with national identity"
+    },
+    {
+      "question": "What is a potential long-term economic impact of implementing MTBMLE in Timor-Leste?",
+      "choices": [
+        "Decreased literacy rates",
+        "Reduced workforce productivity",
+        "Improved educational outcomes leading to better economic opportunities",
+        "Increased dependence on foreign aid"
+      ],
+      "answer": "Improved educational outcomes leading to better economic opportunities"
+    },
+    {
+      "question": "Which of the following is NOT a working language in Timor-Leste?",
+      "choices": [
+        "Indonesian",
+        "English",
+        "French",
+        "Tetum"
+      ],
+      "answer": "French"
+    },
+    {
+      "question": "What is one way to address the shortage of qualified teachers for MTBMLE programs in Timor-Leste?",
+      "choices": [
+        "Eliminating the need for local language instruction",
+        "Importing teachers from other countries",
+        "Providing comprehensive training in MTBMLE methodologies",
+        "Reducing the number of languages taught in schools"
+      ],
+      "answer": "Providing comprehensive training in MTBMLE methodologies"
+    },
+    {
+      "question": "How can technology support MTBMLE implementation in Timor-Leste?",
+      "choices": [
+        "By replacing teachers with automated systems",
+        "By providing digital resources and learning materials in local languages",
+        "By eliminating the need for face-to-face instruction",
+        "By focusing solely on computer programming skills"
+      ],
+      "answer": "By providing digital resources and learning materials in local languages"
+    },
+    {
+      "question": "What is one benefit of MTBMLE for preserving cultural identity?",
+      "choices": [
+        "It promotes the exclusive use of official languages",
+        "It discourages the use of indigenous languages",
+        "It validates home languages and cultures",
+        "It eliminates the need for cultural education"
+      ],
+      "answer": "It validates home languages and cultures"
+    },
+    {
+      "question": "Which of the following is a challenge in standardizing orthographies for all languages in Timor-Leste?",
+      "choices": [
+        "Lack of linguistic diversity",
+        "Excessive funding for language research",
+        "Political resistance to language standardization",
+        "Too few languages to consider"
+      ],
+      "answer": "Political resistance to language standardization"
+    },
+    {
+      "question": "What role should international organizations play in supporting MTBMLE implementation in Timor-Leste?",
+      "choices": [
+        "Take full control of the education system",
+        "Provide funding and expertise while respecting local autonomy",
+        "Discourage the use of local languages",
+        "Implement a one-size-fits-all approach to education"
+      ],
+      "answer": "Provide funding and expertise while respecting local autonomy"
+    },
+    {
+      "question": "How might MTBMLE affect students' future opportunities for higher education?",
+      "choices": [
+        "By limiting their ability to learn official languages",
+        "By providing a stronger foundation for overall academic success",
+        "By discouraging pursuit of higher education",
+        "By focusing solely on vocational skills"
+      ],
+      "answer": "By providing a stronger foundation for overall academic success"
+    },
+    {
+      "question": "What is one way to engage the community in MTBMLE programs?",
+      "choices": [
+        "Exclude local leaders from educational decisions",
+        "Implement policies without community consultation",
+        "Involve parents and community leaders in program design",
+        "Focus solely on urban areas for program implementation"
+      ],
+      "answer": "Involve parents and community leaders in program design"
+    },
+    {
+      "question": "Which of the following is a benefit of using mother tongue instruction in early education?",
+      "choices": [
+        "Slower cognitive development",
+        "Decreased academic performance",
+        "Improved comprehension of complex concepts",
+        "Reduced cultural awareness"
+      ],
+      "answer": "Improved comprehension of complex concepts"
+    },
+    {
+      "question": "What is one challenge of implementing MTBMLE in urban areas of Timor-Leste?",
+      "choices": [
+        "Lack of linguistic diversity",
+        "Absence of official languages",
+        "More diverse linguistic landscape requiring flexible approaches",
+        "Excessive resources for language education"
+      ],
+      "answer": "More diverse linguistic landscape requiring flexible approaches"
+    },
+    {
+      "question": "How can MTBMLE contribute to preserving linguistic diversity in Timor-Leste?",
+      "choices": [
+        "By promoting only official languages",
+        "By eliminating the use of indigenous languages in schools",
+        "By incorporating local languages into the education system",
+        "By discouraging multilingualism"
+      ],
+      "answer": "By incorporating local languages into the education system"
+    },
+    {
+      "question": "What is one way to develop curriculum for MTBMLE in Timor-Leste?",
+      "choices": [
+        "Use only Portuguese language materials",
+        "Ignore local cultural contexts",
+        "Create transition plans from mother tongue to official languages",
+        "Focus exclusively on international content"
+      ],
+      "answer": "Create transition plans from mother tongue to official languages"
+    },
+    {
+      "question": "How can MTBMLE impact student participation in Timor-Leste?",
+      "choices": [
+        "By decreasing student engagement",
+        "By increasing dropout rates",
+        "By enhancing student participation and engagement",
+        "By discouraging attendance in rural areas"
+      ],
+      "answer": "By enhancing student participation and engagement"
+    },
+    {
+      "question": "What is one potential challenge of MTBMLE implementation in rural areas of Timor-Leste?",
+      "choices": [
+        "Excessive resources and funding",
+        "Lack of linguistic diversity",
+        "Limited access to trained personnel",
+        "Overabundance of teaching materials in local languages"
+      ],
+      "answer": "Limited access to trained personnel"
+    },
+    {
+      "question": "How can MTBMLE support the acquisition of official languages in Timor-Leste?",
+      "choices": [
+        "By eliminating the use of official languages in schools",
+        "By providing a strong foundation in the mother tongue to facilitate learning additional languages",
+        "By focusing exclusively on official languages from the start",
+        "By discouraging multilingualism"
+      ],
+      "answer": "By providing a strong foundation in the mother tongue to facilitate learning additional languages"
+    },
+    {
+      "question": "What is one way to assess the effectiveness of MTBMLE programs in Timor-Leste?",
+      "choices": [
+        "Focus solely on official language proficiency",
+        "Ignore student academic performance",
+        "Conduct continuous monitoring and evaluation of programs",
+        "Eliminate all forms of assessment"
+      ],
+      "answer": "Conduct continuous monitoring and evaluation of programs"
+    },
+    {
+      "question": "How can MTBMLE impact teacher training in Timor-Leste?",
+      "choices": [
+        "By eliminating the need for teacher training",
+        "By focusing solely on official language instruction",
+        "By requiring teachers to be proficient in all local languages",
+        "By promoting skills in bridging between languages and culturally responsive pedagogy"
+      ],
+      "answer": "By promoting skills in bridging between languages and culturally responsive pedagogy"
+    },
+    {
+      "question": "What is one potential benefit of MTBMLE for students' self-esteem?",
+      "choices": [
+        "Decreased confidence in using their mother tongue",
+        "Increased shame about their cultural background",
+        "Enhanced self-esteem through validation of home language and culture",
+        "Reduced interest in their own cultural identity"
+      ],
+      "answer": "Enhanced self-esteem through validation of home language and culture"
+    },
+    {
+      "question": "How can MTBMLE support the development of Timor-Leste's education system?",
+      "choices": [
+        "By focusing exclusively on international educational models",
+        "By eliminating the use of local languages in schools",
+        "By providing a culturally relevant and inclusive approach to education",
+        "By discouraging linguistic diversity"
+      ],
+      "answer": "By providing a culturally relevant and inclusive approach to education"
+    },
+    {
+      "question": "What is one way to address political resistance to MTBMLE in Timor-Leste?",
+      "choices": [
+        "Ignore political concerns entirely",
+        "Eliminate all local language instruction",
+        "Focus exclusively on official languages",
+        "Engage in dialogue and demonstrate the benefits of MTBMLE for national development"
+      ],
+      "answer": "Engage in dialogue and demonstrate the benefits of MTBMLE for national development"
+    }
+  ]
+}

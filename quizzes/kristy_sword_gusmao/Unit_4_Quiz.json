@@ -1,0 +1,305 @@
+{
+  "title": "Cultural and Linguistic Diversity in Nation-Building",
+  "questions": [
+    {
+      "question": "What are the official languages of Timor-Leste?",
+      "choices": [
+        "Tetum and Indonesian",
+        "Portuguese and English",
+        "Tetum and Portuguese",
+        "Mambae and Makasae"
+      ],
+      "answer": "Tetum and Portuguese"
+    },
+    {
+      "question": "Approximately how many indigenous languages are spoken in Timor-Leste?",
+      "choices": [
+        "Over 10",
+        "Over 20",
+        "Over 30",
+        "Over 40"
+      ],
+      "answer": "Over 30"
+    },
+    {
+      "question": "Which of the following is NOT a major indigenous language in Timor-Leste?",
+      "choices": [
+        "Mambae",
+        "Makasae",
+        "Fataluku",
+        "Tagalog"
+      ],
+      "answer": "Tagalog"
+    },
+    {
+      "question": "What is the primary goal of Mother Tongue-Based Multilingual Education (MTBMLE)?",
+      "choices": [
+        "To eliminate all local languages",
+        "To improve educational outcomes while respecting linguistic diversity",
+        "To promote only the official languages",
+        "To reduce the number of languages spoken in the country"
+      ],
+      "answer": "To improve educational outcomes while respecting linguistic diversity"
+    },
+    {
+      "question": "Which language family do most indigenous languages in Timor-Leste belong to?",
+      "choices": [
+        "Indo-European",
+        "Sino-Tibetan",
+        "Austronesian and Papuan",
+        "Afroasiatic"
+      ],
+      "answer": "Austronesian and Papuan"
+    },
+    {
+      "question": "What role does Tetum play in Timor-Leste's linguistic landscape?",
+      "choices": [
+        "It is only used in formal government settings",
+        "It serves as a lingua franca between diverse linguistic communities",
+        "It is being phased out in favor of Portuguese",
+        "It is only spoken in rural areas"
+      ],
+      "answer": "It serves as a lingua franca between diverse linguistic communities"
+    },
+    {
+      "question": "What is one of the main challenges in implementing multilingual education policies?",
+      "choices": [
+        "Excessive funding",
+        "Too many qualified teachers",
+        "Limited resources",
+        "Lack of linguistic diversity"
+      ],
+      "answer": "Limited resources"
+    },
+    {
+      "question": "Which country's bilingual education policy is mentioned as an example in the module?",
+      "choices": [
+        "Indonesia",
+        "Malaysia",
+        "Philippines",
+        "Singapore"
+      ],
+      "answer": "Singapore"
+    },
+    {
+      "question": "What is one of the cognitive benefits associated with multilingualism?",
+      "choices": [
+        "Decreased problem-solving abilities",
+        "Enhanced memory capacity",
+        "Reduced critical thinking skills",
+        "Slower language acquisition"
+      ],
+      "answer": "Enhanced memory capacity"
+    },
+    {
+      "question": "What is the primary purpose of inclusive curriculum development in multilingual education?",
+      "choices": [
+        "To focus solely on official languages",
+        "To exclude local cultural content",
+        "To incorporate local cultural content and represent diverse ethnic groups",
+        "To promote a single national culture"
+      ],
+      "answer": "To incorporate local cultural content and represent diverse ethnic groups"
+    },
+    {
+      "question": "When did Timor-Leste gain independence?",
+      "choices": [
+        "1975",
+        "1999",
+        "2002",
+        "2011"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What is one potential consequence of language loss for indigenous communities?",
+      "choices": [
+        "Increased economic opportunities",
+        "Enhanced national unity",
+        "Loss of cultural knowledge and heritage",
+        "Improved international relations"
+      ],
+      "answer": "Loss of cultural knowledge and heritage"
+    },
+    {
+      "question": "What role can technology play in language preservation efforts?",
+      "choices": [
+        "It has no significant impact",
+        "It can only be used for official languages",
+        "It can aid in language documentation, learning, and dissemination",
+        "It always leads to language extinction"
+      ],
+      "answer": "It can aid in language documentation, learning, and dissemination"
+    },
+    {
+      "question": "What is the main goal of language awareness programs in schools?",
+      "choices": [
+        "To promote only official languages",
+        "To eliminate linguistic diversity",
+        "To promote understanding and appreciation of linguistic diversity",
+        "To discourage multilingualism"
+      ],
+      "answer": "To promote understanding and appreciation of linguistic diversity"
+    },
+    {
+      "question": "Which international organization's declaration is cited in the module regarding cultural diversity?",
+      "choices": [
+        "United Nations",
+        "UNESCO",
+        "World Bank",
+        "UNICEF"
+      ],
+      "answer": "UNESCO"
+    },
+    {
+      "question": "What is the recommended approach for initial instruction in mother tongue-based multilingual education?",
+      "choices": [
+        "Begin with official languages only",
+        "Use English as the primary language of instruction",
+        "Start with the mother tongue and gradually introduce national languages",
+        "Teach all languages simultaneously from the beginning"
+      ],
+      "answer": "Start with the mother tongue and gradually introduce national languages"
+    },
+    {
+      "question": "What economic benefit can cultural preservation initiatives potentially provide?",
+      "choices": [
+        "Increased foreign aid",
+        "Higher tax revenues",
+        "Contributions to cultural tourism and creative industries",
+        "Lower education costs"
+      ],
+      "answer": "Contributions to cultural tourism and creative industries"
+    },
+    {
+      "question": "What is one way community involvement can support linguistic diversity in education?",
+      "choices": [
+        "By demanding monolingual education",
+        "By rejecting all forms of multilingualism",
+        "By providing community resources for education",
+        "By promoting only international languages"
+      ],
+      "answer": "By providing community resources for education"
+    },
+    {
+      "question": "Which period in Timor-Leste's history contributed to its linguistic complexity?",
+      "choices": [
+        "British colonization",
+        "French occupation",
+        "Portuguese colonization",
+        "American administration"
+      ],
+      "answer": "Portuguese colonization"
+    },
+    {
+      "question": "What is one challenge faced by Singapore's bilingual education policy?",
+      "choices": [
+        "Lack of English proficiency",
+        "Absence of cultural diversity",
+        "Varying proficiency levels in mother tongues",
+        "Excessive funding for language programs"
+      ],
+      "answer": "Varying proficiency levels in mother tongues"
+    },
+    {
+      "question": "What does the UNESCO Universal Declaration on Cultural Diversity state about cultural rights?",
+      "choices": [
+        "They are separate from human rights",
+        "They are an integral part of human rights",
+        "They are less important than economic rights",
+        "They only apply to majority cultures"
+      ],
+      "answer": "They are an integral part of human rights"
+    },
+    {
+      "question": "What is one potential benefit of mother tongue-based education in the early years?",
+      "choices": [
+        "It slows down language acquisition",
+        "It improves learning outcomes",
+        "It eliminates the need for national languages",
+        "It reduces cultural awareness"
+      ],
+      "answer": "It improves learning outcomes"
+    },
+    {
+      "question": "What role can social media play in language preservation?",
+      "choices": [
+        "It always leads to language extinction",
+        "It has no impact on language use",
+        "It can be a tool for language activism and community connection",
+        "It only promotes majority languages"
+      ],
+      "answer": "It can be a tool for language activism and community connection"
+    },
+    {
+      "question": "What is one way flexible language policies can support linguistic diversity?",
+      "choices": [
+        "By enforcing a single national language",
+        "By banning all local languages",
+        "By adapting language of instruction based on local context",
+        "By promoting only international languages"
+      ],
+      "answer": "By adapting language of instruction based on local context"
+    },
+    {
+      "question": "What is one potential challenge in teacher training for multilingual education?",
+      "choices": [
+        "Too many qualified teachers",
+        "Excessive funding for training programs",
+        "Preparing educators for instruction in multiple languages",
+        "Lack of linguistic diversity among teachers"
+      ],
+      "answer": "Preparing educators for instruction in multiple languages"
+    },
+    {
+      "question": "What year was the Mother Tongue-Based Multilingual Education policy launched in Timor-Leste?",
+      "choices": [
+        "2002",
+        "2007",
+        "2011",
+        "2015"
+      ],
+      "answer": "2011"
+    },
+    {
+      "question": "What is one argument against promoting linguistic diversity in education?",
+      "choices": [
+        "It improves learning outcomes",
+        "It preserves cultural heritage",
+        "It may be seen as a threat to national cohesion",
+        "It enhances cognitive abilities"
+      ],
+      "answer": "It may be seen as a threat to national cohesion"
+    },
+    {
+      "question": "What type of knowledge is often contained in indigenous languages?",
+      "choices": [
+        "Only modern scientific knowledge",
+        "Exclusively religious information",
+        "Unique environmental and traditional knowledge",
+        "Purely historical facts"
+      ],
+      "answer": "Unique environmental and traditional knowledge"
+    },
+    {
+      "question": "What is one way cultural preservation can contribute to economic development?",
+      "choices": [
+        "By eliminating all traditional practices",
+        "Through cultural tourism and creative industries",
+        "By focusing solely on modern industries",
+        "By rejecting all forms of cultural expression"
+      ],
+      "answer": "Through cultural tourism and creative industries"
+    },
+    {
+      "question": "What is the primary goal of balancing national identity and local cultures in education?",
+      "choices": [
+        "To eliminate all local cultures",
+        "To promote only the dominant culture",
+        "To foster national unity while respecting diversity",
+        "To isolate different cultural groups"
+      ],
+      "answer": "To foster national unity while respecting diversity"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Student Perceptions and Experiences in Multilingual Education",
+  "questions": [
+    {
+      "question": "What is the primary focus of Learning Unit 6?",
+      "choices": [
+        "Teacher training methods",
+        "Student attitudes towards language of instruction",
+        "Curriculum development",
+        "School infrastructure"
+      ],
+      "answer": "Student attitudes towards language of instruction"
+    },
+    {
+      "question": "Which of the following is NOT listed as an objective for Learning Unit 6?",
+      "choices": [
+        "Analyze student attitudes towards language of instruction",
+        "Evaluate the impact of language policies on student experiences",
+        "Develop new language policies for Timor-Leste",
+        "Conduct and analyze surveys on student language preferences"
+      ],
+      "answer": "Develop new language policies for Timor-Leste"
+    },
+    {
+      "question": "What is one of the main challenges faced by students in multilingual learning environments?",
+      "choices": [
+        "Lack of textbooks",
+        "Poor school infrastructure",
+        "Processing multiple languages simultaneously",
+        "Insufficient teacher training"
+      ],
+      "answer": "Processing multiple languages simultaneously"
+    },
+    {
+      "question": "Which resource is required for this module according to the syllabus?",
+      "choices": [
+        "UNESCO World Report on Cultural Diversity",
+        "UNICEF Education for All Global Monitoring Report",
+        "Coleman, H. (Ed.). (2015). Language and Social Cohesion in the Developing World",
+        "World Bank Report on Education in Developing Countries"
+      ],
+      "answer": "Coleman, H. (Ed.). (2015). Language and Social Cohesion in the Developing World"
+    },
+    {
+      "question": "What type of activity is suggested for students to gain practical experience?",
+      "choices": [
+        "Writing research papers",
+        "Conducting online surveys",
+        "Volunteer teaching in multilingual classrooms",
+        "Attending international conferences"
+      ],
+      "answer": "Volunteer teaching in multilingual classrooms"
+    },
+    {
+      "question": "Which additional resource is recommended for further reading?",
+      "choices": [
+        "OECD Education at a Glance Report",
+        "Taylor-Leech, K. (2013). Finding space for non-dominant languages in education",
+        "Chomsky, N. (1965). Aspects of the Theory of Syntax",
+        "Piaget, J. (1936). Origins of intelligence in the child"
+      ],
+      "answer": "Taylor-Leech, K. (2013). Finding space for non-dominant languages in education"
+    },
+    {
+      "question": "What is the term for the language used to teach academic content in schools?",
+      "choices": [
+        "Lingua franca",
+        "Vernacular",
+        "Medium of instruction",
+        "Official language"
+      ],
+      "answer": "Medium of instruction"
+    },
+    {
+      "question": "Which factor is NOT mentioned as influencing student perceptions of language in education?",
+      "choices": [
+        "Family background",
+        "Socioeconomic status",
+        "Urban vs. rural divide",
+        "Gender"
+      ],
+      "answer": "Gender"
+    },
+    {
+      "question": "What is one of the cognitive challenges faced by students in multilingual environments?",
+      "choices": [
+        "Increased memory capacity",
+        "Enhanced problem-solving skills",
+        "Code-switching and its effects on comprehension",
+        "Improved multitasking abilities"
+      ],
+      "answer": "Code-switching and its effects on comprehension"
+    },
+    {
+      "question": "Which of the following is a potential benefit of multilingual education mentioned in the module?",
+      "choices": [
+        "Reduced cognitive flexibility",
+        "Enhanced cultural awareness",
+        "Decreased problem-solving skills",
+        "Lower academic performance"
+      ],
+      "answer": "Enhanced cultural awareness"
+    },
+    {
+      "question": "What is one of the resource constraints mentioned in multilingual learning environments?",
+      "choices": [
+        "Lack of qualified teachers",
+        "Insufficient classroom space",
+        "Limited availability of materials in different languages",
+        "Inadequate funding for technology"
+      ],
+      "answer": "Limited availability of materials in different languages"
+    },
+    {
+      "question": "Which country is used as a case study for language policy implementation in the module?",
+      "choices": [
+        "Indonesia",
+        "Malaysia",
+        "Philippines",
+        "Timor-Leste"
+      ],
+      "answer": "Timor-Leste"
+    },
+    {
+      "question": "What is one of the official languages of Timor-Leste mentioned in the module?",
+      "choices": [
+        "English",
+        "French",
+        "Portuguese",
+        "Spanish"
+      ],
+      "answer": "Portuguese"
+    },
+    {
+      "question": "What type of survey is suggested as an activity in the module?",
+      "choices": [
+        "Teacher satisfaction survey",
+        "School infrastructure assessment",
+        "Student language preferences survey",
+        "Parent involvement questionnaire"
+      ],
+      "answer": "Student language preferences survey"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic to be covered in the module?",
+      "choices": [
+        "Student perspectives on language use in education",
+        "Challenges faced by students in multilingual learning environments",
+        "Historical development of Timor-Leste's education system",
+        "Impact of language policies on student experiences"
+      ],
+      "answer": "Historical development of Timor-Leste's education system"
+    },
+    {
+      "question": "What is the suggested practical experience activity related to educational materials?",
+      "choices": [
+        "Purchasing textbooks for schools",
+        "Translating existing materials into local languages",
+        "Assisting in the development of multilingual educational materials",
+        "Evaluating the quality of current educational resources"
+      ],
+      "answer": "Assisting in the development of multilingual educational materials"
+    },
+    {
+      "question": "Which international organization's advocacy kit is mentioned as an additional resource?",
+      "choices": [
+        "UNICEF",
+        "World Bank",
+        "UNESCO",
+        "OECD"
+      ],
+      "answer": "UNESCO"
+    },
+    {
+      "question": "What type of program are students asked to create as an activity?",
+      "choices": [
+        "Teacher training program",
+        "Student exchange program",
+        "Language immersion program",
+        "Student support program for multilingual learners"
+      ],
+      "answer": "Student support program for multilingual learners"
+    },
+    {
+      "question": "Which of the following is suggested as a topic to compare with Timor-Leste's language policies?",
+      "choices": [
+        "European Union language policies",
+        "African multilingual education systems",
+        "Other multilingual countries in Southeast Asia",
+        "North American bilingual education programs"
+      ],
+      "answer": "Other multilingual countries in Southeast Asia"
+    },
+    {
+      "question": "What aspect of language policy is suggested to be examined in relation to national development?",
+      "choices": [
+        "Cultural implications",
+        "Political consequences",
+        "Social impacts",
+        "Economic implications"
+      ],
+      "answer": "Economic implications"
+    },
+    {
+      "question": "Which technology-related topic is suggested for discussion in the module?",
+      "choices": [
+        "Online language learning platforms",
+        "Virtual reality in language education",
+        "Use of technology in supporting multilingual education in resource-constrained environments",
+        "Artificial intelligence in language translation"
+      ],
+      "answer": "Use of technology in supporting multilingual education in resource-constrained environments"
+    },
+    {
+      "question": "What type of organization is mentioned as playing a role in shaping language policy in Timor-Leste?",
+      "choices": [
+        "Local NGOs",
+        "International organizations",
+        "Private language schools",
+        "University research centers"
+      ],
+      "answer": "International organizations"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a working language in Timor-Leste?",
+      "choices": [
+        "Tetum",
+        "Portuguese",
+        "Indonesian",
+        "English"
+      ],
+      "answer": "Tetum"
+    },
+    {
+      "question": "What is one of the social factors mentioned that can affect students in multilingual settings?",
+      "choices": [
+        "Increased social mobility",
+        "Enhanced communication skills",
+        "Identity formation challenges",
+        "Improved intercultural competence"
+      ],
+      "answer": "Identity formation challenges"
+    },
+    {
+      "question": "Which of the following is suggested as a strategy to support students struggling in multilingual environments?",
+      "choices": [
+        "Eliminating all but one language of instruction",
+        "Separating students based on language proficiency",
+        "Implementing flexible language policies",
+        "Focusing solely on the dominant language"
+      ],
+      "answer": "Implementing flexible language policies"
+    },
+    {
+      "question": "What type of teaching practice is recommended to enhance student experiences in multilingual education?",
+      "choices": [
+        "Strict monolingual instruction",
+        "Culturally responsive teaching practices",
+        "Standardized testing in all languages",
+        "Separate classrooms for each language"
+      ],
+      "answer": "Culturally responsive teaching practices"
+    },
+    {
+      "question": "Which of the following is mentioned as a potential long-term impact of current language policies on students?",
+      "choices": [
+        "Guaranteed employment",
+        "Automatic university admission",
+        "Effects on academic and professional futures",
+        "Increased national unity"
+      ],
+      "answer": "Effects on academic and professional futures"
+    },
+    {
+      "question": "What is suggested as a way to assess the effectiveness of multilingual education policies?",
+      "choices": [
+        "Standardized testing in the dominant language",
+        "Measuring GDP growth",
+        "Conducting surveys on student language preferences",
+        "Counting the number of languages spoken in the country"
+      ],
+      "answer": "Conducting surveys on student language preferences"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of multilingualism for students?",
+      "choices": [
+        "Enhanced cognitive flexibility",
+        "Improved problem-solving skills",
+        "Greater cultural awareness",
+        "Guaranteed academic success"
+      ],
+      "answer": "Guaranteed academic success"
+    },
+    {
+      "question": "What is suggested as a way to promote positive attitudes towards multilingualism?",
+      "choices": [
+        "Enforcing strict language hierarchies",
+        "Eliminating minority languages from the curriculum",
+        "Celebrating linguistic diversity in the classroom",
+        "Focusing only on international languages"
+      ],
+      "answer": "Celebrating linguistic diversity in the classroom"
+    }
+  ]
+}

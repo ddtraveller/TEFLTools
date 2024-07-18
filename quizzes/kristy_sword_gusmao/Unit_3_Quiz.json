@@ -1,0 +1,305 @@
+{
+  "title": "School Facilities and Student Participation in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of primary schools in Timor-Leste have access to clean drinking water?",
+      "choices": [
+        "40%",
+        "50%",
+        "60%",
+        "70%"
+      ],
+      "answer": "60%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a significant challenge for school facilities in Timor-Leste?",
+      "choices": [
+        "Lack of adequate classrooms",
+        "Insufficient sanitation facilities",
+        "Unreliable electricity",
+        "Outdated textbooks"
+      ],
+      "answer": "Outdated textbooks"
+    },
+    {
+      "question": "What percentage of schools in Timor-Leste have functioning toilets?",
+      "choices": [
+        "30%",
+        "40%",
+        "50%",
+        "60%"
+      ],
+      "answer": "40%"
+    },
+    {
+      "question": "How does the quality of school facilities generally differ between urban and rural areas in Timor-Leste?",
+      "choices": [
+        "Rural areas have better facilities",
+        "Urban areas have better facilities",
+        "There is no significant difference",
+        "Coastal areas have the best facilities"
+      ],
+      "answer": "Urban areas have better facilities"
+    },
+    {
+      "question": "What is the average increase in enrollment rates for schools with improved facilities?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "By what percentage can separate toilets for girls increase female enrollment?",
+      "choices": [
+        "Up to 5%",
+        "Up to 8%",
+        "Up to 11%",
+        "Up to 15%"
+      ],
+      "answer": "Up to 11%"
+    },
+    {
+      "question": "How much higher do students in schools with electricity score on standardized tests?",
+      "choices": [
+        "5% higher",
+        "8% higher",
+        "12% higher",
+        "15% higher"
+      ],
+      "answer": "12% higher"
+    },
+    {
+      "question": "What is the impact of access to libraries and learning materials on reading scores?",
+      "choices": [
+        "Improvement of 3-7%",
+        "Improvement of 5-10%",
+        "Improvement of 8-15%",
+        "Improvement of 10-20%"
+      ],
+      "answer": "Improvement of 8-15%"
+    },
+    {
+      "question": "What is the increase in dropout rates among adolescent girls due to lack of private, clean toilets?",
+      "choices": [
+        "5-10% higher",
+        "10-20% higher",
+        "20-30% higher",
+        "30-40% higher"
+      ],
+      "answer": "10-20% higher"
+    },
+    {
+      "question": "By how much can improved sanitation facilities increase girls' attendance during menstruation?",
+      "choices": [
+        "5-8%",
+        "8-11%",
+        "11-14%",
+        "14-17%"
+      ],
+      "answer": "11-14%"
+    },
+    {
+      "question": "In the Baucau District Improvement Project, what was the percentage increase in enrollment?",
+      "choices": [
+        "12%",
+        "15%",
+        "18%",
+        "22%"
+      ],
+      "answer": "18%"
+    },
+    {
+      "question": "What was the improvement in attendance rates in the Baucau District Improvement Project?",
+      "choices": [
+        "15%",
+        "18%",
+        "20%",
+        "22%"
+      ],
+      "answer": "22%"
+    },
+    {
+      "question": "How much higher were test scores in math and reading after the Baucau District Improvement Project?",
+      "choices": [
+        "10%",
+        "12%",
+        "15%",
+        "18%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a focus of the Baucau District Improvement Project?",
+      "choices": [
+        "New classrooms",
+        "Water systems",
+        "Solar panels",
+        "Computer labs"
+      ],
+      "answer": "Computer labs"
+    },
+    {
+      "question": "What is the name of the program that improved nutrition and led to the construction of kitchens and dining areas in many schools?",
+      "choices": [
+        "Healthy Schools Initiative",
+        "School Feeding and School Gardens program",
+        "Nutrition for Education Project",
+        "Timor-Leste School Meals Program"
+      ],
+      "answer": "School Feeding and School Gardens program"
+    },
+    {
+      "question": "What is a key benefit of engaging local communities in school infrastructure development?",
+      "choices": [
+        "Reduced construction costs",
+        "Faster project completion",
+        "Increased sense of ownership and responsibility",
+        "Improved architectural design"
+      ],
+      "answer": "Increased sense of ownership and responsibility"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a challenge in improving school facilities in Timor-Leste?",
+      "choices": [
+        "Limited financial resources",
+        "Logistical difficulties in reaching remote areas",
+        "Need for ongoing maintenance",
+        "Lack of qualified construction workers"
+      ],
+      "answer": "Lack of qualified construction workers"
+    },
+    {
+      "question": "What innovative solution is being used to address the lack of reliable electricity in some schools?",
+      "choices": [
+        "Wind turbines",
+        "Hydroelectric power",
+        "Solar power systems",
+        "Geothermal energy"
+      ],
+      "answer": "Solar power systems"
+    },
+    {
+      "question": "What percentage of schools in Timor-Leste operate without electricity?",
+      "choices": [
+        "20%",
+        "25%",
+        "30%",
+        "35%"
+      ],
+      "answer": "30%"
+    },
+    {
+      "question": "What percentage of classrooms in Timor-Leste are in need of major repairs or replacement?",
+      "choices": [
+        "15%",
+        "20%",
+        "25%",
+        "30%"
+      ],
+      "answer": "25%"
+    },
+    {
+      "question": "How many new classrooms has the government of Timor-Leste committed to building annually since 2018?",
+      "choices": [
+        "150",
+        "200",
+        "250",
+        "300"
+      ],
+      "answer": "250"
+    },
+    {
+      "question": "What percentage of rural schools have been reached by the solar panel installation program?",
+      "choices": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "How many schools did the UNICEF partnership provide water and sanitation to in 2019-2020?",
+      "choices": [
+        "50",
+        "75",
+        "100",
+        "125"
+      ],
+      "answer": "100"
+    },
+    {
+      "question": "By what percentage does clean water access correlate with higher daily attendance?",
+      "choices": [
+        "1-3%",
+        "3-5%",
+        "5-10%",
+        "10-15%"
+      ],
+      "answer": "5-10%"
+    },
+    {
+      "question": "How much can proper sanitation facilities reduce absence due to illness?",
+      "choices": [
+        "5-10%",
+        "10-20%",
+        "20-30%",
+        "30-40%"
+      ],
+      "answer": "20-30%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of using locally sourced, sustainable materials in school construction?",
+      "choices": [
+        "Reduces costs",
+        "Ensures buildings are suited to local climate",
+        "Increases community involvement",
+        "Improves durability of structures"
+      ],
+      "answer": "Improves durability of structures"
+    },
+    {
+      "question": "What is the approximate number of schools in Timor-Leste as of 2020?",
+      "choices": [
+        "1,000",
+        "1,500",
+        "1,700",
+        "2,000"
+      ],
+      "answer": "1,700"
+    },
+    {
+      "question": "Approximately how many students are served by the schools in Timor-Leste?",
+      "choices": [
+        "200,000",
+        "300,000",
+        "400,000",
+        "500,000"
+      ],
+      "answer": "400,000"
+    },
+    {
+      "question": "Which area in Timor-Leste is mentioned as having schools more likely to have computer labs and libraries?",
+      "choices": [
+        "Baucau",
+        "Dili",
+        "Oecusse",
+        "Viqueque"
+      ],
+      "answer": "Dili"
+    },
+    {
+      "question": "What is mentioned as a broader societal implication of gender disparities in education?",
+      "choices": [
+        "Decreased agricultural productivity",
+        "Increased urban migration",
+        "Lower economic participation of women",
+        "Higher birth rates"
+      ],
+      "answer": "Lower economic participation of women"
+    }
+  ]
+}
