@@ -181,21 +181,30 @@ The test is designed to be run at the begining and end of a volunteer stay to ge
 The test delivers 20 random multiple choice questions out of a pool of over 100.
 
 Ezame bele halo iha ne'e / The exam can be taken here;
+
 https://content.go-tl.com/exam.html
 
 Ezame ne'e bele download husi gitub iha ne'e, no mós hala'o iha fatin lokál / The exam can be downloaded from github here, and run locally as well;
+
 https://github.com/ddtraveller/TEFLTools/tree/main/exam/exam.html
 https://github.com/ddtraveller/TEFLTools/tree/main/exam/questions.json
 
 Atu hala'o lokál hahú servisu web lokál ida uza komandu liña komandu husi diresaun ne'ebé arkivu ezame ne'e lokaliza / To run locally start up a local web server using a command line command from the directory where the exam file is located:
 ```
-python -m http.server 8000
+python3 -m http.server 8000
 ```
 
 Navigasaun ba URL ne'e iha navegador / Navigate to this URL in a browser;
 ```
 http://localhost:8000/exam.html
 ```
+The exam instantly shows color coded correct and incorrect answers on submission.
+
+<img src="jpg/exam_results2.jpg" alt="Color coded correct/incorrect answers on submission" width="400"/>
+
+The exam gives a detailed breakdown of exam performance.
+
+<img src="jpg/exam_results.jpg" alt="Detailed breakdown of exam results" width="400"/>
 
 ## Modelu Risku Rai ba Timor Leste/Risk Terrain Modeling for Timor Leste 
 
