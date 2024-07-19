@@ -1,0 +1,305 @@
+{
+  "title": "Mechanics and Taxonomy of Time Bank Systems",
+  "questions": [
+    {
+      "question": "What is the primary currency used in time banking systems?",
+      "choices": [
+        "Money",
+        "Time credits",
+        "Goods",
+        "Loyalty points"
+      ],
+      "answer": "Time credits"
+    },
+    {
+      "question": "How much is one time credit typically worth in a time bank system?",
+      "choices": [
+        "One dollar",
+        "One minute",
+        "One hour",
+        "One day"
+      ],
+      "answer": "One hour"
+    },
+    {
+      "question": "Which of the following is NOT a primary type of exchange in time banking?",
+      "choices": [
+        "Person-to-person",
+        "Person-to-agency",
+        "Agency-to-agency",
+        "Government-to-person"
+      ],
+      "answer": "Government-to-person"
+    },
+    {
+      "question": "What is a key principle of time banking regarding the value of time?",
+      "choices": [
+        "All time is valued equally",
+        "Professional time is worth more",
+        "Time value varies by skill level",
+        "Time value is negotiable"
+      ],
+      "answer": "All time is valued equally"
+    },
+    {
+      "question": "Who is typically responsible for managing member accounts and facilitating exchanges in a time bank?",
+      "choices": [
+        "Bank manager",
+        "Time bank coordinator",
+        "Community leader",
+        "Elected official"
+      ],
+      "answer": "Time bank coordinator"
+    },
+    {
+      "question": "What is the primary purpose of time bank software?",
+      "choices": [
+        "To replace human coordinators",
+        "To manage financial transactions",
+        "To track exchanges and credit balances",
+        "To automate service delivery"
+      ],
+      "answer": "To track exchanges and credit balances"
+    },
+    {
+      "question": "In a person-to-agency exchange, which of the following might occur?",
+      "choices": [
+        "An individual volunteers at a non-profit",
+        "Two individuals trade services",
+        "Two organizations share resources",
+        "A government agency provides services to citizens"
+      ],
+      "answer": "An individual volunteers at a non-profit"
+    },
+    {
+      "question": "What is a potential benefit of agency-to-agency exchanges in a time bank?",
+      "choices": [
+        "Increased competition between organizations",
+        "Reduced need for volunteers",
+        "Maximized resource utilization",
+        "Simplified tax reporting"
+      ],
+      "answer": "Maximized resource utilization"
+    },
+    {
+      "question": "Which of the following is NOT typically a responsibility of time bank members?",
+      "choices": [
+        "Offering skills and services",
+        "Requesting help when needed",
+        "Logging their exchanges",
+        "Setting the value of time credits"
+      ],
+      "answer": "Setting the value of time credits"
+    },
+    {
+      "question": "What is a key feature of person-to-person exchanges in time banking?",
+      "choices": [
+        "They always involve money",
+        "They build direct community connections",
+        "They require professional skills",
+        "They are overseen by agencies"
+      ],
+      "answer": "They build direct community connections"
+    },
+    {
+      "question": "How do time banks typically handle the valuation of different skills or services?",
+      "choices": [
+        "By market demand",
+        "By professional certification",
+        "By level of difficulty",
+        "All services are valued equally"
+      ],
+      "answer": "All services are valued equally"
+    },
+    {
+      "question": "What role do partner organizations often play in a time bank system?",
+      "choices": [
+        "Setting exchange rates",
+        "Providing volunteering opportunities",
+        "Enforcing time credit limits",
+        "Issuing time credits"
+      ],
+      "answer": "Providing volunteering opportunities"
+    },
+    {
+      "question": "Which of the following is a common feature of time bank software?",
+      "choices": [
+        "Automatic service matching",
+        "Cryptocurrency integration",
+        "Member profiles and skills listings",
+        "Real-time video conferencing"
+      ],
+      "answer": "Member profiles and skills listings"
+    },
+    {
+      "question": "What is a potential challenge in maintaining the principle of 'all time is equal' in a time bank?",
+      "choices": [
+        "Technological limitations",
+        "Legal restrictions",
+        "Varying skill levels and expertise",
+        "Time zone differences"
+      ],
+      "answer": "Varying skill levels and expertise"
+    },
+    {
+      "question": "How might a time bank system impact the existing cash economy in a community?",
+      "choices": [
+        "By completely replacing it",
+        "By competing directly with local businesses",
+        "By complementing it and filling gaps",
+        "By increasing inflation"
+      ],
+      "answer": "By complementing it and filling gaps"
+    },
+    {
+      "question": "What is a potential benefit of integrating time banking with existing community development initiatives?",
+      "choices": [
+        "Reduced government oversight",
+        "Increased tax revenue",
+        "Enhanced community engagement",
+        "Simplified legal structures"
+      ],
+      "answer": "Enhanced community engagement"
+    },
+    {
+      "question": "Which of the following is NOT typically a function of a time bank advisory board?",
+      "choices": [
+        "Guiding overall strategy",
+        "Supporting fundraising efforts",
+        "Approving individual exchanges",
+        "Helping with community outreach"
+      ],
+      "answer": "Approving individual exchanges"
+    },
+    {
+      "question": "What is a key consideration when adapting time banking software for communities with limited technology access?",
+      "choices": [
+        "Increasing processing speed",
+        "Adding more advanced features",
+        "Ensuring user-friendly interfaces",
+        "Integrating with social media platforms"
+      ],
+      "answer": "Ensuring user-friendly interfaces"
+    },
+    {
+      "question": "How might time banking contribute to preserving traditional skills and knowledge?",
+      "choices": [
+        "By replacing traditional practices",
+        "By documenting skills in a database",
+        "By facilitating intergenerational exchanges",
+        "By monetizing cultural knowledge"
+      ],
+      "answer": "By facilitating intergenerational exchanges"
+    },
+    {
+      "question": "What is a potential challenge in implementing time banking in rural communities?",
+      "choices": [
+        "Lack of diverse skills",
+        "Too many service options",
+        "Limited internet connectivity",
+        "Excessive government regulation"
+      ],
+      "answer": "Limited internet connectivity"
+    },
+    {
+      "question": "How do time banks typically handle liability issues related to service exchanges?",
+      "choices": [
+        "By requiring professional insurance",
+        "Through member waivers and agreements",
+        "By limiting exchanges to low-risk activities",
+        "Through government-backed insurance"
+      ],
+      "answer": "Through member waivers and agreements"
+    },
+    {
+      "question": "What role can time banking play in addressing youth unemployment?",
+      "choices": [
+        "By replacing entry-level jobs",
+        "By providing work experience and skill development",
+        "By offering competitive wages",
+        "By eliminating the need for formal education"
+      ],
+      "answer": "By providing work experience and skill development"
+    },
+    {
+      "question": "How might cultural factors influence the acceptance of time banking in different communities?",
+      "choices": [
+        "They have no impact on time banking",
+        "They may affect how reciprocity is viewed",
+        "They only influence the types of services offered",
+        "They determine the monetary value of time credits"
+      ],
+      "answer": "They may affect how reciprocity is viewed"
+    },
+    {
+      "question": "What is a potential benefit of including local businesses in a time bank network?",
+      "choices": [
+        "Increased profit margins",
+        "Reduced need for employees",
+        "Enhanced community integration",
+        "Simplified tax reporting"
+      ],
+      "answer": "Enhanced community integration"
+    },
+    {
+      "question": "How can time banking potentially address issues of social isolation?",
+      "choices": [
+        "By replacing face-to-face interactions",
+        "By fostering community connections",
+        "By promoting online-only exchanges",
+        "By eliminating the need for social services"
+      ],
+      "answer": "By fostering community connections"
+    },
+    {
+      "question": "What is a key difference between time banking and traditional volunteering?",
+      "choices": [
+        "Time banking always involves money",
+        "Volunteering is more structured",
+        "Time banking emphasizes reciprocity",
+        "Volunteering has more legal protections"
+      ],
+      "answer": "Time banking emphasizes reciprocity"
+    },
+    {
+      "question": "How might a time bank system be adapted to accommodate people with disabilities?",
+      "choices": [
+        "By excluding them from participation",
+        "By assigning lower value to their time",
+        "By creating specialized exchanges",
+        "By focusing on their unique skills and contributions"
+      ],
+      "answer": "By focusing on their unique skills and contributions"
+    },
+    {
+      "question": "What role can technology play in expanding the reach of time banks?",
+      "choices": [
+        "By replacing human interactions",
+        "By automating all exchanges",
+        "By connecting members across wider geographic areas",
+        "By eliminating the need for local time banks"
+      ],
+      "answer": "By connecting members across wider geographic areas"
+    },
+    {
+      "question": "How might time banking interact with local currency initiatives?",
+      "choices": [
+        "They are mutually exclusive",
+        "Time credits can be converted to local currency",
+        "Local currency replaces time credits",
+        "They operate in completely separate spheres"
+      ],
+      "answer": "Time credits can be converted to local currency"
+    },
+    {
+      "question": "What is a potential challenge in scaling up time bank systems?",
+      "choices": [
+        "Increased community engagement",
+        "Too many available services",
+        "Maintaining personal connections",
+        "Reduced need for coordination"
+      ],
+      "answer": "Maintaining personal connections"
+    }
+  ]
+}

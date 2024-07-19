@@ -1,0 +1,305 @@
+{
+  "title": "Challenges and Criticisms of Time Banking",
+  "questions": [
+    {
+      "question": "What is one of the primary challenges facing time banking in terms of sustainability?",
+      "choices": [
+        "Securing consistent funding",
+        "Attracting too many members",
+        "Overabundance of skills",
+        "Government regulation"
+      ],
+      "answer": "Securing consistent funding"
+    },
+    {
+      "question": "Which of the following is NOT typically a source of funding for time banks?",
+      "choices": [
+        "Grants from foundations",
+        "Government agencies",
+        "Stock market investments",
+        "Membership fees"
+      ],
+      "answer": "Stock market investments"
+    },
+    {
+      "question": "What is a common issue in maintaining member engagement in time banks?",
+      "choices": [
+        "Initial enthusiasm followed by declining participation",
+        "Too much enthusiasm overwhelming the system",
+        "Members demanding monetary compensation",
+        "Excessive government interference"
+      ],
+      "answer": "Initial enthusiasm followed by declining participation"
+    },
+    {
+      "question": "Which of the following is a strategy for balancing supply and demand of skills in a time bank?",
+      "choices": [
+        "Skill-matching algorithms in time banking software",
+        "Limiting membership to specific professions",
+        "Requiring all members to offer the same services",
+        "Implementing a monetary fee for high-demand skills"
+      ],
+      "answer": "Skill-matching algorithms in time banking software"
+    },
+    {
+      "question": "What is a potential tax implication for time banking?",
+      "choices": [
+        "Time credits viewed as taxable income",
+        "Time banks required to pay corporate taxes",
+        "Members receiving tax deductions for participation",
+        "Time credits exempt from all taxation"
+      ],
+      "answer": "Time credits viewed as taxable income"
+    },
+    {
+      "question": "Which of the following is NOT a typical insurance or liability concern in time banking?",
+      "choices": [
+        "Accidents during service exchanges",
+        "Property damage",
+        "Professional liability for specialized services",
+        "Currency exchange rate fluctuations"
+      ],
+      "answer": "Currency exchange rate fluctuations"
+    },
+    {
+      "question": "What is a core tenet of time banking regarding the valuation of hours?",
+      "choices": [
+        "All hours are valued equally",
+        "Hours are valued based on market rates",
+        "Skilled labor is worth more hours",
+        "Hours are negotiated between members"
+      ],
+      "answer": "All hours are valued equally"
+    },
+    {
+      "question": "What is a potential conflict between time banking principles and market economy values?",
+      "choices": [
+        "Difficulty in assessing the 'true value' of services",
+        "Time banking generating too much profit",
+        "Market economy promoting equality",
+        "Time banking discouraging community engagement"
+      ],
+      "answer": "Difficulty in assessing the 'true value' of services"
+    },
+    {
+      "question": "Which of the following is a strategy for addressing the challenge of highly skilled vs. low-skilled contributions?",
+      "choices": [
+        "Focusing on the intrinsic value of all contributions to community well-being",
+        "Excluding low-skilled members from the time bank",
+        "Requiring all members to obtain professional certifications",
+        "Implementing a monetary fee for high-skill services"
+      ],
+      "answer": "Focusing on the intrinsic value of all contributions to community well-being"
+    },
+    {
+      "question": "What is an important consideration when adapting time banking to local cultural norms in Timor-Leste?",
+      "choices": [
+        "Traditional forms of reciprocity and community support",
+        "Westernization of economic practices",
+        "Elimination of all existing cultural practices",
+        "Mandatory participation for all community members"
+      ],
+      "answer": "Traditional forms of reciprocity and community support"
+    },
+    {
+      "question": "Which of the following is a potential source of resistance to time banking in a new community?",
+      "choices": [
+        "Concerns about exploitation or hidden agendas",
+        "Fear of earning too much income",
+        "Resistance to community engagement",
+        "Preference for complex economic systems"
+      ],
+      "answer": "Concerns about exploitation or hidden agendas"
+    },
+    {
+      "question": "What is a strategy for integrating time banking with existing community structures?",
+      "choices": [
+        "Collaborating with local NGOs, churches, and community groups",
+        "Replacing all existing community organizations",
+        "Ignoring local leadership structures",
+        "Implementing a top-down approach without community input"
+      ],
+      "answer": "Collaborating with local NGOs, churches, and community groups"
+    },
+    {
+      "question": "What is a criticism of time banking regarding its economic impact?",
+      "choices": [
+        "Limited scope compared to traditional economic systems",
+        "Causing rapid inflation in local economies",
+        "Eliminating the need for traditional currency",
+        "Overreliance on government funding"
+      ],
+      "answer": "Limited scope compared to traditional economic systems"
+    },
+    {
+      "question": "Which of the following is a concern about the potential reinforcement of social inequalities in time banking?",
+      "choices": [
+        "Favoring those with more free time or a wider range of skills",
+        "Exclusion of wealthy individuals",
+        "Overrepresentation of minority groups",
+        "Mandatory participation requirements"
+      ],
+      "answer": "Favoring those with more free time or a wider range of skills"
+    },
+    {
+      "question": "What is a challenge related to the scalability of time banking?",
+      "choices": [
+        "Effectiveness beyond small, localized communities",
+        "Too rapid growth overwhelming global economies",
+        "Difficulty in limiting membership numbers",
+        "Excessive profitability leading to corporate takeovers"
+      ],
+      "answer": "Effectiveness beyond small, localized communities"
+    },
+    {
+      "question": "Which of the following is a best practice for data protection in time banking?",
+      "choices": [
+        "Secure, encrypted databases",
+        "Publicly sharing all member information",
+        "Storing data on personal computers",
+        "Avoiding digital record-keeping entirely"
+      ],
+      "answer": "Secure, encrypted databases"
+    },
+    {
+      "question": "What is a potential challenge when introducing time banking in Timor-Leste?",
+      "choices": [
+        "Adapting to hierarchical structures in Timorese society",
+        "Overabundance of digital infrastructure",
+        "Lack of community spirit",
+        "Excessive government support"
+      ],
+      "answer": "Adapting to hierarchical structures in Timorese society"
+    },
+    {
+      "question": "Which of the following is NOT typically a role of local leaders in promoting time banking?",
+      "choices": [
+        "Setting exchange rates for time credits",
+        "Providing legitimacy to the initiative",
+        "Helping adapt the system to local customs",
+        "Encouraging community participation"
+      ],
+      "answer": "Setting exchange rates for time credits"
+    },
+    {
+      "question": "What is a potential benefit of time banking in preserving traditional knowledge?",
+      "choices": [
+        "Facilitating the sharing of traditional Timorese skills",
+        "Replacing traditional practices with modern alternatives",
+        "Documenting traditional knowledge in academic journals",
+        "Commercializing traditional practices for global markets"
+      ],
+      "answer": "Facilitating the sharing of traditional Timorese skills"
+    },
+    {
+      "question": "Which of the following is a strategy for addressing the challenge of seasonal fluctuations in service needs?",
+      "choices": [
+        "Encouraging members to learn and offer new skills",
+        "Shutting down the time bank during off-seasons",
+        "Implementing surge pricing for high-demand seasons",
+        "Restricting membership during peak seasons"
+      ],
+      "answer": "Encouraging members to learn and offer new skills"
+    },
+    {
+      "question": "What is a potential challenge in implementing digital time banking platforms in rural Timor-Leste?",
+      "choices": [
+        "Limited technological infrastructure",
+        "Excessive internet speeds",
+        "Too many competing digital platforms",
+        "High cost of smartphones"
+      ],
+      "answer": "Limited technological infrastructure"
+    },
+    {
+      "question": "Which of the following is NOT a typical method for maintaining member engagement in time banks?",
+      "choices": [
+        "Offering monetary bonuses for active participation",
+        "Regular community events and social gatherings",
+        "Recognition systems for active members",
+        "Continuous outreach and recruitment of new members"
+      ],
+      "answer": "Offering monetary bonuses for active participation"
+    },
+    {
+      "question": "What is a potential challenge in balancing equality and skill valuation in time banking?",
+      "choices": [
+        "Disincentivizing the offering of high-skill services",
+        "Overvaluing low-skill services",
+        "Encouraging specialization in a single skill",
+        "Mandating equal skill levels for all members"
+      ],
+      "answer": "Disincentivizing the offering of high-skill services"
+    },
+    {
+      "question": "Which of the following is a strategy for addressing legal challenges in time banking?",
+      "choices": [
+        "Advocacy for clear legal status of time banking exchanges",
+        "Ignoring all legal considerations",
+        "Operating exclusively in the informal economy",
+        "Requiring all members to be legal professionals"
+      ],
+      "answer": "Advocacy for clear legal status of time banking exchanges"
+    },
+    {
+      "question": "What is a potential challenge in integrating time banking with the formal economy in Timor-Leste?",
+      "choices": [
+        "Tension between time banking principles and market-based valuation",
+        "Immediate acceptance by all economic institutions",
+        "Replacement of the national currency",
+        "Automatic integration with international financial systems"
+      ],
+      "answer": "Tension between time banking principles and market-based valuation"
+    },
+    {
+      "question": "Which of the following is NOT a typical sustainability issue in time banking?",
+      "choices": [
+        "Excessive profitability",
+        "Maintaining member engagement",
+        "Balancing supply and demand of skills",
+        "Securing ongoing operational funding"
+      ],
+      "answer": "Excessive profitability"
+    },
+    {
+      "question": "What is a potential challenge in implementing time banking in a community primarily based on subsistence agriculture?",
+      "choices": [
+        "Integrating time banking with existing economic activities",
+        "Overabundance of diverse skill offerings",
+        "Excessive reliance on digital transactions",
+        "Rapid industrialization of the community"
+      ],
+      "answer": "Integrating time banking with existing economic activities"
+    },
+    {
+      "question": "Which of the following is a strategy for building trust in a new time banking initiative?",
+      "choices": [
+        "Starting with small-scale, visible projects to demonstrate benefits",
+        "Promising unrealistic economic outcomes",
+        "Excluding local leaders from the planning process",
+        "Implementing the system without community consultation"
+      ],
+      "answer": "Starting with small-scale, visible projects to demonstrate benefits"
+    },
+    {
+      "question": "What is a potential challenge in maintaining the principle of all hours being equal in a time bank?",
+      "choices": [
+        "Perceived unfairness in complex or demanding tasks",
+        "Simplification of service exchanges",
+        "Increased community equality",
+        "Reduction in administrative workload"
+      ],
+      "answer": "Perceived unfairness in complex or demanding tasks"
+    },
+    {
+      "question": "Which of the following is NOT a typical role within a time bank?",
+      "choices": [
+        "Financial investor",
+        "Coordinator",
+        "Member",
+        "Service provider"
+      ],
+      "answer": "Financial investor"
+    }
+  ]
+}

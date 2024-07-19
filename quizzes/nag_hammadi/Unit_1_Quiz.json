@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to the Nag Hammadi Library and Gnosticism",
+  "questions": [
+    {
+      "question": "When was the Nag Hammadi Library discovered?",
+      "choices": [
+        "1935",
+        "1945",
+        "1955",
+        "1965"
+      ],
+      "answer": "1945"
+    },
+    {
+      "question": "How many leather-bound papyrus codices were found in the Nag Hammadi Library?",
+      "choices": [
+        "7",
+        "10",
+        "13",
+        "16"
+      ],
+      "answer": "13"
+    },
+    {
+      "question": "What is the Greek word from which 'Gnosticism' is derived?",
+      "choices": [
+        "Gnosis",
+        "Sophia",
+        "Pleroma",
+        "Archon"
+      ],
+      "answer": "Gnosis"
+    },
+    {
+      "question": "What does 'gnosis' mean in the context of Gnosticism?",
+      "choices": [
+        "Faith",
+        "Belief",
+        "Knowledge",
+        "Wisdom"
+      ],
+      "answer": "Knowledge"
+    },
+    {
+      "question": "Which of the following best describes the Gnostic view of the material world?",
+      "choices": [
+        "Perfect and divine",
+        "Flawed and corrupt",
+        "Neutral and balanced",
+        "Illusory but necessary"
+      ],
+      "answer": "Flawed and corrupt"
+    },
+    {
+      "question": "In Gnostic thought, what is trapped within the human body?",
+      "choices": [
+        "Divine spark",
+        "Evil spirit",
+        "Animal soul",
+        "Cosmic energy"
+      ],
+      "answer": "Divine spark"
+    },
+    {
+      "question": "Who is responsible for creating the material world in many Gnostic cosmologies?",
+      "choices": [
+        "The true God",
+        "The Demiurge",
+        "Sophia",
+        "Christ"
+      ],
+      "answer": "The Demiurge"
+    },
+    {
+      "question": "Which of the following is NOT a key concept in Gnosticism?",
+      "choices": [
+        "Dualism",
+        "Gnosis",
+        "Reincarnation",
+        "Divine spark"
+      ],
+      "answer": "Reincarnation"
+    },
+    {
+      "question": "What is the Pleroma in Gnostic thought?",
+      "choices": [
+        "The material world",
+        "The realm of the Demiurge",
+        "The spiritual realm of perfection",
+        "The human soul"
+      ],
+      "answer": "The spiritual realm of perfection"
+    },
+    {
+      "question": "Which text from the Nag Hammadi Library is a collection of sayings attributed to Jesus?",
+      "choices": [
+        "The Gospel of Philip",
+        "The Gospel of Thomas",
+        "The Secret Book of John",
+        "The Thunder, Perfect Mind"
+      ],
+      "answer": "The Gospel of Thomas"
+    },
+    {
+      "question": "What role do Archons play in Gnostic cosmology?",
+      "choices": [
+        "They are saviors of humanity",
+        "They rule over the material world",
+        "They are messengers of the true God",
+        "They represent human virtues"
+      ],
+      "answer": "They rule over the material world"
+    },
+    {
+      "question": "In some Gnostic texts, who is the Demiurge identified with?",
+      "choices": [
+        "Jesus Christ",
+        "The Virgin Mary",
+        "The God of the Old Testament",
+        "The Holy Spirit"
+      ],
+      "answer": "The God of the Old Testament"
+    },
+    {
+      "question": "What is the ultimate goal for humans according to many Gnostic teachings?",
+      "choices": [
+        "To accumulate material wealth",
+        "To achieve political power",
+        "To return to the divine realm",
+        "To reincarnate indefinitely"
+      ],
+      "answer": "To return to the divine realm"
+    },
+    {
+      "question": "Which of the following best describes the Gnostic view of salvation?",
+      "choices": [
+        "Achieved through faith alone",
+        "Attained through good works",
+        "Granted by divine grace",
+        "Realized through direct knowledge of the divine"
+      ],
+      "answer": "Realized through direct knowledge of the divine"
+    },
+    {
+      "question": "What is the significance of the Nag Hammadi Library discovery?",
+      "choices": [
+        "It provided the oldest known copies of the New Testament",
+        "It revealed the largest collection of Gnostic texts ever found",
+        "It contained lost works of classical Greek philosophy",
+        "It included the personal diary of Jesus Christ"
+      ],
+      "answer": "It revealed the largest collection of Gnostic texts ever found"
+    },
+    {
+      "question": "In which century did Gnosticism primarily emerge?",
+      "choices": [
+        "1st century BCE",
+        "1st century CE",
+        "3rd century CE",
+        "5th century CE"
+      ],
+      "answer": "1st century CE"
+    },
+    {
+      "question": "Which philosophical tradition significantly influenced Gnosticism?",
+      "choices": [
+        "Aristotelianism",
+        "Stoicism",
+        "Platonism",
+        "Epicureanism"
+      ],
+      "answer": "Platonism"
+    },
+    {
+      "question": "What is the role of Sophia in many Gnostic myths?",
+      "choices": [
+        "The creator of the material world",
+        "The savior of humanity",
+        "A divine feminine figure associated with wisdom",
+        "The ruler of the Archons"
+      ],
+      "answer": "A divine feminine figure associated with wisdom"
+    },
+    {
+      "question": "How was Gnosticism generally viewed by mainstream Christianity?",
+      "choices": [
+        "As the true interpretation of Christ's teachings",
+        "As a valuable complementary tradition",
+        "As a heretical movement",
+        "As an irrelevant philosophical school"
+      ],
+      "answer": "As a heretical movement"
+    },
+    {
+      "question": "What happened to Gnosticism by the 4th century CE?",
+      "choices": [
+        "It became the dominant form of Christianity",
+        "It was largely suppressed",
+        "It merged with Judaism",
+        "It spread throughout the Roman Empire"
+      ],
+      "answer": "It was largely suppressed"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of the Demiurge in Gnostic thought?",
+      "choices": [
+        "Ignorant",
+        "Arrogant",
+        "Malevolent",
+        "Omniscient"
+      ],
+      "answer": "Omniscient"
+    },
+    {
+      "question": "What is the significance of the 'divine spark' in Gnostic anthropology?",
+      "choices": [
+        "It is the source of physical life",
+        "It connects humans to the material world",
+        "It is the essence of human personality",
+        "It is a fragment of the divine trapped in humans"
+      ],
+      "answer": "It is a fragment of the divine trapped in humans"
+    },
+    {
+      "question": "How do Gnostic texts often interpret traditional Jewish and Christian scriptures?",
+      "choices": [
+        "They accept them literally",
+        "They reject them entirely",
+        "They reinterpret them allegorically",
+        "They consider them historically accurate"
+      ],
+      "answer": "They reinterpret them allegorically"
+    },
+    {
+      "question": "What is the relationship between gnosis and faith in Gnostic thought?",
+      "choices": [
+        "They are considered identical",
+        "Gnosis is seen as superior to faith",
+        "Faith is seen as superior to gnosis",
+        "They are unrelated concepts"
+      ],
+      "answer": "Gnosis is seen as superior to faith"
+    },
+    {
+      "question": "Which of the following best describes the Gnostic view of human nature?",
+      "choices": [
+        "Humans are purely physical beings",
+        "Humans are inherently evil",
+        "Humans have a divine origin but are trapped in matter",
+        "Humans are perfect creations of the Demiurge"
+      ],
+      "answer": "Humans have a divine origin but are trapped in matter"
+    },
+    {
+      "question": "What role does self-knowledge play in Gnostic soteriology?",
+      "choices": [
+        "It is irrelevant to salvation",
+        "It is a hindrance to spiritual growth",
+        "It is essential for awakening to one's true nature",
+        "It is useful only for material success"
+      ],
+      "answer": "It is essential for awakening to one's true nature"
+    },
+    {
+      "question": "How has the discovery of the Nag Hammadi Library affected our understanding of early Christianity?",
+      "choices": [
+        "It confirmed traditional views of Christian origins",
+        "It revealed a more diverse religious landscape than previously understood",
+        "It proved that Gnosticism was the original form of Christianity",
+        "It showed that early Christianity was uniform in its beliefs"
+      ],
+      "answer": "It revealed a more diverse religious landscape than previously understood"
+    },
+    {
+      "question": "Which of the following is a common theme in Gnostic creation myths?",
+      "choices": [
+        "The material world as a perfect creation",
+        "Humans as the pinnacle of creation",
+        "A fall from divine unity",
+        "The absence of evil in the cosmos"
+      ],
+      "answer": "A fall from divine unity"
+    },
+    {
+      "question": "What is the significance of the number 52 in relation to the Nag Hammadi Library?",
+      "choices": [
+        "The number of years it took to translate the texts",
+        "The age of the discoverer",
+        "The number of texts contained in the codices",
+        "The number of scholars involved in the initial study"
+      ],
+      "answer": "The number of texts contained in the codices"
+    },
+    {
+      "question": "How do Gnostic teachings generally view the attainment of gnosis?",
+      "choices": [
+        "As something easily achieved by everyone",
+        "As reserved only for a spiritual elite",
+        "As unnecessary for spiritual growth",
+        "As attainable only after death"
+      ],
+      "answer": "As reserved only for a spiritual elite"
+    }
+  ]
+}

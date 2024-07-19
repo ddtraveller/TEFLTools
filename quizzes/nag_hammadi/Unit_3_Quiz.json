@@ -1,0 +1,305 @@
+{
+  "title": "Diversity of Gnostic Traditions",
+  "questions": [
+    {
+      "question": "Which Gnostic school placed great emphasis on Seth, the third son of Adam and Eve?",
+      "choices": [
+        "Valentinian Gnosticism",
+        "Sethian Gnosticism",
+        "Mandaeism",
+        "Manichaeism"
+      ],
+      "answer": "Sethian Gnosticism"
+    },
+    {
+      "question": "Who founded Valentinian Gnosticism?",
+      "choices": [
+        "Mani",
+        "John the Baptist",
+        "Valentinus",
+        "Seth"
+      ],
+      "answer": "Valentinus"
+    },
+    {
+      "question": "Which Gnostic tradition continues to exist to the present day?",
+      "choices": [
+        "Sethian Gnosticism",
+        "Valentinian Gnosticism",
+        "Mandaeism",
+        "Manichaeism"
+      ],
+      "answer": "Mandaeism"
+    },
+    {
+      "question": "In Gnostic thought, what is trapped within human beings?",
+      "choices": [
+        "A divine spark",
+        "Original sin",
+        "The demiurge",
+        "Sophia"
+      ],
+      "answer": "A divine spark"
+    },
+    {
+      "question": "What is the term for special knowledge or insight in Gnostic teachings?",
+      "choices": [
+        "Sophia",
+        "Gnosis",
+        "Pleroma",
+        "Aeon"
+      ],
+      "answer": "Gnosis"
+    },
+    {
+      "question": "Which Gnostic-influenced religion was founded by the Persian prophet Mani?",
+      "choices": [
+        "Mandaeism",
+        "Valentinianism",
+        "Sethianism",
+        "Manichaeism"
+      ],
+      "answer": "Manichaeism"
+    },
+    {
+      "question": "In Valentinian Gnosticism, what is the term for divine beings emanating from the supreme God?",
+      "choices": [
+        "Archons",
+        "Demiurges",
+        "Aeons",
+        "Pleromas"
+      ],
+      "answer": "Aeons"
+    },
+    {
+      "question": "Which figure is central to Mandaean beliefs?",
+      "choices": [
+        "Jesus Christ",
+        "John the Baptist",
+        "Mani",
+        "Valentinus"
+      ],
+      "answer": "John the Baptist"
+    },
+    {
+      "question": "What concept is crucial for understanding the diversity of Gnostic traditions?",
+      "choices": [
+        "Monotheism",
+        "Polytheism",
+        "Syncretism",
+        "Orthodoxy"
+      ],
+      "answer": "Syncretism"
+    },
+    {
+      "question": "Which discovery greatly expanded our understanding of Gnostic diversity?",
+      "choices": [
+        "The Dead Sea Scrolls",
+        "The Rosetta Stone",
+        "The Nag Hammadi library",
+        "The Oxyrhynchus Papyri"
+      ],
+      "answer": "The Nag Hammadi library"
+    },
+    {
+      "question": "In Gnostic cosmology, who is responsible for creating the material world?",
+      "choices": [
+        "The supreme God",
+        "The demiurge",
+        "Sophia",
+        "The Pleroma"
+      ],
+      "answer": "The demiurge"
+    },
+    {
+      "question": "Which Gnostic text is associated with Sethian Gnosticism?",
+      "choices": [
+        "The Gospel of Truth",
+        "The Apocryphon of John",
+        "The Ginza Rba",
+        "The Kephalaia"
+      ],
+      "answer": "The Apocryphon of John"
+    },
+    {
+      "question": "What is the term for the fullness of the divine realm in Gnostic cosmology?",
+      "choices": [
+        "Gnosis",
+        "Aeon",
+        "Pleroma",
+        "Archon"
+      ],
+      "answer": "Pleroma"
+    },
+    {
+      "question": "Which Gnostic tradition spread as far as China?",
+      "choices": [
+        "Sethianism",
+        "Valentinianism",
+        "Mandaeism",
+        "Manichaeism"
+      ],
+      "answer": "Manichaeism"
+    },
+    {
+      "question": "In Valentinian thought, whose actions led to the creation of the material world?",
+      "choices": [
+        "The demiurge",
+        "Sophia",
+        "Seth",
+        "Mani"
+      ],
+      "answer": "Sophia"
+    },
+    {
+      "question": "Which philosophical tradition influenced many Gnostic schools?",
+      "choices": [
+        "Aristotelianism",
+        "Stoicism",
+        "Platonism",
+        "Epicureanism"
+      ],
+      "answer": "Platonism"
+    },
+    {
+      "question": "What is the name of the Mandaean sacred text?",
+      "choices": [
+        "The Gospel of Thomas",
+        "The Apocryphon of John",
+        "The Ginza Rba",
+        "The Tripartite Tractate"
+      ],
+      "answer": "The Ginza Rba"
+    },
+    {
+      "question": "Which Gnostic school developed a more philosophically intricate system?",
+      "choices": [
+        "Sethian Gnosticism",
+        "Valentinian Gnosticism",
+        "Mandaeism",
+        "Manichaeism"
+      ],
+      "answer": "Valentinian Gnosticism"
+    },
+    {
+      "question": "What is the term for malevolent rulers of the material world in Gnostic texts?",
+      "choices": [
+        "Aeons",
+        "Archons",
+        "Pleromas",
+        "Demiurges"
+      ],
+      "answer": "Archons"
+    },
+    {
+      "question": "Which century saw the founding of Manichaeism?",
+      "choices": [
+        "1st century CE",
+        "2nd century CE",
+        "3rd century CE",
+        "4th century CE"
+      ],
+      "answer": "3rd century CE"
+    },
+    {
+      "question": "What is the primary means of salvation in most Gnostic traditions?",
+      "choices": [
+        "Faith",
+        "Good works",
+        "Gnosis",
+        "Baptism"
+      ],
+      "answer": "Gnosis"
+    },
+    {
+      "question": "Which Gnostic tradition rejects Jesus as a false prophet?",
+      "choices": [
+        "Sethianism",
+        "Valentinianism",
+        "Mandaeism",
+        "Manichaeism"
+      ],
+      "answer": "Mandaeism"
+    },
+    {
+      "question": "What is the term for divine wisdom, often personified as a female Aeon in Gnostic myths?",
+      "choices": [
+        "Gnosis",
+        "Sophia",
+        "Pleroma",
+        "Archon"
+      ],
+      "answer": "Sophia"
+    },
+    {
+      "question": "Which Gnostic text is associated with Valentinian Gnosticism?",
+      "choices": [
+        "The Gospel of Judas",
+        "The Gospel of Truth",
+        "The Secret Book of John",
+        "The Book of Enoch"
+      ],
+      "answer": "The Gospel of Truth"
+    },
+    {
+      "question": "What characterizes the Manichaean view of the universe?",
+      "choices": [
+        "Monotheism",
+        "Polytheism",
+        "Radical dualism",
+        "Pantheism"
+      ],
+      "answer": "Radical dualism"
+    },
+    {
+      "question": "In which century were the Nag Hammadi texts buried in Egypt?",
+      "choices": [
+        "2nd century CE",
+        "3rd century CE",
+        "4th century CE",
+        "5th century CE"
+      ],
+      "answer": "4th century CE"
+    },
+    {
+      "question": "What is a common Gnostic view of the material world?",
+      "choices": [
+        "It is inherently good",
+        "It is neutral",
+        "It is evil or flawed",
+        "It is an illusion"
+      ],
+      "answer": "It is evil or flawed"
+    },
+    {
+      "question": "Which religious traditions did Manichaeism combine?",
+      "choices": [
+        "Judaism, Islam, and Hinduism",
+        "Zoroastrianism, Buddhism, and Christianity",
+        "Greek mythology, Roman religion, and Egyptian cults",
+        "Confucianism, Taoism, and Shinto"
+      ],
+      "answer": "Zoroastrianism, Buddhism, and Christianity"
+    },
+    {
+      "question": "What is the relationship between Gnosticism and early Christianity?",
+      "choices": [
+        "They are completely unrelated",
+        "Gnosticism is universally accepted as orthodox Christianity",
+        "The relationship is complex and contentious",
+        "Gnosticism replaced early Christianity entirely"
+      ],
+      "answer": "The relationship is complex and contentious"
+    },
+    {
+      "question": "What practice is particularly important in Mandaeism?",
+      "choices": [
+        "Animal sacrifice",
+        "Frequent baptisms",
+        "Celibacy",
+        "Fire worship"
+      ],
+      "answer": "Frequent baptisms"
+    }
+  ]
+}

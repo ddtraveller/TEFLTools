@@ -64,8 +64,8 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 10. **Sustentavel Dezenvolvimentu Lokal no Arkitekultura / Sustainable Local Development and Architecture**
     - Based on renowned architect Ana Heringer's work Simply Local, learn about sustainable, local building practices.
 
-11. **Manuál Operasaun ba Rai Espasial / Operations Manual for Spaceship Earth**
-    - Based on the work of the same name by renowned architect and scientist, Buckminster Fuller, learn about global sustainability, resource management, and human potential.
+11. **Tempu Banku / Time Banking**
+    - This course explores time banking as an innovative approach to community development and alternative economics in the context of Timor-Leste. Students will learn about the historical and philosophical foundations of time banking, examine how time bank systems operate in practice, and analyze their potential impacts on individuals and communities. Through case studies, practical implementation guidance, and community engagement, students will gain a comprehensive understanding of time banking as a tool for social change and economic empowerment in Timor-Leste.
 
 12. **Ekonomia Dezenvolvimentu / Developmental Economics**
     - This course explores an experimental approach pioneered by Abhijit Banerjee and Esther Duflo to development economics, and its application to poverty alleviation. Students will learn about innovative research methods, key findings in education, health, behavioral economics, gender, politics, and credit, and how these insights can be applied to Timor-Leste's unique context.
@@ -99,8 +99,8 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 20. **Mikrobioma /The Microbiome**
     - This course explores the human microbiome and its impact on health, with a focus on applications in Timor-Leste. Students will learn about the diverse microbial communities inhabiting the human body, their roles in health and disease, and how environmental and cultural factors in Timor-Leste influence the microbiome. The course aims to provide a foundation for understanding microbiome research and its potential applications in improving public health in Timor-Leste.
 
-21. **Debate Lincoln-Douglas / Lincoln-Douglas Debate**
-    - This course introduces students in Timor-Leste to the fundamentals of Lincoln-Douglas debate, adapting the format to the local context. Students will develop critical thinking, public speaking, and argumentation skills while exploring ethical issues relevant to Timorese society. The course aims to empower students to engage in respectful dialogue, analyze complex topics, and articulate well-reasoned positions on matters of public importance.
+21. **Teknika Propagasaun Planta avansadu ba Timor Leste / Advanced Plant Propagation Techniques for Timor Leste**
+    - This course covers advanced techniques for propagating and improving plants native to Timor Leste, with a focus on grafting, cloning, and selective breeding. Students will learn both the scientific principles and practical applications of these methods for horticulture, agroforestry, and ecological restoration. The content spans from basic grafting procedures to complex propagation strategies, providing a comprehensive look at how these techniques are used to cultivate desired plant traits and optimize crop production in Timor Leste's unique climate and ecosystems.
 
 22. **Kafé no Genetika / Coffee Breeding and Genetics**
     - The program focuses on sustainable farming practices, disease management, post-harvest processing, and quality control tailored to the unique environmental and cultural context of Timor-Leste.
@@ -123,7 +123,7 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 28. **Miranda MacPherson**
     - This course aims to introduce participants in Timor-Leste to the practice of ego relaxation and the transformative power of grace. Drawing from Miranda Macpherson's teachings, the course will adapt concepts to the Timorese cultural context, integrating local spiritual traditions and addressing specific challenges faced by the community.
 
-29. **Chogyam Trungpa**
+29. **Sistema cooling pasivu no ho enerjia ki'ik ba edifísiu iha Timor Leste / Passive and Low-Energy Cooling Systems for Buildings in Timor Leste**
     - This course aims to introduce participants to spiritual development practices while respecting Timorese cultural traditions based on the teachings of Tibetan meditation master Chogyam Trungpa.
 
 30. **Intelligence emosionál / Emotional Intelligence**    
@@ -138,9 +138,13 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 33. **Violénsia iha Timor Leste / Violence in Timor Leste** 
     - This course examines the complex security challenges facing Timor-Leste in its post-conflict transition, with a focus on small arms control, armed group violence, and efforts to reform the security sector. Students will analyze the interplay between weapons proliferation, socioeconomic factors, and weak institutions in fueling ongoing instability. The course critically assesses government and civil society interventions aimed at reducing armed violence and building sustainable peace.
 
-34. **Livruak kona-ba Moris no Moris / The Tibetan Book of Living and Dying**
-    - This course explores the Tibetan Buddhist understanding of life, death, and what lies beyond, adapted for the cultural context of Timor Leste. It examines how confronting death can bring greater meaning to life, and provides practical and spiritual guidance for navigating the journey through living and dying. The course aims to present a comprehensive view that bridges traditional Buddhist insights with contemporary needs and perspectives on mortality in Timor Leste.
-
+34. **Salina Agrikultura ba Timor-Leste / Saline Agriculture for Timor-Leste**
+    - This course aims to introduce saline agriculture techniques and salt-tolerant crops to farmers and agricultural students in Timor-Leste. The goal is to expand agricultural production in coastal and saline-affected areas, improving food security and economic opportunities. By the end of this course, participants will be able to:
+    - Understand the principles of saline agriculture
+    - Identify salt-tolerant crops suitable for Timor-Leste's climate and conditions
+    - Apply techniques for managing saline soils and irrigation
+    - Develop plans for implementing saline agriculture projects in their communities
+    - 
 35. **Sinerjetiku / Synergetics**    
     - This course introduces students to Buckminster Fuller's comprehensive approach to global problem-solving, with a focus on applying these principles to challenges in Timor-Leste. Students will explore synergetics, design science, and systems thinking to develop innovative solutions for local and national issues. The course aims to foster critical thinking, creativity, and a holistic understanding of interconnected systems.
 
@@ -589,6 +593,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - mountain_agroforestry
 - Mushrooms
 - Myofascial Anatomy
+- Nag Hammadi
 - nei_gung
 - neuroscience_and_society_in_timoe_leste
 - offgrid_living
@@ -621,6 +626,7 @@ Projetu ida-ne'e dedikadu atu promove dezenvolvimentu sustentavel, prezerva kult
 - the_heart_of_prayer
 - the_microbiome
 - tibetan_book_of_living_and_dying
+- time banking
 - universal basic income
 - violence_in_timor_leste
 - weaving

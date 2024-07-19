@@ -1,0 +1,305 @@
+{
+  "title": "Implementation Strategies and Best Practices for Time Banking in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the first step in establishing a time bank in Timor-Leste?",
+      "choices": [
+        "Choosing time bank software",
+        "Identifying community needs and assets",
+        "Forming a steering committee",
+        "Developing outreach strategies"
+      ],
+      "answer": "Identifying community needs and assets"
+    },
+    {
+      "question": "Why is forming a diverse steering committee important for a time bank in Timor-Leste?",
+      "choices": [
+        "To ensure equal representation of all political parties",
+        "To comply with international regulations",
+        "To make the time bank inclusive and responsive to all community needs",
+        "To attract foreign investment"
+      ],
+      "answer": "To make the time bank inclusive and responsive to all community needs"
+    },
+    {
+      "question": "What is a key consideration when choosing time bank software for rural areas in Timor-Leste?",
+      "choices": [
+        "Advanced artificial intelligence capabilities",
+        "Compatibility with the latest smartphones",
+        "Offline functionality",
+        "Integration with social media platforms"
+      ],
+      "answer": "Offline functionality"
+    },
+    {
+      "question": "Which of the following is a culturally appropriate communication strategy for explaining time banking in Timor-Leste?",
+      "choices": [
+        "Formal academic lectures",
+        "Utilizing oral storytelling traditions",
+        "Distributing English-language pamphlets",
+        "Advertising on national television"
+      ],
+      "answer": "Utilizing oral storytelling traditions"
+    },
+    {
+      "question": "How can language barriers be addressed in implementing time banks in Timor-Leste?",
+      "choices": [
+        "Using only English for all communications",
+        "Developing materials in Tetum, Portuguese, and local languages",
+        "Requiring all participants to learn a common language",
+        "Limiting participation to bilingual individuals"
+      ],
+      "answer": "Developing materials in Tetum, Portuguese, and local languages"
+    },
+    {
+      "question": "What role do village elders play in adapting time banks to traditional social structures in Timor-Leste?",
+      "choices": [
+        "They are excluded to promote modern practices",
+        "They are involved in decision-making processes",
+        "They are only consulted for ceremonial purposes",
+        "They are required to manage all time bank operations"
+      ],
+      "answer": "They are involved in decision-making processes"
+    },
+    {
+      "question": "What is a potential solution for managing time bank records in areas with limited technological infrastructure?",
+      "choices": [
+        "Requiring all members to purchase computers",
+        "Using community bulletin boards or regular meetings",
+        "Outsourcing record-keeping to foreign companies",
+        "Abandoning record-keeping altogether"
+      ],
+      "answer": "Using community bulletin boards or regular meetings"
+    },
+    {
+      "question": "How can time banks in Timor-Leste ensure long-term sustainability?",
+      "choices": [
+        "By relying solely on foreign aid",
+        "By charging high membership fees",
+        "By integrating with existing community development initiatives",
+        "By limiting the number of participants"
+      ],
+      "answer": "By integrating with existing community development initiatives"
+    },
+    {
+      "question": "What is an effective outreach strategy for engaging rural farmers in time banking?",
+      "choices": [
+        "Sending emails",
+        "Advertising in urban newspapers",
+        "Integrating concepts with traditional labor-sharing practices",
+        "Hosting formal seminars in city centers"
+      ],
+      "answer": "Integrating concepts with traditional labor-sharing practices"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a key stakeholder for time banking in Timor-Leste?",
+      "choices": [
+        "Local NGOs",
+        "Religious institutions",
+        "Multinational corporations",
+        "Traditional leaders"
+      ],
+      "answer": "Multinational corporations"
+    },
+    {
+      "question": "What is the primary currency in a time bank system?",
+      "choices": [
+        "US Dollars",
+        "Timorese Centavo",
+        "Time",
+        "Goods"
+      ],
+      "answer": "Time"
+    },
+    {
+      "question": "How can time banks address the issue of limited internet access in rural Timor-Leste?",
+      "choices": [
+        "By requiring all members to have internet access",
+        "By implementing mobile-based or offline solutions",
+        "By restricting time banking to urban areas only",
+        "By using postal services for all communications"
+      ],
+      "answer": "By implementing mobile-based or offline solutions"
+    },
+    {
+      "question": "What is the role of a time bank coordinator in Timor-Leste?",
+      "choices": [
+        "To make all decisions unilaterally",
+        "To facilitate exchanges and maintain records",
+        "To provide financial backing for the time bank",
+        "To represent the time bank in national politics"
+      ],
+      "answer": "To facilitate exchanges and maintain records"
+    },
+    {
+      "question": "Which of the following is a potential benefit of time banking in Timor-Leste?",
+      "choices": [
+        "Increasing foreign investment",
+        "Replacing the national currency",
+        "Fostering community resilience and social cohesion",
+        "Eliminating the need for traditional employment"
+      ],
+      "answer": "Fostering community resilience and social cohesion"
+    },
+    {
+      "question": "How can time banks in Timor-Leste address the issue of unemployment?",
+      "choices": [
+        "By creating government jobs",
+        "By facilitating skill-sharing and service exchange",
+        "By encouraging emigration",
+        "By increasing imports"
+      ],
+      "answer": "By facilitating skill-sharing and service exchange"
+    },
+    {
+      "question": "What is an important consideration when developing a code of conduct for time bank members in Timor-Leste?",
+      "choices": [
+        "Enforcing strict hierarchies",
+        "Prioritizing monetary transactions",
+        "Respecting local cultural norms and values",
+        "Encouraging competition among members"
+      ],
+      "answer": "Respecting local cultural norms and values"
+    },
+    {
+      "question": "How can time banks in Timor-Leste promote inclusivity?",
+      "choices": [
+        "By focusing only on the most skilled individuals",
+        "By excluding certain age groups",
+        "By ensuring diverse representation in the steering committee",
+        "By implementing high membership fees"
+      ],
+      "answer": "By ensuring diverse representation in the steering committee"
+    },
+    {
+      "question": "What is a potential challenge in implementing time banks in post-conflict Timor-Leste?",
+      "choices": [
+        "Excessive foreign investment",
+        "Too much internet connectivity",
+        "Rebuilding trust and social cohesion",
+        "Overabundance of skilled labor"
+      ],
+      "answer": "Rebuilding trust and social cohesion"
+    },
+    {
+      "question": "How can time banks contribute to preserving traditional knowledge in Timor-Leste?",
+      "choices": [
+        "By discouraging the sharing of traditional skills",
+        "By facilitating exchanges of traditional knowledge and skills",
+        "By replacing traditional practices with modern ones",
+        "By documenting traditions in academic papers"
+      ],
+      "answer": "By facilitating exchanges of traditional knowledge and skills"
+    },
+    {
+      "question": "What is an effective way to introduce the concept of time banking to urban youth in Timor-Leste?",
+      "choices": [
+        "Through formal lectures at universities",
+        "By distributing printed newsletters",
+        "Using social media and mobile technology",
+        "Through radio advertisements"
+      ],
+      "answer": "Using social media and mobile technology"
+    },
+    {
+      "question": "How can time banks in Timor-Leste address the issue of social isolation?",
+      "choices": [
+        "By encouraging people to stay at home",
+        "Through promoting online-only interactions",
+        "By facilitating community engagement and service exchange",
+        "By discouraging group activities"
+      ],
+      "answer": "By facilitating community engagement and service exchange"
+    },
+    {
+      "question": "What is an important consideration when setting up operational procedures for a time bank in Timor-Leste?",
+      "choices": [
+        "Implementing complex bureaucratic processes",
+        "Copying procedures from Western countries without adaptation",
+        "Ensuring procedures are culturally appropriate and easy to understand",
+        "Prioritizing efficiency over cultural sensitivity"
+      ],
+      "answer": "Ensuring procedures are culturally appropriate and easy to understand"
+    },
+    {
+      "question": "How can time banks in Timor-Leste ensure transparency and accountability?",
+      "choices": [
+        "By keeping all records confidential",
+        "Through regular record-keeping and community updates",
+        "By involving only government officials in management",
+        "By avoiding any form of documentation"
+      ],
+      "answer": "Through regular record-keeping and community updates"
+    },
+    {
+      "question": "What is a potential risk of introducing time banking in Timor-Leste?",
+      "choices": [
+        "Overreliance on traditional currency",
+        "Disruption of existing informal economic practices",
+        "Increased government control over personal time",
+        "Rapid industrialization"
+      ],
+      "answer": "Disruption of existing informal economic practices"
+    },
+    {
+      "question": "How can time banks in Timor-Leste adapt to areas with limited smartphone penetration?",
+      "choices": [
+        "By requiring all members to purchase smartphones",
+        "Through utilizing SMS-based platforms",
+        "By restricting membership to smartphone owners",
+        "By abandoning technology altogether"
+      ],
+      "answer": "Through utilizing SMS-based platforms"
+    },
+    {
+      "question": "What is an effective strategy for building partnerships with local organizations in Timor-Leste?",
+      "choices": [
+        "Offering time banking as a replacement for their existing programs",
+        "Ignoring local organizations to maintain independence",
+        "Providing training and support for integrating time banking",
+        "Requiring local organizations to fund the time bank"
+      ],
+      "answer": "Providing training and support for integrating time banking"
+    },
+    {
+      "question": "How can time banks in Timor-Leste address potential power imbalances within communities?",
+      "choices": [
+        "By reinforcing existing hierarchies",
+        "Through promoting equal value of all time contributions",
+        "By excluding marginalized groups",
+        "Through monetizing all exchanges"
+      ],
+      "answer": "Through promoting equal value of all time contributions"
+    },
+    {
+      "question": "What is a key consideration when developing outreach materials for time banking in Timor-Leste?",
+      "choices": [
+        "Using complex academic language",
+        "Focusing solely on economic benefits",
+        "Incorporating visual aids and practical demonstrations",
+        "Avoiding any mention of traditional practices"
+      ],
+      "answer": "Incorporating visual aids and practical demonstrations"
+    },
+    {
+      "question": "How can time banks in Timor-Leste contribute to youth empowerment?",
+      "choices": [
+        "By excluding youth from participation",
+        "Through facilitating intergenerational skill exchanges",
+        "By focusing only on employment for older adults",
+        "Through discouraging youth leadership"
+      ],
+      "answer": "Through facilitating intergenerational skill exchanges"
+    },
+    {
+      "question": "What is an important factor in ensuring the sustainability of time banks in Timor-Leste?",
+      "choices": [
+        "Relying solely on external funding",
+        "Limiting the number of exchanges",
+        "Fostering community ownership and engagement",
+        "Centralizing all decision-making"
+      ],
+      "answer": "Fostering community ownership and engagement"
+    }
+  ]
+}
