@@ -25,6 +25,19 @@ For practical application:
 
 <img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
 
+## Translation from Tetum to English and Vice Versa
+A simplistic translation service in html and javascript;
+
+https://content.go-tl.com/translate.html
+
+https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate.html
+
+The code uses this dictionary which is easily updateable. 
+https://github.com/ddtraveller/TEFLTools/blob/main/scripts/dictionary.js
+
+This is a python implementation that runs locally;
+https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate_to_Tetum.py
+
 ## Kursu Prinsipal sira / Key Courses
 
 Repo ida-ne'e iha kursu individuál 100 resin no arkivu 5000+ ho informasaun kursu ne'ebé rejionalizadu ba Timor Leste ho fokus ba empoderamentu feto. / 
