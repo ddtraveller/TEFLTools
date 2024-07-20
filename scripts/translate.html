@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English-Tetum Translator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        textarea {
+            width: 100%;
+            height: 150px;
+            margin-bottom: 10px;
+        }
+        #output {
+            width: 100%;
+            height: 150px;
+            border: 1px solid #ccc;
+            padding: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>English-Tetum Translator</h1>
+    <textarea id="input" placeholder="Enter text to translate"></textarea>
+    <div>
+        <input type="radio" id="engToTetum" name="direction" value="engToTetum" checked>
+        <label for="engToTetum">English to Tetum</label>
+        <input type="radio" id="tetumToEng" name="direction" value="tetumToEng">
+        <label for="tetumToEng">Tetum to English</label>
+    </div>
+    <button onclick="translateText()">Translate</button>
+    <div id="output"></div>
+
+    <script src="https://tl-web.s3.us-west-2.amazonaws.com/dictionary.js"></script>
+    <script>
+        let tetumToEnglish = {};
+
+        function initializeDictionary() {
+            if (typeof english_to_tetum !== 'undefined') {
+                tetumToEnglish = Object.fromEntries(
+                    Object.entries(english_to_tetum).map(([key, value]) => [value, key])
+                );
+            } else {
+                console.error("Dictionary not loaded properly");
+            }
+        }
+
+        function translateText() {
+            const inputText = document.getElementById('input').value;
+            const direction = document.querySelector('input[name="direction"]:checked').value;
+            const outputDiv = document.getElementById('output');
+            
+            let translatedText;
+            if (direction === 'engToTetum') {
+                translatedText = translateWords(inputText, english_to_tetum);
+            } else {
+                translatedText = translateWords(inputText, tetumToEnglish);
+            }
+            
+            outputDiv.textContent = translatedText;
+        }
+
+        function translateWords(text, dictionary) {
+            const words = text.split(/\s+/);
+            return words.map(word => {
+                const lowerWord = word.toLowerCase();
+                const punctuation = word.match(/[.,!?;]$/);
+                const cleanWord = lowerWord.replace(/[.,!?;]$/, '');
+                
+                let translated = dictionary[cleanWord] || word;
+                
+                if (word[0] === word[0].toUpperCase()) {
+                    translated = translated.charAt(0).toUpperCase() + translated.slice(1);
+                }
+                
+                return translated + (punctuation ? punctuation[0] : '');
+            }).join(' ');
+        }
+
+        // Initialize the dictionary when the page loads
+        window.onload = initializeDictionary;
+    </script>
+</body>
+</html>
