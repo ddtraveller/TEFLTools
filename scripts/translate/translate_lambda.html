@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English-Tetum Translator</title>
+    <style>
+        /* Your existing styles here */
+    </style>
+</head>
+<body>
+    <h1>English-Tetum Translator</h1>
+    <textarea id="input" placeholder="Enter text to translate"></textarea>
+    <div>
+        <input type="radio" id="engToTetum" name="direction" value="engToTetum" checked>
+        <label for="engToTetum">English to Tetum</label>
+        <input type="radio" id="tetumToEng" name="direction" value="tetumToEng">
+        <label for="tetumToEng">Tetum to English</label>
+    </div>
+    <button onclick="translateText()">Translate</button>
+    <div id="output"></div>
+
+    <script>
+        const API_URL = 'https://5b300m39nh.execute-api.us-west-2.amazonaws.com/prod/translate';
+
+        async function translateText() {
+            const inputText = document.getElementById('input').value;
+            const direction = document.querySelector('input[name="direction"]:checked').value;
+            const outputDiv = document.getElementById('output');
+            
+            outputDiv.textContent = 'Translating...';
+            
+            try {
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    credentials: 'include', // Add this line
+                    body: JSON.stringify({
+                        text: inputText,
+                        direction: direction
+                    }),
+                });
+
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+
+                const data = await response.json();
+                outputDiv.textContent = data.translatedText || 'No translation available';
+            } catch (error) {
+                console.error('Error:', error);
+                outputDiv.textContent = 'An error occurred during translation.';
+            }
+        }
+    </script>
+</body>
+</html>
