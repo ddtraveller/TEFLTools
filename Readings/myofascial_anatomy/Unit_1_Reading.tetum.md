@@ -1,0 +1,15 @@
+Introdusaun ba Fascia no Kontinuidade Myofascial
+
+Fascia nudar komponente notável maibé dala barak la hetan atensaun iha anatomia umana. Tissue koneksaun ida ne'e forma rede kompleksu iha korpu tomak, envolve muskulu, órgaun, tulang, no nervu. Laiha hanesan pakete estátiku deit, fascia desempeña papel importante iha estrutura korpu, funsaun, no movimentu. Komprensaun ba fascia no konseitu kontinuidade myofascial fornese komprensaun valiozu kona-ba oinsa korpu umanu funsiona hanesan sistema konektadu.
+
+Iha nia nivel báziku, fascia mak tissue koneksaun ida ne'ebé kompostu hosi fibra kolagén prinsipalmente. Nia forma folha no banda sira ne'ebé envolve no separa estrutura anatómika sira. Mas fascia la hanesan koleksaun husi invólucro sira. Tuir mai, nia forma matriz kontinua ida ne'ebé iha dimensaun tolu ne'ebé estende husi ulu to'o ain-kutun la ho interupsaun. Kontinuidade ida ne'e permite fascia atu transmite forsa sira no komunika informasaun mekánika iha korpu tomak.
+
+Termu "myofascia" refere ba kombinasaun husi tissue muskular no nia fascia envolvente. Komponente rua ne'e konektadu maka'as no funsiona hamutuk hanesan unidade ida. Fascia fornese suportu estrutural ba fibra muskular sira no ajuda atu transmite forsa sira ne'ebé geradu husi kontrasaun muskular. Relasaun ida ne'e entre muskulu no fascia importante tebes atu komprende oinsa movimentu no postura koordenadu iha korpu tomak.
+
+Konseitu ida husi importante liu relasiona ho fascia mak kontinuidade myofascial. Prinsípiu ida ne'e hateten katak muskulu sira no fascia forma korrente sira ne'ebé konektadu naruk ka "anatomy trains" ne'ebé kobre artikulasaun sira no segmentu korpu nian. Forsa sira no tensaun ne'ebé geradu iha área ida bele transmite liu husi meridian myofascial sira ne'e atu influensia parte distante husi korpu. Por ezemplu, tensaun iha fascia plantar husi ain bele influensia pozisaun husi pelvik ka até peskoso liu husi koneksaun fascial.
+
+Ideia kontinuidade myofascial desafia hanoin anatómika tradisionál kona-ba muskulu hanesan estrutura individuál ho orijen no insersaun espesífiku. Iha kontráriu, nia aprezenta sistema muskuloskeletál hanesan rede tensaun konektadu. Rede ida ne'e bele komprende liu husi konseitu tensegridade, prinsípiu estrutural ne'ebé komponente sira balansa forsa sira husi tensaun no kompresoin. Iha korpu umanu, tulang sira atua hanesan elementu kompresoin no tissue myofascial fornese suportu tensaun.
+
+Komprensaun ba fascia no kontinuidade myofascial iha implikasaun importante ba kampu hanesan terapia fízika, massajen, no prátika movimentu. Nia esplika oinsa restriksaun ka aderénsia iha área ida husi fascia bele kria padraun kompensatóriu iha fatin seluk iha korpu. Terapeuta manual sira bele uza koñesimentu ida ne'e atu rastreia fonte husi moras ka disfunsaun ba nia orijen verdadeiru, ne'ebé bele distante liu husi área ne'ebé simptomátiku.
+
+Fascia mós desem

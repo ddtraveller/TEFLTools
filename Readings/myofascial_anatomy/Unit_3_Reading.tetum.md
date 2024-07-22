@@ -1,0 +1,15 @@
+Textu Ingles nian: 'The Superficial Front Line and Lateral Line: Myofascial Meridians in Human Movement
+
+Korpu umano mak sistema kompleksu hosi parte interligadas ne'ebé servisu hamutuk atu prodús movimentu no mantein postura. Enquanto anatomia tradisional menus hanesan fo atensaun ba muskulu no tulang individu, konseitu myofascial meridians nian oferese hanoin holistiku liu kona-ba oinsá korpu funsiona. Meridian myofascial rua ne'ebé importante tebes ba movimentu umano no estabilidade mak Superficial Front Line no Lateral Line.
+
+Superficial Front Line (SFL) mak kadeia kontinua hosi muskulu no fascia ne'ebé hahu hosi ema nia ponta ain to'o osu frontal hosi ema nia ulun. Kadeia ida ne'e inklui grupu muskulu sira ne'ebé boot, hahu hosi extensores ponta ain iha ain, kontinua to'o tibialis anterior iha perna, quadriceps iha koxa, rectus abdominis iha abdomen, no ikus liu sternocleidomastoid iha kakorok. SFL iha funsaun importante sira iha korpu, liuliu relasiona ho postura no movimentu iha planu sagital.
+
+Papel prinsipal ida hosi SFL mak mantein postura vertikal liuhosi kontra forsa gravidade. Ha'u uza, nia ajuda atu hodi nia ponta ain, extende joellu, no flex tronku no kakorok. Aksaun ida ne'e importante tebes iha atividade sira hanesan la'o no kore, ne'ebé SFL servisu hodi kontrola momentum ba oin hosi korpu no prevene hosi monu. Iha postura tuir, tensaun balanse iha SFL ajuda hodi mantein korpu nia alinhamentu hasoru forsa hikas hosi Superficial Back Line.
+
+Lateral Line (LL), iha kontraste, hahu hosi aspetu lateral ponta ain to'o ulun. Meridian myofascial ida ne'e inklui muskulu peroneal iha perna ki'ik, banda iliotibial no tensor fasciae latae iha koxa, muskulu obliku hosi tronku, muskulu intercostal entre costela sira, no splenius capitis iha kakorok. LL iha papel importante tebes iha balanse korpu hosi oin ba kotuk no hosi sorin ba sorin.
+
+Fungsaun prinsipal hosi Lateral Line mak kria no kontrola flexaun lateral hosi korpu, no mós atu media forsa entre linha oin no kotuk. Bila parte ida hosi LL kontrai, nia prodús flexaun lateral hosi tronku. Aksaun ida ne'e esensial iha atividade sira ne'ebé presiza movimentu lateral, hanesan sidestepping ka esquiva iha desportu. Alende ne'e, LL ajuda hodi stabiliza korpu durante postura ho ain ida, ne'ebé mak komponente krítiku hosi la'o no movimentu atletismo barak.
+
+Hahú hosi komprende meridian myofascial sira bele fornese ideia valiozu kona-ba movimentu umano no postura. Por ezemplu, iha dança tradisional Timor, movimentu fluidu husi tronku ba sorin uza Lateral Line, kria undulasaun elegante ne'ebé karakteristiku hosi forma dança barak iha Asia Sudeste. Hanesan, iha arte marsial, mudansa lateral lais no postura estável depende tebes ba Lateral Line ne'ebé koordenadu di'ak.
+
+Konseitu hosi kontinuidade myofascial, ne'ebé sentral ba komprende linha sira, sujere katak forsa no tensaun bele transmite liuhosi kadeia kontinua hosi ruin sira. Ne'e iha implikasaun importante ba efisiénsia movimentu no padraun lezadu s

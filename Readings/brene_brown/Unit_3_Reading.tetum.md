@@ -1,0 +1,15 @@
+Texto Inglés Original: 'Embracing Vulnerability in Timor-Leste: A Path to Resilience and Connection
+
+Texto Tetum refinado: 'Simu Fraku iha Timor-Leste: Dalan ba Resiliénsia no Ligasaun
+
+Hafoin istoria tumultuosa ne'ebé marka husi kolonializmu, okupasaun, no luta ba independénsia, Timor-Leste hasoru desafiu atu hadi'a la'os de'it infrastrutura, maibé mós estrutura emosionál no sosial husi sosiedade nian. Sentrál iha prosesu ida ne'e maka konseitu simu fraku, instrumentu ida ne'ebé forte atu kria resiliénsia, autentisidade, no ligasaun umanu ne'ebé boot liu. Wainhira iha tradisaun hanesan frakeza, fraku agora sai hanesan forsa ne'ebé bele kondus ba dezenvolvimentu pesoál no kurasaun sosiedade nian.
+
+Paisajen kulturál Timor-Leste nian fó kontestu úniku atu estuda fraku. Valór tradisionál Timor nian hamosu stoikismu no kontrolo emosionál, liuliu iha tempu difikuldade. Norma kulturál ida ne'e, kombina ho trauma kolektivu ne'ebé hetan husi tinan-tinan konflitu, kria sosiedade ida ne'ebé iha ne'ebá abertura no espresaun emosionál bele haree hanesan risku ka la apropriadu. Maibé, bainhira nasaun kontinua atu dezenvolve no envolve ho ideia globál, aumenta ona rekoñesimentu ba importánsia honestidade emosionál no korajen atu haree.
+
+Fraku iha Timor-Leste tenke komprende iha estrutura istoria resente nian. Okupasaun Indonézia, ne'ebé dura husi 1975 to'o 1999, hatama ferida boot ba psiké Timor nian. Durante tempu ida ne'e, konfiansa dala ruma sai hanesan ameasa, no hatudu frakeza bele iha konsekuénsia grave. Kontestu istóriku ida ne'e kria jerasaun Timor nian ne'ebé luta ho konseitu fraku hanesan forsa pozitivu. Maibé, dalan atu simu fraku bele ajuda atu kura ferida husi pasadu no harii futuru ne'ebé resiliénte liu.
+
+Aspetu xave ida husi simu fraku iha Timor-Leste maka identifika no lori asuntu vergonha ne'ebé espesífiku ba kultura Timor nian. Sira-ne'e bele inklui asuntu sira kona-ba ónra família, susesu edukativu, ka aderénsia ba papel jéneru tradisionál. Liu husi rekoñese asuntu sira, ema bele hahuu atu dezenvolve téknika resiliénsia vergonha ne'ebé apropriadu ba kultura no efetivu. Ezemplu ida, feto joven Timor ne'ebé sente vergonha tanba hakarak hala'o edukasaun avansadu kontra de'it nia família nia hakarak, bele prátika autu-kompaixaun liu husi lembra nia rasik kona-ba valór edukasaun ba futuru komunidade nian.
+
+Prátika autu-kompaixaun importante tebes iha servisu fraku iha Timor-Leste. Iha sosiedade ne'ebé dala barak prioriza nesesidade kolektivu liu husi bem-estar individu, aprende atu hatudu bondade ba nia rasik bele transforma. Ne'e bele envolve dezenvolve mantra pesoál iha Tetum ka lian lokal sira ne'ebé afirmativa ba folin inherentemente ida nian, independentemente husi situasaun esternu ka falhansu ne'ebé sente.
+
+Aspetu importante seluk husi simu fraku iha Timor-L

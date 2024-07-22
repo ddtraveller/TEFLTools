@@ -1,0 +1,15 @@
+'Linha Espiral no Linha Liman: Ligasaun Myofascial iha Movimentu Umanu
+
+Korpun umanu mak sistema kompleksu husi teksidu ne'ebé konekta malu hodi prodús movimentu no mantein postura. Entre ligasaun sira-ne'e mak meridians myofascial, ka linha forsa ne'ebé pasa liu hosi fascia korpun, ne'ebé transmite forsa no koordena movimentu liu hosi segmentu barak. Sistema myofascial rua ne'ebé importante tebes iha movimentu umanu no funsionamentu mak Linha Espiral no Linha Liman.
+
+Linha Espiral mak dalan myofascial helikal ne'ebé enrola tama korpun, liga ulun ba ain iha padraun cruz. Linha ida-ne'e responsável liu ba kria no kontrola movimentu rotasaun korpun, no mós fornese apoiu postura no balansu. Linha Espiral hahu hosi parte kilid ulun, kaer kotuk to'o aban kontráriu, enrola tama korpun, kontinua ba oin leet, enrola hosi ain kraik to'o ponta ain. Ligasaun fascial kontínuu ida-ne'e permite transferénsia forsa no movimentu hosi parte ida korpun ba parte seluk iha padraun espiral.
+
+Importánsia Linha Espiral evidente iha atividade loron-loron no desportu sira ne'ebé involve rotasaun. Ezemplu, bainhira atu tau bola, Linha Espiral fasilidade transferénsia forsa hosi ain liu hosi tronku to'o liman ne'ebé tau bola. Iha atividade hanesan arte marsiais ka dansa, Linha Espiral permíte movimentu rotasaun korpun tomak ne'ebé suave no koordenadu. Bainhira la'o de'it mós, Linha Espiral kontribui ba kontra-rotasaun naturál ombro ho anka, ne'ebé promove locomosaun efisiente no balansu.
+
+Komplementa Linha Espiral mak Linha Liman, ne'ebé konsiste husi kontinuidade myofascial haat hosi tronku ba liman-fuan. Linha sira-ne'e klasifika hanesan Linha Liman Oin Superfisial, Linha Liman Oin Profundu, Linha Liman Kotuk Superfisial, no Linha Liman Kotuk Profundu. Kada linha iha funsaun espesífiku iha funsionamentu liman no manu, servisu hamutuk hodi fornese movimentu ne'ebé diversu no estabilidade.
+
+Linha Liman Oin Superfisial hahu hosi múskulu pectoralis major to'o liman-fuan, fasilidade asaun hanesan abraça no tarik. Linha Liman Oin Profundu liga tulang rusuk no pectoralis minor ba liman laran no manu-nain, ajuda iha movimentu presizu no estabilizasaun liman. Linha Liman Kotuk Superfisial hahu hosi múskulu trapezius no deltoid ba liman kotuk to'o liman-kotuk, permíte movimentu to'o no extende. Iha final, Linha Liman Kotuk Profundu hahu hosi prosesu spinous hosi vertebrae ba liman kotuk to'o liman-ki'ik, fornese estabilidade no apoiu ba movimentu liman.
+
+Linha Liman la funsiona hanesan isoladu maibé integra ho meridians myofascial seluk iha korpun. Sira konekta ba tronku liu hosi ligasaun sira, permite transferénsia forsa entre liman no korpu tomak. Integrasaun ida-ne'e importante ba atividade sira ne'ebé presiza movimentu koordenadu entre liman no tronku, hanesan tahan, nada, ka karga kargu.
+
+Entende Linha Espiral no Linha Liman bele fornese perspektiva valiozu kona-ba padraun movimentu umanu no fonte potensial ba

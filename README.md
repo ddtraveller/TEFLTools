@@ -2,6 +2,8 @@
 
 Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
+Bem-vindo ba sentru ida ne'ebé kompleto ho rekursu sira ne'ebé dezignadu hodi suporta voluntariu sira husi Peace Corps no komunidade viva sira husi Timor-Leste. Koleksaun material sira ne'e nia objetivu mak atu promove dezenvolvimentu sustentavel, interkambiu kultural, no aprendizajen mútua entre voluntariu sira no ema Timor oan sira
+
 ## Média / Media
 
 <img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
@@ -10,6 +12,17 @@ Bele hetan média apoiu ba kursu sira iha ne'e/Support media for the courses can
 https://tefl.go-tl.com/
 
 ## Matadalan ba navigasaun / Navigation Guide
+Hodi aproveita rekursu sira-ne'e ho didiak liu: 
+
+1. Hahu ho syllabus iha pasta **syllabus/** atu komprende objetivu husi kursu. 
+2. 2. Peskiza leitura sira ne'ebé relasiona iha pasta **Readings/** ba koñesimentu ne'ebé aprofunda liu. 
+3. 3. Tuir planu aula ne'ebé estrutura ona iha pasta **lesson_plans/**. 
+4. 4. Partisipa iha atividade pratika sira husi pasta **activities/** no avalia komprensaun liu husi teste sira iha pasta **quizzes/**. 
+
+Ba aplikasaun prátika: 
+- Uza ferramenta sira no demonstrasaun iha pasta **scripts/**. 
+- Hetan esperiénsia aprendizajen interativu iha pasta **games/**. 
+- Deskobre preparasaun tradisionál no medisina iha sekasaun **recipes/**.
 
 To make the most of these resources:
 
