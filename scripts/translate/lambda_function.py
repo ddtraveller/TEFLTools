@@ -23,26 +23,43 @@ HTML_TEMPLATE = s3.get_object(Bucket=S3_BUCKET, Key=TEMPLATE_KEY)['Body'].read()
 
 openai.api_key = os.environ['OPENAI_API_KEY']
 
-def clean_up_translation(text, direction):
-    if not text:
-        return "No text provided for refinement."
+def clean_up_translation(original_text, dictionary_translation, direction):
+    if not original_text:
+        return "No text provided for translation."
 
     if direction == 'engToTetum':
-        prompt = f"As a linguist specializing in Tetum, please refine this Tetum translation if necessary, improving its grammar, punctuation, and capitalization while maintaining its original meaning. If the translation is already correct, please state that no changes are needed. Here's the text: {text}"
+        prompt = f"""
+You are a Tetum language expert. 
+Original English text: '{original_text}'
+Initial dictionary-based translation to Tetum: '{dictionary_translation}'
+Please refine and complete this translation from English to Tetum. 
+Use the dictionary translation as a starting point, but improve upon it 
+where necessary for grammar, style, and accuracy. Translate any untranslated 
+parts from the original text. Tetum is realted to Portuguese so use Portuguese for any idioms or words you don't know.
+"""
     else:  # tetumToEng
-        prompt = f"As a linguist specializing in English, please refine this English translation if necessary, improving its grammar, punctuation, and capitalization while maintaining its original meaning. If the translation is already correct, please state that no changes are needed. Here's the text: {text}"
+        prompt = f"""
+You are an English language expert. 
+Original Tetum text: '{original_text}'
+Initial dictionary-based translation to English: '{dictionary_translation}'
+Please refine and complete this translation from Tetum to English. 
+Use the dictionary translation as a starting point, but improve upon it 
+where necessary for grammar, style, and accuracy. Translate any untranslated 
+parts from the original text. 
+Tetum is realted to Portuguese so use Portuguese as a reference for any idioms or words you don't know.
+"""
     
     response = openai.ChatCompletion.create(
         model="gpt-4",
         messages=[
-            {"role": "system", "content": "You are a skilled linguist with expertise in both English and Tetum languages. Your task is to refine the provided text while maintaining its original meaning. If the text is already correct, state that no changes are needed."},
+            {"role": "system", "content": "You are an expert translator between English and Tetum. Always attempt to complete and refine the translation, even if you're unsure about some parts. If you're not certain about specific terms, provide your best guess and indicate any uncertainties."},
             {"role": "user", "content": prompt}
         ],
         max_tokens=1024,
         temperature=0.7,
     )
     return response.choices[0].message['content'].strip()
-
+    
 def translate_words(text, dictionary):
     words = re.findall(r'\b\w+\b|[.,!?;]', text.lower())
     translated_words = [dictionary.get(word, word) for word in words]
@@ -121,23 +138,32 @@ def lambda_handler(event, context):
             else:
                 return {'statusCode': 400, 'body': json.dumps(error_response)}
 
+        # Check word count
+        word_count = len(text.split())
+        if word_count > 400:
+            error_response = 'Text exceeds 400 word limit. Please shorten your text and try again.'
+            if is_cloudfront:
+                return {
+                    'status': '400',
+                    'headers': {'content-type': [{'key': 'Content-Type', 'value': 'text/plain'}]},
+                    'body': error_response
+                }
+            else:
+                return {'statusCode': 400, 'body': json.dumps(error_response)}
+
         # Perform word-by-word translation
         if direction == 'engToTetum':
             initial_translation = translate_words(text, english_to_tetum)
         else:  # tetumToEng
             initial_translation = translate_words(text, tetum_to_english)
 
-        logger.info(f"Initial translation: '{initial_translation}'")
+        logger.info(f"Initial dictionary translation: '{initial_translation}'")
 
         # Refine the translation
-        refined_translation = clean_up_translation(initial_translation, direction)
+        refined_translation = clean_up_translation(text, initial_translation, direction)
         logger.info(f"Refined translation: '{refined_translation}'")
 
-        # Check if the refinement suggests no changes
-        if "no changes are needed" in refined_translation.lower():
-            final_translation = initial_translation
-        else:
-            final_translation = refined_translation
+        final_translation = refined_translation
 
         html = HTML_TEMPLATE.replace('PLACEHOLDER_TEXT', text).replace('PLACEHOLDER_TRANSLATION', final_translation)
         html = html.replace('PLACEHOLDER_ENG_CHECKED', 'checked' if direction == 'engToTetum' else '')

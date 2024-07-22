@@ -26,7 +26,13 @@ For practical application:
 <img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
 
 ## Translation from Tetum to English and Vice Versa
-A simplistic translation service in html and javascript;
+
+An aws lambda/python service that uses an llm to augment a dictionary based translation system;
+https://go-tl.com/translate
+
+https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate/lambda_function.py
+
+A simplistic translation service in html and javascript that uses the same dictionary;
 
 https://content.go-tl.com/translate.html
 
