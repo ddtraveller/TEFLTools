@@ -467,6 +467,7 @@ In scripts/Timor_Today is an html file for a fake news website. It might be fun 
 - Explore local resources: [Dili Institute of Technology](http://www.tetundit.tl/publications.html)
 - Join our community: [Discord, Tetun Learners!](https://discord.gg/DaBJG2Gn)
 - YouTube channel: [Tecknologi Populer](https://www.youtube.com/@TeknologiPopuler)
+- Timor Leste Blog: [Andy Kline](https://andykline.substack.com/?r=f5pev&utm_campaign=subscribe-page-share-screen&utm_medium=web)
 
 ## Project Commitment
 
