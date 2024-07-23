@@ -1,0 +1,13 @@
+"Kritika Sosiál no Reforma iha Servisu Lalleshwari
+
+Lalleshwari, mós konhecida hanesan Lal Ded ka Lalla, hanesan poeta mistiku Kashmiri sékulu 14 nian ne'ebé nia servisu kontinua hakmatek ho leitor sira ohin loron. Nia versu, ne'ebé ema hatene hanesan vakhs, la'ós de'it espresa vizão profunda espiritual maibé mós oferese kritika kruel kona-ba desigualdade sosiál no ortodoksia relijioza iha nia tempu. Iha dokumentu ida ne'e, ami explora kometáriu sosiál ne'ebé inklui iha poezia Lalleshwari nian no ezamina oinsa nia ideia kontribui ba reforma sosiál iha Kashmir médieval.
+
+Nia moris iha família Brahmin iha Kashmir, Lalleshwari moris iha períodu ida ho mudansa sosiál no relijioza boot. Sistema kasta ne'ebé ríjidu, diskriminasaun jéneru, no ortodoksia relijioza tebes iha sosiedade Kashmiri. Maibé, pozisaun úniku Lalleshwari hanesan feto edukada no peskizador espiritual permite nia atu kontra norma sosiedade liu husi nia poezia.
+
+Tema ida ne'ebé sai proeminente iha servisu Lalleshwari nian mak kritika kona-ba sistema kasta. Iha balu husi nia vakhs, nia kondena divizaun artifisiál ne'ebé kria husi kasta no enfatiza igualdade fundamentál husi hotu ema. Ezemplu, iha ida husi nia versu famozu, nia hateten: "Ami mai ba mundu ne'e hanesan fio algodão rua / Ida metan, ida mutin... / Husi furador ida de'it." Metáfora ne'e hatudu nia fiar katak ema hotu, la importa sira nia kasta ka estatutu sosiál, iha orijen no destinu komún.
+
+Lalleshwari mós fó atensaun ba diskriminasaun jéneru iha nia poezia. Hanesan feto ida ne'ebé ezperiénsia limitasaun sira ne'ebé impoin ba feto sira iha nia sosiedade, nia uza nia versu atu kontra norma patriarkál. Nia bebeik enfatiza igualdade espiritual entre mane no feto, afirma katak jéneru la relevante iha buka koñesimentu divinu. Nia moris rasik, hanesan feto ida ne'ebé rejeita papel família tradisionál atu sai mistiku nomad, sai ezemplu vida husi nia ensinu.
+
+Aspetu signifikativu seluk husi kritika sosiál Lalleshwari nian mak nia kondena ritu relijiozu mamuk no prátika ortodoksa. Nia argumenta katak espiritualidade verdadeira iha iha esperiénsia direta ho divinu, la'ós iha aderénsia ba forma adorasaun hosi liur. Iha ida husi nia vakhs, nia deklara: "Templo no meskita hamosu husi fatin hanesan / Ne'ebé superior, O Pandit?" Versu ida ne'e la'ós de'it kontra ortodoksia relijioza maibé mós promove harmonia interfe, ideia radikál iha nia tempu.
+
+Komentáriu sosiál Lalleshwari nian ligadu intrinsikamente ho nia ensinu espiritual. Nia fiar katak reforma sosiál no despertar espiritual interligadu, no mudansa sosiedade verdadeira bele mai de'it husi transformasaun konsiénsia. Nia énfaze ba realizasaun an no esperiénsia interna hanesan dalan ba verdade kontra autoridade instituisaun relijioza no habilita ema

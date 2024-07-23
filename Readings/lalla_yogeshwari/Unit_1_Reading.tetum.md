@@ -1,0 +1,15 @@
+'Lalleshwari: Poeta Mística sékulu 14 nia husi Kashmir
+
+Iha vale pitoreska husi Kashmir durante sékulu 14 nia tumultuoso, feto ida ne'ebé nota makas sai ho nia matenek espiritual no talentu poético ne'ebé sei hamosu marka permanente iha paisajen kulturál no relijiozú nian iha rejiaun ne'e. Ho naran oioin hanesan Lal Ded, Lalla Yogeshwari, no Lalleshwari, poeta mística ne'e liu ona fronteiras husi relijiaun no konvensaun sosial hodi sai figura ida ne'ebé hetan respeitu maka'as iha istória Kashmiri nian.
+
+Lalleshwari moris iha inísiu sékulu 14 nia iha família Brahmin Kashmiri nian. Detalhes kona-ba nia moris sedu nian sai hanesan lejenda, maibé kredita katak nia kaben iha idade ki'ik no hetan dificuldades maka'as iha nia uma kaben nian. Tuir konta popular sira, Lalleshwari abandona ona nia moris doméstiku hodi buka dalan espiritual, hatais nudar asketa no kompõe versu sira ne'ebé sei sai hanesan vakhs.
+
+Kontestu istóriku husi sékulu 14 nia Kashmiri fornese insight importante ba mundu ne'ebé forma Lalleshwari nia moris no ensinu sira. Períodu ne'e marka husi agitação polítiku no relijiozu boot. Dinastia Hindu Lohara ne'ebé governa Kashmir durante sékulu barak, hamenus no rejiaun ne'e haree sai husi dinastia Shah Mir, ne'ebé harii sultanatu Muslim primeiru iha Kashmir. Transisaun polítiku ne'e kontinua ho influénsia aumenta husi Islam iha rejiaun ne'e, ne'ebé mai husi misionáriu sira Sufi no komersiante sira husi Ázia Sentrál.
+
+Maske mudansa sira ne'e, Kashmir mantein nia tradisaun riku husi aprendizajen Sanskrit no filozofia Hindu, liuliu eskola husi Kashmir Shaivism. Tradisaun non-dualista ida ne'e, ne'ebé haree universu hanesan manifestasaun husi konsiénsia divina husi Shiva, forma fundu importante ida ba dezenvolvimentu espiritual Lalleshwari nian. Iha tempu hanesan, prezensa aumenta husi Sufism, ho nia énfaze iha amor divinu no união mística, kria ambiente relijiozu dinámiku iha ne'ebé tradisaun sira diferente interage no influénsia malu.
+
+Iha kontestu ida ne'e husi pluralismu relijiozu no fermentu filozófiku, Lalleshwari sai hanesan lia únika, síntese elementu sira husi Kashmir Shaivism no Sufism iha nia ensinu. Nia vakhs, ne'ebé kompõe iha lian Kashmiri, halo konseitu espiritual profundo sira bele hetan husi ema komun. Versu badak sira ne'e, ho sentidu boot, uza imajen vivu sira husi moris loron-lo'oron hodi transmite ideia metafísika sira komplikadu.
+
+Iha sentru Lalleshwari nia filozofia, iha konseitu husi realizasaun an no rekoñesimentu husi divinu iha nia an rasik. Nia enfatiza esperiénsia direta liu husi observasaun ritual no desafia ortodoxia sosial no relijiozu. Iha ida husi nia vakhs famozus, nia deklara: "Shiva ne'e no Shakti ne'e hanesan, ne'ebé preenxe mundu tomak. Husi ne'e mak hau moris, iha ne'e mak hau mora, ba iha ne'e sei hau fali."
+
+Influénsia Lalleshwari nian extende ba

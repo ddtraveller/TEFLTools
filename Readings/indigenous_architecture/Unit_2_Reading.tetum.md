@@ -1,0 +1,15 @@
+'Valór Kulturál Timor-oan no Planeamentu Urbanu
+
+Urbanizasaun aat husi Timor-Leste fiar desafiu no oportunidade ba integrasaun valór kulturál tradisionál iha planeamentu sidade modernu. Hanesan nasaun ki'ik ne'e hakat ba nia sentru urbanu, hetan rekoñesimentu ne'ebé kreses ba importánsia atu konserva no inkorpora patrimóniu kulturál Timor iha ambiente ne'ebé harii. Papel ne'e esplora interseksaun entre valór kulturál Timor nian no planeamentu urbanu, ezamina oinsá konseitu tradisionál bele hatene no enrikece dezenu urbanu kontemporáneu iha Timor-Leste.
+
+Iha laran kultura Timor nian, iha ligasaun boot ba rai no sistema organizasaun sosial ne'ebé kompleksu. Uma lulik, ka uma sagradu, hanesan sentru espiritual no sosial iha komunidade tradisionál Timor nian. Estrutura sira ne'e enkorpora patrimóniu ancestral no identidade kulturál husi linhajen no klã espesífiku. Iha kontestu planeamentu urbanu, konseitu uma lulik bele inspira kriasaun sentru komunidade ka espasu kulturál ne'ebé hanesan pontu sentrál ba enkontru sosial no prátika kulturál iha vizinhança.
+
+Moris tradisionál husi Timor-oan, ne'ebé hatene hanesan knua, oferese entendementu valiozu kona-ba konseitu indíjena organizasaun espasiál no moris komunidade. Knua normalmente organiza iha roda uma lulik no refleta ierarkia sosial no estrutura parentesku iha sosiedade Timor. Planeadór urbanu bele hetan inspirasaun husi modelu knua ba dezenu vizinhança ne'ebé kria laços komunidade ne'ebé forte no konserva rede familia extensa iha tetu urbanu.
+
+Lisan, sistema lei kustumáriu husi Timor-Leste, hala'o papél importante iha governasaun relasaun sosial no jestaun rekursu iha komunidade tradisionál. Hanesan sidade espandiu, iha potensial atu inkorpora aspetu sira husi lisan iha estrutura governasaun urbanu. Ne'e bele envolve kriasaun mekanismu ba konsultasaun komunidade no rezolusaun disputa tuir prátika tradisionál, asegura katak dezenvolvimentu urbanu respeita kustum no valór lokál.
+
+Konseitu rai na'in, ka kustodiáriu rai espiritual, sentrál ba entendementu Timor nian kona-ba propriedade rai no kuidadu. Iha planeamentu urbanu, rekoñesimentu papél rai na'in bele leva ba abordajen ne'ebé sensível liu ba kultura ba uza rai no dezenvolvimentu. Ne'e bele envolve rekoñesimentu ofisiál direitu rai tradisionál iha fronteira sidade ka konsultasaun ho líder espiritual sira kona-ba asuntu espansaun urbanu no protesaun ambiental.
+
+Tara bandu, ritual tradisionál ba protesaun ambiental no jestaun rekursu, oferese abordajen ne'ebé hahú husi kultura ba sustentabilidade urbanu. Planeadór sidade bele adapta prinsípiu sira husi Tara bandu ba dezenvolve inisiativa ambiental husi komunidade, hanesan projetu reflorestasaun urbanu ka programa jestaun lixu sustentável ne'ebé harmoniza ho valór kulturál lokál.
+
+Estudu kazu husi Timor-Leste demonstra potensial ba planeamentu urbanu ne'ebé informadu husi kultura. Iha Dili, sidade kapitál, halo ona esforsu atu inkorpora elementu arkitektura tradisionál iha edifísiu públiku, kria estétika urbanu únik

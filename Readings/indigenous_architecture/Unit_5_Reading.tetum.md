@@ -1,0 +1,15 @@
+'Prinsípiu Dezéñu Indíjena iha Espasu Públiku
+
+Espasu públiku hanesan korasaun komunidade nian, refleta identidade, valor, no patrimóniu kultural husi ema sira-ne'ebé sira serbi. Iha tinan kotuk, rekoñesimentu kona ba importánsia integrasaun prinsípiu dezéñu indíjena iha espasu sira-ne'e aumenta, liuliu iha área ho istória indíjena riku. Abordajen ida-ne'e la'ós de'it hodi valoriza koñesimentu no prátika tradisionál, maibé mós kria ambiente inkluzivu no kulturalmente relevante ba membru hotu-hotu sosiedade nian.
+
+Placemaking indíjena mak konseitu fundamentál iha kriasaun espasu públiku ne'ebé iha signifikadu kultural. Prosesu dezéña no konstrui área sira-ne'ebé refleta no selebra valor, prátika, no ligasaun kultural indíjena ba rai. Abordajen ida-ne'e liu de'it estétika, nia objetivu maka kria espasu sira-ne'ebé resonansa ho esénsia espirituál no kultural komunidade indíjena nian.
+
+Elementu xave ida husi dezéñu indíjena iha espasu públiku maka integrasaun espasu enkontru tradisionál. Iha kultura Timor, ba ezemplu, inklui Uma Lulik (uma sagradu), Nahe Biti (área ba seremónia fahe ai-fuan), no sentru suku. Espasu sira-ne'e la'ós de'it fatin fíziku, maibé sira iha signifikadu kultural boot, hanesan pontu sentrál ba interasaun komunidade, seremónia, no transmisaun koñesimentu liu husi gerasaun.
+
+Ligasaun ba natureza no paisajen mak elementu importante seluk iha prinsípiu dezéñu indíjena. Kultura indíjena barak hili an rasik hanesan parte intrinsika husi mundu natureza, no relasaun ida-ne'e refleta iha sira nia abordajen ba dezéñu espasiál. Espasu públiku ne'ebé inkorpora prinsípiu indíjena barak-vezes hatudu ai-fuan nativu, matérias naturál, no dezéñu ne'ebé harmoniza ho paisajen besik. Ne'e la'ós de'it kria ambiente atrativu, maibé mós reforsa ligasaun kultural ba rai.
+
+Simbolizmu kultural iha papel importante iha dezéñu indíjena. Iha kultura Timor, por ezemplu, padraun tais - tekstil tefe-tefe tradisionál - iha signifikadu simbóliku boot. Integrasaun padraun sira-ne'e iha dezéñu espasu públiku, liu husi tekstil real ka hanesan motif iha elementu arquitetóniku, bele imbui área ho signifikadu kultural. Hanesan, kolokasaun kuidadu husi objektu sagradu ka uzu kór espesífiku bele komunika mensajen kultural importante no kria sentidu fatin ne'ebé resonansa ho identidade indíjena.
+
+Konseitu hierarkia espasiál iha dezéñu indíjena refleta estrutura sosial no relasaun iha komunidade. Prinsípiu ida-ne'e orienta arranjamentu espasu bazeia ba importánsia kultural ka sosial. Iha espasu públiku, ne'e bele manifesta hanesan área sentrál ba enkontru importante, ho espasu besik destina ba atividade espesífiku ka grupu iha komunidade. Komprensaun no respeitu ba hierarkia sira-ne'e importante tebes iha kriasaun espasu sira-ne'ebé loloos refleta valor indíjena no dinámika sosial.
+
+Inkluzividade mak aspetu

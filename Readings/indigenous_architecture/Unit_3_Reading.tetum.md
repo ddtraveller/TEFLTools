@@ -1,0 +1,15 @@
+'Perspektiva Intergenerasional iha Dezenvolvimentu Urbano
+
+Dezenvolvimentu urbano mak prosesu kompleksu ne'ebé muda paisajen fisiku, sosial, no ekonomiku husi sidade sira. Tradisionalmente, planeamentu urbano domina husi espertos profisionais no responsavel politiku. Maibé, hatene katak importante atu inklui perspektiva diversu, liu-liu husi gerasaun diferente, iha prosesu dezenvolvimentu urbano. Abordajen ne'ebé hatene hanesan dezenvolvimentu urbano intergerasional, buka hodi kria sidade ne'ebé inkluzivu, sustentavel, no responde ba nesesidade husi grupu idade hotu.
+
+Iha sentru dezenvolvimentu urbano intergerasional mak konseitu husi koñesimentu intergerasional. Refere ba informasaun, abilidade, no matenek ne'ebé transmite husi gerasaun ida ba gerasaun seluk. Iha sosiedade barak, ema katuas sira tinan naruk liu desempeña papel importante iha prosesu hodi foti desizaun no transmisaun koñesimentu. Sira nia esperiensia moris no komprensaun boot kona ba kultura no istoria lokal bele fornese vizao valorozu ba planeamentu urbano.
+
+Iha Timor-Leste, por ezemplu, ema katuas sira hetan respeitu iha sosiedade no konsulta dala barak kona ba asuntu importante komunidade nian. Sira nia koñesimentu kona ba pratika uza rai tradisional, sitios kultural, no estrutura sosial bele informa dezenvolvimentu urbano iha maneira ne'ebé konserva patrimoniu kultural no akomoda nesesidade modernu. Maibé, urbanizasaun aas no dinamika sosial muda as veses hodi hamosu marginalizasaun husi ema katuas nia vós iha prosesu planeamentu urbano.
+
+Hodi involve ema katuas sira iha dezenvolvimentu urbano presiza estratejia deliberadu no metodu planeamentu partisipativu. Forum Komunidade mak maneira efetivu hodi hamutuk ema husi idade diferente hodi diskute kona ba asuntu urbano. Forum sira ne'e fornese plataforma ba ema katuas sira atu fahe sira nia koñesimentu no ba gerasaun foun sira atu kontribui sira nia perspektiva kona ba futuru sira nia sidade. Husi fasilidade diálogu intergerasional, planeador urbano sira bele aproveita fonte idéia riku no asegura katak planu dezenvolvimentu refleta nesesidade diversu husi komunidade.
+
+Konta istória vizual sai hanesan ferramenta poderosu hodi kaptura no fahe perspektiva intergerasional kona ba espasu urbano. Husi fotografia, vídeo, no media vizual seluk, ema katuas sira bele dokumenta sira nia memoria kona ba oinsá sidade sira muda liu husi tempu no hatoo sira nia vizao ba futuru. Narrativa vizual sira ne'e bele ajuda hodi hamosu komprensaun entre gerasaun no kria sentidu identidade urbano ne'ebé komum.
+
+Dezenvolvimentu urbano intergerasional mós involve kriasaun espasu fisiku ne'ebé promove interasaun entre grupu idade diferente. Ne'ebé bele inklui dezaina parke ho fasilitasaun ba labarik sira no ema katuas sira, dezenvolve sentru komunidade ne'ebé oferese programa ba idade hotu, ka planeia bairru mistu uza ne'ebé permite aranjamentu moris multigenerasional. Husi dezaina deliberadu ba interasaun intergerasional, sidade sira bele luta hasoru segregasaun idade no promove kohezaun sosial.
+
+Benefisiu husi inklui perspektiva intergerasional iha dezenvolvimentu urbano bar
