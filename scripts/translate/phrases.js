@@ -85,5 +85,5 @@
   "betel nut": "bua",
   "bride price": "barlake",
   "teacher": "profesór/a",
-  "play sports": "halimar desportu",
+  "play sports": "halimar desportu"
 }

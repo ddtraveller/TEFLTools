@@ -72,6 +72,11 @@ def translate_file(file_path, max_words):
     file_path = Path(file_path)
     new_file_path = file_path.with_suffix('.tetum' + file_path.suffix)
 
+    # Check if the destination file already exists
+    if new_file_path.exists():
+        print(f"Skipping {file_path}: Destination file {new_file_path} already exists")
+        return
+
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     
@@ -109,7 +114,8 @@ def translate_directory(directory, max_words):
         print(f"Error: {directory} is not a valid directory")
         return
 
-    files_to_translate = get_files_to_translate(directory)
+    files_to_translate = sorted(get_files_to_translate(directory)) #, reverse=True
+     
     
     if not files_to_translate:
         print("No files found that need translation.")
