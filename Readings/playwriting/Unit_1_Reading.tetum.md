@@ -1,0 +1,15 @@
+'Introdusaun ba Estrutura Dramátika
+
+Estrutura dramátika mak kápsula husi narasaun iha kultura no média hotu. Husi trajédia Grega antigu to'o filmu modernu, prinsípiu estrutura dramátika orienta oinsá narasaun la'o no hamosu audiénsia. Iha nia núkleu, estrutura dramátika mak organizasaun husi enredo no dezenvolvimentu karakter husi istória ida atu kria impaktu emosional no hatudu signifikadu.
+
+Fundasaun husi teoria dramátika Osidentál rai husi Poétika husi Aristotle, ne'ebé tuir mai iha sékulu 4 a.C. Iha obra importante ida ne'e, Aristotle identifika elementu sei husi drama: enredo, karakter, pensamentu, diksaun, melódia, no spektáku. Husi sira ne'e, nia konsidera enredo mak hanesan importante liu, nia deskreve hanesan "alma trajédia." Analiza husi Aristotle fornese base ba komprende oinsá istória konstruída no oinsá sira afeta audiénsia.
+
+Hamosu liu husi ideia husi Aristotle, konseitu husi estrutura aktu tolu sai modelu ne'ebé rekoñesidu tebes ba narasaun dramátika. Estrutura ida ne'e fahe istória ba parte tolu prinsipál: preparasaun, konfrontasaun, no resolusaun. Aktu I, preparasaun, introdús karakter prinsipál sira, estabelese ambienti, no hatudu insidente ne'ebé hahu istória. Aktu II, konfrontasaun, komprende núkleu husi istória, iha ne'ebé protagonista hasoru desafiu no komplikasaun ne'ebé aumenta. Aktu III, resolusaun, hatudu klimaks husi istória no resolve konflitu sentrál.
+
+Iha estrutura aktu tolu ida ne'e, elementu importante balu servisu hamutuk atu kria narasaun ne'ebé atraktivu. Exposisaun fornese informasaun fundu nesesáriu, permiti audiénsia komprende kontestu husi istória. Hanesan enredo avansa, asaun ne'ebé aumenta kria tensaun no aumenta rísku ba karakter sira. Ida ne'e kondus ba klimaks, pontu husi tensaun dramátika maksimum no pontu virajen istória. Hafoin klimaks, aksaun ne'ebé tun hatudu konsekuénsia imediata husi momentu klimátiku, hatudu ba resolusaun ka denouement, ne'ebé resolve asuntu ne'ebé la remata no estabelese ekilíbriu foun.
+
+Konfliitu mak sentrál ba estrutura dramátika. Konfliitu lori istória ba oin no hamosu audiénsia emosionalmente. Normalmente manifesta hanesan luta entre protagonista, karakter prinsipál ne'ebé ita akompaña nia viajen, no antagonista, forsa kontrária ne'ebé kria obstákulu ba protagonista. Konfliitu ida ne'e bele iha forma barak, husi ema kontra ema to'o ema kontra natureza ka ema kontra nia aan rasik.
+
+Bainhira estrutura aktu tolu prevalente iha narasaun Osidentál, importante atu rekoñese katak kultura diferente sira iha sira nia tradisaun no estrutura narasaun rasik. Por ezemplu, iha Timor-Leste, narasaun oral iha papel importante iha preservasaun istória no valor kulturál. Istória rai laran Timor nian hamosu tema no motif rekurrente sira ne'ebé refleta patrimóniu úniku no perspetiva mundu husi ilha ne'e. Istória sira ne'e bele la tuir modelu aktu tolu Osidentál, maibé nafatin uza elementu dramátika atu hamosu ouvinte sira no transmite mensajen importante.
+
+Komprende

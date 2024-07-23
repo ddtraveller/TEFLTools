@@ -1,0 +1,15 @@
+'HTML Avansadu no Estrutura Dokumentu: Habo'o Website Semantiku no Asesivel 
+
+Iha paisajen web dezenvolvimentu ne'ebé sempre evolui, kria website ne'ebé estrutura di'ak no asesivel sai hanesan importante liu. Tekniku HTML avansadu, partikularmente sira-ne'ebé introduz husi HTML5, oferese meius poderzu ba dezenvolvedores atu kria pájina web ne'ebé nune'e di'ak, efisiente, no amigu ba uzuáriu. Artigu ida ne'e explora konseitu xave husi HTML avansadu no estrutura dokumentu, hodi foka ba semantika markup, funsionalidade formuláriu nafatin, no konsiderasaun asesibilidade.
+
+HTML semantiku mak sentru husi práktika dezenvolvimentu web moderna. Diferente husi HTML tradisionál, ne'ebé ami depende ba elementu jenerál hanesan <div> no <span> ba estrutura, HTML semantiku uza elementu sira ne'ebé fornese signifikadu kona-ba konteúdu ne'ebé sira kobre. Abordajen ida ne'e labele de'it halo kódigu sai leet liu ba dezenvolvedores, maibé mós fornese kontestu valiozu ba motor busca no teknolojia asisténsia.
+
+HTML5 introduz elementu semantiku foun sira ne'ebé permíte estrutura dokumentu ne'ebé presizu liu. Elementu <header>, por ezemplu, uza ba konteúdu introdutóriu ka ajuda navegasaun ba konteúdu sektór prósima ka akontese hetan sektór. Elementu <nav> desenya espesifikamente ba kontén link navegasaun prinsipál husi pájina ida. Elementu <main> representa konteúdu prinsipál dokumentu, hanesan elementu <article> uza ba kompozisaun independente ne'ebé bele eziste rasik, hanesan blog post ka artigu notísia.
+
+Elementu semantiku seluk inklui <section>, ne'ebé representa sektór independente husi dokumentu, <aside> ba konteúdu ne'ebé koneksaun tangensial ba konteúdu iha rai leten, no <footer> ba konteúdu konklusaun husi sektór ka pájina. Husi uza elementu sira ne'e ho maneira ne'ebé apropriadu, dezenvolvedores bele kria estrutura dokumentu ne'ebé klean ne'ebé benefisia uzuáriu sira no mákina sira ne'ebé interpreta pájina.
+
+Formuláriu mós hetan melloramentu signifikativu iha HTML5, ho tipu input foun no karaterístika validasaun integrada. Tipu input hanesan email, tel, data, no númeru fornese uzuáriu sira ho interface ne'ebé personaliza liu, liuliu iha aparelhu móvel ne'ebé keyboard apropriadu bele hatudu. Por ezemplu, <input type="email"> sei ativa keyboard espesífiku ba email iha smartphone barak.
+
+Validasaun formuláriu simplifika ona ho atributu HTML5 hanesan "required" no "pattern". Atributu "required" garante katak kampu tenke preenxe molok formuláriu bele haruka, hanesan "pattern" permite dezenvolvedores atu espesifika ekspresaun regulár ne'ebé input tenke tuir. Karaterístika sira ne'e redús nesesidade ba validasaun JavaScript no fornese esperiénsia uzuáriu konsistente liu iha navegador diferente.
+
+Asesibilidade mak konsiderasaun importante iha dezenvolvimentu web modernu, garante katak website bele uza husi ema barak liu, inklui sira-ne'ebé iha defisiénsia. Diretriz Asesibilidade Konteúdu Web (WCAG) fornese estrutura komprehensivu ba kriasaun konteúdu asesivel, ho foka ba prinsí

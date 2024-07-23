@@ -1,0 +1,15 @@
+'Projetu Final Dezenvolvimentu iha Playwriting
+
+Kulminasaun husi jornada kriativu ida nian husi dramaturgu - lia menon, autór teatru - normalmente manifesta iha forma projetu final, ne'ebé tipikamente hanesan hahalok ida atu ne'ebé kapsula habilidade no matenek ne'ebé hetan durante sira-nia estudu. Faze kritiku ida ne'e husi dezenvolvimentu presiza abordajen multifacetada, kombina vizaun artistika ho kapasidade tekniku atu produz obra literaria dramatika ida ne'ebé bele aprezenta iha palco.
+
+Iha sentru husi projetu final dezenvolvimentu mak arte revizaun nian. Dala ruma, hanesan forma seluk husi hakerek, teatru iha intensaun atu hetan aprezentasaun, ne'ebé presiza abordajen uniku ba refinamentu. Autór teatru tenke aprende atu rona sira nia obra hanesan barak hanesan sira haree nia iha pájina. Le'e diálogu ho lian klaran sai ferramenta esensial, permite autór atu ajusta ritmu no fluxu husi konversasaun, asegura katak sira soa naturál no auténtiku bainhira atór sira hateten.
+
+Dezenvolvimentu karater nian sai sentru atensaun durante prosesu ida ne'e. Objetivu no konflitu husi kada karater tenke define ho klareza no konsistentemente reprezenta iha manuskritu tomak. Atensaun ida ne'e ba detallu ajuda kria personalidade multidimensaunál ne'ebé koneksaun ho públiku no fornese atór sira ho matérias riku atu interpreta. Iha kontestu husi teatru ne'ebé estabelese iha kontestu kulturál espesífiku, hanesan Timor-Leste, presiza asegura autentisidade kulturál. Autór teatru tenke peskiza no reprezenta ho exatidaun nuansa husi kustume lokál, lian, no dinámika sosial atu kria representasaun genuína no respeitu ba ambienti.
+
+Prosesu revizaun mós involve ezaminasaun kritika ba estrutura no ritmu husi teatru. Diálogu no direksaun palco ne'ebé la presiza sei hamosu hodi mantein momentum narativu no evita atór sira ho informasaun ne'ebé la nesesáriu. Prosesu ida ne'e ajuda atu destila esénsia husi istória, permite tema sentrál no konflitu atu destaka liu.
+
+Bainhira teatru hakribi ba forma final, atensaun muda ba preparasaun manuskritu ba produsaun potensial. Ida ne'e involve kumpre konvensaun formatasaun padraun indústria nian, ne'ebé asegura katak manuskritu bele le'e ho fasil husi diretor, atór, no profisionál teatru sira seluk. Formatasaun adekuadu inklui uzu fonte konsistente, deliniasaun klaru entre diálogu no direksaun palco, no espasu no margen apropriadu.
+
+Direksaun palco joga papél importante iha liga liafuan hakerek nian no nia realizasaun fíziku iha palco. Maske importante atu fornese orientasaun nesesáriu ba bloku no aksaun karater, autór teatru tenke hetan balansu, evita direksaun preskriptivu liu ne'ebé bele limita interpretasaun kriativu husi diretor. Direksaun palco ne'ebé klaru, konkisu ne'ebé foka ba aksaun esensial no detallu ne'ebé estabelese atmosfera mak efetivu liu.
+
+Deskrisaun karater no detallu ambienti mós sai komponente vital ida husi manuskritu ne'eb

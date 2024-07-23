@@ -1,0 +1,15 @@
+'Introdusaun ba Forma Tai Chi
+
+Tai chi, arte marcial no meditasaun xineza antigu, hetan popularidade mundial tanba benefísiu saúde nian no movimentu ne'ebé gracios. Iha sentru práktika tai chi mak forma - sekénsia husi movimentu né'ebé la'o suave ne'ebé reprezenta prinsípiu husi arte ida ne'e ne'ebé lembut maibé forte. Artigu ida ne'e oferese introdusaun ba forma tai chi, ho foku ba movimentu fundamentál no konseitu sira ne'ebé forma fundasaun husi práktika tai chi.
+
+Estrutura husi forma tai chi ida kria husi postura no movimentu séries ne'ebé konekta malu. Forma sira bele varia iha durasaun no kompleksidade, husi sekénsia badak ne'ebé dura minutu balun de'it too forma ne'ebé bele demora oras ida ka liu atu hotu. Maske durasaun la hanesan, forma tai chi hotu-hotu iha karakterístika komún: movimentu ne'ebé laran-di'ak; foku ba balansu no mudansa todan; no emfase ba movimentu kontinuál no suave.
+
+Entre estilu tai chi oioin, estilo Yang mak ida husi estilo sira ne'ebé prátika liu hotu. Desenvolve iha sékulu 19, estilo Yang tai chi karakteriza husi movimentu ne'ebé graciosu no expansivu no emfase ba relaxamentu no kultivasaun energia interna. Estrutura báziku husi forma estilo Yang oferese introdusaun di'ak ba prinsípiu movimentu tai chi.
+
+Iha sentru forma tai chi mak movimentu fundamentál balun ne'ebé funsiona hanesan bloku ba sekénsia sira ne'ebé liu kompleksu. Haat husi movimentu esensiál sira ne'e mak defende, rola fila fali, prensa, no dada. Defende mak movimentu defensívu ida ne'ebé desinia atu deflecte forsa ne'ebé mai. Movimentu ida ne'e normalmente involve elevasaun braso iha movimentu sirkulár, hodi kria barreira protesaun. Rola fila fali, hanesan naran ne'ebé hateten, mak movimentu ne'ebé permite forsa ne'ebé mai. Movimentu ida ne'e normalmente involve pasu fila fali, hanesan braso halo movimentu sirkulár no rola.
+
+Prensa mak movimentu ba oin ne'ebé aplika presaun lembut. Normalmente, movimentu ida ne'e halo ho liman ida ka rua ba oin husi isin, hanesan se prensa objetu imagináriu. Dada, hanesan prensa, mak movimentu ba oin ho liman rua ne'ebé expressa forsa. Iha tai chi, forsa ida ne'e la agresivu ka violente maibé simu kontrolu hanesan espresaun energia.
+
+Karakterístika ida ne'ebé distingue forma tai chi mak konseitu husi movimentu kontinuál no suave. Diferente husi arte marcial balun ne'ebé emfatinza movimentu intensu, movimentu tai chi lori husi ida ba ida seluk suavemente, hanesan bee iha ai-been. Fluxu kontinuál ida ne'e la'ós de'it estétika, maibé refleta prinsípiu tai chi nian husi sirkulasaun energia ne'ebé la para iha isin.
+
+Karater suave husi forma tai chi atinje liu husi atensaun kuidadu ba tranzisaun entre movimentu sira. Postura ida kada ida muda suavemente ba postura tuir mai, laiha pausa ka interupsaun iha sekénsia. Fluxu kontinuál ida ne'e la'ós de'it hametin aspetu meditasaun iha práktika tai chi maibé mós promove
