@@ -1,0 +1,13 @@
+'Sistema Kardiobaskular no Respiratóriu: Servisu Hamutuk
+
+Sistema kardiobaskular no respiratóriu mak rua husi sistema sira ne'ebé importante tebes iha korpu umanu, servisu hamutuk atu harii moris. Sistema rua ne'e responsável ba fornese osijénio no nutrientes ba selula sira iha korpu tomak no hasai karbonu dioksida ho lixu sira seluk. Komprensaun kona-ba estrutura no funsaun husi sistema sira ne'e esensiál atu komprende oinsá korpu mantein homeostasis no responde ba nesesidade fisiolójiku sira ne'ebé variadu.
+
+Iha sentru husi sistema kardiobaskular mak fuan, órgaun muskular ne'ebé nia tamañu hanesan puñu. Fuan ne'e dividi ba kuartu parte: atria rua iha leten no ventricle rua iha kraik. Fluxu raan liu husi fuan tuir dalan espesífiku, ho raan ne'ebé laiha osijénio tama iha atrium loos, bá ventricle loos, no depois tama iha pulmão ba hetan osijénio. Raan ne'ebé iha osijénio fila fali ba atrium karuk, tama iha ventricle karuk, no depois tama iha korpu tomak liu husi aorta.
+
+Siklu kardiaku, ne'ebé deskreve sekénsia husi eventu ida iha batida ida, iha fase rua: sistole no diastole. Durante sistole, ventricle sira kontrai, halo raan sai husi arteria pulmonar no aorta. Iha diastole, fuan relaxa, permiti parte sira iha fuan atu hetan raan. Prosesu sikliku ne'e akontese besik 60-100 bes iha minutu ida iha ema adultu ne'ebé deskansa, fornese osijénio kontinuamente ba teksidu sira iha korpu.
+
+Vaskulu sanguíneu forma rede komplikadu ne'ebé lori raan bá no husi fuan. Arteria, vena, no kapilaridade sira iha karakterístika estrutural úniku ne'ebé refleta sira-nia funsaun espesífiku. Arteria, ne'ebé lori raan husi fuan, iha parede makas no elástiku atu suporta presaun aas husi raan ne'ebé sai husi ventricle sira. Vena, ne'ebé responsável ba lori raan fila fali ba fuan, iha parede menus makas no iha válvula sira atu prevene raan bá kotuk. Kapilaridade, ne'ebé mak vaskulu sanguíneu ki'ik liu, iha parede menus makas tebes ne'ebé permite troka entre gás, nutrientes, no lixu sira entre raan no teksidu sira iha besik.
+
+Sistema respiratóriu servisu besik ho sistema kardiobaskular atu fasilidade troka gás. Anin tama iha korpu liu husi inus ka ibun, bá kraik liu husi trakea, no taka ba iha bronkiu sira, ne'ebé depois divide ba bronkioli ki'ik liu. Iha rohan husi bronkioli sira mak grupu husi bolsa anin ki'ik sira ne'ebé hanaran alveolu, ne'ebé iha troka gás akontese.
+
+Alveolu sira tuir kapilaridade sira nia rohan, kria membrana alveolar-kapilaridade. Membrana ne'e menus makas tebes, permite difusaun rápidu husi osijénio husi anin iha alveolu sira ba iha raan, no karbonu dioksida husi raan ba iha alveolu. Prosesu ne'e hetan influénsia husi gradiente konsentrasaun, ho osijénio tama husi área ho konsentrasaun aas iha alveolu sira

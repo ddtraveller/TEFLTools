@@ -1,0 +1,15 @@
+'Sistema Muskular no Nervozu: Koordenasaun Movimentu no Sensasaun
+
+Isin umanu mak milagre ida husi enjenharia biolójika, ho sistema kompleksu ne'ebé servisu hamutuk hodi mantein vida no habilita interasaun ho ambiente. Entre sira, sistema muskular no nervozu desempeña papel importante iha movimentu, sensasaun, no koordenasaun. Artigu ida-ne'e esplora estrutura no funsaun husi sistema rua ne'ebé konektadu, subliña sira nia importansia iha atividade loron-loron no saúde jeral.
+
+Sistema muskular kompostu husi tinan tolu husi teknia muskular: skeletal, cardiac, no smooth. Muskulu skeletal, ne'ebé responsável ba movimentu voluntáriu, mak fokus ba diskusaun ida-ne'e. Muskulu sira-ne'e kompostu husi selula sira ne'ebé naruk no silindriku ne'ebé hanaran fibra muskular. Kada fibra iha myofibril barak, ne'ebé kompostu husi unidade repitidu sira ne'ebé hanaran sarcomeres. Sarcomeres mak unidade funsional báziku ba kontrasaun muskular, ne'ebé iha filamento protéina husi actin no myosin ne'ebé desliza liu husi malu hodi produs forsa.
+
+Kontrasaun muskular mosu liuhusi prosesu ne'ebé hanaran teoria filamento deslizante. Bainhira muskulu estimula, ião kálsiu liberadu iha fibra muskular, inisia série eventu sira ne'ebé kauza filamento actin no myosin hodi interaje. Interasaun ne'e rezulta iha enkurtesimentu sarcomeres no, konsekuentemente, muskulu tomak. Energia ba prosesu ne'e fornese husi adenosine triphosphate (ATP), ne'ebé subliña importansia metabolizmu selular iha funsionamentu muskular.
+
+Trabalha hamutuk ho sistema muskular mak sistema nervozu, ne'ebé bele dividi ba parte rua prinsipal: sistema nervozu sentral (CNS) no sistema nervozu perifériku (PNS). CNS kompostu husi serbru no kordas espinal, hanesan sentru komandu ba isin. PNS inklui nervus hotu ne'ebé sai husi CNS ba restu isin, transmite informasaun entre CNS no órgãun sira seluk, inklui muskulu.
+
+Unidade fundamental husi sistema nervozu mak neuróniu, selula espesializadu ida ne'ebé dezinha hodi transmite sinál eletriku. Neuróniu sira iha korpu selula, dendrites ne'ebé simu sinál, no axon ne'ebé lori sinál ba neuróniu seluk ka tekinia alvu. Konexaun entre neuróniu rua ka entre neuróniu ida no fibra muskular hanaran sinapse. Iha sinapse, sinál eletriku konverte ba sinál kimiku liuhusi libertasaun neurotransmisor sira, ne'ebé depois liga ba reseptor iha selula reseptora hodi kontinua transmisaun informasaun.
+
+Interfeisu entre sistema nervozu no muskular mosu iha konexaun neuromuskular. Iha ne'ebá, neuróniu motora husi CNS forma sinapse ho fibra muskular. Bainhira potensial aksaun atinje fin neuróniu motora ida, nia inisia libertasaun neurotransmisor acetylcholine. Neurotransmisor ida-ne'e liga ba reseptor iha fibra muskular, inisia prosesu kontrasaun muskular. Neuróniu motora ida bele inerva fibra muskular sira barak, no unidade funsional ida-ne'e hanaran unidade motora.
+
+Aspetu ida ne'ebé interesa liu husi sistema neuromuskular mak arko reflexu. Reflexu sira mak responda involuntári

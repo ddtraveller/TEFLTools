@@ -1,0 +1,15 @@
+Rendimentu Báziku Universál: Introdusaun
+
+Rendimentu Báziku Universál (UBI) mak konseitu revolusionáriu ida iha polítika sosial ne'ebé hetan atensaun signifikativu iha tinan sira ikus ne'e. Iha nia sentru, UBI propoin pagamentu osan regulár ba ema hotu iha komunidade ida, bazeia ba individu, la'ós ho teste kona ba sasan ka rekizitu servisu. Transferénsia ne'e ne'ebé laiha kondisaun nian hakarak fornese fundasaun finanseira ba ema hotu-hotu, bele resolve problema sira kona-ba pobreza, desigualdade, no inseguransa ekonómika.
+
+Karaterístika prinsipál husi UBI mak universál, laiha kondisaun, regulár, no distribuisaun bazeia ba individu. Universálidade signifika katak ema hotu husi populasaun ida hetan pagamentu, la'ós konsidera sira nia estatutu ekonómiku. Laiha kondisaun signifika katak ema sira ne'ebé simu laiha limitasaun kona-ba oinsá sira sei gasta osan no la presiza kumpri kondisaun komportamentál ruma. Pagamentu sira halo regulármente, iha jeral kada fulan, hodi fornese rendimentu estável. Iha final, UBI distribui bazeia ba individu, la'ós ba uma-kain, hodi garante autonomia finanseira pesuál.
+
+Konseitu UBI iha istoria ne'ebé riku. Ideia sira ne'ebé hanesan ho UBI bele halo lia-husi husi sékulu 18, ho pensador sira hanesan Thomas Paine ne'ebé defende dividentu sosial ida. Iha sékulu 20, ekonómiku sira hanesan Milton Friedman propoin konseitu seluk hanesan taxa rendimentu negativu. Ideia sira ne'e evolui liu husi tempu, influénsia husi mudansa kondisaun ekonómiku no filosofia sosial.
+
+Iha tinan sira ikus ne'e, interese fali kona-ba UBI aumenta iha mundu tomak. Atenbrasaun foun ne'e mai husi fator sira hanesan preokupasaun kona-ba desempregu teknolójiku tanba automatizasaun, desigualdade rendimentu ne'ebé aumenta, no insufisiénsia ne'ebé hatudu husi rede seguransa sosial sira ne'ebé eziste ona. Nasaun sira no organizasaun sira halo ona programa piloto UBI hodi teste nia viabilidade no impaktu.
+
+Finlándia, por ezemplu, halo esperiénsia UBI tinan rua husi 2017 to'o 2018, fornese pagamentu fulan-fulan €560 ba ema la servisu 2,000. Iha Kenya, organizasaun la-lukru GiveDirectly halo ona teste UBI iha tempu naruk iha aldeia rurál sira. Canada mós halo ona esperimentu kona-ba programa UBI, hanesan Pilotu Rendimentu Báziku Ontario, ne'ebé halo husi 2017 to'o 2019 antes termina ho prematuro.
+
+Defensor sira husi UBI argumenta katak UBI bele iha benefísiu barak. Bele fornese rede seguransa ne'ebé hamenus pobreza no inseguransa ekonómika, bele hetan rezultadu saúde ne'ebé di'ak liu no hamenus nível tensaun iha ema sira ne'ebé simu. UBI mós bele hasa'e empreendedorizmu liu husi fornese protesaun finanseira ba sira ne'ebé hakarak hahu negósiu. Alende ne'e, bele simplifika sistema bem-estar ne'ebé kompleksu, hamenus kustu administrativu no estigma kona-ba benefísiu ne'ebé presiza teste kona ba sasan.
+
+Maibé,

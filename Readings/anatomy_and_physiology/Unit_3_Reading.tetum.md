@@ -1,0 +1,15 @@
+'Sistema Integumentary no Sistema Skeletal: Gardião Hosi Isin Umanu
+
+Isin umanu mak obra asombrante hosi enjenharia biolójika, ho sistema halimar hanesan mákina ida, servisu hamutuk hodi tau matan ba vida no saúde. Entre sira, sistema integumentary no sistema skeletal seidauk sai estrutura protetora ne'ebé importante liu, ne'ebé la'ós de'it tau matan ba órgaun internu maibé mós halo funsaun barak ne'ebé importante. Artigu ida ne'e halo análiza kona-ba estrutura, funsaun, no interasaun husi sistema rua ne'e.
+
+Sistema integumentary, ne'ebé kompostu hosi kulit, mak linha primeiru hosi defesa hasoru ameasa esterna. Hanesan órgaun boot liu hosi isin umanu, kulit mak estrutura kompleksu ne'ebé kompostu hosi folin tolu prinsipais: epidermis, dermis, no kapa subcutaneous. Epidermis, ne'ebé mak kapa liur, kompostu hosi epithelium squamous estratifikadu no serve hanesan barreira kontra be'e. Nia iha selula espesializadu ida ne'ebé naran melanocyte, ne'ebé prodús melanin, ne'ebé mak pigmentu responsável ba kór kulit no proteje kontra radiasaun ultravioleta prejudisial.
+
+Hodi subar iha epidermis, dermis mak kapa riku iha vasu sanguíniu, ponta nervu, no glandula sira. Kapa ida ne'e fornese apoiu estrutura no nutrisaun ba epidermis, iha fatin inklui sensór sira ne'ebé permiti ita atu sente, hanoin, no sente temperatura. Kapa ukun liu, kapa subcutaneous, kompostu hosi tetun adipose, ne'ebé fornese isin tetun no serve hanesan reserva enerjia.
+
+Kulit halo funsaun importante balu liu hosi proteksaun. Nia regula temperatura isin liu hosi produsaun mean no ajustamentu fluxu sanguíniu, sintetiza vitamina D bainhira exposta ba loron lais, no hanesan órgaun sensorial. Alende ne'e, sistema integumentary inklui anexu sira hanesan fulun no unha, ne'ebé fornese proteksaun adisionál no hasa'e ita nia kapasidade sensorial.
+
+Halo servisu hamutuk ho sistema integumentary, sistema skeletal fornese estrutura ne'ebé tau matan no proteje estrutura internu hosi isin. Kompostu hosi osu 206 iha umanu adultu, sistema skeletal mak tetun viva ne'ebé kontinuamente remodela nia-an durante vida. Osu sira prodús hosi tetun osseous, ne'ebé iha tipu rua prinsipais: osu kompaktu no osu esponjoso. Osu kompaktu forma kapa liur densa hosi osu, fornese forsa no rigidez, enkuantu osu esponjoso, ne'ebé iha laran osu, mak leves liu no iha medula óssea vermelha, ne'ebé prodús selula sanguíniu.
+
+Sistema skeletal halo funsaun importante balu. Nia fornese apoiu estrutura ba isin, permiti ita atu tuir laran no halai. Nia proteje órgaun vitais hanesan koko, korasaun, no pulmão. Osu sira mós serve hanesan reservatóriu mineral, armazenamentu kalsiu no fosforu, ne'ebé bele libera iha fluxu sanguíniu bainhira presiza. Alende ne'e, sistema skeletal servisu hamutuk ho múskulu hodi fasilita movimentu liu hosi sistema hosi alavanca no artikulasaun.
+
+Artikulasaun, ne'ebé mak pontu iha ne'ebé osu sira hasoru, mak integral ba funsionalidade sistema skeletal. Artikulasaun sinovial, ne'

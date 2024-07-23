@@ -1,0 +1,15 @@
+'Sistema Digestivu no Urinariu: Funsaun Esensiais ba Saude Umanu
+
+Isin umanu hanesan maquina kompleksu ne'ebé depende ba sistema barak ne'ebé interligadu hodi mantein saude no funsaun. Husi sira hotu, sistema digestivu no urinariu joga papel importante iha prosesu nutrisaun, elimina lixu, no mantein balansu fluidu. Iha artigu ida-ne'e, ita sei explora estrutura no funsaun husi sistema rua ne'e, hodi hakfodak importansia sira nian iha moris no promove saude jeral.
+
+Sistema digestivu responsabiliza hodi koko ai-han, absorve nutrisaun, no elimina produto lixu. Sistema ida-ne'e kompostu husi tubu naruk no kontinua ne'ebé iha naran kanal alimentar, ne'ebé extende husi ibun to'o anus, inklui mos organu sira seluk. Prosesu ai-han nian iha sistema ida-ne'e hahu iha ibun, ne'ebé prosesu digestivu mekaniku hahu liu husi mastigasaun no mistura ho saliva. Bainhira ai-han desse husi esofagu, ai-han entra iha estomagu, ne'ebé iha ne'ebé ai-han sei koko liu tan husi asidu forte no enzima.
+
+Intestinu kiik mak fatin ne'ebé absorve nutrisaun barak liu. Organu ida-ne'e, ne'ebé naruk liu 20 pes, iha milaun ba milaun projesaun ki'ik hanesan dedu-fuan ne'ebé aumenta area superfisie nian ba absorve. Iha ne'e, karbohidratu, protein, no lemak sira koko to'o forma simples liu no absorve ba iha dalan-raan. Fuan no pankreas, organu rua ne'ebé importante liu, produz bile no enzima digestivu, ne'ebé importante tebes ba prosesu koko lemak no nutrisaun seluk.
+
+Bainhira materia ne'ebé la koko tama iha intestinu boot, bee absorve, no lixu forma hanesan feses. Prosesu peristalsis, ne'ebé involve kontrasaun muskular hanesan onda, impulsa ai-han liu husi traktu digestivu tomak. Sistema ida-ne'e la'os de'it fornese isin ho nutrisaun esensial, maibe mos funsiona hanesan barreira kontra mikroorganizmu periguzu no toksina.
+
+Sistema urinariu, maske la'o hanesan sistema independente husi sistema digestivu, serbisu hamutuk ho sistema ida-ne'e hodi mantein balansu internu husi isin. Organu prinsipal husi sistema urinariu mak reins, organu rua hanesan forma feijaun ne'ebé iha iha kotuk kraik. Kada rein iha aprosimadamente millaun ida husi unidade mikroskopiku naran nephron, ne'ebé responsabiliza ba filtra rai no produz urina.
+
+Prosesu formasaun urina hahu ho filtrasaun iha glomerulus, rede kapilar iha kada nephron. Bainhira rai liu husi glomerulus, bee no molekula kiik sira husik iha tubu nephron nian. Liquido ne'ebé filtra ona depois liu husi segmentu oioin husi tubu, ne'ebé substansia esensial sira hanesan glukozu, amino asidu, no bee absorve fila fali ba iha rai. Iha tempu hanesan, produto lixu no substansia esesu husik iha tubu.
+
+Urina ne'ebé rezulta husi prosesu ida-ne'e liu husi ureter ba bexiga, ne'ebé iha ne'ebé urina ruma rai to'o eliminasaun liu husi uretra. Sistema ida-ne'e efisiente tebes, filtra aprosimadamente 180 litru husi rai
