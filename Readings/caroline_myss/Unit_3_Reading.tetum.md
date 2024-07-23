@@ -1,0 +1,15 @@
+'Archetipu husi Inkonxiensia Kolektiva iha Sosiedade Timor
+
+Konseitu archetipu no inkonxiensia kolektiva, primeiru introdus husi psikiatru Swiss Carl Jung, fornese dalan atrativu hodi analiza kultura Timor nian riku. Peskiza ida ne'e hatudu katak padrãu universál husi psike umanu manifesta iha maneira uniku iha kontestu istoria, tradisaun, no estrutura sosial Timor-Leste nian.
+
+Jung afirma katak inkonxiensia kolektiva mak hela fatin ba esperiénsia umanu ne'ebé komun no disposisaun psikolójiku ne'ebé natural ne'ebé liu limitasaun individuál no kultural. Iha inkonxiensia kolektiva ne'e iha archetipu - imajen no ideia universál no primordial ne'ebé forma ita nia komprensaun kona-ba mundu no ita nia fatin iha ne'e. Archetipu sira ne'e manifesta iha forma oioin iha kultura sira, hamosu iha mitu, legenda, arte, no kustume sosial.
+
+Iha sosiedade Timor, archetipu balu importante mosu liu husi símbolu no prátika kulturál. Idak husi signifikativu liu mak krokodilu, ne'ebé iha fatin sentrál iha mitolojia Timor nian. Krokodilu reprezenta archetipu Herói, hamosu forsa, rezilénsia, no viajen transformasaun. Tuir legenda Timor nian, ilha Timor rasik forma husi korpu krokodilu boot ida, ligasaun ida ne'e archetipu ba fundasaun identidade no nasionalidade Timor nian.
+
+Uma lulik, ne'ebé mak símbolu poderu iha kultura Timor, hamosu archetipu oioin. Hanesan reprezentasaun husi archetipu Inan Boot, uma lulik simboliza protesaun, nurtura, no kontinuasaun moris. Uma lulik serve hanesan sentru fiziku no espirituál ba komunidade Timor sira, hela fatin ba relíkia sira husi asendent sira no hanesan fatin ba rituál no serimónia importante sira. Uma lulik mós inklui elementu husi archetipu Mane Matenek, reprezenta matenek, tradisaun, no ligasaun entre moris no asendent sira.
+
+Tais, kain tradisionál husi Timor-Leste, oferese kultura riku husi simbolizmu archetipu. Padrãu sira ne'ebé komplikadu no dezain hetan iha tais representam archetipu Mandala, simboliza totalidade, unidade, no integrasaun husi forsa oposta. Prosesu hodi tebe tais rasik bele haree hanesan manifestasaun husi archetipu Kriador, hamosu aksaun hodi hamosu forma no beleza ba mundu liu husi habilidade no imajinasaun.
+
+Archetipu anima no animus, ne'ebé reprezenta aspetu femininu no maskulinu husi psike, hetan espresaun iha estrutura sosial no papel jéneru Timor nian. Sosiedade Timor tradisionál asigna papel no responsabilidade espesífiku ba mane no feto, refleta interasaun entre enerjia archetipu sira. Maski nune'e, manifestasaun husi archetipu sira iha kultura Timor bele difere husi interpretasaun Osidentál, mostra importánsia husi kontestu kultural iha komprensaun espresaun archetipu.
+
+Folklore Timor no tradisaun oral fornese fonte riku husi narativu archetipu. Istória sira kona-ba herói sira husi asendent sira, ser místiku, no viajen transformasaun refleta tema universál maibé inklui elementu Timor nian

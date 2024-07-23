@@ -1,0 +1,15 @@
+'Introdusaun ba Diversidade Fungus iha Timor-Leste
+
+Timor-Leste, nasaun ki'ik iha Sudeste Aziátiku iha metade lorosaun husi ilha Timor, maka uma ba espésie barak no diversu husi fungus. Nasaun tropikal ne'e nia ekosistema ne'ebé variadu, husi mangrove tasi ibun to'o ai-laran iha foho, fornese habitat di'ak ba intervalu ne'ebé boot husi fungi. Komprensaun diversidade fungus iha Timor-Leste importante tebes atu apresia importánsia ekolójika husi organismo sira-ne'e no sira nia benefísiu potensiál ba komunidade lokál.
+
+Fungus, ne'ebé mak kuerpu frutu husi fungi balun, joga papel importante tebes iha ekosistema Timor-Leste nian. Sira hanesan decomposer, halo kraik materia orgániku mate no recikla nutriente fali ba rai. Prosesu ne'e esensiál tebes atu mantein ai-laran no rai agrikultura ne'ebé saudável. Espésie fungus barak forma relasaun simbiótika ho ai-horis, aumenta sira nia habilidade atu absórbe bee no nutriente husi rai. Relasaun simbiótika ne'e importante tebes iha ekosistema ai-laran ne'ebé diversu iha Timor-Leste, ne'ebé mak kontribui ba kresimentu no sobrevivénsia husi espésie ai-horis barak.
+
+Diversidade fungus iha Timor-Leste kontinua tuir estudu, maibé estimasaun hatudu katak iha centenas espésie. Espésie nativu komun bele hetan iha habitat oioin, husi folin ai tahan iha ai-laran ki'ik to'o tuir ai ne'ebé tun moris iha área montanha nian. Espésie sira ne'ebé introduz ona mós sai estável, bele impakta ekosistema nativu no diversidade.
+
+Aspetu ida ne'ebé distingue liu husi biolójia fungus maka sira nia estrutura úniku. Fungus ne'ebé bele haree loloos deit kuerpu frutu husi organismo boot liu. Tuir rai ka iha laran materia orgániku tun moris iha mycelium, rede husi estrutura ne'ebé hanesan liña ne'ebé forma kuerpu prinsipál husi fungus. Mycelium ne'e bele kobre área boot, liga parte diferente husi ekosistema no fasilidade troka nutriente entre organismo.
+
+Fungus reproduz liu husi sporu, unidade mikroskópiku ne'ebé bele kreser ba fungi foun iha kondisaun di'ak. Sporu sira ne'e prodús iha kuerpu frutu no bele dispersa husi anin, bee, ka animal. Estratéjia reproduktivu efisiente ne'e permite fungus koloniza área foun ho lais no adapta ba kondisaun ambientál ne'ebé muda.
+
+Iha Timor-Leste, fungus funsiona hanesan funsaun ekolójika oioin liu husi dekompozisaun no relasaun simbiótika. Sira hanesan fonte ai-han importante ba animal bravo, inklui insetu, mamíferu ki'ik, no manu. Espésie fungus balun kontribui ba formasaun rai no retenaun bee, ajuda prevene erosiaun iha tereniu ne'ebé montanha no krík iha nasaun ne'e.
+
+Signifikadu kulturál husi fungus iha Timor-Leste la bele labele. Espésie barak iha uzu tradisionál iha ai-han lokál no ai-moruk. Fungus balun koleita hanesan ai-han, fornese fonte nutriente ne'ebé valiozu iha área rurál. Fungus seluk uza iha prátika kura tradisionál, destaka importánsia atu konserva koñesimentu ne'e nune'e mos esfors
