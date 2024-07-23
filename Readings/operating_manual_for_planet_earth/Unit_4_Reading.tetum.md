@@ -1,0 +1,15 @@
+'Sistemas Apoio Vida Nave Espasial Rai
+
+Ita-nia planeta, Rai, bele kompara ho nave espasial ne'ebé lori ita hotu-hotu no espesie barak liu husi cosmos. Hanesan nave espasial sira, Rai iha sistema apoio vida ne'ebé kompleksu hodi mantein balansu sensivel ne'ebé presiza ba moris. Sistema sira ne'e, ne'ebé evolui tiha ona durante biliaun tinan, hanesan siklu globál ne'ebé konekta malu no ekosistema diversu ne'ebé servisu hamutuk hodi sustenta moris hanesan ita hatene.
+
+Iha laran sistema apoio vida Rai nian, iha tolu siklu globál fundamentál: siklu karbonu, siklu bee, no siklu nutriente. Siklu sira ne'e responsável ba movimentu kontínuu no transformasaun elementu essensial no kompostu ne'ebé apoia moris iha ita-nia planeta.
+
+Siklu karbonu mak komponente importante tebes ba regulamentu klima Rai nian. Siklu ida ne'e involve troka karbonu entre atmosfera, oseanu, rai, no organismo moris. Ai-horis no fitoplanktonu sosa karbonu dioksida husi atmosfera liu husi fotossíntese, enkuantu animal no dekompozidor sosa fila fali liu husi respirasaun no dekompozisaun. Oseanu joga papel importante tebes iha siklu ida ne'e, sosa karbonu dioksida boot no hanesan depositu karbonu. Maibé, atividade umanu, partikularmente kometimentu kumbustivel fosil, perturba balansu sensivel ida ne'e, hodi aumenta nível karbonu dioksida atmosferiku no muda klima globál.
+
+Siklu bee, mós konhesidu hanesan siklu hidrolójiku, mak movimentu kontínuu bee iha laran Rai no atmosfera. Siklu ida ne'e involve prosesu hanesan evaporasaun, transpirasaun, kondensasaun, presipitasaun, no eskorrentia. Siklu ne'e essensial hodi distribui bee iha planeta nia laran, apoia ekosistema, no regula klima. Siklu bee konekta maka'as ba sistema Rai nian seluk, influensia padraun klima, erosaun, no distribuisaun nutriente.
+
+Siklu nutriente hatudu movimentu no rekiklajen elementu essensial, hanesan nitrojén, fósforu, no potásiu, iha laran ekosistema. Nutriente sira ne'e importante tebes ba kresimentu ai-horis no, liu husi ne'e, apoia rede alimentasaun tomak. Mikroorganismu joga papel importante iha prosesu dekompozisaun asuntu orgániku no liberta nutriente fila fali ba rai, hodi fó sira disponível ba ai-horis sosa. Siklu nutriente asegura disponibilidade kontínuu elementu essensial sira-ne'e ba moris kontinua.
+
+Siklu globál sira ne'e interaje ho no apoia ekosistema sira iha mundu tomak, kada ida ho nia funsaun úniku iha manutensaun sistema apoio vida Rai nian. Iha Timor-Leste, por ezemplu, iha tolu ekosistema krítiku ne'ebé destaka tanba sira-nia importánsia: floresta mangrovu, récife korál, no floresta tropikál.
+
+Floresta mangrovu hanesan ekosistema kosteiru ne'ebé fó benefísiu barak ba ambiente marinu no terrestre. Sira hanesan barreira naturál kontra onda forte no erosaun kosteiru, proteje linha kosteira no komunidade. Mangrovu mós hanesan viveiru ba espesie ikan barak, apoia peska lokál no biodiversidade. Alende ne'e, floresta sira ne'e efisiente te

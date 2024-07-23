@@ -1,0 +1,108 @@
+'<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materia Medica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            display: flex;
+            margin: 0;
+            padding: 0;
+        }
+        nav {
+            width: 300px;
+            height: 100vh;
+            overflow-y: auto;
+            background-color: #f4f4f4;
+            padding: 20px;
+            position: fixed;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            margin-bottom: 5px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+        nav ul li a:hover {
+            color: #0066cc;
+        }
+        main {
+            margin-left: 320px;
+            padding: 20px;
+            max-width: 800px;
+        }
+        h1 {
+            color: #0066cc;
+        }
+        h2 {
+            color: #009933;
+            border-bottom: 1px solid #009933;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <h2>Tabela Husi Konteudo</h2>
+        <ul id="toc"></ul>
+    </nav>
+    
+    <main id="content"></main>
+
+    <script>
+        function loadContent() {
+            fetch('Materia_Medica.txt')
+                .then(response => response.text())
+                .then(text => {
+                    const lines = text.split('\n');
+                    let content = '';
+                    let toc = '';
+                    let inTableOfContents = false;
+                    let currentHeader = '';
+
+                    lines.forEach((line, index) => {
+                        if (line.startsWith('Table of Contents:')) {
+                            inTableOfContents = true;
+                        } else if (inTableOfContents && line.trim() === '') {
+                            inTableOfContents = false;
+                        } else if (inTableOfContents) {
+                            const itemName = line.trim().replace(/^- /, '');
+                            const itemId = itemName.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+                            toc += `<li><a href="#${itemId}">${itemName}</a></li>`;
+                        } else {
+                            if (line.trim() !== '') {
+                                if (index > 0 && lines[index - 1].trim() === '') {
+                                    currentHeader = line.trim();
+                                    const headerId = currentHeader.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+                                    content += `<h2 id="${headerId}">${currentHeader}</h2>`;
+                                } else {
+                                    content += `<p>${line}</p>`;
+                                }
+                            } else {
+                                content += '<br>';
+                            }
+                        }
+                    });
+
+                    document.getElementById('toc').innerHTML = toc;
+                    document.getElementById('content').innerHTML = content;
+                })
+                .catch(error => {
+                    console.error('Erro load konteudo:', error);
+                    document.getElementById('content').innerHTML = '<p>Erro load konteudo. Favor tenta fali iha tempu tuir mai.</p>';
+                });
+        }
+
+        window.onload = loadContent;
+    </script>
+</body>
+</html>'

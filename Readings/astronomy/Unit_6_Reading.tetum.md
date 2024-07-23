@@ -1,0 +1,15 @@
+'Kosmolojia no Universu Antigu: Desembaraña Tapeçaria Kosmika
+
+Kampu boot husi kosmos durante tempu naruk mak kaptiva imajinasaun umana, haforsa pergunta kona-ba ita nia orijen no natura universu nian rasik. Kosmolojia, estudu sientifiku kona-ba orijen, evolusaun, no estrutura boot husi universu, buka atu fo resposta ba pergunta ne'e. Iha dekada sira ikus ne'e, avansu espesial iha teknolojia observasaun no fisika teoriku halo revolusaun ba ita nia komprensaun kona-ba universu antigu no nia dezenvolvimentu tuir mai.
+
+Iha sentru kosmolojia moderna mak teoria Big Bang, modelu ne'ebé domina atu esplika moris no evolusaun husi universu. Tuir teoria ne'e, universu hahu iha tinan biliaun 13.8 liu ba, husi kondisaun ne'ebé makaas tebes, no iha dadeer no kontinua espandiu. Konseitu ida ne'e kona-ba universu espandiu hahu proposta husi Georges Lemaître iha dekada 1920s no suporta husi observasaun inovador husi Edwin Hubble.
+
+Deskoberta Hubble nian kona-ba redshift galaktiku fo evidensia importante ba universu espandiu. Nia observa katak luz husi galaksia distante ne'e muda ba onda naruk liu, vermelha, ne'ebé indika katak galaksia sira ne'e hohotu liu husi ita. Alende ne'e, nia deskobre katak galaksia ne'ebé liu dook, nia hohotu liu los. Relasaun ida ne'e, ne'ebé hatene hanesan Lei Hubble, implika katak universu la estatiku maibé espandiu dinamikamente.
+
+Teoria Big Bang suporta husi evidensia importante balu. Evidensia ne'ebé atrativu liu mak radiasaun Cosmic Microwave Background (CMB). Descobre husi sorin husi Arno Penzias no Robert Wilson iha 1964, CMB mak luz antigu liu iha universu, data husi tinan 380,000 liu ba husi Big Bang. Luz fraku ida ne'e, ne'ebé uniforme iha direksaun hotu, reprezenta hetan husi be tempu universu hahu sai klaran ba luz. CMB fo retratu husi universu ki'ik no flutuasaun temperatura ne'ebé sutil ne'e fo perspetiva valiozu kona-ba distribuisaun materia iha kosmos antigu.
+
+Pilar seluk ba evidensia ba teoria Big Bang mak abundansia elemento levis iha universu. Teoria ne'e preve katak durante minutu balu hafoin Big Bang, kondisaun favorese ba formasaun elemento levis hanesan hidrojeniu, helium, no kuantidade ki'ik liu husi litium. Abundansia ne'ebé observa husi elementu sira ne'e iha universu koiniside ho previsaun husi Big Bang nucleosynthesis, fo suporta boot ba teoria.
+
+Estrutura boot husi universu mós alinha ho previsaun Big Bang. Observasaun hatudu katak galaksia la distribui aleatoriu maibé forma teia kosmika husi filamento, kluster, no voids. Estrutura ida ne'e fiar katak origina husi flutuasaun kuantisu ki'ik iha universu antigu, ne'ebé depois amplifika husi gravidade durante biliaun tinan.
+
+Maske iha suksesu sira ne'e, kosmolojista sira hasoru desafiu boot iha esplika aspetu sira universu nian. Asuntu ida ne'ebé konfuz liu mak natura materia nakukun. Observasaun husi kurva rotasaun galaktiku no lensing gravitasaun sujere katak iha materia barak liu iha universu duke bele konta husi estrela
