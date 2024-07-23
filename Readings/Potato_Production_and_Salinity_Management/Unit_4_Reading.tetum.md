@@ -1,0 +1,15 @@
+'Jestaun Irrigasaun iha Kondisaun Salinidade
+
+Jestaun irrigasaun iha kondisaun salinidade oferese desafiu úniku ba produtor agrikultura, liuliu sira-ne'ebé kuda ai-han hanesan fehuk ne'ebé sensivel liu ba masin. Ho eskases bee nivel mundial nian aumenta no produtor barak presiza hili uza bee fonte ne'ebé la di'ak, komprensaun kona-ba jestaun efetivu irrigasaun iha kondisaun salinidade sai esensial tebes atu bele kontinua produsaun ai-han no mantein saude rai. 
+
+Salinidade iha bee irrigasaun no iha rai bele impaktu signifikante ba ai-han nia kresimentu no produsaun. Bainhira ai-han hetan expozisaun ba konsentrasaun masin ne'ebé aas, sira sei hetan tensaun osmotik ne'ebé redus sira-nia kapasidade atu simu bee no nutrientes. Alende ne'e, bele mos mosu toxicidade husi ion espesifiku hanesan folin ai-han ne'ebé tun, kresimentu ne'ebé la dezenvolve no redusaun ba prosesu fotosintese. Ba kuda fehuk ne'ebé sensitivu ba salinidade, jestaun irrigasaun ne'ebé di'ak mak esensial atu redus impaktu negativu sira no garante produsaun no kualidade di'ak.
+
+Estrategia primaria ida atu jestaun salinidade iha agrikultura irrigasaun maka liu husi jestaun irrigasaun ne'ebé di'ak. Ida ne'e inklui determina tempu no dosagem bee ne'ebé presiza aplika ba ai-han. Iha kondisaun salinidade, importante tebes atu mantein umidade rai ne'ebé adekuadu atu evita konsentrasaun masin iha zona abut. Metodu rua ne'ebé komun hodi determina nesesidade bee ai-han nian mak jestaun baseia ba evapotranspirasaun (ET) no jestaun baseia ba umidade rai.
+
+Jestaun baseia ba ET uza dadus klimatik no koefisiente ai-han hodi estima bee ne'ebé lakon liu husi evaporasaun husi rai no transpirasaun husi ai-han. Informasaun ida ne'e ajuda produtor sira hodi determina dosagem bee ne'ebé presiza aplika hodi troka bee ne'ebé lakon ona. Iha kondisaun salinidade, dala barak presiza aplika bee adisional liu husi rekizitu ET atu bele inklui frasaun leaching ne'ebé presiza ba jestaun nivel masin.
+
+Jestaun baseia ba umidade rai depende ba monitorizasaun tensaun umidade rai, ne'ebé hatudu katak bee ne'e presu liu iha rai. Metodu ida ne'e bele útil tebes iha kondisaun salinidade tanba bele ajuda produtor sira atu mantein nivel umidade rai ne'ebé di'ak, hodi evita akumulasaun masin iha zona abut. Bele uza instrumentu hanesan tensiometru ka sensor rezistensia eletrika hodi sukat tensaun umidade rai no orienta desizaun kona-ba irrigasaun.
+
+Leaching mak metodu importante ida hodi jestaun salinidade iha agrikultura irrigasaun. Frasaun leaching mak parte husi bee irrigasaun ne'ebé drenu ba kraik zona abut, hodi labele hamenus salinidade iha zona abut. Kalkula rekizitu leaching mak esensial ba mantein balansu salinidade ne'ebé favoravel iha zona abut. Rekizitu leaching depende ba salinidade bee irrigasaun, toleransia ai-han ba salinidade, no nivel salinidade ne'ebé dezija iha zona abut.
+
+Atu kalkula rekizitu leaching, produtor sira presiza hatene kon
