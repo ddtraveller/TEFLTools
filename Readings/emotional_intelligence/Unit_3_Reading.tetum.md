@@ -1,0 +1,13 @@
+'Prinsipiu kuidadu informadu trauma iha Timor-Leste
+
+Timor-Leste, nasaun foin sa'e ida ho istória ne'ebé markadu husi konflitu no violénsia, iha desafiu úniku atu lida ho trauma iha nia populasaun. Hanesan ita kontinua dezenvolve saude no servisu sosiais, ita rekoñese katak iha nesesidade boot atu implementa prinsipiu kuidadu informadu trauma ne'ebé sensível kultura no adapta ba kontestu Timor nian. Artigu ida ne'e sei halo esplorasaun ba prinsipiu kuidadu informadu trauma no nia aplikasaun iha Timor-Leste.
+
+Kuidadu informadu trauma mak abordajen ida ne'ebé rekoñese impaktu trauma nian ne'ebé boot no kompriende dalan posivel ba rekuperasaun. Nia hakarak ativamente resistensia ba re-traumatizasaun liuhosi kria ambiente seguru, fiar, no habilita ema. Iha Timor-Leste, ne'ebé ema barak hetan trauma relasiona ho okupasaun Indonézia, instabilidade sivil, no desafiu sosioekonomia kontinua, implementasaun prinsipiu kuidadu informadu trauma ne'ebé importante tebes ba kurasaun efetivu no dezenvolvimentu komunidade.
+
+Prinsipiu sira ne'ebé importante liu husi kuidadu informadu trauma mak seguransa, fiar, opsaun, kolaborasaun, no habilitasaun. Iha kontestu Timor nian, prinsipiu sira ne'e tenki kompriende no aplika ho konsiderasaun boot ba norma kultura lokal, krensa, no prátika.
+
+Seguransa mak fundasaun kuidadu informadu trauma. Iha Timor-Leste, ne'e signifika kria ambiente ne'ebé ema sente seguru fizikamente no emosionalmente. Ne'e bele difisil iha nasaun ne'ebé infraestrutura sei dezenvolve no rekursu limitadu. Maibé, medida simples hanesan asegura espasu ne'ebé iluminadu di'ak, fornese informasaun klaru kona-ba servisu, no treina staff iha teknika de-escalation bele aumenta signifikativamente sentimento seguransa.
+
+Fiar mak importante liu iha sosiedade ne'ebé hetan traisaun no opresaun. Harii konfiansa iha Timor-Leste presiza konsistensia, transparénsia, no respeitu ba kostume lokal. Provedor saude no trabalhador komunidade tenki klaru kona-ba sira-nia papel, mantein limitasaun apropriada, no kumpri sira-nia kompromisu. Integra prátika kurasaun tradisional ho abordajen modernu mós bele ajuda harii konfiansa ho komunidade.
+
+Prinsipiu opsaun kona-ba fornese opsaun no respeita preferensia individu nian. Iha Timor-Leste, ne'ebé valoriza desizaun kolektiva liu husi esklolla individu, prinsipiu ne'e tenki balansu ho norma kultura. Fornese opsaun iha tratamentu ka opsaun suporta, hanesan involve membru família no komunidade bainhira apropriado, bele ajuda habilita ema la'ós

@@ -1,0 +1,13 @@
+'Trauma no nia impaktu iha Timor-Leste
+
+Timor-Leste, nasaun ki'ik ida iha Ázia Sudeste ho istória tumultuóza, hasoru ona impaktu boot husi trauma ba nia populasaun durante dekada barak. Viajen nasaun nian husi kolonializmu, okupasaun, no konflitu hamosu marka permanente ba nia povu, forma sira-nia mentalidade kolektiva no influensia estrutura sosiedade Timor oan nian. Artigu ida ne'e analiza forma sira husi trauma ne'ebé prevalente iha Timor-Leste, nia impaktu psikolójiku no fisiolójiku, no maneira trauma istóriku kontinua mós hafunan ba jerasaun sira.
+
+Rai husi trauma iha Timor-Leste bele halao fila-fali ba nia pasadu kolonial no okupasaun tuir mai. Okupasaun Indonézia husi 1975 to'o 1999 mak brutál tebes, karakterizadu ho violénsia generalizadu, abuzu direitus umanu, no dislokasaun forsa. Referéndu iha 1999 ba independénsia, maski iha rohan, hetan ona estragus husi violénsia intensa no destruisaun. Eventu sira ne'e hamosu sira-nia trauma boot ba povu Timor oan, kontribui ba ida ne'ebé hatene hanesan trauma istóriku.
+
+Trauma istóriku hatudu ba lezaun emosional no psikolójiku ne'ebé akumula durante moris individuál ida nian no kontinua ba jerasaun sira. Iha Timor-Leste, ida ne'e manifesta iha forma oioin, inklui medu persistente, deskonfiansa ba autoridade, no tristeza kolektiva. Impaktu husi trauma ida ne'e la limita de'it ba ema sira ne'ebé experiénsia direitamente eventu sira; sira transmiti ba jerasaun tuir mai liu husi fenómenu ne'ebé hatene hanesan trauma interjerasaun.
+
+Trauma interjerasaun akontese bainhira impaktu psikolójiku husi experiénsia traumátiku sira transmite husi jerasaun ida ba seluk. Iha Timor-Leste, labarik no netu sira husi ema ne'ebé moris durante okupasaun frekuentemente aprezenta sintoma trauma, maski sira la experiénsia direitamente eventu sira. Transmisaun ida ne'e bele akontese liu husi mekanizmu oioin, inklui estilu edukasaun, narasaun istória, no mudansa epigenétiku.
+
+Liu husi trauma istóriku, asuntu kontemporáneu sira hanesan violénsia doméstika no dezastre naturál mós kontribui ba trauma ne'ebé kontinua ema Timor oan sira hasoru. Taxa violénsia doméstika iha Timor-Leste as altu tebes, perpetua siklu trauma iha família. Aleinde ida ne'e, vulnerabilidade nasaun nian ba dezastre naturál sira, inklui inundasaun no derumbamentu rai, expoe nia populasaun ba esperiénsia traumátiku seluk.
+
+Impaktu psikolójiku husi trauma iha Timor-Leste profundo no varia. Individu barak sofre husi

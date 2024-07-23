@@ -1,0 +1,15 @@
+'Prezervasaun Kultural no Adaptasaun Matenek Tradisionál
+
+Iha mundu ne'ebé globalizasaun aumenta, sistema koñesimentu tradisionál hasoru ameasa boot. Metodu tradisionál atu komprende no interage ho mundu, ne'ebé dezenvolve liu husi sekulu barak husi povu nativu, iha risku atu lakon tanba sosiedade moderniza no jerasaun foun sira adapta estilo moris foun. Maibé, prezervasaun no adaptasaun matenek tradisionál kontinua importante atu mantein diversidade kultural no atu rezolve asuntu kontemporáneu. Artigu ida ne'e analiza ameasa ba koñesimentu tradisionál, estratéjia atu prezerva, no potensial adaptasaun prátika tradisionál ba kontestu modernu.
+
+Koñesimentu tradisionál inklui prátika, kreansa no kompreensaun ne'ebé aat liu iha kultura lokál no ambiente. Sistema koñesimentu sira ne'e inklui prátika ekologia tradisionál, prátika kura, kreansa espiritual, no téknika jestaun rekursu sustentável. Ezemplu, povu Q'ero iha Peru mantein tradisaun espiritual ne'ebé inklui rituál atu honra rai no komunika ho espíritu natureza. Hanesan, iha Timor-Leste, komunidade tradisionál iha matenek valiozu kona-ba ekosistema lokál no prátika agrikultura sustentável ne'ebé transmite liu husi jerasaun ba jerasaun.
+
+Maibé, sistema koñesimentu sira ne'e hasoru ameasa barak iha mundu modernu. Modernizasaun no avansu teknolojia lalais hodi abandona prátika tradisionál tanba ema adapta estilo moris foun. Iha Peru, juventude Q'ero barak muda ba área urbanu atu buka edukasaun no oportunidade servisu, hodi rezulta iha transmisaun matenek tradisionál menus. Lakon lian nativu sai hanesan problema boot, tanba matenek tradisionál barak enkriptu iha estrutura lian no tradisaun oral.
+
+Mudansa klimátika mós sai ameasa boot ba sistema koñesimentu tradisionál. Tanba prátika agrikultura tradisionál labele fiar tanba mudansa padraun tempu, komunidade sira bele forsa atu abandona metodu produsaun ai-han tradisionál. Ne'e la'ós de'it afeta sira nia moris maibé mós halo de'it matenek ekolojia ne'ebé akumula ona liu husi jerasaun lakon.
+
+Iha Timor-Leste, dezenvolvimentu lalais hafoin hetan independénsia fo oportunidade no dezafiu ba komunidade tradisionál. Influénsia média globál no mudansa iha sistema edukasaun hamosu mudansa valor iha jerasaun foun. Matenek ekolojia tradisionál, ne'ebé importante tebes ba jestaun rekursu sustentável, iha risku atu lakon tanba ema adapta estilo moris modernu.
+
+Maske iha dezafiu sira, estratéjia barak emerje atu prezerva no adapta matenek tradisionál. Dokumentasaun tradisaun oral sai instrumentu importante atu prezerva koñesimentu ne'ebé bele lakon. Komunidade tradisionál barak kolabora ho antropologista no linguista atu grava sira nia istória, rituál, no prátika tradisionál. Iha Peru, esforsu hala'o atu hanorin juventude Q'ero sira kona-ba prátika tradisionál, hodi asegura koñesimentu ne'e transmite ba jerasaun futuru.
+
+Adaptasaun prátika tradisionál ba ambiente urbanu mós sai estratéjia importante. Tanba ema tradisionál barak muda ba sidade, i

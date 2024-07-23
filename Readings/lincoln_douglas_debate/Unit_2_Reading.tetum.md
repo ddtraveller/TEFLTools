@@ -1,0 +1,15 @@
+'Konstrusaun Argumentu iha Debate Lincoln-Douglas
+
+Iha mundu debate kompetitivu, kapasidade atu konstrui no hatudu argumentu kbi’it mak importante liu. Debate Lincoln-Douglas, ida forma debate ida kontra ida, fo'os liu ba estrutura lójiku no podér persuasaun argumentu sira. Iha sentru husi formatu debate ne’e, iha arte konstrusaun argumentu ne’ebé la’ós de’it lójiku maibé mós efetivu iha aspetu retórka.
+
+Baze ida husi argumentu forte iha debate Lincoln-Douglas mak modelu reklama-warrant-impaktu. Estrutura parte tolu ne’e fo molde ba debater sira atu hatudu sira-nia pozisaun ho klaru no persuasivu. Reklamasaun mak aserativu prinsipál ka pozisaun ne’ebé debate. Nune’e deklarasaun ida ne’ebé klaru no konkretu ne'ebé hatudu pozisaun debater nian ba rezolusaun ne'ebé fo ona. Ezemplu, iha debate kona-ba energia renovável, reklamasaun bele hanesan, "Timor-Leste tenki aumenta boot investimentu iha fonte energia renovável."
+
+Hafoin reklamasaun, warrant serve hanesan razaun ka evidénsia ne'ebé suporta aserativu inisiál. Iha ne’e debater sira fo baze lójika ka faktual ba sira-nia reklamasaun. Iha ezemplu energia renovável, warrant bele hateten, "Energia renovável redús dependénsia ba fuel mina no hatún emisaun karbonu, ne'ebé importante tebes ba sustentabilidade nasaun ne'ebé dezenvolve nia laran." Warrant harii ligasaun entre reklamasaun no impaktu, fornese justifikasaun ne'ebé presiza ba argumentu.
+
+Komponente ikus husi modelu ne’e mak impaktu, ne’ebé hateten importánsia ka konsekuénsia husi argumentu se karik nia simu. Iha ne’e debater sira esplika tanba argumentu sira-nia importante iha kontestu luan liu husi rezolusaun debate. Kontinua ho ezemplu ami, deklarasaun impaktu bele hanesan, "Husi investimentu iha energia renovável, Timor-Leste sei hasa’e nia seguransa energia, redús nia vulnerabilidade ba mudansa presu mina global, no hatudu an rasik hanesan líder iha dezenvolvimentu sustentável entre nasaun dezenvolve sira."
+
+Atu hakbi'it argumentu sira, debater sira depende ba oin-oin tipu evidénsia. Evidénsia empíriku, inklui dadus estatístika no estudu sientífiku, fo suporta konkretu, ne'ebé bele hetan no halo medida ba reklamasaun. Evidénsia anekdótika, hanesan istória pesoa nian ka ezemplu espesífiku, bele hatudu elementu umanu ba argumentu sira no halo sira sai relatable liu. Testemunha espesialista, husi autoridade sira-ne'ebé rekoñese iha kampu relevante, fo kredibilidade ba argumentu liu husi opniaun profisionál.
+
+Uza efetivu husi tipu evidénsia sira-ne’e bele hakbi’it boot argumentu. Ezemplu, debater ida ne'ebé defende investimentu aumenta iha edukasaun bele uza evidénsia empíriku ne'ebé hatudu ligasaun forte entre gastu edukasaun no kresimentu ekonómiku. Sira bele depois uza evidénsia anekdótika kona-ba oinsá edukasaun ne'ebé di’ak liu transforma komunidade, no ikusmai, inklui testemunha espesialista husi ekonomista ka espesialista edukasaun sira-ne'ebé suporta sira-nia pozisaun.
+
+Iha debate Lincoln-Douglas, konstrusaun argumentu la’

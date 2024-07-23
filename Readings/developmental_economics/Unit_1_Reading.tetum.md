@@ -1,0 +1,15 @@
+'Introdusaun ba Abordajen Espérimental iha Ekonomia Dezenvolvimentu
+
+Ekonomia dezenvolvimentu iha dekadas ikus ne'e hetan transformasaun signifikativu, hahu husi modelu teóriku no komparasaun entre nasaun ba abordajen empíriku ne'ebé bazeia ba evidénsia. Iha fronteira mudansa ne'e mak abordajen espérimental, liu-liu uza ensaiu kontroladu randomizadu (RCTs). Metodolojia ida ne'e, ne'ebé foti husi peskiza médiku, revolusiona tiha oinsá ekonomista sira estuda alleviasaun pobreza no dezenvolvimentu ekonomia iha nasaun sira ho rendimentu ki'ik no médiu.
+
+Abordajen espérimental iha ekonomia dezenvolvimentu nia objetivu mak atu solusiona dezafiu fundamentál: oinsá atu sukat ho akuratadu impaktu husi intervensaun espesífiku ka polítika sira ba rezultadu ekonomia. Métodu tradisionál barak mak difisil atu estabelese ka fó prova kauzalidade, tanba fator barak mak influénsia rezultadu ekonomia. RCTs oferese solusaun ida liu husi aloka partisipantes aleatóriamente ba grupu tratamentu no kontrolu, ne'ebé permite peskizador sira atu separa efeitu husi intervensaun ida.
+
+Iha RCT ida, grupu tratamentu simu intervensaun ne'ebé iha peskiza, enkuantu grupu kontrolu la simu. Liu husi kompara rezultadu entre grupu sira ne'e, peskizador sira bele determina impaktu kauzal husi intervensaun. Métodu ida ne'e aplika ona ba asuntu dezenvolvimentu ne'ebé variadu, inklui edukasaun, saúde, mikrofinansas, no produtividade agrikultura.
+
+Esther Duflo, ida husi pioneiru sira abordajen ne'e, hamutuk ho nia kolega sira Abhijit Banerjee no Michael Kremer, simu Nobel Ekonomia iha 2019 ba sira nia servisu espérimental iha ekonomia dezenvolvimentu. Peskiza sira nian fornese ona perspetiva valiozu kona-ba estratégia efetivu sira ba alleviasaun pobreza no influénsia desizaun polítika iha mundu tomak.
+
+Hanesan ezemplu, iha área edukasaun, RCTs uza ona atu avalia efikasia husi intervensaun sira. Estudu ida iha Kenya analiza impaktu husi fornese uniforme eskola livre ba frekuentasia estudante no desempeñu akadémiku. Rezultadu sira hatudu katak intervensaun simples ida ne'e aumenta signifikativamente frekuentasia eskola, liu-liu entre estudante sira ne'ebé ki'ik liu.
+
+Iha saúde, abordajen espérimental uza ona atu estuda adopsaun husi medida sira preventiva. Ezemplu ida ne'ebé importante mak RCT ida ne'ebé realiza iha Índia ne'ebé testa estratégia sira atu aumenta taxa imunizasaun entre labarik sira. Estudu ne'e hatudu katak oferta incentivo ki'ik, hanesan fehuk, ba inan-aman sira ne'ebé mai ho sira nia labarik ba vakina aumenta signifikativamente taxa imunizasaun.
+
+Abordajen espérimental mós fó laran kona-ba asuntu kompleksu iha mikrofinansas. RCTs ajuda peskizador sira atu komprende impaktu refinadu husi programa mikrokreditu sira ba reduksaun pobreza, ne'ebé desafia otimismu inisiál ruma ne'ebé iha kona-ba inisiativa sira ne'e. Estudu sira ne'e hatudu katak

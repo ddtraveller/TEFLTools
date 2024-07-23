@@ -1,0 +1,15 @@
+'Kontestu Istóriku no Paisajen Seguransa Atuál iha Timor-Leste
+
+Timor-Leste, mós konhesidu hanesan Timor Lorosa'e, iha istória kompleksu ne'ebé markadu husi kolonizasaun, okupasaun, no luta ba independénsia. Istória nasaun ne'e ki'ik iha Sudeste Azia nian kontinua influénsia dezafiu seguransa no situasaun sosioekonomia iha tempu atuál. Komprensaun kontestu istóriku importante tebes atu komprende situasaun seguransa atuál iha Timor-Leste no esforsu kontinua atu harii paz no estabilidade ne'ebé duraduru.
+
+Istória konflitu iha Timor-Leste hahu husi sékulu 16, bainhira kolonizadór sira hosi Portugal molok iha ilha. Portugal mantein kontrola metade oriental Timor durante 500 tinan, too 1975. Períodu kolonizasaun naruk ida ne'e hatudu impaktu boot ba sosiedade, kultura, no estrutura governasaun Timor nian. Hafoin Portugal husik Timor, Indonézia invade no okupa Timor-Leste, ne'ebé rezulta iha konflitu no rezisténsia ne'ebé lasa durante 24 tinan.
+
+Okupasaun Indonézia, ne'ebé kontinua husi 1975 too 1999, karakterizadu husi abuzu direitu umanu ne'ebé boot, deslokamentu forsa, no mate hosi populasaun Timor nian ne'ebé estimadu entre 100,000 ba 200,000. Durante períodu ne'e, movimentu rezisténsia forte ida emerje, inklui komponente armadu no klandestinu. Luta ba independénsia remata ho referendum ne'ebé patrosina hosi ONU iha 1999, ne'ebé ema Timor vota ona ho maioria boot ba independénsia.
+
+Hafoin referendum, violénsia intensa too hafoin milísia pro-Indonézia, ho apoiu hosi elementu militar Indonézia nian, hahu kampaña tanba rai. Situasaun ne'e rezulta iha intervensaun internasionál no estabelesimentu administrasaun transisionál hosi ONU. Iha 2002, Timor-Leste hetan independénsia kompletu, maibé nasaun foun enfrenta dezafiu barak iha konstrusaun instituisaun estadu nian, estabelesimentu seguransa, no atu lida ho heransa konflitu.
+
+Períodu hafoin independénsia markadu ho surtu violénsia no dezafiu seguransa ne'ebé periodiku. Krize signifikativu ida akontese iha 2006, bainhira tensaun entre forsa seguransa nian halo agitasaun sivíl ne'ebé rezulta iha ema nia mate barak no deslokamentu ema nian ne'ebé liu 150,000. Eventu ne'e mosu fragilidade instituisaun foin-molok nian iha Timor-Leste no divisão profunda iha sosiedade.
+
+Ohin loron, Timor-Leste enfrenta ameasa no dezafiu seguransa ne'ebé varia. Dezafiu ida ne'ebé importante liu mak proliferasaun arma ki'ik nian. Maske esforsu hodi koleita arma hafoin luta ba independénsia, arma barak sei iha sirkulasaun, ne'ebé kontribui ba violénsia no instabilidade. Prezensa arma sira ne'e aumenta problema seguransa sira seluk no komplika esforsu atu mantein lei no ordem.
+
+Dezafiu seguransa seluk mak prezensa grupu arte marsiais no gangue sira. Organizasaun sira ne'e, ne'ebé iha lia-husi iha movimentu rezisténsia ka grupu juventude iha tempu Indonézia, sai hanesan at

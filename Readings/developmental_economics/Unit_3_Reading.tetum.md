@@ -1,0 +1,15 @@
+'Intervensaun Saúde no Aliviu Pobreza iha Timor-Leste
+
+Timor-Leste, ida husi nasaun ki'ik liu iha mundu, hasoru desafiu boot iha saúde no dezenvolvimentu ekonomiku. Dezde indepéndensia iha tinan 2002, nasaun ne'e hahu halo mudansa pozitivu ba moris di'ak populasaun nian, maibé iha obstakulu boot ne'ebé sei iha. Artigu ida ne'e analiza relasaun entre intervensaun saúde no aliviu pobreza iha Timor-Leste, esplora problema saúde atuál, inisiativa ne'ebé la'o hela, no impaktu potensiál husi intervensaun ne'ebé bazeia ba evidénsia ba dezenvolvimentu nasaun.
+
+Ligasaun entre saúde no dezenvolvimentu ekonomiku ne'e hatudu ona. Rezultadu saúde ne'ebé di'ak bele kontribui ba produtividade, edukasaun di'ak liu no kresimentu ekonomiku tomak. Iha parte seluk, saúde ki'ik bele lori individu no komunidade sira ba siklu pobreza. Iha Timor-Leste, ne'ebé populasaun besik 41.8% moris iha liña pobreza nasaunál, atu rezolve problema saúde importante tebes ba dezenvolvimentu sustentavel.
+
+Timor-Leste iha problema saúde ne'ebé urgente. Malnutrisaun sai problema importante, ho ema ki'ik menus lima tinan ne'ebé sofre husi problema kresimentu liu 50%. Saúde inan-oina no labarik sei problema, ne'ebé hatudu husi taxa mortalidade inan-oina no labarik menus lima tinan ne'ebé aas liu media rejionál. Moras infeksaun, hanesan malária, tuberkuloza, no febre dengue, kontinua sai knananuk ba populasaun. Infraestrutura saúde limitadu iha nasaun ne'e mos hamosu difikuldade ba fornese servisu esensiál, li-liu iha área rurál.
+
+Hodi rezolve problema sira ne'e, Timor-Leste implementa ona polítika saúde no inisiativa sira. Planu Estratéjiku Saúde Setór Nasionál 2011-2030 hatudu kompromisu governu nian ba rezultadu saúde ne'ebé di'ak no kobre saúde universál. Estratéjia importante inklui hasa'e servisu saúde primária, alarga programa imunizasaun, no hadi'a servisu saúde inan-oina no labarik.
+
+Evidénsia husi ezame kontroladu randomizadu (RCTs) iha nasaun dezenvolvimentu fornese liafuan importante kona-ba intervensaun saúde efetivu ne'ebé bele uza iha Timor-Leste. Programa de-worming, hanesan ezemplu, hatudu impaktu pozitivu boot ba saúde labarik no asisténsia eskola iha nasaun ho perfil saúde hanesan. Estudu husi Miguel no Kremer (2004) iha Kenya hatudu katak de-worming bazeia iha eskola bele hamenus absenteízmu 25% no efetivu liu husi kustu.
+
+Kampanha vaksinasaun hatudu katak nia efetivu tebes ba saúde públiku. Iha Timor-Leste, ne'ebé moras ne'ebé bele prevene husi vaksina sei problema, alarga kobre vaksinasaun bele hetan benefísiu boot. Suksesu husi kampanha vaksinasaun polio iha India, ne'ebé lori ba estatutu polio-livre iha 2014, hatudu katak impaktu potensiál husi programa vaksinasaun ne'ebé halo ho di'ak.
+
+Distribuisaun moskiteiru ba prevene malária hatudu rezultadu prometedor iha nasaun dezenvolvimentu sira. Estudu husi Bhatt et al. (2015) estima katak moskiteiru respons

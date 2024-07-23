@@ -1,0 +1,13 @@
+'Introdusaun ba Gnosticismu no Biblioteka Nag Hammadi
+
+Gnosticismu, movimentu relijioza diversu ne'ebé sura iha sékulu sira inisiu husi era Komun, durante tempu naruk hafalun estudante sira no buka matenek espirituál. Ho nia énfaze ba koñesementu segredu no kosmolojia kompleksu, Gnosticismu oferese perspetiva úniku kona-ba natureza realidade, divindade, no ezisténsia umana. Deskoberta biblioteka Nag Hammadi iha tinan 1945 revolusiona ita-nia komprensaun kona-ba tradisaun antiga ida-ne'e, fornese asesu lao-lalais ba testu Gnostiku orijinál no fo hanoin foun ba dezenvolvimentu Kristianismu tempu uluk.
+
+Iha nia laran, Gnosticismu karakteriza husi fiar iha gnosis, forma ida husi matenek divinu ka ispirasaun ida ne'ebé esensiál ba salvasaun. Gnostiku sira fiar katak mundu materiál sei kriasaun ne'ebé sala, kria husi deus ne'ebé la perfetu ka ne'ebé malévolu ne'ebé hatene hanesan Demiurge. Tuir krensa Gnostiku, ema iha faíska divinu ida iha sira-nia isin fiziku, no salvasaun mai husi rekoñesimentu divindade laran no eskapa husi limitasaun mundu materiál.
+
+Relasaun entre Gnosticismu no Kristianismu tempu uluk kompleksu no iha aspetu barak. Maske grupu Gnostiku balun konsidera sira rasik Kristaun, líder Kristaun ortodoksu sira bainhira konsidera ensinu Gnostiku hanesan herejia. Gnosticismu dezenvolve hamutuk ho Kristianismu tempu uluk, inklui elementu husi pensamentu Judio, Gregu, no Ejiptu iha sira-nia kosmolojia no soteriolójia.
+
+Deskoberta biblioteka Nag Hammadi iha Ejiptu leten marka mudansa importante iha estudu Gnosticismu. Koleksaun 13 kodise iha kulit, ne'ebé inklui liu testu 50, hetan husi agrikultor sira iha beibeik vila Nag Hammadi. Testu sira, ne'ebé hakerek liu iha lingua Koptiku, inklui eskrita Gnostiku husi gama larga, hanesan evanjelhus, apokalipse, no tratadu filozófiku. Entre testu sira-ne'e, evanjelhu Thomas, evanjelhu Philip, no livru segredu John mak famozu liu.
+
+Testu Nag Hammadi fo hanoin importante kona-ba kosmolojia no teolojia Gnostiku. Sentrál ba eskrita barak mak konseitu Pleroma, reino espirituál husi plenitude no perfesaun ne'ebé hotu-hotu ezisténsia mai husi ne'e. Pleroma frequentemente deskreve hanesan konsistensia Aeon, emana divinu ka atributu husi deus aas liu. Iha kontraste ba reino espirituál perfetu ida-ne'e mak mundu materiál, ne'ebé governa husi Demiurge no servu husi Archon sira.
+
+Soteriolójia Gnostiku, ne'ebé hatudu iha testu Nag Hammadi, foka importánsia auto-konhesimentu no rekoñesimentu orijen divinu ida-nia. Eskrita Gnostiku barak hatudu mitu ne'ebé elaboradu ne'ebé deskreve monu ba matenek divinu (iha okazia balun personifika hanesan Sophia) no kriasaun materiál tuir mai. Mito sira-ne'e serve atu esplika prezensa faíska divinu iha umanu sira no hatudu dalan ba salvasaun liu hus

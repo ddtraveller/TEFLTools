@@ -1,0 +1,15 @@
+'Reinterpretasaun Ensinamentu Jesus nian: Perspetiva Aramaic'
+
+Ensinamentu Jesus nian husi sékulu barak nia laran mak sai hanesan fatin sentrál ba fiar Kristaun, forma fiar no pratika miliaun sira iha mundu tomak. Maibé, peskiza foun hatudu interpretasaun foun husi ensinamentu sira-ne'e liuhusi lingua Aramaic nian, lingua ne'ebé provavelmente Jesus uza. Reinterpretasaun ida ne'e oferese perspetiva foun ba parábola sira no ditadu sira ne'ebé amíliar ona, bele muda ita-nia komprensaun kona-ba mensajen Jesus nian no relevansia ida ne'e ba espiritualidade kontemporania.
+
+Exemplu ida ne'ebé markante liu husi interpretasaun ida ne'e mak iha parábola kona-ba ai-hun di'ak no maran husi Matthew 7:17. Iha tradusaun Inglés tradisionál, Jesus dehan, "Ai-hun di'ak prodús ai-fuan di'ak, ai-hun maran prodús ai-fuan maran." Maibé, bainhira ita lee liuhusi lingua Aramaic nian, signifikadu ida ne'e muda boot. Iha Aramaic, liafuan ba "di'ak" signifika liu "too matenek", enkuantu "maran" interpreta ho di'ak "la matenek." Entaun, parábola ida ne'e sai hanesan: "Ai-hun ne'ebé too matenek prodús ai-fuan ne'ebé too matenek, ai-hun ne'ebé la matenek prodús ai-fuan ne'ebé la matenek."
+
+Mudansa ida ne'e iha interpretasaun hatudu impaktu ne'ebé boot. Laiha oposisaun klaru entre di'ak no maran, interpretasaun Aramaic nian hatudu prosesu naturál dezenvolvimentu no maturidade. Ai-hun laos defeitu no sala aat; de'it seidauk hetan potensia kompletu. Perspetiva ida ne'e akompaña ho naturaleza siklikál vida nian no dezenvolvimentu gradativu sabedoria no virtude.
+
+Konseitu "too matenek" kontra "la matenek" estende liu husi parábola ida de'it, oferese estrutura foun ba komprensaun ensinamentu Jesus nian. Fó hanoin ne'ebé sofitikadu liu kona-ba komportamentu umanu no dezenvolvimentu espiritual, enfatiza importansia husi tempu, kontestu, no kresimentu pesoa'l liu husi regra morál absoluta.
+
+Konseitu Aramaic seluk ne'ebé muda ita-nia komprensaun kona-ba ensinamentu Jesus nian mak "shem," liafuan ho signifikadu barak inklui naroman, son, naran, no ambiente. Bainhira Jesus instrui sira-nia seguidór sira atu reza "iha ha'u naran," interpretasaun Aramaic nian hatudu signifikadu ne'ebé iha valor liu duke de'it invoka Jesus hanesan intermediariu. Ida ne'e bele komprende hanesan konvite atu reza iha Jesus nia naroman, son, ka ambiente – abordajen holístiku no experiensial ba pratika espiritual.
+
+Liafuan Aramaic "Alaha," ne'ebé tradus hanesan "Maromak," iha signifikadu primáriu hanesan unidade. Konseitu unidade divina nian kontradiu ho doutrina Kristaun iha futuru, hanesan Trindade. Ida ne'e hatudu perspetiva inkluzivu no interkonetadu liu kona-ba divinu, ne'ebé resonansia ho ema barak ne'ebé buka espiritualidade kontemporania no repete tema sira iha tradisaun sabedoria seluk.
+
+Reinterpretasaun ensinamentu Jesus nian liuhusi

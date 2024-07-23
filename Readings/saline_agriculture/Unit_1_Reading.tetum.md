@@ -1,0 +1,15 @@
+'Introdusaun ba Agrikultura Salina
+
+Agrikultura Salina hanesan abordajen inovadora ida ba agrikultura ne'ebé mak luta kontra problema salinidade rai nian ne'ebé mak aumenta, problema ne'ebé mak afeta rai agrikultura iha mundu tomak, liu-liu iha área tasi-ibun. Artigu ida ne'e hakfodak kona-ba konseitu Agrikultura Salina nian, prinsípiu sira, benefísiu potensial sira, ho foku ida ba aplika iha Timor-Leste, nasaun ida ne'ebé hetan problema sira kona-ba salinidade rai nian.
+
+Salinidade rai hanesan kondisaun ida ne'ebé sais mak halibur iha rai to'o nivel ida ne'ebé mak prejudika dezenvolvimentu ai-han no produsaun kolleita. Iha rejiaun tasi-ibun hanesan Timor-Leste, problema ida ne'e aumenta tanba tasi-ben, irrigasaun ho bee masin, no drenajen la di'ak. Bainhira agrikultura tradisional la konsege atinji sira nia objetivu iha kondisaun hirak ne'e, Agrikultura Salina oferese solusaun ida ne'ebé mak promete.
+
+Agrikultura Salina define hanesan prátika ida kultiva ai-han iha rai ne'ebé afetadu husi masin. Prátika ne’e involve teknika no estratéjia hirak ne'ebé dezenvolve ba atu maneja nivel salinidade rai nian ne'ebé aas, hodi nafatin prodús saida ne'ebé agrikultura nesesita. Prinsípiu prinsipal Agrikultura Salina nian maka uza ai-han sira ne'ebé tolera masin, mós hanaran halofitas, ne'ebé bele moris di'ak iha kondisaun salina ne'ebé mak ai-han konvensional sira sei la konsege.
+
+Aspetu importante ida husi Agrikultura Salina maka jestaun rai nian. Teknika sira hanesan leaching, ne'ebé sais liu husi irrigasaun kontroladu ne'ebé klean husi zona abut, joga papel importante ida. Alende ne'e, uza materia organika no mulching bele hadia estrutura rai no kapasidade rai nian atu reten bee, ne'ebé bele hamenus impaktu salinidade nian. Kultiva iha kama ne'ebé sae mak métodu seluk ne'ebé uza iha Agrikultura Salina, tanba ajuda atu maneja bee no nivel masin ho efetivu liu.
+
+Jestaun irrigasaun mós hanesan komponente kritiku ida husi Agrikultura Salina. Sistema irrigasaun drip mós uza ona tanba bele aplika bee ho presizaun, hodi minimiza akumulasaun masin iha rai. Jestaun kualidade bee no horariu irrigasaun ne'ebé planu di'ak importante tebes atu prevene salinizasaun rai nian sai liu tan.
+
+Benefísiu Agrikultura Salina nian mak multiplu. Primeiru, nia signifikativamente hadiak seguransa ai-han liuhusi habilita produsaun kolleita iha área sira ne'ebé antes konsidera la adekuadu ba agrikultura. Ne'e importante liu iha nasaun sira hanesan Timor-Leste, ne'ebé rai ne'ebé bele agrikultura limitadu. Segundu, Agrikultura Salina mós habilita oportunidade ekonómiku foun. Ai-han sira ne'ebé tolera masin hanesan quinoa, cevada, no palmeira data sira la'ós de'it fornese hahán maibé bele sai hanesan ai-han ne'ebé valorizadu atu hetan osan.
+
+Aleinde ne'e, Agrikultura Salina mós oferese benefísi

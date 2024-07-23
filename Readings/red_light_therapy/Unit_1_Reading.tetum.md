@@ -1,0 +1,15 @@
+'Introdusaun ba Terapia Luz Vermelha no Infravermelha
+
+Naroman sempre rekonhese ona hanesan fonte halibur, hosi civilizasaun antigu sira ne'ebé adora loron to'o tratamentu médiku modernu ne'ebé uza ondas espesífiku husi naroman. Husi abordajen inovativu sira ne'e, terapia luz vermelha no infravermelha sai hanesan kampu promisoriu ho aplikasaun potensial lubun. Artigu ida ne'e esplora fundamentu husi terapia ida ne'e, nia kontestu istóriku, no nia uzu atual iha kontestu globál no lokál.
+
+Terapia luz vermelha no infravermelha, mós konhesidu hanesan photobiomodulation, mak tratamentu ida ne'ebé la invazivu ne'ebé uza ondas espesífiku husi naroman atu estimula funsaun selulár no promove halibur. Terapia luz vermelha normalmente uza ondas entre 620-700 nanometers (nm), enkuantu terapia luz infravermelha uza ondas iha intervalu 700-1100 nm. Ondas sira ne'e monu iha parte espesífiku ida husi spektrum eletromagnétiku, ne'ebé inklui hotu-hotu tipu radiasaun eletromagnétiku, hosi ondas rádiu to'o raiu gamma.
+
+Atu komprende oinsá terapia ida ne'e funsiona, importante tebes atu komprende konseitu ondas. Iha kontestu naroman, onda refere ba distánsia entre piku sira husi onda naroman. Ondas naroman diferente interage ho isin iha maneira úniku, no ondas ne'ebé uza iha terapia luz vermelha no infravermelha hetan ona ne'ebé bele penetra kulit no interage ho selula iha profundidade diferente.
+
+Istória terapia luz halo to'o tempu antigu bainhira uza luz solar hanesan fonte halibur. Iha Egito, Grésia, no Roma antigu, eskpozisaun solar prescribe ona ba moras diferente. Era modernu terapia luz hahú iha finais sékulu 19 ho servisu husi Niels Ryberg Finsen, ne'ebé simu Nobel Prize iha 1903 ba nia uza luz atu trata lupus vulgaris. Depois ne'e, avansu iha teknolojia, partikularmente iha dezenvolvimentu LED (Light Emitting Diode) no laser, revolusiona kampu terapia luz.
+
+Evolusaun terapia luz hatudu muda hosi dependénsia ba luz solar naturál ba uza luz artifisiál. Transisaun ida ne'e permite kontrolu liu tan presizu ba ondas no intensidade luz ne'ebé uza iha tratamentu. Teknolojia LED, partikularmente, halo terapia luz sai liu tan asesível no baratu, hodi hetan adoptaun aumenta iha klinika no iha uma.
+
+Ohin loron, terapia luz vermelha no infravermelha iha aplikasaun lubun iha mundu tomak. Uza ona atu trata kondisaun kulit, promove halibur kanek, redús inflamasaun, alivia moras, no até aumenta desempeñu atlétiku. Iha dermatolojia, hatudu promesa iha tratamentu acne, redús ruga, no promove produsaun kolagén. Iha medisina desportu, uza atu aselera rekuperasaun múskulu no redús danu múskulu ne'ebé kauza husi ezersísiu.
+
+Aplikasaun potensial terapia ida ne'e estende ona ba kampu medisina diferente. Peskiza kontinua kona-ba efeitu sira ba saúde kakutak, ho estudu balun hatudu benefísiu potensial ba trauma kakutak no moras neurodegenerativu. Iha dentista, uza ona atu promove halibur depois operasaun orál. Terapia

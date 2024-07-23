@@ -1,0 +1,15 @@
+'Garantia Kualidade iha Kuidadu no Dezenvolvimentu Labarik Nian iha Faze Sedu
+
+Programa Kuidadu no Dezenvolvimentu Labarik Nian iha Faze Sedu (ECCD) desempeña papel importante tebes iha formasaun base ba viajen aprendizajen labarik nian durante moris tomak. Hanesan importancia husi edukasaun sedu aumenta hamutuk ho rekonhesimentu global, nesesidade ba mekanismu garantia kualidade ne'ebé forte iha programa ECCD sai importante liu. Garantia kualidade iha kontestu ida ne'e signifika monitorizasaun no avaliasaun sistemátika ba aspetu sira husi edukasaun labarik nian iha faze sedu hodi asegura katak padrãun kualidade atinje no mantein ona.
+
+Objetivu prinsipál husi garantia kualidade iha programa ECCD maka atu fornese labarik sira ho ambiente aprendizajen ne'ebé di'ak liu hodi promove dezenvolvimentu sira-nia holístiku. Dezenvolvimentu ida ne'e inklui kresimentu kognitivu, sosial-emosionál, no fíziku. Atu atinje ida ne'e, komponente importante sira presiza konsidera no implementa ho kuidadu.
+
+Aspetu fundamentál ida husi garantia kualidade maka asegura katak kualifikasaun staf apropriadu no treinamentu kontinua. Edukador sira ne'ebé serbisu ho labarik ki'ik sira tenke iha kualifikasaun akadémiku relevanti no esperiénsia prátika iha edukasaun labarik nian iha faze sedu. Alende ida ne'e, oportunidade dezenvolvimentu profisionál kontinua tenke fornese hodi mantein staf atualizadu kona-ba peskiza foun no prátika di'ak liu iha kampu.
+
+Faktor importante seluk maka mantein rasaun apropriadu entre labarik no staf. Tamanhu grupu ki'ik no rasaun ki'ik liu permite atensaun personalizadu liu no supervizaun di'ak liu, ne'ebé esensiál ba seguransa no aprendizajen labarik ki'ik sira. Rasaun espesífiku bele varia depende ba grupu ida nia idade no regulamentu lokál, maibé prinsípiu jerál maka labarik ki'ik liu presiza kuidadu no supervizaun intensivu liu.
+
+Ambiente fíziku husi sentru ECCD mós konsiderasaun importante iha garantia kualidade. Fasilitas presiza seguru, hamoos, no desenhadu hodi suporta aprendizajen labarik sira no esplorasaun. Inklui mobiliáriu apropriadu ba idade, materiais aprendizajen, no espasu esterna ne'ebé enkoraja atividade fíziku no esplorasaun natureza. Verifikasaun seguransa regulár no manutensaun ambiente importante tebes hodi asegura bee-mos labarik sira.
+
+Kurríkulu no atividade aprendizajen forma núkleu husi programa ECCD ida-ida. Kurríkulu ne'ebé kualidade aas presiza apropriadu ba dezenvolvimentu, hanesan nia atu hala'o tuir kapasidade kognitivu, sosial, no fíziku husi labarik sira iha idade oin-oin. Presiza mós komprehensivu, kobre domíniu dezenvolvimentu oin-oin hanesan lian, matemátika, siénsia, arte, no estudu sosial. Importante liu, kurríkulu tenke enfatiza aprendizajen bazeia ba brinca, reconhese katak labarik ki'ik sira aprende liu husi esperiénsia interativa no prátika.
+
+Envolvimentu família no komunidade mós komponent

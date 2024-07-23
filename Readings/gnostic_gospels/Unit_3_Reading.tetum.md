@@ -1,0 +1,15 @@
+'Evanjeliu Thomas: Koleksaun Antigu husi Ensinamentu Jesus
+
+Evanjeliu Thomas hanesan testu kristaun primitivu ida ne'ebé úniku no kontroversial ne'ebé halo estudiosu no fiel sira interesadu hosi ninia deskoberta iha 1945. La hanesan evanjeliu kanoniku hosi Matheus, Marku, Lukas, no João, Evanjeliu Thomas la aprezenta relato kronolojiku kona-ba vida no ministériu Jesus. Iha troka, nia hanesan koleksaun husi 114 ensinamentu sira ne'ebé atribui ba Jesus, barak husi sira ne'e mistériu no provoka reflesaun.
+
+Deskobre hanesan parte husi biblioteka Nag Hammadi iha Ejitu, Evanjeliu Thomas hakerek iha lian Coptic, maibé estudiosu sira fiar katak nia kompostu iha lian Gregu. Textu ne'e hahu ho afirmasaun ida ne'ebé intrigante: "Estas são as palavras secretas que Jesus, o Vivente, falou e que Tomé, chamado Dídimo, escreveu." Frase ne'e estabelese ona tonu ba obra ne'ebé dehan katak nia iha matenek sekretu husi Jesus rasik.
+
+Estrutura Evanjeliu Thomas simples maibé profunda. Kada ensinamentu, ou logion, hahu ho "Jesus hateten" no depois aprezenta ensinu, parábola, ka diálogu. Falta kontestu narrativu obriga leitor sira atu hetan interpreta ba kada ensinamentu bazeia ba nia méritu rasik, ne'ebé dala barak rezulta iha interpreta multiplu. Formatu ida ne'e hanesan ho objetivu aparente textu nian atu enkoraja leitor sira atu buka komprensaun espirituál ne'ebé boot liu.
+
+Tema xave balun sai husi Evanjeliu Thomas. Ida husi sira ne'ebé destaka liu maka énfaze ba auto-konhesimentu hanesan dalan ba salvamentu. Ensinamentu 3 hateten, "Bainhira ita-boot hatene ita-boot rasik, entaun ita-boot sei hatene, no ita-boot sei komprende katak ita-boot hanesan oan husi Aman Maromak ne'ebé moris." Foku ida ne'e ba konhesimentu espirituál, ka gnosis, halo estudiosu barak asosia Evanjeliu Thomas ho tradisaun Gnostic.
+
+Tema seluk ne'ebé importante maka aprezentasaun Reino Deus hanesan realidade atuál liu duke eventu futuru. Iha ensinamentu 113, Jesus hateten, "Reino Aman Maromak espalha tiha ona iha rai, maibé ema la haree." Ida ne'e kontrasta ho foku eskatolojiku ne'ebé enkontra iha evanjeliu kanoniku sira no sujere komprensaun diferente kona-ba ensinu Jesus nian kona-ba reinu divinu.
+
+Evanjeliu Thomas mós subliña transformasaun pessoal no despertar espirituál. Ensinamentu barak enkoraja leitor sira atu buka mudansa radikal iha perspetiva, hanesan ensinamentu 22, ne'ebé fó hanoin kona-ba "haree rua hanesan ida" no "bele haree laran hanesan liur." Tema unifikasaun no transcendensia dualidade sira ne'e repete durante textu.
+
+Interesante, Evanjeliu Thomas iha ensinamentu balun hanesan ho evanjeliu kanoniku, maibé sira seluk úniku. Ba ezemplu, parábola husi ai-fuan mostarda marka iha Thomas no evanjeliu sinoptiku, maibé Thomas laiha referensia kona-ba paixaun, mate, ka resurreisaun Jesus. Falta relato kona-ba paixaun hanesan diferensa ne

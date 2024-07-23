@@ -1,0 +1,15 @@
+'Sistema Enerjia Renovável iha Timor-Leste: Dalan ba Dezenvolvimentu Sustentável
+
+Timor-Leste, nasaun ki'ik ida iha Sudeste Ázia ho populasaun besik millaun 1.3, enfrenta desafiu boot atu fornese enerjia ne'ebé fiar no baratu ba nia ema. Hanesan nasaun buka atu kresimentu ekonómiku no hadi'a padraun moris, dezenvolvimentu sistema enerjia renovável oferese solusaun promissor atu satisfe enerjia nia demanda ne'ebé aumenta hela, hanesan tempu hanesan promove sustentabilidade ambiental.
+
+Posisaun geográfika no rekursu naturál Timor-Leste nian oferese potensial boot atu utiliza enerjia renovável. Nasaun ne'e hetan loron-naruk durante tinan tomak, ne'ebé torna enerjia solar sai opsaun ne'ebé viável. Alende ne'e, tereno montanha nian fó oportunidade atu hala'o jerasaun enerjia micro-hidro, no setor agrikultura nian prodús lixu ne'ebé bele utiliza hodi prodús enerjia biomass.
+
+Enerjia solar sai hanesan fonte enerjia renovável ne'ebé promissor liu ba Timor-Leste. Nasaun ne'e simu radiação solar média 5-7 kWh/m2 kada loron, ne'ebé di'ak ba jerasaun enerjia fotovoltaika (PV). Sistema enerjia solar konsiste husi komponente prinsipál sira: painel solar, ne'ebé iha selula PV sira ne'ebé transforma luz solar ba eletrisidade; bateria sira atu armazena enerjia; inverter sira atu transforma korrente direitu (DC) ba korrente alternativu (AC); no kontrolador karga nian atu regula fluxu eletrisidade.
+
+Implementasaun sistema enerjia solar iha Timor-Leste ona, ho projetu sira ne'ebé suksesu ona fornese eletrisidade ba komunidade rurál sira. Sistema sira ne'e benefisia liu iha área remotu sira ne'ebé difisil ka karun tebes atu konekta ba rede eletrisidade nian. Enerjia solar bele suporta nesesidade enerjia nian hanesan iluminasaun báziku no karga telefone, to'o fornese enerjia ba negósiu ki'ik sira no fasilidade komunidade nian.
+
+Enerjia micro-hidro mós sai hanesan opsaun enerjia renovável valiozu ida ba Timor-Leste, liuliu iha rejiaun montanha sira. Sistema hidroeletriku ki'ik sira ne'e utiliza enerjia husi bee ne'ebé la'o atu jera eletrisidade, normalmente fornese enerjia ba komunidade ki'ik ida ka área rurál ida. Sistema micro-hidro sira ne'e amigo ambiente no bele fornese fornese enerjia ne'ebé konsistente, la hanesan enerjia solar ne'ebé intermitente.
+
+Enerjia biomass, ne'ebé hetan husi materia orgániku hanesan lixu agrikultura, mós iha potensial iha Timor-Leste. Setor agrikultura nasaun nian, ne'ebé inklui produsaun kafe no agrikultura hare, prodús lixu orgániku ne'ebé bele transforma ba enerjia. Biomass bele utiliza hodi te'in, funan, no até jera eletrisidade, hamenus dependensia ba enerjia fosil tradisionál no hamenus deforestasaun ne'ebé kauza husi koleksaun kayu atu te'in.
+
+Hanesan Timor-Leste dezenvolve nia sistema enerjia renovável, konservasaun enerjia joga papel importante atu maximiza benefísiu husi teknolojia sira ne'e. Implementasaun prátika no teknolojia enerjia efisiente bele redús demanda enerjia total, torna sistema ener

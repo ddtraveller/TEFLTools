@@ -1,0 +1,15 @@
+'Valor Prezadu no Kritériu iha Debate Lincoln-Douglas
+
+Debate Lincoln-Douglas, forma ida popular husi argumentasaun kompetitiva, konseitu sentral mak konfrontasaun valor moral no filosófiku. Iha laran debate ida ne'e, konseitu rua importante mak valor prezadu no kritériu. Entendimentu ba elementu rua ne'e importante tebes ba partisipante no espetador sira husi debate Lincoln-Douglas, tanba sira forma fundasaun ne'ebé argumentu sira kria no avalia.
+
+Valor prezadu iha debate Lincoln-Douglas reprezenta konseitu étiku ka moral ne'ebé debatente hatete tenke prióritu bainhira avalia rezolusaun. Valor boot ida ne'e serve hanesan meta ka ideál ne'ebé debatente fiar katak sosiedade tenke esforsu atu atinji ka proteje. Valor prezadu komun sira inklui justisa, liberdade, igualdade, dignidade umana, no bem-estar sosiedade. Eskolla valor prezadu importante tebes, tanba determina tonu ba debate tomak no fornese estrutura ida atu avalia méritu husi argumentu sira ne'ebé aprezenta.
+
+Hanesan ezemplu, iha debate kona-ba pena kapitál, debatente ida bele hili "justisa" hanesan ninia valor prezadu, argumenta katak pena mate presiza atu garante justisa ba krime sira ne'ebé grave liu. Iha parte seluk, oponente bele hili "dignidade umana" hanesan ninia valor prezadu, hatete katak prátika execusaun viola valor inherente husi ema hotu, maski nia aksaun sira.
+
+Bainhira valor prezadu estabelese fundasaun étiku husi argumentu, kritériu fornese padraun ka teste konkretu atu avalia oinsa di'ak kada parte kumpre valor ne'ebé hili. Kritériu atua hanesan ponte entre valor abstratu no argumentu espesífiku sira ne'ebé aprezenta iha debate. Nia oferese meiu prátiku ida atu avalia parte ne'ebé di'ak liu atinji ka proteje valor prezadu.
+
+Hodi kontinua ho ezemplu pena kapitál, debatente ne'ebé uza "justisa" hanesan ninia valor prezadu bele hili "prevensaun ba krime violente" hanesan ninia kritériu. Eskolla ida ne'e hatudu katak efikásia pena kapitál hodi prevene asasinatu futuru tenke konsidera hanesan fator prinsipál atu determina se prátika ne'e kumpre justisa. Iha parte seluk, debatente ne'ebé defende "dignidade umana" bele hili "minimizasaun ba violénsia sanksionadu husi estadu" hanesan ninia kritériu, argumenta katak respeitu sosiedade nian ba dignidade umana bele medida husi nia rekuza uza forsa letál kontra sira nia sidadaun sira.
+
+Relasaun entre valor prezadu no kritériu importante tebes iha debate Lincoln-Douglas. Kritériu ne'ebé hili ho di'ak tenke liga ho loloos ba valor prezadu no fornese padraun ida ne'ebé klaru no bele medida ba avaliasaun. Debatente sira tenke preparadu atu esplica no defende ligasaun ida ne'e, demonstra oinsá argumentu sira kumpre kritériu no, husi ne'e, kumpre valor prezadu.
+
+Alende hili valor prezadu no kritériu ne'ebé apropriadu, debatente sira tenke mós konsidera kontestu kulturál ne'ebé debate realiza. Valor no padraun étiku bele diferente tebes iha sosiedade no kultura diferente. Iha kontestu globál, debatente sira bele presiza atu navega framework moral sira ne'ebé diversu no esplica relev

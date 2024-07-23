@@ -1,0 +1,15 @@
+'Konstrusaun Kazu iha Debate Lincoln-Douglas
+
+Debate Lincoln-Douglas, formatu ida husi argumentasaun kompetitivu ne'ebé populár, exige partisipantes atu kria kazu ne'ebé estrutura di'ak no efetivu hodi hatudu sira-nia argumentus. Prosesu konstrusaun kazu sai baze importante ba suksesu iha formatu debate ne'e, tanba nia fornese estrutura ba ronda debate tomak. Artigu ida ne'e sei esplora komponente sira importante no estratejia sira ne'ebé involve iha konstrusaun kazu afirmativu no negativu iha Debate Lincoln-Douglas.
+
+Iha nia laran, kazu Debate Lincoln-Douglas mak aprezentasaun argumentu sira ne'ebé estrutura ona ne'ebé suporta ka kontra rezolusaun ida. Kazu afirmativu, ne'ebé defende rezolusaun, normalmente tuir estrutura ne'ebé kompleksu liu kompara ho kazu negativu. Kazu afirmativu normalmente hahu ho introduksaun ida ne'ebé kaptura atensaun publiku nian no establese tonus ba argumentasaun. Ha'u-nia tuir mai deklarasaun klaru kona ba rezolusaun ne'ebé debate, garante katak juiz no oponente komprende topiku ne'ebé debate.
+
+Definisaun sira joga papel importante iha konstrusaun kazu, tanba sira estabelese limitasaun sira ba debate. Debatedor afirmativu iha responsabilidade atu define termu sira xave iha rezolusaun, fornese klaridade no prevene disputa semantika iha futuru. Definisaun sira ne'e tenki justu no razoavel, ne'ebé deriva husi fonte ne'ebé kredibel hodi mantein fiar.
+
+Iha sentru husi kazu Debate Lincoln-Douglas mak premise valor no kriteria. Premise valor reprezenta ideia ka prinsipiu sentral ne'ebé debatedor defende, hanesan justisa, igualdade, ka direitu individu. Kriteria, iha parte seluk, serve hanesan padraun ka ruma ne'ebé uza hodi avalia realizasaun premise valor. Ezemplu, se premise valor mak justisa, entaun kriteria bele "proteksaun ba liberdade individu". Estrutura valor-kriteria ne'e fornese fundasaun filozofiku ba kazu tomak no orienta dezenvolvimentu argumentu sira tuir mai.
+
+Korpu prinsipal husi kazu debate mak kontensaun sira, ne'ebé sai argumentu sira prinsipal ne'ebé suporta pozisaun debatedor nian. Kazu afirmativu normalmente aprezenta kontensaun rua tolu, enkuantu kazu negativu bele iha kontensaun ida ka rua. Kada kontensaun tenki sai argumentu ida ne'ebé dezenvolve di'ak ne'ebé liga fila fali ba premise valor no kriteria. Kontensaun sira normalmente inklui evidensia, ezemplu sira, no razaun lojika hodi aumenta sira-nia poder persuasaun.
+
+Iha konstrusaun kontensaun, debatedor sira tenki garante fluxu lojiku argumentu sira nian. Ida ne'e envolve kriasaun ligasaun klaru entre pontu sira no uza transisaun hodi orienta ouvinte sira liu husi kazu. Teknika signposting, ne'ebé debatedor sira hateten estrutura argumentu sira nian, ajuda mantein klaridade no organizasaun durante aprezentasaun kazu.
+
+Kazu negativu, maske tuir estrutura ne'ebé hanesan, iha elementu sira ne'ebé uniku. Alem de aprezenta sira-nia premise valor, kriteria, no kontensaun sira, debatedor negativu mós tenki prepara resposta sira ba argumentu afirmativu sira ne'ebé potensial. Ida ne'e exige antipasaun ba pozisaun afirmativu sira ne'ebé komun no dezenv

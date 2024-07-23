@@ -1,0 +1,15 @@
+'Jestaun Rekursu Sustentavel iha Timor-Leste
+
+Timor-Leste, ida husi nasaun foin-sa’e sira iha Sudeste Ázia, hetan desafio boot iha jestaun rekursu naturál ne’ebé sustentavel. Hanesan nasaun buka atu hasa'e dezenvolvimentu ekonomia no padraun moris ne’ebé di’ak liu ba nia ema, tenke mantein balansu entre explotasaun rekursu valiozu ho konservasaun ambiente no ekuidade sosial iha prazu naruk. Papel ne’e analiza jestaun rekursu atual iha Timor-Leste no halo esplorasaun ba abordajen foun atu garante dezenvolvimentu sustentavel.
+
+Timor-Leste iha rekursu naturál diversu, inklui rezerva mina no gas, ai-laran, rekursu bee, no minerais. Ekonomia nasaun nian depende maka’as ba sektor petroleum, ne’ebé kontribui ba maioria GDP no reseita governu. Maibé, dependensia ba rekursu ne’ebé la-renovavel bele kria risku ba estabilidade ekonomia no sustentabilidade ambiental iha prazu naruk.
+
+Ida husi desafio prinsipal iha jestaun rekursu iha Timor-Leste maka explotasaun sustentavel husi rezerva mina no gas. Maski rekursu sira ne’e fornese rendimentu boot, maibé sira limitadu no extrasaun rekursu sira ne’e bele prejudika ambiente. Governu tenke jestaun rekursu ho kuidadu atu evita "maldisaun rekursu" ne’ebé prejudika nasaun dezenvolvimentu sira, ne’ebé riku iha rekursu naturál maibé hetan instabilidade ekonomia no desigualdade sosial.
+
+Ai-laran kobre aprosimadamente 50% husi area rai Timor-Leste nian no desempenha papel importante ba eko-sistema nasaun nian. Sira fornese servisu esensial hanesan regulasaun bee, konservasaun rai, no sekestrasaun karbon. Maibé, deforestasaun no degradasaun rai ameasa rekursu importante sira ne’e. Pratika jestaun ai-laran sustentavel, inklui inisiativa jestaun ai-laran bazeia ba komunidade no programa reflorestasaun, importante ba preservasaun biodiversidade Timor-Leste nian no garante fornese servisu eko-sistema iha prazu naruk.
+
+Jestaun rekursu bee mós asuntu kritiku iha Timor-Leste. Nasaun hetan variasaun sazonal boot iha udan, rezulta iha tempu-sura udan ki’ik no inundasaun. Muda infraestrutura bee, aplika sistema irigasaun efisiente, no promove pratika konservasaun bee importante ba seguransa ai-han no saude públiku.
+
+Atu hasoru desafio sira ne’e, Timor-Leste bele hetan benefisiu husi adota abordajen foun ba jestaun rekursu. Abordajen ida mak aplika prinsipiu sinerjetik, metodolojia rezolve problema ne’ebé dezenvolve husi Buckminster Fuller. Sinerjetik emfatisa komprensaun ba komportamentu sistema tomak, duke foka ba parte sira ne’ebé izola, ne’e relevante tebes iha kontestu jestaun rekursu ne’ebé involve fator ambiental, ekonomia, no sosial.
+
+Aplika prinsipiu sinerjetik ba konservasaun rekursu iha Timor-Leste bele envolve dezenvolve estratejia jestaun integradu ne’ebé konsidera relasaun entre rekursu sira no parte interessadu sira. Ezemplu, abordajen sinerjetik ba jestaun bee bele kombina koñesimentu tradisional ho teknolojia moderna, inklui sistema jestaun bee bazeia ba komunidade ho infraestrutura efisiente ba kaptasaun no

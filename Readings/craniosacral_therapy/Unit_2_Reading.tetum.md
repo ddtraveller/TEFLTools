@@ -1,0 +1,15 @@
+'Téknika Avaliasaun iha Terapia Craniosacral
+
+Terapia Craniosacral mak abordajen ne'ebé suave, ho liman hodi objetiva atu liberta limitasaun sira iha sistema craniosacral hodi hadia funsionamentu husi sistema nervu sentrál. Modalidade tratamentu ida ne'e ho abordajen kompleitu, foka ba membrana no líkuidu ne'ebé tuir kakutak no kordas espinal. Parte importante husi terapia craniosacral mak kapasidade atu avalia sistema craniosacral ho akuradu. Textu ida ne'e sei esplora téknika avaliasaun xave sira ne'ebé uza iha terapia craniosacral, inklui identifikasaun husi estasaun rona nian, avaliasaun ritmu craniosacral, no rekoñesimentu limitasaun sira iha sistema.
+
+Baze husi avaliasaun craniosacral mak abilidade profisionál nian atu lokaliza no sente anatomia espesífika ne'ebé hatene hanesan estasaun rona nian. Estasaun sira mak iha pozisaun estratégiku iha korpu tomak no sai hanesan pontu otimál ba avaliasaun sistema craniosacral. Dez estasaun rona prinsipál inklui ain, tornozelu, jelu, anka, junsaun lumbosakral, junsaun torakolumbar, junsaun servikotorasikal, junsaun okipitál-servikal, osu temporál, no kranium. Ho avaliasaun sistemátiku ba estasaun sira ne'e, terapeuta sira bele hetan komprensaun valiozu kona-ba funsionamentu sistema craniosacral tomak.
+
+Núkleu husi avaliasaun craniosacral mak avaliasaun ritmu craniosacral. Movimentu ritmiku ne'ebé sutil ne'e acredita katak refleta produsaun no reabsorsaun husi líkuidu serebrospinal iha sistema craniosacral. Profisionál sira uza téknika sente ho suave hodi deteta ritmu ne'e, ne'ebé normalmente akontese ho taxa husi 6-12 siklu kada minutu. Avaliasaun ritmu craniosacral involve komponente xave balu: taxa, amplitude, simetria, no kualidade.
+
+Taxa ritmu craniosacral refere ba númeru siklu ne'ebé akontese kada minutu. Maske taxa média mak 6-12 siklu, variasaun individuál bele mosu. Amplitude deskreve forsa ka intensidade husi ritmu, ne'ebé bele fornese informasaun kona-ba vitalidade sistema. Simetria refere ba balansu ritmu entre banda karuk no loos husi korpu. Asimetria bele indika limitasaun ka imbalance iha sistema. Iha final, kualidade ritmu nian inklui nia karakterístika tomak, hanesan fluidez ka movimentu ne'ebé la konstante.
+
+Identifika limitasaun iha sistema craniosacral mak parte importante husi avaliasaun. Limitasaun sira mak área sira ho mobilidade ka motilidade reduzidu ne'ebé bele impede funsionamentu adekuadu husi sistema. Limitasaun sira bele manifesta hanesan mudansa iha tekstura teji, temperatura, ka tensaun ne'ebé bele sente. Profisionál sira uza nia sentidu to'ok hodi deteta mudansa sutil sira no korelata sira ho disfunsaun potensiál iha korpu.
+
+Atu avalia sistema craniosacral ho efetivu, terapeuta sira presiza dezenvolve sentidu to'ok liu husi prátika no treinamentu intensivu. Ne'e envolve aprendizajen kona-ba diferença entre tipu teji sira, rekoñese mudansa sutil iha tekstura no temperatura, no dezenvolve abilidade atu sente movimentu suave husi ritmu craniosacral.
+
+Téknika avaliasaun prinsipál ida ne'ebé

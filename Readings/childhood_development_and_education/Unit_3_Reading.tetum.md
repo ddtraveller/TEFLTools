@@ -1,0 +1,15 @@
+'Abordajen Ema Nia Hanoin ba Kuidadu no Dezenvolvimentu Labarik Nian
+
+Kuidadu no Dezenvolvimentu Labarik Nian (ECCD) iha papel importante tebes atu forma futuru individu no sosiedade sira-nian. Hanesan ita nia komprensaun kona-ba dezenvolvimentu labarik nian aumenta, aumenta mos ita nia hanoin kona-ba implementasaun abordajen ema nia hanoin iha programa ECCD. Abordajen sira ne'e, tuir peskiza sientifika no efetividade ne'ebé hatudu ona, oferese oportunidade di'ak liu atu hasa'e rezultadu pozitivu iha vida labarik-oan sira nia.
+
+Iha sentru husi ECCD ema nia hanoin mak konseitu dezenvolvimentu tomak. Abordajen ida ne'e hateten katak labarik sira nia kresimentu inklui dominu balun ne'ebé interliga: fisiku, kognitivu, sosial, no emosional. Intervensaun ECCD efetivu sira atu haree ba aspetu hotu-hotu, hodi hatene katak progresu iha area ida bele ajuda dezenvolvimentu iha area seluk. Ezemplu, programa ida ne'ebé foka ba hadi'a nutrisaun bele hetan progresu iha funsaun kognitivu no interasaun sosial.
+
+Organizasaun Saude Mundial nia estrutura kuidadu ho hadomi liu hamosu hela ona nudar fundasaun ba ECCD ema nia hanoin iha mundu tomak. Estrutura ida ne'e subliña komponente lima ne'ebé importante: saude diak, nutrisaun adequada, kuidadu ho reasaun, seguransa no seguransa, no oportunidade ba aprendizajen sedu. Ho atu trata area sira ne'e tomak, programa ECCD sira bele kria ambiente ne'ebé ajuda dezenvolvimentu labarik nian ho di'ak.
+
+Aspetu ida importante husi ECCD ema nia hanoin mak fokus ba loron primeiru 1000 husi moris, husi konsepsaun to'o tinan rua. Peskiza hatudu katak periodu ida ne'e espesialmente importante ba dezenvolvimentu serebrál no bele iha impaktu naruk ba labarik nia futuru. Intervensaun sira durante tempu ida ne'e, hanesan promove amamentasaun esklusiva ba fulan primeiru neen no fornese ambiente ne'ebé motiva, hatudu ona katak bele hetan benefisiu boot.
+
+Elementu seluk ne'ebé importante husi intervensaun ECCD efetivu sira mak partisipasaun husi inan-aman no kuidadór sira. Programa sira ne'ebé eduka no apoiu inan-aman atu fornese kuidadu ho hadomi hatudu suksesu ne'ebé aas. Ezemplu, programa vizita uma ne'ebé treina inan-aman kona-ba teknika kuidadu ho reasaun hatudu ona progresu iha dezenvolvimentu kognitivu labarik sira nian no dezenvolvimentu sosial-emosionál.
+
+Maibé, importante tebes atu hateten katak maski peskiza global fornese hanoin foun ne'ebé di'ak, adekuasaun kultural importante tebes atu implementa programa ECCD sira. Ne'ebé di'ak iha area ida bele la di'ak iha area seluk. Ezemplu, iha Timor-Leste, nasaun ida ho tradisaun kultural ne'ebé riku, intervensaun ECCD efetivu sira tenke muda hodi tuir kultura no prátika lokál. Ne'e bele involve inkorpora istória tradisionál ba atividade aprendizajen sedu ka adapta konsellu nutrisaun hodi inklui ai-han ne'ebé disponivel iha lokál.
+
+Abordajen bazeia ba komunidade

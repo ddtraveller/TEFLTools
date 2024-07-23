@@ -1,0 +1,15 @@
+'Natureza Husi Hanoin no Konsiensia
+
+Esperiénsia umana maka interasaun kompleksu husi hanoin, emosaun no sensasaun, ne'ebé hotu-hotu kontribui ba ita-nia komprensaun kona-ba realidade. Iha sentru husi esperiénsia ida-ne'e hetan relasaun intrikadu entre hanoin no konsiensia, aspetu fundamentál rua husi ita-nia moris ne'ebé forma ita-nia percepsaun kona-ba mundu no ita nia-an rasik. Artigu ida-ne'e esplora natureza husi hanoin no konsiensia, tuir sira-nia karakterístika distinktu no impaktu boot sira ne'ebé sira iha iha ita-nia moris lor-loron.
+
+Hodi hahú, importante tebes atu distinge entre hanoin no konsiensia. Hanoin bele komprende hanesan korrente husi hanoin, emosaun, no sensasaun ne'ebé ita hetan durante oras ne'ebé ita la to'o. Hanoin maka diálogu internu ne'ebé konstante, sirkulasaun no fluxu husi sentimento, no sensasaun sira ne'ebé ita prosesa momentu ba momentu. Hanoin dinámiku no muda-muda, forma mosaiku husi atividade mental ne'ebé forma mundu internu ida.
+
+Konsiensia, iha parte seluk, maka konsiensia ne'ebé observa hanoin. Konsiensia maka testemunha mutuk, ne'ebé sai latar ba fenómenu mental hotu. Konsiensia deskreve dala barak hanesan "kualidade hatene" husi ita nia esperiénsia - faktus ne'ebé ita hatene kona-ba ita nia hanoin no esperiénsia. Diferente husi hanoin, ne'ebé iha karaterístika husi muda-muda konstante, konsiensia permanese estável no la muda, fornese kontinuidade ba ita-nia esperiénsia.
+
+Mudansa sira husi hanoin maka aspetu sentral ida husi esperiénsia umana. Mudansa sira manifesta hanesan tipu hanoin oioin, inklui memória husi eventu sira iha pasadu, planu ba futuru, julgamentu kona-ba situasaun atuál, no fantasia ka imaginasuan. Hanoin sira mosu espontaneamente, dala barak trigger husi stimuli externu ka asosiasaun internu, no depois laiha, de'it atu troka ho hanoin foun. Fluxu konstante ida husi atividade mental ne'e maka tradisaun meditasaun barak refer ba hanesan "hanoin makaku", ne'ebé subliña nia natureza inquietu no imprezível.
+
+Komprensaun husi natureza husi hanoin no konsiensia leva ita ba konseitu husi mindfulness, prátika ida ne'ebé hetan atensaun boot iha tinan sira ikus ne'e. Mindfulness envolve hodi iha momentu ida no observa ita nia hanoin no esperiénsia la ho julgamentu ka ligasaun. Prátika ida-ne'e permite ema sira atu sai husi korrente konstante ida husi atividade mental no observa nia husi perspetiva ida ne'ebé laiha ligasaun.
+
+Papel husi konsiensia hanesan observador husi hanoin importante tebes iha prátika mindfulness. Liuhusi kultivasaun husi kualidade observasaun ida-ne'e, ema bele dezenvolve klaridade no perspetiva boot liu kona-ba sira nia prosesu mental. Kapasidade ida atu observa hanoin la ho envolvimentu bele hodi ba reduksaun tensaun, regulasaun emocional ne'ebé di'ak liu, no komprensaun ne'ebé boot liu kona-ba ita nia hanoin rasik.
+
+Desafiu prinsipál ida iha prátika mindfulness maka aprendizaj

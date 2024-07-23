@@ -1,0 +1,15 @@
+'Estratéjia Implementasaun no Práticas Di'ak ba Banku Tempu iha Timor-Leste
+
+Banku tempu, sistema troka servisu ida ne'ebé tempu maka moeda prinsipál, hahu hetan atensaun mundialmente hanesan abordajen inovador ba dezenvolvimentu komunidade. Iha Timor-Leste, nasaun kiik ne'ebé enfrenta dezafiu sosial ekonómiku barak, banku tempu oferese oportunidade úniku atu harii resiliénsia komunidade no kohezaun sosial. Papel ida ne'e esplora estratéjia implementasaun no práticas di'ak ba harii banku tempu iha Timor-Leste, ho konsiderasaun ba kontestu kultural, ekonómiku, no logístiku espesífiku nasaun nian.
+
+Konseitu banku tempu konkorda di'ak ho tradisaun komunál Timor-Leste nian no bele rezolve asuntu hanesan desempregu, izolamentu sosial, no asesu limitadu ba servisu. Maibé, implementasaun suksesu presiza planeamentu kuidadozu no adaptasaun ba kondisaun lokál. Pasu primeiru atu harii banku tempu iha Timor-Leste mak identifika nesesidade no rekursu komunidade. Ne'e presiza halo avaliasaun komunidade ne'ebé kompleitu hodi komprende habilidade ne'ebé iha iha komunidade no servisu sira ne'ebé iha demanda boot. Avaliasaun sira ne'e tenke partisipativu, involve membru komunidade nian iha prosesu hodi garante apoiu no reprezentasaun akuradu ba nesesidade lokál.
+
+Halo komité direksaun importante tebes ba lansa no jere banku tempu ho suksesu. Iha Timor-Leste, komité ne'e tenke inklui líder komunidade ne'ebé respeitadu, reprezentante husi grupu idade no jéneru oioin, no membru husi ONG lokál ka ajénsia governu nian. Diversidade komité direksaun nian esensiál atu garante katak banku tempu inkluzivu no responde ba nesesidade hotu membru komunidade nian.
+
+Hili software banku tempu ne'ebé apropriadu mak konsiderasaun kritiku seluk. Maske software avansadu barak disponível ba jere banku tempu, asesu internet limitadu iha área rural Timor-Leste nian presiza solusaun kriativu. Ne'e bele involve dezenvolve sistema offline ne'ebé bele sinkroniza ho baze dadus sentrál iha tempu periódiku, ka uza plataforma bazeada SMS ne'ebé asesível liu iha área ho asesu limitadu ba smartphone.
+
+Envolve membru komunidade no parte interesaun importante tebes ba susesu banku tempu iha Timor-Leste. Tenke uza estratéjia komunikasaun ne'ebé apropriadu kulturalmente, ho konsiderasaun ba diversidade lingua nian no tradisaun oral iha nasaun. Ne'e bele involve uza lian lokál, narasaun istória, no ajuda vizuál hodi esplika konseitu banku tempu. Harii parceria ho organizasaun lokál, hanesan igreja, eskola, no grupu komunidade, bele ajuda lejitima banku tempu no halo nia abranjénsia boot liu.
+
+Atu luta hasoru dezafiu kultural no logístiku importante tebes ba sustentabilidade banku tempu iha Timor-Leste. Impedimentu lingua bele atenua liuhosi garante katak materiais banku tempu no komunikasaun disponível iha Tetum, Portugés, no lian lokál tuir nesesidade. Adaptasaun ba estrutura sosial tradisionál importante; hanesan ezemplu, involve na'in suku iha prosesu tomada desizaun no alinha atividade banku tempu ho práticas komunál ezistente.
+
+Jestaun banku tempu iha

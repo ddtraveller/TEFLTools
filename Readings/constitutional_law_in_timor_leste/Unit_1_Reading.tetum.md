@@ -1,0 +1,15 @@
+'Introdusaun ba Lei Konstitusional 
+
+Lei Konstitusional forma sosiedade demokrátiku modernu sira-nian, hodi estabelese prinsípiu fundamentál no estrutura sira ne'ebé governa nasaun ida. Ramu direitu ida-ne'e trata interpretasaun no aplikasaun konstituisaun nasaun nian, ne'ebé funsiona hanesan lei supremu rai nian. Komprensaun Lei Konstitusional importante tebes ba sidadaun sira, tanba define relasaun entre governu no nia povu, deskreve estrutura governu nian, no proteje direitu no liberdade individuál sira.
+
+Iha nia prinsipál, konstituisaun ida nu'udar prinsípiu fundamentál lubuk ida ka prevee ona antes estadu ka organizasaun ida-ne'ebé governu. Nia serve ba objetivu oioin, inklui estabelese enkuadramentu governu nian, define podér no limitasaun sira husi ramu oioin, no salvaguarda direitu sidadaun sira-nian. Importánsia husi konstituisaun ida-ne'e mak iha ninia abilidade atu fó estabilidade, previzibilidade no protesaun hasoru estadu arbitráriu.
+
+Prinsípiu prinsipál ida-ne'ebé hakerek iha konstituisaun barak mak konseitu separasaun podér. Prinsípiu ida-ne'e fahe autoridade governu nian ba ramu ne'ebé ketak, baibain ezekutivu, lejizlativu no judisiáriu. Objetivu husi separasaun ida-ne'e mak atu prevene konsentrasaun podér iha entidade ida-idak, hodi nune'e bele proteje hasoru tiran no promove governasaun ida-ne'ebé ekilibradu. Porezemplu, iha sistema barak, lejizlasaun halo lei, ezekutivu implementa lei sira-ne'e, no judisiáriu interpreta no aplika lei sira-ne'e.
+
+Relasaun besik ho separasaun podér mak sistema kontrolu no balansu. Mekanizmu ida-ne'e asegura katak ramu governu ida-idak iha kapasidade atu limita ka kontrola podér ramu sira seluk nian. Porezemplu, ezekutivu bele iha podér vetu ba lejislasaun, enkuantu lejislasaun bele iha podér atu kontrola vetu ne'e. Iha parte seluk, judisiáriu iha podér atu deklara lei sira ne'ebé la konstitusional. Sistema supervizaun ida-ne'ebé kle'an liu ba malu ajuda mantein balansu no prevene sukursal ida-idak atu sai forte liu.
+
+Aspetu fundamentál seluk husi lei konstitusionál mak protesaun ba direitu no liberdade individuál sira. Konstituisaun barak inklui lei direitus ka provizaun sira hanesan ne'ebé garante direitu inerente balun ba sidadaun sira. Ida-ne'e bele inklui liberdade atu ko'alia, relijiaun, no asembleia, no mós protesaun hasoru buka-hatene no kaer, kastigu ne'ebé aat no la hanesan, no abuzu potensiál ba podér governu nian.
+
+Konseitu estadu direitu mós sentrál ba sistema konstitusionál sira. Prinsípiu ida-ne'e hateten katak individuál no instituisaun hotu-hotu, inklui governu rasik, sei sujeita no responsabiliza ba lei sira ne'ebé aplika no aplika ho justu. Nia asegura katak laiha ema ida mak aas liu lei no prosesu legál sira transparente no konsistente.
+
+Atu hatudu prinsípiu hirak-ne'e iha asaun, ita bele haree istória konstitusionál Timor-Leste nian. Hafoin hetan tiha independénsia iha

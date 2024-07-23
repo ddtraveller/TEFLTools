@@ -1,0 +1,15 @@
+'Komprensaun Kona-ba Igualdade Jéneru iha Timor-Leste
+
+Igualdade jéneru nafatin sai asuntu kritiku iha Timor-Leste, nasaun foin-naruk ne'ebé sei hasoru difikuldade ho legadu kolonializmu, okupasaun, no konflitu. Hanesan nasaun kontinua dezenvolve no moderniza, papel jéneru tradisionál kontra ho estrutura legál foun no mudansa sosiedade, kria kondisaun komplikadu ba direitus feto no habilitasaun.
+
+Sosiedade patriarkál Timor-Leste nian istorikamente tama feto iha papel segundu, prinsipalmente iha servisu uma-laran no kria labarik. Estrutura tradisionál ne'e reforsa liu tan husi pratika kulturál hanesan barlake, troka lia-menon entre família iha tempu kaben. Barlake, ne'ebé dala ruma interpreta nu'udar folin feto nian, bele kontribui ba persepsaun katak feto mak propriedade no reforsa desigualdade jéneru iha laran kaben no família.
+
+Estatutu feto iha Timor-Leste signifikativamente influensia husi istória tumultuadu nasaun nian. Kolonizasaun Portugés, ne'ebé kontinua too 1975, introdús valor katólik sira ne'ebé reforsa norma patriarkál. Okupasaun Indonézia tuir mai (1975-1999) marka husi violénsia boot, inklui violénsia seksuál hasoru feto. Maibé, iha períodu ne'e mós feto partisipa ativamente iha resisténsia, ne'ebé prepara dalan ba sira nia partisipasaun iha konstrusaun nasaun hafoin independénsia.
+
+Depois hetan independénsia iha 2002, Timor-Leste halo pasu boot iha estabelese estrutura legál ba igualdade jéneru. Konstituisaun nasaun nian garantia direitu no dever hanesan ba mane no feto iha área hotu-hotu família, polítika, ekonomia, sosial, no kultural. Kompromisu ne'e reforsa liu tan husi Lei Kontra Violénsia Doméstika, ne'ebé aprova iha 2010, ne'ebé kriminaliza violénsia doméstika no fornese protesaun legál ba vítima.
+
+Dezenvolvimentu signifikativu ida iha promove partisipasaun polítika feto nian mak implementasaun kuota iha parlamentu nasionál. Sistema ida ne'e ezije katak kandidatu ida iha tolu iha lista partidu tenki feto, rezulta iha Timor-Leste iha porsentu feto iha parlamentu aas liu iha rejiaun Asia-Pasífiku. Iha 2021, feto okupa ona aproximadamente 38% husi asentu iha parlamentu nasionál, liu ona nasaun dezenvolvidu barak iha termus reprezentasaun polítika feto nian.
+
+Maske iha progresu legál no polítika, feto iha Timor-Leste kontinua hasoru desafiu barak. Violénsia bazeia ba jéneru nafatin prevalente, ho estudu hatudu katak aproximadamente 38% feto sofre violénsia físika ka seksuál husi parseiru íntimu. Oportunidade ekonomia ba feto limitadu, liuliu iha área rurál, ne'ebé papel jéneru tradisionál maka forte liu. Partisipasaun feto iha forsa-traballu formál menus liu mane nian, no sira dala ruma tama iha servisu informal ho saláriu ki'ik.
+
+Edukasaun mós área ida ne'ebé desigualdade jéneru kontinua eziste. Maske taxa inskrisaun eskola primária hanesan entre labarik mane no feto, difer

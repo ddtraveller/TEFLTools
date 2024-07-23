@@ -1,0 +1,15 @@
+'Fundamentus Enxertu: Kombina Natureza Nian Di'ak
+
+Enxertu mak teknika antigu hortikultura ne'ebé revolusiona produsaun ai-fuan no kultivasaun ai-horis ornamentais. Metodu ida ne'e husi propagasaun ai-horis permite agrikultores kombina karakteristika desejável husi ai-horis diferente sira, hodi kria varietas ne'ebé forte liu, produtivu liu, no resistente ba moras. Liuhosi komprensaun prinsipiu enxertu nian no domina nia teknik sira, hortikultor sira bele hasai mundu posibilidade barak iha kultivasaun no reproduksaun ai-horis.
+
+Iha nia fundamentus, enxertu envolve liga parte rua husi ai-horis sira ne'ebé husi varietas ka espesie diferente sira hodi kria ai-horis ida de'it. Parte ki'ik, ne'ebé hatene hanesan rootstock, fornese sistema ai-tahan no fundasaun ba ai-horis foun. Parte boot, ne'ebé hatene hanesan scion, iha karakteristika desejável husi ai-horis ne'ebé atu halo propagasaun, hanesan kualidade ai-fuan ka kór flor. Suksesu enxertu depende ba kompatibilidade entre parte rua ne'e no alinamentu adekuadu husi sira nia kapa cambium.
+
+Cambium mak kapa ki'ik ida husi selula sira ne'ebé divide aktivamente iha leten ai no kulit ai nian. Bainhira kapa cambium husi rootstock no scion iha kontaktu direitu, sira bele moris hamutuk, forma uniaun ne'ebé forte. Prosesu biolojiku ida ne'e mak xave ba suksesu enxertu, tanba nia permite parte ai-horis rua hanesan organismo ida de'it, hodi fahe bee, nutrientes, no enerjia.
+
+Iha teknik enxertu balun, kada ida adekuadu ba tipu ai-horis no objetivu sira ne'ebé diferente. Enxertu cleft mak metodu ida husi komun liu, ne'ebé útil tebes ba ai-fuan sira. Iha teknik ida ne'e, korte forma v maka halo iha rootstock, no scion, mós korte ba forma v, enxerta iha dalan ne'e. Metodu ida ne'e efetivu ba rootstock ho diametru boot liu no uza ona dala barak hodi troka varietas husi ai-horis ne'ebé estabelese ona.
+
+Téknika seluk ne'ebé popular mak enxertu whip no tongue, ne'ebé ideál ba rootstock no scion ho diametru hanesan. Metodu ida ne'e envolve halo korte angular ne'ebé kombina iha rootstock no scion, depois liga parte rua ne'e hodi kria uniaun forte. Enxertu whip no tongue uza ona iha produsaun viveiru tanba nia taxa suksesu aas no uniaun forte sira ne'ebé nia produz.
+
+Ba enxertu iha leten ai ne'ebé eziste ona, enxertu veneer lateral uza dala barak. Téknika ida ne'e envolve halo korte raso ida iha leten rootstock no enxerta scion forma v iha dalan ne'e. Enxertu veneer lateral útil tebes ba hatan varietas foun ba ai-horis ne'ebé estabelese ona ka ba propagasaun ai-horis sira ne'ebé difisil hodi moris husi pedasu ai.
+
+Seleksaun material ne'ebé apropriadu mak esensial ba suksesu enxertu. Rootstock no scion tenke iha kondisaun saudável, livre husi moras, no kompativel malu. Rootstock jeralmente hili tanba nia vigor, resistensia ba moras, ka kapasidade hodi kontrola tamañu ai-horis ne'ebé matenek. Scion hili tanba

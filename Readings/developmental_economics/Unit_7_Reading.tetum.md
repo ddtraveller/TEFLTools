@@ -1,0 +1,15 @@
+'Dezaina no Implementa Ensaio Kontroladu Randomizadu iha Timor-Leste
+
+Ensaio Kontroladu Randomizadu (RCTs) sai hanesan instrumentu forte ida ba avalia efektividade husi intervensaun dezenvolvimentu iha mundu tomak. Iha Timor-Leste, nasaun foin-sa'e ne'ebé iha desafiu dezenvolvimentu barak, RCTs oferese dalan promisoriu ida atu informa polítika dezenvolvimentu ne'ebé bazeia ba evidénsia no hadi'a moris ema nian. Artigu ida ne'e avalia prosesu husi dezaina no implementa RCTs iha kontestu úniku iha Timor-Leste, subliña konsiderasaun importante, desafiu no oportunidade sira.
+
+RCTs mak dezain peskiza eksperimentál ne'ebé aloka partisipante sira ba grupu tratamentu no grupu kontrolu hodi sukat impaktu husi intervensaun ida. Grupu tratamentu simu intervensaun ne'ebé iha estuda, enkuantu grupu kontrolu sai hanesan komparasaun. Randomizasaun ida ne'e ajuda asegura katak diferensa sira ne'ebé hatudu entre grupu sira bele atribui ba intervensaun rasik, la'ós ba fator sira seluk.
+
+Bainhira dezaina RCT ida iha Timor-Leste, peskizador sira tenke identifika desafiu dezenvolvimentu urgente ida no formula kuestun peskiza klaru. Ezemplu, RCT ida bele investiga impaktu husi programa treinamentu agrikultura foun ida ba produtividade no rendimentu agrikultór sira nian. Ekipa peskiza sei determina tamañu amostra ne'ebé apropriadu liu husi kalkulasaun podér, atu asegura katak estudu iha podér estatístika sufisiente atu deteta efeitu esperadu husi intervensaun.
+
+Estratégia randomizasaun tenke konsidera ho di'ak iha kontestu Timor-Leste nian. Ho populasaun ki'ik no komunidade sira ne'ebé kohi malu, randomizasaun kluster iha nível suku ka distritu bele apropriadu liu duke randomizasaun iha nível individu. Abordajen ida ne'e bele ajuda minimiza efeitu spillover, ne'ebé intervensaun afeta indiretamente sira iha grupu kontrolu.
+
+Koleksaun dadus iha Timor-Leste iha desafiu úniku. Barreira língua signifikante, ho komunidade rurál barak mak ko'alia língua lokal la'ós língua ofisiál Tetum ka Portugés. Peskizador sira tenke kolabora ho tradutór no enumeradór lokál hodi asegura katak instrumentu peskiza kulturalmente apropriadu no komprende ho di'ak husi partisipante sira. Alende ne'e, infraestrutura limitadu iha área remotu bele exiji métodu inovativu koleksaun dadus, hanesan peskiza husi telemóvel ka ekipa koleksaun dadus bazeia komunidade.
+
+Konsiderasaun étika importante tebes bainhira halo RCTs iha Timor-Leste. Tenke hetan konsentimentu informadu husi partisipante sira, liuliu iha nasaun ho taxa alfabetizasaun ki'ik no espousaun limitadu ba peskiza sientífika. Peskizador sira tenke esplika klaru objetivu husi estudu, rísku potensiál no benefísiu, no natureza voluntáriu husi partisipasaun iha maneira ne'ebé sensível ba kultura no fasil komprende.
+
+Alokasaun rekursu ne'ebé justu mós sai preokupasaun étika ida importante. Iha nasaun ho taxa povreza aas, suspende intervensaun potensiál benefisiáriu hus

@@ -1,0 +1,15 @@
+'Estratéjia Konservasaun Tasi iha Timor-Leste
+
+Timor-Leste, nasaun ki'ik ida iha Sudeste Ásia, hatudu sistema ekosistema tasi ne'ebé riku ho diversidade. Maibé, hanesan área tasi barak iha mundu tomak, nia rekursu tasi hasoru ameasa boot husi peska as, mudansa klimátika, no destruisaun habitat. Hodi fo solusaun ba dezafiu sira-ne'e, Timor-Leste implementa ona estratéjia konservasaun tasi ne'ebé diferente atu proteje nia ambiente tasi no kosteiru ne'ebé valiozu hodi balansu ho nesesidade komunidade lokál nian.
+
+Ferramenta konservasaun ne'ebé importante liu ne'ebé uza iha Timor-Leste mak harii Área Protejida Tasi nian (MPAs). MPAs ne'e zona ne'ebé dezigna ona ne'ebé regula atividade umanu nian hodi proteje ekosistema tasi no konserva diversidade. Parke Nasionál Nino Konis Santana ne'ebé famozu liu iha rai laran inklui área terrestre no tasi. Parke ne'e proteje habitat kritiku, inklui récife korál, seagrass, no floresta mangrove, ne'ebé hanesan fatin foun ba espésie ikan barak no fornese servisu esensiál ekosistema nian.
+
+MPAs iha Timor-Leste dala barak inklui zona diferente hodi atinji meta konservasaun no nesesidade stakeholder nian. Zona la peska, ne'ebé proibi atividade ekstrativu hotu, oferese proteksaun ne'ebé aas tebes no permite vida tasi nian hela la afetadu. Zona seluk bele permite prátika peska sustentável ka uzu tradisionál, hodi balansu entre konservasaun no vida di'ak komunidade lokál.
+
+Maske MPAs fo benefísiu boot, implementasaun sira iha Timor-Leste hasoru dezafiu balu. Rekursu limitadu ba fiskalizasaun, falta dadus sientífiku, no konflitu potensial ho área peska tradisionál komunidade lokál nian mak entre obstáculu ne'ebé tenke atu halakon hodi asegura efektividade área protejida sira nian.
+
+Rekonese importánsia envolvimentu lokál iha esforsu konservasaun nian, Timor-Leste mós simu inisiativa konservasaun bazeia ba komunidade. Abordajen grassroot sira ne'e habilita komunidade lokál atu jere sira nia rekursu tasi. Ezemplu ida ne'ebé famozu liu mak renasimentu Tara Bandu, prátika tradisionál Timor nian ne'ebé involve estabelese regra no tabu hodi regula uzu rekursu. Liuhosi integrasaun prátika kulturál sira ne'e ba iha estratéjia konservasaun modernu, Timor-Leste hetan dalan ida hodi kombina koñesimentu tradisionál ho abordajen jestaun sientífiku.
+
+Inisiativa bazeia ba komunidade hatudu suksesu iha área kosteiru balu iha Timor-Leste. Komunidade peska lokál estabelese ona área marine ne'ebé jere lokálmente, ne'ebé sira estabelese no implementa regra sira nia-an ba prátika peska sustentável. Inisiativa sira ne'e la'ós proteje de'it rekursu tasi, maibé mós promove sentidu posse no responsabilidade entre membru komunidade nian.
+
+Iha eskala boot liu, Timor-Leste dezenvolve ona polítika nasionál no involve iha akordu internasionál hodi suporta esforsu konservasaun tasi nian. Estratéjia no Plano Asaun Nasionál Biodiversidade

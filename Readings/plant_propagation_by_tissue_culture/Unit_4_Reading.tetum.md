@@ -1,0 +1,15 @@
+'Seleksaun no Preparasaun Explant: Pasu Importante ida iha Kultura Tissue Ai-horis 
+
+Kultura tissue ai-horis mak teknika importante ida ne'ebé uza iha agrikultura, hortikultura, no bioteknolojia ai-horis atu propaga no hadia espesie ai-horis. Iha sentru prosesu ne'e mak pasu kritika ida: seleksaun no preparasaun explant. Suksesu husi kultura tissue depende barak ba seleksaun material ai-horis ne'ebé di'ak no preparasaun ne'ebé adekuadu ba kultivasaun iha ambiente artifisial.
+
+Explant mak fatin ida husi tissue ne'ebé foti husi ai-horis inan atu hahu kultura tissue. Selesaun explant ne'ebé apropriadu la'os asuntu ida ne'ebé simples; presiza konsidera faktor balu ho kuidadu. Primeiru no importante liu, selesaun depende ba espesie ai-horis no kultivar ne'ebé atu serbisu. Ai-horis diferenete presiza explant diferenete atu hetan kresimentu ne'ebé di'ak iha kultura. Ezemplu, tissue meristematiku husi ponta tiru preferidu ba espesie barak tanba sira nia kapasidade rejenerasaun ne'ebé aas.
+
+Idade no kondisaun ai-horis inan mós importante tebes ba seleksaun explant. Jeralmente, tissue ne'ebé muda no kresimentu aktivo responde di'ak liu iha kultura duke tissue ne'ebé matenek ona. Ne'e tanba tissue ne'ebé muda iha selula ne'ebé la diferensia liu, ne'ebé bele rejenera no reprograma ho di'ak. Maibé, idade ne'ebé di'ak liu bele muda tuir espesie no objetivu espesifiku husi projetu kultura tissue.
+
+Konsiderasaun seluk mak tipu tissue ne'ebé seleksiona. Tissue meristematiku, hanesan ne'ebé iha ponta tiru ka botao axilar, preferidu tanba sira iha selula ne'ebé divide aktivamente no seidauk diferensia hotu. Tissue sira ne'e iha potensial rejenerasaun aas liu no menus risku atu hetan pathogens ne'ebé bele kontamina kultura. Iha kontrastu, tissue ne'ebé diferensia ona hanesan folin matenek ka rais bele difisil liu atu kultura ho suksesu.
+
+Depois explant ne'ebé apropriadu seleksiona tiha ona, pasu kritika tuir mai mak esterilizasaun superfisial. Prosedimentu ne'e importante atu hasai mikroorganizmu sira husi superfisie material ai-horis ne'ebé bele kontamina kultura. Esterilizasaun superfisial normalmente involve pasu balun, hahu husi hadia explant iha bee korrente atu hasai rai no lixu. Depois, hadia explant badak iha alkool 70%, ne'ebé ajuda atu hasai kontaminante sira husi superfisie no aumenta efikasia husi pasu esterilizasaun tuir mai.
+
+Pasu esterilizasaun prinsipal normalmente involve molha explant iha solusaun kloru ne'ebé dilui, normalmente konsentrasaun 10%. Durasaun molha ne'e bele muda tuir material ai-horis, maibé normalmente entre 10 to'o 20 minuto. Hafoin molha ho kloru, explant tenke hadia didiak ho bee destiladu esteril atu hasai kloru hotu, ne'ebé bele estraga tissue ai-horis.
+
+Hafoin esterilizasaun superfisial, pasu preparasaun ikus involve tesi explant ba tamanu no forma ne'ebé apropriadu ba hahu kultura. Normalmente uza instrumentu esteril iha ambiente ester

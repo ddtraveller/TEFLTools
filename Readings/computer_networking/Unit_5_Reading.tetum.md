@@ -1,0 +1,15 @@
+'Endereçamento IP no Subnetting: Fundasaun husi Komunikasaun Rede
+
+Iha era dijitál, ne'ebé billaun husi aparatu sira konekta ba internet kada loron, sistema ida ne'ebé robustu hodi identifika no organiza aparatu sira ne'e importante tebes. Sistema ida ne'e harii husi endereçamento IP no subnetting, konseitu rua fundamentál ne'ebé forma tulun aas husi komunikasaun rede moderna. Komprensaun ba konseitu sira ne'e esensiál ba ema hotu ne'ebé interese atu hatene oinsa internet funsiona no oinsa dadus sira hala'o iha rede hotu.
+
+Endereçamento IP serve hanesan identifikadór úniku ba aparatu sira iha rede, hanesan endereçamento postal ba uma laran. Iha versaun rua prinsipál husi endereçamento IP ne'ebé uza ohin loron: IPv4 no IPv6. IPv4, versaun tuan liu no uza liu, konsiste iha númeru 32-bit ne'ebé normalmente reprezenta iha notasaun desimál pontu (exemplu, 192.168.1.1). Númeru kada ida iha formatu ida ne'e bele varia husi 0 to'o 255, fornese total aproximadamente 4.3 billaun endereçamento úniku. Maibé, ho kresimentu exponensial husi aparatu sira konekta ba internet, endereçamento IPv4 hahu'u falta ona, hodi hamosu dezenvolvimentu IPv6.
+
+Endereçamento IPv6 nian naruk 128 bit no hakerek iha notasaun hexadecimal, separa husi pontu duplu (exemplu, 2001:0db8:85a3:0000:0000:8a2e:0370:7334). Espaço endereçamento ne'e boot permite númeru identifikadór úniku ne'ebé kuantidade ne'e kbarak, garante kresimentu internet nian ba futuru ne'ebé bele prevê.
+
+Endereçamento IP sira divide iha klase sira, prinsipálmente ba IPv4. Klase lima - A, B, C, D, no E - define tamañu diferente husi rede sira no serve objetivu sira tuir kada nia. Klase A, B, no C uza ba endereçamento IP geral, enkuantu Klase D rezerva ba tráfiku multicast, no Klase E rezerva ba uza experimentál. Klase kada ida iha intervalu espesífiku husi endereçamento no máskara subnet default.
+
+Subnetting mak téknika ida ne'ebé uza atu divide rede boot iha rede ki'ik liu, ne'ebé bele kontrola liu. Prosesu ida ne'e permite uza endereçamento IP ho efisiente liu no mihora dezempeñu rede. Subnetting atinje liu husi uza máskara subnet, ne'ebé mak númeru 32-bit ne'ebé determina porsaun ida husi endereçamento IP pertense ba rede no porsaun ida identifika uma-na'in espesífiku.
+
+Konseitu husi Classless Inter-Domain Routing (CIDR) introduz hodi fornese flexibilidade liu iha alokasaun endereçamento IP no kria subnet. Notasaun CIDR reprezenta endereçamento IP tuir husi barra no númeru ida ne'ebé indika númeru husi bit rede (exemplu, 192.168.1.0/24). Notasaun ida ne'e simplifika reprezentasaun subnet no permite kontrolu liu ba tamañu rede.
+
+Bainhira subnetting rede ida, administradór sira tenke konsidera faktór sira hanesan númeru husi subnet presiza, númeru husi aparelhu kada subnet, no kresimentu futuru. Ho planeamentu kuidadozu ba estrutura subnet, organizasaun sira bele otimiza sira nia dezempeñu rede, hasa'e seguransa, no

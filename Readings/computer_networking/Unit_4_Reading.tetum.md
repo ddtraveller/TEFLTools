@@ -1,0 +1,15 @@
+'Mídia Fíziku no Konexaun: Tulun Matan ba Rede Moderna
+
+Iha mundo interkonetadu ohin loron, kapasidade atu transmite dadus ho lais no fiar maka importante tebes. Kapasidade ne'e depende ba infraestrutura fíziku ne'ebé forma fundasaun ba ita nia rede sira. Husi kable ne'ebé la'o iha okos fatin rua ba sinál sem fio ne'ebé prenxe ita nia espasu aéreo, mídia fíziku no opsaun konexaun desempeña papel importante iha formasaun esperiénsia dijitál ita nia.
+
+Kable rede forma base ba konexaun kable. Entre ne'e, kable par torse ne'e komun tebes iha rede área lokál (LANs). Kable sira ne'e konsiste iha kable kobre ne'ebé insulate no torse hamutuk atu redús interferénsia eletromagnétika. Kategoria husi kable par torse, hanesan Cat5e, Cat6, no Cat6a, oferese nível desempeñu tuir, ho kategoria aas liu suporta transmisaun dadus nian ho lais liu no largura banda boot liu.
+
+Kable koaxial, tipu seluk husi médiu kable, iha uza ba tempu naruk iha rede televizaun kable no iha ligasaun internet balun. Konstrusaun sira, ne'ebé iha konduktor sentrál rodeadu husi kapa izolamentu no blindajen, permite transmisaun sinál efisiente liu iha distánsia naruk liu kompara ho kable par torse. Maske menus komun iha instalasaun foun, kable koaxial sei relevante iha aplikasaun balun tanba sira nia robustez no kapasidade atu transmite sinál frekuénsia aas.
+
+Kable fibra óptika reprezenta piku husi konexaun kable. Liuhusi transmisaun dadus hanesan pulsaun luz liuhusi fibra vidru ka plástiku, kable sira ne'e oferese largura banda no velosidade ne'ebé la igual. Teknolojia fibra óptika permite transferénsia husi dadus boot tebes liuhusi distánsia naruk ho degradasaun sinál mínima. Tanba ne'e, kable fibra óptika forma tulun matan husi internet, konekta kontinente sira no facilita fluxu informasaun globál.
+
+Tecnolojia sem fio revolusiona konexaun liuhusi liberta ita husi limitasaun kable fíziku. Wi-Fi, forma komun liu husi networking sem fio, uza onda rádiu atu kria rede área lokál. Funsiouna iha banda frekuénsia oioin, hanesan 2.4 GHz no 5 GHz, Wi-Fi evolui liuhusi padrão balun (802.11a/b/g/n/ac/ax) atu oferese lais boot liu no kobertura di'ak liu. Konveniénsia Wi-Fi halo nia sai indispensável iha uma, eskritóriu, no fatin públiku iha mundu tomak.
+
+Rede selulár estende konexaun sem fio liuhusi área lokál, fornese aksesu banda larga móvel iha região geográfika boot. Evolusaun teknolojia selulár husi 2G ba 3G, 4G, no agora 5G aumenta tebes transmisaun dadus nian ho lais no redús laténsia. Progresu ne'e habilita aplikasaun no servisu móvel oioin, muda fundamentálmente oinsá ita komunika no asesu informasaun iha liu husi.
+
+Iha rejiaun hanesan Timor-Leste, paisajen opsaun konexaun refleta tendénsia globál no desafiu lokál. Fornecedor Servisu Internet (ISPs) bele oferese servisu oioin inklui Linha Subskritór Dijitál (DSL) liuhusi linha

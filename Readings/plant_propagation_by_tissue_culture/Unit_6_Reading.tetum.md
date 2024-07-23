@@ -1,0 +1,15 @@
+'Téknika Mikropropagasaun: Revolusaun iha Propagasaun Ai-horis
+
+Mikropropagasaun, nudar subset husi kultura tessidu ai-horis, sai hanesan meiu ida ne'ebé forte iha agrikultura moderna no hortikultura. Téknika inovativu ida ne'e oferese produsaun ai-horis idéntiku genétikamente, ho ritmu akeleradu no iha eskala boot, oferese vantajen barak liu fali métodu propagasaun tradisionál. Ho utiliza totipotensia husi selula ai-horis, mikropropagasaun muda ona dalan ita halo kultivasaun no preservasaun espésie ai-horis.
+
+Iha nia esénsia, mikropropagasaun uza pedasu ki'ik ai-horis, ne'ebé ita bolu explants, ne'ebé kultiva iha kondisaun estéril ho média nutriente. Prosesu ida ne'e aproveita kapasidade espesial husi selula ai-horis atu rejenera organismo tomak, fenómenu ne'ebé ita bolu totipotensia. Iha téknika mikropropagasaun balun, kada ida ho nia aplikasaun no vantajen rasik.
+
+Métodu ida ne'ebé uza liu maka kultura ponta tiru. Téknika ida ne'e uza meristema apikal, rejiaun selula ne'ebé dividi ho aktiva iha ponta tiru ai-horis. Ho izola no kultiva tessidu ne'e, hortikultor sira bele produs tiru barak husi explant ida de'it. Kultura ponta tiru importante tebes atu produs ai-horis livre husi vírus, tanba rejiaun meristemátiku normalmente livre husi infesaun vírus maske ai-horis seluk hetan infesaun.
+
+Ligadu ho kultura ponta tiru maka kultura meristema, ne'ebé konsentra liu ba dome apikal no primordia folin ida ka rua. Métodu ida ne'e útil tebes atu halo limpeza vírus husi ai-horis ne'ebé hetan infesaun, tanba uza parte tessidu ne'ebé ki'ik liu ne'ebé menus provável atu iha partícula vírus. Kultura meristema importante tebes atu halo limpeza stok ai-horis infektadu husi vírus iha kultura oioin, inklui potate no kasava.
+
+Téknika mikropropagasaun seluk maka embriogénese somátika. Iha prosesu ida ne'e, selula somátika (selula la reproduktivu) induce atu forma estrutura hanesan embriaun ne'ebé bele dezenvolve sai ai-horis tomak. Métodu ida ne'e efisiente tebes ba propagasaun masal, tanba bele produs embriaun barak husi material inísiu ki'ik ida. Embriogénese somátika aplika ona ho susesu ba espésie sira oioin, inklui kafe no palmeira mina, ho impaktu boot ba sira nia produsaun komersial.
+
+Kultura kalus reprezenta abordajen seluk ba mikropropagasaun. Téknika ida ne'e induce formasaun kalus – masa selula la diferensia husi tessidu ai-horis. Kalus bele manipula ona atu forma tiru, ain, ka até ai-horis tomak liu husi prosesu ne'ebé ita bolu organogénese. Maske kultura kalus bele hamosu variante genétiku (variasaun somaklonál), nia útil atu produs varidade ai-horis foun no atu estuda dezenvolvimentu ai-horis.
+
+Organogénese, prosesu ne'ebé forma órgaun foun husi tessidu kultivadu, bele akontese diretamente husi explant ka liu husi fase kalus. Téknika ida ne'e útil liu ba espésie ne'ebé dif

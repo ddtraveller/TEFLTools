@@ -1,0 +1,15 @@
+'Simbolizmu Bee no Inan Deidade sira iha Timor-Leste
+
+Bee mak desempeña funsaun sentrál iha vida espiritual no kultural Timor-Leste nian, nasaun ki'ik ida iha Sudeste Ázia. Fonte bee sagradu sira nakloke iha paisajen, hanesan pontu sentrál ba prátika relijiozu sira, enkontru komunidade nian, no konservasaun krensa tradisionál sira. Relasaun komplexu ne'ebé iha entre bee no espiritualidade iha Timor-Leste iha similaridade boot ho kultura seluk, liuliu tradisaun Hindu nian ne'ebé iha kona-ba Ganges Mota iha Índia.
+
+Iha kosmolojia Timor nian, bee haree hanesan forsa ne'ebé fo moris ho propriedade divinu. Fonte bee sagradu, ne'ebé iha Timor-Leste sira bolu "be'e lulik," respeita hanesan fatin ne'ebé espíritu antepasadu sira no deidade sira hela. Fonte bee sira ne'e asosia dala barak ho mitu orijen nian no konsidera katak iha kualidade ne'ebé bele halo kurasaun no purifikasaun. Komunidade sira halibur iha fatin sira ne'e atu halo rituál, halo oferenda, no buka benkaun husi rai laran.
+
+Konseitu inan deidade sira ne'e ligadu maka'as ho simbolizmu bee iha Timor-Leste. Fonte bee sagradu barak mak asosia ho deidade feto ka inan antepasadu sira ne'ebé konsidera katak proteje no nutre komunidade. Figura inan sira ne'e representa dualidade ne'ebé iha bee nian – ne'ebé fo moris no potensialmente bele halo estragus. Dualidade ne'e refleta iha venerasaun no kuidadu ne'ebé povu Timor-Leste nian uza bainhira mai ba fatin bee sagradu sira.
+
+Rituál bee iha Timor-Leste dala barak inklui libasaun, bainhira bee ka líkuidu seluk oferese ba deidade sira ka antepasadu sira. Prátika sira ne'e ajuda mantein harmonia entre mundu umanu no espiritual. Puri-fikasaun rituál ne'ebé uza bee sagradu mós prevalente, liuliu molok serimónia importante ka parte ida husi prátika kurasaun nian.
+
+Signifikadu bee iha espiritualidade Timor-Leste nian la'ós de'it iha fatin sagradu individuál maibé abranje mos watersheds hotu. Riu no bee adar haree hanesan veia rai nian, liga komunidade sira, no kobre esénsia espiritual durante teritóriu laran tomak. Vizaun holístika ida kona-ba sistema bee refleta komprensaun profunda kona-ba siklu hidrolójiku no nia importánsia ba vida iha illa.
+
+Bainhira kompara krensa bee Timor-Leste nian ho tradisaun Hindu, bele hetan paralelizmu interesa. Ganges Mota iha Índia, hanesan mós fonte bee sagradu iha Timor-Leste, respeita hanesan entidade físiku no espiritual. Deidade Hindu nian Ganga, personifikasaun husi mota, iha karaterístika ne'ebé hanesan ho deidade bee Timor-Leste nian – nia feto mak benefisiu no potensialmente perigozu, doador moris nian no forsa natureza ne'ebé tenke respeita.
+
+Iha kultura rua-rua, bee servisu hanesan média entre mundu terestrial no divinu. Prátika molok estátua relijiozu ka símbolu sira iha bee, ne'ebé komún iha tradisaun Hindu, bele hetan iha rituál Timor-L

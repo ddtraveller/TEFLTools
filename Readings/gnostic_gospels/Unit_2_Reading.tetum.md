@@ -1,0 +1,15 @@
+'Livru Segredu James: Hatun Ensinamentu Misteriozu
+
+Livru Segredu James, ne’ebé mós konhesidu hanesan Apocryphon James, mak testu ne’ebé interesa tebes no oferese perspektiva uniku kona-ba ensinamentu kristaun iha tempu kinta’uk. Testu ida ne’e hetan ona iha biblioteka Nag Hammadi iha tinan 1945, dokumentu antigu ida ne’ebé hatudu katak iha ensinamentu segredu Jesus Kristu ne’ebé gravadu husi nia alin James. Maske la inklui iha Testamentu Foun kanoniku, Livru Segredu James oferese ita insight valiozu kona-ba diversidade pensamentu kristaun iha tempu kinta’uk no evolusaun tradisaun Gnostic.
+
+Estrutura testu ne’e hanesan karta, ne’ebé hakerek husi James ba ema ida ne’ebé la konhesidu. Karta ne’e hahu ho introduksaun ne’ebé esplika katak ensinamentu sira ne’e fo’er husi Jesus ba Peter no James hafoin resureisaun, maibé molok nia sobu ba ukun. Parte boot husi dokumentu ne’e konsiste dialogu entre Jesus ho nia disipulu sira, liuliu James ho Peter, ne’ebé Jesus fo sai koñesimentu esoteriku no orientasaun espirituál.
+
+Tema sentral ida iha Livru Segredu James mak importansia koñesimentu espirituál, ka gnosis, ba salvamentu. Diferente husi doutrina kristaun tradisional, ne’ebé enfatiza ema nia fiar ba mate ho fanafan husi Jesus, testu ida ne’e sujere katak salvamentu loos de’it bele hetan liu husi aprende matenek hamutuk ho komprensaun ne’ebé la hatene. Jesus hatudu hanesan ema ne’ebé hatun ensinamentu segredu, duke de’it hanesan redeemer liu husi nia mate sakrifisiu.
+
+Papél sofre iha kresimentu espirituál mak konseitu xave seluk ne’ebé esplora iha testu ne’e. Jesus ensina katak hola parte iha sofrimentu no persekusaun bele hatudu dalan ba progresu espirituál. Idea ida ne’e kontratu ho interpretasaun kristaun mainstream balun ne’ebé haree sofre prinsipalmente hanesan teste ba fiar ka rezultadu husi sala. Iha Livru Segredu James, sofre hatudu hanesan esperiensia transformadora ne’ebé bele halo ema sai karik de’it liu husi iluminasaun espirituál.
+
+Natura reinu ukun-an mós deskreve iha maneira ne’ebé diferente husi ensinamentu kristaun tradisional. Duke hanesan futuru ne’ebé tama depois de mate, reinu hatudu hanesan realidade atual ne’ebé bele sente liu husi desperta espirituál. Jesus enkoraja nia disipulu sira atu buka reinu iha sira nia-an rasik, refleta idea hanesan ne’ebé iha mós iha testu Gnostic seluk hanesan Evanjelhu Thomas.
+
+Ascetismo no auto-negasaun promove hanesan meiu atu hetan kresimentu espirituál. Testu ida ne’e defende estilo moris ida ne’ebé abstain husi prazer mundu, sujere katak disiplina ida ne’e presiza atu hetan nível koñesimentu espirituál ne’ebé as. Enfase ida ne’e iha ascetismo koiniside ho tradisaun monastiku balun iha kristaun, maibé liu liu husi ne’ebé espera ona husi ema kristaun iha denominasaun mainstream.
+
+Livru Segredu James mós hatudu nia hanoin kompleksu kona-ba natura no papel Jesus. Maske rekonese nia estatutu divinu, testu ne

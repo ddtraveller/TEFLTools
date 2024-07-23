@@ -1,0 +1,15 @@
+'Mekanizmu Biolojiku husi Terapia Luz
+
+Terapia Luz, ne'ebé mós koñesidu hanesan fotobiomodulasaun, mak kampu foun iha medisina ne'ebé uza podér husi luz nian ho komprimentu onda espesífiku hodi estimula kurasaun no rejenerasaun iha nível selular. Abordajen inovativu ida ne'e ba tratamentu hatudu promeza iha atu luta hasoru kondisaun saúde nian ne'ebé barak, husi moras kroniku too moras neurodegenerativa. Atu komprende potensiál terapia luz nian, importante tebes atu buka hatene mekanizmu biolojiku sira ne'ebé iha liuhusi sira nia impaktu ba ita-nia selula no teksidu.
+
+Iha sentru efikasia terapia luz nian mak interasaun ho mitochondria, ne'ebé sai sentru produsaun enerjia ba ita-nia selula. Mitochondria responsável ba produsaun adenosine triphosphate (ATP), moeda enerjia primáriu ne'ebé uza husi selula hodi suporta prosesu biolojiku sira. Kada komprimentu onda espesífiku husi luz mean no infra-vermelho penetra ita-nia teksidu, sira interaje ho enzima xave ida iha cadeia transportasaun eletron mitochondria nian ne'ebé hetan naran cytochrome c oxidase.
+
+Cytochrome c oxidase hanesan reseptor luz, ne'ebé simu enerjia luz nian no dispara kaskada eventu selular. Interasaun ida ne'e halo transportasaun eletron aumenta, ne'ebé iha tornu haforsa produsaun ATP. Disponibilidade enerjia ne'ebé aumenta iha selula bele iha impaktu bo'ot, hanesan promove reparasaun selular, hamenus inflamasaun, no suporta saúde teksidu.
+
+Impaktu signifikativu ida husi terapia luz maka nia influénsia ba tensaun oksidativu no inflamasaun. Kada selula expostu ba luz mean no infra-vermelho, iha aumentu temporáriu iha produsaun espésie oksigeniu reativu (ROS). Maski ROS asosia ho estragu selular, aumentu kontrolladu ne'e serve hanesan sinal tensaun ne'ebé benefisiu, ne'ebé ativa defesa antioxidant interna selula. Prosesu ida ne'e, ne'ebé hetan naran hormesis, iha ikus hatudu reziliénsia selular ne'ebé aumenta no reduz tensaun oksidativu.
+
+Alende, terapia luz hatudu nia kapasidade atu modula produsaun nitric oxide (NO), molekula sinalizadora importante iha korpu. NO joga papel vital iha prosesu fisiolójiku oioin, inklui vasodilasaun, neurotransmisaun, no funsaun imun. Liu husi influénsia ba nivel NO, terapia luz bele kontribui ba fluxu sanguíneu ne'ebé di'ak, aselera kurasaun ferida, no hamenus inflamasaun.
+
+Efeitu husi terapia luz la'ós de'it ba resposta selular imediata. Peskiza hatudu katak fotobiomodulasaun bele influénsia espresaun jene no sinteza protéina. Signifika katak terapia luz bele dispara mudansa duradura iha komportamentu selular, no promove reparasaun teksidu no rejenerasaun iha tempu naruk. Ezemplu ida, estudu hatudu produsaun kolajen no fator kresimentu ne'ebé aumenta hafoin terapia luz, ne'ebé bele benefisia tebes ba saúde kulit no kurasaun ferida.
+
+Versatilidade terapia luz nian evidente iha aplikasaun potensial iha kondisaun saúde oioin. Iha kontestu Timor-Leste, ne'ebé moras infeksiu hanesan malaria no tuberkulose

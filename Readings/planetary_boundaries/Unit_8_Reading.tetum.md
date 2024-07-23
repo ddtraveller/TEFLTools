@@ -1,0 +1,15 @@
+'Integrasaun Fronteira Planetária ba Dezenvolvimentu Sustentável
+
+Konseitu husi fronteira planetária sai hanesan estrutura importante hodi komprende limitasaun husi sistema rai nian no orienta esforsu dezenvolvimentu sustentável nian. Konsidera hanesan umanidade hasoru desafiu ambientál ne’ebé la'o to’o agora, integrasaun fronteira sira ne’e ba polítika no prátika sai esensiál atu asegura futuru sustentável. Papel ida ne'e esplora integrasaun fronteira planetária ba dezenvolvimentu sustentável, ho foku iha relevância sira ba nasaun sira ne'ebé hakat liu ba dezenvolvimentu hanesan Timor-Leste.
+
+Fronteira planetária, tuir primeiru vez husi Rockström no kolega sira iha 2009 no depois hetan hadi'a husi Steffen no kolega sira iha 2015, define espasu operasaun seguru ba umanidade iha sistema rai nian. Fronteira sira ne'e inklui área nove ne'ebé kritiku: mudansa klimátika, perda biodiversidade, fluxo biogeoquímiku, asidifikasaun oseanu, mudansa sistema rai, uza bee-matan, reduksaun ozóniu iha estratosfera, karga aerosol atmosfériku, no entidade foun. Ultrapasa fronteira sira ne'e risku hodi ativa mudansa ambientál abruptu ka irreversível ne'ebé bele prejudika sosiedade umana.
+
+Karakter interligadu husi fronteira sira ne'e sai konsiderasaun xave iha integrasaun sira ba dezenvolvimentu sustentável. Por ezemplu, mudansa iha uza rai bele afeta biodiversidade, siklu bee, no mudansa klimátika iha tempu hanesan. Interligasaun ida ne’e eziji abordajen integradu hodi enfrónta desafiu ambientál, duke trata kada asuntu iha izolasaun.
+
+Objetivu Dezenvolvimentu Sustentável (ODS) husi Nasaun Unidas fornese estrutura ba asaun global ba sustentabilidade. Aliña objetivu sira ne’e ho fronteira planetária sai kritiku hodi asegura katak esforsu dezenvolvimentu la kompromete sistema sustenta moris iha rai. Por ezemplu, ODS 13 (Asaun Klimátika) direitamente relasiona ho fronteira mudansa klimátika, enkuantu ODS 15 (Moris iha Rai) liga ba biodiversidade no fronteira mudansa sistema rai.
+
+Iha kontestu nasaun sira ne'ebé hakat liu ba dezenvolvimentu hanesan Timor-Leste, integrasaun fronteira planetária ba estratégia dezenvolvimentu sustentável hatudu desafiu no oportunidade sira. Nasaun sira ne'e dala barak hasoru problema sósiu-ekonómiku ne'ebé bele kontra objetivu konservasaun ambientál. Maibé, ho adopsaun abordajen integradu, posível atu identifika sinerjia entre dezenvolvimentu ekonómiku no sustentabilidade ambientál.
+
+Por ezemplu, Timor-Leste bele foka iha dezenvolve prátika agrikultura sustentável ne'ebé hasa’e seguransa ai-han (ODS 2) enkuantu mós preserva biodiversidade no mantein ekosistema saudável. Abordajen ida ne’e sei trata fronteira planetária oin-oin iha tempu hanesan, inklui mudansa sistema rai, fluxo biogeoquímiku, no perda biodiversidade.
+
+Governasaun efetivu sai kritiku hodi implementa estratégia ne'ebé respeitu fronteira planetária no promove dezenvolvimentu sustentável. Eziji koordenasaun entre nível governu hotu, no mós kolaborasaun ho organizasaun nãu-governamental, komunidade lokál, no setór privadu. Iha Timor

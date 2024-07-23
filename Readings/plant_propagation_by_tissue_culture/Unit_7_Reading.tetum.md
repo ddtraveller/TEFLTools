@@ -1,0 +1,15 @@
+'Adaptasaun no Transplante: Halo Ligasaun Husi Labaratóriu Ba Kampu
+
+Viajen ida husi ai-han husi ambiente laboratóriu estéril ba moris diak iha rai, mak prosesu kritikál iha bioteknolojia ai-han no hortikultura. Transisaun ne'e, ne'ebé hatene hanesan adaptasaun no transplante, sai hanesan nesesidade ba kultivasaun susesu husi ai-han kultura iha ruin. Komprensaun detallu husi prosesu ida ne'e mak importante tebes ba peskizador sira, hortikulturista sira, no mós entuziasta ai-han sira.
+
+Adaptasaun refere ba adaptasaun gradual husi ai-han kultura iha ruin ba kondisaun ex vitro. Ai-han ne'ebé kresce iha vitro, kultiva iha ambiente kontroladu ho umidade aas, intensidade luz ki'ik, no nutrisaun barak. Bila ai-han sira ne'e espostu derepente ba kondisaun as ba liu husi mundu liur, sira luta atu sobrevive. Prosesu adaptasaun nia objetivu mak halo ligasaun ba diferença ne'e, permite ai-han sira atu dezenvolve karakterístika fisiolójiku no morfolójiku nesesáriu atu moris diak iha sira nia ambiente foun.
+
+Pasu primeiru iha adaptasaun involve hasai ai-han sira husi sira nia média kultura estéril ho kuidadu. Prosesu ida ne'e presiza presizaun atu evita estraga sistema abut ne'ebé sensível ne'ebé dezenvolve ona. Hafoin hasai, abut sira ne'e sei hetan limpeza ho laran-di'ak husi agar ka média gel ne'ebé sei iha, tanba sira bele sai fator kria mikroorganizmu malis iha rai.
+
+Hafoin estrasaun, ai-han sira sei transplanta ba iha mistura potting ne'ebé apropriada. Eskolla média kresimentu mak importante tebes, tanba tenke fornese drenajen apropriadu no mós mantein umidade ne'ebé presiza atu suporta ai-han durante sira nia transisaun. Mistura husi peat, perlite, no vermiculite mak uza barak, tanba fornese balansu di'ak husi retenasaun bee no aerasaun.
+
+Aspetu ida husi adaptasaun ne'ebé kritikál mak jestaun umidade relativa. Ai-han iha vitro iha cutícula no stomata ne'ebé la dezenvolve di'ak, hodi halo sira vulnerável ba lakon bee lalais bila espostu ba nivel umidade ki'ik. Atu kombate ida ne'e, ai-han foun transplanta sira dala barak koloka iha ambiente umidade aas, hanesan iha kúpula plástiku klaru ka iha kámaras ne'ebé halo hanis. Iha tempu ida nia laran, umidade ne'e sei redus graduali, hodi enkoraja ai-han sira atu dezenvolve cutícula ne'ebé aat liu no kontrolu stomata ne'ebé efisiente liu.
+
+Intensidade luz mak fatór seluk ne'ebé presiza jestaun ho kuidadu durante adaptasaun. Ai-han iha vitro adapta ona ba nivel luz ki'ik, no espozisaun derepente ba luz solar tomak bele kauza fotoinibisaun no folin sunu. Atu prevene ida ne'e, ai-han sira sei koloka iha área sombra ka iha panu sombra iha inisiu, ho nivel luz ne'ebé aumenta graduali iha semana balu nia laran.
+
+Kontrolu temperatura mós esensiál durante prosesu adaptasaun. Enkuantu laboratóriu kultura ruin mantein temperatura konstante, ambiente liur bele iha flutuasaun signifikante. Esposizaun graduali ba varias

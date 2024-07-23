@@ -1,0 +1,15 @@
+'Fluensia no Jestaun Tempu iha Debate Lincoln-Douglas
+
+Iha mundu debate kompetitivu ne'ebé ritmu aas, suksesu balun depende husi kapasidade debate nian atu halo dalan ba argumentus no jere tempu oratoria ne'ebé limitadu. Iha debate Lincoln-Douglas, habilidade rua ne'ebé importante maka "fluensia" no jestaun tempu. Teknika sira ne'e permite ba debater atu organiza informasaun, responde ba argumentus husi oponente, no aprezenta nia kazu rasik iha tempu ne'ebé limitadu.
+
+Fluensia refere ba prosesu ida atu halo nota estruturadu durante debate. Prosesu ida-ne'e hanesan mapa ba debater sira, ajuda sira atu halo monitorizasaun ba argumentus no respostas durante debate. Nota fluensia ne'ebé di'ak liu normalmente iha kolumna barak, kada kolumna reprezenta diskursu ida iha debate. Oinsá argumentus aprezenta, debater sira halo nota ba pontu prinsipal, uza abreviasaun no simbolu ba efisiensia. Metodu ida-ne'e ajuda debater sira atu identifika kona-ba argumentus ne'ebé halo ona, ne'ebé lakon, no oinsá debate dezenvolve.
+
+Fluensia efetiva presiza prátika no dezenvolvimentu sistema abreviasaun pesonál. Debater barak kria sira-nia abreviasaun rasik ba termu no konseitu komun, ne'ebé ajuda sira atu nota informasaun la'os ho atrasa. Hanesan ezemplu, "VC" bele reprezenta "kriteria valor," ka "T" bele hateten kona-ba "turnu." Husi domina teknika sira ne'e, debater sira bele mantein rejistu kompleitu kona-ba debate, no iha tempu hanesan konsege foka ba konteudu diskursu oponente nian.
+
+Jestaun tempu mós importante tebes iha debate Lincoln-Douglas, iha ne'ebé diskursu hotu-hotu iha tempu ne'ebé hatuur ona no kada segundu importante. Formatu Lincoln-Douglas padraun inklui diskursu konstrutivu, periodu krús ezaminasaun, no diskursu rebuttal, kada ida ho tempu limitadu. Debater sira tenke aprende atu jere tempu efetivamente, asegura katak sira responde ba pontu hotu-hotu ne'ebé presiza la'os ho atrasa ka ho dalan ne'ebé la di'ak.
+
+Aspetu importante ida husi jestaun tempu maka prioridade argumentus. Iha debate normal, bele iha pontu barak atu responde, maibé tempu limitadu la permite atu diskute kona-ba hotu-hotu. Debater sira-ne'ebé di'ak aprende atu identifika argumentus sira-ne'ebé importante liu – sira-ne'ebé iha impaktu boot ba desizaun juíz nian – no aloka tempu barak liu ba pontu sira ne'e. Ida-ne'e bele signifika gasta tempu barak liu ba konflitu valor ka evidensia prinsipal, no toka de'it de'it ba asuntu sira-ne'ebé la importante.
+
+Signalizasaun mós teknika importante iha jestaun tempu no organizasaun. Husi indika estrutura diskursu rasik (ezemplu: "Ha'u sei hadia kriteria valor oponente nian iha uluk, depois muda ba nia kontensaun sira"), debater ajuda juíz no oponente sira atu tuir sira-nia argumentus ho di'ak liu. Ida-ne'e la'os de'it hadia klaridade maibé mós ajuda debater atu kontinua iha dalan ne'ebé hatuur ona no jere tempu ho di'ak liu.
+
+Debater barak uza sinal liman ka timer atu monitoriza tempu ne'ebé sei iha

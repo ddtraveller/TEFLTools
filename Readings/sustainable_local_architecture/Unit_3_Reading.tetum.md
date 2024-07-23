@@ -1,0 +1,15 @@
+'Teknika Konstrusaun Tradisionál Timor Nian: Janela ba Patrimóniu Kultura Nian
+
+Ilha Timor, ne'ebé iha Ázia Sudeste, iha tradisaun arkitektura ne'ebé riku liu husi gerasaun barak. Teknika konstrusaun tradisionál Timor nian la'ós de'it hatudu uza rekursu lokál ne'ebé atrativu maibé mós refleta krensa kultura no espirituál Timor oan sira nian. Artigu ida ne'e esplora aspetu úniku husi arkitektura Timor nian, ho fokus ba metodu konstrusaun, material, no signifikadu kultura ne'ebé iha estrutura sira ne'e.
+
+Iha sentru husi tradisaun arkitektura Timor nian, uma lulik ka uma sagradu mak iha. Estrutura sira ne'e sai hanesan sentru espirituál no sosial husi komunidade Timor nian, ne'ebé simu ligasaun ancestral no identidade kultura. Dezain no prosesu konstrusaun uma lulik nian, la'ós de'it iha ritual no simbolizmu, maibé mós sai hanesan representasaun husi mundu no organizasaun sosial Timor nian.
+
+Estrutura báziku husi uma tradisionál Timor nian karateriza ho nia dezain ne'ebé aas, ne'ebé iha domin bainhira tau iha ai-tahan. Dezain ne'e iha objetivu barak: proteze kontra bee tasi, fornese ventilasaun, no kria espasu iha okos ba armazenamentu ka kuda animal. Uma nian estrutura prinsipalmente konstrui husi ai-hun ne'ebé hetan husi lokal, ho ai riin, ka postu prinsipál, ne'ebé sai hanesan suporta sentral. Ai riin iha signifikadu espesial, hanesan ligasaun ho espíritu ancestral no sai hanesan suporta espirituál uma nian.
+
+Konstrutor Timor sira hatudu habilidade boot iha sira nia uza material naturál. Bambu, ne'ebé barak iha rejiaun, uza hanesan parte importante ba konstrusaun, estrutura, no bee. Palma, ne'ebé sira koñese ho naran tali tahan, uza hanesan atap ba uma. Parede sira, iha jeral, halo husi bebak, ka palma, ne'ebé halo ho forma ne'ebé tahan.
+
+Teknika atap uma sai ezemplu importante husi habilidade konstrutor Timor nian. Folinha palma nian estrutura ho lalais no asegura ba konstrusaun, hodi kria atap ne'ebé tahan no efetivu atu hamenus bee uja. Teknika ida ne'e la'ós de'it presiza habilidade maibé mós esforsu komunidade nian, no dala ruma sai hanesan eventu sosial ne'ebé haforsa ligasaun komunidade nian.
+
+Simbolizmu kultura iha kada parte husi arkitektura Timor nian. Orientasaun uma nian, fatin portas no janela sira, no elementu dekorativu sira hotu-hotu iha signifikadu kultura ne'ebé boot. Hanesan ezemplu, forma atap uma nian hanesan to'os karau nian, simboliza forsa no prosperidade. Karesma sira iha postu no ai-hun sira bele hatudu istória ancestral ka símbolu klã nian, hodi sai hanesan rejistu visuál husi istória família no komunidade nian.
+
+Konseitu knua, aldeia tradisionál Timor nian, hatudu ligasaun entre arkitektura no estrutura sosial. Uma sira iha knua organiza tuir relasaun hierarkia no parente, ho uma lulik iha pozisaun sentral no aas. Organizasaun espasiu ida ne'e refleta no haforsa ligasaun sosial no prátika kultura

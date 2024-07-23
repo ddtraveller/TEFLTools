@@ -1,0 +1,15 @@
+'Kapasidade Dezenvolvimentu ba Kuidadu no Dezenvolvimentu Labarik Nia'in (ECCD) Educadores iha Timor-Leste
+
+Kuidadu no Dezenvolvimentu Labarik Nia'in (ECCD) iha papel importante tebes iha futuru nasaun nian, no Timor-Leste lae esepsaun. Hanesan nasaun kiik ida iha mundu, Timor-Leste iha dezafiu uniku hodi dezenvolve sistema ECCD ne'ebé forte. Iha sentru esforsu ne'e mak presiza ba kapasidade dezenvolvimentu entre educadores ECCD, asegura sira iha habilidade, koñesimentu, no rekursu nesesáriu atu fornese edukasaun no kuidadu labarik nia'in ho kualidade.
+
+Estadu atuál husi forsa servisu ECCD iha Timor-Leste refleta dezenvolvimentu kontinua husi nasaun. Barak husi educadores laiha kualifikasaun formál, no iha presiza boot ba oportunidade dezenvolvimentu profisionál. Governu no organizasaun naun-governamentál sira rekoñese ona lakuna ida ne'e no servisu hodi trata liu husi inisiativa dezenvolvimentu kapasidade ne'ebé direitamente.
+
+Foku primáriu husi kapasidade dezenvolvimentu ba educadores ECCD iha Timor-Leste mak hadi'a sira nia komprensaun kona-ba dezenvolvimentu labarik no prátika hanorin efetivu. Ne'e inklui treinamentu kona-ba atividade tuir idade, kria ambiente aprendizajen ne'ebé estimula, no hadi'a dezenvolvimentu sosial-emosionál iha labarik ki'ik sira. Ho diversidade linguístika iha Timor-Leste, educadores mós presiza apoiu hodi dezenvolve estratéjia hanorin multilíngue atu asegura labarik hotu bele hetan edukasaun ho kualidade iha sira nia tinan ki'ik.
+
+Dezenvolvimentu profisionál ba educadores ECCD iha Timor-Leste iha forma oioin. Programa treinamentu iha servisu mak abordajen komún, permite educadores atuál atu hadi'a sira nia habilidade hodi kontinua sira nia servisu. Programa sira ne'e la'o ho tópiku hanesan métodu hanorin sentra ba labarik, jestaun sala aula, no dezenvolvimentu literasia no numerasia iha tinan ki'ik. Workshops no semináriu fornese oportunidade ba educadores hodi aprende husi espesialista no fahe esperiénsia ho kolega sira.
+
+Mentoring mak komponente importante seluk husi esforsu dezenvolvimentu kapasidade iha Timor-Leste. Educadores experiente ka espesialista edukasaun servisu de'it ho professór sira ne'ebé menus experiente, fornese orientasaun, feedback, no apoiu. Abordajen ida-idak ne'e permite dezenvolvimentu profisionál ne'ebé personaliza hodi trata nesesidade no dezafiu espesífiku husi educadores individuál.
+
+Prátika reflektivu aumenta liu tan rekoñese hanesan instrumentu valoroza ba kresimentu profisionál entre educadores ECCD iha Timor-Leste. Liuhusi enkoraja educadores hodi ezamina kritikamente sira nia métodu hanorin no interasaun ho labarik sira, prátika reflektivu promove melloria kontinua no adaptasaun ba nesesidade husi estudante diversu.
+
+Inisiativa dezenvolvimentu kapasidade iha Timor-Leste mós foka iha dezenvolve habilidade lideransa entre educadores ECCD. Ne'e inklui treinamentu iha jestaun programa, envolvimentu komunidade, no advokasia ba edukasaun labarik nia'in. Liuhusi empodera educadores hodi sai líder iha sira nia kampu,

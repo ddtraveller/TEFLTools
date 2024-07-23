@@ -1,0 +1,15 @@
+'Jestaun Peskaria Sustentavel iha Timor-Leste
+
+Timor-Leste, nasaun ki'ik ida iha Sudeste Ázia, depende maka'as ba nia rekursu maritima ba seguransa ai-han no dezenvolvimentu ekonomia. Maibé, nasaun ida ne'e hasoru dezafiu boot iha jestaun peskaria ne'ebé sustentavel. Papel ida ne'e analiza situasaun atual husi setor peskaria Timor-Leste nian, prátika peska sustentavel, no lei iha fatin atu garante viabilidade rekursu maritima iha termu naruk.
+
+Setor peskaria iha Timor-Leste dominantemente artizanál, ho peskadór ki'ik-sira halo peska iha tasi laran. Tuir relatóriu foun sira, setor ida ne'e kontribui maka'as ba empregu no seguransa ai-han, liuliu iha komunidade tasi laran. Maibé, potensia kompletu husi peskaria nasaun ida ne'e sei barak mak la utiliza tanba infraestrutura limitadu, téknika peska ne'ebé la modernu, no prátika jestaun ne'ebé la adekuadu.
+
+Métodu peska sustentavel importante tebes atu mantein populasaun ikan ne'ebé saudavel no atu konserva ekosistema maritima. Iha Timor-Leste, téknika tradisionál no modernu balu konsistente ho prinsípiu sustentabilidade. Peska ho kanu no linha, hanesan ezemplu, metodu ida ne'ebé seletivu ne'ebé minimiza peska ne'ebé la planeadu no estragus ba ambiente. Téknika ida ne'e apropriadu liu ba peska atun, komodidade exportasaun ne'ebé valiozu ba nasaun. Peska ho armdilha, métodu sustentavel seluk, permite kaptura espésie espesifiku hodi redus impaktu ba organismu sira ne'ebé la hetan alvu. Alende ne'e, prátika peska ho rede sustentavel, hanesan uza mesh ho tamañu apropriadu no evita peska ho trawling iha fundu ne'ebé destrutivu, bele ajuda mantein populasaun ikan iha nivel saudavel.
+
+Konseitu kona-ba produsaun sustentavel sentrál ba jestaun peskaria iha Timor-Leste. Ne'e refere ba montante máximu husi ikan ne'ebé bele peska la ho populasaun tuna iha tempu naruk. Atinje produsaun sustentavel presiza monitorizasaun kuidadozu husi stok ikan, komprende siklu vida espésie nian, no implementa regulamentu peska ne'ebé apropriadu.
+
+Timor-Leste halo esforsu atu estabelese estrutura lei kompletu ba setor peskaria nian. Lei nasionál peskaria nian iha objetivu atu prevene peska aas, proteje habitat krítiku sira, no promove prátika peska sustentavel. Regulamentu prinsipál inklui restriksaun ba tamañu mesh atu prevene kaptura ikan ki'ik, implementa tempu taka atu permite reproduksaun ikan, no estabelese sistema kuota atu limita volume kaptura.
+
+Alende ida ne'e, Timor-Leste partisipa iha Inisiativa Triangulu Korál, parseria multilaterál ne'ebé objetivu atu preserva rekursu maritima husi rejiaun Triangulu Korál. Partisipasaun ida ne'e hatudu kompromisu nasaun ida ne'e ba kooperasaun rejional iha jestaun peskaria sustentavel.
+
+Maske ho pasu pozitivu sira, implementasaun lei peskaria nian sei sai dezafiu boot. Rekursu limitadu ba monitorizasaun no patrullamentu, ho kombinasaun husi tasi nian ne'ebé boot, halo difikuldade at

@@ -1,0 +1,13 @@
+'Seidr: Prátika Mistériu husi Tempu Viking iha Escandinávia
+
+Idade Viking, ne'ebé varia husi sékulu 8 nian rohan to'o sékulu 11 nian klaran, hanesan tempu ida ne'ebé signifikante ba espansaun no dezenvolvimentu kultural ba povu Norse. Husi aspetu barak ne'ebé atrai atensaun husi kultura Viking, prátika seidr sai hanesan fórmula mágika no shamanismo ne'ebé únika no poderóza. Atu komprende seidr, ita presiza atu haree kontestu históriku no fonte primária sira ne'ebé fornese ita nia koñesimentu kona-ba prátika ida ne'e ne'ebé misterioza.
+
+Seidr hanesan fórmula mágika no prátika shamanismo husi Norse ne'ebé asosia liu ho Maromak Odin no Deusa Freyja. Prátika ida ne'e liu husi feto sira ne'ebé hatene hanesan volvas, ne'ebé hetan respeitu no iha tempu balun hetan tauk tanba sira nia kapasidade atu haree futuru, komunika ho espíritu sira, no influénsia dalan eventu sira. Prátika seidr sai tiha ona parte importante husi kultura sosiál no relijiozu iha tempu Viking iha Escandinávia, refleta interasaun kompleksu entre papel jéneru, krensa espiritual, no norma sosiedade nian.
+
+Ita nia komprensaun kona-ba seidr mai husi fonte rua ne'ebé importante: saga sira husi Islândia no poezia Eddic. Saga sira ne'e hanesan narativa prosa ne'ebé hakerek iha língua Norse antigu, ne'ebé konta eventu históriku ka mitu sira no figura sira husi tempu Viking. Istória sira ne'e, maski kompostu sékulu barak depois eventu sira ne'ebé sira deskreve, fornese ita insight ne'ebé valiozu kona-ba prátika kultural no krensa povu Norse nian. Eddas, iha parte seluk, hanesan obra literáriu medieval husi Islândia rua ne'ebé sai hanesan fonte prinsipál husi mitolojia Norse. Hamutuk, textu sira ne'e pinta quadru ida ne'ebé moris kona-ba seidr no sira ne'ebé prátika.
+
+Depiksaun ida husi volva ne'ebé famozu liu mai husi Saga husi Erik Vermelho, ne'ebé deskreve vidente ida naran Thorbjorg. Saga ida ne'e detalha nia traje ne'ebé sofistikadu, inklui manta azúl ne'ebé hasai ho tiras no enfeitada ho pedra, no tau-talo ho ponta ne'ebé liga ho lataun. Deskrisaun ida ne'e la'ós de'it fornese ita insight kona-ba aspetu husi seidr prátika, maibé mós enfatiza sira nia pozisaun aas iha sosiedade.
+
+Prátika seidr la'ós la'ós kontrovérsia, liuliu kona-ba papel jéneru. Maski asosia liu ho feto, iha relatóriu sira kona-ba mane sira mós pratika seidr. Maibé, pratikante mane sira dala barak hasoru stigma sosial, tanba prátika ida ne'e konsidera hanesan "la maskulinu" ou ergi, termu ida ne'ebé implica efeminasaun ou la maskulinu. Aspetu jéneru ida ne'e husi seidr refleta norma jéneru ríjidu husi sosiedade Viking no pozisaun únika ne'ebé pratikante feto sira iha iha ne'e.
+
+Kontestu históriku husi seidr importante tebes atu komprende nia

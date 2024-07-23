@@ -1,0 +1,15 @@
+'Dizeñu Partisipativu no Envolvimentu Komunidade iha Arkitektura
+
+Arkitektura durante tempu naruk haree hanesan profisaun ida ne'ebé espesialista dizeñu espasu ba ema barak. Maibé, movimentu ida ne'ebé aumenta iha kampu ne'e enfatiza importansia husi envolve komunidade sira iha prosesu dizeñu. Abordajen ne'e, ne'ebé hatene hanesan dizeñu partisipativu, buka atu kria edifisiu no espasu sira ne'ebé refleta duni nesesidade, valor no aspirasaun husi ema ne'ebé sei uza sira. Liuhusi envolvimentu komunidade iha prosesu arkitektura, dizeñer sira bele kria espasu ne'ebé sustentavel, funsional no signifikante liu, ne'ebé fó sentidu propriedade no orgulhusu entre rezidente sira.
+
+Dizeñu partisipativu mak abordajen ida ne'ebé envolve aktivu stakeholder hotu iha prosesu dizeñu. Iha kontestu arkitektura no planeamentu urbanu, signifika funu arkitektu, planeador, membru komunidade, autoridade lokal, no parte seluk ne'ebé interese atu kolabora iha projeitu. Meta mak atu kria dizeñu ne'ebé laos deit atrativu estetikamente maibé mós hatudu resposta ba nesesidade no dezafiu uniku husi komunidade ida.
+
+Benefisiu ida ne'ebé importante husi dizeñu partisipativu mak nia kapasidade atu hamosu ponte entre espesializasaun profisional no koñesimentu lokal. Bainhira arkitektu no planeador sira fornese kapasidade tekniku no esperiensia dizeñu iha meza, membru komunidade sira hatene diak liu realidade loron-loron husi moris no servisu iha area ida. Bainhira kombina perspetiva sira ne'e, dizeñu partisipativu bele leva ba solusaun ne'ebé inovador no efetivu liu ne'ebé lori solusaun ba problema iha mundu real.
+
+Iha teknika balun ne'ebé arkitektu no planeador sira bele uza atu facilita envolvimentu komunidade iha prosesu dizeñu. Mapeamentu komunidade mak metodu ida ne'ebé popular ne'ebé involve kria representasaun vizual husi bairru ka area, ne'ebé hatudu karakteristika, rekursu no area sira ne'ebé presiza mellora. Teknika ne'e permite membru komunidade sira atu fahe sira nia koñesimentu husi ambiente lokal no identifika prioridade ba dezenvolvimentu.
+
+Charrette dizeñu ne'ebé efetivu mak ferramenta seluk ba dizeñu partisipativu. Sesaun planeamentu kolaborativu intensivu ne'e lori stakeholder diversu hamutuk hodi dezenvolve solusaun dizeñu iha periodu badak. Charrette bele ajuda hamosu entuziasmu no momentum iha projeitu, bainhira asegura katak perspetiva hosi varias parte konsidera iha prosesu dizeñu.
+
+Photovoice mak metodu peskiza partisipativu ida ne'ebé ema ba poderia membru komunidade sira atu dokumenta sira nia ambiente liu husi fotografia. Partisipante sira halo foto husi sira nia ambiente no fahe historia kona-ba imajen, ne'ebé fornese insight valiozu kona-ba nesesidade no aspirasaun komunidade. Teknika ne'e bele efetivu liu tan iha envolvimentu grupu marginalizadu sira-ne'ebé nia lia fali bele lakon iha prosesu planeamentu tradisional.
+
+Modelu 3D partisipativu mak abordajen inovadora ida ne'eb

@@ -1,0 +1,15 @@
+'Navigasaun no Jestaun Sistema Arkivu iha Linux
+
+Sistema arkivu Linux mak estrutura ida ne'ebé organiza no rai hotu-hotu dadus iha komputadór ida. Komprensaun kona-ba oinsá atu naviga no jere sistema arkivu ne'e importante tebes ba ema hotu-hotu ne'ebé serbisu ho Linux, husi uza-na'in sira ba administrador sistema nian. Paper ida ne'e sei esplora konseitu sira husi navigasaun no jestaun sistema arkivu iha Linux, inklui estrutura direktóriu, komandu esensiál, no permisaun arkivu.
+
+Iha sentru husi sistema arkivu Linux mak diretóriu boot, ne'ebé hatudu ho barra tuir oin (/). Husi pontu inisiál ne'e, diretóriu sira seluk no arkivu hotu-hotu halai ba ai-hun iha estrutura ne'ebé hanesan ai-hun. Diretóriu balu importante tebes ba funsaun espesífiku iha hierarkia ne'e. Diretóriu /home nian rai arkivu no konfigurasaun espesífiku husi uza-na'in sira, /etc rai arkivu konfigurasaun sistema tomak, /var rai dadus variável sira hanesan logs no arkivu temporáriu, /usr rai programa no dadus husi uza-na'in sira, no /tmp aloka ba arkivu temporáriu sira.
+
+Naviga estrutura sistema arkivu ne'e prinsipalmente liu husi interfeisu liña komandu ho uza komandu báziku sira. Komandu 'cd' (muda diretóriu) permite uza-na'in sira atu muda husi direktóriu ida ba seluk. Ezemplu, 'cd /home/username' sei leva uza-na'in ida ba sira-nia diretóriu uma. Komandu 'pwd' (hatudu direktóriu servisu nian) hatudu fatin atuál iha sistema arkivu, enkuantu 'ls' lista konteúdu husi direktóriu atuál. Komandu sira ne'e forma fundasaun husi navigasaun sistema arkivu iha Linux.
+
+Manipulasaun arkivu mak aspetu seluk ne'ebé importante tebes ba jestaun sistema arkivu Linux. Komandu 'cp' kopia arkivu ka direktóriu, 'mv' muda ka troka sira-nia naran, no 'rm' hasai sira. Kria direktóriu foun ho uza komandu 'mkdir', enkuantu 'touch' bele kria arkivu mamuk ka atualiza timestamp iha arkivu sira ne'ebé eziste ona. Ezemplu, atu kopia arkivu ho naran 'document.txt' husi direktóriu atuál ba diretóriu uma husi uza-na'in ida, ita bele uza komandu 'cp document.txt /home/username/'.
+
+Karaterístiku ida ne'ebé destaka sistema arkivu Linux mak sistema permisaun ne'ebé forte. Arkivu hotu-hotu no direktóriu iha Linux iha permisaun asosiativu atu lee, hakerek, no ezekuta ba nain, grupu, no sira seluk. Permisaun sira ne'e bele haree liu husi komandu 'ls -l', ne'ebé hatudu informasaun detalladu kona-ba arkivu, inklui permisaun sira ne'ebé hatudu ho letra no trakinhos (exemplu, -rw-r--r--).
+
+Modifika permisaun sira ne'e liu husi komandu 'chmod'. Ezemplu, atu fó nain arkivu ida permisaun atu ezekuta, ita bele uza 'chmod u+x filename'. Komandu 'chown' muda nain husi arkivu ka direktóriu, permite administrador sira atu kontrola se mak iha autoridade finál kona-ba arkivu espesífiku sira.
+
+Komprensaun kona-ba dalan arkivu importante tebes ba navigasaun

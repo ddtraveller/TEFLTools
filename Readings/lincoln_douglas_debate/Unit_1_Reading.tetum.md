@@ -1,0 +1,15 @@
+'Fundasaun husi Debate Lincoln-Douglas
+
+Debate Lincoln-Douglas, forma ida husi argumentasaun kompetitivu, iha nia hanoin husi debate istoriku entre Abraham Lincoln no Stephen Douglas durante kampainha senatorial Illinois iha tinan 1858. Ohin loron, nia hala'o hanesan plataforma ida ba estudante eskola sekundaria atu partisipa iha diskusaun intelektual kona ba asuntu filosofiku no etiku. Formatu debate ne'e eleva razaun lójika, analiza etiku, no habilidade oratória persuasivu.
+
+Iha nia laran, Debate Lincoln-Douglas la'o iha torno rezolusaun - deklarasaun ida apresenta asuntu kontroversia ka proposta. Rezolusaun sira ne'e normalmente klasifika ba kategoria tolu: faktu, valor, ka politika. Rezolusaun faktu afirma los ka sala husi afirmasaun, rezolusaun valor halo julgamentu kona ba valor ka moralidade husi ideia ka asaun, no rezolusaun politika propoin direksaun asaun ida. Kada rezolusaun inklui komponente tolu núkleu: tópiku (asuntu ne'ebé debate), asaun (ne'ebé propoin ka avalia), no ajente (ema ka entidade ne'ebé responsável ba asaun).
+
+Formatu debate ne'e tuir sekuencia estruturadu husi diskursu no ezaminasaun krús. Debater rua, ida reprezenta banda afirmativa (suporta rezolusaun) no seluk reprezenta banda negativa (oponente rezolusaun), partisipa iha diskursu ne'ebé iha tempu limitadu. Orador afirmativu hahu ho diskursu konstrutivu, tuir mai ho ezaminasaun krús husi negativu. Padraun ne'e alterna, ho kada debater apresenta argumentu konstrutivu, partisipa iha ezaminasaun krús, no entrega diskursu kontradisaun.
+
+Konseitu sentral ba debate Lincoln-Douglas mak premisa valor. Ne'e valor ka ideal núkleu ne'ebé debater defende tenke prioriza iha avaliasaun rezolusaun. Premisa valor komun inklui justisa, demokrasia, direitus humanus, ka bem-estar sosiedade. Ligadu de'it ho premisa valor mak kritériu, ne'ebé funsiona hanesan padraun ka metodu atu realiza ka medida premisa valor. Kritériu funsiona hanesan ponte entre valor abstratu no argumentu konkretu ne'ebé apresenta iha debate.
+
+Habilidade ne'ebé dezenvolve husi debate Lincoln-Douglas estende liu husi area kompetitivu. Partisipante sira aprende atu analiza asuntu kompleksu husi perspektiva oioin, konstrui argumentu lójiku, no komunika ho persuasaun. Habilidade sira ne'e importante tebes atu kultiva pensamentu kritiku no partisipasaun sivika, torna debate hanesan instrumentu esensial iha sosiedade demokratika.
+
+Iha kontestu demokrasia foun hanesan Timor-Leste, debate bele hala'o papel vital atu forma sidadaun sira ne'ebé informadu no partisipativu. Liuhusi enkoraja estudante sira atu peskiza no diskute asuntu nasional urgente, debate promove kompreensaun aprofundadu kona ba desafiu no oportunidade ne'ebé enfrenta sira-nia sosiedade. Nia mós kultiva habilidade nesesáriu ba partisipasaun efetiva iha prosesu demokratiku, hanesan habilidade atu avalia argumentu kompetitivu no artikula nia pozisaun ba asuntu importante.
+
+Maibé, implementasaun programa debate iha nasaun dezenvolvimentu bele hetan desafiu. Sira ne'e bele inklui rekursu limitadu, barreira lingua, ka norma kultural ne'ebé desanima diskuzaun aberta. Maske iha

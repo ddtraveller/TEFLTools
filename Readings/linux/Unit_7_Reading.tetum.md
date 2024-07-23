@@ -1,0 +1,15 @@
+'Konfigurasaun Rede no Seguransa: Proteje Infrastrutura Dijitál
+
+Iha mundu interligadu ohin, konfigurasaun rede no seguransa sai prinsipál ba negósiu no organizasaun hotu-hotu nia tamañu. Hanesan ameasa siberianu kontinua evolui no sai liu sofistikadu, komprensaun kona-ba fundamentu konfigurasaun rede no protesaun importante tebes atu mantein integridade, sigilu, no disponibilidade asetu dijitál. Paper ida ne'e esplora aspetu prinsipál konfigurasaun rede no seguransa, fo foku ba ferramenta esensiál no pratika uza iha ambiente Linux.
+
+Konfigurasaun rede forma fundasaun kualke rede komputador. Involvidu iha setup no jestaun interface rede, endereçu IP, no enkaminhamentu hodi asegura komunikasaun lalais entre dispositivu sira. Iha sistema Linux, administrador sira uza liña komandu hanesan 'ip' atu haree no konfigura interface rede. Ezemplu, komandu 'ip addr show' hatudu interface rede hotu no sira nia endereçu IP asosiadu. Atu defini endereçu IP estátiku, bele uza 'ip addr add 192.168.1.100/24 dev eth0', ne'ebé '192.168.1.100' mak endereçu IP ne'ebé hakarak, '/24' reprezenta subnet mask, no 'eth0' mak interface rede.
+
+Ba jestaun rede ne'ebé mak uza-fasil, distribuisaun Linux barak inklui NetworkManager, ne'ebé bele kontrola liu husi komandu 'nmcli'. Ferramenta ida-ne'e fasil konexaun ba rede Wi-Fi, konfigurasaun VPN, no jestaun perfil rede. Ezemplu, 'nmcli device wifi connect MyNetwork password MyPassword' sei liga ba rede Wi-Fi naran 'MyNetwork' ho pasu-fatin ne'ebé espesifika.
+
+Hafoin rede konfigura ona, seguransa mak pasu krítiku tuir mai. Firewall joga papel sentrál iha seguransa rede liu husi kontrola tráfiku rede ne'ebé mai no sai bazeia ba regra seguransa ne'ebé determina tiha ona. Sistema Linux normalmente uza iptables ka firewalld ba jestaun firewall. Iptables, utilidade liña komandu ne'ebé potente, permite kontrolu detallu tráfiku rede. Regra iptables báziku atu permite koneksaun SSH mai bele hanesan ne'e: 'iptables -A INPUT -p tcp --dport 22 -j ACCEPT'. Regra ida-ne'e apendiks (-A) ba INPUT chain ho regra ne'ebé simu (-j ACCEPT) pakote TCP ne'ebé destina ba portu 22.
+
+Firewalld, solusaun firewall modernu no dinámiku, oferese interface simples liu ba jestaun regra firewall. Operasaun ho konseitu zona, halo jestaun nível konfiansa diferente ba koneksaun rede fasil liu. Ezemplu, atu permite tráfiku HTTP iha zona públiku, bele uza: 'firewall-cmd --zone=public --add-service=http'.
+
+Liuliu firewall, protokol komunikasaun seguru esensiál tebes atu proteje dadus iha tranzitu. Secure Shell (SSH) mak protokol rede kriptográfiku ne'ebé uza ba komunikasaun dadus seguru, ezekusaun komandu remotu, no servisu rede seguru seluk entre komputador rua ne'ebé konekta. Maski SSH seguru husi dezain, seguransa bele hasae liu tan ho autentikasaun bazeia ba xave kompara ho pasu-fatin.
+
+Atu setup autentikasaun SSH bazeia ba xave, uza sira jera par xave públiku-privadu uza komandu 'ssh-keygen'. Xave públiku depois loka iha server remotu, normalmente iha arkivu '~/.ssh/authorized_keys'. Ora konekta, kliente SSH komprova

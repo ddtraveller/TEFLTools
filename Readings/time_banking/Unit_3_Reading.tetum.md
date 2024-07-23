@@ -1,0 +1,15 @@
+'Mekanika no Taxonomia husi Sistema Banku Tempu
+
+Banku Tempu hanesan modelu ekonomia ne'ebé inovativu ne'ebé desafia konseitu tradisional kona-ba valor no troka. Iha nia laran, banku tempu hanesan sistema ne'ebé ema troka servisu ho kreditu tempu, la'os ho osan. Sistema moeda alternativa ne'e funsiona bazeia prinsípiu katak tempu ema nian hotu-hotu hanesan valiozu, la importa servisu ne'ebé oferese nian. Liu husi promove reciprocidade no envolvimentu komunidade, banku tempu iha objetivu atu harii rede sosial ne'ebé forte liu no atu rezolve nesesidade sira iha komunidade ne'ebé seidauk atinji.
+
+Mekanika husi banku tempu la'o molok liu husi tolu tipu troka: ema ba ema, ema ba ajénsia, no ajénsia ba ajénsia. Iha troka ema ba ema, individu sira troka servisu diretamente ho ema seluk. Ezemplu, membru ida bele oferese oras ida husi jardim iha troka ba oras ida husi tutoria lian husi membru seluk. Tipu troka ne'e forma fundamentu husi sistema banku tempu nian no fo enkorajamentu ba interasaun direta iha komunidade.
+
+Troka ema ba ajénsia involve individu sira ne'ebé fo servisu ba organizasaun ka tuir versa. Membru ida bele voluntariu iha organizasaun non-profit lokal no hetan kreditu tempu, ne'ebé bele uza depois atu simu servisu husi individu seluk ka organizasaun sira iha rede banku tempu nian. Modelu ida ne'e permite organizasaun sira atu involve voluntariu sira no oferese servisu valiozu ba komunidade wainhira funsiona iha estrutura banku tempu nian.
+
+Troka ajénsia ba ajénsia akontese bainhira organizasaun sira troka servisu ho organizasaun seluk. Ezemplu, sentru komunidade ida bele oferese uza nia instalasaun ba grupu arte lokal iha troka ba grupu ne'e fo ofisina gratuitu ba membru sentru nian. Tipu troka ida ne'e bele ajuda organizasaun sira atu maximiza sira nia rekursu no expande sira nia oferta servisu laho gasta osan adisional.
+
+Konseitu kreditu tempu importante tebes ba operasaun husi banku tempu. Kreditu hirak ne'e hanesan moeda iha sistema, ho kreditu tempu ida normalmente ekuivalente ba oras ida husi servisu. Bainhira membru ida fornese servisu, sira hetan kreditu tempu ne'ebé sira bele gasta depois atu simu servisu husi membru seluk ka organizasaun sira ne'ebé partisipa. Sistema ida ne'e asegura katak membru hotu-hotu iha oportunidade atu hetan no fo, promove dinamika komunidade ne'ebé ekuilibradu no reciprok.
+
+Papel husi koordenador banku tempu importante tebes iha mantein operasaun suave husi sistema. Koordenador sira responsavel ba jere konta membru nian, fasilidade iha troka, no asegura saude geral husi banku tempu. Sira mós bele joga papel importante iha rekruta membru foun, identifika nesesidade komunidade, no promove banku tempu iha komunidade luan liu.
+
+Atu maneja rede kompleksu husi troka no monitorizasaun kreditu, banku tempu barak uza software espesializadu. Plataforma dijitál sira ne'e permite membru sira lista servisu ne'ebé oferese, buka servisu ne'ebé presiza, no registu sira nia troka. Software banku tempu mós normalmente inklui funsionalidade

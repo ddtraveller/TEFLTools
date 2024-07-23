@@ -1,0 +1,15 @@
+'Introdusaun ba Ekosistema Marino Timor-Leste
+
+Timor-Leste, nasaun ki'ik ida ne'ebé nakloke iha laran Coral Triangle, iha rikusaun no diversidade ne'ebé boot iha ambiente marino ne'ebé joga papel importante tebes ba ekologia, ekonomia, no kultura rai laran nian. Ho lokalizasaun estratejiku no tasi-ibun ne'ebé extensivu, ekosistema marino Timor-Leste nian sai uma ba diversidade biolojia ne'ebé espesial no fornese servisu sira-ne'ebé importante ba komunidade lokál no ambiente global.
+
+Territoriu marino Timor-Leste nian inklui area vasta ida, inklui nia Zona Ekonomia Ekskluziva (ZEE), ne'ebé estende ba 200 milha nautika husi tasi-ibun. Dominio marino ne'ebé vasta ida ne'e koloa Timor-Leste iha pozisaun uniku iha laran Coral Triangle, rejiaun ne'ebé hetan rekonhesimentu tanba biodiversidade marino ne'ebé esepsional. Coral Triangle, ne'ebé ema balun hamosu hanesan "Amazon husi Tasi," iha konsentrasaun espesie marino ne'ebé aas liu iha mundu, ne'ebé halo tasi Timor-Leste nian sai area kritiku ida ba konservasaun no peskiza sientifika.
+
+Tolu habitat marino prinsipal domina ekosistema tasi-ibun Timor-Leste nian: karang-koral, floresta mangrove, no kama-kama tasi. Kada habitat ida iha papel vital iha manutensaun saúde no produtividade ambiente marino nian.
+
+Karang-koral maka ikonik liu husi ekosistema marino Timor-Leste nian. Sidade tasi-tun ne'e harii husi karang ki'ik no fornese fatin proteksaun, hahan, no fatin ba reproduksaun ba espesie marino barak liu. Karang-koral Timor-Leste nian espesialmente diversu, ho karang-koral nia tipu hotu-hotu prezente iha tasi-ibun. Karang-koral sira ne'e la'ós de'it suporta diversidade ikan no invertebradu, maibé mós atu hanesan barreira naturál, proteje area tasi-ibun husi onda boot no erosaun.
+
+Floresta mangrove, ne'ebé iha iha zona intertidal iha tasi-ibun Timor-Leste nian, sai habitat marino seluk ne'ebé importante. Ekosistema uniku sira ne'e karakteriza husi ai no ain-feto ne'ebé bele reziste ba ki'ik asin, ne'ebé moris iha fatin desafiu entre rai no tasi. Mangrove sira iha funsaun ekolojiku barak, inklui sai fatin proteksaun ba ikan ki'ik, filtra poluente sira husi rai, no sekestra karbonu iha quantidade boot. Alende ne'e, aimoruk mangrove nian ajuda estabiliza tasi-ibun, reduz erosaun no fornese proteksaun kontra fenomena naturál sira hanesan tempu aat no tsunami. 
+
+Kama-kama tasi, habitat marino importante terseiru iha Timor-Leste, iha submersa iha tasi hanesan kampu ai-fuan ne'ebé adapta ba ambiente marino. Ekosistema sira ne'e dala ruma labele hetan atensaun, maibé iha papel vital ba ekologia marino. Kama-kama tasi fornese hahan no fatin refujia ba espesie marino barak, inklui tartaruga tasi ne'ebé ameasadu no dugongu. Sira mós ajuda estabiliza sedimentu, hadia kualidade bee, no sekestra karbonu iha taxa ne'ebé aas liu rai.
+
+Importansia husi habitat marino sira ne'e la'ós de'it ba funsaun ekolojiku sira. Sira vital ba

@@ -1,0 +1,15 @@
+'Dispositivu Rede no Sira-nia Funsaun
+
+Iha mundu ne'ebé konektadu iha loron-loron, rede komputador hanesan tulun prinsipal ba komunikasaun moderna no troka informasaun. Rede sira ne'e depende ba dispositivu sira ne'ebé la'o efisiente no seguru. Komprensaun kona-ba papel no funsaun husi dispositivu rede importante teb-tebes ba ema ne'ebé interese kona-ba oinsá dadus sira viajen husi pontu ida ba seluk iha mundu dijital.
+
+Dispositivu rede prinsipal maka hub, switch, no router. Kada ida husi sira ne'e iha papel importante teb-tebes atu hala'o dadus sira liu husi rede, maibé sira nia operasaun la hanesan.
+
+Hub mak dispositivu ida ne'ebé simples liu. Hub hanesan pontu koneksaun sentral ba dispositivu sira iha rede lokál (LAN). Bainhira hub simu dadus husi dispositivu ida, nia haruka dadus ne'e ba hotu-hotu dispositivu sira seluk ne'ebé konektadu. Haruka dadus hanesan ne'e mak forsa no frakeza husi hub. Maske nia asegura katak dadus sira hetan sira nia destinu, maibé nia mós kria tráfiku rede ne'ebé la presiza no bele kauza kolizaun dadus bainhira dispositivu barak haruka dadus iha tempu hanesan. Tanba limitasaun sira ne'e, hub agora la uza ona, maibé bele hetan iha sistema antigu balun.
+
+Switch hanesan progresu boot liu husi hub. Hanesan hub, switch mós liga dispositivu sira iha LAN, maibé nia la'o ho inteligente liu. Switch iha tabela enderesu MAC (Media Access Control), ne'ebé nia bele hatene katak dispositivu ruma konektadu ba portu ida. Bainhira dadus mai iha switch, nia hare enderesu MAC destinu no haruka dadus de'it ba portu espesífiku ne'ebé destinatáriu konektadu. Haruka dadus hanesan ne'e redus tráfiku rede ne'ebé la presiza no la bele akontese kolizaun dadus hanesan hub. Switch kria domíniu kolizaun ida-idak ba portu ida-idak, ne'ebé bele fahe dadus sira iha tempu hanesan la ho interfere.
+
+Router hanesan dispositivu avansadu liu ne'ebé la'o iha nível aas liu husi hierarkia rede. Maske switch servisu iha rede ida de'it, maibé router liga rede sira ne'ebé la hanesan. Router uza enderesu IP (Internet Protocol) atu hatene dalan di'ak liu ba dadus viajen entre rede sira. Sira iha tabela routing ne'ebé iha informasaun kona-ba topolojia husi rede no uza informasaun ne'e atu halo desizaun intelijente kona-ba oinsá haruka pakote dadus. Router mós iha funsaun adisional hanesan kapasidade firewall no Tradusaun Enderesu Rede (NAT), ne'ebé permite dispositivu sira iha rede lokál uza enderesu IP públiku ida de'it.
+
+Dispositivu rede seluk ne'ebé importante maka gateway. Gateway hanesan pontu entrada husi rede ida ba seluk. Nia bele hanesan hardware ne'ebé dedika ona ka software ne'ebé la'o iha komputador. Gateways importante teb-tebes atu liga rede sira ne'ebé uza protokolu ka arkitetura la hanesan. Por ezemplu, gateway bele liga rede lokál ba internet, no tradus protokolu husi rede lokál ba protokolu husi internet ne'ebé boot liu.
+
+Aleinde dispositivu sira ne'e, rede moderna mós uza ekipamentu espesializadu sira. Firewall h

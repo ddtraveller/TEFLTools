@@ -1,0 +1,15 @@
+'Fundamentus Seguransa Rede: Proteje Riku Soi Dijitál iha Mundu Interligadu
+
+Iha era dijitál ohin loron, ne’ebé informasaun la’o livre liu husi rede globál, importánsia seguransa rede la bele subestima. Hanesan organizasaun no individuál sira nafatin depende ba sistema interligadu ba komunikasaun, komérsiu, no armazenamentu dadus, nesesidade atu proteje riku soi dijitál sira husi ator malísiu sira sai importante liu hotu. Artigu ida ne’e ezplora konseitu fundamentál seguransa rede, ameasa komún sira, no medida protesaun esensiál sira.
+
+Seguransa rede inklui teknolojia, prosesu, no prátika sira ne’ebé dezenvolve atu defende rede, dispositivu, programa, no dadus husi atake, estragus, ka asesu unautorizadu. Seguransa rede sai komponente kritiku ida husi estrutura IT nian, serve hanesan defesa frontline hasoru perigu siber ne'ebé bele kompromete informasaun sensivel, perturba operasaun, no halo estragus finanseiru no reputasionál boot.
+
+Preokupasaun primária ida iha seguransa rede mak variedade ameasa sira ne'ebé eziste iha ambiente dijitál. Malware, ou softuare malísiu, kategoria ida ne'ebé inklui vírus, worm, trojan, no ransomware. Programa sira ne’e dezenvolve atu infiltra sistema sira, asalta dadus, ka halo estragus. Vírus sira replika no transmite husi komputadór ida ba seluk, enkuantu worm sira bele propaga la iha intervensaun umana. Trojan sira disfarça hanesan software lejítimu atu engana usuário sira atu instala sira, no ransomware enkripta dadus, prende hanesan refén ba pagamentu.
+
+Ameasa seluk ne'ebé signifikante mak husi phishing no atake enjenharia sosial. Táktika sira-ne’e explora psikolojia umana duke vulnerabilidade tékniku. Tentativa phishing sira bele to’o hanesan email ka mensajen ne'ebé hein atu legítimu, tenta destinatáriu sira atu klik iha ligasaun malísiu ka fornese informasaun sensivel. Enjenharia sosial involve manipulasaun individuál sira atu viola prosedimentu seguransa ka divulga dadus konfidensiál.
+
+Atake Denial of Service (DoS) representa kategoria ameasa rede seluk. Iha atake DoS, autor inunda sistema destinu ho tráfiku ka pedidu, sobrecarrega kapasidade no halo nia la disponível ba usuário legítimu sira. Variante ida husi ne’e mak atake Distribuído Denial of Service (DDoS), ne'ebé sistema sira ne'ebé komprometidu uza atu ataka sistema ida de'it.
+
+Atu kombate ameasa sira-ne’e, organizasaun sira uza abordajen seguransa rede multi-kamada. Firewalls serve hanesan linhajen primeiru defesa, monitoriza no kontrola tráfiku rede nian hosi liur ba laran no versa versa bazeia ba regra seguransa ne'ebé determina tiha ona. Sira hanesan barreira entre rede internu ne'ebé fiar no rede externu ne'ebé la fiar, hanesan internet.
+
+Enkripsaun joga papél importante iha proteksaun dadus iha tranzitu no iha repouzu. Nia involve kodifikasaun informasaun iha maneira ne'ebé de'it parte autorizadu bele asesu. Iha tipu rua enkripsaun: simétriku, ne'ebé uza xave ida de'it ba enkripsaun no dekripsaun, no asimétriku, ne'ebé uza par xave públiku no privadu. Protokolu hanesan SSL/TLS

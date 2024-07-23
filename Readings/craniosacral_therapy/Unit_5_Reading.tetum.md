@@ -1,0 +1,15 @@
+'Téknika Kranium Nian: Dalan Ba Kura Holístika
+
+Kranium umanu nian, estrutura kompleksu husi tulang ne'ebé sira enkobre malu, kobre no proteje órgaun ida husi ami-nia importante tebes - kakutak. Maski barak konsidera kranium hanesan entidade sólidu, imóvel, pratikante terapia kraniosakral komprende katak kranium hanesan sistema dinámiku ne'ebé bele halo movimentu sutíl sira ne'ebé bele influensia saúde no bem-estar jerál. Téknika kranium nian, fundasaun husi terapia kraniosakral, foka liu iha manipulasaun tulang husi kranium atu allevia kondisaun sira no promove kura iha korpu tomak.
+
+Kranium, mós hatene hanesan neurocranium, konsiste husi tulang balu ne'ebé forma kazu protetor ida iha rodia kakutak. Tulang prinsipál sira ne'ebé involve iha téknika kranium nian inklui tulang frontál, ne'ebé forma testa no parte leten husi buka-matan; tulang parietál na'in rua, ne'ebé forma leten no ai-kanek husi kranium; sphenoid, tulang ida ne'ebé forma hanesan borboleta iha baze husi kranium; no tulang temporál sira, ne'ebé iha ai-kanek husi kranium no ai-hela ba estrutura husi tilun laran.
+
+Tulang sira-ne'e konekta ho fibra husi joint sira ne'ebé naran sutura, ne'ebé permite movimentu minutu ida. Terapeuta kraniosakral sira fiar katak restriksaun iha sutura sira bele halo problema saúde balu, no manipulasaun suave bele restaura funsaun di'ak no promove kura.
+
+Téknika fundamentál ida iha servisu kranium nian mak 'frontál lift'. Prosesu ida-ne'e involve atu tau liman iha tulang frontál no aplika trasaun suave atu enkoraja movimentu iha sutura koronál, ne'ebé konekta tulang frontál ba tulang parietál sira. Pratikante sira fiar katak téknika ida-ne'e bele ajuda allevia dor kapaas, problema sinusu, no até problema vizaun balu.
+
+'Parietál lift' mak téknika seluk ne'ebé importante liu ne'ebé foka iha tulang boot sira ne'ebé forma leten no ai-kanek husi kranium. Liuhosi halo 'lifting' suave no separa tulang parietál sira, terapeuta sira hakarak atu liberta tensaun iha sutura sagitál, ne'ebé la'o iha liña médiu husi kranium. Pensa katak téknika ida-ne'e bele ajuda ho kondisaun sira hanesan migrain, problema kognitivu, no até desequilíbriu emosionál balu.
+
+Talvez téknika ida husi sira-ne'ebé komplikadu liu mak 'sphenoid decompression'. Tulang sphenoid, ne'ebé iha baze husi kranium, artikula ho tulang kranium seluk balu no konsidera hanesan estrutura xave iha terapia kraniosakral. Liuhosi manipula tulang ida-ne'e ho kuidadu, pratikante sira hakarak atu influensia sistema kraniosakral tomak, bele influensia buat hotu husi balansu hormone (tanba nia proximidadi ba glandula pituitáriu) ba alignamentu estruturál korpu nian.
+
+Téknika husi tulang temporál mós importante tebes iha servisu kranium nian. Tulang temporál sira ai-hela ba estrutura husi tilun laran no asosia ho balansu no audisaun. Mobilizasaun suave husi tulang sira-ne'e fiar katak bele ajuda

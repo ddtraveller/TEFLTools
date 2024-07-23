@@ -1,0 +1,15 @@
+'Introdusaun ba Seidr no Shamanismu Norte Europeia
+
+Seidr, hanesan moda antigu husi magia Norse no prátika shamanic, oferese ita ida kurtidu hanesan fasinante ba mundu espiritual husi Norte Europeia molok Cristiano. Tuir mitolojia no cosmologia husi ema Norse, seidr representa sistema komplexu ida husi fiar no rituais ne'ebé hakarak hametin relasaun entre mundu mortal no divinu. Artigu ida ne'e sei esplora konseitu importante husi seidr, nia prátikante sira, no nia pozisaun iha kontestu abranjente liu husi shamanismu Norte Europeia.
+
+Iha nia esensia, seidr hanesan feto husi magia no divinasaun ne'ebé ligadu ho Maromak Norse nian hanesan Odin no Freyja. Prátikante seidr, ne'ebé sei hetan hanesan völvas (feto) ka seidmen (mane), fiar katak sira iha kapasidade atu tama iha estadu trance, komunika ho espíritu sira, no hetan hatene profetiku. Ema sira ne'e hetan funsaun importante iha sosiedade Norse, dala barak hanesan vidente, kurador no konselleiru ba lideransa komunidade nian.
+
+Prátika seidr iha ligasaun maka'as ho konseitu Norse nian kona-ba kosmos, ne'ebé sentra iha Yggdrasil, ai-mundu. Ai-mundu ida ne'ebé mitolojiku ne'e hateten katak liga mundu sia ne'ebé hanesan parte husi cosmologia Norse, hanesan dalan entre realidade sira ne'ebé diferente. Prátikante seidr fiar katak sira bele viaja tuir ai-mundu Yggdrasil nia laran iha sira nia estadu trance, hetan hatene no forsa husi nivel kosmiku sira ne'ebé diferente.
+
+Aspetu ida importante husi seidr mak nia natureza profetiku. Völvas dala barak hetan husi halo rituais divinasaun, fo orientasaun kona-ba asuntu sira husi produsaun ai-han ba kampanha militar. Ritual sira ne'e normalmente involve völva ida ne'ebé tama iha estadu trance, dala barak ho ajuda husi kantigamentu, tambor, ka uza substansia alusinojenia. Iha estadu konsiensia ne'ebé muda ne'e, prátikante fiar katak sira bele hetan hatene ne'ebé labele hetan no komunika ho espíritu ka deidade sira.
+
+Seidr iha karakterístika barak ne'ebé hanesan ho prátika shamanic ne'ebé hetan iha kultura sira seluk iha mundu tomak. Hanesan prátika shamanic seluk, seidr involve prátikante sira hanesan intermedeiru entre mundu umanu no reino espiritual. Uzu estadu trance, objetu ritual, no koñesimentu espesializadu distinge prátikante seidr hanesan ema sira ho habilidade espiritual úniku no responsabilidade sosial.
+
+Maske nune'e, seidr mós iha karakterístika distintu sira ne'ebé distinge husi tradisaun shamanic seluk. Ezemplu, ligasaun forte ho deidade Norse sira no enkuadramentu cosmolojiku husi mundu sia fó seidr sabor kultural úniku. Alende ne'e, dinámika jéneru iha prátika seidr nian valoriza, ho feto sira dala barak iha papél ne'ebé importante liu duke iha tradisaun shamanic sira seluk.
+
+Prátika seidr la fó hanoin ne'ebé di'ak, maske iha sosiedade Norse. Fonte sira balun sujere katak prátikante mane sira husi seidr dalaruma hetan ho sus

@@ -1,0 +1,13 @@
+'Inteligénsia Emosionál iha Timor-Leste: Perspetiva Kultural
+
+Inteligénsia emosionál, kapasidade atu hatene, komprende, no kontrola emosionál iha ita nia-an rasik no mós iha ema seluk nia laran, kontinua hetan atensaun barak iha mundu tomak tanba ne'e habilidade importante tebes ba susesu iha vida pesoál no profisionál. Iha Timor-Leste, nasaun foun ida ho riku patrimóniu kultural, konseitu inteligénsia emosionál oferese perspetiva úniku kona-ba dinámika sosial no dezenvolvimentu pesoál iha kontestu Timor nian.
+
+Estrutura inteligénsia emosionál, ne'ebé dezenvolve husi psikólogu Daniel Goleman, inklui komponente lima ne'ebé importante: auto-konsiénsia, auto-regulasaun, motivasaun, empatia, no habilidade sosial. Kada ida husi komponente sira-ne'e hetan signifikadu espesiál bainhira haree liu husi kultura no valor Timor nian.
+
+Auto-konsiénsia, ne'ebé sai fundasaun ba inteligénsia emosionál, involve atu hatene ita nia-an rasik nia emosionál, forsa, frakeza, no valor. Iha Timor-Leste, ne'ebé komunidade no ligasaun família sai importante tebes, auto-konsiénsia dala ruma sai liu husi individu nia-an rasik atu hetan konsiénsia kona-ba papel ida nian iha estrutura sosial boot. Individu Timor nian bele enkontra sira nia-an rasik iha dalan entre dezire pesoál no espektativa família ka sosiedade nian, ne'ebé halo auto-konsiénsia sai habilidade importante tebes ba manutensaun harmonia.
+
+Auto-regulasaun, kapasidade atu kontrola emosionál no impulso ne'ebé bele estraga, iha ligasaun di'ak ho valor tradisionál Timor nian kona-ba respeitu no evita konflitu. Iha sosiedade ne'ebé preserva dignidade no relasaun sai importante tebes, kapasidade atu kontrola ita nia-an rasik nia reasaun emosionál sai valiozu tebes. Habilidade ne'e bele haree iha abordajen Timor nian ba rezolusaun konflitu, ne'ebé dala barak valoriza mediasaun no konsensu liu duke konfrontasaun.
+
+Motivasaun, iha kontestu inteligénsia emosionál, refere ba ambisaun atu atinje tanba atinje rasik. Maski konseitu ida ne'e bele kontra ho natureza kolektivista husi sosiedade Timor nian, bele komprende ona iha termus motivasaun atu kontribui ba di'ak liu ba família ka komunidade ida nian. Resiliénsia ne'ebé demonstra husi povu Timor nian durante sira nia luta ba independénsia no esforsu atu harii nasaun ilustra motivasaun kolektiva ida ne'e.
+
+Empatia, kapasidade atu komprende no konsidera sentimentu ema seluk nian, profundamente enraizadu iha kultura Timor nian. Konseitu "belun," ka'

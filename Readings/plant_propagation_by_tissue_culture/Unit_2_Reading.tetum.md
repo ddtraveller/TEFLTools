@@ -1,0 +1,15 @@
+'Téknika Steril no Seguransa Laboratóriu: Praktika Essensial iha Peskiza Sientífika
+
+Iha mundu peskiza sientífika, liuliu iha área hanesan mikrobiolojia no kultura tissue ai-horis, presiza tebes mantein ambiente steril. Téknika steril no praktika seguransa laboratóriu importante tebes atu prevene kontaminasaun, garante validez rezultadu eksperimentál, no proteje peskizador sira husi perigu. Artigu ida-ne'e diskute importansia husi praktika sira-ne'e no hatudu konseitu no metodu importante ne'ebé uza iha laboratóriu.
+
+Fundamentu husi téknika steril maka konseitu téknika aseptik, ne'ebé hatudu metodu sira ne'ebé uza atu prevene kontaminasaun husi baktéria, vírus, no mikroorganismu sira seluk. Téknika sira-ne'e essensial iha área barak husi peskiza sientífika, ne'ebé kontaminasaun ki'ik liu bele prejudika eksperimentu sira ka kria risku saúde. Téknika aseptik involve kombinasaun husi praktika sira, hanesan halo fatin liman ho di'ak, uza ekipamentu protesaun, no labele halo sala bainhira manuseia material steril.
+
+Preokupasaun importante iha servisu laboratóriu maka kontaminasaun. Kontaminasaun akontese bainhira mikroorganismu sira ne'ebé la hakarak introdus ba iha kultura ka ekipamentu. Fonte kontaminasaun sira mak partícula husi anin, superfísie la liman, no manuseia material ho sala. Atu halo kontra ba problema sira-ne'e, peskizador sira uza metodu sterilizasaun oioin. Autoclave, ne'ebé uza bee iha presaun aas, hanesan metodu ida efetivu liu atu steriliza ekipamentu no material. Sterilizasaun kímika, ho uza substansia hanesan etanol (solusaun 70%) ka solusaun klór, mós metodu ida ne'ebé uza barak, liuliu ba superfísie no item sira ne'ebé la aguenta temperatura aas.
+
+Kria no mantein ambiente servisu steril importante tebes iha laboratóriu. Kapar iha fluxu laminar uza dala barak ba objetivu ida-ne'e. Ekipamentu sira-ne'e kria fluxu anin filtradu ne'ebé la muda husi direksaun, hodi prevene kontaminante husi anin tama ba área steril. Iha situasaun ne'ebé laiha kapar iha fluxu laminar profisionál, bele kria versau informal liu husi kaixa plástika klaru ka akuáriu, hodi fornese ambiente kontroladu ba servisu steril.
+
+Fatin liman ho di'ak no uza luvas ho maneira adekuadu hanesan parte fundamentál husi seguransa laboratóriu no praktika steril. Fatin liman ho sabun no bee no uza luvas jestor ho los, ajuda minimiza transferénsia mikroorganismu. Importante tebes atu troka luvas regularmente, liuliu bainhira muda husi área ida ba área seluk iha laboratóriu ka hafoin kontaminasaun potensial.
+
+Alende praktika sira-ne'e, peskizador sira tenke atentu ba aspetu seguransa laboratóriu sira seluk. Ne'e inklui manuseia ho di'ak no disposa material kontaminadu, uza substansia perigosa ho kuidadu, no tuir protokol seguransa espesífiku ba peskiza ne'ebé halo. Limpeza no desinfeksaun regular husi superfísie servisu, armazenamentu material ho di'ak, no mantein ambiente la tauk mós hanesan parte importante husi seguransa laboratóriu.
+
+Komprende tipu kontaminante sira ne'ebé bele prejudika serv

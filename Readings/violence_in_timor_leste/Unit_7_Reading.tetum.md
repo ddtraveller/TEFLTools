@@ -1,0 +1,15 @@
+'Hakerek Paz Sustentavel iha Timor-Leste
+
+Viajen Timor-Leste nian ba paz sustentavel oferese lian ne'ebé di'ak liu ba rekonsiliasaun no hakbiit paz depois konflitu. Hafoin hetan independensia iha tinan 2002, hafoin dekada barak okupasaun husi Indonesia, Timor-Leste halo progresu boot iha rekonsiliasaun sosiedade no haree ba nia istória violensia pasadu nian. Maske nune'e, dezafiu kontinua iha konsolidasaun paz no promove estabilidade naruk.
+
+Baze ida husi esforsu hakbiit paz Timor-Leste nian mak nia foku ba rekonsiliasaun no justisa transisional. Komisaun ba Recepasaun, Verdade no Rekonsiliasaun (CAVR) halo papel importante tebes iha prosesu ida ne'e. Estabelese iha tinan 2001, CAVR dokumenta violasaun direitus umanus, fasilita prosesu rekonsiliasaun komunidade nian, no halo relatoriu tomak kona-ba tempu konflitu. Mekanizmu ida ne'e nia funsaun hodi rekonhese abuzu pasadu no promove halo dame entre vitima sira no malisan.
+
+Hodi komplementa servisu CAVR nian, Timor-Leste implementa medida justisa transisional balun. Sira inklui julgamentu kazu grave liu husi tribunal mistu, programa reparasaun ba vitima, no reforma institusional ida ne'ebé hakarak prevene abuzu iha futuru. Maske la perfeitu, esforsu sira ne'e hatudu kompromisu ida ba prestasaun kontas no halo adresa ba kexa husi tempu konflitu nian.
+
+Organizasaun sosiedade sivil halo papel importante tebes iha esforsu hakbiit paz Timor-Leste nian. ONG lokal, grupu feto, asosiasaun juventude, no organizasaun bazeia ba relijiaun lidera inisiativa rekonsiliasaun iha nivel komunidade, advokasia direitus umanus, no programa hakbiit paz. Esforsu sira ne'e ajuda hodi hametin relasaun entre komunidade sira, promove diálogu, no asegura katak vóz sidadaun hetan rona iha prosesu paz nian.
+
+Maske iha progresu, Timor-Leste kontinua hasoru kauza fundamentál konflitu nian ne'ebé ameasa paz sustentavel. Kontestasaun rai kontinua hanesan fonte tensaun nian ne'ebé sai aat liu tan husi direitu propriedade ne'ebé la klaru no deslokamentu ne'ebé konflitu pasadu kauza. Desempregu boot, liuliu iha juventude, kria frustrasaun no potensial ba instabilidade. Divizaun polítika, dala barak tuir liña rejional, buka liu hodi tun sae no prejudika unidade nasional.
+
+Halo adresa ba kauza sira ne'e presiza abordajen ida ne'ebé kompletu. Inisiativa reforma rai no mekanizmu rezolusaun disputa ne'ebé di'ak liu presiza hodi hamenus konflitu propriedade nian. Programa dezenvolvimentu ekonomiku ne'ebé fokus ba kriasaun empregu no treinamentu habilidade bele ajuda hodi hamenus desempregu no fornese alternativa ba violensia. Promove governasaun inkluzivu no desentralizasaun bele ajuda hodi hametin divizaun polítika no asegura distribuisaun rekursu ne'ebé justu liu.
+
+Estratéjia hakbiit paz iha Timor-Leste mós tenke hasoru legadu violensia no trauma iha sosiedade. Programa suporta psikososiál, inisiativa diálogu komunidade nian, no edukasaun paz iha eskola importante hodi promove kultura ida ne'ebé

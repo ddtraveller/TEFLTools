@@ -1,0 +1,15 @@
+'Materiais Lokál no Sira-nia Propriedades: Konstrusaun Sustentavel ho Rekursus Indígena
+
+Iha tempu ida ne'ebé konsiénsia ambientál aumenta no esforsu ba dezenvolvimentu sustentável, uza materiais hosi konstrusaun lokál hetan interese foun iha mundu tomak. Abordajen ida ne'e ba konstrusaun labele redús impaktu karbonu nian ne'ebé asosia ho transporte materiais husi distánsia naruk, maibé mós bele konserva téknika konstrusaun tradisionál no patrimóniu kultural. Papel ida ne'e ezplora propriedades husi materiais lokál ne'ebé komunmente uza iha konstrusaun, ho foku espesiál ba sira ne'ebé iha iha Timor-Leste no rejiaun sira ne'ebé hanesan.
+
+Materiais ba konstrusaun lokál maka sira ne'ebé akontese naturalmente ka bele produz fásil iha área geográfika ida. Sira-ne'e bele inklui bambu, rai, folin ai-liman, fatuk, no tipu oioin husi ai. Kada ida husi sira-ne'e iha propriedades úniku ne'ebé oinsá halo sira apropriadu ba aspetu diferente husi konstrusaun.
+
+Bambu, por ezemplu, hetan rekoñesimentu ba ninia forsa tensil ezepsionál, ne'ebé bele kompete ka até ultrapasa asu iha espésie balun. Propriedade ida ne'e halo bambu sai material di'ak ba halo estrutura no reforsa materiais seluk. Alende ida-ne'e, ritmu kresimentu rápidu bambu nian no nia kapasidade atu sekuestra karbonu halo nia sai opsaun ne'ebé respeita ambiente. Maibé, ninia vulnerabilidade ba praga no estragus husi umidade presiza tratamentu no manutensaun adekuadu.
+
+Rai, iha forma adobe, rai ramada, ka cob, uza ona ba milénia iha konstrusaun. Vantajen prinsipal rai nian maka ninia masa térmika boot, ne'ebé ajuda regula temperatura interior, no abundánsia. Konstrusaun rai mós iha enerjia enkorporada ki'ik, signifika enerjia ki'ik mak presiza ba estraia no prosesa material. Forsa kompressiva husi estrutura rai nian bele impresionante, liuliu bainhira estabiliza ho aditivu hanesan kalku ka simentu. Maibé, edifísiu rai nian presiza proteksaun husi umidade no bele presiza manutensaun regulár iha klima molhado.
+
+Folin ai-liman no materiais base ai seluk uza dala barak ba kubu no izolasaun iha rejiaun tropikal. Sira-ne'e material ne'ebé levis, disponível fásil, no biodegradável. Maske sira bele la iha durabilidade husi material sira ne'ebé duradouru liu, sira fásil atu troka no fornese propriedades refreskante naturál di'ak. Uza materiais sira-ne'e mós suporta ekosistema lokál liuhosi incentiva konservasaun ai-liman no ai seluk ne'ebé hanesan.
+
+Fatuk valoriza ba ninia durabilidade no forsa kompressiva boot. Iha área sira ne'ebé iha fatuk apropriadu iha abundánsia, nia bele sai opsaun di'ak ba fundasaun, parede, no kalçada. Estrutura fatuk nian resisti ona ba tempu, ho edifísiu antigu barak sei iha ohin loron. Maibé, estraia no transporte fatuk nian bele konsumu enerjia boot, no presiza manu di'ak ba konstrusaun ne'ebé adekuadu.
+
+Propriedade husi materiais sira-ne'e influénsia diretamente aplikasaun sira iha

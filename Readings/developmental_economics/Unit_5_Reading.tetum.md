@@ -1,0 +1,15 @@
+'Jéneru, Polítika, no Dezenvolvimentu iha Timor-Leste
+
+Timor-Leste, ida husi nasaun ki'ik liu iha mundu, hetan progresu boot iha nia dalan ba dezenvolvimentu no demokrasia hafoin hetan independénsia iha tinan 2002. Maske nune'e, nasaun ne'e kontinua hasoru problema sira ne'ebé relasiona ho igualdade jéneru no partisipasaun polítika, ne'ebé sai faktor importante iha nia dezenvolvimentu tomak. Papel ne'e analiza interasaun entre jéneru, polítika, no dezenvolvimentu iha Timor-Leste, ho destake ba progresu ne'ebé atinje ona, problema sira ne'ebé kontinua eziste, no estratéjia potensiál ba melloria.
+
+Istória kolonizasaun no konflitu ne'ebé tumultuadu forma ona teren polítika iha Timor-Leste. Hafoin independénsia, nasaun ne'e harii ona sistema demokrasia parlamentar ho partidu polítiku barak. Maibé, estrutura patriarkál sira nafatin influénsia partisipasaun polítika no prosesu atu halo desizaun. Maske nune'e, Timor-Leste halo ona progresu boot iha promosaun igualdade jéneru iha polítika liu husi implementasaun kuóta jéneru.
+
+Kuóta jéneru iha Timor-Leste eziji katak iha lista kandidatu partido polítiku nian ba eleisaun parlamentar, minimu ida husi kada tolu kandidatu tenki feto. Polítika ida ne'e aumenta signifikativamente reprezentasaun feto nian iha parlamentu nasionál, ho feto sira agora okupa 38% husi asento sira, ida husi persentajen aas liu iha Ázia. Maibé, importante atu nota katak reprezentasaun numérik la automatikamente hamosu partisipasaun substansial ka influénsia iha prosesu atu halo desizaun.
+
+Maske reprezentasaun feto nian iha parlamentu nasionál laudavel, sira-nia partisipasaun iha nivel governasaun lokál limitadu. Konseilu suku, ne'ebé iha papel importante iha dezenvolvimentu komunidade no desizaun lokál nafatin dominadu husi mane. Diferensa ida ne'e hatudu presiza intervensaun hodi halo intervensaun ba obstákulu sira ba partisipasaun polítika feto nian iha nivel governasaun hotu.
+
+Desafiu sira ba empoderamentu polítiku feto nian iha Timor-Leste komplexu. Norma kulturál no papel jéneru tradisionál dala barak desanima feto sira atu partisipa iha vida públiku. Asesu limitadu ba edukasaun no rekursu ekonómiku sé barreira tan ba partisipasaun efetivu feto nian iha polítika. Alende ida ne'e, feto sira ne'ebé entra iha polítika dala barak hasoru diskriminasaun, asédia, no falta apoia husi partidu polítiku no kolega mane.
+
+Hodi enfrenta desafiu sira ne'e, Timor-Leste adopta estratéjia mainstreaming jéneru hodi promove igualdade jéneru iha setor hotu. Metodu ida ne'e involve avaliasaun implikasaun husi aksaun planeadu hotu, inklui lejislasaun no polítika, ba feto no mane. Maske estratéjia ida ne'e halo ona polítika ne'ebé responde ba jéneru, implementasaun kontinua sai desafiu boot tanba rekursu limitadu no kapasidade institusionál.
+
+Evidénsia experimental husi nasaun dezenvolvimentu seluk hatudu katak intervensaun sira ne'ebé fo alvu bele efetivu h

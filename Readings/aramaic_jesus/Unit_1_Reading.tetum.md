@@ -1,0 +1,15 @@
+'Introdusaun ba Diversidade Kristaun Nian Iha Sedu
+
+Sekulu-sira husi sedu Kristaun nian marka husi patrimóniu riku ida husi fiar, prátika, no interpretasaun ne'ebé dala barak la hetan rekoñesimentu iha diskusaun moderna kona-ba fiar. Diversidade ne'e, kuandu halo dalan durante tinan tolu atus hafoin vida Jesus nian, refleta períodu ida husi kresimentu dinámiku no esplorasaun hanesan seguidor sira buka atu komprende no hatoo sira-nia fiar foun.
+
+Iha tempu imediatu hafoin ministériu Jesus nian, nia seguidor sira, primordialmente Judeu husi asendente, hahu fahe nia ensinamentu liu husi tradisaun oral. Bainhira ensinamentu sira ne'e komesa hakerek, versaun ratusan husi liafuan Jesus nian emerje, ida-idak refleta komprensaun no énfaze partikulár husi grupu sira. Proliferasaun "Evangelho" sira nian demonstra intervalu luan husi interpretasaun sira ne'ebé eziste kona-ba identidade, mensajen, no signifikadu Jesus nian.
+
+Aspetu ida husi diversidade sedu nian ne'ebé atrai maka ezisténsia Kristaun Aramaiku nian. Aramaiku, lian ne'ebé Jesus rasik ko'alia, sai lian prinsipál husi komunidade Kristaun sira iha Oriente Ne'ebé besik. Kristaun sira ne'ebé koalia Aramaiku, partikularmente sira iha Impériu Persia, dezenvolve sira-nia tradisaun no interpretasaun manuskritu rasik. Sira fiar katak sira-nia uzu Aramaiku nian permite sira atu hela besik liu ba mensajen orijinál Jesus nian, konserva nuansa sira ne'ebé bele lakon iha tradusaun ba Gregu ka Latinu.
+
+Perspetiva Aramaiku nian oferese komprensaun úniku kona-ba ensinamentu Jesus nian. Hanesan ezemplu, liafuan Aramaiku ba "di'ak" signifika primordialmente "la'os sedu" enkuantu "malu" tradús liu akuratamente ba "sedu". Nuansa lingwístika ida ne'e transforma fraze sira ne'ebé familiár, hanesan "Ai-di'ak prodús ai-fuan di'ak," ba mensajen kona-ba tempu no dezenvolvimentu naturál ruma duke absolútu moral. Distinsaun sira hanesan ne'e subliña importánsia komprensaun kontestu kulturál no lingwístika husi ensinamentu Kristaun sedu nian.
+
+Hanesan Kristaunizmu espalla no diversifika, grupu sira dezenvolve hanoin diferente kona-ba perguntas fundamentais kona-ba naturaleza Jesus nian no signifikadu husi nia moris no mate. Balun haree Jesus primordialmente hanesan mestre sabedoria, enkuantu sira seluk enfatiza nia papel hanesan salvador divinu. Evangelho Thomas nian, provavelmente kompila iha Síria, aprezenta Jesus hanesan distribuidor matenek segredu, kontrasta ho Evangelho kanóniku sira ne'ebé foka liu ba narrativa.
+
+Diversidade husi hanoin no prátika kontinua durante sekulu tolu to'o Konversaun Imperador Romanu Constantine ba Kristaunizmu iha sékulu 4 inisiu. Rekoñese potensial unidade fiar Kristaun nian atu estabiliza nia impériu, Constantine konvoka Konseilu Nicaea iha 325 CE. Konseilu ida ne'e marka pontu virajen iha istória Kristaun, hanesan nia buka atu estabelese konjuntu padraun husi fiar no prátika.
+
+Konse

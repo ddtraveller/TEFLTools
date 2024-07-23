@@ -1,0 +1,15 @@
+'Ekoturizmu Maritima no Dezenvolvimentu Sustentavel iha Timor-Leste
+
+Timor-Leste, nasaun foun iha Sudeste Ázia, prepara ona atu uza potensial ekoturizmu maritima hanesan katalizador ba dezenvolvimentu sustentavel. Ho nia tasi feto ne’ebé nakloke, sistema ekosistemátiku maritima ne'ebé diversu, no riku patrimóniu kultural, nasaun ne'e oferese oportunidade úniku atu implementa práktika turizmu ne'ebé responsável ne’ebé benefisia ambiente no komunidade lokal sira. Artigu ida ne’e esplora estadu atual turizmu maritima iha Timor-Leste, prinsípiu turizmu sustentavel, no potensial inisiativa ekoturizmu bazeia ba komunidade atu hasa’e konservasaun no kresimentu ekonomiku.
+
+Tasi husi Timor-Leste iha uma ba korál ne'ebé moris ho laran, espésie ikan ne'ebé diversu, no fauna maritima ne'ebé atrativa hanesan dolphin no dugong. Rekursu naturál sira ne’e fornese fundasaun di’ak ba atividade ekoturizmu maritima nian, inklui snorkeling, diving, observasaun baleia, no tasi nian caminhada. Maibé, infraestrutura turizmu nian iha nasaun ne’e seidauk dezenvolvidu, oferese dezafiu no oportunidade ba dezenvolvimentu sustentavel.
+
+Turizmu sustentavel bazeia ba prinsípiu balu ne’ebé relevante ba ambiente maritima Timor-Leste nian. Primeiru mak konservasaun ambiental, ne'ebé involve protesaun ba ekosistema maritima ne'ebé sensivel husi impaktu negativu turizmu nian. Inklui implementasaun medida atu evita estragu ba korál, hadia poluisaun plástiku, no mantein kualidade bee. Preservasaun kultural mak aspetu importante seluk, garante atividade turizmu nian respeita no selebra tradisaun lokal no kustume, labele hetan ameasa.
+
+Benefísiu ekonomiku ba komunidade lokal sira mak prinsípiu sentral husi turizmu sustentavel. Iha Timor-Leste, komunidade tasi nian barak depende ba peska ba sira-nia vida, ekoturizmu maritima bele fornese fonte rendimentu alternativu no halo presaun menus ba stok ikan. Ne’e bele realiza liu husi empregu iha negósiu ne'ebé relasiona ho turizmu, venda produtu no servisu lokal ba turista, no empresa turizmu ne'ebé komunidade nia.
+
+Edukasaun no konsiénsia mós komponente vital husi ekoturizmu maritima sustentavel. Liuhusi integrasaun elementu edukativu iha atividade turizmu nian, turista bele hetan komprensaun boot liu kona-ba ekosistema maritima, dezafiu konservasaun, no kultura lokal. Ne’e la'ós haforsa esperiénsia turista nian, maibé mós kria sentidu responsabilidade entre turista no ema lokal sira.
+
+Inisiativa ekoturizmu bazeia ba komunidade nian hatudu promete iha kontekstu hanesan ho Timor-Leste. Projetu sira ne’e involve komunidade lokal iha planeamentu, implementasaun, no jestaun atividade turizmu nian. Ezemplu, iha Indonesia besik, área protesaun maritima ne'ebé jestaun husi komunidade kombina ona ho susesu konservasaun ho turizmu sustentavel, kria rendimentu ba residente lokal no proteje korál no populasaun ikan.
+
+Implementasaun inisiativa sira ne’e iha Timor-Leste iha benefísiu no dezafiu. Iha banda pozitiva, envolvimentu komunidade

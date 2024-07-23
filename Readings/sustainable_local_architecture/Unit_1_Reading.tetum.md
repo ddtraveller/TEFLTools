@@ -1,0 +1,15 @@
+'Introdusaun ba Arkitetura Lokal Sustentavel
+
+Arkitetura lokal sustentavel reprezenta abordajen ida krusial ba dezainu no konstrusaun edifisiu nian ne'ebé prioridade ba responsabilidade ambiental, preservasaun kultural, no bee-morin komunidade nian. Filozofia arkitetural ida ne'e enfatiza uza material lokal, teknika konstrusaun tradisional, no prátika efisiente enerjia nian atu kria estrutura ne'ebé sustentavel ambientalmente no relevante kulturalmente.
+
+Iha nia laran, arkitetura sustentavel objetiva atu satisfa ne'esidade aktual nian laho kompromete kapasidade jerasaun futuru sira nian atu satisfa sira-nia ne'esidade rasik. Konseitu ida ne'e ladun limita de'it ba efisiénsia enerjia, maibé inklui abordajen holistiku ba dezainu edifisiu nian ne'ebé konsidera siklu tomak husi estrutura ida, husi konstrusaun too demolisaun ka reutilizasaun eventual.
+
+Prinsipiu xave ida husi arkitetura lokal sustentavel maka uza prátika konstrusaun vernakular nian. Arkitetura vernakular refere ba estilu konstrusaun tradisional sira ne'ebé evolui tiha ona iha tempu naruk liu ba iha resposta ba klima lokal, material disponivel, no ne'esidade kultural. Metodu sira ne'ebé teste ona ho tempu barak besik inklui solusaun inovativu ba kontrolu klima, efisiénsia rekursu, no durabilidade ne'ebé adapta espesifikamente ba ambiente lokal.
+
+Uza material lokal nu'udar fundasaun seluk ida husi arkitetura sustentavel. Husi obtén material husi área imediatu, konstrutor sira bele redús signifikativamente pegada karbonu nian ne'ebé asosia ho transporte no suporta ekonomia lokal. Material lokal hanesan fatuk, ai, no rai barak besik liu tan ambientalmente amigável no presiza menus prosesamentu duke alternativa sira ne'ebé manufatura. Por ezemplu, iha Timor-Leste, edifisiu tradisional sira barak besik uza bambu ne'ebé obtén lokalmente, ne'ebé renova no forte tebes.
+
+Efisiénsia enerjia nu'udar komponente krítiku ida husi arkitetura sustentavel. Ne'e bele atinji liu husi estratéjia dezainu pasivu sira ne'ebé aproveita iluminasaun naturál, ventilasaun, no masa termál atu redús ne'esidade ba aklimatizasaun artifisial. Iha klima keta, karakterístika hanesan eira kle'an, ventilasaun krús, no vegetasaun ne'ebé koloka estrategikamente bele redús signifikativamente konsumu enerjia.
+
+Identidade kultural joga papel vital iha arkitetura lokal sustentavel. Husi inkorpora elementu dezainu no teknika konstrusaun tradisional, arkitetu sira bele kria estrutura ne'ebé rezona ho komunidade lokal no ajuda preserva patrimóniu kultural. Abordajen ida ne'e la de'it fomenta sentidu fatin no pertensa, maibé mós garante katak edifisiu sira apropriadu ba estilu moris no prátika sosial lokal sira.
+
+Desafiu sira husi globalizasaun hamosu ona homogenizasaun husi estilu arkitetural iha mundu tomak, barak besik iha kustu tradisaun lokal sira nian no konsiderasaun ambiental. Maibé, aumenta ona rekonhesimentu husi valor arkitetura lokal sustentavel nian iha trata preokupasaun ambiental no kultural sira. Arkitetu kontemporáneu barak besik agora buka inspirasaun husi prátika kon
