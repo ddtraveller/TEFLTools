@@ -1,0 +1,15 @@
+'Hakerek Uma iha Timor-Leste: Mistura Tradisaun ho Teknika Modernu.
+
+Iha klima tropikal Timor-Leste, habilidade hakerek uma mak esensial, kombina matenek antigu ho teknika moderna. Nasaun ki'ik iha sudeste Ázia ne'e, ho nia diversidade paisajen husi área tasi ibun to'o região montanhosa, aprezenta desafiu no oportunidade úniku ba konstrusaun uma efetiva. Komprensaun prinsípiu desenho uma iha ambienti ida ne'e importante tebes ba situasaun sobrevivensia no mantein prátika konstrusaun tradisional.
+
+Konsiderasaun primeiru iha hakerek uma iha Timor-Leste mak seleksaun lokasi. Tamba klima monsaun tropikal iha rai laran ne'e, hili fatin iha rai leten importante atu evita inundasaun durante udan boot. Proteksaun natural husi ventu hanesan formasaun fatuk ka vegetasaun ne'ebé mamuk, bele fornese proteksaun adisional husi ventu forte no udan badak. Proximidade ba rekursu hanesan bee no material konstrusaun mós importante, maibé presiza balansa ho konsiderasaun seguransa, hanesan evita área ne'ebé ameasadu husi ai-mate ne'ebé bele monu ka frequentadu husi fauna perigoza.
+
+Desenho uma tradisional Timor nian oferese lia menon valiozu ba teknika konstrusaun efetiva ba klima lokál. Uma Lulik, ka uma sagradu, enkorpora prinsípiu barak husi arkitetura tropikal sustentável. Estrutura sira ne'e normalmente iha uma-leten ne'ebé krusuk, ne'ebé kapas atu drenaje udan boot efisientemente no fornese espasu interiór boot. Uza material lokál hanesan folha palmeira, bambu, no grama nativa la'ós de'it hodi fahe konstrusaun, maibé mós garante katak uma adapta di'ak ba kondisaun lokál.
+
+Iha diferensa signifikante entre desenho uma iha área tasi ibun no montanha iha Timor-Leste. Uma iha área tasi ibun normalmente uza lantai ne'ebé as, atu proteje kontra inundasaun no umidade, enquantu uma iha montanha bele konstrui kompak liu atu konserva temperatura iha altitude aas. Maibé, tipu rua ne'e enfatiza importansia ventilasaun di'ak atu adapta ho umidade no temperatura aas.
+
+Teknika moderna bele komplementa métodu tradisionál Timor nian. Uma A-frame, por ezemplu, ne'ebé mak desenho simples maibé efetivu, bele konstrui lais iha situasaun emergensia. Forma triángulu nia fornese estabilidade di'ak no drenaje bee. Hanesan, desenho lean-to, normalmente konstrui hasoru ai ka fatuk, fornese protesaun di'ak husi ventu no udan no relativa fasil atu konstrui.
+
+Ba despliegamentu rápidu iha situasaun emergensia, teknika debris hut mak inestimável. Tipu uma ida ne'e uza rai-hun ai-tahan husi ai-laran hodi kobre estrutura simples, kria refújiu ne'ebé izoladu no kamufladu. Maski la'ós solusaun longu prazu, bele salva vida iha situasaun inesperadu iha floresta Timor-Leste nian.
+
+Adapta uma ba klima tropikal Timor-Leste presiza konsidera faktor balu. Ventilasaun importante tebes atu prevene akumulasaun temperatura no umidade iha laran uma. Ida ne'e bele atinji liu husi kolokasaun estratégiku abertura no uza material ne'ebé bele respira. Lantai ne'ebé as mós elementu importante, ajuda atu evita umidade husi rai no previne inset

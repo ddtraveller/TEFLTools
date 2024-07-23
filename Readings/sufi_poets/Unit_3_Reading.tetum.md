@@ -1,0 +1,15 @@
+'Umanu Perfeiton (al-Insân al-Kâmil) iha Misticismu Islamiku
+
+Konseitu Umanu Perfeton, ka al-Insân al-Kâmil iha Arabiku, mak prinsipiu sentrál iha misticismu Islamiku, partikularmente iha ensinu husi filozofu Sufi Andalusian influente Ibn Arabi (1165-1240). Ideia profunda ne'e reprezenta piku husi dezenvolvimentu espiritual umanu nian no manifestasaun ultima husi atributu divinu iha kreasaun. Komprende Umanu Perfeton fornese insight kona-ba natureza realidade, objektivu ezistensia, no potensial ba realizasaun espiritual umanu nian.
+
+Iha ninia nu’udar, Umanu Perfeton enkarna atualizasaun kompletu atributu divinu iha forma umanu. Ibn Arabi alega katak Deus kria universu hanesan espelhu ida atu refleta ninia atributu rasik, no Umanu Perfeton serbisu hanesan refleksaun kompreensivu no ekuilibradu liu husi atributu divinu sira-ne'e. Konseitu ida ne'e iha baze iha konsisaun Quraniku katak umanu sira kria hanesan representante Deus nian iha rai, ne'ebé kapas atu manifesta atributu divinu iha mundu material.
+
+Umanu Perfeton okupa pozisaun uniku iha kosmos, servisu hanesan barzakh ka isthmus entre mundu fiziku no espiritual. Estatutu intermediariu ida ne'e permite Umanu Perfeton atu percibe no integra aspetu manifestu no oculto husi realidade. Hanesan mikrokosmu husi universu, Umanu Perfeton iha iha sira rasik potensialidade hotu no kualidade sira-ne'ebé iha iha kreasaun, ne'ebé ekuilibradu ho harmonia no realizadu kompletamente.
+
+Iha filozofia Ibn Arabi nian, atinjimentu estadu elevadu ida ne'e la limita ba ema ida maibé reprezenta arketipu espiritual ida-ne'ebé bele enkarna ho grau variadu. Profeta sira no santu sira hetan haree hanesan ezemplu prinsipal husi Umanu Perfeton, ho Profeta Muhammad ita haree dala barak hanesan manifestasaun kompletu liu husi ideal ida ne'e. Kada profeta, hanesan deskreve iha obrasaun seminal Ibn Arabi nian "Fusus al-Hikam" (Bezels of Wisdom), exemplifika aspetu partikular husi sabedoria divinu no perfeisaun.
+
+Konseitu Umanu Perfeton iha ligasaun klosi ho ideia auto-revelasaun divinu (tajalli). Tuir perspetiva ida ne'e, Deus kontinuamente revela An rasik liu husi kreasaun, no Umanu Perfeton serbisu hanesan lokus kompreensivu liu husi manifestasaun divinu. Prosesu revelasaun no realizasaun kontinua ida ne'e haree hanesan objektivu fundamentál ezistensia, ho kreasaun hotu evolui ba perfeisaun no konsiénsia boot liu.
+
+Karakteristika xave ida husi Umanu Perfeton mak sira-nia papel hanesan axis espiritual ka polu (qutb) ba sira-nia era. Individu ida ne'e, se konhesidu ka okultu, fiar katak mak piku husi realizasaun espiritual iha sira-nia tempu no serbisu hanesan kanál ba grasa divinu no orientasaun ba umanidade. Umanu Perfeton, iha kapasidade ida ne'e, ajuda atu mantein ekuilibriu espiritual husi mundu no orienta ema seluk iha dalan dezenvolvimentu espiritual.
+
+Viajen ba sai Umanu Perfeton

@@ -1,0 +1,15 @@
+'Bee Foun no Purifikasaun iha Timor-Leste
+
+Timor-Leste, nasaun ida iha Sudeste Aziatiku ne'ebé okupa metade husi ilha Timor, hasoru desafiu boot hodi fornese bee moos no seguru ba nia ema. Ho paisajem diversu husi area tasi ibun to'o foho, bee foun iha nasaun ida ne'e barak tebes, hanesan metodu sira ne'ebé presiza atu halo bee ida ne'e seguru ba konsumu. Artigu ida ne'e analiza kona-ba isu boot sira kona-ba bee foun no purifikasaun iha Timor-Leste, destaka importansia husi pratika sira ne'e ba saúde públiku no sobrevivensia iha zona sidade no area selva nian.
+
+Bee foun iha Timor-Leste inklui rai-been, mata-been, no area tasi ibun. Maibé, disponibilidade no kualidade husi bee husi bee foun sira ne'e bele la konstante no dala barak komprometidu. Rai-been barak iha Timor-Leste sazonal, tasi durante estasaun udan maibé taka an ka maran hotu durante tempu maran. Mata-been, maske jeralmente fornese bee moos, bele iha iha area remotu, hodi halo aksesu difisil ba komunidade barak. Area tasi ibun, maske deit besik ho tasi, dala barak laiha bee moos ne'ebé konfiavel tanba intrusaun sal-tasi ba iha aquifers.
+
+Kualidade husi bee husi bee foun sira ne'e preokupasaun boot. Kontaminasaun barak liu, mai husi fator sira hanesan infrastrutura saneamentu ne'ebé inadekuadu, eskorrimentu agrikultura, no prosesu geológiku naturál. Kontaminante sira inklui bakteria, virus, no parasita sira ne'ebé bele kauza moras grave sira ne'ebé transmite husi bee hanesan kolera, tifoide, no giardíase. Tanba ne'e, nivel turbidez aas iha bee foun barak, liuliu durante estasaun udan, bele halo bee haree hanesan nublado ka beurin, indika prezensa husi partikula suspensa sira ne'ebé bele kobre mikro-organismo perigosa sira.
+
+Haree ba desafiu sira ne'e, purifikasaun bee importante liu ba garantia bee moos ba inum iha Timor-Leste. Aplica metodu barak, kada ida ho nia vantajen no limitasaun. Fervura hanesan metodu ida efikas liu no aksesivel liu. Ferve bee too kalan moos ba minutu ida (ka minutu tolu iha altitude aas liu) bele fahe mikro-organismo barak, hodi halo bee ne'e seguru ba inum. Maibé, metodu ida ne'e presiza kombustivel ba fogaun, ne'ebé bele menus ka karun iha area balun.
+
+Filtrasaun hanesan metodu purifikasaun seluk ne'ebé komun. Filtru komersial, husi filtru seramika simples too sistema avansadu liu, bele hasai kontaminante barak. Iha area rurál ka selva nian, fila-fali filtru bele harii uza kama husi rai-henek, jeru, no karvau. Maske efetivu atu hasai partikula boot liu no mikro-organismo balun, filtru sira ne'e bele la hasai mikro-organismo hotu, liuliu virus sira.
+
+Tratamentu kimiku oferese metodu portátil no relativa fasil ida ba purifikasaun bee. Tratamentu iodine no klorina uza barak, bele oho mikro-organismo perigosa barak. Maibé, tratamentu sira ne'e bele fo sabór la di'ak ba bee no bele la adekuadu ba uza tempu naruk tanba efeitu saúde potensial.
+
+Disinfeksa

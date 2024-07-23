@@ -1,0 +1,15 @@
+'Introdusaun ba Tara iha Budismu Timor
+
+Tara, figura adorada no respeitada iha Budismu Mahayana no Vajrayana, hetan fatin espesial iha paisajen espirituál Timor-Leste nian. Tara adapta-an ba influénsia kulturál lokál hodi forma devosaun distinktivu, ne'ebé kombina prátika Budista tradisionál ho elementu espirituál Timor nian.
+
+Istória orijen Tara iha Budismu remata ba helaik ba bein-morru ida husi Avalokiteshvara, bodhisattva ba kompaixaun. Konforme lejenda, bein-morru ida ne'e transforma ba Tara, ne'ebé jura atu aparese iha forma feto nian hodi ajuda ema hotu-hotu iha sira nia dalan ba iluminasaun. Istória orijen ne'e bele hatudu ligasaun boot ida ho ema Timor nian, ne'ebé iha istória ne'ebé riku kona-ba venerasaun figura espirituál feto nian iha sira nia krensa indíjena.
+
+Iha Budismu Timor, Tara prinsipálmente venera iha forma tolu nian: Matak-Tara, Mutin-Tara, no Mean-Tara. Kada manifestasaun iha atributu espesífiku no asosia ho aspetu prátika espirituál no moris loron-loron. Matak-Tara, ne'ebé konsidera hanesan forma prinsipál, hatudu protesaun no kourage. Budista Timor nian frekuentemente invoka nia iha tempu perigu ka iha tempu hasoru obstákulu. Mutin-Tara, ne'ebé asosia ho longevidade no kurasaun, hetan popularidade signifikante iha Timor-Leste, ne'ebé prátika kurasaun tradisionál kontinua hanesan parte importante kultura nian. Mean-Tara, ne'ebé hatene ba nia poder magnetizasaun no subjugasaun, invoka ba prátika esotérika no menus komunmente adora husi ema leigu nian.
+
+Ikonografia Tara iha arte Budista Timor hatudu fusão ne'ebé interesante husi simbolismu Budista tradisionál no estilu artístiku lokál. Elementu komun iha representasaun Tara nian inklui flor lotus, ne'ebé simboliza pureza no iluminasaun, jestu liman ne'ebé hatudu signifikadu espesífiku, no matan tolu nian, ne'ebé reprezenta konsiénsia espirituál ne'ebé aas. Artista Timor nian amiúde inkorpora motif, kór, no padraun lokál iha sira nia representasaun Tara nian, hodi kria obra arte ne'ebé úniku no kulturálmente signifikante.
+
+Aspetu ne'ebé nakloke liu husi venerasaun Tara iha Timor-Leste maka oinsa integradu iha moris loron-loron praktikante nian. Budista Timor barak hahu sira nia loron ho orasaun badak ba Tara, buka nia protesaun no orientasaun. Templo no santuáriu lokál ne'ebé dedika ba Tara sai hanesan sentru komunidade importante, ne'ebé ema halibur la'ós ba serimónia relijioza de'it maibé mós ba eventu sosiál no kulturál.
+
+Konseitu Tara hanesan bodhisattva – ser iluminadu ida ne'ebé deside atu kontinua iha siklu renasimentu hodi ajuda ema seluk – hatudu ligasaun boot ho valor komunidade Timor nian. Harmonia ida ne'e entre filozofia Budista no norma kulturál lokál kontribui ba akseitasaun no popularidade luan husi venerasaun Tara iha rai laran.
+
+Prátika meditasaun Tara, ne'ebé hatene hanesan sadhana, mós hetan fatin iha Timor-Leste. Prátika meditasaun

@@ -1,0 +1,15 @@
+'Imajinasaun no Podér Kriativu iha Hanoin Ibn Arabi
+
+Ibn Arabi, místiku no filósofu Andalusian husi sékulu 12, dezenvolve teoria profunda no kompleksu kona-ba imajinasaun ne'ebé kontinua influénsia hanoin Islámiku no spiritualidade to'o ohin loron. Iha sentru husi filozofia Ibn Arabi nian, konseitu ida mak khayâl, ka imajinasaun, ne'ebé nia haree hanesan podér kriativu fundamentál iha kosmos no iha esperiénsia spiritual umana.
+
+Iha kosmolojia Ibn Arabi nian, imajinasaun serve hanesan reino intermediáriu entre mundu spiritual no mundu materiál. Natureza intermediária husi imajinasaun ne'e ligadu de'it ho konseitu barzakh, ka istmo, ne'ebé Ibn Arabi uza atu deskreve estadu sira ne'ebé media entre estadu rua. Imajinasaun, hanesan barzakh, permite manifestasaun husi realidade spiritual iha forma sensible, kobre dalan entre ne'ebé la haree no ne'ebé haree.
+
+Ibn Arabi distinge entre tolu nível imajinasaun: kosmik, spiritual, no umanu. Imajinasaun kosmik refere ba podér kriativu ne'ebé liuhusi nia, Divinu kria universu. Nível ida ne'e husi imajinasaun intimamente ligadu ho prosesu tajalli, ka auto-revelasaun divina, liuhusi ne'ebé Realidade Divina ne'ebé subar manifesta an iha forma kriasaun. Imajinasaun spiritual hala'o iha nível husi reino anjéliku no mundu símbolu, enquamtu imajinasaun umana mak fakuldade kriativu iha konsiénsia individuál.
+
+Nível umanu husi imajinasaun espesialmente importante iha hanoin Ibn Arabi, tanba liuhusi fakuldade ida ne'e, individu sira bele partisipa iha realizasaun spiritual no interpretasaun kriativu husi símbolu religiozu no esperiénsia. Ibn Arabi haree imajinasaun umana hanesan mikrokosmu husi podér kriativu divinu, permite individu sira partisipa iha prosesu kontinuadu husi kriasaun no revelasaun.
+
+Aspetu ida importante husi teoria imajinasaun Ibn Arabi nian mak nia papel iha persepsaun no koñesimentu spiritual. Nia argumenta katak imajinasaun permite tipu ida husi koñesimentu ne'ebé sai liu husi limitasaun husi hanoin rasional no persepsaun sensoriál. Liuhusi kultivasaun husi fakuldade imajinativu, individu ne'ebé buka spiritual bele hatene nível sira husi realidade, ka hadarat, ne'ebé kompõe kosmolojia Ibn Arabi nian. Nível sira-ne'e varia husi Esénsia Divina to'o mundu materiál, ho imajinasaun serve hanesan meiu husi nível ida traduz ba ida seluk.
+
+Komprensaun Ibn Arabi nian kona-ba imajinasaun mós iha implikasaun profunda ba nia interpretasaun husi teksu no símbolu religiozu. Nia haree eskritura sagradu no tradisaun profétiku hanesan forma imajinária ne'ebé presiza interpretasaun kriativu atu buka nia signifikadu boot liu. Abordajen ida ne'e permite komprensaun dinámiku no multifasetadu husi lia-loos religiozu, ne'ebé rekoñese papel umanu nian iha prosesu komprensaun spiritual.
+
+Podér kriativu husi imajinasaun iha hanoin Ibn Arabi nian estende ba reino husi espresaun artístika mós. Nia

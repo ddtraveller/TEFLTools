@@ -1,0 +1,13 @@
+'Unidade Husi Ser: Kompriende Wahdat al-Wujud
+
+Konseitu Wahdat al-Wujud, ka Unidade Husi Ser, mak doutrina metafísika profunda ne'ebé muda místika Islámika no filozofia durante sékulu nain. Orijina husi obrasaun husi místika Andalusian Ibn Arabi iha sékulu 12, prinsípiu ne'e afirma katak ezisténsia hotu-hotu iha baze ida de'it, manifestasaun husi Maromak nian. Atu komprende Wahdat al-Wujud signifika tun iha leet husi espiritualidade Sufi no luta ho pergunta sira kona-ba natureza realidade nian, relasaun entre Kriador ho kriasaun, no signifikadu final husi unidade.
+
+Iha nia laran, Wahdat al-Wujud afirma katak Maromak mak ezisténsia ne'ebé los duni. Kriasaun hotu iha perspetiva ne'e, la'o husi Maromak maibé mak manifestasaun husi Maromak. Konseitu ida ne'e desafia ita nia komprensaun konvensionál husi realidade, sujere katak diversidade ne'ebé ita haree iha mundu iha esénsia, mak ezpressaun husi ezisténsia unifika ida de'it. Ibn Arabi elabora ideia ida ne'e liu husi metáfora espellu nian: hanesan rosto ida bele refleta iha espellu barak, Realidade Divina ida refleta iha forma kriasaun nian ne'ebé barak.
+
+Doutrina Wahdat al-Wujud iha ligasaun íntima ho konseitu Islámiku nian Tawhid, ka Unidade Divina. Maske Tawhid afirma unidade husi Maromak hanesan prinsípiu fundamentál fé nian, Wahdat al-Wujud estende prinsípiu ida ne'e atu inklui ezisténsia hotu. Espansaun unidade nian husi Divina ba ser tomak iha implikasaun boot ba modu ida ne'ebé ita komprende ita nia relasaun ho Maromak no mundu iha ita nia rohan.
+
+Sentru husi Wahdat al-Wujud mak interasaun entre aspetu rua husi Divina: tanzih (transendénsia) no tashbih (imanénsia). Tanzih refere ba únika Maromak nian absoluta no incomparabilidade, aspetu husi Divina ne'ebé iha liu husi deskrisaun ka semelhansa. Tashbih, iha parte seluk, indica prezensa Maromak nian iha no semelhansa ho kriasaun. Doutrina Wahdat al-Wujud kontinua asegura aspetu kontraditóriu ne'ebé halo duvida, afirma katak Maromak mak absolutamente liu husi kriasaun no iha prezensa íntima iha laran nia.
+
+Implikasaun metafísika husi Wahdat al-Wujud iha abranjénsia boot. Se ezisténsia hotu mak ida de'it, no ida ne'e mak Divina, entaun natureza realidade nian hanesan ita haree, seidauk klaru. Doutrina ida ne'e sujere katak mundu ne'ebé ita ezperiénsia, iha sentidu ida, iluzóriu - la'ós tanba la eziste, maibé tanba nia natureza los nian hanesan manifestasaun husi Divina tau husi ita nia persepsaun normal. Komprensaun ida ne'e desafia ita atu haree liu husi diversidade aparente iha mundu atu rekoñese unidade subjasente ne'ebé liga kousa hotu.
+
+Relasaun entre Kriador ho kriasaun muda maka'as iha luz husi Wahdat al-Wujud. Keta haluha haree Maromak hanesan entidade separadu ne'ebé kria mundu ex nih

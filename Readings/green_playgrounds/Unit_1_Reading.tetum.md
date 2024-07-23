@@ -1,0 +1,15 @@
+'Impaktu Mudansa Klimatika iha Area Urbanu Timor-Leste 
+
+Timor-Leste, nasaun ki'ik iha sudeste Aziátiku, enfrenta desafiu boot husi mudansa klimatika, liuliu iha sira nia area urbanu ne'ebé kresimentu aas. Ho aumentu temperatura global no mudansa padraun tempu, sidade Timor-Leste hetan impaktu ne'ebé ameasa infrastrutura, saúde públika, no dezenvolvimentu ekonomia. Artigu ne'e esamina projeisaun mudansa klimatika ba Timor-Leste no explora oinsá impaktu sira ne'e afeta ambiente urbanu iha nasaun laran.
+
+Projeisaun klima nian ba Timor-Leste hatudu vizaun preokupante ba futuru. Espera katak temperatura sei aumenta iha rai laran hotu, ho area urbanu bele hetan temperatura aas liu tan hosi efeitu ilha urbanu nian. Fenomenu ne'e mosu bainhira sidade troka area naturál ho konsentrasaun boot pavimentu, edifísiu no sasán seluk ne'ebé absorve no reteiner hahanas. Hanesan rezultadu, area urbanu bele aas liu kompara ho area rural iha sira nia sorin, ne'ebé agravasa impaktu mudansa klimatika nian.
+
+Mudansa iha padraun udan nian sai preokupasaun importante ba area urbanu Timor-Leste nian. Modelu klima nian sujere katak maski udan anuál labele muda boot, maibé distribuisaun udan durante tinan bele sai errátiku liu. Ne'e bele hamosu períodu maran ne'ebé naruk liu, ho intensidade udan ne'ebé aas liu. Mudansa sira ne'e iha implikasaun importante ba jestaun bee iha sidade, tanba sidade sira bele hasoru risku seka no inundasaun aas liu.
+
+Aumentu nível tasi ameasa boot ba area urbanu iha kosteiru Timor-Leste nian. Hanesan nasaun ki'ik iha ilha, populasaun no infrastrutura importante iha maioria lokaliza iha kosteiru. Projeisaun hatudu katak nível tasi iha tasi Timor-Leste bele aumenta sentimeters balun iha dekada tuir mai, aumenta risku inundasaun no erosun iha kosteiru. Ne'e ameasa direta ba dezenvolvimentu urbanu iha area kosteiru ne'ebé ki'ik no bele presiza medida adaptasaun ka mudansa komunidade sira nian ne'ebé kustu aas.
+
+Kombinasaun impaktu mudansa klimatika nian kria vulnerabilidade oioin iha sidade Timor-Leste nian. Risku inundasaun aas mak preokupasaun prinsipál, tanba area urbanu barak dezenvolve iha lokal ne'ebé risku inundasaun no laiha infrastrutura drenajen ne'ebé adekuadu. Eventu udan boot, hamutuk ho espansaun sasán ne'ebé la absorve bee iha sidade, bele halakon sistema drenajen ne'ebé eziste ona, hamosu inundasaun repenti ho estragus ba edifísiu, estrada no infrastrutura seluk.
+
+Risku rai halai sai vulnerabilidade importante iha area urbanu Timor-Leste nian. Terrenu montanhosu nasaun nian, hamutuk ho desforestasaun no espansaun urbanu ne'ebé la planeia, kria kondisaun ne'ebé eventu udan intensu bele hamosu rai halai ne'ebé destrutivu. Mudansa klimatika bele agravasa risku ne'e liu tan ho aumentu frekuénsia no intensidade eventu udan boot.
+
+Rekursu bee iha area urbanu mós vulnerável tebes ba impaktu mudansa klimatika nian. Sidade Timor-Leste barak ona luta ho eskases bee durante períodu maran, no mudansa klimatika espera katak sei

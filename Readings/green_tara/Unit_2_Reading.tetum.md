@@ -1,0 +1,15 @@
+"Papel Tara nian hanesan Protetor no Libertador iha Budismu Timor-Leste
+
+Iha tapeçaria riku husi Budismu Timor-Leste, figura Tara sai hanesan alinhar esperansa no fonte konsolo espiritual ne’ebé profundo. Tara ne’ebé koñesidu hanesan "ina libertasaun," reprezenta asaun kompaixaun husi Buddha hotu-hotu no serve hanesan divindade protetor ida ne’ebé poderuza ba praktikante sira. Explorasaun ida ne’e foka ba papel duplu Tara nian hanesan protetor no libertador, hodi analiza nia importansia iha pratika Budismu Timor-Leste no maneira sira ne’ebé devotu sira husu nia ajuda.
+
+Tara, ne’ebé naran signifika "estrela" ou "naha ne’ebé halai transversalmente," adora hanesan Bodhisattva feto no manifestasaun husi sabedoria iluminada husi Buddha hotu-hotu. Iha Budismu Timor-Leste, hanesan iha tradisaun Budista barak, Tara amiúde reprezenta iha nia forma metan, ne’ebé simboliza atividade iluminada no sem medu. Nia ikonografia normalmente hatudu nia iha postura relaxadu, ho ain ida estende, prontu atu hakat ba aksaun atu ajuda ema ne’ebé presiza.
+
+Hanesan protetor, Tara kredita atu proteje nia devotu sira husi perigu mundu no espiritual. "Hosu Vinti-Res ba Tara," tekstu liturjiku ne’ebé amiúde rekita, lista perigu sira husi ne’ebé Tara ofrese proteksaun, inklui dezastre naturais, espiritu malevolente, no até medu mundanu hanesan pobreza ou problema legal. Kada versaun husi hosu sira dehan kona-ba aspetu diferente husi poder protetor Tara nian, destaka nia kapasidade atu lori ajuda ho lalais ba sira ne’ebé bolu nia.
+
+Aspetu ne’ebé markante husi papel protetor Tara nian mak nia ligasaun ho sem medu. Iha ikonografia Budista Timor-Leste, Tara amiúde hatudu ho liman direita iha jestu doasaun nian, enkuantu nia liman karuk tenki flor utpala, ne’ebé simboliza pureza no poder. Imajen sira ne’e reforza nia papel hanesan guardiaun ne’ebé la’ós de’it proteje husi ameasa externa maibé mós infunde korajen no forsa interno iha nia devotu sira.
+
+Liu papel nia hanesan protetor, papel Tara nian hanesan libertador mak sentral ba nia importansia iha soteriolojia Budista. Konseitu libertasaun iha Budismu refere ba liberdade husi siklu renasensa no sofrimentu (samsara) no hetan iluminasaun. Tara haree hanesan guia iha dalan ba libertasaun, oferese asistensia espiritual no prátiku ba praktikante sira.
+
+Aspetu libertador Tara nian hat closely ba nia inkarna sabedoria no kompaixaun. Iha filosofia Budista Timor-Leste, kualidade rua ne’e konsidera esensial atu hetan iluminasaun. Sabedoria Tara nian hateten atu atravessa ignoransia no delusaun, enkuantu nia kompaixaun motiva nia atu ajuda ser hotu iha sira nia dalan ba libertasaun. Natureza dupla ne’e refleta iha mantra sira asosia ho Tara, liuliu "Om Tare Tuttare Ture Soha" famozu, ne’ebé kredita atu invoka nia poder libertador.
+
+Iha pratika Budista Timor-Leste, devotu sira interage ho Tara liu husi meius oin-oin, inklui meditasaun, visualizasaun, no rekita

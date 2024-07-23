@@ -1,0 +1,15 @@
+'Prátika Tara Sadhana: Dalan ba Kompaixaun no Proteksaun
+
+Tara, deusa budista ida ne'ebé adora ba nia kompaixaun no proteksaun, inspira devotees ba sékulu sira ho nia aksaun lalais atu ajuda sira-ne'ebé presiza. Prátika Tara Sadhana, meditasaun no ritual estruturadu, oferese prátikante sira métodu poderosa atu konekta ho lala'ok Tara nian no koko nia grasa iha sira nia moris. Artigu ida ne'e explora elementu xave sira husi prátika Tara Sadhana no nia signifikansia iha kultivasaun espirituál budista.
+
+Iha nia sentru, sadhana mak prátika espirituál ida ne'ebé dezinha atu koko deidade ida ka realiza estadu espesífiku husi konsiensia. Tara Sadhana foka ba Tara Verde, forma ida husi deusa ne'e ne'ebé popular tebes, ne'ebé hatene ba nia energia dinámiku no prontidun atu ajuda seres  sira hodi ultrapasa obstaklu sira. Prátika normalmente konsiste iha komponente sira ne'ebé interligadu atu orienta prátikante sira liu husi viajen internu transformador.
+
+Sadhana hahu ho refújiu no gerasaun bodhicitta, intensaun altruista atu hetan iluminasaun ba benefisiu husi seres hotu. Pasu fundamentál ida ne'e alinha prátikante nia hanoin ho aspirasaun espirituál altu sira no kria ambiente mental ida ne'ebé propisia ba prátika. Liuhosi refújiu iha Tres Jóia (Buda, Dharma, no Sangha) no kultiva bodhicitta, prátikante sira estabelese koneksaun ba linhajen ensinu sira no estabelese motivasaun kompaixu ba sira nia prátika.
+
+Visualizasaun mak aspetu sentrál husi Tara Sadhana. Prátikante sira orienta atu konstrui mentalmente imajen ida ne'ebé matenek husi Tara Verde, dala barak tuir iha tronu lotus nian, nia isin radiante ho luz esmeralda. Visualizasaun ida ne'e laos de'it ezersisiu iha imajinasaun maibé métodu profundo ida atu alinha ita nia persepsaun ho kualidade iluminadu sira ne'ebé Tara representa. Liuhosi visualiza an rasik hanesan inseparavel husi Tara, prátikante sira hahu atu rekoñese no kultiva kualidade sira ne'e iha sira nia laran.
+
+Oferta sira desempeña papel importante iha Tara Sadhana, hanesan espressaun sira husi jenerozidade no devosaun. Oferta tradisionál inklui bee, fulan, insensu, luz, perfumi, hahan, no múzika. Oferta sira, físiku ka visualizadu, simboliza prátikante nia vontade atu abandona apegu sira no kultiva kualidade pozitivu. Iha tradisaun budista barak, atu oferese mak konsidera liu importante duke valór materiál husi oferta sira, tanba nia purifika hanoin no akumula méritu.
+
+Mantra sira no orasaun forma komponente auditivu husi sadhana. Mantra Tara ne'ebé komum liu mak "OM TARE TUTTARE TURE SOHA," ne'ebé koko podér libertadór Tara nian. Rezitasaun mantra ida ne'e, dala barak akompanha ho uza rosariu, ajuda atu foka hanoin no aprofunda koneksaun ho Tara. Orasaun sira bele inklui elojiu ba forma vinti resin Tara nian, kada ida destaka aspetu diferente husi nia atividade iluminada.
+
+Mudras, ka jestu liman simbóliku

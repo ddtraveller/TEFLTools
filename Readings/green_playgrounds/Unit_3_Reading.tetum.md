@@ -1,0 +1,15 @@
+'Jestasaun Bee-kapaas liuhusi Infrastrutura Matak
+
+Area urbanu iha dezafiu boot hodi jesta bee-kapaas, partikularmente iha rejiaun ne'ebé dezenvolvimentu rapidamente hanesan Timor-Leste. Hanesan sidade hahú habelar no area naturál sira troka ho area ne'ebé la permite bee atu penetra ba rai, hanesan dalan, edifísiu sira, no estasionamentu, siklu naturál bee nian ne'e perturba. Ne'e rezulta ba inundasaun aumenta, polusaun bee, no presaun ba sistema drenajen tradisionál. Infrastrutura matak oferese alternativa inovativa no sustentavel ba problema sira ne'e liuhusi imita prosesu naturál no integra sira iha dezeñu urbanu.
+
+Infrastrutura matak refere ba téknika no sistema sira ne'ebé uza elementu naturál ka solusaun enjenharia hodi jesta bee-kapaas iha nia orijen. Metodu sira ne'e nia objetivu mak atu hadiak kualidade bee, no fornese benefísiu ambientál no sosiál. Konseitu ida ne'e ligadu ba Dezenvolvimentu ho Impaktu Ki'ik (LID), ne'ebé enfatiza kooperasaun ho natureza hodi jesta bee-kapaas iha nia orijen hanesan posivel.
+
+Prinsípiu fundamentál ida husi infrastrutura matak mak konservasaun funsaun naturál iha area urbanu. Inklui protesaun ba espasu matak, area molhada, no rai-matan ne'ebé absorve no filtra bee-kapaas. Liuhusi mantein sistema naturál sira ne'e, sidade bele redús presaun ba infrastrutura drenajen enjenharia nian no mós konserva biodiversidade no kria espasu lazer ba ema sira ne'ebé moris iha sidade.
+
+Minimiza area ne'ebé la permite bee atu penetra ba rai mak estratéjia importante iha dezeñu infrastrutura matak. Dezenvolvimentu urbanu tradisionál amiúda rezulta iha area boot ne'ebé kobre ho simentu no asfaltu, ne'ebé impede bee atu penetra ba rai. Liuhusi uza materiais permeáveis hanesan asfaltu porozu ka bloku interligadu, bee-kapaas bele penetra ba rai, redús bee-kapaas no recarga forneseimentu bee subterranea.
+
+Bioswales no jardim bee-kapaas mak téknika infrastrutura matak ne'ebé popular hodi redús no filtra bee-kapaas. Bioswales mak kanál sira ne'ebé plantadu ho ai-fuan hodi transporta no trata bee-kapaas, amiúda iha dalan ka estasionamentu nian. Jardim bee-kapaas, iha parte seluk, mak depressaun ne'ebé rasa plantadu ho ai-fuan nativu ne'ebé bele kaptura no filtra bee-kapaas husi telhadu, dalan ba garajen, no area sira seluk ne'ebé la permite bee atu penetra. Solusaun sira ne'e la'ós jesta de'it bee-kapaas maibé mós hasae biodiversidade urbanu no estétika.
+
+Telhadu matak reprezenta alternativa inovativa seluk ba jestasaun bee-kapaas iha area urbanu ne'ebé populasaun boot. Liuhusi kobre telhadu sira ho ai-fuan no rai, sistema sira ne'e bele redús signifikativamente bee-kapaas husi edifísiu no mós fornese isolamentu, redús efeitu urbanu illa manas, no kria habitat ba fauna. Iha klima tropikal hanesan Timor-Leste, telhadu matak bele efetivu tebes hodi jesta bee-kapaas husi udan boot.
+
+Sistema kolesaun bee udan, husi simple tanke bee udan ba siternu ne'ebé kompleksu, oferese benefísiu duál,

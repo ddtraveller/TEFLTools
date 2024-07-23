@@ -1,0 +1,15 @@
+'Ibn Arabi no Metafísika Sufi: Introdusaun
+
+Místiku Andalusian husi sékulu 12-13, Ibn Arabi, sai hanesan figura ida-ne'ebé influensia boot no kontroversial iha istória intelektual Islámiku. Nia hakerek boot kona-ba metafísika Sufi no kosmolojia modela místisizmu Islámiku no filozofia durante sékulu naruk. Iha papel ida-ne'e, ami oferese introdusaun ba vida Ibn Arabi nian no konseitu xave iha metafísika Sufi, ezplora oinsá nia ideia kontinua hahú iha diskursu espiritual Islámiku no interfe.
+
+Ibn Arabi moris iha tinan 1165 CE iha Murcia, Spain, durante idade ouro kultura Islámika Andalusian. Nia viaja barak iha mundo Islámiku, estudu ho mestre Sufi sira no dezenvolve nia filozofia místiku úniku. Nia obra rua ne'ebé famoza liu, Fusus al-Hikam (Bezels of Wisdom) no Al-Futuhat al-Makkiyya (Revelasaun Mecca), esplika nia sistema metafísika kompleksu no estuda husi xeraxaun estudante no místiku sira.
+
+Konseitu sentral iha pensamentu Ibn Arabi nian mak Wahdat al-Wujud, tradús dala barak hanesan Unidade Ezisténsia ka Unidade Ser. Doutrina ida-ne'e afirma katak ezisténsia hotu-hotu mak manifestasaun husi Realidade Divina. Iha perspetiva Ibn Arabi nian, kosmos tomak mak auto-revelasaun (tajalli) husi atributu infinitu ka Naran Divinu husi Deus. Kompreensaun radikal ida-ne'e desafia nasaun konvensionál kona-ba kriador no kriasaun, subjetu no objetu, tranzendénsia no imanénsia.
+
+Naran Divinu sira joga papel importante iha metafísika Ibn Arabi nian. Iha tradisaun Islámika, Allah iha 99 naran ka atributu, hanesan Misericordioso, Justu, Kriador, etc. Ba Ibn Arabi, naran sira-ne'e la'ós de'it label deskritivu maibé realidade kosmika liu husi ne'ebé Deus hatene nia-an no manifesta universu. Kriatura ida-idak, iha nia essénsia, mak kombinasaun úniku husi Naran Divinu sira, refleta aspetu ida husi Realidade Divina.
+
+Konseitu seluk importante iha pensamentu Ibn Arabi nian mak Umanu Perfeitu (al-insan al-kamil), exemplifikadu husi profeta no santo sira. Umanu Perfeitu realiza tomak imajen divina ne'ebé kria umanu hotu-hotu no atua hanesan ponte entre unidade absoluta Divina no multipilisidade kriasaun. Ideia ida-ne'e iha implikasaun boot ba kompreensaun potensial umanu no objetivu dezenvolvimentu espiritual.
+
+Hakerek Ibn Arabi nian kompleksu no paradoxal tebes, refleta natureza inefável husi esperiénsia místika. Nia uza linguajen simbóliku no alejóriku ho intervalu luan, hakerek bazeia ba exegese Korániku, filozofia Neoplatónika, no nia esperiénsia viziunária rasik. Abordajen sintétiku ida-ne'e halo nia obra sai fonte riku ba diálogu interfe, liuliu ho tradisaun místika iha relijiaun sira seluk.
+
+Influénsia husi ideia Ibn Arabi nian la'ós de'it iha mundo Islámiku. Nia konseitu Wahdat al-Wujud iha similaridade ho filozofia non-dualístika iha tradisaun seluk, hanesan Advaita Vedanta iha Hinduísmu ka eskola

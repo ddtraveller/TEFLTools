@@ -1,0 +1,15 @@
+'Memória no Aprendizajen iha Timor-Leste: Lia-husi Tradisaun no Siénsia Nervu
+
+Iha nasaun ki'ik Timor-Leste, enkontru entre sistema koñesimentu tradisionál no siénsia nervu modernu oferese perspetiva úniku kona-ba memória no aprendizajen. Nasaun Ázia Sudeste ne'e, ho nia riku patrimóniu kultural no paisajen edukasaun ne'ebé la'o hela, fornese kazu estudu interese ba análiza oinsá memória funsiona no aprendizajen akontese iha kontextu tradisionál no kontemporáneu.
+
+Kapasidade memória kakutak nian maka aihan prinsipál aprendizajen no transmisaun kultural. Iha Timor-Leste, hanesan iha sosiedade barak, memória tradisionálmente joga papel importante iha konservasaun no transmisaun koñesimentu husi jerasaun ida ba jerasaun seluk. Tradisaun oral nasaun nian, hanesan istória, kanta, no ritu, durante tempu naruk sai hanesan meiu ba mantein identidade kultural no koñesimentu prátiku.
+
+Siénsia Nervu rekoñese tipu balu memória ne'ebé fundamentál ba aprendizajen. Memória badak, mós koñesidu hanesan memória servisu, permite retensaun temporáriu informasaun. Iha prátika tradisionál Timor nian, tipu memória ne'e bele uza bainhira aprende padraun tais ne'ebé komplikadu ka memoriza pasu husi dansa serimónia. Memória naruk, iha parte seluk, envolve armazenamentu duradouru informasaun. Ne'e klaru iha maneira ema-boot sira iha komunidade Timor nian bele lembra istória, genealogia, no koñesimentu medisina tradisionál ne'ebé akumula durante sira nia moris tomak.
+
+Memória prosedurál, forma husi memória naruk, relevante tebes ba transmisaun habilidade iha Timor-Leste. Tipu memória ne'e envolve rekoñesimentu unkoinsiente husi habilidade motór no prosedimentu. Artezanatu tradisionál hanesan tais ka konstrusaun Uma Lulik depende maka'as ba memória prosedurál, tanba artista sira aprende liu husi observasaun, imitasaun, no prátika repete.
+
+Konseitu neuroplasticidade - kapasidade kakutak atu forma koneksaun nervu foun no adapta durante moris - importante tebes ba komprende prosesu aprendizajen. Fenómenu biolójiku ne'e suporta kapasidade kakutak atu hetan habilidade no koñesimentu foun iha idade ruma. Iha Timor-Leste, ne'ebé sistema edukasaun formál sei hela dezenvolve, neuroplasticidade joga papel vital iha kontextu aprendizajen tradisionál no modernu. Por ezemplu, bainhira Timor sira involve liu tan ho teknolojia dijitál no edukasaun formál, sira nia kakutak adapta ba maneira foun atu prosesa no armazena informasaun.
+
+Transmisaun kultural iha Timor-Leste tradisionálmente depende ba modelu aprendizajen husi mestre no esperiénsia aprendizajen komunál. Juventude sira aprende habilidade prátiku no koñesimentu kultural liu husi partisipasaun direta iha atividade komunidade. Abordajen ne'e koiniside ho prinsipiu siénsia nervu kona-ba aprendizajen esperiénsia, ne'ebé sujere katak envolvimentu ativo no aplikasaun iha mundu real aumenta formasaun no retensaun memória.
+
+Tradisaun oral, piar prinsipál transmisaun kultural Timor nian, demonstra oinsá memória no aprendizajen interliga iha sosiedade.

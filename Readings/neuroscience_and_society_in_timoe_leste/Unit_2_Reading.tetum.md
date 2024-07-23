@@ -1,0 +1,15 @@
+'Lateralizasaun Funsaun Kakutak: Hanoin Divididu
+
+Kakutak umanu, maski nia simetria esterna, hanesan orgaun asimétriku tebes bainhira relasiona ho funsaun nia. Fenómenu ida ne'e, ne'ebé hatene hanesan lateralizasaun funsaun kakutak, refere ba oinsa prosesu kognitivu sira asosia predominante ho ema nian kakutak hemisfera karuk ka loos. Komprensaun konseitu ida ne'e fornese perspetiva valiozu kona-ba kognisaun umanu, komportamentu, no mós espresaun kulturál sira.
+
+Iha nia esensia, lateralizasaun kakutak nian enraiza iha estrutura fiziku kakutak nian. Hemisfera rua, maski hanesan iha aspetu, liga husi feixe fibra nervu nian ne'ebé hanaran korpus kalosum. Ligasaun ne'e permite komunikasaun entre hemisfera sira, maibé mós habilita sira atu espesializa iha funsaun sira ne'ebé diferente. Espesializasaun ne'e mak ita referi hanesan espesializasaun hemisfera.
+
+Hemisfera karuk asosia dalabarak ho prosesamentu lingua, razaun lójika, no pensamentu sekuesial. Nia iha área rua ne'ebé kritiku ba lingua: área Broca, ne'ebé envolve iha produsaun diskursu, no área Wernicke, ne'ebé esensial ba komprensaun lingua. Hemisfera ida ne'e ezellente iha dekompozisaun informasaun ba komponente ki'ik liu no analiza sira ho metodu pasu ba pasu. Parte ida ne'e husi kakutak ne'ebé ajuda ita hodi tuir reseita, rezolve problema matemátika, ka konstrui fraze gramatikál ne'ebé kórretu.
+
+Iha kontraste, hemisfera loos normalmente liga ba konsiensia espasial, prosesamentu emosional, no pensamentu holístiku. Parte ida ne'e husi kakutak ne'ebé habil iha rekonesimentu padrãun, interpretasaun espressaun fasiál, no komprensaun tonu emosional husi diskursu. Nia desempeña papel importante iha atividade kriativa, permiti ita atu apresia arte, múzika, no kontestu luan liu husi situasaun sira. Hemisfera loos ajuda ita navega liu husi espasu, rekonesi rostu, no kompriende signifikadu jerál husi senáriu kompleksu.
+
+Lateralizasaun lingua hanesan aspetu ida husi funsaun kakutak ne'ebé estudadu tebes. Iha ema barak, lingua prosesa predominante iha hemisfera karuk. Maibé, ida ne'e la universál. Individu balun hatudu dominansia hemisfera loos ba lingua, enkuantu individu seluk demonstra distribuisaun balansu liu entre hemisfera rua. Variabilidade ne'e destaka plasticidade no adaptabilidade kakutak nian.
+
+Konseitu lateralizasaun kakutak nian estende liu husi funsaun kognitivu de'it. Nia mós bele influénsia ita-nia persepsaun, prosesu hodi halo desizaun, no mós espresaun kulturál. Hanesan ezemplu, prosesamentu espasial, ne'ebé normalmente asosia ho hemisfera loos, desempeña papel importante iha kriasaun no apresiasaun artístika. Ligasaun ne'e levanta pergunta intrigante kona-ba oinsa lateralizasaun kakutak bele influénsia arte no kultura iha sosiedade sira ne'ebé diferente.
+
+Konsidera, hanesan ezemplu, padrãun no aranjamentu espasial

@@ -1,0 +1,15 @@
+'Labele kontrolu no julgamentu: Dalan ba Dame iha Laran
+
+Iha ita-nia mundu ne'ebé lais no orienta ba buat hotu-hotu, deseju ba kontrolu dominante iha ita-nia vida loron-loron. Ita esforsa atu kontrola ita-nia kondisaun, influensia ema seluk nia hahalok, no halo rezultadu tuir ita-nia espera. Hamutuk ho ne'e, ita sempre julgamentu ba ita nia-an, ba ema seluk, no situasaun hodi komprende ita-nia esperiensia. Maibé, tendensia hirak ne'e bele halo ita sai estresadu, involve iha konflitu, no la satisfaz. Aprende atu labele kontrolu no julgamentu bele halo ita hetan dame, flexibilidade, no satisfasaun boot liutan.
+
+Rai husi kontrolu no julgamentu normalmente iha laran ita-nia istoria kultural no pesoal. Iha sosiedade barak, inklui Timor-Leste, ezijensia kultural iha influensia boot ba hahalok individu. Ezijensia ne'e, bainhira relasiona ho papel iha familia, karreira, ka norma sosiál, bele forma estrutura ne'ebé halo ema sente katak presiza kontrola sira nia-an no julga sira nia-an no ema seluk bazeia ba padraun sira ne'e. Alende ida ne'e, eventu istoriku, hanesan tempu opresaun ka konflitu, bele intensifika dezire kolektivu ba kontrolu hodi evita sofrementu ka perda iha futuru.
+
+Rekoñesimentu ba impaktu husi faktor kultural no istoriku hanesan pasu primeiru atu labele kontrolu no julgamentu. Ne'e halo individu komprende katak sira nia tendensia ne'e la'os defeitu maibé resposta ne'ebé sira aprende husi sira nia ambiente. Konsiensia ida ne'e bele promove auto-kompaixaun no kria espasu ba mudansa.
+
+Metodu ida ne'ebé efetivu atu labele kontrolu no julgamentu mak prátika 'relaxamentu ego'. Konseitu ida ne'e envolve loosening konsiente ba ego, ne'ebé mak parte husi ita-nia an ne'ebé segura kontrolu no involve iha julgamentu hanesan forma proteje ita nia-an. Relaxamentu ego la signifika atu abandona estrutura ka diskernimentu iha vida; maibé, ne'e kona-ba kultiva postura ne'ebé liu flexível no akseita ita nia-an no mundu iha ita nia rohan.
+
+Téknika prátiku bele ajuda iha prosesu ne'e. Exersisiu respirasaun, por ezemplu, bele sai meiu ida ne'ebé simple maibé efetivu atu labele. Liuhusi foka ba respirasaun no permite pensamentu no sentimentu liu la ho ligasaun, individu bele kria espasu mental ida ne'ebé laiha presiza kontrolu ka julga. Prátika ne'e bele benefisia liu iha momentu estresante ka bainhira hasoru situasaun difisil.
+
+Exersisiu visualizasaun mós bele ajuda atu labele julgamentu. Liuhusi imajina an rasik iha ambiente ida ne'ebé damen no akseita, bazeia ba imajen husi sira nia paisajen kultural, individu bele kultiva sentidu ba dame iha laran no la julgamentu. Estadu mental ida ne'e bele aplika iha vida loron-loron, influensia interasaun no prosesu dezisaun.
+
+Auto-kompaixaun iha papel importante iha prosesu atu labele kontrolu no julgamentu. Iha tempu barak, julgamentu ne'ebé makaas liu mak ita halo ba ita nia-an rasik. Liuhusi kultiva bondade no kompreensaun ba

@@ -1,0 +1,15 @@
+'Introdusaun ba Bushcraft no Ekolojia Lokal iha Timor-Leste
+
+Bushcraft, arte ida husi moris no sobrevive iha natureza ho habilidade tradisional no koñesimentu kona ba natureza, iha kultura barak iha mundu. Iha Timor-Leste, nasaun ida ki'ik iha Azia Sudeste ho biodiversidade riku no ekosistema diversu, habilidade bushcraft sai parte integral husi vida indijena durante sekulu barak. Artigu ida ne'e esplora konseitu bushcraft, relevansia ba Timor-Leste, no importansia husi komprende ekolojia lokal atu pratika habilidade ne'e.
+
+Bushcraft inklui habilidade barak, hanesan halo ahi no konstrui fatin uma, identifika ai-horis no rai animal. Iha Timor-Leste, habilidade sira ne'e importante tebes ba sobrevivensia iha rai varia husi nasaun. Teritoriu nasaun nian inklui ai-tutun tropikal, foho, no area tasi, kada ida oferese desafiu no oportunidade uniku ba sira ne'ebe pratica bushcraft.
+
+Ekosistema Timor-Leste nian diversu no kompleksu. Ai-tutun nasaun nian, ne'ebe kobre aproximadamente 50% husi area rai, sai uma ba especie ai-horis no animal oioin, barak husi sira ne'ebe endemiku ba rejiaun. Ai-tutun sira ne'e varia husi ai-tutun ran tropikal too ai-tutun iha altitude aas. Foho, inklui Foho Ramelau ne'ebe aas liu iha nasaun, iha flora no fauna ne'ebe adapta ba temperatura ki'ik no altitude aas. Ambiente tasi, ho ai-mangrove no korais, suporta ekosistema marine riku no fornese rekursu importante ba komunidade tasi nian.
+
+Komprende biodiversidade lokal importante tebes ba bushcraft efetivu iha Timor-Leste. Nasaun ida ne'e iha liu 1,500 especie ai-horis, inklui ai-pau ne'ebe valoriza hanesan teak no sandalwood, no ai-moruk oioin ne'ebe uza iha medikamentu tradisional. Especie animal importante inklui pombo imperador Timor ne'ebe ameasado tebes, lagartixa monitor Timor, no especie lakatu oioin. Koñese especie sira ne'e no sira nia habitat esensial ba sira ne'ebe pratica bushcraft iha rejiaun, tanba bele deside kona ba fonte ai-han, materiál ba utensiliu no fatin uma, no perigu.
+
+Prinsipiu importante ida iha bushcraft modernu mak "Laiha Rasto." Kodigo etika ida ne'e hatudu katak importante atu minimiza impaktu umanu ba ambiente wainhira goza atividade iha natureza. Iha Timor-Leste, ne'ebe ekosistema hamosu frajil no hetan presaun husi deforestasaun no mudansa klimatika, importante tebes atu tuir prinsipiu "Laiha Rasto." Prinsipiu sira ne'e inklui maneja lixu ho diak, respeita vida animal, no minimiza impaktu husi fogueira.
+
+Pratika tradisional Timor oan nian iha natureza konforme diak ho etika "Laiha Rasto." Durante gerasaun, komunidade indijena dezenvolve metodu sustentável husi uza rekursu, hanesan kolhe ai-horis ho selektivu no teknika agrikultura rotasional. Pratika sira ne'e demonstra kompreensaun ne'ebe diak kona ba ekosistema lokal no kapasidade sira nian. Entusiasta bushcraft modernu iha Timor-Leste bele aprende barak husi metodu tradisional sira ne'e, kombina ho koñesimentu konservasaun modernu.
+
+Pratika bushcraft iha Timor-Leste oferese liu duke habilidade sobrevivensia de'it; nia fornese ligasaun ne'ebe boot liu ba mundu natur

@@ -1,0 +1,15 @@
+'Halo Klase Neebe Suporta Poezia
+
+Poezia iha podér atu inspira, dezafiu no transforma individu, maibé ba estudante barak, fahe sira-nia servisu kriativu bele sai esperiénsia ne'ebé tauk. Ambiente klase ne'ebé suporta importante tebes atu kria konfiansa no fiar nesesáriu ba estudante sira atu esplora sira-nia lia-fuan poezia. Artigu ida-ne'e esplora elementu xave sira hodi kria ambiente hanesan ne'e, ho foku ba importánsia seguransa, feedback konstrutivu, no norma kolaborasaun.
+
+Iha sentru husi klase poezia ne'ebé suporta mak konseitu espasu seguru. Termu ida-ne'e refere ba ambiente ne'ebé estudante sira sente seguru, respeita, no livre atu espresa sira-nia an rasik sem medu ba julgamentu ka ridiculu. Iha kontestu poezia, espasu seguru permite estudante sira atu asumi risku kriativu, esperimenta ho lian, no fahe sira-nia esperiénsia pesoál liu husi sira-nia hakerek. Bainhira estudante sira sente seguru, sira sei involve liu tan ho poezia, hanesan leitor no eskritor. 
+
+Elementu fundamentál ida hodi kria espasu seguru ba poezia mak prátika feedback konstrutivu. Feedback konstrutivu karakteriza husi komentáriu ne'ebé ajuda, espesífiku, no foka ba mellorasaun liu duke kritika. Bainhira fornese feedback ba poezia, importante atu foka ba obra rasik liu duke julga ema ne'ebé hakerek poezia. Feedback efetivu inklui observasaun espesífiku kona-ba elementu poezia ne'ebé liga ho leitor, no sugestaun ne'ebé matenek ba área sira ne'ebé bele dezenvolve liu tan.
+
+Atu fasilita feedback konstrutivu, klase poezia barak estabelese orientasaun ba revizaun entre kolega. Orientasaun sira-ne'e enfatiza importánsia atu espesífiku iha komentáriu, oferese sugestaun liu duke komanda, no balansa observasaun pozitivu ho área sira ba mellorasaun potensial. Ho tuir prinsípiu sira-ne'e, estudante sira bele aprende atu involve ho poezia ho kritika hodi mantein atmosfera ne'ebé suporta.
+
+Lia-mosu ativu mak komponente importante seluk husi ambiente poezia ne'ebé suporta. Skill ida-ne'e involve konsentrasaun tomak no ligasaun ho ida-ne'ebé ema dehan, demonstra liu husi jestu nonverbal sira ne'ebé hatudu atensaun. Iha klase poezia, lia-mosu ativu importante tebes durante leitura poezia ka sesaun feedback. Bainhira estudante sira sente katak sira-nia lia-mosu hetan tau matan, sira sei fahe sira-nia servisu ho di'ak liu no involve ho signifikativu ho obra husi sira-nia kolega.
+
+Empatia joga papél importante iha kria atmosfera ne'ebé suporta ba poezia. Kapasidade atu komprende no sente emosun seluk nian relevante tebes bainhira lida ho poezia, ne'ebé dala barak esplora tema no emosun pesoál. Fo enkorajamentu ba empatia iha klase ajuda estudante sira koneksaon ho perspetiva no esperiénsia diversu ne'ebé esprime liu husi poezia, hodi kria ambiente ne'ebé inkluzivu liu no komprende.
+
+Estabelese norma klase mak dalan efetivu atu formaliza prinsípiu sira husi ambiente poezia ne'ebé suporta. Norma sira-ne

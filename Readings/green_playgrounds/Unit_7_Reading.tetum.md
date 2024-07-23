@@ -1,0 +1,15 @@
+'Envolvimentu Komunidade no Dezain Partisipativu ba Infrastrutura Verde
+
+Projetu infrastrutura verde bele transforma ambiente urbanu, fornese benefisiu barak hanesan jestaun be'e nakloke ne'ebé di'ak liu, biodiversidade ne'ebé aumenta, no resiliensia komunidade nian ne'ebé sa'e ba mudansa klimatika. Maibé, susesu husi projetu sira-ne'e depende ba faktor kritiku ida: envolvimentu komunidade. Husi envolve rezidente lokal sira no interese sira iha prosesu planeamentu no dezain, munisipiu sira no organizasaun sira bele kria solusaun infrastrutura verde ne'ebé la'ós de'it iha base tekniku maibé mós iha justisa sosial no apropriadu kulturalmente.
+
+Iha nia prinsipiu, envolvimentu komunidade iha projetu infrastrutura verde maka kona-ba rekoñesimentu katak rezidente lokal sira mak espesialista iha sira nia fatin rezidensia rasik. Sira iha koñesimentu inestimavel kona-ba kondisaun lokal, nesesidade sira, no preferensia sira ne'ebé bele informa no hadia dezain projetu. Alende ne'e, envolvimentu komunidade husi inisiu kria konfiansa, promove sentimentu posse, no aumenta posibilidade susesu projetu no manutensaun iha prazu naruk.
+
+Dezain partisipativu mak metodu importante ba envolvimentu komunidade ne'ebé iha signifikadu. Metodu ida-ne'e la'ós de'it informa ka konsulta rezidente sira; maibé involve sira aktivamente iha prosesu kriativu dezain solusaun. Iha teknika dezain partisipativu balu ne'ebé efetivu ona iha projetu infrastrutura verde:
+
+Mapeamentu aset komunidade mak ferramenta ida ne'ebé forte ne'ebé permite rezidente sira identifika no dokumenta forsa sira no rekursu sira husi sira nia fatin rezidensia. Iha kontestu infrastrutura verde, ida-ne'e bele involve mapeamentu espasu verde ne'ebé eziste ona, area sira ne'ebé risku ba inundasaun, ka fatin potensial ba projetu foun. Prosesu ida-ne'e la'ós de'it fornese dadu valiozu ba planeador sira maibé mós ajuda membru komunidade sira rekoñese aset sira no potensial husi sira nia area.
+
+Charrette dezain mak sesaun planeamentu intensivu no kolaborativu ne'ebé designer sira, rezidente sira, no stakeholder sira seluk serbisu hamutuk atu dezenvolve solusaun. Ba projetu infrastrutura verde, charrette ida bele involve brainstorming fatin ba jardim udan, sketsa dezain ba bioswales, ka prioriza area sira ba kobre ai-hun ne'ebé aumenta. Karaterista rapido no iterativu husi charrette sira bele produz ideia inovativu no kria konsensu entre stakeholder sira ne'ebé diversu.
+
+Photovoice mak metodu partisipativu ne'ebé kombina fotografia ho asaun sosial baze komunidade. Partisipante sira hetan pedidu atu fotografia sira nia ambiente, foka ba aspetu sira ne'ebé relevante ba projetu ne'ebé iha. Ba infrastrutura verde, ida-ne'e bele inklui dokumenta area sira ne'ebé drenajen la di'ak, espasu verde ne'ebé eziste ona, ka fatin potensial ba projetu. Foto sira depois sai baze ba diskusaun grupu no analiza, permiti membru komunidade sira partilha sira nia perspetiva no prioridade sira liu husi visual.
+
+Orsamentu partisipativu mak metodu inovativu seluk ne'ebé fo membru komunidade sira kontrolu dire

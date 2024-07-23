@@ -1,0 +1,15 @@
+'Naran Divinu no Karateristika: Janela ba Teolojia Islámika
+
+Konseitu naran divinu no karateristika okupa fatin sentrál iha teolojia no espiritualidade Islámika. Iha ninia laran, doktrina ida-ne'e esplora oinsá natureza infinita no tranzendental husi Maromak bele komprende no relasiona ho ema ne'ebé limitadu. Naran 99 husi Allah, mós konhesidu hanesan al-Asma al-Husna (Naran Boot liu), serve hanesan ponte entre esénsia divinu ne'ebé la bele fahe no mundu ne'ebé kria ona.
+
+Iha tradisaun Islámika, naran sira ne'e la'ós de'it label maibé realidade ne'ebé moris no manifesta prezensa no asaun Maromak nian iha cosmos. Kada naran reprezenta karateristika divinu ka kualidade úniku, hanesan al-Rahman (Misericordioso), al-Alim (Konhesedor), ka al-Qadir (Poderozu). Hamutuk, sira forma tapete komprensivu husi perfeisaun divinu ne'ebé fiéis sira kontempla, invoka, no buka atu realiza iha sira-nia viajen espiritual.
+
+Místiku no filósofu boot husi Andalusia, Ibn Arabi (1165-1240), dezenvolve teoria profunda no influente kona-ba naran divinu ne'ebé kontinua muda hanoin Islámiku. Sentrál ba vizaun Ibn Arabi nian maka konseitu tajalli, ka auto-revelasaun divinu. Tuir ideia ida-ne'e, universu tomak hanesan manifestasaun husi karateristika Maromak nian, ho kada kriasaun refleta naran divinu espesífiku ho grau diferente.
+
+Ibn Arabi propõe relasaun dinámika entre esénsia Maromak nian ne'ebé la konhesidu (dhat) no sira-nia atributu ne'ebé bele konhesidu (sifat). Maske esénsia divinu nian sei nafatin liu kompreensaun umanu, atributu sira-ne'e serve hanesan mode husi auto-espresaun divinu, permite kriasaun atu hatene no relasiona ho nia kriador. Interasaun entre esénsia no atributu hamosu diversidade riku husi ezisténsia, ho kada entidade iha cosmos hanesan foku úniku husi manifestasaun divinu (mazhar).
+
+Iha kosmolojia Ibn Arabi nian, naran divinu sira eziste iha hierarkia no relasaun interativas kompleksu. Naran balun haree hanesan raiz husi ne'ebé naran seluk sai, kria padraun ne'ebé komplikadu husi signifikadu no influénsia. Ezemplu, naran al-Hayy (Moris ba Eternu) bele konsidera hanesan fundasaun ba naran hanesan al-Alim (Konhesedor) no al-Qadir (Poderozu), tanba moris sai pré-rekizitu ba koñesimentu no podér.
+
+Topu husi auto-revelasaun divinu ida-ne'e, tuir Ibn Arabi, hanesan Umanu Perfeitu (al-insan al-kamil), ne'ebé profeta no santu sira exemplifika. Individu sira-ne'e realiza intervalu tomak husi atributu divinu iha balansu harmoniosu, serve hanesan mikrokosmu husi cosmos tomak no espellu kompleto husi realidade divinu.
+
+Teoria kona-ba naran divinu ida-ne'e iha implikasaun profunda ba espiritualidade no étika Islámika. Liuhosi kontemplasaun no realizasaun atributu sira-ne'e, fiéis sira nia objetivu maka kultiva kualidade divinu iha sira nia an, maske iha forma limitadu, uman
