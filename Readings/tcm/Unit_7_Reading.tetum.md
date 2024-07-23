@@ -1,0 +1,15 @@
+'Abordajen Integrativu no Aplikasaun Komunidade iha Kuidadu Saúde
+
+Iha tinan sira ikus ne'e, paisajen kuidadu saúde nian muda ba abordajen ne'ebé holístiku no foka ba pasiente nia tratamentu no saúde di'ak. Mudansa ida ne'e halo ema barak simu ai-moruk integrativu, paradigma ida ne'ebé kombina pratika médiku konvensionál husi Osidente ho terapia komplementar hodi trata ema hotu-hotu – isin, hanoin, no espíritu. Abordajen ida ne'e sai popular, nia aplikasaun iha programa saúde komunidade sai importante liu, partikularmente iha kontestu kulturál diversu.
+
+Ai-moruk integrativu funda ba prinsípiu ida ne'ebé hateten saúde mak liu duke ausénsia moras de'it. Ai-moruk ida ne'e rekoñese interasaun kompleksu entre faktor físiku, emosionál, sosial, no ambientál ne'ebé influénsia ema nia saúde di'ak. Ho terapia komplementar ne'ebé bazeia ba evidénsia hanesan akupuntura, ai-moruk herbal, no téknika hanoin-rua ho isin paralelu ho tratamentu konvensionál, ai-moruk integrativu hakarak optimiza rezultadu saúde no hadi'a kualidade moris.
+
+Forsa boot ida husi ai-moruk integrativu mak nia kapasidade atu adapta iha kontestu kulturál sira ne'ebé la hanesan. Importante tebes bainhira halo konsiderasaun kona-ba aplikasaun iha programa saúde komunidade, liuliu iha rejiaun sira ne'ebé iha pratika kurasaun tradisionál forte. Por ezemplu, iha Timor-Leste, ne'ebé ai-moruk tradisionál iha papel importante iha kuidadu saúde, integrasaun pratika sira ne'e ho abordajen médiku modernu bele hetan intervensaun ne'ebé kulturalmente asetável no efetivu.
+
+Konseitu kuidadu kolaborativu sentrál ba implementasaun susesu abordajen integrativu nian. Modelu ida ne'e hetan profisionál saúde husi disiplina oioin atu servisu hamutuk, hodi fornese kuidadu komprehensivu ba pasiente. Iha pratika, iha ekipa ne'ebé inklui médiku kuidadu primáriu, pratikante Ai-Moruk Xineza Tradisionál (TCM), nutrisionista, no profisionál saúde mental, hotu-hotu servisu hamutuk atu trata preokupasaun saúde pasiente nian ho forma holístiku.
+
+Adapta abordajen integrativu, hanesan TCM, ba programa saúde komunidade presiza konsidera di'ak kona-ba nesesidade saúde lokal no krensa kulturál. Por ezemplu, iha jestaun manajementu dor kronika iha komunidade Timor oan, esensiál tebes atu komprende persepasaun lokal kona-ba dor no kurasaun. Konseitu TCM hanesan qi (enerjia vital) no balansu yin no yang bele esplika liu husi analogia husi kultura Timor oan, halo ideia sira ne'e sai asesível liu no relevante ba populasaun lokal.
+
+Sensibilidade kulturál importante tebes bainhira implementa abordajen integrativu iha setting komunidade. Profisionál saúde tenke dezenvolve kompeténsia kulturál – kapasidade atu komprende, komunika ho, no interaje efetivamente ho ema husi kultura sira ne'ebé la hanesan. Ida-ne'e involve aprende kona-ba krensa no pratika kulturál komunidade nian, no mós rekoñese bias kulturál rasik no oinsá ida-ne'e influénsia interasaun ho pasiente.
+
+Iha kontestu manajementu dor, krensa kultur

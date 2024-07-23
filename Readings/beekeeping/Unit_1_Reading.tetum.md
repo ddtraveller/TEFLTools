@@ -1,0 +1,15 @@
+'Introdusaun ba Kria Bee iha Timor-Leste
+
+Kria bee iha Timor-Leste representa hanesan interseksaun ne'ebé interesante entre prátika tradisionál, importánsia eko-lójiku, no potensia ekonómiku. Nasaun ida ne'e iha Ázia Sudeste, ho nia diversidade paisajen no riku biodiversidade, fornese ambiente ida ne'ebé ideál ba apikultura. Artigu ida ne'e esplora istória, espésie bee nativu, no importánsia husi kria bee iha sistema eko-lójiku no agrikultura Timor-Leste nian.
+
+Istória kria bee iha Timor-Leste hola fatin boot iha prátika tradisionál. Durante sékulu barak, komunidade lokál envolve iha atividade kasa mel, prátika ida ne'ebé involve koleita mel husi kolónia bee fuan nian. Prátika tradisionál ne'e, maske seidauk hetan abandonadu iha área balun, gradualmente sai hanesan prátika kria bee ne'ebé modernu liu. Transisaun ba hive ne'ebé hetan jestaun ho di'ak permite produsaun mel ne'ebé sustentavel liu no konservasaun bee ne'ebé di'ak liu.
+
+Timor-Leste iha bee rua espésie prinsipál: Apis cerana no espésie varia husi bee ne'ebé la iha finin (Trigona spp.). Apis cerana, mós husu hanesan "bee Asianu", adapta di'ak ba klima tropikál Timor-Leste nian. Bee sira ne'e ki'ik liu duke sira nia bee Osidentál (Apis mellifera) no konhesidu ho sira nia rezisténsia ba parasita no moras lokál. Trigona spp., ka bee ne'ebé la iha finin, diversu iha Timor-Leste, ho espésie barak mak hetan iha nasaun laran tomak. Bee sira ne'e apresiadu tebes ba sira nia mel medisinál no sira nia kapasidade hodi poliniza kultura ho flor ki'ik.
+
+Importánsia bee iha sistema eko-lójiku Timor-Leste nian la bele subestima. Hanesan polinizadór prinsipál, bee joga papél krusiál iha konservasaun biodiversidade no garante reproduksaun husi espésie ai-horis. Iha kontestu agrikultura, bee esensiál ba polinizasaun kultura, partikularmente ba kafé, kultura esporta prinsipál ida husi Timor-Leste. Relasaun entre bee no kafé mutualístika; bee poliniza flor kafé nian, no kafé fornese néktar no pólen ba bee.
+
+Aleinde sira nia importánsia eko-lójiku, bee oferese potensia ekonómiku signifikativu ba Timor-Leste. Kria bee fornese fonte rendimentu sustentavel ba komunidade rurál liu husi produsaun mel, beeswax, no produtu seluk husi bee. Sabór úniku husi mel Timor nian, ne'ebé influénsia husi flora diversu Timor nian, oferese oportunidade ba merkadu nixe tantu nível nasionál no internasionál.
+
+Maibé, kria bee iha Timor-Leste enfrenta desafiu. Impaktu mudansa klimátika, hanesan mudansa padrãun florasaun no frekuénsia aumenta eventu klimátiku ekstrému, afeta populasun bee no produsaun mel. Alende ne'e, transisaun husi kasa mel tradisionál ba kria bee modernu presiza edukasaun no rekursu ne'ebé la sempre disponivel iha área rurál.
+
+Hodi enfrenta desafiu sira ne'e no aproveita potensia kria bee, inisiativa balun hela prosesu iha Timor-Leste. Sira inklui programa treinamentu ba kriador bee lokál, es

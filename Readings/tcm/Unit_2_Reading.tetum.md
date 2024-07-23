@@ -1,0 +1,15 @@
+'Diagnóstiku no Avaliasaun Medisina Tradisionál Xineza
+
+Medisina Tradisionál Xineza (TCM) oferese metodu úniku hodi komprende saúde no diagnóstika moras. Diferente husi medisina osidental, ne'ebé hamosu atensaun ba sintomas espesífiku ka órgaun sira iha izolasaun, TCM uza perspetiva holístika ba isin no nia funsaun sira. Sisteman antigu ida ne'e, ne'ebé dezenvolve ona durante milenar, konfia iha teknik diagnóstiku sira ne'ebé buka atu identifika deziquilíbriu iha sistema enerjia no konstituisaun isin nian.
+
+Iha sentru diagnóstiku TCM nian mak Haat Pilar sira: Observasaun, Auskultasaun/Olfasaun, Inkéritu, no Palpasaun. Pilar sira ne'e forma fundasaun ida ba avaliasaun komprehensivu husi estatutu saúde pasiente nian. Liu husi aplikasaun kuidaduza husi teknik sira ne'e, pratikante TCM nian bele dezenvolve komprensaun matenek kona-ba saúde jerál individu nian no identifika área sira ne'ebé iha dezarmonia.
+
+Pilar primeiru, Observasaun (望 wàng), envolve inspesaun vizuál ba pasiente. Ne'e inklui avaliasaun ba aspetu jerál, atitude, no liu husi hotu, ezame ba liafuan. Diagnóstiku liafuan mak parte krusiál husi avaliasaun TCM nian. Pratikante sira observa ho kuidadu kór liafuan nian, kapa, forma, no nivel umidade. Ezemplu, liafuan ne'ebé kór-manas bele indika falta energía ou ran, enquando liafuan ne'ebé mean bele sujere inflamasaun ou manas iha isin. Kapa iha liafuan bele fornese komprensaun ba saúde digestiva, ho kapa boron-manas bele indika friu iha estómago, no kapa mean sujere manas.
+
+Auskultasaun no Olfasaun (聞 wén), pilar segundu, envolve hatene lia pasiente nian, hanoin, no son husi isin, no mós hatene odor husi isin. Lia fraku no silensiózu bele indika falta energia, enquando odor forte husi isin bele sujere ezésu manas ka umidade iha isin.
+
+Pilar terseiru, Inkéritu (問 wèn), hanesan ho istória pasiente nian iha medisina osidental. Maibé, pratikante TCM nian husu perguntas espesífiku kona-ba padraun toba, estadu emosional, apetite, no fator sira seluk ne'ebé bele la relasiona direita ho keixa primáriu. Abordajen komprehensivu ida ne'e ajuda atu kria imajen kompletu kona-ba saúde no estilo vida pasiente nian.
+
+Palpasaun (切 qiè), pilar kuartu, envolve liu husi diagnóstiku pulsu. TCM rekonese kualidade pulsu barak, kada ida indika estadu saúde ka deziquilíbriu diferente. Pratikante sira sente pulsu iha pozisaun tolu iha kada pulsu, ne'ebé koresponde ba sistema órgaun diferente. Pulsu avalia ba nia ritmu, forsa, no profundidade. Pulsu ne'ebé la'o los bele sujere manas, enquando pulsus ne'ebé la'o neineik bele sujere friu iha isin. Forsa no profundidade pulsu bele fornese informasaun kona-ba estadu energia no ran iha isin.
+
+Alénde pilar haat sira ne'e, diagnóstiku TCM mós konsidera tipu konstituisaun individu nian. Tipu prinsipál tolu mak Hau, Ahi, no Bee, kada ida ho karakterístika

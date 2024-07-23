@@ -1,0 +1,15 @@
+'Bardos hafoin Mate: Viajen liuhosi Estadu Intermediáriu
+
+Mate la'ós remata, maibé nudar transisaun ba estadu foun, tuir ensinamentu Budista Tibetana. Konseitu bardos, ka estadu intermediáriu, fornese estrutura hodi komprende esperiénsia konsiensia hafoin mate fíziku. Artigu ida ne'e explora bardos rua importante ne'ebé okorre entre mate no renasimentu: bardo dharmata no bardo becoming.
+
+Bardo dharmata hahu hodi komesa hafoin respirasaun para no elementu sira ne'ebé kria isin fíziku taka tiha ona. Iha estadu ida ne'e, konsiensia iha esperiénsia husi aparénsia vida naroman, lian, no kór. Luminosidade fundamentál ka "naroman klaru" husi hanoin hatudu, livre husi hanoin konseituál normál. Ba ema ne'ebé spiritualmente avansadu, ne'e oferese oportunidade profunda ba libertasaun. Maibé, ba ema barak, esperiénsia ne'ebé deslumbrante maibé la familiar bele halo konfuzaun ka até teror.
+
+Durante bardo dharmata, deidade sira ne'ebé maka tranquila no furiozu hateten sei hatudu. Sira ne'e komprende nu'udar manifestasaun arketípika husi ita-nia hanoin rasik, la'ós entidade esternu. Kapasidade atu rekoñese aparénsia sira ne'e hanesan projetu husi konsiensia importante tebes. Ema ne'ebé treinu ona iha prátika meditasaun hanesan Dzogchen bele deskansa iha natureza hanoin no hetan iluminasaun iha faze ida ne'e. Ba sira seluk, bardo dharmata la kleur, dura husi momentu balu de'it to'ó loron balu.
+
+Hafoin bardo dharmata, mai bardo becoming. Iha ne'e, konsiensia simu "isin mentál" ida ne'ebé iha mobilidade extraordinária no kapasidade klairvoiansia. La'ós isin fíziku ne'ebé segura ona, isin mentál bele muda ba fatin ida-idak de'it liuhosi hanoin kona-ba. Nia bele pasa liu husi objetu sólidu no hatene hanoin husi ema ne'ebé moris. Maibé, nia mós iha vulnerabilidade boot, sujeitu ba karma nia bee no konfuzaun kona-ba nia estadu.
+
+Bardo becoming durasaun normálmente loron 49, maski durasaun bele muda. Durante tempu ida ne'e, ema ne'ebé mate bele la hatene katak sira mate ona no tenta atu interaje ho ema ne'ebé sira hadomi, maibé dehan de'it katak sira la hetan atensaun. Tanba isin mentál la bele simu sustentasaun, nia sente hanoinaun no katuas. Aparénsia karma vida hatudu, dalaruma hanesan kosmar. Hanoin sai sensível tebes no influensia, ho hanoin sira ne'ebé manifesta hanesan realidade experensiál.
+
+Iha bardo becoming mak prosesu renasimentu desenrola. Konsiensia hetan atrasaun husi afinidade karma no empurra husi tendénsia abituál, no iha final, hetan empurraun ba moris foun. Iha faze ikus, hateten katak sinal sira hatudu ne'ebé indika reinu no sirkunstánsia husi renasimentu. Ema ne'ebé iha treinamentu espiritual bele hili renasimentu favorável ka até hetan libertasaun, enquantu ema seluk hetan leva husi forsa karma.
+
+Komprensaun bardos ne'e la'ós ejersísiu akadémiku de'it. Budismu Tibetana oferese prátika riku hodi suporta konsiensia em

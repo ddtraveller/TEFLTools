@@ -1,0 +1,15 @@
+'Kompaixaun no Bodhichitta: Laran Tibetan Buddhism
+
+Iha tasi boot husi filozofia no prátika budista, konseitu balun mak sentral no bele halo mudansa hanesan kompaixaun no bodhichitta. Ida-ne'e konseitu ne'ebé liga malu hanesan laran husi Buddhism Tibetan, oferese dalan ba iluminasaun pessoal ne'ebé liga boot ho bem-estar husi ema hotu-hotu.
+
+Kompaixaun, iha nia forma simples, mak hakarak atu ema seluk livre husi sofrimentu. Ne'e liu liu husi simpatia ka pena, inklui komprensaun boot kona-ba esperiénsia umanu kona-ba moras no dezirenu boot atu alivia. Iha Buddhism, kompaixaun la haree hanesan frakeza ka karga, maibé hanesan fonte forsa no objetivu. Kredita katak liu husi kultiva kompaixaun, ita laos de'it benefisia ema seluk maibé mós hetan dame no satisfasaun boot liu iha ita-nia moris rasik.
+
+Ligar boot ho kompaixaun mak konseitu kona-ba amor-bondade, ne'ebé mak hakarak atu ema seluk kontente. Hamutuk, kualidade rua ne'e forma base ba estadu mental ne'ebé liu liu no profundo liu ne'ebé hatene hanesan bodhichitta. Traduz husi Sanskrit, bodhichitta nia signifikadu mak "fuan-ne'ebé hamrik" no refere ba aspirasaun atu atinji iluminasaun ba benefisiu husi ema hotu-hotu.
+
+Bodhichitta dalaruma deskreve ho aspetu rua: relativa no absoluta. Bodhichitta relativa mak aplikasaun prátika husi kompaixaun iha ita-nia moris loron-loron, hanesan atu halo bondade, jenerozidade, no empatia. Bodhichitta absoluta, iha parte seluk, mak insight direitu ba natureza finál realidade – komprensaun katak fenómena hotu-hotu, inklui ita-nia hanoin kona-ba an, laiha ezisténsia rasik.
+
+Kultiva bodhichitta konsidera hanesan objetivu ne'ebé aas no nobre liu iha Buddhism Tibetan. Kredita katak liu husi dezenvolve motivasaun altruista, pratikante sira bele ultrapasa sira nia sofrimentu no limitasaun rasik hodi iha tempu hanesan halo esforsu ba libertasaun husi ema hotu-hotu. Abordajen paradóxiku ida-ne'e – buka iluminasaun laos ba benefisiu pessoal maibé ba benefisiu ema seluk – haree hanesan dalan ne'ebé efikaz no signifikante tebes ba despertar espirituál.
+
+Métodu primáriu ida atu dezenvolve bodhichitta mak liu husi prátika tonglen, ne'ebé signifika "haruka no simu" iha Tibetan. Iha téknika meditasaun ida-ne'e, pratikante sira visualize simu sofrimentu husi ema seluk ho kada inspirasaun no haruka alíviu, felisidade, no bem-estar ho kada expirasaun. Prátika ida-ne'e desafia ita nia tendénsia ba egosentrismu no ajuda atu dezenvolve empatia no kompaixaun iha nível profundo.
+
+Konseitu kona-ba kompaixaun no bodhichitta laos úniku ba Buddhism, no kultura barak iha mundu iha sira nia tradisaun rasik atu kultiva bondade no altruismu. Iha Timor-Leste, por exemplo, iha énfase kulturál forte ba komunidade no apoia malu. Prátika budista husi kompaixaun no bodhichitta bele komplementu no hasae valor sira ne'ebé eziste ona, oferese meius foun no perspetiva hodi promove harmon
