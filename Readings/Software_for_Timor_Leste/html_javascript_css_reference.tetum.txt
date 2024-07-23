@@ -1,0 +1,97 @@
+'HTML Referénsia Gía
+
+1. Estrutura Báziku
+   - `<!DOCTYPE html>`: Declarasaun dokumentu nian tipu HTML
+   - `<html>`: Elementu abut husi pájina HTML
+   - `<head>`: Kontein metadata no ligasaun ba rekursu esternu
+   - `<body>`: Kontein konteúdu visível husi pájina web
+
+2. Elementu Textu
+   - `<h1>` to `<h6>`: Títulu, husi importante liu (h1) to importante ki'ik liu (h6)
+   - `<p>`: Parágrafu
+   - `<br>`: Quebra linhas
+   - `<strong>` or `<b>`: Textu ne'ebé forte
+   - `<em>` or `<i>`: Textu ne'ebé itáliku
+
+3. Lista
+   - `<ul>`: Lista la ordena
+   - `<ol>`: Lista ordena
+   - `<li>`: Item lista
+
+4. Ligasaun no Imajen
+   - `<a href="">`: Ligasaun
+   - `<img src="" alt="">`: Imajen
+
+5. Tabela
+   - `<table>`: Tabela
+   - `<tr>`: Linha tabela
+   - `<th>`: Tabela nian selula header
+   - `<td>`: Tabela nian selula dadus
+
+6. Formuláriu
+   - `<form>`: Formuláriu
+   - `<input type="">`: Kampu input (text, radio, checkbox, etc.)
+   - `<textarea>`: Input textu linhas barak
+   - `<select>` and `<option>`: Lista dropdown
+   - `<button>`: Butaun klik 
+
+Ezemplu Pájina HTML:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ha'u nia Pájina Web</title>
+</head>
+<body>
+    <h1>Benvindu ba Ha'u nia Pájina Web</h1>
+    <p>Ne'e ezemplu parágrafu ho <strong>textu forte</strong> no <em>textu itáliku</em>.</p>
+    <ul>
+        <li>Item lista 1</li>
+        <li>Item lista 2</li>
+    </ul>
+    <a href="https://www.example.com">Klik iha ne'e</a> atu vizita pájina seluk.
+    <img src="image.jpg" alt="Ezemplu Imajen">
+</body>
+</html>
+```
+
+Hahu Aprende Javascript
+
+1. Inklui Javascript iha HTML
+   - Inline: `<script>console.log("Olá, Mundo!");</script>`
+   - Arkivu esternu: `<script src="script.js"></script>`
+
+2. Variável no Tipu Dadus
+   - `let`: Declarasaun variável ne'ebé muda bele
+   - `const`: Declarasaun variável ne'ebé la muda
+   - Tipu dadus: Númeru, String, Boolean, Array, Objetu
+
+3. Funsaun
+   - Declarasaun funsaun: `function greet(name) { console.log("Olá, " + name); }`
+   - Funsaun seta: `const greet = (name) => { console.log("Olá, " + name); }`
+
+4. Manipulasaun DOM
+   - Aksesu elementu: `document.getElementById("id")`, `document.querySelector(".class")`
+   - Modifika konteúdu: `element.innerHTML = "Konteúdu foun"`, `element.textContent = "Textu foun"`
+   - Aumenta eventu listeners: `element.addEventListener("click", function() { ... })`
+
+Ezemplu Javascript:
+```javascript
+// Funsaun atu muda textu parágrafu
+function changeText() {
+    const paragraph = document.getElementById("my-paragraph");
+    paragraph.textContent = "Textu muda husi JavaScript!";
+}
+
+// Aumenta eventu listener ba butaun
+const button = document.querySelector("button");
+button.addEventListener("click", changeText);
+```
+
+Hahu Aprende CSS
+
+1. Inklui CSS iha HTML
+   - Inline: `<p style="color: red;">Parágrafu mean</p>`
+   - Internu: `<style>p { color: blue; }</style>`
+   - Arkivu esternu: `<link rel="stylesheet" href="styles.css

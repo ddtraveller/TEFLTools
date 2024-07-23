@@ -1,0 +1,83 @@
+'# Guia HTML5
+
+HTML5 mak versaun foun liu husi Hypertext Markup Language, ne'ebé mak lian padraun atu kria pájina web. HTML5 introduz elementus semántiku foun sira ne'ebé fornese signifikadu ba estrutura husi pájina web, ne'ebé torna fasil liu ba motor buka, leitor sira husi ekrán, no dezenvolvedor sira atu komprende konteúdu.
+
+## Estrutura Bázika husi Dokumentu HTML5
+
+Dokumentu HTML5 iha estrutura bázika tuir mai ne'e:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Títulu husi dokumentu</title>
+</head>
+<body>
+    <!-- Konteúdu pájina nian iha ne'e -->
+</body>
+</html>
+```
+
+- `<!DOCTYPE html>`: Deklara katak dokumentu ne'e HTML5.
+- `<html>`: Elementu rai husi pájina HTML. Atributu `lang` hili lian husi dokumentu nian.
+- `<head>`: Kobre metadadus kona-ba dokumentu, hanesan kodifikasaun karakter, seting viewport, no títulu pájina nian.
+- `<body>`: Kobre konteúdu visível husi pájina web.
+
+## Elementus Semántiku HTML5
+
+HTML5 introduz elementus semántiku balu ne'ebé fornese signifikadu ba estrutura husi pájina web:
+
+- `<header>`: Reprezenta konteúdu introdutoriu, normalmente inklui navigasaun no logo.
+- `<nav>`: Define grupu husi ligasaun navigasaun nian.
+- `<main>`: Espesifika konteúdu prinsipál husi dokumentu.
+- `<article>`: Reprezenta kompozisaun ne'ebé iha nia-an rasik, hanesan postu husi blog ka notísia.
+- `<section>`: Define sesaun jeneriku husi dokumentu ka aplikasaun.
+- `<aside>`: Reprezenta konteúdu ne'ebé iha relasaun lateral ba konteúdu prinsipál, hanesan sidebar.
+- `<footer>`: Normalmente kobre informasaun autor nian, informasaun direitu autór, no ligasaun relevante.
+- `<figure>`: Espesifika konteúdu ne'ebé iha nia-an rasik, hanesan illustrasaun, diagrama, foto, ka lista kódigu.
+- `<figcaption>`: Define legenda ba elementu `<figure>`.
+
+Ezemplu ida kona-ba oinsá elementus semántiku sira ne'e bele uza iha dokumentu HTML5:
+
+```html
+<body>
+    <header>
+        <h1>Títulu Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Uma</a></li>
+                <li><a href="#">Kona-ba</a></li>
+                <li><a href="#">Kontaktu</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Títulu Artigu</h2>
+            <p>Konteúdu artigu...</p>
+        </article>
+
+        <section>
+            <h2>Títulu Sesaun</h2>
+            <p>Konteúdu sesaun...</p>
+        </section>
+
+        <aside>
+            <h3>Ligasaun Relevante</h3>
+            <ul>
+                <li><a href="#">Ligasaun 1</a></li>
+                <li><a href="#">Ligasaun 2</a></li>
+            </ul>
+        </aside>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Naran Website. Direitu hotu rezervadu.</p>
+    </footer>
+</body>
+```
+
+Husi uzu elementus semántiku sira ne'e, ita bele kria dokumentu HTML5 ne'ebé estruturadu di'ak no iha signifikadu ne'ebé fasil liu atu komprende no halo manutensaun.

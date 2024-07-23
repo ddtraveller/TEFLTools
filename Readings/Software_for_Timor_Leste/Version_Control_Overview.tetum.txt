@@ -1,0 +1,24 @@
+'Vista geral ba kontrolu versaun
+
+Kontrolu versaun mak sistema ida ne'ebé grava mudansa sira ba arkivu ida ka grupu arkivu sira durante tempu hodi bele rekorda versaun espesífiku iha futuru. Sistema ne'e permite ita:
+
+- Muda fila fali arkivu sira ne'ebé ita hili ba estadu anterior
+- Muda fila fali projetu tomak ba estadu anterior
+- Kompara mudansa sira durante tempu
+- Haree kona-ba ema ne'ebé modifika ikus liu ida ne'ebé bele kauza problema
+- Recupera arkivu sira ne'ebé lakon ka estadu projetu
+
+Sistema kontrolu versaun (VCS) bele:
+
+1. Lokál: Versaun sira armazenadu iha ita nia komputadór lokál (hanesan, RCS)
+2. Sentralizadu: Versaun sira armazenadu iha servidor sentral (hanesan, SVN)
+3. Distribuidu: Kada uza-na'in iha kopia kompletu husi repositoriu (hanesan, Git)
+
+Benefísiu husi uza kontrolu versaun:
+
+- Kolaborasaun: Povu barak bele servisu iha arkivu projetu hanesan iha tempu hanesan
+- Istória: Istória mudansa kompletu nian iha tempu naruk ba arkivu hotu-hotu
+- Divisaun no unifikasaun: Kria divisaun sira ne'ebé seperadu ba esperimentasaun, depois une mudansa sira ne'ebé aprova ona
+- Muda fila fali: Koriji sala sira liuhusi muda fila ba versaun anterior
+
+Git mak sistema kontrolu versaun distribuidu ne'ebé populár ho nia lais, flexibilidade, no kapasidade divisaun no unifikasaun ne'ebé forte.'

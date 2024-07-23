@@ -1,0 +1,93 @@
+'Dicionários:
+
+Dicionários sira uza hodi rai par valor-xave, ne'ebé kada xave mak úniku iha dicionário ida-idak.
+Sira útil bainhira ita-boot hakarak atu asesu lais valor sira bazeia ba sira nia xave asosiadu.
+Ezemplu:
+pythonCopypessoa = {"naran": "John", "idade": 25, "sidade": "New York"}
+print(pessoa["naran"])  # Output: John
+
+
+
+Listas:
+
+Listas sira uza hodi rai koleksaun ordenadu husi item sira, ne'ebé bele iha tipu dadus diferente.
+Sira útil bainhira ita-boot presiza atu mantein orden husi elementu sira no asesu sira liuhusi sira nia índise.
+Ezemplu:
+pythonCopyfrutas = ["mansas", "banana", "laranja"]
+print(frutas[1])  # Output: banana
+
+
+
+Kompreensaun Lista:
+
+Kompreensaun lista oferese dalan badak atu kria lista foun bazeia ba lista ezistente ka objeitu sira seluk ne'ebé bele iterar.
+Sira útil bainhira ita-boot hakarak atu transforma ka filtra elementu sira iha lista ida.
+Ezemplu:
+pythonCopynúmeru = [1, 2, 3, 4, 5]
+númeru_kwadrátiku = [x**2 ba x iha númeru]
+print(númeru_kwadrátiku)  # Output: [1, 4, 9, 16, 25]
+
+
+
+Objetu Klase no Funsaun __init__:
+
+Objetu klase sira uza hodi kria tipu dadus ne'ebé define husi uza-na'in ho sira nia atributu no métodu rasik.
+Funsaun __init__ mak métodu espesiál ne'ebé kona bainhira kria objetu ida no uza atu inisia sira nia atributu.
+Sira útil bainhira ita-boot hakarak atu kapsula dadus no komportamentu ne'ebé relasiona iha entidade ida.
+Ezemplu:
+pythonCopypythonCopyklase Ema:
+    def __init__(ema, naran, idade):
+        ema.naran = naran
+        ema.idade = idade
+
+pessoa = Ema("Alice", 30)
+print(pessoa.naran)  # Output: Alice
+
+
+
+JSON:
+
+JSON (JavaScript Object Notation) mak formatu troka dadus ki'ik ne'ebé fasil atu ema lee no hakerek no fasil ba mákina atu analiza no jera.
+Komunmente uza hodi transmite dadus entre servidor ida no aplikasaun web ida.
+Ezemplu:
+pythonCopyimporta json
+
+dadus = {"naran": "John", "idade": 25, "sidade": "New York"}
+string_json = json.dumps(dadus)
+print(string_json)  # Output: {"naran": "John", "idade": 25, "sidade": "New York"}
+
+
+
+Kordaens:
+
+Kordaens sira uza hodi reprezenta dadus textu iha Python.
+Sira tau iha kotuk simples ('') ka kotuk dobli ("").
+Ezemplu:
+pythonCopymensajen = "Bom dia, mundu!"
+print(mensajen)  # Output: Bom dia, mundu!
+
+
+
+Númeru:
+
+Python suporta tipu dadus numérikus oioin, inklui inteiros (int), númeru pontu flutuante (float), no númeru kompleksu (complex).
+Sira uza hodi halo operasaun matemátika no kalkulasaun.
+Ezemplu:
+pythonCopyx = 10
+y = 3.14
+z = 2 + 3j
+print(type(x))  # Output: <class 'int'>
+print(type(y))  # Output: <class 'float'>
+print(type(z))  # Output: <class 'complex'>
+
+
+
+Data no Tempu:
+
+Python fornese módulu datetime atu serbisu ho data no tempu.
+Nia permite ita-boot atu kria, manipula, no formatu data no tempu.
+Ezemplu:
+pythonCopyfrom datetime import datetime
+
+tempu_korrente = datetime.now()
+print(tempu_k

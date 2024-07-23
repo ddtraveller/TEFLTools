@@ -1,0 +1,99 @@
+'# Tahan Git Komandu
+
+## Komandu Báziku
+- `git init`: Inisia repozitóriu lokál foun Git iha pasta atual.
+  ```bash
+  # Kria pasta foun no inisia repozitóriu Git
+  mkdir projetu-hau
+  cd projetu-hau
+  git init
+  ```
+- `git clone <url>`: Klon repozitóriu husi fonte remotu, hanesan GitHub ka GitLab.
+  ```bash
+  # Klon repozitóriu husi URL remotu
+  git clone https://github.com/username/repository.git
+  ```
+- `git add <file>`: Prepara fail ba komitmentu, prontu atu inklui iha komitmentu tuir mai.
+  ```bash
+  # Prepara fail ida
+  git add README.md
+  
+  # Prepara fail barak
+  git add file1.txt file2.txt
+  
+  # Prepara fail hotu-hotu ne'ebé modifika ona no fail foun
+  git add .
+  ```
+- `git commit -m "message"`: Komete fail sira ne'ebé prepara ona ho mensajen ida.
+  ```bash
+  # Komete fail sira ne'ebé prepara ona ho mensajen
+  git commit -m "Tau fail README"
+  ```
+- `git status`: Verifika estatutu atual husi repozitóriu, hatudu fail sira ne'ebé modifika ona, prepara ona, no la monitoriza.
+  ```bash
+  # Verifika repozitóriu nia estatutu
+  git status
+  ```
+- `git log`: Haree istória komitmentu husi repozitóriu, hatudu komitmentu kode, autór sira, data, no mensajen.
+  ```bash
+  # Haree istória komitmentu
+  git log
+  
+  # Haree istória komitmentu ho output kondensa
+  git log --oneline
+  ```
+
+## Kria Branch
+- `git branch`: Lista branch hotu lokal iha repozitóriu.
+  ```bash
+  # Lista branch lokal
+  git branch
+  ```
+- `git branch <branch-name>`: Kria branch foun ho naran ida ne'ebé hateten.
+  ```bash
+  # Kria branch foun
+  git branch feature-x
+  ```
+- `git checkout <branch-name>`: Muda ba branch ida ne'ebé hateten.
+  ```bash
+  # Muda ba branch ida
+  git checkout feature-x
+  ```
+- `git merge <branch-name>`: Kombina branch ida ne'ebé hateten ba branch atual.
+  ```bash
+  # Kombina branch ida ba branch atual
+  git merge feature-x
+  ```
+
+## Repozitóriu Remotu
+- `git remote add <name> <url>`: Aumenta repozitóriu remotu ho naran no URL ida ne'ebé hateten.
+  ```bash
+  # Aumenta repozitóriu remotu
+  git remote add origin https://github.com/username/repository.git
+  ```
+- `git push <remote> <branch>`: Dada branch ida ne'ebé hateten ba repozitóriu remotu.
+  ```bash
+  # Dada branch atual ba repozitóriu remotu
+  git push origin main
+  ```
+- `git pull <remote> <branch>`: Dada update husi branch ida ne'ebé hateten husi repozitóriu remotu.
+  ```bash
+  # Dada update husi repozitóriu remotu
+  git pull origin main
+  ```
+- `git fetch <remote>`: Hetan update husi repozitóriu remotu laiha kombina sira ba branch atual.
+  ```bash
+  # Hetan update husi repozitóriu remotu
+  git fetch origin
+  ```
+
+## Muda Mudansa
+- `git revert <commit>`: Deskonfia komitmentu ida liuhusi kria komitmentu foun ne'ebé halo tuir mudansa sira.
+  ```bash
+  # Deskonfia komitmentu
+  git revert abc123
+  ```
+- `git reset <file>`: Hadiak fail husi área preparasaun.
+  ```bash
+  # Hadiak fail
+  git

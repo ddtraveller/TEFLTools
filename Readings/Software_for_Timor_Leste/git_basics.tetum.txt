@@ -1,0 +1,29 @@
+# Komprende Did'ak Kona-ba Prosesu Git nian
+
+Git mak sistema kontrolu versaun distribuidu ida, ne'ebé signifika katak utilizadór ida-idak iha kopia kompletu husi repozitoriu iha sira-nia mákina lokal. Tuirmai ne'e mak dalan ne'ebé prosesu Git nian:
+
+1. **Inisializa repozitoriu ida**: Ita bele kria repozitoriu foun ida iha ita-nia mákina lokál uza `git init`, ka klone repozitoriu ida-ne'ebé eziste husi fonte remotu (hanesan GitHub) uza `git clone`.
+
+2. **Halo mudansa sira**: Kria, modifika, ka hasai arkivu sira iha ita-nia diresaun servisu tuir nesesidade ba ita-nia projetu.
+
+3. **Prepara mudansa sira**: Bainhira ita prontu atu salva ita-nia mudansa sira, uza `git add` hodi prepara arkivu modifikadu sira ba kompromisu.
+
+4. **Konfirma mudansa sira**: Uza `git commit` atu salva permanentemente mudansa sira iha ita-nia repozitoriu lokál. Kada kompromisu iha ID úniku no mensajen ida-ne'ebé deskreve mudansa sira.
+
+5. **Haree mudansa sira**: Atu fahe ita-nia kompromisu ho ema seluk, uza `git push` hodi haruka ita-nia kompromisu lokál ba repozitoriu remotu (hanesan ida ne'ebé simu iha GitHub).
+
+6. **Dada mudansa sira**: Uza `git pull` hodi kaer no halo fús ba atualizasaun sira husi repozitoriu remotu ba ita-nia repozitoriu lokál, hodi halo sinál ho utilizadór sira seluk nia mudansa sira.
+
+Enkuantu GitHub mak plataforma populár ida atu organiza repozitoriu sira husi Git, maibé la'ós opsaun de'it. Ita bele fahe repozitoriu sira liu husi servisu hosting sira seluk, ka mós diretamente entre komputadór sira uza protokolu sira hanesan HTTP, SSH, ka protokolu rasik Git nian.
+
+Vantajen prinsipál Git nian mak modelu distribuidu ne'ebé kada utilizadór ida-idak iha backup kompletu ba repozitoriu, permiti servisu offline no fleksibilidade iha prosesu kolaborasaun.
+
+# Atualiza Arkivu ida
+echo "<html><head></head><body>Hello Timor Leste!</body></html>" > index.html
+
+# Konfirma Mudansa Sira
+git add index.html
+git commit -m "Atualiiza konteúdu HTML hodi pasa teste"
+
+# Kopia Arkivu Sira Ba GitHub
+git push

@@ -1,0 +1,56 @@
+'# Problema Komun Git no Solusaun sira
+
+1. **Restorasaun ba ficheiru ne'ebé taka ona, maibé seidauk komete**:
+   - Karik ita taka ficheiru ida iha ita-nia pasta servisu lokál, maibé seidauk komete mudansa ne'e, ita bele restora ficheiru husi kabeça husi ita-nia suku atuál liu husi `git checkout -- <ficheiru>`. Ne'e sei restora ficheiru ba nia estadu iha komete ikus.
+
+2. **Simu ficheiru ne'ebé taka ona husi repositori remotu**:
+   - Karik ficheiru taka ona no taka ne'e komete ona no dudu ba repositori remotu, ita bele restora ficheiru liu husi komete espesífiku ne'ebé ficheiru iha tiha iha neba liu husi `git checkout <hash-komete> -- <ficheiru>`.
+
+3. **Rezolve kofrontasaun sira husi merge**:
+   Kofrontasaun merge mosu bainhira Git la konsege merge mudansa sira husi suku sira ne'ebé diferente. Ne'e normalmente mosu bainhira liña hanesan husi ficheiru ida modifika iha suku rua ne'ebé tama iha merge. Atu rezolve konflitu merge sira:
+
+   1. **Identifika ficheiru ne'ebé konflitu**: Bainhira konflitu merge mosu, Git sei marka ficheiru konflitu no para merge. Uza `git status` atu hatene ficheiru sira ne'ebé iha konflitu.
+
+      ```
+      $ git status
+      Iha suku feature
+      Ita iha dalan ne'ebé la merge.
+        (rezolve konflitu sira no halao "git commit")
+        (uza "git merge --abort" atu kansela merge)
+
+      Dalan ne'ebé la merge:
+        (uza "git add <ficheiru>..." atu marka rezolusaun)
+          modifika hotu:   ficheiru.txt
+      ```
+
+   2. **Abre ficheiru konflitu**: Abre ficheiru sira ne'ebé marka hanesan konflitu iha ita-nia editor textu.
+
+   3. **Buka marka konflitu**: Git tau marka konflitu iha ficheiru konflitu hodi hatudu mudansa konflitu. Buka seksaun ne'ebé taka husi `<<<<<<<`, `=======`, no `>>>>>>>`.
+
+      ```
+      <<<<<<< HEAD
+      Ne'e konteúdu husi suku atuál.
+      =======
+      Ne'e konteúdu husi suku ne'ebé tama iha merge.
+      >>>>>>> feature
+      ```
+
+   4. **Rezolve konflitu**: Modifika ficheiru sira atu rezolve konflitu. Ne'e bele involve mantein mudansa husi suku ida, suku seluk, ka kombinasaun husi sira. Hasai marka konflitu (`<<<<<<<`, `=======`, `>>>>>>>`).
+
+   5. **Prepara ficheiru sira ne'ebé rezolve ona**: Hafoin rezolve konflitu, prepara ficheiru sira ne'ebé modifika liu husi `git add <ficheiru>`.
+
+      ```
+      $ git add ficheiru.txt
+      ```
+
+   6. **Komete rezolusaun**: Komete mudansa sira ne'ebé rezolve konflitu merge liu husi `git commit`. Git sei fo mensajen komete default hodi hatudu katak komete ne'e rezolusaun merge.
+
+      ```
+      $ git commit -m "Rezolve konflitu merge iha ficheiru.txt"
+      ```
+
+   7. **Dudu mudansa merge**: Karik merge ho suku remotu, dudu mudansa merge ba repositori remotu liu husi `git push`.
+
+   Atu ajuda analiza konflitu merge:
+
+   - Uza `git log --merge` atu haree lista husi komete
