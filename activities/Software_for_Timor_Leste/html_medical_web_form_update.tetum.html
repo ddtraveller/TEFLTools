@@ -1,0 +1,98 @@
+'<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Formuláriu Médiku Jeral</title>
+</head>
+<body>
+    <h1>Formuláriu Médiku Jeral</h1>
+    <form id="intake-form">
+        <fieldset>
+            <legend>Informasaun Pessoal</legend>
+            <label for="name">Naran:</label>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="dob">Loron Moris:</label>
+            <input type="date" id="dob" name="dob" required><br>
+
+            <label for="gender">Seksu:</label><br>
+            <input type="radio" id="male" name="gender" value="male" required>
+            <label for="male">Mane</label><br>
+            <input type="radio" id="female" name="gender" value="female" required>
+            <label for="female">Feto</label><br>
+
+            <label for="phone">Telefón:</label>
+            <input type="tel" id="phone" name="phone" required><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Istória Médika</legend>
+
+            <input type="checkbox" id="diabetes" name="medical_history" value="diabetes">
+            <label for="diabetes">Diabetes</label><br>
+            <input type="checkbox" id="hypertension" name="medical_history" value="hypertension">
+            <label for="hypertension">Hipertensaun</label><br>
+
+            <label for="medications">Medikamentu Sira Ne'ebé Uza Hela:</label><br>
+            <textarea id="medications" name="medications" rows="4" cols="50"></textarea><br>
+
+            <label for="allergies">Alerjia:</label><br>
+            <textarea id="allergies" name="allergies" rows="4" cols="50"></textarea><br>
+        </fieldset>
+
+        <fieldset>
+            <legend>Kontaktu Emerjénsia</legend>
+            <label for="emergency_name">Naran:</label>
+            <input type="text" id="emergency_name" name="emergency_name" required><br>
+
+            <label for="emergency_phone">Telefón:</label>
+            <input type="tel" id="emergency_phone" name="emergency_phone" required><br>
+
+            <label for="emergency_relationship">Relasaun:</label>
+            <input type="text" id="emergency_relationship" name="emergency_relationship" required><br>
+        </fieldset>
+
+        <input type="submit" value="Submete">
+
+    </form>
+
+    <h2>Dadus Formuláriu Neebe Submete Tiha Ona</h2>
+    <div id="form-data"></div>
+
+    <script>
+        const form = document.getElementById('intake-form');
+        const formDataDiv = document.getElementById('form-data');
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(form);
+            let formDataString = '';
+            for (const [key, value] of formData.entries()) {
+                formDataString += `${key}: ${value}<br>`;
+            }
+            formDataDiv.innerHTML = formDataString;
+        });
+    </script>
+
+    <label for="appointment_date">Loron Marka Bainhira:</label>
+    <input type="date" id="appointment_date" name="appointment_date" required><br>
+
+    <label for="appointment_time">Tempu Marka Bainhira:</label>
+    <input type="time" id="appointment_time" name="appointment_time" required><br>
+
+    <label for="favorite_color">Kór Favoritu:</label>
+    <input type="color" id="favorite_color" name="favorite_color"><br>
+
+    <label for="pain_level">Nível Dor:</label>
+    <input type="range" id="pain_level" name="pain_level" min="0" max="10" step="1"><br>
+
+    <input type="text" id="name" name="name" required><br>
+
+    <input type="tel" id="phone" name="phone" minlength="10" maxlength="15" required><br>
+
+    <input type="range" id="pain_level" name="pain_level" min="0" max="10" step="1"><br>
+
+    <input type="date" id="appointment_date" name="appointment_date

@@ -1,0 +1,113 @@
+'<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 APIs no Microdata</title>
+    <style>
+        .produtu {
+            border: 1px solid #ccc;
+            padding: 10px;
+            marjen okos: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML5 APIs no Microdata</h1>
+
+    <h2>Geolocation API</h2>
+    <p>Klik iha botão atu hetan ita nia lokalizasaun atual:</p>
+    <button onclick="getLocation()">Hetan lokalizasaun</button>
+    <p id="localizaun"></p>
+
+    <h2>Armazenamentu Lokal API</h2>
+    <label for="naran">Naran:</label>
+    <input type="text" id="naran" name="naran">
+    <button onclick="salvaNaran()">Salva naran</button>
+    <p id="naranSalvadu"></p>
+
+    <h2>Rasta no Tuir API</h2>
+    <div id="fonteRasta" draggable="true" ondragstart="rasta(event)">
+        <p>Rasta hau!</p>
+    </div>
+    <div id="destinuTuir" ondrop="tuir(event)" ondragover="permiteTuir(event)">
+        <p>Tuir iha ne'e!</p>
+    </div>
+
+    <h2>Exemplu Microdata</h2>
+    <div itemscope itemtype="http://schema.org/Produtu">
+        <h3 itemprop="naran">Naran produtu</h3>
+        <img itemprop="imajen" src="produtu.jpg" alt="Imajen produtu">
+        <p itemprop="deskrisaun">Deskrisaun produtu iha ne'e.</p>
+        <p>Preço: <span itemprop="preço">$19.99</span></p>
+    </div>
+
+    <h2>Passos atu hasae pájina</h2>
+    <ol>
+        <li>
+            <strong>Implementa Geolocation API:</strong><br>
+            Aumenta kódigu JavaScript atu hetan lokalizasaun uzuáriu nian ho Geolocation API.<br>
+            Exemplu:
+            <pre>
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        document.getElementById("location").innerHTML = "Geolocation la suporta husi browser ne'e.";
+    }
+}
+
+function showPosition(position) {
+    document.getElementById("location").innerHTML = "Latitude: " + position.coords.latitude +
+    "&lt;br&gt;Longitude: " + position.coords.longitude;
+}
+            </pre>
+        </li>
+        <li>
+            <strong>Implementa Armazenamentu Lokal API:</strong><br>
+            Aumenta kódigu JavaScript atu salva no hetan dadus ho Armazenamentu Lokal API.<br>
+            Exemplu:
+            <pre>
+function saveName() {
+    var name = document.getElementById("name").value;
+    localStorage.setItem("name", name);
+    document.getElementById("savedName").innerHTML = "Naran nebe salva: " + name;
+}
+
+// Hetan naran salva iha momentu karga pájina
+window.onload = function() {
+    var name = localStorage.getItem("name");
+    if (name) {
+        document.getElementById("savedName").innerHTML = "Naran nebe salva: " + name;
+    }
+};
+            </pre>
+        </li>
+        <li>
+            <strong>Implementa Rasta no Tuir API:</strong><br>
+            Aumenta kódigu JavaScript atu habilita funsionalidade rasta no tuir.<br>
+            Exemplu:
+            <pre>
+function allowDrop(ev) {
+    ev.preventDefault();
+}
+
+function drag(ev) {
+    ev.dataTransfer.setData("text", ev.target.id);
+}
+
+function drop(ev) {
+    ev.preventDefault();
+    var data = ev.dataTransfer.getData("text");
+    ev.target.appendChild(document.getElementById(data));
+}
+            </pre>
+        </li>
+        <li>
+            <strong>Aumenta HTML5 APIs seluk tan:</strong><br>
+            Esplora no implementa HTML5 APIs seluk hanesan Web Workers, Web Sockets, ka Canvas.
+        </li>
+        <li>
+            <strong>Hatutan Microdata markup:</strong><br>
+            Aumenta markup semántiku ho Microdata iha exemplu produtu.<br>
+            Exemplu:
+            <pre>

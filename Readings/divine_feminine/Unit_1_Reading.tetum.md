@@ -1,0 +1,15 @@
+'Fundasaun husi Sexualidade Umanu
+
+Sexualidade umanu hanesan aspetu kompleksu no multifaceted husi esperiénsia umanu nian ne'ebé inklui dimensaun biolójiku, psikolójiku, no sosial. Komprensaun ba fundasaun sexualidade umanu nian fo insight kona-ba oinsa indivíduu sira dezenvolve identidade sexual, habelar relasaun, no orienta norma kulturál kona-ba sexu no jéneru.
+
+Iha nia núkleu, sexualidade refere ba kapasidade ida nia ema ba sentimento sexual, inklui orientasaun sexual no komportamentu. Aspetu fundamentál ne'e husi natureza umanu influénsia husi faktor oioin, hahuu ho biolójia. Hormona sira tuir papel importante iha dezenvolvimentu sexual, modela karakterístika físiku no fo hanoin ba dezire sexual. Siklu resposta sexual, ne'ebé inklui ezitasaun, plateau, orgasme, no rezolusaun, deskreve mudansa fisiológiku ne'ebé akontese durante atividade sexual.
+
+Maibé, sexualidade vai to'o liu husi biolójia de'it. Faktor psikolójiku, hanesan atitude, krensa, no konseitu-an, afeta maka'as esperiénsia no espresaun sexual ida nia ema. Atitude sexual molda husi esperiénsia pesoál, edukasaun, no influénsia kulturál. Atitude sira ne'e, iha fila, kontribui ba konseitu-an sexual - maneira ida ema haree sira nia an hanesan entidade sexual.
+
+Aspetu sosial husi sexualidade la bele subestima. Norma kulturál no prosesu sosializasaun influénsia maka'as oinsa hahalok sexual ne'ebé konsidera no lakohi iha termus husi komportamentu sexual. Norma sira ne'e varia boot tebes iha sosiedade no períodu istoriku ne'ebé diferente, hatudu papel signifikativu ne'ebé kultura halao iha modela espresaun sexual. Por ezemplu, atitude ba sexu molok kaben, relasaun hanesan-sexu, no papel jéneru iha interasaun sexual bele difere maka'as entre kultura sira.
+
+Konseitu xave ida iha komprende sexualidade umanu mak orientasaun sexual, ne'ebé deskreve padraun duradouru emosional, romántiku, no ka atrasaun sexual ida nia ema. Ne'e bele varia husi heterossexual esklusivu ba homosexual esklusivu, ho gradasaun oioin iha meio. Konseitu ida ne'ebé ligadu maka'as maka identidade jéneru, ne'ebé refere ba sensasaun internu ida nia ema nian hanesan mane, feto, ka jéneru seluk. Importante atu nota katak identidade jéneru la hanesan ho sexu biolójiku no bele la sempre tuir.
+
+Perspektiva evolusaun nian oferese insight sira iha sexualidade umanu. Teoria investimentu parental, por ezemplu, sujere katak sexu ne'ebé investe liu iha oan sira (jeralmente feto iha mamíferu sira) sei iha kriteriu maka'as liu iha hili tuan, enkuantu sexu ne'ebé investe menus sei kompete maka'as liu ba oportunidade kopulasaun. Teoria ne'e tenta atu esplika padraun sira iha komportamentu kopulasaun umanu, hanesan tanba karik mane sira bele iha tendénsia liu ba estratéjia kopulasaun prazu badak duke feto sira.
+
+Teoria estratéjia sexual habelar liutan ideia ne'e, propõe katak umanu sira evolui ona repertóriu kompleksu husi estratéjia kopulasaun ne'ebé bele uza ho flexibilidade tuir

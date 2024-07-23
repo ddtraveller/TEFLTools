@@ -1,0 +1,15 @@
+'Téknika Akupresura ba Partu: Abordajen Naturál ida ba Jestaun Moras 
+
+Partu no naskimentu bele sai esperiénsia intensu ba feto sira, ne’ebé dala barak hetan moras no diskónfortu. Maibé, medisina moderna oferese opsaun oin-oin ba jestaun moras, feto barak maka buka alternativa naturál hodi apoiu sira nia viajen partu. Akupresura, prátika antigu ida hodi kura moras ne'ebé hahu husi Medisina Tradisionál Xineza, sai populár hanesan téknika ida ne'ebé la invade hodi alivia moras no hametin prosesu partu. Artigu ida-ne'e esplora uza akupresura nian durante partu, hodi hatudu pontu presaun importante sira no sira nia benefísiu potensiál.
+
+Akupresura bazeia ba prinsípiu ne'ebé hatete katak pontu sira iha isin, bainhira hetan estimula, bele influénsia dalás enerjia ka "qi" iha isin tomak. Liu husi aplika presaun ba pontu espesífiku sira, kren katak bele hamenus moras, no bele hametin prosesu kura naturál husi isin. Durante partu, akupresura bele uza hodi jestaun moras, hametin dilatasaun serviks, no mós bele ajuda ho progresu partu nian.
+
+Pontu akupresura ne'ebé uza liu husi dadauk durante partu mak SP6, ne'ebé mós konhese hanesan Spleen 6. Pontu ida-ne’e lokaliza iha aat liu husi ruin tornozelu laran, pontu ida-ne'e asosia ho promosaun dilatasaun serviks no alivia moras partu. Presaun ne'ebé la los maibé firma ba pontu ida-ne’e bele ajuda hasa'e kontraksaun no enkoraja serviks atu loke. Maibé, importante atu nota katak pontu ida-ne’e tenke uza ho kuidadu durante gravidez, tanba kren katak bele induz partu se uza antes tempu.
+
+Pontu importante seluk ba apoiu partu mak LI4, ka Large Intestine 4. Pontu ida-ne’e iha parte webbing entre polegar no dedu índise, pontu ida-ne'e hetan rekonehementu boot ba nia propriedade hodi alivia moras. Aplika presaun ba LI4 durante kontraksaun bele ajuda alivia moras iha isin tomak no promove liberta endorfinas, substánsia kimikál naturál husi isin ne'ebé mate moras. Pontu ida-ne’e útil liu durante faze inisiál partu nian bainhira feto sira sei bele fokus ba téknika espesífiku sira.
+
+Ba feto sira ne'ebé sente moras iha kotuk durante partu, pontu BL32, ka Bladder 32, bele sai benefisiál tebes. Pontu ida-ne’e iha dimples husi kotuk kraik, aat liu husi bunda, pontu ida-ne’e bele ajuda alivia moras kotuk no posivelmente hametin kontraksaun. Parseiru partu bele aplika presaun firme ba pontu sira-ne’e durante kontraksaun, hodi fornese alíviu no apoiu ba feto ne'ebé iha partu.
+
+Bainhira partu avansa, bele uza pontu GB21, ka Gallbladder 21, hodi ajuda ho progresu partu. Pontu ida-ne’e iha pontu aas liu husi ombro, iha metade entre baze peskoso no ponta ombro. Estimula pontu ida-ne’e bele ajuda hodi desloka labarik ba kraik iha pelvis no enkoraja empurran efetivu liu durante faze daruak partu.
+
+Ba feto sira ne'ebé sente ansiedade ka sente bar

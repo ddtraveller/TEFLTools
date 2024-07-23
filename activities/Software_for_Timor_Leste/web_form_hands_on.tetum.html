@@ -1,0 +1,47 @@
+'<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplu Formulariu Web</title>
+</head>
+<body>
+    <h1>Formulariu Registrasaun Uza-na'in</h1>
+    
+    <form action="/register" method="post">
+        <label for="name">Naran:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+        
+       
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" minlength="8" required>
+        <br>
+        
+        <label for="gender">Jeneru:</label>
+        
+        <input type="radio" id="male" name="gender" value="male" checked>
+        <label for="male">Mane</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Feto</label>
+        <br>
+        
+        <label for="country">Nasaun:</label>
+        <select id="country" name="country">
+            <option value="usa">EUA</option>
+            <option value="canada">Kanada</option>
+            <option value="uk">UK</option>
+        </select>
+        <br>
+        
+        <label for="message">Mensajen:</label>
+        <textarea id="message" name="message" rows="4" cols="50"></textarea>
+        <br>
+        
+        <input type="submit" value="Regista">
+    </form>
+</body>
+</html>'

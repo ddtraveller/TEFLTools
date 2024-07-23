@@ -1,0 +1,15 @@
+'Kontrolu Kualidade no Cupping: Garante Ezélensia iha Kafé
+
+Kafé, hanesan bebida ne'ebé adora husi milyaun sira iha mundu tomak, submete ba prosesu rigorozu ida husi kontrolu kualidade atu asegura katak kada kopu kumpre padraun aas liu. Iha sentru husi prosesu ida ne'e mak cupping, metodu padraun ida husi avaliasaun sensorial ne'ebé uza husi profisional kafé sira atu avalia no klasifika kualidade kafé. Artigu ida ne'e explora mundu kompleksu husi kontrolu kualidade kafé no arte cupping, fo iluminasaun ba téknika no padraun sira ne'ebé define ezélensia iha indústria kafé.
+
+Kontrolu kualidade iha kafé hahuu antes liu husi feijoun sira to'o iha roaster. Nia hahuu iha to'os, ne'ebé prátika kultivasaun no kolheita ne'ebé hadi'a define fundasaun ba kafé superior. Maibé, maski ho metodu agrikultura ne'ebé di'ak liu, defeitu sira bele mosu. Imperfesaun sira iha kafé matak (lae rosta) ka rosta bele afeta signifikativamente kualidade produtu final. Defeitu sira ne'ebé komun inklui estragus husi insetu, fermentasaun liu, no prosesamentu ka armazenamentu sala. Identifika no komprende defeitu sira ne'e importante tebes atu mantein padraun aas iha dalan fornese kafé tomak.
+
+Klasifikasaun kafé matak sai pasu importante ida iha kontrolu kualidade. Sistema ida ne'e klasifika feijoun kafé matak bazeia ba tamanu, densidade, no konta defeitu. Feijoun sira ne'ebé boot liu, densu liu jeralmente asosia ho kualidade aas liu no resebe prezu premium. Prosesu klasifikasaun involve halai feijoun liu husi skrin ho tamanu oioin no konta defeitu ho metiku iha sampela. Avaliasaun metiku ida ne'e ajuda kompradór no roaster sira halo desizaun informadu kona-ba kompra kafé no mistura.
+
+Hafoin kafé matak pasaje verifikasaun kualidade inisiál, nia muda ba fase rostasaun. Rostasaun perfil, prosesu ida ne'ebé kontrola tempu no temperatura durante rostasaun kafé, sai fator kritikál iha dezenvolvimentu karakteristika sabor ne'ebé dezija. Rostador mestre sira monitoriza ho metiku prosesu rostasaun atu hatudu kualidade di'ak liu husi orijen kafé ida-idak hodi evita defeitu hanesan rostasaun menus (ne'ebé bele rezulta iha sabór ervas, la dezenvolve) ka rostasaun liu (ne'ebé bele rezulta iha notas keimadu, amar).
+
+Kulminasaun husi prosesu kontrolu kualidade maka cupping, metodu padraun ne'ebé uza atu avalia kualidade kafé. Cupping tuir protokolu rigorozu sira ne'ebé estabelese husi organizasaun sira hanesan Specialty Coffee Association (SCA) atu asegura konsisténsia no objetividade iha avaliasaun. Prosesu hahu ho avaliasaun ba fragrância maran husi kafé ne'ebé moe foin lalais, tuir mai avaliasaun aroma molhada hafoin hetan bee manas. Cupper sira "kobre krus" husi graun ne'ebé halibur iha leten, larga aroma boot ida, molok sabor kafé.
+
+Durante cupping, profisional sira avalia atributu chave balun:
+
+1. Fragr

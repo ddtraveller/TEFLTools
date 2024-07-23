@@ -1,0 +1,15 @@
+'Sexualidade Kontemporanea iha Timor-Leste
+
+Timor-Leste, mós konhesidu hanesan Timor-Lorosa'e, mak nasaun foin-sa'e ida iha Ázia Sudeste ne'ebé hetan independensia iha 2002 depois luta boot ba autodeterminasaun. Hanesan nasaun kontinua atu dezenvolve no moderniza, asuntu sira kona-ba sexualidade no saude seksual sai iha linha da frente husi diskursu sosiál no polítiku. Textu ida ne'e analiza situasaun atual sexualidade iha Timor-Leste, foka ba atitude sira ba individu sira LGBTQ+, inisiativa saude seksual no reproduktiva, no desafiu sira ne'ebé hasoru husi komunidade sira.
+
+Atitude sira ba sexualidade iha Timor-Leste influensia liu husi valor kulturál tradisionál no prezensa maka'as husi Igreja Katólika. Norma sosiál konservativu husi nasaun ne'e dalabarak iha konflitu ho ideia progresivu sira kona-ba orientasaun seksual no identidade jéneru. Tanba ne'e, individu sira LGBTQ+ iha Timor-Leste hasoru desafiu boot, inklui diskriminasaun, estigma, no falta proteksaun legal.
+
+Maske Konstituisaun Timor-Leste proibe diskriminasaun bazeia ba orientasaun seksual, laiha lei espesífiku atu proteje direitu LGBTQ+. Relasaun hanesan-sexu legal, maibé kazamentu hanesan-sexu la rekonhese. Individu sira LGBTQ+ dalabarak hasoru marginalizasaun sosiál, diskriminasaun iha fatin servisu, no ate violénsia. Barak mak hili atu halo sira-nia identidade sai anonimu tanba tauk husi reasaun negativu husi membru família ka komunidade sira.
+
+Maske iha desafiu sira ne'e, movimentu direitu LGBTQ+ iha Timor-Leste kresendo. Organizasaun sira hanesan CODIVA (Koalisao ba Diversidade no Asaun) no Arco Iris halo esforsu atu halo sensibilizasaun, fornese servisu apoio, no defende ba proteksaun legal. Grupu sira ne'e organiza eventu sira hanesan Orgullu Timor-Leste no involve iha diálogu ho ofisial governu atu dudu ba mudansa polítika.
+
+Saude seksual no reproduktiva mak área kritiku seluk husi preokupasaun iha Timor-Leste. Nasaun ne'e halo progresu boot iha mellora asesu ba asistensia médika, maibé desafiu sira sei iha. Taxa fertilidade iha Timor-Leste mak ida husi ne'ebé aas liu iha Ázia, no iha nesesidade boot la hetan ba servisu planeamentu família. Uzu kontrasepsaun sei ki'ik, parte ida tanba disponibilidade limitadu no barreira kulturál.
+
+Governo Timor-Leste, ho parseria husi organizasaun internasionál sira, implementa ona inisiativa sira atu lori solusaun ba asuntu sira ne'e. Política Nasionál ba Planeamentu Família nian nune'e halo esforsu atu aumenta asesu ba kontrasepsaun no edukasaun planeamentu família. Alende ne'e, programa sira ne'ebé foka ba saude inan-oina no labarik estabelese ona atu hamenus taxa mortalidade no mellora rezultadu saude jerál.
+
+Prevalénsia HIV/AIDS iha Timor-Leste relativamente ki'ik kompara ho nasaun sira seluk iha rejiaun, maibé iha preokupasaun kona-ba kresimentu potensial tanba falta sensibilizasaun no esforsu prevensaun. Planu Estratejiku Nasionál HIV/AIDS nian foka ba edukasaun, testajen, no tratamentu, ho énfaze espesiál atu hetan popul

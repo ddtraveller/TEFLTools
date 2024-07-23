@@ -1,0 +1,15 @@
+'Pontu Importante Acupressure ba Gravidez: Abordajen Natural ba Konfortu no Saúde
+
+Gravidez mak tempu ida ne'ebé provoka mudansa fisiku no emosional boot ba feto. Maske hanesan experiensia ne'ebé alegra, bele mos hamosu desconfortu no dificuldade sira. Inan sira ne'ebé espera oan buka remediu natural hodi labele sira-nia problema sira, no acupressure sai hanesan opsaun ida ne'ebé seguru no efetivu. Teknika kurasaun antiga husi Xina ne'e involve aplikasaun presaun ba pontu espesifiku iha korpus atu promove balansu no alivia sintomas. Iha artigu ida ne'e, ami sei esplora pontu importante acupressure ne'ebé bele benefisia liu durante gravidez.
+
+Acupressure bazeia ba konseitu qi (se pronunsia "chee"), ne'ebé konsidera hanesan energia vital ne'ebé la'o husi korpus liu husi dalan sira ne'ebé hanaran meridians. Liuhusi estimulasaun pontu espesifiku iha meridians sira ne'e, prátika sira nia objektivu mak atu restora balansu no promove kurasaun. Durante gravidez, pontu acupressure balun bele ajuda tebes hodi hadia desconfortu komun sira no promove bem-estar.
+
+Pontu acupressure ne'ebé uza liu husi feto sira durante gravidez mak P6, ne'ebé mós hanaran Nei Kuan. Localiza iha pulsu laran, tolu largura liman tun husi linha pulsu, pontu ida ne'e konhesidu ho nia efektividade iha alivia enjoo no moras mutuk, inklui enjoo durante oras dader. Presaun ne'ebé leet aplika ba pontu ida ne'e ba minutu balun deit bele fo aliviu boot ba feto sira ne'ebé sofre enjoo relasiona ho gravidez.
+
+Ba dor iha kotuk no ombro, ne'ebé sai keixa komun bainhira gravidez avansa, pontu GB21, ka Jian Jing, bele ajuda tebes. Pontu ne'e localiza iha piku altu liu husi muskulu ombro, metade entre baze kakorok no ponta ombro. Aplikasaun presaun leet ba pontu ida ne'e bele alivia tensaun no desconfortu iha kotuk leten no ombro.
+
+Pontu seluk importante mak LI4, ka He Gu, ne'ebé iha iha webbing entre polegar no dedu index. Pontu ida ne'e konhesidu ho nia kapasidade alivia moras no bele ajuda ba desconfortu jeral durante gravidez. Maibé, importante tebes nota katak estimulasaun ba pontu ida ne'e tenke abordajen ho kuidadu durante gravidez, tanba konsidera katak bele provoka partu iha kazu balun. Jeralmente rekomenda atu evita pontu ida ne'e iha faze tempu sedu gravidez no konsulta ho profisional saude antes uza.
+
+SP6, ka San Yin Jiao, mak pontu versaun ne'ebé iha iha koxa laran, haat largura liman leten husi tulang tornozelu. Pontu ida ne'e bele ajuda hodi hadia fatiga no edema (inflasaun), ne'ebé sai problema komun durante gravidez. Massajen leet ba pontu ida ne'e bele hadia nivel energia no redus retensaun fluidu.
+
+Ba estabilizasaun no alivia ansiedade, pontu KD1, mós hanaran Yong Quan, bele efetivu tebes. Pontu ida ne'e localiza iha sola ain, iha depressaun ne'ebé forma bainhira ain dobra. Estimulasaun ba pontu ida ne'e bele promove sentidu kalmu no redus ansiedade, ne'ebé bele benefisia liu durante altu no tun emos

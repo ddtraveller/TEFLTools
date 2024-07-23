@@ -1,0 +1,15 @@
+'Destruisaun no Persistensia Objetu Sagradu no Sítius
+
+Durante istoria, objetu sagradu no sítius importante tebes hodi forma identidade kultural no mantein tradisaun espiritual. Maibé, elementu ne'ebé bele rona ka lae husi patrimóniu kultural ne'e dala barak enfrenta ameasa destruisaun, profanasaun, no apagamentu, liuliu iha tempu kolonizasaun no tumultu polítiku. Interasaun komplexu ida ne'ebé iha entre destruisaun no persistensia bele haree iha Timor Leste, ne'ebé tradisaun sagradu lokál nafatin eziste maske iha presaun boot husi liur durante sékulu barak.
+
+Chegada misináriu portugés iha Timor Leste iha sékulu 16 simu inísiu períodu naruk ida husi destruisaun ba objetu sagradu no sítius lokál. Misináriu sira, ne'ebé haree prátika espiritual lokál hanesan superstisaun paganu, esforsa hodi destroi ka hola objetu ne'ebé ema adora. Destruisaun ne'e la'ós de'it fi'ar maibé mós halakon estrutura espiritual no sosial husi komunidade lokál. Uma sagradu, objetu rituál, no relíkiu asendentál dala barak sunu ka konfiska, hodi sai komunidade sira lakon ligasaun materiál ba mundu espiritual sira nian.
+
+Durante okupasaun Indonézia iha Timor Leste husi 1975 ba 1999, tradisaun sagradu lokál enfrenta desafiu seluk. Polítika assimilasaun kultural no modernizasaun husi governu Indonézia dala barak konflitu ho prátika tradisionál. Dalaruma sítius sagradu muda funsaun ka destroi atu halo dalan ba projetu dezenvolvimentu, bainhira rituál tradisionál desanima ka limita iha naran promosaun unidade nasional no progresu.
+
+Maske esforsu kontínuu hodi halakon prátika espiritual lokál, komunidade Timor Leste nian hatudu resisténsia extraordináriu iha mantein tradisaun sagradu sira nian. Estratéjia importante ida ne'ebé uza maka halibur objetu sagradu. Komunidade sira tau iha fatin segredu objetu rituál importante, dalaruma iha fatin klean ka iha fatin distante atu proteje kontra destruisaun ka furak. Prátika ida ne'e la'ós de'it halo objetu fi'ar maibé mós aumenta segredu no respeitu ba sira nia signifikadu.
+
+Estratéjia seluk ba persistensia maka adaptasaun rituál. Bainhira sítius sagradu tradisionál sai inaksesivel ka destroi, komunidade sira hetan maneira foun hodi halo sira nia serimónia, dala barak iha uma privadu ka iha natureza. Fleksibilidade ida ne'e permite kontinuasaun prátika espiritual maske kontestu orijinál laiha ona.
+
+Interesante liu, komunidade Timor Leste barak adapta elementu Katoliku iha sira nia sistema krensa lokál. Mista tradisaun sira ne'e hanesan estratéjia sobrevivénsia no maneira evolusaun kultural. Ho adopsaun prátika Katoliku iha liur enkuantu mantein krensa lokál iha núkleu, komunidade sira bele kontinua prátika espiritual sira nian iha naran prátika relijioza ne'ebé akseita.
+
+Persistensia objetu sagradu no sítius iha Timor Leste tau konsiderasaun importante kona-ba natureza patrimóniu kultural no identidade. Iha ida banda, mantein trad

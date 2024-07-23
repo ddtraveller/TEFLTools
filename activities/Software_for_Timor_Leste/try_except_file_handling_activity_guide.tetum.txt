@@ -1,0 +1,23 @@
+Esplikasaun:
+
+Tratamentu File: Le'e no Hakerek Dokumentus Textu
+
+Funsaun read_write_text_file demonstra oinsá hakerek no le'e husi dokumentu textu liu husi funsaun open ho modu apropriadu ("w" ba hakerek no "r" ba leitura). Deklarasaun 'with' uza hodi asegura katak file ne'e taka ho diak, maske esepsaun ruma mosu.
+
+Tratamentu File CSV
+
+Funsaun read_write_csv_file hatudu oinsá hakerek no le'e husi file CSV liu husi modulo csv. Funsaun csv.writer uza hodi hakerek linha-linha dadus ba file CSV, no csv.reader uza hodi le'e linha-linha husi file CSV.
+
+Tratamentu Esepsaun: try, except, finally
+
+Funsaun exception_handling demonstra uzu bloku try, except, no finally hodi trata esepsaun. Iha ezemplu ida ne'e, ami hakarak halo divizaun ho zero hodi kria esepsaun ZeroDivisionError, ne'ebé kaptura iha bloku except. Bloku finally sei la'o, maske esepsaun mosu ka lae.
+
+Hakerek dadus husi lista comprehension ba file
+
+Funsaun list_comprehension_to_file hatudu oinsá aumenta dadus ne'ebé kria husi lista comprehension ba file. Ami kria lista numeru kuadrado liu husi lista comprehension no depois hakerek númeru ida-idak ba file.
+
+Truque Interesante ho File
+
+Funsaun file_tricks hatudu truque balun ne'ebé ita bele halo ho file. Ami konta númeru linha iha file liu husi soma númeru linha uza espresaun generator. Ami le'e linha husi file iha ordem kontráriu liu husi uza readlines atu le'e hotu-hotu linha ba iha lista no depois itera liu husi lista ne'ebé iha ordem kontráriu.
+
+Bainhira ita halao skript ida ne'e, nia sei ezekuta funsaun hotu-hotu no demonstra aspetu diferente husi tratamentu file, tratamentu esepsaun, no truque interessante husi file. Skript ida ne'e sei kria no hakerek ba file textu (example.txt no squared_numbers.txt) no file CSV (example.csv). Nia mós sei le'e konteúdu husi file sira-ne'e no imprime sira ba konsola. Ezemplu tratamentu esepsaun sei kria de'it esepsaun ZeroDivisionError no kaptura nia, no imprime mensajen eror. Iha final, skript ida ne'e sei demonstra konta númeru linha iha file no le'e file iha ordem kontráriu. Skript ida ne'e fornese visão geral komprehensivu kona-ba tratamentu file, tratamentu file CSV no textu, tratamentu esepsaun, no teknika manipulasaun file interessante iha Python.

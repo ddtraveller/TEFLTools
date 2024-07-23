@@ -1,0 +1,84 @@
+'<!DOCTYPE html>
+<html lang="en">
+<ulu>
+    <meta charset="UTF-8">
+    <titulo>Esplikasaun Kódigu API HTML5 no Mikrodadus</titulo>
+    <estilu>
+        pre {
+            kór antesedente: #f4f4f4;
+            padding: 10px;
+        }
+    </estilu>
+</ulu>
+<isin>
+    <h1>Esplikasaun Kódigu API HTML5 no Mikrodadus</h1>
+
+    <h2>Pasu 1: Implementa API Geolokalizasaun</h2>
+    <p>API Geolokalizasaun permite recupera lokalizasaun atual uzuariu. Ne'e oinsa kódigu servisu:</p>
+    <pre>
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        document.getElementById("fatin").innerHTML = "Geolokalizasaun la suporta husi ne'e browser.";
+    }
+}
+
+function showPosition(posisaun) {
+    document.getElementById("fatin").innerHTML = "Latitude: " + posisaun.coords.latitude +
+    "&lt;br&gt;Longitude: " + posisaun.coords.longitude;
+}
+    </pre>
+    <p>Esplikasaun:</p>
+    <ul>
+        <li>Funsaun <code>getLocation()</code> verifica se browser suporta geolokalizasaun liu husi <code>navigator.geolocation</code>.</li>
+        <li>Se suporta, nia halo kasa <code>getCurrentPosition()</code> no pasa funsaun <code>showPosition</code> hanesan callback.</li>
+        <li>Funsaun <code>showPosition()</code> simu objetu posisaun no hatudu latitude no longitude.</li>
+    </ul>
+
+    <h2>Pasu 2: Implementa API Armazenamentu Lokal</h2>
+    <p>API Armazenamentu Lokal permite salva no recupera dadus lokálmente iha browser. Ne'e oinsa kódigu servisu:</p>
+    <pre>
+function saveName() {
+    var naran = document.getElementById("narán").value;
+    localStorage.setItem("narán", naran);
+    document.getElementById("naránSalvu").innerHTML = "Naran salvu: " + naran;
+}
+
+window.onload = function() {
+    var naran = localStorage.getItem("narán");
+    if (naran) {
+        document.getElementById("naránSalvu").innerHTML = "Naran salvu: " + naran;
+    }
+};
+    </pre>
+    <p>Esplikasaun:</p>
+    <ul>
+        <li>Funsaun <code>saveName()</code> recupera valor husi kampu input ho id "narán".</li>
+        <li>Nia salva naran liu husi <code>localStorage.setItem()</code>, ho "narán" hanesan xave no valor input hanesan valor.</li>
+        <li>Naran ne'ebé salvu depois hatudu liu husi <code>document.getElementById("naránSalvu").innerHTML</code>.</li>
+        <li>Iha momentu karga pájina, eventu <code>window.onload</code> recupera naran salvu liu husi <code>localStorage.getItem("narán")</code>.</li>
+        <li>Se naran eziste, nia hatudu liu husi <code>document.getElementById("naránSalvu").innerHTML</code>.</li>
+    </ul>
+
+    <h2>Pasu 3: Implementa API Rasta no Hatuun</h2>
+    <p>API Rasta no Hatuun permite rasta no hatuun elementus. Ne'e oinsa kódigu servisu:</p>
+    <pre>
+function allowDrop(ev) {
+    ev.preventDefault();
+}
+
+function drag(ev) {
+    ev.dataTransfer.setData("testu", ev.target.id);
+}
+
+function drop(ev) {
+    ev.preventDefault();
+    var dadus = ev.dataTransfer.getData("testu");
+    ev.target.appendChild(document.getElementById(dadus));
+}
+    </pre>
+    <p>Esplikasaun:</p>
+    <ul>
+        <li>Funsaun <code>allowDrop()</code> chama bainhira elementu rastadu liu husi alvu hatuun. Nia prevene behavior default.</li>
+        <li>Funsaun <code>drag()</code> chama bainhira elementu hahu rasta. Nia define dadus
