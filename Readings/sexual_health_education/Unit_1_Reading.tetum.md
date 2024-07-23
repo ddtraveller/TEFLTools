@@ -1,0 +1,15 @@
+'Komprensaun Seksualidade Umanu
+
+Seksualidade umanu mak aspetu kompleksu no multifaceted husi vida umanu ne'ebé inklui dimensaun biológika, psikológika, no sosial. Individuál sira kontinua progresu liu husi faze dezenvolvimentu sira, liuliu durante puberdade no adolesensia, iha ne'ebé sira hetan mudansa signifikativu sira ne'ebé forma sira-nia identidade seksuál no kapasidade reproduktiva. Artigu ida-ne'e iha objetivu atu fornese vizualizasaun gerál ba konseitu importante sira kona-ba seksualidade umanu, inklui sistema reproduktiva, puberdade, no orientasaun seksuál.
+
+Sistema reproduktiva umanu konsiste orgaun no estrutura espesializadu sira iha mane no feto. Iha mane, orgaun reproduktiva prinsipál mak testíkulu sira, ne'ebé prodús sélula esperma no hormona testosterona. Sistema reproduktiva feto nian inklui ováriu sira, ne'ebé prodús ovu no hormona sira hanesan estrogen no progesterone. Komprensaun ba anatomia no funsaun husi sistema sira-ne'e importante tebes atu komprende seksualidade umanu no reproduksaun.
+
+Puberdade marka milestone importante iha dezenvolvimentu seksuál umanu. Prosesu ida-ne'e, normalmente akontese entre idade 8 no 14 ba feto sira no 9 no 15 ba mane sira, involve mudansa fízika no emosionál sira ne'ebé provoka husi mudansa hormonal. Durante puberdade, korpu matura no sai kapás atu halo reproduksaun seksuál. Mudansa fízika iha mane sira inklui lian tun, kresimentu fuuk iha rai no korpu, no dezenvolvimentu muskulu. Feto sira iha jeral hetan dezenvolvimentu susun, inísiu menstruasaun, no anka ladun.
+
+Hormona sira joga papel importante iha dezenvolvimentu no funsaun seksuál. Mensajeru kímiku sira-ne'e, ne'ebé prodús husi glándula sira iha korpu, regula prosesu barak kona-ba seksualidade. Hanesan ezemplu, testosterona iha mane influénsia libido no produsaun esperma, enkuantu estrogen no progesterone iha feto sira regula siklu menstruasaun no apoiu gravidez.
+
+Siklu menstruasaun mak aspetu importante iha biologia reproduktiva feto nian. Prosesu mensal ida-ne'e involve preparasaun uterus ba gravidez potensiál, ovulasaun (libertasaun ovu husi ováriu), no, se fertilizasaun la akontese, eliminasaun fóru uterus liu husi menstruasaun. Komprensaun ba siklu ida-ne'e esensiál ba saúde reproduktiva no planeamentu família.
+
+Alende aspetu biológiku, seksualidade umanu mós involve dimensaun psikológika no sosial. Orientasaun seksuál refere ba padraun individuál nian husi atrasaun emosionál, romántiku, no seksuál ba ema seluk. Ne'e bele inklui heterossexualidade (atrasaun ba seksu opostu), homossexualidade (atrasaun ba seksu hanesan), bissexualidade (atrasaun ba seksu rua), no orientasaun seluk. Importante atu rekoñese katak orientasaun seksuál mak aspetu naturál husi diversidade umanu.
+
+Identidade géneru mak konseitu ida seluk importante iha komprensaun seksualidade umanu. Ne'e refere ba sentidu internu individuál nian kona-ba nia-an rasik hanesan mane, feto, ka géneru seluk. Maski identidade géneru normalmente akorda ho seksu biológiku, ne'e la sempre akontese. Individuál
