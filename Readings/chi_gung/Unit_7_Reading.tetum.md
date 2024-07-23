@@ -1,0 +1,15 @@
+'Qigong ba Saúde Komun
+
+Qigong, prátika antigu husi Xina ne'ebé kombina movimentu ne'ebé suave, téknika respirasaun, no meditasaun, hetan popularidade iha mundu tomak hanesan abordajen holístiku ida ba saúde no bem-estar. Tradisaun ne'ebé tinan barak nian ne'e oferese gama ezersísiu ne'ebé bele benefisia liu ba saúde problema sira hanesan moras iha kotuk, problema digestivu, no tensaun. Ho integrasaun Qigong iha rotina loron-loron, individu sira bele hetan mehora iha sira nia bem-estar no hetan alívio husi moras sira.
+
+Foku prinsipál ida husi Qigong maka manutensaun no hadia saúde kolooin. Kolooin fó papel importante tebes iha estrutura no funsaun husi ita nia isin, no ema barak hetan moras iha kotuk iha tempu ruma iha sira nia vida. Ezersísiu Qigong ba saúde kotuk normalmente enfatiza movimentu flexaun no estensaun kolooin ne'ebé suave, ne'ebé bele ajuda aumenta flexibilidade, haforsa múskulu sira ne'ebé suporta, no promove alinhamentu ne'ebé di'ak. Ezersísiu sira-ne'e normalmente envolve movimentu ne'ebé lento no kontroladu ne'ebé enkoraja prátika sira atu sai liu tan konsiente kona-ba sira nia postura no mekánika isin.
+
+Hanesan ezemplu, ezersísiu Qigong ida ne'ebé simples ba saúde kotuk bele involve hamriik ho ain hanesan largura ombro, tuun isin di'ak, no lento lento muda kolooin ba oin no kraik, vertebra husi vertebra, antes lento lento muda fila fali ba posizaun hamriik. Movimentu ne'e, bainhira halo ho atensaun no respirasaun ne'ebé di'ak, bele ajuda atu liberta tensaun iha múskulu kotuk no hadia mobilidade kolooin.
+
+Saúde digestivu maka área seluk ne'ebé Qigong bele oferese benefísiu boot. Prátika ne'e rekoñese ligasaun forte entre tensaun no problema digestivu, rekoñese katak tensaun emosionál no mentál bele manifesta hanesan diskoñesimentu físiku iha estómago. Ezersísiu Qigong ba saúde digestivu normalmente inkorpora téknika massajen abdominal, ne'ebé bele ajuda atu estimula digestaun, alivia inxasaun, no promove bem-estar gastrointestinal.
+
+Téknika massajen abdominal komun ida iha Qigong involve uza palma liman hodi massaje estómago ho movimentu sirkular, hahu husi banda liman loos kraik no muda iha direksaun orolojio. Massaje ne'e normalmente halo ho movimentu ne'ebé lento no deliberadu no bele kombina ho respirasaun funda hodi hasa'e nia efeitu. Prátika sira enkoraja atu foka sira nia atensaun ba sensasaun iha sira nia estómago durante prátika ne'e, promove koneksaun entre isin no hanoin ne'ebé sentrál ba filozofia Qigong.
+
+Alívio tensaun sei la'ós benefísiu Qigong ne'ebé rekoñesidu liu. Iha mundu ne'ebé lais, tensaun krónika sai preokupasaun saúde ida ne'ebé importante, kontribui ba gama husi problema saúde físiku no mentál. Qigong oferese varidade ezersísiu ne'ebé desenha espesifikamente atu ativa resposta relaksasaun husi isin, kontra efeitu tensaun no promove sentidu kalma no balansu.
+
+Ezersísiu Qigong ida ne'ebé simples maibé

@@ -1,0 +1,15 @@
+'Tema Sira Importante iha Textu Gnostiku
+
+Gnosticismo, ida diversidade konjuntu husi antigu ideia relijioza no sistema, sempre fasina estudiosu sira no ema ne’ebé hakarak buka espirituál ba sekulu barak. Iha nia núkleu, pensamentu Gnostiku halo roda iha konseitu husi koñesimentu ne'ebé nakloke ka "gnosis" ne'ebé esensiál ba libertasaun espirituál. Artigu ida ne’e explora tema sira importante ne'ebé iha iha textu Gnostiku, hatudu luz ba sira-nia mundu espirituál no ensinamentu sira.
+
+Konseitu ida fundamental iha literatura Gnostiku maka dualismu. Pensamentu filozofiku ida ne’e hatudu ezisténsia husi forsa rua ne'ebé kontra malu ka prinsípiu iha universu. Iha pensamentu Gnostiku, ne’e normalmente hatudu hanesan kontraste boot entre mundu espirituál, hanesan di'ak no puru, no mundu materiál, haree hanesan koruptu no iluzóriu. Perspetiva dualistiku ida ne’e influénsia barak liu ba kosmologia no étika Gnostiku.
+
+Central ba antropolójia Gnostiku maka ideia kona-ba isin-divinu. Tuir krensa ida ne’e, ema sira iha an rasik isin-divinu ida, isin espirituál ida ne’ebé presu iha isin materiál. Konseitu ida ne’e importante tebes atu komprende hanoin Gnostiku kona-ba natureza umana no dalan ba salvamentu. Objetivu husi prátika Gnostiku normalmente atu desperta no hadia isin-divinu ida ne’e, iha final hodi permite nia hamorin fila fali ba nia fonte espirituál.
+
+Kosmos Gnostiku maka populadu husi entidade espirituál oioin, entre sira ne'ebé Demiurge joga papel importante. Iha mitolojia Gnostiku, Demiurge normalmente hatudu hanesan kriador husi mundu materiál. Maibé, la'ós hanesan kriador Maromak di'ak husi relijiaun monoteistiku prinsipál, Demiurge Gnostiku normalmente hatudu hanesan ignorante, la perfeitu, ka até malévolu. Figura ida ne’e responsável ba imperfesaun husi universu físiku no algunas vezes asosia ho Maromak husi Testamentu Antigu.
+
+Figura seluk importante iha pensamentu Gnostiku maka Sophia, ne'ebé nia naran signifika "sabedoria" iha Grego. Sophia normalmente personifika hanesan entidade divina feto no joga papel importante iha mitu kria tiha barak Gnostiku. Nia asaun sira, normalmente hodi buka koñesimentu ka independénsia, normalmente liga ba orijen husi mundu materiál no prisão husi isin-divinu iha matérias.
+
+Konseitu husi gnosis rasik mak karaterístika ne'ebé define liu husi textu Gnostiku. Gnosis refere ba tipo espesiál ida husi koñesimentu ne'ebé liu duke de'it intelektuál; nia mak experiensial, intuitivu, no salvífiku. Koñesimentu ida ne’e normalmente hatudu hanesan segredu ka nakloke, aksesível de'it ba sira-ne'ebé prepara espirituálmente atu simu nia. Iha textu barak Gnostiku, atinjimentu gnosis hatudu hanesan xave ba libertasaun espirituál no fuga husi hirus husi mundu materiál.
+
+Textu Gnostiku ne'ebé di'ak liu mak hatene, "Evangelho Thomas," hatudu tema barak husi sira ne’ebé hateten ona. Koleksaun husi fraze ne'ebé atribui ba Jesus enfatiza importánsia

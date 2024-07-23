@@ -1,0 +1,13 @@
+'Biblioteka Nag Hammadi no Gnosticismu: Hatudu Matenek Antigu
+
+Iha tinan 1945, deskoberta ida ne'ebé espesial iha vila Nag Hammadi iha Ejiptu leten halo ema haree koleksaun textu antigu sira ne'ebé sai revolusaun ba ita-nia komprensaun kona-ba relijiaun Kristianizmu no Gnosticismu iha tempu antigu. Koleksaun ne'e, ne'ebé agora ema konese ho naran Biblioteka Nag Hammadi, inklui kódigu 13 ne'ebé kobre ho kulit no hanorin iha papyrus, ne'ebé kontein textu 52, barak liu husi sira ne'e ema la konese antes ka ema hanoin katak lakon ona. Documentu sira ne'e, ne'ebé data husi sékulu 3 no 4 CE, fornese ita matenek ne'ebé valor tebes kona-ba diversidade relijiaun nian iha tempu antigu, liuliu kona-ba movimentu espirituál ne'ebé misterius, Gnosticismu.
+
+Gnosticismu, ne'ebé mai husi lia Gregu "gnosis" ne'ebé signifika matenek, mak movimentu relijiaun ne'ebé kompleksu no iha aspetu barak ne'ebé sai popular iha sékulu sira komesu tempu Komun. Iha sentru, Gnosticismu hatudu importánsia husi matenek direitu, ne'ebé hetan husi esperiénsia kona-ba divinu nian hanesan dalan ba salvasaun. Konseitu gnosis ne'e liu husi komprensaun intelektuál ka fiar de'it, inklui desperta espirituál ne'ebé maka'as ba natura verdadeira ida nian no relasaun ho lala'ok divinu.
+
+Prinsípiu importante ida husi Gnosticismu mak dualizmu radikál ne'ebé iha iha sira-nia hanoin mundu. Gnostiku sira fiar katak iha diferensa boot entre lala'ok espirituál ne'ebé perfeitu no klaran, ne'ebé ema bolu Pleroma, no mundu materiál, ne'ebé sira haree hanesan sala, koruptu, no iluzóriu. Sira-nia perspetiva dualista ne'e aplika mós ba sira-nia komprensaun kona-ba natura umana, hanoin katak iha isin ida nian iha faíska divinu ida ka pneuma, ne'ebé presu iha isin materiál no la hatene kona-ba nia orijen verdadeira.
+
+Figura sentrál iha Gnostiku sira-nia kosmolojia maka Demiurge, deus ida ne'ebé kiik liu ne'ebé responsável ba kria mundu materiál. La hanesan Maromak, ne'ebé la hatene no sai iha lala'ok espirituál, Demiurge ema rai hanesan ignorante, arrogante, ka malisia. Iha textu Gnostiku balun, Demiurge identifika ho Maromak husi Testamentu Antigu, ne'ebé hamosu interpretasaun foun ba Eskritura Judaiku no Kristianu.
+
+Textu Nag Hammadi hatudu mito, ensinamentu, no prátika Gnostiku sira ne'ebé riku. Obra ida ne'ebé famozu tebes iha koleksaun mak "Evanjeliu Tomas," ne'ebé atribui ba Jesus no hatudu buka matenek ne'ebé la hatene no matenek-an. Textu sira seluk ne'ebé importante inklui "Evanjeliu Philip," "Apokrifu husi John," no "Trovaun, Hanoin Perfeitu," ne'ebé kada ida oferese perspetiva úniku kona-ba Gnosticismu no espiritualidade.
+
+Iha kosmolojia Gnostiku, ema fiar katak iha hierarkia espirituál

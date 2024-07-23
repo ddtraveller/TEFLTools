@@ -1,0 +1,15 @@
+'Fundamentus husi Respirasaun Qigong
+
+Qigong, prátika xinesa antigu ne'ebé kombina meditasaun, respirasaun kontrolladu, no movimentu suavi, hetan popularidade iha mundu tomak tanba nia benefísiu potensial ba saúde. Iha sentru husi Qigong iha téknika fundamentál ne'ebé mak hanesan respirasaun Qigong, ne'ebé fornese baze ba parte hotu-hotu husi prátika. Artigu ida ne'e esplora prinsípiu no benefísiu esensial husi respirasaun Qigong, fornese insight kona-ba oinsá téknika ida ne'e ne'ebé simples maibé maka'as bele hasa'e bem-estar jerál.
+
+Foku primáriu husi respirasaun Qigong mak iha saida prátika nian bolu "respirasaun iha karuk" ka respirasaun diafragmatika. Téknika ida ne'e signifikativamente diferente husi respirasaun hirus-matan ne'ebé povu barak halo inconscientemente durante sira-nia loron-loron. Iha respirasaun iha karuk, prátika nian foka iha expansaun abdomen iha vez husi hirus-matan durante inspirasaun. Hanesan hau tama iha pulmon, diafragma—múskulu ida ne'ebé iha forma semelhante ba kúpula lokadu iha baze pulmon—kontrai no desse, kria espasu ba pulmon hodi hetan expansaun kompletu. Aksaun ida ne'e halo karuk sai liur. Durante expirasaun, diafragma relaxa, move ba leten no ajuda hodi husik hau husi pulmon, halo karuk sai rahun.
+
+Atu prátika respirasaun iha karuk, ema normalmente tau liman ida iha hirus-matan no seluk iha abdomen. Objetivu maka atu sente liman iha abdomen sa'e no tuun ho kada respirasaun, no liman iha hirus-matan iha fatin ne'ebé aas-an. Feedback vizuál no taktikál ne'e ajuda prátika sira sai liu tan konsiente kona-ba sira-nia padraun respirasaun no halo ajustamentu nesesáriu.
+
+Respirasaun Qigong enfatiza respirasaun ne'ebé neineik, kle'an ne'ebé liso no kontrolladu. Prátika sira enkorajadu hodi respira liu husi inus, tanba ne'e ajuda hodi filtra, manas, no umidifika hau antes nia tama iha pulmon. Respirasaun tenke relaksadu no naturál, laiha forsa ka tensaun. Prátika barak rekomenda hanoin katak sira respira iha sira nia torso tomak, husi baze pelviku to'o ba kólár, hodi enkoraja respirasaun ne'ebé kompletu no expansivu.
+
+Prinsípiu xave ida husi respirasaun Qigong mak koordenasaun respirasaun ho movimentu. Iha ejersísiu Qigong barak, movimentu espesífiku ne'ebé koinidu ho inspirasaun ka expirasaun. Por ezemplu, prátika ida bele hebe sira nia liman neineik hanesan sira inspira no tuun sira hanesan sira expira. Koordenasaun ida ne'e fiar katak bele hasa'e fluxu husi qi, ka enerjia moris, liu husi isin.
+
+Konseitu husi qi sentrál ba medisina xinesa tradisionál no prátika Qigong. Prátika sira fiar katak téknika respirasaun ne'ebé di'ak bele ajuda kultiva no dirije enerjia vitál ida ne'e, promove saúde no vitalidade. Maski konseitu husi qi bele estranhu ka abstratu ba ema balun, benefísiu tangível husi respirasaun Qigong dokumentadu di'ak.
+
+Peskiza hatudu katak respirasaun dia

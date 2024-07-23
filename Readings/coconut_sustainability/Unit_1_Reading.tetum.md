@@ -1,0 +1,15 @@
+"Introdusaun ba Produsaun Niu iha Timor-Leste
+
+Produsaun niu desenpenha papel importante tebes iha ekonomia no kultura Timor-Leste, hanesan fatin prinsipal ba setor agrikultura rai laran ne'e. Nasaun ki'ik ida ne'e iha Sudeste Azia, ho nia klima tropikal no rejiaun kostal, fornese ambiente di'ak ba kultivasaun niu. Wainhira Timor-Leste kontinua dezenvolve nia indústria agrikultura, kompreensaun kona ba importansia no potensial produsaun niu sai importante liu tan.
+
+Istória kultivasaun niu iha Timor-Leste remata iha sekulu barak liu ba, ho kultura niu ne'e sai parte intrinsiku iha vida tradisional Timor oan. Durante tempu kolonizasaun Portuges no okupasaun Indonesia tuir mai, produsaun niu kontinua sai atividade agrikultura prinsipal. Ohin loron, hanesan nasaun independente, Timor-Leste esforsu atu revitaliza no espansa nia indústria niu atu suporta kresimentu ekonomia no dezenvolvimentu rurál.
+
+Produsaun niu kontribui signifikativamente ba GDP Timor-Leste no fornese serbisu ba parte boot husi populasaun, liu-liu iha área rurál. Maioria produtor niu iha rai laran ne'e maka hela fatin ki'ik, servisu iha rai limitadu ho metodu agrikultura tradisional. Agrikultor sira ne'e desempenha papel importante iha kadeia valór niu, husi kultivasaun to'o prosesamentu inisiál.
+
+Timor-Leste kultiva variedade barak husi niu, kada ida ho karakteristika no uzu ne'ebé diferente. Kategoria tolu prinsipal maka niu boot, niu ki'ik, no niu híbridu. Niu boot, hanesan Niu Boot Timor-Leste, ne'ebé di'ak ba nia rezistensia no produsaun copra ne'ebé boot, ne'ebé maka kór niu seka husi ne'ebé mina ne'e hetan. Niu ki'ik, maski ki'ik liu, produs bee ne'ebé matan liu no preferidu ba konsumu fresku. Niu híbridu, ne'ebé dezenvolve liu husi kruzamentu, hetan kria hodi kombina karakter di'ak husi niu boot no niu ki'ik, atu oferese produsaun ne'ebé di'ak liu no rezistensia ba moras.
+
+Regiaun prinsipal ba kultivasaun niu iha Timor-Leste mak iha rejiaun kostal no tera ne'ebé ki'ik. Distritu sira hanesan Manatuto, Baucau, no Viqueque di'ak liu ba produsaun niu ne'ebé boot. Rejiaun sira ne'e benefisia husi kondisaun rai ne'ebé di'ak no klima ne'ebé favorável, ne'ebé permite kresimentu niu ne'ebé di'ak.
+
+Niu iha Timor-Leste uza iha maneira barak, kontribui ba konsumu doméstiku no merkadu esporta. Produsaun copra kontinua sai atividade importante, ho mina niu sai produtu esporta ne'ebé valiozu. Alende ne'e, niu desempenha papel importante iha kulinaria tradisional Timor-Leste, uza iha pratu sira hosi kare to'o sobremesa. Versatilidade niu ne'e extende liu hosi ai-han, ho aplikasaun iha kosmetiku, artezanatu, no materiais konstrusaun.
+
+Maske nia importansia, indústria niu iha Timor-Leste enfrenta desafiu barak. Plantasaun niu ne'ebé tuan, asesu limitadu ba teknika agrikultura modernu, no instalasaun pros
