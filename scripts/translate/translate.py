@@ -115,8 +115,8 @@ def translate_directory(directory, max_words):
         return
     
     #files_to_translate = get_files_to_translate(directory)
-    files_to_translate = sorted(get_files_to_translate(directory)) 
-    #files_to_translate = sorted(get_files_to_translate(directory), reverse=True) 
+    #files_to_translate = sorted(get_files_to_translate(directory)) 
+    files_to_translate = sorted(get_files_to_translate(directory), reverse=True) 
      
     
     if not files_to_translate:
