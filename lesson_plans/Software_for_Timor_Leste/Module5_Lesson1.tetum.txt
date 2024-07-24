@@ -1,0 +1,65 @@
+'# Modulu 5: Databases no SQL
+## Lisaun 1: Introdusaun ba Relational Databases
+
+**Durasaun:** 90 minutos
+
+### Objetivus husi Lisaun:
+Husi remata husi lisaun ida ne'e, estudantes sei bele atu:
+1. Define saida mak database no Database Management System (DBMS) 
+2. Esplika konseitu ida husi relational database
+3. Identifika komponentes husi relational database (tables, rows, columns)
+4. Komprende konseitu husi keys (primariu no estranjeiru)
+5. Kria ida Entity-Relationship (ER) diagram simples
+
+### Materiais:
+- Quadro branku no markers
+- Komputador ho projetor
+- Handouts ho ezemplu husi database tables
+- Livru rekomendadu: "PostgresSQL 10 Administrator's Cookbook"
+
+### Plano husi Lisaun:
+
+1. **Introdusaun (10 minutos)**
+   - Bemvindu estudantes ba modulu Databases no SQL
+   - Hatoo lalais importansia husi databases iha dezenvolvimentu software
+   - Apresenta objetivos ba lisaun ida ne'e
+
+2. **Saida mak Database? (15 minutos)**
+   - Define database: "Koleksaun husi dadus ne'ebé persistentes"
+   - Esplika DBMS: "Sistema software ne'ebé suporta kriasaun, populasaun, no konsulta husi database"
+   - Diskute ezemplu husi databases husi mundu real (por exemplo, katalogu husi biblioteka, inventariu husi loja online)
+   - Diskusaun iha klase: Husu estudantes atu fahe ezemplu husi databases ne'ebé sira hasoru iha moris loroloron
+
+3. **Introdusaun ba Relational Databases (20 minutos)**
+   - Define relational database: "Database ida ne'ebé organiza dadus iha tables ho relasaun entre sira"
+   - Esplika komponentes prinsipais:
+     - Tables (relasaun)
+     - Rows (tuplu)
+     - Columns (atributu)
+   - Hatoo ezemplu ida husi tabela iha quadro branku (por exemplo, tabela estudantes husi konteudu ne'ebé fornese)
+   - Diskute konseitu husi schema: "Estrutura ne'ebé define organizasaun husi dadus iha database"
+
+4. **Keys iha Relational Databases (20 minutos)**
+   - Introdus konseitu husi keys
+   - Esplika Primary Key: "Subset minimu husi kampu sira ne'ebé identifika deit ida linha iha tabela ida"
+   - Diskute Foreign Key: "Kampu ida (ka grupu husi kampu sira) iha tabela ida ne'ebé refere ba primary key iha tabela seluk"
+   - Fornese ezemplu husi primary no foreign keys uza tabela estudantes no kursu sira husi dokumentu
+
+5. **Entity-Relationship (ER) Diagrams (15 minutos)**
+   - Introdus ER diagrams hanesan dalan ida atu vizualiza estrutura husi database
+   - Demonstrasaun oinsa atu kria ER diagram simples uza tabela estudantes no kursu sira
+   - Hatoo oinsa atu reprezenta relasaun sira (por exemplo, relasaun barak ba barak entre estudantes no kursu sira)
+
+6. **Atividade Pratika (10 minutos)**
+   - Fahe estudantes iha grupu kiik sira
+   - Fornese senariu ida (por exemplo, sistema biblioteka kiik ida) no husu sira atu:
+     - Identifika entidade sira (tabela sira)
+     - Define atributu sira ba kada entidade
+     - Determina primary keys
+     - Identifika relasaun sira entre entidade sira
+   - Husu grupu sira atu desenha ER diagram simples ida ba sistema sira nian
+
+7. **Konklusaun no Previsualizasaun (5 minutos)**
+   - Recapitula pontu prinsipal husi lisaun
+   - Previsualiza lisaun tuir mai: "Trabalha ho SQL"
+   - Atribui leitura husi "

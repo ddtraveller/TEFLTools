@@ -1,0 +1,82 @@
+'# Modulu 8: AI Generativa no Topiku Avansadu
+## Lisaun 3: Dezenvolvimentu Geospasial iha Python
+
+### Objetivu Lisaun
+Iha remata lisaun ida ne'e, estudante sira bele hetan kapasidade atu:
+1. Komprende baze husi dadus geospasial no konseitu GIS
+2. Konfigura ambiente Python ba dezenvolvimentu geospasial
+3. Trabalia ho formatu dadus geospasial komun ho biblioteka Python
+4. Halo operasaun no analiza geospasial baze
+5. Visualiza dadus geospasial ho Python
+
+### Durasaun
+Oras 3
+
+### Rekizitu
+- Kapasidade programasaun Python baze
+- Familiaridade ho konseitu analiza dadus
+- Komprende konseitu geografiku baze
+
+### Materiais
+- Komputador sira nebe iha Python 3.x instaladu
+- Jupyter Notebook ka IDE Python nebe preferidu
+- Dadus geospasial nebe hatama hotu (hanesan, shapefiles, GeoJSON)
+- Slide deck kona-ba konseitu geospasial no biblioteka Python
+
+### Planu Lisaun
+
+#### 1. Introdusaun ba Dezenvolvimentu Geospasial (minutu 30)
+- Revisaun kona-ba Sistema Informasaun Geográfika (GIS)
+- Tipu dadus geospasial: vetor no raster
+- Formatu arquivo geospasial komun
+- Introdusaun ba ekosistema geospasial Python
+
+#### 2. Konfigura Ambiente Python (minutu 30)
+- Instala biblioteka geospasial prinsipal: GeoPandas, Shapely, Fiona
+- Introdusaun ba GeoPandas no nia kapasidade
+- Importa no esplora dadus amostra
+
+#### 3. Trabalia ho Dadus Vetor (minutu 45)
+- Lee no hakerek shapefiles no GeoJSON
+- Operasaun geometriku baze ho Shapely
+- Junsaun espasial no superposisaun ho GeoPandas
+- Ezersisiu: Analiza dadus pontu iha poligonu
+
+#### 4. Prosesamentu Dadus Raster (minutu 30)
+- Introdusaun ba konseitu dadus raster
+- Uza Rasterio ba operasaun raster
+- Analiza no manipulasaun raster baze
+- Demonstrasaun: Hatama dadus elevasaun husi DEM
+
+#### 5. Analiza Geospasial (minutu 45)
+- Kalkula distansia no area
+- Kria buffer iha rodokarakteristika
+- Peskiza espasial no filtrasaun
+- Ezersisiu: Identifika karakteristika iha distansia espesifiku
+
+#### 6. Visualiza Dadus Geospasial (minutu 30)
+- Kria mapa ho GeoPandas no Matplotlib
+- Hatama basemaps ho Contextily
+- Personaliza aparensia mapa
+- Demonstrasaun: Kria mapa interativu ho Folium
+
+#### 7. Pergunta & Resposta no Ensera (minutu 30)
+- Revisaun konseitu prinsipal
+- Diskusaun kona-ba aplikasaun dezenvolvimentu geospasial iha mundu real
+- Rekursu ba aprendizajen adisional
+- Preve integrasaun potensial ho AI no aprendizajen makina
+
+### Atividade
+
+#### Atividade 1: Dezafiu Analiza Geospasial (minutu 25)
+- Divide estudante sira iha grupu kiik
+- Fornese kada grupu ho problema geospasial iha mundu real (hanesan, lokal otimal ba loja foun)
+- Grupu uza Python ba analiza dadus no aprezenta sira nia deskobrimentu
+
+#### Atividade 2: Kriasaun Mapa Personalizadu (minutu 20)
+- Ezersisiu individuál
+- Estudante kria mapa personalizadu hosi sira nia eskolla ho dadus fornese
+- Enkoraja kriatividade iha dezeñu mapa no reprezentasaun dadus
+
+### Avaliasaun
+- Quiz kona-b

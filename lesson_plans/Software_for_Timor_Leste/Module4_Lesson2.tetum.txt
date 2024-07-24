@@ -1,0 +1,81 @@
+'# Plano de Aula: Téknika Rezolve Problema iha Python
+
+## Durasaun: 1 semana (5 sesaun, 2 oras kada)
+
+### Sesaun 1: Introdusaun ba Rezolve Problema no Revisaun Báziku Python
+
+#### Objetivu:
+- Komprende prosesu rezolve problema
+- Revisaun bázika Python esensiál ba rezolve problema
+
+#### Materiais:
+- Komputadór ho Python instaladu
+- Papel informasaun kona-ba pasu rezolve problema
+
+#### Atividades:
+1. (20 min) Introdusaun ba rezolve problema: pasu no estratéjia
+2. (30 min) Revisaun báziku Python: variável, tipu dadus, estrutura kontrolu
+3. (40 min) Ezersísiu rezolve problema simples: konverte Celsius ba Fahrenheit ba dadus klima Timor-Leste
+4. (25 min) Diskusaun kona-ba abordajen sistemátiku ba problema
+5. (5 min) Pergunta no respota no finaliza
+
+#### Tarefa de Uma:
+Rezolve problema- problema simples Python ne'ebé relasiona ho Timor-Leste (exemplu: kalkula área plantasaun kafé)
+
+### Sesaun 2: Dekompozisaun no Funsan
+
+#### Objetivu:
+- Aprende hodi frajimentu problema kompleksu ba partikinha ki'ik
+- Prátika kria no uza funsaun iha Python
+
+#### Atividades:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (30 min) Téknika dekompozisaun problema
+3. (30 min) Funsan iha Python: definisaun, parámetru, valor returnu
+4. (35 min) Prátika: Frajimentu problema kompleksu (exemplu: analiza orsamentu Timor-Leste) ba funsaun
+5. (5 min) Pergunta no respota no finaliza
+
+#### Tarefa de Uma:
+Dekompoze no implementa solusaun ba kalkula eskala taxa iha Timor-Leste
+
+### Sesaun 3: Estrutura Dadus ba Rezolve Problema
+
+#### Objetivu:
+- Komprende oinsá hili estrutura dadus apropriadu
+- Prátika uza lista, dicionáriu, no set iha rezolve problema
+
+#### Atividades:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (30 min) Visão jeral estrutura dadus Python: lista, dicionáriu, set
+3. (40 min) Hili estrutura dadus loos ba problema diferente
+4. (25 min) Prátika: Implementa agenda kontatu ba organizasaun Timor oan nian uza dicionáriu
+5. (5 min) Pergunta no respota no finaliza
+
+#### Tarefa de Uma:
+Uza estrutura dadus apropriadu ba modelu no análize dadus produsaun agríkola Timor-Leste
+
+### Sesaun 4: Pensamentu Algoritmiku no Iterasaun
+
+#### Objetivu:
+- Dezenvolve habilidade pensamentu algoritmiku
+- Prátika uza loop no iterasaun iha rezolve problema
+
+#### Atividades:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (30 min) Pensamentu algoritmiku: rezolve problema pasu-pasu
+3. (30 min) Téknika iterasaun: loop for, loop while, komprensaun lista
+4. (35 min) Prátika: Dezenvolve algoritmu hodi buka númeru prima no implementa nia uza loop
+5. (5 min) Pergunta no respota no finaliza
+
+#### Tarefa de Uma:
+Dezenvolve no implementa algoritmu hodi analiza padraun vota iha eleisaun Timor-Leste
+
+### Sesaun 5: Tratamentu Erro no Debug
+
+#### Objetivu:
+- Aprende téknika ba tratamentu erro iha Python
+- Komprende estratéjia debug
+
+#### Atividades:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (30 min

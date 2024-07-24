@@ -1,0 +1,57 @@
+'Introdusaun (10 minutus)
+
+Esplika importánsia kona-ba mapeamentu no avaliasaun fatin iha dezeñu permaculture
+Diskute elementus xave sira ba konsidera bainhira avalia fatin ida (hanesan, topografia, fonte bee, tipo rai, vegetasaun ezistente)
+
+
+Téknika Mapeamentu (10 minutus)
+
+Apresenta téknika mapeamentu diferente sira (hanesan, mapa desenha ho liman, mapeamentu GPS, fotografia aérea)
+Demonstra oinsá atu kria mapa baze uza biblioteka Folium iha Python
+Hatudu ezemplu mapa sira ho mapa manas, áreas koloridas, no pontos interese
+
+
+Avaliasaun Fatin (10 minutus)
+
+Esplika prosesu kona-ba konduz avaliasaun fatin
+Diskute faktor sira ba konsidera bainhira avalia fatin ida (hanesan, exposisaun loron-nain, padraun anin, microclima, fluxu bee)
+
+Atividade Grupu (30 minutus)
+
+Fornese kada grupu ho mapa baze husi fatin hipotétiku
+Husu grupus sira atu konduz avaliasaun fatin bazeia ba faktor ne'ebé atribui ba sira no aumenta informasaun relevante ba mapa uza áreas koloridas, mapa manas, ka pontos interese
+Incentiva grupus sira atu uza biblioteka Folium atu kria sira nia mapa
+Fó sira kódigu fonte ba mapa amostra iha pasta script, mapping.py.
+
+Konkluzaun (10 minutus)
+
+Resuma pontos xave husi lição
+Enfatiza importánsia kona-ba mapeamentu no avaliasaun fatin iha dezeñu permaculture
+Motiva estudante sira atu aplika téknika sira ne'e iha sira nia projetu permaculture rasik
+
+Iha ne'e s ida seksaun Pontus Gramatika ba planu lição, formatadu hanesan husu:
+
+## Pontus Gramatika:
+
+- Uza preposisaun sira atu deskreve lokalizasaun no relasaun espasial:
+  - "iha mapa" kontra "iha área"
+  - "iha fatin" kontra "iha fatin"
+  - "liu husi paisajen" kontra "atraves terrenu"
+
+- Partisipa presizaun atu deskreve prosesu ne'ebé la para:
+  - "avalia fatin"
+  - "mapeia área"
+  - "konduz peskiza"
+
+- Frase kondisional ba situasaun hipotétika:
+  - "Se ita implementa dezeñu ne'e, ita sei..."
+  - "Se ita hetan fonte bee iha ne'e, bele uza ba..."
+
+- Adjetivu komparativu no superlativu ba diskusaun kona-ba funsaun fatin:
+  - "Kosta sul liu duke kosta norte."
+  - "Ne'e área apropriada liu ba kultivu."
+
+- Frase preposisional ba deskrisaun kona-ba movimentu no direksaun:
+  - "bee halai husi kosta"
+  - "padraun anin movimenta liu fatin"
+  - "exposisaun loron-nain durante loron"'

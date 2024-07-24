@@ -1,0 +1,82 @@
+'Módulo 7, Lisaun 3: Prinsípiu CI/CD no Captura Métrika
+
+## Objetivu Lisaun
+Iha remate lisaun ne'e, estudante sira sei bele:
+1. Komprende prinsípiu Integrasaun Kontínuu (CI) no Entrega/Despliegu Kontínuu (CD)
+2. Esplika benefísiu implementasaun CI/CD iha dezenvolvimentu software
+3. Identifika métrika importante hodi avalia efikásia CI/CD
+4. Estabelese pipeline CI/CD báziku ho uzu ferramenta popular
+5. Implementa captura métrika iha pipeline CI/CD
+
+## Durasaun
+3 oras
+
+## Pré-requisit
+- Kompreensaun báziku kontrolu versáun (Git)
+- Familiaridade ho containerization no Kubernetes
+- Koñesimentu báziku programasaun
+
+## Materiais
+- Repositóriu Git ho aplikasaun amostra
+- Asesu ba ferramenta CI/CD (ex: Jenkins, GitLab CI, ou GitHub Actions)
+- Cluster Kubernetes ba despliegu
+
+## Konteúdu Lisaun
+
+### 1. Introdusaun ba CI/CD (30 minutos)
+- Definisaun Integrasaun Kontínuu, Entrega Kontínuu, no Despliegu Kontínuu
+- Benefísiu CI/CD iha dezenvolvimentu software
+- Visáun jeral fluxu traballu CI/CD
+
+### 2. Prinsípiu CI/CD (45 minutos)
+- Automatiza buat hotu
+- Kontrolu versáun ba buat hotu
+- Kria dala ida, fahe dala barak
+- Fahe hanesan modalidade ba ambiente hotu
+- Fuma teste ita-nia despliegu
+- Para liña bainhira build la diak
+- Torna status build ne'ebé visível tebes
+- Adota dezenvolvimentu bazeia iha trunk
+
+### 3. Métrika Importante ba CI/CD (45 minutos)
+- Frekuénsia despliegu
+- Tempu lideransa ba mudansa
+- Tempu média ba rekuperasaun (MTTR)
+- Taxa falhansa mudansa
+- Tempu siklu
+- Cobertura kódigu
+- Durasaun build
+- Durasaun despliegu
+
+### 4. Konfigura Pipeline CI/CD Báziku (60 minutos)
+- Escolhe ferramenta CI/CD
+- Konfigura prosesu build
+- Estabelese teste automatizadu
+- Implementa despliegu automatizadu ba Kubernetes
+- Adisiona kontrolu kualidade no aprovasaun
+
+### 5. Implementa Captura Métrika (30 minutos)
+- Ferramenta ba captura métrika (ex: Prometheus, Grafana)
+- Integra captura métrika iha pipeline CI/CD
+- Kria painel ba métrika CI/CD
+
+## Atividade
+
+### Atividade 1: Diskusaun Prinsípiu CI/CD (15 minutos)
+- Divide estudante sira ba grupu ki'ik
+- Atribui kada grupu prinsípiu CI/CD ida hodi diskuti
+- Grupu sira prezenta sira-nia kompreensaun no desafiu potensial implementasaun prinsípiu
+
+### Atividade 2: Konfigura Pipeline CI/CD (45 minutos)
+- Fornese estudante sira aplikasaun amostra iha repositorio Git
+- Orienta sira hodi estabelese pipeline CI/CD báziku ho ferramenta ne'ebé escolhe
+- Implementa teste automatizadu no despliegu ba cluster Kubernetes
+
+## Avaliasaun
+- Quiz kona-ba prinsípiu no métrika CI/CD (15 minutos)
+- Ezersísiu prátiku: Amplia pipeline CI/CD ho fase adisional no captura métrika (tarefa de kaza)
+
+## Rekursu Adisional
+- Entrega Kontínuu husi Jez Humble no David Farley
+- Manual DevOps husi Gene Kim, Jez Humble, Patrick Debois, no John Willis
+- Métrika Peskiza no Avaliasaun DevOps Google (DORA): https://cloud.google.com/blog

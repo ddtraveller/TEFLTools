@@ -1,0 +1,79 @@
+'# Plano Aula: HTML Báziku II - HTML5
+
+## Durasaun: Semana ida (sesaun 5, oras 2 kada)
+
+### Sesaun 1: Elementu Semántiku HTML5 no Estrutura
+
+#### Objetivu:
+- Komprende importánsia HTML Semántiku
+- Aprende no uza elementu semántiku HTML5
+
+#### Materiais:
+- Komputadór ho editor texto no naviagdór web modernu
+- Folha kódigu HTML5
+
+#### Atividade:
+1. (20 min) Introdusaun ba HTML5 no marka semántiku
+2. (30 min) Vizualizasaun elementu semántiku: header, nav, main, article, section, aside, footer
+3. (40 min) Prátika prátika: Restrutura pájina HTML non-semántika ho elementu semántiku
+4. (25 min) Diskusaun kona-ba benefísiu HTML semántiku ba asesibilidade no SEO
+5. (5 min) Q&A no konklusaun
+
+#### Tarefa de Uma:
+Kria estrutura HTML5 semántika ba website
+
+### Sesaun 2: Formuláriu HTML no Tipu Input
+
+#### Objetivu:
+- Kria formuláriu kompleksu ho tipu input variadu
+- Komprende atributu validasaun formuláriu
+
+#### Atividade:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (30 min) Tipu input avansadu: data, tempu, kór, amplitude, etc.
+3. (30 min) Atributu validasaun formuláriu: obrigatóriu, padraun, mínimo, máximo, etc.
+4. (35 min) Prátika prátika: Kria formuláriu kompleksu
+5. (5 min) Q&A no konklusaun
+
+#### Tarefa de Uma:
+Kria formuláriu web husi uzandu amostra. Kopia arkivu no troka naran. Muda formuláriu atu trata asuntu seluk.
+
+### Sesaun 3: Multimédia no Embutidu
+
+#### Objetivu:
+- Embutidu konteúdu multimédia variadu iha HTML
+- Komprende téknika embutidu responsivu
+
+#### Atividade:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (25 min) Elementu audio no vídeo no sira-nia atributu
+3. (25 min) Embutidu mapa no konteúdu eksternu seluk
+4. (25 min) Téknika embutidu responsivu
+5. (20 min) Prátika prátika: Aumenta multimédia ba website turizmu Timor-Leste
+6. (5 min) Q&A no konklusaun
+
+### Sesaun 4: Tabela no Lista
+
+#### Objetivu:
+- Kria tabela kompleksu ho funsaun avansadu
+- Uza tipu lista diferente ho efetivu
+
+#### Atividade:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (30 min) Funsaun tabela avansadu: colspan, rowspan, caption, thead, tbody, tfoot
+3. (20 min) Estilu tabela ba legibilidade di'ak liu
+4. (20 min) Lista ordenadu, nao ordenadu, no deskrisaun
+5. (25 min) Prátika prátika: Kria tabela dadus ekonomia Timor-Leste no lista eventu kulturál
+6. (5 min) Q&A no konklusaun
+
+### Sesaun 5: APIs HTML5 no Microdata
+
+#### Objetivu:
+- Komprende APIs HTML5 báziku
+
+#### Atividade:
+1. (20 min) Revisaun sesaun anterior no tarefa de uma
+2. (30 min) Introdusaun ba API HTML5: Geolokalizasaun, Armazenamentu Lokál, Arrasta no Laiha
+3. (30 min) Microdata: konseitu no implementasaun
+4. (35 min) Prátika prátika: Implementa geolokalizasaun no microdata iha website turizmu Timor-Leste
+5. (5 min) Q&A finál no konklusa

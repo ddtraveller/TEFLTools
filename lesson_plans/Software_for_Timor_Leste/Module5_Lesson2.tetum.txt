@@ -1,0 +1,80 @@
+'Modulu 5: Baze Dadus no SQL
+Lisaun 2: Fundamentus SQL
+
+Durasaun: 90 minutus
+
+Objetivu husi Lisaun:
+Ha'u nia estudantes sei bele understands hodi remata husi ne'e lisaun:
+1. Hatene objetivu no importansia husi SQL
+2. Hakerek konsulta báziku SQL hodi kria tabela no insere dadus
+3. Uza komandu HILI hodi buka dadus husi tabela
+4. Aplika filtru báziku no ordenasaun ba konsulta SQL
+5. Halo junsaun simples entre rua tabela
+
+Materiais:
+- Komputador ho sistema baze dadus SQL ne'ebé instala ona (exemplu: PostgreSQL)
+- Projetor ba demonstrasaun
+- Handout ho referensia sintaxe SQL
+- Livru rekomendadu: "PostgreSQL 10 Administrador nia Livru Reseitu"
+
+Planu husi Lisaun:
+
+1. **Introdusaun (10 minutus)**
+   - Rekapitula konseitu sira husi lisaun anterior kona-ba baze dadus relasionál
+   - Apresenta SQL: "Lian Konsulta Estruturada ba jestaun no konsulta baze dadus relasionál"
+   - Apresenta objetivu husi lisaun ne'e
+
+2. **Báziku SQL no nia Importansia (15 minutus)**
+   - Esplika papel SQL iha jestaun baze dadus
+   - Diskute diferensa entre SQL sira (exemplu: PostgreSQL, MySQL, SQLite)
+   - Demonstrasaun estrutura báziku husi komandu SQL
+
+3. **Kria Tabela no Insere Dadus (20 minutus)**
+   - Apresenta komandu KRIA TABELA
+   - Demonstrasaun kriasaun tabela simples (exemplu: tabela estudante)
+   ```sql
+   KRIA TABELA Estudante (
+     sid CHAR(20) XAVE PRIMÁRIA,
+     naran VARCHAR(50),
+     login VARCHAR(50),
+     idade INTEGER,
+     gpa REAL
+   );
+   ```
+   - Esplika komandu INSERE BA
+   - Hatudu oinsa insere dadus ba tabela
+   ```sql
+   INSERE BA Estudante (sid, naran, login, idade, gpa)
+   VALOR ('53666', 'Jones', 'jones@cs', 18, 3.4);
+   ```
+   - Prátika orientada: Hasa'e estudante sira hodi kria tabela kursu no insere dadus
+
+4. **Buka Dadus ho HILI (20 minutus)**
+   - Apresenta komandu HILI no nia sintaxe báziku
+   - Demonstrasaun konsulta hotu-hotu koluna: `HILI * HUSI Estudante;`
+   - Hatudu oinsa hili koluna espesífiku: `HILI naran, gpa HUSI Estudante;`
+   - Esplika klauza IHA ba filtru dadus
+   ```sql
+   HILI naran, idade HUSI Estudante IHA gpa > 3.0;
+   ```
+   - Apresenta ORDENA HUSI ba ordena rezultadu
+   ```sql
+   HILI * HUSI Estudante ORDENA HUSI gpa TERSU; 
+   ```
+   - Prátika orientada: Hasa'e estudante sira hodi hakerek konsulta hodi buka no filtra dadus husi sira nia tabela kursu
+
+5. **Junsaun Tabela (15 minutus)**
+   - Esplika konseitu husi junsaun tabela
+   - Demonstrasaun junsaun INNER simples
+   ```sql
+   HILI Estudante.naran, Kursu.cid
+   HUSI Estudante
+   INNER JUNSAUN Inskrisaun IHA Estudante.sid = Inskrisaun.idEstudante
+   INNER JUNSAUN Kursu IHA Inskrisaun.cid = Kursu.cid;
+   ```
+   - Diskute importansia husi relasaun entre tabela iha junsaun
+
+6. **Atividade Prátika (10 minutus)**
+   - Fornese lista husi pergunta sira ne'ebé reker estudante sira hodi hakerek konsulta SQL
+   - Exemplu:
+     - Lista

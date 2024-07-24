@@ -1,0 +1,93 @@
+'# Modulu 6: Linux no Networking Esensiais
+## Lição 3: Introdusaun ba Bash Scripting
+
+Durasaun: 120 minutos
+
+### Objetivu Lição nian:
+To'o remata lição ne'e, estudantes sei bele:
+1. Komprende ba básiku sira husi Bash Scripting
+2. Kria no executa Bash Script simples sira
+3. Uza variável, estrutura kontrolu, no siklu iha Bash Script
+4. Implementa técnica báziku ida ba manejo erru no debugging
+
+### Material:
+- Computador CentOS Linux ka máquina virtuál ba estudante ida-ida
+- Projetor/tela ba demonstrasaun
+- Editór textu (ex: nano, vim)
+- Folheto ho referénsia husi sintaxe Bash Scripting nian
+
+### Kontornu Lição:
+
+I. Introdusaun ba Bash Scripting (15 minutos)
+   - Oinsa mak Bash Script?
+   - Tanbasá mak uza Bash Script?
+   - Estrutura báziku husi Bash Script
+
+II. Kria no Executa Bash Script (20 minutos)
+   - Kria ficheiro script
+   - Halo script sira ne'ebé bele executa (chmod +x)
+   - Linha Shebang (#!/bin/bash)
+   - Corre script sira (./ no komandu bash)
+   - Demonstrasaun no prátika
+
+III. Variável no Input (25 minutos)
+   - Deklara no uza variável
+   - Substituisaun komandu
+   - Input husi uza-ríu (komandu lee)
+   - Variável espesiál ($1, $2, $#, $@)
+   - Exercício prátika
+
+IV. Estrutura Kontrolu (30 minutos)
+   - Afirmação If-else
+   - Afirmação Kasu
+   - Siklu For
+   - Siklu While
+   - Demonstrasaun no exercício prátika
+
+V. Funsaun no Manejo Erru (20 minutos)
+   - Definisaun no chamada funsaun
+   - Valór retornu
+   - Manejo erru báziku (kódigu exit, ||, &&)
+   - Técnica debugging (set -x)
+
+VI. Exercício Prátika (15 minutos)
+   - Estudante sira hakerek script ida ne'ebé inklui variável, estrutura kontrolu, no funsaun
+
+VII. Konkluzaun no &A (5 minutos)
+   - Recapitula pontu xave
+   - Hadia perguntas sira
+
+### Konseitu Xave no Komandu atu Kobre:
+1. Kriasaun no execusaun script
+2. Variável no substituisaun komandu
+3. Estrutura kontrolu (if, kasu, for, while)
+4. Funsaun
+5. Manejo erru no debugging
+
+### Avaliasaun:
+- Observasaun ba prátika estudante nian durante seksoens prátika
+- Kompletu exercício prátika final
+- Revizaun kódigu ba script ne'ebé estudante sira hakerek
+
+### Trabalho Kaza:
+- Hakerek script Bash ida ne'ebé halo servisu manutensaun sistema (ex: rotasaun log, verifikasaun espasu disk)
+- Modifika script ezistente ida atu aumenta manejo erru no validasaun input husi uza-ríu
+
+### Recursu Adisional:
+- Manual Bash (man bash)
+- Tutorial online ba Bash Scripting
+- Exemplu script ba tarefa administrasaun sistema komun sira
+
+Iha sesaun ida ba Pontu Gramátika ba planu lição, ne'ebé foka ba pontu gramátika relevante sira no enfatiza uzu preposisaun sira iha kontestu Bash Scripting nian:
+
+## Pontu Gramátika:
+
+1. Uzu "iha" ba deskrisaun ba konteúdu script nian:
+   - Variável sira deklara *iha* script.
+   - Estrutura kontrolu uza *iha* Bash Script.
+
+2. Uzu "ba" ba deskrisaun ba propósitu script nian:
+   - Script sira hakerek *ba* automatiza tarefa.
+   - Funsaun sira define *ba* grupu komandu ne'ebé relasiona.
+
+3. Uzu "ho" ba deskrisaun ba interasaun script

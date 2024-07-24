@@ -1,0 +1,78 @@
+'# Modulu 8: Generative AI no Tópiku Avansadu
+## Lição 1: Introdusaun ba Generative AI
+
+### Objetivu Lição
+Husi lição ne'e remata, estudantes bele:
+1. Defini Generative AI no distinge husi abordajen AI tradisionál
+2. Komprende prinsípiu báziku no komponente husi modelu Generative AI
+3. Identifika aplikasaun importante no kazu uza husi Generative AI
+4. Diskute konsiderasaun etika no impaktu potensial husi Generative AI
+5. Esplora fundamentu husi modelu lingua boot (LLMs)
+
+### Durasaun
+3 horas
+
+### Prerequisitu
+- Komprende báziku kona-ba konseitu aprendizajen mákina
+- Familiaridade ho rede neural no aprendizajen profundo
+
+### Materiál
+- Aksesu ba plataforma Generative AI (exemplu, OpenAI's GPT-3 playground ka Hugging Face's model hub)
+- Slide konseitu Generative AI
+- Ezersísiu prátiku uza modelu Generative AI
+
+### Esbosu Lição
+
+#### 1. Introdusaun ba Generative AI (45 minutos)
+- Definisaun no visão jeral Generative AI
+- Kompara ho modelu AI diskriminativu
+- Komponente xave husi sistema Generative AI
+- Istória badak no avansu reseinte
+
+#### 2. Prinsípiu Generative AI (45 minutos)
+- Arquitetura rede neural uza iha modelu generativu (exemplu, GANs, VAEs, Transformers)
+- Prosesu treinu ba modelu generativu
+- Konseitu espasu latente no jerasaun dadus
+- Introdusaun ba modelu lingua boot (LLMs)
+
+#### 3. Aplikasaun no Kazu Uza (30 minutos)
+- Jerasaun testu no modelu lingua
+- Síntese imajen no vídeo
+- Jerasaun múzika no áudio
+- Jerasaun kódigu no preenchimentu
+- Deskoberta droga no dezeñu molecular
+
+#### 4. Ezersísiu Prátiku: Explora Modelu Generative AI (45 minutos)
+- Introdusaun ba plataforma Generative AI ne'ebé hili
+- Ezersísiu orijenál iha jerasaun testu ka kriasaun imajen
+- Prompt no enjenharia parametro
+
+#### 5. Konsiderasaun Etika no Impaktu Sosiál (30 minutos)
+- Abusu potensial husi Generative AI (exemplu, deepfakes, dezinformasaun)
+- Bias no justu iha modelu generativu
+- Problema direitu autór no propriedade
+- Impaktu iha traballu no indústria kriativa
+
+#### 6. Direksaun Futuru no Diskusaun (15 minutos)
+- Tendensia emergente iha Generative AI
+- Sesaun perguntas e respostas
+- Previsualiza lição avansadu sira kona-ba Generative AI
+
+### Atividade
+
+#### Atividade 1: Apresentasaun Generative AI (20 minutos)
+- Hatudu ezemplu husi output Generative AI liu husi domíniu oioin (testu, imajen, múzika, no seluk tan)
+- Envolva estudantes iha diskusaun kona-ba potensial no limitasaun husi kada ezemplu
+
+#### Atividade 2: Desafiu enjenharia prompt (25 minutos)
+- Divide estudantes ba iha grupu kiik
+- Fornese kada grupu ho modelu Generative AI no tarefa espesífika (exemplu, jera deskrisaun produtu, kria istoria badak)
+- Desafia grupu atu kria prompt efetivu hodi hetan output ne'ebé hakarak
+- Fahe no diskute rezultadu
+
+### Avaliasaun
+- Quiz kona-ba konseitu no terminolojia Generative AI (15 minutos)
+- Ezersísiu prátiku: Uza modelu Generative AI hodi kria output espesífiku (lição de casa)
+
+### Rekursu Adisional
+- "Gener

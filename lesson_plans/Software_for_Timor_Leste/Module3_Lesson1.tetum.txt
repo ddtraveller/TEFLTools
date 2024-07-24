@@ -1,0 +1,81 @@
+'# Plano Aula: Téknika Avansadu ba Spreadsheet
+
+Maioria husi planu neé presiza halo mudansa boot, maibe iha atividade barak iha ne'ebe halo ona parte boot husi servisu...
+
+## Durasaun: 1 semana (5 sesaun, 2 oras kada sesaun)
+
+### Sesaun 1: Funsaun Avansadu no Formula
+
+#### Objetivu:
+- Dominia funsaun kompleksu husi spreadsheet
+- Komprende funsaun enkadernadu no formula matriz
+
+#### Material:
+- Komputador ho software avansadu ba spreadsheet (ex: Microsoft Excel, Google Sheets)
+- Dadus kompleksu kona-ba Timor-Leste (ex: dadus ekonomia husi tinan barak)
+
+#### Atividade:
+1. (20 min) Revisaun kona-ba funsaun báziku no introdusaun ba téknika avansadu
+2. (30 min) Funsaun avansadu: INDEX, MATCH, SUMIFS, COUNTIFS
+3. (30 min) Funsaun enkadernadu no auditoria formula
+4. (35 min) Prátika: Aplika funsaun avansadu ba dadus Timor-Leste
+5. (5 min) Diskusaun no finaliza
+
+#### Tarefa ba Uma:
+Kria dashboard dinámiku ho funsaun avansadu atu analiza tendénsia ekonomia Timor-Leste
+
+### Sesaun 2: Limpeza Dadus no Validasaun
+
+#### Objetivu:
+- Aprende téknika avansadu ba limpeza dadus
+- Implementa métodu validasaun dadus ne'ebé forte
+
+#### Atividade:
+1. (20 min) Revisaun kona-ba sesaun no tarefa anterior
+2. (30 min) Limpeza dadus avansadu: hasai duplicadu, testu-ba-koluna, prenxe lais
+3. (30 min) Téknika validasaun dadus: regra personalizadu, alerta erru, mensajen input
+4. (35 min) Prátika: Limpa no valida dadus Timor-Leste ne'ebé komplikadu
+5. (5 min) Diskusaun no finaliza
+
+#### Tarefa ba Uma:
+Limpa no valida dadus kompleksu kona-ba produsaun agrikultura Timor-Leste
+
+### Sesaun 3: Pivot Table Avansadu no Power Pivot
+
+#### Objetivu:
+- Dominia karaterístika avansadu husi pivot table
+- Introdusaun ba Power Pivot ba modelu dadus
+
+#### Atividade:
+1. (20 min) Revisaun kona-ba sesaun no tarefa anterior
+2. (30 min) Karaterístika pivot table avansadu: kampu kalkuladu, slicers, timelines
+3. (40 min) Introdusaun ba Power Pivot: modelu dadus no básiku DAX
+4. (25 min) Prátika: Kria modelu dadus ba setór ekonomia Timor-Leste
+5. (5 min) Diskusaun no finaliza
+
+#### Tarefa ba Uma:
+Dezenvolve análize multi-dimensaun kona-ba GDP Timor-Leste ho Power Pivot
+
+### Sesaun 4: Macros no Báziku VBA
+
+#### Objetivu:
+- Komprende báziku husi macros no VBA
+- Kria script automatizasaun simples
+
+#### Atividade:
+1. (20 min) Revisaun kona-ba sesaun no tarefa anterior
+2. (30 min) Introdusaun ba macros: grava no halao macros
+3. (40 min) Báziku VBA: sintaxe, variável, no prosedimentu simples
+4. (25 min) Prátika: Kria macro atu formatu no summarize dadus Timor-Leste
+5. (5 min) Diskusaun no finaliza
+
+#### Tarefa ba Uma:
+Dezenvolve script VBA atu automatiza prosesu dadus repetitivu ba estatistika Timor-Leste
+
+### Sesaun 5: Gráfiku Avansadu no Visualizasaun Dadus
+
+#### Objetivu:
+- Kria gráfiku avansadu no personalizadu
+- Aprende kona-ba dashboard interaktivu
+
+####

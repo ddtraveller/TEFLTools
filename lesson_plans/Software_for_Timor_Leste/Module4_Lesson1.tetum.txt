@@ -1,0 +1,85 @@
+'Plano Aula: Algoritmu Fundamentál no Estrutura Dadus
+
+## Durasaun: 1 semana (5 sesaun, 2 oras kada sesaun)
+
+### Sesaun 1: Introdusaun ba Algoritmu no Komplexidade
+
+#### Objetivu:
+- Komprende saida mak algoritmu no sira nia importánsia
+- Aprende kona-ba komplexidade tempu no espasu
+- Apresenta Notasaun Big O
+
+#### Materiais:
+- Komputador ho Python instaladu
+- Folhetu kona-ba Notasaun Big O
+
+#### Atividades:
+1. (20 min) Introdusaun ba algoritmu: definisaun, importánsia, no ezemplu
+2. (30 min) Komplexidade tempu no espasu: konseitu no importánsia
+3. (40 min) Introdusaun ba Notasaun Big O ho ezemplu
+4. (25 min) Prátika: Analiza algoritmu simples ba komplexidade
+5. (5 min) Q&A no konklusaun
+
+#### Tarefa de Uma:
+Analiza komplexidade tempu husi algoritmu tolu ne'ebé resolve problema hanesan (ex. buka iha array)
+
+### Sesaun 2: Arrays no Lista Ligada
+
+#### Objetivu:
+- Komprende estrutura dadus array no lista ligada
+- Aprende operasaun báziku no sira nia komplexidade tempu
+- Implementa algoritmu simples uza array no lista ligada
+
+#### Atividades:
+1. (20 min) Revizaun husi sesaun anterior no tarefa de uma
+2. (30 min) Arrays: estrutura, operasaun, no komplexidade tempu
+3. (30 min) Lista Ligada: estrutura, operasaun, no komplexidade tempu
+4. (35 min) Prátika: Implementa no kompara operasaun array no lista ligada
+5. (5 min) Q&A no konklusaun
+
+#### Tarefa de Uma:
+Implementa sistema jestaun inventáriu simples ba loja lokal Timor-Leste uza array no lista ligada
+
+### Sesaun 3: Stacks no Queues
+
+#### Objetivu:
+- Komprende estrutura dadus stack no queue
+- Aprende sira nia aplikasaun no implementasaun
+- Prátika resolve problema uza stack no queue
+
+#### Atividades:
+1. (20 min) Revizaun husi sesaun anterior no tarefa de uma
+2. (30 min) Stacks: konseitu, operasaun, no aplikasaun
+3. (30 min) Queues: konseitu, operasaun, no aplikasaun
+4. (35 min) Prátika: Implementa kalkuladora bazeia iha stack no simulasaun bazeia iha queue
+5. (5 min) Q&A no konklusaun
+
+#### Tarefa de Uma:
+Uza queue atu simula sistema servisu kliente ba eskritóriu governu Timor-Leste
+
+### Sesaun 4: Algoritmu Buka no Sorteia
+
+#### Objetivu:
+- Aprende algoritmu buka fundamentál: linear no bináriu
+- Komprende algoritmu sorteia báziku: bubble sort, insertion sort, selection sort
+- Analiza komplexidade tempu husi algoritmu sira-ne'e
+
+#### Atividades:
+1. (20 min) Revizaun husi sesaun anterior no tarefa de uma
+2. (30 min) Algoritmu buka: linear no bináriu
+3. (40 min) Algoritmu sorteia: bubble sort, insertion sort, selection sort
+4. (25 min) Prátika: Implementa no kompara algoritmu buka no sorteia
+5. (5 min) Q&A no konklusaun
+
+#### Tarefa de Uma:
+Implementa programa ida ne'ebé sorteia no buka lista kidades Timor-Leste bazeia iha populasaun
+
+### Sesaun 5: Introdusaun ba Recursaun no Ai-hun
+
+#### Objetivu:
+- Komprende konseitu recursaun
+- Aprende kona-ba estrutura dadus ai-hun no sira nia aplikasaun
+- Implementa algoritmu recursivu simples no traversa ai-hun
+
+#### Atividades:
+1. (

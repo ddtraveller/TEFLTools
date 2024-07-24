@@ -1,0 +1,90 @@
+'# Modulu 6: Linux no Networking Esensiais
+## Lisaun 4: Fundamentus Networking
+
+Durasaun: Minutu 120
+
+### Objetivus Lisaun:
+Iha ne'e remata husi ne'e lisaun, estudantes sei bele:
+1. Komprende modelu OSI no sira nia nivel
+2. Esplica diferensa entre Nivel 2 no Nivel 3 networking
+3. Deskreve konseitus báziku networking hanesan endereçamento IP, subnetting, no VLANs
+4. Uza ferramentas comuns Linux networking ba solusaun problema
+
+### Materiais:
+- Komputador Linux ka mákina virtual ba kada estudante
+- Projetor/tela ba demonstrasaun
+- Handout ho terminologia networking no komandus
+
+### Esboso Lisaun:
+
+I. Introdução ba Modelus Networking (20 minutos)
+   - Modelu OSI: 7 nivel no sira nia funções
+   - Modelu TCP/IP: Relasaun ida ne'e ho OSI
+   - Foka iha Nivel 2 (Ligasaun Dadus) no Nivel 3 (Rede)
+
+II. Konseitus Networking Nivel 2 (25 minutos)
+   - Endereços MAC
+   - Quadros Ethernet
+   - Switches no bridging
+   - VLANs: Propositu no konfigurasaun básika
+   - Demonstrasaun: Uza 'ip link' atu haree no konfigura interfaces
+
+III. Konseitus Networking Nivel 3 (30 minutos)
+   - Endereçamento IP (IPv4 no introdusaun kurtu ba IPv6)
+   - Báziku subnetting
+   - Konseitus roteamento
+   - NAT no PAT
+   - Demonstrasaun: Uza komandus 'ip addr' no 'ip route'
+
+IV. Protokolus Networking Komuns (15 minutos)
+   - ARP
+   - DHCP
+   - DNS
+   - Visão geral kurtu husi TCP kontra UDP
+
+V. Ferramentas Linux Networking (25 minutos)
+   - ping: Testa koneksaun
+   - traceroute: Trasa dalan husi pakotes
+   - netstat: Haree koneksaun rede
+   - ss: Ferramenta seluk ba investiga sokets
+   - tcpdump: Kaptura no analiza tráfiku rede
+   - Prátika ho sira ne'e ferramentas
+
+VI. Ezersísiu Prátika (10 minutos)
+   - Estudantes uza ferramentas networking oioin ba diagnóstika problema rede simulada
+
+VII. Konkluzaun no Q&A (5 minutos)
+   - Recapitula pontos xave
+   - Atende kualker pergunta
+
+### Konseitus no Komandus Xave ba Kobre:
+1. Modelus OSI no TCP/IP
+2. Endereços MAC kontra endereços IP
+3. Subnetting
+4. VLANs
+5. ARP, DHCP, DNS
+6. Komandus ip link, ip addr, ip route
+7. ping, traceroute, netstat, ss, tcpdump
+
+### Avaliasaun:
+- Observasaun husi prátika estudante durante seção hands-on
+- Konkluzaun husi ezersísiu diagnóstika rede
+- Teste kurtu kona ba konseitus xave networking iha kumisamentu lisaun tuir mai
+
+### Tarefa Kasa:
+- Peskiza no hakerek relatóriu kurtu kona ba oinsa NAT funsiona no nia importansia iha networking IPv4
+- Prátika subnetting: fornese set husi problema endereçamento IP ba estudantes rezolve
+
+### Rekursus Adisionais:
+- Kalkulador subnet online
+- Wireshark ba analiza pakote liu (se tempu permite iha lisaun futuru)
+
+Iha Seksaun Pontus Gramátika ida ba planu lisaun ne'e, formatu hanesan lista Markdown:
+
+## Pontus Gramátika:
+
+1. **Diskursu Reportadu**: Bainhira diskuti diagnostiku rede, uza diskursu reportadu atu transmite informasaun husi ferramentas. Por ezemplu:
+   - Diretu: Komandu ping dehan, "Pedido expirou."
+   - Reportadu: Komandu ping indica katak pedido expirou.
+
+2. **Frases Condicionais**: Uza frases condicionais atu esplica comportament

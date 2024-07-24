@@ -1,0 +1,84 @@
+'Plano Aula: Introdusaun ba Linux
+Durasaun: 90 minutos
+Objetivu Aula:
+Iha final husi aula ida ne'e, estudante sira sei hatene:
+
+Esplika oinsa Linux no nia karakterístika prinsipal
+Komprende estrutura bázika husi sistema Linux
+Navega sistema arkivu Linux ho komandu bázika
+Uza komandu bázika ba jestaun arkivu no diretoriu
+
+Materiais:
+
+Ordenador Linux ka virtual machines ba estudante sira
+Projetor/tela ba demonstrasaun
+Folha informasaun ho komandu prinsipal Linux
+
+Estrutura Aula:
+I. Introdusaun (10 minutos)
+
+Istória badak kona ba Linux
+Karakterístika prinsipal no benefísiu husi Linux
+
+II. Estrutura Sistema Linux (15 minutos)
+
+Kernel, shell, no utilidades
+Hierarkia sistema arkivu
+Usuáriu sira no permissaun
+
+III. Navegasaun Bázika (20 minutos)
+
+Komandu pwd, cd, ls
+Caminho absolutu kontra caminho relativo
+Demonstrasaun no prátika
+
+IV. Jestaun Arkivu no Diretoriu (30 minutos)
+
+Kria diretoriu (mkdir)
+Kria no edita arkivu (touch, nano)
+Kopia, move, no hapus (cp, mv, rm)
+Demonstrasaun no prátika ho orientasaun
+
+V. Ezersísiu Prátika (10 minutos)
+
+Estudante sira halo operasaun sira iha arkivu/diretoriu
+
+VI. Konkluzaun no Q&A (5 minutos)
+
+Rekapitula pontu prinsipal
+Responde perguntas sira
+
+Avaliasaun:
+
+Observa prátika husi estudante sira
+Konkluzaun ezersísiu prátika
+Quiz kona ba komandu prinsipal iha inisiu aula oin
+
+Tarefa de Casa:
+
+Lee kapítulu introdutória kona ba Linux iha livro de estudo
+Prátika komandu bázika iha diretoriu uma
+
+Aula ida ne'e fornese vizualizasaun fundamental kona ba Linux no ajuda estudante sira atu halo prátika ho tarefa esensiál sira iha navigasaun no jestaun arkivu. Aula sira tuir mai bele kontinua husi báziku sira ne’e atu kobre tópiku avansadu sira.
+
+## Pontu Gramátika:
+
+- Uza adjetivu sira atu deskreve karakterístika Linux:
+  - Ezemplu: "Linux mak sistema operasaun ne'ebé iha fónte aberta, versátil, no seguru."
+  - Enfatisa liafuan deskriptivu sira hanesan "poderozu," "flexível," no "personalizável" bainhira diskute kona ba Linux.
+
+- Adverbiu sira atu esplika funsaun komandu sira:
+  - Ezemplu: "Komandu 'ls' efisientemente lista konteúdu diretoriu."
+  - Uza adverbiu sira hanesan "lais," "fásil," no "efikas" atu deskreve operasaun komandu.
+
+- Modu imperativu ba instrusaun sira:
+  - Ezemplu: "Tipu 'cd /home' atu muda ba diretoriu uma."
+  - Uza liafuan klaru, konkisu bainhira esplika sintaxe no uzus komandu.
+
+- Terminolojia tekniku no substantivu própriu:
+  - Ezemplu: "Kernel Linux mak komponente sentru husi sistema operasaun."
+  - Enfatisa kapitalizasaun no ortografia korretu husi termu no komandu Linux.
+
+- Frase kondisional ba esplikasaun kona ba komportamentu sistema:
+  - Ezemplu: "Karik ita uza 'sudo' molok komandu, ita bele ezekuta ho priviléjiu root."
+  - Uza estrutura se-entaun atu deskreve relasaun kauza-efekto iha operasaun Linux.'

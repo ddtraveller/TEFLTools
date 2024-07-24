@@ -1,0 +1,86 @@
+'# Modulu 7: Containerization no Deployment - Docker Báziku (2 semana)
+
+## Semana 1: Introdusaun ba Docker no Konseitu Báziku
+
+### Loron 1: Introdusaun ba Containerization no Docker
+- Lisan 1: Saida mak containerization?
+- Lisan 2: Introdusaun ba Docker no nia arquitetura
+- Atividade: Instala Docker iha mákina lokál
+
+### Loron 2: Docker Images no Containers
+- Lisan 3: Komprende Docker images
+- Lisan 4: Servisu ho Docker containers
+- Lab: Hasai imajen husi Docker Hub no hahu konteiner ida
+
+### Loron 3: Báziku Dockerfile
+- Lisan 5: Kria Dockerfile ida
+- Lisan 6: Harii Docker images personalizadu
+- Workshop: Hakerek Dockerfile ida simples no harii imajen ida
+
+### Loron 4: Komandu Docker no Siklu Vida Konteiner
+- Lisan 7: Komandu esensiál Docker
+- Lisan 8: Jestaun siklu vida konteiner
+- Lab: Prátika komandu Docker no jestaun siklu vida konteiner
+
+### Loron 5: Báziku Networking Docker
+- Lisan 9: Tipu rede Docker
+- Lisan 10: Liga konteiner sira
+- Atividade: Kria rede ida no liga konteiner sira
+
+## Semana 2: Konseitu Avansadu Docker no Deployment
+
+### Loron 6: Docker Volumes no Persistensia
+- Lisan 11: Komprende Docker volumes
+- Lisan 12: Persistensia dadus iha Docker
+- Lab: Implementa persistensia dadus ho Docker volumes
+
+### Loron 7: Docker Compose
+- Lisan 13: Introdusaun ba Docker Compose
+- Lisan 14: Hakerek arquivos docker-compose.yml
+- Workshop: Kria aplikasaun multi-konteiner ho Docker Compose
+
+### Loron 8: Prátika Seguransa Di'ak liu Docker
+- Lisan 15: Konsiderasaun seguransa iha Docker
+- Lisan 16: Implementa prátika di'ak liu seguransa Docker
+- Atividade: Seguru ambiente Docker ida
+
+### Loron 9: Docker iha CI/CD
+- Lisan 17: Integra Docker iha pipelines CI/CD
+- Lisan 18: Teste automatizadu no deployment ho Docker
+- Lab: Konfigura pipelines CI/CD simples ida ho Docker
+
+### Loron 10: Previsualizasaun Orkestrasaun Docker no Konklusaun Kursu
+- Lisan 19: Introdusaun ba orkestrasaun konteiner (previsualizasaun Kubernetes)
+- Lisan 20: Prátika di'ak liu no usa Docker iha mundu real
+- Projetu Final: Deploy aplikasaun konteinerizadu
+
+## Avaliasaun:
+- Kizitu loron-loron kona-ba konseitu xave
+- Lab prátiku no workshop
+- Projetu final: Konteineriza no deploy aplikasaun web ho Docker
+
+## Rekursu:
+- "Docker Deep Dive" husi Nigel Poulton
+- Dokumentasaun ofisiál Docker
+- Docker Hub ba esplorasaun imajen
+
+## Servisu Uma:
+- Leitura loron-loron husi "Docker Deep Dive"
+- Ezersisiu prátiku ho Docker Playground
+- Prepara parts incremental husi projetu final durante kursu
+
+Iha ne'e Sesaun Pontu Gramátika ne'ebé tailored ba planu lisaun Docker Báziku:
+
+## Pontu Gramátika:
+
+- Simplis Prezente ba deskreve konseitu no funsionalidade Docker:
+  - "Konteiner Docker *halai* aplikasaun izoladu."
+  - "Dockerfile *espesifika* oinsa harii imajen."
+
+- Modu Imperativu ba komandu Docker:
+  - "*Hasai* imajen husi Docker Hub."
+  - "*Hahu* konteiner ho opsaun espesifiku."
+
+- Prezente Perfeitu ba diskute esperiensia Docker:
+  - "Ita *kria ona* imajen personalizadu balu iha semana ne'e."
+  - "Docker *sai ti

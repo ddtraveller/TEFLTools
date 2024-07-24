@@ -1,0 +1,60 @@
+'# Modulu 8: AI Jenerativu no Topikus Avansadus
+## Likaun 2: Uza AI ba Asistensia Kódigu no Solusaun Problema
+
+### Objetivus Likaun
+Iha remata husi likaun ida-ne'e, estudante sira sei bele:
+1. Komprende kapasidade no limitasaun husi asistente kódigu ne'ebé AI mak hakerek
+2. Uza efetivamente ferramentas AI ba kódigu kompleta, jerasaun, no refatorasaun
+3. Aproveita asistensia AI ba debug no solusaun problema
+4. Avalia kritikamente kódigu no sujestoens ne'ebé AI mak produz
+5. Diskute konsiderasaun étiku no prátika di'ak liu bainhira uza AI ba kodifikasaun
+
+### Durasaun
+Oras 3
+
+### Pré-Rekizitus
+- Komprende báziku konseitu AI jenerativu
+- Familiar ho lian programasaun ida ne'ebé iha mínimu
+- Aksesu ba asistente kódigu ne'ebé AI mak hakerek (exemplu, GitHub Copilot, JetBrains AI Assistant)
+
+### Materiais
+- Komputador ho aksesu internet no software nesesáriu mak instaladu ona
+- Aksesu ba repositoriu kódigu komun ba ezersísiu kolaborativu
+- Deck slide kona-ba ferramentas asistensia kódigu AI no prátika di'ak liu
+- Folhetu ho ezemplu problema kodifikasaun no senariu
+
+### Esbosu Likaun
+
+#### 1. Introdusaun ba Asistente Kódigu ne'ebé AI mak Hakerek (minutu 30)
+- Vizaun jerál kona-ba ferramenta asistensia kódigu AI ne'ebé populár
+- Kapasidade no limitasaun husi asistente AI atuál
+- Modu asistente AI enkuadra iha fluxu traballu dezenvolvimentu software
+
+#### 2. Uza Efikaz AI ba Kódigu Kompleta no Jerasaun (minutu 45)
+- Teknika ba hakerek instrusaun efetivu
+- Demonstrasaun kona-ba kódigu kompleta no jerasaun
+- Ezersísiu prátika: Uza AI ba kompleta no jera snippet kódigu
+
+#### 3. Refatorasaun no Melloria Kódigu ho Asistensia AI (minutu 30)
+- Uza AI ba identifika área ba refatorasaun
+- Demonstrasaun kona-ba melloria kódigu ne'ebé AI mak sujere
+- Diskusaun kona-ba balansu sujestoens AI ho espertiza umana
+
+#### 4. Aproveita AI ba Debug no Solusaun Problema (minutu 45)
+- Estratéjia ba deskreve problema kódigu ba asistente AI
+- Uza AI ba jera kazu teste no identifika kazu edge
+- Ezersísiu prátika: Debug amóstra kódigu ne'ebé fornese ho asistensia AI
+
+#### 5. Avaliasaun Kritiku Kódigu ne'ebé AI mak Jera (minutu 30)
+- Importansia husi revizaun no komprende kódigu ne'ebé AI mak jera
+- Erros komuns no risku seguransa potensial
+- Estratéjia ba verifika no teste solusaun ne'ebé AI mak sujere
+
+#### 6. Konsiderasaun Étiku no Prátika Di'ak liu (minutu 30)
+- Diskusaun kona-ba impikasaun étiku husi uza AI ba kodifikasaun
+- Prátika di'ak liu ba integra asistente AI iha fluxu traballu dezenvolvimentu
+- Balansu entre aumentu produtividade ho dezenvolvimentu habilidade
+
+#### 7. Q&A no Finaliza (minutu 30)
+- Diskusaun aberta kona-ba esperiénsia estudante sira ho asistente kódigu AI
+- Responde pergunta no preokupasaun ne'ebé seidau

@@ -1,0 +1,82 @@
+'Plano Aula: Harii Verifikadór Preçu Bitcoin
+
+## Durasaun: 1 loron (3 horas)
+
+### Objetivus:
+- Komprende oinsá interage ho APIs cryptocurrency
+- Aprende hodi parse dadus JSON iha Python
+- Konstrui programa simples hodi verifica no hatudu preçus Bitcoin
+- Implementa jestaun erros báziku iha pedidus API
+
+### Materiais:
+- Komputador sira ho Python instaladu
+- Aksesu ba internet
+- Aksesu ba API preçu cryptocurrency (ex: CoinGecko)
+
+### Esbosu Sesaun:
+
+1. Introdusaun ba APIs no JSON (30 minutos)
+   a. Oinsá mak APIs?
+   b. Introdusaun ba formatu JSON
+   c. Visão geral kona-ba APIs preçu cryptocurrency
+
+2. Prepara Ambiente Dezenvolvimentu (30 minutos)
+   a. Instala biblioteka Python nesesáriu (requests)
+   b. Hetan aksesu API (se presiza)
+
+3. Fó Pedidu API iha Python (45 minutos)
+   a. Uza biblioteka requests
+   b. Manda pedidu GET ba API
+   c. Jestaun respostas API
+
+4. Tempu Deskansa (15 minutos)
+
+5. Parser Dadus JSON (30 minutos)
+   a. Konverte JSON ba objektus Python
+   b. Haree informasaun preçu relevante
+
+6. Konstrui Verifikadór Preçu Bitcoin (45 minutos)
+   a. Hakerek funsaun prinsipál hodi hetan no hatudu preçus
+   b. Implementa jestaun erros báziku
+   c. Aumenta input uzuáriu ba seleksaun moeda
+
+7. Testa no Refinamentu (15 minutos)
+   a. Testa programa ho input sira diferente
+   b. Diskute melloramentu potensial
+
+8. Klaru no Q&A (15 minutos)
+   - Diskute aplikasaun reál kona-ba verifikadór preçu
+   - Esploita ideias hodi estende programa
+
+### Tarefa Kasa:
+Estende verifikadór preçu Bitcoin hodi inklui cryptocurrency sira seluk no hatudu mudansa preçu liu husi 24 horas.
+
+### Avaliasaun:
+- Kompletu programa verifikadór preçu Bitcoin
+- Kualidade kódigu no jestaun erros
+- Tarefa kasa
+
+### Rekursu Adisional:
+- Dokumentasaun biblioteka Python requests
+- Dokumentasaun API CoinGecko
+- "Python ba Finansas" husi Yves Hilpisch (ba aplikasaun finanseiru avansadu liu)
+
+Iha seisaun Pontus Gramatika ba plano aula Verifikadór Preçu Bitcoin, enfatiza uza Nouns no Artigus:
+
+## Pontus Gramatika:
+
+- Uza artigus definitivus ("the") ho APIs ka teknolojia espesifiku:
+  - Exemplu: "API CoinGecko" ka "biblioteka requests"
+
+- Uza artigus indefinidus ("a" ka "an") bainhira introduz konseitu foun:
+  - Exemplu: "API preçu cryptocurrency" ka "pedidu API"
+
+- Nouns propiu iha kontestu programasaun no cryptocurrency:
+  - Exemplus: "Python," "Bitcoin," "JSON," "Pedidu GET"
+
+- Nouns kolektivu bainhira refere ba dadus ka grupu informasaun:
+  - Exemplus: "informasaun preçu," "dadus JSON," "respostas API"
+
+- Nouns kontavel versus nouns la kontavel iha kontestu programasaun:
+  - Kontavel: "biblioteka," "funsaun," "pedidus"
+  - La kontavel: "kódigu," "dadus," "informasaun"'

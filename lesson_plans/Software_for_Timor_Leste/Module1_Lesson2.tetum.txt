@@ -1,0 +1,86 @@
+'# Plano Aula: Introdução ba Dezenvolvimentu Husi Teste (TDD)
+
+## Durasaun: 1 semana (5 sesaun, 2 oras kada sesaun)
+## Preparasaun 
+Estudante sira presiza asesu ba git repo ho dokumentu html ne'ebé naran index.html iha root. 
+Nia tenke hatete Olá Mundo! ka buat seluk hanesan ne'e.
+Presiza iha test_index.py iha pasta ne'ebé hanesan.
+pytest.ini no .git/hooks/pre-commit presiza iha fatin hanesan mós.
+Instrusaun preparasaun iha git_repo_tdd_metrics_guide.txt maibé iha notas iha ne'e;
+```
+# Konfigura pytest atu halo teste iha check-in
+echo "[pytest]
+testpaths = .
+python_files = test_*.py
+python_classes = 
+python_functions = test_*
+addopts = -v
+" > pytest.ini
+
+# Konfigura Git hooks atu halo teste no hatoo métrika iha check-in
+mkdir -p .git/hooks
+cat > .git/hooks/pre-commit <<EOL
+#!/bin/sh
+pytest
+
+
+chmod +x .git/hooks/pre-commit
+```
+
+### Sesaun 1: Introdução ba Teste Software no TDD
+# Software mak Kontráriu
+
+1. Software mak kontráriu. Indústria halo buat sira hotu iha dalan kontráriu hosi nia ita halo buat.<br>
+Entaun, hau iha notísia di'ak ida no notísia aat ida.<br>
+Notísia aat mak, tanba buat sira hotu la hanesan, no agora ita di'ak tiha iha HTML, tempo ba teste.<br>
+Notísia di'ak mak, ita bele hakerek teste uluk no tanba ne'e ita hotu-hotu bele hetan resposta.<br>
+Mós, importante atu servi hamutuk no tanba ne'e di'ak atu ko'alia kona-ba resposta no oinsa atu halo buat ho malu.
+Ba aula ne'e, halo kopia mak kolaborasaun.
+<br>
+Hamosu atu haree teste. 
+```
+# loke dokumentu index
+with open('index.html', 'r') as file:
+    # lee buat ne'ebé iha dokumentu
+    content = file.read()
+    # husu Olá Timor Leste! iha konteúdu ne'ebé lee tiha ona
+    assert 'Olá Timor Leste!' in content
+```
+Teste ne'e programa Python ida.
+Nia sei loke dokumentu HTML hanesan ita halo semana kotuk no lee.
+Nia sei buka iha laran "Olá Timor Leste!".
+
+Atu pasa teste, ita tenke iha dokumentu ida naran index.html 
+Mós, nia tenke hatete, Olá Timor Leste!
+
+Agora, ita prepara ona atu halo teste.
+
+#### Objetivu:
+- Komprende importánsia teste software
+- Aprende konseitu no prinsípiu TDD
+- Introdução ba Métrika/Analiza Dadus
+
+#### Materiais:
+
+- git_repo_tdd_metrics_guide.txt !!!
+- Komputadór ho Python no pytest instaladu
+- Papel informativu kona-ba prinsípiu TDD
+
+#### Objetivu:
+- Aprende atu komprende teste báziku unidade uza pytest
+- Komprende oinsá atu check-in ba git kontra teste
+
+#### Atividade:
+1. (20 min) Revizaun sesaun ikus no tarefa
+2. (30 min) Hakerek funsaun teste simples ho pytest
+3. (40 min) Prátika: Estudante sira hakerek HTML atu pasa teste
+4. (25 min) Halo teste no interpreta rezultadu
+5. (5 min) Pergunta no resposta, no remata
+
+Iha ne'e seção Pontu Gramátika ba plano aula, enfatiza uza Voz Pasiva no inklui pontu gramátika relevante:
+
+## Pontu Gramátika:
+
+- Voz Pasiva: Uza barak iha dokumentasaun téknika no deskrisaun teste. Ezemplu, "Dokumentu lao," "Konteúdu ne'e lee," no "Teste lao."
+
+- Modu

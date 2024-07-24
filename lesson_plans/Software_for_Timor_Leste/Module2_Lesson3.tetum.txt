@@ -1,0 +1,92 @@
+'Plano Aula: Prinsipiu Python no Manipulasaun Dadus ho Pandas
+
+Durasaun: 2 Semana (10 sesaun, 2 oras kada ida)
+
+Semana 1: Prinsipiu Python
+
+Sesaun 1: Introdusaun ba Python
+
+Objetivu:
+- Komprende Python nia signifikadu no sira nia aplikasaun
+- Monta ambientu Python
+- Hakerek no halo fila programa Python dahuluk
+
+Atividade:
+1. (40 min) Programa "Olá, Mundu!" no sintaxe báziku
+2. (25 min) Variável, tipu dadus, no operasaun simple
+3. (5 min) Haktuir duvida no finaliza
+
+Servisu Uma: Hakerek programa ida ne'ebé kalkula área retângulo nian
+
+Sesaun 2: Strutura Kontrolu
+
+Objetivu:
+- Komprende no uza deklarasaun if-else
+- Implementa siklu (for no while)
+
+Atividade:
+1. (25 min) Revizaun husi sesaun anterior no servisu uma
+2. (30 min) Deklarasaun if-else ho ezemplu
+3. (30 min) Siklu 'for' no sira nia aplikasaun
+4. (30 min) Siklu 'while' no bainhira atu uza sira
+5. (5 min) Haktuir duvida no finaliza
+
+Servisu Uma: Hakerek programa ida ne'ebé imprime númeru prima too 50
+
+Sesaun 3: Funksaun no Modulu
+
+Objetivu:
+- Define no uza funksaun
+- Komprende konseitu modulu no deklarasaun import
+
+Atividade:
+1. (20 min) Revizaun husi sesaun anterior no servisu uma
+2. (40 min) Definisaun no xamada funksaun
+3. (30 min) Parâmetru funksaun no valor retornu
+4. (25 min) Introdusaun ba modulu no deklarasaun import
+5. (5 min) Haktuir duvida no finaliza
+
+Servisu Uma: Kria modulu ida ho funksaun ba operasaun aritmétika báziku
+
+Sesaun 4: Lista no Disionáriu
+
+Objetivu:
+- Servisu ho lista no kompreensaun lista
+- Komprende no uza disionáriu
+
+Atividade:
+1. (20 min) Revizaun husi sesaun anterior no servisu uma
+2. (35 min) Lista: kriasaun, asesu, modifikasaun
+3. (25 min) Kompreensaun lista
+4. (35 min) Disionáriu: kriasaun, asesu, modifikasaun
+5. (5 min) Haktuir duvida no finaliza
+
+Servisu Uma: Kria programa ida ne'ebé jere inventariu simple uza disionáriu
+
+Sesaun 5: Tratamentu Arquivo no Tratamentu Eksesaun
+
+Objetivu:
+- Lee husi no hakerek ba arquivo
+- Komprende no implementa tratamentu eksesaun
+
+Atividade:
+1. (20 min) Revizaun husi sesaun anterior no servisu uma
+2. (40 min) Tratamentu arquivo: leitura no hakerek arquivo testu
+3. (30 min) Tratamentu arquivo CSV
+4. (25 min) Tratamentu eksesaun: try, except, finally
+5. (5 min) Haktuir duvida no finaliza
+
+Servisu Uma: Kria programa ida ne'ebé lee arquivo CSV, halo kalkulasaun balun, no hakerek rezultadu ba arquivo foun
+
+Semana 2: Manipulasaun Dadus ho Pandas
+
+Sesaun 6: Introdusaun ba Pandas
+
+Objetivu:
+- Komprende Pandas nia signifikadu no sira nia importánsia iha manipulasaun dadus
+- Kria no manipula série Pandas no DataFrames
+
+Atividade:
+1. (25 min) Introdusaun ba Pandas no sira nia funsaun iha siénsia dadus
+2. (30 min) Instalasaun no importa Pandas
+3. (30 min) Série

@@ -1,0 +1,91 @@
+# Planu Aula: Fundamentus Git no Submisaun Tarefa Husi Git
+
+## Durasaun: 1 Semana (5 sesaun, 2 oras kada sesaun)
+
+### Sesaun 1: Introdusaun ba Kontrolu Versaun no Git
+
+#### Objetivus:
+- Komprende konseitu kontrolu versaun
+- Aprende saida mak Git no tanba sira importante
+- Instala Git iha komputador lokál
+
+#### Materiais:
+- Komputador ho asesu internet
+- Ficheiru instalasaun Git
+- Folha informasaun kona-ba konseitu kontrolu versaun
+
+#### Atividades:
+1. (20 min) Introdusaun ba kontrolu versaun: konseitu no importansia
+2. (25 min) Introdusaun ba Git: istoria, objetivu, no konseitu báziku
+3. (45 min) Orientasaun instalasaun Git iha komputador estudante nian
+4. (20 min) Konfigurasaun Git ho informasaun uzuáriu
+5. (10 min) Q&A no enseramentu
+
+#### Tarefa:
+Konfigurasaun Git kompletu no hakerek reflesaun badak kona-ba importansia kontrolu versaun
+
+### Sesaun 2: Komandu Báziku Git
+
+#### Objetivus:
+- Aprende no prátika komandu báziku Git
+- Komprende fluxu servisu Git
+
+#### Materiais:
+- Komputador ho Git instaladu
+- Folha dika kona-ba komandu báziku Git
+
+#### Atividades:
+1. (20 min) Revizaun kona-ba konseitu Git no introdusaun ba linha komandu
+2. (30 min) Demonstrasaun: Kria repositori, tau ficheiru, komit mudansa
+3. (50 min) Prátika: Estudante sira kria sira-nia repositori no halo commit
+4. (15 min) Introdusaun ba komandu status Git no log
+5. (5 min) Q&A no enseramentu
+
+#### Tarefa:
+Kria Git repositori foun ba ita-nia projetu HTML husi semana kotuk
+
+### Sesaun 3: Branching no Merging
+
+#### Objetivus:
+- Komprende konseitu Git branching
+- Aprende oinsa atu kria, muda, no merge branches
+
+#### Materiais:
+- Komputador ho Git no repositori estudante nian
+- Ajuda vizual atu explika Git branching
+
+#### Atividades:
+1. (20 min) Introdusaun ba Git branching: konseitu no uzu
+2. (25 min) Demonstrasaun: Kria, muda, no merge branches
+3. (60 min) Prátika: Estudante sira servisu ho branches iha sira-nia repositori
+4. (10 min) Diskusaun kona-ba estratéjia branching
+5. (5 min) Q&A no enseramentu
+
+#### Tarefa:
+Tau karaterístika foun ba ita-nia projetu HTML uza branch separadu, depois merge nia
+
+### Sesaun 4: Repositori Remotu no GitHub
+
+#### Objetivus:
+- Komprende konseitu repositori remotu
+- Aprende atu uza GitHub ba Git hosting remotu
+- Prátika atu fahe ba no husu husi repositori remotu
+
+#### Materiais:
+- Komputador ho Git no asesu internet
+- Instrusaun atu kria konta GitHub
+
+#### Atividades:
+1. (15 min) Introdusaun ba repositori remotu no GitHub
+2. (20 min) Orientasaun kriasaun no konfigurasaun konta GitHub
+3. (25 min) Demonstrasaun: Fahe repositori lokál ba GitHub
+4. (45 min) Prátika: Estudante sira fahe sira-nia projetu ba GitHub
+5. (10 min) Introdusaun ba husu mudansa no konseitu kolaborasaun
+6. (5 min) Q&A no enseramentu
+
+#### Objetivus:
+- Aprende atu uza Git no GitHub ba submisaun tarefa
+- Komprende fluxu servisu kolaborasaun báziku
+
+#### Materiais:
+- Komputador ho

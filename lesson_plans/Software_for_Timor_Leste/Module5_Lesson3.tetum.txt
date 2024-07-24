@@ -1,0 +1,91 @@
+'# Modulu 5: Databases no SQL
+## Lisaun 3: Fundamentu PostgreSQL
+
+**Tempu:** 90 minutos
+
+### Objetivus Lisaun:
+Iha finalidade husi lisaun ida ne'e, estudante sira sei bele:
+1. Navega interface linha komandu PostgreSQL (psql)
+2. Komprende no uza tipu dadus baziku PostgreSQL
+3. Kria no maneja databases no tabela sira iha PostgreSQL
+4. Halo operasaun manipulasaun dadus baziku (INSERT, UPDATE, DELETE)
+5. Ezekuta konsulta simples ho uza declarasaun SELECT
+
+### Matérias:
+- Komputador ho PostgreSQL instaladu
+- Projetor ba demonstrasaun
+- Folha ho kódigu segredu PostgreSQL
+- Livru rekomendadu: "PostgreSQL 10 Administrator's Cookbook"
+
+### Plano Lisaun:
+
+1. **Introdusaun (10 minutos)**
+   - Recapitula konseitu sira husi lisaun anterior
+   - Apresenta karakterístika no sintaxe espesífiku PostgreSQL
+   - Apresenta objetivus ba lisaun ida ne'e
+
+2. **Naviga psql (15 minutos)**
+   - Demonstra oinsa atu liga ba PostgreSQL ho uza psql
+   - Esplika komandu komun psql sira:
+     - `\l` (lista databases)
+     - `\c` (liga ba database ida)
+     - `\dt` (lista tabela sira)
+     - `\d table_name` (deskreve tabela)
+     - `\q` (para psql)
+   - Prátika orientadu: Halo estudante sira liga ba PostgreSQL no esplora komandu hirak ne'e
+
+3. **Tipu Dadus PostgreSQL (15 minutos)**
+   - Apresenta tipu dadus komun PostgreSQL:
+     - Tipu numérikus (INT, SERIAL, NUMERIC)
+     - Tipu karakter (VARCHAR, TEXT)
+     - Tipu Data/Tempu (DATE, TIME, TIMESTAMP)
+     - Tipu boolean
+   - Diskute kona-ba bainhira uza tipu dadus ida ne'e
+   - Demonstra oinsa atu verifica tipu dadus disponível ho uza `\dT+`
+
+4. **Kria no Maneja Databases no Tabela sira (20 minutos)**
+   - Demonstra oinsa atu kria database foun:
+     ```sql
+     CREATE DATABASE eskola;
+     ```
+   - Hatudu oinsa atu kria tabela ho tipu dadus variadu:
+     ```sql
+     CREATE TABLE estudante sira (
+       id SERIAL PRIMARY KEY,
+       naran VARCHAR(100) NOT NULL,
+       email VARCHAR(100) UNIQUE,
+       data_nasimentu DATE,
+       gpa NUMERIC(3,2)
+     );
+     ```
+   - Esplika konseitu kona-ba restriksaun sira (PRIMARY KEY, NOT NULL, UNIQUE)
+   - Prátika orientadu: Halo estudante sira kria sira-nia database no tabela rasik
+
+5. **Manipulasaun Dadus: INSERT, UPDATE, DELETE (15 minutos)**
+   - Demonstra operasaun manipulasaun dadus baziku:
+     ```sql
+     -- Insere dadus
+     INSERT INTO estudante sira (naran, email, data_nasimentu, gpa)
+     VALUES ('John Doe', 'john@example.com', '2000-01-15', 3.75);
+
+     -- Atualiza dadus
+     UPDATE estudante sira SET gpa = 3.80 WHERE naran = 'John Doe';
+
+     -- Deleta dadus
+     DELETE FROM estudante sira WHERE naran = 'John Doe';
+     ```
+   - Esplika importánsia husi cláusula WHERE iha operasaun UPDATE no DELETE
+   - Prátika orientadu: Halo estudante sira halo operasaun hirak ne'e iha sira-nia tabela rasik
+
+6. **Konsulta Baziku ho SELECT (15 minutos)**
+   - Apresenta declarasaun SELECT no sintaxe baziku
+   - Demonstra ezemplu konsulta nain:
+     ```sql
+     -- Seleta koluna hotu
+     SELECT * FROM estudante sira;
+
+     -- Seleta koluna específiku
+     SELECT naran, gpa FROM estudante sira;
+
+     -- Uza cláusula WHERE ba filtra
+     SELECT naran, gpa FROM estudante sira WHERE gpa > 3.5;

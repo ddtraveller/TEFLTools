@@ -1,0 +1,99 @@
+'Modulu 9: Projetus husi Ekipa no Rotação de Papél (2 semana)
+
+## Objetivus husi Lusaun
+Iha remata husi modulu ne'e, estudantes sei iha kapasidade atu:
+1. Forma ekipa dezenvolvimentu efetivu no komprende dinámika ekipa
+2. Kria pájina web no jogu husi molde
+3. Rota liu husi papél diferente iha ekipa dezenvolvimentu
+4. Aplika habilidade ne'ebé aprende durante kursu iha projektu prátika
+5. Apresenta no demonstra sira nia projetu ekipa
+
+## Durasaun
+2 semana (10 loron servisu)
+
+## Materiais
+- Komputadór ho ambiente dezenvolvimentu ne'ebé presiza
+- Fasilitador jestaun projetu (exemplu., Trello, GitHub Projetus)
+- Sistema kontrolu versaun (exemplu., Git)
+- Fasilitador komunikasaun (exemplu., Slack, Microsoft Teams)
+
+## Esbosu Lusaun
+
+### Loron 1: Introdusaun no Formasaun Ekipa
+1. Vizaun jeral objetivus modulu no espetativa 
+2. Ezerísiu formasaun ekipa
+3. Introdusaun ba opsaun projetu no molde
+4. Definisaun papél ekipa no responsabilidade 
+
+### Loron 2-3: Planeamentu Projetu no Setup
+1. Ekipa hili sira nia projetu
+2. Planeamentu inisiál projetu no tarefa breakdown
+3. Konfigurasaun ambiente dezenvolvimentu no kontrolu versaun
+4. Atribui papél inisiál
+
+### Loron 4-7: Dezenvolvimentu Sprint 1
+1. Reunião diária
+2. Kódigu no servisu dezenvolvimentu
+3. Xeke regular ho instrutor
+4. Revizaun no retrospektiva fim de sprint
+
+### Loron 8: Rotação de Papél
+1. Ekipa troka papél
+2. Sesaun transfere entre membru ekipa
+3. Planeamentu ba Sprint 2
+
+### Loron 9-10: Dezenvolvimentu Sprint 2 no Preparasaun Apresentasaun
+1. Dezenvolvimentu kontinua ho papél foun
+2. Preparasaun ba apresentasaun finál
+3. Limpeza kódigu no dokumentasaun
+
+### Loron 11: Apresentasaun Finál
+1. Kada ekipa aprezenta sira nia projetu
+2. Sesaun pergunta no resposta
+3. Feedback husi kolega no instrutor
+
+## Amostra Projetus
+
+Iha ne'e 6 projetus kodifikasaun diferente ne'ebé estudantes bele traballa, ho kódigu inisiál ba kada ida:
+
+### 1. Aplikasaun Web Dashboard Klima
+Aplikasaun web ne'ebé hatudu klima atual no previsaun ba sidade sira barak.
+
+Kódigu inisiál:
+(Código HTML)
+
+### 2. Sistema Jestaun Tarefa
+Aplikasaun desktop ba jestaun tarefa no projetu.
+
+Kódigu inisiál:
+(Código Python)
+
+### 3. Katalogu Produtu E-commerce
+Katalogu produtu web-based ba sitiu e-commerce.
+
+Kódigu inisiál:
+(Código JavaScript)
+
+### 4. Jogo 2D Platformer
+Jogo platformer 2D simples ho Python no Pygame.
+
+Kódigu inisiál:
+(Código Python)
+
+### 5. Dashboard Analítika Mídia Sosiál
+Aplikasaun web ne'ebé hatudu analítika ba konta mídia sosiál.
+
+Kódigu inisiál:
+(Código Python)
+
+### 6. Sistema Jestaun Inventáriu
+Aplikasaun desktop ba jestaun inventáriu iha negósiu ki'ik.
+
+Kódigu inisiál:
+(Código Python)
+
+## Avaliasaun
+- Relatóriu progresu diária husi kada ekipa
+- Avaliasaun par (peer) ba kontribuisaun membru ekipa
+- Apresentasaun no demonstrasaun projetu finál
+- Reflesaun individuál kona-b

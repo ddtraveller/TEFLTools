@@ -1,0 +1,82 @@
+# Plano Aula: Introdusaun ba R no R Studio
+
+## Durasaun: 1 semana (5 sesaun, 2 oras kada sesaun)
+
+### Sesaun 1: Introdusaun ba R no R Studio
+
+#### Objetivu:
+- Komprende saida mak R no nia aplikasaun iha analiza dadus
+- Familiariza ho interface R Studio
+- Aprende sintakse báziku R no tipu dadus
+
+#### Materiais:
+- Komputadór ho R no R Studio instaladu
+- Folha trapasaun ba R ba iniciantes
+
+#### Atividades:
+1. (20 min) Introdusaun ba R: Istória, objetivu, no aplikasaun
+2. (30 min) Pasia interface R Studio: console, editor script, ambiente, gráfiku
+3. (30 min) Sintakse báziku R: operasaun aritmétika, atribuisaun variável
+4. (35 min) Prátika: Kalkulasaun simples no manipulasaun variável
+5. (5 min) Perguntas e Respostas no finaliza
+
+#### Tarefa de Uma:
+Kompletu eskersísiu R báziku uza dadus ne'ebé relasiona ho Timor-Leste (e.g., dadus populasaun)
+
+### Sesaun 2: Estrutura Dadus iha R
+
+#### Objetivu:
+- Komprende estrutura dadus diferente iha R
+- Aprende atu kria no manipula vetores, matrizes, no quadru dadus
+
+#### Atividades:
+1. (20 min) Revizaun sesaun anterior no tarefa de uma
+2. (30 min) Vetores: kriasaun, indexasaun, no operasaun
+3. (30 min) Matrizes no array
+4. (35 min) Quadru dadus: kriasaun, asesu elementu, operasaun báziku
+5. (5 min) Perguntas e Respostas no finaliza
+
+#### Tarefa de Uma:
+Kria quadru dadus konaba distritu Timor-Leste ho atributu oioin (populasaun, área, etc.)
+
+### Sesaun 3: Importasaun Dadus no Manipulasaun Báziku
+
+#### Objetivu:
+- Aprende atu importa dadus husi fonte oioin
+- Komprende téknika manipulasaun dadus báziku
+
+#### Atividades:
+1. (20 min) Revizaun sesaun anterior no tarefa de uma
+2. (30 min) Importa dadus: read.csv(), read.table(), pacote readxl
+3. (30 min) Manipulasaun dadus báziku: subset(), merge(), aggregate()
+4. (35 min) Prátika: Importa no manipula dadus konaba Timor-Leste
+5. (5 min) Perguntas e Respostas no finaliza
+
+#### Tarefa de Uma:
+Importa dadus komplexu konaba ekonomia Timor-Leste no halo manipulasaun báziku
+
+### Sesaun 4: Visualizasaun Dadus Báziku ho R
+
+#### Objetivu:
+- Kria gráfiku báziku uza funsaun integradu R
+- Komprende prinsípiu visualizasaun dadus iha R
+
+#### Atividades:
+1. (20 min) Revizaun sesaun anterior no tarefa de uma
+2. (30 min) Funsaun plot báziku: plot(), hist(), boxplot()
+3. (30 min) Personaliza gráfiku: títulu, eixos, kores, lendas
+4. (35 min) Prátika: Kria gráfiku oioin uza dadus Timor-Leste
+5. (5 min) Perguntas e Respostas no finaliza
+
+#### Tarefa de Uma:
+Kria gráfiku informativu vizualiza tendénsia iha indikador dezenvolvimentu Timor-Leste
+
+### Sesaun 5: Introdusaun ba Analiza Dadus ho R
+
+#### Objetivu:
+- Halo analiza estatístiku báziku iha R
+- Komprende oinsá interpreta output R
+
+#### Atividades:
+1. (20 min) Revizaun sesaun anterior no tarefa de uma
+2. (30 min) Estatístika deskritiva: mean(), median(), sd(), summary

@@ -113,8 +113,10 @@ def translate_directory(directory, max_words):
     if not directory.is_dir():
         print(f"Error: {directory} is not a valid directory")
         return
-
-    files_to_translate = sorted(get_files_to_translate(directory)) #, reverse=True
+    
+    #files_to_translate = get_files_to_translate(directory)
+    files_to_translate = sorted(get_files_to_translate(directory)) 
+    #files_to_translate = sorted(get_files_to_translate(directory), reverse=True) 
      
     
     if not files_to_translate:

@@ -1,0 +1,85 @@
+'# Plano Aula: Expressões Regulárias iha Python
+
+## Durasaun: 1 semana (5 sesaun, 2 horas kada ida)
+
+### Sesaun 1: Introdução ba Expressões Regulárias
+
+#### Objetivus:
+- Komprende saida mak expressões regulárias no importánsia sira
+- Aprende sintaxe básika regex no metacaracteres
+
+#### Materiais:
+- Komputadór ho Python instala tiha ona
+- Handout ho sintaxe básika regex
+
+#### Atividades:
+1. (20 min) Introdução ba expressões regulárias: definisaun, utiliza, no importánsia
+2. (30 min) Sintaxe básika regex: caracteres literál, metacaracteres (., *, +, ?)
+3. (40 min) Prátika: kombina padrões simples
+4. (25 min) Introdução ba módulu re iha Python
+5. (5 min) Q&A no finaliza
+
+#### Trabalho de Uma:
+Hakerek padrões regex hodi kombina endereço email no número telefone iha formatu Timor-Leste
+
+### Sesaun 2: Classes de Caracteres no Quantificadores
+
+#### Objetivus:
+- Komprende no uza classes de caracteres
+- Aprende kona-ba quantificadores no sira nia utiliza
+
+#### Atividades:
+1. (20 min) Revisaun husi sesaun uluk no trabalho de uma
+2. (30 min) Classes de caracteres: [abc], [^abc], \d, \w, \s no negasaun sira
+3. (30 min) Quantificadores: *, +, ?, {n}, {n,}, {n,m}
+4. (35 min) Prátika: uza classes de caracteres no quantificadores
+5. (5 min) Q&A no finaliza
+
+#### Trabalho de Uma:
+Kria padrões regex hodi valida kódigu postal Timor-Leste no número registrasaun veículu
+
+### Sesaun 3: Âncoras, Grupos, no Referências Retroativas
+
+#### Objetivus:
+- Aprende kona-ba âncoras regex
+- Komprende agrupamentu no referências retroativas
+
+#### Atividades:
+1. (20 min) Revisaun husi sesaun uluk no trabalho de uma
+2. (25 min) Âncoras: ^, $, \b
+3. (35 min) Agrupamentu ho parênteses () no referências retroativas
+4. (35 min) Prátika: uza âncoras, grupos, no referências retroativas
+5. (5 min) Q&A no finaliza
+
+#### Trabalho de Uma:
+Hakerek regex ida hodi estrai datas husi textu, konsidera formatu data oioin ne'ebé uza iha Timor-Leste
+
+### Sesaun 4: Regex iha Python: Search no Match
+
+#### Objetivus:
+- Uza funsaun re.search() no re.match()
+- Komprende diferensa entre search no match
+
+#### Atividades:
+1. (20 min) Revisaun husi sesaun uluk no trabalho de uma
+2. (30 min) Funsaun re.search(): sintaxe no uza
+3. (30 min) Funsaun re.match(): sintaxe no uza
+4. (35 min) Prátika: buka no kombina padrões iha string Python
+5. (5 min) Q&A no finaliza
+
+#### Trabalho de Uma:
+Hakerek script Python ida ne'ebé buka no estrai naran cidade Timor nian hotu husi textu ida
+
+### Sesaun 5: Regex iha Python: Findall, Sub, no Compile
+
+#### Objetivus:
+- Aprende hodi uza funsaun re.findall() no re.sub()
+- Komprende benefísiu husi re.compile()
+
+#### Atividades:
+1. (20 min) Revisaun husi sesaun uluk no trabalho de uma
+2. (25 min) Funsaun re.findall(): buka okorrénsia hotu husi padrão ida
+3. (25 min) Funsaun re.sub(): buka no substitui uza regex
+4. (20 min) re.compile(): pre-compila padrões regex
+5. (25 min) Prátika: uza findall, sub, no compile iha script Python
+6. (5 min

@@ -1,0 +1,79 @@
+Plano Aula: Servisu, Daemons, no Tarefas Programadas iha CentOS
+
+Durasaun: 90 minutos
+
+Objetivu Aula:
+Iha final aula ida ne'e, estudante sira sei bele:
+1. Esplica konseitu servisu no daemons iha Linux
+2. Jere servisu ho komandu systemctl
+3. Konfigura no jere tarefa programada ho cron
+
+Materiais:
+- Komputador CentOS Linux ka maquina virtual ba estudante ida-idak
+- Projektor/tela ba demonstrasaun
+- Folha informasaun ho komandu prinsipál systemctl no cron
+
+Estrutura Aula:
+
+I. Introdusaun (10 minutos)
+   - Define servisu no daemons
+   - Esplica sira nia papel iha sistema Linux
+
+II. Jere servisu ho systemd (30 minutos)
+   - Introdusaun ba systemd no systemctl
+   - Komandu prinsipál systemctl:
+     - systemctl status <servisu>
+     - systemctl start/stop/restart <servisu>
+     - systemctl enable/disable <servisu>
+   - Demonstrasaun no prátika ho servisu komun (e.g., sshd, httpd)
+
+III. Lee Sistema Logs (15 minutos)
+   - Uza journalctl ba lee sistema logs
+   - Filtra logs husi servisu
+
+IV. Tarefa Programada ho cron (25 minutos)
+   - Introdusaun ba cron no crontab
+   - Sintaxe crontab
+   - Edit crontab ho crontab -e
+   - Kria no jere tarefa programada
+   - Demonstrasaun no prátika
+
+V. Ezersísiu Prátika (15 minutos)
+   - Estudante sira halo tarefa sira ne'ebé iha ligasaun ho jestaun servisu no kriasaun servisu cron
+
+VI. Konklusaun no Q&A (5 minutos)
+   - Revista pontu prinsipál
+   - Responde duvida sira
+
+Komandu Prinsipál Atu Kobre:
+(Bazeia ba folha dica CentOS ne'ebé fornese)
+
+1. systemctl start/stop/restart <servisu>
+2. systemctl enable/disable <servisu>
+3. systemctl status <servisu>
+4. servisu (ba skript init SysV antigu)
+5. chkconfig (ba jestaun servisu init SysV antigu)
+6. cron
+7. crontab -e (hodi edita crontab uzuáriu)
+8. systemctl list-unit-files (hodi lista servisu hotu disponivel)
+
+Avaliasaun:
+- Observa prátika estudante nian durante sesaun prátika
+- Kompletu ezersísiu prátika
+- Quiz badak kona-ba konseitu no komandu prinsipál iha inisiu aula oin
+
+Tarefa Uma:
+- Peskiza no hakerek relatóriu badak kona-ba servisu Linux tolu esensiál no sira nia funsaun
+- Kria servisu cron ida ne'ebé halo skript simples (e.g., registru data) kada oras
+
+Aula ida ne'e fornese esperiénsia prátiku ho jestaun servisu no programa tarefa iha CentOS, hodi aumenta baze Linux husi aula anterior. Aula ne'e enfatiza prátika ho tarefa administrativu iha mundu real.
+
+Iha ne'e seisaun Pontu Gramátika ba plano aula, formatu hanesan lista Markdown:
+
+## Pontu Gramátika:
+
+- Uza bindeiru iha adjetivu kompostu: Bainhira deskreve termu tékniku, uza bindeiru hodi liga liafuan sira ne'ebé funsiona hanesan adjetivu ida antes substantivu. Ezemplu, "prátika prátika" no "tarefa administrativu iha mundu real."
+
+- Kapitalizasaun substantivu própriu: Kapitaliza naran espesifiku sistema operativu, ferramenta, no komandu, hanesan "CentOS," "Linux," "systemd," no "systemctl." Maibé, mantein termu jerál hanesan "servisu" no "daemons" iha letra ki'ik.
+
+- Puntuasaun iha sintaxe komandu: Bainhira hakerek ezemplu komandu, uza kaixa angulár <
