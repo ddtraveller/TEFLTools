@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle"></title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="mainHeader"></h1>
+    <p id="introText"></p>
+
+    <div class="input-group">
+        <label id="incomeLabel" for="income"></label>
+        <input type="number" id="income" required>
+    </div>
+
+    <div id="expenseInputs"></div>
+
+    <h3 id="investmentInputsHeader"></h3>
+    <div id="investmentInputs">
+        <div class="input-group">
+            <label id="savingsLabel" for="savings"></label>
+            <input type="number" id="savings" required>
+            <label id="savingsRateLabel" for="savingsRate"></label>
+            <input type="number" id="savingsRate" step="0.1" required>
+        </div>
+        <div class="input-group">
+            <label id="realEstateLabel" for="realEstate"></label>
+            <input type="number" id="realEstate" required>
+            <label id="realEstateRateLabel" for="realEstateRate"></label>
+            <input type="number" id="realEstateRate" step="0.1" required>
+        </div>
+        <div class="input-group">
+            <label id="stocksLabel" for="stocks"></label>
+            <input type="number" id="stocks" required>
+            <label id="stocksRateLabel" for="stocksRate"></label>
+            <input type="number" id="stocksRate" step="0.1" required>
+        </div>
+    </div>
+
+    <button id="calculateButton"></button>
+
+    <div id="results" style="display: none;">
+        <h2 id="resultsHeader"></h2>
+        <div id="chartContainer">
+            <canvas id="budgetChart"></canvas>
+        </div>
+        <p id="balanceText"></p>
+        <div id="balance"></div>
+        <h3 id="projectionHeader"></h3>
+        <div id="projections"></div>
+    </div>
+
+    <script src="budget-calculator.js"></script>
+    <script>
+        fetch('translations.json')
+            .then(response => response.json())
+            .then(data => {
+                loadTranslations(data);
+                setupExpenseInputs(data.expenseCategories);
+            })
+            .catch(error => console.error('Error loading translations:', error));
+    </script>
+</body>
+</html>

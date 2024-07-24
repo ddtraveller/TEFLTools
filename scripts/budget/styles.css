@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+input {
+    width: 200px;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.negative {
+    color: red;
+}
+
+#chartContainer {
+    width: 400px;
+    height: 400px;
+}
+
+#investmentInputs .input-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+#investmentInputs input {
+    width: 100px;
+}
+
+#calculateButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#calculateButton:hover {
+    background-color: #45a049;
+}
+
+h1, h2, h3, h4 {
+    color: #333;
+}
+
+#projections {
+    margin-top: 20px;
+}
+
+#projections h4 {
+    margin-bottom: 5px;
+}
+
+#projections p {
+    margin: 5px 0;
+}
