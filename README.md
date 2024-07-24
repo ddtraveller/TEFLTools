@@ -234,6 +234,20 @@ All courses are regionalized for Timor Leste and inclusive of local wisdom align
 
 <img src="jpg/TL_kids2.jpg" alt="Timorese children in traditional dress" width="400"/>
 
+## Kalkulador Orsamentu Timor-Leste / Tetum Budget Calculator
+
+- [Live Calculator](https://tl-web.s3.us-west-2.amazonaws.com/budget.html)
+- [GitHub Repository](https://github.com/ddtraveller/TEFLTools/tree/main/scripts/budget)
+
+This project is a Tetum budget calculator designed specifically for use in Timor-Leste. It allows users to input their income and expenses in Tetum, the local language, making financial planning more accessible to the Timorese population. The calculator features:
+
+- Input fields for monthly income and various expense categories
+- Investment projection tools for savings, real estate, and stocks
+- Results displayed in an easy-to-understand format, including a pie chart for expense breakdown
+- Fully translated interface in Tetum, with the ability to easily switch to other languages
+
+The tool aims to promote financial literacy and help individuals in Timor-Leste better manage their personal finances. 
+
 ## Online/Offline English Exam for Progress Tracking
 
 Lista ezame ne'e iha HTML no mós fail json ne'ebé hamutuk halo ezame. 
