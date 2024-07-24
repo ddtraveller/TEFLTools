@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle"></title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles-gradebook.css">
+</head>
+<body>
+    <h1 id="mainHeader"></h1>
+    <p id="introText"></p>
+
+    <div id="initialOptions">
+        <button id="newGradebookBtn"></button>
+        <input type="file" id="loadGradebookInput" accept=".csv">
+        <label for="loadGradebookInput" id="loadGradebookLabel"></label>
+    </div>
+
+    <div id="gradebookContent" style="display: none;">
+        <div id="addOptions">
+            <button id="addStudentBtn"></button>
+            <button id="addAssignmentBtn"></button>
+        </div>
+
+        <table id="gradebookTable"></table>
+
+        <button id="saveGradebookBtn"></button>
+    </div>
+
+    <script src="gradebook.js"></script>
+    <script>
+        fetch('translations-gradebook.json')
+            .then(response => response.json())
+            .then(data => {
+                loadTranslations(data);
+                setupInitialOptions();
+            })
+            .catch(error => console.error('Error loading translations:', error));
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{
+    "pageTitle": "Livru Nota Online",
+    "mainHeader": "Livru Nota Estudante nian",
+    "introText": "Kria livru nota foun ka karik karga husi ona ne'ebé eziste ona husi arkivu CSV.",
+    "newGradebookBtn": "Kria Livru Nota Foun",
+    "loadGradebookLabel": "Karga Livru Nota husi CSV",
+    "addStudentBtn": "Tau tan Estudante",
+    "addAssignmentBtn": "Tau tan Tarefa",
+    "saveGradebookBtn": "Salva Livru Nota ba CSV",
+    "studentHeader": "Estudante",
+    "addStudentPrompt": "Favor, hakerek naran estudante:",
+    "addAssignmentPrompt": "Favor, hakerek naran tarefa:",
+    "editGradePrompt": "Favor, hakerek nota ba"
+}
