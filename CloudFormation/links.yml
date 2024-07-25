@@ -1,0 +1,132 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'CloudFormation template for Timor-Leste Information Lambda'
+
+Resources:
+  TLInfoLambdaFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: tl-info-lambda
+      Handler: index.lambda_handler
+      Role: !GetAtt LambdaExecutionRole.Arn
+      Code:
+        ZipFile: |
+          import boto3
+          import json
+          from urllib import request, parse
+          from datetime import datetime
+          import re
+
+          TOPICS = [
+              "Timor-Leste education",
+              "Timor-Leste health",
+              "Timor-Leste agriculture",
+              "Timor-Leste tourism",
+              "Timor-Leste jobs",
+              "Timor-Leste government",
+              "Timor-Leste environment",
+              "Timor-Leste news",
+              "Tetum language",
+              "Timor-Leste finance",
+              "Timor-Leste technology",
+              "Timor-Leste sports"
+          ]
+
+          def lambda_handler(event, context):
+              s3 = boto3.client('s3')
+              bucket_name = 'tl-web'
+              
+              all_results = []
+              
+              for topic in TOPICS:
+                  results = search_topic(topic)
+                  all_results.extend(results)
+              
+              today = datetime.now().strftime("%Y-%m-%d")
+              file_name = f"tl_info_{today}.json"
+              
+              s3.put_object(
+                  Bucket=bucket_name,
+                  Key=file_name,
+                  Body=json.dumps(all_results),
+                  ContentType='application/json'
+              )
+              
+              return {
+                  'statusCode': 200,
+                  'body': json.dumps(f'Successfully uploaded {file_name} to S3')
+              }
+
+          def search_topic(topic):
+              url = f"https://www.google.com/search?q={parse.quote(topic)}"
+              headers = {
+                  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+              }
+              
+              req = request.Request(url, headers=headers)
+              with request.urlopen(req) as response:
+                  page = response.read().decode('utf-8')
+              
+              results = []
+              # Simple regex-based parsing
+              links = re.findall(r'<a href="(/url\?q=.*?)"', page)
+              titles = re.findall(r'<h3 class="r".*?>(.*?)</h3>', page)
+              snippets = re.findall(r'<div class="s">.*?<span class="st">(.*?)</span>', page, re.DOTALL)
+              
+              for link, title, snippet in zip(links[:5], titles[:5], snippets[:5]):
+                  results.append({
+                      'topic': topic,
+                      'title': re.sub(r'<.*?>', '', title),
+                      'link': parse.unquote(link.split('/url?q=')[1].split('&')[0]),
+                      'snippet': re.sub(r'<.*?>', '', snippet)[:200] + '...'
+                  })
+              
+              return results
+
+      Runtime: python3.8
+      Timeout: 300
+      MemorySize: 256
+
+  LambdaExecutionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+      Policies:
+        - PolicyName: S3AccessPolicy
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:PutObject
+                Resource: 'arn:aws:s3:::tl-web/*'
+
+  DailyEventRule:
+    Type: AWS::Events::Rule
+    Properties:
+      Description: "Trigger TL Info Lambda function daily"
+      ScheduleExpression: "cron(0 0 * * ? *)"
+      State: "ENABLED"
+      Targets: 
+        - Arn: !GetAtt TLInfoLambdaFunction.Arn
+          Id: "TLInfoLambdaFunction"
+
+  PermissionForEventsToInvokeLambda: 
+    Type: AWS::Lambda::Permission
+    Properties: 
+      FunctionName: !Ref TLInfoLambdaFunction
+      Action: "lambda:InvokeFunction"
+      Principal: "events.amazonaws.com"
+      SourceArn: !GetAtt DailyEventRule.Arn
+
+Outputs:
+  LambdaFunctionArn:
+    Description: "ARN of the Lambda function"
+    Value: !GetAtt TLInfoLambdaFunction.Arn
