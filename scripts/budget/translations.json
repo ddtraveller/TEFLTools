@@ -38,5 +38,7 @@
     "rateLabel": "Taxa Interese Anual (%)",
     "defaultSavingsRate": "3.0",
     "defaultRealEstateRate": "5.0",
-    "defaultStocksRate": "7.0"
+    "defaultStocksRate": "7.0",
+    "loadBudgetBtn": "Karga Orsamentu husi CSV",
+    "saveBudgetBtn": "Rai Orsamentu ba CSV"
 }

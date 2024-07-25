@@ -10,14 +10,16 @@
 <body>
     <h1 id="mainHeader"></h1>
     <p id="introText"></p>
-
+    <div id="fileOptions">
+        <button id="loadBudgetBtn"></button>
+        <input type="file" id="loadBudgetInput" accept=".csv" style="display: none;">
+        <button id="saveBudgetBtn"></button>
+    </div>
     <div class="input-group">
         <label id="incomeLabel" for="income"></label>
         <input type="number" id="income" required>
     </div>
-
     <div id="expenseInputs"></div>
-
     <h3 id="investmentInputsHeader"></h3>
     <div id="investmentInputs">
         <div class="input-group">
@@ -39,9 +41,7 @@
             <input type="number" id="stocksRate" step="0.1" required>
         </div>
     </div>
-
     <button id="calculateButton"></button>
-
     <div id="results" style="display: none;">
         <h2 id="resultsHeader"></h2>
         <div id="chartContainer">
@@ -52,7 +52,6 @@
         <h3 id="projectionHeader"></h3>
         <div id="projections"></div>
     </div>
-
     <script src="budget-calculator.js"></script>
     <script>
         fetch('translations.json')
@@ -60,6 +59,7 @@
             .then(data => {
                 loadTranslations(data);
                 setupExpenseInputs(data.expenseCategories);
+                setupFileOptions();
             })
             .catch(error => console.error('Error loading translations:', error));
     </script>

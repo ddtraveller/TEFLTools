@@ -18,10 +18,22 @@ function loadTranslations(data) {
     document.getElementById('stocksLabel').textContent = translations.stocksLabel;
     document.getElementById('stocksRateLabel').textContent = translations.rateLabel;
 
+    // Add these lines to set the text for the new buttons
+    document.getElementById('loadBudgetBtn').textContent = translations.loadBudgetBtn;
+    document.getElementById('saveBudgetBtn').textContent = translations.saveBudgetBtn;
+
     // Set default rates
     document.getElementById('savingsRate').value = translations.defaultSavingsRate;
     document.getElementById('realEstateRate').value = translations.defaultRealEstateRate;
     document.getElementById('stocksRate').value = translations.defaultStocksRate;
+}
+
+function setupFileOptions() {
+    document.getElementById('loadBudgetBtn').addEventListener('click', () => {
+        document.getElementById('loadBudgetInput').click();
+    });
+    document.getElementById('loadBudgetInput').addEventListener('change', loadBudgetFromCSV);
+    document.getElementById('saveBudgetBtn').addEventListener('click', saveBudgetToCSV);
 }
 
 function setupExpenseInputs(categories) {
@@ -118,11 +130,68 @@ function displayProjections(investments, rates) {
     });
 }
 
+function loadBudgetFromCSV(event) {
+    const file = event.target.files[0];
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        const csv = e.target.result;
+        const lines = csv.split('\n');
+        const headers = lines[0].split(',');
+        const values = lines[1].split(',');
+
+        document.getElementById('income').value = values[0];
+
+        translations.expenseCategories.forEach((category, index) => {
+            document.getElementById(category).value = values[index + 1];
+        });
+
+        document.getElementById('savings').value = values[values.length - 6];
+        document.getElementById('savingsRate').value = values[values.length - 5];
+        document.getElementById('realEstate').value = values[values.length - 4];
+        document.getElementById('realEstateRate').value = values[values.length - 3];
+        document.getElementById('stocks').value = values[values.length - 2];
+        document.getElementById('stocksRate').value = values[values.length - 1];
+
+        calculateBudget();
+    };
+    reader.readAsText(file);
+}
+
+function saveBudgetToCSV() {
+    let csv = 'Income,';
+    csv += translations.expenseCategories.join(',') + ',';
+    csv += 'Savings,SavingsRate,RealEstate,RealEstateRate,Stocks,StocksRate\n';
+
+    csv += document.getElementById('income').value + ',';
+    translations.expenseCategories.forEach(category => {
+        csv += (document.getElementById(category).value || '0') + ',';
+    });
+    csv += document.getElementById('savings').value + ',';
+    csv += document.getElementById('savingsRate').value + ',';
+    csv += document.getElementById('realEstate').value + ',';
+    csv += document.getElementById('realEstateRate').value + ',';
+    csv += document.getElementById('stocks').value + ',';
+    csv += document.getElementById('stocksRate').value;
+
+    const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    if (link.download !== undefined) {
+        const url = URL.createObjectURL(blob);
+        link.setAttribute('href', url);
+        link.setAttribute('download', 'budget.csv');
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+}
+
 // Initial setup
 fetch('translations.json')
     .then(response => response.json())
     .then(data => {
         loadTranslations(data);
         setupExpenseInputs(data.expenseCategories);
+        setupFileOptions();
     })
     .catch(error => console.error('Error loading translations:', error));

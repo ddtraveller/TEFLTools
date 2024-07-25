@@ -252,6 +252,11 @@ The tool aims to promote financial literacy and help individuals in Timor-Leste 
 - [Live Gradebook](https://tl-web.s3.us-west-2.amazonaws.com/gradebook.html)
 - [GitHub Repository](https://github.com/ddtraveller/TEFLTools/tree/main/scripts/gradebook)
 
+The gradebook allows teachers to add students and assignments.
+Then, the teacher can assign points for each assignment to their students.
+The teacher can also change the worth in points of each assignment by clicking on it.
+There is a button to calculate the final grade percentage.
+Also, teachers can save or load the gradebook in csv format so it can be loaded into a spreadsheet program.
 
 ## Online/Offline English Exam for Progress Tracking
 
