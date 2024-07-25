@@ -260,19 +260,21 @@ Also, teachers can save or load the gradebook in csv format so it can be loaded 
 
 ## Timor Leste Links
 - [Timor Leste Links](https://tl-web.s3.us-west-2.amazonaws.com/links.html)
-This website updates daily with results from a programatic Google web search on the following topics;
-    "Timor-Leste education",
-    "Timor-Leste health",
-    "Timor-Leste agriculture",
-    "Timor-Leste tourism",
-    "Timor-Leste jobs",
-    "Timor-Leste government",
-    "Timor-Leste environment",
-    "Timor-Leste news",
-    "Tetum language",
-    "Timor-Leste finance",
-    "Timor-Leste technology",
-    "Timor-Leste sports"
+- [GitHub Repository] (https://github.com/ddtraveller/TEFLTools/blob/main/scripts/links/lambda_handler.py)
+
+This website updates daily with results from a programmatic Google web search on the following topics;
+- "Timor-Leste education",
+- "Timor-Leste health",
+- "Timor-Leste agriculture",
+- "Timor-Leste tourism",
+- "Timor-Leste jobs",
+- "Timor-Leste government",
+- "Timor-Leste environment",
+- "Timor-Leste news",
+- "Tetum language",
+- "Timor-Leste finance",
+- "Timor-Leste technology",
+- "Timor-Leste sports"
 
 ## Online/Offline English Exam for Progress Tracking
 
