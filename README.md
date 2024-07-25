@@ -258,6 +258,22 @@ The teacher can also change the worth in points of each assignment by clicking o
 There is a button to calculate the final grade percentage.
 Also, teachers can save or load the gradebook in csv format so it can be loaded into a spreadsheet program.
 
+## Timor Leste Links
+- [Timor Leste Links](https://tl-web.s3.us-west-2.amazonaws.com/links.html)
+This website updates daily with results from a programatic Google web search on the following topics;
+    "Timor-Leste education",
+    "Timor-Leste health",
+    "Timor-Leste agriculture",
+    "Timor-Leste tourism",
+    "Timor-Leste jobs",
+    "Timor-Leste government",
+    "Timor-Leste environment",
+    "Timor-Leste news",
+    "Tetum language",
+    "Timor-Leste finance",
+    "Timor-Leste technology",
+    "Timor-Leste sports"
+
 ## Online/Offline English Exam for Progress Tracking
 
 Lista ezame ne'e iha HTML no mós fail json ne'ebé hamutuk halo ezame. 
