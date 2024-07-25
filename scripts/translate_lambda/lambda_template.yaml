@@ -1,0 +1,59 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'CloudFormation template for English to Tetum Translator Lambda'
+
+Parameters:
+  LambdaBucket:
+    Type: String
+    Default: 'tl-web'
+    Description: 'S3 bucket containing the Lambda deployment package'
+  
+  LambdaZipFile:
+    Type: String
+    Default: 'EnglishToTetumTranslator.zip'
+    Description: 'Name of the Lambda deployment package ZIP file'
+
+  AnthropicApiKey:
+    Type: String
+    NoEcho: true
+    Description: 'Anthropic API Key'
+
+Resources:
+  EnglishToTetumTranslatorRole:
+    Type: 'AWS::IAM::Role'
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: 'sts:AssumeRole'
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+
+  EnglishToTetumTranslatorFunction:
+    Type: 'AWS::Lambda::Function'
+    Properties:
+      FunctionName: EnglishToTetumTranslator
+      Handler: lambda_function.lambda_handler
+      Role: !GetAtt EnglishToTetumTranslatorRole.Arn
+      Code:
+        S3Bucket: !Ref LambdaBucket
+        S3Key: !Ref LambdaZipFile
+      Runtime: python3.9
+      Timeout: 300
+      MemorySize: 256
+      Environment:
+        Variables:
+          ANTHROPIC_API_KEY: !Ref AnthropicApiKey
+
+  EnglishToTetumTranslatorFunctionUrl:
+    Type: 'AWS::Lambda::Url'
+    Properties:
+      AuthType: NONE
+      TargetFunctionArn: !Ref EnglishToTetumTranslatorFunction
+
+Outputs:
+  LambdaFunctionUrl:
+    Description: 'URL for the Lambda function'
+    Value: !GetAtt EnglishToTetumTranslatorFunctionUrl.FunctionUrl
