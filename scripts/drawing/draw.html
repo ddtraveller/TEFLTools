@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tet">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle"></title>
+    <link rel="stylesheet" href="styles-drawing.css">
+</head>
+<body>
+    <h1 id="mainHeader"></h1>
+    <div id="toolbox">
+        <input type="color" id="colorPicker">
+        <input type="range" id="brushSize" min="1" max="50" value="5">
+        <button id="clearBtn"></button>
+        <button id="saveBtn"></button>
+    </div>
+    <canvas id="drawingCanvas"></canvas>
+    <script src="drawing.js"></script>
+    <script>
+        fetch('translations-drawing.json')
+            .then(response => response.json())
+            .then(data => {
+                loadTranslations(data);
+                setupDrawingApp();
+            })
+            .catch(error => console.error('Error loading translations:', error));
+    </script>
+</body>
+</html>
