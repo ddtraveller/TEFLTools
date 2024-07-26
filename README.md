@@ -40,22 +40,23 @@ For practical application:
 
 ## Translation from Tetum to English and Vice Versa
 
-An aws lambda/python service that uses an llm to augment a dictionary based translation system;
-https://go-tl.com/translate
-
-https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate/lambda_function.py
-
 A simplistic translation service in html and javascript that uses the same dictionary;
-
-https://content.go-tl.com/translate.html
-
-https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate.html
+- https://content.go-tl.com/translate.html
+- https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate.html
 
 The code uses this dictionary which is easily updateable. 
-https://github.com/ddtraveller/TEFLTools/blob/main/scripts/dictionary.js
+- https://github.com/ddtraveller/TEFLTools/blob/main/scripts/dictionary.js
 
-This is a python implementation that runs locally;
-https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate_to_Tetum.py
+This translator goes from English to Tetum or Tetum to English.
+- https://translate.go-tl.com/2way
+- https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate/lambda_function.py
+
+This translator takes a file in English and translates it to Tetum. It doesn't have the NLP.
+- https://go-tl.com/4jaime.html
+- https://github.com/ddtraveller/TEFLTools/tree/main/scripts/translate_lambda
+
+This one uses NLP (stanza), Timorese grammar and an LLM on top of the dictionary.
+- https://github.com/ddtraveller/TEFLTools/blob/main/scripts/translate/translate.py
 
 ## Kursu Prinsipal sira / Key Courses
 
@@ -275,6 +276,14 @@ This website updates daily with results from a programmatic Google web search on
 - "Timor-Leste finance",
 - "Timor-Leste technology",
 - "Timor-Leste sports"
+
+## Pájina Web nian Dezeñu / Drawing Web Page
+- https://go-tl.com/draw.html
+- https://github.com/ddtraveller/TEFLTools/tree/main/scripts/drawing
+
+## Kalkuladora Lucro Husi Bebe Kafé / Coffee Drink Profit Calculator
+- https://go-tl.com/coffee.html
+- https://github.com/ddtraveller/TEFLTools/tree/main/scripts/coffee
 
 ## Online/Offline English Exam for Progress Tracking
 
