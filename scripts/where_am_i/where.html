@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geolocation Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map { height: 400px; width: 100%; }
+        #status { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Your Current Location</h1>
+    <div id="status">Click the button below to share your location.</div>
+    <button id="locate">Get My Location</button>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        let map;
+        const statusDiv = document.getElementById('status');
+        const locateButton = document.getElementById('locate');
+
+        function initMap(lat, lon, accuracy) {
+            if (map) {
+                map.remove();
+            }
+            map = L.map('map').setView([lat, lon], 13);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+            
+            L.marker([lat, lon]).addTo(map)
+                .bindPopup('You are here (within ' + accuracy.toFixed(0) + ' meters)')
+                .openPopup();
+
+            L.circle([lat, lon], {radius: accuracy}).addTo(map);
+        }
+
+        function getLocation() {
+            if ('geolocation' in navigator) {
+                statusDiv.textContent = 'Requesting location permission...';
+                navigator.geolocation.getCurrentPosition(success, error, {
+                    enableHighAccuracy: true,
+                    timeout: 5000,
+                    maximumAge: 0
+                });
+            } else {
+                statusDiv.textContent = 'Geolocation is not supported by your browser';
+            }
+        }
+
+        function success(position) {
+            const latitude  = position.coords.latitude;
+            const longitude = position.coords.longitude;
+            const accuracy = position.coords.accuracy;
+
+            statusDiv.textContent = `Location found: ${latitude.toFixed(4)}, ${longitude.toFixed(4)} (accuracy: ${accuracy.toFixed(0)} meters)`;
+            initMap(latitude, longitude, accuracy);
+        }
+
+        function error() {
+            statusDiv.textContent = 'Unable to retrieve your location';
+        }
+
+        locateButton.addEventListener('click', getLocation);
+    </script>
+</body>
+</html>
