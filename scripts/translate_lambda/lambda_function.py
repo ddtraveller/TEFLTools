@@ -16,7 +16,6 @@ COMPOUND_FILE = SCRIPT_DIR / 'compound.js'
 # Load dictionary, phrases, and compounds
 # Note: In a real Lambda, you'd need to ensure these files are available,
 # possibly by including them in your deployment package or downloading them at runtime
-
 # Assume these are loaded and available as dictionaries:
 english_to_tetun = {}  # Load this from DICT_FILE
 tetun_phrases = {}  # Load this from PHRASES_FILE
@@ -31,14 +30,66 @@ def num_tokens_from_string(string: str, encoding_name: str = "cl100k_base") -> i
     num_tokens = len(encoding.encode(string))
     return num_tokens
 
-# Function to translate words using the dictionary
-def translate_words(text, dictionary):
-    words = text.lower().split()
-    return ' '.join(dictionary.get(word, word) for word in words)
+# Function to preprocess Tetun word order
+def preprocess_tetun_word_order(text):
+    words = text.split()  
+    if len(words) >= 3 and words[0] not in ['Hau', 'O', 'Nia', 'Ita', 'Ami', 'Imi', 'Sira']:
+        words = words[1:] + [words[0]]
+    return ' '.join(words)
 
-# Placeholder for other helper functions
+# Dictionary of Tetun aspect markers and their English equivalents
+aspect_markers = {
+    'ona': 'already',
+    'tiha': 'completed',
+    'hela': 'continuing',    
+    'foin': 'just', 
+    'sei': 'still/will'
+}
+
+# Function to translate Tetun aspect markers 
+def translate_aspect_markers(text):
+    for marker, translation in aspect_markers.items():
+        text = text.replace(f" {marker} ", f" {translation} ")
+    return text
+
+# Dictionary of Tetun pronouns and their English equivalents
+pronoun_map = {
+    'Hau': 'I',
+    'O': 'you (informal)', 
+    'Ita': 'you (formal)/we (inclusive)',
+    'Nia': 'he/she/it',
+    'Ami': 'we (exclusive)',
+    'Imi' : 'you (plural)',
+    'Sira': 'they'
+}
+
+# Function to translate Tetun pronouns
+def translate_pronouns(text):
+    for tetun, english in pronoun_map.items():
+        text = text.replace(f" {tetun} ", f" {english} ")
+    return text
+
+# Function to translate Tetun compound words
+def translate_compounds(text):
+    for compound, translation in tetun_compounds.items():
+        text = text.replace(compound, translation)
+    return text
+
+# Function to handle Tetun reduplication  
+def handle_reduplication(text):
+    words = text.split()
+    for i, word in enumerate(words):
+        if i > 0 and word == words[i-1]:
+            words[i] = 'very ' + word
+    return ' '.join(words)
+    
+# Function to preprocess text
 def preprocess_text(text):
-    # Implement preprocessing logic here
+    text = preprocess_tetun_word_order(text)
+    text = translate_aspect_markers(text)
+    text = translate_pronouns(text)
+    text = translate_compounds(text)  
+    text = handle_reduplication(text)
     return text
 
 # Main function to translate English to Tetun
@@ -47,11 +98,9 @@ def translate_english_to_tetun(text):
     
     # Preprocess and perform initial translation
     preprocessed_text = preprocess_text(text)
-    initial_translation = translate_words(preprocessed_text, english_to_tetun)
     
     # Prepare the prompt for the AI model
-    prompt = f"Translate the following English text to Tetun, keeping in mind Tetun grammar rules:\n\n{initial_translation}\n\nTetun translation:"
-
+    prompt = f"Translate the following English text to Tetun, keeping in mind Tetun grammar rules:\n\n{preprocessed_text}\n\nTetun translation:"
     response = anthropic_client.messages.create(
         model="claude-3-sonnet-20240229",
         max_tokens=4096,
@@ -60,32 +109,66 @@ def translate_english_to_tetun(text):
         messages=[{"role": "user", "content": prompt}]
     )
     translation = response.content[0].text.strip()
-
     return translation
 
 def lambda_handler(event, context):
     print("Lambda handler invoked")
+    print(f"Received event: {json.dumps(event)}")  # Log the entire event for debugging
     
-    # Check if the event contains the file content
-    if 'body' not in event:
+    response_headers = {
+        'Access-Control-Allow-Origin': 'https://go-tl.com',
+        'Access-Control-Allow-Methods': 'POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+        'Content-Type': 'application/json'
+    }
+    
+    # Check if this is an OPTIONS request
+    if event.get('httpMethod') == 'OPTIONS':
+        return {
+            'statusCode': 200,
+            'headers': response_headers
+        }
+    
+    # Check for the presence of the body in different possible locations
+    body = event.get('body') or event.get('content') or event.get('input')
+    
+    if not body:
         return {
             'statusCode': 400,
-            'body': json.dumps('No file content found in the request')
+            'body': json.dumps('No file content found in the request'),
+            'headers': response_headers
         }
-
-    # Decode the base64-encoded file content
-    file_content = base64.b64decode(event['body']).decode('utf-8')
-
-    print("Translating file content")
-
-    # Perform the translation
-    translation = translate_english_to_tetun(file_content)
-
-    # Return the translated content
-    return {
-        'statusCode': 200,
-        'body': json.dumps({'translation': translation}),
-        'headers': {
-            'Content-Type': 'application/json'
+    
+    try:
+        # Check if the body is base64 encoded
+        if event.get('isBase64Encoded', False):
+            file_content = base64.b64decode(body).decode('utf-8')
+        else:
+            file_content = body
+        
+        # If file_content is a string representation of a JSON object, parse it
+        if isinstance(file_content, str):
+            try:
+                file_content = json.loads(file_content)
+            except json.JSONDecodeError:
+                pass  # It's not JSON, treat it as plain text
+        
+        # If file_content is a dict, extract the 'content' field
+        if isinstance(file_content, dict):
+            file_content = file_content.get('content', '')
+        
+        print("Translating file content")
+        translation = translate_english_to_tetun(file_content)
+        
+        return {
+            'statusCode': 200,
+            'body': json.dumps({'translation': translation}),
+            'headers': response_headers
         }
-    }
+    except Exception as e:
+        print(f"Error occurred: {str(e)}")
+        return {
+            'statusCode': 500,
+            'body': json.dumps({'error': 'An error occurred during translation'}),
+            'headers': response_headers
+        }
