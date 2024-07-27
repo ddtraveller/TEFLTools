@@ -356,6 +356,18 @@ ex:
 var html_bd05340fc1335ce87240f82ba1ef79db = $(`<div id="html_bd05340fc1335ce87240f82ba1ef79db" style="width: 100.0%; height: 100.0%;">elephant</div>`)[0];
 popup_07a6af339c64a0d6a28f72144d1d501b.setContent(html_bd05340fc1335ce87240f82ba1ef79db);
 ```
+## Sistema Responde Pergunta Tetum / Tetum Google Anthropic Search
+- https://go-tl.com/ask.html
+
+Ne'e página ida ne'ebé simu pergunta iha Tetum no halo buka iha Google iha pergunta nian lian Ingles, depois fo fila fali rezultadu sira. Anthropic LLM fornese komentáriu kona-ba ligasaun no hatán pergunta. Rezultadu sira tradús ba Tetum no fo fila fali.
+
+This site takes questions in Tetum and does a Google search on the question in English and then returns the results.
+The Anthropic LLM provides commentary on the link and answers the question.
+Results are translated into Tetum and returned.
+
+The code uses the following endpoints for translation and the Google search/Anthropic call; 
+- https://translate.go-tl.com/2way 
+- https://translate.go-tl.com/answer.
 
 ## Asisténsia Estudu automatizadu online no lokál / Online and Locally Available Automated Study Aids
 

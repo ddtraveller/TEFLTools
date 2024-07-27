@@ -76,154 +76,257 @@
         <div id="error" class="error"></div>
         <div id="result"></div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script>
-        const TRANSLATE_2WAY_ENDPOINT = 'https://translate.go-tl.com/2way';
-        const LAMBDA_ENDPOINT = 'https://translate.go-tl.com/answer';
-        
-        async function processQuestion() {
-            const tetumQuestion = document.getElementById('questionInput').value;
-            if (!tetumQuestion) {
-                showError('Please enter a question');
-                return;
-            }
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script>
+    const BASE_URL = 'https://tl-web.s3.us-west-2.amazonaws.com/';
+    const TRANSLATE_2WAY_ENDPOINT = 'https://translate.go-tl.com/2way';
+    const LAMBDA_ENDPOINT = 'https://translate.go-tl.com/answer';
+    const fileList = document.getElementById('fileList');
+    const fileContent = document.getElementById('fileContent');
+    const selectedFileName = document.getElementById('selectedFileName');
+    const displayPane = document.getElementById('display-pane');
 
-            showSpinner(true);
-            clearResult();
-            clearError();
-
-            try {
-                const englishQuestion = await translateTetumToEnglish(tetumQuestion);
-                console.log('Translated question:', englishQuestion);
-
-                const lambdaResponse = await getAnswerFromLambda(englishQuestion);
-                console.log('Lambda response:', lambdaResponse);
-
-                const tetumAnswer = await translateEnglishToTetum(lambdaResponse.answer);
-                console.log('Translated answer:', tetumAnswer);
-
-                displayResult({
-                    question: tetumQuestion,
-                    answer: tetumAnswer
-                });
-            } catch (error) {
-                console.error('Error:', error);
-                showError(`An error occurred: ${error.message}`);
-            } finally {
-                showSpinner(false);
-            }
-        }
-
-        async function translateTetumToEnglish(tetumText) {
-            try {
-                const response = await axios.post(TRANSLATE_2WAY_ENDPOINT, 
-                    `text=${encodeURIComponent(tetumText)}&direction=tetumToEng`,
-                    {
-                        headers: {
-                            'Content-Type': 'application/x-www-form-urlencoded'
-                        }
-                    }
-                );
-            
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(response.data, 'text/html');
-            
-                const outputDiv = doc.getElementById("output");
-                if (outputDiv) {
-                    return outputDiv.textContent.trim();
+    function createNestedStructure(files) {
+        const structure = {};
+        files.forEach(file => {
+            const parts = file.path.split('/');
+            let current = structure;
+            parts.forEach((part, index) => {
+                if (index === parts.length - 1) {
+                    current[part] = file;
                 } else {
-                    throw new Error("Translation failed: Output not found in response");
+                    if (!current[part]) current[part] = {};
+                    current = current[part];
                 }
-            } catch (error) {
-                console.error('Error in translateTetumToEnglish:', error);
-                throw new Error('Failed to translate Tetum to English');
+            });
+        });
+        return structure;
+    }
+
+    function createFileListHTML(structure, parentElement, path = '') {
+        for (const [key, value] of Object.entries(structure)) {
+            const li = document.createElement('li');
+            if (value.path) {
+                const a = document.createElement('a');
+                a.href = '#';
+                a.textContent = key;
+                a.onclick = (e) => {
+                    e.preventDefault();
+                    loadFile(value.path);
+                };
+                li.appendChild(a);
+            } else {
+                li.textContent = key;
+                const ul = document.createElement('ul');
+                createFileListHTML(value, ul, path + key + '/');
+                li.appendChild(ul);
             }
+            parentElement.appendChild(li);
         }
-                
-        async function getAnswerFromLambda(englishQuestion) {
-            try {
-                const response = await axios.post(LAMBDA_ENDPOINT, 
-                    { question: englishQuestion },
-                    {
-                        headers: {
-                            'Content-Type': 'application/json'
-                        },
-                        timeout: 60000 // 60 seconds timeout
-                    }
-                );
-            
-                const data = response.data;
-                
-                if (typeof data === 'string') {
-                    const parsedData = JSON.parse(data);
-                    if (parsedData.body) {
-                        return JSON.parse(parsedData.body);
-                    }
-                }
-                
-                if (!data.answer) {
-                    throw new Error('Lambda function did not return the expected "answer" property');
-                }
-            
-                return data;
-            } catch (error) {
-                console.error('Error in getAnswerFromLambda:', error);
-                throw new Error('Failed to get answer from Lambda');
-            }
+    }
+
+    async function loadFileList() {
+        try {
+            const response = await axios.get('files.json');
+            const files = response.data.files;
+            const structure = createNestedStructure(files);
+            createFileListHTML(structure, fileList);
+        } catch (error) {
+            console.error('Error loading file list:', error);
+            showError('Failed to load file list');
         }
-        
-        async function translateEnglishToTetum(englishText) {
-            try {
-                const response = await axios.post(TRANSLATE_2WAY_ENDPOINT, 
-                    `text=${encodeURIComponent(englishText)}&direction=engToTetum`,
-                    {
-                        headers: {
-                            'Content-Type': 'application/x-www-form-urlencoded'
-                        }
-                    }
-                );
-            
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(response.data, 'text/html');
-            
-                const outputDiv = doc.getElementById("output");
-                if (outputDiv) {
-                    return outputDiv.textContent.trim();
-                } else {
-                    throw new Error("Translation failed: Output not found in response");
-                }
-            } catch (error) {
-                console.error('Error in translateTetumToEnglish:', error);
-                throw new Error('Failed to translate Tetum to English');
-            }
+    }
+
+    async function loadFile(fileName) {
+        showSpinner(true);
+        clearContent();
+        clearError();
+
+        try {
+            const response = await axios.get(`${BASE_URL}${fileName}`);
+            fileContent.textContent = response.data;
+            selectedFileName.textContent = fileName;
+        } catch (error) {
+            console.error('Error loading file:', error);
+            showError('Failed to load file');
+        } finally {
+            showSpinner(false);
+        }
+    }
+
+    window.translate = async function() {
+        const text = document.getElementById('translateInput').value;
+        if (!text) {
+            showError('Please enter some text to translate');
+            return;
         }
 
-        function displayResult(response) {
-            const resultElement = document.getElementById('result');
-            
-            resultElement.innerHTML = `
-                <h2>Question:</h2>
-                <p>${response.question}</p>
-                <h2>Answer:</h2>
-                <p>${response.answer}</p>
+        showSpinner(true);
+        clearError();
+
+        try {
+            const englishText = await translateTetumToEnglish(text);
+            console.log('Translated text:', englishText);
+
+            const tetumText = await translateEnglishToTetum(englishText);
+            console.log('Translated back to Tetum:', tetumText);
+
+            displayPane.innerHTML = `
+                <h2>Original:</h2>
+                <p>${text}</p>
+                <h2>Translation:</h2>
+                <p>${tetumText}</p>
             `;
+        } catch (error) {
+            console.error('Error:', error);
+            showError(`An error occurred: ${error.message}`);
+        } finally {
+            showSpinner(false);
+        }
+    }
+
+    window.search = async function() {
+        const searchText = document.getElementById('searchInput').value;
+        const translateText = document.getElementById('translateInput').value;
+        if (!searchText) {
+            showError('Please enter a search query');
+            return;
         }
 
-        function showSpinner(show) {
-            document.getElementById('spinner').style.display = show ? 'block' : 'none';
-        }
+        showSpinner(true);
+        clearError();
 
-        function showError(message) {
-            document.getElementById('error').textContent = message;
-        }
+        try {
+            let prompt = searchText;
+            if (translateText) {
+                prompt += `\n\nKeeping this text in mind:\n${translateText}`;
+            }
 
-        function clearError() {
-            document.getElementById('error').textContent = '';
-        }
+            const englishPrompt = await translateTetumToEnglish(prompt);
+            console.log('Translated prompt:', englishPrompt);
 
-        function clearResult() {
-            document.getElementById('result').innerHTML = '';
+            const lambdaResponse = await getAnswerFromLambda(englishPrompt);
+            console.log('Lambda response:', lambdaResponse);
+
+            const tetumAnswer = await translateEnglishToTetum(lambdaResponse.answer);
+            console.log('Translated answer:', tetumAnswer);
+
+            displayPane.innerHTML = `
+                <h2>Question:</h2>
+                <p>${searchText}</p>
+                <h2>Answer:</h2>
+                <p>${tetumAnswer}</p>
+            `;
+        } catch (error) {
+            console.error('Error:', error);
+            showError(`An error occurred: ${error.message}`);
+        } finally {
+            showSpinner(false);
         }
-    </script>
+    }
+
+    async function translateTetumToEnglish(tetumText) {
+        try {
+            const response = await axios.post(TRANSLATE_2WAY_ENDPOINT, 
+                `text=${encodeURIComponent(tetumText)}&direction=tetumToEng`,
+                {
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded'
+                    }
+                }
+            );
+        
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(response.data, 'text/html');
+        
+            const outputDiv = doc.getElementById("output");
+            if (outputDiv) {
+                return outputDiv.textContent.trim();
+            } else {
+                throw new Error("Translation failed: Output not found in response");
+            }
+        } catch (error) {
+            console.error('Error in translateTetumToEnglish:', error);
+            throw new Error('Failed to translate Tetum to English');
+        }
+    }
+            
+    async function getAnswerFromLambda(englishQuestion) {
+        try {
+            const response = await axios.post(LAMBDA_ENDPOINT, 
+                { question: englishQuestion },
+                {
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    timeout: 60000 // 60 seconds timeout
+                }
+            );
+        
+            const data = response.data;
+            
+            if (typeof data === 'string') {
+                const parsedData = JSON.parse(data);
+                if (parsedData.body) {
+                    return JSON.parse(parsedData.body);
+                }
+            }
+            
+            if (!data.answer) {
+                throw new Error('Lambda function did not return the expected "answer" property');
+            }
+        
+            return data;
+        } catch (error) {
+            console.error('Error in getAnswerFromLambda:', error);
+            throw new Error('Failed to get answer from Lambda');
+        }
+    }
+    
+    async function translateEnglishToTetum(englishText) {
+        try {
+            const response = await axios.post(TRANSLATE_2WAY_ENDPOINT, 
+                `text=${encodeURIComponent(englishText)}&direction=engToTetum`,
+                {
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded'
+                    }
+                }
+            );
+        
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(response.data, 'text/html');
+        
+            const outputDiv = doc.getElementById("output");
+            if (outputDiv) {
+                return outputDiv.textContent.trim();
+            } else {
+                throw new Error("Translation failed: Output not found in response");
+            }
+        } catch (error) {
+            console.error('Error in translateEnglishToTetum:', error);
+            throw new Error('Failed to translate English to Tetum');
+        }
+    }
+
+    function showSpinner(show) {
+        document.getElementById('spinner').style.display = show ? 'block' : 'none';
+    }
+
+    function showError(message) {
+        document.getElementById('error').textContent = message;
+    }
+
+    function clearError() {
+        document.getElementById('error').textContent = '';
+    }
+
+    function clearContent() {
+        fileContent.textContent = '';
+        selectedFileName.textContent = '';
+    }
+
+    loadFileList();
+</script>
 </body>
 </html>
