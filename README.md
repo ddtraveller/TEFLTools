@@ -341,7 +341,8 @@ TimorLesteMap directory contains aws lambda code that updates a map with points 
 
 <img src="jpg/TL_mapper.jpg" alt="Map of Timor Leste with points of interest" width="400"/>
 
-https://map.go-tl.com/
+- https://map.go-tl.com/
+- https://go-tl.com/where.html (returns a lat long of your position)
 
 The code works by updating a csv in s3 that holds information about the points of interest. ex:
 

@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema Responde Pergunta Tetum</title>
+    <link rel="icon" href="data:,">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        #questionInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        #submitBtn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        #submitBtn:hover {
+            background-color: #45a049;
+        }
+        #result {
+            margin-top: 20px;
+            white-space: pre-wrap;
+            background-color: #e9e9e9;
+            padding: 15px;
+            border-radius: 4px;
+        }
+        .spinner {
+            display: none;
+            width: 50px;
+            height: 50px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .error {
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sistema Responde Pergunta Tetum</h1>
+        <textarea id="questionInput" rows="4" placeholder="Husu ita-nia pergunta iha Tetum / Enter your question in Tetum"></textarea>
+        <button id="submitBtn" onclick="processQuestion()">Submete</button>
+        <div class="spinner" id="spinner"></div>
+        <div id="error" class="error"></div>
+        <div id="result"></div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        const TRANSLATE_2WAY_ENDPOINT = 'https://translate.go-tl.com/2way';
+        const LAMBDA_ENDPOINT = 'https://translate.go-tl.com/answer';
+        
+        async function processQuestion() {
+            const tetumQuestion = document.getElementById('questionInput').value;
+            if (!tetumQuestion) {
+                showError('Please enter a question');
+                return;
+            }
+
+            showSpinner(true);
+            clearResult();
+            clearError();
+
+            try {
+                const englishQuestion = await translateTetumToEnglish(tetumQuestion);
+                console.log('Translated question:', englishQuestion);
+
+                const lambdaResponse = await getAnswerFromLambda(englishQuestion);
+                console.log('Lambda response:', lambdaResponse);
+
+                const tetumAnswer = await translateEnglishToTetum(lambdaResponse.answer);
+                console.log('Translated answer:', tetumAnswer);
+
+                displayResult({
+                    question: tetumQuestion,
+                    answer: tetumAnswer
+                });
+            } catch (error) {
+                console.error('Error:', error);
+                showError(`An error occurred: ${error.message}`);
+            } finally {
+                showSpinner(false);
+            }
+        }
+
+        async function translateTetumToEnglish(tetumText) {
+            try {
+                const response = await axios.post(TRANSLATE_2WAY_ENDPOINT, 
+                    `text=${encodeURIComponent(tetumText)}&direction=tetumToEng`,
+                    {
+                        headers: {
+                            'Content-Type': 'application/x-www-form-urlencoded'
+                        }
+                    }
+                );
+            
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(response.data, 'text/html');
+            
+                const outputDiv = doc.getElementById("output");
+                if (outputDiv) {
+                    return outputDiv.textContent.trim();
+                } else {
+                    throw new Error("Translation failed: Output not found in response");
+                }
+            } catch (error) {
+                console.error('Error in translateTetumToEnglish:', error);
+                throw new Error('Failed to translate Tetum to English');
+            }
+        }
+                
+        async function getAnswerFromLambda(englishQuestion) {
+            try {
+                const response = await axios.post(LAMBDA_ENDPOINT, 
+                    { question: englishQuestion },
+                    {
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        timeout: 60000 // 60 seconds timeout
+                    }
+                );
+            
+                const data = response.data;
+                
+                if (typeof data === 'string') {
+                    const parsedData = JSON.parse(data);
+                    if (parsedData.body) {
+                        return JSON.parse(parsedData.body);
+                    }
+                }
+                
+                if (!data.answer) {
+                    throw new Error('Lambda function did not return the expected "answer" property');
+                }
+            
+                return data;
+            } catch (error) {
+                console.error('Error in getAnswerFromLambda:', error);
+                throw new Error('Failed to get answer from Lambda');
+            }
+        }
+        
+        async function translateEnglishToTetum(englishText) {
+            try {
+                const response = await axios.post(TRANSLATE_2WAY_ENDPOINT, 
+                    `text=${encodeURIComponent(englishText)}&direction=engToTetum`,
+                    {
+                        headers: {
+                            'Content-Type': 'application/x-www-form-urlencoded'
+                        }
+                    }
+                );
+            
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(response.data, 'text/html');
+            
+                const outputDiv = doc.getElementById("output");
+                if (outputDiv) {
+                    return outputDiv.textContent.trim();
+                } else {
+                    throw new Error("Translation failed: Output not found in response");
+                }
+            } catch (error) {
+                console.error('Error in translateTetumToEnglish:', error);
+                throw new Error('Failed to translate Tetum to English');
+            }
+        }
+
+        function displayResult(response) {
+            const resultElement = document.getElementById('result');
+            
+            resultElement.innerHTML = `
+                <h2>Question:</h2>
+                <p>${response.question}</p>
+                <h2>Answer:</h2>
+                <p>${response.answer}</p>
+            `;
+        }
+
+        function showSpinner(show) {
+            document.getElementById('spinner').style.display = show ? 'block' : 'none';
+        }
+
+        function showError(message) {
+            document.getElementById('error').textContent = message;
+        }
+
+        function clearError() {
+            document.getElementById('error').textContent = '';
+        }
+
+        function clearResult() {
+            document.getElementById('result').innerHTML = '';
+        }
+    </script>
+</body>
+</html>
