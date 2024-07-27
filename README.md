@@ -38,6 +38,14 @@ For practical application:
 
 <img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
 
+## Readings Browser
+This site allows students or teachers to load any of the readings files.
+It provides a text area for translation from Tetum to English.
+It also probides a text area for Google search in Tetum that translates the search results back into Tetum.
+
+- https://go-tl.com/readings_browser.html
+- https://github.com/ddtraveller/TEFLTools/tree/main/scripts/readings_browser
+
 ## Translation from Tetum to English and Vice Versa
 
 A simplistic translation service in html and javascript that uses the same dictionary;
