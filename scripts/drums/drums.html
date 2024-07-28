@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun Web Drum Machine with Looper</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #222;
+            color: white;
+        }
+        .drum-machine {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 10px;
+            background-color: #333;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .drum-pad {
+            width: 80px;
+            height: 80px;
+            border: none;
+            color: white;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.1s;
+            border-radius: 5px;
+        }
+        .drum-pad:active, .drum-pad.active {
+            transform: scale(0.95);
+            filter: brightness(1.2);
+        }
+        #controls {
+            grid-column: span 5;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .control {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        input[type="range"] {
+            width: 80px;
+            margin: 10px 0;
+        }
+        #tempo {
+            text-align: center;
+            grid-column: span 5;
+        }
+        #sequencer {
+            display: grid;
+            grid-template-columns: repeat(16, 1fr);
+            gap: 5px;
+            margin-top: 20px;
+        }
+        .step {
+            width: 20px;
+            height: 20px;
+            background-color: #555;
+            border: none;
+            cursor: pointer;
+        }
+        .step.active {
+            background-color: #0f0;
+        }
+        #transportControls {
+            margin-top: 20px;
+        }
+        button {
+            margin: 0 5px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        #instructionsToggle {
+            margin-top: 20px;
+        }
+        #instructions {
+            background-color: #444;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            max-width: 600px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="drum-machine" id="drumMachine">
+        <div id="controls">
+            <div class="control">
+                <label for="volume">Volume</label>
+                <input type="range" id="volume" min="0" max="1" step="0.1" value="0.5">
+            </div>
+            <div class="control">
+                <label for="tempo">Tempo</label>
+                <input type="range" id="tempo" min="60" max="200" step="1" value="120">
+                <span id="tempoValue">120 BPM</span>
+            </div>
+        </div>
+    </div>
+    <div id="sequencer"></div>
+    <div id="transportControls">
+        <button id="playPause">Play</button>
+        <button id="stop">Stop</button>
+        <button id="clear">Clear</button>
+    </div>
+    <button id="instructionsToggle">Show Instructions</button>
+    <div id="instructions">
+        <h2>How to Use the Drum Machine</h2>
+        <ul>
+            <li>Click on the drum pads to play sounds manually.</li>
+            <li>Click on the sequencer grid to create a pattern. Each row is a different drum sound, each column is a step in the sequence.</li>
+            <li>Use the Play/Pause button to start or pause the sequence playback.</li>
+            <li>Use the Stop button to stop playback and reset to the beginning.</li>
+            <li>Use the Clear button to refresh the page and start over.</li>
+            <li>Adjust the tempo slider to change the playback speed.</li>
+            <li>Use the volume slider to adjust the overall volume.</li>
+        </ul>
+    </div>
+
+    <script>
+        const drumSounds = [
+            { name: 'Kick', sound: 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3', color: '#ff0000' },
+            { name: 'Snare', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Brk_Snr.mp3', color: '#00ff00' },
+            { name: 'Hi-Hat', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3', color: '#0000ff' },
+            { name: 'Open HH', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3', color: '#000000' },
+            { name: 'Clap', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3', color: '#ff00ff' },
+            { name: 'Tom', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Chord_1.mp3', color: '#00ffff' },
+            { name: 'Crash', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Give_us_a_light.mp3', color: '#ffa500' },
+            { name: 'Perc', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Dry_Ohh.mp3', color: '#800080' },
+            { name: 'FX 1', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3', color: '#ff69b4' },
+            { name: 'FX 2', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3', color: '#32cd32' },
+            { name: 'FX 3', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3', color: '#1e90ff' },
+            { name: 'FX 4', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3', color: '#8a2be2' },
+            { name: 'FX 5', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3', color: '#ffc0cb' },
+            { name: 'FX 6', sound: 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3', color: '#90ee90' },
+            { name: 'FX 7', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3', color: '#add8e6' },
+            { name: 'FX 8', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3', color: '#000000' },
+        ];
+
+        const drumMachine = document.getElementById('drumMachine');
+        const sequencer = document.getElementById('sequencer');
+        const volumeControl = document.getElementById('volume');
+        const tempoControl = document.getElementById('tempo');
+        const tempoValue = document.getElementById('tempoValue');
+        const playPauseButton = document.getElementById('playPause');
+        const stopButton = document.getElementById('stop');
+        const clearButton = document.getElementById('clear');
+        const instructionsToggle = document.getElementById('instructionsToggle');
+        const instructionsDiv = document.getElementById('instructions');
+
+        let isPlaying = false;
+        let currentStep = 0;
+        let intervalId = null;
+        const pattern = Array(16).fill().map(() => Array(drumSounds.length).fill(false));
+
+        function createPads() {
+            drumSounds.forEach((drum, index) => {
+                const pad = document.createElement('button');
+                pad.className = 'drum-pad';
+                pad.textContent = drum.name;
+                pad.style.backgroundColor = drum.color;
+                pad.addEventListener('click', () => playSound(index));
+                drumMachine.appendChild(pad);
+            });
+        }
+
+        function createSequencer() {
+            for (let step = 0; step < 16; step++) {
+                for (let sound = 0; sound < drumSounds.length; sound++) {
+                    const button = document.createElement('button');
+                    button.className = 'step';
+                    button.addEventListener('click', () => toggleStep(step, sound));
+                    sequencer.appendChild(button);
+                }
+            }
+        }
+
+        function toggleStep(step, sound) {
+            pattern[step][sound] = !pattern[step][sound];
+            updateSequencerUI();
+        }
+
+        function updateSequencerUI() {
+            const steps = sequencer.getElementsByClassName('step');
+            for (let i = 0; i < steps.length; i++) {
+                const step = Math.floor(i / drumSounds.length);
+                const sound = i % drumSounds.length;
+                steps[i].classList.toggle('active', pattern[step][sound]);
+            }
+        }
+
+        function playSound(index) {
+            const audio = new Audio(drumSounds[index].sound);
+            audio.volume = volumeControl.value;
+            audio.play();
+        }
+
+        function playStep() {
+            pattern[currentStep].forEach((isActive, soundIndex) => {
+                if (isActive) playSound(soundIndex);
+            });
+            
+            const steps = sequencer.getElementsByClassName('step');
+            for (let i = 0; i < drumSounds.length; i++) {
+                steps[currentStep * drumSounds.length + i].style.backgroundColor = pattern[currentStep][i] ? '#00ff00' : '#555';
+            }
+            
+            currentStep = (currentStep + 1) % 16;
+            
+            if (currentStep === 0) {
+                const prevStepElements = sequencer.querySelectorAll(`.step:nth-child(n+${(16 - 1) * drumSounds.length + 1}):nth-child(-n+${16 * drumSounds.length})`);
+                prevStepElements.forEach(el => el.style.backgroundColor = pattern[15][Array.from(el.parentNode.children).indexOf(el) % drumSounds.length] ? '#0f0' : '#555');
+            } else {
+                const prevStepElements = sequencer.querySelectorAll(`.step:nth-child(n+${(currentStep - 1) * drumSounds.length + 1}):nth-child(-n+${currentStep * drumSounds.length})`);
+                prevStepElements.forEach(el => el.style.backgroundColor = pattern[currentStep - 1][Array.from(el.parentNode.children).indexOf(el) % drumSounds.length] ? '#0f0' : '#555');
+            }
+        }
+
+        function startLoop() {
+            if (!isPlaying) {
+                isPlaying = true;
+                playPauseButton.textContent = 'Pause';
+                intervalId = setInterval(playStep, (60 / tempoControl.value) * 1000 / 4);
+            } else {
+                isPlaying = false;
+                playPauseButton.textContent = 'Play';
+                clearInterval(intervalId);
+            }
+        }
+
+        function stopLoop() {
+            isPlaying = false;
+            playPauseButton.textContent = 'Play';
+            clearInterval(intervalId);
+            currentStep = 0;
+            updateSequencerUI();
+        }
+
+        createPads();
+        createSequencer();
+
+        playPauseButton.addEventListener('click', startLoop);
+        stopButton.addEventListener('click', stopLoop);
+        clearButton.addEventListener('click', () => location.reload());
+
+        tempoControl.addEventListener('input', () => {
+            tempoValue.textContent = `${tempoControl.value} BPM`;
+            if (isPlaying) {
+                clearInterval(intervalId);
+                intervalId = setInterval(playStep, (60 / tempoControl.value) * 1000 / 4);
+            }
+        });
+
+        instructionsDiv.style.display = 'none';  // Ensure initial state matches CSS
+
+        instructionsToggle.addEventListener('click', () => {
+            if (instructionsDiv.style.display === 'block') {
+                instructionsDiv.style.display = 'none';
+                instructionsToggle.textContent = 'Show Instructions';
+            } else {
+                instructionsDiv.style.display = 'block';
+                instructionsToggle.textContent = 'Hide Instructions';
+            }
+        });
+    </script>
+</body>
+</html>
