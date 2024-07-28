@@ -9,6 +9,8 @@ import anthropic
 from nltk.corpus import stopwords
 from nltk.probability import FreqDist, ConditionalFreqDist
 import stanza
+from gtts import gTTS
+from pydub import AudioSegment
 
 print("Script started")
 
@@ -161,6 +163,12 @@ def get_best_tetun_words(english_word, cfd, n=5):
     else:
         return []
 
+# Function to generate audio from text
+def text_to_speech(text, output_file):
+    tts = gTTS(text=text, lang='pt', slow=False)
+    tts.save(output_file)
+    print(f"Audio file saved: {output_file}")
+
 # Main function to translate English to Tetun
 def translate_english_to_tetun(text, model):
     print(f"Translating text with {model} model:")  
@@ -234,9 +242,10 @@ def translate_large_file(file_path, max_tokens, model):
     print(f"Translating large file: {file_path}")  
     file_path = Path(file_path)  
     new_file_path = file_path.with_suffix('.tetum' + file_path.suffix)
+    audio_file_path = file_path.with_suffix('.tetum.mp3')
 
-    if new_file_path.exists():
-        print(f"Skipping {file_path}: Destination file {new_file_path} already exists") 
+    if new_file_path.exists() and audio_file_path.exists():
+        print(f"Skipping {file_path}: Destination files already exist") 
         return
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -255,26 +264,41 @@ def translate_large_file(file_path, max_tokens, model):
     chunks = [content[i:i+chunk_size] for i in range(0, len(content), chunk_size)]
 
     translated_chunks = []  
+    audio_segments = []
     for i, chunk in enumerate(chunks, 1):
         print(f"Translating chunk {i} of {num_chunks}...")
         translation = translate_english_to_tetun(chunk, model)
         translated_chunks.append(translation)  
+
+        # Generate audio for this chunk
+        chunk_audio_file = f"temp_chunk_{i}.mp3"
+        text_to_speech(translation, chunk_audio_file)
+        audio_segments.append(AudioSegment.from_mp3(chunk_audio_file))
 
     full_translation = '\n\n'.join(translated_chunks)
 
     with open(new_file_path, 'w', encoding='utf-8') as file:
         file.write(full_translation)
 
-    print(f"Translated {file_path} to {new_file_path} in {num_chunks} chunks")
+    # Combine audio segments
+    combined_audio = sum(audio_segments)
+    combined_audio.export(str(audio_file_path), format="mp3")
+
+    # Clean up temporary audio files
+    for i in range(1, num_chunks + 1):
+        os.remove(f"temp_chunk_{i}.mp3")
+
+    print(f"Translated {file_path} to {new_file_path} and {audio_file_path} in {num_chunks} chunks")
 
 # Function to translate a single file 
-def translate_file(file_path, max_tokens, model, allow_large_files): 
+def translate_file(file_path, max_tokens, model, allow_large_files):
     print(f"Translating file: {file_path}")
     file_path = Path(file_path)
     new_file_path = file_path.with_suffix('.tetum' + file_path.suffix)
+    audio_file_path = file_path.with_suffix('.tetum.mp3')
 
-    if new_file_path.exists():
-        print(f"Skipping {file_path}: Destination file {new_file_path} already exists")
+    if new_file_path.exists() and audio_file_path.exists():
+        print(f"Skipping {file_path}: Destination files already exist")
         return 
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -300,6 +324,9 @@ def translate_file(file_path, max_tokens, model, allow_large_files):
 
     print(f"Translated {file_path} to {new_file_path}")
 
+    # Generate audio file
+    text_to_speech(translation, str(audio_file_path))
+
 # Function to get all files that need translation in a directory 
 def get_files_to_translate(directory):
     print(f"Scanning directory for files to translate: {directory}")  
@@ -311,7 +338,8 @@ def get_files_to_translate(directory):
                 continue
             if file_path.suffix.lower() in ['.txt', '.md', '.html']:  
                 tetum_file = file_path.with_suffix('.tetum' + file_path.suffix)
-                if not tetum_file.exists():
+                audio_file = file_path.with_suffix('.tetum.mp3')
+                if not tetum_file.exists() or not audio_file.exists():
                     files_to_translate.append(file_path)
     print(f"Found {len(files_to_translate)} files to translate")
     return files_to_translate
@@ -355,7 +383,7 @@ if __name__ == "__main__":
     while True:
         allow_large_files_input = input("Allow processing of large files? (yes/no): ").lower()
         if allow_large_files_input in ["yes", "no"]:
-            allow_large_files = allow_large_files_input  == "yes"
+            allow_large_files = allow_large_files_input == "yes"
             break
         print("Invalid choice. Please enter 'yes' or 'no'.")
 
@@ -363,22 +391,3 @@ if __name__ == "__main__":
     # Start the translation process   
     translate_directory(directory_path, max_tokens, model, allow_large_files)
     print("Translation process completed")
-# Get user input for AI model choice  
-    while True:
-        model = input("Choose the model to use (openai/anthropic): ").lower()
-        if model in ["openai", "anthropic"]:
-            break 
-        print("Invalid choice. Please enter 'openai' or 'anthropic'.")
-
-    # Get user input for allowing large file processing
-    while True:
-        allow_large_files_input = input("Allow processing of large files? (yes/no): ").lower()
-        if allow_large_files_input in ["yes", "no"]:
-            allow_large_files = allow_large_files_input  == "yes"
-            break
-        print("Invalid choice. Please enter 'yes' or 'no'.")
-
-    print(f"Starting translation process with model: {model}, allow large files: {allow_large_files}")
-    # Start the translation process   
-    translate_directory(directory_path, max_tokens, model, allow_large_files)
-    print("Translation process completed")    

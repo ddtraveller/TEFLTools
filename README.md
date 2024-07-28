@@ -541,6 +541,10 @@ In scripts/Timor_Today is an html file for a fake news website. It might be fun 
 - YouTube channel: [Tecknologi Populer](https://www.youtube.com/@TeknologiPopuler)
 - Timor Leste Blog: [Andy Kline](https://andykline.substack.com/?r=f5pev&utm_campaign=subscribe-page-share-screen&utm_medium=web)
 
+## Máquina Tuku ho Looper / Drum Machine with Looper
+- https://go-tl.com/drums.html
+- https://github.com/ddtraveller/TEFLTools/tree/main/scripts/drums
+
 ## Project Commitment
 
 This project is dedicated to fostering sustainable development, preserving Timorese culture, and building lasting relationships between Peace Corps volunteers and local communities. By combining traditional knowledge with modern techniques, we aim to create a brighter future for Timor-Leste.
