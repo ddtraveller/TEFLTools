@@ -267,11 +267,13 @@ The teacher can also change the worth in points of each assignment by clicking o
 There is a button to calculate the final grade percentage.
 Also, teachers can save or load the gradebook in csv format so it can be loaded into a spreadsheet program.
 
-## Timor Leste Links
+## Timor Leste Links and News from Mother Earth
+- [New from Mother Earth](https://go-tl.com/mnews.html)
 - [Timor Leste Links](https://tl-web.s3.us-west-2.amazonaws.com/links.html)
-- [GitHub Repository] (https://github.com/ddtraveller/TEFLTools/blob/main/scripts/links/lambda_handler.py)
+- [Links code] (https://github.com/ddtraveller/TEFLTools/blob/main/scripts/links/lambda_handler.py)
+- [News from Mother Earth code](https://github.com/ddtraveller/TEFLTools/tree/main/scripts/mother_earth_news)
 
-This website updates daily with results from a programmatic Google web search on the following topics;
+The links website updates daily with results from a programmatic Google web search on the following topics;
 - "Timor-Leste education",
 - "Timor-Leste health",
 - "Timor-Leste agriculture",
@@ -284,6 +286,14 @@ This website updates daily with results from a programmatic Google web search on
 - "Timor-Leste finance",
 - "Timor-Leste technology",
 - "Timor-Leste sports"
+
+New from Mother Earth uses much of the same code but provides a commentary in English and Tetum.
+The llm is given the instruction to provide commentary about the articles returned by Google with the following prompt:
+- "Based on the following articles about {topic}, please provide a commentary from a non-dual, spiritual perspective that emphasizes the interconnectedness of all life and encourages living in loving harmony with mother nature."
+
+This is meant as an experiment in terms of providing information from a different perspective that is more caring and in line with local values than corporate new or government propaganda.
+It may be propaganda in itself but the bias is in code and can be modified at will.
+With great power comes great responsibility. 
 
 ## Pájina Web nian Dezeñu / Drawing Web Page
 - https://go-tl.com/draw.html
