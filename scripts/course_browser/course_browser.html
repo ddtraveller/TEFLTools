@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Browser</title>
+    <style>
+        body, html {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+        #sidebar {
+            width: 250px;
+            background-color: #f4f4f4;
+            padding: 20px;
+            overflow-y: auto;
+            resize: horizontal;
+        }
+        #content {
+            flex-grow: 1;
+            padding: 20px;
+            overflow-y: auto;
+            resize: horizontal;
+        }
+        .divider {
+            width: 5px;
+            background-color: #ccc;
+            cursor: col-resize;
+        }
+        h1 { color: #333; }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li { margin-bottom: 10px; }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover { text-decoration: underline; }
+        #fileContent {
+            white-space: pre-wrap;
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div id="sidebar">
+            <h1>Course Navigation</h1>
+            <ul>
+                <li><a href="#" onclick="loadContent('syllabus')">Syllabus</a></li>
+                <li><a href="#" onclick="loadContent('lesson_plans')">Lesson Plans</a></li>
+                <li><a href="#" onclick="loadContent('activities')">Activities</a></li>
+            </ul>
+            <h2 id="selectedCategory"></h2>
+            <ul id="fileList"></ul>
+        </div>
+        <div class="divider"></div>
+        <div id="content">
+            <div id="fileContent"></div>
+        </div>
+    </div>
+
+    <script>
+        let courseData = null;
+
+        // Load the course data from the JSON file
+        fetch('course_data.json')
+            .then(response => response.json())
+            .then(data => {
+                courseData = data;
+            })
+            .catch(error => {
+                console.error('Error loading course data:', error);
+            });
+
+        function loadContent(category) {
+            document.getElementById('selectedCategory').innerText = category;
+            
+            // Clear previous content
+            document.getElementById('fileList').innerHTML = '';
+            document.getElementById('fileContent').innerHTML = '';
+            
+            // Get the file list based on the selected category
+            const files = courseData[category];
+            
+            // Display file list
+            const fileList = document.getElementById('fileList');
+            files.forEach(function(file) {
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = '#';
+                link.innerText = file;
+                link.onclick = function() {
+                    loadFile(file);
+                };
+                listItem.appendChild(link);
+                fileList.appendChild(listItem);
+            });
+        }
+
+        function loadFile(file) {
+            // Load the content of the selected file and display it
+            const url = `https://tl-web.s3.us-west-2.amazonaws.com/${file}`;
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to load file');
+                    }
+                    return response.text();
+                })
+                .then(content => {
+                    document.getElementById('fileContent').innerHTML = content;
+                })
+                .catch(error => {
+                    console.error('Error loading file:', error);
+                    document.getElementById('fileContent').innerText = 'Failed to load file';
+                });
+        }
+    </script>
+</body>
+</html>
