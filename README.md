@@ -295,9 +295,18 @@ This is meant as an experiment in terms of providing information from a differen
 It may be propaganda in itself but the bias is in code and can be modified at will.
 With great power comes great responsibility. 
 
-## Pájina Web nian Dezeñu / Drawing Web Page
+## Pájina Web nian Dezeñu / Drawing and Drum Machine Looper Web Page
 - https://go-tl.com/draw.html
 - https://github.com/ddtraveller/TEFLTools/tree/main/scripts/drawing
+- https://go-tl.com/drums.html
+- https://github.com/ddtraveller/TEFLTools/tree/main/scripts/drums
+
+These pages offer a graphical and an auditory game.
+The code is simple and meant to be instructional in a number of ways.
+
+- There is comments and documentation in the code repo.
+- The drum machine, for example, can be downloaded and modified to use local sound files and the drum pads can be edited to have different text.
+- Most web pages or software is complex and hides its code where this code is meant to be played with like a child's toy.
 
 ## Kalkuladora Lucro Husi Bebe Kafé / Coffee Drink Profit Calculator
 - https://go-tl.com/coffee.html
