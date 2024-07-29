@@ -1,5 +1,3 @@
-Based on the information provided in the document, here is a 1600+ word paper on Bella Galhos, her importance, and what she taught:
-
 Bella Galhos emerged as an important young activist and leader in the East Timorese independence movement in the 1990s. Though she is only briefly mentioned in the provided document, her role and teachings offer valuable insights into the challenges faced by East Timorese youth and women during the struggle for independence and in the early nation-building period. 
 
 Galhos gained prominence as a student activist and later became the coordinator of the Canada-based East Timor Alert Network (ETAN). In this role, she worked to raise international awareness about East Timor's fight for independence from Indonesian occupation. Her perspective as a young, female activist allowed her to highlight issues that were often overlooked by older male leaders in the resistance movement.

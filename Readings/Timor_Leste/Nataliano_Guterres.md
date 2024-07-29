@@ -1,5 +1,3 @@
-Certainly. I'll provide an in-depth analysis of Natalino Ornai Guterres' article on the political dynamics and identity issues in Timor-Leste.
-
 Title: Identity Politics and Social Democracy in Timor-Leste: Challenges and Opportunities
 
 Introduction:

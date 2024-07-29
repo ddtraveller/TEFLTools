@@ -1,0 +1,305 @@
+{
+  "title": "Introduction to Timorese Food Systems and Cultural Context",
+  "questions": [
+    {
+      "question": "What is the geographical location of Timor-Leste?",
+      "choices": [
+        "North of Australia in Southeast Asia",
+        "South of China in East Asia",
+        "East of India in South Asia",
+        "West of Papua New Guinea in Oceania"
+      ],
+      "answer": "North of Australia in Southeast Asia"
+    },
+    {
+      "question": "Which of the following is NOT a staple food in traditional Timorese cuisine?",
+      "choices": [
+        "Rice",
+        "Maize",
+        "Cassava",
+        "Wheat"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "When did Portuguese colonization of Timor-Leste begin?",
+      "choices": [
+        "14th century",
+        "15th century",
+        "16th century",
+        "17th century"
+      ],
+      "answer": "16th century"
+    },
+    {
+      "question": "Which crop, introduced by the Portuguese, became a significant export for Timor-Leste?",
+      "choices": [
+        "Tea",
+        "Cocoa",
+        "Rubber",
+        "Coffee"
+      ],
+      "answer": "Coffee"
+    },
+    {
+      "question": "What is the period of Indonesian occupation in Timor-Leste?",
+      "choices": [
+        "1965-1989",
+        "1970-1994",
+        "1975-1999",
+        "1980-2004"
+      ],
+      "answer": "1975-1999"
+    },
+    {
+      "question": "Which of the following is a traditional Timorese cooking method?",
+      "choices": [
+        "Ahi matan (earth ovens)",
+        "Tandoor ovens",
+        "Clay pot cooking",
+        "Sous vide"
+      ],
+      "answer": "Ahi matan (earth ovens)"
+    },
+    {
+      "question": "What is 'batar daan'?",
+      "choices": [
+        "A traditional dance",
+        "A corn and red beans stew",
+        "A type of woven cloth",
+        "A religious ceremony"
+      ],
+      "answer": "A corn and red beans stew"
+    },
+    {
+      "question": "Which of the following crops was NOT introduced by Portuguese colonizers?",
+      "choices": [
+        "Maize",
+        "Cassava",
+        "Sweet potatoes",
+        "Rice"
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question": "What is 'budu' in Timorese cuisine?",
+      "choices": [
+        "A type of bread",
+        "A fermented fish sauce",
+        "A sweet dessert",
+        "A grilled meat dish"
+      ],
+      "answer": "A fermented fish sauce"
+    },
+    {
+      "question": "When did Timor-Leste gain full independence?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "Which of the following best describes the terrain of Timor-Leste?",
+      "choices": [
+        "Mostly flat plains",
+        "Desert and oasis",
+        "Mountainous with a narrow coastal plain",
+        "Arctic tundra"
+      ],
+      "answer": "Mountainous with a narrow coastal plain"
+    },
+    {
+      "question": "What is 'saboko' in Timorese cuisine?",
+      "choices": [
+        "A rice dish",
+        "A fruit dessert",
+        "Fish or meat wrapped in palm leaves and steamed",
+        "A type of bread"
+      ],
+      "answer": "Fish or meat wrapped in palm leaves and steamed"
+    },
+    {
+      "question": "Which historical event brought tempeh and instant noodles to Timorese cuisine?",
+      "choices": [
+        "Portuguese colonization",
+        "Japanese occupation during World War II",
+        "Indonesian occupation",
+        "UN-supervised independence"
+      ],
+      "answer": "Indonesian occupation"
+    },
+    {
+      "question": "What is 'kafe Timor'?",
+      "choices": [
+        "A traditional festival",
+        "A type of restaurant",
+        "Timorese coffee",
+        "A cooking utensil"
+      ],
+      "answer": "Timorese coffee"
+    },
+    {
+      "question": "Which of the following is NOT a challenge facing Timorese food systems in the post-independence era?",
+      "choices": [
+        "Rebuilding agricultural infrastructure",
+        "Balancing traditional and modern practices",
+        "Addressing malnutrition",
+        "Overproduction of food"
+      ],
+      "answer": "Overproduction of food"
+    },
+    {
+      "question": "What role did wild foods play in traditional Timorese diets?",
+      "choices": [
+        "They were considered taboo",
+        "They were only used for medicinal purposes",
+        "They were important in the diet and during food shortages",
+        "They were exclusively used in religious ceremonies"
+      ],
+      "answer": "They were important in the diet and during food shortages"
+    },
+    {
+      "question": "Which of the following is a Portuguese influence on Timorese cuisine?",
+      "choices": [
+        "Use of soy sauce",
+        "Cultivation of rice",
+        "Integration of some Portuguese dishes (e.g., caldo)",
+        "Use of chopsticks"
+      ],
+      "answer": "Integration of some Portuguese dishes (e.g., caldo)"
+    },
+    {
+      "question": "What is 'food sovereignty' in the context of Timor-Leste?",
+      "choices": [
+        "The right to export all food produced",
+        "The right to import all food consumed",
+        "The right to healthy and culturally appropriate food produced through sustainable methods",
+        "The right to refuse any foreign food aid"
+      ],
+      "answer": "The right to healthy and culturally appropriate food produced through sustainable methods"
+    },
+    {
+      "question": "Which crop became a staple in many parts of Timor-Leste after its introduction by the Portuguese?",
+      "choices": [
+        "Wheat",
+        "Barley",
+        "Maize",
+        "Quinoa"
+      ],
+      "answer": "Maize"
+    },
+    {
+      "question": "What is 'bibingka' in Timorese cuisine?",
+      "choices": [
+        "A meat stew",
+        "A coconut rice cake",
+        "A fermented beverage",
+        "A type of fish"
+      ],
+      "answer": "A coconut rice cake"
+    },
+    {
+      "question": "How did the Indonesian occupation affect Timorese agriculture?",
+      "choices": [
+        "It introduced sustainable farming practices",
+        "It had no significant impact",
+        "It disrupted traditional farming systems",
+        "It increased agricultural productivity"
+      ],
+      "answer": "It disrupted traditional farming systems"
+    },
+    {
+      "question": "What is 'ikan sabuko'?",
+      "choices": [
+        "A traditional dance",
+        "A type of fishing net",
+        "Fish cooked in coconut milk",
+        "A religious ceremony involving fish"
+      ],
+      "answer": "Fish cooked in coconut milk"
+    },
+    {
+      "question": "Which of the following is NOT a staple ingredient in traditional Timorese cuisine?",
+      "choices": [
+        "Ai-farina (Cassava)",
+        "Batar (Maize)",
+        "Fore-mungu (Mung beans)",
+        "Trigo (Wheat)"
+      ],
+      "answer": "Trigo (Wheat)"
+    },
+    {
+      "question": "What impact has urbanization had on Timorese dietary habits?",
+      "choices": [
+        "Increased consumption of traditional foods",
+        "Decreased food consumption overall",
+        "Increased reliance on imported processed foods",
+        "No significant impact"
+      ],
+      "answer": "Increased reliance on imported processed foods"
+    },
+    {
+      "question": "Which historical period saw the introduction of wet rice cultivation to Timor-Leste?",
+      "choices": [
+        "Portuguese colonization",
+        "Austronesian expansion",
+        "Indonesian occupation",
+        "Post-independence era"
+      ],
+      "answer": "Austronesian expansion"
+    },
+    {
+      "question": "What is the significance of buffalo meat in Timorese culture?",
+      "choices": [
+        "It's the most commonly consumed meat",
+        "It's considered taboo",
+        "It's important in ceremonies",
+        "It's the primary export product"
+      ],
+      "answer": "It's important in ceremonies"
+    },
+    {
+      "question": "Which of the following is a challenge to Timorese food systems posed by climate change?",
+      "choices": [
+        "Increased crop yields",
+        "More stable weather patterns",
+        "Threats to traditional agricultural practices",
+        "Reduced need for irrigation"
+      ],
+      "answer": "Threats to traditional agricultural practices"
+    },
+    {
+      "question": "What is 'modo-tahan' in Timorese cuisine?",
+      "choices": [
+        "A cooking method",
+        "A type of meat",
+        "Various leafy greens",
+        "A traditional spice blend"
+      ],
+      "answer": "Various leafy greens"
+    },
+    {
+      "question": "Which of the following best describes the current state of Timorese cuisine?",
+      "choices": [
+        "Purely traditional with no outside influences",
+        "Completely westernized",
+        "A blend of indigenous, Portuguese, and Indonesian influences",
+        "Identical to Indonesian cuisine"
+      ],
+      "answer": "A blend of indigenous, Portuguese, and Indonesian influences"
+    },
+    {
+      "question": "What role does foraging play in contemporary Timorese food culture?",
+      "choices": [
+        "It has been completely abandoned",
+        "It remains important, especially in rural areas",
+        "It is only practiced for medicinal purposes",
+        "It is illegal due to conservation laws"
+      ],
+      "answer": "It remains important, especially in rural areas"
+    }
+  ]
+}

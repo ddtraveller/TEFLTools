@@ -58,6 +58,11 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        #errorLog {
+            margin-top: 20px;
+            color: red;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -67,6 +72,7 @@
         <button id="submitBtn" onclick="translateFile()">Translate</button>
         <div class="spinner" id="spinner"></div>
         <div id="result"></div>
+        <div id="errorLog"></div>
     </div>
     <script>
         function translateFile() {
@@ -83,31 +89,49 @@
             };
             reader.readAsText(file);
         }
+        
         function sendToLambda(content) {
-            // Show spinner
+            // Show spinner and clear previous results
             document.getElementById('spinner').style.display = 'block';
             document.getElementById('result').textContent = '';
-
+            document.getElementById('errorLog').textContent = '';
+            
+            console.log('Sending request to Lambda function...');
+            
             fetch('https://translate.go-tl.com/api', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ content: content }),
-                credentials: 'include'
+                body: JSON.stringify({ content: content })
             })
             .then(response => {
+                console.log('Response received:', response);
                 if (!response.ok) {
-                    throw new Error('Network response was not ok');
+                    throw new Error(`HTTP error! status: ${response.status}`);
                 }
-                return response.json();
+                return response.text();
             })
             .then(data => {
-                document.getElementById('result').textContent = data.translation;
+                console.log('Translation successful. Received data:', data);
+                document.getElementById('result').textContent = data;
             })
             .catch(error => {
-                console.error('Error:', error);
-                alert('An error occurred during translation');
+                console.error('Error details:', error);
+                document.getElementById('result').textContent = 'An error occurred during translation. Please check the error log below.';
+                document.getElementById('errorLog').textContent = `Error: ${error.message}`;
+                
+                if (error instanceof TypeError) {
+                    console.log('Network error. Please check your internet connection and try again.');
+                } else if (error instanceof SyntaxError) {
+                    console.log('Received invalid JSON from the server. The response might not be in the expected format.');
+                }
+                
+                if (error.response) {
+                    error.response.text().then(text => {
+                        console.log('Response body:', text);
+                    });
+                }
             })
             .finally(() => {
                 // Hide spinner

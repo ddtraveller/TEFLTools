@@ -1,0 +1,305 @@
+{
+  "title": "Participatory Research Methods in Food Systems",
+  "questions": [
+    {
+      "question": "What is a key principle of participatory research?",
+      "choices": [
+        "Research is conducted on local people",
+        "Local knowledge is disregarded",
+        "The process is disempowering",
+        "Research is conducted with and by local people"
+      ],
+      "answer": "Research is conducted with and by local people"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of participatory research?",
+      "choices": [
+        "More relevant and accurate data",
+        "Increased community ownership",
+        "Enhanced capacity for problem-solving",
+        "Faster data collection process"
+      ],
+      "answer": "Faster data collection process"
+    },
+    {
+      "question": "What is a transect walk?",
+      "choices": [
+        "A dance performed during research",
+        "A systematic walk through an area with local guides",
+        "A method of transportation for researchers",
+        "A type of graph used in data analysis"
+      ],
+      "answer": "A systematic walk through an area with local guides"
+    },
+    {
+      "question": "What is the purpose of a seasonal calendar in participatory research?",
+      "choices": [
+        "To schedule research activities",
+        "To plan harvest times",
+        "To explore seasonal variations in activities and resources",
+        "To track researcher work hours"
+      ],
+      "answer": "To explore seasonal variations in activities and resources"
+    },
+    {
+      "question": "What do Venn diagrams help to visualize in participatory research?",
+      "choices": [
+        "Crop yields",
+        "Weather patterns",
+        "Relationships between groups or institutions",
+        "Soil composition"
+      ],
+      "answer": "Relationships between groups or institutions"
+    },
+    {
+      "question": "What is a problem tree used for in participatory research?",
+      "choices": [
+        "To identify tree diseases",
+        "To visualize a problem, its causes, and effects",
+        "To map out forest ecosystems",
+        "To plan tree planting initiatives"
+      ],
+      "answer": "To visualize a problem, its causes, and effects"
+    },
+    {
+      "question": "What is the primary purpose of focus group discussions in participatory research?",
+      "choices": [
+        "To entertain participants",
+        "To allow for in-depth exploration of specific topics",
+        "To exclude certain community members",
+        "To speed up the research process"
+      ],
+      "answer": "To allow for in-depth exploration of specific topics"
+    },
+    {
+      "question": "What does 'informed consent' mean in the context of community-based research?",
+      "choices": [
+        "Participants are informed after the research is completed",
+        "Researchers consent to community demands",
+        "Participants understand the research purpose and their rights",
+        "The government approves the research"
+      ],
+      "answer": "Participants understand the research purpose and their rights"
+    },
+    {
+      "question": "Why is cultural sensitivity important in community-based research?",
+      "choices": [
+        "It helps researchers learn new languages",
+        "It respects local customs, beliefs, and practices",
+        "It makes the research process more difficult",
+        "It is required by international law"
+      ],
+      "answer": "It respects local customs, beliefs, and practices"
+    },
+    {
+      "question": "What is triangulation in participatory research?",
+      "choices": [
+        "A mathematical calculation method",
+        "A way to measure land area",
+        "Using multiple sources and methods to verify information",
+        "A technique for planting crops"
+      ],
+      "answer": "Using multiple sources and methods to verify information"
+    },
+    {
+      "question": "What is the importance of reflexivity in participatory research?",
+      "choices": [
+        "It improves physical fitness of researchers",
+        "It helps researchers critically examine their own biases",
+        "It increases research funding",
+        "It speeds up data collection"
+      ],
+      "answer": "It helps researchers critically examine their own biases"
+    },
+    {
+      "question": "Which of the following is NOT a key principle of participatory research?",
+      "choices": [
+        "Community involvement",
+        "Empowerment",
+        "Action-oriented",
+        "Researcher supremacy"
+      ],
+      "answer": "Researcher supremacy"
+    },
+    {
+      "question": "What is the main goal of participatory research in food systems?",
+      "choices": [
+        "To increase crop yields",
+        "To empower communities and generate actionable data",
+        "To promote industrial agriculture",
+        "To reduce food consumption"
+      ],
+      "answer": "To empower communities and generate actionable data"
+    },
+    {
+      "question": "How does participatory research differ from traditional research methods?",
+      "choices": [
+        "It is always quantitative",
+        "It excludes local communities",
+        "It involves stakeholders throughout the research process",
+        "It is less time-consuming"
+      ],
+      "answer": "It involves stakeholders throughout the research process"
+    },
+    {
+      "question": "What is a potential challenge of participatory research methods?",
+      "choices": [
+        "They are too simple",
+        "They require less resources",
+        "Balancing scientific rigor with community priorities",
+        "They always produce biased results"
+      ],
+      "answer": "Balancing scientific rigor with community priorities"
+    },
+    {
+      "question": "In participatory research, what does 'empowerment' refer to?",
+      "choices": [
+        "Giving researchers more authority",
+        "Building capacity of community members to conduct research",
+        "Increasing electrical power in rural areas",
+        "Enforcing strict hierarchies"
+      ],
+      "answer": "Building capacity of community members to conduct research"
+    },
+    {
+      "question": "What is the purpose of a participatory mapping exercise?",
+      "choices": [
+        "To create decorative maps",
+        "To document traditional knowledge and practices",
+        "To confuse researchers",
+        "To replace GPS technology"
+      ],
+      "answer": "To document traditional knowledge and practices"
+    },
+    {
+      "question": "How can participatory research contribute to food security?",
+      "choices": [
+        "By ignoring local food practices",
+        "By imposing external solutions",
+        "By involving communities in identifying and addressing food challenges",
+        "By focusing solely on increasing food production"
+      ],
+      "answer": "By involving communities in identifying and addressing food challenges"
+    },
+    {
+      "question": "What is a key ethical consideration in food-related participatory research?",
+      "choices": [
+        "Maximizing profit for researchers",
+        "Ignoring local dietary restrictions",
+        "Respecting cultural significance of certain foods",
+        "Promoting only modern agricultural techniques"
+      ],
+      "answer": "Respecting cultural significance of certain foods"
+    },
+    {
+      "question": "How does participatory research address power dynamics?",
+      "choices": [
+        "By reinforcing existing hierarchies",
+        "By excluding marginalized groups",
+        "By acknowledging and addressing power imbalances",
+        "By giving all power to researchers"
+      ],
+      "answer": "By acknowledging and addressing power imbalances"
+    },
+    {
+      "question": "What is the role of local knowledge in participatory food systems research?",
+      "choices": [
+        "It is considered irrelevant",
+        "It is valued and incorporated into the research",
+        "It is only used if scientifically proven",
+        "It is collected but not used"
+      ],
+      "answer": "It is valued and incorporated into the research"
+    },
+    {
+      "question": "How can participatory research methods be adapted for different contexts?",
+      "choices": [
+        "They cannot be adapted",
+        "By using the same methods everywhere",
+        "By ignoring local conditions",
+        "By being flexible and responsive to local needs"
+      ],
+      "answer": "By being flexible and responsive to local needs"
+    },
+    {
+      "question": "What is a potential benefit of using seasonal calendars in food systems research?",
+      "choices": [
+        "They provide exact weather forecasts",
+        "They help understand cyclical patterns in food production and labor",
+        "They replace the need for other research methods",
+        "They are used to plan researcher vacations"
+      ],
+      "answer": "They help understand cyclical patterns in food production and labor"
+    },
+    {
+      "question": "How does participatory research approach data analysis?",
+      "choices": [
+        "Researchers analyze data in isolation",
+        "Data is not analyzed",
+        "Community members are involved in interpreting findings",
+        "Only statistical methods are used"
+      ],
+      "answer": "Community members are involved in interpreting findings"
+    },
+    {
+      "question": "What is the importance of sharing research findings with the community in participatory research?",
+      "choices": [
+        "It is not important",
+        "It ensures research benefits the community",
+        "It is only done if required by law",
+        "It is only for academic purposes"
+      ],
+      "answer": "It ensures research benefits the community"
+    },
+    {
+      "question": "How can participatory research contribute to sustainable development in food systems?",
+      "choices": [
+        "By promoting short-term solutions",
+        "By ignoring environmental concerns",
+        "By fostering locally-appropriate, long-term strategies",
+        "By focusing only on economic growth"
+      ],
+      "answer": "By fostering locally-appropriate, long-term strategies"
+    },
+    {
+      "question": "What role do women often play in participatory food systems research?",
+      "choices": [
+        "They are always excluded",
+        "They are only involved in cooking demonstrations",
+        "Their perspectives and knowledge are actively sought",
+        "They only participate if men allow"
+      ],
+      "answer": "Their perspectives and knowledge are actively sought"
+    },
+    {
+      "question": "How does participatory research address the challenge of scaling up local findings?",
+      "choices": [
+        "By ignoring local contexts",
+        "By only focusing on large-scale issues",
+        "By seeking to balance local insights with broader applicability",
+        "By avoiding any attempt to scale up"
+      ],
+      "answer": "By seeking to balance local insights with broader applicability"
+    },
+    {
+      "question": "What is a key consideration when designing participatory research projects on sensitive food issues?",
+      "choices": [
+        "Avoiding all sensitive topics",
+        "Only discussing issues with community leaders",
+        "Ensuring confidentiality and cultural sensitivity",
+        "Publicizing all findings immediately"
+      ],
+      "answer": "Ensuring confidentiality and cultural sensitivity"
+    },
+    {
+      "question": "How can participatory research methods contribute to food innovation?",
+      "choices": [
+        "By imposing external technologies",
+        "By discouraging local innovations",
+        "By fostering collaboration between local knowledge and scientific approaches",
+        "By focusing only on traditional methods"
+      ],
+      "answer": "By fostering collaboration between local knowledge and scientific approaches"
+    }
+  ]
+}

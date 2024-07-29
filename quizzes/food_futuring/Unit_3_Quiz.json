@@ -1,0 +1,305 @@
+{
+  "title": "Cultural Identity and Food Heritage in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the traditional Timorese practice of resource management and conflict resolution?",
+      "choices": [
+        "Barlake",
+        "Tara Bandu",
+        "Fase Matan",
+        "Kore Metan"
+      ],
+      "answer": "Tara Bandu"
+    },
+    {
+      "question": "Which of the following is NOT a challenge to maintaining food heritage in Timor-Leste?",
+      "choices": [
+        "Impact of globalization",
+        "Loss of traditional knowledge",
+        "Economic factors",
+        "Increased local food production"
+      ],
+      "answer": "Increased local food production"
+    },
+    {
+      "question": "What is the name of the traditional Timorese corn harvest ceremony?",
+      "choices": [
+        "Batar Da'an",
+        "Sau Batar",
+        "Uma Lulik",
+        "Nahe Biti Boot"
+      ],
+      "answer": "Sau Batar"
+    },
+    {
+      "question": "Which traditional cooking technique involves wrapping food in banana leaves and cooking it underground?",
+      "choices": [
+        "Ahi matan",
+        "Batar fohuk",
+        "Tais cooking",
+        "Bamboo steaming"
+      ],
+      "answer": "Ahi matan"
+    },
+    {
+      "question": "What is the primary purpose of the 'Fase Matan' ceremony in Timorese culture?",
+      "choices": [
+        "To celebrate a wedding",
+        "To mark the end of mourning",
+        "To welcome a newborn",
+        "To begin the harvest season"
+      ],
+      "answer": "To welcome a newborn"
+    },
+    {
+      "question": "Which traditional farming technique involves rotating crops to maintain soil fertility?",
+      "choices": [
+        "Terrace farming",
+        "Hydroponics",
+        "Swidden agriculture",
+        "Monoculture"
+      ],
+      "answer": "Swidden agriculture"
+    },
+    {
+      "question": "What is 'batar fohuk' in Timorese food preparation?",
+      "choices": [
+        "A type of rice dish",
+        "Fermented cassava",
+        "Smoked fish",
+        "A corn-based dessert"
+      ],
+      "answer": "Fermented cassava"
+    },
+    {
+      "question": "Which communal eating practice in Timor-Leste is associated with conflict resolution?",
+      "choices": [
+        "Barlake",
+        "Tara Bandu",
+        "Nahe Biti Boot",
+        "Kore Metan"
+      ],
+      "answer": "Nahe Biti Boot"
+    },
+    {
+      "question": "What is the main ingredient in the traditional Timorese dish 'Batar Da'an'?",
+      "choices": [
+        "Rice",
+        "Cassava",
+        "Corn",
+        "Sweet potato"
+      ],
+      "answer": "Corn"
+    },
+    {
+      "question": "Which of the following is NOT a traditional food preservation method in Timor-Leste?",
+      "choices": [
+        "Sun-drying",
+        "Fermentation",
+        "Smoking",
+        "Canning"
+      ],
+      "answer": "Canning"
+    },
+    {
+      "question": "What is the significance of the 'Uma Lulik' in Timorese culture?",
+      "choices": [
+        "It's a type of traditional food",
+        "It's a sacred house for family gatherings",
+        "It's a farming technique",
+        "It's a wedding ceremony"
+      ],
+      "answer": "It's a sacred house for family gatherings"
+    },
+    {
+      "question": "Which factor is contributing to the loss of traditional food knowledge in Timor-Leste?",
+      "choices": [
+        "Increased agricultural education",
+        "Urbanization",
+        "Government promotion of traditional practices",
+        "Expansion of local markets"
+      ],
+      "answer": "Urbanization"
+    },
+    {
+      "question": "What is the 'Barlake' exchange in Timorese marriage ceremonies?",
+      "choices": [
+        "Exchange of traditional weapons",
+        "Exchange of sacred texts",
+        "Exchange of food gifts between families",
+        "Exchange of agricultural land"
+      ],
+      "answer": "Exchange of food gifts between families"
+    },
+    {
+      "question": "Which seasonal planting method is traditionally used in Timor-Leste?",
+      "choices": [
+        "Based on weather forecasts",
+        "Based on the lunar calendar",
+        "Based on government advisories",
+        "Based on soil pH levels"
+      ],
+      "answer": "Based on the lunar calendar"
+    },
+    {
+      "question": "What is the primary purpose of the 'Kore Metan' ceremony in Timorese culture?",
+      "choices": [
+        "To celebrate a birth",
+        "To mark the beginning of harvest",
+        "To resolve conflicts",
+        "To end the mourning period"
+      ],
+      "answer": "To end the mourning period"
+    },
+    {
+      "question": "Which of the following is a traditional water management system in Timor-Leste?",
+      "choices": [
+        "Drip irrigation",
+        "Sprinkler systems",
+        "Traditional irrigation methods for rice paddies",
+        "Hydroponics"
+      ],
+      "answer": "Traditional irrigation methods for rice paddies"
+    },
+    {
+      "question": "What is one of the main challenges to maintaining traditional farming practices in Timor-Leste?",
+      "choices": [
+        "Overproduction of traditional crops",
+        "Increased demand for traditional foods",
+        "Competition from imported goods",
+        "Government bans on traditional methods"
+      ],
+      "answer": "Competition from imported goods"
+    },
+    {
+      "question": "Which of the following is NOT typically included in Timorese traditional intercropping?",
+      "choices": [
+        "Corn",
+        "Cassava",
+        "Legumes",
+        "Wheat"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What role does betel nut play in Timorese food culture?",
+      "choices": [
+        "It's a main ingredient in most dishes",
+        "It's used in traditional medicine",
+        "It's shared during social and ceremonial gatherings",
+        "It's a staple crop for export"
+      ],
+      "answer": "It's shared during social and ceremonial gatherings"
+    },
+    {
+      "question": "Which of the following best describes the concept of 'food heritage'?",
+      "choices": [
+        "The nutritional value of traditional foods",
+        "The export potential of local cuisines",
+        "The cultural traditions and practices related to food passed down through generations",
+        "The government regulations on food production"
+      ],
+      "answer": "The cultural traditions and practices related to food passed down through generations"
+    },
+    {
+      "question": "What is a potential consequence of the shift towards processed foods in Timor-Leste?",
+      "choices": [
+        "Improved food security",
+        "Better preservation of traditional recipes",
+        "Negative impacts on public health",
+        "Increased local food production"
+      ],
+      "answer": "Negative impacts on public health"
+    },
+    {
+      "question": "Which of the following is a traditional cooking utensil in Timor-Leste?",
+      "choices": [
+        "Electric rice cooker",
+        "Microwave oven",
+        "Clay pot",
+        "Pressure cooker"
+      ],
+      "answer": "Clay pot"
+    },
+    {
+      "question": "What is the significance of the first corn of the season in Timorese culture?",
+      "choices": [
+        "It's exported as a luxury item",
+        "It's offered to ancestors in a ceremony",
+        "It's used to make biofuel",
+        "It's given to the poorest family in the community"
+      ],
+      "answer": "It's offered to ancestors in a ceremony"
+    },
+    {
+      "question": "Which of the following is NOT a typical ingredient in traditional Timorese cuisine?",
+      "choices": [
+        "Coconut",
+        "Cassava",
+        "Wheat",
+        "Fish"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What is one way that culinary preservation initiatives are trying to maintain Timorese food heritage?",
+      "choices": [
+        "Banning all foreign foods",
+        "Documenting traditional recipes and cooking techniques",
+        "Closing all modern restaurants",
+        "Prohibiting the use of modern cooking equipment"
+      ],
+      "answer": "Documenting traditional recipes and cooking techniques"
+    },
+    {
+      "question": "Which of the following best describes the relationship between food and cultural identity in Timor-Leste?",
+      "choices": [
+        "Food is unrelated to cultural identity",
+        "Food plays a minor role in cultural identity",
+        "Food is deeply intertwined with cultural identity",
+        "Food is only important for economic reasons"
+      ],
+      "answer": "Food is deeply intertwined with cultural identity"
+    },
+    {
+      "question": "What is the primary purpose of seasonal food rituals in Timorese culture?",
+      "choices": [
+        "To increase food exports",
+        "To attract tourists",
+        "To express gratitude for the land's bounty",
+        "To compete with neighboring countries"
+      ],
+      "answer": "To express gratitude for the land's bounty"
+    },
+    {
+      "question": "Which of the following is a potential benefit of promoting food tourism in Timor-Leste?",
+      "choices": [
+        "It could lead to the complete abandonment of traditional foods",
+        "It might help showcase and preserve Timorese cuisine",
+        "It would likely decrease interest in local foods",
+        "It would probably lead to a ban on foreign cuisines"
+      ],
+      "answer": "It might help showcase and preserve Timorese cuisine"
+    },
+    {
+      "question": "What is one way that some restaurants in urban areas are trying to preserve Timorese food heritage?",
+      "choices": [
+        "By only serving imported foods",
+        "By closing down permanently",
+        "By reimagining traditional dishes for younger palates",
+        "By banning all modern cooking techniques"
+      ],
+      "answer": "By reimagining traditional dishes for younger palates"
+    },
+    {
+      "question": "Which of the following best describes the challenge of balancing modernity and tradition in Timorese food culture?",
+      "choices": [
+        "There is no need to balance, tradition should be completely abandoned",
+        "Modern foods should be banned to preserve tradition",
+        "Finding a way to honor culinary traditions while adapting to contemporary contexts",
+        "Completely rejecting all forms of culinary innovation"
+      ],
+      "answer": "Finding a way to honor culinary traditions while adapting to contemporary contexts"
+    }
+  ]
+}

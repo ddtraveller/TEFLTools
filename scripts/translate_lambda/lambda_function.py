@@ -117,8 +117,8 @@ def lambda_handler(event, context):
     
     response_headers = {
         'Access-Control-Allow-Origin': 'https://go-tl.com',
-        'Access-Control-Allow-Methods': 'POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type',
+        'Access-Control-Allow-Methods': 'POST,OPTIONS',
         'Content-Type': 'application/json'
     }
     
@@ -162,8 +162,7 @@ def lambda_handler(event, context):
         
         return {
             'statusCode': 200,
-            'body': json.dumps({'translation': translation}),
-            'headers': response_headers
+            'body': json.dumps({'translation': translation})
         }
     except Exception as e:
         print(f"Error occurred: {str(e)}")

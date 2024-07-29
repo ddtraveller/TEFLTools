@@ -1,0 +1,305 @@
+{
+  "title": "Food Security and Nutrition Challenges in Timor-Leste",
+  "questions": [
+    {
+      "question": "What percentage of the population in Timor-Leste was undernourished between 2018-2020?",
+      "choices": [
+        "14.9%",
+        "24.9%",
+        "34.9%",
+        "44.9%"
+      ],
+      "answer": "24.9%"
+    },
+    {
+      "question": "What was the stunting rate for children under 5 in Timor-Leste in 2020?",
+      "choices": [
+        "27.1%",
+        "37.1%",
+        "47.1%",
+        "57.1%"
+      ],
+      "answer": "47.1%"
+    },
+    {
+      "question": "How does Timor-Leste's stunting rate compare to the Southeast Asian average?",
+      "choices": [
+        "It is slightly lower",
+        "It is about the same",
+        "It is significantly higher",
+        "It is slightly higher"
+      ],
+      "answer": "It is significantly higher"
+    },
+    {
+      "question": "What is the prevalence of anemia in women of reproductive age in Timor-Leste?",
+      "choices": [
+        "20.3%",
+        "30.3%",
+        "40.3%",
+        "50.3%"
+      ],
+      "answer": "40.3%"
+    },
+    {
+      "question": "Which of the following is NOT a major nutrition challenge in Timor-Leste?",
+      "choices": [
+        "Stunting in children",
+        "Wasting in children",
+        "Micronutrient deficiencies",
+        "Protein-energy malnutrition"
+      ],
+      "answer": "Protein-energy malnutrition"
+    },
+    {
+      "question": "What percentage of children under 5 in Timor-Leste are affected by Vitamin A deficiency?",
+      "choices": [
+        "14.1%",
+        "24.1%",
+        "34.1%",
+        "44.1%"
+      ],
+      "answer": "34.1%"
+    },
+    {
+      "question": "What percentage of adults in Timor-Leste are overweight or obese?",
+      "choices": [
+        "10.8%",
+        "20.8%",
+        "30.8%",
+        "40.8%"
+      ],
+      "answer": "20.8%"
+    },
+    {
+      "question": "What percentage of Timor-Leste's land is suitable for cultivation?",
+      "choices": [
+        "5.1%",
+        "10.1%",
+        "15.1%",
+        "20.1%"
+      ],
+      "answer": "10.1%"
+    },
+    {
+      "question": "What percentage of the population in Timor-Leste lives below the national poverty line?",
+      "choices": [
+        "21.8%",
+        "31.8%",
+        "41.8%",
+        "51.8%"
+      ],
+      "answer": "41.8%"
+    },
+    {
+      "question": "Approximately what percentage of rice consumed in Timor-Leste is imported?",
+      "choices": [
+        "20%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": "40%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a factor contributing to food insecurity in Timor-Leste?",
+      "choices": [
+        "Climate change",
+        "Limited market access",
+        "Gender inequality",
+        "Overpopulation"
+      ],
+      "answer": "Overpopulation"
+    },
+    {
+      "question": "What is the primary livelihood in the Lautem District case study?",
+      "choices": [
+        "Fishing",
+        "Subsistence agriculture",
+        "Livestock farming",
+        "Textile production"
+      ],
+      "answer": "Subsistence agriculture"
+    },
+    {
+      "question": "What percentage of households in the Lautem District case study live below the poverty line?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "answer": "70%"
+    },
+    {
+      "question": "What is the stunting rate for children under 5 in the Lautem District case study?",
+      "choices": [
+        "35%",
+        "45%",
+        "55%",
+        "65%"
+      ],
+      "answer": "55%"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a main crop in the Lautem District case study?",
+      "choices": [
+        "Maize",
+        "Cassava",
+        "Sweet potatoes",
+        "Rice"
+      ],
+      "answer": "Rice"
+    },
+    {
+      "question": "What is the average household size in the Lautem District case study?",
+      "choices": [
+        "4 people",
+        "5 people",
+        "6 people",
+        "7 people"
+      ],
+      "answer": "6 people"
+    },
+    {
+      "question": "What percentage of households in the Lautem District case study are female-headed?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "15%"
+    },
+    {
+      "question": "What is the primary agricultural practice mentioned in the Lautem District case study?",
+      "choices": [
+        "Intensive farming",
+        "Slash-and-burn agriculture",
+        "Terrace farming",
+        "Crop rotation"
+      ],
+      "answer": "Slash-and-burn agriculture"
+    },
+    {
+      "question": "What is the prevalence of anemia in women of reproductive age in the Lautem District case study?",
+      "choices": [
+        "25%",
+        "35%",
+        "45%",
+        "55%"
+      ],
+      "answer": "45%"
+    },
+    {
+      "question": "How far is the nearest health clinic from the community in the Lautem District case study?",
+      "choices": [
+        "5 km",
+        "10 km",
+        "15 km",
+        "20 km"
+      ],
+      "answer": "15 km"
+    },
+    {
+      "question": "Which organization recently started a small vegetable gardening project in the Lautem District case study?",
+      "choices": [
+        "A local NGO",
+        "The government",
+        "An international aid agency",
+        "A private company"
+      ],
+      "answer": "A local NGO"
+    },
+    {
+      "question": "What is the primary staple food mentioned in the Lautem District case study?",
+      "choices": [
+        "Wheat",
+        "Rice or maize",
+        "Potatoes",
+        "Sorghum"
+      ],
+      "answer": "Rice or maize"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as an environmental challenge in the Lautem District case study?",
+      "choices": [
+        "Increasing frequency of droughts",
+        "Soil erosion on hillsides",
+        "Deforestation",
+        "Coastal erosion"
+      ],
+      "answer": "Coastal erosion"
+    },
+    {
+      "question": "What percentage of the population in the Lautem District case study is under 25 years old?",
+      "choices": [
+        "40%",
+        "50%",
+        "60%",
+        "70%"
+      ],
+      "answer": "60%"
+    },
+    {
+      "question": "Which of the following is mentioned as a limitation in agricultural practices in the Lautem District case study?",
+      "choices": [
+        "Overuse of pesticides",
+        "Limited use of improved seeds or fertilizers",
+        "Excessive irrigation",
+        "Monoculture farming"
+      ],
+      "answer": "Limited use of improved seeds or fertilizers"
+    },
+    {
+      "question": "What is the primary reason for limited market access in the Lautem District case study?",
+      "choices": [
+        "Government restrictions",
+        "Cultural barriers",
+        "Poor road conditions",
+        "Lack of transportation"
+      ],
+      "answer": "Poor road conditions"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a main crop in Timor-Leste?",
+      "choices": [
+        "Maize",
+        "Cassava",
+        "Sweet potatoes",
+        "Wheat"
+      ],
+      "answer": "Wheat"
+    },
+    {
+      "question": "What is the primary cause of deforestation mentioned in the Lautem District case study?",
+      "choices": [
+        "Urbanization",
+        "Industrial development",
+        "Firewood collection and land clearing",
+        "Natural disasters"
+      ],
+      "answer": "Firewood collection and land clearing"
+    },
+    {
+      "question": "Which of the following is mentioned as a consequence of high stunting rates in Timor-Leste?",
+      "choices": [
+        "Increased agricultural productivity",
+        "Improved cognitive development",
+        "Reduced school performance",
+        "Enhanced adult productivity"
+      ],
+      "answer": "Reduced school performance"
+    },
+    {
+      "question": "What is the primary economic activity in Timor-Leste according to the module content?",
+      "choices": [
+        "Manufacturing",
+        "Services",
+        "Agriculture",
+        "Tourism"
+      ],
+      "answer": "Agriculture"
+    }
+  ]
+}
