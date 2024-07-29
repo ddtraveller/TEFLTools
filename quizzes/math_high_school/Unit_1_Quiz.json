@@ -1,0 +1,305 @@
+{
+  "title": "Foundations of Mathematics Education in Timor-Leste",
+  "questions": [
+    {
+      "question": "What are the two official languages of Timor-Leste?",
+      "choices": [
+        "Tetum and Indonesian",
+        "Portuguese and English",
+        "Tetum and Portuguese",
+        "Indonesian and Portuguese"
+      ],
+      "answer": "Tetum and Portuguese"
+    },
+    {
+      "question": "In which year did Timor-Leste gain independence?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "answer": "2002"
+    },
+    {
+      "question": "What was the primary language of instruction in Timor-Leste before independence?",
+      "choices": [
+        "Portuguese",
+        "Tetum",
+        "English",
+        "Bahasa Indonesia"
+      ],
+      "answer": "Bahasa Indonesia"
+    },
+    {
+      "question": "What is the term for the study of the relationship between mathematics and culture?",
+      "choices": [
+        "Cultural mathematics",
+        "Ethnomathematics",
+        "Anthropological mathematics",
+        "Sociomathematics"
+      ],
+      "answer": "Ethnomathematics"
+    },
+    {
+      "question": "Which approach to early mathematics education has shown significant benefits in Timor-Leste?",
+      "choices": [
+        "English-only instruction",
+        "Portuguese-only instruction",
+        "Mother tongue instruction",
+        "Bilingual instruction"
+      ],
+      "answer": "Mother tongue instruction"
+    },
+    {
+      "question": "What is one of the main challenges students face when transitioning to higher levels of education in Timor-Leste?",
+      "choices": [
+        "Lack of interest in mathematics",
+        "Insufficient school facilities",
+        "Learning mathematics in a different language",
+        "Absence of qualified teachers"
+      ],
+      "answer": "Learning mathematics in a different language"
+    },
+    {
+      "question": "How many main levels are there in the current education system of Timor-Leste?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "answer": "Four"
+    },
+    {
+      "question": "What is a positive aspect of current mathematics textbooks in Timor-Leste?",
+      "choices": [
+        "They are all written in local languages",
+        "They include culturally relevant examples",
+        "They are entirely digital",
+        "They are imported from Portugal"
+      ],
+      "answer": "They include culturally relevant examples"
+    },
+    {
+      "question": "What teaching approach is gradually replacing traditional rote learning in Timor-Leste?",
+      "choices": [
+        "Teacher-centered approach",
+        "Lecture-based approach",
+        "Memorization-focused approach",
+        "Student-centered approach"
+      ],
+      "answer": "Student-centered approach"
+    },
+    {
+      "question": "What is one of the government's initiatives to improve mathematics education in Timor-Leste?",
+      "choices": [
+        "Importing foreign teachers",
+        "Eliminating mathematics from the curriculum",
+        "Implementing teacher training programs",
+        "Using only Portuguese in all schools"
+      ],
+      "answer": "Implementing teacher training programs"
+    },
+    {
+      "question": "What is the primary issue with the availability of teaching materials in Timor-Leste?",
+      "choices": [
+        "They are too expensive",
+        "They are only available in English",
+        "There is a lack of appropriate textbooks",
+        "They are outdated"
+      ],
+      "answer": "There is a lack of appropriate textbooks"
+    },
+    {
+      "question": "What is the potential benefit of incorporating traditional mathematical practices into formal education?",
+      "choices": [
+        "It makes mathematics less relevant",
+        "It helps preserve cultural heritage",
+        "It simplifies the curriculum",
+        "It eliminates the need for textbooks"
+      ],
+      "answer": "It helps preserve cultural heritage"
+    },
+    {
+      "question": "What is a major challenge in using Portuguese for mathematics instruction?",
+      "choices": [
+        "It is too similar to Tetum",
+        "Many students are not fully proficient in it",
+        "It lacks mathematical terminology",
+        "It is not an official language"
+      ],
+      "answer": "Many students are not fully proficient in it"
+    },
+    {
+      "question": "What is the structure of basic education in Timor-Leste?",
+      "choices": [
+        "Primary and secondary",
+        "Primary and pre-secondary",
+        "Pre-school and primary",
+        "Secondary and higher education"
+      ],
+      "answer": "Primary and pre-secondary"
+    },
+    {
+      "question": "What is the main goal of the national mathematics curriculum for secondary education in Timor-Leste?",
+      "choices": [
+        "To prepare students for university-level mathematics",
+        "To focus solely on applied mathematics",
+        "To provide a strong foundation in mathematical skills and knowledge",
+        "To teach mathematics only in Portuguese"
+      ],
+      "answer": "To provide a strong foundation in mathematical skills and knowledge"
+    },
+    {
+      "question": "What is the purpose of developing supplementary learning materials in local languages?",
+      "choices": [
+        "To replace official textbooks",
+        "To support students' understanding of mathematical concepts",
+        "To eliminate the need for Portuguese instruction",
+        "To increase the cost of education"
+      ],
+      "answer": "To support students' understanding of mathematical concepts"
+    },
+    {
+      "question": "What is a key benefit of using mother tongue instruction in early mathematics education?",
+      "choices": [
+        "It prepares students for international exams",
+        "It allows students to grasp fundamental concepts more easily",
+        "It eliminates the need for bilingual education",
+        "It simplifies the curriculum"
+      ],
+      "answer": "It allows students to grasp fundamental concepts more easily"
+    },
+    {
+      "question": "What is one of the challenges in implementing the national mathematics curriculum in Timor-Leste?",
+      "choices": [
+        "Lack of student interest",
+        "Too many qualified teachers",
+        "Language barriers",
+        "Excessive funding"
+      ],
+      "answer": "Language barriers"
+    },
+    {
+      "question": "What is the significance of mathematics education for Timor-Leste's development?",
+      "choices": [
+        "It is not important for national development",
+        "It is crucial for equipping students with skills for the country's growth",
+        "It is only important for those pursuing higher education",
+        "It is less important than language education"
+      ],
+      "answer": "It is crucial for equipping students with skills for the country's growth"
+    },
+    {
+      "question": "What is the primary challenge of linguistic diversity in mathematics education in Timor-Leste?",
+      "choices": [
+        "It makes education more interesting",
+        "It simplifies the curriculum",
+        "It complicates the transition between education levels",
+        "It eliminates the need for textbooks"
+      ],
+      "answer": "It complicates the transition between education levels"
+    },
+    {
+      "question": "What is the role of ethnomathematics in Timor-Leste's education system?",
+      "choices": [
+        "To replace formal mathematics",
+        "To make mathematics less relevant",
+        "To incorporate traditional mathematical practices into formal education",
+        "To eliminate the need for teacher training"
+      ],
+      "answer": "To incorporate traditional mathematical practices into formal education"
+    },
+    {
+      "question": "What is a potential benefit of adapting teaching methods to the Timorese context?",
+      "choices": [
+        "It makes mathematics less challenging",
+        "It eliminates the need for textbooks",
+        "It makes learning more relevant and engaging for students",
+        "It reduces the importance of mathematics in the curriculum"
+      ],
+      "answer": "It makes learning more relevant and engaging for students"
+    },
+    {
+      "question": "What is the primary goal of teacher training programs focused on mathematics instruction in Timor-Leste?",
+      "choices": [
+        "To reduce the number of mathematics teachers",
+        "To eliminate the need for textbooks",
+        "To improve the quality of mathematics education",
+        "To teach only in Portuguese"
+      ],
+      "answer": "To improve the quality of mathematics education"
+    },
+    {
+      "question": "What is the significance of problem-solving skills in mathematics education in Timor-Leste?",
+      "choices": [
+        "They are not important in the Timorese context",
+        "They are crucial for applying mathematical knowledge",
+        "They are only relevant for higher education",
+        "They are less important than memorization"
+      ],
+      "answer": "They are crucial for applying mathematical knowledge"
+    },
+    {
+      "question": "What is the role of local languages in early mathematics education in Timor-Leste?",
+      "choices": [
+        "They are discouraged in favor of official languages",
+        "They are used to teach fundamental concepts",
+        "They are only used in rural areas",
+        "They are not used in mathematics education"
+      ],
+      "answer": "They are used to teach fundamental concepts"
+    },
+    {
+      "question": "What is a key challenge in using Portuguese for mathematics instruction in higher grades?",
+      "choices": [
+        "It is too similar to Tetum",
+        "It lacks mathematical terminology",
+        "Students must learn new concepts and language simultaneously",
+        "It is not an official language"
+      ],
+      "answer": "Students must learn new concepts and language simultaneously"
+    },
+    {
+      "question": "What is the importance of culturally relevant examples in mathematics textbooks?",
+      "choices": [
+        "They make the textbooks more colorful",
+        "They help students connect mathematical concepts to their daily lives",
+        "They eliminate the need for problem-solving",
+        "They are not important in mathematics education"
+      ],
+      "answer": "They help students connect mathematical concepts to their daily lives"
+    },
+    {
+      "question": "What is the primary goal of incorporating interactive teaching methods in mathematics education?",
+      "choices": [
+        "To make classes shorter",
+        "To eliminate the need for textbooks",
+        "To improve student engagement and understanding",
+        "To reduce the teacher's workload"
+      ],
+      "answer": "To improve student engagement and understanding"
+    },
+    {
+      "question": "What is the significance of mathematics education for Timor-Leste's participation in the global economy?",
+      "choices": [
+        "It is not relevant to global participation",
+        "It equips students with skills needed in an increasingly globalized world",
+        "It is only important for those working in finance",
+        "It is less important than language skills"
+      ],
+      "answer": "It equips students with skills needed in an increasingly globalized world"
+    },
+    {
+      "question": "What is the primary challenge in developing appropriate mathematics textbooks for Timor-Leste?",
+      "choices": [
+        "Lack of paper for printing",
+        "Balancing language accessibility with mathematical rigor",
+        "Too many qualified authors",
+        "Excessive funding for textbook development"
+      ],
+      "answer": "Balancing language accessibility with mathematical rigor"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Forces and Newton's Laws of Motion",
+  "questions": [
+    {
+      "question": "What is Newton's First Law of Motion also known as?",
+      "choices": [
+        "Law of Acceleration",
+        "Law of Inertia",
+        "Law of Action and Reaction",
+        "Law of Conservation of Energy"
+      ],
+      "answer": "Law of Inertia"
+    },
+    {
+      "question": "Which of Newton's Laws states that for every action, there is an equal and opposite reaction?",
+      "choices": [
+        "First Law",
+        "Second Law",
+        "Third Law",
+        "Fourth Law"
+      ],
+      "answer": "Third Law"
+    },
+    {
+      "question": "What is the mathematical expression of Newton's Second Law of Motion?",
+      "choices": [
+        "F = mv",
+        "F = ma",
+        "F = m/a",
+        "F = a/m"
+      ],
+      "answer": "F = ma"
+    },
+    {
+      "question": "Which type of force opposes the relative motion of objects in contact?",
+      "choices": [
+        "Tension",
+        "Normal force",
+        "Friction",
+        "Gravitational force"
+      ],
+      "answer": "Friction"
+    },
+    {
+      "question": "What is the force exerted by a surface on an object that is in contact with it called?",
+      "choices": [
+        "Friction",
+        "Tension",
+        "Normal force",
+        "Gravitational force"
+      ],
+      "answer": "Normal force"
+    },
+    {
+      "question": "What type of force is transmitted through a string, rope, or cable when it is pulled tight?",
+      "choices": [
+        "Friction",
+        "Tension",
+        "Normal force",
+        "Gravitational force"
+      ],
+      "answer": "Tension"
+    },
+    {
+      "question": "What are visual representations of all forces acting on an object called?",
+      "choices": [
+        "Force diagrams",
+        "Newton diagrams",
+        "Free-body diagrams",
+        "Vector diagrams"
+      ],
+      "answer": "Free-body diagrams"
+    },
+    {
+      "question": "According to Newton's First Law, an object in motion will stay in motion unless acted upon by what?",
+      "choices": [
+        "Gravity",
+        "Friction",
+        "An unbalanced force",
+        "Another object"
+      ],
+      "answer": "An unbalanced force"
+    },
+    {
+      "question": "In the equation F = ma, what does 'm' represent?",
+      "choices": [
+        "Motion",
+        "Mass",
+        "Momentum",
+        "Magnitude"
+      ],
+      "answer": "Mass"
+    },
+    {
+      "question": "Which of Newton's Laws explains why it takes more force to accelerate a heavy object compared to a lighter one?",
+      "choices": [
+        "First Law",
+        "Second Law",
+        "Third Law",
+        "Fourth Law"
+      ],
+      "answer": "Second Law"
+    },
+    {
+      "question": "What is the tendency of an object to resist changes in its state of motion called?",
+      "choices": [
+        "Friction",
+        "Inertia",
+        "Momentum",
+        "Acceleration"
+      ],
+      "answer": "Inertia"
+    },
+    {
+      "question": "In a free-body diagram, what do the arrows typically represent?",
+      "choices": [
+        "Velocity",
+        "Acceleration",
+        "Forces",
+        "Mass"
+      ],
+      "answer": "Forces"
+    },
+    {
+      "question": "What type of friction prevents objects from starting to move?",
+      "choices": [
+        "Kinetic friction",
+        "Static friction",
+        "Rolling friction",
+        "Fluid friction"
+      ],
+      "answer": "Static friction"
+    },
+    {
+      "question": "Which factor does NOT affect friction between two surfaces?",
+      "choices": [
+        "Nature of surfaces in contact",
+        "Normal force between surfaces",
+        "Color of the surfaces",
+        "Area of contact"
+      ],
+      "answer": "Color of the surfaces"
+    },
+    {
+      "question": "In the context of Newton's Third Law, if a swimmer pushes water backwards, what happens to the swimmer?",
+      "choices": [
+        "The swimmer moves backwards",
+        "The swimmer stays in place",
+        "The swimmer moves forwards",
+        "The swimmer sinks"
+      ],
+      "answer": "The swimmer moves forwards"
+    },
+    {
+      "question": "What is the primary purpose of creating a free-body diagram?",
+      "choices": [
+        "To calculate the object's mass",
+        "To determine the object's velocity",
+        "To visualize and analyze forces acting on an object",
+        "To measure the object's acceleration"
+      ],
+      "answer": "To visualize and analyze forces acting on an object"
+    },
+    {
+      "question": "Which of Newton's Laws is most directly related to the concept of momentum conservation?",
+      "choices": [
+        "First Law",
+        "Second Law",
+        "Third Law",
+        "None of the above"
+      ],
+      "answer": "Third Law"
+    },
+    {
+      "question": "What happens to the acceleration of an object if the net force acting on it doubles, but its mass remains constant?",
+      "choices": [
+        "The acceleration remains the same",
+        "The acceleration doubles",
+        "The acceleration halves",
+        "The acceleration becomes zero"
+      ],
+      "answer": "The acceleration doubles"
+    },
+    {
+      "question": "In the context of tension forces, which statement is true?",
+      "choices": [
+        "Tension forces always pull objects together",
+        "Tension forces always push objects apart",
+        "Tension forces always act perpendicular to the object",
+        "Tension forces always pull away from the object they act on"
+      ],
+      "answer": "Tension forces always pull away from the object they act on"
+    },
+    {
+      "question": "What is the normal force typically perpendicular to?",
+      "choices": [
+        "The direction of motion",
+        "The surface of contact",
+        "The gravitational force",
+        "The applied force"
+      ],
+      "answer": "The surface of contact"
+    },
+    {
+      "question": "Which of Newton's Laws explains why passengers in a car tend to continue forward when the car suddenly stops?",
+      "choices": [
+        "First Law",
+        "Second Law",
+        "Third Law",
+        "Fourth Law"
+      ],
+      "answer": "First Law"
+    },
+    {
+      "question": "What happens to the net force on an object if all the forces acting on it are balanced?",
+      "choices": [
+        "The net force increases",
+        "The net force decreases",
+        "The net force becomes zero",
+        "The net force remains constant but non-zero"
+      ],
+      "answer": "The net force becomes zero"
+    },
+    {
+      "question": "In the equation F = ma, what does 'a' represent?",
+      "choices": [
+        "Area",
+        "Angle",
+        "Acceleration",
+        "Amplitude"
+      ],
+      "answer": "Acceleration"
+    },
+    {
+      "question": "Which of the following is NOT a vector quantity?",
+      "choices": [
+        "Force",
+        "Velocity",
+        "Acceleration",
+        "Mass"
+      ],
+      "answer": "Mass"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "choices": [
+        "Kilogram",
+        "Newton",
+        "Joule",
+        "Watt"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question": "Which of Newton's Laws is most directly related to the concept of equilibrium?",
+      "choices": [
+        "First Law",
+        "Second Law",
+        "Third Law",
+        "None of the above"
+      ],
+      "answer": "First Law"
+    },
+    {
+      "question": "What happens to the friction force between two surfaces if the normal force between them increases?",
+      "choices": [
+        "The friction force decreases",
+        "The friction force increases",
+        "The friction force remains the same",
+        "The friction force becomes zero"
+      ],
+      "answer": "The friction force increases"
+    },
+    {
+      "question": "In a tug-of-war game, which of Newton's Laws best explains why the rope remains taut?",
+      "choices": [
+        "First Law",
+        "Second Law",
+        "Third Law",
+        "None of the above"
+      ],
+      "answer": "Third Law"
+    },
+    {
+      "question": "What is the relationship between mass and weight?",
+      "choices": [
+        "Mass and weight are the same thing",
+        "Mass is a force, weight is not",
+        "Weight is a force caused by gravity acting on mass",
+        "Mass depends on location, weight is constant"
+      ],
+      "answer": "Weight is a force caused by gravity acting on mass"
+    },
+    {
+      "question": "Which of the following would NOT be shown in a typical free-body diagram?",
+      "choices": [
+        "Gravitational force",
+        "Normal force",
+        "Friction force",
+        "Velocity vector"
+      ],
+      "answer": "Velocity vector"
+    }
+  ]
+}

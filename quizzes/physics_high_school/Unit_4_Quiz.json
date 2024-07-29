@@ -1,0 +1,305 @@
+{
+  "title": "Work, Energy, and Power in Timor-Leste",
+  "questions": [
+    {
+      "question": "What is the formula for work in physics?",
+      "choices": [
+        "W = F * d",
+        "W = F * d * cos(θ)",
+        "W = m * g * h",
+        "W = 1/2 * m * v^2"
+      ],
+      "answer": "W = F * d * cos(θ)"
+    },
+    {
+      "question": "In the context of Timorese farming, what is an example of work being done?",
+      "choices": [
+        "A farmer holding a heavy sack of rice",
+        "A farmer swinging a machete to cut vegetation",
+        "Seeds lying in the soil",
+        "Water sitting in an irrigation tank"
+      ],
+      "answer": "A farmer swinging a machete to cut vegetation"
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "choices": [
+        "KE = m * g * h",
+        "KE = F * d",
+        "KE = 1/2 * m * v^2",
+        "KE = W / t"
+      ],
+      "answer": "KE = 1/2 * m * v^2"
+    },
+    {
+      "question": "What type of energy is stored in elevated water for irrigation systems?",
+      "choices": [
+        "Kinetic energy",
+        "Thermal energy",
+        "Gravitational potential energy",
+        "Chemical energy"
+      ],
+      "answer": "Gravitational potential energy"
+    },
+    {
+      "question": "What is the formula for gravitational potential energy?",
+      "choices": [
+        "PE = 1/2 * m * v^2",
+        "PE = F * d",
+        "PE = W / t",
+        "PE = m * g * h"
+      ],
+      "answer": "PE = m * g * h"
+    },
+    {
+      "question": "What does the principle of conservation of energy state?",
+      "choices": [
+        "Energy can be created but not destroyed",
+        "Energy can be destroyed but not created",
+        "Energy cannot be created or destroyed, only transformed",
+        "Energy can be both created and destroyed"
+      ],
+      "answer": "Energy cannot be created or destroyed, only transformed"
+    },
+    {
+      "question": "When a Timorese farmer lifts a heavy load, what energy transformation occurs?",
+      "choices": [
+        "Kinetic to potential energy",
+        "Chemical to gravitational potential energy",
+        "Thermal to kinetic energy",
+        "Electrical to chemical energy"
+      ],
+      "answer": "Chemical to gravitational potential energy"
+    },
+    {
+      "question": "What is the definition of power in physics?",
+      "choices": [
+        "The amount of force applied",
+        "The total energy in a system",
+        "The rate at which work is done or energy is transferred",
+        "The distance an object moves"
+      ],
+      "answer": "The rate at which work is done or energy is transferred"
+    },
+    {
+      "question": "What is the formula for power?",
+      "choices": [
+        "P = F * d",
+        "P = m * g * h",
+        "P = 1/2 * m * v^2",
+        "P = W / t"
+      ],
+      "answer": "P = W / t"
+    },
+    {
+      "question": "Which of the following is an example of a simple machine used in Timorese farming?",
+      "choices": [
+        "Tractor",
+        "Hoe",
+        "Combine harvester",
+        "Irrigation pump"
+      ],
+      "answer": "Hoe"
+    },
+    {
+      "question": "What is the primary benefit of using simple machines in farming?",
+      "choices": [
+        "They reduce the total amount of work required",
+        "They increase the speed of farming operations",
+        "They allow farmers to apply smaller forces over longer distances",
+        "They eliminate the need for human labor"
+      ],
+      "answer": "They allow farmers to apply smaller forces over longer distances"
+    },
+    {
+      "question": "Which of the following is NOT a form of energy commonly found in Timorese farming communities?",
+      "choices": [
+        "Kinetic energy",
+        "Potential energy",
+        "Nuclear energy",
+        "Chemical energy"
+      ],
+      "answer": "Nuclear energy"
+    },
+    {
+      "question": "What type of energy transformation occurs when water flows down from an elevated irrigation tank?",
+      "choices": [
+        "Kinetic to potential energy",
+        "Thermal to kinetic energy",
+        "Potential to kinetic energy",
+        "Chemical to electrical energy"
+      ],
+      "answer": "Potential to kinetic energy"
+    },
+    {
+      "question": "Which of the following cooking methods in Timor-Leste typically has the lowest power efficiency?",
+      "choices": [
+        "Improved biomass stoves",
+        "Solar cookers",
+        "Open-fire stoves",
+        "Electric stoves"
+      ],
+      "answer": "Open-fire stoves"
+    },
+    {
+      "question": "What is mechanical advantage in the context of simple machines?",
+      "choices": [
+        "The ability to reduce the total amount of work",
+        "The ratio of output force to input force",
+        "The speed at which work is done",
+        "The amount of energy stored in the machine"
+      ],
+      "answer": "The ratio of output force to input force"
+    },
+    {
+      "question": "Which of the following is an example of potential energy in Timorese agriculture?",
+      "choices": [
+        "A moving tractor",
+        "A swinging machete",
+        "Water stored in an elevated tank",
+        "Heat from the sun"
+      ],
+      "answer": "Water stored in an elevated tank"
+    },
+    {
+      "question": "What unit is typically used to measure work and energy?",
+      "choices": [
+        "Newton",
+        "Watt",
+        "Joule",
+        "Pascal"
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question": "What unit is used to measure power?",
+      "choices": [
+        "Newton",
+        "Watt",
+        "Joule",
+        "Pascal"
+      ],
+      "answer": "Watt"
+    },
+    {
+      "question": "In the equation W = F * d * cos(θ), what does θ represent?",
+      "choices": [
+        "The mass of the object",
+        "The velocity of the object",
+        "The angle between the force and displacement vectors",
+        "The acceleration due to gravity"
+      ],
+      "answer": "The angle between the force and displacement vectors"
+    },
+    {
+      "question": "Which of the following would NOT be considered work in the physics sense?",
+      "choices": [
+        "Lifting a sack of rice",
+        "Pushing a plow across a field",
+        "Holding a heavy tool stationary",
+        "Cutting crops with a machete"
+      ],
+      "answer": "Holding a heavy tool stationary"
+    },
+    {
+      "question": "What type of energy transformation occurs in a solar cooker?",
+      "choices": [
+        "Chemical to thermal",
+        "Kinetic to thermal",
+        "Radiant to thermal",
+        "Electrical to thermal"
+      ],
+      "answer": "Radiant to thermal"
+    },
+    {
+      "question": "Which of the following would increase the gravitational potential energy of an object?",
+      "choices": [
+        "Moving it horizontally",
+        "Increasing its velocity",
+        "Raising it to a higher elevation",
+        "Decreasing its mass"
+      ],
+      "answer": "Raising it to a higher elevation"
+    },
+    {
+      "question": "What is the primary advantage of understanding work, energy, and power concepts in Timorese agriculture?",
+      "choices": [
+        "It allows for the creation of energy",
+        "It eliminates the need for human labor",
+        "It can lead to improvements in efficiency and productivity",
+        "It makes farming more complicated"
+      ],
+      "answer": "It can lead to improvements in efficiency and productivity"
+    },
+    {
+      "question": "Which of the following is an example of kinetic energy in Timorese farming?",
+      "choices": [
+        "Fuel in a tractor's tank",
+        "A farmer standing still",
+        "Water flowing in an irrigation channel",
+        "Seeds stored in a silo"
+      ],
+      "answer": "Water flowing in an irrigation channel"
+    },
+    {
+      "question": "What happens to the kinetic energy of a falling object just before it hits the ground?",
+      "choices": [
+        "It reaches its maximum value",
+        "It reaches its minimum value",
+        "It remains constant",
+        "It becomes negative"
+      ],
+      "answer": "It reaches its maximum value"
+    },
+    {
+      "question": "Which of the following would NOT help improve energy efficiency in Timorese cooking methods?",
+      "choices": [
+        "Using improved biomass stoves",
+        "Implementing solar cookers",
+        "Increasing the use of open-fire stoves",
+        "Utilizing pressure cookers"
+      ],
+      "answer": "Increasing the use of open-fire stoves"
+    },
+    {
+      "question": "What is the relationship between work and energy?",
+      "choices": [
+        "Work is a form of energy",
+        "Energy is a form of work",
+        "Work is the transfer of energy",
+        "There is no relationship between work and energy"
+      ],
+      "answer": "Work is the transfer of energy"
+    },
+    {
+      "question": "In the context of Timorese farming, what does increasing the power output of a task mean?",
+      "choices": [
+        "Doing more work in less time",
+        "Applying more force",
+        "Moving objects a greater distance",
+        "Increasing the mass of objects"
+      ],
+      "answer": "Doing more work in less time"
+    },
+    {
+      "question": "Which of the following is an example of energy transformation in a traditional Timorese cooking fire?",
+      "choices": [
+        "Electrical to thermal",
+        "Chemical to thermal",
+        "Nuclear to thermal",
+        "Mechanical to thermal"
+      ],
+      "answer": "Chemical to thermal"
+    },
+    {
+      "question": "What type of energy does food primarily store?",
+      "choices": [
+        "Kinetic energy",
+        "Thermal energy",
+        "Chemical energy",
+        "Nuclear energy"
+      ],
+      "answer": "Chemical energy"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Foundations of Physics and Measurement",
+  "questions": [
+    {
+      "question": "What is the primary goal of physics?",
+      "choices": [
+        "To create new technologies",
+        "To describe the universe using precise measurements and mathematical relationships",
+        "To study living organisms",
+        "To analyze chemical reactions"
+      ],
+      "answer": "To describe the universe using precise measurements and mathematical relationships"
+    },
+    {
+      "question": "Which of the following is NOT a branch of physics mentioned in the module?",
+      "choices": [
+        "Mechanics",
+        "Thermodynamics",
+        "Geology",
+        "Optics"
+      ],
+      "answer": "Geology"
+    },
+    {
+      "question": "What does SI stand for in the context of units?",
+      "choices": [
+        "Scientific Instruments",
+        "Standard International",
+        "Système International",
+        "Systematic Interpretation"
+      ],
+      "answer": "Système International"
+    },
+    {
+      "question": "How many base units are there in the SI system?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "question": "Which of the following is NOT an SI base unit?",
+      "choices": [
+        "Meter",
+        "Kilogram",
+        "Second",
+        "Newton"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the SI unit for temperature?",
+      "choices": [
+        "Celsius",
+        "Fahrenheit",
+        "Kelvin",
+        "Rankine"
+      ],
+      "answer": "Kelvin"
+    },
+    {
+      "question": "How is the meter currently defined?",
+      "choices": [
+        "The length of a platinum-iridium bar",
+        "The distance light travels in a vacuum in 1/299,792,458 of a second",
+        "One ten-millionth of the distance from the equator to the North Pole",
+        "The wavelength of a specific type of laser"
+      ],
+      "answer": "The distance light travels in a vacuum in 1/299,792,458 of a second"
+    },
+    {
+      "question": "What prefix represents 1/1000 in the SI system?",
+      "choices": [
+        "Centi-",
+        "Deci-",
+        "Milli-",
+        "Micro-"
+      ],
+      "answer": "Milli-"
+    },
+    {
+      "question": "What is the process of converting between different units called?",
+      "choices": [
+        "Unit analysis",
+        "Dimensional analysis",
+        "Conversion analysis",
+        "Scale analysis"
+      ],
+      "answer": "Dimensional analysis"
+    },
+    {
+      "question": "Which of the following is an example of a derived unit?",
+      "choices": [
+        "Meter",
+        "Second",
+        "Kilogram",
+        "Newton"
+      ],
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the SI unit for electric current?",
+      "choices": [
+        "Volt",
+        "Ampere",
+        "Watt",
+        "Ohm"
+      ],
+      "answer": "Ampere"
+    },
+    {
+      "question": "Which branch of physics deals with heat and energy?",
+      "choices": [
+        "Mechanics",
+        "Optics",
+        "Thermodynamics",
+        "Electromagnetism"
+      ],
+      "answer": "Thermodynamics"
+    },
+    {
+      "question": "What does the prefix 'kilo-' represent in the SI system?",
+      "choices": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": "1000"
+    },
+    {
+      "question": "Which of the following is NOT a reason for using standardized units in science?",
+      "choices": [
+        "To facilitate communication between scientists",
+        "To ensure reproducibility of experiments",
+        "To make calculations more complex",
+        "To allow for accurate comparisons of measurements"
+      ],
+      "answer": "To make calculations more complex"
+    },
+    {
+      "question": "What is the SI unit for the amount of substance?",
+      "choices": [
+        "Gram",
+        "Liter",
+        "Mole",
+        "Molecule"
+      ],
+      "answer": "Mole"
+    },
+    {
+      "question": "Which branch of physics studies the behavior of subatomic particles?",
+      "choices": [
+        "Classical mechanics",
+        "Thermodynamics",
+        "Quantum mechanics",
+        "Optics"
+      ],
+      "answer": "Quantum mechanics"
+    },
+    {
+      "question": "What is the SI unit for luminous intensity?",
+      "choices": [
+        "Lumen",
+        "Lux",
+        "Candela",
+        "Watt"
+      ],
+      "answer": "Candela"
+    },
+    {
+      "question": "How many centimeters are in 1 meter?",
+      "choices": [
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "answer": "100"
+    },
+    {
+      "question": "Which of the following is an advantage of the SI system?",
+      "choices": [
+        "It is only used in physics",
+        "It is based on arbitrary standards",
+        "It allows for easy conversion between units",
+        "It is only used in a few countries"
+      ],
+      "answer": "It allows for easy conversion between units"
+    },
+    {
+      "question": "What is the primary focus of the branch of physics called mechanics?",
+      "choices": [
+        "Heat and temperature",
+        "Motion and forces",
+        "Light and vision",
+        "Electrical phenomena"
+      ],
+      "answer": "Motion and forces"
+    },
+    {
+      "question": "Which of the following is true about the kilogram?",
+      "choices": [
+        "It is defined by a physical artifact",
+        "It is based on the mass of a specific atom",
+        "It is defined in terms of the Planck constant",
+        "It is based on the weight of water"
+      ],
+      "answer": "It is defined in terms of the Planck constant"
+    },
+    {
+      "question": "What does the branch of physics called optics study?",
+      "choices": [
+        "Sound waves",
+        "Magnetic fields",
+        "Chemical reactions",
+        "Light and vision"
+      ],
+      "answer": "Light and vision"
+    },
+    {
+      "question": "Which of the following is NOT a base SI unit?",
+      "choices": [
+        "Meter",
+        "Second",
+        "Joule",
+        "Kelvin"
+      ],
+      "answer": "Joule"
+    },
+    {
+      "question": "What is the purpose of using prefixes in the SI system?",
+      "choices": [
+        "To make unit names longer",
+        "To denote multiples and fractions of units",
+        "To confuse students",
+        "To replace base units"
+      ],
+      "answer": "To denote multiples and fractions of units"
+    },
+    {
+      "question": "Which of the following best describes the relationship between physics and other sciences?",
+      "choices": [
+        "Physics is completely separate from other sciences",
+        "Physics is less important than other sciences",
+        "Physics forms the foundation for other sciences",
+        "Physics only applies to engineering"
+      ],
+      "answer": "Physics forms the foundation for other sciences"
+    },
+    {
+      "question": "What is the SI unit for time?",
+      "choices": [
+        "Hour",
+        "Minute",
+        "Second",
+        "Day"
+      ],
+      "answer": "Second"
+    },
+    {
+      "question": "Which of the following is an example of a real-world consequence of unit confusion?",
+      "choices": [
+        "The invention of the telephone",
+        "The loss of a Mars orbiter",
+        "The discovery of penicillin",
+        "The creation of the internet"
+      ],
+      "answer": "The loss of a Mars orbiter"
+    },
+    {
+      "question": "What is the primary advantage of using SI units in scientific research?",
+      "choices": [
+        "They are easier to pronounce",
+        "They are based on ancient measurements",
+        "They provide a standardized language for quantifying physical phenomena",
+        "They are only used in Europe"
+      ],
+      "answer": "They provide a standardized language for quantifying physical phenomena"
+    },
+    {
+      "question": "Which branch of physics deals with electricity and magnetism?",
+      "choices": [
+        "Thermodynamics",
+        "Optics",
+        "Mechanics",
+        "Electromagnetism"
+      ],
+      "answer": "Electromagnetism"
+    },
+    {
+      "question": "What is the SI unit for mass?",
+      "choices": [
+        "Gram",
+        "Pound",
+        "Kilogram",
+        "Ounce"
+      ],
+      "answer": "Kilogram"
+    }
+  ]
+}

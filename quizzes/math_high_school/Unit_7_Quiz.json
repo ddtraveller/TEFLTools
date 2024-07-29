@@ -1,0 +1,305 @@
+{
+  "title": "Assessment and Evaluation Techniques in Mathematics Education",
+  "questions": [
+    {
+      "question": "What is the primary purpose of formative assessment?",
+      "choices": [
+        "To assign final grades",
+        "To provide ongoing feedback during the learning process",
+        "To rank students against each other",
+        "To prepare students for standardized tests"
+      ],
+      "answer": "To provide ongoing feedback during the learning process"
+    },
+    {
+      "question": "Which of the following is an example of a summative assessment?",
+      "choices": [
+        "A pop quiz",
+        "A homework assignment",
+        "A final exam",
+        "A group discussion"
+      ],
+      "answer": "A final exam"
+    },
+    {
+      "question": "What is a rubric in the context of assessment?",
+      "choices": [
+        "A type of mathematical equation",
+        "A scoring guide that lists criteria for evaluating work",
+        "A standardized test format",
+        "A method of grading on a curve"
+      ],
+      "answer": "A scoring guide that lists criteria for evaluating work"
+    },
+    {
+      "question": "Which of the following is a key component of a rubric?",
+      "choices": [
+        "Student names",
+        "Performance levels",
+        "Teacher opinions",
+        "Classroom rules"
+      ],
+      "answer": "Performance levels"
+    },
+    {
+      "question": "What is the main purpose of analyzing student work samples?",
+      "choices": [
+        "To assign grades",
+        "To compare students to each other",
+        "To inform instructional decisions",
+        "To create a classroom display"
+      ],
+      "answer": "To inform instructional decisions"
+    },
+    {
+      "question": "What is a characteristic of culturally responsive assessment practices?",
+      "choices": [
+        "Using only standardized tests",
+        "Ignoring cultural differences",
+        "Incorporating local contexts and experiences",
+        "Focusing solely on Western mathematical concepts"
+      ],
+      "answer": "Incorporating local contexts and experiences"
+    },
+    {
+      "question": "Which language consideration is important for math education in Timor-Leste?",
+      "choices": [
+        "Using only English",
+        "Ignoring local languages",
+        "Considering Tetum, Portuguese, and local languages",
+        "Focusing solely on Portuguese"
+      ],
+      "answer": "Considering Tetum, Portuguese, and local languages"
+    },
+    {
+      "question": "What is an example of a real-world application for math instruction in Timor-Leste?",
+      "choices": [
+        "Using examples from American sports",
+        "Focusing on abstract concepts only",
+        "Creating problems based on local industries like agriculture",
+        "Ignoring practical applications"
+      ],
+      "answer": "Creating problems based on local industries like agriculture"
+    },
+    {
+      "question": "What is ethnomathematics?",
+      "choices": [
+        "A type of standardized test",
+        "The study of mathematics in ancient civilizations",
+        "Connecting culture and mathematics in education",
+        "A branch of advanced calculus"
+      ],
+      "answer": "Connecting culture and mathematics in education"
+    },
+    {
+      "question": "Which of the following is a strategy for teaching math in resource-limited settings?",
+      "choices": [
+        "Relying heavily on technology",
+        "Using only expensive textbooks",
+        "Creating hands-on activities with local materials",
+        "Focusing solely on lecture-based instruction"
+      ],
+      "answer": "Creating hands-on activities with local materials"
+    },
+    {
+      "question": "What is a benefit of using diverse assessment methods?",
+      "choices": [
+        "It makes grading easier for teachers",
+        "It allows students to demonstrate knowledge in various ways",
+        "It reduces the need for feedback",
+        "It eliminates the need for summative assessments"
+      ],
+      "answer": "It allows students to demonstrate knowledge in various ways"
+    },
+    {
+      "question": "Which of the following is an example of a formative assessment strategy?",
+      "choices": [
+        "Final exams",
+        "Standardized tests",
+        "Exit tickets",
+        "Graduation requirements"
+      ],
+      "answer": "Exit tickets"
+    },
+    {
+      "question": "What is the purpose of creating bilingual math glossaries in Timor-Leste?",
+      "choices": [
+        "To replace the national curriculum",
+        "To eliminate the use of local languages",
+        "To support language development in math education",
+        "To make math more difficult for students"
+      ],
+      "answer": "To support language development in math education"
+    },
+    {
+      "question": "Which of the following is a way to address gender disparities in math education?",
+      "choices": [
+        "Discouraging girls from pursuing math",
+        "Using gender-neutral examples and role models",
+        "Separating boys and girls in math classes",
+        "Focusing only on boys' achievement"
+      ],
+      "answer": "Using gender-neutral examples and role models"
+    },
+    {
+      "question": "What is the benefit of organizing a math fair for community involvement?",
+      "choices": [
+        "It replaces formal assessments",
+        "It discourages parental involvement",
+        "It showcases student learning and engages the community",
+        "It eliminates the need for classroom instruction"
+      ],
+      "answer": "It showcases student learning and engages the community"
+    },
+    {
+      "question": "Which of the following is a strategy for incorporating games in math instruction?",
+      "choices": [
+        "Using only computer games",
+        "Avoiding games altogether",
+        "Developing math games inspired by traditional Timorese games",
+        "Using games unrelated to math concepts"
+      ],
+      "answer": "Developing math games inspired by traditional Timorese games"
+    },
+    {
+      "question": "What is the purpose of micro-teaching sessions in teacher training?",
+      "choices": [
+        "To replace full-length lessons",
+        "To practice using different instructional methods",
+        "To avoid student interaction",
+        "To focus only on lecture-based teaching"
+      ],
+      "answer": "To practice using different instructional methods"
+    },
+    {
+      "question": "Which of the following is a benefit of collaborative learning in math education?",
+      "choices": [
+        "It eliminates the need for individual work",
+        "It promotes peer interaction and support",
+        "It reduces the teacher's role in the classroom",
+        "It focuses solely on competition between students"
+      ],
+      "answer": "It promotes peer interaction and support"
+    },
+    {
+      "question": "What is the purpose of using Polya's method in problem-solving?",
+      "choices": [
+        "To avoid using mathematical reasoning",
+        "To focus only on getting the correct answer",
+        "To develop a systematic approach to solving problems",
+        "To eliminate the need for practice"
+      ],
+      "answer": "To develop a systematic approach to solving problems"
+    },
+    {
+      "question": "Which of the following is a way to incorporate Timorese cultural elements into math lessons?",
+      "choices": [
+        "Ignoring local culture entirely",
+        "Using only Western examples",
+        "Designing lessons that incorporate traditional Timorese patterns",
+        "Eliminating all cultural references"
+      ],
+      "answer": "Designing lessons that incorporate traditional Timorese patterns"
+    },
+    {
+      "question": "What is the benefit of collaborating with local artisans in math education?",
+      "choices": [
+        "It replaces formal math instruction",
+        "It explores mathematical concepts in traditional crafts",
+        "It eliminates the need for textbooks",
+        "It focuses only on artistic skills"
+      ],
+      "answer": "It explores mathematical concepts in traditional crafts"
+    },
+    {
+      "question": "Which of the following is a strategy for preparing students for national exams?",
+      "choices": [
+        "Ignoring the national curriculum",
+        "Focusing only on memorization",
+        "Aligning instruction with curriculum standards and exam formats",
+        "Eliminating all forms of assessment"
+      ],
+      "answer": "Aligning instruction with curriculum standards and exam formats"
+    },
+    {
+      "question": "What is the purpose of using visual aids in explaining algebraic concepts?",
+      "choices": [
+        "To replace numerical representations",
+        "To make lessons more colorful",
+        "To help students visualize abstract ideas",
+        "To eliminate the need for practice problems"
+      ],
+      "answer": "To help students visualize abstract ideas"
+    },
+    {
+      "question": "Which of the following is a benefit of using online math resources in Timorese classrooms?",
+      "choices": [
+        "It eliminates the need for teachers",
+        "It provides access to diverse learning materials",
+        "It replaces all traditional teaching methods",
+        "It focuses only on technology skills"
+      ],
+      "answer": "It provides access to diverse learning materials"
+    },
+    {
+      "question": "What is the purpose of creating math problems based on local scenarios?",
+      "choices": [
+        "To make math more difficult",
+        "To avoid using numbers",
+        "To connect math concepts to students' lives",
+        "To eliminate the need for textbooks"
+      ],
+      "answer": "To connect math concepts to students' lives"
+    },
+    {
+      "question": "Which of the following is a strategy for addressing language barriers in math instruction?",
+      "choices": [
+        "Using only one language",
+        "Ignoring language differences",
+        "Developing bilingual strategies for math vocabulary",
+        "Eliminating word problems"
+      ],
+      "answer": "Developing bilingual strategies for math vocabulary"
+    },
+    {
+      "question": "What is the benefit of analyzing the current state of mathematics education in Timor-Leste?",
+      "choices": [
+        "To criticize the education system",
+        "To ignore local contexts",
+        "To understand challenges and opportunities for improvement",
+        "To eliminate traditional teaching methods"
+      ],
+      "answer": "To understand challenges and opportunities for improvement"
+    },
+    {
+      "question": "Which of the following is a way to enhance critical thinking through mathematical reasoning?",
+      "choices": [
+        "Focusing only on memorization",
+        "Avoiding problem-solving activities",
+        "Encouraging students to explain their thought processes",
+        "Eliminating all abstract concepts"
+      ],
+      "answer": "Encouraging students to explain their thought processes"
+    },
+    {
+      "question": "What is the purpose of incorporating motivational techniques in math instruction?",
+      "choices": [
+        "To make math easier",
+        "To eliminate challenging content",
+        "To increase student engagement and interest",
+        "To replace assessment methods"
+      ],
+      "answer": "To increase student engagement and interest"
+    },
+    {
+      "question": "Which of the following is a benefit of using student-centered learning approaches in math education?",
+      "choices": [
+        "It eliminates the need for teacher guidance",
+        "It focuses only on individual work",
+        "It promotes active participation and ownership of learning",
+        "It reduces the importance of mathematical concepts"
+      ],
+      "answer": "It promotes active participation and ownership of learning"
+    }
+  ]
+}

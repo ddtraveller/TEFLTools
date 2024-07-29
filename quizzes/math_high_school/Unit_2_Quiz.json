@@ -1,0 +1,305 @@
+{
+  "title": "Diverse Teaching Approaches in Mathematics",
+  "questions": [
+    {
+      "question": "What is the main focus of Learning Unit 2 in the course?",
+      "choices": [
+        "Assessment techniques",
+        "Diverse teaching approaches",
+        "Mathematical concepts",
+        "Cultural considerations"
+      ],
+      "answer": "Diverse teaching approaches"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in Learning Unit 2?",
+      "choices": [
+        "Student-centered learning approaches",
+        "Collaborative learning techniques",
+        "Cooperative learning techniques",
+        "Technology-based learning methods"
+      ],
+      "answer": "Technology-based learning methods"
+    },
+    {
+      "question": "What type of activity is mentioned for practicing different instructional methods?",
+      "choices": [
+        "Group discussions",
+        "Micro-teaching sessions",
+        "Textbook analysis",
+        "Online simulations"
+      ],
+      "answer": "Micro-teaching sessions"
+    },
+    {
+      "question": "What is one of the objectives of Learning Unit 2?",
+      "choices": [
+        "Understand the Timorese education system",
+        "Develop skills to adapt teaching strategies to local contexts",
+        "Integrate real-world applications into math instruction",
+        "Address language barriers in math instruction"
+      ],
+      "answer": "Develop skills to adapt teaching strategies to local contexts"
+    },
+    {
+      "question": "Which teaching approach emphasizes the needs of the students rather than others involved in the educational process?",
+      "choices": [
+        "Teacher-centered learning",
+        "Student-centered learning",
+        "Curriculum-centered learning",
+        "Administration-centered learning"
+      ],
+      "answer": "Student-centered learning"
+    },
+    {
+      "question": "What is the term for tailoring instruction to meet individual needs of students?",
+      "choices": [
+        "Scaffolding",
+        "Differentiation",
+        "Collaboration",
+        "Cooperation"
+      ],
+      "answer": "Differentiation"
+    },
+    {
+      "question": "Which of the following is an example of a collaborative learning technique?",
+      "choices": [
+        "Lecture",
+        "Individual homework",
+        "Jigsaw method",
+        "Standardized testing"
+      ],
+      "answer": "Jigsaw method"
+    },
+    {
+      "question": "What is the purpose of the 'Think-Pair-Share' activity in the lesson plan?",
+      "choices": [
+        "To assess students' prior knowledge",
+        "To introduce new mathematical concepts",
+        "To reflect on memorable math lessons",
+        "To practice problem-solving skills"
+      ],
+      "answer": "To reflect on memorable math lessons"
+    },
+    {
+      "question": "How long is the micro-teaching session in the practice activities?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "answer": "10 minutes"
+    },
+    {
+      "question": "What is the homework assignment given at the end of the lesson?",
+      "choices": [
+        "Read a chapter on teaching methods",
+        "Observe a math class in a local school",
+        "Create a detailed lesson plan incorporating student-centered techniques",
+        "Solve a set of math problems using different strategies"
+      ],
+      "answer": "Create a detailed lesson plan incorporating student-centered techniques"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a student-centered learning approach in the lesson content?",
+      "choices": [
+        "Inquiry-based learning",
+        "Problem-based learning",
+        "Discovery learning",
+        "Lecture-based learning"
+      ],
+      "answer": "Lecture-based learning"
+    },
+    {
+      "question": "What is the purpose of the Gallery Walk activity in the lesson plan?",
+      "choices": [
+        "To introduce new math concepts",
+        "To review and provide feedback on lesson plans",
+        "To practice solving math problems",
+        "To assess students' understanding of the material"
+      ],
+      "answer": "To review and provide feedback on lesson plans"
+    },
+    {
+      "question": "What is scaffolding in the context of teaching?",
+      "choices": [
+        "Building physical structures in the classroom",
+        "A method of gradual assistance reduction to enable student independence",
+        "A way to organize curriculum topics",
+        "A technique for classroom management"
+      ],
+      "answer": "A method of gradual assistance reduction to enable student independence"
+    },
+    {
+      "question": "Which of the following is emphasized when adapting teaching methods to Timorese contexts?",
+      "choices": [
+        "Using only Portuguese language",
+        "Focusing on abstract mathematical concepts",
+        "Incorporating cultural elements",
+        "Avoiding local materials"
+      ],
+      "answer": "Incorporating cultural elements"
+    },
+    {
+      "question": "What is the recommended duration for the lesson plan to be created as homework?",
+      "choices": [
+        "30 minutes",
+        "45 minutes",
+        "60 minutes",
+        "90 minutes"
+      ],
+      "answer": "45 minutes"
+    },
+    {
+      "question": "Which activity is used to conclude the lesson and encourage reflection?",
+      "choices": [
+        "Pop quiz",
+        "Group presentation",
+        "Quick Write",
+        "Mathematical game"
+      ],
+      "answer": "Quick Write"
+    },
+    {
+      "question": "What is cooperative learning?",
+      "choices": [
+        "Students competing against each other",
+        "Teacher-led instruction",
+        "Students working together in small groups on a structured activity",
+        "Individual study time"
+      ],
+      "answer": "Students working together in small groups on a structured activity"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a resource needed for the lesson?",
+      "choices": [
+        "Whiteboard and markers",
+        "Manipulatives",
+        "Scientific calculators",
+        "Flip chart paper"
+      ],
+      "answer": "Scientific calculators"
+    },
+    {
+      "question": "What is the purpose of using manipulatives in math instruction?",
+      "choices": [
+        "To decorate the classroom",
+        "To provide concrete representations of abstract concepts",
+        "To keep students busy",
+        "To replace textbooks"
+      ],
+      "answer": "To provide concrete representations of abstract concepts"
+    },
+    {
+      "question": "How many student-centered learning approaches should participants be able to identify by the end of the lesson?",
+      "choices": [
+        "At least one",
+        "At least two",
+        "At least three",
+        "At least five"
+      ],
+      "answer": "At least three"
+    },
+    {
+      "question": "What is the recommended group size for the small group work activity?",
+      "choices": [
+        "2-3 participants",
+        "4-5 participants",
+        "6-7 participants",
+        "8-10 participants"
+      ],
+      "answer": "4-5 participants"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a collaborative learning technique in the lesson content?",
+      "choices": [
+        "Jigsaw method",
+        "Think-Pair-Share",
+        "Round Robin",
+        "Fishbowl discussion"
+      ],
+      "answer": "Fishbowl discussion"
+    },
+    {
+      "question": "What is the purpose of peer feedback after micro-teaching sessions?",
+      "choices": [
+        "To grade the presenters",
+        "To provide constructive feedback on teaching strategies",
+        "To compare presenters against each other",
+        "To identify the best presenter"
+      ],
+      "answer": "To provide constructive feedback on teaching strategies"
+    },
+    {
+      "question": "Which language considerations are mentioned when adapting teaching methods to Timorese contexts?",
+      "choices": [
+        "Using only English",
+        "Focusing solely on Portuguese",
+        "Addressing multiple languages including Tetum",
+        "Avoiding all local languages"
+      ],
+      "answer": "Addressing multiple languages including Tetum"
+    },
+    {
+      "question": "What is the main purpose of the whole class discussion at the end of the lesson?",
+      "choices": [
+        "To introduce new topics",
+        "To assign homework",
+        "To reflect on strengths and challenges of implementing diverse teaching approaches",
+        "To practice math problems"
+      ],
+      "answer": "To reflect on strengths and challenges of implementing diverse teaching approaches"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as an objective of the course's Learning Unit 2?",
+      "choices": [
+        "Explore various teaching methods",
+        "Develop skills to adapt teaching strategies",
+        "Understand the Timorese education system",
+        "Create lesson plans with diverse strategies"
+      ],
+      "answer": "Understand the Timorese education system"
+    },
+    {
+      "question": "What type of math curriculum should be used when creating the homework lesson plan?",
+      "choices": [
+        "American curriculum",
+        "British curriculum",
+        "Timorese curriculum",
+        "Australian curriculum"
+      ],
+      "answer": "Timorese curriculum"
+    },
+    {
+      "question": "Which of the following best describes the 'Round Robin' technique?",
+      "choices": [
+        "Students compete in a math tournament",
+        "Each student in a group takes turns contributing ideas",
+        "The teacher lectures in a circular pattern",
+        "Students solve problems individually in a timed setting"
+      ],
+      "answer": "Each student in a group takes turns contributing ideas"
+    },
+    {
+      "question": "What is the primary goal of incorporating diverse teaching strategies in Timorese classrooms?",
+      "choices": [
+        "To make the teacher's job easier",
+        "To reduce the need for textbooks",
+        "To enhance student understanding and engagement",
+        "To standardize all math instruction"
+      ],
+      "answer": "To enhance student understanding and engagement"
+    },
+    {
+      "question": "Which of the following is an example of using local materials in math instruction?",
+      "choices": [
+        "Using only imported textbooks",
+        "Creating math problems based on local industries like agriculture",
+        "Avoiding references to Timorese culture",
+        "Teaching only in Portuguese"
+      ],
+      "answer": "Creating math problems based on local industries like agriculture"
+    }
+  ]
+}

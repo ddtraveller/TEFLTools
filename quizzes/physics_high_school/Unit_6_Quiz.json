@@ -1,0 +1,305 @@
+{
+  "title": "Waves and Optics",
+  "questions": [
+    {
+      "question": "What is the main difference between mechanical and electromagnetic waves?",
+      "choices": [
+        "Mechanical waves require a medium, electromagnetic waves do not",
+        "Electromagnetic waves require a medium, mechanical waves do not",
+        "Mechanical waves are always transverse, electromagnetic waves are always longitudinal",
+        "Electromagnetic waves are always visible, mechanical waves are not"
+      ],
+      "answer": "Mechanical waves require a medium, electromagnetic waves do not"
+    },
+    {
+      "question": "Which property of a wave determines its pitch in sound waves?",
+      "choices": [
+        "Amplitude",
+        "Wavelength",
+        "Frequency",
+        "Speed"
+      ],
+      "answer": "Frequency"
+    },
+    {
+      "question": "What is the relationship between wavelength (λ), frequency (f), and wave speed (v)?",
+      "choices": [
+        "v = λf",
+        "v = λ/f",
+        "v = f/λ",
+        "v = λ + f"
+      ],
+      "answer": "v = λf"
+    },
+    {
+      "question": "Which type of lens is used to correct nearsightedness?",
+      "choices": [
+        "Convex lens",
+        "Concave lens",
+        "Bifocal lens",
+        "Cylindrical lens"
+      ],
+      "answer": "Concave lens"
+    },
+    {
+      "question": "What is the principle behind the law of reflection?",
+      "choices": [
+        "The angle of incidence equals the angle of refraction",
+        "The angle of incidence equals the angle of reflection",
+        "The angle of reflection is always greater than the angle of incidence",
+        "The angle of reflection is always less than the angle of incidence"
+      ],
+      "answer": "The angle of incidence equals the angle of reflection"
+    },
+    {
+      "question": "Which phenomenon explains the apparent change in frequency of a sound source as it moves relative to an observer?",
+      "choices": [
+        "Diffraction",
+        "Interference",
+        "Doppler effect",
+        "Resonance"
+      ],
+      "answer": "Doppler effect"
+    },
+    {
+      "question": "What type of waves are sound waves?",
+      "choices": [
+        "Transverse waves",
+        "Longitudinal waves",
+        "Electromagnetic waves",
+        "Surface waves"
+      ],
+      "answer": "Longitudinal waves"
+    },
+    {
+      "question": "Which of the following is NOT a behavior exhibited by waves?",
+      "choices": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Acceleration"
+      ],
+      "answer": "Acceleration"
+    },
+    {
+      "question": "What is the term for the bending of light as it passes from one medium to another?",
+      "choices": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "answer": "Refraction"
+    },
+    {
+      "question": "Which law describes the relationship between the angles of incidence and refraction when light passes between two media?",
+      "choices": [
+        "Newton's law",
+        "Hooke's law",
+        "Snell's law",
+        "Ohm's law"
+      ],
+      "answer": "Snell's law"
+    },
+    {
+      "question": "What determines the loudness of a sound wave?",
+      "choices": [
+        "Frequency",
+        "Wavelength",
+        "Amplitude",
+        "Speed"
+      ],
+      "answer": "Amplitude"
+    },
+    {
+      "question": "Which type of lens is thicker in the middle and converges parallel light rays?",
+      "choices": [
+        "Concave lens",
+        "Convex lens",
+        "Plano-convex lens",
+        "Meniscus lens"
+      ],
+      "answer": "Convex lens"
+    },
+    {
+      "question": "What is the study of sound, its production, transmission, and effects called?",
+      "choices": [
+        "Optics",
+        "Acoustics",
+        "Harmonics",
+        "Sonics"
+      ],
+      "answer": "Acoustics"
+    },
+    {
+      "question": "Which phenomenon occurs when waves encounter an obstacle or opening, causing them to spread out?",
+      "choices": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "answer": "Diffraction"
+    },
+    {
+      "question": "What is the term for the overlapping of two or more waves resulting in a new wave pattern?",
+      "choices": [
+        "Diffraction",
+        "Refraction",
+        "Resonance",
+        "Interference"
+      ],
+      "answer": "Interference"
+    },
+    {
+      "question": "Which property of a wave is the distance between successive crests or troughs?",
+      "choices": [
+        "Amplitude",
+        "Frequency",
+        "Wavelength",
+        "Period"
+      ],
+      "answer": "Wavelength"
+    },
+    {
+      "question": "What type of reflection occurs when light is reflected from a smooth surface at a definite angle?",
+      "choices": [
+        "Diffuse reflection",
+        "Specular reflection",
+        "Total internal reflection",
+        "Partial reflection"
+      ],
+      "answer": "Specular reflection"
+    },
+    {
+      "question": "Which principle is used in fiber optic communication systems to transmit light signals?",
+      "choices": [
+        "Diffraction",
+        "Interference",
+        "Total internal reflection",
+        "Resonance"
+      ],
+      "answer": "Total internal reflection"
+    },
+    {
+      "question": "What is the term for the unique quality of a sound that distinguishes it from other sounds of the same pitch and loudness?",
+      "choices": [
+        "Amplitude",
+        "Frequency",
+        "Timbre",
+        "Resonance"
+      ],
+      "answer": "Timbre"
+    },
+    {
+      "question": "Which of the following is an example of an electromagnetic wave?",
+      "choices": [
+        "Sound waves",
+        "Water waves",
+        "Seismic waves",
+        "Radio waves"
+      ],
+      "answer": "Radio waves"
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "choices": [
+        "3 x 10^8 m/s",
+        "3 x 10^6 m/s",
+        "3 x 10^4 m/s",
+        "3 x 10^2 m/s"
+      ],
+      "answer": "3 x 10^8 m/s"
+    },
+    {
+      "question": "Which type of lens is used in a magnifying glass?",
+      "choices": [
+        "Concave lens",
+        "Convex lens",
+        "Plano-concave lens",
+        "Bifocal lens"
+      ],
+      "answer": "Convex lens"
+    },
+    {
+      "question": "What is the term for the repeated reflection of sound waves?",
+      "choices": [
+        "Resonance",
+        "Reverberation",
+        "Refraction",
+        "Interference"
+      ],
+      "answer": "Reverberation"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of sound waves?",
+      "choices": [
+        "They are longitudinal waves",
+        "They can travel through a vacuum",
+        "Their speed depends on the medium",
+        "They can be reflected and refracted"
+      ],
+      "answer": "They can travel through a vacuum"
+    },
+    {
+      "question": "What is the term for the minimum angle of incidence at which total internal reflection occurs?",
+      "choices": [
+        "Brewster's angle",
+        "Critical angle",
+        "Reflection angle",
+        "Snell's angle"
+      ],
+      "answer": "Critical angle"
+    },
+    {
+      "question": "Which type of electromagnetic radiation has the longest wavelength?",
+      "choices": [
+        "Gamma rays",
+        "X-rays",
+        "Visible light",
+        "Radio waves"
+      ],
+      "answer": "Radio waves"
+    },
+    {
+      "question": "What is the term for the bending of waves around obstacles or through openings?",
+      "choices": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "answer": "Diffraction"
+    },
+    {
+      "question": "Which of the following is an application of the Doppler effect?",
+      "choices": [
+        "Corrective lenses",
+        "Fiber optic communication",
+        "Radar speed guns",
+        "Telescope mirrors"
+      ],
+      "answer": "Radar speed guns"
+    },
+    {
+      "question": "What is the relationship between the focal length (f), object distance (do), and image distance (di) in the thin lens equation?",
+      "choices": [
+        "1/f = 1/do + 1/di",
+        "1/f = 1/do - 1/di",
+        "f = do + di",
+        "f = do - di"
+      ],
+      "answer": "1/f = 1/do + 1/di"
+    },
+    {
+      "question": "Which of the following best describes the nature of light?",
+      "choices": [
+        "Particle only",
+        "Wave only",
+        "Both particle and wave",
+        "Neither particle nor wave"
+      ],
+      "answer": "Both particle and wave"
+    }
+  ]
+}

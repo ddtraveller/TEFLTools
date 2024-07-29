@@ -1,0 +1,305 @@
+{
+  "title": "Motion in One and Two Dimensions",
+  "questions": [
+    {
+      "question": "What is displacement?",
+      "choices": [
+        "The total distance traveled by an object",
+        "The change in position of an object, including magnitude and direction",
+        "The speed of an object at a given instant",
+        "The rate of change of velocity over time"
+      ],
+      "answer": "The change in position of an object, including magnitude and direction"
+    },
+    {
+      "question": "Which equation represents the relationship between final velocity, initial velocity, acceleration, and time for constant acceleration?",
+      "choices": [
+        "v = v₀ + at",
+        "x = x₀ + v₀t + ½at²",
+        "v² = v₀² + 2a(x - x₀)",
+        "a = (v - v₀) / t"
+      ],
+      "answer": "v = v₀ + at"
+    },
+    {
+      "question": "What is the principle of independence of perpendicular motions in two-dimensional motion?",
+      "choices": [
+        "Horizontal and vertical motions are always equal",
+        "Horizontal and vertical components of motion can be treated separately",
+        "Horizontal motion is always faster than vertical motion",
+        "Vertical motion is not affected by gravity in two dimensions"
+      ],
+      "answer": "Horizontal and vertical components of motion can be treated separately"
+    },
+    {
+      "question": "In projectile motion, which component of velocity remains constant (ignoring air resistance)?",
+      "choices": [
+        "Vertical component",
+        "Horizontal component",
+        "Both components",
+        "Neither component"
+      ],
+      "answer": "Horizontal component"
+    },
+    {
+      "question": "What is the shape of the path of a projectile launched at an angle (ignoring air resistance)?",
+      "choices": [
+        "Straight line",
+        "Circle",
+        "Parabola",
+        "Hyperbola"
+      ],
+      "answer": "Parabola"
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "choices": [
+        "Speed",
+        "Distance",
+        "Time",
+        "Velocity"
+      ],
+      "answer": "Velocity"
+    },
+    {
+      "question": "What does acceleration describe?",
+      "choices": [
+        "The total distance traveled by an object",
+        "The change in position of an object",
+        "The rate of change of velocity over time",
+        "The speed of an object at a given instant"
+      ],
+      "answer": "The rate of change of velocity over time"
+    },
+    {
+      "question": "In one-dimensional motion, what does the equation x = x₀ + v₀t + ½at² represent?",
+      "choices": [
+        "Final velocity",
+        "Acceleration",
+        "Displacement",
+        "Average velocity"
+      ],
+      "answer": "Displacement"
+    },
+    {
+      "question": "What is the main advantage of using vector notation in two-dimensional motion?",
+      "choices": [
+        "It simplifies calculations",
+        "It represents both magnitude and direction",
+        "It only works for horizontal motion",
+        "It eliminates the need for trigonometry"
+      ],
+      "answer": "It represents both magnitude and direction"
+    },
+    {
+      "question": "In projectile motion, what force is primarily responsible for the vertical component of motion?",
+      "choices": [
+        "Air resistance",
+        "Friction",
+        "Gravity",
+        "Magnetic force"
+      ],
+      "answer": "Gravity"
+    },
+    {
+      "question": "What is the difference between average velocity and instantaneous velocity?",
+      "choices": [
+        "Average velocity is always greater than instantaneous velocity",
+        "Instantaneous velocity is measured over a specific time interval, while average velocity is measured at a single point in time",
+        "Average velocity is measured over a specific time interval, while instantaneous velocity is measured at a single point in time",
+        "There is no difference between average and instantaneous velocity"
+      ],
+      "answer": "Average velocity is measured over a specific time interval, while instantaneous velocity is measured at a single point in time"
+    },
+    {
+      "question": "Which of the following is true about the acceleration of a projectile at the highest point of its trajectory?",
+      "choices": [
+        "The acceleration is zero",
+        "The acceleration is equal to gravity and pointing downward",
+        "The acceleration is equal to gravity and pointing upward",
+        "The acceleration is infinite"
+      ],
+      "answer": "The acceleration is equal to gravity and pointing downward"
+    },
+    {
+      "question": "What is the relationship between displacement and distance traveled?",
+      "choices": [
+        "Displacement is always greater than distance traveled",
+        "Distance traveled is always greater than or equal to the magnitude of displacement",
+        "Displacement and distance traveled are always equal",
+        "Distance traveled is always less than displacement"
+      ],
+      "answer": "Distance traveled is always greater than or equal to the magnitude of displacement"
+    },
+    {
+      "question": "In relative motion, how is the relative velocity between two objects calculated?",
+      "choices": [
+        "By adding their individual velocities",
+        "By subtracting the velocity of the reference frame from the velocity of the object",
+        "By multiplying their individual velocities",
+        "By dividing the velocity of the object by the velocity of the reference frame"
+      ],
+      "answer": "By subtracting the velocity of the reference frame from the velocity of the object"
+    },
+    {
+      "question": "What does the area under a velocity-time graph represent?",
+      "choices": [
+        "Acceleration",
+        "Displacement",
+        "Speed",
+        "Force"
+      ],
+      "answer": "Displacement"
+    },
+    {
+      "question": "Which of the following is an example of one-dimensional motion?",
+      "choices": [
+        "A car driving around a circular track",
+        "A ball thrown at an angle",
+        "An elevator moving up and down",
+        "A satellite orbiting Earth"
+      ],
+      "answer": "An elevator moving up and down"
+    },
+    {
+      "question": "What is the primary difference between speed and velocity?",
+      "choices": [
+        "Speed is faster than velocity",
+        "Velocity has direction, while speed is a scalar quantity",
+        "Speed is always constant, while velocity can change",
+        "Velocity is measured in meters, while speed is measured in meters per second"
+      ],
+      "answer": "Velocity has direction, while speed is a scalar quantity"
+    },
+    {
+      "question": "In projectile motion, at what point is the vertical component of velocity zero?",
+      "choices": [
+        "At the launch point",
+        "At the highest point of the trajectory",
+        "At the landing point",
+        "Halfway between the launch and landing points"
+      ],
+      "answer": "At the highest point of the trajectory"
+    },
+    {
+      "question": "What is the acceleration of an object in free fall near Earth's surface (ignoring air resistance)?",
+      "choices": [
+        "0 m/s²",
+        "5.8 m/s²",
+        "9.8 m/s²",
+        "11.2 m/s²"
+      ],
+      "answer": "9.8 m/s²"
+    },
+    {
+      "question": "Which of the following is true about the horizontal and vertical components of a projectile's motion?",
+      "choices": [
+        "They are both affected by gravity equally",
+        "The horizontal component has constant velocity, while the vertical component has constant acceleration",
+        "The vertical component has constant velocity, while the horizontal component has constant acceleration",
+        "They both have constant acceleration"
+      ],
+      "answer": "The horizontal component has constant velocity, while the vertical component has constant acceleration"
+    },
+    {
+      "question": "What is the purpose of breaking down two-dimensional motion into components?",
+      "choices": [
+        "To make the motion three-dimensional",
+        "To eliminate the effects of gravity",
+        "To simplify the analysis by treating each component independently",
+        "To increase the speed of the object"
+      ],
+      "answer": "To simplify the analysis by treating each component independently"
+    },
+    {
+      "question": "Which of the following is not a kinematic equation for constant acceleration?",
+      "choices": [
+        "v = v₀ + at",
+        "x = x₀ + v₀t + ½at²",
+        "v² = v₀² + 2a(x - x₀)",
+        "a = v² / (2x)"
+      ],
+      "answer": "a = v² / (2x)"
+    },
+    {
+      "question": "What is the trajectory of a projectile launched horizontally from a cliff (ignoring air resistance)?",
+      "choices": [
+        "Straight line",
+        "Parabola",
+        "Circle",
+        "Spiral"
+      ],
+      "answer": "Parabola"
+    },
+    {
+      "question": "In a velocity-time graph, what does the slope represent?",
+      "choices": [
+        "Displacement",
+        "Speed",
+        "Acceleration",
+        "Force"
+      ],
+      "answer": "Acceleration"
+    },
+    {
+      "question": "What is the range of a projectile?",
+      "choices": [
+        "The maximum height reached by the projectile",
+        "The total distance traveled by the projectile",
+        "The horizontal distance between the launch and landing points",
+        "The time the projectile stays in the air"
+      ],
+      "answer": "The horizontal distance between the launch and landing points"
+    },
+    {
+      "question": "Which of the following is true about the acceleration vector in uniform circular motion?",
+      "choices": [
+        "It points in the direction of motion",
+        "It points opposite to the direction of motion",
+        "It points towards the center of the circle",
+        "It is zero"
+      ],
+      "answer": "It points towards the center of the circle"
+    },
+    {
+      "question": "What is the relationship between average speed and average velocity?",
+      "choices": [
+        "They are always equal",
+        "Average speed is always greater than or equal to the magnitude of average velocity",
+        "Average velocity is always greater than average speed",
+        "They are unrelated quantities"
+      ],
+      "answer": "Average speed is always greater than or equal to the magnitude of average velocity"
+    },
+    {
+      "question": "In which case would the displacement and distance traveled be equal for an object's motion?",
+      "choices": [
+        "Circular motion",
+        "Projectile motion",
+        "Motion in a straight line without changing direction",
+        "Zigzag motion"
+      ],
+      "answer": "Motion in a straight line without changing direction"
+    },
+    {
+      "question": "What is the main difference between classical mechanics and special relativity in terms of motion?",
+      "choices": [
+        "Classical mechanics only applies to one-dimensional motion",
+        "Special relativity introduces the concept of acceleration",
+        "Classical mechanics assumes absolute time and space, while special relativity does not",
+        "Special relativity only applies to objects at rest"
+      ],
+      "answer": "Classical mechanics assumes absolute time and space, while special relativity does not"
+    },
+    {
+      "question": "Which of the following would not be considered an example of two-dimensional motion?",
+      "choices": [
+        "A car driving on a winding road",
+        "A ball rolling down an inclined plane",
+        "A person walking in a straight line on a flat surface",
+        "A leaf falling from a tree"
+      ],
+      "answer": "A person walking in a straight line on a flat surface"
+    }
+  ]
+}

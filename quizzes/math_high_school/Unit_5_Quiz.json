@@ -1,0 +1,305 @@
+{
+  "title": "Student Engagement and Active Learning in Mathematics",
+  "questions": [
+    {
+      "question": "What is the primary goal of implementing strategies to increase student participation in math classes?",
+      "choices": [
+        "To make the teacher's job easier",
+        "To increase student engagement and active learning",
+        "To reduce the need for homework",
+        "To prepare students for standardized tests"
+      ],
+      "answer": "To increase student engagement and active learning"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a benefit of using games in math education?",
+      "choices": [
+        "Increased engagement and motivation",
+        "Practical application of math concepts",
+        "Development of problem-solving skills",
+        "Reduced need for teacher instruction"
+      ],
+      "answer": "Reduced need for teacher instruction"
+    },
+    {
+      "question": "What is 'gamification' in the context of education?",
+      "choices": [
+        "Playing video games during class time",
+        "Using board games to teach math",
+        "The application of game elements to non-game contexts, like education",
+        "Creating educational video games"
+      ],
+      "answer": "The application of game elements to non-game contexts, like education"
+    },
+    {
+      "question": "When adapting traditional Timorese games for math instruction, what is an important consideration?",
+      "choices": [
+        "Making the game as complex as possible",
+        "Removing all cultural elements",
+        "Identifying mathematical elements in existing games",
+        "Ensuring the game can only be played individually"
+      ],
+      "answer": "Identifying mathematical elements in existing games"
+    },
+    {
+      "question": "What is a key criterion for evaluating online math resources for Timorese classrooms?",
+      "choices": [
+        "The resource must be in English",
+        "Cultural relevance and appropriateness",
+        "The resource must require high-speed internet",
+        "The resource must be free of charge"
+      ],
+      "answer": "Cultural relevance and appropriateness"
+    },
+    {
+      "question": "Which of the following is NOT mentioned as a topic in the module on Student Engagement and Active Learning?",
+      "choices": [
+        "Motivational techniques for math learners",
+        "Incorporating games and technology in math instruction",
+        "Advanced calculus concepts",
+        "Designing interactive learning experiences"
+      ],
+      "answer": "Advanced calculus concepts"
+    },
+    {
+      "question": "What is the purpose of the 'Even or Odd' dice game mentioned in the lesson plan?",
+      "choices": [
+        "To teach advanced probability",
+        "As a warm-up activity to demonstrate mathematical thinking in games",
+        "To assess students' prior knowledge",
+        "To introduce complex number theory"
+      ],
+      "answer": "As a warm-up activity to demonstrate mathematical thinking in games"
+    },
+    {
+      "question": "In the context of math education, what does 'culturally relevant' mean?",
+      "choices": [
+        "Using only traditional teaching methods",
+        "Avoiding modern technology in lessons",
+        "Educational content that reflects and respects local cultural norms and practices",
+        "Teaching math only in the local language"
+      ],
+      "answer": "Educational content that reflects and respects local cultural norms and practices"
+    },
+    {
+      "question": "What is one of the activities suggested for developing math games in the module?",
+      "choices": [
+        "Using traditional Timorese games as inspiration",
+        "Copying games from American textbooks",
+        "Creating video games",
+        "Purchasing commercial math games"
+      ],
+      "answer": "Using traditional Timorese games as inspiration"
+    },
+    {
+      "question": "What is emphasized regarding the use of technology in math instruction for Timorese classrooms?",
+      "choices": [
+        "All classrooms must have the latest technology",
+        "Technology should never be used in math classes",
+        "Exploring free online math resources suitable for Timorese classrooms",
+        "Only high-end graphing calculators should be used"
+      ],
+      "answer": "Exploring free online math resources suitable for Timorese classrooms"
+    },
+    {
+      "question": "What is a key consideration when designing interactive learning experiences for math classes in Timor-Leste?",
+      "choices": [
+        "Focusing solely on theoretical concepts",
+        "Ignoring local context and culture",
+        "Incorporating local cultural elements and real-world applications",
+        "Using only Portuguese language materials"
+      ],
+      "answer": "Incorporating local cultural elements and real-world applications"
+    },
+    {
+      "question": "What is the purpose of the 'Game Design Challenge' activity in the lesson plan?",
+      "choices": [
+        "To test students' programming skills",
+        "To have students create a new math game incorporating local cultural elements",
+        "To play existing math games competitively",
+        "To critique commercial math games"
+      ],
+      "answer": "To have students create a new math game incorporating local cultural elements"
+    },
+    {
+      "question": "Why is peer teaching included as part of the lesson activities?",
+      "choices": [
+        "To reduce the teacher's workload",
+        "To allow students to practice explaining mathematical concepts",
+        "To replace formal instruction",
+        "To identify the most intelligent students"
+      ],
+      "answer": "To allow students to practice explaining mathematical concepts"
+    },
+    {
+      "question": "What type of materials are suggested for creating math games in the classroom?",
+      "choices": [
+        "Expensive electronic devices",
+        "Only items imported from other countries",
+        "Basic items like dice, cards, or paper",
+        "Specialized math manipulatives"
+      ],
+      "answer": "Basic items like dice, cards, or paper"
+    },
+    {
+      "question": "What is the main goal of incorporating games into math instruction?",
+      "choices": [
+        "To reduce the amount of formal teaching required",
+        "To make math class more fun without regard for learning outcomes",
+        "To enhance engagement and provide practical application of math concepts",
+        "To prepare students for careers in game design"
+      ],
+      "answer": "To enhance engagement and provide practical application of math concepts"
+    },
+    {
+      "question": "What is emphasized about the language considerations in math education for Timor-Leste?",
+      "choices": [
+        "All instruction should be in English",
+        "Only Portuguese should be used",
+        "Consideration of Tetum, Portuguese, and local languages",
+        "Mathematical terms should never be translated"
+      ],
+      "answer": "Consideration of Tetum, Portuguese, and local languages"
+    },
+    {
+      "question": "What is suggested as a way to connect culture and mathematics?",
+      "choices": [
+        "Ignoring cultural context in math problems",
+        "Using ethnomathematics",
+        "Focusing only on Western mathematical traditions",
+        "Avoiding any reference to local customs in math class"
+      ],
+      "answer": "Using ethnomathematics"
+    },
+    {
+      "question": "What is a recommended approach for addressing language barriers in math instruction?",
+      "choices": [
+        "Using only one language for all instruction",
+        "Avoiding mathematical terminology",
+        "Developing bilingual strategies for math vocabulary",
+        "Separating students by language proficiency"
+      ],
+      "answer": "Developing bilingual strategies for math vocabulary"
+    },
+    {
+      "question": "What type of assessment is emphasized for evaluating student progress in math?",
+      "choices": [
+        "Only end-of-year exams",
+        "Standardized tests from other countries",
+        "Both formative and summative assessment strategies",
+        "Peer grading without teacher input"
+      ],
+      "answer": "Both formative and summative assessment strategies"
+    },
+    {
+      "question": "What is suggested as a way to incorporate Timorese culture into math lessons?",
+      "choices": [
+        "Avoiding all references to local culture",
+        "Using only examples from urban areas",
+        "Designing lessons that incorporate traditional Timorese patterns and designs",
+        "Focusing exclusively on modern technology"
+      ],
+      "answer": "Designing lessons that incorporate traditional Timorese patterns and designs"
+    },
+    {
+      "question": "What is recommended for creating inclusive learning environments in Timorese math classrooms?",
+      "choices": [
+        "Segregating students by ability",
+        "Using only teacher-centered approaches",
+        "Implementing student-centered and collaborative learning techniques",
+        "Focusing solely on individual work"
+      ],
+      "answer": "Implementing student-centered and collaborative learning techniques"
+    },
+    {
+      "question": "What is suggested as a way to contextualize math problems for Timorese students?",
+      "choices": [
+        "Using only abstract, theoretical problems",
+        "Copying problems directly from foreign textbooks",
+        "Designing problems based on local industries like agriculture and fishing",
+        "Avoiding word problems entirely"
+      ],
+      "answer": "Designing problems based on local industries like agriculture and fishing"
+    },
+    {
+      "question": "What is emphasized regarding the use of technology in Timorese math classrooms?",
+      "choices": [
+        "All schools must have the latest computers",
+        "Technology should never be used in math instruction",
+        "Exploring free online resources suitable for local contexts",
+        "Only high-end graphing calculators should be used"
+      ],
+      "answer": "Exploring free online resources suitable for local contexts"
+    },
+    {
+      "question": "What is suggested as a practical experience for teachers in training?",
+      "choices": [
+        "Observing only in urban schools",
+        "Avoiding direct interaction with students",
+        "Conducting classroom observations in local secondary schools",
+        "Teaching only the highest-achieving students"
+      ],
+      "answer": "Conducting classroom observations in local secondary schools"
+    },
+    {
+      "question": "What is recommended for addressing gender disparities in math education?",
+      "choices": [
+        "Separating classes by gender",
+        "Ignoring gender differences",
+        "Developing strategies to encourage equal participation",
+        "Focusing math education only on boys"
+      ],
+      "answer": "Developing strategies to encourage equal participation"
+    },
+    {
+      "question": "What is suggested as a way to involve the community in math education?",
+      "choices": [
+        "Keeping math education strictly within the classroom",
+        "Organizing a math fair for community involvement",
+        "Discouraging parents from helping with math homework",
+        "Focusing only on preparing for national exams"
+      ],
+      "answer": "Organizing a math fair for community involvement"
+    },
+    {
+      "question": "What is emphasized about problem-solving in math education for Timorese students?",
+      "choices": [
+        "Focusing only on memorizing formulas",
+        "Avoiding complex problems",
+        "Developing critical thinking through mathematical reasoning",
+        "Using only problems from standardized tests"
+      ],
+      "answer": "Developing critical thinking through mathematical reasoning"
+    },
+    {
+      "question": "What is suggested as a way to make abstract mathematical concepts more understandable?",
+      "choices": [
+        "Avoiding visual aids entirely",
+        "Using only written explanations",
+        "Creating visual aids for explaining algebraic concepts",
+        "Teaching abstract concepts only to advanced students"
+      ],
+      "answer": "Creating visual aids for explaining algebraic concepts"
+    },
+    {
+      "question": "What is recommended for teaching fractions in Timorese classrooms?",
+      "choices": [
+        "Using only abstract representations",
+        "Avoiding hands-on activities",
+        "Conducting hands-on activities using local materials",
+        "Teaching fractions only in higher grades"
+      ],
+      "answer": "Conducting hands-on activities using local materials"
+    },
+    {
+      "question": "What is suggested as a way to prepare students for national exams and higher education?",
+      "choices": [
+        "Focusing exclusively on exam preparation",
+        "Ignoring national curriculum standards",
+        "Balancing exam preparation with development of broader mathematical skills",
+        "Discouraging students from pursuing higher education"
+      ],
+      "answer": "Balancing exam preparation with development of broader mathematical skills"
+    }
+  ]
+}

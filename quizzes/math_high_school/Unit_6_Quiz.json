@@ -1,0 +1,305 @@
+{
+  "title": "Cultural and Language Considerations in Math Education",
+  "questions": [
+    {
+      "question": "What is the primary goal of addressing language barriers in math instruction?",
+      "choices": [
+        "To eliminate the use of local languages",
+        "To improve student understanding and engagement",
+        "To simplify mathematical concepts",
+        "To reduce the need for bilingual teachers"
+      ],
+      "answer": "To improve student understanding and engagement"
+    },
+    {
+      "question": "What is ethnomathematics?",
+      "choices": [
+        "The study of mathematics in ancient cultures",
+        "The relationship between mathematics and culture",
+        "The use of mathematics in ethnographic research",
+        "The teaching of mathematics to ethnic minorities"
+      ],
+      "answer": "The relationship between mathematics and culture"
+    },
+    {
+      "question": "Which languages are primarily considered in the bilingual strategies for math education in Timor-Leste?",
+      "choices": [
+        "English and Portuguese",
+        "Tetum and Indonesian",
+        "Tetum and Portuguese",
+        "Portuguese and Spanish"
+      ],
+      "answer": "Tetum and Portuguese"
+    },
+    {
+      "question": "What is a key benefit of incorporating Timorese cultural elements into math lessons?",
+      "choices": [
+        "It reduces the complexity of mathematical concepts",
+        "It eliminates the need for formal mathematical language",
+        "It connects abstract concepts to familiar contexts",
+        "It replaces traditional mathematical methods entirely"
+      ],
+      "answer": "It connects abstract concepts to familiar contexts"
+    },
+    {
+      "question": "What is a tais in Timorese culture?",
+      "choices": [
+        "A traditional mathematical game",
+        "A type of geometric proof",
+        "A woven cloth with intricate patterns",
+        "A system of numerical notation"
+      ],
+      "answer": "A woven cloth with intricate patterns"
+    },
+    {
+      "question": "Why is bilingual instruction important in mathematics education in Timor-Leste?",
+      "choices": [
+        "It is required by law",
+        "It prepares students for higher education while preserving cultural identity",
+        "It is easier for teachers to implement",
+        "It eliminates the need for mathematical symbols"
+      ],
+      "answer": "It prepares students for higher education while preserving cultural identity"
+    },
+    {
+      "question": "What is a key strategy for developing math vocabulary in a bilingual setting?",
+      "choices": [
+        "Using only Portuguese terms",
+        "Avoiding technical mathematical terms",
+        "Creating bilingual math glossaries",
+        "Teaching math exclusively in Tetum"
+      ],
+      "answer": "Creating bilingual math glossaries"
+    },
+    {
+      "question": "Which geometric concept is often found in traditional Timorese patterns?",
+      "choices": [
+        "Fractals",
+        "Symmetry",
+        "Calculus",
+        "Trigonometry"
+      ],
+      "answer": "Symmetry"
+    },
+    {
+      "question": "What is a benefit of using traditional Timorese games as inspiration for math games?",
+      "choices": [
+        "It eliminates the need for mathematical rigor",
+        "It makes math lessons shorter",
+        "It increases student engagement through familiar contexts",
+        "It replaces the need for formal assessments"
+      ],
+      "answer": "It increases student engagement through familiar contexts"
+    },
+    {
+      "question": "What is a key consideration when creating culturally responsive math assessments?",
+      "choices": [
+        "Using only standardized international tests",
+        "Avoiding all references to local culture",
+        "Incorporating contexts and examples relevant to Timorese students",
+        "Eliminating written assessments entirely"
+      ],
+      "answer": "Incorporating contexts and examples relevant to Timorese students"
+    },
+    {
+      "question": "What is the purpose of analyzing traditional Timorese patterns for mathematical concepts?",
+      "choices": [
+        "To replace modern mathematics with traditional methods",
+        "To demonstrate the universality of mathematical concepts",
+        "To eliminate the need for formal mathematical education",
+        "To prove the superiority of Timorese mathematics"
+      ],
+      "answer": "To demonstrate the universality of mathematical concepts"
+    },
+    {
+      "question": "Which of the following is a recommended activity for incorporating culture into math education?",
+      "choices": [
+        "Ignoring local cultural practices in math lessons",
+        "Designing lessons that incorporate traditional Timorese patterns",
+        "Teaching only in Portuguese to prepare for higher education",
+        "Avoiding all references to real-world applications"
+      ],
+      "answer": "Designing lessons that incorporate traditional Timorese patterns"
+    },
+    {
+      "question": "What is a potential challenge when implementing bilingual math instruction?",
+      "choices": [
+        "Students learn mathematical concepts too quickly",
+        "There is no need for abstract thinking in math",
+        "Ensuring consistent terminology across languages",
+        "Eliminating all cultural references in math"
+      ],
+      "answer": "Ensuring consistent terminology across languages"
+    },
+    {
+      "question": "How can ethnomathematics support math education in Timor-Leste?",
+      "choices": [
+        "By replacing formal mathematics entirely",
+        "By connecting cultural practices to mathematical concepts",
+        "By eliminating the need for numerical calculations",
+        "By focusing only on traditional counting systems"
+      ],
+      "answer": "By connecting cultural practices to mathematical concepts"
+    },
+    {
+      "question": "What is a benefit of creating visual aids for explaining algebraic concepts?",
+      "choices": [
+        "It eliminates the need for symbolic representation",
+        "It makes algebra unnecessary in the curriculum",
+        "It helps bridge language barriers in understanding",
+        "It replaces the need for practice problems"
+      ],
+      "answer": "It helps bridge language barriers in understanding"
+    },
+    {
+      "question": "Which of the following is a recommended approach for teaching fractions in Timor-Leste?",
+      "choices": [
+        "Using only abstract symbols",
+        "Avoiding all real-world applications",
+        "Using hands-on activities with local materials",
+        "Teaching fractions only in Portuguese"
+      ],
+      "answer": "Using hands-on activities with local materials"
+    },
+    {
+      "question": "What is the purpose of incorporating games in math instruction?",
+      "choices": [
+        "To replace formal assessments",
+        "To eliminate the need for problem-solving",
+        "To increase student engagement and motivation",
+        "To teach only basic arithmetic"
+      ],
+      "answer": "To increase student engagement and motivation"
+    },
+    {
+      "question": "How can teachers address gender disparities in math education in Timor-Leste?",
+      "choices": [
+        "By teaching boys and girls separately",
+        "By using gender-neutral examples and encouraging participation from all students",
+        "By focusing math education solely on boys",
+        "By eliminating all cultural references in math lessons"
+      ],
+      "answer": "By using gender-neutral examples and encouraging participation from all students"
+    },
+    {
+      "question": "What is a key consideration when preparing students for national exams in Timor-Leste?",
+      "choices": [
+        "Focusing only on memorization of formulas",
+        "Ignoring cultural context in problem-solving",
+        "Balancing exam preparation with conceptual understanding",
+        "Teaching exclusively in Portuguese"
+      ],
+      "answer": "Balancing exam preparation with conceptual understanding"
+    },
+    {
+      "question": "How can collaboration with local artisans benefit math education?",
+      "choices": [
+        "By replacing mathematical instruction with craft-making",
+        "By exploring mathematical concepts in traditional crafts",
+        "By eliminating the need for formal math classes",
+        "By teaching crafts instead of mathematics"
+      ],
+      "answer": "By exploring mathematical concepts in traditional crafts"
+    },
+    {
+      "question": "What is a key strategy for teaching math in resource-limited settings?",
+      "choices": [
+        "Relying solely on expensive technology",
+        "Eliminating all hands-on activities",
+        "Using locally available materials for demonstrations and activities",
+        "Teaching only theoretical concepts without applications"
+      ],
+      "answer": "Using locally available materials for demonstrations and activities"
+    },
+    {
+      "question": "How can teachers use formative assessment in math classes in Timor-Leste?",
+      "choices": [
+        "By giving only final exams",
+        "By avoiding all forms of student feedback",
+        "By continuously evaluating student understanding to guide instruction",
+        "By using only standardized international tests"
+      ],
+      "answer": "By continuously evaluating student understanding to guide instruction"
+    },
+    {
+      "question": "What is the purpose of creating math fairs for community involvement?",
+      "choices": [
+        "To replace formal math education",
+        "To demonstrate the relevance of math in daily life and culture",
+        "To eliminate the need for classroom instruction",
+        "To teach advanced mathematics to the general public"
+      ],
+      "answer": "To demonstrate the relevance of math in daily life and culture"
+    },
+    {
+      "question": "How can teachers incorporate local industries into math problems?",
+      "choices": [
+        "By avoiding all references to local industries",
+        "By creating problems based on scenarios from agriculture or fishing",
+        "By teaching only abstract mathematics",
+        "By focusing solely on international business scenarios"
+      ],
+      "answer": "By creating problems based on scenarios from agriculture or fishing"
+    },
+    {
+      "question": "What is a key benefit of using Polya's method for problem-solving in Timorese classrooms?",
+      "choices": [
+        "It eliminates the need for mathematical reasoning",
+        "It focuses only on getting the correct answer",
+        "It provides a structured approach to tackle complex problems",
+        "It replaces the need for cultural context in math"
+      ],
+      "answer": "It provides a structured approach to tackle complex problems"
+    },
+    {
+      "question": "How can teachers address the challenge of teaching abstract mathematical ideas in Timor-Leste?",
+      "choices": [
+        "By avoiding abstract concepts entirely",
+        "By teaching only concrete, practical math",
+        "By using cultural contexts and visual aids to bridge understanding",
+        "By focusing solely on memorization of formulas"
+      ],
+      "answer": "By using cultural contexts and visual aids to bridge understanding"
+    },
+    {
+      "question": "What is the importance of developing critical thinking through mathematical reasoning?",
+      "choices": [
+        "It is not relevant to Timorese students",
+        "It prepares students for real-world problem-solving and decision-making",
+        "It eliminates the need for computational skills",
+        "It focuses only on theoretical mathematics"
+      ],
+      "answer": "It prepares students for real-world problem-solving and decision-making"
+    },
+    {
+      "question": "How can online math resources be adapted for Timorese classrooms?",
+      "choices": [
+        "By using them without any modifications",
+        "By translating and contextualizing them to fit local needs and culture",
+        "By avoiding all use of technology in math education",
+        "By replacing traditional teaching methods entirely"
+      ],
+      "answer": "By translating and contextualizing them to fit local needs and culture"
+    },
+    {
+      "question": "What is a key consideration when designing math projects for Timorese students?",
+      "choices": [
+        "Focusing only on individual work",
+        "Avoiding all real-world applications",
+        "Incorporating collaborative elements and cultural relevance",
+        "Using only Portuguese language instructions"
+      ],
+      "answer": "Incorporating collaborative elements and cultural relevance"
+    },
+    {
+      "question": "How can teachers effectively use student work samples in math instruction?",
+      "choices": [
+        "By ignoring student work entirely",
+        "By using them to guide instructional decisions and provide feedback",
+        "By focusing only on perfect examples",
+        "By eliminating the need for formal assessments"
+      ],
+      "answer": "By using them to guide instructional decisions and provide feedback"
+    }
+  ]
+}

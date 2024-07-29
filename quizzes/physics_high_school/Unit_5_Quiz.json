@@ -1,0 +1,305 @@
+{
+  "title": "Rotational Motion and Gravitation",
+  "questions": [
+    {
+      "question": "What is the formula for angular velocity?",
+      "choices": [
+        "ω = Δθ / Δt",
+        "ω = Δt / Δθ",
+        "ω = Δθ × Δt",
+        "ω = Δθ + Δt"
+      ],
+      "answer": "ω = Δθ / Δt"
+    },
+    {
+      "question": "Which unit is used to measure angular acceleration?",
+      "choices": [
+        "Radians per second (rad/s)",
+        "Radians per second squared (rad/s²)",
+        "Meters per second squared (m/s²)",
+        "Degrees per second (°/s)"
+      ],
+      "answer": "Radians per second squared (rad/s²)"
+    },
+    {
+      "question": "What is the relationship between linear velocity (v) and angular velocity (ω) for an object moving in a circular path?",
+      "choices": [
+        "v = ω / r",
+        "v = ω × r",
+        "v = ω + r",
+        "v = ω - r"
+      ],
+      "answer": "v = ω × r"
+    },
+    {
+      "question": "What is the formula for torque?",
+      "choices": [
+        "τ = F × r",
+        "τ = F + r",
+        "τ = F / r",
+        "τ = F - r"
+      ],
+      "answer": "τ = F × r"
+    },
+    {
+      "question": "What is the SI unit for torque?",
+      "choices": [
+        "Newton (N)",
+        "Joule (J)",
+        "Newton-meter (N·m)",
+        "Watt (W)"
+      ],
+      "answer": "Newton-meter (N·m)"
+    },
+    {
+      "question": "What does rotational inertia depend on?",
+      "choices": [
+        "Mass only",
+        "Mass distribution only",
+        "Mass and mass distribution",
+        "Neither mass nor mass distribution"
+      ],
+      "answer": "Mass and mass distribution"
+    },
+    {
+      "question": "What is the formula for rotational inertia of a point mass?",
+      "choices": [
+        "I = mr",
+        "I = mr²",
+        "I = ½mr²",
+        "I = 2mr²"
+      ],
+      "answer": "I = mr²"
+    },
+    {
+      "question": "What is Newton's Second Law for rotation?",
+      "choices": [
+        "τ = Iω",
+        "τ = Iα",
+        "τ = ma",
+        "τ = Fα"
+      ],
+      "answer": "τ = Iα"
+    },
+    {
+      "question": "What is the gravitational constant (G) approximately equal to?",
+      "choices": [
+        "6.67 × 10⁻¹⁰ N·m²/kg²",
+        "6.67 × 10⁻¹¹ N·m²/kg²",
+        "6.67 × 10⁻¹² N·m²/kg²",
+        "6.67 × 10⁻¹³ N·m²/kg²"
+      ],
+      "answer": "6.67 × 10⁻¹¹ N·m²/kg²"
+    },
+    {
+      "question": "According to Kepler's First Law, what shape are planetary orbits?",
+      "choices": [
+        "Circular",
+        "Elliptical",
+        "Parabolic",
+        "Hyperbolic"
+      ],
+      "answer": "Elliptical"
+    },
+    {
+      "question": "What does Kepler's Second Law describe?",
+      "choices": [
+        "The shape of planetary orbits",
+        "The relationship between orbital period and semi-major axis",
+        "The conservation of angular momentum in planetary motion",
+        "The gravitational force between planets"
+      ],
+      "answer": "The conservation of angular momentum in planetary motion"
+    },
+    {
+      "question": "What is the relationship between orbital period (T) and semi-major axis (a) according to Kepler's Third Law?",
+      "choices": [
+        "T² ∝ a",
+        "T² ∝ a²",
+        "T² ∝ a³",
+        "T² ∝ a⁴"
+      ],
+      "answer": "T² ∝ a³"
+    },
+    {
+      "question": "What is the formula for the gravitational force between two masses?",
+      "choices": [
+        "F = G(m₁ + m₂) / r²",
+        "F = G(m₁m₂) / r",
+        "F = G(m₁m₂) / r²",
+        "F = G(m₁ - m₂) / r²"
+      ],
+      "answer": "F = G(m₁m₂) / r²"
+    },
+    {
+      "question": "How does the gravitational force change if the distance between two masses is doubled?",
+      "choices": [
+        "It remains the same",
+        "It is halved",
+        "It is quartered",
+        "It is doubled"
+      ],
+      "answer": "It is quartered"
+    },
+    {
+      "question": "What is the relationship between torque and lever arm?",
+      "choices": [
+        "Torque decreases as lever arm increases",
+        "Torque increases as lever arm increases",
+        "Torque is independent of lever arm",
+        "Torque is inversely proportional to lever arm"
+      ],
+      "answer": "Torque increases as lever arm increases"
+    },
+    {
+      "question": "Which of the following has the highest rotational inertia?",
+      "choices": [
+        "A solid sphere",
+        "A hollow sphere of the same mass and radius",
+        "A solid cylinder of the same mass and radius",
+        "A thin ring of the same mass and radius"
+      ],
+      "answer": "A thin ring of the same mass and radius"
+    },
+    {
+      "question": "What is the angular acceleration of an object if a torque of 10 N·m is applied to it and its moment of inertia is 2 kg·m²?",
+      "choices": [
+        "5 rad/s²",
+        "20 rad/s²",
+        "0.2 rad/s²",
+        "50 rad/s²"
+      ],
+      "answer": "5 rad/s²"
+    },
+    {
+      "question": "Which of the following is NOT a vector quantity?",
+      "choices": [
+        "Angular velocity",
+        "Torque",
+        "Angular acceleration",
+        "Rotational inertia"
+      ],
+      "answer": "Rotational inertia"
+    },
+    {
+      "question": "What is the period of a satellite orbiting Earth at an altitude of 35,786 km (geostationary orbit)?",
+      "choices": [
+        "12 hours",
+        "24 hours",
+        "48 hours",
+        "1 week"
+      ],
+      "answer": "24 hours"
+    },
+    {
+      "question": "How does the orbital speed of a satellite change as its altitude increases?",
+      "choices": [
+        "It increases",
+        "It decreases",
+        "It remains constant",
+        "It oscillates"
+      ],
+      "answer": "It decreases"
+    },
+    {
+      "question": "What is the eccentricity of a perfectly circular orbit?",
+      "choices": [
+        "0",
+        "0.5",
+        "1",
+        "2"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "Which of the following would increase the rotational inertia of an object?",
+      "choices": [
+        "Decreasing its mass",
+        "Moving mass closer to the axis of rotation",
+        "Changing its color",
+        "Distributing mass farther from the axis of rotation"
+      ],
+      "answer": "Distributing mass farther from the axis of rotation"
+    },
+    {
+      "question": "What is the angular velocity of Earth's rotation?",
+      "choices": [
+        "7.29 × 10⁻⁵ rad/s",
+        "7.29 × 10⁻⁴ rad/s",
+        "7.29 × 10⁻³ rad/s",
+        "7.29 × 10⁻² rad/s"
+      ],
+      "answer": "7.29 × 10⁻⁵ rad/s"
+    },
+    {
+      "question": "Which of the following best describes the motion of a point on a rotating rigid body?",
+      "choices": [
+        "Linear motion",
+        "Circular motion",
+        "Parabolic motion",
+        "Spiral motion"
+      ],
+      "answer": "Circular motion"
+    },
+    {
+      "question": "What is the main difference between torque and force?",
+      "choices": [
+        "Torque causes linear motion, force causes rotational motion",
+        "Torque is a scalar quantity, force is a vector quantity",
+        "Torque causes rotational motion, force causes linear motion",
+        "There is no difference, they are the same concept"
+      ],
+      "answer": "Torque causes rotational motion, force causes linear motion"
+    },
+    {
+      "question": "Which of Kepler's laws explains why planets move faster when they are closer to the Sun?",
+      "choices": [
+        "First law",
+        "Second law",
+        "Third law",
+        "None of Kepler's laws explain this"
+      ],
+      "answer": "Second law"
+    },
+    {
+      "question": "What is the rotational analog of mass in linear motion?",
+      "choices": [
+        "Torque",
+        "Angular velocity",
+        "Rotational inertia",
+        "Angular momentum"
+      ],
+      "answer": "Rotational inertia"
+    },
+    {
+      "question": "How does the gravitational force between two objects change if their masses are both doubled?",
+      "choices": [
+        "It doubles",
+        "It quadruples",
+        "It remains the same",
+        "It halves"
+      ],
+      "answer": "It quadruples"
+    },
+    {
+      "question": "What is the purpose of a geosynchronous satellite?",
+      "choices": [
+        "To observe weather patterns",
+        "To remain stationary relative to a point on Earth's surface",
+        "To measure Earth's magnetic field",
+        "To collect space debris"
+      ],
+      "answer": "To remain stationary relative to a point on Earth's surface"
+    },
+    {
+      "question": "Which of the following would NOT affect the period of a simple pendulum?",
+      "choices": [
+        "Length of the pendulum",
+        "Mass of the bob",
+        "Gravitational field strength",
+        "Amplitude of the swing"
+      ],
+      "answer": "Mass of the bob"
+    }
+  ]
+}

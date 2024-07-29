@@ -1,0 +1,305 @@
+{
+  "title": "Practical Applications and Problem-Solving in Timorese Mathematics",
+  "questions": [
+    {
+      "question": "What is one of the main objectives of Learning Unit 3?",
+      "choices": [
+        "To teach advanced calculus",
+        "To integrate real-world applications into math instruction",
+        "To focus solely on theoretical mathematics",
+        "To prepare students for international math competitions"
+      ],
+      "answer": "To integrate real-world applications into math instruction"
+    },
+    {
+      "question": "Which method is specifically mentioned for problem-solving in the lesson plan?",
+      "choices": [
+        "Einstein's method",
+        "Newton's method",
+        "Polya's method",
+        "Euclid's method"
+      ],
+      "answer": "Polya's method"
+    },
+    {
+      "question": "What local industries are suggested as contexts for math problems?",
+      "choices": [
+        "Technology and software development",
+        "Oil and gas extraction",
+        "Agriculture and fishing",
+        "Automotive manufacturing"
+      ],
+      "answer": "Agriculture and fishing"
+    },
+    {
+      "question": "What is the purpose of contextualizing math problems using local scenarios?",
+      "choices": [
+        "To make problems more difficult",
+        "To avoid using numbers",
+        "To make math more relevant and engaging",
+        "To eliminate the need for calculations"
+      ],
+      "answer": "To make math more relevant and engaging"
+    },
+    {
+      "question": "Which of the following is NOT one of Polya's problem-solving steps?",
+      "choices": [
+        "Understand the problem",
+        "Memorize the formula",
+        "Devise a plan",
+        "Look back and reflect"
+      ],
+      "answer": "Memorize the formula"
+    },
+    {
+      "question": "What is the recommended approach for teaching mathematics in this module?",
+      "choices": [
+        "Lecture-based instruction only",
+        "Hands-on activities and problem-solving",
+        "Rote memorization of formulas",
+        "Individual study without teacher interaction"
+      ],
+      "answer": "Hands-on activities and problem-solving"
+    },
+    {
+      "question": "What type of thinking is developed through mathematical reasoning according to the module?",
+      "choices": [
+        "Creative thinking",
+        "Critical thinking",
+        "Emotional thinking",
+        "Abstract thinking"
+      ],
+      "answer": "Critical thinking"
+    },
+    {
+      "question": "In the lesson plan, what are students asked to do with local industry scenarios?",
+      "choices": [
+        "Memorize facts about them",
+        "Write essays about their history",
+        "Apply Polya's method to solve related problems",
+        "Debate their economic importance"
+      ],
+      "answer": "Apply Polya's method to solve related problems"
+    },
+    {
+      "question": "What is the purpose of the warm-up activity in the lesson plan?",
+      "choices": [
+        "To assess prior knowledge",
+        "To introduce new mathematical concepts",
+        "To identify mathematical concepts in real-world contexts",
+        "To practice algebraic equations"
+      ],
+      "answer": "To identify mathematical concepts in real-world contexts"
+    },
+    {
+      "question": "What is the recommended group activity in the lesson plan?",
+      "choices": [
+        "Solving textbook problems",
+        "Creating and exchanging contextual math problems",
+        "Watching educational videos",
+        "Conducting scientific experiments"
+      ],
+      "answer": "Creating and exchanging contextual math problems"
+    },
+    {
+      "question": "What is the homework assignment given in the lesson plan?",
+      "choices": [
+        "Read a chapter from the textbook",
+        "Solve 50 arithmetic problems",
+        "Create and solve two community-based math problems",
+        "Write an essay on the history of mathematics"
+      ],
+      "answer": "Create and solve two community-based math problems"
+    },
+    {
+      "question": "What is the definition of 'context' given in the key vocabulary?",
+      "choices": [
+        "A type of mathematical operation",
+        "The situation or environment in which a math problem is set",
+        "A geometric shape",
+        "A method of solving equations"
+      ],
+      "answer": "The situation or environment in which a math problem is set"
+    },
+    {
+      "question": "What is the purpose of using ethnomathematics according to the course syllabus?",
+      "choices": [
+        "To replace traditional mathematics",
+        "To connect culture and mathematics",
+        "To simplify complex mathematical concepts",
+        "To prepare students for international exams"
+      ],
+      "answer": "To connect culture and mathematics"
+    },
+    {
+      "question": "What language considerations are mentioned in the course syllabus?",
+      "choices": [
+        "English and Spanish",
+        "French and German",
+        "Tetum, Portuguese, and local languages",
+        "Mandarin and Japanese"
+      ],
+      "answer": "Tetum, Portuguese, and local languages"
+    },
+    {
+      "question": "What is suggested as a way to incorporate technology in math instruction?",
+      "choices": [
+        "Using advanced scientific calculators",
+        "Implementing virtual reality simulations",
+        "Exploring free online math resources",
+        "Requiring students to code complex algorithms"
+      ],
+      "answer": "Exploring free online math resources"
+    },
+    {
+      "question": "What type of assessment is mentioned to guide instructional decisions?",
+      "choices": [
+        "Standardized testing",
+        "Peer evaluation",
+        "Analysis of student work samples",
+        "Parent feedback forms"
+      ],
+      "answer": "Analysis of student work samples"
+    },
+    {
+      "question": "What is suggested as a way to address gender disparities in math education?",
+      "choices": [
+        "Separate classes for boys and girls",
+        "Focusing only on topics that appeal to girls",
+        "Ignoring gender differences",
+        "Strategies to promote equal participation and opportunity"
+      ],
+      "answer": "Strategies to promote equal participation and opportunity"
+    },
+    {
+      "question": "What is recommended for community engagement in math education?",
+      "choices": [
+        "Excluding the community from educational processes",
+        "Organizing a math fair for community involvement",
+        "Limiting math education to the classroom only",
+        "Discouraging parents from helping with homework"
+      ],
+      "answer": "Organizing a math fair for community involvement"
+    },
+    {
+      "question": "What is suggested as a way to explore mathematical concepts in traditional crafts?",
+      "choices": [
+        "Ignoring traditional crafts in math education",
+        "Studying only modern manufacturing processes",
+        "Collaborating with local artisans",
+        "Importing crafts from other countries"
+      ],
+      "answer": "Collaborating with local artisans"
+    },
+    {
+      "question": "What is the purpose of creating bilingual math glossaries?",
+      "choices": [
+        "To confuse students",
+        "To replace English terminology",
+        "To support language development in math education",
+        "To make textbooks longer"
+      ],
+      "answer": "To support language development in math education"
+    },
+    {
+      "question": "What is emphasized in the course overview regarding teaching methods?",
+      "choices": [
+        "Strict adherence to textbook examples",
+        "Memorization of formulas and procedures",
+        "Hands-on activities and real-world applications",
+        "Lecture-based instruction only"
+      ],
+      "answer": "Hands-on activities and real-world applications"
+    },
+    {
+      "question": "What is the recommended approach for teaching abstract mathematical ideas?",
+      "choices": [
+        "Avoiding abstract concepts altogether",
+        "Using only symbolic representations",
+        "Developing strategies for effective teaching of abstract ideas",
+        "Focusing solely on concrete examples"
+      ],
+      "answer": "Developing strategies for effective teaching of abstract ideas"
+    },
+    {
+      "question": "What is suggested as a way to increase student participation in math classes?",
+      "choices": [
+        "Implementing strict disciplinary measures",
+        "Reducing the number of math classes",
+        "Using motivational techniques and interactive learning experiences",
+        "Eliminating homework assignments"
+      ],
+      "answer": "Using motivational techniques and interactive learning experiences"
+    },
+    {
+      "question": "What type of math games are suggested in the course syllabus?",
+      "choices": [
+        "Imported board games",
+        "Computer-based games only",
+        "Games inspired by traditional Timorese games",
+        "Competitive math tournaments"
+      ],
+      "answer": "Games inspired by traditional Timorese games"
+    },
+    {
+      "question": "What is the purpose of analyzing sample math textbooks used in Timorese schools?",
+      "choices": [
+        "To memorize all the content",
+        "To understand the current state of math education in Timor-Leste",
+        "To replace them with foreign textbooks",
+        "To eliminate the use of textbooks"
+      ],
+      "answer": "To understand the current state of math education in Timor-Leste"
+    },
+    {
+      "question": "What is the focus of the micro-teaching sessions mentioned in the syllabus?",
+      "choices": [
+        "Teaching very young children",
+        "Using different instructional methods",
+        "Focusing only on advanced mathematics",
+        "Practicing with imaginary students"
+      ],
+      "answer": "Using different instructional methods"
+    },
+    {
+      "question": "What is suggested for teaching fractions effectively?",
+      "choices": [
+        "Avoiding fractions in the curriculum",
+        "Using only abstract representations",
+        "Hands-on activities using local materials",
+        "Teaching fractions only in higher grades"
+      ],
+      "answer": "Hands-on activities using local materials"
+    },
+    {
+      "question": "What is recommended for explaining algebraic concepts?",
+      "choices": [
+        "Using complex terminology only",
+        "Avoiding visual representations",
+        "Creating visual aids",
+        "Teaching algebra only theoretically"
+      ],
+      "answer": "Creating visual aids"
+    },
+    {
+      "question": "What is the suggested approach for assessment in math education?",
+      "choices": [
+        "Using only written exams",
+        "Avoiding assessment altogether",
+        "Using diverse assessment methods including formative and summative strategies",
+        "Relying solely on standardized tests"
+      ],
+      "answer": "Using diverse assessment methods including formative and summative strategies"
+    },
+    {
+      "question": "What is emphasized regarding cultural elements in math lessons?",
+      "choices": [
+        "Ignoring cultural context in math",
+        "Focusing only on Western mathematical traditions",
+        "Incorporating Timorese cultural elements into math lessons",
+        "Eliminating all cultural references in math"
+      ],
+      "answer": "Incorporating Timorese cultural elements into math lessons"
+    }
+  ]
+}
