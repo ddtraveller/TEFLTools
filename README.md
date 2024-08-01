@@ -1,8 +1,8 @@
 # Haforsa Timor-Leste: viajen aprendizajen kolaborativu ida / Empowering Timor-Leste: A Collaborative Learning Journey
 
-Welcome to this comprehensive resource hub designed to support Peace Corps volunteers and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
+Welcome to this comprehensive resource hub designed to support teachers, students and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.
 
-Bem-vindo ba sentru ida ne'ebé kompleto ho rekursu sira ne'ebé dezignadu hodi suporta voluntariu sira husi Peace Corps no komunidade viva sira husi Timor-Leste. Koleksaun material sira ne'e nia objetivu mak atu promove dezenvolvimentu sustentavel, interkambiu kultural, no aprendizajen mútua entre voluntariu sira no ema Timor oan sira
+Bem-vindo ba sentru ida ne'ebé kompleto ho rekursu sira ne'ebé dezignadu hodi suporta mestres, estudantes no komunidade viva sira husi Timor-Leste. Koleksaun material sira ne'e nia objetivu mak atu promove dezenvolvimentu sustentavel, interkambiu kultural, no aprendizajen mútua entre voluntariu sira no ema Timor oan sira
 
 ## Média / Media
 
