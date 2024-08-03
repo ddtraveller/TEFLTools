@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://tarotcardsstyles.s3.us-west-2.amazonaws.com/favicon.ico">
+    <title id="pageTitle">Geometry Calculator</title>
+    <link rel="stylesheet" href="https://tl-web.s3.us-west-2.amazonaws.com/math/geometry_calculator.css">
+</head>
+<body>
+    <h1 id="mainHeader">Geometry Calculator</h1>
+
+    <button id="toggleInstructionsBtn">Show Instructions</button>
+
+    <div id="instructionsSection" style="display: none;">
+        <h2 id="instructionsHeader">Instructions</h2>
+        <p id="instructionsText"></p>
+    </div>
+
+    <div id="calculatorOptions">
+        <select id="shapeSelect">
+            <option value="annulus">Anulus / Annulus</option>
+            <option value="circle">Sirkulu / Circle</option>
+            <option value="distance2d">Distánsia 2D / Distance 2D</option>
+            <option value="parallelogram">Paralelogramu / Parallelogram</option>
+            <option value="rectangle">Retángulu / Rectangle</option>
+            <option value="polygon">Poligonu / Polygon</option>
+            <option value="pythagorean">Teorema Pythagoras / Pythagorean Theorem</option>
+            <option value="rhombus">Rhombus</option>
+            <option value="slope">Inklina / Slope</option>
+            <option value="square">Kuadradu / Square</option>
+            <option value="stadium">Stadium</option>
+            <option value="lawOfCosines">Lei husi Cosines/ Law of Cosines</option>
+            <option value="lawOfSines">Lei husi Sines/ Law of Sines</option>
+            <option value="triangleEquilateral">Triángulu (Equilateral) / Triangle (Equilateral)</option>
+            <option value="triangleIsosceles">Triángulu (Isosceles) / Triangle (Isosceles)</option>
+            <option value="triangleRight">Triángulu (Loos) / Triangle (Right)</option>
+        </select>
+        <button id="calculateBtn">Bada / Calculate</button>
+    </div>
+
+    <div id="inputSection">
+        <!-- Inputs will be dynamically added here -->
+    </div>
+
+    <div id="resultSection">
+        <h2 id="resultHeader">Result</h2>
+        <p id="resultText"></p>
+    </div>
+
+    <div id="equationSection">
+        <h2 id="equationHeader">Custom Equation</h2>
+        <input type="text" id="equationInput" placeholder="Enter your equation">
+        <button id="solveEquationBtn">Solve</button>
+        <div></div>"Tau ekuasaun matemátika simples ka kompleksu. Ezemplu: 2 + 3 * 4, Math.sqrt(16), Math.PI * 5 * 5"</div>
+        <p id="equationResult"></p>
+    </div>
+
+    <script src="geometry_calculator.js"></script>
+</body>
+</html>

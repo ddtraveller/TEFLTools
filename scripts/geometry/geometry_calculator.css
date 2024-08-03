@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+button {
+    margin: 10px 0;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+select, input {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#instructionsSection {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#calculatorOptions, #inputSection, #resultSection, #equationSection {
+    margin-bottom: 20px;
+}
+
+#resultText, #equationResult {
+    font-weight: bold;
+    font-size: 18px;
+}
