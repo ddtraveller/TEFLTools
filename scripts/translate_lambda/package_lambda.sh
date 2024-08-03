@@ -22,7 +22,7 @@ pip list --path $TEMP_DIR
 # Copy Lambda function code to the temporary directory
 cp lambda_function.py $TEMP_DIR/
 # Copy JS files to the temporary directory
-cp dictionary.js phrases.js compound.js $TEMP_DIR/
+cp dictionary.json phrases.json compound.json $TEMP_DIR/
 # Create a ZIP file
 cd $TEMP_DIR
 zip -r9 $ZIP_FILE_NAME .

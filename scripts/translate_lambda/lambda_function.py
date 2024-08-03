@@ -2,31 +2,28 @@ import json
 import os
 import base64
 from pathlib import Path
-import anthropic
+from anthropic import Anthropic
 import tiktoken
 
 print("Lambda function initialized")
 
-# Set up paths (assuming the script is in the same directory as the JS files)
+# Set up paths (assuming the script is in the same directory as the JSON files)
 SCRIPT_DIR = Path(__file__).resolve().parent
-DICT_FILE = SCRIPT_DIR / 'dictionary.js'
-PHRASES_FILE = SCRIPT_DIR / 'phrases.js'
-COMPOUND_FILE = SCRIPT_DIR / 'compound.js'
+DICT_FILE = SCRIPT_DIR / 'dictionary.json'
+PHRASES_FILE = SCRIPT_DIR / 'phrases.json'
+COMPOUND_FILE = SCRIPT_DIR / 'compound.json'
 
 # Load dictionary, phrases, and compounds
-def load_js_file(file_path):
+def load_dict_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
-        content = file.read()
-        # Remove the 'export default' statement and parse the remaining JSON
-        json_content = content.replace('export default ', '')
-        return json.loads(json_content)
+        return json.load(file)
 
-english_to_tetun = load_js_file(DICT_FILE)
-tetun_phrases = load_js_file(PHRASES_FILE)
-tetun_compounds = load_js_file(COMPOUND_FILE)
+english_to_tetun = load_dict_file(DICT_FILE)
+tetun_phrases = load_dict_file(PHRASES_FILE)
+tetun_compounds = load_dict_file(COMPOUND_FILE)
 
 # Set up Anthropic client
-anthropic_client = anthropic.Anthropic(api_key=os.environ.get('ANTHROPIC_API_KEY'))
+anthropic_client = Anthropic(api_key=os.environ.get('ANTHROPIC_API_KEY'))
 
 # Function to count tokens in a string
 def num_tokens_from_string(string: str, encoding_name: str = "cl100k_base") -> int:
@@ -34,85 +31,72 @@ def num_tokens_from_string(string: str, encoding_name: str = "cl100k_base") -> i
     num_tokens = len(encoding.encode(string))
     return num_tokens
 
-# Function to preprocess Tetun word order
-def preprocess_tetun_word_order(text):
-    words = text.split()  
-    if len(words) >= 3 and words[0] not in ['Hau', 'O', 'Nia', 'Ita', 'Ami', 'Imi', 'Sira']:
-        words = words[1:] + [words[0]]
-    return ' '.join(words)
-
-# Dictionary of Tetun aspect markers and their English equivalents
-aspect_markers = {
-    'ona': 'already',
-    'tiha': 'completed',
-    'hela': 'continuing',    
-    'foin': 'just', 
-    'sei': 'still/will'
-}
-
-# Function to translate Tetun aspect markers 
-def translate_aspect_markers(text):
-    for marker, translation in aspect_markers.items():
-        text = text.replace(f" {marker} ", f" {translation} ")
-    return text
-
-# Dictionary of Tetun pronouns and their English equivalents
-pronoun_map = {
-    'Hau': 'I',
-    'O': 'you (informal)', 
-    'Ita': 'you (formal)/we (inclusive)',
-    'Nia': 'he/she/it',
-    'Ami': 'we (exclusive)',
-    'Imi' : 'you (plural)',
-    'Sira': 'they'
-}
-
-# Function to translate Tetun pronouns
-def translate_pronouns(text):
-    for tetun, english in pronoun_map.items():
-        text = text.replace(f" {tetun} ", f" {english} ")
-    return text
-
-# Function to translate Tetun compound words
-def translate_compounds(text):
-    for compound, translation in tetun_compounds.items():
-        text = text.replace(compound, translation)
-    return text
-
-# Function to handle Tetun reduplication  
-def handle_reduplication(text):
-    words = text.split()
-    for i, word in enumerate(words):
-        if i > 0 and word == words[i-1]:
-            words[i] = 'very ' + word
-    return ' '.join(words)
-    
-# Function to preprocess text
-def preprocess_text(text):
-    text = preprocess_tetun_word_order(text)
-    text = translate_aspect_markers(text)
-    text = translate_pronouns(text)
-    text = translate_compounds(text)  
-    text = handle_reduplication(text)
-    return text
-
 # Main function to translate English to Tetun
 def translate_english_to_tetun(text):
     print("Translating text with Anthropic model")
     
-    # Preprocess and perform initial translation
-    preprocessed_text = preprocess_text(text)
+    # Load dictionary contents
+    with open(DICT_FILE, 'r', encoding='utf-8') as f:
+        dictionary_content = f.read()
+    with open(PHRASES_FILE, 'r', encoding='utf-8') as f:
+        phrases_content = f.read()
+    with open(COMPOUND_FILE, 'r', encoding='utf-8') as f:
+        compound_content = f.read()
+
+    prompt = f"""Human: Translate the following English text to Tetun. When translating, please consider the following Tetun grammar rules:
     
-    # Prepare the prompt for the AI model
-    prompt = f"Translate the following English text to Tetun, keeping in mind Tetun grammar rules:\n\n{preprocessed_text}\n\nTetun translation:"
-    response = anthropic_client.messages.create(
-        model="claude-3-sonnet-20240229",
-        max_tokens=4096,
-        temperature=0.7,
-        system="You are an English to Tetun translator.",
-        messages=[{"role": "user", "content": prompt}]
+    1. Word order: In Tetun, the verb often comes at the end of the sentence. If a sentence has 3 or more words and doesn't start with a pronoun (Hau, O, Nia, Ita, Ami, Imi, Sira), move the first word to the end of the sentence.
+    
+    2. Aspect markers: Use the following Tetun words:
+       - 'ona' for completed actions (e.g., "Hau han ona" = "I have eaten")
+       - 'tiha' for perfective aspect (e.g., "Hau han tiha" = "I ate")
+       - 'hela' for continuous actions (e.g., "Hau han hela" = "I am eating")
+       - 'sei' for future actions (e.g., "Hau sei han" = "I will eat")
+    
+    3. Pronouns: Use the following Tetun pronouns:
+       - "Ha'u" for "I"
+       - Ó (informal of 'you' specially used for children)
+       - 'Ita' for 'you' (formal) or 'we' (inclusive)
+       - 'Nia' for 'he/she/it'
+       - 'Ami' for 'we' (exclusive)
+       - 'Imi' for 'you' (plural)
+       - 'Sira' for 'they'
+    
+    4. Use the possessive marker 'nia' between the possessor and the possessed item (e.g., - Maria-nia uma = Maria's house. (use hyphens to connect more than one subject together))
+    
+    5. Use 'mak' for focus or emphasis (e.g., "Maria mak han" = "It was Maria who ate")
+    
+    6. Use 'katak' to introduce reported speech or thoughts (e.g., "Nia dehan katak..." = "He said that...")
+
+    7. Do not use "posessor" for "teacher" unless it is a male teacher; while for female teacher you should write "profesora". "manorin" is a general term for both female and male teachers.    
+    Use the provided dictionaries to assist with the translation:
+    
+    Dictionary: {dictionary_content}
+    Phrases: {phrases_content}
+    Compound words: {compound_content}
+    
+    Please provide a full translation but use the Dictionary to help you with words you don't know in Tetun.
+    
+    Text to translate:
+    {text}
+
+    Human: Translate the text as described above, returning only the Tetun translation without any additional text.
+
+    Assistant: [Tetun translation]
+
+    Human: Thank you for translating. Please return this output exactly as is, with no additional text.
+
+    Assistant: [Tetun translation]
+    Assistant:"""
+
+    response = anthropic_client.completions.create(
+        prompt=prompt,
+        model="claude-v1",
+        max_tokens_to_sample=1000,
+        stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
     )
-    translation = response.content[0].text.strip()
+    
+    translation = response.completion.strip()
     return translation
 
 def lambda_handler(event, context):
@@ -166,7 +150,8 @@ def lambda_handler(event, context):
         
         return {
             'statusCode': 200,
-            'body': json.dumps({'translation': translation})
+            'body': json.dumps({'translation': translation}),
+            'headers': response_headers
         }
     except Exception as e:
         print(f"Error occurred: {str(e)}")

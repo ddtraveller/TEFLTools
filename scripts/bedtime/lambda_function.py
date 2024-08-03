@@ -189,16 +189,16 @@ def generate_story(seed_file):
        - 'sei' for future actions (e.g., "Hau sei han" = "I will eat")
     
     3. Pronouns: Use the following Tetun pronouns:
-       - 'Hau' for 'I'
-       - 'O' for 'you' (informal)
+       - "Ha'u" for "I"
+       - Ó (informal of 'you' specially used for children)
        - 'Ita' for 'you' (formal) or 'we' (inclusive)
        - 'Nia' for 'he/she/it'
        - 'Ami' for 'we' (exclusive)
        - 'Imi' for 'you' (plural)
        - 'Sira' for 'they'
     
-    4. Use the possessive marker 'nia' between the possessor and the possessed item (e.g., "Maria nia uma" = "Maria's house")
-    
+    4. Use the possessive marker 'nia' between the possessor and the possessed item (e.g., - Maria-nia uma = Maria's house. (use hyphens to connect more than one subject together))
+ 
     5. Use 'mak' for focus or emphasis (e.g., "Maria mak han" = "It was Maria who ate")
     
     6. Use 'katak' to introduce reported speech or thoughts (e.g., "Nia dehan katak..." = "He said that...")
@@ -241,7 +241,7 @@ def generate_story(seed_file):
         Apá ho amá kontente hetan fali nia. Hotuhotu kontente hotu, Manu Kai la lakon ida.
         Amá dehan, "Manu Kai, loron seluk husu
         uluk lai lisensa!"    
-        
+    8. Do not use "posessor" for "teacher" unless it is a male teacher; while for female teacher you should write "profesora". "manorin" is a general term for both female and male teachers.
     Use the provided dictionaries to assist with the translation:
     
     Dictionary: {dictionary_content}
