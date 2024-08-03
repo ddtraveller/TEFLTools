@@ -14,9 +14,14 @@ ROLE_NAME="${LAMBDA_FUNCTION_NAME}-role"
 BUCKET_NAME="tl-web"
 REGION="us-west-2"  # Replace with your AWS region if different
 
-# Prompt for API keys
-read -p "Enter your Anthropic API key: " ANTHROPIC_API_KEY
-read -p "Enter your Stability AI API key: " STABILITY_API_KEY
+# Check for API keys in environment variables, prompt if not found
+if [ -z "$ANTHROPIC_API_KEY" ]; then
+    read -p "Enter your Anthropic API key: " ANTHROPIC_API_KEY
+fi
+
+if [ -z "$STABILITY_API_KEY" ]; then
+    read -p "Enter your Stability AI API key: " STABILITY_API_KEY
+fi
 
 # Function to create IAM role
 create_lambda_role() {
@@ -78,6 +83,23 @@ pip install -r "${TEMP_DIR}/requirements.txt" --target "${TEMP_DIR}" --only-bina
 cd "${TEMP_DIR}"
 zip -r9 "${LAMBDA_FUNCTION_NAME}.zip" .
 
+# Function to wait for Lambda update
+wait_for_lambda_update() {
+    echo "Waiting for the Lambda function update to complete..."
+    while true; do
+        STATUS=$(aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --query 'Configuration.LastUpdateStatus' --output text --region "${REGION}")
+        if [ "$STATUS" = "Successful" ]; then
+            echo "Update completed successfully."
+            break
+        elif [ "$STATUS" = "Failed" ]; then
+            echo "Update failed. Please check the Lambda function logs."
+            exit 1
+        fi
+        echo "Current status: $STATUS. Waiting..."
+        sleep 5
+    done
+}
+
 # Create or update the Lambda function
 if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "${REGION}" >/dev/null 2>&1; then
     echo "Updating existing Lambda function"
@@ -85,6 +107,8 @@ if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "$
         --function-name "${LAMBDA_FUNCTION_NAME}" \
         --zip-file "fileb://${LAMBDA_FUNCTION_NAME}.zip" \
         --region "${REGION}"
+    
+    wait_for_lambda_update
     
     aws lambda update-function-configuration \
         --function-name "${LAMBDA_FUNCTION_NAME}" \
@@ -95,6 +119,8 @@ if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "$
         --memory-size "${MEMORY_SIZE}" \
         --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY}}" \
         --region "${REGION}"
+    
+    wait_for_lambda_update
 else
     echo "Creating new Lambda function"
     aws lambda create-function \
@@ -108,13 +134,9 @@ else
         --memory-size "${MEMORY_SIZE}" \
         --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY}}" \
         --region "${REGION}"
+    
+    wait_for_lambda_update
 fi
-
-# Wait for the update to complete
-echo "Waiting for the Lambda function update to complete..."
-aws lambda wait function-updated \
-    --function-name "${LAMBDA_FUNCTION_NAME}" \
-    --region "${REGION}"
 
 # Get the updated Lambda function details
 LAMBDA_INFO=$(aws lambda get-function \

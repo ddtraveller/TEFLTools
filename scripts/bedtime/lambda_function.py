@@ -36,22 +36,7 @@ def load_random_file():
     files_data = json.loads(s3_object['Body'].read().decode('utf-8'))
     random_file = random.choice(files_data['files'])
     return random_file['path']
-
-def generate_story(seed_file):
-    prompt = f"""Human: Based on the file '{seed_file}', create bedtime story for children of Timor Leste from a non-dual, spiritual perspective that emphasizes the interconnectedness of all life and encourages living in loving harmony with mother nature. The story should be suitable for young children and have a clear beginning, middle, and end. Please provide the story in three parts, each around 100 words long. Also, provide a short title for the story. Return only the text of the title and story with no additional text or commentary before or after the output of the story. Do not include and text that is not a part of the story title. Assistant:"""
-
-    response = anthropic_client.completions.create(
-        prompt=prompt,
-        model="claude-v1",
-        max_tokens_to_sample=2000,
-        stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
-    )
     
-    story_content = response.completion.strip().split('\n\n')
-    title = story_content[0].replace("Title: ", "").strip()
-    story_parts = story_content[1:]
-    return title, story_parts
-
 def generate_image(prompt):
     url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
     
@@ -95,109 +80,7 @@ def num_tokens_from_string(string: str, encoding_name: str = "cl100k_base") -> i
     num_tokens = len(encoding.encode(string))
     return num_tokens
 
-# Function to preprocess Tetun word order
-def preprocess_tetun_word_order(text):
-    words = text.split()  
-    if len(words) >= 3 and words[0] not in ['Hau', 'O', 'Nia', 'Ita', 'Ami', 'Imi', 'Sira']:
-        words = words[1:] + [words[0]]
-    return ' '.join(words)
-
-# Dictionary of Tetun aspect markers and their English equivalents
-aspect_markers = {
-    'ona': 'already',
-    'tiha': 'completed',
-    'hela': 'continuing',    
-    'foin': 'just', 
-    'sei': 'still/will'
-}
-
-# Function to translate Tetun aspect markers
-def translate_aspect_markers(text):
-    for marker, translation in aspect_markers.items():
-        # Handle aspect markers with multiple translations (e.g., 'sei')
-        if '/' in translation:
-            translations = translation.split('/')
-            replacement = translations[0]  # Use the first translation as the default
-            # Replace the aspect marker with the appropriate translation based on context
-            text = re.sub(r'\b' + re.escape(marker) + r'\b', lambda match: replacement, text)
-        else:
-            # Replace the aspect marker with the translation
-            text = re.sub(r'\b' + re.escape(marker) + r'\b', translation, text)
-    return text
-
-# Dictionary of Tetun pronouns and their English equivalents
-pronoun_map = {
-    'Hau': 'I',
-    'O': 'you (informal)',
-    'Ita': 'you (formal)/we (inclusive)',
-    'Nia': 'he/she/it',
-    'Ami': 'we (exclusive)',
-    'Imi': 'you (plural)',
-    'Sira': 'they'
-}
-
-# Function to translate Tetun pronouns
-def translate_pronouns(text):
-    for tetun, english in pronoun_map.items():
-        # Extract the English pronoun without the parentheses
-        match = re.search(r"(.*?)\s*\(", english)
-        if match:
-            english_pronoun = match.group(1)
-        else:
-            english_pronoun = english
-        # Replace the Tetun pronoun in the text
-        text = re.sub(r'\b' + re.escape(tetun) + r'\b', english_pronoun, text)
-    return text
-
-# Function to translate Tetun compound words
-def translate_compounds(text):
-    for compound, translation in tetun_compounds.items():
-        # Extract the Tetun compound word without the parentheses
-        match = re.search(r"(.*?)\s*\(", translation)
-        if match:
-            tetun_word = match.group(1)
-        else:
-            tetun_word = translation
-        # Replace the compound word in the text
-        text = re.sub(r'\b' + re.escape(compound) + r'\b', tetun_word, text)
-    return text
-    
-# Function to handle Tetun reduplication  
-def handle_reduplication(text):
-    words = text.split()
-    for i, word in enumerate(words):
-        if i > 0 and word == words[i-1]:
-            words[i] = 'very ' + word
-    return ' '.join(words)
-    
-# Function to preprocess text
-def preprocess_text(text):
-    text = preprocess_tetun_word_order(text)
-    text = translate_aspect_markers(text)
-    text = translate_pronouns(text)
-    text = translate_compounds(text)  
-    text = handle_reduplication(text)
-    return text
-
-# Main function to translate English to Tetun
-def translate_english_to_tetun(text):
-    print("Translating text with Anthropic model")
-    
-    # Preprocess and perform initial translation
-    preprocessed_text = preprocess_text(text)
-    
-    # Prepare the prompt for the AI model
-    prompt = f"Human: Translate the following English text to Tetun. Keep in mind Tetun grammar rules:\n\n{preprocessed_text}\n\nReturn only the text of the translation with no additional text or commentary before or after the output of the translation.\n\nTetun translation:\n\nAssistant:"
-    response = anthropic_client.completions.create(
-        prompt=prompt,
-        model="claude-v1",
-        max_tokens_to_sample=1000,
-        stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
-    )
-    translation = response.completion.strip()
-    return translation
-
-def generate_html(title, story_parts, image_urls, tetum_title, tetum_story_parts):
+def generate_html(title, story_parts, image_urls, tetun_title, tetun_story_parts):
     html = f"""
     <!DOCTYPE html>
     <html lang="en">
@@ -210,29 +93,20 @@ def generate_html(title, story_parts, image_urls, tetum_title, tetum_story_parts
             h1 {{ color: #2c3e50; }}
             .story-part {{ margin-bottom: 20px; }}
             img {{ max-width: 100%; height: auto; margin-bottom: 20px; }}
+            .tetun {{ font-style: italic; color: #666; }}
         </style>
     </head>
     <body>
-        <h1>{tetum_title}</h1>
-    """
-    
-    for i, (part, image_url) in enumerate(zip(tetum_story_parts, image_urls)):
-        html += f"""
-        <div class="story-part">
-            <p>{part}</p>
-            <img src="{image_url}" alt="Story illustration {i+1}">
-        </div>
-        """
-    
-    html += f"""
+        <h1>{tetun_title}</h1>
         <h1>{title}</h1>
     """
     
-    for i, (part, image_url) in enumerate(zip(story_parts, image_urls)):
+    for i, (eng_part, tetun_part, image_url) in enumerate(zip(story_parts, tetun_story_parts, image_urls), 1):
         html += f"""
         <div class="story-part">
-            <p>{part}</p>
-            <img src="{image_url}" alt="Story illustration {i+1}">
+            <p>{eng_part}</p>
+            <p class="tetun">{tetun_part}</p>
+            <img src="{image_url}" alt="Story illustration {i}">
         </div>
         """
     
@@ -242,7 +116,7 @@ def generate_html(title, story_parts, image_urls, tetum_title, tetum_story_parts
     """
     
     return html
-
+    
 def generate_image_gallery():
     bucket_name = 'tl-web'
     prefix = 'images/'
@@ -292,25 +166,145 @@ def generate_image_gallery():
         ContentType='text/html'
     )
     
+    
+def generate_story(seed_file):
+    # Load dictionary contents
+    with open(DICT_FILE, 'r', encoding='utf-8') as f:
+        dictionary_content = f.read()
+    with open(PHRASES_FILE, 'r', encoding='utf-8') as f:
+        phrases_content = f.read()
+    with open(COMPOUND_FILE, 'r', encoding='utf-8') as f:
+        compound_content = f.read()
+
+    prompt = f"""Human: Based on the file '{seed_file}', create a bedtime story for children of Timor Leste from a non-dual, spiritual perspective that emphasizes the interconnectedness of all life and encourages living in loving harmony with mother nature. The story should be suitable for young children and have a clear beginning, middle, and end. Please provide the story in three parts, each around 100 words long. Also, provide a short title for the story.
+
+    After generating the story in English, translate it to Tetun. When translating, please consider the following Tetun grammar rules:
+    
+    1. Word order: In Tetun, the verb often comes at the end of the sentence. If a sentence has 3 or more words and doesn't start with a pronoun (Hau, O, Nia, Ita, Ami, Imi, Sira), move the first word to the end of the sentence.
+    
+    2. Aspect markers: Use the following Tetun words:
+       - 'ona' for completed actions (e.g., "Hau han ona" = "I have eaten")
+       - 'tiha' for perfective aspect (e.g., "Hau han tiha" = "I ate")
+       - 'hela' for continuous actions (e.g., "Hau han hela" = "I am eating")
+       - 'sei' for future actions (e.g., "Hau sei han" = "I will eat")
+    
+    3. Pronouns: Use the following Tetun pronouns:
+       - 'Hau' for 'I'
+       - 'O' for 'you' (informal)
+       - 'Ita' for 'you' (formal) or 'we' (inclusive)
+       - 'Nia' for 'he/she/it'
+       - 'Ami' for 'we' (exclusive)
+       - 'Imi' for 'you' (plural)
+       - 'Sira' for 'they'
+    
+    4. Use the possessive marker 'nia' between the possessor and the possessed item (e.g., "Maria nia uma" = "Maria's house")
+    
+    5. Use 'mak' for focus or emphasis (e.g., "Maria mak han" = "It was Maria who ate")
+    
+    6. Use 'katak' to introduce reported speech or thoughts (e.g., "Nia dehan katak..." = "He said that...")
+    
+    Use the provided dictionaries to assist with the translation:
+    
+    Dictionary: {dictionary_content}
+    Phrases: {phrases_content}
+    Compound words: {compound_content}
+    
+    Please provide a full translation but use the Dictionary to help you with words you don't know in Tetum.
+    
+    Return the story in the following format without any additional text:
+    Title (English): [English Title]
+    Title (Tetun): [Tetun Title]
+
+    Part 1 (English): [English text for Part 1]
+    Part 1 (Tetun): [Tetun translation for Part 1]
+
+    Part 2 (English): [English text for Part 2]
+    Part 2 (Tetun): [Tetun translation for Part 2]
+
+    Part 3 (English): [English text for Part 3]
+    Part 3 (Tetun): [Tetun translation for Part 3]
+
+    Human: Generate the story as described above, following the exact format specified.
+
+    Assistant: Title (English): [English Title]
+    Title (Tetun): [Tetun Title]
+
+    Part 1 (English): [English text for Part 1]
+    Part 1 (Tetun): [Tetun translation for Part 1]
+
+    Part 2 (English): [English text for Part 2]
+    Part 2 (Tetun): [Tetun translation for Part 2]
+
+    Part 3 (English): [English text for Part 3]
+    Part 3 (Tetun): [Tetun translation for Part 3]
+
+    Human: Thank you for generating the story. Please return this output exactly as is, with no additional text.
+
+    Assistant: Title (English): [English Title]
+    Title (Tetun): [Tetun Title]
+
+    Part 1 (English): [English text for Part 1]
+    Part 1 (Tetun): [Tetun translation for Part 1]
+
+    Part 2 (English): [English text for Part 2]
+    Part 2 (Tetun): [Tetun translation for Part 2]
+
+    Part 3 (English): [English text for Part 3]
+    Part 3 (Tetun): [Tetun translation for Part 3]
+    Assistant:"""
+
+    response = anthropic_client.completions.create(
+        prompt=prompt,
+        model="claude-v1",
+        max_tokens_to_sample=2000,
+        stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
+    )
+    
+    story_content = response.completion.strip().split('\n\n')
+    
+    # Remove any introductory lines
+    while story_content and not story_content[0].startswith("Title"):
+        story_content.pop(0)
+    
+    # Add debugging information
+    print(f"Generated story content (first 500 characters): {story_content[:500]}")
+    print(f"Number of story parts: {len(story_content)}")
+    
+    # Ensure we have the correct number of parts
+    if len(story_content) != 4:  # Title + 3 parts
+        raise ValueError(f"Incorrect number of story parts. Expected 4, got {len(story_content)}. Content: {story_content}")
+    
+    return story_content
+
 def lambda_handler(event, context):
     try:
         seed_file = load_random_file()
-        title, story_parts = generate_story(seed_file)
+        story_content = generate_story(seed_file)
         
-        safe_title = ''.join(c if c.isalnum() else '_' for c in title.lower())
+        # Parse the title
+        title_parts = story_content[0].split('\n')
+        english_title = title_parts[0].replace("Title (English): ", "").strip()
+        tetun_title = title_parts[1].replace("Title (Tetun): ", "").strip()
+        
+        english_story_parts = []
+        tetun_story_parts = []
+        
+        for part in story_content[1:]:
+            part_lines = part.split('\n')
+            english_story_parts.append(part_lines[0].replace("Part 1 (English): ", "").strip())
+            tetun_story_parts.append(part_lines[1].replace("Part 1 (Tetun): ", "").strip())
+        
+        safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
         date_str = datetime.now().strftime("%Y%m%d")
         
         image_urls = []
-        for i, part in enumerate(story_parts, 1):
+        for i, part in enumerate(english_story_parts, 1):
             image = generate_image(part[:100])
             image_name = f'{safe_title}_image_{i}_{date_str}.png'
             image_url = save_image_to_s3(image, image_name)
             image_urls.append(image_url)
         
-        tetum_title = translate_english_to_tetun(title)
-        tetum_story_parts = [translate_english_to_tetun(part) for part in story_parts]
-        
-        html_content = generate_html(title, story_parts, image_urls, tetum_title, tetum_story_parts)
+        html_content = generate_html(english_title, english_story_parts, image_urls, tetun_title, tetun_story_parts)
         
         s3.put_object(
             Bucket='tl-web',
@@ -321,9 +315,10 @@ def lambda_handler(event, context):
         generate_image_gallery()
         return {
             'statusCode': 200,
-            'body': json.dumps(f"Bedtime story '{title}' generated and saved to s3://tl-web/bedtime.html")
+            'body': json.dumps(f"Bedtime story '{english_title}' generated and saved to s3://tl-web/bedtime.html")
         }
     except Exception as e:
+        print(f"An error occurred: {str(e)}")
         return {
             'statusCode': 500,
             'body': json.dumps(f"An error occurred: {str(e)}")
