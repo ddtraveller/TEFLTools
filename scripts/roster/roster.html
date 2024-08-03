@@ -4,19 +4,102 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>School Roster Management System</title>
-    <link rel="icon" type="image/x-icon" href="https://tarotcardsstyles.s3.us-west-2.amazonaws.com/favicon.ico"> 
+    <link rel="icon" type="image/x-icon" href="https://tarotcardsstyles.s3.us-west-2.amazonaws.com/favicon.ico">
     <link rel="stylesheet" href="https://tl-web.s3.us-west-2.amazonaws.com/roster/roster.css">
 </head>
 <body>
     <h1 id="mainHeader">School Roster Management System</h1>
     
+    <button id="toggleInstructionsBtn">Show Instructions</button>
+    
+    <div id="instructionsSection">
+        <h2>Guia Uzuáriu</h2>
+        <ol>
+            <li><strong>Tanba Halibur Estudante:</strong>
+                <ul>
+                    <li>Klik iha butaun "Tanba Estudante".</li>
+                    <li>Tama naran loos estudante nian bainhira simu hakerek.</li>
+                    <li>Tama apelido estudante nian bainhira simu hakerek.</li>
+                    <li>Tama loron moris estudante nian iha formatu YYYY-MM-DD bainhira simu hakerek.</li>
+                    <li>Estudante foun sei hatudu iha tabela estudante sira nian iha loron ida ne'e.</li>
+                </ul>
+            </li>
+            <li><strong>Tanba Halibur Profesor:</strong>
+                <ul>
+                    <li>Klik iha butaun "Tanba Profesor".</li>
+                    <li>Tama naran loos profesor nian bainhira simu hakerek.</li>
+                    <li>Tama apelido profesor nian bainhira simu hakerek.</li>
+                    <li>Tama asuntu ne'ebé profesor ensina bainhira simu hakerek.</li>
+                    <li>Profesor foun sei hatudu iha tabela profesor sira nian iha loron ida ne'e.</li>
+                </ul>
+            </li>
+            <li><strong>Edita Estudante ka Profesor:</strong>
+                <ul>
+                    <li>Haree estudante ka profesor iha tabela sira-nia nian.</li>
+                    <li>Klik iha butaun "Edita" besik naran.</li>
+                    <li>Tama informasaun foun bainhira simu hakerek.</li>
+                    <li>Informasaun ne'ebé muda sei refleta iha tabela.</li>
+                </ul>
+            </li>
+            <li><strong>Fo Sai Estudante ka Profesor:</strong>
+                <ul>
+                    <li>Buka estudante ka profesor iha tabela sira-nia nian.</li>
+                    <li>Klik iha butaun "Hasai" besik naran.</li>
+                    <li>Estudante ka profesor sei sai husi tabela.</li>
+                </ul>
+            </li>
+            <li><strong>Buka Estudante:</strong>
+                <ul>
+                    <li>Uza kaixa buka iha leten tabela estudante nian.</li>
+                    <li>Hakerek naran estudante nian (loos ka apelido).</li>
+                    <li>Tabela sei muda automaticamente hodi hatudu rezultadu ne'ebé hanesan.</li>
+                </ul>
+            </li>
+            <li><strong>Kria Klase:</strong>
+                <ul>
+                    <li>Asegura ita iha estudante no profesor sira iha sistema.</li>
+                    <li>Klik iha butaun "Kria Klase".</li>
+                    <li>Sistema sei fahe automaticamente estudante sira ba profesor sira ne'ebé disponivel.</li>
+                    <li>Designasaun klase sei hatudu iha okos tabela sira nian.</li>
+                </ul>
+            </li>
+            <li><strong>Muda Designasaun Klase:</strong>
+                <ul>
+                    <li>Haree estudante ka profesor iha tabela sira-nia nian.</li>
+                    <li>Klik iha butaun "Muda Klase" besik naran.</li>
+                    <li>Tama naran klase foun bainhira simu hakerek.</li>
+                    <li>Designasaun klase sei muda iha tabela no iha lista klase.</li>
+                </ul>
+            </li>
+            <li><strong>Rai Dadus Lista:</strong>
+                <ul>
+                    <li>Klik iha butaun "Rai iha Arkivu".</li>
+                    <li>Arkivu JSON ho dadus lista hotu-hotu sei download ba ita-nia komputador.</li>
+                </ul>
+            </li>
+            <li><strong>Karik Rai Dadus Lista:</strong>
+                <ul>
+                    <li>Klik iha butaun "Karga husi Arkivu".</li>
+                    <li>Hili arkivu JSON ne'ebé rai tiha ona husi ita-nia komputador.</li>
+                    <li>Sistema sei karga dadus, troka informasaun lista atuál.</li>
+                </ul>
+            </li>
+            <li><strong>Haree Klase:</strong>
+                <ul>
+                    <li>Hafoin kria klase ka muda designasaun, scroll ba kraik hodi haree lista klase.</li>
+                    <li>Kada klase sei hatudu profesor ne'ebé designa no lista estudante sira.</li>
+                </ul>
+            </li>
+        </ol>
+    </div>
+
     <div id="rosterOptions">
         <button id="addStudentBtn">Add Student</button>
         <button id="addTeacherBtn">Add Teacher</button>
         <button id="createClassesBtn">Create Classes</button>
         <button id="saveToFileBtn">Save to File</button>
         <button id="loadFileBtn">Load from File</button>
-        <input type="file" id="fileInput" style="display: none;" accept=".json">
+        <input type="file" id="fileInput" accept=".json">
     </div>
 
     <div id="searchSection">

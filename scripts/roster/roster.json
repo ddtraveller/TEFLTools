@@ -29,6 +29,7 @@
         "teacherLastName": "Favor, tama profesór nia naran ikus:",
         "teacherSubject": "Favor, tama profesór nia asuntu:",
         "editTeacherSubject": "Favor, tama asuntu foun:",
-        "changeClass": "Favor, tama naran klase foun:"
+        "changeClass": "Favor, tama naran klase foun:",
+        "toggleInstructionsBtn": "Show Instructions/Hatudu Orientasaun"
     }
 }

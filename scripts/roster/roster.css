@@ -4,6 +4,7 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
+
 button {
     margin-right: 10px;
     padding: 10px 20px;
@@ -13,24 +14,57 @@ button {
     cursor: pointer;
     font-size: 16px;
 }
+
 button:hover {
     background-color: #45a049;
 }
+
 table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
 }
+
 th, td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
 }
+
 th {
     background-color: #f2f2f2;
 }
+
 #searchInput {
     padding: 10px;
     font-size: 16px;
     margin-right: 10px;
+}
+
+#instructionsSection {
+    display: none;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#instructionsSection h2 {
+    margin-top: 0;
+}
+
+#fileInput {
+    display: none;
+}
+
+#rosterOptions {
+    margin-bottom: 20px;
+}
+
+#searchSection {
+    margin-bottom: 20px;
+}
+
+#classesContainer {
+    margin-top: 20px;
 }

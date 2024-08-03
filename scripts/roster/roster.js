@@ -148,6 +148,8 @@ function init() {
         document.getElementById('saveToFileBtn').addEventListener('click', saveToFile);
         document.getElementById('loadFileBtn').addEventListener('click', loadFromFile);
         document.getElementById('fileInput').addEventListener('change', handleFileSelect);
+        document.getElementById('toggleInstructionsBtn').addEventListener('click', toggleInstructions);
+        
     });
 }
 
@@ -161,6 +163,19 @@ function updatePageText() {
     document.getElementById('loadFileBtn').textContent = texts.loadFileBtn;
     document.getElementById('currentStudentRosterHeader').textContent = texts.currentStudentRosterHeader;
     document.getElementById('currentTeacherRosterHeader').textContent = texts.currentTeacherRosterHeader;
+    document.getElementById('toggleInstructionsBtn').textContent = texts.prompts.toggleInstructionsBtn;
+}
+
+function toggleInstructions() {
+    const instructionsSection = document.getElementById('instructionsSection');
+    const toggleButton = document.getElementById('toggleInstructionsBtn');
+    if (instructionsSection.style.display === 'none' || instructionsSection.style.display === '') {
+        instructionsSection.style.display = 'block';
+        toggleButton.textContent = 'Hide Instructions/Subar Orientasaun';
+    } else {
+        instructionsSection.style.display = 'none';
+        toggleButton.textContent = 'Show Instructions/Hatudu Orientasaun';
+    }
 }
 
 function addStudent(firstName, lastName, birthDate) {
