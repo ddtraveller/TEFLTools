@@ -1,0 +1,34 @@
+{
+    "pageTitle": "Sistema Jestaun Lista Eskola",
+    "mainHeader": "Sistema Jestaun Lista Eskola",
+    "addStudentBtn": "Tau Tan Estudante",
+    "addTeacherBtn": "Tau Tan Profesór",
+    "createClassesBtn": "Kria Klase",
+    "saveToFileBtn": "Salva Ba Arkivu",
+    "loadFileBtn": "Karga Husi Arkivu",
+    "currentStudentRosterHeader": "Lista Estudante Atuál",
+    "currentTeacherRosterHeader": "Lista Profesór Atuál",
+    "tableHeaders": {
+        "name": "Naran",
+        "birthDate": "Data Moris",
+        "class": "Klase",
+        "subject": "Asuntu",
+        "actions": "Aksaun"
+    },
+    "editBtn": "Edita",
+    "removeBtn": "Hasai",
+    "changeClassBtn": "Muda Klase",
+    "prompts": {
+        "firstName": "Favor, tama estudante nia naran uluk:",
+        "lastName": "Favor, tama estudante nia naran ikus:",
+        "birthDate": "Favor, tama estudante nia data moris (YYYY-MM-DD):",
+        "editFirstName": "Favor, tama naran uluk foun:",
+        "editLastName": "Favor, tama naran ikus foun:",
+        "editBirthDate": "Favor, tama data moris foun (YYYY-MM-DD):",
+        "teacherFirstName": "Favor, tama profesór nia naran uluk:",
+        "teacherLastName": "Favor, tama profesór nia naran ikus:",
+        "teacherSubject": "Favor, tama profesór nia asuntu:",
+        "editTeacherSubject": "Favor, tama asuntu foun:",
+        "changeClass": "Favor, tama naran klase foun:"
+    }
+}

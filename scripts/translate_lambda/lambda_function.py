@@ -7,19 +7,23 @@ import tiktoken
 
 print("Lambda function initialized")
 
-# Set up paths (in Lambda, we'll use /tmp for writable storage)
-SCRIPT_DIR = Path('/tmp')
+# Set up paths (assuming the script is in the same directory as the JS files)
+SCRIPT_DIR = Path(__file__).resolve().parent
 DICT_FILE = SCRIPT_DIR / 'dictionary.js'
 PHRASES_FILE = SCRIPT_DIR / 'phrases.js'
 COMPOUND_FILE = SCRIPT_DIR / 'compound.js'
 
 # Load dictionary, phrases, and compounds
-# Note: In a real Lambda, you'd need to ensure these files are available,
-# possibly by including them in your deployment package or downloading them at runtime
-# Assume these are loaded and available as dictionaries:
-english_to_tetun = {}  # Load this from DICT_FILE
-tetun_phrases = {}  # Load this from PHRASES_FILE
-tetun_compounds = {}  # Load this from COMPOUND_FILE
+def load_js_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+        # Remove the 'export default' statement and parse the remaining JSON
+        json_content = content.replace('export default ', '')
+        return json.loads(json_content)
+
+english_to_tetun = load_js_file(DICT_FILE)
+tetun_phrases = load_js_file(PHRASES_FILE)
+tetun_compounds = load_js_file(COMPOUND_FILE)
 
 # Set up Anthropic client
 anthropic_client = anthropic.Anthropic(api_key=os.environ.get('ANTHROPIC_API_KEY'))

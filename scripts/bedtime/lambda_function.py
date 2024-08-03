@@ -38,12 +38,12 @@ def load_random_file():
     return random_file['path']
 
 def generate_story(seed_file):
-    prompt = f"""Human: Based on the file '{seed_file}', create a short bedtime story for children from a non-dual, spiritual perspective that emphasizes the interconnectedness of all life and encourages living in loving harmony with mother nature. The story should be suitable for young children and have a clear beginning, middle, and end. Please provide the story in three parts, each around 100 words long. Also, provide a short title for the story. Return only the text of the title and story with no additional text or commentary before or after the output of the story. Assistant:"""
+    prompt = f"""Human: Based on the file '{seed_file}', create bedtime story for children of Timor Leste from a non-dual, spiritual perspective that emphasizes the interconnectedness of all life and encourages living in loving harmony with mother nature. The story should be suitable for young children and have a clear beginning, middle, and end. Please provide the story in three parts, each around 100 words long. Also, provide a short title for the story. Return only the text of the title and story with no additional text or commentary before or after the output of the story. Do not include and text that is not a part of the story title. Assistant:"""
 
     response = anthropic_client.completions.create(
         prompt=prompt,
         model="claude-v1",
-        max_tokens_to_sample=1200,
+        max_tokens_to_sample=2000,
         stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
     )
     
