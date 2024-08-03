@@ -111,33 +111,47 @@ aspect_markers = {
     'sei': 'still/will'
 }
 
-# Function to translate Tetun aspect markers 
+# Function to translate Tetun aspect markers
 def translate_aspect_markers(text):
     for marker, translation in aspect_markers.items():
-        text = text.replace(f" {marker} ", f" {translation} ")
+        # Handle aspect markers with multiple translations (e.g., 'sei')
+        if '/' in translation:
+            translations = translation.split('/')
+            replacement = translations[0]  # Use the first translation as the default
+            # Replace the aspect marker with the appropriate translation based on context
+            text = re.sub(r'\b' + re.escape(marker) + r'\b', lambda match: replacement, text)
+        else:
+            # Replace the aspect marker with the translation
+            text = re.sub(r'\b' + re.escape(marker) + r'\b', translation, text)
     return text
 
 # Dictionary of Tetun pronouns and their English equivalents
 pronoun_map = {
     'Hau': 'I',
-    'O': 'you (informal)', 
+    'O': 'you (informal)',
     'Ita': 'you (formal)/we (inclusive)',
     'Nia': 'he/she/it',
     'Ami': 'we (exclusive)',
-    'Imi' : 'you (plural)',
+    'Imi': 'you (plural)',
     'Sira': 'they'
 }
 
 # Function to translate Tetun pronouns
 def translate_pronouns(text):
     for tetun, english in pronoun_map.items():
-        text = text.replace(f" {tetun} ", f" {english} ")
+        # Extract the English pronoun without the parentheses
+        english_pronoun = re.search(r"(.*?)\s*\(", english).group(1)
+        # Replace the Tetun pronoun in the text
+        text = re.sub(r'\b' + re.escape(tetun) + r'\b', english_pronoun, text)
     return text
 
 # Function to translate Tetun compound words
 def translate_compounds(text):
     for compound, translation in tetun_compounds.items():
-        text = text.replace(compound, translation)
+        # Extract the Tetun compound word without the parentheses
+        tetun_word = re.search(r"(.*?)\s*\(", translation).group(1)
+        # Replace the compound word in the text
+        text = re.sub(r'\b' + re.escape(compound) + r'\b', tetun_word, text)
     return text
 
 # Function to handle Tetun reduplication  
@@ -221,6 +235,55 @@ def generate_html(title, story_parts, image_urls, tetum_title, tetum_story_parts
     
     return html
 
+def generate_image_gallery():
+    bucket_name = 'tl-web'
+    prefix = 'images/'
+    
+    response = s3.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
+    objects = response.get('Contents', [])
+    
+    html = """
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Image Gallery</title>
+        <style>
+            .gallery {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+                grid-gap: 20px;
+            }
+            .gallery img {
+                width: 100%;
+                height: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Image Gallery</h1>
+        <div class="gallery">
+    """
+    
+    for obj in objects:
+        image_key = obj['Key']
+        image_url = f"https://{bucket_name}.s3.amazonaws.com/{image_key}"
+        html += f'<a href="{image_url}" target="_blank"><img src="{image_url}" alt="{image_key}"></a>'
+    
+    html += """
+        </div>
+    </body>
+    </html>
+    """
+    
+    s3.put_object(
+        Bucket=bucket_name,
+        Key='images/images.html',
+        Body=html,
+        ContentType='text/html'
+    )
+    
 def lambda_handler(event, context):
     try:
         seed_file = load_random_file()
@@ -247,7 +310,7 @@ def lambda_handler(event, context):
             Body=html_content,
             ContentType='text/html'
         )
-        
+        generate_image_gallery()
         return {
             'statusCode': 200,
             'body': json.dumps(f"Bedtime story '{title}' generated and saved to s3://tl-web/bedtime.html")
