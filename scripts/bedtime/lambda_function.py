@@ -140,7 +140,11 @@ pronoun_map = {
 def translate_pronouns(text):
     for tetun, english in pronoun_map.items():
         # Extract the English pronoun without the parentheses
-        english_pronoun = re.search(r"(.*?)\s*\(", english).group(1)
+        match = re.search(r"(.*?)\s*\(", english)
+        if match:
+            english_pronoun = match.group(1)
+        else:
+            english_pronoun = english
         # Replace the Tetun pronoun in the text
         text = re.sub(r'\b' + re.escape(tetun) + r'\b', english_pronoun, text)
     return text
@@ -149,11 +153,15 @@ def translate_pronouns(text):
 def translate_compounds(text):
     for compound, translation in tetun_compounds.items():
         # Extract the Tetun compound word without the parentheses
-        tetun_word = re.search(r"(.*?)\s*\(", translation).group(1)
+        match = re.search(r"(.*?)\s*\(", translation)
+        if match:
+            tetun_word = match.group(1)
+        else:
+            tetun_word = translation
         # Replace the compound word in the text
         text = re.sub(r'\b' + re.escape(compound) + r'\b', tetun_word, text)
     return text
-
+    
 # Function to handle Tetun reduplication  
 def handle_reduplication(text):
     words = text.split()
