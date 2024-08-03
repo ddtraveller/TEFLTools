@@ -2,9 +2,9 @@
     "pageTitle": "Sistema Jestaun Lista Eskola",
     "mainHeader": "Sistema Jestaun Lista Eskola",
     "addStudentBtn": "Tau Tan Estudante",
-    "addTeacherBtn": "Tau Tan Profesór",
+    "addTeacherBtn": "Aumenta tan Manorin",
     "createClassesBtn": "Kria Klase",
-    "saveToFileBtn": "Salva Ba Arkivu",
+    "saveToFileBtn": "Rai iha Arkivu",
     "loadFileBtn": "Karga Husi Arkivu",
     "currentStudentRosterHeader": "Lista Estudante Atuál",
     "currentTeacherRosterHeader": "Lista Profesór Atuál",
@@ -30,6 +30,6 @@
         "teacherSubject": "Favor, tama profesór nia asuntu:",
         "editTeacherSubject": "Favor, tama asuntu foun:",
         "changeClass": "Favor, tama naran klase foun:",
-        "toggleInstructionsBtn": "Show Instructions/Hatudu Orientasaun"
+        "toggleInstructionsBtn": "Show Instructions/Hatudu Instrusaun"
     }
 }
