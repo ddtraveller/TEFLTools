@@ -20,10 +20,13 @@ S3_BUCKET = os.environ['S3_BUCKET']
 anthropic_client = Anthropic(api_key=ANTHROPIC_API_KEY)
 s3 = boto3.client('s3')
 
-# Load dictionary, phrases, and compounds (You'll need to implement this part)
-english_to_tetun = {}  # Load this from your dictionary file
-tetun_phrases = {}  # Load this from your phrases file
-tetun_compounds = {}  # Load this from your compounds file
+# Load dictionary contents
+with open('dictionary.json', 'r', encoding='utf-8') as f:
+    DICT_FILE = f.read()
+with open('phrases.json', 'r', encoding='utf-8') as f:
+    PHRASES_FILE = f.read()
+with open('compound.json', 'r', encoding='utf-8') as f:
+    COMPOUND_FILE = f.read()
 
 def lambda_handler(event, context):
     all_results = []
@@ -122,39 +125,45 @@ def num_tokens_from_string(string: str, encoding_name: str = "cl100k_base") -> i
     num_tokens = len(encoding.encode(string))
     return num_tokens
 
-def translate_words(text, dictionary):
-    words = text.split()
-    translated_words = []
-    for word in words:
-        # Convert to lowercase for dictionary lookup
-        lower_word = word.lower()
-        # Check if the word or its lemma (if different) is in the dictionary
-        if lower_word in dictionary:
-            translated_words.append(dictionary[lower_word])
-        else:
-            # If not found, keep the original word
-            translated_words.append(word)
-    return ' '.join(translated_words)
-
-def preprocess_text(text):
-    # Implement preprocess_tetun_word_order, translate_aspect_markers, 
-    # translate_pronouns, translate_compounds, and handle_reduplication here
-    return text
-
-def get_best_tetun_words(english_word, cfd, n=5):
-    if english_word in cfd.conditions(): 
-        return cfd[english_word].most_common(n)
-    else:
-        return []
-
 def translate_english_to_tetun(text, anthropic_client):
-    # Simple word-by-word translation
-    words = text.split()
-    translated_words = [english_to_tetun.get(word.lower(), word) for word in words]
-    initial_translation = ' '.join(translated_words)
+    prompt = f"""Human: Translate the following English text to Tetun. When translating, please consider the following Tetun grammar rules:
     
-    # Use Anthropic's API for final translation
-    prompt = f"Human: Translate the following English text to Tetun, keeping in mind Tetun grammar rules:\n\n{initial_translation}\n\nTetun translation:\n\nAssistant:"
+    1. Use subject-verb-object (SVO) word order as the default, but allow for object fronting when emphasizing or contrasting.
+    2. Avoid passive voice constructions, as Tetun Dili lacks a passive voice. Use active constructions instead.
+    3. Employ appropriate tense-aspect markers like ona (anterior), tiha (perfective), hela (continuous), and sei (future) to convey precise temporal and aspectual meanings.
+    4. Use the focus marker mak to indicate emphasis or contrast where appropriate.
+    5. Apply correct plural marking with sira and indicate definiteness using ne 'this' when needed.
+    6. Incorporate Portuguese loanwords for formal or technical vocabulary, but maintain a balance with native Tetun words in everyday speech.
+    7. Form possessive and associative constructions correctly, using nia for possessives and appropriate word order for associatives.
+    8. Use the correct prepositions and conjunctions, many of which are borrowed from Portuguese (e.g. para 'so that', tanba 'because').
+    9. Implement serial verb constructions for motion and direction (e.g. halai sai 'run exit' = 'run outside').
+    10. Form questions, commands, and negations according to Tetun Dili grammar rules.
+    11. Adjust language for different registers (formal, informal, church), using appropriate vocabulary and structures for each.
+    12. Include discourse markers and connectors to improve cohesion (e.g. entaun 'so', maibe 'but', depois 'then').
+    13. Use reduplication and compounding productively to form new words where appropriate (e.g. dader-dader 'every morning').
+    14. Employ the correct forms of reflexives (-an suffix) and reciprocals (malu) when needed.
+    15. Use appropriate numeral classifiers, especially for humans (e.g. ema nain rua 'person CLs:human two' = 'two people').
+    16. Incorporate idiomatic "body-good" expressions for emotions and states (e.g. laran diak 'inside good' = 'kind-hearted').
+    17. Use the existential verb iha correctly for existence, location, and possession.
+    18. Form relative clauses using nebe or other appropriate markers.
+    19. Use the irrealis marker atu for future events, intentions, or purposes.
+    20. Incorporate appropriate intensifiers and comparatives (e.g. liu 'more', demais 'too much').
+    
+    Use the provided dictionaries to assist with the translation:
+    
+    Dictionary: {DICT_FILE}
+    Phrases: {PHRASES_FILE}
+    Compound words: {COMPOUND_FILE}
+    
+    Please provide a full translation but use the Dictionary to help you with words you don't know in Tetun.
+    
+    Text to translate:
+    {text}
+    Human: Translate the text as described above, returning only the Tetun translation without any additional text.
+    Assistant: [Tetun translation]
+    Human: Thank you for translating. Please return this output exactly as is, with no additional text.
+    Assistant: [Tetun translation]
+    Assistant:"""
     
     response = anthropic_client.completions.create(
         prompt=prompt,
@@ -163,7 +172,8 @@ def translate_english_to_tetun(text, anthropic_client):
         stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
     )
     
-    return response.completion.strip()
+    translation = response.completion.strip()
+    return translation
 
 def generate_html(results):
     html = """

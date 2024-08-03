@@ -180,68 +180,66 @@ def generate_story(seed_file):
 
     After generating the story in English, translate it to Tetun. When translating, please consider the following Tetun grammar rules:
     
-    1. Word order: In Tetun, the verb often comes at the end of the sentence. If a sentence has 3 or more words and doesn't start with a pronoun (Hau, O, Nia, Ita, Ami, Imi, Sira), move the first word to the end of the sentence.
+    1. Use subject-verb-object (SVO) word order as the default, but allow for object fronting when emphasizing or contrasting.
+    2. Avoid passive voice constructions, as Tetun Dili lacks a passive voice. Use active constructions instead.
+    3. Employ appropriate tense-aspect markers like ona (anterior), tiha (perfective), hela (continuous), and sei (future) to convey precise temporal and aspectual meanings.
+    4. Use the focus marker mak to indicate emphasis or contrast where appropriate.
+    5. Apply correct plural marking with sira and indicate definiteness using ne 'this' when needed.
+    6. Incorporate Portuguese loanwords for formal or technical vocabulary, but maintain a balance with native Tetun words in everyday speech.
+    7. Form possessive and associative constructions correctly, using nia for possessives and appropriate word order for associatives.
+    8. Use the correct prepositions and conjunctions, many of which are borrowed from Portuguese (e.g. para 'so that', tanba 'because').
+    9. Implement serial verb constructions for motion and direction (e.g. halai sai 'run exit' = 'run outside').
+    10. Form questions, commands, and negations according to Tetun Dili grammar rules.
+    11. Adjust language for different registers (formal, informal, church), using appropriate vocabulary and structures for each.
+    12. Include discourse markers and connectors to improve cohesion (e.g. entaun 'so', maibe 'but', depois 'then').
+    13. Use reduplication and compounding productively to form new words where appropriate (e.g. dader-dader 'every morning').
+    14. Employ the correct forms of reflexives (-an suffix) and reciprocals (malu) when needed.
+    15. Use appropriate numeral classifiers, especially for humans (e.g. ema nain rua 'person CLs:human two' = 'two people').
+    16. Incorporate idiomatic "body-good" expressions for emotions and states (e.g. laran diak 'inside good' = 'kind-hearted').
+    17. Use the existential verb iha correctly for existence, location, and possession.
+    18. Form relative clauses using nebe or other appropriate markers.
+    19. Use the irrealis marker atu for future events, intentions, or purposes.
+    20. Incorporate appropriate intensifiers and comparatives (e.g. liu 'more', demais 'too much').
     
-    2. Aspect markers: Use the following Tetun words:
-       - 'ona' for completed actions (e.g., "Hau han ona" = "I have eaten")
-       - 'tiha' for perfective aspect (e.g., "Hau han tiha" = "I ate")
-       - 'hela' for continuous actions (e.g., "Hau han hela" = "I am eating")
-       - 'sei' for future actions (e.g., "Hau sei han" = "I will eat")
-    
-    3. Pronouns: Use the following Tetun pronouns:
-       - "Ha'u" for "I"
-       - Ó (informal of 'you' specially used for children)
-       - 'Ita' for 'you' (formal) or 'we' (inclusive)
-       - 'Nia' for 'he/she/it'
-       - 'Ami' for 'we' (exclusive)
-       - 'Imi' for 'you' (plural)
-       - 'Sira' for 'they'
-    
-    4. Use the possessive marker 'nia' between the possessor and the possessed item (e.g., - Maria-nia uma = Maria's house. (use hyphens to connect more than one subject together))
- 
-    5. Use 'mak' for focus or emphasis (e.g., "Maria mak han" = "It was Maria who ate")
-    
-    6. Use 'katak' to introduce reported speech or thoughts (e.g., "Nia dehan katak..." = "He said that...")
-    
-    7: Use the following example story in Tetum as a grammar reference. Do not include it as information for generating the story content.
+    21. Use the following example story in Tetum as a grammar reference. Do not include it as information for generating the story content.
     
         - (ida)
-        Haree bá, manu-inan ida kokoteek hela. Ne’e
-        Manu Kai nia inan. Manu Kai nia inan ne’e
-        la’o bá-mai bolu-bolu Manu Kai, maibé Manu
-        Kai la mosu-mosu de’it.
+        Haree bá, manu-inan ida kokoteek hela. Ne'e
+        Manu Kai nia inan. Manu Kai nia inan ne'e
+        la'o bá-mai bolu-bolu Manu Kai, maibé Manu
+        Kai la mosu-mosu de'it.
         - (rua)
         Manu Kai nia inan fó-hatene ba Manu Kai nia
-        aman. Manu na’in rua ne’e bá buka kedan
+        aman. Manu na'in rua ne'e bá buka kedan
         sira-nia oan.
         - (tolu)
-        Manu Kai nia tiun ho tian mós laran-ta’uk
-        hotu. Tia nia alin mós ajuda tuir. Manu na’in
-        tolu ne’e mós komesa bá buka Manu Kai.
+        Manu Kai nia tiun ho tian mós laran-ta'uk
+        hotu. Tia nia alin mós ajuda tuir. Manu na'in
+        tolu ne'e mós komesa bá buka Manu Kai.
         - (haat)
         Hotu-hotu rona ona notísia kona-ba Manu
         Kai lakon. Manu Kai nia aman nia kolega
-        manu na’in haat mós lakohi hela ba kotuk
+        manu na'in haat mós lakohi hela ba kotuk
         atu ajuda buka hetan Manu Kai.
         - (lima)
         Loron komesa nakukun daudauk maibé sira
-        seidauk hetan Manu Kai ida. Manu na’in lima
+        seidauk hetan Manu Kai ida. Manu na'in lima
         komesa ajuda kedas. Sé mak hatene dala ida
-        ne’e sira bele hetan karik Manu Kai?
+        ne'e sira bele hetan karik Manu Kai?
         - (neen)
-        Maibé Manu Kai lakon nafatin. Agora hotuhotu tuir bá buka. Manu na’in neen tuir
+        Maibé Manu Kai lakon nafatin. Agora hotuhotu tuir bá buka. Manu na'in neen tuir
         hamutuk kokoteek hodi bolu Manu Kai.
-        Manu Kai bá iha ne’ebé? Teki-teki….., Manu
+        Manu Kai bá iha ne'ebé? Teki-teki….., Manu
         Kai nia lian mosu mai, "kiu-kiu-kiu." Hei, nia
-        mak ne’ebá! Husi do’ok Ita bele haree Manu
+        mak ne'ebá! Husi do'ok Ita bele haree Manu
         Kai halai halimar hela, kontente loos. Parese
-        nia la’o pasiar ba Tiu Nuno nia uma. Manu
+        nia la'o pasiar ba Tiu Nuno nia uma. Manu
         Kai halimar ho Lesi, Tiu Nuno nia asu, i nia
         haluhan tiha atu fila. Nia nakar tebetebes!
         Apá ho amá kontente hetan fali nia. Hotuhotu kontente hotu, Manu Kai la lakon ida.
         Amá dehan, "Manu Kai, loron seluk husu
         uluk lai lisensa!"    
-    8. Do not use "posessor" for "teacher" unless it is a male teacher; while for female teacher you should write "profesora". "manorin" is a general term for both female and male teachers.
+    22. Do not use "posessor" for "teacher" unless it is a male teacher; while for female teacher you should write "profesora". "manorin" is a general term for both female and male teachers.
     Use the provided dictionaries to assist with the translation:
     
     Dictionary: {dictionary_content}
