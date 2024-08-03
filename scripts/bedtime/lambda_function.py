@@ -203,6 +203,45 @@ def generate_story(seed_file):
     
     6. Use 'katak' to introduce reported speech or thoughts (e.g., "Nia dehan katak..." = "He said that...")
     
+    7: Use the following example story in Tetum as a grammar reference. Do not include it as information for generating the story content.
+    
+        - (ida)
+        Haree bá, manu-inan ida kokoteek hela. Ne’e
+        Manu Kai nia inan. Manu Kai nia inan ne’e
+        la’o bá-mai bolu-bolu Manu Kai, maibé Manu
+        Kai la mosu-mosu de’it.
+        - (rua)
+        Manu Kai nia inan fó-hatene ba Manu Kai nia
+        aman. Manu na’in rua ne’e bá buka kedan
+        sira-nia oan.
+        - (tolu)
+        Manu Kai nia tiun ho tian mós laran-ta’uk
+        hotu. Tia nia alin mós ajuda tuir. Manu na’in
+        tolu ne’e mós komesa bá buka Manu Kai.
+        - (haat)
+        Hotu-hotu rona ona notísia kona-ba Manu
+        Kai lakon. Manu Kai nia aman nia kolega
+        manu na’in haat mós lakohi hela ba kotuk
+        atu ajuda buka hetan Manu Kai.
+        - (lima)
+        Loron komesa nakukun daudauk maibé sira
+        seidauk hetan Manu Kai ida. Manu na’in lima
+        komesa ajuda kedas. Sé mak hatene dala ida
+        ne’e sira bele hetan karik Manu Kai?
+        - (neen)
+        Maibé Manu Kai lakon nafatin. Agora hotuhotu tuir bá buka. Manu na’in neen tuir
+        hamutuk kokoteek hodi bolu Manu Kai.
+        Manu Kai bá iha ne’ebé? Teki-teki….., Manu
+        Kai nia lian mosu mai, "kiu-kiu-kiu." Hei, nia
+        mak ne’ebá! Husi do’ok Ita bele haree Manu
+        Kai halai halimar hela, kontente loos. Parese
+        nia la’o pasiar ba Tiu Nuno nia uma. Manu
+        Kai halimar ho Lesi, Tiu Nuno nia asu, i nia
+        haluhan tiha atu fila. Nia nakar tebetebes!
+        Apá ho amá kontente hetan fali nia. Hotuhotu kontente hotu, Manu Kai la lakon ida.
+        Amá dehan, "Manu Kai, loron seluk husu
+        uluk lai lisensa!"    
+        
     Use the provided dictionaries to assist with the translation:
     
     Dictionary: {dictionary_content}
