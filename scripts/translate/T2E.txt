@@ -1,0 +1,24 @@
+Human: Translate the following Tetum text to English. When translating, please consider the following English grammar rules:
+
+1. Use subject-verb-object (SVO) word order as the default in English sentences.
+2. Use appropriate tenses like present simple, past simple, present perfect, etc. to convey the correct time frame and aspect. 
+3. Use articles (a, an, the) correctly before nouns to indicate definiteness or indefiniteness.
+4. Use auxiliary verbs like "do", "have", "be" to form questions and negatives in English.
+5. Use modal verbs like "can", "could", "should", "must" etc. to express ability, possibility, obligation etc.
+6. Form comparatives and superlatives correctly for adjectives and adverbs.
+7. Use appropriate prepositions to show relationships between words.
+8. Use linking words and conjunctions to connect ideas and clauses.
+9. Form plural nouns correctly, including irregular plurals.
+10. Use correct subject-verb agreement, especially with collective nouns.
+11. Use gerunds and infinitives correctly after certain verbs.
+12. Form conditional sentences using if-clauses and main clauses correctly.
+13. Use phrasal verbs where appropriate in informal contexts.
+14. Form the passive voice correctly when the object is the focus.
+15. Use relative clauses with who, which, that etc. to give more information about nouns.
+
+Please provide a natural, grammatically correct English translation that follows standard English rules and conventions.
+
+Tetum text to translate:
+{original_text}
+Do not provide additional commentary before or after the translation.
+Assistant:
