@@ -2,19 +2,14 @@ AWSTemplateFormatVersion: '2010-09-09'
 Description: 'CloudFormation template for English-Tetum Translation Lambda function'
 
 Parameters:
-  OpenAIApiKey:
+  AnthropicApiKey:
     Type: String
-    Description: OpenAI API Key
+    Description: Anthropic API Key
     NoEcho: true
-  LambdaS3Bucket:
+  ECRRepositoryName:
     Type: String
-    Description: S3 bucket containing the Lambda function code
-  LambdaS3Key:
-    Type: String
-    Description: S3 key for the Lambda function ZIP file
-  LambdaLayerArn:
-    Type: String
-    Description: ARN of the Lambda Layer containing dependencies
+    Description: Name of the existing ECR repository
+    Default: english-tetum-translator
 
 Resources:
   TranslationLambdaRole:
@@ -30,36 +25,29 @@ Resources:
       ManagedPolicyArns:
         - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
       Policies:
-        - PolicyName: S3AccessPolicy
+        - PolicyName: ECRAccessPolicy
           PolicyDocument:
             Version: '2012-10-17'
             Statement:
               - Effect: Allow
                 Action:
-                  - s3:GetObject
-                  - s3:PutObject
-                  - s3:ListBucket
-                Resource:
-                  - !Sub 'arn:aws:s3:::${LambdaS3Bucket}'
-                  - !Sub 'arn:aws:s3:::${LambdaS3Bucket}/*'
+                  - ecr:GetDownloadUrlForLayer
+                  - ecr:BatchGetImage
+                Resource: !Sub arn:aws:ecr:${AWS::Region}:${AWS::AccountId}:repository/${ECRRepositoryName}
 
   TranslationLambdaFunction:
     Type: AWS::Lambda::Function
     Properties:
       FunctionName: EnglishTetumTranslator
-      Handler: lambda_function.lambda_handler
       Role: !GetAtt TranslationLambdaRole.Arn
+      PackageType: Image
       Code:
-        S3Bucket: !Ref LambdaS3Bucket
-        S3Key: !Ref LambdaS3Key
-      Runtime: python3.9
-      Timeout: 40
-      MemorySize: 256
-      Layers:
-        - !Ref LambdaLayerArn
+        ImageUri: !Sub ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepositoryName}:latest
+      Timeout: 300
+      MemorySize: 1024
       Environment:
         Variables:
-          OPENAI_API_KEY: !Ref OpenAIApiKey
+          ANTHROPIC_API_KEY: !Ref AnthropicApiKey
 
   LambdaFunctionUrl:
     Type: AWS::Lambda::Url
@@ -79,3 +67,6 @@ Outputs:
   LambdaFunctionUrl:
     Description: "URL for the Lambda function"
     Value: !GetAtt LambdaFunctionUrl.FunctionUrl
+  ECRRepositoryUri:
+    Description: "URI of the ECR repository"
+    Value: !Sub ${AWS::AccountId}.dkr.ecr.${AWS::Region}.amazonaws.com/${ECRRepositoryName}

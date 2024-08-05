@@ -27,6 +27,7 @@ except FileNotFoundError as e:
 except json.JSONDecodeError as e:
     logger.error(f"Error parsing JSON files: {str(e)}")
     raise
+
 # Load prompt files
 try:
     with open('E2T.txt', 'r') as file:
@@ -36,6 +37,7 @@ try:
 except FileNotFoundError as e:
     logger.error(f"Error loading prompt files: {str(e)}")
     raise
+
 try:
     logger.debug("Loading HTML template from Lambda package")
     with open('template.html', 'r') as file:
@@ -82,6 +84,7 @@ def translate(original_text, direction):
         )
         
         final_translation = response.completion.strip()
+        
         logger.debug("Received final translation from Anthropic API")
         return final_translation
     except Exception as e:

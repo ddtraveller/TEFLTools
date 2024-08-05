@@ -50,7 +50,7 @@ Human: Translate the following English text to Tetun. When translating, please c
                 Maibé Manu Kai lakon nafatin. Agora hotuhotu tuir bá buka. Manu na'in neen tuir
                 hamutuk kokoteek hodi bolu Manu Kai.
                 Manu Kai bá iha ne'ebé? Teki-teki….., Manu
-                Kai nia lian mosu mai, "kiu-kiu-kiu." Hei, nia
+                Kai nia lian mosu mai, "kiu... kiu... kiu..." Hei, nia
                 mak ne'ebá! Husi do'ok Ita bele haree Manu
                 Kai halai halimar hela, kontente loos. Parese
                 nia la'o pasiar ba Tiu Nuno nia uma. Manu
@@ -60,7 +60,12 @@ Human: Translate the following English text to Tetun. When translating, please c
                 Amá dehan, "Manu Kai, loron seluk husu
                 uluk lai lisensa!"
             
-            22. Do not use "posessor" for "teacher" unless it is a male teacher; while for female teacher you should write "profesora". "manorin" is a general term for both female and male teachers.            
+            22. Do not use "professor" for "teacher" unless it is a male teacher; while for female teacher you should write "profesora". 
+            "manorin" is a general term for both female and male teachers.            
+            Make sure to use the right gender for words.
+            
+            23. If there is some confusion about how to translate based on the above rules or about a word, then use the rules of or a word from Portuguese.
+            
             Use the provided dictionaries to assist with the translation:
                         
             Dictionary: {english_to_tetum}

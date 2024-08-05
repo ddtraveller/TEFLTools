@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="tet">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema Jestaun Lista Eskola</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        h1, h2 { color: #333; }
+        select, input, button { margin: 10px 0; padding: 5px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .calendar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; }
+        .calendar input { margin: 0 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sistema Jestaun Lista Eskola</h1>
+        
+        <div>
+            <label for="courseSelect">Hili Klase:</label>
+            <select id="courseSelect"></select>
+        </div>
+        
+        <div class="calendar">
+            <button id="prevDate">&lt; Anterior</button>
+            <input type="date" id="dateSelect">
+            <button id="nextDate">Tuir mai &gt;</button>
+        </div>
+        
+        <table id="attendanceTable">
+            <thead>
+                <tr>
+                    <th>Naran Estudante</th>
+                    <th>Prezente</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        
+        <button id="saveAttendance">Rai Prezensa</button>
+        
+        <div>
+            <input type="file" id="loadFile" accept=".json">
+            <button id="loadData">Hatama ba Arkivu</button>
+        </div>
+        
+        <button id="saveData">Rai iha Arkivu</button>
+    </div>
+
+    <script>
+        let rosterData = {};
+        let attendanceData = {};
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const courseSelect = document.getElementById('courseSelect');
+            const dateSelect = document.getElementById('dateSelect');
+            const attendanceTable = document.getElementById('attendanceTable').querySelector('tbody');
+            const saveAttendanceBtn = document.getElementById('saveAttendance');
+            const loadFileInput = document.getElementById('loadFile');
+            const loadDataBtn = document.getElementById('loadData');
+            const saveDataBtn = document.getElementById('saveData');
+            const prevDateBtn = document.getElementById('prevDate');
+            const nextDateBtn = document.getElementById('nextDate');
+
+            // Set today's date as default
+            dateSelect.valueAsDate = new Date();
+
+            // Event listeners
+            courseSelect.addEventListener('change', updateAttendanceTable);
+            dateSelect.addEventListener('change', updateAttendanceTable);
+            saveAttendanceBtn.addEventListener('click', saveAttendance);
+            loadDataBtn.addEventListener('click', () => loadFileInput.click());
+            loadFileInput.addEventListener('change', loadData);
+            saveDataBtn.addEventListener('click', saveData);
+            prevDateBtn.addEventListener('click', () => changeDate(-1));
+            nextDateBtn.addEventListener('click', () => changeDate(1));
+
+            function updateCourseSelect() {
+                courseSelect.innerHTML = '';
+                rosterData.classes.forEach(course => {
+                    const option = document.createElement('option');
+                    option.value = course.name;
+                    option.textContent = course.name;
+                    courseSelect.appendChild(option);
+                });
+                updateAttendanceTable();
+            }
+
+            function updateAttendanceTable() {
+                const selectedCourse = courseSelect.value;
+                const selectedDate = dateSelect.value;
+                const course = rosterData.classes.find(c => c.name === selectedCourse);
+                
+                attendanceTable.innerHTML = '';
+                
+                if (course) {
+                    course.students.forEach(student => {
+                        const row = attendanceTable.insertRow();
+                        row.insertCell(0).textContent = `${student.firstName} ${student.lastName}`;
+                        const checkboxCell = row.insertCell(1);
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.checked = attendanceData[selectedCourse]?.[selectedDate]?.[student.id] || false;
+                        checkboxCell.appendChild(checkbox);
+                    });
+                }
+            }
+
+            function saveAttendance() {
+                const selectedCourse = courseSelect.value;
+                const selectedDate = dateSelect.value;
+                const course = rosterData.classes.find(c => c.name === selectedCourse);
+                
+                if (!attendanceData[selectedCourse]) {
+                    attendanceData[selectedCourse] = {};
+                }
+                if (!attendanceData[selectedCourse][selectedDate]) {
+                    attendanceData[selectedCourse][selectedDate] = {};
+                }
+                
+                course.students.forEach((student, index) => {
+                    const checkbox = attendanceTable.rows[index].cells[1].querySelector('input');
+                    attendanceData[selectedCourse][selectedDate][student.id] = checkbox.checked;
+                });
+                
+                alert('Prezensa rai tiha ona!');
+            }
+
+            function loadData(event) {
+                const file = event.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function(e) {
+                        const data = JSON.parse(e.target.result);
+                        rosterData = data;
+                        attendanceData = data.attendance || {};
+                        updateCourseSelect();
+                        alert('Dadus hatama ho susesu!');
+                    };
+                    reader.readAsText(file);
+                }
+            }
+
+            function saveData() {
+                const dataToSave = {
+                    ...rosterData,
+                    attendance: attendanceData
+                };
+                const blob = new Blob([JSON.stringify(dataToSave, null, 2)], {type : 'application/json'});
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'school_roster_with_attendance.json';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            }
+
+            function changeDate(days) {
+                const currentDate = new Date(dateSelect.value);
+                currentDate.setDate(currentDate.getDate() + days);
+                dateSelect.valueAsDate = currentDate;
+                updateAttendanceTable();
+            }
+        });
+    </script>
+</body>
+</html>
