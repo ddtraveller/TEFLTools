@@ -85,9 +85,10 @@
             border-bottom: 100px solid transparent;
             border-left: 200px solid yellow;
             top: 50%;
-            transform: translateY(-50%);
+            left: 50%;
+            transform: translate(-50%, -50%);
             z-index: 1000;
-            pointer-events: none;
+            pointer-events: auto;
         }
         .star {
             position: fixed;
@@ -193,13 +194,55 @@
     let viewportWidth = window.innerWidth;
     const gridColumns = 40;
     let grid = new Array(gridColumns).fill(0);
-    let trianglePosition = -400;
+    let trianglePosition = { x: -400, y: window.innerHeight / 2 };
+    let triangleVelocity = { x: 0.5, y: 0 };
+    const TRIANGLE_CLICK_SPEED = 15;
+    const TRIANGLE_CLICK_DURATION = 60; // Duration in frames (60 frames ≈ 1 second at 60fps)
     
-    // Speed control variables
-    const MIN_FALL_SPEED = 0.5; // Minimum fall speed in pixels per frame
-    const MAX_FALL_SPEED = 2; // Maximum fall speed in pixels per frame
-    const CLICK_SPEED = 10; // Speed when clicked, in pixels per frame
-    const CLICK_DURATION = 60; // Duration of click movement in frames (60 frames ≈ 1 second at 60fps)
+    // Star control variables
+    let MIN_FALL_SPEED = 0.5;
+    let MAX_FALL_SPEED = 2;
+    let STAR_CREATE_INTERVAL = 200;
+    const CLICK_SPEED = 10;
+    const CLICK_DURATION = 60;
+    
+    // Create slider controls
+    function createSliders() {
+        const sliderContainer = document.createElement('div');
+        sliderContainer.style.position = 'fixed';
+        sliderContainer.style.top = '10px';
+        sliderContainer.style.left = '10px';
+        sliderContainer.style.zIndex = '9999';
+    
+        // Star count slider
+        const starCountSlider = document.createElement('input');
+        starCountSlider.type = 'range';
+        starCountSlider.min = '100';
+        starCountSlider.max = '1000';
+        starCountSlider.value = STAR_CREATE_INTERVAL;
+        starCountSlider.addEventListener('input', (e) => {
+            STAR_CREATE_INTERVAL = 1100 - e.target.value;
+        });
+    
+        // Star speed slider
+        const starSpeedSlider = document.createElement('input');
+        starSpeedSlider.type = 'range';
+        starSpeedSlider.min = '1';
+        starSpeedSlider.max = '10';
+        starSpeedSlider.value = MAX_FALL_SPEED;
+        starSpeedSlider.addEventListener('input', (e) => {
+            MAX_FALL_SPEED = e.target.value;
+            MIN_FALL_SPEED = MAX_FALL_SPEED / 4;
+        });
+    
+        sliderContainer.appendChild(document.createTextNode('Star Count: '));
+        sliderContainer.appendChild(starCountSlider);
+        sliderContainer.appendChild(document.createElement('br'));
+        sliderContainer.appendChild(document.createTextNode('Star Speed: '));
+        sliderContainer.appendChild(starSpeedSlider);
+    
+        document.body.appendChild(sliderContainer);
+    }
     
     function createStar() {
         let minStarColumn = grid.indexOf(Math.min(...grid));
@@ -271,20 +314,60 @@
     
     function animateTriangle() {
         const triangle = document.querySelector('.triangle');
-        const animate = () => {
-            if (trianglePosition > viewportWidth) {
-                trianglePosition = -400;
+        let isClicked = false;
+        let clickTime = 0;
+        let clickDx = 0;
+        let clickDy = 0;
+    
+        function moveTriangle() {
+            if (isClicked) {
+                trianglePosition.x += clickDx;
+                trianglePosition.y += clickDy;
+                const elapsedTime = performance.now() - clickTime;
+                if (elapsedTime > 1000) {  // 1000ms = 1 second
+                    triangle.style.borderLeftColor = 'yellow';
+                    isClicked = false;
+                    triangleVelocity = { x: 0.5, y: 0 };
+                }
+            } else {
+                trianglePosition.x += triangleVelocity.x;
+                trianglePosition.y += triangleVelocity.y;
             }
-            trianglePosition += 0.5;
-            triangle.style.left = `${trianglePosition}px`;
-            requestAnimationFrame(animate);
-        };
-        animate();
+    
+            // Wrap around screen
+            if (trianglePosition.x > window.innerWidth + 200) {
+                trianglePosition.x = -200;
+            } else if (trianglePosition.x < -200) {
+                trianglePosition.x = window.innerWidth + 200;
+            }
+            if (trianglePosition.y > window.innerHeight + 200) {
+                trianglePosition.y = -200;
+            } else if (trianglePosition.y < -200) {
+                trianglePosition.y = window.innerHeight + 200;
+            }
+    
+            triangle.style.left = `${trianglePosition.x}px`;
+            triangle.style.top = `${trianglePosition.y}px`;
+    
+            requestAnimationFrame(moveTriangle);
+        }
+    
+        triangle.addEventListener('click', (e) => {
+            isClicked = true;
+            clickTime = performance.now();
+            triangle.style.borderLeftColor = 'red';
+            const angle = Math.random() * Math.PI * 2;
+            clickDx = Math.cos(angle) * TRIANGLE_CLICK_SPEED;
+            clickDy = Math.sin(angle) * TRIANGLE_CLICK_SPEED;
+            e.stopPropagation();
+        });
+    
+        moveTriangle();
     }
     
     function createStars() {
         createStar();
-        setTimeout(createStars, 200);
+        setTimeout(createStars, STAR_CREATE_INTERVAL);
     }
     
     function handleResize() {
@@ -294,17 +377,28 @@
     
     function checkStarCollision() {
         const triangle = document.querySelector('.triangle');
-        const triangleRect = triangle.getBoundingClientRect();
         const stars = document.querySelectorAll('.star');
         
+        const triangleCenter = {
+            x: trianglePosition.x,
+            y: trianglePosition.y
+        };
+    
+        const proximityRadius = 100;
+    
         stars.forEach(star => {
             const starRect = star.getBoundingClientRect();
+            const starCenter = {
+                x: starRect.left + starRect.width / 2,
+                y: starRect.top + starRect.height / 2
+            };
+    
             const distance = Math.sqrt(
-                Math.pow((starRect.left + starRect.width / 2) - (triangleRect.left + triangleRect.width / 2), 2) + 
-                Math.pow((starRect.top + starRect.height / 2) - (triangleRect.top + triangleRect.height / 2), 2)
+                Math.pow(starCenter.x - triangleCenter.x, 2) +
+                Math.pow(starCenter.y - triangleCenter.y, 2)
             );
-            
-            if (distance <= 50) {
+    
+            if (distance <= proximityRadius) {
                 star.style.background = 'red';
             } else {
                 star.style.background = 'white';
@@ -314,8 +408,27 @@
         requestAnimationFrame(checkStarCollision);
     }
     
+    // Update the triangle CSS
+    const triangleStyle = `
+    .triangle {
+        position: fixed;
+        width: 0;
+        height: 0;
+        border-top: 100px solid transparent;
+        border-bottom: 100px solid transparent;
+        border-left: 200px solid yellow;
+        transform: translate(-50%, -50%);
+        z-index: 1000;
+        cursor: pointer;
+    }`;
+    
+    const styleElement = document.createElement('style');
+    styleElement.textContent = triangleStyle;
+    document.head.appendChild(styleElement);
+    
     window.addEventListener('resize', handleResize);
     
+    createSliders();
     createStars();
     animateTriangle();
     checkStarCollision();
