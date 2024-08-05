@@ -81,13 +81,13 @@
             position: fixed;
             width: 0;
             height: 0;
-            border-top: 200px solid transparent;
-            border-bottom: 200px solid transparent;
-            border-left: 400px solid yellow;
-            left: -400px;
+            border-top: 100px solid transparent;
+            border-bottom: 100px solid transparent;
+            border-left: 200px solid yellow;
             top: 50%;
             transform: translateY(-50%);
-            z-index: -1;
+            z-index: 1000;
+            pointer-events: none;
         }
         .star {
             position: fixed;
@@ -97,15 +97,15 @@
             z-index: 9999;
         }
         
+        @keyframes fall {
+            to {
+                transform: translateY(110vh);
+            }
+        }
+        
         @keyframes twinkle {
             from { opacity: 0.5; }
             to { opacity: 1; }
-        }
-        
-        @keyframes fall {
-            to {
-                transform: translateY(100vh);
-            }
         }
     </style>
 </head>
@@ -190,71 +190,134 @@
     </div>
 
     <script>
-        let viewportWidth = window.innerWidth; // Use the entire viewport width
-        const gridColumns = 40; // Increase columns for better distribution
-        let grid = new Array(gridColumns).fill(0); // Track star density in each column
-
-        function createStar() {
-            // Find the column with the least stars
-            let minStarColumn = grid.indexOf(Math.min(...grid));
-            
-            const star = document.createElement('div');
-            star.classList.add('star');
-            
-            // Calculate position within the chosen column
-            const columnWidth = viewportWidth / gridColumns;
-            const leftPosition = (minStarColumn * columnWidth) + (Math.random() * columnWidth);
-            
-            star.style.left = leftPosition + 'px';
-            star.style.top = -50 + 'px';
-            
-            const size = Math.random() * 20 + 10;
-            star.style.width = size + 'px';
-            star.style.height = size + 'px';
-            
-            const fallDuration = Math.random() * 7 + 8;
-            star.style.animation = `twinkle 1s infinite alternate, fall ${fallDuration}s linear forwards`;
-
-            document.body.appendChild(star);
-            
-            // Increment star count for this column
-            grid[minStarColumn]++;
-            
-            setTimeout(() => {
-                star.remove();
-                // Decrement star count when star is removed
-                grid[minStarColumn]--;
-            }, fallDuration * 1000);
-        }
-
-        function animateTriangle() {
-            const triangle = document.querySelector('.triangle');
-            let position = -400;
-            const animate = () => {
-                if (position > viewportWidth) {
-                    position = -400;
+    let viewportWidth = window.innerWidth;
+    const gridColumns = 40;
+    let grid = new Array(gridColumns).fill(0);
+    let trianglePosition = -400;
+    
+    // Speed control variables
+    const MIN_FALL_SPEED = 0.5; // Minimum fall speed in pixels per frame
+    const MAX_FALL_SPEED = 2; // Maximum fall speed in pixels per frame
+    const CLICK_SPEED = 10; // Speed when clicked, in pixels per frame
+    const CLICK_DURATION = 60; // Duration of click movement in frames (60 frames ≈ 1 second at 60fps)
+    
+    function createStar() {
+        let minStarColumn = grid.indexOf(Math.min(...grid));
+        
+        const star = document.createElement('div');
+        star.classList.add('star');
+        
+        const columnWidth = viewportWidth / gridColumns;
+        const leftPosition = (minStarColumn * columnWidth) + (Math.random() * columnWidth);
+        
+        star.style.left = leftPosition + 'px';
+        star.style.top = '-50px';
+        
+        const size = Math.random() * 20 + 10;
+        star.style.width = size + 'px';
+        star.style.height = size + 'px';
+        
+        const fallSpeed = MIN_FALL_SPEED + Math.random() * (MAX_FALL_SPEED - MIN_FALL_SPEED);
+        
+        let isFalling = true;
+        let isClicked = false;
+        let clickFrames = 0;
+        let clickDx = 0;
+        let clickDy = 0;
+    
+        function animateStar() {
+            if (isClicked) {
+                star.style.left = `${parseFloat(star.style.left) + clickDx}px`;
+                star.style.top = `${parseFloat(star.style.top) + clickDy}px`;
+                clickFrames++;
+                if (clickFrames >= CLICK_DURATION) {
+                    isClicked = false;
+                    isFalling = true;
                 }
-                position += 0.5;
-                triangle.style.left = position + 'px';
-                requestAnimationFrame(animate);
-            };
-            animate();
+            } else if (isFalling) {
+                star.style.top = `${parseFloat(star.style.top) + fallSpeed}px`;
+            }
+    
+            if (parseFloat(star.style.top) > window.innerHeight) {
+                star.remove();
+                grid[minStarColumn]--;
+            } else {
+                requestAnimationFrame(animateStar);
+            }
         }
-
-        function createStars() {
-            createStar();
-            setTimeout(createStars, 200); // Create stars more frequently
-        }
-
-        function handleResize() {
-            viewportWidth = window.innerWidth;
-            // Reset the grid when viewport size changes
-            grid = new Array(gridColumns).fill(0);
-        }
-
-        window.addEventListener('resize', handleResize);
-
-        createStars();
-        animateTriangle();
+    
+        requestAnimationFrame(animateStar);
+    
+        star.addEventListener('mouseover', () => {
+            isFalling = false;
+        });
+    
+        star.addEventListener('mouseout', () => {
+            if (!isClicked) isFalling = true;
+        });
+    
+        star.addEventListener('click', () => {
+            isClicked = true;
+            isFalling = false;
+            clickFrames = 0;
+            const angle = Math.random() * Math.PI * 2;
+            clickDx = Math.cos(angle) * CLICK_SPEED;
+            clickDy = Math.sin(angle) * CLICK_SPEED;
+        });
+    
+        document.body.appendChild(star);
+        grid[minStarColumn]++;
+    }
+    
+    function animateTriangle() {
+        const triangle = document.querySelector('.triangle');
+        const animate = () => {
+            if (trianglePosition > viewportWidth) {
+                trianglePosition = -400;
+            }
+            trianglePosition += 0.5;
+            triangle.style.left = `${trianglePosition}px`;
+            requestAnimationFrame(animate);
+        };
+        animate();
+    }
+    
+    function createStars() {
+        createStar();
+        setTimeout(createStars, 200);
+    }
+    
+    function handleResize() {
+        viewportWidth = window.innerWidth;
+        grid = new Array(gridColumns).fill(0);
+    }
+    
+    function checkStarCollision() {
+        const triangle = document.querySelector('.triangle');
+        const triangleRect = triangle.getBoundingClientRect();
+        const stars = document.querySelectorAll('.star');
+        
+        stars.forEach(star => {
+            const starRect = star.getBoundingClientRect();
+            const distance = Math.sqrt(
+                Math.pow((starRect.left + starRect.width / 2) - (triangleRect.left + triangleRect.width / 2), 2) + 
+                Math.pow((starRect.top + starRect.height / 2) - (triangleRect.top + triangleRect.height / 2), 2)
+            );
+            
+            if (distance <= 50) {
+                star.style.background = 'red';
+            } else {
+                star.style.background = 'white';
+            }
+        });
+        
+        requestAnimationFrame(checkStarCollision);
+    }
+    
+    window.addEventListener('resize', handleResize);
+    
+    createStars();
+    animateTriangle();
+    checkStarCollision();
     </script>
 </body>
