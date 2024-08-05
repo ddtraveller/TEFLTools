@@ -13,6 +13,8 @@ TEMP_DIR="/tmp/${LAMBDA_FUNCTION_NAME}"
 ROLE_NAME="${LAMBDA_FUNCTION_NAME}-role"
 BUCKET_NAME="tl-web"
 REGION="us-west-2"  # Replace with your AWS region if different
+# Read and encode the Google credentials
+GOOGLE_CREDENTIALS=$(base64 -w 0 /home/ubuntu/.config/gcloud/application_default_credentials.json)
 
 # Check for API keys in environment variables, prompt if not found
 if [ -z "$ANTHROPIC_API_KEY" ]; then
@@ -74,6 +76,7 @@ anthropic==0.5.0
 tiktoken==0.3.3
 boto3==1.28.38
 requests==2.31.0
+google-cloud-translate
 EOF
 
 # Install dependencies
@@ -117,12 +120,13 @@ if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "$
         --role "${ROLE_ARN}" \
         --timeout "${TIMEOUT}" \
         --memory-size "${MEMORY_SIZE}" \
-        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY}}" \
+        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
         --region "${REGION}"
-    
+        
     wait_for_lambda_update
 else
     echo "Creating new Lambda function"
+    # Update the Lambda function creation/update command
     aws lambda create-function \
         --function-name "${LAMBDA_FUNCTION_NAME}" \
         --runtime "${RUNTIME}" \
@@ -132,7 +136,7 @@ else
         --description "${LAMBDA_DESCRIPTION}" \
         --timeout "${TIMEOUT}" \
         --memory-size "${MEMORY_SIZE}" \
-        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY}}" \
+        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
         --region "${REGION}"
     
     wait_for_lambda_update
