@@ -76,61 +76,90 @@
     </div>
 
     <script>
-        let courseData = null;
-
-        // Load the course data from the JSON file
-        fetch('course_data.json')
-            .then(response => response.json())
-            .then(data => {
-                courseData = data;
+    let courseData = null;
+    
+    // Load the course data from the JSON file
+    fetch('course_data.json')
+        .then(response => response.json())
+        .then(data => {
+            courseData = data;
+            // Load the syllabus category by default
+            loadContent('syllabus');
+            // Check for hash after course data is loaded
+            handleHash();
+        })
+        .catch(error => {
+            console.error('Error loading course data:', error);
+        });
+    
+    function loadContent(category) {
+        document.getElementById('selectedCategory').innerText = category;
+        
+        // Clear previous content
+        document.getElementById('fileList').innerHTML = '';
+        document.getElementById('fileContent').innerHTML = '';
+        
+        // Get the file list based on the selected category
+        const files = courseData[category];
+        
+        // Display file list
+        const fileList = document.getElementById('fileList');
+        files.forEach(function(file) {
+            const listItem = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = '#';
+            link.innerText = file;
+            link.onclick = function(e) {
+                e.preventDefault();
+                loadFile(file);
+            };
+            listItem.appendChild(link);
+            fileList.appendChild(listItem);
+        });
+    }
+    
+    function loadFile(file) {
+        // Load the content of the selected file and display it
+        const url = `https://tl-web.s3.us-west-2.amazonaws.com/${file}`;
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to load file');
+                }
+                return response.text();
+            })
+            .then(content => {
+                document.getElementById('fileContent').innerHTML = content;
             })
             .catch(error => {
-                console.error('Error loading course data:', error);
+                console.error('Error loading file:', error);
+                document.getElementById('fileContent').innerText = 'Failed to load file';
             });
-
-        function loadContent(category) {
-            document.getElementById('selectedCategory').innerText = category;
-            
-            // Clear previous content
-            document.getElementById('fileList').innerHTML = '';
-            document.getElementById('fileContent').innerHTML = '';
-            
-            // Get the file list based on the selected category
-            const files = courseData[category];
-            
-            // Display file list
-            const fileList = document.getElementById('fileList');
-            files.forEach(function(file) {
-                const listItem = document.createElement('li');
-                const link = document.createElement('a');
-                link.href = '#';
-                link.innerText = file;
-                link.onclick = function() {
-                    loadFile(file);
-                };
-                listItem.appendChild(link);
-                fileList.appendChild(listItem);
-            });
+    }
+    
+    function handleHash() {
+        if (window.location.hash) {
+            var syllabusName = window.location.hash.substring(1);
+            var syllabusFile = courseData.syllabus.find(file => file.includes(syllabusName));
+            if (syllabusFile) {
+                loadFile(syllabusFile);
+            }
         }
-
-        function loadFile(file) {
-            // Load the content of the selected file and display it
-            const url = `https://tl-web.s3.us-west-2.amazonaws.com/${file}`;
-            fetch(url)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Failed to load file');
-                    }
-                    return response.text();
-                })
-                .then(content => {
-                    document.getElementById('fileContent').innerHTML = content;
-                })
-                .catch(error => {
-                    console.error('Error loading file:', error);
-                    document.getElementById('fileContent').innerText = 'Failed to load file';
-                });
-        }
+    }
+    
+    // Listen for hash changes
+    window.addEventListener('hashchange', handleHash);
     </script>
+    <script>
+    window.addEventListener('load', function() {
+        if (window.location.hash) {
+            var syllabusName = window.location.hash.substring(1);
+            var syllabusLink = document.querySelector('#fileList a[href$="' + syllabusName + '.md"]');
+            if (syllabusLink) {
+                syllabusLink.click();
+            }
+        }
+    });
+    </script>    
 </body>
 </html>

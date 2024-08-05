@@ -151,26 +151,31 @@
     <div class="section">
         <h2>Kursu Prinsipal</h2>
         <div class="grid">
-            <div class="card">
-                <h3>Regenerative Living: A Permaculture Approach</h3>
-                <p>Learn sustainable permaculture, agricultural and husbandry techniques tailored to Timor-Leste's unique ecology.</p>
-            </div>
-            <div class="card">
-                <h3>Holistic Healing Arts and Practices</h3>
-                <p>Explore traditional Timorese healing methods alongside modern holistic approaches.</p>
-            </div>
-            <div class="card">
-                <h3>Practical English for Timor-Leste</h3>
-                <p>Develop English skills contextualized for daily life and work in Timor-Leste.</p>
-            </div>
-            <div class="card">
-                <h3>Food Innovation and Sustainability for Timor-Leste</h3>
-                <p>Discover ways to enhance food security using local ingredients and sustainable methods.</p>
-            </div>
-            <div class="card">
-                <h3>Software Development for Timor-Leste</h3>
-                <p>Learn the tools and fundamental skills necessary to work in the software development industry as an independent contractor.</p>
-            </div>
+            <a href="https://go-tl.com/course_browser.html#Regenerative_Living_a_Permaculture_Approach" target="_blank" class="card">
+                <h3>Moris Rejenerativu: Abordajen Permakultura ida</h3>
+                <h4>Regenerative Living: A Permaculture Approach</h4>
+                <p>Aprende permakultura sustentável, téknika agrikultura no hakiak ne'ebé adapta ba Timor-Leste nia ekolojia ne'ebé úniku.</p>
+            </a>
+            <a href="https://go-tl.com/course_browser.html#Holistic_Healing_Arts_and_Practices" target="_blank" class="card">
+                <h3>Arte no Prátika sira Kura nian Olístiku</h3>                
+                <h4>Holistic Healing Arts and Practices</h4>
+                <p>Esplora métodu kura tradisionál Timor nian hamutuk ho aprosimasaun olístiku modernu sira.</p>
+            </a>
+            <a href="https://go-tl.com/course_browser.html#Practical_English" target="_blank" class="card">
+                <h3>Inglés Prátika ba Timor-Leste</h3>
+                <h4>Practical English for Timor-Leste</h4>
+                <p>Dezenvolve abilidade Inglés kontestualizadu ba moris loroloron no serbisu iha Timor-Leste.</p>
+            </a>
+            <a href="https://go-tl.com/course_browser.html#Food_Inovation_and_Sustainability" target="_blank" class="card">
+                <h3>Inovasaun Ai-han no Sustentabilidade ba Timor-Leste</h3>
+                <h4>Food Innovation and Sustainability for Timor-Leste</h4>
+                <p>Deskobre maneira sira atu hasa'e seguransa ai-han nian uza ingrediente lokál sira no métodu sustentável sira.</p>
+            </a>
+            <a href="https://go-tl.com/course_browser.html#Software_Development_for_Timor_Leste" target="_blank" class="card">
+                <h3>Dezenvolvimentu Software ba Timor-Leste</h3>
+                <h4>Software Development for Timor-Leste</h4>
+                <p>Aprende ferramenta sira no abilidade fundamentál sira ne'ebé nesesáriu atu serbisu iha indústria dezenvolvimentu software nian hanesan kontratór independente ida.</p>
+            </a>
         </div>
     </div>
 
@@ -432,5 +437,15 @@
     createStars();
     animateTriangle();
     checkStarCollision();
+
+    window.addEventListener('load', function() {
+        if (window.location.hash) {
+            var syllabus = window.location.hash.substring(1);
+            var syllabusLink = document.querySelector('a[href$="' + syllabus + '.md"]');
+            if (syllabusLink) {
+                syllabusLink.click();
+            }
+        }
+    });    
     </script>
 </body>
