@@ -71,7 +71,7 @@
                 return;
             }
 
-            fetch(`/api/get-exam?id=${examId}`)
+            fetch(`/exams/api/get-exam?id=${examId}`)
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Ezame la hetan / Exam not found');
@@ -119,7 +119,7 @@
 
             const examId = document.getElementById('displayExamId').textContent;
 
-            fetch('/api/submit-exam', {
+            fetch('/exams/api/submit-exam', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

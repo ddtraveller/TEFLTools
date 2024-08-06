@@ -97,7 +97,33 @@
     
     <script>
         let questionCount = 0;
-
+    
+        function listExams() {
+            fetch('/exams/api/list-exams')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(exams => {
+                if (!Array.isArray(exams)) {
+                    throw new Error('Expected an array of exams');
+                }
+                const examListItems = document.getElementById('examListItems');
+                examListItems.innerHTML = '';
+                exams.forEach(exam => {
+                    const li = document.createElement('li');
+                    li.textContent = exam;
+                    examListItems.appendChild(li);
+                });
+            })
+            .catch((error) => {
+                console.error('Error listing exams:', error);
+                alert('Failed to list exams. Please check your server connection.');
+            });
+        }
+        
         function addQuestion() {
             questionCount++;
             const questionHtml = `
@@ -155,41 +181,33 @@
                 exam: questions
             };
 
-            fetch('/api/publish-exam', {
+            fetch('/exams/api/publish-exam', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify(examData),
             })
-            .then(response => response.json())
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
             .then(data => {
-                alert(`Ezame kria ho susesu! Kódigu-passa / Passcode: ${data.passcode}`);
+                if (data.passcode) {
+                    alert(`Ezame kria ho susesu! Kódigu-passa / Passcode: ${data.passcode}`);
+                } else {
+                    alert('Ezame kria ho susesu, maibé laiha kódigu-passa / Exam created successfully, but no passcode was returned');
+                }
                 console.log(data);
                 listExams();
             })
             .catch((error) => {
-                alert('Erru bainhira kria ezame');
+                alert('Erru bainhira kria ezame: ' + error.message);
                 console.error('Error:', error);
             });
         });
-
-        function listExams() {
-            fetch('/api/list-exams')
-            .then(response => response.json())
-            .then(exams => {
-                const examListItems = document.getElementById('examListItems');
-                examListItems.innerHTML = '';
-                exams.forEach(exam => {
-                    const li = document.createElement('li');
-                    li.textContent = exam;
-                    examListItems.appendChild(li);
-                });
-            })
-            .catch((error) => {
-                console.error('Ezame sira iha lista erru / Error listing exams:', error);
-            });
-        }
 
         function saveExamToFile() {
             const examData = getExamData();
@@ -257,11 +275,10 @@
             alert('Ezame karrega ho susesu!');
         }
         
-        // Modify the existing loadExamFromS3 function to use the new loadExamToUI function
         function loadExamFromS3() {
             const examId = prompt("Hatama ID Ezame nian atu karrega:");
             if (examId) {
-                fetch(`/api/get-exam?id=${examId}`)
+                fetch(`/exams/api/get-exam?id=${examId}`)
                 .then(response => {
                     if (!response.ok) {
                         throw new Error(`Erru HTTP! estadu: ${response.status}`);
@@ -282,7 +299,7 @@
             const examId = prompt("Hatama ID Ezame nian atu hamoos / Enter the Exam ID to delete:");
             const passcode = prompt("Hatama kódigu pasajen ba ezame / Enter the passcode for the exam:");
             if (examId && passcode) {
-                fetch(`/api/delete-exam`, {
+                fetch(`/exams/api/delete-exam`, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -315,7 +332,7 @@
                     q.querySelector('input[name^="wrongAnswer3"]').value
                 ];
                 const correctIndex = parseInt(q.querySelector('input[type="radio"]:checked').value);
-                return {
+            return {
                     question: q.querySelector('input[placeholder="Pergunta"]').value,
                     answers: answers,
                     correctAnswer: correctIndex
