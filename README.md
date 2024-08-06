@@ -38,6 +38,11 @@ For practical application:
 
 <img src="jpg/TL_classroom.jpg" alt="Timorese students in a classroom" width="400"/>
 
+## Exam Builder
+These tools allow creation of exam json files that hold multiple choice questions and allow students to take exams that are self-grading.
+- https://go-tl.com/exams/
+- https://go-tl.com/exams/take-exam
+
 ## Readings Browser
 This site allows students or teachers to load any of the readings files.
 It provides a text area for translation from Tetum to English.
