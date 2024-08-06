@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Builder API</title>
+    <style>
+        .remove-question {
+            background-color: #f44336;
+            margin-left: 10px;
+        }
+        .exam-actions {
+            margin-top: 20px;
+        }
+        .exam-actions button {
+            margin-right: 10px;
+        }
+        .answer-option {
+            margin-bottom: 5px;
+        }
+        #examList {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bemvindu ba API Konstrutór Ezame nian</h1>
+    
+    <div class="exam-form">
+        <h2>Kria Ezame Foun / Create a New Exam</h2>
+        <form id="examForm">
+            <label for="examId">ID Ezame nian / Exam ID:</label>
+            <input type="text" id="examId" required>
+            
+            <div id="questionList"></div>
+            
+            <button type="button" onclick="addQuestion()">Hatama Pergunta / Add Question</button>
+            <button type="submit">Kria Ezame / Create Exam</button>
+        </form>
+    </div>
+
+    <div class="exam-actions">
+        <button onclick="saveExamToFile()">Rai Ezame ba Arkivu / Save Exam to File</button>
+        <button onclick="loadExamFromS3()">Karrega Ezame husi S3 / Load Exam from S3</button>
+        <button onclick="deleteExam()">Hamoos Ezame / Delete Exam</button>
+        <button onclick="clearAllQuestions()">Hamoos pergunta hotu-hotu / Clear All Questions</button>
+        <button onclick="loadExamFromFile()">Karrega Ezame husi Arkivu / Load Exam from File</button>
+    </div>
+
+    <div id="examList">
+        <h2>Ezame sira ne'ebé kria ona / Created Exams</h2>
+        <button onclick="listExams()">Atualiza Lista Ezame nian / Refresh Exam List</button>
+        <ul id="examListItems"></ul>
+    </div>
+
+    <div class="instructions">
+        <h2>Instrusaun sira atu uza Exam Builder API</h2>
+        <ol>
+            <li><strong>Kria Ezame Foun / Create a New Exam:</strong>
+                <ul>
+                    <li>Hatama ID Ezame nian iha kampu ne'ebé dezignadu.</li>
+                    <li>Click "Hatama Pergunta / Add Question" to add questions to your exam.</li>
+                    <li>Ba pergunta ida-idak:
+                        <ul>
+                            <li>Hatama testu pergunta nian.</li>
+                            <li>Fó resposta ida ne'ebé loos no resposta tolu ne'ebé laloos.</li>
+                            <li>Hili butaun rádiu iha resposta ne'ebé loos nia sorin.</li>
+                        </ul>
+                    </li>
+                    <li>Click "Kria Ezame / Create Exam" to submit your exam.</li>
+                </ul>
+            </li>
+            <li><strong>Jere Ezame sira / Manage Exams:</strong>
+                <ul>
+                    <li>Uza "Rai Ezame ba Arkivu / Save Exam to File" hodi download ezame atuál hanesan arkivu JSON.</li>
+                    <li>Uza "Karrega Ezame husi S3 / Load Exam from S3" atu karrega ezame ida ne'ebé eziste ona husi servidór.</li>
+                    <li>Uza "Hamoos Ezame / Delete Exam" atu hasai ezame ida hosi servidór (presiza ID Ezame no kódigu-xave).</li>
+                    <li>Uza "Hamoos pergunta hotu-hotu / Clear All Questions" hodi hasai pergunta hotu husi formuláriu atuál.</li>
+                    <li>Uza "Karrega Ezame husi Arkivu / Load Exam from File" atu hasai arkivu JSON ezame nian ne'ebé rai ona antes.</li>
+                </ul>
+            </li>
+            <li><strong>Haree Ezame sira ne'ebé kria ona / View Created Exams:</strong>
+                <ul>
+                    <li>The "Ezame sira ne'ebé kria ona / Created Exams" section displays a list of all created exams.</li>
+                    <li>Click "Atualiza Lista Ezame nian / Refresh Exam List" to update the list of exams.</li>
+                </ul>
+            </li>
+            <li><strong>Modifika Pergunta sira ne'ebé iha ona / Modify Existing Questions:</strong>
+                <ul>
+                    <li>Edita testu pergunta, resposta sira, ka selesaun resposta ne'ebé loos diretamente iha formuláriu.</li>
+                    <li>Uza butaun "Hasai Pergunta" atu hasai pergunta ida-idak.</li>
+                </ul>
+            </li>
+        </ol>
+        <p>Nota: Sempre hanoin atu rai ita-boot nia serbisu, bele liuhosi kria ezame iha servidór ka rai iha arkivu ida.</p>
+    </div>
+    
+    <script>
+        let questionCount = 0;
+
+        function addQuestion() {
+            questionCount++;
+            const questionHtml = `
+                <div class="question" id="question${questionCount}">
+                    <h4>Pergunta ${questionCount}</h4>
+                    <input type="text" placeholder="Pergunta" name="question${questionCount}" required>
+                    <div class="answer-option">
+                        <input type="text" placeholder="Resposta ne'ebé loos" name="correctAnswer${questionCount}" required>
+                        <label><input type="radio" name="correct${questionCount}" value="0" checked> Correct</label>
+                    </div>
+                    <div class="answer-option">
+                        <input type="text" placeholder="Resposta ne'ebé sala 1" name="wrongAnswer1${questionCount}" required>
+                        <label><input type="radio" name="correct${questionCount}" value="1"> Correct</label>
+                    </div>
+                    <div class="answer-option">
+                        <input type="text" placeholder="Resposta ne'ebé sala 2" name="wrongAnswer2${questionCount}" required>
+                        <label><input type="radio" name="correct${questionCount}" value="2"> Correct</label>
+                    </div>
+                    <div class="answer-option">
+                        <input type="text" placeholder="Resposta ne'ebé sala 3" name="wrongAnswer3${questionCount}" required>
+                        <label><input type="radio" name="correct${questionCount}" value="3"> Correct</label>
+                    </div>
+                    <button type="button" class="remove-question" onclick="removeQuestion(${questionCount})">Hasai Pergunta</button>
+                </div>
+            `;
+            document.getElementById('questionList').insertAdjacentHTML('beforeend', questionHtml);
+            return document.getElementById(`question${questionCount}`);
+        }
+
+        function removeQuestion(questionId) {
+            const questionElement = document.getElementById(`question${questionId}`);
+            questionElement.remove();
+        }
+
+        document.getElementById('examForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const examId = document.getElementById('examId').value;
+            const questions = Array.from(document.querySelectorAll('.question')).map(q => {
+                const answers = [
+                    q.querySelector('input[name^="correctAnswer"]').value,
+                    q.querySelector('input[name^="wrongAnswer1"]').value,
+                    q.querySelector('input[name^="wrongAnswer2"]').value,
+                    q.querySelector('input[name^="wrongAnswer3"]').value
+                ];
+                const correctIndex = parseInt(q.querySelector('input[type="radio"]:checked').value);
+                return {
+                    question: q.querySelector('input[placeholder="Pergunta"]').value,
+                    answers: answers,
+                    correctAnswer: correctIndex
+                };
+            });
+
+            const examData = {
+                examId: examId,
+                exam: questions
+            };
+
+            fetch('/api/publish-exam', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(examData),
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(`Ezame kria ho susesu! Kódigu-passa / Passcode: ${data.passcode}`);
+                console.log(data);
+                listExams();
+            })
+            .catch((error) => {
+                alert('Erru bainhira kria ezame');
+                console.error('Error:', error);
+            });
+        });
+
+        function listExams() {
+            fetch('/api/list-exams')
+            .then(response => response.json())
+            .then(exams => {
+                const examListItems = document.getElementById('examListItems');
+                examListItems.innerHTML = '';
+                exams.forEach(exam => {
+                    const li = document.createElement('li');
+                    li.textContent = exam;
+                    examListItems.appendChild(li);
+                });
+            })
+            .catch((error) => {
+                console.error('Ezame sira iha lista erru / Error listing exams:', error);
+            });
+        }
+
+        function saveExamToFile() {
+            const examData = getExamData();
+            const blob = new Blob([JSON.stringify(examData, null, 2)], {type: 'application/json'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `exam_${examData.examId}.json`;
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        function clearAllQuestions() {
+            document.getElementById('questionList').innerHTML = '';
+            questionCount = 0;
+            alert('Pergunta hotu-hotu hamoos ona.');
+        }
+        
+        function loadExamFromFile() {
+            const fileInput = document.createElement('input');
+            fileInput.type = 'file';
+            fileInput.accept = '.json';
+            fileInput.onchange = function(event) {
+                const file = event.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function(e) {
+                        try {
+                            const examData = JSON.parse(e.target.result);
+                            loadExamToUI(examData);
+                        } catch (error) {
+                            alert('Error parsing JSON file: ' + error.message);
+                            console.error('Error:', error);
+                        }
+                    };
+                    reader.readAsText(file);
+                }
+            };
+            fileInput.click();
+        }
+        
+        function loadExamToUI(examData) {
+            if (!examData.examId || !examData.exam || !Array.isArray(examData.exam)) {
+                throw new Error('Estrutura dadus ezame nian ne ebé la válidu / Invalid exam data structure');
+            }
+            
+            document.getElementById('examId').value = examData.examId;
+            clearAllQuestions();
+            
+            examData.exam.forEach((q, index) => {
+                const questionElement = addQuestion();
+                questionElement.querySelector('input[placeholder="Pergunta"]').value = q.question;
+                const answerInputs = questionElement.querySelectorAll('.answer-option input[type="text"]');
+                q.answers.forEach((answer, i) => {
+                    if (answerInputs[i]) {
+                        answerInputs[i].value = answer;
+                    }
+                });
+                const correctRadio = questionElement.querySelector(`input[type="radio"][value="${q.correctAnswer}"]`);
+                if (correctRadio) {
+                    correctRadio.checked = true;
+                }
+            });
+            
+            alert('Ezame karrega ho susesu!');
+        }
+        
+        // Modify the existing loadExamFromS3 function to use the new loadExamToUI function
+        function loadExamFromS3() {
+            const examId = prompt("Hatama ID Ezame nian atu karrega:");
+            if (examId) {
+                fetch(`/api/get-exam?id=${examId}`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Erru HTTP! estadu: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    loadExamToUI(data);
+                })
+                .catch((error) => {
+                    alert('Erru iha ezame karregamentu: ' + error.message);
+                    console.error('Error:', error);
+                });
+            }
+        }
+
+        function deleteExam() {
+            const examId = prompt("Hatama ID Ezame nian atu hamoos / Enter the Exam ID to delete:");
+            const passcode = prompt("Hatama kódigu pasajen ba ezame / Enter the passcode for the exam:");
+            if (examId && passcode) {
+                fetch(`/api/delete-exam`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ examId, passcode }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        alert('Ezame apaga ho susesu! / Exam deleted successfully!');
+                        listExams();
+                    } else {
+                        alert('La konsege hamoos ezame. Favor verifika ID no kódigu pasajen ezame nian.');
+                    }
+                })
+                .catch((error) => {
+                    alert('Error deleting exam');
+                    console.error('Error:', error);
+                });
+            }
+        }
+
+        function getExamData() {
+            const examId = document.getElementById('examId').value;
+            const questions = Array.from(document.querySelectorAll('.question')).map(q => {
+                const answers = [
+                    q.querySelector('input[name^="correctAnswer"]').value,
+                    q.querySelector('input[name^="wrongAnswer1"]').value,
+                    q.querySelector('input[name^="wrongAnswer2"]').value,
+                    q.querySelector('input[name^="wrongAnswer3"]').value
+                ];
+                const correctIndex = parseInt(q.querySelector('input[type="radio"]:checked').value);
+                return {
+                    question: q.querySelector('input[placeholder="Pergunta"]').value,
+                    answers: answers,
+                    correctAnswer: correctIndex
+                };
+            });
+
+            return {
+                examId: examId,
+                exam: questions
+            };
+        }
+
+        // Add initial question
+        addQuestion();
+
+        // Initial exam list population
+        listExams();
+    </script>
+</body>
+</html>

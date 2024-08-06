@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haforsa Timor-Leste: Empowering Timor-Leste</title>
+    <title>Domin Krokodil Metan</title>
     <style>
         body {
             font-family: 'Lato', Arial, sans-serif;
@@ -113,11 +113,11 @@
 <body>
     <div class="triangle"></div>
     <div class="header">
-        <h1>Haforsa Timor-Leste: Empowering Timor-Leste</h1>
+        <h1>Hakbiit Timor-Leste</h1>
     </div>
 
-    <p>Baun-baun ba iha ne'e sentru rekursu kompleitu ne'ebé dezinha atu suporta mestres, estudantes no komunidade timor-oan ne'ebé moris diak. Koleksaun material ne'e nia objetivu mak atu kuda dezenvolvimentu sustentavel, interkambiu kultural, no aprendizajen mútua entre voluntariu sira no ema Timor nian.</p>
-    <p>Welcome to this comprehensive resource hub designed to support teachers, students and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between volunteers and Timorese people.</p>
+    <p>Bemvindu ba sentru rekursu komprensivu ida-ne'e ne'ebé dezeña atu apoia profesór sira, estudante sira no komunidade sira ne'ebé vibrante iha Timor-Leste. Koleksaun materiál ida-ne'e ho objetivu atu haburas dezenvolvimentu sustentável, interkámbiu kulturál, no aprendizajen mútua entre ema ne'ebé ko'alia Inglés no ema Timoroan sira.</p>
+    <p>Welcome to this comprehensive resource hub designed to support teachers, students and the vibrant communities of Timor-Leste. This collection of materials aims to foster sustainable development, cultural exchange, and mutual learning between English speakers and Timorese people.</p>
 
     <div class="section">
         <h2>Rekursu Prinsipal</h2>
@@ -128,16 +128,18 @@
             <li><a href="https://go-tl.com/roster/attendance.html">Sistema Rejistu Prezensa atu uza ho Sistema Hela (Attendance Tracking System for use with the Roster System)</a></li>
             <li><a href="https://go-tl.com/math/geometry.html">Kalkúlu Jeometria / (Geometry Calculator)</a></li>
             <li><a href="https://go-tl.com/course_browser.html">Kursu Navegador (Course Browser)</a></li>
+            <li><a href="https://go-tl.com/exams/">Konstrutór Ezame nian (Exam Builder)</a></li>
+            <li><a href="https://go-tl.com/exams/take-exam">Sistema tuir Ezame (Take Exams)</a></li>
             <li><a href="https://content.go-tl.com/exam.html">Exame Inglés Online/Offline (Online/Offline English Exam)</a></li>
             <li><a href="https://content.go-tl.com/quizzes/quiz.html">Teste Eskolla Multiplu (Multiple Choice Quizzes)</a></li>
             <li><a href="https://content.go-tl.com/quizzes_fitb/quiz.html">Teste Preenxe iha Laran (Fill in the Blank Quizzes)</a></li>
             <li><a href="https://go-tl.com/gradebook.html">Livru Nota Online ba Mestri sira (Online Gradebook for Teachers)</a></li>
             <li><a href="https://translate.go-tl.com/2way">Tradutór Rua-Dalan (LLM Two-way Translator)</a></li>
+            <li><a href="https://go-tl.com/bedtime.html">Noite Di'ak Timor - Istoria Tuku Laran ba Labarik Ki'ik sira (Good Night Timor - bedtime stories)</a></li>
             <li><a href="https://go-tl.com/images/images.html">Imajen ne'ebé kria husi AI ba artista sira kona-ba Timor husi gerador tempu tuku lulik (AI generated images for artists about Timor from the bedtime generator)</a></li>            
             <li><a href="https://go-tl.com/draw.html">Pájina Web Desenho nian (Drawing Web Page)</a></li>
             <li><a href="https://go-tl.com/coffee.html">Kalkuladór Lukru ba Kafé Hemu (Coffee Drink Profit Calculator)</a></li>
             <li><a href="https://go-tl.com/mnews.html">Notísia husi Inan Ain (News from Mother Earth)</a></li>
-            <li><a href="https://go-tl.com/bedtime.html">Noite Di'ak Timor - Istoria Tuku Laran ba Labarik Ki'ik sira (Good Night Timor - bedtime stories)</a></li>
             <li><a href="https://go-tl.com/where.html">Buka Ita-nia Fatin Atuál (Get Your Current Location)</a></li>
             <li><a href="https://go-tl.com/ask.html">Buka Google Antropik Tetum (Tetum Google Anthropic Search)</a></li>
             <li><a href="https://go-tl.com/drums.html">Máquina Tuku Drum ho Looper (Drum Machine with Looper)</a></li>
@@ -192,7 +194,7 @@
     </div>
 
     <div class="footer">
-        <p>This project is dedicated to fostering sustainable development, preserving Timorese culture, and building lasting relationships between Peace Corps volunteers and local communities. By combining traditional knowledge with modern techniques, we aim to create a brighter future for Timor-Leste.</p>
+        <p>Projetu ne’e dedika ba haburas dezenvolvimentu sustentável, prezerva kultura Timor nian, no harii relasaun ne’ebé dura entre ema hotu. Hodi tau hamutuk matenek tradisionál ho téknika modernu, mai ita kria futuru ne’ebé nabilan liu ba Timor-Leste.</p>
     </div>
 
     <script>
@@ -203,6 +205,12 @@
     let triangleVelocity = { x: 0.5, y: 0 };
     const TRIANGLE_CLICK_SPEED = 15;
     const TRIANGLE_CLICK_DURATION = 60; // Duration in frames (60 frames ≈ 1 second at 60fps)
+    
+    const soundUrls = [
+        "https://tl-web.s3.us-west-2.amazonaws.com/sounds/Voicy_An+incredible+goal.mp3",
+        "https://tl-web.s3.us-west-2.amazonaws.com/sounds/Voicy_Goaaaaaal!!!.mp3",
+        "https://tl-web.s3.us-west-2.amazonaws.com/sounds/Voicy_Goaaaaaal!.mp3"
+    ];
     
     // Star control variables
     let MIN_FALL_SPEED = 0.5;
@@ -317,6 +325,12 @@
         grid[minStarColumn]++;
     }
     
+    function playRandomSound() {
+        const randomIndex = Math.floor(Math.random() * soundUrls.length);
+        const audio = new Audio(soundUrls[randomIndex]);
+        audio.play();
+    }
+    
     function animateTriangle() {
         const triangle = document.querySelector('.triangle');
         let isClicked = false;
@@ -337,6 +351,11 @@
             } else {
                 trianglePosition.x += triangleVelocity.x;
                 trianglePosition.y += triangleVelocity.y;
+            }
+    
+            // Check if triangle moves off screen through top or bottom
+            if (trianglePosition.y < -200 || trianglePosition.y > window.innerHeight + 200) {
+                playRandomSound();
             }
     
             // Wrap around screen
