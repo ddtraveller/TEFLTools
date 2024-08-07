@@ -71,6 +71,7 @@ mkdir -p "${TEMP_DIR}"
 # Copy Lambda function code and .js files
 cp "${SCRIPT_DIR}/lambda_function.py" "${TEMP_DIR}/"
 cp "${SCRIPT_DIR}"/*.json "${TEMP_DIR}/"
+cp "${SCRIPT_DIR}/story_prompt.txt" "${TEMP_DIR}/"
 
 # Create a requirements.txt file
 cat << EOF > "${TEMP_DIR}/requirements.txt"
@@ -78,7 +79,6 @@ anthropic==0.5.0
 tiktoken==0.3.3
 boto3==1.28.38
 requests==2.31.0
-google-cloud-translate
 EOF
 
 # Install dependencies
