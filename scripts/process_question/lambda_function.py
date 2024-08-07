@@ -14,65 +14,88 @@ SEARCH_ENGINE_ID = os.environ.get('SEARCH_ENGINE_ID')
 ANTHROPIC_API_KEY = os.environ.get('ANTHROPIC_API_KEY')
 
 anthropic_client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+
 def format_entry(entry):
     return f"{entry['title']}\n{entry['link']}\n"
-    
+
 def lambda_handler(event, context):
     logger.debug(f"Received event: {json.dumps(event)}")
-    
-    if 'body' in event:
-        try:
-            body = json.loads(event['body'])
-        except json.JSONDecodeError:
-            body = event['body']
-    else:
-        body = event
 
-    full_question = body.get('question', '')
-    logger.info(f"Processed question: {full_question}")
-    
-    # Extract the actual question from the translated text
-    match = re.search(r"'(.+)'", full_question)
-    if match:
-        question = match.group(1)
-    else:
-        question = full_question
-    
-    if not question:
-        logger.warning("No question provided")
+    cors_headers = {
+        'Access-Control-Allow-Origin': 'https://go-tl.com',
+        'Access-Control-Allow-Methods': 'POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type',
+        'Content-Type': 'application/json'
+    }
+
+    # Handle OPTIONS request
+    if event.get('httpMethod') == 'OPTIONS':
         return {
-            'statusCode': 400,
-            'body': json.dumps({'error': 'No question provided'})
+            'statusCode': 200,
+            'headers': cors_headers,
+            'body': json.dumps('OK')
         }
 
-    search_results = search_google(question)
-    
-    formatted_string = "\n".join(format_entry(entry) for entry in search_results)
-    logger.info(f"Format Entry: {json.dumps(formatted_string)}")
-    final_answer = generate_answer_and_summaries(question, formatted_string)
-    logger.info(f"Generated answer: {final_answer}")
+    try:
+        if event.get('body'):
+            try:
+                body = json.loads(event['body'])
+            except json.JSONDecodeError:
+                body = event['body']
+        else:
+            body = event
 
-    response = {
-        'question': full_question,
-        'answer': final_answer
-    }
+        full_question = body.get('question', '')
+        logger.info(f"Processed question: {full_question}")
 
-    logger.info(f"Final response: {json.dumps(response)}")
+        # Extract the actual question from the translated text
+        match = re.search(r"'(.+)'", full_question)
+        if match:
+            question = match.group(1)
+        else:
+            question = full_question
 
-    return {
-        'statusCode': 200,
-        'headers': {
-            'Access-Control-Allow-Methods': 'POST, OPTIONS',
-            'Access-Control-Allow-Headers': 'Content-Type'
-        },
-        'body': json.dumps(response)
-    }
+        if not question:
+            logger.warning("No question provided")
+            return {
+                'statusCode': 400,
+                'headers': cors_headers,
+                'body': json.dumps({'error': 'No question provided'})
+            }
+
+        search_results = search_google(question)
+
+        formatted_string = "\n".join(format_entry(entry) for entry in search_results)
+        logger.info(f"Format Entry: {json.dumps(formatted_string)}")
+        final_answer = generate_answer_and_summaries(question, formatted_string)
+        logger.info(f"Generated answer: {final_answer}")
+
+        response = {
+            'question': full_question,
+            'answer': final_answer
+        }
+
+        logger.info(f"Final response: {json.dumps(response)}")
+
+        return {
+            'statusCode': 200,
+            'headers': cors_headers,
+            'body': json.dumps(response)
+        }
+
+    except Exception as e:
+        logger.error(f"Unexpected error: {str(e)}")
+        return {
+            'statusCode': 500,
+            'headers': cors_headers,
+            'body': json.dumps({'error': 'An unexpected error occurred'})
+        }
 
 def search_google(query):
     logger.info(f"Searching Google for: {query}")
     logger.debug(f"GOOGLE_API_KEY: {'*' * len(GOOGLE_API_KEY)}")
     logger.debug(f"SEARCH_ENGINE_ID: {SEARCH_ENGINE_ID}")
-    
+
     base_url = "https://www.googleapis.com/customsearch/v1"
     params = {
         'cx': SEARCH_ENGINE_ID,
@@ -80,13 +103,13 @@ def search_google(query):
         'q': query,
         'num': 5
     }
-    
+
     try:
         response = requests.get(base_url, params=params)
         response.raise_for_status()
         data = response.json()
         logger.debug(f"Google API response: {json.dumps(data)}")
-        
+
         results = [
             {
                 'title': item.get('title', ''),
@@ -95,7 +118,6 @@ def search_google(query):
             }
             for item in data.get('items', [])
         ]
-        #logger.info(f"Found {len(results)} search results")
         logger.info(f"Search results: {json.dumps(results)}")
         return results
     except requests.exceptions.RequestException as e:
@@ -110,11 +132,11 @@ def extract_text_from_html(html_content):
 
 def generate_answer_and_summaries(question, content_summaries):
     logger.info("Generating answer and summaries")
-    
+
     # Extract just the URLs from content_summaries
     urls = re.findall(r'https?://\S+', content_summaries)
     url_prompt = "\n".join(f"Link {i+1}: {url}" for i, url in enumerate(urls[:5]))
-    
+
     prompt = f"""Question: {question}
 Please provide:
 1. A comprehensive answer to the question in a complete sentence or paragraph.
@@ -135,9 +157,9 @@ Answer:
                 {"role": "user", "content": prompt}
             ]
         )
-        
+
         response_text = response.content[0].text.strip()
-        
+
         return response_text
     except Exception as e:
         logger.error(f"Error in generate_answer_and_summaries: {str(e)}")

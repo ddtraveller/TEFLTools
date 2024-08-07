@@ -3,23 +3,107 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Timor-Leste Information Hub</title>
+    <title>Ligasaun Loron-loron Timor Leste</title>
     <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
-        h1 { color: #333; }
-        h2 { color: #666; }
-        ul { list-style-type: none; padding: 0; }
-        li { margin-bottom: 20px; }
-        a { color: #0066cc; text-decoration: none; }
-        a:hover { text-decoration: underline; }
+        :root {
+            --red: #dc241f;
+            --yellow: #ffc726;
+            --black: #000000;
+            --white: #ffffff;
+        }
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6; 
+            color: var(--white);
+            background-color: var(--black);
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1000px; 
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background-color: var(--red);
+            color: var(--white);
+            text-align: center;
+            padding: 2rem 0;
+            margin-bottom: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+        header::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 0;
+            height: 0;
+            border-top: 150px solid var(--black);
+            border-right: 150px solid transparent;
+        }
+        header::after {
+            content: '★';
+            position: absolute;
+            left: 30px;
+            top: 25px;
+            font-size: 50px;
+            color: var(--white);
+        }
+        h1 { 
+            margin: 0;
+            font-size: 2.5rem;
+            position: relative;
+            z-index: 1;
+        }
+        h2 { 
+            color: var(--red);
+            border-bottom: 2px solid var(--yellow);
+            padding-bottom: 0.5rem;
+            margin-top: 2rem;
+        }
+        ul { 
+            list-style-type: none; 
+            padding: 0; 
+        }
+        li { 
+            background-color: var(--black);
+            margin-bottom: 1rem; 
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(255,255,255,0.1);
+            transition: transform 0.3s ease;
+            border-left: 4px solid var(--yellow);
+        }
+        li:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 10px rgba(255,255,255,0.15);
+        }
+        a { 
+            color: var(--yellow);
+            text-decoration: none; 
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        a:hover { 
+            color: var(--red);
+        }
+        p {
+            margin: 0.5rem 0 0;
+            color: var(--white);
+        }
     </style>
 </head>
 <body>
-    <h1>Timor-Leste Information Hub</h1>
-    <div id="content"></div>
+    <header>
+        <h1>Ligasaun Loron-loron Timor Leste</h1>
+    </header>
+    <div class="container">
+        <div id="content"></div>
+    </div>
     <script>
         const baseUrl = 'https://tl-web.s3.us-west-2.amazonaws.com/';
-
         async function fetchLatestFile() {
             const today = new Date().toISOString().split('T')[0];
             const fileName = `tl_info_${today}.json`;
@@ -34,7 +118,6 @@
                 return null;
             }
         }
-
         async function displayContent() {
             const data = await fetchLatestFile();
             const contentDiv = document.getElementById('content');
@@ -44,24 +127,32 @@
                 return;
             }
 
-            const section = document.createElement('section');
-            section.innerHTML = `<h2>Latest Information</h2>`;
-            const ul = document.createElement('ul');
-            
-            for (const item of data) {
-                const li = document.createElement('li');
-                li.innerHTML = `
-                    <h3>${item.topic}</h3>
-                    <a href="${item.link}" target="_blank">${item.title}</a>
-                    <p>${item.snippet}</p>
-                `;
-                ul.appendChild(li);
-            }
-            
-            section.appendChild(ul);
-            contentDiv.appendChild(section);
-        }
+            const groupedData = data.reduce((acc, item) => {
+                if (!acc[item.topic]) {
+                    acc[item.topic] = [];
+                }
+                acc[item.topic].push(item);
+                return acc;
+            }, {});
 
+            for (const [topic, items] of Object.entries(groupedData)) {
+                const section = document.createElement('section');
+                section.innerHTML = `<h2>${topic}</h2>`;
+                const ul = document.createElement('ul');
+                
+                for (const item of items) {
+                    const li = document.createElement('li');
+                    li.innerHTML = `
+                        <a href="${item.link}" target="_blank">${item.title}</a>
+                        <p>${item.snippet}</p>
+                    `;
+                    ul.appendChild(li);
+                }
+                
+                section.appendChild(ul);
+                contentDiv.appendChild(section);
+            }
+        }
         displayContent();
     </script>
 </body>

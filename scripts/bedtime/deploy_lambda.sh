@@ -41,24 +41,26 @@ create_lambda_role() {
             }]
         }' \
         --query 'Role.Arn' \
-        --output text)
+        --output text \
+        --no-cli-pager)
     
     echo "Attaching AWSLambdaBasicExecutionRole policy"
     aws iam attach-role-policy \
         --role-name "${ROLE_NAME}" \
-        --policy-arn arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+        --policy-arn arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole \
+        --no-cli-pager
     
     echo "Waiting for role to be available..."
-    aws iam get-role --role-name "${ROLE_NAME}"
+    aws iam get-role --role-name "${ROLE_NAME}" --no-cli-pager
     sleep 10  # Wait for role to be fully available
 }
 
 # Check if role exists, create if it doesn't
-if ! aws iam get-role --role-name "${ROLE_NAME}" >/dev/null 2>&1; then
+if ! aws iam get-role --role-name "${ROLE_NAME}" --no-cli-pager >/dev/null 2>&1; then
     create_lambda_role
 else
     echo "Using existing role: ${ROLE_NAME}"
-    ROLE_ARN=$(aws iam get-role --role-name "${ROLE_NAME}" --query 'Role.Arn' --output text)
+    ROLE_ARN=$(aws iam get-role --role-name "${ROLE_NAME}" --query 'Role.Arn' --output text --no-cli-pager)
 fi
 echo "Role ARN: ${ROLE_ARN}"
 
@@ -90,7 +92,7 @@ zip -r9 "${LAMBDA_FUNCTION_NAME}.zip" .
 wait_for_lambda_update() {
     echo "Waiting for the Lambda function update to complete..."
     while true; do
-        STATUS=$(aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --query 'Configuration.LastUpdateStatus' --output text --region "${REGION}")
+        STATUS=$(aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --query 'Configuration.LastUpdateStatus' --output text --region "${REGION}" --no-cli-pager)
         if [ "$STATUS" = "Successful" ]; then
             echo "Update completed successfully."
             break
@@ -104,12 +106,13 @@ wait_for_lambda_update() {
 }
 
 # Create or update the Lambda function
-if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "${REGION}" >/dev/null 2>&1; then
+if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "${REGION}" --no-cli-pager >/dev/null 2>&1; then
     echo "Updating existing Lambda function"
     aws lambda update-function-code \
         --function-name "${LAMBDA_FUNCTION_NAME}" \
         --zip-file "fileb://${LAMBDA_FUNCTION_NAME}.zip" \
-        --region "${REGION}"
+        --region "${REGION}" \
+        --no-cli-pager
     
     wait_for_lambda_update
     
@@ -121,7 +124,8 @@ if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "$
         --timeout "${TIMEOUT}" \
         --memory-size "${MEMORY_SIZE}" \
         --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
-        --region "${REGION}"
+        --region "${REGION}" \
+        --no-cli-pager
         
     wait_for_lambda_update
 else
@@ -137,7 +141,8 @@ else
         --timeout "${TIMEOUT}" \
         --memory-size "${MEMORY_SIZE}" \
         --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
-        --region "${REGION}"
+        --region "${REGION}" \
+        --no-cli-pager
     
     wait_for_lambda_update
 fi
@@ -145,7 +150,8 @@ fi
 # Get the updated Lambda function details
 LAMBDA_INFO=$(aws lambda get-function \
     --function-name "${LAMBDA_FUNCTION_NAME}" \
-    --region "${REGION}")
+    --region "${REGION}" \
+    --no-cli-pager)
 
 # Extract and display the last modified date
 LAST_MODIFIED=$(echo "${LAMBDA_INFO}" | jq -r '.Configuration.LastModified')

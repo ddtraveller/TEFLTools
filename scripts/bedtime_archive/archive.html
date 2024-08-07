@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arkivu Istória sira Timór-Leste nian</title>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+            transition: all 0.3s ease;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #fff;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        #controls {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+            z-index: 1000;
+        }
+        .slider {
+            width: 100%;
+            margin: 10px 0;
+        }
+        .sparkle {
+            position: absolute;
+            pointer-events: none;
+            border-radius: 50%;
+        }
+        #content {
+            transition: transform 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+        <h1>Arkivu Istória sira Timór-Leste nian</h1>
+        <ul id="story-list"></ul>
+    </div>
+
+    <div id="controls">
+        <label for="sparkleSlider">Kuantidade Sparkle: </label>
+        <input type="range" id="sparkleSlider" class="slider" min="0" max="100" value="0">
+        
+        <label for="hueSlider">Kór iha fundo: </label>
+        <input type="range" id="hueSlider" class="slider" min="0" max="360" value="0">
+        
+        <label for="saturationSlider">Saturasaun Antesedente: </label>
+        <input type="range" id="saturationSlider" class="slider" min="0" max="100" value="80">
+        
+        <label for="textSizeSlider">Testu nia medida: </label>
+        <input type="range" id="textSizeSlider" class="slider" min="10" max="50" value="16">
+        
+        <label for="rotationSlider">Rotasaun: </label>
+        <input type="range" id="rotationSlider" class="slider" min="0" max="360" value="0">
+        
+        <label for="bounceSlider">Testu Bouncy: </label>
+        <input type="range" id="bounceSlider" class="slider" min="0" max="100" value="0">
+    </div>
+
+    <script>
+        function fetchStories() {
+            const url = 'https://tl-web.s3.us-west-2.amazonaws.com/?list-type=2&prefix=stories/';
+            fetch(url)
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                .then(data => {
+                    const storyList = document.getElementById('story-list');
+                    const contents = data.getElementsByTagName('Contents');
+                    for (let item of contents) {
+                        const key = item.getElementsByTagName('Key')[0].textContent;
+                        if (key.endsWith('.html') && 
+                            !key.endsWith('story_archive.html') && 
+                            !key.endsWith('archive.html')) {
+                            const li = document.createElement('li');
+                            const a = document.createElement('a');
+                            a.href = `https://tl-web.s3.us-west-2.amazonaws.com/${key}`;
+                            a.textContent = key.split('/').pop();
+                            li.appendChild(a);
+                            storyList.appendChild(li);
+                        }
+                    }
+                })
+                .catch(console.error);
+        }
+
+        function createSparkle() {
+            const sparkle = document.createElement('div');
+            sparkle.className = 'sparkle';
+            document.body.appendChild(sparkle);
+
+            const size = Math.random() * 20 + 5; // Random size between 5 and 25 pixels
+            sparkle.style.width = `${size}px`;
+            sparkle.style.height = `${size}px`;
+
+            const hue = Math.random() * 360; // Random hue for rainbow effect
+            sparkle.style.backgroundColor = `hsl(${hue}, 100%, 50%)`;
+            sparkle.style.boxShadow = `0 0 ${size/2}px hsl(${hue}, 100%, 50%)`;
+
+            const startX = Math.random() * window.innerWidth;
+            let x = startX;
+            let y = -size;
+
+            function animateSparkle() {
+                y += 2;
+                x += Math.sin(y * 0.1) * 2;
+                
+                sparkle.style.left = `${x}px`;
+                sparkle.style.top = `${y}px`;
+
+                if (y < window.innerHeight) {
+                    requestAnimationFrame(animateSparkle);
+                } else {
+                    sparkle.remove();
+                }
+            }
+
+            animateSparkle();
+        }
+
+        let sparkleInterval;
+
+        document.getElementById('sparkleSlider').addEventListener('input', (e) => {
+            clearInterval(sparkleInterval);
+            if (e.target.value > 0) {
+                sparkleInterval = setInterval(createSparkle, 101 - e.target.value);
+            }
+        });
+
+        function updateBackgroundColor() {
+            const hue = document.getElementById('hueSlider').value;
+            const saturation = document.getElementById('saturationSlider').value;
+            const lightness = 80;
+            document.body.style.backgroundColor = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+        }
+
+        document.getElementById('hueSlider').addEventListener('input', updateBackgroundColor);
+        document.getElementById('saturationSlider').addEventListener('input', updateBackgroundColor);
+
+        document.getElementById('textSizeSlider').addEventListener('input', (e) => {
+            document.body.style.fontSize = `${e.target.value}px`;
+        });
+
+        document.getElementById('rotationSlider').addEventListener('input', (e) => {
+            document.getElementById('content').style.transform = `rotate(${e.target.value}deg)`;
+        });
+
+        document.getElementById('bounceSlider').addEventListener('input', (e) => {
+            const elements = document.querySelectorAll('li');
+            elements.forEach(el => {
+                el.style.transition = 'transform 0.3s ease';
+                el.style.transform = e.target.value > 0 ? `translateY(${Math.sin(Date.now() * 0.01) * e.target.value * 0.2}px)` : '';
+            });
+        });
+
+        // Set random initial background color
+        const initialHue = Math.floor(Math.random() * 361);
+        document.getElementById('hueSlider').value = initialHue;
+        updateBackgroundColor();
+
+        fetchStories();
+        setInterval(() => {
+            const bounceValue = document.getElementById('bounceSlider').value;
+            if (bounceValue > 0) {
+                const elements = document.querySelectorAll('li');
+                elements.forEach(el => {
+                    el.style.transform = `translateY(${Math.sin(Date.now() * 0.01) * bounceValue * 0.2}px)`;
+                });
+            }
+        }, 50);
+    </script>
+</body>
+</html>
