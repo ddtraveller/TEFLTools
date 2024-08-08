@@ -366,6 +366,20 @@ def parse_parts_lark(content):
         print(f"Lark parsing failed: {str(e)}")
         return []
 
+def fallback_title_parser(raw_content):
+    lines = raw_content.strip().split('\n')
+    english_title = ""
+    tetun_title = ""
+    
+    for line in lines:
+        if "English" in line and ":" in line:
+            english_title = line.split(":", 1)[1].strip()
+        elif "Tetun" in line and ":" in line:
+            tetun_title = line.split(":", 1)[1].strip()
+        if english_title and tetun_title:
+            break
+    
+    return {'english': english_title, 'tetun': tetun_title}
     
 def generate_story(seed_file, story_prompt_template):
     try:
@@ -460,14 +474,18 @@ def generate_story(seed_file, story_prompt_template):
         raw_content = response.completion.strip()
         print(f"Raw content:\n{raw_content}")  # Debug print
         print(type(raw_content))
+
         # Extract title
-        #Title (English): The Clever Girl and the Ancient Tree
-        #Title (Tetun): Labarik Feto Matepen ho Ai-tuan
-        english_title = str(raw_content).split('English')[1].split('\n')[0].strip('():')
-        tetun_title = str(raw_content).split('Tetun')[1].split('\n')[0].strip('():')        
-        story = {
-            'title': {'english': english_title, 'tetun': tetun_title}
-        }        
+        try:
+            english_title = str(raw_content).split('\n')[0].split('English')[1].split('\n')[0].strip('():')
+            tetun_title = str(raw_content).split('\n')[1].split('Tetun')[1].split('\n')[0].strip('():')
+            story = {
+                'title': {'english': english_title, 'tetun': tetun_title}
+            }
+        except (IndexError, AttributeError):
+            # If the original method fails, use the fallback parser
+            story = {'title': fallback_title_parser(raw_content)}
+            
         # Split the content into parts
         parts = raw_content.split('\n\n')
 

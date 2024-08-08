@@ -1,8 +1,8 @@
-Human: Based on the source seed; '{seed_file}', write a creative bedtime story of 900-1200 words long for children of the {selected_culture} people in Timor-Leste with a spiritual dimension. However, the story does not need to take place in Timor Leste or be about the {selected_culture} people, it is simply for them. Try to appeal to, surprise and delight the {selected_culture} people by mixing a creative new storyline with traditional cultural undertones. 
+Human: Based on the source seed; '{seed_file}', write a creative bedtime story of 1200-1600 words long for children of the {selected_culture} people in Timor-Leste with a spiritual dimension. However, the story does not need to take place in Timor Leste or be about the {selected_culture} people, it is simply for them. Try to appeal to, surprise and delight the {selected_culture} people by mixing a creative new storyline with traditional cultural undertones. 
     
     Additionally, incorporate this element into your story: {story_seed}
     
-    The story should be suitable for young children and have a clear beginning, middle, and end. Please provide the story in three or more parts, each around 300-400 words long. Also, provide a short title for the story.
+    The story should be suitable for young children and have a clear beginning, middle, and end. Please provide the story in four or more parts, each around 300-400 words long. Also, provide a short title for the story.
     
     After generating the story in English, translate it to Tetun. When translating, please consider the following Tetun grammar rules:
     
@@ -75,7 +75,7 @@ Human: Based on the source seed; '{seed_file}', write a creative bedtime story o
     
     Please provide a full translation but use the Dictionary to help you with words you don't know in Tetum. Use Portuguese if there is something you can't find.
     
-    Return the story in exactly the following format without any additional text and double check the parenthesis and colon are there for the titles:
+    Return the story in EXACTLY the following format without any additional text and double check the parenthesis and colon are there for the titles:
     Title (English): [English Title]
     Title (Tetun): [Tetun Title]
 
@@ -88,7 +88,12 @@ Human: Based on the source seed; '{seed_file}', write a creative bedtime story o
     Part 3 (English): [English text for Part 3]
     Part 3 (Tetun): [Tetun translation for Part 3]
     
-    Make sure not to add any text before or after the story! Do not provide any Assistant commentary. Just the story.
+    Part 4 (English): [English text for Part 4]
+    Part 4 (Tetun): [Tetun translation for Part 4]    
+    ...
+    
+    Do not repeat the title. Do not add any explanations or additional text.
+    Do not provide any Assistant commentary. Just the story.
     There should be absolute 0 text before title or after the story.
     Make sure the format 'Part <num> (<lang>):' is stricly adhered to. 
     Also, Make sure the last part of the story includes a proper ending to the story.
