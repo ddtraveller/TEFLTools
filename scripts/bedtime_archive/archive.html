@@ -38,7 +38,6 @@
             text-decoration: underline;
         }
         #controls {
-            position: fixed;
             bottom: 10px;
             left: 10px;
             background-color: rgba(255, 255, 255, 0.8);
@@ -61,10 +60,6 @@
     </style>
 </head>
 <body>
-    <div id="content">
-        <h1>Arkivu Istória sira Timór-Leste nian</h1>
-        <ul id="story-list"></ul>
-    </div>
 
     <div id="controls">
         <label for="sparkleSlider">Kuantidade Sparkle: </label>
@@ -84,6 +79,11 @@
         
         <label for="bounceSlider">Testu Bouncy: </label>
         <input type="range" id="bounceSlider" class="slider" min="0" max="100" value="0">
+    </div>
+    
+    <div id="content">
+        <h1>Arkivu Istória sira Timór-Leste nian</h1>
+        <ul id="story-list"></ul>
     </div>
 
     <script>
@@ -105,7 +105,7 @@
                             a.href = `https://tl-web.s3.us-west-2.amazonaws.com/${key}`;
                             a.textContent = key.split('/').pop();
                             li.appendChild(a);
-                            storyList.appendChild(li);
+                            storyList.insertBefore(li, storyList.firstChild); // Changed this line
                         }
                     }
                 })

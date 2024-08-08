@@ -14,6 +14,7 @@ from random import choice
 import colorsys
 import time
 import traceback
+from lark import Lark, Transformer
 
 # Set up paths (assuming the script is in the same directory as the JSON files)
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -72,7 +73,7 @@ def generate_pastel_color():
     r, g, b = colorsys.hls_to_rgb(h, l, s)
     return f"rgb({int(r*255)}, {int(g*255)}, {int(b*255)})"
 
-def generate_html(title, story_parts, image_urls, tetun_title, tetun_story_parts, video_url=None):
+def generate_html(story, image_urls):
     background_color = generate_pastel_color()
     html = f"""
     <!DOCTYPE html>
@@ -80,7 +81,7 @@ def generate_html(title, story_parts, image_urls, tetun_title, tetun_story_parts
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{title}</title>
+        <title>{story['title']['english']}</title>
         <link rel="icon" href="https://tl-web.s3.us-west-2.amazonaws.com/images/flag.jpg" type="image/png">
         <style>
             body {{
@@ -130,28 +131,17 @@ def generate_html(title, story_parts, image_urls, tetun_title, tetun_story_parts
         </style>
     </head>
     <body>
-        <h1>{tetun_title}</h1>
-        <h1>{title}</h1>
+        <h1>{story['title']['tetun']}</h1>
+        <h1>{story['title']['english']}</h1>
     """
     
-    for i, (eng_part, tetun_part, image_url) in enumerate(zip(story_parts, tetun_story_parts, image_urls), 1):
+    for i, (part, image_url) in enumerate(zip(story['parts'], image_urls), 1):
         html += f"""
         <div class="story-part">
             <h2>Part {i}</h2>
-            <p>{eng_part}</p>
-            <p class="tetun">{tetun_part}</p>
+            <p>{part['english']}</p>
+            <p class="tetun">{part['tetun']}</p>
             <img src="{image_url}" alt="Story illustration {i}">
-        </div>
-        """
-    
-    if video_url:
-        html += f"""
-        <div class="story-part">
-            <h2>Story Video</h2>
-            <video width="100%" controls>
-                <source src="{video_url}" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
         </div>
         """
     
@@ -211,6 +201,135 @@ def generate_image_gallery():
         Body=html,
         ContentType='text/html'
     )
+
+def parse_parts(content):
+    parts = []
+    current_part = {'part_number': 0, 'english': '', 'tetun': ''}
+    
+    for item in content:
+        part_match = re.search(r'Part (\d+)', item)
+        if part_match:
+            if current_part['part_number'] != 0:
+                parts.append(current_part)
+                current_part = {'part_number': 0, 'english': '', 'tetun': ''}
+            current_part['part_number'] = int(part_match.group(1))
+        
+        english_match = re.search(r'\(English\):(.*?)(?=\(Tetun\)|$)', item, re.DOTALL)
+        tetun_match = re.search(r'\(Tetun\):(.*)', item, re.DOTALL)
+        
+        if english_match:
+            current_part['english'] += english_match.group(1).strip() + ' '
+        if tetun_match:
+            current_part['tetun'] += tetun_match.group(1).strip() + ' '
+        
+        # Handle cases where English and Tetun are in separate items
+        if not english_match and not tetun_match:
+            if '(English)' in item:
+                current_part['english'] += re.sub(r'^.*?\(English\):', '', item).strip() + ' '
+            elif '(Tetun)' in item:
+                current_part['tetun'] += re.sub(r'^.*?\(Tetun\):', '', item).strip() + ' '
+    
+    if current_part['part_number'] != 0:
+        parts.append(current_part)
+    
+    # Sort parts by part number and clean up content
+    parts.sort(key=lambda x: x['part_number'])
+    for part in parts:
+        part['english'] = re.sub(r'\s*Part \d+\s*$', '', part['english'].strip())
+        part['tetun'] = re.sub(r'\s*Part \d+\s*$', '', part['tetun'].strip())
+    
+    return parts
+
+def fallback_parse_parts(content):
+    parts = []
+    current_part = {'part_number': 0, 'english': '', 'tetun': ''}
+    
+    for item in content:
+        part_match = re.search(r'Part (\d+)', item)
+        if part_match:
+            if current_part['part_number'] != 0:
+                parts.append(current_part)
+                current_part = {'part_number': 0, 'english': '', 'tetun': ''}
+            current_part['part_number'] = int(part_match.group(1))
+        
+        english_match = re.search(r'\(English\):(.*?)(?=\(Tetun\)|$)', item, re.DOTALL)
+        if english_match:
+            current_part['english'] += english_match.group(1).strip() + ' '
+        
+        tetun_match = re.search(r'\(Tetun\):(.*)', item, re.DOTALL)
+        if tetun_match:
+            current_part['tetun'] += tetun_match.group(1).strip() + ' '
+    
+    if current_part['part_number'] != 0:
+        parts.append(current_part)
+    
+    # Sort parts by part number
+    parts.sort(key=lambda x: x['part_number'])
+    
+    return [
+        {
+            'part_number': part['part_number'],
+            'english': part['english'].strip(),
+            'tetun': part['tetun'].strip()
+        }
+        for part in parts
+    ]
+
+def parse_parts_marker_based(content):
+    parts = []
+    full_content = ' '.join(content)
+    part_markers = ['Part 1', 'Part 2', 'Part 3', 'Part 4', 'Part 5']
+    for i, marker in enumerate(part_markers):
+        start = full_content.find(marker)
+        if start == -1:
+            continue
+        end = full_content.find(part_markers[i+1]) if i+1 < len(part_markers) else len(full_content)
+        part_content = full_content[start:end]
+        part = {'part_number': int(marker.split()[1]), 'english': '', 'tetun': ''}
+        
+        english_match = re.search(r'\(English\):(.*?)(?=\(Tetun\)|$)', part_content, re.DOTALL)
+        if english_match:
+            part['english'] = english_match.group(1).strip()
+        
+        tetun_match = re.search(r'\(Tetun\):(.*)', part_content, re.DOTALL)
+        if tetun_match:
+            part['tetun'] = tetun_match.group(1).strip()
+        
+        parts.append(part)
+    
+    return parts
+
+def parse_parts_lark(content):
+    grammar = """
+    start: part+
+    part: "Part" NUMBER "(" LANG "):" text "(" LANG "):" text
+    text: /[^(]*/
+    NUMBER: /\d+/
+    LANG: "English" | "Tetun"
+    %import common.WS
+    %ignore WS
+    """
+    
+    class TreeToDict(Transformer):
+        def part(self, items):
+            return {
+                'part_number': int(items[1]),
+                'english': items[3].strip() if items[2] == 'English' else items[7].strip(),
+                'tetun': items[7].strip() if items[2] == 'English' else items[3].strip()
+            }
+        
+        def start(self, items):
+            return items
+    
+    parser = Lark(grammar, parser='lalr', transformer=TreeToDict())
+    
+    try:
+        full_content = ' '.join(content)
+        return parser.parse(full_content)
+    except Exception as e:
+        print(f"Lark parsing failed: {str(e)}")
+        return []
+
     
 def generate_story(seed_file, story_prompt_template):
     try:
@@ -295,8 +414,6 @@ def generate_story(seed_file, story_prompt_template):
             compound_content=compound_content
         )
 
-        #print(f"Formatted prompt (first 500 characters): {prompt[:500]}")
-
         response = anthropic_client.completions.create(
             prompt=prompt,
             model="claude-v1",
@@ -304,35 +421,48 @@ def generate_story(seed_file, story_prompt_template):
             stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
         )
         
-        #print(f"Raw response: {response.completion}")
+        raw_content = response.completion.strip()
+        print(f"Raw content:\n{raw_content}")  # Debug print
+        print(type(raw_content))
+        # Extract title
+        #Title (English): The Clever Girl and the Ancient Tree
+        #Title (Tetun): Labarik Feto Matepen ho Ai-tuan
+        english_title = str(raw_content).split('English')[1].split('\n')[0].strip('():')
+        tetun_title = str(raw_content).split('Tetun')[1].split('\n')[0].strip('():')        
+        story = {
+            'title': {'english': english_title, 'tetun': tetun_title}
+        }        
+        # Split the content into parts
+        parts = raw_content.split('\n\n')
 
-        story_content = response.completion.strip().split('\n\n')
+        story['parts'] = parse_parts_marker_based(parts)
         
-        # Remove any introductory lines
-        while story_content and not story_content[0].startswith("Title"):
-            story_content.pop(0)
+        try: 
+            story['parts']
+        except:
+            story['parts'] = parse_parts_lark(parts)
         
-        # Add debugging information
-        #print(f"Generated story content (first 500 characters): {story_content[:500]}")
-        #print(f"Number of story parts: {len(story_content)}")
+        try: 
+            story['parts']
+        except:            
+            story['parts'] = fallback_parse_parts(parts)
+
+        print(f"Parsed story structure: {json.dumps(story, indent=2)}")  # Debug print
         
-        # Ensure we have at least a title and one part
-        if len(story_content) < 2:
-            raise ValueError(f"Insufficient story parts. Expected at least 2, got {len(story_content)}. Content: {story_content}")
-        
-        return story_content, selected_culture 
+        return story, selected_culture 
 
     except Exception as e:
         print(f"Error in generate_story: {str(e)}")
         print(f"Traceback: {traceback.format_exc()}")
         raise
     
-def generate_image(prompt, style, culture, custom_style, part_number=1):
-    story_context = f"Create a whimsical, child-friendly {style} illustration for the following part of a bedtime story set in Timor-Leste. Here is the story part; {prompt}. This is for part {part_number} of the story."
-    image_prompt = story_context + custom_style 
+def generate_image(english_story_parts, prompt, style, culture, custom_style, part_number=1):
+    story_context = f"Create a whimsical, child-friendly {style} illustration for the following bedtime story: {english_story_parts}.\nGenerate the image for part {part_number} in the story: {prompt}."
+    
+    story_context += f' If there are humans in the picture, make sure they are of the {culture} people. '
 
     if part_number > 1:
-        image_prompt += f" Create a new scene that fits the story progression while maintaining visual consistency with previous illustrations."
+        story_context += f" Maintain style consistency with previous illustrations."
 
     url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
     headers = {
@@ -340,17 +470,21 @@ def generate_image(prompt, style, culture, custom_style, part_number=1):
         "Accept": "application/json",
         "Authorization": f"Bearer {stability_api_key}"
     }
+    
+    # Load cfg_scale and steps from the Lambda configuration
+    cfg_scale = float(os.environ.get('CFG_SCALE', 14))
+    steps = int(os.environ.get('STEPS', 40))    
+    
     payload = {
         "text_prompts": [
-            {"text": image_prompt, "weight": 1},
-            {"text": "Create a child-friendly, colorful illustration", "weight": 0.5}
+            {"text": story_context, "weight": 1}
         ],
-        "cfg_scale": 8,
+        "cfg_scale": cfg_scale, # 1-20 with higher end numbers paying more attention to the prompt and low to learned knowledge
         "clip_guidance_preset": "FAST_BLUE",
         "height": 576,  # Changed from 512 to 576
         "width": 1024,  # Changed from 512 to 1024
         "samples": 1,
-        "steps": 30,
+        "steps": steps, # 20 to 100 depending on desired quality
         "style_preset": style,
         "seed": random.randint(0, 4294967295)
     }
@@ -382,92 +516,104 @@ def load_story_prompt():
         return file.read()
         
 def lambda_handler(event, context):
-    try:
-        seed_file = load_random_file()
-        
-        # Load the prompt from the text file
-        story_prompt = load_story_prompt()
-        
-        story_content, selected_culture = generate_story(seed_file, story_prompt)
-        
-        # Parse the title
-        title_parts = story_content[0].split('\n')
-        english_title = title_parts[0].replace("Title (English): ", "").strip()
-        tetun_title = title_parts[1].replace("Title (Tetun): ", "").strip()
-        
-        english_story_parts = []
-        tetun_story_parts = []
-        
-        for part in story_content[1:]:
-            part_lines = part.split('\n')
-            if len(part_lines) >= 2:
-                english_part = part_lines[0].split(': ', 1)[-1].strip()
-                tetun_part = part_lines[1].split(': ', 1)[-1].strip()
-                english_story_parts.append(english_part)
-                tetun_story_parts.append(tetun_part)
-        
-        safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
-        date_str = datetime.now().strftime("%Y%m%d")
-        
-        # Choose a single style for the entire story
-        styles = ['analog-film', 'anime', 'cinematic', 'comic-book', 'digital-art', 'enhance', 'fantasy-art', 'isometric', 'line-art', 'modeling-compound', 'neon-punk', 'origami', 'photographic', 'pixel-art', 'tile-texture']
-        weights = [random.randint(1, 3) for _ in range(len(styles))]
-        
-        style = random.choices(styles, weights=weights)[0]
-        print(f"Selected style: {style}")
-        
-        # Create a custom style description
-        custom_style = f" Maintain a consistent art style across all illustrations. "
-
-        image_urls = []
-        for i, part in enumerate(english_story_parts, 1):
-            image = generate_image(part[:300], style, selected_culture, custom_style, part_number=i)
-            if image is not None:
-                image_name = f'{safe_title}_image_{i}_{date_str}.png'
-                image_url = save_image_to_s3(image, image_name)
-                image_urls.append(image_url)
-            else:
-                print(f"Failed to generate image for part {i}")
-
-        html_content = generate_html(english_title, english_story_parts, image_urls, tetun_title, tetun_story_parts)
-        
-        # Copy the old bedtime.html to stories folder with updated name
+    max_retries = 1
+    for attempt in range(max_retries):
         try:
-            old_html = s3.get_object(Bucket='tl-web', Key='bedtime.html')['Body'].read().decode('utf-8')
+            seed_file = load_random_file()
+            # Load the prompt from the text file
+            story_prompt = load_story_prompt()
             
-            # Update image links in the old HTML
-            old_html = old_html.replace('images/', '../images/')
+            # Load the prompt from the text file
+            story, selected_culture = generate_story(seed_file, story_prompt)
             
-            # Save the old HTML to the stories folder
-            old_html_key = f'stories/bedtime_{int(time.time())}.html'
+            english_title = story['title']['english']
+            tetun_title = story['title']['tetun']
+            
+            english_story_parts = [part['english'] for part in story['parts']]
+            tetun_story_parts = [part['tetun'] for part in story['parts']]
+            
+            if not english_title or not tetun_title or len(english_story_parts) == 0 or len(tetun_story_parts) == 0:
+                print(f"Attempt {attempt + 1}: Generated story is incomplete.")
+                print(f"English title: {english_title}")
+                print(f"Tetun title: {tetun_title}")
+                print(f"Number of English parts: {len(english_story_parts)}")
+                print(f"Number of Tetun parts: {len(tetun_story_parts)}")
+                continue
+            
+            safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
+            date_str = datetime.now().strftime("%Y%m%d")
+            
+            # Choose a single style for the entire story
+            styles = ['analog-film', 'anime', 'cinematic', 'comic-book', 'digital-art', 'enhance', 'fantasy-art', 'isometric', 'line-art', 'modeling-compound', 'neon-punk', 'origami', 'photographic', 'pixel-art', 'tile-texture']
+            random.shuffle(styles)
+            weights = [random.randint(1, 3) for _ in range(len(styles))]
+            
+            style = random.choices(styles, weights=weights)[0]
+            print(f"Selected style: {style}")
+            
+            # Create a custom style description
+            custom_style = f" Maintain a consistent art style across all illustrations. "
+
+            image_urls = []
+            for i, part in enumerate(english_story_parts, 1):
+                image = generate_image(english_story_parts, part[:300], style, selected_culture, custom_style, part_number=i)
+                if image is not None:
+                    image_name = f'{safe_title}_image_{i}_{date_str}.png'
+                    image_url = save_image_to_s3(image, image_name)
+                    image_urls.append(image_url)
+                else:
+                    print(f"Failed to generate image for part {i}")
+
+            html_content = generate_html(story, image_urls)
+            
+            # Copy the old bedtime.html to stories folder with updated name
+            try:
+                old_html = s3.get_object(Bucket='tl-web', Key='bedtime.html')['Body'].read().decode('utf-8')
+                
+                # Update image links in the old HTML
+                old_html = old_html.replace('images/', '../images/')
+                
+                # Save the old HTML to the stories folder
+                old_html_key = f'stories/bedtime_{int(time.time())}.html'
+                s3.put_object(
+                    Bucket='tl-web',
+                    Key=old_html_key,
+                    Body=old_html,
+                    ContentType='text/html'
+                )
+                print(f"Old story saved to {old_html_key}")
+            except s3.exceptions.NoSuchKey:
+                print("No previous bedtime.html found. Skipping copy.")
+            
+            # Save the new HTML content
             s3.put_object(
                 Bucket='tl-web',
-                Key=old_html_key,
-                Body=old_html,
+                Key='bedtime.html',
+                Body=html_content,
                 ContentType='text/html'
             )
-            print(f"Old story saved to {old_html_key}")
-        except s3.exceptions.NoSuchKey:
-            print("No previous bedtime.html found. Skipping copy.")
+            
+            generate_image_gallery()
+            return {
+                'statusCode': 200,
+                'body': json.dumps(f"Bedtime story '{english_title}' for {selected_culture} culture with {len(english_story_parts)} parts generated and saved to s3://tl-web/bedtime.html. Previous story archived.")
+            }
         
-        # Save the new HTML content
-        s3.put_object(
-            Bucket='tl-web',
-            Key='bedtime.html',
-            Body=html_content,
-            ContentType='text/html'
-        )
-        
-        generate_image_gallery()
-        return {
-            'statusCode': 200,
-            'body': json.dumps(f"Bedtime story '{english_title}' for {selected_culture} culture with {len(english_story_parts)} parts generated and saved to s3://tl-web/bedtime.html. Previous story archived.")
-        }
-        
-    except Exception as e:
-        print(f"An error occurred: {str(e)}")
-        traceback.print_exc()  # Add this line to print the full traceback
-        return {
-            'statusCode': 500,
-            'body': json.dumps(f"An error occurred: {str(e)}")
-        }
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed. Error: {str(e)}")
+            print(f"Full error traceback: {traceback.format_exc()}")
+            if attempt == max_retries - 1:
+                return {
+                    'statusCode': 500,
+                    'body': json.dumps({
+                        "error": f"An error occurred after {max_retries} attempts",
+                        "details": str(e),
+                        "traceback": traceback.format_exc()
+                    })
+                }
+
+    # This line should never be reached, but just in case:
+    return {
+        'statusCode': 500,
+        'body': json.dumps("Failed to generate a valid story after multiple attempts.")
+    }

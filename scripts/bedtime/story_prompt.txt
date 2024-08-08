@@ -75,7 +75,7 @@ Human: Based on the source seed; '{seed_file}', create a bedtime story of 900-12
     
     Please provide a full translation but use the Dictionary to help you with words you don't know in Tetum. Use Portuguese if there is something you can't find.
     
-    Return the story in exactly the following format without any additional text:
+    Return the story in exactly the following format without any additional text and double check the parenthesis and colon are there for the titles:
     Title (English): [English Title]
     Title (Tetun): [Tetun Title]
 
@@ -88,4 +88,7 @@ Human: Based on the source seed; '{seed_file}', create a bedtime story of 900-12
     Part 3 (English): [English text for Part 3]
     Part 3 (Tetun): [Tetun translation for Part 3]
     
+    Make sure not to add any text before or after the story! Do not provide any Assistant commentary. Just the story.
+    There should be absolute 0 text before title or after the story.
+    Make sure the format 'Part <num> (<lang>):' is stricly adhered to. 
     Assistant:

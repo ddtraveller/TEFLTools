@@ -79,6 +79,7 @@ anthropic==0.5.0
 tiktoken==0.3.3
 boto3==1.28.38
 requests==2.31.0
+lark-parser
 EOF
 
 # Install dependencies
