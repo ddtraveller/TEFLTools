@@ -10,7 +10,7 @@
             font-family: 'Comic Sans MS', cursive, sans-serif;
             line-height: 1.6;
             color: #333;
-            max-width: 800px;
+            max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
             background-color: #f4f4f4;
@@ -20,25 +20,33 @@
             color: #2c3e50;
             text-align: center;
         }
-        ul {
-            list-style-type: none;
+        #story-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 20px;
             padding: 0;
         }
-        li {
+        .story-item {
             background-color: #fff;
-            margin-bottom: 10px;
-            padding: 10px;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            overflow: hidden;
+            transition: transform 0.3s ease;
         }
-        a {
+        .story-item:hover {
+            transform: translateY(-5px);
+        }
+        .story-item a {
+            display: block;
+            padding: 20px;
             color: #3498db;
             text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
+            text-align: center;
+            height: 100%;
+            box-sizing: border-box;
         }
         #controls {
+            position: fixed;
             bottom: 10px;
             left: 10px;
             background-color: rgba(255, 255, 255, 0.8);
@@ -61,7 +69,6 @@
     </style>
 </head>
 <body>
-
     <div id="controls">
         <label for="sparkleSlider">Kuantidade Sparkle: </label>
         <input type="range" id="sparkleSlider" class="slider" min="0" max="100" value="0">
@@ -84,7 +91,7 @@
     
     <div id="content">
         <h1>Arkivu Istória sira Timór-Leste nian</h1>
-        <ul id="story-list"></ul>
+        <div id="story-grid"></div>
     </div>
 
     <script>
@@ -94,19 +101,21 @@
                 .then(response => response.text())
                 .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                 .then(data => {
-                    const storyList = document.getElementById('story-list');
+                    const storyGrid = document.getElementById('story-grid');
                     const contents = data.getElementsByTagName('Contents');
                     for (let item of contents) {
                         const key = item.getElementsByTagName('Key')[0].textContent;
                         if (key.endsWith('.html') && 
                             !key.endsWith('story_archive.html') && 
                             !key.endsWith('archive.html')) {
-                            const li = document.createElement('li');
+                            const div = document.createElement('div');
+                            div.className = 'story-item';
+                            const storyId = key.split('/').pop().replace('.html', '');
                             const a = document.createElement('a');
                             a.href = `https://tl-web.s3.us-west-2.amazonaws.com/${key}`;
-                            a.textContent = key.split('/').pop();
-                            li.appendChild(a);
-                            storyList.insertBefore(li, storyList.firstChild); // Changed this line
+                            a.textContent = storyId;
+                            div.appendChild(a);
+                            storyGrid.appendChild(div);
                         }
                     }
                 })
@@ -118,11 +127,11 @@
             sparkle.className = 'sparkle';
             document.body.appendChild(sparkle);
 
-            const size = Math.random() * 20 + 5; // Random size between 5 and 25 pixels
+            const size = Math.random() * 20 + 5;
             sparkle.style.width = `${size}px`;
             sparkle.style.height = `${size}px`;
 
-            const hue = Math.random() * 360; // Random hue for rainbow effect
+            const hue = Math.random() * 360;
             sparkle.style.backgroundColor = `hsl(${hue}, 100%, 50%)`;
             sparkle.style.boxShadow = `0 0 ${size/2}px hsl(${hue}, 100%, 50%)`;
 
@@ -175,7 +184,7 @@
         });
 
         document.getElementById('bounceSlider').addEventListener('input', (e) => {
-            const elements = document.querySelectorAll('li');
+            const elements = document.querySelectorAll('.story-item');
             elements.forEach(el => {
                 el.style.transition = 'transform 0.3s ease';
                 el.style.transform = e.target.value > 0 ? `translateY(${Math.sin(Date.now() * 0.01) * e.target.value * 0.2}px)` : '';
@@ -187,11 +196,13 @@
         document.getElementById('hueSlider').value = initialHue;
         updateBackgroundColor();
 
+        // Fetch stories
         fetchStories();
+
         setInterval(() => {
             const bounceValue = document.getElementById('bounceSlider').value;
             if (bounceValue > 0) {
-                const elements = document.querySelectorAll('li');
+                const elements = document.querySelectorAll('.story-item');
                 elements.forEach(el => {
                     el.style.transform = `translateY(${Math.sin(Date.now() * 0.01) * bounceValue * 0.2}px)`;
                 });
