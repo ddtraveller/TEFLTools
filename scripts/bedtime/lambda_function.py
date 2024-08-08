@@ -15,6 +15,7 @@ import colorsys
 import time
 import traceback
 from lark import Lark, Transformer
+from gtts import gTTS
 
 # Set up paths (assuming the script is in the same directory as the JSON files)
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -31,6 +32,32 @@ TIMOR_LESTE_CULTURES = [
     {"people": "Baikeno"}
 ]
 
+def generate_sound(text, filename):
+    # Replace apostrophes with empty strings
+    text = text.replace("'", "")
+    text = re.sub(r'Part \d+$', '', text).strip()
+    # Create a gTTS object with the given text and language
+    tts = gTTS(text=text, lang='en', tld='co.uk')
+    
+    # Create a BytesIO object to store the audio data
+    fp = BytesIO()
+    
+    # Write the audio data to the BytesIO object
+    tts.write_to_fp(fp)
+    
+    # Move the file pointer to the beginning of the BytesIO object
+    fp.seek(0)
+    
+    # Save the audio data to S3
+    s3.put_object(
+        Bucket='tl-web',
+        Key=f'sounds/{filename}',
+        Body=fp,
+        ContentType='audio/mpeg'
+    )
+    
+    return f'https://tl-web.s3.us-west-2.amazonaws.com/sounds/{filename}'
+    
 # Load dictionary, phrases, and compounds
 def load_dict_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -73,7 +100,7 @@ def generate_pastel_color():
     r, g, b = colorsys.hls_to_rgb(h, l, s)
     return f"rgb({int(r*255)}, {int(g*255)}, {int(b*255)})"
 
-def generate_html(story, image_urls):
+def generate_html(story, image_urls, sound_urls):
     background_color = generate_pastel_color()
     html = f"""
     <!DOCTYPE html>
@@ -128,6 +155,10 @@ def generate_html(story, image_urls):
                 border-radius: 5px;
                 margin-top: 10px;
             }}
+            audio {{
+                width: 100%;
+                margin-top: 10px;
+            }}
         </style>
     </head>
     <body>
@@ -135,13 +166,18 @@ def generate_html(story, image_urls):
         <h1>{story['title']['english']}</h1>
     """
     
-    for i, (part, image_url) in enumerate(zip(story['parts'], image_urls), 1):
+    for i, (part, image_url, sound_url) in enumerate(zip(story['parts'], image_urls, sound_urls), 1):
+        english_text = re.sub(r'Part \d+$', '', part['english']).strip()
         html += f"""
         <div class="story-part">
             <h2>Part {i}</h2>
-            <p>{part['english']}</p>
+            <p>{english_text}</p>
             <p class="tetun">{part['tetun']}</p>
             <img src="{image_url}" alt="Story illustration {i}">
+            <audio controls>
+                <source src="{sound_url}" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
         </div>
         """
     
@@ -459,7 +495,7 @@ def generate_story(seed_file, story_prompt_template):
 def generate_image(english_story_parts, prompt, style, culture, custom_style, part_number=1):
     story_context = f"Create a whimsical, child-friendly {style} illustration for the following bedtime story: {english_story_parts}.\nGenerate the image for part {part_number} in the story: {prompt}."
     
-    story_context += f' If there are humans in the picture, make sure they are of the {culture} people. '
+    story_context += f' Make sure all people depicted look like {culture} people.'
 
     if part_number > 1:
         story_context += f" Maintain style consistency with previous illustrations."
@@ -522,9 +558,10 @@ def lambda_handler(event, context):
             seed_file = load_random_file()
             # Load the prompt from the text file
             story_prompt = load_story_prompt()
-            
-            # Load the prompt from the text file
-            story, selected_culture = generate_story(seed_file, story_prompt)
+
+            story = {'parts': []}
+            while len(story['parts']) < 3:
+                story, selected_culture = generate_story(seed_file, story_prompt)
             
             english_title = story['title']['english']
             tetun_title = story['title']['tetun']
@@ -563,8 +600,14 @@ def lambda_handler(event, context):
                     image_urls.append(image_url)
                 else:
                     print(f"Failed to generate image for part {i}")
+                    
+            sound_urls = []
+            for i, part in enumerate(english_story_parts, 1):
+                sound_filename = f'{safe_title}_sound_{i}_{date_str}.mp3'
+                sound_url = generate_sound(part, sound_filename)
+                sound_urls.append(sound_url)
 
-            html_content = generate_html(story, image_urls)
+            html_content = generate_html(story, image_urls, sound_urls)
             
             # Copy the old bedtime.html to stories folder with updated name
             try:

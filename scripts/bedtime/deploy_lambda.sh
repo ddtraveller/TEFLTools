@@ -80,6 +80,7 @@ tiktoken==0.3.3
 boto3==1.28.38
 requests==2.31.0
 lark-parser
+gTTS
 EOF
 
 # Install dependencies
@@ -141,7 +142,7 @@ else
         --description "${LAMBDA_DESCRIPTION}" \
         --timeout "${TIMEOUT}" \
         --memory-size "${MEMORY_SIZE}" \
-        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
+        --environment "Variables=ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
         --region "${REGION}" \
         --no-cli-pager
     

@@ -1,4 +1,4 @@
-Human: Based on the source seed; '{seed_file}', create a bedtime story of 900-1200 words long for children of the {selected_culture} people in Timor-Leste with a spiritual dimension appropriate to the {selected_culture} people.
+Human: Based on the source seed; '{seed_file}', write a creative bedtime story of 900-1200 words long for children of the {selected_culture} people in Timor-Leste with a spiritual dimension. However, the story does not need to take place in Timor Leste or be about the {selected_culture} people, it is simply for them. Try to appeal to, surprise and delight the {selected_culture} people by mixing a creative new storyline with traditional cultural undertones. 
     
     Additionally, incorporate this element into your story: {story_seed}
     
@@ -91,4 +91,5 @@ Human: Based on the source seed; '{seed_file}', create a bedtime story of 900-12
     Make sure not to add any text before or after the story! Do not provide any Assistant commentary. Just the story.
     There should be absolute 0 text before title or after the story.
     Make sure the format 'Part <num> (<lang>):' is stricly adhered to. 
+    Also, Make sure the last part of the story includes a proper ending to the story.
     Assistant:
