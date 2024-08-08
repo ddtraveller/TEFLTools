@@ -16,6 +16,7 @@ import time
 import traceback
 from lark import Lark, Transformer
 from gtts import gTTS
+import sys
 
 # Set up paths (assuming the script is in the same directory as the JSON files)
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -533,30 +534,55 @@ def generate_image(english_story_parts, prompt, style, culture, custom_style, pa
         "text_prompts": [
             {"text": story_context, "weight": 1}
         ],
-        "cfg_scale": cfg_scale, # 1-20 with higher end numbers paying more attention to the prompt and low to learned knowledge
+        "cfg_scale": cfg_scale,
         "clip_guidance_preset": "FAST_BLUE",
-        "height": 576,  # Changed from 512 to 576
-        "width": 1024,  # Changed from 512 to 1024
+        "height": 576,
+        "width": 1024,
         "samples": 1,
-        "steps": steps, # 20 to 100 depending on desired quality
+        "steps": steps,
         "style_preset": style,
         "seed": random.randint(0, 4294967295)
     }
     
-    try:
-        response = requests.post(url, headers=headers, json=payload)
-        response.raise_for_status()
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            print(f"Attempt {attempt + 1}: Sending request with payload: {json.dumps(payload, indent=2)}")
+            response = requests.post(url, headers=headers, json=payload)
+            response.raise_for_status()
+            
+            data = response.json()
+            if "artifacts" in data and len(data["artifacts"]) > 0:
+                image_data = base64.b64decode(data["artifacts"][0]["base64"])
+                return BytesIO(image_data)
+            else:
+                print(f"No image data in response: {json.dumps(data, indent=2)}")
+                
+                # Check for content filtering
+                if "message" in data and "safety" in data["message"].lower():
+                    print("Content filtering detected. Adjusting prompt...")
+                    # Modify the prompt to be more child-friendly
+                    story_context = f"Create a very mild, child-safe {style} illustration for a bedtime story. {prompt}"
+                    payload["text_prompts"][0]["text"] = story_context
+                else:
+                    print('Image generation failure')
+                    sys.exit()
+        except requests.exceptions.RequestException as e:
+            print(f"Error generating image on attempt {attempt + 1}: {str(e)}")
+            if e.response is not None:
+                print(f"Response content: {e.response.content}")
+            
+            if attempt < max_retries - 1:
+                print(f"Retrying in 2 seconds...")
+                time.sleep(2)  # Wait for 2 seconds before retrying
+            else:
+                raise
         
-        data = response.json()
-        if "artifacts" in data and len(data["artifacts"]) > 0:
-            image_data = base64.b64decode(data["artifacts"][0]["base64"])
-            return BytesIO(image_data)
-        else:
-            print(f"No image data in response: {data}")
-            return None
-    except requests.exceptions.RequestException as e:
-        print(f"Error generating image: {str(e)}")
-        return None
+        # Add a pause between attempts to handle rate limiting
+        if attempt < max_retries - 1:
+            time.sleep(1)  # 1 second pause between attempts
+    print('Image generation failure')
+    sys.exit()
     
 def download_image_from_s3(image_url):
     bucket_name = 'tl-web'
@@ -611,14 +637,28 @@ def lambda_handler(event, context):
 
             image_urls = []
             for i, part in enumerate(english_story_parts, 1):
-                image = generate_image(english_story_parts, part[:300], style, selected_culture, custom_style, part_number=i)
+                image = None
+                for image_attempt in range(2):  # 0 for first attempt, 1 for retry
+                    try:
+                        prompt = part[:300] if image_attempt == 0 else part[:400]
+                        image = generate_image(english_story_parts, prompt, style, selected_culture, custom_style, part_number=i)
+                        if image is not None:
+                            break
+                    except Exception as img_error:
+                        print(f"Image generation attempt {image_attempt + 1} for part {i} failed: {str(img_error)}")
+                        if image_attempt == 0:
+                            time.sleep(2)  # Wait for 2 seconds before retrying
+                        continue
+
                 if image is not None:
                     image_name = f'{safe_title}_image_{i}_{date_str}.png'
                     image_url = save_image_to_s3(image, image_name)
                     image_urls.append(image_url)
                 else:
-                    print(f"Failed to generate image for part {i}")
-                    
+                    raise Exception(f"Failed to generate image for part {i} after 2 attempts")
+
+            # If we've made it here, all images were generated successfully
+            
             sound_urls = []
             for i, part in enumerate(english_story_parts, 1):
                 sound_filename = f'{safe_title}_sound_{i}_{date_str}.mp3'
