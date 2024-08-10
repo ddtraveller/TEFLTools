@@ -167,20 +167,31 @@ def generate_html(story, image_urls, sound_urls):
         <h1>{story['title']['english']}</h1>
     """
     
-    for i, (part, image_url, sound_url) in enumerate(zip(story['parts'], image_urls, sound_urls), 1):
-        english_text = re.sub(r'Part \d+$', '', part['english']).strip()
+    for i, part in enumerate(story['parts'], 1):
+        english_text = re.sub(r'\s*Part \d+\s*$', '', part['english'].strip())
+        tetun_text = part['tetun'].strip()
+        image_url = image_urls[i-1] if i <= len(image_urls) else ""
+        sound_url = sound_urls[i-1] if i <= len(sound_urls) else ""
+        
         html += f"""
         <div class="story-part">
             <h2>Part {i}</h2>
             <p>{english_text}</p>
-            <p class="tetun">{part['tetun']}</p>
-            <img src="{image_url}" alt="Story illustration {i}">
+            <p class="tetun">{tetun_text}</p>
+        """
+        
+        if image_url:
+            html += f'<img src="{image_url}" alt="Story illustration {i}">'
+        
+        if sound_url:
+            html += f"""
             <audio controls>
                 <source src="{sound_url}" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
-        </div>
-        """
+            """
+        
+        html += "</div>"
     
     html += """
     </body>
@@ -377,8 +388,23 @@ def fallback_title_parser(raw_content):
             english_title = line.split(":", 1)[1].strip()
         elif "Tetun" in line and ":" in line:
             tetun_title = line.split(":", 1)[1].strip()
+        elif line.startswith("Title (English):"):
+            english_title = line.split(":", 1)[1].strip()
+        elif line.startswith("Title (Tetun):"):
+            tetun_title = line.split(":", 1)[1].strip()
+        
         if english_title and tetun_title:
             break
+    
+    # If we still don't have both titles, try to find any line that looks like a title
+    if not english_title or not tetun_title:
+        for line in lines:
+            if not english_title and not line.startswith("Part") and ":" not in line:
+                english_title = line.strip()
+            elif not tetun_title and not line.startswith("Part") and ":" not in line:
+                tetun_title = line.strip()
+            if english_title and tetun_title:
+                break
     
     return {'english': english_title, 'tetun': tetun_title}
     
@@ -476,32 +502,35 @@ def generate_story(seed_file, story_prompt_template):
         print(f"Raw content:\n{raw_content}")  # Debug print
         print(type(raw_content))
 
+
         # Extract title
-        try:
-            english_title = str(raw_content).split('\n')[0].split('English')[1].split('\n')[0].strip('():')
-            tetun_title = str(raw_content).split('\n')[1].split('Tetun')[1].split('\n')[0].strip('():')
-            story = {
-                'title': {'english': english_title, 'tetun': tetun_title}
-            }
-        except (IndexError, AttributeError):
-            # If the original method fails, use the fallback parser
-            story = {'title': fallback_title_parser(raw_content)}
+        story = {'title': fallback_title_parser(raw_content)}
+        
+        # If fallback parser didn't find both titles, try original method
+        if not story['title']['english'] or not story['title']['tetun']:
+            try:
+                lines = str(raw_content).split('\n')
+                english_title = next((line.split('English')[1].strip('():') for line in lines if 'English' in line), '')
+                tetun_title = next((line.split('Tetun')[1].strip('():') for line in lines if 'Tetun' in line), '')
+                if english_title and tetun_title:
+                    story['title'] = {'english': english_title, 'tetun': tetun_title}
+            except (IndexError, AttributeError):
+                pass
             
         # Split the content into parts
         parts = raw_content.split('\n\n')
 
-        story['parts'] = parse_parts_marker_based(parts)
+        story['parts'] = parse_parts(raw_content)
         
-        try: 
-            story['parts']
-        except:
+        if not story['parts']:
+            story['parts'] = parse_parts_marker_based(parts)
+        
+        if not story['parts']:
             story['parts'] = parse_parts_lark(parts)
         
-        try: 
-            story['parts']
-        except:            
+        if not story['parts']:
             story['parts'] = fallback_parse_parts(parts)
-
+    
         print(f"Parsed story structure: {json.dumps(story, indent=2)}")  # Debug print
         
         return story, selected_culture 
@@ -511,14 +540,15 @@ def generate_story(seed_file, story_prompt_template):
         print(f"Traceback: {traceback.format_exc()}")
         raise
     
-def generate_image(english_story_parts, prompt, style, culture, custom_style, part_number=1):
-    story_context = f"Create a whimsical, child-friendly {style} illustration for the following bedtime story: {english_story_parts}.\nGenerate the image for part {part_number} in the story: {prompt}."
+def generate_image(english_story_parts, part, style, culture, part_number=1):
+ 
+    story_instruction = f"Create a whimsical, child-friendly {style} illustration for a bedtime story. Generate the image for part {part_number}."
+
+    culture_prompt = f"Make sure all people depicted look like {culture} people."
     
-    story_context += f' Make sure all people depicted look like {culture} people.'
-
-    if part_number > 1:
-        story_context += f" Maintain style consistency with previous illustrations."
-
+    consistency_prompt = f"If thera are any, make sure to maintain style consistency with previous illustrations."
+    full_story = " ".join(english_story_parts)
+    
     url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
     headers = {
         "Content-Type": "application/json",
@@ -526,22 +556,22 @@ def generate_image(english_story_parts, prompt, style, culture, custom_style, pa
         "Authorization": f"Bearer {stability_api_key}"
     }
     
-    # Load cfg_scale and steps from the Lambda configuration
-    cfg_scale = float(os.environ.get('CFG_SCALE', 14))
-    steps = int(os.environ.get('STEPS', 40))    
-    
     payload = {
         "text_prompts": [
-            {"text": story_context, "weight": 1}
+            {"text": story_instruction, "weight": 1.2},
+            {"text": part, "weight": 1},
+            {"text": full_story, "weight": 0.75},
+            {"text": consistency_prompt, "weight": 1},
         ],
-        "cfg_scale": cfg_scale,
+        "cfg_scale": 17,
         "clip_guidance_preset": "FAST_BLUE",
         "height": 576,
         "width": 1024,
         "samples": 1,
-        "steps": steps,
+        "steps": 50,
         "style_preset": style,
-        "seed": random.randint(0, 4294967295)
+        "seed": 3594967295
+        #random.randint(0, 4294967295)
     }
     
     max_retries = 3
@@ -556,17 +586,8 @@ def generate_image(english_story_parts, prompt, style, culture, custom_style, pa
                 image_data = base64.b64decode(data["artifacts"][0]["base64"])
                 return BytesIO(image_data)
             else:
-                print(f"No image data in response: {json.dumps(data, indent=2)}")
-                
-                # Check for content filtering
-                if "message" in data and "safety" in data["message"].lower():
-                    print("Content filtering detected. Adjusting prompt...")
-                    # Modify the prompt to be more child-friendly
-                    story_context = f"Create a very mild, child-safe {style} illustration for a bedtime story. {prompt}"
-                    payload["text_prompts"][0]["text"] = story_context
-                else:
-                    print('Image generation failure')
-                    sys.exit()
+                error_message = data.get("message", "Unknown error occurred")
+                raise Exception(f"No image data in response. Error: {error_message}")
         except requests.exceptions.RequestException as e:
             print(f"Error generating image on attempt {attempt + 1}: {str(e)}")
             if e.response is not None:
@@ -596,16 +617,13 @@ def load_story_prompt():
         return file.read()
         
 def lambda_handler(event, context):
-    max_retries = 1
+    max_retries = 3
     for attempt in range(max_retries):
         try:
             seed_file = load_random_file()
-            # Load the prompt from the text file
             story_prompt = load_story_prompt()
 
-            story = {'parts': []}
-            while len(story['parts']) < 3:
-                story, selected_culture = generate_story(seed_file, story_prompt)
+            story, selected_culture = generate_story(seed_file, story_prompt)
             
             english_title = story['title']['english']
             tetun_title = story['title']['tetun']
@@ -624,7 +642,6 @@ def lambda_handler(event, context):
             safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
             date_str = datetime.now().strftime("%Y%m%d")
             
-            # Choose a single style for the entire story
             styles = ['analog-film', 'anime', 'cinematic', 'comic-book', 'digital-art', 'enhance', 'fantasy-art', 'isometric', 'line-art', 'modeling-compound', 'neon-punk', 'origami', 'photographic', 'pixel-art', 'tile-texture']
             random.shuffle(styles)
             weights = [random.randint(1, 3) for _ in range(len(styles))]
@@ -632,49 +649,44 @@ def lambda_handler(event, context):
             style = random.choices(styles, weights=weights)[0]
             print(f"Selected style: {style}")
             
-            # Create a custom style description
-            custom_style = f" Maintain a consistent art style across all illustrations. "
-
             image_urls = []
+            sound_urls = []
             for i, part in enumerate(english_story_parts, 1):
+                # Generate image
                 image = None
-                for image_attempt in range(2):  # 0 for first attempt, 1 for retry
+                for image_attempt in range(3):
                     try:
-                        prompt = part[:300] if image_attempt == 0 else part[:400]
-                        image = generate_image(english_story_parts, prompt, style, selected_culture, custom_style, part_number=i)
+                        image = generate_image(english_story_parts, part, style, selected_culture, part_number=i)
                         if image is not None:
                             break
                     except Exception as img_error:
                         print(f"Image generation attempt {image_attempt + 1} for part {i} failed: {str(img_error)}")
-                        if image_attempt == 0:
-                            time.sleep(2)  # Wait for 2 seconds before retrying
+                        if image_attempt < 2:
+                            time.sleep(2)
                         continue
-
+            
                 if image is not None:
                     image_name = f'{safe_title}_image_{i}_{date_str}.png'
                     image_url = save_image_to_s3(image, image_name)
                     image_urls.append(image_url)
                 else:
-                    raise Exception(f"Failed to generate image for part {i} after 2 attempts")
+                    print(f"Failed to generate image for part {i} after 3 attempts.")
+                    raise Exception(f"Failed to generate image for part {i}")
 
-            # If we've made it here, all images were generated successfully
-            
-            sound_urls = []
-            for i, part in enumerate(english_story_parts, 1):
+                # Generate sound
                 sound_filename = f'{safe_title}_sound_{i}_{date_str}.mp3'
                 sound_url = generate_sound(part, sound_filename)
                 sound_urls.append(sound_url)
 
+            # If we've made it here, all images and sounds were generated successfully
+            if len(image_urls) != len(english_story_parts) or len(sound_urls) != len(english_story_parts):
+                raise Exception("Mismatch between number of story parts and generated media")
+
             html_content = generate_html(story, image_urls, sound_urls)
             
-            # Copy the old bedtime.html to stories folder with updated name
             try:
                 old_html = s3.get_object(Bucket='tl-web', Key='bedtime.html')['Body'].read().decode('utf-8')
-                
-                # Update image links in the old HTML
                 old_html = old_html.replace('images/', '../images/')
-                
-                # Save the old HTML to the stories folder
                 old_html_key = f'stories/bedtime_{int(time.time())}.html'
                 s3.put_object(
                     Bucket='tl-web',
@@ -686,7 +698,6 @@ def lambda_handler(event, context):
             except s3.exceptions.NoSuchKey:
                 print("No previous bedtime.html found. Skipping copy.")
             
-            # Save the new HTML content
             s3.put_object(
                 Bucket='tl-web',
                 Key='bedtime.html',
@@ -712,9 +723,11 @@ def lambda_handler(event, context):
                         "traceback": traceback.format_exc()
                     })
                 }
+            else:
+                print(f"Retrying entire process. Attempt {attempt + 2} of {max_retries}")
+                continue
 
-    # This line should never be reached, but just in case:
     return {
         'statusCode': 500,
-        'body': json.dumps("Failed to generate a valid story after multiple attempts.")
+        'body': json.dumps("Failed to generate a valid story with all images after multiple attempts.")
     }

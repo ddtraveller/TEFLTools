@@ -1,4 +1,4 @@
-Human: Based on the source seed; '{seed_file}', write a creative bedtime story of 1200-1600 words long for children of the {selected_culture} people in Timor-Leste with a spiritual dimension. Try to appeal to, surprise and delight the {selected_culture} people by mixing a creative new storyline with traditional cultural undertones. 
+Human: Based on the source seed; '{seed_file}', write a creative bedtime story of 1200-1600 words long for children of the {selected_culture} people in Timor-Leste with a spiritual dimension. Try to appeal to, surprise and delight the {selected_culture} people by mixing a creative new storyline with traditional cultural undertones. Avoid stories about weapons or violence.
     
     Additionally, incorporate this element into your story: {story_seed}
     
@@ -90,6 +90,7 @@ Human: Based on the source seed; '{seed_file}', write a creative bedtime story o
     
     Part 4 (English): [English text for Part 4]
     Part 4 (Tetun): [Tetun translation for Part 4]    
+    
     ...
     
     Do not repeat the title. Do not add any explanations or additional text.
