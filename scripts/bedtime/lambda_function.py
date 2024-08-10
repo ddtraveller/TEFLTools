@@ -409,19 +409,23 @@ def fallback_title_parser(raw_content):
     return {'english': english_title, 'tetun': tetun_title}
     
 def generate_story(seed_file, story_prompt_template):
-    try:
-        selected_culture = random.choice([culture['people'] for culture in TIMOR_LESTE_CULTURES])
-        
-        # Load dictionary contents
-        with open(DICT_FILE, 'r', encoding='utf-8') as f:
-            dictionary_content = f.read()
-        with open(PHRASES_FILE, 'r', encoding='utf-8') as f:
-            phrases_content = f.read()
-        with open(COMPOUND_FILE, 'r', encoding='utf-8') as f:
-            compound_content = f.read()
+    max_retries = 3
+    retry_delay = 5  # seconds
 
-        # Reintroducing the random story seeds
-        random_elements = [
+    for attempt in range(max_retries):
+        try:
+            selected_culture = random.choice([culture['people'] for culture in TIMOR_LESTE_CULTURES])
+            
+            # Load dictionary contents
+            with open(DICT_FILE, 'r', encoding='utf-8') as f:
+                dictionary_content = f.read()
+            with open(PHRASES_FILE, 'r', encoding='utf-8') as f:
+                phrases_content = f.read()
+            with open(COMPOUND_FILE, 'r', encoding='utf-8') as f:
+                compound_content = f.read()
+
+            # Reintroducing the random story seeds
+            random_elements = [
           "A child befriends a magical creature unique to Timor-Leste",
           "An adventure in a fantastic landscape inspired by Timor-Leste's geography",
           "A heartwarming moment between family members or friends",
@@ -527,68 +531,71 @@ def generate_story(seed_file, story_prompt_template):
           "Meeting the keeper of stories and helping create new tales",
           "Finding a set of crayons that can color real-life scenes",
           "Uncovering a hidden festival where day and night trade places"          
-        ]
+            ]
 
-        story_seed = random.choice(random_elements)
-        
-        # Format the prompt template
-        prompt = story_prompt_template.format(
-            seed_file=seed_file,
-            selected_culture=selected_culture,
-            story_seed=story_seed,
-            dictionary_content=dictionary_content,
-            phrases_content=phrases_content,
-            compound_content=compound_content
-        )
-
-        response = anthropic_client.completions.create(
-            prompt=prompt,
-            model="claude-v1",
-            max_tokens_to_sample=5000,
-            stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
-        )
-        
-        raw_content = response.completion.strip()
-        print(f"Raw content:\n{raw_content}")  # Debug print
-        print(type(raw_content))
-
-
-        # Extract title
-        story = {'title': fallback_title_parser(raw_content)}
-        
-        # If fallback parser didn't find both titles, try original method
-        if not story['title']['english'] or not story['title']['tetun']:
-            try:
-                lines = str(raw_content).split('\n')
-                english_title = next((line.split('English')[1].strip('():') for line in lines if 'English' in line), '')
-                tetun_title = next((line.split('Tetun')[1].strip('():') for line in lines if 'Tetun' in line), '')
-                if english_title and tetun_title:
-                    story['title'] = {'english': english_title, 'tetun': tetun_title}
-            except (IndexError, AttributeError):
-                pass
+            story_seed = random.choice(random_elements)
             
-        # Split the content into parts
-        parts = raw_content.split('\n\n')
+            # Format the prompt template
+            prompt = story_prompt_template.format(
+                seed_file=seed_file,
+                selected_culture=selected_culture,
+                story_seed=story_seed,
+                dictionary_content=dictionary_content,
+                phrases_content=phrases_content,
+                compound_content=compound_content
+            )
 
-        story['parts'] = parse_parts(raw_content)
-        
-        if not story['parts']:
-            story['parts'] = parse_parts_marker_based(parts)
-        
-        if not story['parts']:
-            story['parts'] = parse_parts_lark(parts)
-        
-        if not story['parts']:
-            story['parts'] = fallback_parse_parts(parts)
-    
-        print(f"Parsed story structure: {json.dumps(story, indent=2)}")  # Debug print
-        
-        return story, selected_culture 
+            response = anthropic_client.completions.create(
+                prompt=prompt,
+                model="claude-v1",
+                max_tokens_to_sample=5000,
+                stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
+            )
+            
+            raw_content = response.completion.strip()
+            print(f"Raw content:\n{raw_content}")  # Debug print
+            print(type(raw_content))
 
-    except Exception as e:
-        print(f"Error in generate_story: {str(e)}")
-        print(f"Traceback: {traceback.format_exc()}")
-        raise
+            # Extract title
+            story = {'title': fallback_title_parser(raw_content)}
+            
+            # If fallback parser didn't find both titles, try original method
+            if not story['title']['english'] or not story['title']['tetun']:
+                try:
+                    lines = str(raw_content).split('\n')
+                    english_title = next((line.split('English')[1].strip('():') for line in lines if 'English' in line), '')
+                    tetun_title = next((line.split('Tetun')[1].strip('():') for line in lines if 'Tetun' in line), '')
+                    if english_title and tetun_title:
+                        story['title'] = {'english': english_title, 'tetun': tetun_title}
+                except (IndexError, AttributeError):
+                    pass
+                
+            # Split the content into parts
+            parts = raw_content.split('\n\n')
+
+            story['parts'] = parse_parts(raw_content)
+            
+            if not story['parts']:
+                story['parts'] = parse_parts_marker_based(parts)
+            
+            if not story['parts']:
+                story['parts'] = parse_parts_lark(parts)
+            
+            if not story['parts']:
+                story['parts'] = fallback_parse_parts(parts)
+        
+            print(f"Parsed story structure: {json.dumps(story, indent=2)}")  # Debug print
+            
+            return story, selected_culture 
+
+        except anthropic.InternalServerError as e:
+            if 'Error code: 529' in str(e) and attempt < max_retries - 1:
+                print(f"Encountered 529 error. Retrying in {retry_delay} seconds...")
+                time.sleep(retry_delay)
+            else:
+                raise
+
+    raise Exception(f"Failed to generate story after {max_retries} attempts due to server overload.")
     
 def generate_image(english_story_parts, part, style, culture, part_number, is_first_image=False, additional_payload=None):
     story_instruction = f"Create a whimsical, child-friendly {style} illustration for a bedtime story. Generate the image for part {part_number}."
