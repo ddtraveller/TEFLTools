@@ -120,24 +120,49 @@
                 .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                 .then(data => {
                     const storyGrid = document.getElementById('story-grid');
-                    const contents = data.getElementsByTagName('Contents');
-                    for (let item of contents) {
+                    const contents = Array.from(data.getElementsByTagName('Contents'));
+                    const stories = contents.filter(item => {
                         const key = item.getElementsByTagName('Key')[0].textContent;
-                        if (key.endsWith('.html') && 
-                            !key.endsWith('story_archive.html') && 
-                            !key.endsWith('archive.html')) {
-                            const div = document.createElement('div');
-                            div.className = 'story-item';
-                            const storyId = key.split('/').pop().replace('.html', '');
-                            const a = document.createElement('a');
-                            a.href = `https://tl-web.s3.us-west-2.amazonaws.com/${key}`;
-                            a.textContent = storyId;
-                            div.appendChild(a);
-                            storyGrid.appendChild(div);
-                        }
-                    }
+                        return key.toLowerCase().startsWith('stories/bedtime') && 
+                               key.toLowerCase().endsWith('.html');
+                    });
+                    
+                    // Sort stories by timestamp in filename (descending order)
+                    stories.sort((a, b) => {
+                        const keyA = a.getElementsByTagName('Key')[0].textContent;
+                        const keyB = b.getElementsByTagName('Key')[0].textContent;
+                        const timestampA = extractTimestamp(keyA);
+                        const timestampB = extractTimestamp(keyB);
+                        return timestampB - timestampA; // Changed to descending order
+                    });
+
+                    // Clear existing content in the grid
+                    storyGrid.innerHTML = '';
+
+                    // Add stories to the grid (newest first, oldest last)
+                    stories.forEach(item => {
+                        const key = item.getElementsByTagName('Key')[0].textContent;
+                        const div = document.createElement('div');
+                        div.className = 'story-item';
+                        const storyId = key.split('/').pop().replace('.html', '');
+                        const a = document.createElement('a');
+                        a.href = `https://tl-web.s3.us-west-2.amazonaws.com/${key}`;
+                        a.textContent = storyId;
+                        div.appendChild(a);
+                        storyGrid.appendChild(div);
+                    });
                 })
                 .catch(console.error);
+        }
+
+        function extractTimestamp(filename) {
+            const match = filename.match(/_(\d+)\.html$/);
+            return match ? parseInt(match[1], 10) : 0;
+        }
+
+        function extractTimestamp(filename) {
+            const match = filename.match(/_(\d+)\.html$/);
+            return match ? parseInt(match[1], 10) : 0;
         }
 
         function createSparkle() {

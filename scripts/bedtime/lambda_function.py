@@ -422,61 +422,111 @@ def generate_story(seed_file, story_prompt_template):
 
         # Reintroducing the random story seeds
         random_elements = [
-            "Include a magical creature unique to this story",
-            "Show a fantastic landscape inspired by Timor-Leste's geography",
-            "Depict a heartwarming moment between characters",
-            "Illustrate a surprising discovery in an unexpected place",
-            "Present a whimsical character with a unique appearance",
-            "Portray a wise elder sharing knowledge under a sacred tree",
-            "Show a mythical beast soaring through misty mountains",
-            "Depict a common animal transforming into a legendary creature",
-            "Illustrate a trickster figure wielding a magical artifact",
-            "Present a symbol of rebirth emerging from adversity",
-            "Show a group of animals displaying human-like behavior",
-            "Depict a celestial being performing a mundane task",
-            "Illustrate star-crossed lovers overcoming an otherworldly obstacle",
-            "Show two opposing forces in harmonious balance",
-            "Present a child receiving wisdom from an ancient being",
-            "Depict a supernatural entity emerging from a natural feature",
-            "Show a humble villager discovering a hidden realm",
-            "Illustrate a common object granting an extraordinary ability",
-            "Present a hero receiving a divinely-inspired tool",
-            "Depict a benevolent spirit helping a lost traveler",
-            "Show children's toys coming to life in a playful manner",
-            "Illustrate a wise animal teaching young ones an important lesson",
-            "Present a creature overcoming a great challenge to achieve transformation",
-            "Depict a child befriending a gentle, misunderstood beast",
-            "Show an animal guardian protecting a sacred object",
-            "Illustrate a farmer discovering an extraordinary being in their field",
-            "Present animals holding a formal human-like gathering",
-            "Depict an artist's creation magically coming to life",
-            "Show a child learning a life lesson from industrious insects",
-            "Illustrate a mythical being crafting celestial objects",
-            "Present inanimate objects becoming animated at night",
-            "Depict a musical instrument with the power to affect nature",
-            "Show a child's imagination bringing shadows to life",
-            "Illustrate an ancient tree sharing knowledge with a listener",
-            "Present grateful spirits honoring a kind-hearted person",
-            "Depict a small, brave animal defending its community",
-            "Show a legendary weapon choosing its destined wielder",
-            "Illustrate a child learning to harness a natural element",
-            "Present celestial beings interacting with humans in a festival",
-            "Depict a magical object granting wishes with unexpected results",
-            "Show a child receiving training in traditional skills from mystical mentors",
-            "Illustrate a tiny, luminous insect guiding travelers through darkness",
-            "Present an artifact that can influence the environment",
-            "Depict a child learning stealth from a Timor-Leste native animal",
-            "Show small creatures working together to accomplish a great task",
-            "Illustrate a miniature world contained within a common object",
-            "Present a child gaining insight from a river or mountain spirit",
-            "Depict a mystical object revealing hidden truths",
-            "Show everyday tools working autonomously to complete a task",
-            "Illustrate a child discovering the ability to communicate with nature",
-            "Present an enchanted object revealing one's true path",
-            "Depict a Timorese firefly leading lost souls to safety",
-            "Show a child learning bravery from a small but courageous animal",
-            "Illustrate a traditional Timorese object granting the power of flight",
-            "Present guardian spirits awakening to protect their charges"
+          "A child befriends a magical creature unique to Timor-Leste",
+          "An adventure in a fantastic landscape inspired by Timor-Leste's geography",
+          "A heartwarming moment between family members or friends",
+          "An unexpected discovery in an ordinary place",
+          "Meeting a character with an unusual appearance or ability",
+          "Learning wisdom from an elder under a special tree",
+          "Encountering a mythical animal in the mountains",
+          "Witnessing an everyday animal transform into something extraordinary",
+          "A clever character uses a magical object",
+          "Finding hope and new beginnings after facing difficulties",
+          "Animals working together like humans to solve a problem",
+          "A powerful being doing everyday tasks",
+          "Two unlikely friends overcoming obstacles together",
+          "Finding balance between opposites in nature",
+          "A child learns important lessons from a wise, ancient being",
+          "A magical entity appears from a natural feature of Timor-Leste",
+          "Discovering a hidden, magical place in the village",
+          "A common object grants an amazing power",
+          "Receiving a special tool or gift from a mystical source",
+          "A kind spirit helps someone who is lost",
+          "Toys come to life for a nighttime adventure",
+          "Learning an important lesson from animal friends",
+          "Overcoming a challenge to become stronger or wiser",
+          "Befriending a misunderstood creature",
+          "An animal protects something precious to the community",
+          "Finding something magical while working in the fields",
+          "Animals gather for an important meeting",
+          "A piece of art becomes real through magic",
+          "Learning life lessons from hardworking insects",
+          "Watching magical beings create stars and planets",
+          "Objects in the house have secret lives at night",
+          "Music that has the power to change nature",
+          "A child's imagination brings shadows to life",
+          "An old tree shares stories with those who listen",
+          "Kind actions are rewarded by grateful spirits",
+          "A small, brave animal becomes a hero",
+          "A special object chooses its rightful owner",
+          "Learning to use the powers of nature responsibly",
+          "Celebrating with both humans and magical beings",
+          "Making wishes that come true in unexpected ways",
+          "Learning traditional skills from magical teachers",
+          "A tiny, glowing insect guides the way through darkness",
+          "Finding an object that can change the weather",
+          "Learning to move quietly from Timor-Leste's animals",
+          "Small creatures working as a team to do something big",
+          "Discovering a tiny world inside an everyday object",
+          "Gaining wisdom from the spirits of nature",
+          "Finding an object that shows hidden truths",
+          "Household items come to life to help with chores",
+          "Learning to talk with plants and animals",
+          "A magic item helps someone find their true calling",
+          "Timor-Leste's fireflies help guide lost travelers",
+          "Learning courage from the smallest of creatures",
+          "A traditional object grants the ability to fly",
+          "Guardian spirits protect their village from harm",
+          "Discovering a secret passage that leads to the center of the Earth",
+          "Meeting a friendly cloud that can change shapes and tell stories",
+          "Finding a magical seashell that lets you breathe underwater",
+          "Befriending a group of talking raindrops during the wet season",
+          "A child's drawing comes to life and leads them on an adventure",
+          "Uncovering an ancient board game that affects real-life events",
+          "Meeting the guardian of dreams who needs help defeating nightmares",
+          "Finding a pair of shoes that can walk on any surface, even air",
+          "Discovering a hidden valley where extinct animals still roam",
+          "A magic kite that can fly to different parts of the world",
+          "Befriending a group of musical stones that play enchanting melodies",
+          "Finding a telescope that can see into parallel universes",
+          "Meeting the keeper of lost things and helping return items to their owners",
+          "Discovering a fruit that grants the ability to understand all languages",
+          "A magical photo album that allows travel into pictures",
+          "Finding a set of marbles that each contain miniature worlds",
+          "Meeting the spirit of the wind and learning to control weather",
+          "Uncovering a mystical library where books write themselves",
+          "A enchanted pencil that brings drawings to life temporarily",
+          "Discovering a cave that leads to the land of forgotten memories",
+          "Finding a magical spyglass that can see through time",
+          "Meeting the caretaker of seasons and helping balance the year",
+          "A set of building blocks that can construct full-size structures",
+          "Discovering a hidden garden where plants grant different abilities",
+          "Finding a compass that points to whatever you're seeking",
+          "Meeting the guardian of colors and helping repaint the world",
+          "A magical cooking pot that can create any dish imaginable",
+          "Uncovering an ancient map that changes based on the reader's thoughts",
+          "Finding a pair of glasses that can see invisible creatures",
+          "Discovering a hidden carnival where mythical beings celebrate",
+          "A enchanted puppet theater where stories come to life",
+          "Meeting the keeper of echoes and learning the secrets of sound",
+          "Finding a magical loom that weaves dreams into reality",
+          "Discovering a underground network of tunnels connecting all of Timor-Leste",
+          "A magical magnifying glass that can shrink or enlarge objects",
+          "Meeting the spirit of the mountains and learning about earth's history",
+          "Finding a set of keys that can open portals to different time periods",
+          "Uncovering a hidden workshop where ideas are turned into inventions",
+          "A enchanted flute that can control plants and make them grow",
+          "Discovering a secret society of animals that maintain nature's balance",
+          "Finding a magical paintbrush that can alter reality with each stroke",
+          "Meeting the guardian of the night sky and helping arrange constellations",
+          "A set of dominos that can create chain reactions affecting real events",
+          "Uncovering a hidden room where you can try out different lives",
+          "Finding a magical perfume that can evoke any memory or emotion",
+          "Discovering a secret school where everyday objects learn to be magical",
+          "A enchanted calendar where you can visit any day in history",
+          "Meeting the keeper of stories and helping create new tales",
+          "Finding a set of crayons that can color real-life scenes",
+          "Uncovering a hidden festival where day and night trade places"          
         ]
 
         story_seed = random.choice(random_elements)
@@ -540,13 +590,12 @@ def generate_story(seed_file, story_prompt_template):
         print(f"Traceback: {traceback.format_exc()}")
         raise
     
-def generate_image(english_story_parts, part, style, culture, part_number=1):
- 
+def generate_image(english_story_parts, part, style, culture, part_number, is_first_image=False, additional_payload=None):
     story_instruction = f"Create a whimsical, child-friendly {style} illustration for a bedtime story. Generate the image for part {part_number}."
 
-    culture_prompt = f"Make sure all people depicted look like {culture} people."
+    culture_prompt = f"Make sure all people depicted look like {culture} people from Timor Leste. They should have brown skin."
     
-    consistency_prompt = f"If thera are any, make sure to maintain style consistency with previous illustrations."
+    consistency_prompt = "Create a consistent style for the story." if is_first_image else "Maintain style consistency with previous illustrations."
     full_story = " ".join(english_story_parts)
     
     url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
@@ -561,9 +610,10 @@ def generate_image(english_story_parts, part, style, culture, part_number=1):
             {"text": story_instruction, "weight": 1.2},
             {"text": part, "weight": 1},
             {"text": full_story, "weight": 0.75},
+            {"text": culture_prompt, "weight": 0.75},
             {"text": consistency_prompt, "weight": 1},
         ],
-        "cfg_scale": 17,
+        "cfg_scale": 19,
         "clip_guidance_preset": "FAST_BLUE",
         "height": 576,
         "width": 1024,
@@ -571,9 +621,12 @@ def generate_image(english_story_parts, part, style, culture, part_number=1):
         "steps": 50,
         "style_preset": style,
         "seed": 3594967295
-        #random.randint(0, 4294967295)
     }
-    
+
+    # Update payload with additional parameters if provided
+    if additional_payload:
+        payload.update(additional_payload)
+
     max_retries = 3
     for attempt in range(max_retries):
         try:
@@ -604,6 +657,7 @@ def generate_image(english_story_parts, part, style, culture, part_number=1):
             time.sleep(1)  # 1 second pause between attempts
     print('Image generation failure')
     sys.exit()
+
     
 def download_image_from_s3(image_url):
     bucket_name = 'tl-web'
@@ -656,7 +710,8 @@ def lambda_handler(event, context):
                 image = None
                 for image_attempt in range(3):
                     try:
-                        image = generate_image(english_story_parts, part, style, selected_culture, part_number=i)
+                        is_first_image = (i == 1)
+                        image = generate_image(english_story_parts, part, style, selected_culture, part_number=i, is_first_image=is_first_image)
                         if image is not None:
                             break
                     except Exception as img_error:
@@ -669,6 +724,20 @@ def lambda_handler(event, context):
                     image_name = f'{safe_title}_image_{i}_{date_str}.png'
                     image_url = save_image_to_s3(image, image_name)
                     image_urls.append(image_url)
+                    
+                    # Store the first generated image
+                    if i == 1:
+                        first_image = image
+                        
+                    # Update the payload with the first image for subsequent generations
+                    if i > 1 and first_image is not None:
+                        payload = {
+                            "init_image": base64.b64encode(first_image.getvalue()).decode('utf-8'),
+                            "init_image_mode": "IMAGE_STRENGTH",
+                            "image_strength": 0.35
+                        }
+                        # Update the generate_image function call to include the payload
+                        image = generate_image(english_story_parts, part, style, selected_culture, part_number=i, is_first_image=False, additional_payload=payload)
                 else:
                     print(f"Failed to generate image for part {i} after 3 attempts.")
                     raise Exception(f"Failed to generate image for part {i}")
