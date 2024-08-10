@@ -152,6 +152,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
             }
         }
 
+        // Update loadStory function to refresh content after save
         async function loadStory(key) {
             showLoading('Loading story...');
             currentStoryKey = key;
@@ -183,7 +184,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
             
             try {
                 console.log('Sending update request to Lambda function...');
-                const updateResponse = await fetch(lambdaUrl, {
+                await fetch(lambdaUrl, {
                     method: 'POST',
                     mode: 'no-cors',
                     headers: {
@@ -211,7 +212,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                     alert('Changes saved successfully!');
                 } else {
                     console.log('Verification failed: Updated content does not match');
-                    alert('Save operation may have failed. Please check your password and try again.');
+                    alert('Save operation may have failed. Please check your content and try again.');
                 }
             } catch (error) {
                 console.error('Error during save operation:', error);

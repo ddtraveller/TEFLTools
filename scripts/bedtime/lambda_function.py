@@ -17,6 +17,7 @@ import traceback
 from lark import Lark, Transformer
 from gtts import gTTS
 import sys
+import anthropic
 
 # Set up paths (assuming the script is in the same directory as the JSON files)
 SCRIPT_DIR = Path(__file__).resolve().parent
