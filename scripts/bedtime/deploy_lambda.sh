@@ -72,6 +72,7 @@ mkdir -p "${TEMP_DIR}"
 cp "${SCRIPT_DIR}/lambda_function.py" "${TEMP_DIR}/"
 cp "${SCRIPT_DIR}"/*.json "${TEMP_DIR}/"
 cp "${SCRIPT_DIR}/story_prompt.txt" "${TEMP_DIR}/"
+cp "${SCRIPT_DIR}/random_elements.json" "${TEMP_DIR}/"
 
 # Create a requirements.txt file
 cat << EOF > "${TEMP_DIR}/requirements.txt"

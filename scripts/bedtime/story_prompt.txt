@@ -2,7 +2,7 @@ Human: Write a creative bedtime story of 1200-1600 words long about {story_seed}
     
     Additionally, incorporate random elements from this text into your story: '{seed_file}'
     
-    The story should be suitable for young children and have a clear beginning, middle, and end. Please provide the story in four or more parts, each around 300-300-400 words long. Also, provide a short title for the story.
+    The story should be suitable for children and have a clear beginning, middle, and ending. Make sure the beginning, middle and end of the story are related to each other. Please provide the story in four or more parts, each around 300-400 words long. Also, provide a short title for the story.
     
     After generating the story in English, translate it to Tetun. When translating, please consider the following Tetun grammar rules:
     

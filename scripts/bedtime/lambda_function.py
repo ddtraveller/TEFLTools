@@ -10,7 +10,7 @@ import base64
 import re
 import tiktoken
 from pathlib import Path
-from random import choice
+from random import choice, shuffle
 import colorsys
 import time
 import traceback
@@ -24,6 +24,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 DICT_FILE = SCRIPT_DIR / 'dictionary.json'
 PHRASES_FILE = SCRIPT_DIR / 'phrases.json'
 COMPOUND_FILE = SCRIPT_DIR / 'compound.json'
+RANDOM_ELEMENTS_FILE = SCRIPT_DIR / 'random_elements.json'
 
 TIMOR_LESTE_CULTURES = [
     {"people": "Tetum"},
@@ -33,6 +34,13 @@ TIMOR_LESTE_CULTURES = [
     {"people": "Kemak"},
     {"people": "Baikeno"}
 ]
+
+# Load random elements from file
+def load_random_elements():
+    with open(RANDOM_ELEMENTS_FILE, 'r') as file:
+        elements = json.load(file)
+    shuffle(elements)  # Shuffle the elements
+    return elements
 
 def generate_sound(text, filename):
     # Replace apostrophes with empty strings
@@ -424,116 +432,9 @@ def generate_story(seed_file, story_prompt_template):
                 phrases_content = f.read()
             with open(COMPOUND_FILE, 'r', encoding='utf-8') as f:
                 compound_content = f.read()
-
-            # Reintroducing the random story seeds
-            random_elements = [
-          "A child befriends a magical creature unique to Timor-Leste",
-          "An adventure in a fantastic landscape inspired by Timor-Leste's geography",
-          "A heartwarming moment between family members or friends",
-          "An unexpected discovery in an ordinary place",
-          "Meeting a character with an unusual appearance or ability",
-          "Learning wisdom from an elder under a special tree",
-          "Encountering a mythical animal in the mountains",
-          "Witnessing an everyday animal transform into something extraordinary",
-          "A clever character uses a magical object",
-          "Finding hope and new beginnings after facing difficulties",
-          "Animals working together like humans to solve a problem",
-          "A powerful being doing everyday tasks",
-          "Two unlikely friends overcoming obstacles together",
-          "Finding balance between opposites in nature",
-          "A child learns important lessons from a wise, ancient being",
-          "A magical entity appears from a natural feature of Timor-Leste",
-          "Discovering a hidden, magical place in the village",
-          "A common object grants an amazing power",
-          "Receiving a special tool or gift from a mystical source",
-          "A kind spirit helps someone who is lost",
-          "Toys come to life for a nighttime adventure",
-          "Learning an important lesson from animal friends",
-          "Overcoming a challenge to become stronger or wiser",
-          "Befriending a misunderstood creature",
-          "An animal protects something precious to the community",
-          "Finding something magical while working in the fields",
-          "Animals gather for an important meeting",
-          "A piece of art becomes real through magic",
-          "Learning life lessons from hardworking insects",
-          "Watching magical beings create stars and planets",
-          "Objects in the house have secret lives at night",
-          "Music that has the power to change nature",
-          "A child's imagination brings shadows to life",
-          "An old tree shares stories with those who listen",
-          "Kind actions are rewarded by grateful spirits",
-          "A small, brave animal becomes a hero",
-          "A special object chooses its rightful owner",
-          "Learning to use the powers of nature responsibly",
-          "Celebrating with both humans and magical beings",
-          "Making wishes that come true in unexpected ways",
-          "Learning traditional skills from magical teachers",
-          "A tiny, glowing insect guides the way through darkness",
-          "Finding an object that can change the weather",
-          "Learning to move quietly from Timor-Leste's animals",
-          "Small creatures working as a team to do something big",
-          "Discovering a tiny world inside an everyday object",
-          "Gaining wisdom from the spirits of nature",
-          "Finding an object that shows hidden truths",
-          "Household items come to life to help with chores",
-          "Learning to talk with plants and animals",
-          "A magic item helps someone find their true calling",
-          "Timor-Leste's fireflies help guide lost travelers",
-          "Learning courage from the smallest of creatures",
-          "A traditional object grants the ability to fly",
-          "Guardian spirits protect their village from harm",
-          "Discovering a secret passage that leads to the center of the Earth",
-          "Meeting a friendly cloud that can change shapes and tell stories",
-          "Finding a magical seashell that lets you breathe underwater",
-          "Befriending a group of talking raindrops during the wet season",
-          "A child's drawing comes to life and leads them on an adventure",
-          "Uncovering an ancient board game that affects real-life events",
-          "Meeting the guardian of dreams who needs help defeating nightmares",
-          "Finding a pair of shoes that can walk on any surface, even air",
-          "Discovering a hidden valley where extinct animals still roam",
-          "A magic kite that can fly to different parts of the world",
-          "Befriending a group of musical stones that play enchanting melodies",
-          "Finding a telescope that can see into parallel universes",
-          "Meeting the keeper of lost things and helping return items to their owners",
-          "Discovering a fruit that grants the ability to understand all languages",
-          "A magical photo album that allows travel into pictures",
-          "Finding a set of marbles that each contain miniature worlds",
-          "Meeting the spirit of the wind and learning to control weather",
-          "Uncovering a mystical library where books write themselves",
-          "A enchanted pencil that brings drawings to life temporarily",
-          "Discovering a cave that leads to the land of forgotten memories",
-          "Finding a magical spyglass that can see through time",
-          "Meeting the caretaker of seasons and helping balance the year",
-          "A set of building blocks that can construct full-size structures",
-          "Discovering a hidden garden where plants grant different abilities",
-          "Finding a compass that points to whatever you're seeking",
-          "Meeting the guardian of colors and helping repaint the world",
-          "A magical cooking pot that can create any dish imaginable",
-          "Uncovering an ancient map that changes based on the reader's thoughts",
-          "Finding a pair of glasses that can see invisible creatures",
-          "Discovering a hidden carnival where mythical beings celebrate",
-          "A enchanted puppet theater where stories come to life",
-          "Meeting the keeper of echoes and learning the secrets of sound",
-          "Finding a magical loom that weaves dreams into reality",
-          "Discovering a underground network of tunnels connecting all of Timor-Leste",
-          "A magical magnifying glass that can shrink or enlarge objects",
-          "Meeting the spirit of the mountains and learning about earth's history",
-          "Finding a set of keys that can open portals to different time periods",
-          "Uncovering a hidden workshop where ideas are turned into inventions",
-          "A enchanted flute that can control plants and make them grow",
-          "Discovering a secret society of animals that maintain nature's balance",
-          "Finding a magical paintbrush that can alter reality with each stroke",
-          "Meeting the guardian of the night sky and helping arrange constellations",
-          "A set of dominos that can create chain reactions affecting real events",
-          "Uncovering a hidden room where you can try out different lives",
-          "Finding a magical perfume that can evoke any memory or emotion",
-          "Discovering a secret school where everyday objects learn to be magical",
-          "A enchanted calendar where you can visit any day in history",
-          "Meeting the keeper of stories and helping create new tales",
-          "Finding a set of crayons that can color real-life scenes",
-          "Uncovering a hidden festival where day and night trade places"          
-            ]
-
+                
+            # Load random elements
+            random_elements = load_random_elements()
             story_seed = random.choice(random_elements)
             
             # Format the prompt template
@@ -619,9 +520,9 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
             {"text": part, "weight": 1},
             {"text": full_story, "weight": 0.75},
             {"text": culture_prompt, "weight": 0.75},
-            {"text": consistency_prompt, "weight": 1},
+            {"text": consistency_prompt, "weight": 1.5},
         ],
-        "cfg_scale": 19,
+        "cfg_scale": 17,
         "clip_guidance_preset": "FAST_BLUE",
         "height": 576,
         "width": 1024,
