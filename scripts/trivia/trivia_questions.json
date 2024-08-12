@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital city of Timor-Leste?",
+    "options": ["Dili", "Baucau", "Suai", "Maliana"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In which year did Timor-Leste gain independence?",
+    "options": ["1999", "2002", "1975", "2005"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the official currency of Timor-Leste?",
+    "options": ["Timor Leste Dollar", "Euro", "US Dollar", "Indonesian Rupiah"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which country occupied Timor-Leste from 1975 to 1999?",
+    "options": ["Australia", "Portugal", "Indonesia", "Japan"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the official name of Timor-Leste in Portuguese?",
+    "options": ["República Democrática de Timor-Leste", "Estado de Timor-Leste", "Nação de Timor-Leste", "Timor Oriental"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which body of water lies to the north of Timor-Leste?",
+    "options": ["Timor Sea", "Banda Sea", "Arafura Sea", "Java Sea"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the highest mountain in Timor-Leste?",
+    "options": ["Mount Ramelau", "Mount Matebian", "Mount Cablaki", "Mount Tatamailau"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of these is an official language of Timor-Leste?",
+    "options": ["English", "Indonesian", "Portuguese", "French"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What percentage of Timor-Leste's population is Roman Catholic?",
+    "options": ["About 50%", "About 70%", "About 90%", "About 30%"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which country shares a land border with Timor-Leste?",
+    "options": ["Australia", "Indonesia", "Papua New Guinea", "Malaysia"],
+    "correctAnswer": 1
+  }
+]

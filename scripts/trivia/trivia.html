@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade School Trivia Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        #question {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        #options {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+        button {
+            padding: 10px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        #result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        #score {
+            margin-top: 20px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Grade School Trivia Game</h1>
+    <div id="question"></div>
+    <div id="options"></div>
+    <div id="result"></div>
+    <div id="score">Score: <span id="scoreValue">0</span></div>
+    <button id="nextQuestion" style="display: none;">Next Question</button>
+
+    <script>
+        let questions = [];
+        let currentQuestionIndex = 0;
+        let score = 0;
+
+        async function loadQuestions() {
+            try {
+                const response = await fetch('trivia_questions.json');
+                questions = await response.json();
+                showQuestion();
+            } catch (error) {
+                console.error('Error loading questions:', error);
+                document.getElementById('question').textContent = 'Error loading questions. Please try again later.';
+            }
+        }
+
+        function showQuestion() {
+            const question = questions[currentQuestionIndex];
+            document.getElementById('question').textContent = question.question;
+            const optionsContainer = document.getElementById('options');
+            optionsContainer.innerHTML = '';
+            question.options.forEach((option, index) => {
+                const button = document.createElement('button');
+                button.textContent = option;
+                button.onclick = () => checkAnswer(index);
+                optionsContainer.appendChild(button);
+            });
+            document.getElementById('result').textContent = '';
+            document.getElementById('nextQuestion').style.display = 'none';
+        }
+
+        function checkAnswer(selectedIndex) {
+            const question = questions[currentQuestionIndex];
+            const resultElement = document.getElementById('result');
+            const buttons = document.querySelectorAll('#options button');
+            buttons.forEach(button => button.disabled = true);
+
+            if (selectedIndex === question.correctAnswer) {
+                resultElement.textContent = 'Correct!';
+                resultElement.style.color = 'green';
+                score++;
+            } else {
+                resultElement.textContent = `Sorry, the correct answer was: ${question.options[question.correctAnswer]}`;
+                resultElement.style.color = 'red';
+            }
+
+            document.getElementById('scoreValue').textContent = score;
+            document.getElementById('nextQuestion').style.display = 'block';
+        }
+
+        document.getElementById('nextQuestion').addEventListener('click', () => {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < questions.length) {
+                showQuestion();
+            } else {
+                document.getElementById('question').textContent = 'Game Over!';
+                document.getElementById('options').innerHTML = '';
+                document.getElementById('result').textContent = `Final Score: ${score} out of ${questions.length}`;
+                document.getElementById('nextQuestion').style.display = 'none';
+            }
+        });
+
+        loadQuestions();
+    </script>
+</body>
+</html>
