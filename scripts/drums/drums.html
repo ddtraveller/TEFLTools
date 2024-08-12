@@ -110,33 +110,33 @@
     </div>
     <div id="sequencer"></div>
     <div id="transportControls">
-        <button id="playPause">Play</button>
-        <button id="stop">Stop</button>
-        <button id="clear">Clear</button>
+        <button id="playPause">Jogus</button>
+        <button id="stop">Para</button>
+        <button id="clear">Klaru</button>
     </div>
-    <button id="instructionsToggle">Show Instructions</button>
+    <button id="instructionsToggle">Hatudu Instrusaun sira</button>
     <div id="instructions">
-        <h2>How to Use the Drum Machine</h2>
+        <h2>Oinsá atu uza mákina bateria</h2>
         <ul>
-            <li>Click on the drum pads to play sounds manually.</li>
-            <li>Click on the sequencer grid to create a pattern. Each row is a different drum sound, each column is a step in the sequence.</li>
-            <li>Use the Play/Pause button to start or pause the sequence playback.</li>
-            <li>Use the Stop button to stop playback and reset to the beginning.</li>
-            <li>Use the Clear button to refresh the page and start over.</li>
-            <li>Adjust the tempo slider to change the playback speed.</li>
-            <li>Use the volume slider to adjust the overall volume.</li>
+             <li>Klik iha drum pads atu toka lian sira manualmente.</li>
+             <li>Klik iha grella sekuensiadór nian hodi kria padraun ida. Liña ida-idak maka lian tambor nian ne'ebé diferente, koluna ida-idak maka pasu ida iha sekuénsia.</li>
+             <li>Uza butaun Reprodusaun/Pauza atu hahú ka pauza reprodusaun sekuénsia nian.</li>
+             <li>Uza butaun Para atu hapara reprodusaun no reseta fali ba inísiu.</li>
+             <li>Uza butaun Hamoos atu hafoun pájina no hahú fali.</li>
+             <li>Ajusta slider tempo nian hodi muda velosidade reprodusaun nian.</li>
+             <li>Uza slider volume nian hodi ajusta volume tomak.</li>
         </ul>
     </div>
 
     <script>
         const drumSounds = [
-            { name: 'Kick', sound: 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3', color: '#ff0000' },
+            { name: 'Tebe', sound: 'https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3', color: '#ff0000' },
             { name: 'Snare', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Brk_Snr.mp3', color: '#00ff00' },
             { name: 'Hi-Hat', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3', color: '#0000ff' },
             { name: 'Open HH', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3', color: '#000000' },
-            { name: 'Clap', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3', color: '#ff00ff' },
+            { name: 'Basa liman', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3', color: '#ff00ff' },
             { name: 'Tom', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Chord_1.mp3', color: '#00ffff' },
-            { name: 'Crash', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Give_us_a_light.mp3', color: '#ffa500' },
+            { name: 'Monu', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Give_us_a_light.mp3', color: '#ffa500' },
             { name: 'Perc', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Dry_Ohh.mp3', color: '#800080' },
             { name: 'FX 1', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3', color: '#ff69b4' },
             { name: 'FX 2', sound: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3', color: '#32cd32' },

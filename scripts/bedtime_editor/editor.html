@@ -6,78 +6,147 @@
     <title>Editór Istória nian</title>
     <link rel="icon" href="https://tl-web.s3.us-west-2.amazonaws.com/images/flag.jpg" type="image/png">    
     <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1386.0.min.js"></script>
-    <style>
+<style>
+    body {
+        font-family: 'Lato', Arial, sans-serif;
+        line-height: 1.6;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+        background-color: black;
+        box-sizing: border-box;
+        min-height: 100vh;
+        overflow-x: hidden;
+        position: relative;
+    }
+    .container {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    h1, h2 {
+        color: #ffcd00;
+        border-bottom: 2px solid #ffcd00;
+        padding-bottom: 10px;
+    }
+    .section {
+        margin-bottom: 30px;
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+    }
+    .card {
+        background-color: rgba(255, 255, 255, 0.1);
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 15px;
+        transition: transform 0.3s ease;
+    }
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 5px 15px rgba(255,255,255,0.1);
+    }
+    .card h3 {
+        margin-top: 0;
+        color: #ffcd00;
+    }
+    a {
+        color: #ffcd00;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    a:hover {
+        color: #cc0000;
+    }
+    .header {
+        background-color: #cc0000;
+        color: #fff;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    .header h1 {
+        color: #fff;
+        border-bottom: none;
+        margin: 0;
+    }
+    .footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        margin-top: 20px;
+    }
+    #editorForm {
+        display: none;
+        width: 100%;
+        box-sizing: border-box;
+    }
+    #storyContent {
+        width: 100%;
+        height: 300px;
+        margin-bottom: 10px;
+        resize: vertical;
+        box-sizing: border-box;
+        background-color: #222;
+        color: #fff;
+        border: 1px solid #ffcd00;
+        padding: 10px;
+    }
+    #saveButton {
+        background-color: #cc0000;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    #saveButton:hover {
+        background-color: #ff0000;
+    }
+    .loading {
+        text-align: center;
+        font-size: 18px;
+        margin-top: 20px;
+        color: #ffcd00;
+    }
+    #passwordField {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 10px;
+        background-color: #222;
+        color: #fff;
+        border: 1px solid #ffcd00;
+        box-sizing: border-box;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .grid {
+            grid-template-columns: 1fr;
+        }
+        .container {
+            padding: 10px;
+        }
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
+            font-size: 14px;
         }
         h1 {
-            color: #2c3e50;
-            text-align: center;
+            font-size: 24px;
         }
-        #story-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 20px;
-            padding: 0;
+        h2 {
+            font-size: 20px;
         }
-        .story-item {
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            overflow: hidden;
-            transition: transform 0.3s ease;
-        }
-        .story-item:hover {
-            transform: translateY(-5px);
-        }
-        .story-item a {
-            display: block;
-            padding: 20px;
-            color: #3498db;
-            text-decoration: none;
-            text-align: center;
-            height: 100%;
-            box-sizing: border-box;
-        }
-        #editor {
-            display: none;
-            margin-top: 20px;
-        }
-        #editor textarea {
-            width: 100%;
-            height: 300px;
-            margin-bottom: 10px;
-        }
-        #saveButton {
-            background-color: #3498db;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            cursor: pointer;
-            font-size: 16px;
-        }
-        #saveButton:hover {
-            background-color: #2980b9;
-        }
-        .loading {
-            text-align: center;
-            font-size: 18px;
-            margin-top: 20px;
-        }
-        #passwordField {
-            margin-bottom: 10px;
-            padding: 5px;
-            width: 200px;
-        }
-        #editorForm {
-            display: none;
-        }
-    </style>
+    }
+</style>
 </head>
 <body>
     <h1>Editór Istória nian</h1>
@@ -86,8 +155,8 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
     <form id="editorForm">
         <textarea id="storyContent"></textarea>
         <p></p>
-        <input type="password" id="passwordField" placeholder="Enter password">
-        <button type="submit" id="saveButton">Save Changes</button>
+        <input type="password" id="passwordField" placeholder="Hatama senha">
+        <button type="submit" id="saveButton">Rai Mudansa sira</button>
     </form>
     <div id="story-grid"></div>
     <script>
@@ -161,6 +230,9 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 
                 document.getElementById('storyContent').value = content;
                 document.getElementById('editorForm').style.display = 'block';
+                
+                // Scroll to the editor form
+                document.getElementById('editorForm').scrollIntoView({ behavior: 'smooth' });
             } catch (error) {
                 console.error('Error loading story:', error);
                 alert(`Failed to load story. Error: ${error.message}`);
