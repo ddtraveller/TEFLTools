@@ -225,6 +225,15 @@
             }
         }
 
+        function createStar() {
+            const star = document.createElement('div');
+            star.className = 'star';
+            star.style.left = `${Math.random() * window.innerWidth}px`;
+            star.style.top = `${Math.random() * window.innerHeight}px`;
+            star.style.animation = `fall ${Math.random() * 5 + 5}s linear infinite`;
+            document.body.appendChild(star);
+        }
+
         let starInterval;
         const starSlider = document.getElementById('starSlider');
 
@@ -264,18 +273,18 @@
     loadQuestions();
 
     starSlider.addEventListener('input', updateStars);
-        updateStars();
-    
-        // Add falling animation
-        const style = document.createElement('style');
-        style.textContent = `
-            @keyframes fall {
-                to {
-                    transform: translateY(100vh);
-                }
+    updateStars();
+
+    // Add falling animation
+    const style = document.createElement('style');
+    style.textContent = `
+        @keyframes fall {
+            to {
+                transform: translateY(100vh);
             }
-        `;
-        document.head.appendChild(style);
+        }
+    `;
+    document.head.appendChild(style);
 </script>
 </body>
 </html>
