@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jogu Trivia Timor-Leste nian</title>
     <link rel="icon" href="https://tl-web.s3.us-west-2.amazonaws.com/images/flag.jpg" type="image/png">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -111,30 +113,30 @@
         <input type="range" id="starSlider" min="0" max="100" value="50">
     </div>
 
-    <script>
+     <script>
         let questions = [];
         let usedQuestions = new Set();
         let score = 0;
         let questionCount = 0;
-
+            
         const cheeringSounds = [
             'https://tl-web.s3.us-west-2.amazonaws.com/sounds/cheering-and-clapping-crowd.mp3',
             'https://tl-web.s3.us-west-2.amazonaws.com/sounds/crowd-clapping-100071.mp3',
             'https://tl-web.s3.us-west-2.amazonaws.com/sounds/crowd-cheering.mp3',
             'https://tl-web.s3.us-west-2.amazonaws.com/sounds/short-crowd-applause.mp3'
         ];
-
+    
         function playRandomCheeringSound() {
             const randomIndex = Math.floor(Math.random() * cheeringSounds.length);
             const audio = new Audio(cheeringSounds[randomIndex]);
             audio.play();
         }
-
+    
         async function loadQuestions() {
             try {
                 const response = await fetch('trivia_questions.json');
                 questions = await response.json();
-                showRandomQuestion();
+                initializeGame();
             } catch (error) {
                 console.error('Error loading questions:', error);
                 document.getElementById('pergunta').textContent = 'Erro iha loke pergunta sira. Favor koko fali.';
@@ -159,7 +161,6 @@
                 endGame();
                 return;
             }
-            questionCount++;
             document.getElementById('pergunta').textContent = question.pergunta;
             const optionsContainer = document.getElementById('options');
             optionsContainer.innerHTML = '';
@@ -171,14 +172,23 @@
             });
             document.getElementById('result').textContent = '';
             document.getElementById('nextQuestion').style.display = 'none';
-            document.getElementById('questionCount').textContent = questionCount;
+        }
+        
+        // Add this function to initialize the game
+        function initializeGame() {
+            score = 0;
+            questionCount = 0;
+            usedQuestions.clear();
+            document.getElementById('scoreValue').textContent = '0';
+            document.getElementById('questionCount').textContent = '0';
+            showRandomQuestion();
         }
 
         function checkAnswer(selectedIndex, question) {
             const resultElement = document.getElementById('result');
             const buttons = document.querySelectorAll('#options button');
             buttons.forEach(button => button.disabled = true);
-
+        
             if (selectedIndex === question["Resposta loos"]) {
                 resultElement.textContent = 'Loos!';
                 resultElement.style.color = '#4CAF50';
@@ -188,8 +198,10 @@
                 resultElement.textContent = `Deskulpa, resposta loos mak: ${question.options[question["Resposta loos"]]}`;
                 resultElement.style.color = '#e94560';
             }
-
+        
+            questionCount++;  // Increment the question count here
             document.getElementById('scoreValue').textContent = score;
+            document.getElementById('questionCount').textContent = questionCount;  // Update the displayed question count
             document.getElementById('nextQuestion').style.display = 'block';
         }
 
@@ -202,19 +214,15 @@
 
         document.getElementById('nextQuestion').addEventListener('click', showRandomQuestion);
 
-        loadQuestions();
-
-        // Falling stars animation
-        function createStar() {
-            const star = document.createElement('div');
-            star.className = 'star';
-            star.style.left = Math.random() * 100 + 'vw';
-            star.style.top = '-5px';
-            star.style.animationDuration = Math.random() * 3 + 2 + 's';
-            star.style.animationName = 'fall';
-            star.style.animationTimingFunction = 'linear';
-            star.style.animationIterationCount = 'infinite';
-            document.body.appendChild(star);
+        async function loadQuestions() {
+            try {
+                const response = await fetch('trivia_questions.json');
+                questions = await response.json();
+                initializeGame();
+            } catch (error) {
+                console.error('Error loading questions:', error);
+                document.getElementById('pergunta').textContent = 'Erro iha loke pergunta sira. Favor koko fali.';
+            }
         }
 
         let starInterval;
@@ -228,9 +236,36 @@
             }
         }
 
-        starSlider.addEventListener('input', updateStars);
-        updateStars();
+    function showLoading(message) {
+        const loadingDiv = document.createElement('div');
+        loadingDiv.id = 'loading';
+        loadingDiv.textContent = message;
+        loadingDiv.style.position = 'fixed';
+        loadingDiv.style.top = '50%';
+        loadingDiv.style.left = '50%';
+        loadingDiv.style.transform = 'translate(-50%, -50%)';
+        loadingDiv.style.background = 'rgba(0, 0, 0, 0.7)';
+        loadingDiv.style.color = 'white';
+        loadingDiv.style.padding = '20px';
+        loadingDiv.style.borderRadius = '10px';
+        loadingDiv.style.zIndex = '1000';
+        document.body.appendChild(loadingDiv);
+    }
 
+    function hideLoading() {
+        const loadingDiv = document.getElementById('loading');
+        if (loadingDiv) {
+            loadingDiv.remove();
+        }
+    }
+
+    document.getElementById('nextQuestion').addEventListener('click', showRandomQuestion);
+
+    loadQuestions();
+
+    starSlider.addEventListener('input', updateStars);
+        updateStars();
+    
         // Add falling animation
         const style = document.createElement('style');
         style.textContent = `
@@ -241,6 +276,6 @@
             }
         `;
         document.head.appendChild(style);
-    </script>
+</script>
 </body>
 </html>
