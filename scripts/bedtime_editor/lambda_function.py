@@ -3,6 +3,7 @@ import boto3
 from botocore.exceptions import ClientError
 from bs4 import BeautifulSoup
 import os
+import hashlib
 
 s3 = boto3.client('s3')
 BUCKET_NAME = 'tl-web'
@@ -13,82 +14,21 @@ ALLOWED_PASSWORDS = [pwd.strip() for pwd in os.environ.get('ALLOWED_PASSWORDS', 
 print(f"Allowed passwords (masked): {['*' * len(pwd) for pwd in ALLOWED_PASSWORDS]}")
 
 def lambda_handler(event, context):
-    # Get the origin from the request
-    origin = event.get('headers', {}).get('origin') or event.get('headers', {}).get('Origin')
-    
-    # Set CORS headers
-    headers = {
-        'Access-Control-Allow-Headers': 'Content-Type',
-        'Access-Control-Allow-Methods': 'OPTIONS,POST,GET'
-    }
-    
-    # Set the Access-Control-Allow-Origin header only if the origin is allowed
-    if origin in ALLOWED_ORIGINS:
-        headers['Access-Control-Allow-Origin'] = origin
-    
-    # Handle preflight request
-    if event.get('requestContext', {}).get('http', {}).get('method') == 'OPTIONS':
-        return {
-            'statusCode': 200,
-            'headers': headers,
-            'body': json.dumps('OK')
-        }
-    
     try:
-        # Parse the incoming request body
         body = json.loads(event.get('body', '{}'))
         action = body.get('action')
-        
+
         if action == 'update':
-            key = body.get('key')
-            content = body.get('content')
-            
-            if not key or not content:
-                raise ValueError("Missing key or content in the request")
-            
-            # Update the S3 object
-            update_story(body, headers)
-            
-            print(f"Story updated successfully: {STORIES_PREFIX + key}")
-            
-            return {
-                'statusCode': 200,
-                'headers': headers,
-                'body': json.dumps('Story updated successfully')
-            }
+            return update_story(body)
         else:
             return {
                 'statusCode': 400,
-                'headers': headers,
-                'body': json.dumps('Invalid action')
+                'body': json.dumps({'message': 'Invalid action'})
             }
-    except json.JSONDecodeError:
-        print("Error: Invalid JSON in request body")
-        return {
-            'statusCode': 400,
-            'headers': headers,
-            'body': json.dumps('Invalid JSON in request body')
-        }
-    except ValueError as ve:
-        print(f"Error: {str(ve)}")
-        return {
-            'statusCode': 400,
-            'headers': headers,
-            'body': json.dumps(f'Bad Request: {str(ve)}')
-        }
-    except ClientError as e:
-        print(f"Error updating S3: {str(e)}")
-        return {
-            'statusCode': 500,
-            'headers': headers,
-            'body': json.dumps(f'Error updating S3: {str(e)}')
-        }
     except Exception as e:
-        print(f"Unexpected error: {str(e)}")
         return {
             'statusCode': 500,
-            'headers': headers,
-            'body': json.dumps(f'Internal Server Error: {str(e)}')
+            'body': json.dumps({'message': f'Internal Server Error: {str(e)}'})
         }
 
 def get_story(event, headers):
@@ -120,62 +60,41 @@ def get_story(event, headers):
             'body': json.dumps('Story not found')
         }
 
-def update_story(body, headers):
+def update_story(body):
     key = body.get('key')
     content = body.get('content')
     password = body.get('password')
-    
-    print(f"Attempting to update story: {key}")
-    
+
     if not key or not content or not password:
-        print("Missing key, content, or password in the request")
         return {
             'statusCode': 400,
-            'headers': headers,
-            'body': json.dumps({'message': 'Missing key, content, or password in the request'})
+            'body': json.dumps({'message': 'Missing key, content, or password'})
         }
-    
-    # Check password with exact match
-    password_valid = False
-    for allowed_password in ALLOWED_PASSWORDS:
-        if password == allowed_password:
-            password_valid = True
-            break
-    
-    print(f"Password check result: {'Valid' if password_valid else 'Invalid'}")
-    
-    if not password_valid:
-        print("Invalid password provided")
+
+    if password not in ALLOWED_PASSWORDS:
         return {
             'statusCode': 403,
-            'headers': headers,
             'body': json.dumps({'message': 'Invalid password'})
         }
-    
-    # Check if the file name starts with 'bedtime' and ends with '.html'
+
     if not (key.lower().startswith('bedtime') and key.lower().endswith('.html')):
-        print(f"Invalid file name: {key}")
         return {
             'statusCode': 400,
-            'headers': headers,
             'body': json.dumps({'message': 'Invalid file name. Only bedtime stories with .html extension are allowed.'})
         }
-    
+
     try:
-        # Update the S3 object
         s3.put_object(Bucket=BUCKET_NAME, Key=STORIES_PREFIX + key, Body=content, ContentType='text/html')
         
-        print(f"Story updated successfully: {STORIES_PREFIX + key}")
+        # Calculate MD5 hash of the uploaded content
+        md5_hash = hashlib.md5(content.encode()).hexdigest()
         
         return {
             'statusCode': 200,
-            'headers': headers,
-            'body': json.dumps({'message': 'Story updated successfully'})
+            'body': json.dumps({'message': 'Story updated successfully', 'md5': md5_hash})
         }
-    except ClientError as e:
-        print(f"Error updating S3: {str(e)}")
+    except Exception as e:
         return {
             'statusCode': 500,
-            'headers': headers,
             'body': json.dumps({'message': f'Error updating S3: {str(e)}'})
         }

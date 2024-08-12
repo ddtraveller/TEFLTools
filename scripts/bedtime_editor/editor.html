@@ -95,21 +95,21 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
         const storiesPrefix = 'stories/';
         const lambdaUrl = 'https://ql5goyju5xaphafwhegyj6ymke0sjwjm.lambda-url.us-west-2.on.aws/';
         let currentStoryKey = '';
-
+        
         function showLoading(message) {
             const loadingDiv = document.createElement('div');
             loadingDiv.className = 'loading';
             loadingDiv.textContent = message;
             document.body.appendChild(loadingDiv);
         }
-
+        
         function hideLoading() {
             const loadingDiv = document.querySelector('.loading');
             if (loadingDiv) {
                 loadingDiv.remove();
             }
         }
-
+        
         async function fetchStories() {
             showLoading('Loading bedtime stories...');
             try {
@@ -123,7 +123,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                     .map(item => item.getElementsByTagName('Key')[0].textContent)
                     .filter(key => key.endsWith('.html') && key.toLowerCase().includes('bedtime'))
                     .map(key => key.replace(storiesPrefix, ''));
-
+        
                 const storyGrid = document.getElementById('story-grid');
                 storyGrid.innerHTML = '';
                 
@@ -151,8 +151,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 hideLoading();
             }
         }
-
-        // Update loadStory function to refresh content after save
+        
         async function loadStory(key) {
             showLoading('Loading story...');
             currentStoryKey = key;
@@ -169,7 +168,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 hideLoading();
             }
         }
-
+        
         document.getElementById('editorForm').addEventListener('submit', async (e) => {
             e.preventDefault();
             showLoading('Saving changes...');
@@ -183,10 +182,8 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
             }
             
             try {
-                console.log('Sending update request to Lambda function...');
-                await fetch(lambdaUrl, {
+                const response = await fetch(lambdaUrl, {
                     method: 'POST',
-                    mode: 'no-cors',
                     headers: {
                         'Content-Type': 'application/json',
                     },
@@ -197,22 +194,14 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                         password: password
                     }),
                 });
-                
-                console.log('Update request sent');
-                
-                // Wait for a short time to allow the update to propagate
-                await new Promise(resolve => setTimeout(resolve, 2000));
-                
-                // Verify the update by fetching the story again
-                const verifyResponse = await fetch(bucketUrl + storiesPrefix + currentStoryKey);
-                const updatedContent = await verifyResponse.text();
-                
-                if (updatedContent === content) {
-                    console.log('Verification successful: Story content matches');
-                    alert('Changes saved successfully!');
+        
+                const result = await response.json();
+        
+                if (response.ok) {
+                    console.log('Update request sent successfully');
+                    alert(result.message);  // Display the success message from Lambda
                 } else {
-                    console.log('Verification failed: Updated content does not match');
-                    alert('Save operation may have failed. Please check your content and try again.');
+                    alert(`Failed to save changes: ${result.message}`);  // Display the error message from Lambda
                 }
             } catch (error) {
                 console.error('Error during save operation:', error);
@@ -221,7 +210,16 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 hideLoading();
             }
         });
-
+        
+        // This function is no longer used in the simplified version, but I'm including it for completeness
+        async function calculateMD5(content) {
+            const encoder = new TextEncoder();
+            const data = encoder.encode(content);
+            const hashBuffer = await crypto.subtle.digest('MD5', data);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        }
+        
         // Load stories when the page loads
         fetchStories();
     </script>
