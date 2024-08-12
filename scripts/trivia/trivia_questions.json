@@ -1,52 +1,592 @@
 [
   {
-    "question": "What is the capital city of Timor-Leste?",
+    "pergunta": "Saida mak sidade kapitál Timor-Leste nian?",
     "options": ["Dili", "Baucau", "Suai", "Maliana"],
-    "correctAnswer": 0
+    "Resposta loos": 0
   },
   {
-    "question": "In which year did Timor-Leste gain independence?",
+    "pergunta": "Iha tinan saida maka Timor-Leste hetan ukun-an?",
     "options": ["1999", "2002", "1975", "2005"],
-    "correctAnswer": 1
+    "Resposta loos": 1
   },
   {
-    "question": "What is the official currency of Timor-Leste?",
-    "options": ["Timor Leste Dollar", "Euro", "US Dollar", "Indonesian Rupiah"],
-    "correctAnswer": 2
+    "pergunta": "Moeda ofisiál Timor-Leste nian saida?",
+    "options": ["Dólar Timor Leste", "Euro", "Dólar Amerikanu", "Rupiah Australia"],
+    "Resposta loos": 2
   },
   {
-    "question": "Which country occupied Timor-Leste from 1975 to 1999?",
-    "options": ["Australia", "Portugal", "Indonesia", "Japan"],
-    "correctAnswer": 2
-  },
-  {
-    "question": "What is the official name of Timor-Leste in Portuguese?",
+    "pergunta": "Saida maka naran ofisiál Timor-Leste nian iha lian Portugal?",
     "options": ["República Democrática de Timor-Leste", "Estado de Timor-Leste", "Nação de Timor-Leste", "Timor Oriental"],
-    "correctAnswer": 0
+    "Resposta loos": 0
   },
   {
-    "question": "Which body of water lies to the north of Timor-Leste?",
-    "options": ["Timor Sea", "Banda Sea", "Arafura Sea", "Java Sea"],
-    "correctAnswer": 1
+    "pergunta": "Bee-matan ida-ne'ebé maka hela iha parte norte Timor-Leste nian?",
+    "options": ["Tasi Timor", "Tasi Banda", "Tasi Arafura", "Tasi Java"],
+    "Resposta loos": 1
   },
   {
-    "question": "What is the highest mountain in Timor-Leste?",
+    "pergunta": "Saida mak foho aas liu iha Timor-Leste?",
     "options": ["Mount Ramelau", "Mount Matebian", "Mount Cablaki", "Mount Tatamailau"],
-    "correctAnswer": 0
+    "Resposta loos": 0
   },
   {
-    "question": "Which of these is an official language of Timor-Leste?",
-    "options": ["English", "Indonesian", "Portuguese", "French"],
-    "correctAnswer": 2
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka sai nu'udar lian ofisiál Timor-Leste nian?",
+    "options": ["Ingles", "Australia", "Portugal", "Franses"],
+    "Resposta loos": 2
   },
   {
-    "question": "What percentage of Timor-Leste's population is Roman Catholic?",
-    "options": ["About 50%", "About 70%", "About 90%", "About 30%"],
-    "correctAnswer": 2
+    "pergunta": "Porsentajen hira hosi populasaun Timor-Leste nian maka sarani Katóliku Romanu?",
+    "options": ["Besik 50%", "Besik 70%", "Besik 90%", "Besik 30%"],
+    "Resposta loos": 2
   },
   {
-    "question": "Which country shares a land border with Timor-Leste?",
-    "options": ["Australia", "Indonesia", "Papua New Guinea", "Malaysia"],
-    "correctAnswer": 1
+    "pergunta": "Nasaun ida-ne'ebé maka fahe fronteira terrestre ho Timor-Leste?",
+    "options": ["Austrália", "Indonesia", "Papua Nova Guiné", "Malázia"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Totál luan rai Timor-Leste nian hira?",
+    "options": ["14,874 km2", "20,123 km2", "5,743 km2", "32,456 km2"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka LA'OS distritu ida iha Timor-Leste?",
+    "options": ["Baucau", "Bobonaro", "Lautem", "Sumatra"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Saida maka ai-funan nasionál Timor-Leste nian?",
+    "options": ["Hibiscus", "Orchid", "Rose", "Jasmine"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Animál tasi famozu ida-ne'ebé maka dalabarak ita haree iha tasi-ibun Timor-Leste nian?",
+    "options": ["Tubaraun Mutin Boot", "Baleia Azul", "Dugong", "Krokodil Bee Masin nian"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Parlamentu nasionál Timor-Leste nian naran saida?",
+    "options": ["Kongresu Nasionál", "Asembleia Populár", "Parlamentu Nasionál", "Kámara Reprezentante sira"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Ai-horis ida-ne'ebé maka sai nu'udar esportasaun boot Timor-Leste nian?",
+    "options": ["Batar", "Kafé", "Xá", "Banana"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Estreitu ne'ebé haketak Timor-Leste hosi Austrália nia naran saida?",
+    "options": ["Estreitu Torres", "Estreitu Timor", "Estreitu Wetar", "Estreitu Ombai"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi animál sira-ne'e ida-ne'ebé maka endémiku iha Timor-Leste?",
+    "options": ["Rusa Timor", "Tigre Sumatra", "Orangutan Borneu", "rinoceronte Java"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Saida maka relijiaun dominante iha Timor-Leste?",
+    "options": ["Islaun", "Budizmu", "Hinduizmu", "Katolisizmu Romanu"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Nasaun ida-ne'ebé maka administra Timor-Leste nu'udar kolónia to'o 1975?",
+    "options": ["España", "Olanda", "Portugal", "Reinu Unidu"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Aeroportu internasionál prinsipál Timor-Leste nian naran saida?",
+    "options": ["Aeroportu Internasionál Dili", "Aeroportu Baucau", "Aeroportu Internasionál Prezidente Nicolau Lobato", "Aeroportu Suai"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka nu'udar kilat tradisionál Timor-Leste nian?",
+    "options": ["Katana", "Kris", "Surik", "Nunchaku"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Saida maka lema ofisiál Timor-Leste nian?",
+    "options": ["Unidade, Asaun, Progresu", "Dame, Justisa, Liberdade", "Onra, Dever, Rai", "Serbisu, Disiplina, Susesu"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Timor-Leste halo parte iha ekosistema tasi ida ne'ebé?",
+    "options": ["Barreira Boot", "Triángulu Korál", "Illa Galápagos", "Tasi Karibe"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Illa ne'ebé halo parte esklave Oecusse Timor-Leste nian naran saida?",
+    "options": ["Atauro", "Jaco", "Timor", "None of above"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Iha lian sira ne'e ida ne'ebé maka LA EMA barak ko'alia iha Timor-Leste?",
+    "options": ["Tetum", "Portugues", "Mandarin", "Mambai"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Saida maka ai-han prinsipál iha Timor-Leste?",
+    "options": ["Batar", "Trigu", "Manifarina", "Batar"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka dansa tradisionál ne'ebé popular iha Timor-Leste?",
+    "options": ["Tango", "Samba", "Tebe", "Valsa"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Movimentu rezisténsia ne'ebé luta ba Timor-Leste nia independénsia hanaran saida?",
+    "options": ["FRETILIN", "UNITA", "FARC", "PLO"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi manu sira-ne'e ida-ne'ebé maka endémiku iha Timor-Leste?",
+    "options": ["Pombu imperial Timor", "Estorne Bali", "Aguila Filipina", "Kakapo"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Saida maka pontu aas liu iha Timor-Leste?",
+    "options": ["Mount Ramelau", "Mount Matebian", "Mount Cablaki", "Mount Tatamailau"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka LA'OS partidu polítiku boot ida iha Timor-Leste?",
+    "options": ["FRETILIN", "CNRT", "PD", "UMNO"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Estimativa populasaun Timor-Leste to'o tinan 2021 hira?",
+    "options": ["Besik 500,000", "Besik millaun 1", "Besik millaun 1,3", "Besik millaun 2"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Husi nasaun sira-ne'e ida-ne'ebé maka LA halo fronteira ho Timor-Leste?",
+    "options": ["Indonesia", "Austrália", "Papua Nova Guiné", "Laiha buat sira iha leten"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Tasi iha parte súl Timor-Leste nian naran saida?",
+    "options": ["Tasi Timor", "Tasi Banda", "Tasi Arafura", "Tasi Java"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka instrumentu múzika tradisionál iha Timor-Leste?",
+    "options": ["Didgeridoo", "Sitar", "Kakalo", "Gita"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Saida maka fonte rendimentu prinsipál ba família rurál barak iha Timor-Leste?",
+    "options": ["Turizmu", "Manufatura", "Agrikultura subsisténsia", "Minerasaun"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka área protejida iha Timor-Leste?",
+    "options": ["Parque Nacional Nino Konis Santana", "Parque Nacional Kakadu", "Parque Nacional Komodo", "Parque Nacional Gunung Mulu"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Hena tradisionál ne'ebé uza iha Timor-Leste nia naran saida?",
+    "options": ["Kimono", "Sari", "Tais", "Kilt"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Animál tasi sira-ne'e ida-ne'ebé maka baibain hetan iha tasi Timor-Leste nian?",
+    "options": ["Ursu-polar", "Pinguin", "Dugong", "Narwhal"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Taxa alfabetizasaun iha Timor-Leste hira?",
+    "options": ["Besik 50%", "Besik 68%", "Besik 85%", "Besik 95%"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi buat sira-ne'e ida-ne'ebé maka sai kestaun ambientál boot ida iha Timor-Leste?",
+    "options": ["Deflorestasaun", "Poluisaun ar", "Lixu nukleár", "Udan ásidu"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Moeda ne'ebé uza molok Timor-Leste adota dolar Amerikanu nia naran saida?",
+    "options": ["Timor Escudo", "Rupiah", "Pataca", "Peso"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka hahán tradisionál iha Timor-Leste?",
+    "options": ["Sushi", "Batar daan", "Paella", "Hamburger"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Lagoa boot liu iha Timor-Leste nia naran saida?",
+    "options": ["Lago Ira Lalaro", "Lago Victoria", "Lago Titicaca", "Lago Baikal"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi desportu sira-ne'e ida-ne'ebé maka popular liu iha Timor-Leste?",
+    "options": ["Kriket", "Basketeból", "Futeból (Futeból)", "Hoquei iha Jelu"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Prezidente dahuluk Timor-Leste independente nian naran saida?",
+    "options": ["José Ramos-Horta", "Xanana Gusmão", "Mari Alkatiri", "Francisco Guterres"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka esportasaun boot Timor-Leste nian?",
+    "options": ["Mina", "Diamantes", "Borracha", "Kakau"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Uma lisan iha Timor-Leste nia naran saida?",
+    "options": ["Igloo", "Yurt", "Uma lulik", "Wigwam"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Animál sira-ne'e ida-ne'ebé maka konsidera lulik iha parte balu Timor-Leste nian?",
+    "options": ["Elefante", "Krokodil", "Leão", "Ursu"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Universidade prinsipál iha Timor-Leste nia naran saida?",
+    "options": ["University of Dili", "Universidade Nacional de Timor-Leste", "Universidade Estatal Timor-Leste", "East Timor College"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka LA'OS distritu ida iha Timor-Leste?",
+    "options": ["Aileu", "Ermera", "Manatuto", "Jakarta"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Líder rezisténsia ne'ebé sai nu'udar Prezidente Timor-Leste dahuluk hanaran saida?",
+    "options": ["José Ramos-Horta", "Xanana Gusmão", "Mari Alkatiri", "Taur Matan Ruak"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka festa boot ne'ebé selebra iha Timor-Leste?",
+    "options": ["Diwali", "Carnaval", "Ramadan", "Christmas"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Saida maka naran husi strait entre Timor-Leste no Ilha Atauro?",
+    "options": ["Estreitu Wetar", "Estreitu Ombai", "Estreitu Torres", "Estreitu Makassar"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi buat sira-ne'e ida-ne'ebé maka artezanatu tradisionál iha Timor-Leste?",
+    "options": ["Glassblowing", "Pottery", "Ice esculpting", "Origami"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Referendu independensia ne'ebé hala'o iha Timor-Leste iha tinan 1999 hanaran saida?",
+    "options": ["Voto ba Liberdade", "Votu ba Libertasaun", "Konsulta Populár", "Sondajen ba Independénsia"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka sai hanesan indústria boot ida iha Timor-Leste?",
+    "options": ["Fabrikasaun karreta nian", "Dezenvolvimentu software", "Mina-rai no gás", "Aeroespasiál"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Portu marítimo prinsipál iha Timor-Leste nia naran saida?",
+    "options": ["Port de Dili", "Port de Baucau", "Port de Suai", "Port de Oecusse"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Saida mak naran ba sidade boot liu iha Timor-Leste hafoin Dili?",
+    "options": ["Baucau", "Maliana", "Suai", "Lospalos"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Foho-lolon ida-ne'ebé maka halai liuhosi sentru Timor-Leste nian?",
+    "options": ["Andes", "Alpes", "Ramelau", "Himalaia"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Distritu ki'ik liu iha Timor-Leste nia naran saida?",
+    "options": ["Aileu", "Lautem", "Manatuto", "Liquiçá"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka sai hanesan ai-horis osan boot ida iha Timor-Leste?",
+    "options": ["Kafé", "Xá", "Kakau", "Modo"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Luta tradisionál timoroan nia naran saida?",
+    "options": ["Sumo", "Greco-Roman", "Capoeira", "Bodu"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Husi nasaun sira-ne'e ida-ne'ebé maka LA Fronteira ho Indonesia nia Timor Osidentál?",
+    "options": ["Timor-Leste", "Papua Nova Guiné", "Austrália", "None of above"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Saida mak naran ba illa boot liu iha Timor-Leste tuir illa prinsipál Timor nian?",
+    "options": ["Atauro", "Jaco", "Alor", "Wetar"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka nu'udar kilat tradisionál Timor-Leste nian?",
+    "options": ["Katana", "Kris", "Belak", "Nunchaku"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Lian indíjena prinsipál Timor-Leste nian naran saida?",
+    "options": ["Tetum", "Bahasa", "Tagalog", "Khmer"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka LA'OS distritu Timor-Leste nian?",
+    "options": ["Viqueque", "Cova Lima", "Manufahi", "Sumba"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Estreitu entre Timor-Leste ho Illa Alor Indonesia nian naran saida?",
+    "options": ["Estreitu Ombai", "Estreitu Wetar", "Estreitu Timor", "Estreitu Lombok"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Animál sira-ne'e ida-ne'ebé maka endémiku iha illa Timór?",
+    "options": ["Timor monitor", "Komodo dragon", "Sumatran rhino", "Orangutan Bornean"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Instrumentu anin bambu tradisionál iha Timor-Leste nia naran saida?",
+    "options": ["Didgeridoo", "Pan flute", "Kfui", "Shakuhachi"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Husi buat sira-ne'e ida-ne'ebé maka sai kestaun ambientál boot ida iha Timor-Leste?",
+    "options": ["Erozaun rai", "Poluisaun ar", "Udan ásidu", "Esgotamentu ozonu"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Movimentu rezisténsia ne'ebé luta ba Timor-Leste nia independénsia hanaran saida?",
+    "options": ["FALINTIL", "UNITA", "FARC", "PLO"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka instrumentu múzika tradisionál timoroan nian?",
+    "options": ["Sitar", "Didgeridoo", "Babadok", "Gita"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Kooperativa kafé boot liu iha Timor-Leste nia naran saida?",
+    "options": ["Starbucks Timor", "Café Timor", "Timor Coffee Co-op", "East Timor Coffee Growers"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka área tasi protejida iha Timor-Leste?",
+    "options": ["Parque Nacional Nino Konis Santana", "Parque Nacional Komodo", "Great Barrier Reef", "Parque Nacional Bunaken"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Tua ai-palmeira lontar tradisionál timoroan nian naran saida?",
+    "options": ["Sake", "Tuak", "Soju", "Baijiu"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka LA'OS partidu polítiku boot ida iha Timor-Leste?",
+    "options": ["FRETILIN", "CNRT", "PLP", "PKR"],
+    "Resposta loos": 3
+  },
+  {
+    "pergunta": "Mota boot iha Timor-Leste nia naran saida?",
+    "options": ["Mota Loes", "Mota Mekong", "Mota Yangtze", "Mota Amazónia"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka forma tradisionál poezia timoroan nian?",
+    "options": ["Haiku", "Sonnet", "Dadolin", "Limerick"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Saida maka ha'us naran sistema gruta boot liu iha Timor-Leste?",
+    "options": ["Gruta Mamut", "Gruta Lene Hara", "Gruta Carlsbad", "Gruta Krubera"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Husi sira ne'e ida ne'ebé maka serimónia tradisionál timoroan nian?",
+    "options": ["Tara bandu", "Holi", "Songkran", "Oktoberfest"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Emisora televizaun prinsipál iha Timor-Leste nia naran saida?",
+    "options": ["RTTL", "BBC", "CNN", "NHK"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Hahán tradisionál Timor nian ida-ne'ebé?",
+    "options": ["Sushi", "Katupat", "Pizza", "Hamburger"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Ai-laran mangrove boot liu iha Timor-Leste nia naran saida?",
+    "options": ["Sundarbans", "Amazon Rainforest", "Metinaro Mangrove Forest", "Congo Basin"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Husi sira ne'e ida ne'ebé maka arte marsiál tradisionál timoroan nian?",
+    "options": ["Karate", "Muay Thai", "Silat", "Taekwondo"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Jornál prinsipál iha Timor-Leste nia naran saida?",
+    "options": ["Suara Timor Lorosae", "The New York Times", "Le Monde", "The Times of India"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka dansa tradisionál Timor nian?",
+    "options": ["Ballet", "Tango", "Likurai", "Valsa"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Operadór telemovel prinsipál iha Timor-Leste nia naran saida?",
+    "options": ["Telkomcel", "Vodafone", "AT&T", "China Mobile"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira ne'e ida ne'ebé mak artezanatu tradisionál Timoroan nian?",
+    "options": ["Origami", "Batik", "Tais weaving", "Fabergé eggs"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Portu prinsipál iha esklave Oecusse nia naran saida?",
+    "options": ["Port de Lifau", "Port de Dili", "Port de Suai", "Port de Baucau"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka estilu múzika tradisionál timoroan nian?",
+    "options": ["Jazz", "Rock", "Dadolin", "Hip-hop"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Tasi-ibun prinsipál Dili nian naran saida?",
+    "options": ["Copacabana", "Bondi", "Cristo Rei", "Waikiki"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Desportu tradisionál timoroan ida-ne'ebé?",
+    "options": ["Cricket", "Cockfighting", "Baseball", "Ice hockey"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Merkadu prinsipál iha Dili nia naran saida?",
+    "options": ["Mercado Municipal", "Pike Place Market", "Tsukiji Market", "Borough Market"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka fiar relijiozu tradisionál timoroan nian?",
+    "options": ["Animism", "Shintoism", "Sikhism", "Zoroastrianism"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Estádiu prinsipál iha Dili nia naran saida?",
+    "options": ["Estádiu Munisipál", "Estádiu Wembley", "Estádiu Maracanã", "Camp Nou"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka métodu tradisionál timoroan nian ba rezolusaun konflitu nian?",
+    "options": ["Julgamentu iha Tribunál", "Nahe Biti Boot", "Duelo", "Arbitrajen"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Muzeu prinsipál iha Dili nia naran saida?",
+    "options": ["Muzeu Rezisténsia", "Louvre", "Muzeu Britániku", "Eremita"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi buat hirak ne'e ida ne'ebé maka prátika agrikultura tradisionál timoroan nian?",
+    "options": ["Hydroponics", "Slash-and-burn", "Vertical farming", "Aquaponics"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Ponte prinsipál ne'ebé liga Dili ba Hera naran saida?",
+    "options": ["Ponte Comoro", "Ponte Portaun Osan-Mean", "Ponte Torre", "Ponte Portu Sydney"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Materiál konstrusaun tradisionál timor nian ida-ne'ebé?",
+    "options": ["Beton", "Aço", "Bambu", "Vidru"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Sentru komersiál prinsipál iha Dili nia naran saida?",
+    "options": ["Timor Plaza", "Mall of America", "Dubai Mall", "Westfield London"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka prátika kura tradisionál timoroan nian?",
+    "options": ["Acupuntura", "Matan dook", "Ayurveda", "Homeopathy"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Parke públiku prinsipál Dili nian naran saida?",
+    "options": ["Jardim 5 de Maio", "Central Park", "Hyde Park", "Ueno Park"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka métodu peska tradisionál timoroan nian?",
+    "options": ["Trawling", "Moriku", "Purse sening", "Longlining"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Estátua prinsipál iha Dili nia naran saida?",
+    "options": ["Cristo Rei", "Estátua de Liberdade", "Cristo o Redentor", "La Pequeña Sirena"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira ne'e ida-ne'ebé maka lisan kazamentu tradisionál Timoroan nian?",
+    "options": ["Barlake", "Vestidu kazamentu mutin", "Throwing foos", "Troka anel sira"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Biblioteka prinsipál iha Dili nia naran saida?",
+    "options": ["Sala Leitura Xanana Gusmão", "Biblioteka Kongresu nian", "Biblioteka Británika", "Biblioteka Nasionál Xina nian"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka forma transporte tradisionál timoroan nian?",
+    "options": ["Metro", "Mikrolet", "Komboiu bala", "Telefériku"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Katedrál prinsipál iha Dili nia naran saida?",
+    "options": ["Katedrál Imakulada Konseisaun", "Bazílika São Pedro nian", "Notre-Dame", "Sagrada Família"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Jogu tradisionál timor nian ida-ne'ebé?",
+    "options": ["Xadrez", "Jogo do galo", "Monopoly", "Scrabble"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Meskita prinsipál iha Dili nia naran saida?",
+    "options": ["Meskita An-Nur", "Meskita Azul", "Meskita Al-Aqsa", "Meskita Sheikh Zayed"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira-ne'e ida-ne'ebé maka métodu tradisionál timoroan nian ba prezervasaun ai-han nian?",
+    "options": ["Lata", "Masin", "Konjelamentu", "Irradiasaun"],
+    "Resposta loos": 1
+  },
+  {
+    "pergunta": "Teatru prinsipál iha Dili nia naran saida?",
+    "options": ["Palácio dos Congressos", "Globe Theatre", "Sydney Opera House", "Bolshoi Theatre"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi buat sira-ne'e ida-ne'ebé maka métodu tradisionál timoroan nian kona-ba konta tempu?",
+    "options": ["Sundial", "Relójiu atómiku", "Kukur manu", "Hourglass"],
+    "Resposta loos": 2
+  },
+  {
+    "pergunta": "Galeria arte prinsipál iha Dili nia naran saida?",
+    "options": ["Arte Moris", "Louvre", "Tate Modern", "MoMA"],
+    "Resposta loos": 0
+  },
+  {
+    "pergunta": "Husi sira ne'e ida ne'ebé mak artezanatu tradisionál Timor nian?",
+    "options": ["Glassblowing", "Pottery", "Metalworking", "All of above"],
+    "Resposta loos": 3
   }
 ]
