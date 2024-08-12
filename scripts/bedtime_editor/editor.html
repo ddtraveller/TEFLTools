@@ -6,6 +6,8 @@
     <title>Editór Istória nian</title>
     <link rel="icon" href="https://tl-web.s3.us-west-2.amazonaws.com/images/flag.jpg" type="image/png">    
     <script src="https://sdk.amazonaws.com/js/aws-sdk-2.1386.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
 <style>
     body {
         font-family: 'Lato', Arial, sans-serif;
@@ -127,6 +129,19 @@
         border: 1px solid #ffcd00;
         box-sizing: border-box;
     }
+    #saveToDiskButton {
+        background-color: #008000;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    #saveToDiskButton:hover {
+        background-color: #006400;
+    }
 
     /* Responsive adjustments */
     @media (max-width: 768px) {
@@ -157,6 +172,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
         <p></p>
         <input type="password" id="passwordField" placeholder="Hatama senha">
         <button type="submit" id="saveButton">Rai Mudansa sira</button>
+        <button type="button" id="saveToDiskButton">Save to Disk</button>
     </form>
     <div id="story-grid"></div>
     <script>
@@ -292,6 +308,75 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
             return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
         }
         
+        async function saveToDisk() {
+            showLoading('Preparing files for download...');
+            try {
+                const zip = new JSZip();
+                const content = document.getElementById('storyContent').value;
+                
+                // Parse HTML
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(content, 'text/html');
+                
+                // Function to fetch and add file to zip
+                async function addFileToZip(url, filename) {
+                    console.log('Fetching:', url);
+                    try {
+                        const response = await fetch(url);
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+                        const blob = await response.blob();
+                        zip.file(filename, blob);
+                        console.log('Added to zip:', filename);
+                    } catch (error) {
+                        console.error('Error fetching file:', url, error);
+                    }
+                }
+                
+                // Handle images
+                const images = doc.getElementsByTagName('img');
+                for (let img of images) {
+                    const src = img.getAttribute('src');
+                    if (src) {
+                        const filename = 'images/' + src.split('/').pop();
+                        await addFileToZip(new URL(src, bucketUrl).href, filename);
+                        img.setAttribute('src', filename);
+                    }
+                }
+                
+                // Handle MP3 files
+                const mp3Regex = /https:\/\/tl-web\.s3\.us-west-2\.amazonaws\.com\/sounds\/.*\.mp3/g;
+                let htmlString = doc.documentElement.outerHTML;
+                const mp3Urls = [...new Set(htmlString.match(mp3Regex) || [])];
+                
+                for (let url of mp3Urls) {
+                    const filename = 'audio/' + url.split('/').pop();
+                    await addFileToZip(url, filename);
+                    
+                    // Update all instances of this URL in the HTML
+                    htmlString = htmlString.replace(new RegExp(url.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g'), filename);
+                }
+                
+                // Update HTML content with local paths
+                zip.file(currentStoryKey, htmlString);
+                
+                // Generate zip file
+                const zipBlob = await zip.generateAsync({type: 'blob'});
+                
+                // Save zip file
+                saveAs(zipBlob, 'story_files.zip');
+            } catch (error) {
+                console.error('Error in saveToDisk:', error);
+                alert('Failed to save files. Please check the console for details and try again.');
+            } finally {
+                hideLoading();
+            }
+        }
+
+        // Add event listener for the new button
+        document.getElementById('saveToDiskButton').addEventListener('click', saveToDisk);
+
         // Load stories when the page loads
         fetchStories();
     </script>
