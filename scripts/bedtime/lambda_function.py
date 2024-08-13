@@ -32,7 +32,9 @@ TIMOR_LESTE_CULTURES = [
     {"people": "Tukudede"},
     {"people": "Galoli"},
     {"people": "Kemak"},
-    {"people": "Baikeno"}
+    {"people": "Baikeno"},
+    {"people": "Timor Leste Muslim"},
+    {"people": "Timor Leste Chinese"}
 ]
 
 # Load random elements from file
