@@ -335,7 +335,7 @@ def fallback_parse_parts(content):
 def parse_parts_marker_based(content):
     parts = []
     full_content = ' '.join(content)
-    part_markers = ['Part 1', 'Part 2', 'Part 3', 'Part 4', 'Part 5']
+    part_markers = ['Part 1', 'Part 2', 'Part 3', 'Part 4', 'Part 5', 'Part 6', 'Part 7']
     for i, marker in enumerate(part_markers):
         start = full_content.find(marker)
         if start == -1:
@@ -450,7 +450,7 @@ def generate_story(seed_file, story_prompt_template):
             response = anthropic_client.completions.create(
                 prompt=prompt,
                 model="claude-v1",
-                max_tokens_to_sample=5000,
+                max_tokens_to_sample=7000,
                 stop_sequences=["\n\nHuman:", "\n\nAssistant:"]
             )
             
@@ -502,7 +502,7 @@ def generate_story(seed_file, story_prompt_template):
 def generate_image(english_story_parts, part, style, culture, part_number, is_first_image=False, additional_payload=None):
     story_instruction = f"Create a whimsical, child-friendly {style} illustration for a bedtime story. Generate the image for part {part_number}."
 
-    culture_prompt = f"Make sure all people depicted look like {culture} people from Timor Leste. They should have brown skin."
+    culture_prompt = f"Make sure all people depicted look like {culture} people from Timor Leste. They should not be caucasian."
     
     consistency_prompt = "Create a consistent style for the story." if is_first_image else "Maintain style consistency with previous illustrations."
     full_story = " ".join(english_story_parts)
@@ -522,14 +522,14 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
             {"text": culture_prompt, "weight": 0.75},
             {"text": consistency_prompt, "weight": 1.5},
         ],
-        "cfg_scale": 17,
+        "cfg_scale": 15,
         "clip_guidance_preset": "FAST_BLUE",
         "height": 576,
         "width": 1024,
         "samples": 1,
         "steps": 50,
         "style_preset": style,
-        "seed": 3594967295
+        "seed": 3194967295
     }
 
     # Update payload with additional parameters if provided
@@ -656,9 +656,9 @@ def lambda_handler(event, context):
                 sound_url = generate_sound(part, sound_filename)
                 sound_urls.append(sound_url)
 
-            # If we've made it here, all images and sounds were generated successfully
+            # Check if we have the correct number of images and sounds
             if len(image_urls) != len(english_story_parts) or len(sound_urls) != len(english_story_parts):
-                raise Exception("Mismatch between number of story parts and generated media")
+                raise Exception(f"Mismatch between number of story parts ({len(english_story_parts)}) and generated media (images: {len(image_urls)}, sounds: {len(sound_urls)})")
 
             html_content = generate_html(story, image_urls, sound_urls)
             
