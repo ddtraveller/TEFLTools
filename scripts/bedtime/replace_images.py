@@ -16,6 +16,26 @@ stability_api_key = os.getenv('STABILITY_API_KEY')
 if stability_api_key is None:
     raise ValueError("The STABILITY_API_KEY environment variable is not set.")
 
+def invalidate_cloudfront_cache(distribution_id, story_name):
+    cloudfront_client = boto3.client('cloudfront')
+    
+    invalidation_batch = {
+        'Paths': {
+            'Quantity': 1,
+            'Items': [f'/images/{story_name}*']
+        },
+        'CallerReference': str(hash(story_name))  # Unique string for this invalidation
+    }
+    
+    try:
+        response = cloudfront_client.create_invalidation(
+            DistributionId=distribution_id,
+            InvalidationBatch=invalidation_batch
+        )
+        print(f"Invalidation created successfully. ID: {response['Invalidation']['Id']}")
+    except Exception as e:
+        print(f"Error creating invalidation: {str(e)}")
+
 def get_bedtime_html():
     response = s3.get_object(Bucket='tl-web', Key='bedtime.html')
     html_content = response['Body'].read().decode('utf-8')
@@ -67,14 +87,14 @@ def replace_image(url, new_image):
     print(f"Replaced image: {image_name}")
 
 def generate_story_image(part, style, is_first_image):
-    story_instruction = f"Create a whimsical, child-friendly {style} illustration for a bedtime story."
+    story_instruction = f"Create a whimsical, child-friendly {style} illustration."
     culture_prompt = "Make sure all people depicted look like people from Timor Leste. They should have brown skin. They should not be caucasian."
     consistency_prompt = "Create a consistent style for the story." if is_first_image else "Maintain style consistency with previous illustrations."
 
     payload = {
         "text_prompts": [
-            {"text": story_instruction, "weight": 1.2},
-            {"text": part, "weight": 1},
+            {"text": story_instruction, "weight": .6},
+            {"text": part, "weight": 2},
             {"text": culture_prompt, "weight": 0.75},
             {"text": consistency_prompt, "weight": 1.5},
         ],
@@ -85,7 +105,7 @@ def generate_story_image(part, style, is_first_image):
         "samples": 1,
         "steps": 50,
         "style_preset": style,
-        "seed": 3194967295
+        "seed": 3594967295
     }
 
     return generate_new_image(payload)
@@ -97,22 +117,37 @@ def main():
     # Parse current image URLs from HTML
     current_image_urls = parse_images_from_html(html_content)
     
-    # Prompt for user input
-    part_number = int(input("Enter the part number (0-5): "))
-    part = input("Enter the story part description: ")
-    style = input("Enter the style preset: ")
-    is_first_image = input("Is this the first image? (y/n): ").lower() == 'y'
+    # Prompt for story name
+    story_name = input("Enter the story name for CloudFront invalidation: ")
     
-    # Generate new image based on user input
-    new_image = generate_story_image(part, style, is_first_image)
-    
-    # Replace the specified image in S3
-    if 0 <= part_number < len(current_image_urls):
-        replace_image(current_image_urls[part_number], new_image)
+    # Prompt for replacing all images or a single image
+    replace_all = input("Do you want to replace all images? (y/n): ").lower() == 'y'
+
+    if replace_all:
+        style = input("Enter the style preset for all images: ")
+        for part_number in range(6):  # 0 to 5
+            part = input(f"Enter the story part description for image {part_number}: ")
+            is_first_image = part_number == 0
+            new_image = generate_story_image(part, style, is_first_image)
+            replace_image(current_image_urls[part_number], new_image)
+            print(f"Image {part_number} replaced")
     else:
-        print("Invalid part number. No image was replaced.")
+        # Original single image replacement logic
+        part_number = int(input("Enter the part number (0-5): "))
+        part = input("Enter the story part description: ")
+        style = input("Enter the style preset: ")
+        is_first_image = input("Is this the first image? (y/n): ").lower() == 'y'
+        
+        new_image = generate_story_image(part, style, is_first_image)
+        
+        if 0 <= part_number < len(current_image_urls):
+            replace_image(current_image_urls[part_number], new_image)
+        else:
+            print("Invalid part number. No image was replaced.")
     
     print("Image generation and replacement complete")
+    # Perform CloudFront invalidation
+    invalidate_cloudfront_cache('EA9FU4A37EB95', story_name)
 
 if __name__ == "__main__":
     main()
