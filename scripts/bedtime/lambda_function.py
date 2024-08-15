@@ -511,6 +511,25 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
     consistency_prompt = "Create a consistent style for the story." if is_first_image else "Maintain style consistency with previous illustrations."
     full_story = " ".join(english_story_parts)
     
+    style_prompt = """
+    Use a vibrant, colorful palette reminiscent of Jaime Hernandez's work in Love and Rockets.
+    Character designs should blend realistic proportions with slightly exaggerated features, similar to Wendy Pini's elves in Elfquest.
+    Architecture should be gigantic, whimsical, ultra technical or magical or cosmic. Very comic book. 
+    Flora and fauna should me mythical, magical, diverse and local to Timor Leste.
+    Include details that reflect Timorese culture, such as traditional tais textiles, uma lulik (sacred houses), local flora and fauna, and Inan Nunu; the Divine Mother who nourishes all in this land.
+    Mix ultra post-modern and ancient anachronistic elements to create a unique, futuristic Timorese aesthetic.
+    Use dynamic compositions and dramatic angles inspired by comic book panels.
+    Incorporate subtle magical or fantastical elements that blend seamlessly with the realistic setting.
+    Emphasize expressive character faces and body language to convey emotions.
+    Use lighting effects to create mood and atmosphere, especially for scenes set at different times of day.    
+    Use a vibrant, bold color palette with rich, saturated hues, particularly emphasizing warm oranges, deep teals, and lush greens.
+    Employ a comic book or graphic novel art style with clean, defined outlines and flat colors.
+    Create detailed, fantastical backgrounds that blend natural elements (like the mushroom-like trees) with cosmic imagery (planets and stars).
+    Use perspective to create a sense of wonder, such as positioning the viewer to look up at towering flora or celestial objects.
+    Incorporate small, whimsical details like floating particles or small creatures to add life to the scene.
+    Ensure character clothing is simple yet modern, with solid colors that stand out against the busy background.
+    Use subtle gradients and shading to add dimension to flat color areas, especially on larger objects like planets.
+    """
     url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
     headers = {
         "Content-Type": "application/json",
@@ -520,11 +539,12 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
     
     payload = {
         "text_prompts": [
-            {"text": story_instruction, "weight": 1.2},
-            {"text": part, "weight": 1},
-            {"text": full_story, "weight": 0.75},
+            {"text": story_instruction, "weight": 1},
+            {"text": part, "weight": 1.2},
+            {"text": full_story[:1999], "weight": 0.75},
             {"text": culture_prompt, "weight": 0.75},
-            {"text": consistency_prompt, "weight": 1.5},
+            {"text": style_prompt, "weight":1.5},
+            {"text": consistency_prompt, "weight": 1},
         ],
         "cfg_scale": 15,
         "clip_guidance_preset": "FAST_BLUE",
@@ -533,7 +553,7 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
         "samples": 1,
         "steps": 50,
         "style_preset": style,
-        "seed": 3194967295
+        "seed": 3994967295
     }
 
     # Update payload with additional parameters if provided
@@ -609,7 +629,7 @@ def lambda_handler(event, context):
             safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
             date_str = datetime.now().strftime("%Y%m%d")
             
-            styles = ['analog-film', 'anime', 'cinematic', 'comic-book', 'digital-art', 'enhance', 'fantasy-art', 'isometric', 'line-art', 'modeling-compound', 'neon-punk', 'origami', 'photographic', 'pixel-art', 'tile-texture']
+            styles = ['anime', 'comic-book', 'digital-art', 'enhance', 'fantasy-art', 'isometric', 'line-art', 'modeling-compound', 'neon-punk', 'tile-texture']
             random.shuffle(styles)
             weights = [random.randint(1, 3) for _ in range(len(styles))]
             
