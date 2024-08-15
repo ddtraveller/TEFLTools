@@ -205,8 +205,8 @@ def generate_html(story, image_urls, sound_urls):
         html += "</div>"
     
     html += """
-    <a href="https://go-tl.com/stories/archive.html">Arkivu Istória nian / Story Archive</a>
-    <a href="https://go-tl.com/stories/editor.html">Editór Istória nian / Story Editor</a>
+    <p><a href="https://go-tl.com/stories/archive.html">Arkivu Istória nian / Story Archive</a></p>
+    <p><a href="https://go-tl.com/stories/editor.html">Editór Istória nian / Story Editor</a></p>
     </body>
     </html>
     """
