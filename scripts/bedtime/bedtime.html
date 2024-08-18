@@ -1,129 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stories from Timor-Leste</title>
+    <link rel="icon" href="https://tl-web.s3.us-west-2.amazonaws.com/images/flag.jpg" type="image/png">    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        #story-container {
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-top: 20px;
+        }
+        #loading {
+            text-align: center;
+            font-style: italic;
+        }
+        #refresh-button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        #refresh-button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stories from Timor-Leste</h1>
+    <div id="story-container">
+        <p id="loading">Loading a random story...</p>
+    </div>
+    <button id="refresh-button">Load Another Story</button>
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>The Story of Mana Maria</title>
-        <link rel="icon" href="https://tl-web.s3.us-west-2.amazonaws.com/images/flag.jpg" type="image/png">
-        <style>
-            body {
-                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                line-height: 1.6;
-                color: #333;
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 20px;
-                background-color: rgb(235, 245, 235);
-            }
-            h1 {
-                color: #2c3e50;
-                text-align: center;
-                margin-bottom: 30px;
-                font-size: 2.5em;
-                text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
-            }
-            h2 {
-                color: #34495e;
-                border-bottom: 2px solid #3498db;
-                padding-bottom: 10px;
-                margin-top: 40px;
-            }
-            .story-part {
-                background-color: rgba(255, 255, 255, 0.7);
-                border-radius: 10px;
-                padding: 20px;
-                margin-bottom: 30px;
-                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            }
-            img {
-                max-width: 100%;
-                height: auto;
-                margin-bottom: 20px;
-                border-radius: 10px;
-                box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-            }
-            .tetun {
-                font-style: italic;
-                color: #555;
-                background-color: rgba(255, 255, 255, 0.5);
-                padding: 10px;
-                border-radius: 5px;
-                margin-top: 10px;
-            }
-            audio {
-                width: 100%;
-                margin-top: 10px;
-            }
-        </style>
-    </head>
-    <body>
-        <h1>Istória husi Mana Maria - Tun</h1>
-        <h1>The Story of Mana Maria - The Descent</h1>
-    
-        <div class="story-part">
-            <h2>Part 1</h2>
-            <p>As Maria emerged from the sacred cave on Mount Ramelau, she was struck breathless by the radiance that enveloped her. The world seemed reborn, leaf, blade of grass, and dewdrop shimmering with an otherworldly brilliance. This wasn't mere sunlight, Maria realized, but the very essence of creation itself, pulsing with divine energy. The air around her vibrated with a silent symphony, and she felt as if she could hear the heartbeat of the earth beneath her feet.</p>
-            <p class="tetun">Bainhira Maria sai hosi gruta lulik iha foho Ramelau, nia hakfodak ho naroman ne'ebé hale'u nia. Mundu parese moris hikas, ai-funan, du'ut-tahan, no udan-been ne'ebé nabilan ho nabilan mundu seluk nian. Ida-ne'e la'ós de'it loro-matan nia naroman, Maria realiza, maibé esénsia kriasaun nian rasik, ne'ebé pulsa ho enerjia divina. Anin hale'u nia vibra ho sinfonia ne'ebé nonook, no nia sente hanesan nia bele rona rai nia fuan nia batimentu iha nia ain okos.</p>
-        <img src="images/the_story_of_mana_maria_the_descent_image_1_20240817.png" alt="Story illustration 1">
-            <audio controls>
-                <source src="https://tl-web.s3.us-west-2.amazonaws.com/sounds/the_story_of_mana_maria_the_descent_sound_1_20240817.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            </div>
-        <div class="story-part">
-            <h2>Part 2</h2>
-            <p>In this moment of profound clarity, Maria perceived the intricate dance of creation. The gentle sway of the tais trees, the graceful flight of the endangered Timor imperial pigeon, even the scurrying of small creatures along the forest floor all moved in perfect harmony, each playing its part in a grand, cosmic ballet. She understood then that everything wasn't just created by God, but was a living extension of the divine, inseparable and eternal. This realization filled her with a sense of unity so profound that tears of joy streamed down her face.</p>
-            <p class="tetun">Iha momentu ida-ne'e ho klareza kle'an, Maria persebe dansa intrinseku kriasaun nian. Ai-tais sira nia nakdoko ne'ebé kmaan, manu-pombu imperiál Timor nian ne'ebé ameasadu ba estinsaun nia semo, to'o kriatura ki'ik sira nia halai iha ai-laran nia okos, hotu-hotu movimenta iha armonia perfeita, ida-idak hala'o nia papél iha baleta boot no kósmiku. Nia komprende katak buat hotu la'ós de'it kria hosi Maromak, maibé hanesan estensaun moris ida hosi divinu, inseparável no eternu. Realizasaun ida-ne'e halo nia nakonu ho sentidu unidade nian ne'ebé klean tebes to'o matan-been ksolok nian suli iha nia oin.</p>
-        <img src="images/the_story_of_mana_maria_the_descent_image_2_20240817.png" alt="Story illustration 2">
-            <audio controls>
-                <source src="https://tl-web.s3.us-west-2.amazonaws.com/sounds/the_story_of_mana_maria_the_descent_sound_2_20240817.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            </div>
-        <div class="story-part">
-            <h2>Part 3</h2>
-            <p>Filled with this newfound wisdom, Maria began her descent down the sacred mountain. Her steps were light, almost dancing, as if the earth itself was guiding her path. The warm Timorese breeze carried the scent of sandalwood and coffee blossoms, reminding her of the rich heritage of her land. As she rounded a bend in the path, Maria encountered an elderly woman, her face etched with the stories of a long life. The woman's frail body was bent with age, her progress slow and labored as she leaned heavily on a gnarled wooden cane, inching her way up the mountain.</p>
-            <p class="tetun">Nakonu ho matenek foun ida-ne'e, Maria hahú nia tun tun foho lulik. Nia hakat sira kmaan, kuaze dansa, hanesan rai rasik maka orienta nia dalan. Anin manas Timór nian lori ai-sándalu nia morin no kafé nia funan, hodi fó hanoin ba nia kona-ba patrimóniu riku husi nia rai. Bainhira nia halai iha kurva ida iha dalan, Maria hasoru katuas ida, nia oin nakonu ho istória sira kona-ba moris naruk ida. Feto nia isin-lolon ne'ebé fraku nakdoko tanba idade, nia progresu neineik no maka'as bainhira nia sadere maka'as ba ai-tonka ne'ebé namlele, hodi sa'e foho.</p>
-        <img src="images/the_story_of_mana_maria_the_descent_image_3_20240817.png" alt="Story illustration 3">
-            <audio controls>
-                <source src="https://tl-web.s3.us-west-2.amazonaws.com/sounds/the_story_of_mana_maria_the_descent_sound_3_20240817.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            </div>
-        <div class="story-part">
-            <h2>Part 4</h2>
-            <p>As the old woman's gaze met Maria's, her rheumy eyes widened in awe and disbelief. For behind Maria, she beheld a vision of transcendent beauty: Jesus himself, radiant and compassionate, flanked by the archangels Michael and Gabriel. Their celestial light seemed to merge with Maria's form, as if she had become a living conduit for divine grace. The old woman trembled, realizing she was witnessing a miracle that echoed the ancient stories passed down through generations in Timor-Leste.</p>
-            <p class="tetun">Bainhira ferik nia matan hasoru Maria nian, nia matan-been ne'ebé maka'as nakloke ho hakfodak no la fiar. Tanba iha Maria nia kotuk, nia haree vizaun ida beleza trasendentál nian: Jezús rasik, nabilan no kompaixaun, hale'u hosi arkanju Miguel no Gabriel. Sira-nia naroman selestiál parese kahur ho Maria nia forma, hanesan nia sai ona kanál moris ba grasa divina. Ferik ne’e nakdedar, realiza katak nia asiste hela milagre ida ne’ebé repete istória antigu sira ne’ebé hatutan husi jerasaun ba jerasaun iha Timor-Leste.</p>
-        <img src="images/the_story_of_mana_maria_the_descent_image_4_20240817.png" alt="Story illustration 4">
-            <audio controls>
-                <source src="https://tl-web.s3.us-west-2.amazonaws.com/sounds/the_story_of_mana_maria_the_descent_sound_4_20240817.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            </div>
-        <div class="story-part">
-            <h2>Part 5</h2>
-            <p>Moved by a deep wellspring of compassion, Maria approached the old woman. Without a word, she gently took the woman's gnarled hand in hers, feeling the lifetime of toil and hardship etched into every line and callus. In that instant, a warm, golden light flowed between them, like liquid sunshine coursing through their veins. The old woman gasped as she felt strength and vitality return to her limbs, years of pain and weariness melting away. In astonishment, she straightened her once-bent back, her cane clattering forgotten to the ground.</p>
-            <p class="tetun">Motivadu ho bee-matan kompaixaun nian ne'ebé klean, Maria hakbesik ba ferik-katuas ne'e. La ho liafuan ida, nia kaer ho kmaan feto nia liman ne'ebé namdoras iha nia liman, sente serbisu maka'as no susar nia moris tomak ne'ebé grava iha liña no kalus ida-idak. Iha momentu ne'ebá, naroman manas, osan-mean ida suli entre sira, hanesan loro-matan líkidu ne'ebé suli liuhosi sira nia raan. Ferik ne'e hamnasa bainhira nia sente forsa no vitalidade fila fali ba nia liman-ain sira, tinan barak nia laran moras no kole sai lakon. Ho hakfodak, nia hadi'a nia kotuk-laran ne'ebé uluk dobrada, nia ai-tonka nakdedar haluha tiha ba rai.</p>
-        <img src="images/the_story_of_mana_maria_the_descent_image_5_20240817.png" alt="Story illustration 5">
-            <audio controls>
-                <source src="https://tl-web.s3.us-west-2.amazonaws.com/sounds/the_story_of_mana_maria_the_descent_sound_5_20240817.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            </div>
-        <div class="story-part">
-            <h2>Part 6</h2>
-            <p>Tears of joy and gratitude streamed down the old woman's now-smooth cheeks as she looked at Maria with newfound reverence. Maria simply smiled, her heart overflowing with love and understanding. She now comprehended her role as a vessel for the divine healing light she had witnessed. As they parted ways, each forever changed by the encounter, Maria continued her journey home to her village. She knew that this was just the beginning of her true purpose to be a beacon of hope and healing for her beloved Timor-Leste, bridging the ancient wisdom of their land with the infinite love of the divine.</p>
-            <p class="tetun">Matan-been ksolok no agradesimentu nian suli tun hosi ferik nia oin ne'ebé agora mos ona bainhira nia hateke ba Maria ho respeitu foun. Maria hamnasa de'it, nia fuan nakonu ho domin no komprensaun. Agora nia komprende nia papél nu'udar vazu ba naroman kura divinu ne'ebé nia asiste ona. Bainhira sira fahe malu, ida-idak muda ba nafatin tanba enkontru, Maria kontinua nia viajen ba uma iha nia aldeia. Nia hatene katak ida-ne’e foin mak inísiu husi ninia objetivu loloos atu sai farol esperansa no kura nian ba ninia doben Timor-Leste, hodi liga matenek antigu husi sira-nia rai ho domin rohan-laek husi divinu.</p>
-        <img src="images/the_story_of_mana_maria_the_descent_image_6_20240817.png" alt="Story illustration 6">
-            <audio controls>
-                <source src="https://tl-web.s3.us-west-2.amazonaws.com/sounds/the_story_of_mana_maria_the_descent_sound_6_20240817.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            </div>
+    <script>
+        const s3Url = 'https://tl-web.s3.us-west-2.amazonaws.com/?list-type=2&prefix=stories/';
+        const storyContainer = document.getElementById('story-container');
+        const refreshButton = document.getElementById('refresh-button');
+
+        async function fetchStoryList() {
+            const response = await fetch(s3Url);
+            const text = await response.text();
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(text, "text/xml");
+            const contents = xmlDoc.getElementsByTagName('Contents');
             
-    <p><a href="https://go-tl.com/stories/archive.html">Arkivu Istória nian / Story Archive</a></p>
-    <p><a href="https://go-tl.com/stories/editor.html">Editór Istória nian / Story Editor</a></p>
-    </body>
-    </html>
-    
+            const storyUrls = Array.from(contents)
+                .map(item => item.getElementsByTagName('Key')[0].textContent)
+                .filter(key => key.toLowerCase().startsWith('stories/') && key.toLowerCase().endsWith('.html'));
+            
+            return storyUrls;
+        }
+
+        async function fetchAndDisplayRandomStory() {
+            storyContainer.innerHTML = '<p id="loading">Loading a random story...</p>';
+            
+            try {
+                const storyUrls = await fetchStoryList();
+                const randomStoryUrl = storyUrls[Math.floor(Math.random() * storyUrls.length)];
+                const fullUrl = `https://tl-web.s3.us-west-2.amazonaws.com/${randomStoryUrl}`;
+                
+                const response = await fetch(fullUrl);
+                const html = await response.text();
+                
+                storyContainer.innerHTML = html;
+            } catch (error) {
+                console.error('Error fetching story:', error);
+                storyContainer.innerHTML = '<p>Error loading the story. Please try again.</p>';
+            }
+        }
+
+        refreshButton.addEventListener('click', fetchAndDisplayRandomStory);
+
+        // Initial load
+        fetchAndDisplayRandomStory();
+    </script>
+</body>
+</html>
