@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="tet">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogu Hangman Timor-Leste nian</title>
+    <link rel="icon" href="https://tl-web.s3.us-west-2.amazonaws.com/images/flag.jpg" type="image/png">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #1a1a2e;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+        .container {
+            background-color: #16213e;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            padding: 2rem;
+            width: 90%;
+            max-width: 600px;
+            text-align: center;
+            position: relative;
+            z-index: 1;
+        }
+        h1 {
+            color: #e94560;
+            margin-bottom: 1.5rem;
+        }
+        #word {
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+            letter-spacing: 0.5rem;
+        }
+        #clue {
+            font-size: 1.2rem;
+            margin-bottom: 1.5rem;
+            font-style: italic;
+        }
+        #guesses {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+        #hangman {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            font-family: monospace;
+            white-space: pre;
+        }
+        #input {
+            margin-bottom: 1rem;
+        }
+        input[type="text"] {
+            padding: 5px;
+            font-size: 1rem;
+            width: 30px;
+            text-align: center;
+        }
+        button {
+            padding: 10px;
+            font-size: 1rem;
+            cursor: pointer;
+            background-color: #0f3460;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #e94560;
+        }
+        #message {
+            margin-top: 1rem;
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        .star {
+            position: fixed;
+            background-color: #fff;
+            width: 2px;
+            height: 2px;
+            z-index: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Jogu Hangman Timor-Leste nian</h1>
+        <div id="hangman"></div>
+        <div id="word"></div>
+        <div id="clue"></div>
+        <div id="guesses">Letra sira mak ita koko tiha ona: </div>
+        <div id="input">
+            <input type="text" id="letter" maxlength="1">
+            <button onclick="guessLetter()">Koko</button>
+        </div>
+        <div id="message"></div>
+        <button onclick="newGame()" id="newGameBtn" style="display: none;">Jogu Foun</button>
+    </div>
+
+    <script>
+        let words = [];
+        let currentWord = '';
+        let currentClue = '';
+        let guessedLetters = [];
+        let remainingGuesses = 6;
+        
+        const winningSound = new Audio('https://tl-web.s3.us-west-2.amazonaws.com/sounds/crowd-cheering.mp3');
+        const hangmanStages = [
+            `
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========`,
+            `
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========`,
+            `
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========`,
+            `
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========`,
+            `
+  +---+
+  |   |
+  O   |
+ /|\\  |
+      |
+      |
+=========`,
+            `
+  +---+
+  |   |
+  O   |
+ /|\\  |
+ /    |
+      |
+=========`,
+            `
+  +---+
+  |   |
+  O   |
+ /|\\  |
+ / \\  |
+      |
+=========`
+        ];
+
+        async function loadWords() {
+            try {
+                const response = await fetch('words.json');
+                words = await response.json();
+                newGame();
+            } catch (error) {
+                console.error('Error loading words:', error);
+                document.getElementById('message').textContent = 'Erro iha loke liafuan sira. Favor koko fali.';
+            }
+        }
+
+        function newGame() {
+            const randomIndex = Math.floor(Math.random() * words.length);
+            currentWord = words[randomIndex].word.toUpperCase();
+            currentClue = words[randomIndex].clue;
+            guessedLetters = [];
+            remainingGuesses = 6;
+            updateDisplay();
+            document.getElementById('message').textContent = '';
+            document.getElementById('newGameBtn').style.display = 'none';
+            document.getElementById('clue').textContent = `Dika: ${currentClue}`;
+        }
+
+        function updateDisplay() {
+            document.getElementById('hangman').textContent = hangmanStages[6 - remainingGuesses];
+            document.getElementById('word').textContent = currentWord.split('').map(letter => guessedLetters.includes(letter) ? letter : '_').join(' ');
+            document.getElementById('guesses').textContent = 'Letra sira mak ita koko tiha ona: ' + guessedLetters.join(', ');
+        }
+
+        function guessLetter() {
+            const input = document.getElementById('letter');
+            const letter = input.value.toUpperCase();
+            input.value = '';
+
+            if (letter.length === 0 || !/[A-Z]/.test(letter)) {
+                document.getElementById('message').textContent = 'Favor hatama letra ida.';
+                return;
+            }
+
+            if (guessedLetters.includes(letter)) {
+                document.getElementById('message').textContent = 'Ita boot koko tiha ona letra nee!';
+                return;
+            }
+
+            guessedLetters.push(letter);
+
+            if (currentWord.includes(letter)) {
+                document.getElementById('message').textContent = 'Loos!';
+            } else {
+                remainingGuesses--;
+                document.getElementById('message').textContent = 'Sala!';
+                
+                if (remainingGuesses === 1) {
+                    // Provide a hint before the last guess
+                    const hint = getHint();
+                    document.getElementById('message').textContent += ` Dika ikus: ${hint}`;
+                }
+            }
+
+            updateDisplay();
+
+            if (currentWord === document.getElementById('word').textContent.split(' ').join('')) {
+                document.getElementById('message').textContent = 'Parabens! Ita boot manaan!';
+                document.getElementById('newGameBtn').style.display = 'inline-block';
+                winningSound.play();
+            } else if (remainingGuesses === 0) {
+                document.getElementById('message').textContent = `Ita boot lakon. Liafuan loos mak "${currentWord}".`;
+                document.getElementById('newGameBtn').style.display = 'inline-block';
+            }
+        }
+
+        function getHint() {
+            const unguessedLetters = currentWord.split('').filter(letter => !guessedLetters.includes(letter));
+            const hintLetter = unguessedLetters[Math.floor(Math.random() * unguessedLetters.length)];
+            return `Liafuan nee iha letra "${hintLetter}"`;
+        }
+
+        function createStar() {
+            const star = document.createElement('div');
+            star.className = 'star';
+            star.style.left = `${Math.random() * window.innerWidth}px`;
+            star.style.top = `${Math.random() * window.innerHeight}px`;
+            star.style.animation = `fall ${Math.random() * 5 + 5}s linear infinite`;
+            document.body.appendChild(star);
+        }
+
+        setInterval(createStar, 100);
+
+        loadWords();
+
+        // Add event listener for Enter key
+        document.getElementById('letter').addEventListener('keyup', function(event) {
+            if (event.key === 'Enter') {
+                guessLetter();
+            }
+        });
+    </script>
+</body>
+</html>

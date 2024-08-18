@@ -421,7 +421,7 @@ def fallback_title_parser(raw_content):
     
     return {'english': english_title, 'tetun': tetun_title}
     
-def generate_story(seed_file, story_prompt_template):
+def generate_story(seed_file, story_prompt_template, story_seed):
     max_retries = 3
     retry_delay = 5  # seconds
 
@@ -436,10 +436,6 @@ def generate_story(seed_file, story_prompt_template):
                 phrases_content = f.read()
             with open(COMPOUND_FILE, 'r', encoding='utf-8') as f:
                 compound_content = f.read()
-                
-            # Load random elements
-            random_elements = load_random_elements()
-            story_seed = random.choice(random_elements)
             
             # Format the prompt template
             prompt = story_prompt_template.format(
@@ -506,14 +502,12 @@ def generate_story(seed_file, story_prompt_template):
 def generate_image(english_story_parts, part, style, culture, part_number, is_first_image=False, additional_payload=None):
     story_instruction = f"Create a whimsical, child-friendly {style} illustration for a bedtime story. Generate the image for part {part_number}."
 
-    culture_prompt = f"Make sure all people depicted look like {culture} people from Timor Leste. They should not be caucasian."
-    
     consistency_prompt = "Create a consistent style for the story." if is_first_image else "Maintain style consistency with previous illustrations."
     full_story = " ".join(english_story_parts)
     
     style_prompt = """
     Use a vibrant, colorful palette reminiscent of Jaime Hernandez's work in Love and Rockets.
-    Character designs should blend realistic proportions with slightly exaggerated features, similar to Wendy Pini's elves in Elfquest.
+    Character designs should blend realistic proportions with slightly exaggerated features, similar to an anime style.
     Architecture should be gigantic, whimsical, ultra technical or magical or cosmic. Very comic book. 
     Flora and fauna should me mythical, magical, diverse and local to Timor Leste.
     Include details that reflect Timorese culture, such as traditional tais textiles, uma lulik (sacred houses), local flora and fauna, and Inan Nunu; the Divine Mother who nourishes all in this land.
@@ -530,6 +524,7 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
     Ensure character clothing is simple yet modern, with solid colors that stand out against the busy background.
     Use subtle gradients and shading to add dimension to flat color areas, especially on larger objects like planets.
     """
+    story_part = "In Timor Leste: " + part
     url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
     headers = {
         "Content-Type": "application/json",
@@ -540,9 +535,8 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
     payload = {
         "text_prompts": [
             {"text": story_instruction, "weight": 1},
-            {"text": part, "weight": 1.2},
+            {"text": story_part, "weight": 1.2},
             {"text": full_story[:1999], "weight": 0.75},
-            {"text": culture_prompt, "weight": 0.75},
             {"text": style_prompt, "weight":1.5},
             {"text": consistency_prompt, "weight": 1},
         ],
@@ -609,8 +603,16 @@ def lambda_handler(event, context):
         try:
             seed_file = load_random_file()
             story_prompt = load_story_prompt()
-
-            story, selected_culture = generate_story(seed_file, story_prompt)
+            # Load random elements
+            random_elements = load_random_elements()
+            
+            provided_seed = event.get('story_seed')
+            if provided_seed and len(provided_seed) > 15:
+                story_seed = provided_seed
+            else:
+                story_seed = random.choice(random_elements)
+                
+            story, selected_culture = generate_story(seed_file, story_prompt, story_seed)
             
             english_title = story['title']['english']
             tetun_title = story['title']['tetun']
@@ -629,7 +631,7 @@ def lambda_handler(event, context):
             safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
             date_str = datetime.now().strftime("%Y%m%d")
             
-            styles = ['anime', 'comic-book', 'digital-art', 'enhance', 'fantasy-art', 'isometric', 'line-art', 'modeling-compound', 'neon-punk', 'tile-texture']
+            styles = ['comic-book', 'digital-art', 'fantasy-art', 'tile-texture']
             random.shuffle(styles)
             weights = [random.randint(1, 3) for _ in range(len(styles))]
             

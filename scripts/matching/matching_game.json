@@ -1,0 +1,662 @@
+[
+  {
+    "word": "Coffee",
+    "definition": "Major export crop of Timor-Leste"
+  },
+  {
+    "word": "Tais",
+    "definition": "Traditional woven cloth"
+  },
+  {
+    "word": "Crocodile",
+    "definition": "Sacred animal in Timorese culture"
+  },
+  {
+    "word": "Mountain",
+    "definition": "Dominant landscape feature"
+  },
+  {
+    "word": "Beach",
+    "definition": "Sandy shore along the coast"
+  },
+  {
+    "word": "Rice",
+    "definition": "Staple food in Timorese cuisine"
+  },
+  {
+    "word": "Coral",
+    "definition": "Marine organism forming reefs"
+  },
+  {
+    "word": "Forest",
+    "definition": "Covers much of the interior"
+  },
+  {
+    "word": "Dili",
+    "definition": "Capital city of Timor-Leste"
+  },
+  {
+    "word": "Cristo Rei",
+    "definition": "Large statue overlooking Dili"
+  },
+  {
+    "word": "Achieve",
+    "definition": "To successfully complete a goal"
+  },
+  {
+    "word": "Brave",
+    "definition": "Showing courage and not afraid of danger"
+  },
+  {
+    "word": "Curious",
+    "definition": "Eager to learn or know about something"
+  },
+  {
+    "word": "Determine",
+    "definition": "To decide firmly on a course of action"
+  },
+  {
+    "word": "Encourage",
+    "definition": "To give support or confidence to someone"
+  },
+  {
+    "word": "Friendship",
+    "definition": "A close relationship between two people"
+  },
+  {
+    "word": "Generous",
+    "definition": "Willing to give more than is expected"
+  },
+  {
+    "word": "Honest",
+    "definition": "Truthful and sincere, not lying or cheating"
+  },
+  {
+    "word": "Imagine",
+    "definition": "To form a picture in your mind"
+  },
+  {
+    "word": "Journey",
+    "definition": "An act of traveling from one place to another"
+  },
+  {
+    "word": "Knowledge",
+    "definition": "Information and skills gained through experience or education"
+  },
+  {
+    "word": "Leader",
+    "definition": "A person who guides or directs a group"
+  },
+  {
+    "word": "Motivation",
+    "definition": "The reason for acting or behaving in a particular way"
+  },
+  {
+    "word": "Nature",
+    "definition": "The physical world and its natural features"
+  },
+  {
+    "word": "Opportunity",
+    "definition": "A favorable time or chance for doing something"
+  },
+  {
+    "word": "Patience",
+    "definition": "The ability to wait calmly or accept delays"
+  },
+  {
+    "word": "Quality",
+    "definition": "The standard of something compared to other things"
+  },
+  {
+    "word": "Respect",
+    "definition": "To admire someone or something deeply"
+  },
+  {
+    "word": "Success",
+    "definition": "The accomplishment of a goal or purpose"
+  },
+  {
+    "word": "Teamwork",
+    "definition": "The combined action of a group, especially effective when organized"
+  },
+  {
+    "word": "Understand",
+    "definition": "To perceive the meaning or importance of something"
+  },
+  {
+    "word": "Value",
+    "definition": "The importance or worth of something"
+  },
+  {
+    "word": "Wisdom",
+    "definition": "The quality of having experience, knowledge, and good judgment"
+  },
+  {
+    "word": "Yield",
+    "definition": "To produce or provide a natural or agricultural product"
+  },
+  {
+    "word": "Zeal",
+    "definition": "Great energy or enthusiasm in pursuit of a cause or objective"
+  },
+  {
+    "word": "Adapt",
+    "definition": "To change to fit new circumstances"
+  },
+  {
+    "word": "Balance",
+    "definition": "A state of equality or stability"
+  },
+  {
+    "word": "Collaborate",
+    "definition": "To work jointly on an activity or project"
+  },
+  {
+    "word": "Diverse",
+    "definition": "Showing a great deal of variety"
+  },
+  {
+    "word": "Efficient",
+    "definition": "Working in a well-organized and productive way"
+  },
+  {
+    "word": "Flexible",
+    "definition": "Able to change or be changed easily"
+  },
+  {
+    "word": "Global",
+    "definition": "Relating to the whole world"
+  },
+  {
+    "word": "Harmony",
+    "definition": "A state of agreement or pleasing arrangement of parts"
+  },
+  {
+    "word": "Innovate",
+    "definition": "To introduce new ideas or methods"
+  },
+  {
+    "word": "Justice",
+    "definition": "Fair treatment or behavior"
+  },
+  {
+    "word": "Kinship",
+    "definition": "A feeling of being close or connected to others"
+  },
+  {
+    "word": "Legacy",
+    "definition": "Something handed down from the past"
+  },
+  {
+    "word": "Mindful",
+    "definition": "Conscious or aware of something"
+  },
+  {
+    "word": "Nurture",
+    "definition": "To care for and encourage growth or development"
+  },
+  {
+    "word": "Overcome",
+    "definition": "To succeed in dealing with a problem or difficulty"
+  },
+  {
+    "word": "Persevere",
+    "definition": "To continue doing something despite difficulties"
+  },
+  {
+    "word": "Quantify",
+    "definition": "To express or measure the quantity of something"
+  },
+  {
+    "word": "Resilient",
+    "definition": "Able to recover quickly from difficulties"
+  },
+  {
+    "word": "Sustainable",
+    "definition": "Able to be maintained at a certain level"
+  },
+  {
+    "word": "Transform",
+    "definition": "To change completely in form or character"
+  },
+  {
+    "word": "Unite",
+    "definition": "To come or bring together for a common purpose"
+  },
+  {
+    "word": "Versatile",
+    "definition": "Able to adapt to many different functions or activities"
+  },
+  {
+    "word": "Wellbeing",
+    "definition": "The state of being comfortable, healthy, or happy"
+  },
+  {
+    "word": "Xeric",
+    "definition": "Characterized by or adapted to a dry environment"
+  },
+  {
+    "word": "Yearn",
+    "definition": "To have a strong desire or longing for something"
+  },
+  {
+    "word": "Zenith",
+    "definition": "The highest point or state of something"
+  },
+  {
+    "word": "Abate",
+    "definition": "To become less intense or widespread"
+  },
+  {
+    "word": "Benevolent",
+    "definition": "Kind and generous"
+  },
+  {
+    "word": "Charisma",
+    "definition": "Compelling attractiveness that inspires devotion"
+  },
+  {
+    "word": "Diligent",
+    "definition": "Persistent in doing something"
+  },
+  {
+    "word": "Eloquent",
+    "definition": "Fluent or persuasive in speaking or writing"
+  },
+  {
+    "word": "Frugal",
+    "definition": "Economical in use or expenditure"
+  },
+  {
+    "word": "Gregarious",
+    "definition": "Fond of company; sociable"
+  },
+  {
+    "word": "Hypothesis",
+    "definition": "A proposed explanation for a phenomenon"
+  },
+  {
+    "word": "Imperative",
+    "definition": "Of vital importance; crucial"
+  },
+  {
+    "word": "Juxtapose",
+    "definition": "To place close together for contrasting effect"
+  },
+  {
+    "word": "Kinetic",
+    "definition": "Relating to or resulting from motion"
+  },
+  {
+    "word": "Lucid",
+    "definition": "Easily understood; clear"
+  },
+  {
+    "word": "Meticulous",
+    "definition": "Showing great attention to detail"
+  },
+  {
+    "word": "Nostalgia",
+    "definition": "A sentimental longing for the past"
+  },
+  {
+    "word": "Oscillate",
+    "definition": "To swing back and forth regularly"
+  },
+  {
+    "word": "Paradox",
+    "definition": "A statement that contradicts itself but might be true"
+  },
+  {
+    "word": "Quandary",
+    "definition": "A state of perplexity or uncertainty"
+  },
+  {
+    "word": "Resilient",
+    "definition": "Able to recover quickly from difficulties"
+  },
+  {
+    "word": "Scrutinize",
+    "definition": "To examine closely and critically"
+  },
+  {
+    "word": "Tenacious",
+    "definition": "Persistent; not easily stopped"
+  },
+  {
+    "word": "Ubiquitous",
+    "definition": "Present, appearing, or found everywhere"
+  },
+  {
+    "word": "Verbose",
+    "definition": "Using more words than necessary"
+  },
+  {
+    "word": "Wary",
+    "definition": "Cautious of danger"
+  },
+  {
+    "word": "Xenophobia",
+    "definition": "Fear or hatred of foreigners or strangers"
+  },
+  {
+    "word": "Yield",
+    "definition": "To give way to or produce"
+  },
+  {
+    "word": "Zeal",
+    "definition": "Great energy or enthusiasm in pursuit of a cause"
+  },
+  {
+    "word": "Ambiguous",
+    "definition": "Open to more than one interpretation"
+  },
+  {
+    "word": "Brevity",
+    "definition": "Concise and exact use of words"
+  },
+  {
+    "word": "Cognition",
+    "definition": "The mental action of acquiring knowledge"
+  },
+  {
+    "word": "Divergent",
+    "definition": "Tending to be different or develop in different directions"
+  },
+  {
+    "word": "Empathy",
+    "definition": "The ability to understand and share the feelings of another"
+  },
+  {
+    "word": "Facade",
+    "definition": "The front of a building or a deceptive outward appearance"
+  },
+  {
+    "word": "Gullible",
+    "definition": "Easily persuaded to believe something"
+  },
+  {
+    "word": "Hegemony",
+    "definition": "Leadership or dominance, especially by one state or social group"
+  },
+  {
+    "word": "Idiosyncrasy",
+    "definition": "A distinctive or peculiar feature or characteristic"
+  },
+  {
+    "word": "Jeopardize",
+    "definition": "To put at risk of loss or failure"
+  },
+  {
+    "word": "Kinship",
+    "definition": "A feeling of being close or connected to other people"
+  },
+  {
+    "word": "Lethargic",
+    "definition": "Lacking energy; sluggish and apathetic"
+  },
+  {
+    "word": "Mitigate",
+    "definition": "To make less severe or serious"
+  },
+  {
+    "word": "Nonchalant",
+    "definition": "Feeling or appearing casually calm and relaxed"
+  },
+  {
+    "word": "Ostentatious",
+    "definition": "Characterized by pretentious or showy display"
+  },
+  {
+    "word": "Perplexity",
+    "definition": "The state of being confused or baffled"
+  },
+  {
+    "word": "Quintessential",
+    "definition": "Representing the most perfect or typical example"
+  },
+  {
+    "word": "Rapport",
+    "definition": "A close and harmonious relationship"
+  },
+  {
+    "word": "Surreptitious",
+    "definition": "Kept secret, especially because it would not be approved of"
+  },
+  {
+    "word": "Taciturn",
+    "definition": "Reserved or uncommunicative in speech; saying little"
+  },
+  {
+    "word": "Unequivocal",
+    "definition": "Leaving no doubt; unambiguous"
+  },
+  {
+    "word": "Vindicate",
+    "definition": "To clear of blame or suspicion"
+  },
+  {
+    "word": "Whimsical",
+    "definition": "Playfully quaint or fanciful"
+  },
+  {
+    "word": "Xenial",
+    "definition": "Hospitable, especially to strangers or foreigners"
+  },
+  {
+    "word": "Yearn",
+    "definition": "To have an intense feeling of longing for something"
+  },
+  {
+    "word": "Zealot",
+    "definition": "A person who is fanatical and uncompromising in pursuit of their ideals"
+  },
+  {
+    "word": "Alacrity",
+    "definition": "Brisk and cheerful readiness"
+  },
+  {
+    "word": "Benign",
+    "definition": "Gentle and kind; not harmful"
+  },
+  {
+    "word": "Cacophony",
+    "definition": "A harsh, discordant mixture of sounds"
+  },
+  {
+    "word": "Dearth",
+    "definition": "A scarcity or lack of something"
+  },
+  {
+    "word": "Ephemeral",
+    "definition": "Lasting for a very short time"
+  },
+  {
+    "word": "Fickle",
+    "definition": "Changing frequently, especially in loyalties or attitudes"
+  },
+  {
+    "word": "Grandiose",
+    "definition": "Impressive and imposing in appearance or style"
+  },
+  {
+    "word": "Hedonism",
+    "definition": "The pursuit of pleasure as a way of life"
+  },
+  {
+    "word": "Innocuous",
+    "definition": "Not harmful or offensive"
+  },
+  {
+    "word": "Jubilant",
+    "definition": "Feeling or expressing great happiness and triumph"
+  },
+  {
+    "word": "Kaleidoscope",
+    "definition": "A constantly changing pattern or sequence of elements"
+  },
+  {
+    "word": "Loquacious",
+    "definition": "Tending to talk a great deal"
+  },
+  {
+    "word": "Melancholy",
+    "definition": "A feeling of pensive sadness"
+  },
+  {
+    "word": "Nebulous",
+    "definition": "Unclear, vague, or ill-defined"
+  },
+  {
+    "word": "Obfuscate",
+    "definition": "To make obscure, unclear, or unintelligible"
+  },
+  {
+    "word": "Panacea",
+    "definition": "A solution or remedy for all difficulties or diseases"
+  },
+  {
+    "word": "Quixotic",
+    "definition": "Exceedingly idealistic; unrealistic and impractical"
+  },
+  {
+    "word": "Repudiate",
+    "definition": "To reject as having no authority or binding force"
+  },
+  {
+    "word": "Serendipity",
+    "definition": "The occurrence of events by chance in a happy or beneficial way"
+  },
+  {
+    "word": "Trepidation",
+    "definition": "A feeling of fear or agitation about something that may happen"
+  },
+  {
+    "word": "Ubiquitous",
+    "definition": "Present, appearing, or found everywhere"
+  },
+  {
+    "word": "Voracious",
+    "definition": "Wanting or devouring great quantities of food"
+  },
+  {
+    "word": "Wistful",
+    "definition": "Characterized by melancholy; longing"
+  },
+  {
+    "word": "Xylophone",
+    "definition": "A musical instrument played by striking a row of wooden bars"
+  },
+  {
+    "word": "Yoke",
+    "definition": "A wooden crosspiece fastened over the necks of two animals"
+  },
+  {
+    "word": "Zephyr",
+    "definition": "A soft gentle breeze"
+  },
+  {
+    "word": "Acumen",
+    "definition": "The ability to make good judgments and quick decisions"
+  },
+  {
+    "word": "Belligerent",
+    "definition": "Hostile and aggressive"
+  },
+  {
+    "word": "Conundrum",
+    "definition": "A confusing and difficult problem or question"
+  },
+  {
+    "word": "Dexterous",
+    "definition": "Showing or having skill, especially with the hands"
+  },
+  {
+    "word": "Ebullient",
+    "definition": "Cheerful and full of energy"
+  },
+  {
+    "word": "Fastidious",
+    "definition": "Very attentive to and concerned about accuracy and detail"
+  },
+  {
+    "word": "Garrulous",
+    "definition": "Excessively talkative, especially on trivial matters"
+  },
+  {
+    "word": "Harbinger",
+    "definition": "A person or thing that announces or signals the approach of another"
+  },
+  {
+    "word": "Ingenuous",
+    "definition": "Innocent and unsuspecting"
+  },
+  {
+    "word": "Judicious",
+    "definition": "Having, showing, or done with good judgment or sense"
+  },
+  {
+    "word": "Kinetic",
+    "definition": "Relating to or resulting from motion"
+  },
+  {
+    "word": "Labyrinth",
+    "definition": "A complicated irregular network of passages or paths"
+  },
+  {
+    "word": "Magnanimous",
+    "definition": "Very generous or forgiving, especially toward a rival or less powerful person"
+  },
+  {
+    "word": "Nefarious",
+    "definition": "Wicked or criminal"
+  },
+  {
+    "word": "Opulent",
+    "definition": "Ostentatiously rich and luxurious or lavish"
+  },
+  {
+    "word": "Perfidious",
+    "definition": "Deceitful and untrustworthy"
+  },
+  {
+    "word": "Quotidian",
+    "definition": "Of or occurring every day; daily"
+  },
+  {
+    "word": "Recalcitrant",
+    "definition": "Having an obstinately uncooperative attitude toward authority"
+  },
+  {
+    "word": "Sycophant",
+    "definition": "A person who acts obsequiously toward someone important to gain advantage"
+  },
+  {
+    "word": "Tacit",
+    "definition": "Understood or implied without being stated"
+  },
+  {
+    "word": "Untenable",
+    "definition": "Not able to be maintained or defended against attack or objection"
+  },
+  {
+    "word": "Vicarious",
+    "definition": "Experienced in the imagination through the feelings or actions of another person"
+  },
+  {
+    "word": "Wanton",
+    "definition": "Deliberate and unprovoked"
+  },
+  {
+    "word": "Xeric",
+    "definition": "Characterized by or adapted to a dry environment"
+  },
+  {
+    "word": "Yammer",
+    "definition": "To complain or whine persistently"
+  },
+  {
+    "word": "Zenith",
+    "definition": "The time at which something is most powerful or successful"
+  }  
+]

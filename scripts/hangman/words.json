@@ -1,0 +1,838 @@
+[
+  {
+    "word": "TIMOR",
+    "clue": "The island where Timor-Leste is located"
+  },
+  {
+    "word": "LESTE",
+    "clue": "Means 'East' in Portuguese, part of the country's name"
+  },
+  {
+    "word": "DILI",
+    "clue": "The capital city of Timor-Leste"
+  },
+  {
+    "word": "TASI",
+    "clue": "Tetum word for 'sea'"
+  },
+  {
+    "word": "FOHO",
+    "clue": "Tetum word for 'mountain'"
+  },
+  {
+    "word": "LAFAEK",
+    "clue": "Tetum word for 'crocodile', an important animal in Timorese culture"
+  },
+  {
+    "word": "CROCODILO",
+    "clue": "Portuguese word for an important animal in Timorese culture"
+  },
+  {
+    "word": "TAIS",
+    "clue": "Traditional Timorese woven cloth"
+  },
+  {
+    "word": "KAFE",
+    "clue": "Tetum word for an important export crop of Timor-Leste"
+  },
+  {
+    "word": "MANU",
+    "clue": "Tetum word for 'bird' or 'chicken'"
+  },
+  {
+    "word": "BAUCAU",
+    "clue": "Second largest city in Timor-Leste"
+  },
+  {
+    "word": "LOSPALOS",
+    "clue": "Town in the eastern part of Timor-Leste"
+  },
+  {
+    "word": "MALIANA",
+    "clue": "Town near the border with West Timor"
+  },
+  {
+    "word": "SUAI",
+    "clue": "Town in the southwestern part of Timor-Leste"
+  },
+  {
+    "word": "OECUSSE",
+    "clue": "An exclave of Timor-Leste surrounded by Indonesian territory"
+  },
+  {
+    "word": "ATAURO",
+    "clue": "Island north of Dili, part of Timor-Leste"
+  },
+  {
+    "word": "JACO",
+    "clue": "Small uninhabited island at the eastern tip of Timor-Leste"
+  },
+  {
+    "word": "RAMELAU",
+    "clue": "Highest mountain in Timor-Leste"
+  },
+  {
+    "word": "MATEBIAN",
+    "clue": "Mountain range in eastern Timor-Leste"
+  },
+  {
+    "word": "KABLAKI",
+    "clue": "Mountain in the central part of Timor-Leste"
+  },
+  {
+    "word": "BEIRO",
+    "clue": "Traditional Timorese boat"
+  },
+  {
+    "word": "AILEU",
+    "clue": "Municipality in central Timor-Leste"
+  },
+  {
+    "word": "AINARO",
+    "clue": "Municipality in southwestern Timor-Leste"
+  },
+  {
+    "word": "ERMERA",
+    "clue": "Municipality known for coffee production"
+  },
+  {
+    "word": "LIQUICA",
+    "clue": "Coastal municipality west of Dili"
+  },
+  {
+    "word": "MANATUTO",
+    "clue": "Municipality on the north coast of Timor-Leste"
+  },
+  {
+    "word": "MANUFAHI",
+    "clue": "Municipality in southern Timor-Leste"
+  },
+  {
+    "word": "VIQUEQUE",
+    "clue": "Municipality in southeastern Timor-Leste"
+  },
+  {
+    "word": "COVALIMA",
+    "clue": "Municipality in southwestern Timor-Leste, bordering Indonesia"
+  },
+  {
+    "word": "LAUTEM",
+    "clue": "Easternmost municipality of Timor-Leste"
+  },
+  {
+    "word": "BOBONARO",
+    "clue": "Municipality in western Timor-Leste"
+  },
+  {
+    "word": "UMA LULIK",
+    "clue": "Traditional sacred house in Timorese culture"
+  },
+  {
+    "word": "LIURAI",
+    "clue": "Traditional Timorese king or chief"
+  },
+  {
+    "word": "FATALUKU",
+    "clue": "Ethnic group and language in eastern Timor-Leste"
+  },
+  {
+    "word": "MAMBAE",
+    "clue": "Ethnic group and language in central Timor-Leste"
+  },
+  {
+    "word": "TETUM",
+    "clue": "Official language of Timor-Leste, along with Portuguese"
+  },
+  {
+    "word": "MAKASAE",
+    "clue": "Ethnic group and language in eastern Timor-Leste"
+  },
+  {
+    "word": "BUNAK",
+    "clue": "Ethnic group and language in central Timor-Leste"
+  },
+  {
+    "word": "KEMAK",
+    "clue": "Ethnic group and language in western Timor-Leste"
+  },
+  {
+    "word": "TOKODEDE",
+    "clue": "Ethnic group and language in Liquiçá area"
+  },
+  {
+    "word": "GALOLEN",
+    "clue": "Ethnic group and language in Manatuto area"
+  },
+  {
+    "word": "HABUN",
+    "clue": "Ethnic group and language in Manatuto area"
+  },
+  {
+    "word": "IDATE",
+    "clue": "Ethnic group and language in Manatuto area"
+  },
+  {
+    "word": "NAUETI",
+    "clue": "Ethnic group and language in Viqueque area"
+  },
+  {
+    "word": "WAIMA'A",
+    "clue": "Ethnic group and language in Baucau area"
+  },
+  {
+    "word": "BEKAIS",
+    "clue": "Ethnic group and language in Bobonaro area"
+  },
+  {
+    "word": "DAWAN",
+    "clue": "Language spoken in Oecusse"
+  },
+  {
+    "word": "MAKUVA",
+    "clue": "Nearly extinct language in Lautém"
+  },
+  {
+    "word": "XANANA",
+    "clue": "First name of a prominent Timorese politician and former president"
+  },
+  {
+    "word": "GUSMAO",
+    "clue": "Last name of a prominent Timorese politician and former president"
+  },
+  {
+    "word": "RAMOS",
+    "clue": "Last name of a Nobel Peace Prize laureate from Timor-Leste"
+  },
+  {
+    "word": "HORTA",
+    "clue": "Last name of a Nobel Peace Prize laureate and former president"
+  },
+  {
+    "word": "ALKATIRI",
+    "clue": "Last name of Timor-Leste's first Prime Minister"
+  },
+  {
+    "word": "RUAK",
+    "clue": "Last name of a former President and Prime Minister"
+  },
+  {
+    "word": "FALINTIL",
+    "clue": "Armed wing of the Timorese resistance during Indonesian occupation"
+  },
+  {
+    "word": "FRETILIN",
+    "clue": "Revolutionary Front for an Independent East Timor, a political party"
+  },
+  {
+    "word": "UDT",
+    "clue": "Timorese Democratic Union, a political party"
+  },
+  {
+    "word": "CNRT",
+    "clue": "National Congress for Timorese Reconstruction, a political party"
+  },
+  {
+    "word": "SANTA CRUZ",
+    "clue": "Cemetery in Dili, site of a massacre in 1991"
+  },
+  {
+    "word": "CRISTO REI",
+    "clue": "Large statue of Jesus Christ in Dili"
+  },
+  {
+    "word": "TASITOLU",
+    "clue": "Area in Dili with salt lakes"
+  },
+  {
+    "word": "AREIA BRANCA",
+    "clue": "Popular beach in Dili, means 'White Sand' in Portuguese"
+  },
+  {
+    "word": "SURIK MAS",
+    "clue": "Famous market in Dili"
+  },
+  {
+    "word": "TASI TOLU",
+    "clue": "Area with three lakes near Dili"
+  },
+  {
+    "word": "BELOI",
+    "clue": "Village on Atauro Island known for its beaches"
+  },
+  {
+    "word": "BALIBO",
+    "clue": "Town known for the killing of five Australian journalists in 1975"
+  },
+  {
+    "word": "MAUBISSE",
+    "clue": "Mountain town known for its cool climate and coffee"
+  },
+  {
+    "word": "HATUBUILICO",
+    "clue": "Village near Mount Ramelau"
+  },
+  {
+    "word": "COM",
+    "clue": "Coastal village in Lautém known for its beaches"
+  },
+  {
+    "word": "TUTUALA",
+    "clue": "Village near the easternmost point of Timor-Leste"
+  },
+  {
+    "word": "VENILALE",
+    "clue": "Town known for its Portuguese-era architecture"
+  },
+  {
+    "word": "LAGA",
+    "clue": "Coastal town in Baucau known for its beaches"
+  },
+  {
+    "word": "LOLOTOE",
+    "clue": "Mountain town in Bobonaro"
+  },
+  {
+    "word": "LACLUTA",
+    "clue": "Town in Viqueque known for its resistance history"
+  },
+  {
+    "word": "MAUBARA",
+    "clue": "Coastal town known for its fort and salt production"
+  },
+  {
+    "word": "GLENO",
+    "clue": "Capital of Ermera municipality"
+  },
+  {
+    "word": "BETANO",
+    "clue": "Coastal area in Manufahi known for its WWII history"
+  },
+  {
+    "word": "LORE",
+    "clue": "Village in Lautém near prehistoric rock art sites"
+  },
+  {
+    "word": "RAILACO",
+    "clue": "Town in Ermera known for its coffee production"
+  },
+  {
+    "word": "MAROBO",
+    "clue": "Area in Bobonaro known for its hot springs"
+  },
+  {
+    "word": "NATARBORA",
+    "clue": "Coastal area in Manatuto with a large coconut plantation"
+  },
+  {
+    "word": "OSSUROA",
+    "clue": "Mountain in Baucau with a sacred lake"
+  },
+  {
+    "word": "LAUALA",
+    "clue": "Beach near Baucau"
+  },
+  {
+    "word": "UATOLARI",
+    "clue": "Town in Viqueque"
+  },
+  {
+    "word": "TILOMAR",
+    "clue": "Town in Covalima near the Indonesian border"
+  },
+  {
+    "word": "LETEFOHO",
+    "clue": "Town in Ermera known for coffee production"
+  },
+  {
+    "word": "ZUMALAI",
+    "clue": "Town in Covalima"
+  },
+  {
+    "word": "BAZARTETE",
+    "clue": "Town in Liquiçá"
+  },
+  {
+    "word": "ATAURO",
+    "clue": "Island north of Dili"
+  },
+  {
+    "word": "FATUMACA",
+    "clue": "Village in Baucau known for its technical school"
+  },
+  {
+    "word": "HATO UDO",
+    "clue": "Town in Ainaro"
+  },
+  {
+    "word": "WATULARI",
+    "clue": "Town in Viqueque"
+  },
+  {
+    "word": "FATUBERLIU",
+    "clue": "Town in Manufahi"
+  },
+  {
+    "word": "HATOLIA",
+    "clue": "Town in Ermera"
+  },
+  {
+    "word": "ATSABE",
+    "clue": "Town in Ermera"
+  },
+  {
+    "word": "NITIBE",
+    "clue": "Town in Oecusse"
+  },
+  {
+    "word": "PASSABE",
+    "clue": "Town in Oecusse"
+  },
+  {
+    "word": "LACLO",
+    "clue": "Town in Manatuto"
+  },
+  {
+    "word": "LACLUBAR",
+    "clue": "Town in Manatuto"
+  },
+  {
+    "word": "LALEIA",
+    "clue": "Town in Manatuto"
+  },
+  {
+    "word": "SOIBADA",
+    "clue": "Town in Manatuto known for its historical significance"
+  },
+  {
+    "word": "QUELICAI",
+    "clue": "Town in Baucau"
+  },
+  {
+    "word": "VEMASSE",
+    "clue": "Town in Baucau"
+  },
+  {
+    "word": "ILIOMAR",
+    "clue": "Town in Lautém"
+  },
+  {
+    "word": "COFFEE",
+    "clue": "Major export crop of Timor-Leste"
+  },
+  {
+    "word": "BEACH",
+    "clue": "Timor-Leste has many beautiful sandy shores"
+  },
+  {
+    "word": "MOUNTAIN",
+    "clue": "Timor-Leste's landscape is dominated by these"
+  },
+  {
+    "word": "TAIS",
+    "clue": "Traditional woven cloth of Timor-Leste"
+  },
+  {
+    "word": "CROCODILE",
+    "clue": "Sacred animal in Timorese culture"
+  },
+  {
+    "word": "COCONUT",
+    "clue": "Common tropical fruit in Timor-Leste"
+  },
+  {
+    "word": "RICE",
+    "clue": "Staple food in Timorese cuisine"
+  },
+  {
+    "word": "CORAL",
+    "clue": "Found in the reefs surrounding Timor-Leste"
+  },
+  {
+    "word": "FOREST",
+    "clue": "Covers much of Timor-Leste's interior"
+  },
+  {
+    "word": "BAMBOO",
+    "clue": "Plant used in traditional Timorese construction"
+  },
+  {
+    "word": "CHURCH",
+    "clue": "Common religious building in Timor-Leste"
+  },
+  {
+    "word": "MARKET",
+    "clue": "Place to buy local produce and goods"
+  },
+  {
+    "word": "FISHING",
+    "clue": "Important coastal activity in Timor-Leste"
+  },
+  {
+    "word": "MANGO",
+    "clue": "Tropical fruit grown in Timor-Leste"
+  },
+  {
+    "word": "DRUMS",
+    "clue": "Traditional musical instrument in Timor-Leste"
+  },
+  {
+    "word": "PALM",
+    "clue": "Common tree in Timor-Leste's landscape"
+  },
+  {
+    "word": "STATUE",
+    "clue": "Cristo Rei is a famous one in Dili"
+  },
+  {
+    "word": "FORT",
+    "clue": "Portuguese-era structures found in Timor-Leste"
+  },
+  {
+    "word": "DIVING",
+    "clue": "Popular activity in Timor-Leste's waters"
+  },
+  {
+    "word": "ISLAND",
+    "clue": "Atauro is an example near Timor-Leste"
+  },
+  {
+    "word": "BOAT",
+    "clue": "Used for fishing and transport in coastal areas"
+  },
+  {
+    "word": "POTTERY",
+    "clue": "Traditional craft in some Timorese villages"
+  },
+  {
+    "word": "FESTIVAL",
+    "clue": "Cultural celebrations in Timor-Leste"
+  },
+  {
+    "word": "WEAVING",
+    "clue": "Traditional skill used to make tais"
+  },
+  {
+    "word": "MACHETE",
+    "clue": "Common tool used in agriculture"
+  },
+  {
+    "word": "SPEAR",
+    "clue": "Traditional weapon in Timorese culture"
+  },
+  {
+    "word": "CHICKEN",
+    "clue": "Common livestock in Timorese households"
+  },
+  {
+    "word": "BUFFALO",
+    "clue": "Large animal used in agriculture"
+  },
+  {
+    "word": "CORN",
+    "clue": "Important crop in Timor-Leste"
+  },
+  {
+    "word": "CASSAVA",
+    "clue": "Root vegetable grown in Timor-Leste"
+  },
+  {
+    "word": "BANANA",
+    "clue": "Fruit commonly grown in Timor-Leste"
+  },
+  {
+    "word": "PAPAYA",
+    "clue": "Tropical fruit found in Timor-Leste"
+  },
+  {
+    "word": "AVOCADO",
+    "clue": "Fruit grown in cooler areas of Timor-Leste"
+  },
+  {
+    "word": "PINEAPPLE",
+    "clue": "Tropical fruit cultivated in Timor-Leste"
+  },
+  {
+    "word": "VANILLA",
+    "clue": "Spice crop grown in Timor-Leste"
+  },
+  {
+    "word": "CINNAMON",
+    "clue": "Spice harvested from tree bark in Timor-Leste"
+  },
+  {
+    "word": "CLOVE",
+    "clue": "Aromatic spice produced in Timor-Leste"
+  },
+  {
+    "word": "PEPPER",
+    "clue": "Spice grown in some parts of Timor-Leste"
+  },
+  {
+    "word": "COCOA",
+    "clue": "Crop used to make chocolate, grown in Timor-Leste"
+  },
+  {
+    "word": "TOBACCO",
+    "clue": "Crop grown in some areas of Timor-Leste"
+  },
+  {
+    "word": "SANDALWOOD",
+    "clue": "Aromatic wood historically exported from Timor-Leste"
+  },
+  {
+    "word": "TEAK",
+    "clue": "Valuable timber tree grown in Timor-Leste"
+  },
+  {
+    "word": "EUCALYPTUS",
+    "clue": "Tree species found in Timor-Leste's forests"
+  },
+  {
+    "word": "MANGROVE",
+    "clue": "Coastal tree important for ecosystem protection"
+  },
+  {
+    "word": "SEAWEED",
+    "clue": "Marine plant cultivated in some coastal areas"
+  },
+  {
+    "word": "TURTLE",
+    "clue": "Marine reptile found in Timor-Leste's waters"
+  },
+  {
+    "word": "DOLPHIN",
+    "clue": "Marine mammal seen in Timor-Leste's seas"
+  },
+  {
+    "word": "WHALE",
+    "clue": "Large marine mammal spotted off Timor-Leste's coast"
+  },
+  {
+    "word": "DUGONG",
+    "clue": "Sea mammal found in Timor-Leste's coastal waters"
+  },
+  {
+    "word": "CORAL",
+    "clue": "Marine organism forming reefs around Timor-Leste"
+  },
+  {
+    "word": "REEF",
+    "clue": "Underwater ecosystem surrounding Timor-Leste"
+  },
+  {
+    "word": "LOBSTER",
+    "clue": "Crustacean found in Timor-Leste's waters"
+  },
+  {
+    "word": "CRAB",
+    "clue": "Crustacean found on Timor-Leste's shores"
+  },
+  {
+    "word": "SHRIMP",
+    "clue": "Small crustacean caught in Timor-Leste's waters"
+  },
+  {
+    "word": "TUNA",
+    "clue": "Large fish caught in Timor-Leste's waters"
+  },
+  {
+    "word": "SNAPPER",
+    "clue": "Popular fish in Timor-Leste's cuisine"
+  },
+  {
+    "word": "BARRACUDA",
+    "clue": "Predatory fish found in Timor-Leste's waters"
+  },
+  {
+    "word": "MACKEREL",
+    "clue": "Fish commonly caught in Timor-Leste"
+  },
+  {
+    "word": "SARDINE",
+    "clue": "Small fish important in Timorese fishing industry"
+  },
+  {
+    "word": "OCTOPUS",
+    "clue": "Sea creature caught in Timor-Leste's waters"
+  },
+  {
+    "word": "SQUID",
+    "clue": "Cephalopod found in Timor-Leste's seas"
+  },
+  {
+    "word": "SEASHELL",
+    "clue": "Found on Timor-Leste's beaches"
+  },
+  {
+    "word": "STARFISH",
+    "clue": "Marine animal found in Timor-Leste's coastal waters"
+  },
+  {
+    "word": "JELLYFISH",
+    "clue": "Floating marine animal in Timor-Leste's waters"
+  },
+  {
+    "word": "SEAHORSE",
+    "clue": "Small marine fish found in Timor-Leste's waters"
+  },
+  {
+    "word": "CLOWNFISH",
+    "clue": "Colorful reef fish in Timor-Leste's waters"
+  },
+  {
+    "word": "PARROTFISH",
+    "clue": "Brightly colored fish in Timor-Leste's reefs"
+  },
+  {
+    "word": "ANGELFISH",
+    "clue": "Ornate fish found in Timor-Leste's coral reefs"
+  },
+  {
+    "word": "BUTTERFLY",
+    "clue": "Insect found in Timor-Leste's diverse ecosystems"
+  },
+  {
+    "word": "DRAGONFLY",
+    "clue": "Flying insect seen near Timor-Leste's water bodies"
+  },
+  {
+    "word": "FIREFLY",
+    "clue": "Bioluminescent insect found in Timor-Leste"
+  },
+  {
+    "word": "CICADA",
+    "clue": "Noisy insect heard in Timor-Leste's forests"
+  },
+  {
+    "word": "GRASSHOPPER",
+    "clue": "Jumping insect found in Timor-Leste's grasslands"
+  },
+  {
+    "word": "CRICKET",
+    "clue": "Chirping insect found in Timor-Leste"
+  },
+  {
+    "word": "SPIDER",
+    "clue": "Eight-legged creature found in Timor-Leste"
+  },
+  {
+    "word": "SCORPION",
+    "clue": "Arachnid found in some areas of Timor-Leste"
+  },
+  {
+    "word": "CENTIPEDE",
+    "clue": "Many-legged arthropod found in Timor-Leste"
+  },
+  {
+    "word": "MILLIPEDE",
+    "clue": "Many-legged arthropod in Timor-Leste's forests"
+  },
+  {
+    "word": "SNAKE",
+    "clue": "Reptile found in various habitats in Timor-Leste"
+  },
+  {
+    "word": "LIZARD",
+    "clue": "Common reptile seen in Timor-Leste"
+  },
+  {
+    "word": "GECKO",
+    "clue": "Small lizard often seen on walls in Timor-Leste"
+  },
+  {
+    "word": "MONITOR",
+    "clue": "Large lizard found in Timor-Leste"
+  },
+  {
+    "word": "FROG",
+    "clue": "Amphibian found near water bodies in Timor-Leste"
+  },
+  {
+    "word": "TOAD",
+    "clue": "Amphibian found in various habitats in Timor-Leste"
+  },
+  {
+    "word": "BAT",
+    "clue": "Flying mammal found in caves and forests"
+  },
+  {
+    "word": "MONKEY",
+    "clue": "Primate found in some forests of Timor-Leste"
+  },
+  {
+    "word": "DEER",
+    "clue": "Hoofed mammal found in Timor-Leste's forests"
+  },
+  {
+    "word": "CIVET",
+    "clue": "Small carnivorous mammal found in Timor-Leste"
+  },
+  {
+    "word": "CUSCUS",
+    "clue": "Marsupial found in Timor-Leste's forests"
+  },
+  {
+    "word": "EAGLE",
+    "clue": "Large bird of prey seen in Timor-Leste"
+  },
+  {
+    "word": "HAWK",
+    "clue": "Bird of prey found in Timor-Leste"
+  },
+  {
+    "word": "OWL",
+    "clue": "Nocturnal bird found in Timor-Leste's forests"
+  },
+  {
+    "word": "PARROT",
+    "clue": "Colorful bird species found in Timor-Leste"
+  },
+  {
+    "word": "COCKATOO",
+    "clue": "Large parrot species found in Timor-Leste"
+  },
+  {
+    "word": "PIGEON",
+    "clue": "Common bird found in Timor-Leste"
+  },
+  {
+    "word": "DOVE",
+    "clue": "Bird species found in Timor-Leste"
+  },
+  {
+    "word": "KINGFISHER",
+    "clue": "Brightly colored bird found near water in Timor-Leste"
+  },
+  {
+    "word": "HERON",
+    "clue": "Wading bird found in Timor-Leste's wetlands"
+  },
+  {
+    "word": "EGRET",
+    "clue": "White wading bird seen in Timor-Leste"
+  },
+  {
+    "word": "PELICAN",
+    "clue": "Large water bird seen on Timor-Leste's coasts"
+  },
+  {
+    "word": "SEAGULL",
+    "clue": "Coastal bird seen in Timor-Leste"
+  },
+  {
+    "word": "TERN",
+    "clue": "Seabird found on Timor-Leste's coasts"
+  },
+  {
+    "word": "SANDPIPER",
+    "clue": "Shorebird seen on Timor-Leste's beaches"
+  },
+  {
+    "word": "PLOVER",
+    "clue": "Small shorebird found on Timor-Leste's coasts"
+  },
+  {
+    "word": "HORNBILL",
+    "clue": "Large-billed bird found in Timor-Leste's forests"
+  }  
+]
