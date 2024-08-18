@@ -8,6 +8,8 @@ Bem-vindo ba sentru ida ne'ebé kompleto ho rekursu sira ne'ebé dezignadu hodi 
 
 <img src="jpg/TL_kid.jpg" alt="Smiling Timorese girl studying" width="400"/>
 
+https://go-tl.com/
+
 Bele hetan média apoiu ba kursu sira iha ne'e/Support media for the courses can be found here:
 https://tefl.go-tl.com/
 
