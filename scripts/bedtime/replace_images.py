@@ -36,10 +36,10 @@ def invalidate_cloudfront_cache(distribution_id, story_name):
     except Exception as e:
         print(f"Error creating invalidation: {str(e)}")
 
-def get_bedtime_html():
-    response = s3.get_object(Bucket='tl-web', Key='bedtime.html')
-    html_content = response['Body'].read().decode('utf-8')
-    return html_content
+def get_s3_file_content(bucket, key):
+    response = s3.get_object(Bucket=bucket, Key=key)
+    file_content = response['Body'].read().decode('utf-8')
+    return file_content
 
 def parse_images_from_html(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -131,8 +131,12 @@ def generate_story_image(part, style, is_first_image):
     return generate_new_image(payload)
 
 def main():
-    # Get current bedtime.html content
-    html_content = get_bedtime_html()
+    # Prompt for S3 file location
+    bucket = input("Enter the S3 bucket name: ")
+    key = input("Enter the S3 file key: ")
+
+    # Get content of the specified S3 file
+    html_content = get_s3_file_content(bucket, key)
     
     # Parse current image URLs from HTML
     current_image_urls = parse_images_from_html(html_content)

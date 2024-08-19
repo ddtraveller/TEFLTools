@@ -87,19 +87,50 @@ def generate_article(truncated_info, article_topic):
     """Generate an AP article about"""
     prompt = f"""Given the following information:
     {truncated_info}
-    Write an article about {article_topic}.
-    Articles should be written in AP Style.
-    Word count. 400-500 words
-    Three or more sources. Use at least three distinct sources (borgenproject.org and borgenmagazine.com cannot be used as sources). List hyperlinks for your sources alphabetically at the bottom of your article.
-    Write in the “Inverted Pyramid.” Begin your article with a gripping lede under 35 words. Include the most important information at the top, and trickle down to your supplementary and supporting information.
-    Avoid clunky paragraphs. This isn’t a college essay. Paragraphs should be short enough to keep readers moving to the next one, but long enough to give readers the information they need. Aim for 2-3 sentences. Be specific in your information, attributing your information when possible; don’t over-generalize.
-    Concise content. Write in short, grammatically correct sentences. Do not use the passive voice. Use active verbs, good adjectives and not too many superlatives.
-    Readers have a very brief attention span. Grab their attention with figures and information; provide fascinating facts. Use a list format or subheadings where appropriate.
-    Titles should be short and very clear. Anybody reading your title should know what you’re trying to say.
-    Report and write in the third person. You are reporting information and stating fact, not belief. Do not use “I,” “you” or “we.”
-    Avoid long quotes and multiple quotes per paragraph. Be sure to properly attribute your quotes. Don’t rely too heavily on quotes; paraphrase when applicable.
-    There is a time and a place for stylistic flare. We love to see the punchy, one-sentence-long paragraphs, the rhetorical questions, the em-dashes and other bits of stylistic flair, but only when it’s done sparingly. Do not rely on it as a crutch.
-    Don't add any text or commentary before or after the article"""
+    Generate an AP-style news article about {article_topic}
+    
+    Guidelines:
+    1. Article length: 400-500 words
+    
+    2. Sources: Use at least three distinct, credible sources. Exclude borgenproject.org and borgenmagazine.com. List source URLs alphabetically at the end of the article.
+    
+    3. Structure: Follow the "Inverted Pyramid" format:
+       - Begin with a compelling lede under 35 words
+       - Present the most crucial information first
+       - Follow with supporting details in descending order of importance
+    
+    4. Paragraphs: Keep them concise (2-3 sentences) to maintain reader engagement. Provide specific, attributed information.
+    
+    5. Writing style:
+       - Use short, grammatically correct sentences
+       - Employ active voice and strong verbs
+       - Avoid passive voice and excessive superlatives
+       - Write in third person (no "I," "you," or "we")
+       - Use AP style for punctuation, capitalization, and formatting
+    
+    6. Content:
+       - Grab attention with relevant facts and figures
+       - Use subheadings or lists where appropriate to break up text
+       - Avoid long or multiple quotes in a single paragraph
+       - Attribute quotes properly and paraphrase when suitable
+    
+    7. Title: Create a clear, concise headline that accurately reflects the article's content
+    
+    8. Dates and times: Follow AP style guidelines (e.g., spell out months when used alone, abbreviate when used with a date)
+    
+    9. Numbers: Spell out numbers one through nine, use figures for 10 and above (with exceptions as per AP style)
+    
+    10. State names: Spell out state names in the body of the article, use AP style abbreviations in datelines
+    
+    11. Titles and names: Use proper capitalization and formatting for titles before names, lowercase titles after names or standing alone
+    
+    12. Abbreviations and acronyms: Spell out on first reference, followed by the acronym in parentheses. Use the acronym for subsequent references.
+    
+    13. Avoid unnecessary stylistic flourishes. Use em dashes, rhetorical questions, and one-sentence paragraphs sparingly for emphasis.
+    
+    14. Dateline: Include a proper AP style dateline at the beginning of the article if the story is from a specific location.
+    
+    Produce a factual, objective news article adhering to these AP style guidelines and journalistic best practices."""
         
     message = client.messages.create(
         model="claude-3-5-sonnet-20240620",
