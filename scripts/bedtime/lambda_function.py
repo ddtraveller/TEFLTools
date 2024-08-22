@@ -18,6 +18,8 @@ from lark import Lark, Transformer
 from gtts import gTTS
 import sys
 import anthropic
+import urllib.parse
+from requests_toolbelt import MultipartEncoder
 
 # Set up paths (assuming the script is in the same directory as the JSON files)
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -25,6 +27,13 @@ DICT_FILE = SCRIPT_DIR / 'dictionary.json'
 PHRASES_FILE = SCRIPT_DIR / 'phrases.json'
 COMPOUND_FILE = SCRIPT_DIR / 'compound.json'
 RANDOM_ELEMENTS_FILE = SCRIPT_DIR / 'random_elements.json'
+ALLOWED_ORIGINS = ['https://tl-web.s3.us-west-2.amazonaws.com']
+
+ALLOWED_PASSWORDS = [
+    pwd.strip() 
+    for pwd in urllib.parse.unquote(os.environ.get('ALLOWED_PASSWORDS', '')).split(',') 
+    if pwd.strip()
+]
 
 TIMOR_LESTE_CULTURES = [
     {"people": "Tetum"},
@@ -501,10 +510,8 @@ def generate_story(seed_file, story_prompt_template, story_seed):
     
 def generate_image(english_story_parts, part, style, culture, part_number, is_first_image=False, additional_payload=None):
     story_instruction = f"Create a whimsical, child-friendly {style} illustration for a bedtime story. Generate the image for part {part_number}."
-
     consistency_prompt = "Create a consistent style for the story." if is_first_image else "Maintain style consistency with previous illustrations."
     full_story = " ".join(english_story_parts)
-    
     style_prompt = """
     Use a vibrant, colorful palette reminiscent of Jaime Hernandez's work in Love and Rockets.
     Character designs should blend realistic proportions with slightly exaggerated features, similar to an anime style.
@@ -525,66 +532,58 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
     Use subtle gradients and shading to add dimension to flat color areas, especially on larger objects like planets.
     """
     story_part = "In Timor Leste: " + part
-    url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
+    
+    url = "https://api.stability.ai/v2beta/stable-image/generate/sd3"
     headers = {
-        "Content-Type": "application/json",
-        "Accept": "application/json",
+        "Accept": "image/*",
         "Authorization": f"Bearer {stability_api_key}"
     }
     
     payload = {
-        "text_prompts": [
-            {"text": story_instruction, "weight": 1},
-            {"text": story_part, "weight": 1.2},
-            {"text": full_story[:1999], "weight": 0.75},
-            {"text": style_prompt, "weight":1.5},
-            {"text": consistency_prompt, "weight": 1},
-        ],
-        "cfg_scale": 15,
-        "clip_guidance_preset": "FAST_BLUE",
-        "height": 576,
-        "width": 1024,
-        "samples": 1,
-        "steps": 50,
-        "style_preset": style,
-        "seed": 3994967295
+        "prompt": (None, story_instruction + " " + story_part + " " + style_prompt + " " + consistency_prompt),
+        "negative_prompt": (None, ""),
+        "output_format": (None, "png"),
+        "cfg_scale": (None, "15"),
+        "clip_guidance_preset": (None, "FAST_BLUE"),
+        "height": (None, "576"),
+        "width": (None, "1024"),
+        "samples": (None, "1"),
+        "steps": (None, "50"),
+        "style_preset": (None, style),
+        "model": (None, "sd3-large"),
+        "seed": (None, "3994967295")
     }
 
     # Update payload with additional parameters if provided
     if additional_payload:
-        payload.update(additional_payload)
+        for key, value in additional_payload.items():
+            payload[key] = (None, str(value))
 
-    max_retries = 3
+    max_retries = 5
     for attempt in range(max_retries):
         try:
-            print(f"Attempt {attempt + 1}: Sending request with payload: {json.dumps(payload, indent=2)}")
-            response = requests.post(url, headers=headers, json=payload)
+            print(f"Attempt {attempt + 1}: Sending request")
+            response = requests.post(url, headers=headers, files=payload)
             response.raise_for_status()
             
-            data = response.json()
-            if "artifacts" in data and len(data["artifacts"]) > 0:
-                image_data = base64.b64decode(data["artifacts"][0]["base64"])
-                return BytesIO(image_data)
+            if response.headers['Content-Type'].startswith('image/'):
+                return BytesIO(response.content)
             else:
-                error_message = data.get("message", "Unknown error occurred")
-                raise Exception(f"No image data in response. Error: {error_message}")
+                raise Exception(f"Unexpected content type: {response.headers['Content-Type']}")
         except requests.exceptions.RequestException as e:
             print(f"Error generating image on attempt {attempt + 1}: {str(e)}")
-            if e.response is not None:
+            if hasattr(e, 'response') and e.response is not None:
                 print(f"Response content: {e.response.content}")
             
             if attempt < max_retries - 1:
-                print(f"Retrying in 2 seconds...")
-                time.sleep(2)  # Wait for 2 seconds before retrying
+                wait_time = 2 ** attempt  # Exponential backoff
+                print(f"Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
             else:
                 raise
-        
-        # Add a pause between attempts to handle rate limiting
-        if attempt < max_retries - 1:
-            time.sleep(1)  # 1 second pause between attempts
-    print('Image generation failure')
-    sys.exit()
 
+    print('Image generation failure after all attempts')
+    return None
     
 def download_image_from_s3(image_url):
     bucket_name = 'tl-web'
@@ -598,140 +597,183 @@ def load_story_prompt():
         return file.read()
         
 def lambda_handler(event, context):
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            seed_file = load_random_file()
-            story_prompt = load_story_prompt()
-            # Load random elements
-            random_elements = load_random_elements()
-            
-            provided_seed = event.get('story_seed')
-            if provided_seed and len(provided_seed) > 15:
-                story_seed = provided_seed
-            else:
-                story_seed = random.choice(random_elements)
-                
-            story, selected_culture = generate_story(seed_file, story_prompt, story_seed)
-            
-            english_title = story['title']['english']
-            tetun_title = story['title']['tetun']
-            
-            english_story_parts = [part['english'] for part in story['parts']]
-            tetun_story_parts = [part['tetun'] for part in story['parts']]
-            
-            if not english_title or not tetun_title or len(english_story_parts) == 0 or len(tetun_story_parts) == 0:
-                print(f"Attempt {attempt + 1}: Generated story is incomplete.")
-                print(f"English title: {english_title}")
-                print(f"Tetun title: {tetun_title}")
-                print(f"Number of English parts: {len(english_story_parts)}")
-                print(f"Number of Tetun parts: {len(tetun_story_parts)}")
-                continue
-            
-            safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
-            date_str = datetime.now().strftime("%Y%m%d")
-            
-            styles = ['comic-book', 'digital-art', 'fantasy-art', 'tile-texture']
-            random.shuffle(styles)
-            weights = [random.randint(1, 3) for _ in range(len(styles))]
-            
-            style = random.choices(styles, weights=weights)[0]
-            print(f"Selected style: {style}")
-            
-            image_urls = []
-            sound_urls = []
-            for i, part in enumerate(english_story_parts, 1):
-                # Generate image
-                image = None
-                for image_attempt in range(3):
-                    try:
-                        is_first_image = (i == 1)
-                        image = generate_image(english_story_parts, part, style, selected_culture, part_number=i, is_first_image=is_first_image)
-                        if image is not None:
-                            break
-                    except Exception as img_error:
-                        print(f"Image generation attempt {image_attempt + 1} for part {i} failed: {str(img_error)}")
-                        if image_attempt < 2:
-                            time.sleep(2)
-                        continue
-            
-                if image is not None:
-                    image_name = f'{safe_title}_image_{i}_{date_str}.png'
-                    image_url = save_image_to_s3(image, image_name)
-                    image_urls.append(image_url)
-                    
-                    # Store the first generated image
-                    if i == 1:
-                        first_image = image
-                        
-                    # Update the payload with the first image for subsequent generations
-                    if i > 1 and first_image is not None:
-                        payload = {
-                            "init_image": base64.b64encode(first_image.getvalue()).decode('utf-8'),
-                            "init_image_mode": "IMAGE_STRENGTH",
-                            "image_strength": 0.35
-                        }
-                        # Update the generate_image function call to include the payload
-                        image = generate_image(english_story_parts, part, style, selected_culture, part_number=i, is_first_image=False, additional_payload=payload)
-                else:
-                    print(f"Failed to generate image for part {i} after 3 attempts.")
-                    raise Exception(f"Failed to generate image for part {i}")
-
-                # Generate sound
-                sound_filename = f'{safe_title}_sound_{i}_{date_str}.mp3'
-                sound_url = generate_sound(part, sound_filename)
-                sound_urls.append(sound_url)
-
-            # Check if we have the correct number of images and sounds
-            if len(image_urls) != len(english_story_parts) or len(sound_urls) != len(english_story_parts):
-                raise Exception(f"Mismatch between number of story parts ({len(english_story_parts)}) and generated media (images: {len(image_urls)}, sounds: {len(sound_urls)})")
-
-            html_content = generate_html(story, image_urls, sound_urls)
-            
-            try:
-                old_html = s3.get_object(Bucket='tl-web', Key='bedtime.html')['Body'].read().decode('utf-8')
-                old_html = old_html.replace('images/', '../images/')
-                old_html_key = f'stories/bedtime_{int(time.time())}.html'
-                s3.put_object(
-                    Bucket='tl-web',
-                    Key=old_html_key,
-                    Body=old_html,
-                    ContentType='text/html'
-                )
-                print(f"Old story saved to {old_html_key}")
-            except s3.exceptions.NoSuchKey:
-                print("No previous bedtime.html found. Skipping copy.")
-            
-            s3.put_object(
-                Bucket='tl-web',
-                Key='bedtime.html',
-                Body=html_content,
-                ContentType='text/html'
-            )
-            
-            generate_image_gallery()
-            return {
-                'statusCode': 200,
-                'body': json.dumps(f"Bedtime story '{english_title}' for {selected_culture} culture with {len(english_story_parts)} parts generated and saved to s3://tl-web/bedtime.html. Previous story archived.")
+    # Handle CORS preflight request
+    if event['requestContext']['http']['method'] == 'OPTIONS':
+        return {
+            'statusCode': 200,
+            'headers': {
+                'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
+                'Access-Control-Allow-Headers': 'Content-Type',
+                'Access-Control-Allow-Methods': 'OPTIONS,POST'
             }
-        
-        except Exception as e:
-            print(f"Attempt {attempt + 1} failed. Error: {str(e)}")
-            print(f"Full error traceback: {traceback.format_exc()}")
-            if attempt == max_retries - 1:
+        }
+
+    # Handle POST request
+    if event['requestContext']['http']['method'] == 'POST':
+        try:
+            # Parse the body of the request
+            body = json.loads(event['body'])
+            provided_seed = body.get('story_seed', '')
+            password = body.get('password', '')
+
+            # Check the password against the allowed passwords
+            if password not in ALLOWED_PASSWORDS:
                 return {
-                    'statusCode': 500,
+                    'statusCode': 403,
+                    'headers': {
+                        'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
+                        'Content-Type': 'application/json'
+                    },
                     'body': json.dumps({
-                        "error": f"An error occurred after {max_retries} attempts",
-                        "details": str(e),
-                        "traceback": traceback.format_exc()
+                        'message': 'Invalid password'
                     })
                 }
-            else:
-                print(f"Retrying entire process. Attempt {attempt + 2} of {max_retries}")
-                continue
+            
+            print('story_seed:', provided_seed)
+            print('event:', event)
+            
+            max_retries = 3
+            for attempt in range(max_retries):
+                try:
+                    seed_file = load_random_file()
+                    story_prompt = load_story_prompt()
+                    # Load random elements
+                    random_elements = load_random_elements()
+                    
+                    if provided_seed and len(provided_seed) > 15:
+                        story_seed = provided_seed
+                    else:
+                        story_seed = random.choice(random_elements)
+                        
+                    story, selected_culture = generate_story(seed_file, story_prompt, story_seed)
+                    
+                    english_title = story['title']['english']
+                    tetun_title = story['title']['tetun']
+                    
+                    english_story_parts = [part['english'] for part in story['parts']]
+                    tetun_story_parts = [part['tetun'] for part in story['parts']]
+                    
+                    if not english_title or not tetun_title or len(english_story_parts) == 0 or len(tetun_story_parts) == 0:
+                        print(f"Attempt {attempt + 1}: Generated story is incomplete.")
+                        print(f"English title: {english_title}")
+                        print(f"Tetun title: {tetun_title}")
+                        print(f"Number of English parts: {len(english_story_parts)}")
+                        print(f"Number of Tetun parts: {len(tetun_story_parts)}")
+                        continue
+                    
+                    safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
+                    date_str = datetime.now().strftime("%Y%m%d")
+                    
+                    styles = ['comic-book', 'digital-art', 'fantasy-art', 'tile-texture']
+                    random.shuffle(styles)
+                    weights = [random.randint(1, 3) for _ in range(len(styles))]
+                    
+                    style = random.choices(styles, weights=weights)[0]
+                    print(f"Selected style: {style}")
+                    
+                    image_urls = []
+                    sound_urls = []
+                    for i, part in enumerate(english_story_parts, 1):
+                        # Generate image
+                        image = None
+                        for image_attempt in range(3):
+                            try:
+                                is_first_image = (i == 1)
+                                image = generate_image(english_story_parts, part, style, selected_culture, part_number=i, is_first_image=is_first_image)
+                                if image is not None:
+                                    break
+                            except Exception as img_error:
+                                print(f"Image generation attempt {image_attempt + 1} for part {i} failed: {str(img_error)}")
+                                if image_attempt < 2:
+                                    time.sleep(2)
+                                continue
+                    
+                        if image is not None:
+                            image_name = f'{safe_title}_image_{i}_{date_str}.png'
+                            image_url = save_image_to_s3(image, image_name)
+                            image_urls.append(f"https://tl-web.s3.us-west-2.amazonaws.com/{image_url}")
+                            
+                            # Store the first generated image
+                            if i == 1:
+                                first_image = image
+                                
+                            # Update the payload with the first image for subsequent generations
+                            if i > 1 and first_image is not None:
+                                payload = {
+                                    "init_image": base64.b64encode(first_image.getvalue()).decode('utf-8'),
+                                    "init_image_mode": "IMAGE_STRENGTH",
+                                    "image_strength": 0.35
+                                }
+                                # Update the generate_image function call to include the payload
+                                image = generate_image(english_story_parts, part, style, selected_culture, part_number=i, is_first_image=False, additional_payload=payload)
+                        else:
+                            print(f"Failed to generate image for part {i} after 3 attempts.")
+                            raise Exception(f"Failed to generate image for part {i}")
 
+                        # Generate sound
+                        sound_filename = f'{safe_title}_sound_{i}_{date_str}.mp3'
+                        sound_url = generate_sound(part, sound_filename)
+                        sound_urls.append(sound_url)
+
+                    # Check if we have the correct number of images and sounds
+                    if len(image_urls) != len(english_story_parts) or len(sound_urls) != len(english_story_parts):
+                        raise Exception(f"Mismatch between number of story parts ({len(english_story_parts)}) and generated media (images: {len(image_urls)}, sounds: {len(sound_urls)})")
+
+                    html_content = generate_html(story, image_urls, sound_urls)
+                    
+                    # Generate a unique filename for the new story
+                    new_html_key = f'stories/bedtime_{safe_title}_{int(time.time())}.html'
+                    
+                    s3.put_object(
+                        Bucket='tl-web',
+                        Key=new_html_key,
+                        Body=html_content,
+                        ContentType='text/html'
+                    )
+                    
+                    generate_image_gallery()
+                    return {
+                        'statusCode': 200,
+                        'headers': {
+                            'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
+                            'Content-Type': 'application/json'
+                        },
+                        'body': json.dumps({
+                            'message': f"Bedtime story '{english_title}' for {selected_culture} culture with {len(english_story_parts)} parts generated and saved to s3://tl-web/{new_html_key}."
+                        })
+                    }
+                
+                except Exception as e:
+                    print(f"Attempt {attempt + 1} failed. Error: {str(e)}")
+                    print(f"Full error traceback: {traceback.format_exc()}")
+                    if attempt == max_retries - 1:
+                        raise
+                    else:
+                        print(f"Retrying entire process. Attempt {attempt + 2} of {max_retries}")
+                        continue
+            
+        except Exception as e:
+            return {
+                'statusCode': 500,
+                'headers': {
+                    'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
+                    'Content-Type': 'application/json'
+                },
+                'body': json.dumps({
+                    "error": f"An error occurred after {max_retries} attempts",
+                    "details": str(e),
+                    "traceback": traceback.format_exc()
+                })
+            }
+    
+    # If neither OPTIONS nor POST, return method not allowed
     return {
-        'statusCode': 500,
-        'body': json.dumps("Failed to generate a valid story with all images after multiple attempts.")
+        'statusCode': 405,
+        'headers': {
+            'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
+            'Content-Type': 'application/json'
+        },
+        'body': json.dumps({
+            'error': 'Method not allowed'
+        })
     }

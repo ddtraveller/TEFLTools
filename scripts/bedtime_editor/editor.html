@@ -161,20 +161,89 @@
             font-size: 20px;
         }
     }
+    
+    #updateSoundsButton {
+        background-color: #0000cc;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    #updateSoundsButton:hover {
+        background-color: #0000ff;
+    }    
+    #createStoryForm {
+        margin-bottom: 20px;
+    }
+    #storySeed {
+        width: 100%;
+        height: 100px;
+        margin-bottom: 10px;
+        resize: vertical;
+        box-sizing: border-box;
+        background-color: #222;
+        color: #fff;
+        border: 1px solid #ffcd00;
+        padding: 10px;
+    }
+    #createStoryButton {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+    }
+    #createStoryButton:hover {
+        background-color: #45a049;
+    }    
+    #createStoryForm, #editorForm {
+        margin-bottom: 20px;
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 20px;
+        border-radius: 5px;
+    }
+    #story-grid {
+        margin-top: 20px;
+    }
+    .story-item {
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }    
 </style>
 </head>
 <body>
     <h1>Editór Istória nian</h1>
     <div>Hili istória ida no ida-ne'e sei mosu iha editór iha kraik.
 Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
-    <form id="editorForm">
-        <textarea id="storyContent"></textarea>
-        <p></p>
-        <input type="password" id="passwordField" placeholder="Hatama senha">
-        <button type="submit" id="saveButton">Rai Mudansa sira</button>
-        <button type="button" id="saveToDiskButton">Rai iha Disku</button>
+    <!-- Story Creation Form -->
+    <form id="createStoryForm">
+        <h2>Kria Istória Foun</h2>
+        <textarea id="storySeed" placeholder="Enter your story seed here..."></textarea>
+        <input type="password" id="createStoryPassword" placeholder="Enter password">
+        <button type="submit" id="createStoryButton">Kria Istória</button>
     </form>
+
+    <!-- Story List -->
+    <h2>Lista Istória nian</h2>
+    <div>Hili istória ida no ida-ne'e sei mosu iha editór iha kraik. Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
     <div id="story-grid"></div>
+
+    <!-- Editor Form -->
+    <form id="editorForm" style="display:none;">
+        <h2>Edita Istória</h2>
+        <textarea id="storyContent"></textarea>
+        <input type="password" id="passwordField" placeholder="Hatama senha">
+        <button type="submit" id="saveButton">Rai Mudansa Sira</button>
+        <button type="button" id="saveToDiskButton">Rai Iha Disku</button>
+        <button type="button" id="updateSoundsButton">Atualiza Lian Sira</button>
+    </form>
     <script>
         const bucketUrl = 'https://tl-web.s3.us-west-2.amazonaws.com/';
         const storiesPrefix = 'stories/';
@@ -185,18 +254,27 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
             const loadingDiv = document.createElement('div');
             loadingDiv.className = 'loading';
             loadingDiv.textContent = message;
+            loadingDiv.style.position = 'fixed';
+            loadingDiv.style.top = '50%';
+            loadingDiv.style.left = '50%';
+            loadingDiv.style.transform = 'translate(-50%, -50%)';
+            loadingDiv.style.backgroundColor = 'rgba(0, 0, 0, 0.7)';
+            loadingDiv.style.color = 'white';
+            loadingDiv.style.padding = '20px';
+            loadingDiv.style.borderRadius = '10px';
+            loadingDiv.style.zIndex = '1000';
             document.body.appendChild(loadingDiv);
+            return loadingDiv;
         }
         
-        function hideLoading() {
-            const loadingDiv = document.querySelector('.loading');
-            if (loadingDiv) {
-                loadingDiv.remove();
+        function hideLoading(loadingDiv) {
+            if (loadingDiv && loadingDiv.parentNode) {
+                loadingDiv.parentNode.removeChild(loadingDiv);
             }
         }
         
         async function fetchStories() {
-            showLoading('Loading bedtime stories...');
+            const loadingDiv = showLoading('Loading bedtime stories...');
             try {
                 const response = await fetch(bucketUrl + '?list-type=2&prefix=' + storiesPrefix);
                 const data = await response.text();
@@ -233,7 +311,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 console.error('Error fetching stories:', error);
                 alert(`Failed to load stories. Error: ${error.message}`);
             } finally {
-                hideLoading();
+                hideLoading(loadingDiv);
             }
         }
         
@@ -373,10 +451,108 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 hideLoading();
             }
         }
+        
+        async function updateSounds() {
+            showLoading('Updating sounds...');
+            const password = document.getElementById('passwordField').value;
+            
+            if (!password) {
+                alert('Please enter a password');
+                hideLoading();
+                return;
+            }
+            
+            try {
+                const response = await fetch(lambdaUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        action: 'update_sounds',
+                        key: currentStoryKey,
+                        password: password
+                    }),
+                });
+        
+                const result = await response.json();
+        
+                if (response.ok) {
+                    console.log('Update sounds request sent successfully');
+                    alert(result.message);
+                } else {
+                    alert(`Failed to update sounds: ${result.message}`);
+                }
+            } catch (error) {
+                console.error('Error during sound update operation:', error);
+                alert(`Failed to update sounds. Please try again.`);
+            } finally {
+                hideLoading();
+            }
+        }        
 
-        // Add event listener for the new button
+        async function createStory(event) {
+            event.preventDefault();
+            const loadingDiv = showLoading('Creating story... This may take a minute.');
+            const storySeed = document.getElementById('storySeed').value;
+            const password = document.getElementById('createStoryPassword').value;
+            /*global fetch */
+            
+            if (!storySeed.trim()) {
+                alert('Please enter a story seed');
+                hideLoading(loadingDiv);
+                return;
+            }
+            
+            if (!password.trim()) {
+                alert('Please enter a password');
+                hideLoading(loadingDiv);
+                return;
+            }
+            
+            // Replace carriage returns with \n
+            const formattedSeed = storySeed.replace(/\r\n/g, '\\n').replace(/\n/g, '\\n');
+            
+            try {
+                const response = await fetch('https://jnlbdwacsyshnyhjsrhwfcoavu0duyib.lambda-url.us-west-2.on.aws/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        story_seed: formattedSeed,
+                        password: password
+                    }),
+                });
+        
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    throw new Error(`HTTP error! status: ${response.status}, message: ${errorText}`);
+                }
+        
+                const result = await response.json();
+        
+                console.log('Story creation response:', result);
+                if (result.message) {
+                    alert(result.message);
+                } else {
+                    alert('Story created successfully! Refreshing story list...');
+                }
+                document.getElementById('storySeed').value = '';
+                document.getElementById('createStoryPassword').value = '';
+                await fetchStories();
+            } catch (error) {
+                console.error('Error during story creation:', error);
+                alert(`Failed to create story. Error: ${error.message}`);
+            } finally {
+                hideLoading(loadingDiv);
+            }
+        }
+        
+        document.getElementById('updateSoundsButton').addEventListener('click', updateSounds);
         document.getElementById('saveToDiskButton').addEventListener('click', saveToDisk);
-
+        document.getElementById('createStoryForm').addEventListener('submit', createStory);
+        
         // Load stories when the page loads
         fetchStories();
     </script>

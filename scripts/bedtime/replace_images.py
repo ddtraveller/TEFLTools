@@ -5,6 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 import base64
 from io import BytesIO
+import re
+import time
 
 # Initialize AWS client
 s3 = boto3.client('s3')
@@ -46,28 +48,54 @@ def parse_images_from_html(html_content):
     images = soup.find_all('img')
     return [img['src'] for img in images]
 
-def generate_new_image(payload):
-    url = "https://api.stability.ai/v1/generation/stable-diffusion-v1-6/text-to-image"
+def generate_new_image(payload, reference_image=None):
+    url = "https://api.stability.ai/v2beta/stable-image/generate/sd3"
     headers = {
-        "Content-Type": "application/json",
-        "Accept": "application/json",
+        "Accept": "image/*",
         "Authorization": f"Bearer {stability_api_key}"
     }
-    try:
-        response = requests.post(url, headers=headers, json=payload)
-        response.raise_for_status()
-        
-        data = response.json()
-        if "artifacts" in data and len(data["artifacts"]) > 0:
-            image_data = base64.b64decode(data["artifacts"][0]["base64"])
-            return BytesIO(image_data)
-        else:
-            print(f"No image data in response for payload: {payload}")
-            return None
-    except requests.exceptions.HTTPError as e:
-        print(f"Error generating image for payload: {payload}")
-        print(f"HTTP error: {e}")
-        return None
+    
+    files = {
+        "prompt": (None, payload["prompt"]),
+        "negative_prompt": (None, payload.get("negative_prompt", "")),
+        "output_format": (None, "png"),
+        "cfg_scale": (None, str(payload["cfg_scale"])),
+        "clip_guidance_preset": (None, payload["clip_guidance_preset"]),
+        "height": (None, str(payload["height"])),
+        "width": (None, str(payload["width"])),
+        "samples": (None, str(payload["samples"])),
+        "steps": (None, str(payload["steps"])),
+        "style_preset": (None, payload["style_preset"]),
+        "seed": (None, str(payload["seed"]))
+    }
+    
+    if reference_image:
+        files["image"] = ("reference.png", reference_image, "image/png")
+        files["strength"] = (None, "0.35")
+        files["mode"] = (None, "image-to-image")
+    
+    max_retries = 5
+    for attempt in range(max_retries):
+        try:
+            response = requests.post(url, headers=headers, files=files)
+            response.raise_for_status()
+            
+            if response.headers['Content-Type'].startswith('image/'):
+                return BytesIO(response.content)
+            else:
+                raise Exception(f"Unexpected content type: {response.headers['Content-Type']}")
+        except requests.exceptions.RequestException as e:
+            print(f"Error generating image on attempt {attempt + 1}: {str(e)}")
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"Response content: {e.response.content}")
+            
+            if attempt < max_retries - 1:
+                wait_time = 2 ** attempt  # Exponential backoff
+                print(f"Retrying in {wait_time} seconds...")
+                time.sleep(wait_time)
+            else:
+                print(f"Failed to generate image after {max_retries} attempts.")
+                return None
 
 def replace_image(url, new_image):
     if new_image is None:
@@ -86,7 +114,7 @@ def replace_image(url, new_image):
     )
     print(f"Replaced image: {image_name}")
 
-def generate_story_image(part, style, is_first_image):
+def generate_story_image(part, style, is_first_image, reference_image=None):
     story_instruction = f"Create a child-friendly {style} illustration."
     
     style_prompt = """
@@ -111,13 +139,10 @@ def generate_story_image(part, style, is_first_image):
 
     consistency_prompt = "Create a consistent style for the story." if is_first_image else "Maintain style consistency with previous illustrations."
 
+    prompt = f"{story_instruction} {part} {style_prompt} {consistency_prompt}"
+
     payload = {
-        "text_prompts": [
-            {"text": story_instruction, "weight": .6},
-            {"text": part, "weight": 1.75},
-            {"text": style_prompt, "weight": 1.5},
-            {"text": consistency_prompt, "weight": 1.2},
-        ],
+        "prompt": prompt,
         "cfg_scale": 15,
         "clip_guidance_preset": "FAST_BLUE",
         "height": 576,
@@ -128,12 +153,41 @@ def generate_story_image(part, style, is_first_image):
         "seed": 3594967295
     }
 
-    return generate_new_image(payload)
+    return generate_new_image(payload, reference_image)
+
+def parse_s3_location(s3_input):
+    # Check if it's an ARN
+    arn_match = re.match(r'arn:aws:s3:::([^/]+)/(.+)', s3_input)
+    if arn_match:
+        return arn_match.group(1), arn_match.group(2)
+    
+    # Check if it's an S3 URL
+    url_match = re.match(r's3://([^/]+)/(.+)', s3_input)
+    if url_match:
+        return url_match.group(1), url_match.group(2)
+    
+    # If it's neither, assume it's a direct path
+    parts = s3_input.split('/', 1)
+    if len(parts) == 2:
+        return parts[0], parts[1]
+    
+    raise ValueError("Invalid S3 location format")
+
+def get_reference_image():
+    s3_input = input("Enter the S3 ARN, URL, or path for the reference image (or press Enter to skip): ")
+    if s3_input:
+        try:
+            bucket, key = parse_s3_location(s3_input)
+            response = s3.get_object(Bucket=bucket, Key=key)
+            return BytesIO(response['Body'].read())
+        except Exception as e:
+            print(f"Error getting reference image: {str(e)}")
+    return None
 
 def main():
     # Prompt for S3 file location
-    bucket = input("Enter the S3 bucket name: ")
-    key = input("Enter the S3 file key: ")
+    bucket = 'tl-web'
+    key = input("Enter the S3 file key of the story: ")
 
     # Get content of the specified S3 file
     html_content = get_s3_file_content(bucket, key)
@@ -147,12 +201,15 @@ def main():
     # Prompt for replacing all images or a single image
     replace_all = input("Do you want to replace all images? (y/n): ").lower() == 'y'
 
+    # Get reference image
+    reference_image = get_reference_image()
+
     if replace_all:
         style = input("Enter the style preset for all images: ")
         for part_number in range(6):  # 0 to 5
             part = input(f"Enter the story part description for image {part_number}: ")
             is_first_image = part_number == 0
-            new_image = generate_story_image(part, style, is_first_image)
+            new_image = generate_story_image(part, style, is_first_image, reference_image if part_number == 0 else None)
             replace_image(current_image_urls[part_number], new_image)
             print(f"Image {part_number} replaced")
     else:
@@ -162,7 +219,7 @@ def main():
         style = input("Enter the style preset: ")
         is_first_image = input("Is this the first image? (y/n): ").lower() == 'y'
         
-        new_image = generate_story_image(part, style, is_first_image)
+        new_image = generate_story_image(part, style, is_first_image, reference_image)
         
         if 0 <= part_number < len(current_image_urls):
             replace_image(current_image_urls[part_number], new_image)

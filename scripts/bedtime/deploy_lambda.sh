@@ -25,6 +25,33 @@ if [ -z "$STABILITY_API_KEY" ]; then
     read -p "Enter your Stability AI API key: " STABILITY_API_KEY
 fi
 
+# Prompt for ALLOWED_PASSWORDS
+read -p "Enter comma-separated list of allowed passwords: " ALLOWED_PASSWORDS
+
+# Function to URL encode a string
+urlencode() {
+    local string="${1}"
+    local strlen=${#string}
+    local encoded=""
+    local pos c o
+
+    for (( pos=0 ; pos<strlen ; pos++ )); do
+        c=${string:$pos:1}
+        case "$c" in
+            [-_.~a-zA-Z0-9] ) o="${c}" ;;
+            * )               printf -v o '%%%02x' "'$c"
+        esac
+        encoded+="${o}"
+    done
+    echo "${encoded}"
+}
+
+# URL encode the environment variables
+ANTHROPIC_API_KEY_ENCODED=$(urlencode "$ANTHROPIC_API_KEY")
+STABILITY_API_KEY_ENCODED=$(urlencode "$STABILITY_API_KEY")
+GOOGLE_CREDENTIALS_ENCODED=$(urlencode "$GOOGLE_CREDENTIALS")
+ALLOWED_PASSWORDS_ENCODED=$(urlencode "$ALLOWED_PASSWORDS")
+
 # Function to create IAM role
 create_lambda_role() {
     echo "Creating IAM role: ${ROLE_NAME}"
@@ -82,6 +109,7 @@ boto3==1.28.38
 requests==2.31.0
 lark-parser
 gTTS
+requests-toolbelt
 EOF
 
 # Install dependencies
@@ -126,14 +154,13 @@ if aws lambda get-function --function-name "${LAMBDA_FUNCTION_NAME}" --region "$
         --role "${ROLE_ARN}" \
         --timeout "${TIMEOUT}" \
         --memory-size "${MEMORY_SIZE}" \
-        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
+        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY_ENCODED},STABILITY_API_KEY=${STABILITY_API_KEY_ENCODED},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS_ENCODED},ALLOWED_PASSWORDS=${ALLOWED_PASSWORDS_ENCODED}}" \
         --region "${REGION}" \
         --no-cli-pager
         
     wait_for_lambda_update
 else
     echo "Creating new Lambda function"
-    # Update the Lambda function creation/update command
     aws lambda create-function \
         --function-name "${LAMBDA_FUNCTION_NAME}" \
         --runtime "${RUNTIME}" \
@@ -143,7 +170,7 @@ else
         --description "${LAMBDA_DESCRIPTION}" \
         --timeout "${TIMEOUT}" \
         --memory-size "${MEMORY_SIZE}" \
-        --environment "Variables=ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY},STABILITY_API_KEY=${STABILITY_API_KEY},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS}}" \
+        --environment "Variables={ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY_ENCODED},STABILITY_API_KEY=${STABILITY_API_KEY_ENCODED},GOOGLE_CREDENTIALS=${GOOGLE_CREDENTIALS_ENCODED},ALLOWED_PASSWORDS=${ALLOWED_PASSWORDS_ENCODED}}" \
         --region "${REGION}" \
         --no-cli-pager
     

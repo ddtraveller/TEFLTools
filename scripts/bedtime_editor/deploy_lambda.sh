@@ -52,7 +52,7 @@ create_lambda_role() {
                         "s3:GetObject",
                         "s3:PutObject"
                     ],
-                    "Resource": "arn:aws:s3:::tl-web/stories/*"
+                    "Resource": ["arn:aws:s3:::tl-web/stories/*", "arn:aws:s3:::tl-web/sounds/*"]
                 }
             ]
         }' \
@@ -83,6 +83,7 @@ cp "${SCRIPT_DIR}/lambda_function.py" "${TEMP_DIR}/"
 cat << EOF > "${TEMP_DIR}/requirements.txt"
 boto3==1.28.38
 beautifulsoup4==4.12.2
+gTTS
 EOF
 
 # Install dependencies
