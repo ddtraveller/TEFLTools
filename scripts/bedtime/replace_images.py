@@ -18,6 +18,20 @@ stability_api_key = os.getenv('STABILITY_API_KEY')
 if stability_api_key is None:
     raise ValueError("The STABILITY_API_KEY environment variable is not set.")
 
+def load_config():
+    try:
+        with open('config.json', 'r') as config_file:
+            return json.load(config_file)
+    except FileNotFoundError:
+        print("config.json not found. You will be prompted for information.")
+        return {}
+
+def get_config_value(config, key, prompt):
+    value = config.get(key)
+    if not value:
+        value = input(prompt)
+    return value
+    
 def invalidate_cloudfront_cache(distribution_id, story_name):
     cloudfront_client = boto3.client('cloudfront')
     
@@ -144,13 +158,13 @@ def generate_story_image(part, style, is_first_image, reference_image=None):
     payload = {
         "prompt": prompt,
         "cfg_scale": 15,
-        "clip_guidance_preset": "FAST_BLUE",
+        "clip_guidance_preset": "SLOWEST",
         "height": 576,
         "width": 1024,
         "samples": 1,
         "steps": 50,
         "style_preset": style,
-        "seed": 3594967295
+        "seed": 3994967295
     }
 
     return generate_new_image(payload, reference_image)
@@ -173,8 +187,8 @@ def parse_s3_location(s3_input):
     
     raise ValueError("Invalid S3 location format")
 
-def get_reference_image():
-    s3_input = input("Enter the S3 ARN, URL, or path for the reference image (or press Enter to skip): ")
+def get_reference_image(config):
+    s3_input = get_config_value(config, 'reference_image', "Enter the S3 ARN, URL, or path for the reference image (or press Enter to skip): ")
     if s3_input:
         try:
             bucket, key = parse_s3_location(s3_input)
@@ -185,9 +199,10 @@ def get_reference_image():
     return None
 
 def main():
-    # Prompt for S3 file location
+    config = load_config()
+
     bucket = 'tl-web'
-    key = input("Enter the S3 file key of the story: ")
+    key = get_config_value(config, 's3_file_key', "Enter the S3 file key of the story: ")
 
     # Get content of the specified S3 file
     html_content = get_s3_file_content(bucket, key)
@@ -195,29 +210,25 @@ def main():
     # Parse current image URLs from HTML
     current_image_urls = parse_images_from_html(html_content)
     
-    # Prompt for story name
-    story_name = input("Enter the story name for CloudFront invalidation: ")
+    story_name = get_config_value(config, 'story_name', "Enter the story name for CloudFront invalidation: ")
     
-    # Prompt for replacing all images or a single image
-    replace_all = input("Do you want to replace all images? (y/n): ").lower() == 'y'
+    replace_all = get_config_value(config, 'replace_all', "Do you want to replace all images? (y/n): ").lower() == 'y'
 
-    # Get reference image
-    reference_image = get_reference_image()
+    reference_image = get_reference_image(config)
 
     if replace_all:
-        style = input("Enter the style preset for all images: ")
+        style = get_config_value(config, 'style_preset', "Enter the style preset for all images: ")
         for part_number in range(6):  # 0 to 5
-            part = input(f"Enter the story part description for image {part_number}: ")
+            part = get_config_value(config, f'part_{part_number}', f"Enter the story part description for image {part_number}: ")
             is_first_image = part_number == 0
             new_image = generate_story_image(part, style, is_first_image, reference_image if part_number == 0 else None)
             replace_image(current_image_urls[part_number], new_image)
             print(f"Image {part_number} replaced")
     else:
-        # Original single image replacement logic
-        part_number = int(input("Enter the part number (0-5): "))
-        part = input("Enter the story part description: ")
-        style = input("Enter the style preset: ")
-        is_first_image = input("Is this the first image? (y/n): ").lower() == 'y'
+        part_number = int(get_config_value(config, 'part_number', "Enter the part number (0-5): "))
+        part = get_config_value(config, 'part_description', "Enter the story part description: ")
+        style = get_config_value(config, 'style_preset', "Enter the style preset: ")
+        is_first_image = get_config_value(config, 'is_first_image', "Is this the first image? (y/n): ").lower() == 'y'
         
         new_image = generate_story_image(part, style, is_first_image, reference_image)
         

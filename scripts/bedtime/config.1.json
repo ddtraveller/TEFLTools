@@ -1,0 +1,10 @@
+{
+  "s3_file_key": "stories/bedtime_the_cow_and_the_lion_story_1724453578.html",
+  "story_name": "the_cow_and_the_lion,
+  "replace_all": "n",
+  "part_number": "2",
+  "part_description": "Daisey the cow came near the lion and said 'Please do not eat me.' The lion agreed.",
+  "style_preset": "digital-art",
+  "is_first_image": "n",
+  "reference_image": "s3://your-bucket/path/to/reference/image.png"
+}

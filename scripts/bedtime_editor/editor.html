@@ -316,37 +316,34 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
         }
         
         async function loadStory(key) {
-            showLoading('Loading story...');
             currentStoryKey = key;
             try {
                 const response = await fetch(bucketUrl + storiesPrefix + key);
                 const content = await response.text();
-                
+        
                 document.getElementById('storyContent').value = content;
                 document.getElementById('editorForm').style.display = 'block';
-                
+        
                 // Scroll to the editor form
                 document.getElementById('editorForm').scrollIntoView({ behavior: 'smooth' });
             } catch (error) {
                 console.error('Error loading story:', error);
                 alert(`Failed to load story. Error: ${error.message}`);
-            } finally {
-                hideLoading();
             }
         }
-        
+
         document.getElementById('editorForm').addEventListener('submit', async (e) => {
             e.preventDefault();
-            showLoading('Saving changes...');
+            const loadingDiv = showLoading('Saving changes...');
             const content = document.getElementById('storyContent').value;
             const password = document.getElementById('passwordField').value;
-            
+        
             if (!password) {
                 alert('Please enter a password');
-                hideLoading();
+                hideLoading(loadingDiv);
                 return;
             }
-            
+        
             try {
                 const response = await fetch(lambdaUrl, {
                     method: 'POST',
@@ -373,7 +370,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 console.error('Error during save operation:', error);
                 alert(`Failed to save changes. Please try again.`);
             } finally {
-                hideLoading();
+                hideLoading(loadingDiv);
             }
         });
         

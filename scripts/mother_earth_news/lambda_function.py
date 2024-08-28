@@ -51,11 +51,11 @@ def lambda_handler(event, context):
     # Check if mnews.html exists and rename it
     try:
         s3.head_object(Bucket=S3_BUCKET, Key='mnews.html')
-        old_file_name = f"mnews_{datetime.now().strftime('%m%d%Y')}.html"
+        target_file_name = f"mnews_archive/mnews_{datetime.now().strftime('%m%d%Y')}.html"
         s3.copy_object(
             Bucket=S3_BUCKET,
             CopySource={'Bucket': S3_BUCKET, 'Key': 'mnews.html'},
-            Key=old_file_name
+            Key=target_file_name
         )
         s3.delete_object(Bucket=S3_BUCKET, Key='mnews.html')
     except:

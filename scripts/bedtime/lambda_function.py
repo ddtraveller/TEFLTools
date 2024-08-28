@@ -544,7 +544,7 @@ def generate_image(english_story_parts, part, style, culture, part_number, is_fi
         "negative_prompt": (None, ""),
         "output_format": (None, "png"),
         "cfg_scale": (None, "15"),
-        "clip_guidance_preset": (None, "FAST_BLUE"),
+        "clip_guidance_preset": (None, "SLOWEST"),
         "height": (None, "576"),
         "width": (None, "1024"),
         "samples": (None, "1"),
