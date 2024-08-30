@@ -32,13 +32,13 @@ create_lambda_role() {
         --query 'Role.Arn' \
         --output text \
         --no-cli-pager)
-    
+
     echo "Attaching AWSLambdaBasicExecutionRole policy"
     aws iam attach-role-policy \
         --role-name "${ROLE_NAME}" \
         --policy-arn arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole \
         --no-cli-pager
-    
+
     echo "Attaching S3 read/write permissions"
     aws iam put-role-policy \
         --role-name "${ROLE_NAME}" \
@@ -50,14 +50,18 @@ create_lambda_role() {
                     "Effect": "Allow",
                     "Action": [
                         "s3:GetObject",
-                        "s3:PutObject"
+                        "s3:PutObject",
+                        "s3:ListBucket"
                     ],
-                    "Resource": ["arn:aws:s3:::tl-web/stories/*", "arn:aws:s3:::tl-web/sounds/*"]
+                    "Resource": [
+                        "arn:aws:s3:::tl-web",
+                        "arn:aws:s3:::tl-web/*"
+                    ]
                 }
             ]
         }' \
         --no-cli-pager
-    
+
     echo "Waiting for role to be available..."
     aws iam get-role --role-name "${ROLE_NAME}" --no-cli-pager
     sleep 10  # Wait for role to be fully available
@@ -67,8 +71,31 @@ create_lambda_role() {
 if ! aws iam get-role --role-name "${ROLE_NAME}" --no-cli-pager >/dev/null 2>&1; then
     create_lambda_role
 else
-    echo "Using existing role: ${ROLE_NAME}"
+    echo "Updating existing role: ${ROLE_NAME}"
     ROLE_ARN=$(aws iam get-role --role-name "${ROLE_NAME}" --query 'Role.Arn' --output text --no-cli-pager)
+    
+    # Update the existing policy
+    aws iam put-role-policy \
+        --role-name "${ROLE_NAME}" \
+        --policy-name "S3Access" \
+        --policy-document '{
+            "Version": "2012-10-17",
+            "Statement": [
+                {
+                    "Effect": "Allow",
+                    "Action": [
+                        "s3:GetObject",
+                        "s3:PutObject",
+                        "s3:ListBucket"
+                    ],
+                    "Resource": [
+                        "arn:aws:s3:::tl-web",
+                        "arn:aws:s3:::tl-web/*"
+                    ]
+                }
+            ]
+        }' \
+        --no-cli-pager
 fi
 echo "Role ARN: ${ROLE_ARN}"
 
@@ -84,6 +111,7 @@ cat << EOF > "${TEMP_DIR}/requirements.txt"
 boto3==1.28.38
 beautifulsoup4==4.12.2
 gTTS
+requests
 EOF
 
 # Install dependencies

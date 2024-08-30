@@ -216,6 +216,42 @@
         margin-bottom: 10px;
         border-radius: 5px;
     }    
+    #partDescription {
+        width: 100%;
+        height: 80px; /* Increased height for 4 rows */
+        margin-bottom: 10px;
+        resize: vertical;
+        box-sizing: border-box;
+        background-color: #222;
+        color: #fff;
+        border: 1px solid #ffcd00;
+        padding: 10px;
+    }
+
+    #replaceImageButton {
+        background-color: #cc0000;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    #replaceImageButton:hover {
+        background-color: #ff0000;
+    }
+
+    #partNumber, #stylePreset {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 10px;
+        background-color: #222;
+        color: #fff;
+        border: 1px solid #ffcd00;
+        box-sizing: border-box;
+    }    
 </style>
 </head>
 <body>
@@ -243,6 +279,24 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
         <button type="submit" id="saveButton">Rai Mudansa Sira</button>
         <button type="button" id="saveToDiskButton">Rai Iha Disku</button>
         <button type="button" id="updateSoundsButton">Atualiza Lian Sira</button>
+        
+        <h3>Troka Imajen</h3>
+        <select id="partNumber">
+            <option value="0">Part 0</option>
+            <option value="1">Part 1</option>
+            <option value="2">Part 2</option>
+            <option value="3">Part 3</option>
+            <option value="4">Part 4</option>
+            <option value="5">Part 5</option>
+        </select>
+        <textarea id="partDescription" placeholder="Deskrisaun parte nian" rows="4"></textarea>
+        <select id="stylePreset">
+            <option value="comic-book">Comic Book</option>
+            <option value="digital-art">Digital Art</option>
+            <option value="fantasy-art">Fantasy Art</option>
+            <option value="tile-texture">Tile Texture</option>
+        </select>
+        <button type="button" id="replaceImageButton">Troka Imajen</button>
     </form>
     <script>
         const bucketUrl = 'https://tl-web.s3.us-west-2.amazonaws.com/';
@@ -272,7 +326,55 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
                 loadingDiv.parentNode.removeChild(loadingDiv);
             }
         }
+
+        async function replaceImage() {
+            const loadingDiv = showLoading('Replacing image...');
+            const partNumber = document.getElementById('partNumber').value;
+            const partDescription = document.getElementById('partDescription').value;
+            const stylePreset = document.getElementById('stylePreset').value;
+            const password = document.getElementById('passwordField').value;
         
+            if (!password) {
+                alert('Please enter a password');
+                hideLoading(loadingDiv);
+                return;
+            }
+        
+            try {
+                const response = await fetch(lambdaUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        action: 'replace_image',
+                        key: currentStoryKey,
+                        story_name: currentStoryKey.replace('stories/', '').replace('.html', ''),
+                        part_number: partNumber,
+                        part_description: partDescription,
+                        style_preset: stylePreset,
+                        is_first_image: partNumber === '0' ? 'y' : 'n',
+                        password: password
+                    }),
+                });
+        
+                const result = await response.json();
+        
+                if (response.ok) {
+                    console.log('Image replacement request sent successfully');
+                    alert(result.message);
+                    // Reload the story to show the updated image
+                    await loadStory(currentStoryKey);
+                } else {
+                    alert(`Failed to replace image: ${result.message}`);
+                }
+            } catch (error) {
+                console.error('Error during image replacement:', error);
+                alert(`Failed to replace image. Please try again.`);
+            } finally {
+                hideLoading(loadingDiv);
+            }
+        }        
         async function fetchStories() {
             const loadingDiv = showLoading('Loading bedtime stories...');
             try {
@@ -549,7 +651,7 @@ Halo mudansa no klik Submete atu rai mudansa sira iha arkivu.</div>
         document.getElementById('updateSoundsButton').addEventListener('click', updateSounds);
         document.getElementById('saveToDiskButton').addEventListener('click', saveToDisk);
         document.getElementById('createStoryForm').addEventListener('submit', createStory);
-        
+        document.getElementById('replaceImageButton').addEventListener('click', replaceImage);
         // Load stories when the page loads
         fetchStories();
     </script>

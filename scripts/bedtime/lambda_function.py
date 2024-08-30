@@ -27,7 +27,7 @@ DICT_FILE = SCRIPT_DIR / 'dictionary.json'
 PHRASES_FILE = SCRIPT_DIR / 'phrases.json'
 COMPOUND_FILE = SCRIPT_DIR / 'compound.json'
 RANDOM_ELEMENTS_FILE = SCRIPT_DIR / 'random_elements.json'
-ALLOWED_ORIGINS = ['https://tl-web.s3.us-west-2.amazonaws.com']
+ALLOWED_ORIGINS = ['https://tl-web.s3.us-west-2.amazonaws.com', 'https://go-tl.com']
 
 ALLOWED_PASSWORDS = [
     pwd.strip() 
@@ -597,15 +597,21 @@ def load_story_prompt():
         return file.read()
         
 def lambda_handler(event, context):
+    # Get the origin from the request
+    origin = event['headers'].get('origin', event['headers'].get('Origin', ''))
+
+    # Define CORS headers
+    cors_headers = {
+        'Access-Control-Allow-Origin': origin if origin in ALLOWED_ORIGINS else ALLOWED_ORIGINS[0],
+        'Access-Control-Allow-Headers': 'Content-Type',
+        'Access-Control-Allow-Methods': 'OPTIONS,POST'
+    }
+
     # Handle CORS preflight request
     if event['requestContext']['http']['method'] == 'OPTIONS':
         return {
             'statusCode': 200,
-            'headers': {
-                'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
-                'Access-Control-Allow-Headers': 'Content-Type',
-                'Access-Control-Allow-Methods': 'OPTIONS,POST'
-            }
+            'headers': cors_headers
         }
 
     # Handle POST request
@@ -620,18 +626,15 @@ def lambda_handler(event, context):
             if password not in ALLOWED_PASSWORDS:
                 return {
                     'statusCode': 403,
-                    'headers': {
-                        'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
-                        'Content-Type': 'application/json'
-                    },
+                    'headers': {**cors_headers, 'Content-Type': 'application/json'},
                     'body': json.dumps({
                         'message': 'Invalid password'
                     })
                 }
-            
+
             print('story_seed:', provided_seed)
             print('event:', event)
-            
+
             max_retries = 3
             for attempt in range(max_retries):
                 try:
@@ -639,20 +642,20 @@ def lambda_handler(event, context):
                     story_prompt = load_story_prompt()
                     # Load random elements
                     random_elements = load_random_elements()
-                    
+
                     if provided_seed and len(provided_seed) > 15:
                         story_seed = provided_seed
                     else:
                         story_seed = random.choice(random_elements)
-                        
+
                     story, selected_culture = generate_story(seed_file, story_prompt, story_seed)
-                    
+
                     english_title = story['title']['english']
                     tetun_title = story['title']['tetun']
-                    
+
                     english_story_parts = [part['english'] for part in story['parts']]
                     tetun_story_parts = [part['tetun'] for part in story['parts']]
-                    
+
                     if not english_title or not tetun_title or len(english_story_parts) == 0 or len(tetun_story_parts) == 0:
                         print(f"Attempt {attempt + 1}: Generated story is incomplete.")
                         print(f"English title: {english_title}")
@@ -660,17 +663,17 @@ def lambda_handler(event, context):
                         print(f"Number of English parts: {len(english_story_parts)}")
                         print(f"Number of Tetun parts: {len(tetun_story_parts)}")
                         continue
-                    
+
                     safe_title = ''.join(c if c.isalnum() else '_' for c in english_title.lower())
                     date_str = datetime.now().strftime("%Y%m%d")
-                    
+
                     styles = ['comic-book', 'digital-art', 'fantasy-art', 'tile-texture']
                     random.shuffle(styles)
                     weights = [random.randint(1, 3) for _ in range(len(styles))]
-                    
+
                     style = random.choices(styles, weights=weights)[0]
                     print(f"Selected style: {style}")
-                    
+
                     image_urls = []
                     sound_urls = []
                     for i, part in enumerate(english_story_parts, 1):
@@ -687,16 +690,16 @@ def lambda_handler(event, context):
                                 if image_attempt < 2:
                                     time.sleep(2)
                                 continue
-                    
+
                         if image is not None:
                             image_name = f'{safe_title}_image_{i}_{date_str}.png'
                             image_url = save_image_to_s3(image, image_name)
                             image_urls.append(f"https://tl-web.s3.us-west-2.amazonaws.com/{image_url}")
-                            
+
                             # Store the first generated image
                             if i == 1:
                                 first_image = image
-                                
+
                             # Update the payload with the first image for subsequent generations
                             if i > 1 and first_image is not None:
                                 payload = {
@@ -720,29 +723,26 @@ def lambda_handler(event, context):
                         raise Exception(f"Mismatch between number of story parts ({len(english_story_parts)}) and generated media (images: {len(image_urls)}, sounds: {len(sound_urls)})")
 
                     html_content = generate_html(story, image_urls, sound_urls)
-                    
+
                     # Generate a unique filename for the new story
                     new_html_key = f'stories/bedtime_{safe_title}_{int(time.time())}.html'
-                    
+
                     s3.put_object(
                         Bucket='tl-web',
                         Key=new_html_key,
                         Body=html_content,
                         ContentType='text/html'
                     )
-                    
+
                     generate_image_gallery()
                     return {
                         'statusCode': 200,
-                        'headers': {
-                            'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
-                            'Content-Type': 'application/json'
-                        },
+                        'headers': {**cors_headers, 'Content-Type': 'application/json'},
                         'body': json.dumps({
                             'message': f"Bedtime story '{english_title}' for {selected_culture} culture with {len(english_story_parts)} parts generated and saved to s3://tl-web/{new_html_key}."
                         })
                     }
-                
+
                 except Exception as e:
                     print(f"Attempt {attempt + 1} failed. Error: {str(e)}")
                     print(f"Full error traceback: {traceback.format_exc()}")
@@ -751,28 +751,22 @@ def lambda_handler(event, context):
                     else:
                         print(f"Retrying entire process. Attempt {attempt + 2} of {max_retries}")
                         continue
-            
+
         except Exception as e:
             return {
                 'statusCode': 500,
-                'headers': {
-                    'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
-                    'Content-Type': 'application/json'
-                },
+                'headers': {**cors_headers, 'Content-Type': 'application/json'},
                 'body': json.dumps({
                     "error": f"An error occurred after {max_retries} attempts",
                     "details": str(e),
                     "traceback": traceback.format_exc()
                 })
             }
-    
-    # If neither OPTIONS nor POST, return method not allowed
+
+# If neither OPTIONS nor POST, return method not allowed
     return {
         'statusCode': 405,
-        'headers': {
-            'Access-Control-Allow-Origin': ALLOWED_ORIGINS[0],
-            'Content-Type': 'application/json'
-        },
+        'headers': {**cors_headers, 'Content-Type': 'application/json'},
         'body': json.dumps({
             'error': 'Method not allowed'
         })
