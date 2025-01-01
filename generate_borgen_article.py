@@ -86,29 +86,7 @@ def truncate_to_token_limit(text: str, max_tokens: int = 199999) -> str:
 def generate_article(truncated_info, article_topic):
     """Generate an AP article about"""
     prompt = f"""
-    Write an AP-style new article about Poverty In Timor Leste.
-    The article should be about poverty actually being caused by powerful nations defining weaker nations as uncivilized.
-    That when we impose economic and technology on civilizations, we ruin their cultures.
-    Start with this thesis;
-    If you Google Timor Leste its easier to do research on poverty in the country than almost any other topic.
-    The World Bank, UNICEF, The United Nations development program, USAID.gov, and a host of NGOs are writing about Timor Leste.
-    The story these organizations tell of Timor Leste is grim in terms of infrastructure, GDP, education, women's rights, etc.
-    After nearly 500 years of the Portuguese, Indonesia and Australia trying to 'help' Timor Leste, it seems to beg the question, "Do the really need any more help from anyone else?"
-    Most of the problems they have were brought on by colonialization, and so, do they need more of it?
-    Were they not happier before the Portuguese came to 'civilize' them? Perhaps the problem with Timor Leste is the problem with civilization.
-    Climate change may end up causing the temperature to rise beyond the critical 1.5 degree mark for average temperature. Scientists tell us this is vital to keep the natural systems like the AMOC working to support human life.
-    If the ocean becomes too acidic for microorganisms... there will be nothing for fish to eat and then impacts will be devastating for all life on earth.
-    Before the West came to civilize the people of Timor Leste they had religious traditions in place to hold the land sacred, rai lulik, and the, nain, or spirit of the land/guardian had to be appeased before the resources from that area could be used. 
-    They were in harmony with nature before they were civilized. Now, they are in poverty. They cannot compete with modern economies and they can no long rely on their traditional cutures.
-    They are 90% Catholoic now. What percent of them need to be reformed and civilized before they begin to see the fruits of civilization? 
-    Maybe they are just bad Catholics? Should they be praying harder?
-    If you look at the 400 years of colonialism and intent to make them slaves, the period where Indonesia committed genocide on Timor Leste or the current era of Western support where they pay protection money to Austrialia to rob them of their gas and oil, I wonder how much more assistance they can take.
-    Going back to the articles by the  World Bank, UNICEF, The United Nations development program, USAID.gov, and the NGOs, there isn't an ounce of self-reflection.
-    There is no sense of what did we do wrong here? It's only measuring sticks that find Timor Leste insufficient. In a sense, they reports are saying, this is not a great place to invest.
-    When it comes to defining poverty, I think the first thing we should do is ask ourselves, do we have a system in place that is sustainable? Does it work?
-    If no, then pushing that on other countries is a literal recipe for disaster.
-    Aid must come from the point of view of making data driven decisions to help the country. Not to bring them up to a standard for easy exploitation.
-    
+    Write an AP-style news article.
     Use the following information to support the thesis of the story:
     {truncated_info}
     Use the following rules to generate the AP-style news article.
