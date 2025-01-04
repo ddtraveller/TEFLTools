@@ -1,0 +1,90 @@
+{
+  "story_seed": {
+    "title": "A [ADJECTIVE] [occupation] in Timor Leste",
+    "protagonist": {
+      "occupation": [
+        "doctor",
+        "teacher",
+        "clerk",
+        "landowner",
+        "artist"
+      ],
+      "trait": [
+        "disillusioned",
+        "idealistic",
+        "struggling",
+        "ambitious",
+        "resigned"
+      ],
+      "goal": "To live despite societal constraints"
+    },
+    "setting": {
+      "primary": [
+        "small town",
+        "rural village",
+        "provincial city",
+        "country estate"
+      ],
+      "season": [
+        "winter",
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "mood": [
+        "melancholic",
+        "stifling",
+        "nostalgic",
+        "oppressive"
+      ]
+    },
+    "central_theme": {
+      "name": [
+        "disillusionment",
+        "social inequality",
+        "unfulfilled potential",
+        "mundane tragedy"
+      ],
+      "description": "The nature of life in Timorese society"
+    },
+    "supporting_themes": [
+      "The futility of work",
+      "The gap between knowledge and ignorance",
+      "The subtle cruelty of the rich",
+      "The beauty amidst suffering",
+      "The longing for peace"
+    ],
+    "plot_elements": [
+      "An unexpected event disrupts the protagonist's life",
+      "A series of personal conversations reveal character",
+      "A moment of epiphany leads to self-realization",
+      "An encounter with advesity challenges the protagonist's worldview",
+      "A decision to change has unintended consequences"
+    ],
+    "character_types": [
+      "The idealistic youth",
+      "The jaded intellectual",
+      "The trapped spouse",
+      "The corrupt official",
+      "The eccentric outsider"
+    ],
+    "narrative_style": {
+      "tone": [
+        "ironic",
+        "sympathetic",
+        "detached",
+        "gently mocking"
+      ],
+      "perspective": [
+        "third-person limited",
+        "third-person omniscient"
+      ],
+      "pacing": "Gradual build-up to a moment of realization or epiphany"
+    },
+    "symbolic_elements": [
+      "Natural phenomena reflecting emotional states",
+      "Everyday objects imbued with deeper meaning",
+      "Recurring motifs (e.g., a particular sound, color, or gesture)"
+    ]
+  }
+}

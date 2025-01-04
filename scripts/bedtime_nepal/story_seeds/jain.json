@@ -1,0 +1,40 @@
+{
+  "story_seed": {
+    "title": "The Seeker's Journey",
+    "protagonist": {
+      "role": "A seeker of knowledge",
+      "goal": "To understand a complex philosophical concept"
+    },
+    "setting": {
+      "primary": "A journey through various locations",
+      "secondary": "Encounters with diverse individuals and communities"
+    },
+    "central_concept": {
+      "name": "multiplicity - Jainism",
+      "description": "A concept that proposes a new way of viewing reality"
+    },
+    "themes": [
+      "The nature of truth and reality",
+      "Personal growth through intellectual and spiritual challenges",
+      "Reconciling contradictions in belief systems",
+      "The impact of ideas on personal relationships and society"
+    ],
+    "plot_elements": [
+      "Encounters with mentors representing different schools of thought",
+      "Application of the central concept to real-world dilemmas",
+      "Internal struggles as the protagonist's beliefs are challenged",
+      "A climactic event that tests the protagonist's understanding",
+      "Resolution that explores the broader implications of the central concept"
+    ],
+    "character_types": [
+      "Wise teachers",
+      "Skeptical opponents",
+      "Supportive allies",
+      "Those affected by the protagonist's journey and decisions"
+    ],
+    "narrative_style": {
+      "balance": "Equal parts philosophical dialogue and character development",
+      "accessibility": "Complex ideas presented in relatable, real-world contexts"
+    }
+  }
+}
